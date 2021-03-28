@@ -13,10 +13,11 @@ do
 	while [ $j -le $Mi ]
 	do
 		echo -ne "$j of $Mi in $domain ($i of $n domains)\r"
-		if curl -I -s --connect-timeout 5 "$(sed "${j}q;d" existing-hosts/$domain)" | grep Server | sed 's/Server:\s//g' >> servers/$domain; then
-			echo "0" >/dev/null
+		server=$(curl -I -s --connect-timeout 5 "$(sed "${j}q;d" existing-hosts/$domain)" | grep Server | sed "s/Server:\s//g")
+		if [ -z "$server" ]; then
+			echo "NA" >> servers/$domain
 		else
-			echo "0" >> servers/$domain
+			echo $server >> servers/$domain
 		fi
 		j=$((++j))
 	done

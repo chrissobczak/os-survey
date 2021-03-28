@@ -1,0 +1,8 @@
+Firstly, the 'domains' file is the sample set of domains
+to be probed and data collected.
+
+Run gen-subdomains to extract all connected subdomains
+
+Run probe-subdomains to check if they have an associated IP address from a DNS server
+
+Run probe-hosts to see if there is content at the recognized hosts
