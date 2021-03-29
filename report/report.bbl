@@ -1,0 +1,116 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.1 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated as
+% required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+\datalist[entry]{nyt/global//global/global}
+  \entry{Hipo}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=H}{%
+         family={Hipo},
+         familyi={H\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {GitHub}%
+    }
+    \strng{namehash}{H1}
+    \strng{fullhash}{H1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2021}
+    \field{labeldatesource}{}
+    \field{sortinit}{H}
+    \field{sortinithash}{H}
+    \field{howpublished}{\url{https://github.com/Hipo/university-domains-list}}
+    \field{title}{university-domains-list}
+    \field{journaltitle}{GitHub repository}
+    \field{year}{2021}
+  \endentry
+
+  \entry{lohr2019}{book}{}
+    \name{author}{1}{}{%
+      {{hash=LSL}{%
+         family={Lohr},
+         familyi={L\bibinitperiod},
+         given={Sharon\bibnamedelima L},
+         giveni={S\bibinitperiod\bibinitdelim L\bibinitperiod},
+      }}%
+    }
+    \list{language}{1}{%
+      {eng}%
+    }
+    \list{publisher}{1}{%
+      {CRC Press}%
+    }
+    \keyw{Statistics for Business ; Psychological Methods \& Statistics ;
+  Statistical Theory \& Methods ; Finance \& Economics ; Sampling
+  (Statistics)-Evaluation ; Sampling (Statistics)}
+    \strng{namehash}{LSL1}
+    \strng{fullhash}{LSL1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2019}
+    \field{labeldatesource}{}
+    \field{sortinit}{L}
+    \field{sortinithash}{L}
+    \field{abstract}{%
+    This edition is a reprint of the second edition published by Cengage
+  Learning, Inc. Reprinted with permission. What is the unemployment rate? How
+  many adults have high blood pressure? What is the total area of land planted
+  with soybeans? Sampling: Design and Analysis tells you how to design and
+  analyze surveys to answer these and other questions. This authoritative text,
+  used as a standard reference by numerous survey organizations, teaches
+  sampling using real data sets from social sciences, public opinion research,
+  medicine, public health, economics, agriculture, ecology, and other fields.
+  The book is accessible to students from a wide range of statistical
+  backgrounds. By appropriate choice of sections, it can be used for a graduate
+  class for statistics students or for a class with students from business,
+  sociology, psychology, or biology. Readers should be familiar with concepts
+  from an introductory statistics class including linear regression; optional
+  sections contain the statistical theory, for readers who have studied
+  mathematical statistics. Distinctive features include: More than 450
+  exercises. In each chapter, Introductory Exercises develop skills, Working
+  with Data Exercises give practice with data from surveys, Working with Theory
+  Exercises allow students to investigate statistical properties of estimators,
+  and Projects and Activities Exercises integrate concepts. A solutions manual
+  is available. An emphasis on survey design. Coverage of simple random,
+  stratified, and cluster sampling; ratio estimation; constructing survey
+  weights; jackknife and bootstrap; nonresponse; chi-squared tests and
+  regression analysis. Graphing data from surveys. Computer code using SAS®
+  software. Online supplements containing data sets, computer programs, and
+  additional material. Sharon Lohr, the author of Measuring Crime: Behind the
+  Statistics, has published widely about survey sampling and statistical
+  methods for education, public policy, law, and crime. She has been recognized
+  as Fellow of the American Statistical Association, elected member of the
+  International Statistical Institute, and recipient of the Gertrude M. Cox
+  Statistics Award and the Deming Lecturer Award. Formerly Dean’s
+  Distinguished Professor of Statistics at Arizona State University and a Vice
+  President at Westat, she is now a freelance statistical consultant and
+  writer. Visit her website at www.sharonlohr.com.%
+    }
+    \field{booktitle}{Sampling}
+    \field{edition}{2}
+    \field{isbn}{0367273462}
+    \field{series}{Chapman \& Hall/CRC Texts in Statistical Science Series}
+    \field{title}{Sampling: Design and Analysis}
+    \list{location}{1}{%
+      {Milton}%
+    }
+    \field{year}{2019}
+  \endentry
+\enddatalist
+\endinput

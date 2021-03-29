@@ -16,6 +16,7 @@
 \usepackage{amssymb}
 \usepackage{amsthm}
 \usepackage{amsmath}
+\usepackage[hidelinks]{hyperref}
 \usepackage[
 	left=1in,
 	right=1in,
@@ -37,9 +38,9 @@
 \setlength{\parskip}{1em}
 \setlength{\parindent}{4em}
 \renewcommand{\baselinestretch}{1}
-\makeatletter
-\renewcommand{\@seccntformat}[1]{}
-\makeatother
+%\makeatletter
+%\renewcommand{\@seccntformat}[1]{}
+%\makeatother
 
 \theoremstyle{definition}
 \newtheorem{exmp}{Example}[section]
@@ -54,11 +55,36 @@
 
 
 \section{Introduction}
+The goal of the survey is to determine the market share
+of that linux and other open source operating systems
+occupy in the academic setting. So the
+figure of interest is the proportion of machines that
+universities run for thier websites, mail servers and other
+digital services that run an open source operating system.
 
 \section{Methodologies}
+I have used a dataset of all known domains registered by
+universities around the world (\cite{Hipo}). I have taken a simple random
+sample of these schools and then extracted all of the corresponding
+subdomains.
+
+For example, Simon Fraser University (SFU) has \url{sfu.ca} registered with
+the Canadian Internet Registration Authority (CIRA) and
+they have thousands of subdomains under \url{sfu.ca} such as \url{mail.sfu.ca},
+\url{canvas.sfu.ca} and \url{go.sfu.ca}. A lot of the subdomains do not
+contain relevant web content or are otherwise unused, so to filter out these
+subdomains before trying to identify the operating systems being
+used to run the surver at that address, I have used the \texttt{host} DNS
+lookup tool and other methods for checking if there are actual services running
+at that address. More about the tools I used in \autoref{sec:tools} \hyperref[sec:tools]{Tools}.
+
+\subsection{Sampling Frame}
 
 
-\section{Tools}
+\subsection{Sample Size Selection}
+$e=0.03$ and $\alpha=0.05$ \cite{lohr2019}
+
+\section{Tools} \label{sec:tools}
 
 
 \end{flushleft}
