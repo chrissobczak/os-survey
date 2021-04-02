@@ -119,6 +119,16 @@ No need to use the fpc adjustment since the sample size
 is reasonable compared to the population size.
 
 \section{Tools} \label{sec:tools}
+For taking the raw json file and selecting the sample, I used R and the \texttt{rjson}
+package. All project source files can be found at this
+\href{https://github.com/chrissobczak/os-survey}{GitHub} repository.
+The R script outputs the base second and third level subdomains
+into a file with one domain per line, for which I run \texttt{findomain -t}.
+This tool takes a domain and searches various databases and tests the domain
+for subdomains associated with it. I take this and output all the subdomains
+into a file for each school, and then test if the service is up.
+
+Documentation for the tools can be found in the Appendix
 
 
 \end{flushleft}
