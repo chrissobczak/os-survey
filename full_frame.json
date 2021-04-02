@@ -45975,13 +45975,15 @@
   },
   {
     "web_pages": [
-      "http://www.usps.edu.hn/"
+      "http://www.usps.edu.hn/",
+      "http://www.usap.edu"
     ],
     "name": "Universidad de San Pedro Sula",
     "alpha_two_code": "HN",
     "state-province": null,
     "domains": [
-      "usps.edu.hn"
+      "usps.edu.hn",
+      "usap.edu"
     ],
     "country": "Honduras"
   },
@@ -69357,11 +69359,11 @@
   },
   {
     "web_pages": [
-      "http://www.nuol.edu.la/"
+      "https://www.nuol.edu.la/"
     ],
     "name": "National University of Laos",
     "alpha_two_code": "LA",
-    "state-province": null,
+    "state-province": "Vientiane",
     "domains": [
       "nuol.edu.la"
     ],
@@ -69369,11 +69371,11 @@
   },
   {
     "web_pages": [
-      "http://www.simt.edu.la/"
+      "https://www.scmt.edu.la/"
     ],
-    "name": "Soutsaka Institute of management and Technology",
+    "name": "Soutsaka Institute of Technology",
     "alpha_two_code": "LA",
-    "state-province": null,
+    "state-province": "Vientiane",
     "domains": [
       "simt.edu.la"
     ],
@@ -70385,7 +70387,7 @@
     "domains": [
       "fon.edu.mk"
     ],
-    "country": "Macedonia, the Former Yugoslav Republic of"
+    "country": "North Macedonia"
   },
   {
     "web_pages": [
@@ -70397,7 +70399,7 @@
     "domains": [
       "seeu.edu.mk"
     ],
-    "country": "Macedonia, the Former Yugoslav Republic of"
+    "country": "North Macedonia"
   },
   {
     "web_pages": [
@@ -70409,7 +70411,7 @@
     "domains": [
       "ugd.edu.mk"
     ],
-    "country": "Macedonia, the Former Yugoslav Republic of"
+    "country": "North Macedonia"
   },
   {
     "web_pages": [
@@ -70421,7 +70423,7 @@
     "domains": [
       "uist.edu.mk"
     ],
-    "country": "Macedonia, the Former Yugoslav Republic of"
+    "country": "North Macedonia"
   },
   {
     "web_pages": [
@@ -70431,9 +70433,12 @@
     "alpha_two_code": "MK",
     "state-province": null,
     "domains": [
-      "ukim.edu.mk"
+      "ukim.edu.mk",
+      "ukim.mk",
+      "finki.ukim.mk",
+      "students.finki.ukim.mk"
     ],
-    "country": "Macedonia, the Former Yugoslav Republic of"
+    "country": "North Macedonia"
   },
   {
     "web_pages": [
@@ -70445,7 +70450,7 @@
     "domains": [
       "uklo.edu.mk"
     ],
-    "country": "Macedonia, the Former Yugoslav Republic of"
+    "country": "North Macedonia"
   },
   {
     "web_pages": [
@@ -70457,7 +70462,7 @@
     "domains": [
       "unite.edu.mk"
     ],
-    "country": "Macedonia, the Former Yugoslav Republic of"
+    "country": "North Macedonia"
   },
   {
     "web_pages": [
@@ -83089,13 +83094,15 @@
   },
   {
     "web_pages": [
-      "http://www.polsl.gliwice.pl/"
+      "http://www.polsl.gliwice.pl/",
+      "http://www.polsl.pl/"
     ],
     "name": "Silesian Technical University of Gliwice",
     "alpha_two_code": "PL",
     "state-province": null,
     "domains": [
-      "polsl.gliwice.pl"
+      "polsl.gliwice.pl",
+      "polsl.pl"
     ],
     "country": "Poland"
   },
@@ -86536,13 +86543,16 @@
   },
   {
     "web_pages": [
-      "http://www.ifmo.ru/"
+      "http://www.ifmo.ru/",
+      "https://itmo.ru/"
     ],
     "name": "ITMO University",
     "alpha_two_code": "RU",
     "state-province": null,
     "domains": [
-      "ifmo.ru"
+      "ifmo.ru",
+      "itmo.ru",
+      "niuitmo.ru"
     ],
     "country": "Russian Federation"
   },
@@ -91643,7 +91653,8 @@
     "alpha_two_code": "ZA",
     "state-province": null,
     "domains": [
-      "uct.ac.za"
+      "uct.ac.za",
+      "myuct.ac.za"
     ],
     "country": "South Africa"
   },
@@ -96753,7 +96764,7 @@
     "web_pages": [
       "http://www.kmitl.ac.th/"
     ],
-    "name": "King Mongkut's University of Technology Ladkrabang",
+    "name": "King Mongkut's Institute of Technology Ladkrabang",
     "alpha_two_code": "TH",
     "state-province": "Bangkok",
     "domains": [
@@ -116167,7 +116178,7 @@
     "domains": [
       "hust.edu.vn"
     ],
-    "country": "Vietnam"
+    "country": "Viet Nam"
   },
   {
     "web_pages": [
@@ -116491,5 +116502,17 @@
       "edu.htl-villach.at"
     ],
     "country": "Austria"
+  },
+  {
+    "web_pages": [
+      "https://udb.ac.id/"
+    ],
+    "name": "Duta Bangsa University",
+    "alpha_two_code": "ID",
+    "state-province": null,
+    "domains": [
+      "udb.ac.id"
+    ],
+    "country": "Indonesia"
   }
 ]

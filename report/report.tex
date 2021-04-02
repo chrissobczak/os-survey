@@ -84,6 +84,37 @@ at that address. More about the tools I used in \autoref{sec:tools} \hyperref[se
 \subsection{Sample Size Selection}
 $e=0.03$ and $\alpha=0.05$ \cite{lohr2019}
 
+We want to estimate the proportion of university servers
+run an open source operating system using a 95\% confidence
+interval with a margin of error of 0.03.
+
+\cite{lohr2019} page 47:
+``In surveys in which one of the main responses of interest
+is a proportion, it is often easiest to use that response
+in setting the sample size.
+For large populations, $S^2 \approx p(1-p)$, which
+attains its maximal value when $p=1/2$. So using
+$n_0=1.96^2/(4e^2)$ will result in a 95\% CI with width at most
+$2e$.''
+
+$$
+	n_0
+	=
+	\frac{
+		z^2_{\alpha/2}S^2
+	}{
+		e^2
+	}
+	=
+	\frac{
+		1.96^2(\frac{1}{2})(1-\frac{1}{2})
+	}{
+		e^2
+	}
+	\approx
+	1067
+$$
+
 \section{Tools} \label{sec:tools}
 
 

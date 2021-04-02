@@ -1,9 +1,9 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/Arch Linux) (preloaded format=pdflatex 2021.3.29)  2 APR 2021 13:42
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/Arch Linux) (preloaded format=pdflatex 2021.3.29)  1 APR 2021 18:26
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**report.tex
-(./report.tex
+**report/report.tex
+(./report/report.tex
 LaTeX2e <2020-10-01> patch level 2
 L3 programming layer <2020-12-03> xparse <2020-03-03>
 (/usr/share/texmf-dist/tex/latex/base/article.cls
@@ -802,7 +802,7 @@ Package csquotes Info: Checking for multilingual support...
 Package csquotes Info: ... found 'babel' package.
 Package csquotes Info: Adjusting default style.
 Package csquotes Info: Redefining alias 'default' -> 'english'.
-(./report.aux)
+No file report.aux.
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 51.
 LaTeX Font Info:    ... okay on input line 51.
 LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 51.
@@ -819,7 +819,7 @@ LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 51.
 LaTeX Font Info:    ... okay on input line 51.
 LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 51.
 LaTeX Font Info:    ... okay on input line 51.
- (/usr/share/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+(/usr/share/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count446
 \scratchdimen=\dimen196
@@ -877,8 +877,6 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 LaTeX Info: Redefining \ref on input line 51.
 LaTeX Info: Redefining \pageref on input line 51.
 LaTeX Info: Redefining \nameref on input line 51.
-
-(./report.out) (./report.out)
 \@outlinefile=\write5
 
 *geometry* driver: auto-detecting
@@ -927,12 +925,12 @@ Package biblatex Info: Input encoding 'utf8' specified.
 Package biblatex Info: Data encoding 'utf8' specified.
 (biblatex)             No need to reencode data.
 Package biblatex Info: Trying to load bibliographic data...
-Package biblatex Info: ... file 'report.bbl' found.
- (./report.bbl)
+Package biblatex Info: ... file 'report.bbl' not found.
+
+No file report.bbl.
 Package biblatex Info: Reference section=0 on input line 51.
 Package biblatex Info: Reference segment=0 on input line 51.
 LaTeX Font Info:    Trying to load font information for U+msa on input line 53.
-
 
 (/usr/share/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
@@ -942,35 +940,43 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line 53.
 
 (/usr/share/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-) [1
+)
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] [2] (./report.aux)
-Package rerunfilecheck Info: File `report.out' has not changed.
-(rerunfilecheck)             Checksum: 4A801EDE60FFE7519836377616B04770;268.
-Package logreq Info: Writing requests to 'report.run.xml'.
- ) 
+LaTeX Warning: Citation 'Hipo' on page 1 undefined on input line 67.
+
+
+LaTeX Warning: Reference `sec:tools' on page 1 undefined on input line 79.
+
+
+LaTeX Warning: Hyper reference `sec:tools' on page 1 undefined on input line 79
+.
+
+
+LaTeX Warning: Citation 'lohr2019' on page 1 undefined on input line 85.
+
+
+LaTeX Warning: Citation 'lohr2019' on page 1 undefined on input line 91.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.106 	}
+        
+? 
+! Emergency stop.
+<inserted text> 
+                $
+l.106 	}
+        
+End of file on the terminal!
+
+ 
 Here is how much of TeX's memory you used:
- 19600 strings out of 479383
- 331325 string characters out of 5875830
- 898319 words of memory out of 5000000
- 36433 multiletter control sequences out of 15000+600000
- 411800 words of font info for 60 fonts, out of 8000000 for 9000
+ 19539 strings out of 479383
+ 330208 string characters out of 5875830
+ 891927 words of memory out of 5000000
+ 36396 multiletter control sequences out of 15000+600000
+ 411461 words of font info for 59 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 78i,7n,85p,1868b,1643s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/
-texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></usr/share/texmf-dist/fo
-nts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texmf-dist/fonts/type1/publ
-ic/amsfonts/cm/cmmi7.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/
-cmr10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr
-/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/share/texmf-di
-st/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/share/texmf-dist/fonts/type1/p
-ublic/amsfonts/cm/cmsy10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts
-/cm/cmti10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb
->
-Output written on report.pdf (2 pages, 123689 bytes).
-PDF statistics:
- 98 PDF objects out of 1000 (max. 8388607)
- 82 compressed objects within 1 object stream
- 11 named destinations out of 1000 (max. 500000)
- 41 words of extra memory for PDF output out of 10000 (max. 10000000)
-
+ 78i,7n,85p,1875b,790s stack positions out of 5000i,500n,10000p,200000b,80000s
+!  ==> Fatal error occurred, no output PDF file produced!
