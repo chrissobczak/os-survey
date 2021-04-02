@@ -3,6 +3,7 @@
 # frame
 # Chris Sobczak
 # April 2021
+set.seed(28337)
 
 raw <- rjson::fromJSON(file='full_frame.json')
 
@@ -22,4 +23,18 @@ raw_S <- raw[inds]
 domains_S <- lapply(raw_S, function(x) return(x['domains']))
 countries_S <- as.character(unlist(lapply(raw_S, function(x) return(x['country']))))
 schools_S <- as.character(unlist(lapply(raw_S, function(x) return(x['name']))))
+
+data <- list(domains=domains_S,country=countries_S,school=schools_S)
+save(data,file='data.Rda')
+
+# This will concatinate all the domains,
+# some schools may have more than one domain
+# entered, so this length will likely
+# be greater than domain_S
+domains <- as.character(unlist(domains_S))
+write.table(
+	domains, file="probing/domains",
+	quote=FALSE, row.names=FALSE,
+	col.names=FALSE
+)
 
