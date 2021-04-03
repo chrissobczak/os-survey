@@ -1,0 +1,10 @@
+www.univ.uzhgorod.ua
+hades.univ.uzhgorod.ua
+blog.univ.uzhgorod.ua
+univ.uzhgorod.ua
+mail.univ.uzhgorod.ua
+meo.univ.uzhgorod.ua
+zeus.univ.uzhgorod.ua
+ww.univ.uzhgorod.ua
+xtls.univ.uzhgorod.ua
+wiki.univ.uzhgorod.ua

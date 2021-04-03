@@ -1,0 +1,14 @@
+intranet.iubnt.yar.ru
+iubnt.yar.ru
+edu.iubnt.yar.ru
+www.iubnt.yar.ru
+oldweb.iubnt.yar.ru
+koiwww.iubnt.yar.ru
+intraweb.iubnt.yar.ru
+elib.iubnt.yar.ru
+mba.iubnt.yar.ru
+gw.iubnt.yar.ru
+macwww.iubnt.yar.ru
+isowww.iubnt.yar.ru
+trnwww.iubnt.yar.ru
+nt.iubnt.yar.ru

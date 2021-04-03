@@ -1,0 +1,9 @@
+webdisk.greenheartmed.org
+www.greenheartuniversity.greenheartmed.org
+webmail.greenheartmed.org
+autodiscover.greenheartmed.org
+greenheartuniversity.greenheartmed.org
+www.greenheartmed.org
+mail.greenheartmed.org
+greenheartmed.org
+cpanel.greenheartmed.org

@@ -1,0 +1,9 @@
+cpcalendars.privrednaakademija.edu.rs
+cpcontacts.privrednaakademija.edu.rs
+privrednaakademija.edu.rs
+autodiscover.privrednaakademija.edu.rs
+webmail.privrednaakademija.edu.rs
+webdisk.privrednaakademija.edu.rs
+www.privrednaakademija.edu.rs
+cpanel.privrednaakademija.edu.rs
+mail.privrednaakademija.edu.rs
