@@ -7,6 +7,7 @@ while [ $i -le $n ]; do
 	echo -ne "(Probing $i of $n domains)\r"
 	domain=$(sed "${i}q;d" domains)
 	findomain -t $domain -o -q
+#	sed -r '/^$/d' $domain.txt | sed 's|\.sfu\.ca[^\n]*|&\n|g'
 	mv $domain.txt subdomains/$domain
 	i=$((++i))
 done
