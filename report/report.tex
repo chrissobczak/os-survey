@@ -130,6 +130,42 @@ into a file for each school, and then test if the service is up.
 
 Documentation for the tools can be found in the Appendix
 
+\section{Sample Selection}
+Some of the schools in my sampling frame had more than one associated
+domain, so when I expanded all the sampled domains into one file, one
+domain per line, I ended up with 1087 domains to attempt to extract
+subdomains from.
+
+When extracting the subdomains, my script only processed 1079 domains.
+Three of these domains that were not processed were \texttt{aloma.edu},
+\texttt{student.uts.edu.au}, and \texttt{www.clcmn.edu}. In the case of
+\texttt{aloma.edu}, this is just a typo in my sampling frame for the
+Alamo Colleges domain, which naturally is corrected to \texttt{alamo.edu}.
+The next missing domain \texttt{student.uts.edu.au}, for the University
+of Technology Sydney in Australia which is just a subdomain for their
+website \texttt{uts.edu.au}. Finally, \texttt{www.clcmn.edu} for
+Central Lakes College-Brainerd is another subdomain for their college
+that was already extracted from \texttt{clcmn.edu}.
+
+In the list of domains, there were 16 duplicated domains and this
+also accounts for the difference in number of domains that went
+through the \texttt{gen-domains} script and the original sampled
+list. Here is a list of the duplicated domains: \textt{aku.edu},
+\texttt{bashedu.ru}, \texttt{most.gov.mm}, and \texttt{uwo.ca}.
+
+After removing the duplicated domains and generating the domains
+for the corrected \texttt{alamo.edu}, I ended up with a full set
+of 1081 lists of subdomains.
+
+In the github repository, the file \texttt{undup-domains} is the audited file containing all
+of the highest level domains for the sample.
+
+The next step will be ensuring that two related domains did not go through
+the process, for example making sure that we did not run \texttt{gen-domains}
+on \texttt{sfu.ca} and \texttt{mail.sfu.ca}, since this would likely result in
+duplicated information.
+
+
 
 \end{flushleft}
 \printbibliography
