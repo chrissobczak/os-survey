@@ -38,9 +38,9 @@
 \setlength{\parskip}{1em}
 \setlength{\parindent}{4em}
 \renewcommand{\baselinestretch}{1}
-%\makeatletter
-%\renewcommand{\@seccntformat}[1]{}
-%\makeatother
+\makeatletter
+\renewcommand{\@seccntformat}[1]{}
+\makeatother
 
 \theoremstyle{definition}
 \newtheorem{exmp}{Example}[section]
@@ -49,18 +49,23 @@
 \title{Survey of Operating Systems Used by World Universities}
 
 \begin{document}
+\begin{titlepage}
 \maketitle
-\begin{flushleft}
 
+\vspace*{\fill}
 
-
-\section{Introduction}
+\section{Abstract}
 The goal of the survey is to determine the market share
 of that linux and other open source operating systems
 occupy in the academic setting. So the
 figure of interest is the proportion of machines that
 universities run for thier websites, mail servers and other
 digital services that run an open source operating system.
+
+\end{titlepage}
+
+
+\begin{flushleft}
 
 \section{Methodologies}
 I have used a dataset of all known domains registered by
