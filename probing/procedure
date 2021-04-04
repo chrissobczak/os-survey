@@ -6,3 +6,11 @@ Run gen-subdomains to extract all connected subdomains
 Run probe-subdomains to check if they have an associated IP address from a DNS server
 
 Run probe-hosts to see if there is content at the recognized hosts
+
+
+###########
+existing-domains is a file with the original gen-domains
+run. This is missing a few domains to be run again.
+
+Fixed domains is the list of the domains that were missed from the
+first gen-domains run.
