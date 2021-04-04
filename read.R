@@ -1,2 +1,2 @@
 library(rjson)
-raw <- fromJSON(file = 'sample_frame.json')
+raw <- fromJSON(file = 'full_frame.json')
