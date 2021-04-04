@@ -150,7 +150,7 @@ that was already extracted from \texttt{clcmn.edu}.
 In the list of domains, there were 16 duplicated domains and this
 also accounts for the difference in number of domains that went
 through the \texttt{gen-domains} script and the original sampled
-list. Here is a list of the duplicated domains: \textt{aku.edu},
+list. Here is a list of the duplicated domains: \texttt{aku.edu},
 \texttt{bashedu.ru}, \texttt{most.gov.mm}, and \texttt{uwo.ca}.
 
 After removing the duplicated domains and generating the domains
@@ -165,6 +165,11 @@ the process, for example making sure that we did not run \texttt{gen-domains}
 on \texttt{sfu.ca} and \texttt{mail.sfu.ca}, since this would likely result in
 duplicated information.
 
+Using the line \texttt{cat subdomain/* | uniq -d} we can see that
+there were no repeated lines.
+
+\section{Extracting Info}
+\texttt{curl -I}
 
 
 \end{flushleft}

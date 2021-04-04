@@ -14,3 +14,8 @@ run. This is missing a few domains to be run again.
 
 Fixed domains is the list of the domains that were missed from the
 first gen-domains run.
+
+Checked for duplicate lines in the subdomain folder with:
+cat subdomains/* | uniq -d > repeated-domains
+
+This reports NULL results, telling us there were no repeats.
