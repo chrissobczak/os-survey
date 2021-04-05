@@ -46,7 +46,7 @@
 \newtheorem{exmp}{Example}[section]
 
 \author{Chris Sobczak}
-\title{Survey of Operating Systems Used by World Universities}
+\title{Survey of University Server Software}
 
 \begin{document}
 \begin{titlepage}
@@ -67,11 +67,56 @@ digital services that run an open source operating system.
 
 \begin{flushleft}
 
-\section{Methodologies}
-I have used a dataset of all known domains registered by
-universities around the world (\cite{Hipo}). I have taken a simple random
-sample of these schools and then extracted all of the corresponding
-subdomains.
+\section{Background}
+Universities spend millions of dollars each year on licenses
+for their students' software offerings and also for their own
+infrastructure. Increasing costs for post-secondary education
+are making it less excessible and a very obvious way to reduce
+costs is find free and open source alternatives to those expensive
+licenses.
+\textbf{(cite some study showing costs and how much licenses contribute
+to the overall cost of attendance).}
+
+In addition to the problamatic cost of closed source, proprietary
+software, it is also less secure than the open source alternatives
+\textbf{(cite study about this or reference the OpenBSD claims etc).}
+Especially at public institutions, all of the software that staff and
+students are required to interact with should also be open source
+so for the sake of privacy and security, universities should not
+be given the exclusive access to a specific class of student.
+
+So in this study, I would like to establish a base-line understanding
+of the proportion of free and open source servers being used by
+universities around the world. \textbf{(look at poststratification)} Are there specific countries whose universities
+use more open source servers than others? What kinds of services
+are associated with certain operating systems?
+
+\section{Methods}
+In general, the sampling unit will be the name of a school.
+Each school owns one or more domains, and from that can be
+extracted all or most of the associated subdomains for all
+the different services that the school might offer from their
+website, for example email and registrar services. Using cluster
+sampling, an SRS is taken of all the schools in the sampling
+frame (\cite{Hipo}) and then all subdomains are extracted from the
+sampled schools' registered domains. Each school selected is
+a \textbf{primary sampling unit} (psu) and each of the thousands
+of extracted subdomains are \textbf{secondary sampling units} (ssu).
+A census of the ssus will be taken, collecting a list of
+the available
+services (ssh, smtp, ftp/sftp, \dots),
+the operating system (Microsoft, Debian, \dots) and
+the server software (nginx, Apache, \dots)
+running at each address.
+\textbf{Inevitably, there will be some uncollectable
+addresses and the effects of this will be mitigated with \dots}.
+
+My sampling frame is from a github repository containing
+a json file of all known domains registered by
+universities around the world (\cite{Hipo}).
+
+\subsection{Survey Design}
+Cluster sampling \dots how to mitigate non-responses.
 
 For example, Simon Fraser University (SFU) has \url{sfu.ca} registered with
 the Canadian Internet Registration Authority (CIRA) and
@@ -123,19 +168,8 @@ $$
 No need to use the fpc adjustment since the sample size
 is reasonable compared to the population size.
 
-\section{Tools} \label{sec:tools}
-For taking the raw json file and selecting the sample, I used R and the \texttt{rjson}
-package. All project source files can be found at this
-\href{https://github.com/chrissobczak/os-survey}{GitHub} repository.
-The R script outputs the base second and third level subdomains
-into a file with one domain per line, for which I run \texttt{findomain -t}.
-This tool takes a domain and searches various databases and tests the domain
-for subdomains associated with it. I take this and output all the subdomains
-into a file for each school, and then test if the service is up.
 
-Documentation for the tools can be found in the Appendix
-
-\section{Sample Selection}
+\subsection{Sample Selection}
 Some of the schools in my sampling frame had more than one associated
 domain, so when I expanded all the sampled domains into one file, one
 domain per line, I ended up with 1087 domains to attempt to extract
@@ -173,10 +207,41 @@ duplicated information.
 Using the line \texttt{cat subdomain/* | uniq -d} we can see that
 there were no repeated lines.
 
-\section{Extracting Info}
+
+
+
+\section{Results}
+The full results dataset of proportion of servers at
+each psu is available at the \textbf{github names \dots}.
+
+
+\subsection{Discussion and Conclusion}
+\textbf{Any anticpiated shortcomings in your study desgin
+and their impact on your conclusions about the questions
+of interest.}
+\begin{itemize}
+\item Non-responses
+\item Shortcomings in the sampling frame (may not actually contain `all' schools in the world)
+\end{itemize}
+
+
+
+\section{Tools} \label{sec:tools}
+For taking the raw json file and selecting the sample, I used R and the \texttt{rjson}
+package. All project source files can be found at this
+\href{https://github.com/chrissobczak/os-survey}{GitHub} repository.
+The R script outputs the base second and third level subdomains
+into a file with one domain per line, for which I run \texttt{findomain -t}.
+This tool takes a domain and searches various databases and tests the domain
+for subdomains associated with it. I take this and output all the subdomains
+into a file for each school, and then test if the service is up.
+
+Documentation for the tools can be found in the Appendix
+\subsection{Extracting Info From SSUs}
 \texttt{curl -I}
 
 
 \end{flushleft}
 \printbibliography
+\section{Appendix}
 \end{document}
