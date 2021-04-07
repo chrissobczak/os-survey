@@ -1,5 +1,6 @@
-Firstly, the 'domains' file is the sample set of domains
-to be probed and data collected.
+Firstly, the 'domains' file is the raw sample set of domains
+to be probed and data collected before curation (before
+taking out repeats and fixing typos).
 
 Run gen-subdomains to extract all connected subdomains
 
