@@ -32,9 +32,9 @@ save(data,file='data.Rda')
 # entered, so this length will likely
 # be greater than domain_S
 domains <- as.character(unlist(domains_S))
-write.table(
-	domains, file="probing/domains",
-	quote=FALSE, row.names=FALSE,
-	col.names=FALSE
-)
+#write.table(
+#	domains, file="probing/domains",
+#	quote=FALSE, row.names=FALSE,
+#	col.names=FALSE
+#)
 
