@@ -14,7 +14,7 @@ do
 	while [ $j -le $Mi ]
 	do
 		echo -ne "$j of $Mi in $domain ($i of $n domains)\r"
-		if host $(sed "${j}q;d" subdomains/$domain) >/dev/null; then
+		if host -w $(sed "${j}q;d" subdomains/$domain) >/dev/null; then
 			echo $(sed "${j}q;d" subdomains/$domain) >> existing-hosts/$domain
 		fi
 		j=$((++j))
