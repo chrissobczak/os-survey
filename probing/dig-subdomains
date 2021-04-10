@@ -8,6 +8,6 @@ while [ $i -le $n ]
 do
 	domain=$(ls -1 subdomains/ | sed "${i}q;d")
 	echo -ne "Probing $domain\t($i of $n domains)\r"
-	dig -f subdomains/$domain -r +keepopen | grep HEADER | awk '{print $6}' | sed 's/,//g' > probe-with-dig/$domain
+	dig -f subdomains/$domain -r +keepopen | grep HEADER | awk '{print $6}' | sed 's/,//g' > dig-results/$domain
 	i=$((++i))
 done
