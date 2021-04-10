@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/Arch Linux) (preloaded format=pdflatex 2021.4.6)  8 APR 2021 17:13
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/Arch Linux) (preloaded format=pdflatex 2021.4.6)  9 APR 2021 23:09
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -949,18 +949,17 @@ ination with the same identifier (name{page.1}) has been already used, duplicat
 e ignored
 <to be read again> 
                    \relax 
-l.142 W
-       e want to estimate the proportion of university servers [1] [2] [3]
-(./report.aux)
+l.162 $$
+         [1] [2] [3] (./report.aux)
 Package rerunfilecheck Info: File `report.out' has not changed.
-(rerunfilecheck)             Checksum: 095AF4A34D1DA94B1AA5F6729283D871;728.
+(rerunfilecheck)             Checksum: 58A9360AED77399DAFCAF7A69C918275;603.
 Package logreq Info: Writing requests to 'report.run.xml'.
  ) 
 Here is how much of TeX's memory you used:
- 19625 strings out of 479383
- 331647 string characters out of 5875831
- 897304 words of memory out of 5000000
- 36447 multiletter control sequences out of 15000+600000
+ 19622 strings out of 479383
+ 331598 string characters out of 5875831
+ 898319 words of memory out of 5000000
+ 36446 multiletter control sequences out of 15000+600000
  412443 words of font info for 62 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  78i,7n,85p,1868b,1643s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -976,10 +975,10 @@ ts/cm/cmr7.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb
 ></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/share/t
 exmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb></usr/share/texmf-dist/font
 s/type1/public/cm-super/sfrm1000.pfb>
-Output written on report.pdf (4 pages, 154877 bytes).
+Output written on report.pdf (4 pages, 157505 bytes).
 PDF statistics:
- 151 PDF objects out of 1000 (max. 8388607)
- 130 compressed objects within 2 object streams
- 20 named destinations out of 1000 (max. 500000)
- 105 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 135 PDF objects out of 1000 (max. 8388607)
+ 114 compressed objects within 2 object streams
+ 18 named destinations out of 1000 (max. 500000)
+ 89 words of extra memory for PDF output out of 10000 (max. 10000000)
 

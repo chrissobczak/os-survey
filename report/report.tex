@@ -38,15 +38,15 @@
 \setlength{\parskip}{1em}
 \setlength{\parindent}{4em}
 \renewcommand{\baselinestretch}{1}
-\makeatletter
-\renewcommand{\@seccntformat}[1]{}
-\makeatother
+%\makeatletter
+%\renewcommand{\@seccntformat}[1]{}
+%\makeatother
 
 \theoremstyle{definition}
 \newtheorem{exmp}{Example}[section]
 
 \author{Chris Sobczak}
-\title{Survey of University Server Software}
+\title{Survey of Post-Secondary Institution Server Software}
 
 \begin{document}
 \begin{titlepage}
@@ -92,59 +92,50 @@ use more open source servers than others? What kinds of services
 are associated with certain operating systems?
 
 \section{Methods}
-In general, the sampling unit will be the name of a school.
-Each school owns one or more domains, and from that can be
-extracted all or most of the associated subdomains for all
-the different services that the school might offer from their
-website, for example email and registrar services. Using cluster
-sampling, an SRS is taken of all the schools in the sampling
-frame (\cite{Hipo}) and then all subdomains are extracted from the
-sampled schools' registered domains. Each school selected is
-a \textbf{primary sampling unit} (psu) and each of the thousands
-of extracted subdomains are \textbf{secondary sampling units} (ssu).
-A census of the ssus will be taken, collecting a list of
-the available
-services (ssh, smtp, ftp/sftp, \dots),
-the operating system (Microsoft, Debian, \dots) and
-the server software (nginx, Apache, \dots)
-running at each address.
-\textbf{Inevitably, there will be some uncollectable
-addresses and the effects of this will be mitigated with \dots}.
+This survey was conducted using cluster sampling.
+The primary sampling unit (psu) being the name
+of an institution, and the primary unit of interest
+being the associated domain(s). Each of the schools
+highest level registered domain names are probed to
+extract all their associated subdomains, defining the secondary
+sampling units (ssus).
+A census was then taken of these ssus
+to determine the software run at each domain name and
+calculate to proportion of the school's software was open
+source.
 
-My sampling frame is from a github repository containing
-a json file of all known domains registered by
-universities around the world (\cite{Hipo}).
+To provide an example, if Simon Fraser University (SFU)
+was draw into our sample, the unit of interest would be
+their registered domain name \texttt{sfu.ca}. Using the
+tool \texttt{findomain}, all of the subdomains under
+\texttt{sfu.ca} are collected into a file for probing.
+Some example subdomains are \texttt{mailgate.sfu.ca},
+\texttt{imapnew.sfu.ca}, and \texttt{canvas.sfu.ca} for
+the schools email services and canvas portal. This is
+only a very short list of some of the possible subdomains
+as it is common to have thousands of subdomains associated
+to the same top name.
+Details on the tools I used in \autoref{sec:tools} \hyperref[sec:tools]{Tools}.
 
 \subsection{Survey Design}
-Cluster sampling \dots how to mitigate non-responses.
 
-For example, Simon Fraser University (SFU) has \url{sfu.ca} registered with
-the Canadian Internet Registration Authority (CIRA) and
-they have thousands of subdomains under \url{sfu.ca} such as \url{mail.sfu.ca},
-\url{canvas.sfu.ca} and \url{go.sfu.ca}. A lot of the subdomains do not
-contain relevant web content or are otherwise unused, so to filter out these
-subdomains before trying to identify the operating systems being
-used to run the surver at that address, I have used the \texttt{host} DNS
-lookup tool and other methods for checking if there are actual services running
-at that address. More about the tools I used in \autoref{sec:tools} \hyperref[sec:tools]{Tools}.
-
-\subsection{Known Values}
-$$
-	M_0=9693
-$$
-
-\subsection{Sampling Frame}
-
+Using cluster
+sampling, an SRS is taken of all the schools in the sampling
+frame (\cite{Hipo}). This sampling frame is an open source dataset
+of most of the universities in the world. Inevitably
+this list will have omitted some schools, but the set
+contains 9693 schools which is slightly on the low
+end of estimates, which may introduce bias in the
+conclusions of this study.
 
 \subsection{Sample Size Selection}
-$e=0.03$ and $\alpha=0.05$ \cite{lohr2019}
-
-We want to estimate the proportion of university servers
-run an open source operating system using a 95\% confidence
+The goal of this study is
+to estimate the proportion of university servers
+running an open source operating system using a 95\% confidence
 interval with a margin of error of 0.03.
-
-\cite{lohr2019} page 47:
-``In surveys in which one of the main responses of interest
+Therefore, using
+\cite{lohr2019},
+``\dots surveys in which one of the main responses of interest
 is a proportion, it is often easiest to use that response
 in setting the sample size.
 For large populations, $S^2 \approx p(1-p)$, which
@@ -170,36 +161,69 @@ $$
 	1067
 $$
 
-No need to use the fpc adjustment since the sample size
-is reasonable compared to the population size.
+No need to use the finite population correction adjustment
+since the sample size
+is reasonable compared to the population size and the full
+dataset can be collected with a reasonable amount of resources.
 
+\subsection{Taking the Sample}
+With an appropriate sample size of $n=1067$,
+using an R script to
+draw the sample, the selected school domains
+are saved in the \texttt{data.Rda} file found
+in the GitHub repository.
+\textbf{\underline{The sampling script
+can be found in the
+appendix}}.
+Within the sample, 1049 schools have only
+one registered domain, 16 schools have two
+registered domains and 2 have three
+domains.
 
-\subsection{Sample Selection}
-Some of the schools in my sampling frame had more than one associated
-domain, so when I expanded all the sampled domains into one file, one
-domain per line, I ended up with 1087 domains to attempt to extract
-subdomains from.
+$$
+	N=9693, \ n=1067, \ m_0=2539008
+$$
 
-When extracting the subdomains, my script only processed 1079 domains.
+The following 18 schools that were drawn in the sample
+have more than one domain name registered:
+Augusta University,
+University of Manchester,
+Universidad del País Vasco,
+Chinju National University of Education,
+Royal Holloway and Bedford New College,
+Northeastern University,
+University of the Pacific,
+Kwangju University,
+Kwangwoon University,
+University of Massachusetts at Lowell,
+St. Mary's University,
+University of Essex,
+Chonnam National University,
+Hanshin University,
+Savannah College of Art and Design,
+University of Technology Sydney,
+Universitat Pompeu Fabra, and
+Kyungil University.
+
+These 16 schools with two domains and 2 schools with three domains
+accounts for the total 1087 ($1067 + (16 \textrm{ duplicates}) +
+(2\times2 \textrm{ more duplicates}) = 1087$) domains in the
+\texttt{subdomains/} directory of the GitHub repository.
+
+All domains were separated onto their own line of the \texttt{probing/domains}
+file and processed with \texttt{findomain}.
+When extracting the subdomains, the \texttt{gen-subdomains}
+script only processed 1079 domains, identifying an inconsistency.
 Three of these domains that were not processed were \texttt{aloma.edu},
 \texttt{student.uts.edu.au}, and \texttt{www.clcmn.edu}. In the case of
-\texttt{aloma.edu}, this is just a typo in my sampling frame for the
-Alamo Colleges domain, which naturally is corrected to \texttt{alamo.edu}.
+\texttt{aloma.edu}, this is just a typo in the sampling frame for the
+Alamo Colleges' domain, which naturally is corrected to \texttt{alamo.edu}.
 The next missing domain \texttt{student.uts.edu.au}, for the University
 of Technology Sydney in Australia which is just a subdomain for their
-website \texttt{uts.edu.au}. Finally, \texttt{www.clcmn.edu} for
+website \texttt{uts.edu.au}, identified as a duplicate domain.
+Finally, \texttt{www.clcmn.edu} for
 Central Lakes College-Brainerd is another subdomain for their college
-that was already extracted from \texttt{clcmn.edu}.
-
-In the list of domains, there were 16 duplicated domains and this
-also accounts for the difference in number of domains that went
-through the \texttt{gen-domains} script and the original sampled
-list. Here is a list of the duplicated domains: \texttt{aku.edu},
-\texttt{bashedu.ru}, \texttt{most.gov.mm}, and \texttt{uwo.ca}.
-
-After removing the duplicated domains and generating the domains
-for the corrected \texttt{alamo.edu}, I ended up with a full set
-of 1081 lists of subdomains.
+that was already extracted from \texttt{clcmn.edu}, another duplicated domain.
 
 In the github repository, the file \texttt{undup-domains} is the audited file containing all
 of the highest level domains for the sample.
