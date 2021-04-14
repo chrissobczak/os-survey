@@ -109,3 +109,6 @@ nginx/1.19.6
 NA
 nginx/1.16.1
 NA
+NA
+nginx/1.16.1
+nginx/1.19.6
