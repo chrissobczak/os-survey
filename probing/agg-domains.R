@@ -3,9 +3,9 @@ domains <- read.csv('domains',header=F)$V1
 for(d in seq_along(domains)){
 	cat(paste(d,'of',length(domains),'\t',((d/length(domains))*100),'%','\r'))
 	df <- NULL
-	df <- cbind(
-		url=read.csv(paste0('subdomains/',domains[d]),header=F),
-		status=read.csv(paste0('dig-results/',domains[d]),header=F)
+	df <- data.frame(
+		status=read.csv(paste0('dig-results/',domains[d]),header=F),
+		url=read.csv(paste0('subdomains/',domains[d]),header=F)
 	)
 	write.table(
 		df,
