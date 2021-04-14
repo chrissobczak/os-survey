@@ -1,0 +1,5 @@
+NOERROR	raubikaner.org
+NOERROR	mail.raubikaner.org
+NOERROR	www.raubikaner.org
+NXDOMAIN	exam.raubikaner.org
+NOERROR	cimca.raubikaner.org

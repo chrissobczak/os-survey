@@ -1,0 +1,17 @@
+NOERROR	www.lunn.sci-nnov.ru
+NXDOMAIN	www.amcen.lunn.sci-nnov.ru
+NXDOMAIN	mail.lunn.sci-nnov.ru
+NXDOMAIN	54.38.lunn.sci-nnov.ru
+NXDOMAIN	55.38.lunn.sci-nnov.ru
+NOERROR	lunnlib.lunn.sci-nnov.ru
+NXDOMAIN	amcen.lunn.sci-nnov.ru
+NXDOMAIN	51.38.lunn.sci-nnov.ru
+NXDOMAIN	53.38.lunn.sci-nnov.ru
+NOERROR	www.lib.lunn.sci-nnov.ru
+NXDOMAIN	distance.lunn.sci-nnov.ru
+NOERROR	proxy.lunn.sci-nnov.ru
+NOERROR	lunn.sci-nnov.ru
+NXDOMAIN	io.lunn.sci-nnov.ru
+NOERROR	ns.lunn.sci-nnov.ru
+NXDOMAIN	www.job.lunn.sci-nnov.ru
+NXDOMAIN	52.38.lunn.sci-nnov.ru

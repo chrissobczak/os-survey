@@ -1,0 +1,17 @@
+NXDOMAIN	www.book.usuft.kiev.ua
+NXDOMAIN	distancelearning.usuft.kiev.ua
+NOERROR	webmail.usuft.kiev.ua
+NXDOMAIN	python.usuft.kiev.ua
+NXDOMAIN	levetina.usuft.kiev.ua
+NXDOMAIN	cobra.usuft.kiev.ua
+NXDOMAIN	www.acs.usuft.kiev.ua
+NXDOMAIN	secure.usuft.kiev.ua
+NOERROR	www.usuft.kiev.ua
+NXDOMAIN	www.gurman.usuft.kiev.ua
+NXDOMAIN	viper.usuft.kiev.ua
+NXDOMAIN	ratter.usuft.kiev.ua
+NOERROR	billing.usuft.kiev.ua
+NXDOMAIN	rattler.usuft.kiev.ua
+NOERROR	library.usuft.kiev.ua
+NOERROR	usuft.kiev.ua
+NXDOMAIN	gurman.usuft.kiev.ua

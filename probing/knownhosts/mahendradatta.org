@@ -1,0 +1,2 @@
+NXDOMAIN	www.mahendradatta.org
+NXDOMAIN	mahendradatta.org

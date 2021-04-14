@@ -1,0 +1,4 @@
+NOERROR	www.universityliberia.org
+NOERROR	universityliberia.org
+NOERROR	domain.universityliberia.org
+NOERROR	host.universityliberia.org

@@ -1,0 +1,13 @@
+NXDOMAIN	wifi.uerm.edu.ph
+NOERROR	apps.uerm.edu.ph
+NXDOMAIN	acad.uerm.edu.ph
+NXDOMAIN	hospital.uerm.edu.ph
+NXDOMAIN	autodiscover.uerm.edu.ph
+NOERROR	uerm.edu.ph
+NOERROR	library.uerm.edu.ph
+NOERROR	www.uerm.edu.ph
+NOERROR	cif.uerm.edu.ph
+NOERROR	mail.uerm.edu.ph
+NOERROR	library-admin.uerm.edu.ph
+NOERROR	dns1.uerm.edu.ph
+NXDOMAIN	owa.uerm.edu.ph

@@ -1,0 +1,7 @@
+SERVFAIL	webmail.esc-marseille.fr
+SERVFAIL	mail.esc-marseille.fr
+SERVFAIL	www-escmp.esc-marseille.fr
+SERVFAIL	www.esc-marseille.fr
+SERVFAIL	passerelle.esc-marseille.fr
+SERVFAIL	stages.esc-marseille.fr
+SERVFAIL	serveia11.esc-marseille.fr

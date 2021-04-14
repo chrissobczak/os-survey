@@ -1,0 +1,11 @@
+NOERROR	cpcontacts.isbm-school.com
+NOERROR	www.isbm-school.com
+NOERROR	isbm-school.com
+NOERROR	cpcalendars.isbm-school.com
+NOERROR	ns2.isbm-school.com
+NOERROR	webmail.isbm-school.com
+NOERROR	webdisk.isbm-school.com
+NOERROR	cpanel.isbm-school.com
+NOERROR	ns1.isbm-school.com
+NXDOMAIN	server.isbm-school.com
+NOERROR	mail.isbm-school.com

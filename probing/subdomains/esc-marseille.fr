@@ -1,7 +1,0 @@
-webmail.esc-marseille.fr
-mail.esc-marseille.fr
-www-escmp.esc-marseille.fr
-www.esc-marseille.fr
-passerelle.esc-marseille.fr
-stages.esc-marseille.fr
-serveia11.esc-marseille.fr

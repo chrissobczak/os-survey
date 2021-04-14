@@ -1,0 +1,9 @@
+NOERROR	www.utm.ac.mu
+NOERROR	utm.ac.mu
+NOERROR	online.utm.ac.mu
+NXDOMAIN	oasf.utm.ac.mu
+NOERROR	mis.utm.ac.mu
+NOERROR	umail.utm.ac.mu
+NOERROR	iidsconference.utm.ac.mu
+NOERROR	incubator.utm.ac.mu
+NOERROR	wtlab.utm.ac.mu

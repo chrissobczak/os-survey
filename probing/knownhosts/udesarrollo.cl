@@ -1,0 +1,12 @@
+NOERROR	www.udesarrollo.cl
+NOERROR	mail.udesarrollo.cl
+NXDOMAIN	prueba.udesarrollo.cl
+NXDOMAIN	bioetica.udesarrollo.cl
+NXDOMAIN	lider.udesarrollo.cl
+NXDOMAIN	10054_2145_.udesarrollo.cl
+NXDOMAIN	tomaramos.udesarrollo.cl
+NXDOMAIN	webmail.udesarrollo.cl
+NXDOMAIN	www.stgo.udesarrollo.cl
+NXDOMAIN	stgo.udesarrollo.cl
+NXDOMAIN	uddweb.udesarrollo.cl
+NOERROR	udesarrollo.cl

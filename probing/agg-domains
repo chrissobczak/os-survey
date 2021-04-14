@@ -1,0 +1,9 @@
+#!/bin/sh
+i=0
+n=$(ls -1 subdomains/ | wc -l)
+while [ $i -le $n ]; do
+	echo -ne "(\t\t$i of $n domains)\r"
+	domain=$(ls -1 subdomains/ | sed "${i}q;d")
+	paste dig-results/$domain subdomains/$domain > knownhosts/$domain
+	i=$((++i))
+done

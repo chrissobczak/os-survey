@@ -1,0 +1,9 @@
+NOERROR	webdisk.greenheartmed.org
+NOERROR	www.greenheartuniversity.greenheartmed.org
+NOERROR	webmail.greenheartmed.org
+NOERROR	autodiscover.greenheartmed.org
+NOERROR	greenheartuniversity.greenheartmed.org
+NOERROR	www.greenheartmed.org
+NOERROR	mail.greenheartmed.org
+NOERROR	greenheartmed.org
+NOERROR	cpanel.greenheartmed.org

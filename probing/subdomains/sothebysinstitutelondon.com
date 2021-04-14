@@ -1,2 +1,0 @@
-sothebysinstitutelondon.com
-www.sothebysinstitutelondon.com

@@ -1,0 +1,9 @@
+NXDOMAIN	cpcalendars.privrednaakademija.edu.rs
+NXDOMAIN	cpcontacts.privrednaakademija.edu.rs
+NOERROR	privrednaakademija.edu.rs
+NXDOMAIN	autodiscover.privrednaakademija.edu.rs
+NXDOMAIN	webmail.privrednaakademija.edu.rs
+NXDOMAIN	webdisk.privrednaakademija.edu.rs
+NOERROR	www.privrednaakademija.edu.rs
+NXDOMAIN	cpanel.privrednaakademija.edu.rs
+NOERROR	mail.privrednaakademija.edu.rs

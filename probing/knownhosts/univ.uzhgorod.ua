@@ -1,0 +1,10 @@
+NOERROR	www.univ.uzhgorod.ua
+NXDOMAIN	hades.univ.uzhgorod.ua
+NXDOMAIN	blog.univ.uzhgorod.ua
+NOERROR	univ.uzhgorod.ua
+NOERROR	mail.univ.uzhgorod.ua
+NXDOMAIN	meo.univ.uzhgorod.ua
+NXDOMAIN	zeus.univ.uzhgorod.ua
+NXDOMAIN	ww.univ.uzhgorod.ua
+NXDOMAIN	xtls.univ.uzhgorod.ua
+NXDOMAIN	wiki.univ.uzhgorod.ua

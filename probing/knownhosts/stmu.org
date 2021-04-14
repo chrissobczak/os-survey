@@ -1,0 +1,5 @@
+NOERROR	www.stmu.org
+NOERROR	ww17.stmu.org
+NOERROR	ww38.stmu.org
+NOERROR	stmu.org
+NOERROR	admin.stmu.org

@@ -1,0 +1,3 @@
+NXDOMAIN	ensaia.u-nancy.fr
+NXDOMAIN	brg.ensaia.u-nancy.fr
+NXDOMAIN	www.ensaia.u-nancy.fr

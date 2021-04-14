@@ -1,0 +1,11 @@
+NOERROR	msdl.spbtei.ru
+NOERROR	bibl.spbtei.ru
+NOERROR	edu.spbtei.ru
+NOERROR	spbtei.ru
+NOERROR	portasp.spbtei.ru
+NOERROR	www.spbtei.ru
+NOERROR	conf.spbtei.ru
+NOERROR	mail.spbtei.ru
+NOERROR	en.spbtei.ru
+NOERROR	smart.spbtei.ru
+NOERROR	journal.spbtei.ru

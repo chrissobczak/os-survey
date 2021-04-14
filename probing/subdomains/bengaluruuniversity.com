@@ -1,3 +1,0 @@
-bengaluruuniversity.com
-www.bengaluruuniversity.com
-wwww.bengaluruuniversity.com

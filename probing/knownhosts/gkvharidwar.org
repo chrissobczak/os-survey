@@ -1,0 +1,8 @@
+NOERROR	ww1.gkvharidwar.org
+NOERROR	admin.gkvharidwar.org
+NOERROR	ww2.gkvharidwar.org
+NOERROR	gkvharidwar.org
+NOERROR	webmail.gkvharidwar.org
+NOERROR	www.gkvharidwar.org
+NOERROR	ww4.gkvharidwar.org
+NOERROR	mail.gkvharidwar.org
