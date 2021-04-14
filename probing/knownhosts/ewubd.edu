@@ -1,64 +1,37 @@
-NOERROR	vm04.ewubd.edu
-NXDOMAIN	www.ccc.ewubd.edu
-NOERROR	filetracker.ewubd.edu
-NXDOMAIN	journal.ewubd.edu
-NXDOMAIN	demo.ewubd.edu
-NOERROR	vm03.ewubd.edu
-NXDOMAIN	ns3.ewubd.edu
-NOERROR	portal.ewubd.edu
-NOERROR	admission.ewubd.edu
-NOERROR	etender.ewubd.edu
-NOERROR	devportal.ewubd.edu
-NXDOMAIN	cpcontacts.ccc.ewubd.edu
-NXDOMAIN	ns1.ewubd.edu
-NOERROR	iikm.ewubd.edu
-NOERROR	lib.ewubd.edu
-NOERROR	vm01.ewubd.edu
-NOERROR	gsdl.ewubd.edu
-NXDOMAIN	business.ewubd.edu
-NOERROR	eeealumni.ewubd.edu
-NOERROR	vm02.ewubd.edu
-NOERROR	www.ewubd.edu
-NOERROR	vm05.ewubd.edu
-NOERROR	home.ewubd.edu
-NOERROR	opac.ewubd.edu
-NXDOMAIN	webmail.ccc.ewubd.edu
-NXDOMAIN	webdisk.ccc.ewubd.edu
-NXDOMAIN	dff.ewubd.edu
-NXDOMAIN	itfest.ewubd.edu
-NXDOMAIN	ns5.ewubd.edu
-NOERROR	border01.ewubd.edu
-NOERROR	ewubd.edu
-NOERROR	vcenter.ewubd.edu
-NXDOMAIN	mail2.ewubd.edu
-NOERROR	alumni.ewubd.edu
-NXDOMAIN	monitor.ewubd.edu
-NOERROR	conference.ewubd.edu
-NOERROR	dspace.ewubd.edu
-NXDOMAIN	cpcalendars.ccc.ewubd.edu
-NOERROR	mon04.ewubd.edu
-NOERROR	mon01.ewubd.edu
-NOERROR	webinar.ewubd.edu
-NXDOMAIN	onlinecourses.ewubd.edu
-NXDOMAIN	koha.ewubd.edu
-NOERROR	smtp.ewubd.edu
-NXDOMAIN	oldalumni.ewubd.edu
-NOERROR	ccc.ewubd.edu
-NOERROR	libstaff.ewubd.edu
-NOERROR	clubs.ewubd.edu
-NXDOMAIN	icpc.ewubd.edu
-NXDOMAIN	cse.ewubd.edu
-NXDOMAIN	ns2.ewubd.edu
-NXDOMAIN	autodiscover.ccc.ewubd.edu
-NXDOMAIN	mailarchive.ewubd.edu
-NOERROR	rnd.ewubd.edu
-NOERROR	fbe.ewubd.edu
-NOERROR	fse.ewubd.edu
-NXDOMAIN	ewuipc.ewubd.edu
-NOERROR	jobs.ewubd.edu
-NXDOMAIN	cpanel.ccc.ewubd.edu
-NXDOMAIN	mail.ewubd.edu
-NOERROR	flass.ewubd.edu
-NXDOMAIN	mail.ccc.ewubd.edu
-NOERROR	result.ewubd.edu
-NOERROR	mc.ewubd.edu
+vm04.ewubd.edu
+filetracker.ewubd.edu
+vm03.ewubd.edu
+portal.ewubd.edu
+admission.ewubd.edu
+etender.ewubd.edu
+devportal.ewubd.edu
+iikm.ewubd.edu
+lib.ewubd.edu
+vm01.ewubd.edu
+gsdl.ewubd.edu
+eeealumni.ewubd.edu
+vm02.ewubd.edu
+www.ewubd.edu
+vm05.ewubd.edu
+home.ewubd.edu
+opac.ewubd.edu
+border01.ewubd.edu
+ewubd.edu
+vcenter.ewubd.edu
+alumni.ewubd.edu
+conference.ewubd.edu
+dspace.ewubd.edu
+mon04.ewubd.edu
+mon01.ewubd.edu
+webinar.ewubd.edu
+smtp.ewubd.edu
+ccc.ewubd.edu
+libstaff.ewubd.edu
+clubs.ewubd.edu
+rnd.ewubd.edu
+fbe.ewubd.edu
+fse.ewubd.edu
+jobs.ewubd.edu
+flass.ewubd.edu
+result.ewubd.edu
+mc.ewubd.edu

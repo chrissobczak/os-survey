@@ -1,50 +1,20 @@
-NXDOMAIN	admin.ripon.edu
-NXDOMAIN	picard.macs.ripon.edu
-NOERROR	library.ripon.edu
-NXDOMAIN	mail1.ripon.edu
-NOERROR	www.my.ripon.edu
-NXDOMAIN	mail.ripon.edu
-NXDOMAIN	mail2.ripon.edu
-NOERROR	my.ripon.edu
-NXDOMAIN	www.rallydollars.ripon.edu
-NXDOMAIN	mail3.ripon.edu
-NXDOMAIN	alpha-phoenix.ripon.edu
-NXDOMAIN	www.events.ripon.edu
-NOERROR	resetme.ripon.edu
-NOERROR	events.ripon.edu
-NOERROR	rallynetconnect.ripon.edu
-NXDOMAIN	ariel.ripon.edu
-NOERROR	rc-rds1.ripon.edu
-NXDOMAIN	sdhripon.ripon.edu
-NXDOMAIN	www.rc-rds1.ripon.edu
-NOERROR	redhawks.ripon.edu
-NXDOMAIN	m.ripon.edu
-NXDOMAIN	www.resetme.ripon.edu
-NOERROR	go.ripon.edu
-NXDOMAIN	rcoca.ripon.edu
-NXDOMAIN	www.rcprimary-zd.ripon.edu
-NOERROR	tour.ripon.edu
-NXDOMAIN	www.rallynetconnect.ripon.edu
-NXDOMAIN	www.tour.ripon.edu
-NXDOMAIN	triton.ripon.edu
-NOERROR	apply.ripon.edu
-NOERROR	rcprimary-zd.ripon.edu
-NXDOMAIN	webmail.ripon.edu
-NOERROR	rc-print1.ripon.edu
-NOERROR	rallydollars.ripon.edu
-NOERROR	redhawks2.ripon.edu
-NOERROR	ripon.edu
-NXDOMAIN	www.rc-print1.ripon.edu
-NXDOMAIN	rcwebwork.ripon.edu
-NXDOMAIN	papercut.ripon.edu
-NXDOMAIN	acad.ripon.edu
-NOERROR	test.ripon.edu
-NXDOMAIN	netmanager.ripon.edu
-NOERROR	ldap2.ripon.edu
-NXDOMAIN	mac.ripon.edu
-NXDOMAIN	rc-nps1.ripon.edu
-NXDOMAIN	experience.ripon.edu
-NXDOMAIN	map.ripon.edu
-NOERROR	ldap.ripon.edu
-NXDOMAIN	mercury.ripon.edu
-NOERROR	www.ripon.edu
+library.ripon.edu
+www.my.ripon.edu
+my.ripon.edu
+resetme.ripon.edu
+events.ripon.edu
+rallynetconnect.ripon.edu
+rc-rds1.ripon.edu
+redhawks.ripon.edu
+go.ripon.edu
+tour.ripon.edu
+apply.ripon.edu
+rcprimary-zd.ripon.edu
+rc-print1.ripon.edu
+rallydollars.ripon.edu
+redhawks2.ripon.edu
+ripon.edu
+test.ripon.edu
+ldap2.ripon.edu
+ldap.ripon.edu
+www.ripon.edu

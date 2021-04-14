@@ -1,138 +1,96 @@
-NXDOMAIN	www.pim.palmbeachstate.edu
-NXDOMAIN	cas5.palmbeachstate.edu
-NOERROR	edtech.palmbeachstate.edu
-NXDOMAIN	download.cwa.palmbeachstate.edu
-NOERROR	web6.palmbeachstate.edu
-NXDOMAIN	w.palmbeachstate.edu
-NOERROR	cms.palmbeachstate.edu
-NOERROR	ldap1.palmbeachstate.edu
-NXDOMAIN	remotets6.palmbeachstate.edu
-NXDOMAIN	www.servicedesk.palmbeachstate.edu
-NXDOMAIN	career.palmbeachstate.edu
-NXDOMAIN	ocs2ext.palmbeachstate.edu
-NOERROR	pantherbackup.palmbeachstate.edu
-NOERROR	ns1.palmbeachstate.edu
-NXDOMAIN	edge5.palmbeachstate.edu
-NOERROR	media.palmbeachstate.edu
-NOERROR	panthernet2beta.palmbeachstate.edu
-NOERROR	media2.palmbeachstate.edu
-NXDOMAIN	cwa.palmbeachstate.edu
-NOERROR	intranet.palmbeachstate.edu
-NXDOMAIN	avedge.palmbeachstate.edu
-NOERROR	library.palmbeachstate.edu
-NOERROR	web1-staging.palmbeachstate.edu
-NXDOMAIN	edge3.palmbeachstate.edu
-NOERROR	lsweb.palmbeachstate.edu
-NOERROR	filedrop.palmbeachstate.edu
-NXDOMAIN	autodiscover1.palmbeachstate.edu
-NOERROR	remotets4.palmbeachstate.edu
-NOERROR	omniu1.palmbeachstate.edu
-NOERROR	sccm-mp1.palmbeachstate.edu
-NOERROR	web4b.palmbeachstate.edu
-NOERROR	ldap-bb2.palmbeachstate.edu
-NOERROR	testvpn1.palmbeachstate.edu
-NOERROR	engage.palmbeachstate.edu
-NXDOMAIN	web5.palmbeachstate.edu
-NXDOMAIN	www.levelup.palmbeachstate.edu
-NOERROR	ldap-bb1.palmbeachstate.edu
-NOERROR	help.palmbeachstate.edu
-NOERROR	myfuturepath.palmbeachstate.edu
-NOERROR	remotets.palmbeachstate.edu
-NOERROR	autodiscover.my.palmbeachstate.edu
-NXDOMAIN	mb3.palmbeachstate.edu
-NOERROR	testweb1.palmbeachstate.edu
-NOERROR	search.palmbeachstate.edu
-NOERROR	perc.palmbeachstate.edu
-NXDOMAIN	cas2.palmbeachstate.edu
-NXDOMAIN	cas3.palmbeachstate.edu
-NXDOMAIN	dialin.palmbeachstate.edu
-NOERROR	webservices2.palmbeachstate.edu
-NOERROR	webservices3.palmbeachstate.edu
-NOERROR	erp.palmbeachstate.edu
-NOERROR	webservices1.palmbeachstate.edu
-NXDOMAIN	um5.palmbeachstate.edu
-NOERROR	vpn.palmbeachstate.edu
-NOERROR	employment.palmbeachstate.edu
-NOERROR	pantherweb.palmbeachstate.edu
-NOERROR	orientation.palmbeachstate.edu
-NOERROR	panwebtest1.palmbeachstate.edu
-NOERROR	vc6.palmbeachstate.edu
-NOERROR	servicedesk.palmbeachstate.edu
-NOERROR	pbxum.palmbeachstate.edu
-NOERROR	tomcat1.palmbeachstate.edu
-NOERROR	ddpe-es.palmbeachstate.edu
-NOERROR	az-web1-vip.palmbeachstate.edu
-NOERROR	hit-rdsgw1.palmbeachstate.edu
-NXDOMAIN	collab-edge.palmbeachstate.edu
-NXDOMAIN	www.ise.palmbeachstate.edu
-NXDOMAIN	meet.palmbeachstate.edu
-NXDOMAIN	xmpp.palmbeachstate.edu
-NXDOMAIN	as.cwa.palmbeachstate.edu
-NOERROR	ldap2.my.palmbeachstate.edu
-NOERROR	ldap1.my.palmbeachstate.edu
-NOERROR	openweb.palmbeachstate.edu
-NOERROR	news.palmbeachstate.edu
-NOERROR	ldaptemp.my.palmbeachstate.edu
-NOERROR	web2.palmbeachstate.edu
-NXDOMAIN	remote.palmbeachstate.edu
-NXDOMAIN	www.ideas.palmbeachstate.edu
-NOERROR	web3.palmbeachstate.edu
-NOERROR	pantherwebtest.palmbeachstate.edu
-NOERROR	rds.palmbeachstate.edu
-NOERROR	sip.palmbeachstate.edu
-NXDOMAIN	ocs2wc.palmbeachstate.edu
-NOERROR	panthernet.palmbeachstate.edu
-NOERROR	panthernet2test.palmbeachstate.edu
-NOERROR	tomcattest.palmbeachstate.edu
-NXDOMAIN	um3.palmbeachstate.edu
-NOERROR	hybrid.palmbeachstate.edu
-NOERROR	tomcat2.palmbeachstate.edu
-NOERROR	www.palmbeachstate.edu
-NXDOMAIN	mb5.palmbeachstate.edu
-NXDOMAIN	cas1.palmbeachstate.edu
-NXDOMAIN	ocs2av.palmbeachstate.edu
-NOERROR	hitmt.palmbeachstate.edu
-NXDOMAIN	download.palmbeachstate.edu
-NOERROR	autodiscover.palmbeachstate.edu
-NXDOMAIN	remote1.palmbeachstate.edu
-NXDOMAIN	enterpriseregistration.palmbeachstate.edu
-NOERROR	erpnetstaging.palmbeachstate.edu
-NOERROR	webreg1.palmbeachstate.edu
-NOERROR	pantherdocsforms.palmbeachstate.edu
-NOERROR	palmbeachstate.edu
-NOERROR	pvc1.palmbeachstate.edu
-NOERROR	ddpe-fe1.palmbeachstate.edu
-NOERROR	lw-it119-expwy-e01.palmbeachstate.edu
-NXDOMAIN	www.lw-s2.palmbeachstate.edu
-NOERROR	web3b.palmbeachstate.edu
-NOERROR	levelup.palmbeachstate.edu
-NOERROR	mypbsc.palmbeachstate.edu
-NOERROR	az-web1a.palmbeachstate.edu
-NOERROR	webapps.palmbeachstate.edu
-NXDOMAIN	www.help.palmbeachstate.edu
-NXDOMAIN	webconf.palmbeachstate.edu
-NXDOMAIN	www.engage.palmbeachstate.edu
-NOERROR	ddpe-es1.palmbeachstate.edu
-NOERROR	pantherwebdev1.palmbeachstate.edu
-NOERROR	remotets5.palmbeachstate.edu
-NOERROR	apps.palmbeachstate.edu
-NOERROR	pim.palmbeachstate.edu
-NOERROR	helpdesk.palmbeachstate.edu
-NOERROR	accreditation.palmbeachstate.edu
-NOERROR	webservices4.palmbeachstate.edu
-NOERROR	mail.palmbeachstate.edu
-NOERROR	web1.palmbeachstate.edu
-NOERROR	intra3.palmbeachstate.edu
-NXDOMAIN	www.myfuturepath.palmbeachstate.edu
-NOERROR	lw-s2.palmbeachstate.edu
-NOERROR	lyncdiscover.palmbeachstate.edu
-NOERROR	fs.palmbeachstate.edu
-NOERROR	ldaptemp.palmbeachstate.edu
-NOERROR	cpvpn.palmbeachstate.edu
-NXDOMAIN	www.perc.palmbeachstate.edu
-NOERROR	calendar.palmbeachstate.edu
-NOERROR	ideas.palmbeachstate.edu
-NOERROR	ns2.palmbeachstate.edu
-NOERROR	securefile.palmbeachstate.edu
-NOERROR	gs.palmbeachstate.edu
-NXDOMAIN	ise.palmbeachstate.edu
+edtech.palmbeachstate.edu
+web6.palmbeachstate.edu
+cms.palmbeachstate.edu
+ldap1.palmbeachstate.edu
+pantherbackup.palmbeachstate.edu
+ns1.palmbeachstate.edu
+media.palmbeachstate.edu
+panthernet2beta.palmbeachstate.edu
+media2.palmbeachstate.edu
+intranet.palmbeachstate.edu
+library.palmbeachstate.edu
+web1-staging.palmbeachstate.edu
+lsweb.palmbeachstate.edu
+filedrop.palmbeachstate.edu
+remotets4.palmbeachstate.edu
+omniu1.palmbeachstate.edu
+sccm-mp1.palmbeachstate.edu
+web4b.palmbeachstate.edu
+ldap-bb2.palmbeachstate.edu
+testvpn1.palmbeachstate.edu
+engage.palmbeachstate.edu
+ldap-bb1.palmbeachstate.edu
+help.palmbeachstate.edu
+myfuturepath.palmbeachstate.edu
+remotets.palmbeachstate.edu
+autodiscover.my.palmbeachstate.edu
+testweb1.palmbeachstate.edu
+search.palmbeachstate.edu
+perc.palmbeachstate.edu
+webservices2.palmbeachstate.edu
+webservices3.palmbeachstate.edu
+erp.palmbeachstate.edu
+webservices1.palmbeachstate.edu
+vpn.palmbeachstate.edu
+employment.palmbeachstate.edu
+pantherweb.palmbeachstate.edu
+orientation.palmbeachstate.edu
+panwebtest1.palmbeachstate.edu
+vc6.palmbeachstate.edu
+servicedesk.palmbeachstate.edu
+pbxum.palmbeachstate.edu
+tomcat1.palmbeachstate.edu
+ddpe-es.palmbeachstate.edu
+az-web1-vip.palmbeachstate.edu
+hit-rdsgw1.palmbeachstate.edu
+ldap2.my.palmbeachstate.edu
+ldap1.my.palmbeachstate.edu
+openweb.palmbeachstate.edu
+news.palmbeachstate.edu
+ldaptemp.my.palmbeachstate.edu
+web2.palmbeachstate.edu
+web3.palmbeachstate.edu
+pantherwebtest.palmbeachstate.edu
+rds.palmbeachstate.edu
+sip.palmbeachstate.edu
+panthernet.palmbeachstate.edu
+panthernet2test.palmbeachstate.edu
+tomcattest.palmbeachstate.edu
+hybrid.palmbeachstate.edu
+tomcat2.palmbeachstate.edu
+www.palmbeachstate.edu
+hitmt.palmbeachstate.edu
+autodiscover.palmbeachstate.edu
+erpnetstaging.palmbeachstate.edu
+webreg1.palmbeachstate.edu
+pantherdocsforms.palmbeachstate.edu
+palmbeachstate.edu
+pvc1.palmbeachstate.edu
+ddpe-fe1.palmbeachstate.edu
+lw-it119-expwy-e01.palmbeachstate.edu
+web3b.palmbeachstate.edu
+levelup.palmbeachstate.edu
+mypbsc.palmbeachstate.edu
+az-web1a.palmbeachstate.edu
+webapps.palmbeachstate.edu
+ddpe-es1.palmbeachstate.edu
+pantherwebdev1.palmbeachstate.edu
+remotets5.palmbeachstate.edu
+apps.palmbeachstate.edu
+pim.palmbeachstate.edu
+helpdesk.palmbeachstate.edu
+accreditation.palmbeachstate.edu
+webservices4.palmbeachstate.edu
+mail.palmbeachstate.edu
+web1.palmbeachstate.edu
+intra3.palmbeachstate.edu
+lw-s2.palmbeachstate.edu
+lyncdiscover.palmbeachstate.edu
+fs.palmbeachstate.edu
+ldaptemp.palmbeachstate.edu
+cpvpn.palmbeachstate.edu
+calendar.palmbeachstate.edu
+ideas.palmbeachstate.edu
+ns2.palmbeachstate.edu
+securefile.palmbeachstate.edu
+gs.palmbeachstate.edu

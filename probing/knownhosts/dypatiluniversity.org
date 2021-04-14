@@ -1,13 +1,13 @@
-NOERROR	ww3.dypatiluniversity.org
-NOERROR	hostmaster.hostmaster.www.dypatiluniversity.org
-NOERROR	hostmaster.admin.dypatiluniversity.org
-NOERROR	hostmaster.hostmaster.dypatiluniversity.org
-NOERROR	ww2.dypatiluniversity.org
-NOERROR	hostmaster.dypatiluniversity.org
-NOERROR	hostmaster.www.dypatiluniversity.org
-NOERROR	dypatiluniversity.org
-NOERROR	www.dypatiluniversity.org
-NOERROR	www.ww2.dypatiluniversity.org
-NOERROR	hostmaster.hostmaster.admin.dypatiluniversity.org
-NOERROR	admin.dypatiluniversity.org
-NOERROR	ww1.dypatiluniversity.org
+ww3.dypatiluniversity.org
+hostmaster.hostmaster.www.dypatiluniversity.org
+hostmaster.admin.dypatiluniversity.org
+hostmaster.hostmaster.dypatiluniversity.org
+ww2.dypatiluniversity.org
+hostmaster.dypatiluniversity.org
+hostmaster.www.dypatiluniversity.org
+dypatiluniversity.org
+www.dypatiluniversity.org
+www.ww2.dypatiluniversity.org
+hostmaster.hostmaster.admin.dypatiluniversity.org
+admin.dypatiluniversity.org
+ww1.dypatiluniversity.org

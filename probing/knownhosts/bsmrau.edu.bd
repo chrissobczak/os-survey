@@ -1,24 +1,15 @@
-NOERROR	opac.bsmrau.edu.bd
-NOERROR	bsmrau.edu.bd
-NOERROR	ibge.bsmrau.edu.bd
-NXDOMAIN	repository.bsmrau.edu.bd
-NOERROR	www.ibge.bsmrau.edu.bd
-NXDOMAIN	archive.bsmrau.edu.bd
-NOERROR	www.iqac.bsmrau.edu.bd
-NOERROR	mail.bsmrau.edu.bd
-NXDOMAIN	dhcrop.bsmrau.edu.bd
-NXDOMAIN	vc.bsmrau.edu.bd
-NOERROR	mail.demo.bsmrau.edu.bd
-NXDOMAIN	www.archive.bsmrau.edu.bd
-NOERROR	iqac.bsmrau.edu.bd
-NXDOMAIN	www.aa.bsmrau.edu.bd
-NOERROR	www.publications.bsmrau.edu.bd
-NXDOMAIN	aa.bsmrau.edu.bd
-NXDOMAIN	www.dhcrop.bsmrau.edu.bd
-NOERROR	publications.bsmrau.edu.bd
-NXDOMAIN	www.repository.bsmrau.edu.bd
-NOERROR	www.bsmrau.edu.bd
-NOERROR	dspace.bsmrau.edu.bd
-NOERROR	www.dspace.bsmrau.edu.bd
-NOERROR	demo.bsmrau.edu.bd
-NOERROR	www.demo.bsmrau.edu.bd
+opac.bsmrau.edu.bd
+bsmrau.edu.bd
+ibge.bsmrau.edu.bd
+www.ibge.bsmrau.edu.bd
+www.iqac.bsmrau.edu.bd
+mail.bsmrau.edu.bd
+mail.demo.bsmrau.edu.bd
+iqac.bsmrau.edu.bd
+www.publications.bsmrau.edu.bd
+publications.bsmrau.edu.bd
+www.bsmrau.edu.bd
+dspace.bsmrau.edu.bd
+www.dspace.bsmrau.edu.bd
+demo.bsmrau.edu.bd
+www.demo.bsmrau.edu.bd

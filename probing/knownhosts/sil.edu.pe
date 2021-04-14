@@ -1,18 +1,14 @@
-NXDOMAIN	dns2.sil.edu.pe
-NOERROR	dns.sil.edu.pe
-NOERROR	u.sil.edu.pe
-NXDOMAIN	www.infosil.sil.edu.pe
-NOERROR	aspam.u.sil.edu.pe
-NOERROR	sil.edu.pe
-NOERROR	m.infosil.sil.edu.pe
-NOERROR	sal.sil.edu.pe
-NOERROR	lacia.sil.edu.pe
-NOERROR	www.sil.edu.pe
-NOERROR	mail.sil.edu.pe
-NOERROR	infosil.sil.edu.pe
-NOERROR	sillms.sil.edu.pe
-NOERROR	lspace.sil.edu.pe
-NXDOMAIN	i.sil.edu.pe
-NXDOMAIN	www.labvirtual.sil.edu.pe
-NOERROR	wap.sil.edu.pe
-NOERROR	labvirtual.sil.edu.pe
+dns.sil.edu.pe
+u.sil.edu.pe
+aspam.u.sil.edu.pe
+sil.edu.pe
+m.infosil.sil.edu.pe
+sal.sil.edu.pe
+lacia.sil.edu.pe
+www.sil.edu.pe
+mail.sil.edu.pe
+infosil.sil.edu.pe
+sillms.sil.edu.pe
+lspace.sil.edu.pe
+wap.sil.edu.pe
+labvirtual.sil.edu.pe

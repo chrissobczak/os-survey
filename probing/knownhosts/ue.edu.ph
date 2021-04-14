@@ -1,26 +1,16 @@
-NOERROR	uemoodle.ue.edu.ph
-NOERROR	ue2.ue.edu.ph
-NOERROR	library.ue.edu.ph
-NOERROR	ue1.wip.ue.edu.ph
-NXDOMAIN	libraryopac.ue.edu.ph
-NOERROR	ue1.ue.edu.ph
-NXDOMAIN	uecal.ue.edu.ph
-NOERROR	ue.edu.ph
-NOERROR	www.ue.edu.ph
-NXDOMAIN	mail.ue.edu.ph
-NXDOMAIN	online.ue.edu.ph
-NOERROR	ue3.ue.edu.ph
-NOERROR	www.wip.ue.edu.ph
-NXDOMAIN	rcastrodes.ue.edu.ph
-NOERROR	manila.ue.edu.ph
-NOERROR	canvas.ue.edu.ph
-NXDOMAIN	webmail.ue.edu.ph
-NOERROR	news.ue.edu.ph
-NXDOMAIN	onlie.ue.edu.ph
-NXDOMAIN	http.www.ue.edu.ph
-NOERROR	dhrd.ue.edu.ph
-NOERROR	portals.ue.edu.ph
-NOERROR	ue2.wip.ue.edu.ph
-NXDOMAIN	onlineadmission.ue.edu.ph
-NXDOMAIN	moodle.ue.edu.ph
-NOERROR	ue3.wip.ue.edu.ph
+uemoodle.ue.edu.ph
+ue2.ue.edu.ph
+library.ue.edu.ph
+ue1.wip.ue.edu.ph
+ue1.ue.edu.ph
+ue.edu.ph
+www.ue.edu.ph
+ue3.ue.edu.ph
+www.wip.ue.edu.ph
+manila.ue.edu.ph
+canvas.ue.edu.ph
+news.ue.edu.ph
+dhrd.ue.edu.ph
+portals.ue.edu.ph
+ue2.wip.ue.edu.ph
+ue3.wip.ue.edu.ph

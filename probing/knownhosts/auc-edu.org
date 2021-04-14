@@ -1,15 +1,1 @@
-NXDOMAIN	www.auc.auc-edu.org
-NXDOMAIN	www.lib.auc-edu.org
-NOERROR	auc-edu.org
-SERVFAIL	result.auc-edu.org
-SERVFAIL	en.auc-edu.org
-SERVFAIL	www.acrit.auc-edu.org
-SERVFAIL	www.auc-edu.org
-SERVFAIL	auc.auc-edu.org
-SERVFAIL	lib.auc-edu.org
-SERVFAIL	mail.auc-edu.org
-SERVFAIL	www.portal.auc-edu.org
-SERVFAIL	www.result.auc-edu.org
-SERVFAIL	www.en.auc-edu.org
-SERVFAIL	acrit.auc-edu.org
-SERVFAIL	portal.auc-edu.org
+auc-edu.org

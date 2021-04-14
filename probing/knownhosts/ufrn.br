@@ -1,1510 +1,1352 @@
-NOERROR	lais-host-n1.lais.huol.ufrn.br
-NOERROR	sigmx1.ufrn.br
-NOERROR	cep.propesq.ufrn.br
-NOERROR	ppgeq.eq.ufrn.br
-NOERROR	ceua.propesq.ufrn.br
-NOERROR	kraken.ufrn.br
-NOERROR	eaj.ufrn.br
-NOERROR	infra-k8s-deploy-test-lais-django-k8s-staging.k.lais.ufrn.br
-NOERROR	www.cetel.ct.ufrn.br
-NOERROR	dubai.imd.ufrn.br
-NOERROR	vrl.ufrn.br
-NOERROR	socrates.ct.ufrn.br
-NOERROR	www.prograd.ufrn.br
-NOERROR	dev.auth.saiot.ect.ufrn.br
-NOERROR	moodle.metropoledigital.ufrn.br
-NOERROR	mail.cchla.ufrn.br
-NOERROR	newton.dem.ufrn.br
-NOERROR	intellectus.ufrn.br
-NOERROR	olar.ufrn.br
-NOERROR	seminario2017.ccsa.ufrn.br
-NOERROR	kosmos.dfte.ufrn.br
-NOERROR	imd-host-n2.lais.huol.ufrn.br
-NOERROR	qualifica.covid.lais.ufrn.br
-NOERROR	sigaa.ufrn.br
-NOERROR	sistemagr.homolog.lais.ufrn.br
-NXDOMAIN	jeffreys.dfte.ufrn.br
-NOERROR	avas.sedis.ufrn.br
-NXDOMAIN	tux.lcc.ufrn.br
-NOERROR	retinografia.pntd.telessaude.ufrn.br
-NOERROR	coronavirus.ufrn.br
-NOERROR	www.ppgcsa.ufrn.br
-NOERROR	pse.sedis.ufrn.br
-NXDOMAIN	phpmyadmin.saiot.ect.ufrn.br
-NXDOMAIN	net.info.ufrn.br
-NOERROR	lasic.ufrn.br
-NXDOMAIN	svn.ect.ufrn.br
-NOERROR	smarthomolog.telessaude.ufrn.br
-NOERROR	ddrh.ufrn.br
-NOERROR	hemera.iip.ufrn.br
-NOERROR	sismologia.dfte.ufrn.br
-NOERROR	dap.info.ufrn.br
-NOERROR	www.agecom.ufrn.br
-NOERROR	par.imd.ufrn.br
-NOERROR	repositorio.lais.huol.ufrn.br
-NOERROR	biomassa.eq.ufrn.br
-NOERROR	sigmx1.sistemas.ufrn.br
-NOERROR	www.silb.cchla.ufrn.br
-NOERROR	www.geofisica.ufrn.br
-NOERROR	avasus.ufrn.br
-NOERROR	buchada.info.ufrn.br
-NOERROR	consiste.consiste.dimap.ufrn.br
-NOERROR	2cnienssup.ufrn.br
-SERVFAIL	www.editora.ufrn.br
-NOERROR	pntd.telessaude.ufrn.br
-NXDOMAIN	miranda.ect.ufrn.br
-NXDOMAIN	forte.pep.ufrn.br
-NOERROR	imsva.info.ufrn.br
-NOERROR	cloud.imd.ufrn.br
-NOERROR	git.ect.ufrn.br
-NOERROR	agenda.ect.ufrn.br
-NOERROR	lsa.ct.ufrn.br
-NOERROR	sca.sedis.ufrn.br
-NOERROR	7etd.imd.ufrn.br
-NOERROR	listas.ufrn.br
-NOERROR	imd-host-n3.telessaude.ufrn.br
-NOERROR	www.grafica.cchla.ufrn.br
-NOERROR	portal.smart-defender.imd.ufrn.br
-NOERROR	tvu.ufrn.br
-NOERROR	ufrn.br
-NOERROR	lais-host-n1.lais.ufrn.br
-NOERROR	iproject.ufrn.br
-NOERROR	sid.ufrn.br
-NOERROR	dev.saiot2.ect.ufrn.br
-NOERROR	cloud.smart-defender.imd.ufrn.br
-NOERROR	comperve.info.ufrn.br
-NOERROR	grecom.ce.ufrn.br
-NOERROR	nucleotiresias.ufrn.br
-NOERROR	proxy.cerescnovos.ufrn.br
-NOERROR	icde2021.homolog.lais.ufrn.br
-NXDOMAIN	automed.homolog.lais.ufrn.br
-NOERROR	telessaude.ufrn.br
-NOERROR	zmail2.ufrn.br
-NOERROR	mail.infra.ufrn.br
-NOERROR	linguaportuguesa.ufrn.br
-NOERROR	bdtd.ufrn.br
-NOERROR	www.reitoria.ufrn.br
-NOERROR	secacademica.ect.ufrn.br
-NOERROR	smart3.homolog.telessaude.ufrn.br
-NOERROR	papermaker.homolog.lais.huol.ufrn.br
-NOERROR	pgw.lais.ufrn.br
-NOERROR	testessigsaude.imd.ufrn.br
-NOERROR	www.observatoriorh.ufrn.br
-NOERROR	mdlcapacitacao.sedis.ufrn.br
-NOERROR	indicadores.avasus.ufrn.br
-NOERROR	fiscalizarn.lais.ufrn.br
-NOERROR	lsa.dee.ufrn.br
-NOERROR	sistemaimt.imd.ufrn.br
-NOERROR	infra.infra.ufrn.br
-NOERROR	nei.ufrn.br
-NXDOMAIN	lobato.ct.ufrn.br
-NOERROR	box.imd.ufrn.br
-NXDOMAIN	belchior.info.ufrn.br
-NOERROR	bbb2.telessaude.ufrn.br
-NOERROR	design.lais.ufrn.br
-NOERROR	docs.lais.ufrn.br
-NOERROR	euler.dca.ufrn.br
-NOERROR	verde.sedis.ufrn.br
-NOERROR	auth.saiot.ect.ufrn.br
-NOERROR	sigmxrec.ufrn.br
-NOERROR	acervus.ufrn.br
-NOERROR	proxy.iip.ufrn.br
-NOERROR	qualifica.covid.homolog.lais.ufrn.br
-NOERROR	themanager.lais.ufrn.br
-NOERROR	www.enei.ce.ufrn.br
-NOERROR	assets.sabia.ufrn.br
-NOERROR	gerencia.ufrn.br
-NOERROR	cientec.ufrn.br
-NOERROR	genoma1.biocomp.ufrn.br
-NOERROR	www.cb.ufrn.br
-NOERROR	campussegurohomolog.imd.ufrn.br
-NXDOMAIN	ntnpd.info.ufrn.br
-NOERROR	soro.escoladesaude.ufrn.br
-NOERROR	sigmx3.ufrn.br
-NOERROR	www.presspoint.ufrn.br
-NOERROR	periodicos.ufrn.br
-NOERROR	engpro.ct.ufrn.br
-NOERROR	meetsigsaude.imd.ufrn.br
-NOERROR	incubadora.ufrn.br
-NOERROR	www.posgraduacao.ufrn.br
-NOERROR	desenvolvimento.imd.ufrn.br
-NOERROR	www.lolita.dimap.ufrn.br
-NOERROR	chatcovid.ccs.ufrn.br
-NOERROR	novoscaminhos.ufrn.br
-NOERROR	canteiro.ct.ufrn.br
-NOERROR	dinamo.geofisica.ufrn.br
-NOERROR	ss.cloud.ufrn.br
-NOERROR	www2.ufrn.br
-NOERROR	mta.ufrn.br
-NXDOMAIN	swb01.ufrn.br
-NOERROR	www.departamento.ufrn.br
-NOERROR	dimap.ufrn.br
-NOERROR	mooc.imd.ufrn.br
-NOERROR	webcache01-producao.info.ufrn.br
-NOERROR	cluster.fisica.ufrn.br
-NOERROR	selecoes.lais.huol.ufrn.br
-NOERROR	eduroam3.info.ufrn.br
-NOERROR	server01.pairg.dimap.ufrn.br
-NOERROR	www.cic.propesq.ufrn.br
-NOERROR	www.proae.ufrn.br
-NOERROR	radio.imd.ufrn.br
-NXDOMAIN	sij.comunica.ufrn.br
-NOERROR	server.grupoprojetar.ufrn.br
-NOERROR	www.ccs.ufrn.br
-NOERROR	mdl20141.sedis.ufrn.br
-NOERROR	imd-host-n1.lais.huol.ufrn.br
-NOERROR	vsbgea.ccet.ufrn.br
-NOERROR	ceres.ufrn.br
-NOERROR	galactus.dfte.ufrn.br
-NOERROR	lapefa.ufrn.br
-NOERROR	npad.ufrn.br
-NOERROR	sigsaude.imd.ufrn.br
-NOERROR	oraculo.ufrn.br
-NXDOMAIN	midinho.ice.ufrn.br
-NOERROR	pacifico.dol.ufrn.br
-NOERROR	cronus.ufrn.br
-NOERROR	infra-k8s-deploy-test-oc-teleconsultoria.k.lais.ufrn.br
-NOERROR	ns2.ufrn.br
-NOERROR	hydra.ufrn.br
-NOERROR	diadorin.cchla.ufrn.br
-NOERROR	lineu.cb.ufrn.br
-NOERROR	pnt.avasus.ufrn.br
-NOERROR	www.ppged.ufrn.br
-NOERROR	serido.dfte.ufrn.br
-NOERROR	www.decom.ufrn.br
-NOERROR	engcomp.ufrn.br
-NOERROR	cronos.petromar.geologia.ufrn.br
-NOERROR	www.imagina.dimap.ufrn.br
-NOERROR	mathlm.iip.ufrn.br
-NOERROR	www.abrasconatal17.ufrn.br
-NOERROR	form.lues.piloto.vigilanciasaude.ufrn.br
-NOERROR	cajadb.neuro.ufrn.br
-NOERROR	frodo.info.ufrn.br
-NOERROR	probatorio.imd.ufrn.br
-NOERROR	webmail.dca.ufrn.br
-NXDOMAIN	gaspar.info.ufrn.br
-NOERROR	www.incubadora.ufrn.br
-NOERROR	api.lop.ect.ufrn.br
-NOERROR	www.facisa.ufrn.br
-NOERROR	www.proex.ufrn.br
-NOERROR	plantviewer.imd.ufrn.br
-NOERROR	clinicas.dod.ufrn.br
-NOERROR	lcm.ufrn.br
-NOERROR	teleconsultoria.homolog.lais.ufrn.br
-NOERROR	hmoodle.imd.ufrn.br
-NOERROR	moocs.imd.ufrn.br
-NOERROR	amaq.homolog.lais.ufrn.br
-NOERROR	certificacao.avasus.ufrn.br
-NOERROR	atid.imd.ufrn.br
-NOERROR	orientacoronarn.lais.ufrn.br
-NOERROR	v1.lop.ect.ufrn.br
-NOERROR	mx2.ufrn.br
-NOERROR	dev-retail.smartsuite.imd.ufrn.br
-NOERROR	revelanos.homolog.lais.huol.ufrn.br
-NOERROR	revela.lais.ufrn.br
-NXDOMAIN	imago.neuro.ufrn.br
-NOERROR	pibid.ufrn.br
-NOERROR	brcd1.ce.ufrn.br
-NOERROR	eleicao.ufrn.br
-NOERROR	pronatec.musica.ufrn.br
-NOERROR	gow12.dca.ufrn.br
-NOERROR	soro.enfermagem.ufrn.br
-NOERROR	lapps.imd.ufrn.br
-NOERROR	beethoven.musica.ufrn.br
-NOERROR	livroped.telessaude.ufrn.br
-NOERROR	congesp.sedis.ufrn.br
-NXDOMAIN	galateia2.dca.ufrn.br
-NOERROR	epsic.psicologia.ufrn.br
-NOERROR	www.sae.ufrn.br
-NOERROR	odontologia.dod.ufrn.br
-NOERROR	imoc2011.ufrn.br
-NOERROR	gauss.geofisica.ufrn.br
-NOERROR	dev.api.saiot.ect.ufrn.br
-NOERROR	www.comunica.ufrn.br
-NOERROR	www.caene.ufrn.br
-NOERROR	pacs.dev.lais.huol.ufrn.br
-NOERROR	facisa.ufrn.br
-NOERROR	proad.ufrn.br
-NOERROR	semapa.ufrn.br
-NOERROR	davinci.ppgee.ufrn.br
-NOERROR	redepepsus.lais.huol.ufrn.br
-NOERROR	suporte1.huol.ufrn.br
-NOERROR	v3.avasus.ufrn.br
-NOERROR	hungria.imd.ufrn.br
-NOERROR	theta.imd.ufrn.br
-NOERROR	inovacaotecnologica.homolog.lais.ufrn.br
-NOERROR	resrc.dca.ufrn.br
-NOERROR	dermatologia.pntd-testes.telessaude.ufrn.br
-NOERROR	lolita.dimap.ufrn.br
-NOERROR	devel5.sedis.ufrn.br
-NOERROR	posepds.sedis.ufrn.br
-NOERROR	webmail.sedis.ufrn.br
-NXDOMAIN	gimenez.info.ufrn.br
-NOERROR	ecg.pntd.telessaude.ufrn.br
-NOERROR	portaldoegresso.ufrn.br
-NOERROR	planosdesaneamento.ufrn.br
-NOERROR	ccsa.ufrn.br
-NOERROR	atlanta.imd.ufrn.br
-NOERROR	covid19imt.imd.ufrn.br
-NOERROR	pgenf.ufrn.br
-NOERROR	mejc.telessaude.ufrn.br
-NOERROR	cne.ufrn.br
-NOERROR	webmail.ect.ufrn.br
-NOERROR	perfil.sabia.ufrn.br
-NOERROR	posgraduacao.ccsa.ufrn.br
-NOERROR	plameta.imd.ufrn.br
-NOERROR	pitagoras.mat.ufrn.br
-NOERROR	auriga.dfte.ufrn.br
-NOERROR	autenticacao-homologacao.info.ufrn.br
-NOERROR	www.bird.ce.ufrn.br
-NOERROR	www.graduacao.ufrn.br
-NOERROR	cloud.iip.ufrn.br
-NOERROR	mercury.dfte.ufrn.br
-NOERROR	imd-host-n3.lais.ufrn.br
-NOERROR	cbeu.ufrn.br
-NOERROR	ead-programacao.dimap.ufrn.br
-NOERROR	boltzmann.dfte.ufrn.br
-NOERROR	automed.qualisaude.telessaude.ufrn.br
-NOERROR	labem.ct.ufrn.br
-NOERROR	residenciati.imd.ufrn.br
-NOERROR	povidine.pgenf.ufrn.br
-NOERROR	redmine.sedis.ufrn.br
-NOERROR	ppgeec.ufrn.br
-NOERROR	portalcooperacao.info.ufrn.br
-NOERROR	www.ccet.ufrn.br
-NOERROR	residenciatitjrn.imd.ufrn.br
-NOERROR	zila.bczm.ufrn.br
-NOERROR	www.ccsa.ufrn.br
-NOERROR	www.mcm.cb.ufrn.br
-NOERROR	emcm.ufrn.br
-NOERROR	checkin.imd.ufrn.br
-NOERROR	cadastro.lcc.ufrn.br
-NOERROR	seminario.ccsa.ufrn.br
-NOERROR	inscricao.lais.huol.ufrn.br
-NOERROR	homologacaosigsaude.imd.ufrn.br
-NOERROR	proxy.externos.ufrn.br
-NOERROR	www.portaldap.ufrn.br
-NOERROR	dev.saiot.ect.ufrn.br
-NOERROR	avaprogesp.sedis.ufrn.br
-NOERROR	hermes.homolog.lais.ufrn.br
-NOERROR	www.inpacta.ect.ufrn.br
-NOERROR	zmail1.ufrn.br
-NOERROR	imd-host-n2.lais.ufrn.br
-NOERROR	ciclo2.info.ufrn.br
-NOERROR	hongkong.imd.ufrn.br
-NOERROR	reservas.deart.ufrn.br
-NOERROR	renabic.imd.ufrn.br
-NOERROR	reuse.ufrn.br
-NOERROR	seminariobrasilportugal.lais.huol.ufrn.br
-NOERROR	metropoledigital.ufrn.br
-NOERROR	biocomp.ufrn.br
-NOERROR	www.proad.ufrn.br
-NOERROR	capuccino.info.ufrn.br
-NOERROR	escolha.ufrn.br
-NOERROR	londres.imd.ufrn.br
-NOERROR	scylax.ufrn.br
-NOERROR	eq.ufrn.br
-NXDOMAIN	antispamnovo.ufrn.br
-NOERROR	www.nupprar.ufrn.br
-NOERROR	mx1.ufrn.br
-NOERROR	sgp.ufrn.br
-NOERROR	jira.smartretail.ufrn.br
-NOERROR	amaq.lais.huol.ufrn.br
-NOERROR	dfte.ufrn.br
-NOERROR	servicos.dimap.ufrn.br
-NXDOMAIN	cs2.cloud.ufrn.br
-NOERROR	api.multiprova3.ufrn.br
-NOERROR	estatistica.ccet.ufrn.br
-NOERROR	ftpsistemas.info.ufrn.br
-NXDOMAIN	canjica.info.ufrn.br
-NOERROR	pingifes.ufrn.br
-NOERROR	facisaimtcovid19.imd.ufrn.br
-NOERROR	infra.ufrn.br
-NOERROR	biblioteca.musica.ufrn.br
-NOERROR	sgi.imd.ufrn.br
-NOERROR	grafica.cchla.ufrn.br
-NXDOMAIN	academico1.info.ufrn.br
-NOERROR	le-681.k.lais.ufrn.br
-NOERROR	eventos.atencaobasica.lais.ufrn.br
-NOERROR	mx04.rse.ce.ufrn.br
-NOERROR	www.sistemas.ufrn.br
-NOERROR	chi.imd.ufrn.br
-NOERROR	laci.ufrn.br
-NOERROR	apisuvige.imd.ufrn.br
-NOERROR	paisagensdamemoria.ct.ufrn.br
-NOERROR	vc1.info.ufrn.br
-NOERROR	apisascar.imd.ufrn.br
-NOERROR	davinci.leca.ufrn.br
-NOERROR	chatcovid-operador.ccs.ufrn.br
-NOERROR	saf.prh.ufrn.br
-NOERROR	www.gnms.fisica.ufrn.br
-NOERROR	netuno.ccet.ufrn.br
-NXDOMAIN	lais-imd-h1.naoresponder.avasus.ufrn.br
-NOERROR	prometeu.educ.ufrn.br
-NXDOMAIN	novoportalais.homolog.lais.ufrn.br
-NOERROR	pntd-testes.telessaude.ufrn.br
-NXDOMAIN	petroleo.geopetro.ufrn.br
-NOERROR	miniteste.ufrn.br
-NOERROR	www.nucleotiresias.ufrn.br
-NOERROR	www.proplan.ufrn.br
-NOERROR	jri2008.dca.ufrn.br
-NOERROR	cbsoft.dimap.ufrn.br
-NOERROR	artefatos.info.ufrn.br
-NOERROR	mdlbkp.sedis.ufrn.br
-NOERROR	www.mat.ufrn.br
-NOERROR	bdtd.bczm.ufrn.br
-NOERROR	kepler.ect.ufrn.br
-NOERROR	gasolmaster.gasol.ufrn.br
-NOERROR	icde2021-wp.homolog.lais.ufrn.br
-NOERROR	wpsite.homolog.lais.ufrn.br
-NOERROR	www.esud2018.ufrn.br
-NOERROR	ictac2010.dimap.ufrn.br
-NOERROR	einstein.eq.ufrn.br
-NOERROR	cosmos.fisica.ufrn.br
-NXDOMAIN	saci.fmu.ufrn.br
-NOERROR	api-covid19.imd.ufrn.br
-NXDOMAIN	ferber.lablic.dimap.ufrn.br
-NOERROR	avaqualisaude.sedis.ufrn.br
-NOERROR	3dqsarpy.imd.ufrn.br
-NOERROR	60anos.musica.ufrn.br
-NOERROR	treinamento.info.ufrn.br
-NOERROR	benicio3.info.ufrn.br
-NOERROR	cuscuz.info.ufrn.br
-NXDOMAIN	www.homolog.lais.huol.ufrn.br
-NOERROR	sigeleicao.ufrn.br
-NXDOMAIN	networkcam.info.ufrn.br
-NOERROR	inovacaotecnologica.lais.huol.ufrn.br
-NOERROR	thevideogame.ufrn.br
-NOERROR	www.cemj.propesq.ufrn.br
-NOERROR	gnu.lcc.ufrn.br
-NOERROR	pep.ufrn.br
-NOERROR	gema.imd.ufrn.br
-NOERROR	sysadl.imd.ufrn.br
-NOERROR	avamat.sedis.ufrn.br
-NOERROR	hydra.info.ufrn.br
-NOERROR	www.eadpronatec.eaj.ufrn.br
-NOERROR	s3.lais.ufrn.br
-NOERROR	jump.sedis.ufrn.br
-NOERROR	dev.educaio.ufrn.br
-NOERROR	si.ufrn.br
-NXDOMAIN	diodo.dee.ufrn.br
-NOERROR	labs.imd.ufrn.br
-NOERROR	repositorio.ufrn.br
-NOERROR	ginga.ufrn.br
-NOERROR	imd-host-n1.lais.ufrn.br
-NOERROR	labplasma.ufrn.br
-NXDOMAIN	lscp.labcon.ct.ufrn.br
-NOERROR	comunica.ufrn.br
-NOERROR	naoresponder.lais.ufrn.br
-NOERROR	imd-host-n3.avasus.ufrn.br
-NOERROR	esud2018.ufrn.br
-NOERROR	acesso.imd.ufrn.br
-NOERROR	www.deart.ufrn.br
-NOERROR	covid19.imd.ufrn.br
-NOERROR	sol.labgeo.ufrn.br
-NOERROR	fmu.ufrn.br
-NOERROR	sigps.ufrn.br
-NOERROR	homolog.observasus.ufrn.br
-NOERROR	www.comissaodeetica.ufrn.br
-NOERROR	www.dpp.cchla.ufrn.br
-NOERROR	www.escoladesaude.ufrn.br
-NOERROR	profletras.ufrn.br
-NOERROR	www2.inova.imd.ufrn.br
-NOERROR	moodle.imd.ufrn.br
-NOERROR	www.comperve.ufrn.br
-NOERROR	sigsmartcampus.imd.ufrn.br
-NXDOMAIN	idp.ect.ufrn.br
-NOERROR	azulao.cchla.ufrn.br
-NOERROR	dvr1.ufrn.br
-NOERROR	posuab.sedis.ufrn.br
-NOERROR	redmine.lais.huol.ufrn.br
-NXDOMAIN	sw.info.ufrn.br
-NOERROR	vernaculo.ufrn.br
-NOERROR	dev.api.multiprova3.ufrn.br
-NOERROR	snmp.info.ufrn.br
-NOERROR	europa.dca.ufrn.br
-NOERROR	cetris.ufrn.br
-NOERROR	conferenciaabrasco.sedis.ufrn.br
-NOERROR	gema.lais.huol.ufrn.br
-NXDOMAIN	santana-gw.cerescaico.ufrn.br
-NOERROR	ava.cetris.ufrn.br
-NOERROR	ppgq.ufrn.br
-NOERROR	ns3.ufrn.br
-NOERROR	jobim.musica.ufrn.br
-NOERROR	campusvirtual.ufrn.br
-NOERROR	static.atencaobasica.lais.ufrn.br
-NOERROR	form.lues.vigilanciasaude.ufrn.br
-NOERROR	infra-k8s-deploy-test-oc-teleconsultoria-staging.k.lais.ufrn.br
-NOERROR	vagas.imd.ufrn.br
-NOERROR	www.dem.ufrn.br
-NOERROR	moodlepec.imd.ufrn.br
-NOERROR	www.psbe.ufrn.br
-NOERROR	pepsus.lais.ufrn.br
-NOERROR	pmaq3.lais.ufrn.br
-NOERROR	pessoal.ect.ufrn.br
-NOERROR	regulacao2.tst.lais.ufrn.br
-NOERROR	proxy.ccet.ufrn.br
-NOERROR	mnpef.ect.ufrn.br
-NOERROR	monitoramento.info.ufrn.br
-SERVFAIL	consiste.dimap.ufrn.br
-NOERROR	ecg.pntd-testes.telessaude.ufrn.br
-NOERROR	mail.ct.ufrn.br
-NOERROR	cemj.propesq.ufrn.br
-NOERROR	gas.ufrn.br
-NOERROR	solicitasus.sedis.ufrn.br
-NXDOMAIN	sarinho.ccs.ufrn.br
-NOERROR	cest.imd.ufrn.br
-NOERROR	agrass.lais.huol.ufrn.br
-NOERROR	display.lais.ufrn.br
-NOERROR	reuni.ufrn.br
-NOERROR	www.lcl.ufrn.br
-NOERROR	cb.ufrn.br
-NOERROR	fisiologia.ufrn.br
-NOERROR	iip.ufrn.br
-NOERROR	etec-teste.eaj.ufrn.br
-NOERROR	www.60anos.ufrn.br
-NOERROR	mandacarubeta.sedis.ufrn.br
-SERVFAIL	santana-gw.cerescnovos.ufrn.br
-NOERROR	pmaq2ceo.homolog.lais.ufrn.br
-NOERROR	hermes.lais.huol.ufrn.br
-NOERROR	developers.sedis.ufrn.br
-NOERROR	labepi.ufrn.br
-NOERROR	durin.info.ufrn.br
-NOERROR	mail.dfte.ufrn.br
-NOERROR	www.sipac.ufrn.br
-NOERROR	cloud.ufrn.br
-NOERROR	lais-host-n4.lais.ufrn.br
-NOERROR	unix.imd.ufrn.br
-NXDOMAIN	bdtb.bczm.ufrn.br
-NOERROR	prh22.prh22.ufrn.br
-NOERROR	covid.lais.ufrn.br
-NOERROR	www.lacessibilidade.bczm.ufrn.br
-NOERROR	obama.imd.ufrn.br
-NOERROR	msp.imagina.ufrn.br
-NOERROR	simaies.ufrn.br
-SERVFAIL	www.ppgq.ufrn.br
-NOERROR	api2.ufrn.br
-NOERROR	ct.ufrn.br
-SERVFAIL	cerescnovos.ufrn.br
-NOERROR	sbpo2013.ect.ufrn.br
-NOERROR	www.engenhariatextil.ct.ufrn.br
-NOERROR	imd-host-n3.lais.huol.ufrn.br
-NOERROR	sitelais.homolog.lais.ufrn.br
-NOERROR	brcd2.dem.ufrn.br
-NXDOMAIN	net.dca.ufrn.br
-NOERROR	www.enappe.ce.ufrn.br
-NOERROR	diadorin.filosofia.cchla.ufrn.br
-NOERROR	webdevel.sedis.ufrn.br
-NOERROR	hefesto.lcc.ufrn.br
-NOERROR	lynx.ufrn.br
-NOERROR	salas.deart.ufrn.br
-NOERROR	www.eaj.ufrn.br
-NOERROR	dee.ufrn.br
-NXDOMAIN	proxy.cchla.ufrn.br
-NOERROR	v1.lues.vigilanciasaude.ufrn.br
-NOERROR	fnetec.etec.eaj.ufrn.br
-NOERROR	avaprofiap.sedis.ufrn.br
-NOERROR	tng.fisica.ufrn.br
-NOERROR	siedi.ufrn.br
-NXDOMAIN	sultan.dfte.ufrn.br
-SERVFAIL	webmail.sri.ufrn.br
-NOERROR	cdp.vigilanciasaude.ufrn.br
-NOERROR	ru.ufrn.br
-NXDOMAIN	willian.info.ufrn.br
-NOERROR	eduroam2.info.ufrn.br
-NOERROR	nupprar.nupprar.ufrn.br
-NOERROR	webmail.naoresponder.avasus.ufrn.br
-NOERROR	ba.avasus.ufrn.br
-SERVFAIL	www.trilhaspotiguares.ufrn.br
-NOERROR	brcd1.ccsa.ufrn.br
-NOERROR	medicina.ccs.ufrn.br
-NOERROR	saiot2.ect.ufrn.br
-NOERROR	dhtmesh.dimap.ufrn.br
-NOERROR	portal-testes.info.ufrn.br
-NOERROR	psbe.ufrn.br
-NOERROR	papermaker.lais.huol.ufrn.br
-NOERROR	talk.imd.ufrn.br
-NOERROR	api.info.ufrn.br
-NOERROR	info.ufrn.br
-NOERROR	treinamentotelepediatria.telessaude.ufrn.br
-NOERROR	ihcdev.imd.ufrn.br
-NOERROR	docker.ct.ufrn.br
-NOERROR	cidadao.rnmaisvacina.homolog.lais.ufrn.br
-NOERROR	regulacao.homolog.lais.ufrn.br
-NOERROR	sigmx4.sistemas.ufrn.br
-NOERROR	www.cep.propesq.ufrn.br
-NOERROR	paje.ufrn.br
-NOERROR	sigaa.info.ufrn.br
-NOERROR	docs.homolog.lais.ufrn.br
-NOERROR	submissao.lais.huol.ufrn.br
-NOERROR	www.reservas.cchla.ufrn.br
-NOERROR	lpi.dca.ufrn.br
-NOERROR	lais-host-n7.lais.ufrn.br
-NOERROR	brcd1.bczm.ufrn.br
-NOERROR	www.vestibular.ufrn.br
-NOERROR	balder.info.ufrn.br
-NOERROR	www.grecom.ce.ufrn.br
-NOERROR	ponto.dimap.ufrn.br
-NOERROR	wp.info.ufrn.br
-NOERROR	ace.dfte.ufrn.br
-NOERROR	cerescaico.ufrn.br
-NOERROR	www.ppg.ufrn.br
-NOERROR	sigmx4.ufrn.br
-NOERROR	www.etec.eaj.ufrn.br
-NOERROR	residencia.info.ufrn.br
-NOERROR	avasus-pnt-app.avasus.ufrn.br
-NOERROR	baldur.info.ufrn.br
-NOERROR	cdp.atencaobasica.lais.ufrn.br
-NOERROR	ns1.ufrn.br
-NOERROR	enfermagem.ufrn.br
-NOERROR	www.iip.ufrn.br
-NOERROR	www.emusica.ufrn.br
-NOERROR	sabin.reitoria.ufrn.br
-NOERROR	mail.ccet.ufrn.br
-NOERROR	adriana.huol.ufrn.br
-NXDOMAIN	sigsisu.ufrn.br
-NOERROR	simbiom.cb.ufrn.br
-NOERROR	www.neuro.ufrn.br
-NOERROR	nic.nupprar.ufrn.br
-NOERROR	www2.ccet.ufrn.br
-NOERROR	espacos.imd.ufrn.br
-NOERROR	portalsifilisnao.homolog.lais.ufrn.br
-NOERROR	materiais.ufrn.br
-NOERROR	pmaq.lais.huol.ufrn.br
-NOERROR	solicitacao.sedis.ufrn.br
-NOERROR	projetos.dimap.ufrn.br
-NOERROR	themanager.homolog.lais.ufrn.br
-NOERROR	site.multiprova3.ufrn.br
-NOERROR	memo.ufrn.br
-NOERROR	www.programaaguaazul.ct.ufrn.br
-NOERROR	genese.ufrn.br
-NOERROR	habitat.ct.ufrn.br
-NOERROR	ecowalk.cb.ufrn.br
-NOERROR	lcc.ufrn.br
-NOERROR	form.vsaps.lais.ufrn.br
-NOERROR	git.ct.ufrn.br
-NOERROR	www.semanadeturismo.ccsa.ufrn.br
-NOERROR	www.sid.ufrn.br
-NOERROR	scet.ect.ufrn.br
-NOERROR	balder.ufrn.br
-NOERROR	benicio.info.ufrn.br
-NOERROR	smartcampus.imd.ufrn.br
-NOERROR	editora.ufrn.br
-NOERROR	imdtec.imd.ufrn.br
-NOERROR	multiprova3.ufrn.br
-NOERROR	bepege.ccsa.ufrn.br
-NOERROR	sedis.ufrn.br
-NOERROR	npad.imd.ufrn.br
-NOERROR	percola.cisc.ufrn.br
-NOERROR	stevens.dca.ufrn.br
-NOERROR	www.petee.ct.ufrn.br
-NOERROR	iif.ufrn.br
-NXDOMAIN	branner.dfte.ufrn.br
-NOERROR	irh.sedis.ufrn.br
-NOERROR	prh.ufrn.br
-NOERROR	www.guiomar.musica.ufrn.br
-NOERROR	meioambiente.ufrn.br
-NOERROR	handesk.homolog.lais.ufrn.br
-NOERROR	www.ppgeq.eq.ufrn.br
-NOERROR	sbmf2010.dimap.ufrn.br
-NOERROR	pitagoras.ct.ufrn.br
-NOERROR	www.avaliacao.ufrn.br
-SERVFAIL	santarita.huab.ufrn.br
-NOERROR	wwwold.lais.huol.ufrn.br
-SERVFAIL	leao.lasic.ufrn.br
-NXDOMAIN	ariel.cchla.ufrn.br
-NOERROR	sites.info.ufrn.br
-NOERROR	patrimonio.imd.ufrn.br
-NOERROR	portal.ect.ufrn.br
-NOERROR	redmine.regina.ufrn.br
-NOERROR	departamento.ufrn.br
-NOERROR	sipac.ufrn.br
-NOERROR	signuplam.ufrn.br
-NOERROR	mx.escoladesaude.ufrn.br
-NOERROR	chopin.musica.ufrn.br
-NOERROR	gitdesenvolvimento.info.ufrn.br
-NOERROR	chico.ufrn.br
-NOERROR	ws.api.saiot2.ect.ufrn.br
-NOERROR	dev.api.smartone.imd.ufrn.br
-NOERROR	nic1.nupprar.ufrn.br
-NOERROR	www.lte.ce.ufrn.br
-NOERROR	dev.api.smartretail.imd.ufrn.br
-NXDOMAIN	che.dce.ufrn.br
-NOERROR	gestore.ufrn.br
-NOERROR	sigeduc-bal1.imd.ufrn.br
-SERVFAIL	www.cartadeservicos.ufrn.br
-NOERROR	dca.ufrn.br
-NOERROR	www.propesq.ufrn.br
-NOERROR	sigeva.ccsa.ufrn.br
-NOERROR	icoloquiodefilosofia.ce.ufrn.br
-NOERROR	apitestes.info.ufrn.br
-NOERROR	api.saiot.ect.ufrn.br
-NOERROR	fisica1.dfte.ufrn.br
-NOERROR	editalapoiadorsifilis-hmg.lais.huol.ufrn.br
-NOERROR	teleconsulta.dev.telessaude.ufrn.br
-NXDOMAIN	mx.comperve.ufrn.br
-NOERROR	bi.info.ufrn.br
-NOERROR	www.cerescaico.ufrn.br
-NOERROR	fisica.dfte.ufrn.br
-NOERROR	forall.ufrn.br
-NOERROR	www.seq.eq.ufrn.br
-SERVFAIL	moodle.ddrh.ufrn.br
-NOERROR	iwsc17.imd.ufrn.br
-NOERROR	pes.imd.ufrn.br
-NOERROR	imd-host-n8.lais.ufrn.br
-NOERROR	trilhas.ufrn.br
-NOERROR	radio.fmu.ufrn.br
-NOERROR	www.tvu.ufrn.br
-NXDOMAIN	radiusteste.info.ufrn.br
-NOERROR	pascalsuite.imd.ufrn.br
-SERVFAIL	santana.cerescaico.ufrn.br
-NOERROR	retsus.ufrn.br
-NOERROR	imd-host-n2.telessaude.ufrn.br
-NOERROR	clima.ufrn.br
-NOERROR	www.progesp.ufrn.br
-NOERROR	materialpublic.imd.ufrn.br
-NXDOMAIN	galisteu.info.ufrn.br
-NOERROR	abrasconatal17.ufrn.br
-NOERROR	lop.ect.ufrn.br
-NOERROR	microcefalia.homolog.lais.ufrn.br
-NOERROR	pppg1.reitoria.ufrn.br
-NOERROR	gps.dca.ufrn.br
-SERVFAIL	grupoprojetar.ufrn.br
-NOERROR	mail.naoresponder.avasus.ufrn.br
-NOERROR	trilhaspotiguares.ufrn.br
-NOERROR	sisbi.ufrn.br
-SERVFAIL	www.cientec.ufrn.br
-SERVFAIL	www.metropoledigital.ufrn.br
-NOERROR	form.lues.homolog.vigilanciasaude.ufrn.br
-NOERROR	portal.imd.ufrn.br
-NOERROR	www.sigeleicao.ufrn.br
-NOERROR	www.ufrn.br
-NOERROR	www.darq.ufrn.br
-NOERROR	webmail.eaj.ufrn.br
-NOERROR	osinal.ect.ufrn.br
-NOERROR	vacinaidosos.homolog.lais.ufrn.br
-NOERROR	www.huol.ufrn.br
-NOERROR	importador.psbe.ufrn.br
-NOERROR	api.ufrn.br
-NOERROR	labsis.ufrn.br
-SERVFAIL	observatoriocovidrn.lais.ufrn.br
-NOERROR	hmateriais.imd.ufrn.br
-NOERROR	www.bct.ect.ufrn.br
-NOERROR	infra-k8s-deploy-test-lais-django-k8s.k.lais.ufrn.br
-SERVFAIL	www.profletras.ufrn.br
-SERVFAIL	www.consiste.dimap.ufrn.br
-SERVFAIL	www.grupoprojetar.ufrn.br
-NOERROR	ufrnnacopa.ufrn.br
-NXDOMAIN	proxy.eaj.ufrn.br
-NOERROR	testesuvige.imd.ufrn.br
-SERVFAIL	info.dgru.proae.ufrn.br
-NOERROR	manuais.regulacao.lais.ufrn.br
-NOERROR	sri.ufrn.br
-SERVFAIL	www.get.ct.ufrn.br
-NOERROR	pedagogico.imd.ufrn.br
-NOERROR	dem.ufrn.br
-NOERROR	cetel.ct.ufrn.br
-NOERROR	dev.multiprova3.ufrn.br
-NOERROR	editalapoiadorsifilis.lais.huol.ufrn.br
-NOERROR	simaies.homolog.lais.ufrn.br
-NOERROR	mail.sedis.ufrn.br
-NOERROR	brcd1.ufrn.br
-NOERROR	www.laci.ufrn.br
-NOERROR	gamedulab.dimap.ufrn.br
-NOERROR	hermes.iip.ufrn.br
-SERVFAIL	www.lasic.ufrn.br
-NOERROR	balancer.ufrn.br
-NOERROR	urano.ect.ufrn.br
-NXDOMAIN	es.info.ufrn.br
-NOERROR	webmail.dimap.ufrn.br
-NOERROR	conferencialais.sedis.ufrn.br
-NOERROR	testeapisuvige.imd.ufrn.br
-NOERROR	ipv6.ufrn.br
-NOERROR	obeduc.ce.ufrn.br
-NOERROR	salas.musica.ufrn.br
-NOERROR	projetos.comunica.ufrn.br
-NOERROR	guaja.ufrn.br
-NOERROR	avaproex.sedis.ufrn.br
-NOERROR	prh22.ufrn.br
-NOERROR	dep.ct.ufrn.br
-NOERROR	linus.quimica.ufrn.br
-NOERROR	sigpp.lais.ufrn.br
-NOERROR	hacksus.lais.huol.ufrn.br
-NOERROR	videos.info.ufrn.br
-NOERROR	brcd1.dfte.ufrn.br
-NOERROR	mignone.musica.ufrn.br
-SERVFAIL	mx02.rse.ce.ufrn.br
-NOERROR	avacgtes.sedis.ufrn.br
-NOERROR	smartmetropolis.imd.ufrn.br
-NOERROR	jerimumjobs.imd.ufrn.br
-NOERROR	ead.musica.ufrn.br
-NOERROR	sismolab.dfte.ufrn.br
-NOERROR	monografias.ufrn.br
-NOERROR	teleconsultoria.telessaude.ufrn.br
-NXDOMAIN	cana.ect.ufrn.br
-NOERROR	ws.api.saiot.ect.ufrn.br
-NOERROR	proxy.ct.ufrn.br
-NOERROR	newton.bczm.ufrn.br
-NOERROR	salasituacao.lais.huol.ufrn.br
-NOERROR	unasus.ufrn.br
-NOERROR	microcefalia.telessaude.ufrn.br
-NOERROR	reservas.cchla.ufrn.br
-NOERROR	lues.vigilanciasaude.ufrn.br
-NOERROR	smart.telessaude.ufrn.br
-NOERROR	parque.imd.ufrn.br
-NOERROR	aragorn.info.ufrn.br
-NOERROR	dns.ufrn.br
-NOERROR	ppgf.fisica.ufrn.br
-NOERROR	www.cbsoft.dimap.ufrn.br
-NOERROR	ns1.avasus.ufrn.br
-NOERROR	www.dmp.ufrn.br
-NOERROR	vigilanciasaude.ufrn.br
-NOERROR	hcurb.ct.ufrn.br
-NOERROR	profletras.sedis.ufrn.br
-NXDOMAIN	unused-net.ufrn.br
-NOERROR	www.dee.ufrn.br
-NOERROR	acolhesesap.lais.ufrn.br
-SERVFAIL	passagens.lais.ufrn.br
-NOERROR	portaldap.ufrn.br
-SERVFAIL	cartadeservicos.ufrn.br
-NOERROR	www.info.ufrn.br
-NOERROR	salus.lais.ufrn.br
-NOERROR	www.escritoriodeideias.ufrn.br
-NOERROR	lais-haproxy.lais.ufrn.br
-SERVFAIL	huab.ufrn.br
-NOERROR	hefesto.ppgsc.ufrn.br
-NOERROR	le-543.k.lais.ufrn.br
-NOERROR	www.ect.ufrn.br
-NOERROR	elias.ect.ufrn.br
-NOERROR	sti.ect.ufrn.br
-NOERROR	psbe.homolog.lais.ufrn.br
-SERVFAIL	decom.ufrn.br
-NOERROR	talk.sedis.ufrn.br
-NOERROR	vacinaidosos.lais.ufrn.br
-NOERROR	www.sedis.ufrn.br
-NOERROR	zeus.dca.ufrn.br
-NOERROR	mx2.iip.ufrn.br
-SERVFAIL	santana.cerescnovos.ufrn.br
-NOERROR	obdi.ccsa.ufrn.br
-NOERROR	ect.ufrn.br
-NOERROR	bbu.ufrn.br
-NOERROR	app-homologacao.info.ufrn.br
-NXDOMAIN	proxy.cb.ufrn.br
-NOERROR	betatest.thevideogame.ufrn.br
-NOERROR	presspoint.ufrn.br
-NOERROR	www.brentengenharia.ct.ufrn.br
-NOERROR	www.comcet.ect.ufrn.br
-NOERROR	www.fotec.ufrn.br
-NOERROR	caurn.ufrn.br
-NOERROR	tapioca.ufrn.br
-NOERROR	urano.info.ufrn.br
-NOERROR	gerenciador.avasus.ufrn.br
-NOERROR	include.ct.ufrn.br
-NOERROR	gestao.avasus.ufrn.br
-NOERROR	www.eneds.ct.ufrn.br
-NOERROR	bird.ce.ufrn.br
-SERVFAIL	www.sigaa.ufrn.br
-NOERROR	oc.info.ufrn.br
-NOERROR	bbb.telessaude.ufrn.br
-NOERROR	www.cajadb.neuro.ufrn.br
-NOERROR	oteeduc.educ.ufrn.br
-NOERROR	petcc.dimap.ufrn.br
-NOERROR	gqt.ct.ufrn.br
-NOERROR	etmf2016.imd.ufrn.br
-NOERROR	dmp.ufrn.br
-NOERROR	sistemas.comperve.ufrn.br
-NOERROR	sentry.lais.huol.ufrn.br
-NOERROR	flory.quimica.ufrn.br
-NOERROR	www.nesc.ufrn.br
-NOERROR	ppgcti.ect.ufrn.br
-NOERROR	www.cbeu.ufrn.br
-NOERROR	portalpap.ufrn.br
-NOERROR	pacs.huol.ufrn.br
-NOERROR	frotas.imd.ufrn.br
-NOERROR	webmail.eq.ufrn.br
-NOERROR	lea.estatistica.ccet.ufrn.br
-NOERROR	www.dinovacao.ect.ufrn.br
-NOERROR	andromeda.dfte.ufrn.br
-NXDOMAIN	proxy.odonto.ufrn.br
-NOERROR	sala.sedis.ufrn.br
-NOERROR	wikompose.musica.ufrn.br
-NOERROR	mx.ccs.ufrn.br
-NOERROR	www.telessaude.ufrn.br
-NOERROR	forms.lais.ufrn.br
-NXDOMAIN	zimbrateste.ufrn.br
-NOERROR	arquivos.info.ufrn.br
-NOERROR	paideia.sedis.ufrn.br
-NOERROR	www.ppgef.def.ufrn.br
-NOERROR	imdfic.imd.ufrn.br
-NOERROR	comcet.ect.ufrn.br
-NOERROR	hemoterapia.homolog.lais.ufrn.br
-NOERROR	cluster.dfte.ufrn.br
-SERVFAIL	www.huab.ufrn.br
-NOERROR	www.sigrh.ufrn.br
-NOERROR	protocolo.ufrn.br
-NOERROR	sedispro.sedis.ufrn.br
-NXDOMAIN	nepgn.nepgn.ufrn.br
-NOERROR	saiot.ect.ufrn.br
-NOERROR	sites-producao.info.ufrn.br
-NOERROR	kraken.si.ufrn.br
-NOERROR	geologia.ufrn.br
-NOERROR	wolfran.geologia.ufrn.br
-NOERROR	orientacoronarn.dev.lais.huol.ufrn.br
-NOERROR	sigmx6.ufrn.br
-NOERROR	dev.auth.saiot2.ect.ufrn.br
-NOERROR	vixe.ufrn.br
-SERVFAIL	www.meioambiente.ufrn.br
-NOERROR	osinaldev.ect.ufrn.br
-NOERROR	nuplamhomolog.imd.ufrn.br
-NOERROR	dev.ws.api.saiot2.ect.ufrn.br
-NOERROR	civil.ufrn.br
-NOERROR	infra-k8s-deploy-test-lais-passagens.k.lais.ufrn.br
-NOERROR	okd.lais.ufrn.br
-NXDOMAIN	webmail.info.ufrn.br
-NOERROR	mat.ufrn.br
-NOERROR	darwin.cb.ufrn.br
-NOERROR	sgeol-hml.imd.ufrn.br
-NOERROR	traefik.lais.ufrn.br
-NXDOMAIN	natal.adurn.ufrn.br
-NOERROR	plantexpert.imd.ufrn.br
-SERVFAIL	silb.cchla.ufrn.br
-NOERROR	mostradeprofissoes.prograd.ufrn.br
-NOERROR	etec.eaj.ufrn.br
-NOERROR	nac.ufrn.br
-NXDOMAIN	infovento.huol.ufrn.br
-NOERROR	emei.ufrn.br
-NOERROR	brcd1.ct.ufrn.br
-SERVFAIL	proex.ufrn.br
-NOERROR	brcd1.infra.ufrn.br
-NOERROR	gororoba.info.ufrn.br
-NOERROR	www1.ccet.ufrn.br
-NOERROR	lcl.ufrn.br
-NOERROR	videoserver.info.ufrn.br
-NOERROR	florianopolis.imd.ufrn.br
-NXDOMAIN	lewis.materiais.ufrn.br
-NOERROR	pontamel.dimap.ufrn.br
-NOERROR	csp.qualisaude.telessaude.ufrn.br
-NOERROR	regulacao1.tst.lais.ufrn.br
-NOERROR	ftp.ufrn.br
-NOERROR	dmx2.info.ufrn.br
-NOERROR	ppge.cchla.ufrn.br
-NOERROR	teleconsultoria.k.lais.ufrn.br
-NOERROR	www.gow12.dca.ufrn.br
-NOERROR	arrobinha.engcomp.ufrn.br
-NOERROR	brcd1.cchla.ufrn.br
-NOERROR	www.estatistica.ccet.ufrn.br
-NOERROR	simaies-php.homolog.lais.ufrn.br
-NXDOMAIN	proxy.ccsa.ufrn.br
-NOERROR	poseidon.iip.ufrn.br
-NOERROR	progesp.ufrn.br
-SERVFAIL	proae.ufrn.br
-NOERROR	ppgmae.ufrn.br
-NXDOMAIN	buchada.si.ufrn.br
-NOERROR	www.ateliedefilosofia.ce.ufrn.br
-NOERROR	gepem.sedis.ufrn.br
-NOERROR	vc.musica.ufrn.br
-NOERROR	pitfall.imd.ufrn.br
-NOERROR	dct.ceres.ufrn.br
-NOERROR	sigadmin.ufrn.br
-NOERROR	cloudacad.imd.ufrn.br
-NOERROR	banners.homolog.lais.ufrn.br
-NXDOMAIN	dinamo.dfte.ufrn.br
-NOERROR	ladc2019.imd.ufrn.br
-NOERROR	dados.ufrn.br
-NOERROR	monitoraaedes.homolog.lais.ufrn.br
-NOERROR	regina.ufrn.br
-NOERROR	www.dimap.ufrn.br
-NOERROR	moodle.etec.eaj.ufrn.br
-SERVFAIL	mx.enfermagem.ufrn.br
-NOERROR	mdl19.sedis.ufrn.br
-NOERROR	rn.avasus.ufrn.br
-NOERROR	sues.imd.ufrn.br
-NXDOMAIN	siged.ufrn.br
-NOERROR	historiasdaead.sedis.ufrn.br
-NOERROR	governanca.ufrn.br
-NOERROR	testeproxy.lais.ufrn.br
-NOERROR	sbic.ct.ufrn.br
-NOERROR	bioengenharia.ct.ufrn.br
-SERVFAIL	www.revistaeduquestao.educ.ufrn.br
-NOERROR	lirio.bczm.ufrn.br
-NOERROR	version.info.ufrn.br
-NXDOMAIN	sistemas2.info.ufrn.br
-NOERROR	inovasus.lais.huol.ufrn.br
-NOERROR	proxy.ceres.ufrn.br
-NOERROR	alquimista.nuplam.ufrn.br
-NOERROR	proxy.comperve.ufrn.br
-NOERROR	www.cchla.ufrn.br
-NOERROR	graduacao.ufrn.br
-NOERROR	complex.dfte.ufrn.br
-NOERROR	manchester.imd.ufrn.br
-SERVFAIL	server2.gasol.ufrn.br
-NOERROR	psicologia.ufrn.br
-NOERROR	smartteste.telessaude.ufrn.br
-NXDOMAIN	bbb.sedis.ufrn.br
-NOERROR	mdl2013.sedis.ufrn.br
-NOERROR	sbmf2016.imd.ufrn.br
-NOERROR	gpmuc.musica.ufrn.br
-NOERROR	www.ppgsc.ufrn.br
-NOERROR	mdl.sedis.ufrn.br
-NOERROR	www.prh.ufrn.br
-NOERROR	atencaobasica.lais.ufrn.br
-NOERROR	icde2021.ufrn.br
-NOERROR	sinfo.ufrn.br
-NOERROR	servidor.tvu.ufrn.br
-NOERROR	restaurante.info.ufrn.br
-NOERROR	mendel.cb.ufrn.br
-NOERROR	rbec.ect.ufrn.br
-NXDOMAIN	proxy.huol.ufrn.br
-NOERROR	chat.imd.ufrn.br
-NOERROR	retinografia.pntd-testes.telessaude.ufrn.br
-NOERROR	ucrania.imd.ufrn.br
-NOERROR	mail.dca.ufrn.br
-NOERROR	software-testes.info.ufrn.br
-NOERROR	compras.ufrn.br
-NOERROR	servidorlac.huol.ufrn.br
-NOERROR	ornamentais.eaj.ufrn.br
-NOERROR	universitas.ce.ufrn.br
-NOERROR	seminariosifilisnao.lais.huol.ufrn.br
-NOERROR	see2013.ct.ufrn.br
-NOERROR	www.nac.ufrn.br
-SERVFAIL	proxy.huab.ufrn.br
-NOERROR	gestao-paciente.dev.lais.ufrn.br
-NOERROR	wiki.sedis.ufrn.br
-NOERROR	laismail.lais.huol.ufrn.br
-NOERROR	observatoriodadengue.homolog.lais.ufrn.br
-NOERROR	ce.avasus.ufrn.br
-NOERROR	teleconsultav4h.dev.telessaude.ufrn.br
-NOERROR	dev.api.educaio.ufrn.br
-NOERROR	teleretinografia.homolog.telessaude.ufrn.br
-NOERROR	www.docente.ufrn.br
-NOERROR	suporte.sedis.ufrn.br
-NOERROR	gpsl.dfte.ufrn.br
-SERVFAIL	sepe.cerescaico.ufrn.br
-NOERROR	www.ce.ufrn.br
-NOERROR	www.sigadmin.ufrn.br
-NOERROR	multiprova2.ufrn.br
-NOERROR	musica.ufrn.br
-NOERROR	propesq.ufrn.br
-NOERROR	cdp.homolog.vigilanciasaude.ufrn.br
-NOERROR	sistemas.imd.ufrn.br
-NOERROR	deart.ufrn.br
-NOERROR	eddard.info.ufrn.br
-NOERROR	mba-eula-gtec.imd.ufrn.br
-NOERROR	www.geologia.ufrn.br
-NOERROR	zeus.reitoria.ufrn.br
-NOERROR	datascience.dca.ufrn.br
-NOERROR	petee.ct.ufrn.br
-NOERROR	suporte.homolog.lais.ufrn.br
-NOERROR	nebulus.ufrn.br
-NOERROR	lais-host-n4.lais.huol.ufrn.br
-NOERROR	inside.imd.ufrn.br
-NOERROR	smartone.imd.ufrn.br
-NOERROR	neuro.ufrn.br
-SERVFAIL	cic.propesq.ufrn.br
-NOERROR	mail.ect.ufrn.br
-NOERROR	soro.escolaenf.ufrn.br
-NOERROR	moodle.civil.ufrn.br
-NOERROR	git.info.ufrn.br
-NOERROR	sigpp.ufrn.br
-NOERROR	mx.geologia.ufrn.br
-NOERROR	api.sabia.ufrn.br
-NOERROR	nuvem.imd.ufrn.br
-NOERROR	projetos.imd.ufrn.br
-NOERROR	fiscalizarn.homolog.lais.ufrn.br
-NOERROR	materiaispec.imd.ufrn.br
-SERVFAIL	darq.ufrn.br
-NOERROR	www.2enappe.ce.ufrn.br
-NXDOMAIN	einstein.dfte.ufrn.br
-NOERROR	imd-host-n1.telessaude.ufrn.br
-NXDOMAIN	sol2.ccsa.ufrn.br
-NOERROR	guarani.prh.ufrn.br
-NOERROR	swagger.info.ufrn.br
-NOERROR	dalmolingroup.imd.ufrn.br
-NOERROR	bczm.ufrn.br
-NOERROR	backup.info.ufrn.br
-NOERROR	lais-host-n3.lais.ufrn.br
-NOERROR	balancer-uern.info.ufrn.br
-NOERROR	lyncac.labcon.ct.ufrn.br
-NOERROR	goiamum.ufrn.br
-NOERROR	telepediatria.homolog.telessaude.ufrn.br
-NOERROR	www.sinfo.ufrn.br
-NOERROR	sistemasdesktop.ufrn.br
-NOERROR	littlebig.nupeg.ufrn.br
-NOERROR	lte.ce.ufrn.br
-NOERROR	gitcooperacao.info.ufrn.br
-NOERROR	lii.dca.ufrn.br
-NOERROR	bioinfo.imd.ufrn.br
-NXDOMAIN	www.deart.cchla.ufrn.br
-NOERROR	wsirh.sedis.ufrn.br
-NOERROR	imias.ufrn.br
-NOERROR	doutoradoprodema.ufrn.br
-NXDOMAIN	cs.cloud.ufrn.br
-NOERROR	labordoc.ceres.ufrn.br
-NOERROR	triagemhospedagem.homolog.lais.huol.ufrn.br
-NOERROR	soscovid19.imd.ufrn.br
-NOERROR	ouvidoria.ufrn.br
-NOERROR	fisica2.dfte.ufrn.br
-NOERROR	lime.imd.ufrn.br
-NOERROR	validador.pmaq.sedis.ufrn.br
-NOERROR	webmail.geofisica.ufrn.br
-NOERROR	www.lais.huol.ufrn.br
-NOERROR	www.eq.ufrn.br
-NOERROR	potengi.dfte.ufrn.br
-NOERROR	www.vsbgea.ccet.ufrn.br
-NOERROR	hydra.si.ufrn.br
-NOERROR	dpp.cchla.ufrn.br
-NOERROR	www.ojs.ccsa.ufrn.br
-NOERROR	bracis2015.imd.ufrn.br
-NOERROR	direitoshumanos.ufrn.br
-NOERROR	oqrn.quimica.ufrn.br
-NOERROR	caus.ufrn.br
-NOERROR	homologacao.info.ufrn.br
-SERVFAIL	firewall.caurn.ufrn.br
-NOERROR	cooperacao.info.ufrn.br
-NOERROR	signuplam.imd.ufrn.br
-NXDOMAIN	tron.geologia.ufrn.br
-NXDOMAIN	te.imd.ufrn.br
-NOERROR	imagina.ufrn.br
-SERVFAIL	get.ct.ufrn.br
-SERVFAIL	lab.metropoledigital.ufrn.br
-NOERROR	pinga.comperve.ufrn.br
-NOERROR	selecao.imd.ufrn.br
-NOERROR	gim.ect.ufrn.br
-NOERROR	docs.info.ufrn.br
-NOERROR	stream.lais.huol.ufrn.br
-NXDOMAIN	dmat.ufrn.br
-NOERROR	fimuca.musica.ufrn.br
-NOERROR	www.paisagensdamemoria.ct.ufrn.br
-SERVFAIL	sae.ufrn.br
-NOERROR	kraken.info.ufrn.br
-NOERROR	www.ppgmae.ufrn.br
-NOERROR	autenticacao.ufrn.br
-NOERROR	ce.ufrn.br
-NOERROR	brcd1.mcc.ufrn.br
-NOERROR	rse.ce.ufrn.br
-NOERROR	www.ppgcti.ect.ufrn.br
-SERVFAIL	observatoriorh.ufrn.br
-NOERROR	regulacao.lais.ufrn.br
-NOERROR	olimpus.lais.ufrn.br
-NOERROR	hungria.neuro.ufrn.br
-NOERROR	lues.homolog.vigilanciasaude.ufrn.br
-NOERROR	ccet.ufrn.br
-NOERROR	simulador.sedis.ufrn.br
-SERVFAIL	sogra.lcm.ufrn.br
-NOERROR	www.hcurb.ct.ufrn.br
-NOERROR	selem4.imd.ufrn.br
-NOERROR	eject.ect.ufrn.br
-NOERROR	www.fisica.ufrn.br
-SERVFAIL	moodle2.metropoledigital.ufrn.br
-NOERROR	sigmx3.sistemas.ufrn.br
-NOERROR	haskell.imd.ufrn.br
-NOERROR	mx.ct.ufrn.br
-NOERROR	idp2.imd.ufrn.br
-NOERROR	grupocontar.ce.ufrn.br
-NOERROR	elis.musica.ufrn.br
-NOERROR	producao.info.ufrn.br
-NOERROR	zurique.imd.ufrn.br
-NOERROR	localizasus.lais.ufrn.br
-NOERROR	escoladesaude.ufrn.br
-NOERROR	videoconferencia.imd.ufrn.br
-SERVFAIL	monica.vrl.ufrn.br
-NOERROR	laut.dca.ufrn.br
-NOERROR	login.sabia.ufrn.br
-NOERROR	seminarioicde.lais.huol.ufrn.br
-NOERROR	mail.ufrn.br
-NXDOMAIN	retratosab.homolog.lais.ufrn.br
-NXDOMAIN	redmine.saiot.ect.ufrn.br
-NOERROR	tv.sedis.ufrn.br
-NOERROR	mx5.ufrn.br
-NOERROR	proplan.ufrn.br
-NOERROR	gerhqual.ufrn.br
-NOERROR	dap2.info.ufrn.br
-NOERROR	credenciamentoparque.imd.ufrn.br
-NXDOMAIN	proxy.ccs.ufrn.br
-NOERROR	sbseg2018.imd.ufrn.br
-NOERROR	pmaq2ceo.lais.huol.ufrn.br
-NOERROR	estudio.musica.ufrn.br
-NOERROR	sabia.ufrn.br
-NOERROR	lmc.emusica.ufrn.br
-NOERROR	www.mostradeprofissoes.prograd.ufrn.br
-NOERROR	autenticacao-cooperacao.info.ufrn.br
-NOERROR	sig1.info.ufrn.br
-NOERROR	sigprojetos.ufrn.br
-NOERROR	bti.imd.ufrn.br
-NOERROR	mail.geologia.ufrn.br
-NOERROR	comperve.ufrn.br
-NOERROR	www2.dca.ufrn.br
-NOERROR	venus.ccet.ufrn.br
-NOERROR	2enappe.ce.ufrn.br
-NOERROR	www.ceres.ufrn.br
-NXDOMAIN	pen.sipac.ufrn.br
-NOERROR	web-testes.info.ufrn.br
-NOERROR	sigmx5.ufrn.br
-NOERROR	ares.lcc.ufrn.br
-NOERROR	ns2.avasus.ufrn.br
-NOERROR	talk.ect.ufrn.br
-NOERROR	trudesk.homolog.lais.ufrn.br
-NOERROR	www.sgp.ufrn.br
-NOERROR	cana.imd.ufrn.br
-NOERROR	exec.lop.ect.ufrn.br
-NOERROR	epet.imd.ufrn.br
-NOERROR	webmail.lais.huol.ufrn.br
-NOERROR	lcr.ufrn.br
-NOERROR	lais-host-n3.lais.huol.ufrn.br
-NOERROR	barramento.lais.huol.ufrn.br
-NOERROR	rhsus.ufrn.br
-NXDOMAIN	as4.ufrn.br
-NOERROR	servicos.ufrn.br
-NOERROR	www.npad.ufrn.br
-NOERROR	guiomar.musica.ufrn.br
-NOERROR	www.seminario.ccsa.ufrn.br
-NOERROR	platao.ct.ufrn.br
-NOERROR	inova.imd.ufrn.br
-NOERROR	arquimedes.ct.ufrn.br
-NOERROR	mec.ufrn.br
-NXDOMAIN	diodo.ct.ufrn.br
-NOERROR	astro.dfte.ufrn.br
-NOERROR	www.infra.ufrn.br
-NOERROR	rnvacina.homolog.lais.ufrn.br
-NOERROR	cdp.piloto.vigilanciasaude.ufrn.br
-NOERROR	lestat.dfte.ufrn.br
-NOERROR	davinci.dca.ufrn.br
-NOERROR	biglittle.eq.ufrn.br
-NOERROR	area8.dca.ufrn.br
-NOERROR	www.sri.ufrn.br
-NOERROR	rhsusv3.ufrn.br
-NOERROR	macau.eq.ufrn.br
-NOERROR	www.quimica.ufrn.br
-NOERROR	monivarf-u.ccs.ufrn.br
-NOERROR	cchla.ufrn.br
-NOERROR	dns2.lais.ufrn.br
-NOERROR	rnmaisvacina.lais.ufrn.br
-NOERROR	www.ouvidoria.ufrn.br
-NOERROR	principios.cchla.ufrn.br
-NOERROR	www2.lais.huol.ufrn.br
-NOERROR	hortanutrir.ccs.ufrn.br
-NOERROR	ppgsc.ufrn.br
-NOERROR	emusica.ufrn.br
-NOERROR	washington.imd.ufrn.br
-NOERROR	webmail.reitoria.ufrn.br
-NOERROR	www.ru.ufrn.br
-NOERROR	proxy.gerencia.ufrn.br
-NOERROR	users.dca.ufrn.br
-NOERROR	www.leca.ufrn.br
-NOERROR	eventos.lais.ufrn.br
-NOERROR	www.musica.ufrn.br
-NOERROR	ria.ufrn.br
-NOERROR	dev.ws.api.saiot.ect.ufrn.br
-NOERROR	lech.cb.ufrn.br
-NOERROR	dprf-homologacao.info.ufrn.br
-NOERROR	devel7.sedis.ufrn.br
-SERVFAIL	geopro.ufrn.br
-NOERROR	imd-host-n2.vigilanciasaude.ufrn.br
-NOERROR	engenergia.dca.ufrn.br
-NOERROR	seminario2013.ccsa.ufrn.br
-NOERROR	repositorio.imd.ufrn.br
-NOERROR	galeano.cchla.ufrn.br
-NOERROR	www.sbpo2013.ect.ufrn.br
-NOERROR	www.sbai2015.dca.ufrn.br
-NOERROR	sislink.geofisica.ufrn.br
-NOERROR	ppgee.ufrn.br
-NXDOMAIN	servnet.caurn.ufrn.br
-NOERROR	tronco.cchla.ufrn.br
-NOERROR	dmpserver.dmp.ufrn.br
-NOERROR	monivarf-p.ccs.ufrn.br
-NOERROR	quimica.ufrn.br
-NOERROR	lacessibilidade.bczm.ufrn.br
-NOERROR	ria.bczm.ufrn.br
-NOERROR	viagens.sedis.ufrn.br
-SERVFAIL	revistaeduquestao.educ.ufrn.br
-NOERROR	ppged.ufrn.br
-NOERROR	mail.si.ufrn.br
-NOERROR	homologacao-uern.info.ufrn.br
-NOERROR	cocada.info.ufrn.br
-NOERROR	www.bczm.ufrn.br
-NOERROR	epogames.imd.ufrn.br
-NOERROR	cluster01.clima.ufrn.br
-NOERROR	multiprova.ufrn.br
-NOERROR	webmail.iip.ufrn.br
-SERVFAIL	lampiao.editora.ufrn.br
-NOERROR	mcc.ufrn.br
-NOERROR	www.imd.ufrn.br
-NOERROR	www.sigeventos.ufrn.br
-NOERROR	ela.lais.huol.ufrn.br
-NOERROR	revelanos.lais.ufrn.br
-NOERROR	enia.imd.ufrn.br
-NOERROR	redmine-sgp.ufrn.br
-NOERROR	console.okd.lais.ufrn.br
-NOERROR	sifilis.lais.huol.ufrn.br
-NOERROR	worksete.imd.ufrn.br
-NOERROR	ciclo.info.ufrn.br
-NOERROR	www.dca.ufrn.br
-NOERROR	thanos.imd.ufrn.br
-NXDOMAIN	as3.ufrn.br
-NOERROR	formacao.sedis.ufrn.br
-NOERROR	projedata.grupoprojetar.ufrn.br
-NOERROR	www.galeano.cchla.ufrn.br
-NOERROR	mx3.ufrn.br
-NOERROR	s3c.imd.ufrn.br
-NOERROR	git.lais.huol.ufrn.br
-NOERROR	educaio.ufrn.br
-NOERROR	dce.ufrn.br
-NOERROR	baldur.ufrn.br
-NOERROR	gepec.ccs.ufrn.br
-NOERROR	www.pibid.ufrn.br
-NOERROR	testescomperve.imd.ufrn.br
-NOERROR	mediotec.imd.ufrn.br
-NOERROR	www.dfte.ufrn.br
-NOERROR	projetosdti.imd.ufrn.br
-NOERROR	urano.ppgsc.ufrn.br
-NOERROR	naoresponder.avasus.ufrn.br
-NOERROR	mail.lcc.ufrn.br
-NXDOMAIN	galateia.dca.ufrn.br
-NOERROR	mx4.ufrn.br
-NOERROR	lais-django.k.lais.ufrn.br
-NOERROR	santana.ceres.ufrn.br
-NOERROR	dns1.lais.huol.ufrn.br
-NOERROR	stream.sedis.ufrn.br
-NOERROR	ccs.ufrn.br
-NOERROR	servicos.ect.ufrn.br
-NOERROR	rota.sedis.ufrn.br
-NOERROR	www.mcc.ufrn.br
-NOERROR	davinci.linguaportuguesa.ufrn.br
-NOERROR	nesc2.ufrn.br
-NOERROR	api.musica.ufrn.br
-NOERROR	inova2.imd.ufrn.br
-NOERROR	dmx1.info.ufrn.br
-NOERROR	www.bioengenharia.ct.ufrn.br
-NOERROR	smartpnt.homolog.telessaude.ufrn.br
-NOERROR	tex.imd.ufrn.br
-NOERROR	www.repositorio.ufrn.br
-NOERROR	epds.sedis.ufrn.br
-NXDOMAIN	natalnet.dca.ufrn.br
-NOERROR	observatoriodengue.lais.huol.ufrn.br
-NOERROR	www.nativasnocampus.cb.ufrn.br
-NOERROR	seminario2016.ccsa.ufrn.br
-NOERROR	pacs.lais.huol.ufrn.br
-NOERROR	observatoriodadengue.telessaude.ufrn.br
-NOERROR	aragorn.ufrn.br
-NOERROR	nupprar.ufrn.br
-NOERROR	coopera.dimap.ufrn.br
-NOERROR	imd.ufrn.br
-NOERROR	www.nuplam.ufrn.br
-NOERROR	nit.ufrn.br
-NOERROR	www.ppgecnm.ccet.ufrn.br
-NOERROR	sigmx2.sistemas.ufrn.br
-NOERROR	galeria.lues.vigilanciasaude.ufrn.br
-NOERROR	chopin.emusica.ufrn.br
-NOERROR	sistemas.ufrn.br
-NOERROR	foteq.nupeg.ufrn.br
-NOERROR	enei.ce.ufrn.br
-NOERROR	monivarf.ccs.ufrn.br
-NOERROR	yoda01.neuro.ufrn.br
-NOERROR	comissaodeetica.ufrn.br
-NOERROR	www.hortanutrir.ccs.ufrn.br
-NOERROR	gitlab.ect.ufrn.br
-NOERROR	monografias.imd.ufrn.br
-NOERROR	petroleo.dca.ufrn.br
-NOERROR	mx.cb.ufrn.br
-SERVFAIL	mx05.rse.ce.ufrn.br
-NOERROR	natalogic-2015.dimap.ufrn.br
-NOERROR	static.info.ufrn.br
-NOERROR	mail.propesq.ufrn.br
-NOERROR	ect.ect.ufrn.br
-NOERROR	yoda02.neuro.ufrn.br
-NOERROR	proxy.reitoria.ufrn.br
-NXDOMAIN	cloud.info.ufrn.br
-NOERROR	changelog.info.ufrn.br
-NOERROR	www.pairg.dimap.ufrn.br
-NOERROR	proxy.bczm.ufrn.br
-NOERROR	mandacaru.etec.eaj.ufrn.br
-NOERROR	aguazul.nupprar.ufrn.br
-NOERROR	jerimum.ufrn.br
-NOERROR	www.portalcooperacao.info.ufrn.br
-NOERROR	conabea2013.ct.ufrn.br
-NOERROR	ponto.musica.ufrn.br
-NOERROR	sb.ieee.ufrn.br
-NOERROR	ppg.ufrn.br
-NOERROR	smart.homolog.lais.ufrn.br
-NOERROR	modelo.sedis.ufrn.br
-NOERROR	sistemacomperve.imd.ufrn.br
-NOERROR	robotica.dca.ufrn.br
-NOERROR	monitor.smart-defender.imd.ufrn.br
-NOERROR	campusseguro.imd.ufrn.br
-NOERROR	alpha.dem.ufrn.br
-NOERROR	apihorarios.ect.ufrn.br
-NOERROR	www.labsis.ufrn.br
-NOERROR	jmlsite.homolog.lais.ufrn.br
-NOERROR	lbmg.cb.ufrn.br
-NOERROR	docente.ufrn.br
-NOERROR	fmc.imd.ufrn.br
-NOERROR	nesc.nesc.ufrn.br
-NOERROR	cheff.prometh.ufrn.br
-NOERROR	sigeventos.ufrn.br
-NOERROR	seminario2014.ccsa.ufrn.br
-NOERROR	mail.info.ufrn.br
-NOERROR	www.fmu.ufrn.br
-NOERROR	lais-n1.lais.huol.ufrn.br
-NOERROR	cgtes.sedis.ufrn.br
-NOERROR	webmail.ct.ufrn.br
-NOERROR	shiny.estatistica.ccet.ufrn.br
-NOERROR	dermatologia.pntd.telessaude.ufrn.br
-NXDOMAIN	mx.info.ufrn.br
-NOERROR	enappe.ce.ufrn.br
-NOERROR	materiais.imd.ufrn.br
-SERVFAIL	bct.ect.ufrn.br
-NOERROR	www.leep.ccs.ufrn.br
-NOERROR	inpacta.ect.ufrn.br
-NOERROR	campanhaaedes.ufrn.br
-NOERROR	lais.huol.ufrn.br
-NOERROR	rstudio-biome.imd.ufrn.br
-NXDOMAIN	semufrn.musica.ufrn.br
-NOERROR	lii.imd.ufrn.br
-NOERROR	www.nei.ufrn.br
-NOERROR	huol.ufrn.br
-NOERROR	pr.avasus.ufrn.br
-NOERROR	congressos.dca.ufrn.br
-NOERROR	alpha3d.dem.ufrn.br
-NOERROR	www.imoc2011.ufrn.br
-NOERROR	nupeg.ufrn.br
-NXDOMAIN	gep.lais.huol.ufrn.br
-NOERROR	repositoriolabim.cchla.ufrn.br
-NOERROR	brcd1.dem.ufrn.br
-NOERROR	dti.imd.ufrn.br
-NOERROR	ebserh-sipac.info.ufrn.br
-NOERROR	gitlab.sedis.ufrn.br
-NOERROR	sida.ufrn.br
-NXDOMAIN	videoconf.imd.ufrn.br
-NOERROR	mail.naoresponder.lais.ufrn.br
-NOERROR	zeus.dimap.ufrn.br
-NOERROR	rnmaisvacina.homolog.lais.ufrn.br
-NOERROR	properd.imd.ufrn.br
-NOERROR	www.avasus.ufrn.br
-NOERROR	botagenda.lais.ufrn.br
-NOERROR	registry.lais.huol.ufrn.br
-NOERROR	avatelessaude.sedis.ufrn.br
-NOERROR	ppgd.ccsa.ufrn.br
-SERVFAIL	pppg1.proex.ufrn.br
-NXDOMAIN	hemoterapia.lais.huol.ufrn.br
-NOERROR	le-697.k.lais.ufrn.br
-SERVFAIL	labepi.cerescaico.ufrn.br
-NOERROR	eadpronatec.eaj.ufrn.br
-NOERROR	www.semapa.ufrn.br
-NOERROR	pmaq.sedis.ufrn.br
-NOERROR	caene.ufrn.br
-NOERROR	staging.multiprova.ufrn.br
-NOERROR	www.dmor.cb.ufrn.br
-NOERROR	atende.imd.ufrn.br
-NOERROR	dmor.cb.ufrn.br
-NOERROR	videoconf.dfte.ufrn.br
-NOERROR	ojs.ccsa.ufrn.br
-NOERROR	inclusaodigital.imd.ufrn.br
-NOERROR	suvige.imd.ufrn.br
-NXDOMAIN	gpeo.ect.ufrn.br
-SERVFAIL	www.psicologia.ufrn.br
-NOERROR	natalvacinacaoidosos.lais.huol.ufrn.br
-NOERROR	siqueira.musica.ufrn.br
-NOERROR	tecnatus.ct.ufrn.br
-NOERROR	boletim.lues.vigilanciasaude.ufrn.br
-NOERROR	www.olimpiada.ccet.ufrn.br
-NOERROR	www.periodicos.ufrn.br
-NOERROR	mdlcursos.sedis.ufrn.br
-NOERROR	www.obdi.ccsa.ufrn.br
-NOERROR	simadm.ccsa.ufrn.br
-NOERROR	bibliotecadigital.sedis.ufrn.br
-NOERROR	seminariolaiscisuc.lais.huol.ufrn.br
-NOERROR	dev.api.saiot2.ect.ufrn.br
-NOERROR	www.iproject.ufrn.br
-NOERROR	pacs.homolog.lais.huol.ufrn.br
-NOERROR	sigmx2.ufrn.br
-NOERROR	nuplam.ufrn.br
-NOERROR	www.emcm.ufrn.br
-NOERROR	mamede.bczm.ufrn.br
-NOERROR	gestantes.telessaude.ufrn.br
-SERVFAIL	sagui.fisiologia.ufrn.br
-NOERROR	servidor.eaj.ufrn.br
-NOERROR	viva.imd.ufrn.br
-NOERROR	desenvolvimento.info.ufrn.br
-NOERROR	nesc.ufrn.br
-NOERROR	monica.huol.ufrn.br
-NOERROR	kaos.dfte.ufrn.br
-NOERROR	prograd.ufrn.br
-NOERROR	www.lcc.ufrn.br
-NOERROR	mail.geofisica.ufrn.br
-NOERROR	caranguejo.ufrn.br
-NOERROR	telepediatria.telessaude.ufrn.br
-NOERROR	lais-host-n8.lais.ufrn.br
-NOERROR	lasem.imd.ufrn.br
-NOERROR	irhsus.lais.ufrn.br
-NOERROR	suporte2.huol.ufrn.br
-NOERROR	naris.info.ufrn.br
-NOERROR	ufrnapresenta.imd.ufrn.br
-NOERROR	www.labem.ct.ufrn.br
-NOERROR	www.iif.ufrn.br
-NOERROR	brcd2.ufrn.br
-NOERROR	www.ct.ufrn.br
-NOERROR	eb.ct.ufrn.br
-NOERROR	stimoodle.imd.ufrn.br
-SERVFAIL	www.linguaportuguesa.ufrn.br
-NOERROR	www.sisbi.ufrn.br
-NXDOMAIN	snwl.info.ufrn.br
-NOERROR	psbe-importador.homolog.lais.ufrn.br
-NOERROR	suporte.lais.huol.ufrn.br
-NOERROR	api.themanager.lais.ufrn.br
-NOERROR	fotec.ufrn.br
-SERVFAIL	labplasma.labplasma.ufrn.br
-SERVFAIL	storm-gw.caj.ufrn.br
-NOERROR	wiki.imd.ufrn.br
-NOERROR	kronos.dfte.ufrn.br
-NXDOMAIN	truedesk.homolog.lais.ufrn.br
-NOERROR	aerocarkara.ct.ufrn.br
-NOERROR	vigilancianatal.lais.ufrn.br
-NOERROR	seminario2015.ccsa.ufrn.br
-SERVFAIL	mx03.rse.ce.ufrn.br
-NOERROR	leitoscovidrn.imd.ufrn.br
-NOERROR	nimrod.info.ufrn.br
-NOERROR	www.matematica.ccet.ufrn.br
-NOERROR	sol.ccsa.ufrn.br
-NOERROR	gandalf.ufrn.br
-NOERROR	www.rbec.ect.ufrn.br
-NOERROR	ponto.imd.ufrn.br
-NOERROR	www.labman.ct.ufrn.br
-NOERROR	matematica.ccet.ufrn.br
-NOERROR	planthistorian.imd.ufrn.br
-NOERROR	revistafides.ufrn.br
-NOERROR	www.sisu.ufrn.br
-NOERROR	sisu.ufrn.br
-NOERROR	gamelab.imd.ufrn.br
-NOERROR	repositorio.hmg.avasus.ufrn.br
-NOERROR	lues.piloto.vigilanciasaude.ufrn.br
-NOERROR	www.criacao.ufrn.br
-NOERROR	frequencia.bczm.ufrn.br
-NOERROR	pairg.dimap.ufrn.br
-NOERROR	v1.form.lues.vigilanciasaude.ufrn.br
-NOERROR	webmail.geologia.ufrn.br
-NOERROR	nepgn.ufrn.br
-NOERROR	sipac.info.ufrn.br
-NOERROR	andorinha.pntd.telessaude.ufrn.br
-NOERROR	sigrh.ufrn.br
-SERVFAIL	escolaenf.ufrn.br
-NOERROR	transparencia.avasus.ufrn.br
-NOERROR	albuquerque.dfte.ufrn.br
-NOERROR	www.principios.cchla.ufrn.br
-NOERROR	api.themanager.homolog.lais.ufrn.br
-SERVFAIL	www.noticias.cientec.ufrn.br
-NOERROR	statphys.fisica.ufrn.br
-NOERROR	eneds.ct.ufrn.br
-NOERROR	lais-host-n7.vigilanciasaude.ufrn.br
-NOERROR	desenvolvedores.sabia.ufrn.br
-NOERROR	compredecasarn.imd.ufrn.br
-NOERROR	opa.ufrn.br
-NOERROR	vsaps.lais.ufrn.br
-NXDOMAIN	seridoh.dfte.ufrn.br
-NOERROR	ajuda.atencaobasica.lais.ufrn.br
-NOERROR	www.doutoradoprodema.ufrn.br
-NOERROR	www.nit.ufrn.br
-NOERROR	www.nupeg.ufrn.br
-NOERROR	revela.homolog.lais.ufrn.br
-NOERROR	sdr.dimap.ufrn.br
-SERVFAIL	www.portaldoegresso.ufrn.br
-NOERROR	cndp.prh.ufrn.br
+lais-host-n1.lais.huol.ufrn.br
+sigmx1.ufrn.br
+cep.propesq.ufrn.br
+ppgeq.eq.ufrn.br
+ceua.propesq.ufrn.br
+kraken.ufrn.br
+eaj.ufrn.br
+infra-k8s-deploy-test-lais-django-k8s-staging.k.lais.ufrn.br
+www.cetel.ct.ufrn.br
+dubai.imd.ufrn.br
+vrl.ufrn.br
+socrates.ct.ufrn.br
+www.prograd.ufrn.br
+dev.auth.saiot.ect.ufrn.br
+moodle.metropoledigital.ufrn.br
+mail.cchla.ufrn.br
+newton.dem.ufrn.br
+intellectus.ufrn.br
+olar.ufrn.br
+seminario2017.ccsa.ufrn.br
+kosmos.dfte.ufrn.br
+imd-host-n2.lais.huol.ufrn.br
+qualifica.covid.lais.ufrn.br
+sigaa.ufrn.br
+sistemagr.homolog.lais.ufrn.br
+avas.sedis.ufrn.br
+retinografia.pntd.telessaude.ufrn.br
+coronavirus.ufrn.br
+www.ppgcsa.ufrn.br
+pse.sedis.ufrn.br
+lasic.ufrn.br
+smarthomolog.telessaude.ufrn.br
+ddrh.ufrn.br
+hemera.iip.ufrn.br
+sismologia.dfte.ufrn.br
+dap.info.ufrn.br
+www.agecom.ufrn.br
+par.imd.ufrn.br
+repositorio.lais.huol.ufrn.br
+biomassa.eq.ufrn.br
+sigmx1.sistemas.ufrn.br
+www.silb.cchla.ufrn.br
+www.geofisica.ufrn.br
+avasus.ufrn.br
+buchada.info.ufrn.br
+consiste.consiste.dimap.ufrn.br
+2cnienssup.ufrn.br
+pntd.telessaude.ufrn.br
+imsva.info.ufrn.br
+cloud.imd.ufrn.br
+git.ect.ufrn.br
+agenda.ect.ufrn.br
+lsa.ct.ufrn.br
+sca.sedis.ufrn.br
+7etd.imd.ufrn.br
+listas.ufrn.br
+imd-host-n3.telessaude.ufrn.br
+www.grafica.cchla.ufrn.br
+portal.smart-defender.imd.ufrn.br
+tvu.ufrn.br
+ufrn.br
+lais-host-n1.lais.ufrn.br
+iproject.ufrn.br
+sid.ufrn.br
+dev.saiot2.ect.ufrn.br
+cloud.smart-defender.imd.ufrn.br
+comperve.info.ufrn.br
+grecom.ce.ufrn.br
+nucleotiresias.ufrn.br
+proxy.cerescnovos.ufrn.br
+icde2021.homolog.lais.ufrn.br
+telessaude.ufrn.br
+zmail2.ufrn.br
+mail.infra.ufrn.br
+linguaportuguesa.ufrn.br
+bdtd.ufrn.br
+www.reitoria.ufrn.br
+secacademica.ect.ufrn.br
+smart3.homolog.telessaude.ufrn.br
+papermaker.homolog.lais.huol.ufrn.br
+pgw.lais.ufrn.br
+testessigsaude.imd.ufrn.br
+www.observatoriorh.ufrn.br
+mdlcapacitacao.sedis.ufrn.br
+indicadores.avasus.ufrn.br
+fiscalizarn.lais.ufrn.br
+lsa.dee.ufrn.br
+sistemaimt.imd.ufrn.br
+infra.infra.ufrn.br
+nei.ufrn.br
+box.imd.ufrn.br
+bbb2.telessaude.ufrn.br
+design.lais.ufrn.br
+docs.lais.ufrn.br
+euler.dca.ufrn.br
+verde.sedis.ufrn.br
+auth.saiot.ect.ufrn.br
+sigmxrec.ufrn.br
+acervus.ufrn.br
+proxy.iip.ufrn.br
+qualifica.covid.homolog.lais.ufrn.br
+themanager.lais.ufrn.br
+www.enei.ce.ufrn.br
+assets.sabia.ufrn.br
+gerencia.ufrn.br
+cientec.ufrn.br
+genoma1.biocomp.ufrn.br
+www.cb.ufrn.br
+campussegurohomolog.imd.ufrn.br
+soro.escoladesaude.ufrn.br
+sigmx3.ufrn.br
+www.presspoint.ufrn.br
+periodicos.ufrn.br
+engpro.ct.ufrn.br
+meetsigsaude.imd.ufrn.br
+incubadora.ufrn.br
+www.posgraduacao.ufrn.br
+desenvolvimento.imd.ufrn.br
+www.lolita.dimap.ufrn.br
+chatcovid.ccs.ufrn.br
+novoscaminhos.ufrn.br
+canteiro.ct.ufrn.br
+dinamo.geofisica.ufrn.br
+ss.cloud.ufrn.br
+www2.ufrn.br
+mta.ufrn.br
+www.departamento.ufrn.br
+dimap.ufrn.br
+mooc.imd.ufrn.br
+webcache01-producao.info.ufrn.br
+cluster.fisica.ufrn.br
+selecoes.lais.huol.ufrn.br
+eduroam3.info.ufrn.br
+server01.pairg.dimap.ufrn.br
+www.cic.propesq.ufrn.br
+www.proae.ufrn.br
+radio.imd.ufrn.br
+server.grupoprojetar.ufrn.br
+www.ccs.ufrn.br
+mdl20141.sedis.ufrn.br
+imd-host-n1.lais.huol.ufrn.br
+vsbgea.ccet.ufrn.br
+ceres.ufrn.br
+galactus.dfte.ufrn.br
+lapefa.ufrn.br
+npad.ufrn.br
+sigsaude.imd.ufrn.br
+oraculo.ufrn.br
+pacifico.dol.ufrn.br
+cronus.ufrn.br
+infra-k8s-deploy-test-oc-teleconsultoria.k.lais.ufrn.br
+ns2.ufrn.br
+hydra.ufrn.br
+diadorin.cchla.ufrn.br
+lineu.cb.ufrn.br
+pnt.avasus.ufrn.br
+www.ppged.ufrn.br
+serido.dfte.ufrn.br
+www.decom.ufrn.br
+engcomp.ufrn.br
+cronos.petromar.geologia.ufrn.br
+www.imagina.dimap.ufrn.br
+mathlm.iip.ufrn.br
+www.abrasconatal17.ufrn.br
+form.lues.piloto.vigilanciasaude.ufrn.br
+cajadb.neuro.ufrn.br
+frodo.info.ufrn.br
+probatorio.imd.ufrn.br
+webmail.dca.ufrn.br
+www.incubadora.ufrn.br
+api.lop.ect.ufrn.br
+www.facisa.ufrn.br
+www.proex.ufrn.br
+plantviewer.imd.ufrn.br
+clinicas.dod.ufrn.br
+lcm.ufrn.br
+teleconsultoria.homolog.lais.ufrn.br
+hmoodle.imd.ufrn.br
+moocs.imd.ufrn.br
+amaq.homolog.lais.ufrn.br
+certificacao.avasus.ufrn.br
+atid.imd.ufrn.br
+orientacoronarn.lais.ufrn.br
+v1.lop.ect.ufrn.br
+mx2.ufrn.br
+dev-retail.smartsuite.imd.ufrn.br
+revelanos.homolog.lais.huol.ufrn.br
+revela.lais.ufrn.br
+pibid.ufrn.br
+brcd1.ce.ufrn.br
+eleicao.ufrn.br
+pronatec.musica.ufrn.br
+gow12.dca.ufrn.br
+soro.enfermagem.ufrn.br
+lapps.imd.ufrn.br
+beethoven.musica.ufrn.br
+livroped.telessaude.ufrn.br
+congesp.sedis.ufrn.br
+epsic.psicologia.ufrn.br
+www.sae.ufrn.br
+odontologia.dod.ufrn.br
+imoc2011.ufrn.br
+gauss.geofisica.ufrn.br
+dev.api.saiot.ect.ufrn.br
+www.comunica.ufrn.br
+www.caene.ufrn.br
+pacs.dev.lais.huol.ufrn.br
+facisa.ufrn.br
+proad.ufrn.br
+semapa.ufrn.br
+davinci.ppgee.ufrn.br
+redepepsus.lais.huol.ufrn.br
+suporte1.huol.ufrn.br
+v3.avasus.ufrn.br
+hungria.imd.ufrn.br
+theta.imd.ufrn.br
+inovacaotecnologica.homolog.lais.ufrn.br
+resrc.dca.ufrn.br
+dermatologia.pntd-testes.telessaude.ufrn.br
+lolita.dimap.ufrn.br
+devel5.sedis.ufrn.br
+posepds.sedis.ufrn.br
+webmail.sedis.ufrn.br
+ecg.pntd.telessaude.ufrn.br
+portaldoegresso.ufrn.br
+planosdesaneamento.ufrn.br
+ccsa.ufrn.br
+atlanta.imd.ufrn.br
+covid19imt.imd.ufrn.br
+pgenf.ufrn.br
+mejc.telessaude.ufrn.br
+cne.ufrn.br
+webmail.ect.ufrn.br
+perfil.sabia.ufrn.br
+posgraduacao.ccsa.ufrn.br
+plameta.imd.ufrn.br
+pitagoras.mat.ufrn.br
+auriga.dfte.ufrn.br
+autenticacao-homologacao.info.ufrn.br
+www.bird.ce.ufrn.br
+www.graduacao.ufrn.br
+cloud.iip.ufrn.br
+mercury.dfte.ufrn.br
+imd-host-n3.lais.ufrn.br
+cbeu.ufrn.br
+ead-programacao.dimap.ufrn.br
+boltzmann.dfte.ufrn.br
+automed.qualisaude.telessaude.ufrn.br
+labem.ct.ufrn.br
+residenciati.imd.ufrn.br
+povidine.pgenf.ufrn.br
+redmine.sedis.ufrn.br
+ppgeec.ufrn.br
+portalcooperacao.info.ufrn.br
+www.ccet.ufrn.br
+residenciatitjrn.imd.ufrn.br
+zila.bczm.ufrn.br
+www.ccsa.ufrn.br
+www.mcm.cb.ufrn.br
+emcm.ufrn.br
+checkin.imd.ufrn.br
+cadastro.lcc.ufrn.br
+seminario.ccsa.ufrn.br
+inscricao.lais.huol.ufrn.br
+homologacaosigsaude.imd.ufrn.br
+proxy.externos.ufrn.br
+www.portaldap.ufrn.br
+dev.saiot.ect.ufrn.br
+avaprogesp.sedis.ufrn.br
+hermes.homolog.lais.ufrn.br
+www.inpacta.ect.ufrn.br
+zmail1.ufrn.br
+imd-host-n2.lais.ufrn.br
+ciclo2.info.ufrn.br
+hongkong.imd.ufrn.br
+reservas.deart.ufrn.br
+renabic.imd.ufrn.br
+reuse.ufrn.br
+seminariobrasilportugal.lais.huol.ufrn.br
+metropoledigital.ufrn.br
+biocomp.ufrn.br
+www.proad.ufrn.br
+capuccino.info.ufrn.br
+escolha.ufrn.br
+londres.imd.ufrn.br
+scylax.ufrn.br
+eq.ufrn.br
+www.nupprar.ufrn.br
+mx1.ufrn.br
+sgp.ufrn.br
+jira.smartretail.ufrn.br
+amaq.lais.huol.ufrn.br
+dfte.ufrn.br
+servicos.dimap.ufrn.br
+api.multiprova3.ufrn.br
+estatistica.ccet.ufrn.br
+ftpsistemas.info.ufrn.br
+pingifes.ufrn.br
+facisaimtcovid19.imd.ufrn.br
+infra.ufrn.br
+biblioteca.musica.ufrn.br
+sgi.imd.ufrn.br
+grafica.cchla.ufrn.br
+le-681.k.lais.ufrn.br
+eventos.atencaobasica.lais.ufrn.br
+mx04.rse.ce.ufrn.br
+www.sistemas.ufrn.br
+chi.imd.ufrn.br
+laci.ufrn.br
+apisuvige.imd.ufrn.br
+paisagensdamemoria.ct.ufrn.br
+vc1.info.ufrn.br
+apisascar.imd.ufrn.br
+davinci.leca.ufrn.br
+chatcovid-operador.ccs.ufrn.br
+saf.prh.ufrn.br
+www.gnms.fisica.ufrn.br
+netuno.ccet.ufrn.br
+prometeu.educ.ufrn.br
+pntd-testes.telessaude.ufrn.br
+miniteste.ufrn.br
+www.nucleotiresias.ufrn.br
+www.proplan.ufrn.br
+jri2008.dca.ufrn.br
+cbsoft.dimap.ufrn.br
+artefatos.info.ufrn.br
+mdlbkp.sedis.ufrn.br
+www.mat.ufrn.br
+bdtd.bczm.ufrn.br
+kepler.ect.ufrn.br
+gasolmaster.gasol.ufrn.br
+icde2021-wp.homolog.lais.ufrn.br
+wpsite.homolog.lais.ufrn.br
+www.esud2018.ufrn.br
+ictac2010.dimap.ufrn.br
+einstein.eq.ufrn.br
+cosmos.fisica.ufrn.br
+api-covid19.imd.ufrn.br
+avaqualisaude.sedis.ufrn.br
+3dqsarpy.imd.ufrn.br
+60anos.musica.ufrn.br
+treinamento.info.ufrn.br
+benicio3.info.ufrn.br
+cuscuz.info.ufrn.br
+sigeleicao.ufrn.br
+inovacaotecnologica.lais.huol.ufrn.br
+thevideogame.ufrn.br
+www.cemj.propesq.ufrn.br
+gnu.lcc.ufrn.br
+pep.ufrn.br
+gema.imd.ufrn.br
+sysadl.imd.ufrn.br
+avamat.sedis.ufrn.br
+hydra.info.ufrn.br
+www.eadpronatec.eaj.ufrn.br
+s3.lais.ufrn.br
+jump.sedis.ufrn.br
+dev.educaio.ufrn.br
+si.ufrn.br
+labs.imd.ufrn.br
+repositorio.ufrn.br
+ginga.ufrn.br
+imd-host-n1.lais.ufrn.br
+labplasma.ufrn.br
+comunica.ufrn.br
+naoresponder.lais.ufrn.br
+imd-host-n3.avasus.ufrn.br
+esud2018.ufrn.br
+acesso.imd.ufrn.br
+www.deart.ufrn.br
+covid19.imd.ufrn.br
+sol.labgeo.ufrn.br
+fmu.ufrn.br
+sigps.ufrn.br
+homolog.observasus.ufrn.br
+www.comissaodeetica.ufrn.br
+www.dpp.cchla.ufrn.br
+www.escoladesaude.ufrn.br
+profletras.ufrn.br
+www2.inova.imd.ufrn.br
+moodle.imd.ufrn.br
+www.comperve.ufrn.br
+sigsmartcampus.imd.ufrn.br
+azulao.cchla.ufrn.br
+dvr1.ufrn.br
+posuab.sedis.ufrn.br
+redmine.lais.huol.ufrn.br
+vernaculo.ufrn.br
+dev.api.multiprova3.ufrn.br
+snmp.info.ufrn.br
+europa.dca.ufrn.br
+cetris.ufrn.br
+conferenciaabrasco.sedis.ufrn.br
+gema.lais.huol.ufrn.br
+ava.cetris.ufrn.br
+ppgq.ufrn.br
+ns3.ufrn.br
+jobim.musica.ufrn.br
+campusvirtual.ufrn.br
+static.atencaobasica.lais.ufrn.br
+form.lues.vigilanciasaude.ufrn.br
+infra-k8s-deploy-test-oc-teleconsultoria-staging.k.lais.ufrn.br
+vagas.imd.ufrn.br
+www.dem.ufrn.br
+moodlepec.imd.ufrn.br
+www.psbe.ufrn.br
+pepsus.lais.ufrn.br
+pmaq3.lais.ufrn.br
+pessoal.ect.ufrn.br
+regulacao2.tst.lais.ufrn.br
+proxy.ccet.ufrn.br
+mnpef.ect.ufrn.br
+monitoramento.info.ufrn.br
+ecg.pntd-testes.telessaude.ufrn.br
+mail.ct.ufrn.br
+cemj.propesq.ufrn.br
+gas.ufrn.br
+solicitasus.sedis.ufrn.br
+cest.imd.ufrn.br
+agrass.lais.huol.ufrn.br
+display.lais.ufrn.br
+reuni.ufrn.br
+www.lcl.ufrn.br
+cb.ufrn.br
+fisiologia.ufrn.br
+iip.ufrn.br
+etec-teste.eaj.ufrn.br
+www.60anos.ufrn.br
+mandacarubeta.sedis.ufrn.br
+pmaq2ceo.homolog.lais.ufrn.br
+hermes.lais.huol.ufrn.br
+developers.sedis.ufrn.br
+labepi.ufrn.br
+durin.info.ufrn.br
+mail.dfte.ufrn.br
+www.sipac.ufrn.br
+cloud.ufrn.br
+lais-host-n4.lais.ufrn.br
+unix.imd.ufrn.br
+prh22.prh22.ufrn.br
+covid.lais.ufrn.br
+www.lacessibilidade.bczm.ufrn.br
+obama.imd.ufrn.br
+msp.imagina.ufrn.br
+simaies.ufrn.br
+api2.ufrn.br
+ct.ufrn.br
+sbpo2013.ect.ufrn.br
+www.engenhariatextil.ct.ufrn.br
+imd-host-n3.lais.huol.ufrn.br
+sitelais.homolog.lais.ufrn.br
+brcd2.dem.ufrn.br
+www.enappe.ce.ufrn.br
+diadorin.filosofia.cchla.ufrn.br
+webdevel.sedis.ufrn.br
+hefesto.lcc.ufrn.br
+lynx.ufrn.br
+salas.deart.ufrn.br
+www.eaj.ufrn.br
+dee.ufrn.br
+v1.lues.vigilanciasaude.ufrn.br
+fnetec.etec.eaj.ufrn.br
+avaprofiap.sedis.ufrn.br
+tng.fisica.ufrn.br
+siedi.ufrn.br
+cdp.vigilanciasaude.ufrn.br
+ru.ufrn.br
+eduroam2.info.ufrn.br
+nupprar.nupprar.ufrn.br
+webmail.naoresponder.avasus.ufrn.br
+ba.avasus.ufrn.br
+brcd1.ccsa.ufrn.br
+medicina.ccs.ufrn.br
+saiot2.ect.ufrn.br
+dhtmesh.dimap.ufrn.br
+portal-testes.info.ufrn.br
+psbe.ufrn.br
+papermaker.lais.huol.ufrn.br
+talk.imd.ufrn.br
+api.info.ufrn.br
+info.ufrn.br
+treinamentotelepediatria.telessaude.ufrn.br
+ihcdev.imd.ufrn.br
+docker.ct.ufrn.br
+cidadao.rnmaisvacina.homolog.lais.ufrn.br
+regulacao.homolog.lais.ufrn.br
+sigmx4.sistemas.ufrn.br
+www.cep.propesq.ufrn.br
+paje.ufrn.br
+sigaa.info.ufrn.br
+docs.homolog.lais.ufrn.br
+submissao.lais.huol.ufrn.br
+www.reservas.cchla.ufrn.br
+lpi.dca.ufrn.br
+lais-host-n7.lais.ufrn.br
+brcd1.bczm.ufrn.br
+www.vestibular.ufrn.br
+balder.info.ufrn.br
+www.grecom.ce.ufrn.br
+ponto.dimap.ufrn.br
+wp.info.ufrn.br
+ace.dfte.ufrn.br
+cerescaico.ufrn.br
+www.ppg.ufrn.br
+sigmx4.ufrn.br
+www.etec.eaj.ufrn.br
+residencia.info.ufrn.br
+avasus-pnt-app.avasus.ufrn.br
+baldur.info.ufrn.br
+cdp.atencaobasica.lais.ufrn.br
+ns1.ufrn.br
+enfermagem.ufrn.br
+www.iip.ufrn.br
+www.emusica.ufrn.br
+sabin.reitoria.ufrn.br
+mail.ccet.ufrn.br
+adriana.huol.ufrn.br
+simbiom.cb.ufrn.br
+www.neuro.ufrn.br
+nic.nupprar.ufrn.br
+www2.ccet.ufrn.br
+espacos.imd.ufrn.br
+portalsifilisnao.homolog.lais.ufrn.br
+materiais.ufrn.br
+pmaq.lais.huol.ufrn.br
+solicitacao.sedis.ufrn.br
+projetos.dimap.ufrn.br
+themanager.homolog.lais.ufrn.br
+site.multiprova3.ufrn.br
+memo.ufrn.br
+www.programaaguaazul.ct.ufrn.br
+genese.ufrn.br
+habitat.ct.ufrn.br
+ecowalk.cb.ufrn.br
+lcc.ufrn.br
+form.vsaps.lais.ufrn.br
+git.ct.ufrn.br
+www.semanadeturismo.ccsa.ufrn.br
+www.sid.ufrn.br
+scet.ect.ufrn.br
+balder.ufrn.br
+benicio.info.ufrn.br
+smartcampus.imd.ufrn.br
+editora.ufrn.br
+imdtec.imd.ufrn.br
+multiprova3.ufrn.br
+bepege.ccsa.ufrn.br
+sedis.ufrn.br
+npad.imd.ufrn.br
+percola.cisc.ufrn.br
+stevens.dca.ufrn.br
+www.petee.ct.ufrn.br
+iif.ufrn.br
+irh.sedis.ufrn.br
+prh.ufrn.br
+www.guiomar.musica.ufrn.br
+meioambiente.ufrn.br
+handesk.homolog.lais.ufrn.br
+www.ppgeq.eq.ufrn.br
+sbmf2010.dimap.ufrn.br
+pitagoras.ct.ufrn.br
+www.avaliacao.ufrn.br
+wwwold.lais.huol.ufrn.br
+sites.info.ufrn.br
+patrimonio.imd.ufrn.br
+portal.ect.ufrn.br
+redmine.regina.ufrn.br
+departamento.ufrn.br
+sipac.ufrn.br
+signuplam.ufrn.br
+mx.escoladesaude.ufrn.br
+chopin.musica.ufrn.br
+gitdesenvolvimento.info.ufrn.br
+chico.ufrn.br
+ws.api.saiot2.ect.ufrn.br
+dev.api.smartone.imd.ufrn.br
+nic1.nupprar.ufrn.br
+www.lte.ce.ufrn.br
+dev.api.smartretail.imd.ufrn.br
+gestore.ufrn.br
+sigeduc-bal1.imd.ufrn.br
+dca.ufrn.br
+www.propesq.ufrn.br
+sigeva.ccsa.ufrn.br
+icoloquiodefilosofia.ce.ufrn.br
+apitestes.info.ufrn.br
+api.saiot.ect.ufrn.br
+fisica1.dfte.ufrn.br
+editalapoiadorsifilis-hmg.lais.huol.ufrn.br
+teleconsulta.dev.telessaude.ufrn.br
+bi.info.ufrn.br
+www.cerescaico.ufrn.br
+fisica.dfte.ufrn.br
+forall.ufrn.br
+www.seq.eq.ufrn.br
+iwsc17.imd.ufrn.br
+pes.imd.ufrn.br
+imd-host-n8.lais.ufrn.br
+trilhas.ufrn.br
+radio.fmu.ufrn.br
+www.tvu.ufrn.br
+pascalsuite.imd.ufrn.br
+retsus.ufrn.br
+imd-host-n2.telessaude.ufrn.br
+clima.ufrn.br
+www.progesp.ufrn.br
+materialpublic.imd.ufrn.br
+abrasconatal17.ufrn.br
+lop.ect.ufrn.br
+microcefalia.homolog.lais.ufrn.br
+pppg1.reitoria.ufrn.br
+gps.dca.ufrn.br
+mail.naoresponder.avasus.ufrn.br
+trilhaspotiguares.ufrn.br
+sisbi.ufrn.br
+form.lues.homolog.vigilanciasaude.ufrn.br
+portal.imd.ufrn.br
+www.sigeleicao.ufrn.br
+www.ufrn.br
+www.darq.ufrn.br
+webmail.eaj.ufrn.br
+osinal.ect.ufrn.br
+vacinaidosos.homolog.lais.ufrn.br
+www.huol.ufrn.br
+importador.psbe.ufrn.br
+api.ufrn.br
+labsis.ufrn.br
+hmateriais.imd.ufrn.br
+www.bct.ect.ufrn.br
+infra-k8s-deploy-test-lais-django-k8s.k.lais.ufrn.br
+ufrnnacopa.ufrn.br
+testesuvige.imd.ufrn.br
+manuais.regulacao.lais.ufrn.br
+sri.ufrn.br
+pedagogico.imd.ufrn.br
+dem.ufrn.br
+cetel.ct.ufrn.br
+dev.multiprova3.ufrn.br
+editalapoiadorsifilis.lais.huol.ufrn.br
+simaies.homolog.lais.ufrn.br
+mail.sedis.ufrn.br
+brcd1.ufrn.br
+www.laci.ufrn.br
+gamedulab.dimap.ufrn.br
+hermes.iip.ufrn.br
+balancer.ufrn.br
+urano.ect.ufrn.br
+webmail.dimap.ufrn.br
+conferencialais.sedis.ufrn.br
+testeapisuvige.imd.ufrn.br
+ipv6.ufrn.br
+obeduc.ce.ufrn.br
+salas.musica.ufrn.br
+projetos.comunica.ufrn.br
+guaja.ufrn.br
+avaproex.sedis.ufrn.br
+prh22.ufrn.br
+dep.ct.ufrn.br
+linus.quimica.ufrn.br
+sigpp.lais.ufrn.br
+hacksus.lais.huol.ufrn.br
+videos.info.ufrn.br
+brcd1.dfte.ufrn.br
+mignone.musica.ufrn.br
+avacgtes.sedis.ufrn.br
+smartmetropolis.imd.ufrn.br
+jerimumjobs.imd.ufrn.br
+ead.musica.ufrn.br
+sismolab.dfte.ufrn.br
+monografias.ufrn.br
+teleconsultoria.telessaude.ufrn.br
+ws.api.saiot.ect.ufrn.br
+proxy.ct.ufrn.br
+newton.bczm.ufrn.br
+salasituacao.lais.huol.ufrn.br
+unasus.ufrn.br
+microcefalia.telessaude.ufrn.br
+reservas.cchla.ufrn.br
+lues.vigilanciasaude.ufrn.br
+smart.telessaude.ufrn.br
+parque.imd.ufrn.br
+aragorn.info.ufrn.br
+dns.ufrn.br
+ppgf.fisica.ufrn.br
+www.cbsoft.dimap.ufrn.br
+ns1.avasus.ufrn.br
+www.dmp.ufrn.br
+vigilanciasaude.ufrn.br
+hcurb.ct.ufrn.br
+profletras.sedis.ufrn.br
+www.dee.ufrn.br
+acolhesesap.lais.ufrn.br
+portaldap.ufrn.br
+www.info.ufrn.br
+salus.lais.ufrn.br
+www.escritoriodeideias.ufrn.br
+lais-haproxy.lais.ufrn.br
+hefesto.ppgsc.ufrn.br
+le-543.k.lais.ufrn.br
+www.ect.ufrn.br
+elias.ect.ufrn.br
+sti.ect.ufrn.br
+psbe.homolog.lais.ufrn.br
+talk.sedis.ufrn.br
+vacinaidosos.lais.ufrn.br
+www.sedis.ufrn.br
+zeus.dca.ufrn.br
+mx2.iip.ufrn.br
+obdi.ccsa.ufrn.br
+ect.ufrn.br
+bbu.ufrn.br
+app-homologacao.info.ufrn.br
+betatest.thevideogame.ufrn.br
+presspoint.ufrn.br
+www.brentengenharia.ct.ufrn.br
+www.comcet.ect.ufrn.br
+www.fotec.ufrn.br
+caurn.ufrn.br
+tapioca.ufrn.br
+urano.info.ufrn.br
+gerenciador.avasus.ufrn.br
+include.ct.ufrn.br
+gestao.avasus.ufrn.br
+www.eneds.ct.ufrn.br
+bird.ce.ufrn.br
+oc.info.ufrn.br
+bbb.telessaude.ufrn.br
+www.cajadb.neuro.ufrn.br
+oteeduc.educ.ufrn.br
+petcc.dimap.ufrn.br
+gqt.ct.ufrn.br
+etmf2016.imd.ufrn.br
+dmp.ufrn.br
+sistemas.comperve.ufrn.br
+sentry.lais.huol.ufrn.br
+flory.quimica.ufrn.br
+www.nesc.ufrn.br
+ppgcti.ect.ufrn.br
+www.cbeu.ufrn.br
+portalpap.ufrn.br
+pacs.huol.ufrn.br
+frotas.imd.ufrn.br
+webmail.eq.ufrn.br
+lea.estatistica.ccet.ufrn.br
+www.dinovacao.ect.ufrn.br
+andromeda.dfte.ufrn.br
+sala.sedis.ufrn.br
+wikompose.musica.ufrn.br
+mx.ccs.ufrn.br
+www.telessaude.ufrn.br
+forms.lais.ufrn.br
+arquivos.info.ufrn.br
+paideia.sedis.ufrn.br
+www.ppgef.def.ufrn.br
+imdfic.imd.ufrn.br
+comcet.ect.ufrn.br
+hemoterapia.homolog.lais.ufrn.br
+cluster.dfte.ufrn.br
+www.sigrh.ufrn.br
+protocolo.ufrn.br
+sedispro.sedis.ufrn.br
+saiot.ect.ufrn.br
+sites-producao.info.ufrn.br
+kraken.si.ufrn.br
+geologia.ufrn.br
+wolfran.geologia.ufrn.br
+orientacoronarn.dev.lais.huol.ufrn.br
+sigmx6.ufrn.br
+dev.auth.saiot2.ect.ufrn.br
+vixe.ufrn.br
+osinaldev.ect.ufrn.br
+nuplamhomolog.imd.ufrn.br
+dev.ws.api.saiot2.ect.ufrn.br
+civil.ufrn.br
+infra-k8s-deploy-test-lais-passagens.k.lais.ufrn.br
+okd.lais.ufrn.br
+mat.ufrn.br
+darwin.cb.ufrn.br
+sgeol-hml.imd.ufrn.br
+traefik.lais.ufrn.br
+plantexpert.imd.ufrn.br
+mostradeprofissoes.prograd.ufrn.br
+etec.eaj.ufrn.br
+nac.ufrn.br
+emei.ufrn.br
+brcd1.ct.ufrn.br
+brcd1.infra.ufrn.br
+gororoba.info.ufrn.br
+www1.ccet.ufrn.br
+lcl.ufrn.br
+videoserver.info.ufrn.br
+florianopolis.imd.ufrn.br
+pontamel.dimap.ufrn.br
+csp.qualisaude.telessaude.ufrn.br
+regulacao1.tst.lais.ufrn.br
+ftp.ufrn.br
+dmx2.info.ufrn.br
+ppge.cchla.ufrn.br
+teleconsultoria.k.lais.ufrn.br
+www.gow12.dca.ufrn.br
+arrobinha.engcomp.ufrn.br
+brcd1.cchla.ufrn.br
+www.estatistica.ccet.ufrn.br
+simaies-php.homolog.lais.ufrn.br
+poseidon.iip.ufrn.br
+progesp.ufrn.br
+ppgmae.ufrn.br
+www.ateliedefilosofia.ce.ufrn.br
+gepem.sedis.ufrn.br
+vc.musica.ufrn.br
+pitfall.imd.ufrn.br
+dct.ceres.ufrn.br
+sigadmin.ufrn.br
+cloudacad.imd.ufrn.br
+banners.homolog.lais.ufrn.br
+ladc2019.imd.ufrn.br
+dados.ufrn.br
+monitoraaedes.homolog.lais.ufrn.br
+regina.ufrn.br
+www.dimap.ufrn.br
+moodle.etec.eaj.ufrn.br
+mdl19.sedis.ufrn.br
+rn.avasus.ufrn.br
+sues.imd.ufrn.br
+historiasdaead.sedis.ufrn.br
+governanca.ufrn.br
+testeproxy.lais.ufrn.br
+sbic.ct.ufrn.br
+bioengenharia.ct.ufrn.br
+lirio.bczm.ufrn.br
+version.info.ufrn.br
+inovasus.lais.huol.ufrn.br
+proxy.ceres.ufrn.br
+alquimista.nuplam.ufrn.br
+proxy.comperve.ufrn.br
+www.cchla.ufrn.br
+graduacao.ufrn.br
+complex.dfte.ufrn.br
+manchester.imd.ufrn.br
+psicologia.ufrn.br
+smartteste.telessaude.ufrn.br
+mdl2013.sedis.ufrn.br
+sbmf2016.imd.ufrn.br
+gpmuc.musica.ufrn.br
+www.ppgsc.ufrn.br
+mdl.sedis.ufrn.br
+www.prh.ufrn.br
+atencaobasica.lais.ufrn.br
+icde2021.ufrn.br
+sinfo.ufrn.br
+servidor.tvu.ufrn.br
+restaurante.info.ufrn.br
+mendel.cb.ufrn.br
+rbec.ect.ufrn.br
+chat.imd.ufrn.br
+retinografia.pntd-testes.telessaude.ufrn.br
+ucrania.imd.ufrn.br
+mail.dca.ufrn.br
+software-testes.info.ufrn.br
+compras.ufrn.br
+servidorlac.huol.ufrn.br
+ornamentais.eaj.ufrn.br
+universitas.ce.ufrn.br
+seminariosifilisnao.lais.huol.ufrn.br
+see2013.ct.ufrn.br
+www.nac.ufrn.br
+gestao-paciente.dev.lais.ufrn.br
+wiki.sedis.ufrn.br
+laismail.lais.huol.ufrn.br
+observatoriodadengue.homolog.lais.ufrn.br
+ce.avasus.ufrn.br
+teleconsultav4h.dev.telessaude.ufrn.br
+dev.api.educaio.ufrn.br
+teleretinografia.homolog.telessaude.ufrn.br
+www.docente.ufrn.br
+suporte.sedis.ufrn.br
+gpsl.dfte.ufrn.br
+www.ce.ufrn.br
+www.sigadmin.ufrn.br
+multiprova2.ufrn.br
+musica.ufrn.br
+propesq.ufrn.br
+cdp.homolog.vigilanciasaude.ufrn.br
+sistemas.imd.ufrn.br
+deart.ufrn.br
+eddard.info.ufrn.br
+mba-eula-gtec.imd.ufrn.br
+www.geologia.ufrn.br
+zeus.reitoria.ufrn.br
+datascience.dca.ufrn.br
+petee.ct.ufrn.br
+suporte.homolog.lais.ufrn.br
+nebulus.ufrn.br
+lais-host-n4.lais.huol.ufrn.br
+inside.imd.ufrn.br
+smartone.imd.ufrn.br
+neuro.ufrn.br
+mail.ect.ufrn.br
+soro.escolaenf.ufrn.br
+moodle.civil.ufrn.br
+git.info.ufrn.br
+sigpp.ufrn.br
+mx.geologia.ufrn.br
+api.sabia.ufrn.br
+nuvem.imd.ufrn.br
+projetos.imd.ufrn.br
+fiscalizarn.homolog.lais.ufrn.br
+materiaispec.imd.ufrn.br
+www.2enappe.ce.ufrn.br
+imd-host-n1.telessaude.ufrn.br
+guarani.prh.ufrn.br
+swagger.info.ufrn.br
+dalmolingroup.imd.ufrn.br
+bczm.ufrn.br
+backup.info.ufrn.br
+lais-host-n3.lais.ufrn.br
+balancer-uern.info.ufrn.br
+lyncac.labcon.ct.ufrn.br
+goiamum.ufrn.br
+telepediatria.homolog.telessaude.ufrn.br
+www.sinfo.ufrn.br
+sistemasdesktop.ufrn.br
+littlebig.nupeg.ufrn.br
+lte.ce.ufrn.br
+gitcooperacao.info.ufrn.br
+lii.dca.ufrn.br
+bioinfo.imd.ufrn.br
+wsirh.sedis.ufrn.br
+imias.ufrn.br
+doutoradoprodema.ufrn.br
+labordoc.ceres.ufrn.br
+triagemhospedagem.homolog.lais.huol.ufrn.br
+soscovid19.imd.ufrn.br
+ouvidoria.ufrn.br
+fisica2.dfte.ufrn.br
+lime.imd.ufrn.br
+validador.pmaq.sedis.ufrn.br
+webmail.geofisica.ufrn.br
+www.lais.huol.ufrn.br
+www.eq.ufrn.br
+potengi.dfte.ufrn.br
+www.vsbgea.ccet.ufrn.br
+hydra.si.ufrn.br
+dpp.cchla.ufrn.br
+www.ojs.ccsa.ufrn.br
+bracis2015.imd.ufrn.br
+direitoshumanos.ufrn.br
+oqrn.quimica.ufrn.br
+caus.ufrn.br
+homologacao.info.ufrn.br
+cooperacao.info.ufrn.br
+signuplam.imd.ufrn.br
+imagina.ufrn.br
+pinga.comperve.ufrn.br
+selecao.imd.ufrn.br
+gim.ect.ufrn.br
+docs.info.ufrn.br
+stream.lais.huol.ufrn.br
+fimuca.musica.ufrn.br
+www.paisagensdamemoria.ct.ufrn.br
+kraken.info.ufrn.br
+www.ppgmae.ufrn.br
+autenticacao.ufrn.br
+ce.ufrn.br
+brcd1.mcc.ufrn.br
+rse.ce.ufrn.br
+www.ppgcti.ect.ufrn.br
+regulacao.lais.ufrn.br
+olimpus.lais.ufrn.br
+hungria.neuro.ufrn.br
+lues.homolog.vigilanciasaude.ufrn.br
+ccet.ufrn.br
+simulador.sedis.ufrn.br
+www.hcurb.ct.ufrn.br
+selem4.imd.ufrn.br
+eject.ect.ufrn.br
+www.fisica.ufrn.br
+sigmx3.sistemas.ufrn.br
+haskell.imd.ufrn.br
+mx.ct.ufrn.br
+idp2.imd.ufrn.br
+grupocontar.ce.ufrn.br
+elis.musica.ufrn.br
+producao.info.ufrn.br
+zurique.imd.ufrn.br
+localizasus.lais.ufrn.br
+escoladesaude.ufrn.br
+videoconferencia.imd.ufrn.br
+laut.dca.ufrn.br
+login.sabia.ufrn.br
+seminarioicde.lais.huol.ufrn.br
+mail.ufrn.br
+tv.sedis.ufrn.br
+mx5.ufrn.br
+proplan.ufrn.br
+gerhqual.ufrn.br
+dap2.info.ufrn.br
+credenciamentoparque.imd.ufrn.br
+sbseg2018.imd.ufrn.br
+pmaq2ceo.lais.huol.ufrn.br
+estudio.musica.ufrn.br
+sabia.ufrn.br
+lmc.emusica.ufrn.br
+www.mostradeprofissoes.prograd.ufrn.br
+autenticacao-cooperacao.info.ufrn.br
+sig1.info.ufrn.br
+sigprojetos.ufrn.br
+bti.imd.ufrn.br
+mail.geologia.ufrn.br
+comperve.ufrn.br
+www2.dca.ufrn.br
+venus.ccet.ufrn.br
+2enappe.ce.ufrn.br
+www.ceres.ufrn.br
+web-testes.info.ufrn.br
+sigmx5.ufrn.br
+ares.lcc.ufrn.br
+ns2.avasus.ufrn.br
+talk.ect.ufrn.br
+trudesk.homolog.lais.ufrn.br
+www.sgp.ufrn.br
+cana.imd.ufrn.br
+exec.lop.ect.ufrn.br
+epet.imd.ufrn.br
+webmail.lais.huol.ufrn.br
+lcr.ufrn.br
+lais-host-n3.lais.huol.ufrn.br
+barramento.lais.huol.ufrn.br
+rhsus.ufrn.br
+servicos.ufrn.br
+www.npad.ufrn.br
+guiomar.musica.ufrn.br
+www.seminario.ccsa.ufrn.br
+platao.ct.ufrn.br
+inova.imd.ufrn.br
+arquimedes.ct.ufrn.br
+mec.ufrn.br
+astro.dfte.ufrn.br
+www.infra.ufrn.br
+rnvacina.homolog.lais.ufrn.br
+cdp.piloto.vigilanciasaude.ufrn.br
+lestat.dfte.ufrn.br
+davinci.dca.ufrn.br
+biglittle.eq.ufrn.br
+area8.dca.ufrn.br
+www.sri.ufrn.br
+rhsusv3.ufrn.br
+macau.eq.ufrn.br
+www.quimica.ufrn.br
+monivarf-u.ccs.ufrn.br
+cchla.ufrn.br
+dns2.lais.ufrn.br
+rnmaisvacina.lais.ufrn.br
+www.ouvidoria.ufrn.br
+principios.cchla.ufrn.br
+www2.lais.huol.ufrn.br
+hortanutrir.ccs.ufrn.br
+ppgsc.ufrn.br
+emusica.ufrn.br
+washington.imd.ufrn.br
+webmail.reitoria.ufrn.br
+www.ru.ufrn.br
+proxy.gerencia.ufrn.br
+users.dca.ufrn.br
+www.leca.ufrn.br
+eventos.lais.ufrn.br
+www.musica.ufrn.br
+ria.ufrn.br
+dev.ws.api.saiot.ect.ufrn.br
+lech.cb.ufrn.br
+dprf-homologacao.info.ufrn.br
+devel7.sedis.ufrn.br
+imd-host-n2.vigilanciasaude.ufrn.br
+engenergia.dca.ufrn.br
+seminario2013.ccsa.ufrn.br
+repositorio.imd.ufrn.br
+galeano.cchla.ufrn.br
+www.sbpo2013.ect.ufrn.br
+www.sbai2015.dca.ufrn.br
+sislink.geofisica.ufrn.br
+ppgee.ufrn.br
+tronco.cchla.ufrn.br
+dmpserver.dmp.ufrn.br
+monivarf-p.ccs.ufrn.br
+quimica.ufrn.br
+lacessibilidade.bczm.ufrn.br
+ria.bczm.ufrn.br
+viagens.sedis.ufrn.br
+ppged.ufrn.br
+mail.si.ufrn.br
+homologacao-uern.info.ufrn.br
+cocada.info.ufrn.br
+www.bczm.ufrn.br
+epogames.imd.ufrn.br
+cluster01.clima.ufrn.br
+multiprova.ufrn.br
+webmail.iip.ufrn.br
+mcc.ufrn.br
+www.imd.ufrn.br
+www.sigeventos.ufrn.br
+ela.lais.huol.ufrn.br
+revelanos.lais.ufrn.br
+enia.imd.ufrn.br
+redmine-sgp.ufrn.br
+console.okd.lais.ufrn.br
+sifilis.lais.huol.ufrn.br
+worksete.imd.ufrn.br
+ciclo.info.ufrn.br
+www.dca.ufrn.br
+thanos.imd.ufrn.br
+formacao.sedis.ufrn.br
+projedata.grupoprojetar.ufrn.br
+www.galeano.cchla.ufrn.br
+mx3.ufrn.br
+s3c.imd.ufrn.br
+git.lais.huol.ufrn.br
+educaio.ufrn.br
+dce.ufrn.br
+baldur.ufrn.br
+gepec.ccs.ufrn.br
+www.pibid.ufrn.br
+testescomperve.imd.ufrn.br
+mediotec.imd.ufrn.br
+www.dfte.ufrn.br
+projetosdti.imd.ufrn.br
+urano.ppgsc.ufrn.br
+naoresponder.avasus.ufrn.br
+mail.lcc.ufrn.br
+mx4.ufrn.br
+lais-django.k.lais.ufrn.br
+santana.ceres.ufrn.br
+dns1.lais.huol.ufrn.br
+stream.sedis.ufrn.br
+ccs.ufrn.br
+servicos.ect.ufrn.br
+rota.sedis.ufrn.br
+www.mcc.ufrn.br
+davinci.linguaportuguesa.ufrn.br
+nesc2.ufrn.br
+api.musica.ufrn.br
+inova2.imd.ufrn.br
+dmx1.info.ufrn.br
+www.bioengenharia.ct.ufrn.br
+smartpnt.homolog.telessaude.ufrn.br
+tex.imd.ufrn.br
+www.repositorio.ufrn.br
+epds.sedis.ufrn.br
+observatoriodengue.lais.huol.ufrn.br
+www.nativasnocampus.cb.ufrn.br
+seminario2016.ccsa.ufrn.br
+pacs.lais.huol.ufrn.br
+observatoriodadengue.telessaude.ufrn.br
+aragorn.ufrn.br
+nupprar.ufrn.br
+coopera.dimap.ufrn.br
+imd.ufrn.br
+www.nuplam.ufrn.br
+nit.ufrn.br
+www.ppgecnm.ccet.ufrn.br
+sigmx2.sistemas.ufrn.br
+galeria.lues.vigilanciasaude.ufrn.br
+chopin.emusica.ufrn.br
+sistemas.ufrn.br
+foteq.nupeg.ufrn.br
+enei.ce.ufrn.br
+monivarf.ccs.ufrn.br
+yoda01.neuro.ufrn.br
+comissaodeetica.ufrn.br
+www.hortanutrir.ccs.ufrn.br
+gitlab.ect.ufrn.br
+monografias.imd.ufrn.br
+petroleo.dca.ufrn.br
+mx.cb.ufrn.br
+natalogic-2015.dimap.ufrn.br
+static.info.ufrn.br
+mail.propesq.ufrn.br
+ect.ect.ufrn.br
+yoda02.neuro.ufrn.br
+proxy.reitoria.ufrn.br
+changelog.info.ufrn.br
+www.pairg.dimap.ufrn.br
+proxy.bczm.ufrn.br
+mandacaru.etec.eaj.ufrn.br
+aguazul.nupprar.ufrn.br
+jerimum.ufrn.br
+www.portalcooperacao.info.ufrn.br
+conabea2013.ct.ufrn.br
+ponto.musica.ufrn.br
+sb.ieee.ufrn.br
+ppg.ufrn.br
+smart.homolog.lais.ufrn.br
+modelo.sedis.ufrn.br
+sistemacomperve.imd.ufrn.br
+robotica.dca.ufrn.br
+monitor.smart-defender.imd.ufrn.br
+campusseguro.imd.ufrn.br
+alpha.dem.ufrn.br
+apihorarios.ect.ufrn.br
+www.labsis.ufrn.br
+jmlsite.homolog.lais.ufrn.br
+lbmg.cb.ufrn.br
+docente.ufrn.br
+fmc.imd.ufrn.br
+nesc.nesc.ufrn.br
+cheff.prometh.ufrn.br
+sigeventos.ufrn.br
+seminario2014.ccsa.ufrn.br
+mail.info.ufrn.br
+www.fmu.ufrn.br
+lais-n1.lais.huol.ufrn.br
+cgtes.sedis.ufrn.br
+webmail.ct.ufrn.br
+shiny.estatistica.ccet.ufrn.br
+dermatologia.pntd.telessaude.ufrn.br
+enappe.ce.ufrn.br
+materiais.imd.ufrn.br
+www.leep.ccs.ufrn.br
+inpacta.ect.ufrn.br
+campanhaaedes.ufrn.br
+lais.huol.ufrn.br
+rstudio-biome.imd.ufrn.br
+lii.imd.ufrn.br
+www.nei.ufrn.br
+huol.ufrn.br
+pr.avasus.ufrn.br
+congressos.dca.ufrn.br
+alpha3d.dem.ufrn.br
+www.imoc2011.ufrn.br
+nupeg.ufrn.br
+repositoriolabim.cchla.ufrn.br
+brcd1.dem.ufrn.br
+dti.imd.ufrn.br
+ebserh-sipac.info.ufrn.br
+gitlab.sedis.ufrn.br
+sida.ufrn.br
+mail.naoresponder.lais.ufrn.br
+zeus.dimap.ufrn.br
+rnmaisvacina.homolog.lais.ufrn.br
+properd.imd.ufrn.br
+www.avasus.ufrn.br
+botagenda.lais.ufrn.br
+registry.lais.huol.ufrn.br
+avatelessaude.sedis.ufrn.br
+ppgd.ccsa.ufrn.br
+le-697.k.lais.ufrn.br
+eadpronatec.eaj.ufrn.br
+www.semapa.ufrn.br
+pmaq.sedis.ufrn.br
+caene.ufrn.br
+staging.multiprova.ufrn.br
+www.dmor.cb.ufrn.br
+atende.imd.ufrn.br
+dmor.cb.ufrn.br
+videoconf.dfte.ufrn.br
+ojs.ccsa.ufrn.br
+inclusaodigital.imd.ufrn.br
+suvige.imd.ufrn.br
+natalvacinacaoidosos.lais.huol.ufrn.br
+siqueira.musica.ufrn.br
+tecnatus.ct.ufrn.br
+boletim.lues.vigilanciasaude.ufrn.br
+www.olimpiada.ccet.ufrn.br
+www.periodicos.ufrn.br
+mdlcursos.sedis.ufrn.br
+www.obdi.ccsa.ufrn.br
+simadm.ccsa.ufrn.br
+bibliotecadigital.sedis.ufrn.br
+seminariolaiscisuc.lais.huol.ufrn.br
+dev.api.saiot2.ect.ufrn.br
+www.iproject.ufrn.br
+pacs.homolog.lais.huol.ufrn.br
+sigmx2.ufrn.br
+nuplam.ufrn.br
+www.emcm.ufrn.br
+mamede.bczm.ufrn.br
+gestantes.telessaude.ufrn.br
+servidor.eaj.ufrn.br
+viva.imd.ufrn.br
+desenvolvimento.info.ufrn.br
+nesc.ufrn.br
+monica.huol.ufrn.br
+kaos.dfte.ufrn.br
+prograd.ufrn.br
+www.lcc.ufrn.br
+mail.geofisica.ufrn.br
+caranguejo.ufrn.br
+telepediatria.telessaude.ufrn.br
+lais-host-n8.lais.ufrn.br
+lasem.imd.ufrn.br
+irhsus.lais.ufrn.br
+suporte2.huol.ufrn.br
+naris.info.ufrn.br
+ufrnapresenta.imd.ufrn.br
+www.labem.ct.ufrn.br
+www.iif.ufrn.br
+brcd2.ufrn.br
+www.ct.ufrn.br
+eb.ct.ufrn.br
+stimoodle.imd.ufrn.br
+www.sisbi.ufrn.br
+psbe-importador.homolog.lais.ufrn.br
+suporte.lais.huol.ufrn.br
+api.themanager.lais.ufrn.br
+fotec.ufrn.br
+wiki.imd.ufrn.br
+kronos.dfte.ufrn.br
+aerocarkara.ct.ufrn.br
+vigilancianatal.lais.ufrn.br
+seminario2015.ccsa.ufrn.br
+leitoscovidrn.imd.ufrn.br
+nimrod.info.ufrn.br
+www.matematica.ccet.ufrn.br
+sol.ccsa.ufrn.br
+gandalf.ufrn.br
+www.rbec.ect.ufrn.br
+ponto.imd.ufrn.br
+www.labman.ct.ufrn.br
+matematica.ccet.ufrn.br
+planthistorian.imd.ufrn.br
+revistafides.ufrn.br
+www.sisu.ufrn.br
+sisu.ufrn.br
+gamelab.imd.ufrn.br
+repositorio.hmg.avasus.ufrn.br
+lues.piloto.vigilanciasaude.ufrn.br
+www.criacao.ufrn.br
+frequencia.bczm.ufrn.br
+pairg.dimap.ufrn.br
+v1.form.lues.vigilanciasaude.ufrn.br
+webmail.geologia.ufrn.br
+nepgn.ufrn.br
+sipac.info.ufrn.br
+andorinha.pntd.telessaude.ufrn.br
+sigrh.ufrn.br
+transparencia.avasus.ufrn.br
+albuquerque.dfte.ufrn.br
+www.principios.cchla.ufrn.br
+api.themanager.homolog.lais.ufrn.br
+statphys.fisica.ufrn.br
+eneds.ct.ufrn.br
+lais-host-n7.vigilanciasaude.ufrn.br
+desenvolvedores.sabia.ufrn.br
+compredecasarn.imd.ufrn.br
+opa.ufrn.br
+vsaps.lais.ufrn.br
+ajuda.atencaobasica.lais.ufrn.br
+www.doutoradoprodema.ufrn.br
+www.nit.ufrn.br
+www.nupeg.ufrn.br
+revela.homolog.lais.ufrn.br
+sdr.dimap.ufrn.br
+cndp.prh.ufrn.br

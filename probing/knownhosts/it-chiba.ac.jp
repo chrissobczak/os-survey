@@ -1,673 +1,292 @@
-NOERROR	gw.sf.cs.it-chiba.ac.jp
-NXDOMAIN	www.szk.net.it-chiba.ac.jp
-NOERROR	banana.cs.it-chiba.ac.jp
-SERVFAIL	nabe.uki.net.it-chiba.ac.jp
-SERVFAIL	sv0.mis.it-chiba.ac.jp
-NXDOMAIN	vwww.seki.cs.it-chiba.ac.jp
-NXDOMAIN	mz-relay.cs.it-chiba.ac.jp
-NOERROR	h1.hara.net.it-chiba.ac.jp
-NOERROR	cs6.cs.it-chiba.ac.jp
-NXDOMAIN	www.frc.it-chiba.ac.jp
-NOERROR	str.cc.it-chiba.ac.jp
-NXDOMAIN	www.educ.pm.it-chiba.ac.jp
-NXDOMAIN	spm.pm.it-chiba.ac.jp
-NOERROR	www.konno.it-chiba.ac.jp
-NXDOMAIN	desk.cs.it-chiba.ac.jp
-SERVFAIL	el1.is.mis.it-chiba.ac.jp
-SERVFAIL	shimizu.ise.it-chiba.ac.jp
-NXDOMAIN	lhr.uki.cs.it-chiba.ac.jp
-NXDOMAIN	alpha.ar.cs.it-chiba.ac.jp
-NOERROR	www.mae.cs.it-chiba.ac.jp
-NXDOMAIN	cs65.cs.it-chiba.ac.jp
-SERVFAIL	www2.es.it-chiba.ac.jp
-NXDOMAIN	atom.miida.cs.it-chiba.ac.jp
-NOERROR	h10.hara.net.it-chiba.ac.jp
-NOERROR	nsx.imc.it-chiba.ac.jp
-NXDOMAIN	blue.cs.it-chiba.ac.jp
-NOERROR	scdatabase.cc.it-chiba.ac.jp
-NXDOMAIN	ohriki5.ce.it-chiba.ac.jp
-NOERROR	www.xulab.it-chiba.ac.jp
-NXDOMAIN	ps.kama.cs.it-chiba.ac.jp
-NXDOMAIN	zinnia.cs.it-chiba.ac.jp
-NXDOMAIN	vfw.mae.cs.it-chiba.ac.jp
-NXDOMAIN	april.rok.cs.it-chiba.ac.jp
-NXDOMAIN	citmg3.stf.it-chiba.ac.jp
-NXDOMAIN	t1-prtsv01.cle-tm.it-chiba.ac.jp
-NOERROR	www.cit-ejiriken.it-chiba.ac.jp
-NXDOMAIN	vgate.nobody.cs.it-chiba.ac.jp
-NXDOMAIN	gw.acoust.cs.it-chiba.ac.jp
-SERVFAIL	kodera.es.it-chiba.ac.jp
-NOERROR	planet.cc.it-chiba.ac.jp
-NOERROR	www.kikulab.it-chiba.ac.jp
-NOERROR	ns-learning.nao.net.it-chiba.ac.jp
-NXDOMAIN	cs17.cs.it-chiba.ac.jp
-NXDOMAIN	vfw.seki.cs.it-chiba.ac.jp
-NXDOMAIN	t-gw.imc.it-chiba.ac.jp
-NXDOMAIN	network.sf.cs.it-chiba.ac.jp
-SERVFAIL	fuji.ise.it-chiba.ac.jp
-NOERROR	bq-vm.nao.net.it-chiba.ac.jp
-NOERROR	pop.perc.it-chiba.ac.jp
-NXDOMAIN	seki-pc.seki.cs.it-chiba.ac.jp
-NOERROR	idp.it-chiba.ac.jp
-SERVFAIL	sv.eece.it-chiba.ac.jp
-NOERROR	hnd.saba.cs.it-chiba.ac.jp
-NXDOMAIN	uk-relay.cs.it-chiba.ac.jp
-NOERROR	wgw2.net.it-chiba.ac.jp
-NOERROR	www.imai.cs.it-chiba.ac.jp
-NXDOMAIN	nob-bc.nob.cs.it-chiba.ac.jp
-NOERROR	h6.hara.net.it-chiba.ac.jp
-NOERROR	www.ssscms-1.it-chiba.ac.jp
-NXDOMAIN	cs82.cs.it-chiba.ac.jp
-NOERROR	www.arc.it-chiba.ac.jp
-NXDOMAIN	www.mk.cs.it-chiba.ac.jp
-NOERROR	www.masashi.ohchi.it-chiba.ac.jp
-NXDOMAIN	desk2.cs.it-chiba.ac.jp
-SERVFAIL	htsun.ic.it-chiba.ac.jp
-NXDOMAIN	cs25.cs.it-chiba.ac.jp
-NXDOMAIN	koya.cs.it-chiba.ac.jp
-NXDOMAIN	www.s-tadakuma.it-chiba.ac.jp
-NXDOMAIN	cs83.cs.it-chiba.ac.jp
-NXDOMAIN	airkg.kama.cs.it-chiba.ac.jp
-NXDOMAIN	cs84.cs.it-chiba.ac.jp
-NOERROR	nat1.cs.it-chiba.ac.jp
-NOERROR	www.acoust.cs.it-chiba.ac.jp
-NOERROR	fuk.saba.cs.it-chiba.ac.jp
-NXDOMAIN	trans8.ce.it-chiba.ac.jp
-NOERROR	delta.sf.cs.it-chiba.ac.jp
-NOERROR	find.is.it-chiba.ac.jp
-NOERROR	mddb.cc.it-chiba.ac.jp
-SERVFAIL	ns.ic.it-chiba.ac.jp
-NXDOMAIN	suga.cs.it-chiba.ac.jp
-NOERROR	stmg.cc.it-chiba.ac.jp
-NXDOMAIN	cs19.cs.it-chiba.ac.jp
-NXDOMAIN	seki-relay.cs.it-chiba.ac.jp
-NXDOMAIN	vgate.kama.cs.it-chiba.ac.jp
-NOERROR	www.hasegawa.cs.it-chiba.ac.jp
-NXDOMAIN	nashi.cs.it-chiba.ac.jp
-SERVFAIL	www2.uki.net.it-chiba.ac.jp
-NXDOMAIN	bc.imai.cs.it-chiba.ac.jp
-NXDOMAIN	trans3.ce.it-chiba.ac.jp
-NXDOMAIN	wwwseki.cs.it-chiba.ac.jp
-NXDOMAIN	xerophyte.cs.it-chiba.ac.jp
-NXDOMAIN	cs21.cs.it-chiba.ac.jp
-NXDOMAIN	mandarin.cs.it-chiba.ac.jp
-SERVFAIL	fumi.es.it-chiba.ac.jp
-NXDOMAIN	vfw.kama.cs.it-chiba.ac.jp
-NOERROR	seki.cs.it-chiba.ac.jp
-NOERROR	apricot.cs.it-chiba.ac.jp
-NXDOMAIN	fw.nob.cs.it-chiba.ac.jp
-SERVFAIL	kirin.es.it-chiba.ac.jp
-NXDOMAIN	himalia.suga.cs.it-chiba.ac.jp
-NXDOMAIN	broadcast.iyo.cs.it-chiba.ac.jp
-NXDOMAIN	2001.sf.cs.it-chiba.ac.jp
-NXDOMAIN	c-gapps.it-chiba.ac.jp
-NXDOMAIN	appro2.cs.it-chiba.ac.jp
-NXDOMAIN	frontier.ok.net.it-chiba.ac.jp
-NXDOMAIN	cs24.cs.it-chiba.ac.jp
-SERVFAIL	www.lms.ict.it-chiba.ac.jp
-SERVFAIL	www.mss.ise.it-chiba.ac.jp
-NXDOMAIN	www.ok.net.it-chiba.ac.jp
-SERVFAIL	www.ise.it-chiba.ac.jp
-NOERROR	ipx00.seki.cs.it-chiba.ac.jp
-NXDOMAIN	b1.cs.it-chiba.ac.jp
-SERVFAIL	www10.es.it-chiba.ac.jp
-NXDOMAIN	eucalyptus.cs.it-chiba.ac.jp
-NXDOMAIN	atrans.ce.it-chiba.ac.jp
-SERVFAIL	www.miida.net.it-chiba.ac.jp
-NOERROR	ato.elt.net.it-chiba.ac.jp
-NOERROR	h8.hara.net.it-chiba.ac.jp
-NOERROR	www.kama.cs.it-chiba.ac.jp
-NXDOMAIN	edu.sf.cs.it-chiba.ac.jp
-NXDOMAIN	jupiter.ken.cs.it-chiba.ac.jp
-NOERROR	www.robocup.it-chiba.ac.jp
-NOERROR	cs11.cs.it-chiba.ac.jp
-NXDOMAIN	3ken.ish.net.it-chiba.ac.jp
-NXDOMAIN	b0.cs.it-chiba.ac.jp
-NOERROR	www.mss.it-chiba.ac.jp
-NOERROR	www.sssacp-1.it-chiba.ac.jp
-NOERROR	citkaikeiap.it-chiba.ac.jp
-NXDOMAIN	cs76.cs.it-chiba.ac.jp
-NOERROR	kmsk.is.it-chiba.ac.jp
-NXDOMAIN	cs70.cs.it-chiba.ac.jp
-NOERROR	www.it-chiba.ac.jp
-NOERROR	ysr.net.it-chiba.ac.jp
-NXDOMAIN	railtokyo2015.cs.it-chiba.ac.jp
-NOERROR	www.miulab.it-chiba.ac.jp
-NXDOMAIN	appro1.cs.it-chiba.ac.jp
-NXDOMAIN	taurus.suga.net.it-chiba.ac.jp
-NOERROR	fyi.cs.it-chiba.ac.jp
-NOERROR	arc.it-chiba.ac.jp
-NOERROR	t-wmail02.it-chiba.ac.jp
-SERVFAIL	www.ec.it-chiba.ac.jp
-NXDOMAIN	cs81.cs.it-chiba.ac.jp
-NXDOMAIN	kyoumu.cc.it-chiba.ac.jp
-NXDOMAIN	pe2300.hu.it-chiba.ac.jp
-NOERROR	ngo.saba.cs.it-chiba.ac.jp
-NXDOMAIN	vwww.saba.cs.it-chiba.ac.jp
-NOERROR	ns-gw3.net.it-chiba.ac.jp
-NXDOMAIN	www.wwwlib.cc.it-chiba.ac.jp
-NOERROR	elt.net.it-chiba.ac.jp
-SERVFAIL	www.uki.net.it-chiba.ac.jp
-NXDOMAIN	edu0.cs.it-chiba.ac.jp
-NOERROR	ns-gwy.net.it-chiba.ac.jp
-SERVFAIL	www.ic.it-chiba.ac.jp
-NOERROR	le1.le.it-chiba.ac.jp
-NXDOMAIN	www.nakajima-lab.it-chiba.ac.jp
-NOERROR	lab1.cs.it-chiba.ac.jp
-SERVFAIL	sol.sys.mis.it-chiba.ac.jp
-NOERROR	beta.sf.cs.it-chiba.ac.jp
-NOERROR	hkd.saba.cs.it-chiba.ac.jp
-NXDOMAIN	vgate.iyoda.cs.it-chiba.ac.jp
-NXDOMAIN	cs-gw1.cs.it-chiba.ac.jp
-NXDOMAIN	nr.kama.cs.it-chiba.ac.jp
-NOERROR	trn.imc.it-chiba.ac.jp
-NXDOMAIN	cs75.cs.it-chiba.ac.jp
-NXDOMAIN	www.mz.cs.it-chiba.ac.jp
-NXDOMAIN	take-lab.pm.it-chiba.ac.jp
-NOERROR	www.le.it-chiba.ac.jp
-NOERROR	mac.it-chiba.ac.jp
-NXDOMAIN	auth.it-chiba.ac.jp
-NXDOMAIN	jn.cs.it-chiba.ac.jp
-NXDOMAIN	edu6.cs.it-chiba.ac.jp
-NOERROR	www.isys.it-chiba.ac.jp
-NXDOMAIN	cit-ce-net.it-chiba.ac.jp
-NOERROR	coconuts.cs.it-chiba.ac.jp
-NXDOMAIN	www.uki.cs.it-chiba.ac.jp
-NXDOMAIN	gray.cs.it-chiba.ac.jp
-NXDOMAIN	gw.nob.cs.it-chiba.ac.jp
-NOERROR	comm.cc.it-chiba.ac.jp
-NXDOMAIN	kanri.lib.it-chiba.ac.jp
-NOERROR	www.nakanolab.it-chiba.ac.jp
-NXDOMAIN	www2.ysr.net.it-chiba.ac.jp
-SERVFAIL	www5.es.it-chiba.ac.jp
-NXDOMAIN	panther.kama.cs.it-chiba.ac.jp
-NOERROR	mail.vpc.net.it-chiba.ac.jp
-NOERROR	gw.saba.cs.it-chiba.ac.jp
-NOERROR	cs12.cs.it-chiba.ac.jp
-NXDOMAIN	client05.miida.cs.it-chiba.ac.jp
-NOERROR	cs7.cs.it-chiba.ac.jp
-NXDOMAIN	vwww.mae.cs.it-chiba.ac.jp
-NXDOMAIN	trans1.ce.it-chiba.ac.jp
-NOERROR	www.kubota.it-chiba.ac.jp
-NXDOMAIN	hickory.cs.it-chiba.ac.jp
-NOERROR	stmw.cc.it-chiba.ac.jp
-NXDOMAIN	vwww.acoust.cs.it-chiba.ac.jp
-NXDOMAIN	ns.cs.it-chiba.ac.jp
-NXDOMAIN	cs71.cs.it-chiba.ac.jp
-NXDOMAIN	www.koba.it-chiba.ac.jp
-NXDOMAIN	cam.kama.cs.it-chiba.ac.jp
-NXDOMAIN	gakuen.it-chiba.ac.jp
-NOERROR	www.robotics.it-chiba.ac.jp
-NOERROR	www.saba.cs.it-chiba.ac.jp
-NOERROR	gwy.hara.net.it-chiba.ac.jp
-NOERROR	lab3.cs.it-chiba.ac.jp
-NOERROR	opac2.lib.it-chiba.ac.jp
-NXDOMAIN	network.iyo.cs.it-chiba.ac.jp
-NXDOMAIN	raspberry.cs.it-chiba.ac.jp
-NOERROR	www.keiji.nakayama.it-chiba.ac.jp
-NOERROR	it-chiba.ac.jp
-NOERROR	www.ssssql-1.it-chiba.ac.jp
-NOERROR	el-host.nao.net.it-chiba.ac.jp
-NOERROR	cts.saba.cs.it-chiba.ac.jp
-NXDOMAIN	kanda-river.sf.cs.it-chiba.ac.jp
-NOERROR	www.syslab.it-chiba.ac.jp
-NOERROR	www.ord.it-chiba.ac.jp
-NOERROR	www.vpc.net.it-chiba.ac.jp
-NXDOMAIN	cs78.cs.it-chiba.ac.jp
-NOERROR	citlcap.it-chiba.ac.jp
-NOERROR	www.philosophia.it-chiba.ac.jp
-NXDOMAIN	smtp2.it-chiba.ac.jp
-NXDOMAIN	sapro.hu.it-chiba.ac.jp
-NOERROR	net.it-chiba.ac.jp
-NXDOMAIN	risyu.is.it-chiba.ac.jp
-NXDOMAIN	metre.ysr.net.it-chiba.ac.jp
-NXDOMAIN	lemon.cs.it-chiba.ac.jp
-NXDOMAIN	prof.cs.it-chiba.ac.jp
-NXDOMAIN	nodasen.koya.cs.it-chiba.ac.jp
-NOERROR	mz.cs.it-chiba.ac.jp
-SERVFAIL	ito.es.it-chiba.ac.jp
-SERVFAIL	mercury.es.it-chiba.ac.jp
-NOERROR	suga.net.it-chiba.ac.jp
-NOERROR	www.shiba.it-chiba.ac.jp
-NXDOMAIN	gw.hasegawa.cs.it-chiba.ac.jp
-NOERROR	mail.mae.cs.it-chiba.ac.jp
-NXDOMAIN	www.take-lab.it-chiba.ac.jp
-NXDOMAIN	pc-lb1200.seki.cs.it-chiba.ac.jp
-NOERROR	www.ysr.net.it-chiba.ac.jp
-NXDOMAIN	sumida-river.sf.cs.it-chiba.ac.jp
-SERVFAIL	supersonic.ec.it-chiba.ac.jp
-NOERROR	nat6.cs.it-chiba.ac.jp
-NOERROR	elearn2.le.it-chiba.ac.jp
-NXDOMAIN	vfw.nobody.cs.it-chiba.ac.jp
-SERVFAIL	okamoto-lab.ec.it-chiba.ac.jp
-NXDOMAIN	mz.mz.cs.it-chiba.ac.jp
-NOERROR	gw2.cs.it-chiba.ac.jp
-NXDOMAIN	mars.suga.cs.it-chiba.ac.jp
-NXDOMAIN	gold.miida.cs.it-chiba.ac.jp
-NOERROR	cs14.cs.it-chiba.ac.jp
-NXDOMAIN	cs74.cs.it-chiba.ac.jp
-NXDOMAIN	ent.cs.it-chiba.ac.jp
-NXDOMAIN	tsudanuma.tomii.cs.it-chiba.ac.jp
-NOERROR	attend-ap.is.it-chiba.ac.jp
-NXDOMAIN	vfw.mz.cs.it-chiba.ac.jp
-NOERROR	smp.it-chiba.ac.jp
-NOERROR	alumni.cs.it-chiba.ac.jp
-NOERROR	www.ar.cs.it-chiba.ac.jp
-NOERROR	lab4.cs.it-chiba.ac.jp
-NOERROR	sso.it-chiba.ac.jp
-NXDOMAIN	mserv.cs.it-chiba.ac.jp
-NXDOMAIN	citera.ken.cs.it-chiba.ac.jp
-NXDOMAIN	vfw.acoust.cs.it-chiba.ac.jp
-NXDOMAIN	cit-ns-net.it-chiba.ac.jp
-NOERROR	www.ita.cs.it-chiba.ac.jp
-SERVFAIL	u10.uki.net.it-chiba.ac.jp
-NOERROR	at.elt.net.it-chiba.ac.jp
-NXDOMAIN	citera.cs.it-chiba.ac.jp
-NXDOMAIN	mddb.lib.it-chiba.ac.jp
-NXDOMAIN	www.microlab.it-chiba.ac.jp
-NXDOMAIN	citkaikeiap1.it-chiba.ac.jp
-NXDOMAIN	vgate.ita.cs.it-chiba.ac.jp
-NOERROR	toy.saba.cs.it-chiba.ac.jp
-NXDOMAIN	isaga.pm.it-chiba.ac.jp
-NOERROR	mail.saba.cs.it-chiba.ac.jp
-NXDOMAIN	ken.cs.it-chiba.ac.jp
-NXDOMAIN	vgate.acoust.cs.it-chiba.ac.jp
-NXDOMAIN	jaguar.kama.cs.it-chiba.ac.jp
-NXDOMAIN	edu.cs.it-chiba.ac.jp
-NXDOMAIN	citmg2.cc.it-chiba.ac.jp
-NXDOMAIN	cs23.cs.it-chiba.ac.jp
-NOERROR	grape.cs.it-chiba.ac.jp
-NOERROR	citmg2.pf.it-chiba.ac.jp
-SERVFAIL	samy.es.it-chiba.ac.jp
-NXDOMAIN	www.jn.cs.it-chiba.ac.jp
-NXDOMAIN	gate18.cs.it-chiba.ac.jp
-SERVFAIL	sol.mss.ise.it-chiba.ac.jp
-NXDOMAIN	webcontest.cs.it-chiba.ac.jp
-NXDOMAIN	vanilla.cs.it-chiba.ac.jp
-NOERROR	nas2.vpc.net.it-chiba.ac.jp
-NOERROR	svr1.vpc.net.it-chiba.ac.jp
-NXDOMAIN	alt.szk.net.it-chiba.ac.jp
-NXDOMAIN	cs69.cs.it-chiba.ac.jp
-NXDOMAIN	gw.nao.net.it-chiba.ac.jp
-NOERROR	durian.cs.it-chiba.ac.jp
-NXDOMAIN	tiger.kama.cs.it-chiba.ac.jp
-NXDOMAIN	shibuya-river.sf.cs.it-chiba.ac.jp
-NOERROR	www.sf.cs.it-chiba.ac.jp
-NOERROR	www.appchem.it-chiba.ac.jp
-NXDOMAIN	hakko.is.it-chiba.ac.jp
-NXDOMAIN	vfw.saba.cs.it-chiba.ac.jp
-NOERROR	lp-s9000.bb.net.it-chiba.ac.jp
-NXDOMAIN	webcam2.kama.cs.it-chiba.ac.jp
-NOERROR	cs5.cs.it-chiba.ac.jp
-NOERROR	www.npr.it-chiba.ac.jp
-SERVFAIL	www.sys.mis.it-chiba.ac.jp
-NOERROR	attend-relay.is.it-chiba.ac.jp
-NXDOMAIN	c-ad01.cad.it-chiba.ac.jp
-NOERROR	wwwlib.cc.it-chiba.ac.jp
-NXDOMAIN	thyme.cs.it-chiba.ac.jp
-NXDOMAIN	vfw.ita.cs.it-chiba.ac.jp
-NXDOMAIN	www.yana.net.it-chiba.ac.jp
-SERVFAIL	w3.uki.net.it-chiba.ac.jp
-SERVFAIL	kozono.es.it-chiba.ac.jp
-NOERROR	iyo.cs.it-chiba.ac.jp
-SERVFAIL	el3.is.mis.it-chiba.ac.jp
-SERVFAIL	eece.eece.it-chiba.ac.jp
-NOERROR	www.seki.cs.it-chiba.ac.jp
-NXDOMAIN	edu3.cs.it-chiba.ac.jp
-NOERROR	cog.nak.net.it-chiba.ac.jp
-NXDOMAIN	vwww.kama.cs.it-chiba.ac.jp
-NOERROR	h3.hara.net.it-chiba.ac.jp
-SERVFAIL	aleph.ise.it-chiba.ac.jp
-NXDOMAIN	www.jasag-pesig.it-chiba.ac.jp
-NOERROR	www.mecheng.it-chiba.ac.jp
-NXDOMAIN	kale.cs.it-chiba.ac.jp
-NOERROR	h7.hara.net.it-chiba.ac.jp
-NOERROR	welf.it-chiba.ac.jp
-NOERROR	moon.cc.it-chiba.ac.jp
-NXDOMAIN	lms.is.it-chiba.ac.jp
-NOERROR	www.butsuri.it-chiba.ac.jp
-NOERROR	hij.saba.cs.it-chiba.ac.jp
-NXDOMAIN	puma.kama.cs.it-chiba.ac.jp
-NOERROR	opac.lib.it-chiba.ac.jp
-NOERROR	akebono.perc.it-chiba.ac.jp
-SERVFAIL	www15.es.it-chiba.ac.jp
-NXDOMAIN	b2.cs.it-chiba.ac.jp
-NOERROR	www.actes.is.it-chiba.ac.jp
-NXDOMAIN	www.koya.cs.it-chiba.ac.jp
-NXDOMAIN	satan.uki.cs.it-chiba.ac.jp
-NOERROR	cs13.cs.it-chiba.ac.jp
-SERVFAIL	kyoko.es.it-chiba.ac.jp
-NOERROR	www.ecinfo.it-chiba.ac.jp
-NXDOMAIN	sirocco.ar.cs.it-chiba.ac.jp
-NOERROR	www.sid.it-chiba.ac.jp
-NOERROR	ns1.imc.it-chiba.ac.jp
-NXDOMAIN	www2.szk.net.it-chiba.ac.jp
-NXDOMAIN	miya.cs.it-chiba.ac.jp
-NXDOMAIN	yucca.cs.it-chiba.ac.jp
-NOERROR	kintai.jinji.it-chiba.ac.jp
-NOERROR	l3sw2.cs.it-chiba.ac.jp
-NXDOMAIN	cs20.cs.it-chiba.ac.jp
-NOERROR	nat3.cs.it-chiba.ac.jp
-NOERROR	web.cs.it-chiba.ac.jp
-NOERROR	ssk.is.it-chiba.ac.jp
-NOERROR	btsync.seki.cs.it-chiba.ac.jp
-NXDOMAIN	tsurumi-river.sf.cs.it-chiba.ac.jp
-NXDOMAIN	citkintaiw.it-chiba.ac.jp
-NXDOMAIN	gdckad01.gdc.it-chiba.ac.jp
-NXDOMAIN	ns3.ish.net.it-chiba.ac.jp
-SERVFAIL	elearn.ic.it-chiba.ac.jp
-NXDOMAIN	www.ym.cs.it-chiba.ac.jp
-NOERROR	webentry.it-chiba.ac.jp
-NOERROR	c-shibbo01.it-chiba.ac.jp
-NXDOMAIN	st_copy.cs.it-chiba.ac.jp
-NOERROR	mail.kama.cs.it-chiba.ac.jp
-NXDOMAIN	white.cs.it-chiba.ac.jp
-NOERROR	nrt.saba.cs.it-chiba.ac.jp
-NXDOMAIN	school.hara.net.it-chiba.ac.jp
-NXDOMAIN	cs-relay.cs.it-chiba.ac.jp
-NXDOMAIN	eleking.iyo.cs.it-chiba.ac.jp
-NXDOMAIN	attendance.is.it-chiba.ac.jp
-NXDOMAIN	cs80.cs.it-chiba.ac.jp
-NOERROR	ipx.seki.cs.it-chiba.ac.jp
-NXDOMAIN	shimizu.iem.it-chiba.ac.jp
-NXDOMAIN	mail.ar.cs.it-chiba.ac.jp
-NOERROR	wgw1.net.it-chiba.ac.jp
-NXDOMAIN	www.kats.cs.it-chiba.ac.jp
-NOERROR	ita.cs.it-chiba.ac.jp
-NXDOMAIN	lion.kama.cs.it-chiba.ac.jp
-NOERROR	usermin.it-chiba.ac.jp
-NOERROR	www.phys.it-chiba.ac.jp
-NXDOMAIN	pluto.koya.cs.it-chiba.ac.jp
-NXDOMAIN	www.iem.it-chiba.ac.jp
-NOERROR	orange.it-chiba.ac.jp
-NOERROR	ipx0.seki.cs.it-chiba.ac.jp
-NOERROR	fs.vpc.net.it-chiba.ac.jp
-NXDOMAIN	vgate.saba.cs.it-chiba.ac.jp
-NOERROR	smtp-auth.it-chiba.ac.jp
-NXDOMAIN	ym-relay.cs.it-chiba.ac.jp
-NOERROR	www.pmcloud.it-chiba.ac.jp
-SERVFAIL	www3.es.it-chiba.ac.jp
-NOERROR	cs8.cs.it-chiba.ac.jp
-NOERROR	www.net.it-chiba.ac.jp
-NOERROR	tierra.perc.it-chiba.ac.jp
-NXDOMAIN	gw.imai.cs.it-chiba.ac.jp
-NOERROR	www.pm.it-chiba.ac.jp
-NOERROR	edu1.cs.it-chiba.ac.jp
-NXDOMAIN	juniper.cs.it-chiba.ac.jp
-SERVFAIL	nie.uki.net.it-chiba.ac.jp
-NXDOMAIN	www.e-sys.it-chiba.ac.jp
-SERVFAIL	www.mis.it-chiba.ac.jp
-NXDOMAIN	edu7.cs.it-chiba.ac.jp
-NXDOMAIN	vfw.imai.cs.it-chiba.ac.jp
-NXDOMAIN	edu4.cs.it-chiba.ac.jp
-NXDOMAIN	orange.cs.it-chiba.ac.jp
-NOERROR	w2.net.it-chiba.ac.jp
-SERVFAIL	www.ict.it-chiba.ac.jp
-NXDOMAIN	silver.miida.cs.it-chiba.ac.jp
-NOERROR	ns.imc.it-chiba.ac.jp
-NXDOMAIN	koba.it-chiba.ac.jp
-NOERROR	sf-gate.sf.cs.it-chiba.ac.jp
-NXDOMAIN	star.pm.it-chiba.ac.jp
-NOERROR	oka.saba.cs.it-chiba.ac.jp
-NOERROR	vlab.cs.it-chiba.ac.jp
-NOERROR	yk.nao.net.it-chiba.ac.jp
-NOERROR	www.rok.cs.it-chiba.ac.jp
-NXDOMAIN	c-ad02.cad.it-chiba.ac.jp
-NOERROR	www.cc.it-chiba.ac.jp
-NXDOMAIN	fig.cs.it-chiba.ac.jp
-NOERROR	cs9.cs.it-chiba.ac.jp
-NOERROR	cob.nak.net.it-chiba.ac.jp
-NXDOMAIN	www.koha.net.it-chiba.ac.jp
-SERVFAIL	bob.miida.net.it-chiba.ac.jp
-NOERROR	www.iyo.cs.it-chiba.ac.jp
-NXDOMAIN	wtmc2002.cs.it-chiba.ac.jp
-NXDOMAIN	vgate.tomii.cs.it-chiba.ac.jp
-NOERROR	cs2.cs.it-chiba.ac.jp
-NOERROR	www.lifescience.it-chiba.ac.jp
-NXDOMAIN	tw.cs.it-chiba.ac.jp
-NOERROR	rna.le.it-chiba.ac.jp
-NXDOMAIN	vgate.mz.cs.it-chiba.ac.jp
-NOERROR	l2sw1.cs.it-chiba.ac.jp
-NOERROR	moon.perc.it-chiba.ac.jp
-NOERROR	wm.it-chiba.ac.jp
-NXDOMAIN	www.miya.cs.it-chiba.ac.jp
-NXDOMAIN	ganymede.suga.cs.it-chiba.ac.jp
-SERVFAIL	aerith.ec.it-chiba.ac.jp
-NOERROR	gamma.sf.cs.it-chiba.ac.jp
-NOERROR	www2.seki.cs.it-chiba.ac.jp
-NOERROR	www.nao.net.it-chiba.ac.jp
-NOERROR	kij.saba.cs.it-chiba.ac.jp
-NOERROR	cream.nao.net.it-chiba.ac.jp
-NOERROR	www.ngw.net.it-chiba.ac.jp
-SERVFAIL	www11.es.it-chiba.ac.jp
-NXDOMAIN	www.sano-lab.it-chiba.ac.jp
-NXDOMAIN	servers-gate.cs.it-chiba.ac.jp
-NXDOMAIN	meguro-river.sf.cs.it-chiba.ac.jp
-NXDOMAIN	gw.iyo.cs.it-chiba.ac.jp
-NXDOMAIN	csz.cs.it-chiba.ac.jp
-NXDOMAIN	brahma.perc.it-chiba.ac.jp
-NOERROR	sdj.saba.cs.it-chiba.ac.jp
-NXDOMAIN	cs0.cs.it-chiba.ac.jp
-SERVFAIL	gold.miida.net.it-chiba.ac.jp
-NXDOMAIN	edu5.cs.it-chiba.ac.jp
-NXDOMAIN	www.doi.cs.it-chiba.ac.jp
-NOERROR	www.cog.it-chiba.ac.jp
-NOERROR	citns2.cc.it-chiba.ac.jp
-SERVFAIL	www6.es.it-chiba.ac.jp
-NXDOMAIN	vgate.seki.cs.it-chiba.ac.jp
-NXDOMAIN	e-support.nak.net.it-chiba.ac.jp
-NXDOMAIN	cs26.cs.it-chiba.ac.jp
-NXDOMAIN	fw.hasegawa.cs.it-chiba.ac.jp
-NXDOMAIN	aphrodite.ita.cs.it-chiba.ac.jp
-NXDOMAIN	cs79.cs.it-chiba.ac.jp
-NXDOMAIN	trans5.ce.it-chiba.ac.jp
-NOERROR	www.design.it-chiba.ac.jp
-NOERROR	rp.elt.net.it-chiba.ac.jp
-NOERROR	www.shimodalab.it-chiba.ac.jp
-NOERROR	anpan.nao.net.it-chiba.ac.jp
-NOERROR	nat2.cs.it-chiba.ac.jp
-NXDOMAIN	network.kama.cs.it-chiba.ac.jp
-SERVFAIL	shinobu.ec.it-chiba.ac.jp
-NOERROR	h5.hara.net.it-chiba.ac.jp
-NOERROR	nat4.cs.it-chiba.ac.jp
-NOERROR	h9.hara.net.it-chiba.ac.jp
-NXDOMAIN	yellow.cs.it-chiba.ac.jp
-NOERROR	citjc.cc.it-chiba.ac.jp
-NOERROR	www.nak.net.it-chiba.ac.jp
-NXDOMAIN	www.kozono.it-chiba.ac.jp
-NOERROR	gw.perc.it-chiba.ac.jp
-SERVFAIL	www.univ.ict.it-chiba.ac.jp
-SERVFAIL	www1.es.it-chiba.ac.jp
-NOERROR	alpha.sf.cs.it-chiba.ac.jp
-NOERROR	web.isys.it-chiba.ac.jp
-NXDOMAIN	gakuen-j.it-chiba.ac.jp
-SERVFAIL	show-co.es.it-chiba.ac.jp
-NXDOMAIN	gw.kama.cs.it-chiba.ac.jp
-NXDOMAIN	vfw.tomii.cs.it-chiba.ac.jp
-NOERROR	www-ns8.bb.net.it-chiba.ac.jp
-NXDOMAIN	coconut.cs.it-chiba.ac.jp
-NOERROR	t-wmail01.it-chiba.ac.jp
-NOERROR	www.theochem.it-chiba.ac.jp
-NXDOMAIN	www.suga.cs.it-chiba.ac.jp
-NOERROR	www2.ce.it-chiba.ac.jp
-NOERROR	rok.cs.it-chiba.ac.jp
-NXDOMAIN	cs73.cs.it-chiba.ac.jp
-NXDOMAIN	www.miida.cs.it-chiba.ac.jp
-NXDOMAIN	purple.cs.it-chiba.ac.jp
-NOERROR	www.minakata.it-chiba.ac.jp
-NXDOMAIN	www.tomii.cs.it-chiba.ac.jp
-NOERROR	cs16.cs.it-chiba.ac.jp
-NXDOMAIN	vgate.rok.cs.it-chiba.ac.jp
-NOERROR	www.cs.it-chiba.ac.jp
-NOERROR	www.rsa.it-chiba.ac.jp
-NXDOMAIN	appro.cs.it-chiba.ac.jp
-NOERROR	www-host.nao.net.it-chiba.ac.jp
-NOERROR	www.imee.it-chiba.ac.jp
-NOERROR	ns2.imc.it-chiba.ac.jp
-NXDOMAIN	vfw.iyoda.cs.it-chiba.ac.jp
-NXDOMAIN	tama-river.sf.cs.it-chiba.ac.jp
-NXDOMAIN	cs22.cs.it-chiba.ac.jp
-NXDOMAIN	cs72.cs.it-chiba.ac.jp
-NXDOMAIN	vgate.hasegawa.cs.it-chiba.ac.jp
-NXDOMAIN	eta.sf.cs.it-chiba.ac.jp
-NOERROR	www.lib.it-chiba.ac.jp
-NXDOMAIN	cs66.cs.it-chiba.ac.jp
-NXDOMAIN	wtmc2003.cs.it-chiba.ac.jp
-NXDOMAIN	snowleopard.kama.cs.it-chiba.ac.jp
-SERVFAIL	ogibayashi.ise.it-chiba.ac.jp
-NXDOMAIN	ume.cs.it-chiba.ac.jp
-NOERROR	lab2.cs.it-chiba.ac.jp
-NXDOMAIN	red.cs.it-chiba.ac.jp
-NOERROR	itm.saba.cs.it-chiba.ac.jp
-NXDOMAIN	proxy.cc.it-chiba.ac.jp
-NOERROR	www.eece10.it-chiba.ac.jp
-NOERROR	webentry.npr.it-chiba.ac.jp
-NOERROR	gw.mae.cs.it-chiba.ac.jp
-NXDOMAIN	vgate.sf.cs.it-chiba.ac.jp
-NOERROR	seki-pc0.seki.cs.it-chiba.ac.jp
-NXDOMAIN	gaia.ym.cs.it-chiba.ac.jp
-NOERROR	citmg1.cc.it-chiba.ac.jp
-NOERROR	conveni.is.it-chiba.ac.jp
-NOERROR	www.suga.net.it-chiba.ac.jp
-NOERROR	www.furde.it-chiba.ac.jp
-NOERROR	gware.nao.net.it-chiba.ac.jp
-NOERROR	w3.net.it-chiba.ac.jp
-NXDOMAIN	vfw.sf.cs.it-chiba.ac.jp
-NOERROR	citns1.cc.it-chiba.ac.jp
-NOERROR	test-server.nao.net.it-chiba.ac.jp
-NXDOMAIN	mac650.uki.cs.it-chiba.ac.jp
-NXDOMAIN	ok.net.it-chiba.ac.jp
-NXDOMAIN	gw.tomii.cs.it-chiba.ac.jp
-NXDOMAIN	gate.sf.cs.it-chiba.ac.jp
-NXDOMAIN	trans2.ce.it-chiba.ac.jp
-NOERROR	seki-pc00.seki.cs.it-chiba.ac.jp
-NXDOMAIN	miida-relay.cs.it-chiba.ac.jp
-NXDOMAIN	trans4.ce.it-chiba.ac.jp
-NOERROR	www.rna.it-chiba.ac.jp
-NXDOMAIN	www.mse.it-chiba.ac.jp
-NXDOMAIN	brown.cs.it-chiba.ac.jp
-NOERROR	sp-in01.it-chiba.ac.jp
-NOERROR	www.seki-lab.it-chiba.ac.jp
-SERVFAIL	citera.es.it-chiba.ac.jp
-NOERROR	ns.elt.net.it-chiba.ac.jp
-NXDOMAIN	s-gw.imc.it-chiba.ac.jp
-NXDOMAIN	ccc.is.it-chiba.ac.jp
-NOERROR	h2.hara.net.it-chiba.ac.jp
-NOERROR	www.oklab.it-chiba.ac.jp
-NOERROR	webm.saba.cs.it-chiba.ac.jp
-SERVFAIL	miso.es.it-chiba.ac.jp
-NXDOMAIN	cobalt.koha.net.it-chiba.ac.jp
-NXDOMAIN	vega.mz.cs.it-chiba.ac.jp
-NOERROR	www.smp.it-chiba.ac.jp
-NXDOMAIN	vfw.nob.cs.it-chiba.ac.jp
-NOERROR	ns-gw2.net.it-chiba.ac.jp
-NXDOMAIN	cs18.cs.it-chiba.ac.jp
-NOERROR	h4.hara.net.it-chiba.ac.jp
-NXDOMAIN	cs68.cs.it-chiba.ac.jp
-NXDOMAIN	leopard.kama.cs.it-chiba.ac.jp
-NOERROR	www.moriken.it-chiba.ac.jp
-NXDOMAIN	seki-pc1.seki.cs.it-chiba.ac.jp
-SERVFAIL	www.eece.it-chiba.ac.jp
-NOERROR	www.perc.it-chiba.ac.jp
-NXDOMAIN	green.cs.it-chiba.ac.jp
-NOERROR	csgw.cs.it-chiba.ac.jp
-NOERROR	ns.ce.it-chiba.ac.jp
-NXDOMAIN	indigo.cs.it-chiba.ac.jp
-NXDOMAIN	spm2.pm.it-chiba.ac.jp
-NXDOMAIN	web.sf.cs.it-chiba.ac.jp
-NOERROR	www.wada-lab.it-chiba.ac.jp
-NOERROR	c-pass01.it-chiba.ac.jp
-NXDOMAIN	contest.cs.it-chiba.ac.jp
-NOERROR	www.wakita-lab.it-chiba.ac.jp
-NXDOMAIN	gw.cs.it-chiba.ac.jp
-NXDOMAIN	vgate.mae.cs.it-chiba.ac.jp
-NOERROR	cs10.cs.it-chiba.ac.jp
-NXDOMAIN	www.kkmpcit.it-chiba.ac.jp
-NOERROR	crs.cc.it-chiba.ac.jp
-NOERROR	www.sys.it-chiba.ac.jp
-NOERROR	dinosaur.acoust.cs.it-chiba.ac.jp
-SERVFAIL	camera.es.it-chiba.ac.jp
-NOERROR	luna.perc.it-chiba.ac.jp
-NXDOMAIN	broadcast.sf.cs.it-chiba.ac.jp
-NOERROR	www.eee.it-chiba.ac.jp
-SERVFAIL	platinum.miida.net.it-chiba.ac.jp
-NXDOMAIN	hiro.ce.it-chiba.ac.jp
-NOERROR	fs.it-chiba.ac.jp
-NOERROR	nsl.nao.net.it-chiba.ac.jp
-NXDOMAIN	ad-pass.is.it-chiba.ac.jp
-NOERROR	proxy.cs.it-chiba.ac.jp
-NXDOMAIN	jasprom.pm.it-chiba.ac.jp
-NXDOMAIN	koya-relay.cs.it-chiba.ac.jp
-NXDOMAIN	www.riskccs.it-chiba.ac.jp
-NXDOMAIN	www.ish.net.it-chiba.ac.jp
-NOERROR	www.welf.it-chiba.ac.jp
-NOERROR	www.hara.net.it-chiba.ac.jp
-NXDOMAIN	vgate.imai.cs.it-chiba.ac.jp
-NOERROR	bd.npr.it-chiba.ac.jp
-NOERROR	www.iida-lab.it-chiba.ac.jp
-NOERROR	comet.cc.it-chiba.ac.jp
-NOERROR	www.ce.it-chiba.ac.jp
-NXDOMAIN	webcam.saba.cs.it-chiba.ac.jp
-NOERROR	hrms.jinji.it-chiba.ac.jp
-SERVFAIL	www.es.it-chiba.ac.jp
-NOERROR	ringo.nao.net.it-chiba.ac.jp
-NXDOMAIN	watermelon.cs.it-chiba.ac.jp
-NXDOMAIN	vfw.rok.cs.it-chiba.ac.jp
-NXDOMAIN	solar.miya.cs.it-chiba.ac.jp
-NXDOMAIN	cs67.cs.it-chiba.ac.jp
-NOERROR	ce.it-chiba.ac.jp
-NOERROR	www.hiratsuka.it-chiba.ac.jp
-NXDOMAIN	vfw.hasegawa.cs.it-chiba.ac.jp
-NXDOMAIN	lax.uki.cs.it-chiba.ac.jp
-NOERROR	kix.saba.cs.it-chiba.ac.jp
-SERVFAIL	www.knaka.net.it-chiba.ac.jp
-NXDOMAIN	arakawa-river.sf.cs.it-chiba.ac.jp
-NOERROR	els.lib.it-chiba.ac.jp
-SERVFAIL	www.cgp.it-chiba.ac.jp
-SERVFAIL	aries.es.it-chiba.ac.jp
-NOERROR	www.orange.it-chiba.ac.jp
-NOERROR	is.nao.net.it-chiba.ac.jp
-NXDOMAIN	airkn.kama.cs.it-chiba.ac.jp
-NOERROR	www.rs.it-chiba.ac.jp
-NXDOMAIN	kyoumu.is.it-chiba.ac.jp
-NXDOMAIN	csdisk.cs.it-chiba.ac.jp
-NOERROR	portal.isys.it-chiba.ac.jp
-NOERROR	gw.net.it-chiba.ac.jp
-NOERROR	algtoo.elt.net.it-chiba.ac.jp
-NOERROR	saba.cs.it-chiba.ac.jp
-NXDOMAIN	ken-relay.cs.it-chiba.ac.jp
-NXDOMAIN	fw.imai.cs.it-chiba.ac.jp
-NOERROR	www.infp.it-chiba.ac.jp
-NXDOMAIN	net.imai.cs.it-chiba.ac.jp
-NOERROR	zeta.sf.cs.it-chiba.ac.jp
-NOERROR	www.hayashibara-lab.it-chiba.ac.jp
-NXDOMAIN	edu2.cs.it-chiba.ac.jp
-NOERROR	cfive.cc.it-chiba.ac.jp
-NOERROR	gw1.vpc.net.it-chiba.ac.jp
-NOERROR	www.elt.net.it-chiba.ac.jp
-NXDOMAIN	office.cs.it-chiba.ac.jp
-SERVFAIL	www.xu.mis.it-chiba.ac.jp
-NXDOMAIN	csserver.cs.it-chiba.ac.jp
-NOERROR	cs15.cs.it-chiba.ac.jp
-NXDOMAIN	www.hu.it-chiba.ac.jp
-NXDOMAIN	cs27.cs.it-chiba.ac.jp
-NOERROR	ns8-2010.bb.net.it-chiba.ac.jp
-NOERROR	cs3.cs.it-chiba.ac.jp
-NXDOMAIN	vwww.nobody.cs.it-chiba.ac.jp
-NOERROR	newton.ysr.net.it-chiba.ac.jp
-NOERROR	block.nak.net.it-chiba.ac.jp
-NOERROR	mopac.lib.it-chiba.ac.jp
-NXDOMAIN	vgate.nob.cs.it-chiba.ac.jp
-NXDOMAIN	gate.mae.cs.it-chiba.ac.jp
-NXDOMAIN	theta.sf.cs.it-chiba.ac.jp
-NOERROR	smtp.perc.it-chiba.ac.jp
-NXDOMAIN	kdb.it-chiba.ac.jp
-NOERROR	www.ice.it-chiba.ac.jp
-NXDOMAIN	cs77.cs.it-chiba.ac.jp
-NXDOMAIN	www-ns8.szk.net.it-chiba.ac.jp
-NOERROR	ecomeeting.is.it-chiba.ac.jp
-NOERROR	portal.it-chiba.ac.jp
-NOERROR	www.nob.cs.it-chiba.ac.jp
-NXDOMAIN	king.doi.cs.it-chiba.ac.jp
-NOERROR	cs4.cs.it-chiba.ac.jp
-NOERROR	cs1.cs.it-chiba.ac.jp
+gw.sf.cs.it-chiba.ac.jp
+banana.cs.it-chiba.ac.jp
+h1.hara.net.it-chiba.ac.jp
+cs6.cs.it-chiba.ac.jp
+str.cc.it-chiba.ac.jp
+www.konno.it-chiba.ac.jp
+www.mae.cs.it-chiba.ac.jp
+h10.hara.net.it-chiba.ac.jp
+nsx.imc.it-chiba.ac.jp
+scdatabase.cc.it-chiba.ac.jp
+www.xulab.it-chiba.ac.jp
+www.cit-ejiriken.it-chiba.ac.jp
+planet.cc.it-chiba.ac.jp
+www.kikulab.it-chiba.ac.jp
+ns-learning.nao.net.it-chiba.ac.jp
+bq-vm.nao.net.it-chiba.ac.jp
+pop.perc.it-chiba.ac.jp
+idp.it-chiba.ac.jp
+hnd.saba.cs.it-chiba.ac.jp
+wgw2.net.it-chiba.ac.jp
+www.imai.cs.it-chiba.ac.jp
+h6.hara.net.it-chiba.ac.jp
+www.ssscms-1.it-chiba.ac.jp
+www.arc.it-chiba.ac.jp
+www.masashi.ohchi.it-chiba.ac.jp
+nat1.cs.it-chiba.ac.jp
+www.acoust.cs.it-chiba.ac.jp
+fuk.saba.cs.it-chiba.ac.jp
+delta.sf.cs.it-chiba.ac.jp
+find.is.it-chiba.ac.jp
+mddb.cc.it-chiba.ac.jp
+stmg.cc.it-chiba.ac.jp
+www.hasegawa.cs.it-chiba.ac.jp
+seki.cs.it-chiba.ac.jp
+apricot.cs.it-chiba.ac.jp
+ipx00.seki.cs.it-chiba.ac.jp
+ato.elt.net.it-chiba.ac.jp
+h8.hara.net.it-chiba.ac.jp
+www.kama.cs.it-chiba.ac.jp
+www.robocup.it-chiba.ac.jp
+cs11.cs.it-chiba.ac.jp
+www.mss.it-chiba.ac.jp
+www.sssacp-1.it-chiba.ac.jp
+citkaikeiap.it-chiba.ac.jp
+kmsk.is.it-chiba.ac.jp
+www.it-chiba.ac.jp
+ysr.net.it-chiba.ac.jp
+www.miulab.it-chiba.ac.jp
+fyi.cs.it-chiba.ac.jp
+arc.it-chiba.ac.jp
+t-wmail02.it-chiba.ac.jp
+ngo.saba.cs.it-chiba.ac.jp
+ns-gw3.net.it-chiba.ac.jp
+elt.net.it-chiba.ac.jp
+ns-gwy.net.it-chiba.ac.jp
+le1.le.it-chiba.ac.jp
+lab1.cs.it-chiba.ac.jp
+beta.sf.cs.it-chiba.ac.jp
+hkd.saba.cs.it-chiba.ac.jp
+trn.imc.it-chiba.ac.jp
+www.le.it-chiba.ac.jp
+mac.it-chiba.ac.jp
+www.isys.it-chiba.ac.jp
+coconuts.cs.it-chiba.ac.jp
+comm.cc.it-chiba.ac.jp
+www.nakanolab.it-chiba.ac.jp
+mail.vpc.net.it-chiba.ac.jp
+gw.saba.cs.it-chiba.ac.jp
+cs12.cs.it-chiba.ac.jp
+cs7.cs.it-chiba.ac.jp
+www.kubota.it-chiba.ac.jp
+stmw.cc.it-chiba.ac.jp
+www.robotics.it-chiba.ac.jp
+www.saba.cs.it-chiba.ac.jp
+gwy.hara.net.it-chiba.ac.jp
+lab3.cs.it-chiba.ac.jp
+opac2.lib.it-chiba.ac.jp
+www.keiji.nakayama.it-chiba.ac.jp
+it-chiba.ac.jp
+www.ssssql-1.it-chiba.ac.jp
+el-host.nao.net.it-chiba.ac.jp
+cts.saba.cs.it-chiba.ac.jp
+www.syslab.it-chiba.ac.jp
+www.ord.it-chiba.ac.jp
+www.vpc.net.it-chiba.ac.jp
+citlcap.it-chiba.ac.jp
+www.philosophia.it-chiba.ac.jp
+net.it-chiba.ac.jp
+mz.cs.it-chiba.ac.jp
+suga.net.it-chiba.ac.jp
+www.shiba.it-chiba.ac.jp
+mail.mae.cs.it-chiba.ac.jp
+www.ysr.net.it-chiba.ac.jp
+nat6.cs.it-chiba.ac.jp
+elearn2.le.it-chiba.ac.jp
+gw2.cs.it-chiba.ac.jp
+cs14.cs.it-chiba.ac.jp
+attend-ap.is.it-chiba.ac.jp
+smp.it-chiba.ac.jp
+alumni.cs.it-chiba.ac.jp
+www.ar.cs.it-chiba.ac.jp
+lab4.cs.it-chiba.ac.jp
+sso.it-chiba.ac.jp
+www.ita.cs.it-chiba.ac.jp
+at.elt.net.it-chiba.ac.jp
+toy.saba.cs.it-chiba.ac.jp
+mail.saba.cs.it-chiba.ac.jp
+grape.cs.it-chiba.ac.jp
+citmg2.pf.it-chiba.ac.jp
+nas2.vpc.net.it-chiba.ac.jp
+svr1.vpc.net.it-chiba.ac.jp
+durian.cs.it-chiba.ac.jp
+www.sf.cs.it-chiba.ac.jp
+www.appchem.it-chiba.ac.jp
+lp-s9000.bb.net.it-chiba.ac.jp
+cs5.cs.it-chiba.ac.jp
+www.npr.it-chiba.ac.jp
+attend-relay.is.it-chiba.ac.jp
+wwwlib.cc.it-chiba.ac.jp
+iyo.cs.it-chiba.ac.jp
+www.seki.cs.it-chiba.ac.jp
+cog.nak.net.it-chiba.ac.jp
+h3.hara.net.it-chiba.ac.jp
+www.mecheng.it-chiba.ac.jp
+h7.hara.net.it-chiba.ac.jp
+welf.it-chiba.ac.jp
+moon.cc.it-chiba.ac.jp
+www.butsuri.it-chiba.ac.jp
+hij.saba.cs.it-chiba.ac.jp
+opac.lib.it-chiba.ac.jp
+akebono.perc.it-chiba.ac.jp
+www.actes.is.it-chiba.ac.jp
+cs13.cs.it-chiba.ac.jp
+www.ecinfo.it-chiba.ac.jp
+www.sid.it-chiba.ac.jp
+ns1.imc.it-chiba.ac.jp
+kintai.jinji.it-chiba.ac.jp
+l3sw2.cs.it-chiba.ac.jp
+nat3.cs.it-chiba.ac.jp
+web.cs.it-chiba.ac.jp
+ssk.is.it-chiba.ac.jp
+btsync.seki.cs.it-chiba.ac.jp
+webentry.it-chiba.ac.jp
+c-shibbo01.it-chiba.ac.jp
+mail.kama.cs.it-chiba.ac.jp
+nrt.saba.cs.it-chiba.ac.jp
+ipx.seki.cs.it-chiba.ac.jp
+wgw1.net.it-chiba.ac.jp
+ita.cs.it-chiba.ac.jp
+usermin.it-chiba.ac.jp
+www.phys.it-chiba.ac.jp
+orange.it-chiba.ac.jp
+ipx0.seki.cs.it-chiba.ac.jp
+fs.vpc.net.it-chiba.ac.jp
+smtp-auth.it-chiba.ac.jp
+www.pmcloud.it-chiba.ac.jp
+cs8.cs.it-chiba.ac.jp
+www.net.it-chiba.ac.jp
+tierra.perc.it-chiba.ac.jp
+www.pm.it-chiba.ac.jp
+edu1.cs.it-chiba.ac.jp
+w2.net.it-chiba.ac.jp
+ns.imc.it-chiba.ac.jp
+sf-gate.sf.cs.it-chiba.ac.jp
+oka.saba.cs.it-chiba.ac.jp
+vlab.cs.it-chiba.ac.jp
+yk.nao.net.it-chiba.ac.jp
+www.rok.cs.it-chiba.ac.jp
+www.cc.it-chiba.ac.jp
+cs9.cs.it-chiba.ac.jp
+cob.nak.net.it-chiba.ac.jp
+www.iyo.cs.it-chiba.ac.jp
+cs2.cs.it-chiba.ac.jp
+www.lifescience.it-chiba.ac.jp
+rna.le.it-chiba.ac.jp
+l2sw1.cs.it-chiba.ac.jp
+moon.perc.it-chiba.ac.jp
+wm.it-chiba.ac.jp
+gamma.sf.cs.it-chiba.ac.jp
+www2.seki.cs.it-chiba.ac.jp
+www.nao.net.it-chiba.ac.jp
+kij.saba.cs.it-chiba.ac.jp
+cream.nao.net.it-chiba.ac.jp
+www.ngw.net.it-chiba.ac.jp
+sdj.saba.cs.it-chiba.ac.jp
+www.cog.it-chiba.ac.jp
+citns2.cc.it-chiba.ac.jp
+www.design.it-chiba.ac.jp
+rp.elt.net.it-chiba.ac.jp
+www.shimodalab.it-chiba.ac.jp
+anpan.nao.net.it-chiba.ac.jp
+nat2.cs.it-chiba.ac.jp
+h5.hara.net.it-chiba.ac.jp
+nat4.cs.it-chiba.ac.jp
+h9.hara.net.it-chiba.ac.jp
+citjc.cc.it-chiba.ac.jp
+www.nak.net.it-chiba.ac.jp
+gw.perc.it-chiba.ac.jp
+alpha.sf.cs.it-chiba.ac.jp
+web.isys.it-chiba.ac.jp
+www-ns8.bb.net.it-chiba.ac.jp
+t-wmail01.it-chiba.ac.jp
+www.theochem.it-chiba.ac.jp
+www2.ce.it-chiba.ac.jp
+rok.cs.it-chiba.ac.jp
+www.minakata.it-chiba.ac.jp
+cs16.cs.it-chiba.ac.jp
+www.cs.it-chiba.ac.jp
+www.rsa.it-chiba.ac.jp
+www-host.nao.net.it-chiba.ac.jp
+www.imee.it-chiba.ac.jp
+ns2.imc.it-chiba.ac.jp
+www.lib.it-chiba.ac.jp
+lab2.cs.it-chiba.ac.jp
+itm.saba.cs.it-chiba.ac.jp
+www.eece10.it-chiba.ac.jp
+webentry.npr.it-chiba.ac.jp
+gw.mae.cs.it-chiba.ac.jp
+seki-pc0.seki.cs.it-chiba.ac.jp
+citmg1.cc.it-chiba.ac.jp
+conveni.is.it-chiba.ac.jp
+www.suga.net.it-chiba.ac.jp
+www.furde.it-chiba.ac.jp
+gware.nao.net.it-chiba.ac.jp
+w3.net.it-chiba.ac.jp
+citns1.cc.it-chiba.ac.jp
+test-server.nao.net.it-chiba.ac.jp
+seki-pc00.seki.cs.it-chiba.ac.jp
+www.rna.it-chiba.ac.jp
+sp-in01.it-chiba.ac.jp
+www.seki-lab.it-chiba.ac.jp
+ns.elt.net.it-chiba.ac.jp
+h2.hara.net.it-chiba.ac.jp
+www.oklab.it-chiba.ac.jp
+webm.saba.cs.it-chiba.ac.jp
+www.smp.it-chiba.ac.jp
+ns-gw2.net.it-chiba.ac.jp
+h4.hara.net.it-chiba.ac.jp
+www.moriken.it-chiba.ac.jp
+www.perc.it-chiba.ac.jp
+csgw.cs.it-chiba.ac.jp
+ns.ce.it-chiba.ac.jp
+www.wada-lab.it-chiba.ac.jp
+c-pass01.it-chiba.ac.jp
+www.wakita-lab.it-chiba.ac.jp
+cs10.cs.it-chiba.ac.jp
+crs.cc.it-chiba.ac.jp
+www.sys.it-chiba.ac.jp
+dinosaur.acoust.cs.it-chiba.ac.jp
+luna.perc.it-chiba.ac.jp
+www.eee.it-chiba.ac.jp
+fs.it-chiba.ac.jp
+nsl.nao.net.it-chiba.ac.jp
+proxy.cs.it-chiba.ac.jp
+www.welf.it-chiba.ac.jp
+www.hara.net.it-chiba.ac.jp
+bd.npr.it-chiba.ac.jp
+www.iida-lab.it-chiba.ac.jp
+comet.cc.it-chiba.ac.jp
+www.ce.it-chiba.ac.jp
+hrms.jinji.it-chiba.ac.jp
+ringo.nao.net.it-chiba.ac.jp
+ce.it-chiba.ac.jp
+www.hiratsuka.it-chiba.ac.jp
+kix.saba.cs.it-chiba.ac.jp
+els.lib.it-chiba.ac.jp
+www.orange.it-chiba.ac.jp
+is.nao.net.it-chiba.ac.jp
+www.rs.it-chiba.ac.jp
+portal.isys.it-chiba.ac.jp
+gw.net.it-chiba.ac.jp
+algtoo.elt.net.it-chiba.ac.jp
+saba.cs.it-chiba.ac.jp
+www.infp.it-chiba.ac.jp
+zeta.sf.cs.it-chiba.ac.jp
+www.hayashibara-lab.it-chiba.ac.jp
+cfive.cc.it-chiba.ac.jp
+gw1.vpc.net.it-chiba.ac.jp
+www.elt.net.it-chiba.ac.jp
+cs15.cs.it-chiba.ac.jp
+ns8-2010.bb.net.it-chiba.ac.jp
+cs3.cs.it-chiba.ac.jp
+newton.ysr.net.it-chiba.ac.jp
+block.nak.net.it-chiba.ac.jp
+mopac.lib.it-chiba.ac.jp
+smtp.perc.it-chiba.ac.jp
+www.ice.it-chiba.ac.jp
+ecomeeting.is.it-chiba.ac.jp
+portal.it-chiba.ac.jp
+www.nob.cs.it-chiba.ac.jp
+cs4.cs.it-chiba.ac.jp
+cs1.cs.it-chiba.ac.jp

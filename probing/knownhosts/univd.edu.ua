@@ -1,35 +1,30 @@
-NOERROR	rozklad.univd.edu.ua
-NOERROR	public-db.univd.edu.ua
-NOERROR	moodletest.univd.edu.ua
-NOERROR	ns.univd.edu.ua
-NOERROR	dspace.univd.edu.ua
-NOERROR	filiya.univd.edu.ua
-NOERROR	ndl.univd.edu.ua
-NOERROR	test-osvita.univd.edu.ua
-NOERROR	training.univd.edu.ua
-NOERROR	survey.univd.edu.ua
-NOERROR	klk.univd.edu.ua
-NOERROR	www.univd.edu.ua
-NOERROR	kursant.univd.edu.ua
-NOERROR	osvita-klk.univd.edu.ua
-NOERROR	lib.univd.edu.ua
-NOERROR	webconf.univd.edu.ua
-NOERROR	univd.edu.ua
-NOERROR	om3.univd.edu.ua
-NOERROR	old.visnyk.univd.edu.ua
-NXDOMAIN	nnipmk.univd.edu.ua
-NOERROR	webconf-filiya.univd.edu.ua
-NOERROR	moodle.univd.edu.ua
-NOERROR	osvita-sumy.univd.edu.ua
-NXDOMAIN	mail.univd.edu.ua
-NOERROR	visnyk.univd.edu.ua
-NOERROR	sumy.univd.edu.ua
-NOERROR	pb.univd.edu.ua
-NOERROR	ww1.univd.edu.ua
-NOERROR	student.univd.edu.ua
-NOERROR	osvita.univd.edu.ua
-NOERROR	ns1.univd.edu.ua
-NOERROR	api-rozklad.univd.edu.ua
-NXDOMAIN	ntks.univd.edu.ua
-NXDOMAIN	nmc.univd.edu.ua
-NXDOMAIN	bbb.univd.edu.ua
+rozklad.univd.edu.ua
+public-db.univd.edu.ua
+moodletest.univd.edu.ua
+ns.univd.edu.ua
+dspace.univd.edu.ua
+filiya.univd.edu.ua
+ndl.univd.edu.ua
+test-osvita.univd.edu.ua
+training.univd.edu.ua
+survey.univd.edu.ua
+klk.univd.edu.ua
+www.univd.edu.ua
+kursant.univd.edu.ua
+osvita-klk.univd.edu.ua
+lib.univd.edu.ua
+webconf.univd.edu.ua
+univd.edu.ua
+om3.univd.edu.ua
+old.visnyk.univd.edu.ua
+webconf-filiya.univd.edu.ua
+moodle.univd.edu.ua
+osvita-sumy.univd.edu.ua
+visnyk.univd.edu.ua
+sumy.univd.edu.ua
+pb.univd.edu.ua
+ww1.univd.edu.ua
+student.univd.edu.ua
+osvita.univd.edu.ua
+ns1.univd.edu.ua
+api-rozklad.univd.edu.ua

@@ -1,25 +1,17 @@
-NXDOMAIN	rcc-ex-ca1.rcc.mass.edu
-NXDOMAIN	www.myid.rcc.mass.edu
-NOERROR	hybrid.rcc.mass.edu
-NOERROR	autodiscover.rcc.mass.edu
-NXDOMAIN	imap.rcc.mass.edu
-NOERROR	remote.rcc.mass.edu
-NOERROR	libguides.rcc.mass.edu
-NOERROR	rcc.mass.edu
-NOERROR	moodle2.rcc.mass.edu
-NXDOMAIN	www.myrcc.rcc.mass.edu
-NOERROR	jzrccex.rcc.mass.edu
-NOERROR	www.rcc.mass.edu
-NOERROR	library.rcc.mass.edu
-NOERROR	eapps.rcc.mass.edu
-NOERROR	ecampus.rcc.mass.edu
-NOERROR	fx.rcc.mass.edu
-NXDOMAIN	pop.rcc.mass.edu
-NOERROR	ezproxy.rcc.mass.edu
-NOERROR	myrcc.rcc.mass.edu
-NXDOMAIN	exmail.rcc.mass.edu
-NOERROR	mail.rcc.mass.edu
-NXDOMAIN	forms.rcc.mass.edu
-NXDOMAIN	firewall.rcc.mass.edu
-NOERROR	myid.rcc.mass.edu
-NOERROR	helpdesk.rcc.mass.edu
+hybrid.rcc.mass.edu
+autodiscover.rcc.mass.edu
+remote.rcc.mass.edu
+libguides.rcc.mass.edu
+rcc.mass.edu
+moodle2.rcc.mass.edu
+jzrccex.rcc.mass.edu
+www.rcc.mass.edu
+library.rcc.mass.edu
+eapps.rcc.mass.edu
+ecampus.rcc.mass.edu
+fx.rcc.mass.edu
+ezproxy.rcc.mass.edu
+myrcc.rcc.mass.edu
+mail.rcc.mass.edu
+myid.rcc.mass.edu
+helpdesk.rcc.mass.edu

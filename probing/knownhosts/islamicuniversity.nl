@@ -1,6 +1,6 @@
-NOERROR	www.islamicuniversity.nl
-NOERROR	mail.islamicuniversity.nl
-NOERROR	islamicuniversity.nl
-NOERROR	exchange.islamicuniversity.nl
-NOERROR	iurweb.islamicuniversity.nl
-NOERROR	www.iurweb.islamicuniversity.nl
+www.islamicuniversity.nl
+mail.islamicuniversity.nl
+islamicuniversity.nl
+exchange.islamicuniversity.nl
+iurweb.islamicuniversity.nl
+www.iurweb.islamicuniversity.nl

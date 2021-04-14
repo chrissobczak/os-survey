@@ -1,35 +1,19 @@
-NOERROR	www.moodle.arwauniversity.org
-NOERROR	www.lms.arwauniversity.org
-NXDOMAIN	www.classroom.arwauniversity.org
-NOERROR	www.arwauniversity.org
-NXDOMAIN	www.xc.arwauniversity.org
-NOERROR	webmail.arwauniversity.org
-NXDOMAIN	www.qau.arwauniversity.org
-NXDOMAIN	old.arwauniversity.org
-NOERROR	www.ac.arwauniversity.org
-NOERROR	moodle.arwauniversity.org
-NOERROR	cpcalendars.arwauniversity.org
-NXDOMAIN	xc.arwauniversity.org
-NOERROR	lms.arwauniversity.org
-NOERROR	cpanel.arwauniversity.org
-NXDOMAIN	elearning.arwauniversity.org
-NXDOMAIN	www.ddforum.arwauniversity.org
-NOERROR	ac.arwauniversity.org
-NOERROR	webdisk.arwauniversity.org
-NXDOMAIN	test.arwauniversity.org
-NOERROR	edu.arwauniversity.org
-NOERROR	arwauniversity.org
-NXDOMAIN	qau.arwauniversity.org
-NOERROR	www.edu.arwauniversity.org
-NOERROR	arwauniversityeduye.arwauniversity.org
-NXDOMAIN	www.test.arwauniversity.org
-NXDOMAIN	ddforum.arwauniversity.org
-NXDOMAIN	www.elearning.arwauniversity.org
-NXDOMAIN	www.arwauniversity-edu-ye.arwauniversity.org
-NOERROR	mail.arwauniversity.org
-NOERROR	www.arwauniversityeduye.arwauniversity.org
-NXDOMAIN	www.old.arwauniversity.org
-NXDOMAIN	classroom.arwauniversity.org
-NXDOMAIN	arwauniversity-edu-ye.arwauniversity.org
-NOERROR	cpcontacts.arwauniversity.org
-NOERROR	autodiscover.arwauniversity.org
+www.moodle.arwauniversity.org
+www.lms.arwauniversity.org
+www.arwauniversity.org
+webmail.arwauniversity.org
+www.ac.arwauniversity.org
+moodle.arwauniversity.org
+cpcalendars.arwauniversity.org
+lms.arwauniversity.org
+cpanel.arwauniversity.org
+ac.arwauniversity.org
+webdisk.arwauniversity.org
+edu.arwauniversity.org
+arwauniversity.org
+www.edu.arwauniversity.org
+arwauniversityeduye.arwauniversity.org
+mail.arwauniversity.org
+www.arwauniversityeduye.arwauniversity.org
+cpcontacts.arwauniversity.org
+autodiscover.arwauniversity.org

@@ -1,108 +1,93 @@
-NOERROR	noncredit.mwcc.edu
-NOERROR	bb.mwcc.edu
-NOERROR	intranet.mwcc.edu
-NOERROR	dv.mwcc.edu
-NOERROR	unsungheroes.mwcc.edu
-NOERROR	its.mwcc.edu
-NXDOMAIN	www.currentcatalog.mwcc.edu
-NOERROR	cgd.mwcc.edu
-NOERROR	test.mwcc.edu
-NOERROR	democracy.mwcc.edu
-NXDOMAIN	theater.mwcc.edu
-NOERROR	photolibrary.mwcc.edu
-NOERROR	cisserver.mwcc.edu
-NOERROR	ctl.mwcc.edu
-NOERROR	lync.mwcc.edu
-NOERROR	foundation.mwcc.edu
-NOERROR	nextbook.mwcc.edu
-NOERROR	old.mwcc.edu
-NOERROR	abg.mwcc.edu
-NOERROR	uwyv.dev.mwcc.edu
-NOERROR	secure.mwcc.edu
-NOERROR	visions.mwcc.edu
-NOERROR	communitybuilders.mwcc.edu
-NXDOMAIN	www.lyncpool.mwcc.edu
-NOERROR	studentaccounts.mwcc.edu
-NOERROR	wood.mwcc.edu
-NOERROR	whatsnext.mwcc.edu
-NXDOMAIN	www.nextcatalog.mwcc.edu
-NOERROR	erc.mwcc.edu
-NOERROR	academicsupport.mwcc.edu
-NXDOMAIN	bconnect.mwcc.edu
-NOERROR	askalibrarian.mwcc.edu
-NOERROR	profile-user.mwcc.edu
-NOERROR	mwcc-code42.mwcc.edu
-NOERROR	dialin.mwcc.edu
-NOERROR	mwcc-wms.mwcc.edu
-NOERROR	calendar.mwcc.edu
-NOERROR	webdev.mwcc.edu
-NOERROR	sharepoint.mwcc.edu
-NXDOMAIN	artemis.mwcc.edu
-NXDOMAIN	www.wp.mwcc.edu
-NOERROR	uwyv.mwcc.edu
-NOERROR	fitnessctr.mwcc.edu
-NOERROR	mollybish.mwcc.edu
-NXDOMAIN	www.college.mwcc.edu
-NOERROR	catalog.mwcc.edu
-NOERROR	courses.mwcc.edu
-NOERROR	cisweb.mwcc.edu
-NOERROR	cas.mwcc.edu
-NOERROR	subjectguides.mwcc.edu
-NOERROR	sip.mwcc.edu
-NOERROR	iconnect.mwcc.edu
-NXDOMAIN	httpcoursedescriptions.mwcc.edu
-NOERROR	dev.mwcc.edu
-NOERROR	uwyv.test.mwcc.edu
-NOERROR	hermes.mwcc.edu
-NXDOMAIN	www.iconnect.mwcc.edu
-NOERROR	mwcc-cgd-01.mwcc.edu
-NOERROR	meet.mwcc.edu
-NOERROR	listserv.mwcc.edu
-NXDOMAIN	autodiscover.mwcc.edu
-NOERROR	webconnect.mwcc.edu
-NOERROR	muse.mwcc.edu
-NOERROR	transfer.mwcc.edu
-NOERROR	owa.mwcc.edu
-NOERROR	message-archiver.mwcc.edu
-NOERROR	support.mwcc.edu
-NOERROR	business.mwcc.edu
-NOERROR	life.mwcc.edu
-NOERROR	mwcc.edu
-NOERROR	degreeworks.mwcc.edu
-NOERROR	backup.mwcc.edu
-NOERROR	wp.mwcc.edu
-NXDOMAIN	www.vpn.mwcc.edu
-NOERROR	prodbinb01.mwcc.edu
-NOERROR	campuspolice.mwcc.edu
-NOERROR	mount101.mwcc.edu
-NOERROR	capp.mwcc.edu
-NOERROR	testiconnect.mwcc.edu
-NXDOMAIN	lyncpool.mwcc.edu
-NOERROR	hera.mwcc.edu
-NOERROR	distance.mwcc.edu
-NOERROR	theatre.mwcc.edu
-NOERROR	wfc.mwcc.edu
-NOERROR	mt.mwcc.edu
-NOERROR	beta.mwcc.edu
-NOERROR	earlychildhood.mwcc.edu
-NOERROR	inpd.mwcc.edu
-NXDOMAIN	smtp.mwcc.edu
-NOERROR	mwcc-owa-01.mwcc.edu
-NOERROR	library.mwcc.edu
-NOERROR	ical.mwcc.edu
-NOERROR	calvin.mwcc.edu
-NOERROR	iso.mwcc.edu
-NOERROR	tutormeeting.mwcc.edu
-NOERROR	nextcatalog.mwcc.edu
-NOERROR	www.mwcc.edu
-NOERROR	mercury.mwcc.edu
-NXDOMAIN	www.noncredit.mwcc.edu
-NOERROR	myapps.mwcc.edu
-NOERROR	mail.mwcc.edu
-NOERROR	mwcc-vpn.mwcc.edu
-NOERROR	student.mwcc.edu
-NOERROR	vpn.mwcc.edu
-NOERROR	currentcatalog.mwcc.edu
-NOERROR	jobs.mwcc.edu
-NOERROR	college.mwcc.edu
-NOERROR	wordpress.mwcc.edu
+noncredit.mwcc.edu
+bb.mwcc.edu
+intranet.mwcc.edu
+dv.mwcc.edu
+unsungheroes.mwcc.edu
+its.mwcc.edu
+cgd.mwcc.edu
+test.mwcc.edu
+democracy.mwcc.edu
+photolibrary.mwcc.edu
+cisserver.mwcc.edu
+ctl.mwcc.edu
+lync.mwcc.edu
+foundation.mwcc.edu
+nextbook.mwcc.edu
+old.mwcc.edu
+abg.mwcc.edu
+uwyv.dev.mwcc.edu
+secure.mwcc.edu
+visions.mwcc.edu
+communitybuilders.mwcc.edu
+studentaccounts.mwcc.edu
+wood.mwcc.edu
+whatsnext.mwcc.edu
+erc.mwcc.edu
+academicsupport.mwcc.edu
+askalibrarian.mwcc.edu
+profile-user.mwcc.edu
+mwcc-code42.mwcc.edu
+dialin.mwcc.edu
+mwcc-wms.mwcc.edu
+calendar.mwcc.edu
+webdev.mwcc.edu
+sharepoint.mwcc.edu
+uwyv.mwcc.edu
+fitnessctr.mwcc.edu
+mollybish.mwcc.edu
+catalog.mwcc.edu
+courses.mwcc.edu
+cisweb.mwcc.edu
+cas.mwcc.edu
+subjectguides.mwcc.edu
+sip.mwcc.edu
+iconnect.mwcc.edu
+dev.mwcc.edu
+uwyv.test.mwcc.edu
+hermes.mwcc.edu
+mwcc-cgd-01.mwcc.edu
+meet.mwcc.edu
+listserv.mwcc.edu
+webconnect.mwcc.edu
+muse.mwcc.edu
+transfer.mwcc.edu
+owa.mwcc.edu
+message-archiver.mwcc.edu
+support.mwcc.edu
+business.mwcc.edu
+life.mwcc.edu
+mwcc.edu
+degreeworks.mwcc.edu
+backup.mwcc.edu
+wp.mwcc.edu
+prodbinb01.mwcc.edu
+campuspolice.mwcc.edu
+mount101.mwcc.edu
+capp.mwcc.edu
+testiconnect.mwcc.edu
+hera.mwcc.edu
+distance.mwcc.edu
+theatre.mwcc.edu
+wfc.mwcc.edu
+mt.mwcc.edu
+beta.mwcc.edu
+earlychildhood.mwcc.edu
+inpd.mwcc.edu
+mwcc-owa-01.mwcc.edu
+library.mwcc.edu
+ical.mwcc.edu
+calvin.mwcc.edu
+iso.mwcc.edu
+tutormeeting.mwcc.edu
+nextcatalog.mwcc.edu
+www.mwcc.edu
+mercury.mwcc.edu
+myapps.mwcc.edu
+mail.mwcc.edu
+mwcc-vpn.mwcc.edu
+student.mwcc.edu
+vpn.mwcc.edu
+currentcatalog.mwcc.edu
+jobs.mwcc.edu
+college.mwcc.edu
+wordpress.mwcc.edu

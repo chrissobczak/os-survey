@@ -1,47 +1,40 @@
-NOERROR	gate.phsz.ch
-NXDOMAIN	evento.phsz.ch
-NOERROR	orientierungsrahmen.phsz.ch
-NOERROR	abacus.phsz.ch
-NOERROR	moodle.phsz.ch
-NOERROR	phsz.ch
-NOERROR	sts.phsz.ch
-NOERROR	mia.phsz.ch
-NOERROR	informatik-ps.phsz.ch
-NOERROR	gw.phsz.ch
-NOERROR	www.phsz.ch
-NOERROR	niesen.phsz.ch
-NOERROR	intranet.phsz.ch
-NXDOMAIN	ewdev.phsz.ch
-NXDOMAIN	evento-web.phsz.ch
-NOERROR	fragebogen.phsz.ch
-NOERROR	reservationen.phsz.ch
-NXDOMAIN	ewng.phsz.ch
-NOERROR	qmp.phsz.ch
-NOERROR	sg.phsz.ch
-NOERROR	digital.phsz.ch
-NOERROR	dns1.phsz.ch
-NOERROR	moodle-test.phsz.ch
-NXDOMAIN	ewint.phsz.ch
-NOERROR	webportal.phsz.ch
-NOERROR	mia-sek.phsz.ch
-NOERROR	autodiscover.stud.phsz.ch
-NOERROR	autodiscover.phsz.ch
-NOERROR	mia-primar.phsz.ch
-NOERROR	corona.phsz.ch
-NXDOMAIN	www.evento-web.phsz.ch
-NOERROR	ict.phsz.ch
-NOERROR	wahlis.phsz.ch
-NOERROR	blog.phsz.ch
-NOERROR	dmz09.phsz.ch
-NOERROR	login.phsz.ch
-NOERROR	eduid.phsz.ch
-NOERROR	mobile.phsz.ch
-NOERROR	outlook.phsz.ch
-NOERROR	umfrage.phsz.ch
-NOERROR	link.phsz.ch
-NOERROR	idp.phsz.ch
-NOERROR	eduroam.phsz.ch
-NOERROR	dmz08.phsz.ch
-NXDOMAIN	ssl.phsz.ch
-NOERROR	dmz07.phsz.ch
-NOERROR	webportal-test.phsz.ch
+gate.phsz.ch
+orientierungsrahmen.phsz.ch
+abacus.phsz.ch
+moodle.phsz.ch
+phsz.ch
+sts.phsz.ch
+mia.phsz.ch
+informatik-ps.phsz.ch
+gw.phsz.ch
+www.phsz.ch
+niesen.phsz.ch
+intranet.phsz.ch
+fragebogen.phsz.ch
+reservationen.phsz.ch
+qmp.phsz.ch
+sg.phsz.ch
+digital.phsz.ch
+dns1.phsz.ch
+moodle-test.phsz.ch
+webportal.phsz.ch
+mia-sek.phsz.ch
+autodiscover.stud.phsz.ch
+autodiscover.phsz.ch
+mia-primar.phsz.ch
+corona.phsz.ch
+ict.phsz.ch
+wahlis.phsz.ch
+blog.phsz.ch
+dmz09.phsz.ch
+login.phsz.ch
+eduid.phsz.ch
+mobile.phsz.ch
+outlook.phsz.ch
+umfrage.phsz.ch
+link.phsz.ch
+idp.phsz.ch
+eduroam.phsz.ch
+dmz08.phsz.ch
+dmz07.phsz.ch
+webportal-test.phsz.ch

@@ -1,73 +1,47 @@
-NXDOMAIN	execed.dominican.edu
-NOERROR	libanswers.dominican.edu
-NOERROR	home.dominican.edu
-NOERROR	grad.dominican.edu
-NOERROR	bsb.dominican.edu
-NOERROR	ns1.dominican.edu
-NOERROR	blackboard.dominican.edu
-NOERROR	plone.dominican.edu
-NOERROR	simiq.dominican.edu
-NXDOMAIN	catalog.dominican.edu
-NOERROR	www.dominican.edu
-NXDOMAIN	cdc.gov.ezproxy.dominican.edu
-NXDOMAIN	bbb.dominican.edu
-NOERROR	gmail.dominican.edu
-NOERROR	home.alumni.dominican.edu
-NOERROR	alumni.dominican.edu
-NXDOMAIN	elevate.dominican.edu
-NOERROR	docs.students.dominican.edu
-NOERROR	libcal.dominican.edu
-NOERROR	dns.dominican.edu
-NXDOMAIN	www.passwordmanager.dominican.edu
-NOERROR	moodle.dominican.edu
-NOERROR	scholar.dominican.edu
-NOERROR	helpdesk.dominican.edu
-NOERROR	ns2.dominican.edu
-NOERROR	home.students.dominican.edu
-NXDOMAIN	my.dominican.edu
-NXDOMAIN	exchange.dominican.edu
-NOERROR	calendar.students.dominican.edu
-NXDOMAIN	www.fs.dominican.edu
-NOERROR	ezproxy.dominican.edu
-NXDOMAIN	www.apply.dominican.edu
-NXDOMAIN	www.secure.dominican.edu
-NOERROR	students.dominican.edu
-NXDOMAIN	pf.dominican.edu
-NOERROR	fs.dominican.edu
-NOERROR	docs.alumni.dominican.edu
-NOERROR	calendar.alumni.dominican.edu
-NOERROR	fsauth.dominican.edu
-NXDOMAIN	www.moodle.dominican.edu
-NXDOMAIN	www.blackboard.dominican.edu
-NOERROR	mail.students.dominican.edu
-NOERROR	selfservice.dominican.edu
-NXDOMAIN	duclink.dominican.edu
-NXDOMAIN	www.selfservice.dominican.edu
-NOERROR	passwordmanager.dominican.edu
-NOERROR	community.dominican.edu
-NXDOMAIN	www.transfer.dominican.edu
-NXDOMAIN	secure.dominican.edu
-NXDOMAIN	stuauth.dominican.edu
-NXDOMAIN	webmeetings.dominican.edu
-NOERROR	media.dominican.edu
-NXDOMAIN	dominican.dominican.edu
-NXDOMAIN	chaos.dominican.edu
-NOERROR	aid.dominican.edu
-NOERROR	admissions.dominican.edu
-NOERROR	selfservicetest.dominican.edu
-NOERROR	mail.alumni.dominican.edu
-NXDOMAIN	allin.dominican.edu
-NXDOMAIN	www.vpn.dominican.edu
-NOERROR	apply.dominican.edu
-NOERROR	penguinradio.dominican.edu
-NXDOMAIN	auth.dominican.edu
-NOERROR	transfer.dominican.edu
-NOERROR	dominican.edu
-NOERROR	calendar.dominican.edu
-NOERROR	vpn.dominican.edu
-NOERROR	radio.dominican.edu
-NOERROR	libguides.dominican.edu
-NOERROR	undergrad.dominican.edu
-NOERROR	library.dominican.edu
-NOERROR	www.alumni.dominican.edu
-NXDOMAIN	www.pf.dominican.edu
+libanswers.dominican.edu
+home.dominican.edu
+grad.dominican.edu
+bsb.dominican.edu
+ns1.dominican.edu
+blackboard.dominican.edu
+plone.dominican.edu
+simiq.dominican.edu
+www.dominican.edu
+gmail.dominican.edu
+home.alumni.dominican.edu
+alumni.dominican.edu
+docs.students.dominican.edu
+libcal.dominican.edu
+dns.dominican.edu
+moodle.dominican.edu
+scholar.dominican.edu
+helpdesk.dominican.edu
+ns2.dominican.edu
+home.students.dominican.edu
+calendar.students.dominican.edu
+ezproxy.dominican.edu
+students.dominican.edu
+fs.dominican.edu
+docs.alumni.dominican.edu
+calendar.alumni.dominican.edu
+fsauth.dominican.edu
+mail.students.dominican.edu
+selfservice.dominican.edu
+passwordmanager.dominican.edu
+community.dominican.edu
+media.dominican.edu
+aid.dominican.edu
+admissions.dominican.edu
+selfservicetest.dominican.edu
+mail.alumni.dominican.edu
+apply.dominican.edu
+penguinradio.dominican.edu
+transfer.dominican.edu
+dominican.edu
+calendar.dominican.edu
+vpn.dominican.edu
+radio.dominican.edu
+libguides.dominican.edu
+undergrad.dominican.edu
+library.dominican.edu
+www.alumni.dominican.edu

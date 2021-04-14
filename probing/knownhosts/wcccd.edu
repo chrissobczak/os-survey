@@ -1,40 +1,16 @@
-NOERROR	citmail.wcccd.edu
-NXDOMAIN	www.blackbord.wcccd.edu
-NOERROR	citexcas01.wcccd.edu
-NXDOMAIN	www.mail.wcccd.edu
-NXDOMAIN	intranet.wcccd.edu
-NXDOMAIN	citbbserv.wcccd.edu
-NXDOMAIN	wed.wcccd.edu
-NOERROR	citweb.wcccd.edu
-NXDOMAIN	wwwc.wcccd.edu
-NXDOMAIN	citowa.wcccd.edu
-NOERROR	cl-connect.wcccd.edu
-NOERROR	lrcweb.wcccd.edu
-NXDOMAIN	inbrsv.wcccd.edu
-NXDOMAIN	autodiscover.wcccd.edu
-NOERROR	www.wcccd.edu
-NXDOMAIN	www.cl-connect-dev.wcccd.edu
-NXDOMAIN	citbbser.wcccd.edu
-NXDOMAIN	www.cl-connect.wcccd.edu
-NOERROR	banwebsrv.wcccd.edu
-NXDOMAIN	www.cibbserv.wcccd.edu
-NXDOMAIN	citdegwrks.wcccd.edu
-NOERROR	wcccd.edu
-NXDOMAIN	gateway21qzuyf.wcccd.edu
-NXDOMAIN	www.banwebsrv.wcccd.edu
-NXDOMAIN	blackboard05.wcccd.edu
-NOERROR	banweb.wcccd.edu
-NOERROR	cl-connect-dev.wcccd.edu
-NOERROR	owa2003.wcccd.edu
-NXDOMAIN	ircweb.wcccd.edu
-NOERROR	stumail.wcccd.edu
-NXDOMAIN	bgate.wcccd.edu
-NXDOMAIN	wcccdweb.wcccd.edu
-NOERROR	email.wcccd.edu
-NOERROR	degwrksweb.wcccd.edu
-NXDOMAIN	citweb3.wcccd.edu
-NOERROR	webgate.wcccd.edu
-NXDOMAIN	www.citdegwrks.wcccd.edu
-NOERROR	blackboard.wcccd.edu
-NXDOMAIN	www.blackard.wcccd.edu
-NXDOMAIN	survey.wcccd.edu
+citmail.wcccd.edu
+citexcas01.wcccd.edu
+citweb.wcccd.edu
+cl-connect.wcccd.edu
+lrcweb.wcccd.edu
+www.wcccd.edu
+banwebsrv.wcccd.edu
+wcccd.edu
+banweb.wcccd.edu
+cl-connect-dev.wcccd.edu
+owa2003.wcccd.edu
+stumail.wcccd.edu
+email.wcccd.edu
+degwrksweb.wcccd.edu
+webgate.wcccd.edu
+blackboard.wcccd.edu

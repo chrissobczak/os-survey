@@ -1,14 +1,9 @@
-NOERROR	www.ucbukavu.ac.cd
-NOERROR	elearning.ucbukavu.ac.cd
-NOERROR	lead.ucbukavu.ac.cd
-NOERROR	mail.ucbukavu.ac.cd
-NXDOMAIN	www.2021.ucbukavu.ac.cd
-NOERROR	ns2.ucbukavu.ac.cd
-NOERROR	ucbukavu.ac.cd
-NOERROR	moodle.ucbukavu.ac.cd
-NXDOMAIN	www.elearning.ucbukavu.ac.cd
-NXDOMAIN	2021.ucbukavu.ac.cd
-NOERROR	ns1.ucbukavu.ac.cd
-NXDOMAIN	cui.ucbukavu.ac.cd
-NXDOMAIN	students.ucbukavu.ac.cd
-NOERROR	cerdho.ucbukavu.ac.cd
+www.ucbukavu.ac.cd
+elearning.ucbukavu.ac.cd
+lead.ucbukavu.ac.cd
+mail.ucbukavu.ac.cd
+ns2.ucbukavu.ac.cd
+ucbukavu.ac.cd
+moodle.ucbukavu.ac.cd
+ns1.ucbukavu.ac.cd
+cerdho.ucbukavu.ac.cd

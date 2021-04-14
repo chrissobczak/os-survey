@@ -1,766 +1,412 @@
-NOERROR	www-thesmithfamily-com-au.ezproxy.federation.edu.au
-NXDOMAIN	ucupdates-r2.video.federation.edu.au
-NXDOMAIN	su-moodle.federation.edu.au
-NOERROR	valve.federation.edu.au
-NOERROR	fred-dev.federation.edu.au
-NXDOMAIN	fenton.federation.edu.au
-NOERROR	48hours.federation.edu.au
-NXDOMAIN	ucupdates-r2.federation.edu.au
-NOERROR	eportfolios-staging.federation.edu.au
-NXDOMAIN	test-mim-web1.testuni.federation.edu.au
-NXDOMAIN	fsbspt.federation.edu.au
-NOERROR	phoebe.federation.edu.au
-NXDOMAIN	nimbus.federation.edu.au
-NOERROR	ask.federation.edu.au
-NOERROR	www.eduweb.vic.gov.au.ezproxy.federation.edu.au
-NXDOMAIN	org-structure.federation.edu.au
-NXDOMAIN	besley.uni.federation.edu.au
-NOERROR	idp-test.federation.edu.au
-NXDOMAIN	ecmtest.federation.edu.au
-NXDOMAIN	moodle-poc1.federation.edu.au
-NXDOMAIN	threepio.federation.edu.au
-NOERROR	asterion.federation.edu.au
-NXDOMAIN	fed-performance-test.federation.edu.au
-NOERROR	soc.sagepub.com.ezproxy.federation.edu.au
-NXDOMAIN	fsdevl.federation.edu.au
-NOERROR	virtualclassroom-lti.federation.edu.au
-NXDOMAIN	www.placement.federation.edu.au
-NOERROR	mymedia-moodle-staging.federation.edu.au
-NXDOMAIN	moodle-dev-alt.federation.edu.au
-NXDOMAIN	wifiradius.federation.edu.au
-NOERROR	support.ebsco.com.ezproxy.federation.edu.au
-NOERROR	news.federation.edu.au
-NXDOMAIN	rmastertest.federation.edu.au
-NOERROR	p-moodle.federation.edu.au
-NXDOMAIN	virtual-assistant.federation.edu.au
-NXDOMAIN	drjekyll.federation.edu.au
-NXDOMAIN	mthelen-analog2.federation.edu.au
-NXDOMAIN	mdldev.federation.edu.au
-NXDOMAIN	dax.federation.edu.au
-NXDOMAIN	vetmoodle.federation.edu.au
-NXDOMAIN	webchat3.federation.edu.au
-NOERROR	aff.sagepub.com.ezproxy.federation.edu.au
-NOERROR	ulrichsweb.serialssolutions.com.ezproxy.federation.edu.au
-NXDOMAIN	cstestren.federation.edu.au
-NOERROR	web-b-ebscohost-com.ezproxy.federation.edu.au
-NOERROR	fedprint.federation.edu.au
-NXDOMAIN	myfinance.federation.edu.au
-NXDOMAIN	sipexternal.federation.edu.au
-NOERROR	nlinelibrary.wiley.com.ezproxy.federation.edu.au
-NXDOMAIN	splunk.federation.edu.au
-NOERROR	www.myendnoteweb.com.ezproxy.federation.edu.au
-NXDOMAIN	fsportal.federation.edu.au
-NXDOMAIN	kiosk.uni.federation.edu.au
-NXDOMAIN	moodle-test-admin.federation.edu.au
-NXDOMAIN	stonylake.federation.edu.au
-NXDOMAIN	mthelen-analog5.federation.edu.au
-NXDOMAIN	moodle-test.federation.edu.au
-NXDOMAIN	s4b-edge.uni.federation.edu.au
-NXDOMAIN	owata.federation.edu.au
-NXDOMAIN	beston.federation.edu.au
-NXDOMAIN	moodle-testupg.federation.edu.au
-NOERROR	dl.acm.org.ezproxy.federation.edu.au
-NXDOMAIN	bi.federation.edu.au
-NXDOMAIN	steven.federation.edu.au
-NXDOMAIN	mymedia.moodle-staging.federation.edu.au
-NOERROR	study-2016.federation.edu.au
-NXDOMAIN	equella-non-prd.federation.edu.au
-NOERROR	www.springer.com.ezproxy.federation.edu.au
-NOERROR	gradworks.umi.com.ezproxy.federation.edu.au
-NOERROR	daxi.federation.edu.au
-NOERROR	digital-library-theiet-org.ezproxy.federation.edu.au
-NOERROR	careers.federation.edu.au
-NXDOMAIN	webchat1.federation.edu.au
-NOERROR	maintenancemysc.federation.edu.au
-NXDOMAIN	chill-ad-2012.uni.federation.edu.au
-NOERROR	services.oxfordjournals.org.ezproxy.federation.edu.au
-NXDOMAIN	femto.uni.federation.edu.au
-NOERROR	webprint.federation.edu.au
-NOERROR	captureme-uat.federation.edu.au
-NOERROR	equella-staging.federation.edu.au
-NXDOMAIN	mahara-sandpit.federation.edu.au
-NOERROR	proquestcombo.safaribooksonline.com.ezproxy.federation.edu.au
-NXDOMAIN	fstest.federation.edu.au
-NXDOMAIN	rpad.federation.edu.au
-NXDOMAIN	csbspt.federation.edu.au
-NXDOMAIN	oem134.federation.edu.au
-NXDOMAIN	churchill-analog3.federation.edu.au
-NXDOMAIN	moodle-stgupg.federation.edu.au
-NOERROR	dialin.uni.federation.edu.au
-NOERROR	help.elsevier.com.ezproxy.federation.edu.au
-NOERROR	connect.jbiconnectplus.org.ezproxy.federation.edu.au
-NXDOMAIN	clariti-rpcs.federation.edu.au
-NXDOMAIN	horsham-pstn.federation.edu.au
-NXDOMAIN	tophelia.federation.edu.au
-NXDOMAIN	weathermap.federation.edu.au
-NXDOMAIN	ask-test-a.federation.edu.au
-NXDOMAIN	gocd.federation.edu.au
-NXDOMAIN	fsbuatren.federation.edu.au
-NOERROR	welcome.federation.edu.au
-NXDOMAIN	lyncdiscoverinternal.video.federation.edu.au
-NOERROR	meetme.federation.edu.au
-NXDOMAIN	placement-dev.federation.edu.au
-NOERROR	mid.federation.edu.au
-NOERROR	search.informit.com.au.ezproxy.federation.edu.au
-NXDOMAIN	radox.federation.edu.au
-NXDOMAIN	mdldev-alt.federation.edu.au
-NOERROR	bucket.federation.edu.au
-NOERROR	www.studyskills.federation.edu.au
-NOERROR	alia.org.au.ezproxy.federation.edu.au
-NXDOMAIN	campst-analog.federation.edu.au
-NOERROR	btswiki.federation.edu.au
-NOERROR	fedunicmg.federation.edu.au
-NOERROR	i-org.ezproxy.federation.edu.au
-NOERROR	livia.federation.edu.au
-NXDOMAIN	cumulus.federation.edu.au
-NOERROR	programfinder.federation.edu.au
-NXDOMAIN	smb-analog1.federation.edu.au
-NOERROR	virtualclassrooms-staging.federation.edu.au
-NOERROR	meet.federation.edu.au
-NOERROR	sux.federation.edu.au
-NOERROR	ila-onlinelibrary-wiley-com.ezproxy.federation.edu.au
-NXDOMAIN	cstest.federation.edu.au
-NOERROR	idcardmanagement.federation.edu.au
-NOERROR	heapro.oxfordjournals.org.ezproxy.federation.edu.au
-NOERROR	lyncdiscover.uni.federation.edu.au
-NXDOMAIN	coeus.federation.edu.au
-NOERROR	anzac.federation.edu.au
-NOERROR	ovidsp.tx.ovid.com.ezproxy.federation.edu.au
-NOERROR	linkinghub.elsevier.com.ezproxy.federation.edu.au
-NXDOMAIN	campst-pstn.federation.edu.au
-NOERROR	www.abs.gov.au.ezproxy.federation.edu.au
-NXDOMAIN	moodle-stagingnext.federation.edu.au
-NOERROR	studyskills-dev.federation.edu.au
-NOERROR	events-uat.federation.edu.au
-NXDOMAIN	churchill-analog.federation.edu.au
-NXDOMAIN	gartnersso.federation.edu.au
-NXDOMAIN	test-mim-web2.testuni.federation.edu.au
-NOERROR	edartswiki.federation.edu.au
-NOERROR	puha.federation.edu.au
-NOERROR	www.audit.vic.gov.au.ezproxy.federation.edu.au
-NOERROR	mytimetable.federation.edu.au
-NXDOMAIN	eportfolio.federation.edu.au
-NOERROR	myecm.federation.edu.au
-NXDOMAIN	softwareselector.federation.edu.au
-NOERROR	ebookcentral.proquest.com.ezproxy.federation.edu.au
-NOERROR	oos.uni.federation.edu.au
-NOERROR	mthelen-pstn.federation.edu.au
-NXDOMAIN	idrequest-uat.federation.edu.au
-NXDOMAIN	adfs.federation.edu.au
-NOERROR	dx-doi-org.ezproxy.federation.edu.au
-NXDOMAIN	buzz.federation.edu.au
-NOERROR	harleyquinn.federation.edu.au
-NXDOMAIN	spt-moodle.federation.edu.au
-NXDOMAIN	narmbool.federation.edu.au
-NXDOMAIN	ocelot.federation.edu.au
-NXDOMAIN	mthelen-analog1.federation.edu.au
-NOERROR	journals-sagepub-com.ezproxy.federation.edu.au
-NXDOMAIN	virtualclassroom-stagingupgrade-fms1.federation.edu.au
-NXDOMAIN	project131-2.federation.edu.au
-NOERROR	virtualclassroom-acts4.federation.edu.au
-NOERROR	doi-org.ezproxy.federation.edu.au
-NOERROR	hecate.federation.edu.au
-NXDOMAIN	fenton.uni.federation.edu.au
-NXDOMAIN	edgon.uni.federation.edu.au
-NOERROR	library.federation.edu.au
-NXDOMAIN	dev-ad2012-smb.devuni.federation.edu.au
-NOERROR	moodle-testnext.federation.edu.au
-NOERROR	edge.federation.edu.au
-NXDOMAIN	hurtig.federation.edu.au
-NOERROR	kaltura-test.federation.edu.au
-NXDOMAIN	accommodation.federation.edu.au
-NXDOMAIN	www.startnow.federation.edu.au
-NOERROR	s4b-pool-ext.uni.federation.edu.au
-NOERROR	journals.rcni.com.ezproxy.federation.edu.au
-NOERROR	reader.eblib.com.au.ezproxy.federation.edu.au
-NOERROR	www.jstor.org.ezproxy.federation.edu.au
-NXDOMAIN	eportfolios-dev.federation.edu.au
-NOERROR	virtualclassroom-acts.federation.edu.au
-NOERROR	inplace.federation.edu.au
-NOERROR	link.springer.com.ezproxy.federation.edu.au
-NOERROR	virtualclassroom.federation.edu.au
-NXDOMAIN	careerhub.federation.edu.au
-NXDOMAIN	irmadev-web.uni.federation.edu.au
-NXDOMAIN	webchat2.federation.edu.au
-NOERROR	gadget.federation.edu.au
-NXDOMAIN	galveston.federation.edu.au
-NXDOMAIN	recordsecm.federation.edu.au
-NXDOMAIN	smb-ad-2012.uni.federation.edu.au
-NXDOMAIN	search.federation.edu.au
-NXDOMAIN	timetable.federation.edu.au
-NXDOMAIN	pythagoras.federation.edu.au
-NOERROR	pandora.nla.gov.au.ezproxy.federation.edu.au
-NOERROR	spiderweb.federation.edu.au
-NXDOMAIN	www.studyskills-dev.federation.edu.au
-NOERROR	usj.sagepub.com.ezproxy.federation.edu.au
-NOERROR	mux.federation.edu.au
-NOERROR	mud.federation.edu.au
-NOERROR	prod.resource.wkasiapacific.com.ezproxy.federation.edu.au
-NXDOMAIN	clariti-css.federation.edu.au
-NOERROR	fdltraining.federation.edu.au
-NXDOMAIN	barney.federation.edu.au
-NXDOMAIN	tu-moodle.federation.edu.au
-NOERROR	journals.cambridge.org.ezproxy.federation.edu.au
-NOERROR	www.study.federation.edu.au
-NXDOMAIN	keep.federation.edu.au
-NOERROR	journals.sagepub.com.ezproxy.federation.edu.au
-NXDOMAIN	rm2003.federation.edu.au
-NXDOMAIN	webappsdev.federation.edu.au
-NXDOMAIN	atom-dev-alt.federation.edu.au
-NOERROR	library-tr.federation.edu.au
-NOERROR	jmd.sagepub.com.ezproxy.federation.edu.au
-NXDOMAIN	project131-a.federation.edu.au
-NXDOMAIN	researchonline-test.federation.edu.au
-NXDOMAIN	smb-analog2.federation.edu.au
-NXDOMAIN	apply-dev.federation.edu.au
-NOERROR	fred-uat.federation.edu.au
-NOERROR	rin.federation.edu.au
-NXDOMAIN	enquiries-tafe-uat.federation.edu.au
-NXDOMAIN	testmimportal.federation.edu.au
-NOERROR	fedflix.federation.edu.au
-NOERROR	carreras.federation.edu.au
-NXDOMAIN	eportfolios-poc.federation.edu.au
-NXDOMAIN	lloydcollins.federation.edu.au
-NXDOMAIN	moodle-stagingupg.federation.edu.au
-NOERROR	atom.federation.edu.au
-NXDOMAIN	moodle-uat.federation.edu.au
-NXDOMAIN	netacademy.federation.edu.au
-NXDOMAIN	perseus.federation.edu.au
-NXDOMAIN	iswiki.federation.edu.au
-NXDOMAIN	moodle-admin-certs.federation.edu.au
-NOERROR	onlinelibrary.wiley.com.ezproxy.federation.edu.au
-NXDOMAIN	gasket.uni.federation.edu.au
-NOERROR	apps.webofknowledge.com.ezproxy.federation.edu.au
-NOERROR	ovidsp.ovid.com.ezproxy.federation.edu.au
-NOERROR	enquiries.federation.edu.au
-NXDOMAIN	epsilon.federation.edu.au
-NXDOMAIN	myresearch.federation.edu.au
-NXDOMAIN	fulla.federation.edu.au
-NOERROR	raphael.federation.edu.au
-NOERROR	www.englishaustralia.com.au.ezproxy.federation.edu.au
-NOERROR	mysc.federation.edu.au
-NOERROR	innopac.ballarat.edu.au.ezproxy.federation.edu.au
-NXDOMAIN	mth-ad-2012.uni.federation.edu.au
-NXDOMAIN	equella-poc1.federation.edu.au
-NXDOMAIN	fedunisurveys.federation.edu.au
-NXDOMAIN	hello.federation.edu.au
-NXDOMAIN	edgar.uni.federation.edu.au
-NOERROR	onlinelibrary-wiley-com.ezproxy.federation.edu.au
-NOERROR	ire.sagepub.com.ezproxy.federation.edu.au
-NOERROR	fmp.federation.edu.au
-NOERROR	brochures.federation.edu.au
-NXDOMAIN	limesurvey.federation.edu.au
-NOERROR	www.deewr.gov.au.ezproxy.federation.edu.au
-NOERROR	virtualclassroom-staging.federation.edu.au
-NOERROR	video-staging.federation.edu.au
-NXDOMAIN	moodle-dev.federation.edu.au
-NXDOMAIN	ganymede.federation.edu.au
-NOERROR	did.federation.edu.au
-NOERROR	hagar.federation.edu.au
-NXDOMAIN	horsham-analog.federation.edu.au
-NOERROR	www-cambridge-org.ezproxy.federation.edu.au
-NOERROR	sicarius.federation.edu.au
-NXDOMAIN	project131.federation.edu.au
-NOERROR	moodle.federation.edu.au
-NOERROR	equella.federation.edu.au
-NXDOMAIN	equella-test.federation.edu.au
-NOERROR	www-frontiersin-org.ezproxy.federation.edu.au
-NOERROR	kiosk.federation.edu.au
-NOERROR	moodle-stagingupgrade.federation.edu.au
-NXDOMAIN	www.fedunisurveys.federation.edu.au
-NOERROR	eportfolios.federation.edu.au
-NXDOMAIN	csbsptren.federation.edu.au
-NXDOMAIN	outlook.federation.edu.au
-NXDOMAIN	s4badmin.uni.federation.edu.au
-NOERROR	methods.sagepub.com.ezproxy.federation.edu.au
-NXDOMAIN	limesurveys.federation.edu.au
-NXDOMAIN	enquiries-uat.federation.edu.au
-NOERROR	lin.federation.edu.au
-NOERROR	events-test.federation.edu.au
-NOERROR	enquiriesportal.federation.edu.au
-NXDOMAIN	webmail.federation.edu.au
-NOERROR	passwordreset.federation.edu.au
-NXDOMAIN	fibonacci.federation.edu.au
-NOERROR	eportfolios-stagingupgrade.federation.edu.au
-NOERROR	error-incites-thomsonreuters-com.ezproxy.federation.edu.au
-NOERROR	its.federation.edu.au
-NXDOMAIN	passwordresettest.federation.edu.au
-NXDOMAIN	myecmtest.federation.edu.au
-NOERROR	www.sciencedirect.com.ezproxy.federation.edu.au
-NOERROR	autodiscover.federation.edu.au
-NXDOMAIN	smart-lockers.federation.edu.au
-NXDOMAIN	cerdi-dev.federation.edu.au
-NXDOMAIN	studyskills-prod.federation.edu.au
-NOERROR	startnow.federation.edu.au
-NOERROR	www.austlii.edu.au.ezproxy.federation.edu.au
-NOERROR	gin.ezproxy.federation.edu.au
-NXDOMAIN	csdevl.federation.edu.au
-NXDOMAIN	cerdi-dev-alt.federation.edu.au
-NXDOMAIN	equella-poc.federation.edu.au
-NXDOMAIN	fsdevlren.federation.edu.au
-NXDOMAIN	leto.uni.federation.edu.au
-NOERROR	castalian.federation.edu.au
-NOERROR	btp.federation.edu.au
-NOERROR	heinonline.org.ezproxy.federation.edu.au
-NOERROR	alh.sagepub.com.ezproxy.federation.edu.au
-NOERROR	www-asbcnet-org.ezproxy.federation.edu.au
-NOERROR	webapps.federation.edu.au
-NOERROR	help.sciencedirect.com.ezproxy.federation.edu.au
-NOERROR	coursefinder.federation.edu.au
-NOERROR	ieeexplore.ieee.org.ezproxy.federation.edu.au
-NXDOMAIN	ssprtest-web1.federation.edu.au
-NOERROR	www.champagnat.org.au.ezproxy.federation.edu.au
-NOERROR	perftest.federation.edu.au
-NXDOMAIN	meet.video.federation.edu.au
-NOERROR	www-sciencedirect-com.ezproxy.federation.edu.au
-NXDOMAIN	femto.federation.edu.au
-NXDOMAIN	lyncdiscover.video.federation.edu.au
-NOERROR	jfn.sagepub.com.ezproxy.federation.edu.au
-NOERROR	www.tandfonline.com.ezproxy.federation.edu.au
-NOERROR	isq.sagepub.com.ezproxy.federation.edu.au
-NOERROR	event.federation.edu.au
-NOERROR	virtualclassroom-acts2.federation.edu.au
-NXDOMAIN	www.rpad.federation.edu.au
-NXDOMAIN	donatello.federation.edu.au
-NOERROR	atom-dev.federation.edu.au
-NXDOMAIN	fstestren.federation.edu.au
-NXDOMAIN	mysctest.federation.edu.au
-NXDOMAIN	www.pams.federation.edu.au
-NXDOMAIN	mouse.federation.edu.au
-NXDOMAIN	edgar.federation.edu.au
-NXDOMAIN	atom-dev-new.federation.edu.au
-NXDOMAIN	hardcat.federation.edu.au
-NOERROR	www.apply.federation.edu.au
-NOERROR	www.oxfam.org.au.ezproxy.federation.edu.au
-NOERROR	www-doi-org.ezproxy.federation.edu.au
-NOERROR	primoapac01.hosted.exlibrisgroup.com.ezproxy.federation.edu.au
-NOERROR	griffin.federation.edu.au
-NOERROR	heineken.federation.edu.au
-NXDOMAIN	placement.federation.edu.au
-NOERROR	www.emeraldinsight.com.ezproxy.federation.edu.au
-NXDOMAIN	concursso.federation.edu.au
-NOERROR	www-scopus-com.ezproxy.federation.edu.au
-NXDOMAIN	moodle-poc2.federation.edu.au
-NXDOMAIN	clortho.federation.edu.au
-NOERROR	hpq.sagepub.com.ezproxy.federation.edu.au
-NXDOMAIN	study-dev.federation.edu.au
-NOERROR	www.oxfordartonline.com.ezproxy.federation.edu.au
-NXDOMAIN	fsbuat.federation.edu.au
-NOERROR	captureme.federation.edu.au
-NOERROR	www.mysc.federation.edu.au
-NOERROR	www-artfilms-digital-com.ezproxy.federation.edu.au
-NOERROR	www.doi.org.ezproxy.federation.edu.au
-NXDOMAIN	virtualclassroom-stagingupgrade.federation.edu.au
-NOERROR	aurora.federation.edu.au
-NXDOMAIN	churchill-pstn.federation.edu.au
-NXDOMAIN	sip.video.federation.edu.au
-NXDOMAIN	moodle-insights.federation.edu.au
-NOERROR	www.aifs.gov.au.ezproxy.federation.edu.au
-NXDOMAIN	rna-dev.federation.edu.au
-NOERROR	papercut.federation.edu.au
-NXDOMAIN	norm.federation.edu.au
-NOERROR	exams.federation.edu.au
-NXDOMAIN	glover.federation.edu.au
-NOERROR	prb.sagepub.com.ezproxy.federation.edu.au
-NOERROR	web.b.ebscohost.com.ezproxy.federation.edu.au
-NOERROR	eportfolios-test.federation.edu.au
-NXDOMAIN	leonardo.federation.edu.au
-NOERROR	studyskills.federation.edu.au
-NOERROR	images.webofknowledge.com.ezproxy.federation.edu.au
-NOERROR	www.education.qld.gov.au.ezproxy.federation.edu.au
-NOERROR	maintenance.federation.edu.au
-NOERROR	sfx-61uba.hosted.exlibrisgroup.com.ezproxy.federation.edu.au
-NOERROR	ssc.sagepub.com.ezproxy.federation.edu.au
-NOERROR	optergy.federation.edu.au
-NOERROR	openurl.ebscohost.com.ezproxy.federation.edu.au
-NOERROR	www.avetra.org.au.ezproxy.federation.edu.au
-NOERROR	dangelo.federation.edu.au
-NXDOMAIN	moodle-alt.federation.edu.au
-NOERROR	maxi.federation.edu.au
-NXDOMAIN	epsilon.uni.federation.edu.au
-NOERROR	guerin.ballarat.edu.au.ezproxy.federation.edu.au
-NXDOMAIN	mimmy.federation.edu.au
-NXDOMAIN	sipexternal.video.federation.edu.au
-NOERROR	ink-springer-com.ezproxy.federation.edu.au
-NOERROR	study-2017.federation.edu.au
-NOERROR	study.federation.edu.au
-NOERROR	virtualclassroom-fms5.federation.edu.au
-NXDOMAIN	eportfolios-sandpit.federation.edu.au
-NXDOMAIN	moodle-testupgrade.federation.edu.au
-NXDOMAIN	bike.federation.edu.au
-NXDOMAIN	cosentino.federation.edu.au
-NOERROR	innopac-tr.federation.edu.au
-NOERROR	moodle-staging.federation.edu.au
-NOERROR	sk.sagepub.com.ezproxy.federation.edu.au
-NOERROR	mot.federation.edu.au
-NOERROR	search.ebscohost.com.ezproxy.federation.edu.au
-NXDOMAIN	eportfolios-supt.federation.edu.au
-NXDOMAIN	fesler.federation.edu.au
-NOERROR	search-proquest-com.ezproxy.federation.edu.au
-NXDOMAIN	sur-moodle.federation.edu.au
-NOERROR	icapac.ezproxy.federation.edu.au
-NXDOMAIN	library-guest.federation.edu.au
-NOERROR	dig.federation.edu.au
-NOERROR	edutv-informit-com-au.ezproxy.federation.edu.au
-NOERROR	ldap-gc.federation.edu.au
-NOERROR	support.proquest.com.ezproxy.federation.edu.au
-NOERROR	events-dev.federation.edu.au
-NXDOMAIN	azure-ad-2012.uni.federation.edu.au
-NOERROR	bih.federation.edu.au
-NOERROR	min.federation.edu.au
-NXDOMAIN	equella-poc2.federation.edu.au
-NXDOMAIN	lyncdiscoverinternal.uni.federation.edu.au
-NXDOMAIN	captiveportal.federation.edu.au
-NXDOMAIN	moodle-uat-alt.federation.edu.au
-NXDOMAIN	churchill-analog2.federation.edu.au
-NXDOMAIN	moodle-staging-admin.federation.edu.au
-NOERROR	innopac.federation.edu.au
-NOERROR	virtualclassroom-acts3.federation.edu.au
-NOERROR	www.herdsa.org.au.ezproxy.federation.edu.au
-NOERROR	search.proquest.com.ezproxy.federation.edu.au
-NOERROR	epm.sagepub.com.ezproxy.federation.edu.au
-NXDOMAIN	realconnect.federation.edu.au
-NXDOMAIN	gilliesst-analog.federation.edu.au
-NXDOMAIN	joists.federation.edu.au
-NOERROR	uni.federation.edu.au
-NXDOMAIN	equella-dev.federation.edu.au
-NXDOMAIN	fsbsptren.federation.edu.au
-NXDOMAIN	beims-test.federation.edu.au
-NOERROR	api.federation.edu.au
-NOERROR	din.federation.edu.au
-NOERROR	awareness.federation.edu.au
-NOERROR	online.sagepub.com.ezproxy.federation.edu.au
-NOERROR	www.fahcsia.gov.au.ezproxy.federation.edu.au
-NXDOMAIN	sspr-web2.federation.edu.au
-NOERROR	chinesejil.oxfordjournals.org.ezproxy.federation.edu.au
-NOERROR	search-alexanderstreet-com.ezproxy.federation.edu.au
-NXDOMAIN	beston.uni.federation.edu.au
-NXDOMAIN	churchill-analog1.federation.edu.au
-NOERROR	nsq.sagepub.com.ezproxy.federation.edu.au
-NOERROR	download.springer.com.ezproxy.federation.edu.au
-NOERROR	pch.sagepub.com.ezproxy.federation.edu.au
-NXDOMAIN	fssupt.federation.edu.au
-NOERROR	rna.federation.edu.au
-NXDOMAIN	ldaps-uni.federation.edu.au
-NXDOMAIN	mimportal.testuni.federation.edu.au
-NXDOMAIN	laurence.federation.edu.au
-NXDOMAIN	clariti-dma.federation.edu.au
-NXDOMAIN	enquiries-tafe-test.federation.edu.au
-NOERROR	fred.federation.edu.au
-NXDOMAIN	softwareselector-dev.federation.edu.au
-NXDOMAIN	lyncdiscoverinternal.federation.edu.au
-NOERROR	uball.csiro.patron.eb20.com.ezproxy.federation.edu.au
-NOERROR	ras.sagepub.com.ezproxy.federation.edu.au
-NOERROR	pierian.federation.edu.au
-NOERROR	digitaleditions.smedia.com.au.ezproxy.federation.edu.au
-NXDOMAIN	gilliesst-pstn.federation.edu.au
-NXDOMAIN	xenocrates.federation.edu.au
-NOERROR	virtualclassroom-staging-lti.federation.edu.au
-NOERROR	shwiki.federation.edu.au
-NXDOMAIN	ask-test.federation.edu.au
-NOERROR	coursereadings-staging.federation.edu.au
-NOERROR	libanswers.federation.edu.au
-NXDOMAIN	www.careerhub.federation.edu.au
-NXDOMAIN	molly.federation.edu.au
-NOERROR	libguides.federation.edu.au
-NXDOMAIN	frankie.federation.edu.au
-NXDOMAIN	s-moodle.federation.edu.au
-NXDOMAIN	besley.federation.edu.au
-NOERROR	honey.federation.edu.au
-NXDOMAIN	mymedia.moodle-stagingupgrade.federation.edu.au
-NXDOMAIN	asimov.federation.edu.au
-NOERROR	www.bmj.com.ezproxy.federation.edu.au
-NXDOMAIN	cato.federation.edu.au
-NOERROR	inkjet.federation.edu.au
-NOERROR	sphinx.federation.edu.au
-NOERROR	spatial.federation.edu.au
-NXDOMAIN	mthelen-analog3.federation.edu.au
-NOERROR	remoteaccess.federation.edu.au
-NOERROR	ejournals.ebsco.com.ezproxy.federation.edu.au
-NXDOMAIN	virtualclassroom-stagingupgrade-acts.federation.edu.au
-NOERROR	fishandchips.federation.edu.au
-NOERROR	moodle-supt.federation.edu.au
-NXDOMAIN	ess-test.federation.edu.au
-NXDOMAIN	mthelen-analog4.federation.edu.au
-NOERROR	web.a.ebscohost.com.ezproxy.federation.edu.au
-NOERROR	pavarotti.federation.edu.au
-NOERROR	delivery.acm.org.ezproxy.federation.edu.au
-NXDOMAIN	rmaster.federation.edu.au
-NOERROR	virtualclassrooms.federation.edu.au
-NXDOMAIN	clariti-rm.federation.edu.au
-NXDOMAIN	fsunit.federation.edu.au
-NOERROR	dux.federation.edu.au
-NXDOMAIN	eportfolios-poc1.federation.edu.au
-NXDOMAIN	fesler.uni.federation.edu.au
-NOERROR	moodle-poc.federation.edu.au
-NXDOMAIN	studyskills-nonprod.federation.edu.au
-NOERROR	login.ezproxy.federation.edu.au
-NOERROR	www-ibisworld-com-au.ezproxy.federation.edu.au
-NOERROR	axe.federation.edu.au
-NOERROR	isc.sagepub.com.ezproxy.federation.edu.au
-NOERROR	sfxapac02.hosted.exlibrisgroup.com.ezproxy.federation.edu.au
-NOERROR	courses.federation.edu.au
-NXDOMAIN	leto.federation.edu.au
-NXDOMAIN	kitty.federation.edu.au
-NOERROR	domingo.federation.edu.au
-NOERROR	moodle-staging-mymedia.federation.edu.au
-NXDOMAIN	churchill-analog5.federation.edu.au
-NOERROR	idp.federation.edu.au
-NOERROR	dramaonlinelibrary.com.ezproxy.federation.edu.au
-NOERROR	www-oxfordreference-com.ezproxy.federation.edu.au
-NOERROR	ac.els-cdn.com.ezproxy.federation.edu.au
-NXDOMAIN	edgon.federation.edu.au
-NXDOMAIN	asimov.uni.federation.edu.au
-NOERROR	enquiries-tafe.federation.edu.au
-NOERROR	es.oxfordjournals.org.ezproxy.federation.edu.au
-NOERROR	orion.federation.edu.au
-NXDOMAIN	api-sit.federation.edu.au
-NXDOMAIN	moodle-stg.federation.edu.au
-NXDOMAIN	dev-ad2012-mth.devuni.federation.edu.au
-NOERROR	www.worldscientific.com.ezproxy.federation.edu.au
-NXDOMAIN	smart-lockers-uat.federation.edu.au
-NOERROR	waos.federation.edu.au
-NOERROR	api-dev.federation.edu.au
-NXDOMAIN	equella-testupgrade.federation.edu.au
-NXDOMAIN	cmg.federation.edu.au
-NOERROR	federation.edu.au
-NXDOMAIN	crius.federation.edu.au
-NXDOMAIN	moodle-office365.federation.edu.au
-NOERROR	idcardmanagement-uat.federation.edu.au
-NOERROR	gonzo.federation.edu.au
-NXDOMAIN	europa.federation.edu.au
-NOERROR	r-moodle.federation.edu.au
-NOERROR	kumara.federation.edu.au
-NXDOMAIN	samuel.federation.edu.au
-NXDOMAIN	artemis.federation.edu.au
-NXDOMAIN	www.studyskills-test.federation.edu.au
-NOERROR	crantor.federation.edu.au
-NXDOMAIN	org-structure-dev.federation.edu.au
-NXDOMAIN	azurite.federation.edu.au
-NOERROR	smb-pstn.federation.edu.au
-NXDOMAIN	matty.federation.edu.au
-NOERROR	seraph.federation.edu.au
-NOERROR	jte.sagepub.com.ezproxy.federation.edu.au
-NXDOMAIN	churchill-analog7.federation.edu.au
-NOERROR	inplace-uat.federation.edu.au
-NOERROR	ovidsp.uk.ovid.com.ezproxy.federation.edu.au
-NOERROR	www-eric-ed-gov.ezproxy.federation.edu.au
-NOERROR	dodona.federation.edu.au
-NXDOMAIN	myfinanceren.federation.edu.au
-NOERROR	easel.federation.edu.au
-NOERROR	apply.federation.edu.au
-NOERROR	www.alcoholsummit.nsw.gov.au.ezproxy.federation.edu.au
-NOERROR	fdlgrades.federation.edu.au
-NOERROR	virtualclassroom-staging-acts.federation.edu.au
-NOERROR	methods.asbcnet.org.ezproxy.federation.edu.au
-NXDOMAIN	disconet.federation.edu.au
-NXDOMAIN	myia.federation.edu.au
-NOERROR	www.primaryconnections.org.au.ezproxy.federation.edu.au
-NOERROR	soeaccess.federation.edu.au
-NXDOMAIN	lync.federation.edu.au
-NXDOMAIN	mea.federation.edu.au
-NXDOMAIN	ldaps-testuni.federation.edu.au
-NXDOMAIN	csunit.federation.edu.au
-NOERROR	www-ncbi-nlm-nih-gov.ezproxy.federation.edu.au
-NOERROR	nomos.federation.edu.au
-NOERROR	fred-test.federation.edu.au
-NOERROR	www.education.vic.gov.au.ezproxy.federation.edu.au
-NXDOMAIN	smb-analog.federation.edu.au
-NOERROR	lyncdiscover.federation.edu.au
-NOERROR	www-mimsonline-com-au.ezproxy.federation.edu.au
-NXDOMAIN	moodle-admin.federation.edu.au
-NXDOMAIN	t-moodle.federation.edu.au
-NXDOMAIN	churchill-analog4.federation.edu.au
-NXDOMAIN	fed-reporting-dev.federation.edu.au
-NXDOMAIN	galveston.uni.federation.edu.au
-NXDOMAIN	mahara-supt.federation.edu.au
-NXDOMAIN	insightvm.federation.edu.au
-NOERROR	researchonline.federation.edu.au
-NOERROR	www.publish.csiro.au.ezproxy.federation.edu.au
-NXDOMAIN	wsp.federation.edu.au
-NXDOMAIN	svn.federation.edu.au
-NXDOMAIN	pnc-apps.federation.edu.au
-NOERROR	owata.uni.federation.edu.au
-NOERROR	jester.federation.edu.au
-NOERROR	outlook.students.federation.edu.au
-NXDOMAIN	fender.federation.edu.au
-NOERROR	eds.a.ebscohost.com.ezproxy.federation.edu.au
-NXDOMAIN	mahara.federation.edu.au
-NOERROR	triton.federation.edu.au
-NOERROR	muse.jhu.edu.ezproxy.federation.edu.au
-NOERROR	policy.federation.edu.au
-NOERROR	education-nsw-gov-au.ezproxy.federation.edu.au
-NOERROR	s4b-wc.uni.federation.edu.au
-NOERROR	search.alexanderstreet.com.ezproxy.federation.edu.au
-NOERROR	you.sagepub.com.ezproxy.federation.edu.au
-NOERROR	www-tandfonline-com.ezproxy.federation.edu.au
-NXDOMAIN	madmax.federation.edu.au
-NXDOMAIN	horatio.federation.edu.au
-NXDOMAIN	ask-dev.federation.edu.au
-NOERROR	dspwiki.federation.edu.au
-NOERROR	ess.federation.edu.au
-NOERROR	moodle-sandpit.federation.edu.au
-NOERROR	schedule.federation.edu.au
-NOERROR	tv-theiet-org.ezproxy.federation.edu.au
-NXDOMAIN	moodle-stagingupgrade-admin.federation.edu.au
-NOERROR	virtualclassroom-acts1.federation.edu.au
-NXDOMAIN	inplacesso.federation.edu.au
-NXDOMAIN	enquiriesportal-test.federation.edu.au
-NOERROR	fedstore.federation.edu.au
-NOERROR	ebookcentral-proquest-com.ezproxy.federation.edu.au
-NXDOMAIN	vetis.federation.edu.au
-NXDOMAIN	moodle-admin-certs-non-prd.federation.edu.au
-NOERROR	coursereadings.federation.edu.au
-NOERROR	proton.federation.edu.au
-NXDOMAIN	fsprvt.federation.edu.au
-NOERROR	m.library.federation.edu.au
-NOERROR	tandfonline-com.ezproxy.federation.edu.au
-NOERROR	virtualclassroom-fms1.federation.edu.au
-NOERROR	audit-wa-gov-au.ezproxy.federation.edu.au
-NXDOMAIN	hannibal.federation.edu.au
-NOERROR	dnnserver.federation.edu.au
-NOERROR	www.dest.gov.au.ezproxy.federation.edu.au
-NOERROR	cnr.sagepub.com.ezproxy.federation.edu.au
-NOERROR	myac.federation.edu.au
-NOERROR	mug.federation.edu.au
-NXDOMAIN	exams-test.federation.edu.au
-NOERROR	atom-training.federation.edu.au
-NXDOMAIN	api-test.federation.edu.au
-NXDOMAIN	mthelen-analog.federation.edu.au
-NOERROR	neutron.federation.edu.au
-NOERROR	virtualclassroom-fms2.federation.edu.au
-NOERROR	abs.sagepub.com.ezproxy.federation.edu.au
-NOERROR	journal.media-culture.org.au.ezproxy.federation.edu.au
-NOERROR	virtualclassroom-fms3.federation.edu.au
-NOERROR	www.mja.com.au.ezproxy.federation.edu.au
-NXDOMAIN	eduroam.federation.edu.au
-NOERROR	analytics.federation.edu.au
-NOERROR	moodle365.federation.edu.au
-NOERROR	virtualclassroom-staging-fms1.federation.edu.au
-NOERROR	studyskills-test.federation.edu.au
-NOERROR	link-springer-com.ezproxy.federation.edu.au
-NOERROR	m.library-tr.federation.edu.au
-NOERROR	www.ezproxy.federation.edu.au
-NXDOMAIN	equella-non-prdupgrade.federation.edu.au
-NXDOMAIN	servnowsso.federation.edu.au
-NOERROR	diard.federation.edu.au
-NXDOMAIN	berwick-pstn.federation.edu.au
-NXDOMAIN	equella-stagingupgrade.federation.edu.au
-NOERROR	www-pwc-com-au.ezproxy.federation.edu.au
-NOERROR	ballarat.eblib.com.au.ezproxy.federation.edu.au
-NXDOMAIN	test-ad2012-smb.testuni.federation.edu.au
-NXDOMAIN	pnc-apps-test.federation.edu.au
-NOERROR	dns1.federation.edu.au
-NOERROR	cseduc.federation.edu.au
-NOERROR	cie.sagepub.com.ezproxy.federation.edu.au
-NXDOMAIN	brisbane-pstn.federation.edu.au
-NXDOMAIN	mail.federation.edu.au
-NXDOMAIN	fdlgrades-test.federation.edu.au
-NOERROR	printerface.federation.edu.au
-NXDOMAIN	moodle-o365.federation.edu.au
-NOERROR	federation.edu.au.ezproxy.federation.edu.au
-NOERROR	vvg.federation.edu.au
-NOERROR	cjip.oxfordjournals.org.ezproxy.federation.edu.au
-NXDOMAIN	equella-uat.federation.edu.au
-NXDOMAIN	facilities-maintenance-test.federation.edu.au
-NOERROR	www.dhs.vic.gov.au.ezproxy.federation.edu.au
-NXDOMAIN	pageuppeople.federation.edu.au
-NXDOMAIN	www.eportfolios.federation.edu.au
-NOERROR	disciplina.federation.edu.au
-NOERROR	moodle-mymedia.federation.edu.au
-NOERROR	www.federation.edu.au
-NOERROR	www-link-springer-com.ezproxy.federation.edu.au
-NOERROR	idp-nature-com.ezproxy.federation.edu.au
-NOERROR	search-ebscohost-com.ezproxy.federation.edu.au
-NXDOMAIN	girders.federation.edu.au
-NXDOMAIN	csbuat.federation.edu.au
-NXDOMAIN	test-ad2012-az.testuni.federation.edu.au
-NXDOMAIN	moodle-archive-vet.federation.edu.au
-NXDOMAIN	dialin.federation.edu.au
-NXDOMAIN	sspr-web1.federation.edu.au
-NXDOMAIN	moodle-dr-admin.federation.edu.au
-NOERROR	events.federation.edu.au
-NOERROR	alexanderstreet.com.ezproxy.federation.edu.au
-NOERROR	sip.federation.edu.au
-NOERROR	dx.doi.org.ezproxy.federation.edu.au
-NOERROR	www.science.org.au.ezproxy.federation.edu.au
-NXDOMAIN	mysc-prvt.federation.edu.au
-NOERROR	eportfolios-testupgrade.federation.edu.au
-NXDOMAIN	fdltest.federation.edu.au
-NOERROR	dns2.federation.edu.au
-NOERROR	servicedesk.federation.edu.au
-NOERROR	blog-sciencedirect-com.ezproxy.federation.edu.au
-NOERROR	scheduling.federation.edu.au
-NXDOMAIN	mandrake.federation.edu.au
-NXDOMAIN	fed-reporting-test.federation.edu.au
-NOERROR	study-test.federation.edu.au
-NOERROR	sip.uni.federation.edu.au
-NXDOMAIN	funnelback.federation.edu.au
-NOERROR	sts.federation.edu.au
-NOERROR	cybersecurityportal.federation.edu.au
-NOERROR	rainyday.federation.edu.au
-NXDOMAIN	enquiriesportal-uat.federation.edu.au
-NXDOMAIN	cssupt.federation.edu.au
-NOERROR	rss.ebscohost.com.ezproxy.federation.edu.au
-NXDOMAIN	bi-test.federation.edu.au
-NOERROR	federationuniversity-safetyhub-com.ezproxy.federation.edu.au
-NXDOMAIN	csbuatren.federation.edu.au
-NXDOMAIN	dophelia.federation.edu.au
-NOERROR	s4b-sip.uni.federation.edu.au
-NOERROR	clients1.ibisworld.com.ezproxy.federation.edu.au
-NXDOMAIN	virtualclassroom-stagingupgrade-lti.federation.edu.au
-NXDOMAIN	csprvt.federation.edu.au
-NOERROR	idsp.ovid.com.ezproxy.federation.edu.au
-NXDOMAIN	mrhyde.federation.edu.au
-NXDOMAIN	manto.federation.edu.au
-NOERROR	ophelia.federation.edu.au
-NXDOMAIN	fdluat.federation.edu.au
-NXDOMAIN	s4b-pool-int.uni.federation.edu.au
-NOERROR	websearch-api.federation.edu.au
-NXDOMAIN	moodle-testupgrade-admin.federation.edu.au
-NOERROR	ann.sagepub.com.ezproxy.federation.edu.au
-NOERROR	sk-sagepub-com.ezproxy.federation.edu.au
-NOERROR	meet.uni.federation.edu.au
-NOERROR	asterius.federation.edu.au
-NXDOMAIN	redwater.federation.edu.au
-NXDOMAIN	virtualclassrooms-stagingupgrade.federation.edu.au
-NXDOMAIN	apply-support.federation.edu.au
-NXDOMAIN	cerdi.federation.edu.au
-NOERROR	edutv.informit.com.au.ezproxy.federation.edu.au
-NOERROR	www.macswd.sa.gov.au.ezproxy.federation.edu.au
-NOERROR	crankshaft.federation.edu.au
-NXDOMAIN	churchill-analog6.federation.edu.au
-NOERROR	www.oxfordreference.com.ezproxy.federation.edu.au
-NXDOMAIN	facilities-maintenance.federation.edu.au
-NOERROR	virtualclassroom-fms4.federation.edu.au
-NXDOMAIN	eportfolios-poc2.federation.edu.au
-NXDOMAIN	fdldev.federation.edu.au
-NOERROR	idrequest.federation.edu.au
-NOERROR	apj.sagepub.com.ezproxy.federation.edu.au
-NXDOMAIN	felix.federation.edu.au
-NXDOMAIN	clariti-rpad.federation.edu.au
-NXDOMAIN	apply-test.federation.edu.au
-NOERROR	www.icevirtuallibrary.com.ezproxy.federation.edu.au
-NXDOMAIN	test-ad2012-mth.testuni.federation.edu.au
-NXDOMAIN	ask-test-2.federation.edu.au
-NXDOMAIN	s4b-pool.uni.federation.edu.au
-NOERROR	journals.bmj.com.ezproxy.federation.edu.au
-NXDOMAIN	maton.federation.edu.au
-NOERROR	oxfordjournals.org.ezproxy.federation.edu.au
-NOERROR	www.ballarat.eblib.com.au.ezproxy.federation.edu.au
-NOERROR	ndfonline-com.ezproxy.federation.edu.au
-NXDOMAIN	denzel.federation.edu.au
-NOERROR	jme.bmj.com.ezproxy.federation.edu.au
-NOERROR	ezproxy.federation.edu.au
-NOERROR	search-informit-com-au.ezproxy.federation.edu.au
-NOERROR	pams.federation.edu.au
-NOERROR	fedunistore.federation.edu.au
-NXDOMAIN	rdsweb.federation.edu.au
-NXDOMAIN	syspass.federation.edu.au
-NXDOMAIN	csdevlren.federation.edu.au
-NXDOMAIN	panorama.federation.edu.au
-NOERROR	webchat.federation.edu.au
-NOERROR	www.cpaonline.com.au.ezproxy.federation.edu.au
-NOERROR	video.federation.edu.au
-NXDOMAIN	enquiries-test.federation.edu.au
-NOERROR	pirion.federation.edu.au
+www-thesmithfamily-com-au.ezproxy.federation.edu.au
+valve.federation.edu.au
+fred-dev.federation.edu.au
+48hours.federation.edu.au
+eportfolios-staging.federation.edu.au
+phoebe.federation.edu.au
+ask.federation.edu.au
+www.eduweb.vic.gov.au.ezproxy.federation.edu.au
+idp-test.federation.edu.au
+asterion.federation.edu.au
+soc.sagepub.com.ezproxy.federation.edu.au
+virtualclassroom-lti.federation.edu.au
+mymedia-moodle-staging.federation.edu.au
+support.ebsco.com.ezproxy.federation.edu.au
+news.federation.edu.au
+p-moodle.federation.edu.au
+aff.sagepub.com.ezproxy.federation.edu.au
+ulrichsweb.serialssolutions.com.ezproxy.federation.edu.au
+web-b-ebscohost-com.ezproxy.federation.edu.au
+fedprint.federation.edu.au
+nlinelibrary.wiley.com.ezproxy.federation.edu.au
+www.myendnoteweb.com.ezproxy.federation.edu.au
+dl.acm.org.ezproxy.federation.edu.au
+study-2016.federation.edu.au
+www.springer.com.ezproxy.federation.edu.au
+gradworks.umi.com.ezproxy.federation.edu.au
+daxi.federation.edu.au
+digital-library-theiet-org.ezproxy.federation.edu.au
+careers.federation.edu.au
+maintenancemysc.federation.edu.au
+services.oxfordjournals.org.ezproxy.federation.edu.au
+webprint.federation.edu.au
+captureme-uat.federation.edu.au
+equella-staging.federation.edu.au
+proquestcombo.safaribooksonline.com.ezproxy.federation.edu.au
+dialin.uni.federation.edu.au
+help.elsevier.com.ezproxy.federation.edu.au
+connect.jbiconnectplus.org.ezproxy.federation.edu.au
+welcome.federation.edu.au
+meetme.federation.edu.au
+mid.federation.edu.au
+search.informit.com.au.ezproxy.federation.edu.au
+bucket.federation.edu.au
+www.studyskills.federation.edu.au
+alia.org.au.ezproxy.federation.edu.au
+btswiki.federation.edu.au
+fedunicmg.federation.edu.au
+i-org.ezproxy.federation.edu.au
+livia.federation.edu.au
+programfinder.federation.edu.au
+virtualclassrooms-staging.federation.edu.au
+meet.federation.edu.au
+sux.federation.edu.au
+ila-onlinelibrary-wiley-com.ezproxy.federation.edu.au
+idcardmanagement.federation.edu.au
+heapro.oxfordjournals.org.ezproxy.federation.edu.au
+lyncdiscover.uni.federation.edu.au
+anzac.federation.edu.au
+ovidsp.tx.ovid.com.ezproxy.federation.edu.au
+linkinghub.elsevier.com.ezproxy.federation.edu.au
+www.abs.gov.au.ezproxy.federation.edu.au
+studyskills-dev.federation.edu.au
+events-uat.federation.edu.au
+edartswiki.federation.edu.au
+puha.federation.edu.au
+www.audit.vic.gov.au.ezproxy.federation.edu.au
+mytimetable.federation.edu.au
+myecm.federation.edu.au
+ebookcentral.proquest.com.ezproxy.federation.edu.au
+oos.uni.federation.edu.au
+mthelen-pstn.federation.edu.au
+dx-doi-org.ezproxy.federation.edu.au
+harleyquinn.federation.edu.au
+journals-sagepub-com.ezproxy.federation.edu.au
+virtualclassroom-acts4.federation.edu.au
+doi-org.ezproxy.federation.edu.au
+hecate.federation.edu.au
+library.federation.edu.au
+moodle-testnext.federation.edu.au
+edge.federation.edu.au
+kaltura-test.federation.edu.au
+s4b-pool-ext.uni.federation.edu.au
+journals.rcni.com.ezproxy.federation.edu.au
+reader.eblib.com.au.ezproxy.federation.edu.au
+www.jstor.org.ezproxy.federation.edu.au
+virtualclassroom-acts.federation.edu.au
+inplace.federation.edu.au
+link.springer.com.ezproxy.federation.edu.au
+virtualclassroom.federation.edu.au
+gadget.federation.edu.au
+pandora.nla.gov.au.ezproxy.federation.edu.au
+spiderweb.federation.edu.au
+usj.sagepub.com.ezproxy.federation.edu.au
+mux.federation.edu.au
+mud.federation.edu.au
+prod.resource.wkasiapacific.com.ezproxy.federation.edu.au
+fdltraining.federation.edu.au
+journals.cambridge.org.ezproxy.federation.edu.au
+www.study.federation.edu.au
+journals.sagepub.com.ezproxy.federation.edu.au
+library-tr.federation.edu.au
+jmd.sagepub.com.ezproxy.federation.edu.au
+fred-uat.federation.edu.au
+rin.federation.edu.au
+fedflix.federation.edu.au
+carreras.federation.edu.au
+atom.federation.edu.au
+onlinelibrary.wiley.com.ezproxy.federation.edu.au
+apps.webofknowledge.com.ezproxy.federation.edu.au
+ovidsp.ovid.com.ezproxy.federation.edu.au
+enquiries.federation.edu.au
+raphael.federation.edu.au
+www.englishaustralia.com.au.ezproxy.federation.edu.au
+mysc.federation.edu.au
+innopac.ballarat.edu.au.ezproxy.federation.edu.au
+onlinelibrary-wiley-com.ezproxy.federation.edu.au
+ire.sagepub.com.ezproxy.federation.edu.au
+fmp.federation.edu.au
+brochures.federation.edu.au
+www.deewr.gov.au.ezproxy.federation.edu.au
+virtualclassroom-staging.federation.edu.au
+video-staging.federation.edu.au
+did.federation.edu.au
+hagar.federation.edu.au
+www-cambridge-org.ezproxy.federation.edu.au
+sicarius.federation.edu.au
+moodle.federation.edu.au
+equella.federation.edu.au
+www-frontiersin-org.ezproxy.federation.edu.au
+kiosk.federation.edu.au
+moodle-stagingupgrade.federation.edu.au
+eportfolios.federation.edu.au
+methods.sagepub.com.ezproxy.federation.edu.au
+lin.federation.edu.au
+events-test.federation.edu.au
+enquiriesportal.federation.edu.au
+passwordreset.federation.edu.au
+eportfolios-stagingupgrade.federation.edu.au
+error-incites-thomsonreuters-com.ezproxy.federation.edu.au
+its.federation.edu.au
+www.sciencedirect.com.ezproxy.federation.edu.au
+autodiscover.federation.edu.au
+startnow.federation.edu.au
+www.austlii.edu.au.ezproxy.federation.edu.au
+gin.ezproxy.federation.edu.au
+castalian.federation.edu.au
+btp.federation.edu.au
+heinonline.org.ezproxy.federation.edu.au
+alh.sagepub.com.ezproxy.federation.edu.au
+www-asbcnet-org.ezproxy.federation.edu.au
+webapps.federation.edu.au
+help.sciencedirect.com.ezproxy.federation.edu.au
+coursefinder.federation.edu.au
+ieeexplore.ieee.org.ezproxy.federation.edu.au
+www.champagnat.org.au.ezproxy.federation.edu.au
+perftest.federation.edu.au
+www-sciencedirect-com.ezproxy.federation.edu.au
+jfn.sagepub.com.ezproxy.federation.edu.au
+www.tandfonline.com.ezproxy.federation.edu.au
+isq.sagepub.com.ezproxy.federation.edu.au
+event.federation.edu.au
+virtualclassroom-acts2.federation.edu.au
+atom-dev.federation.edu.au
+www.apply.federation.edu.au
+www.oxfam.org.au.ezproxy.federation.edu.au
+www-doi-org.ezproxy.federation.edu.au
+primoapac01.hosted.exlibrisgroup.com.ezproxy.federation.edu.au
+griffin.federation.edu.au
+heineken.federation.edu.au
+www.emeraldinsight.com.ezproxy.federation.edu.au
+www-scopus-com.ezproxy.federation.edu.au
+hpq.sagepub.com.ezproxy.federation.edu.au
+www.oxfordartonline.com.ezproxy.federation.edu.au
+captureme.federation.edu.au
+www.mysc.federation.edu.au
+www-artfilms-digital-com.ezproxy.federation.edu.au
+www.doi.org.ezproxy.federation.edu.au
+aurora.federation.edu.au
+www.aifs.gov.au.ezproxy.federation.edu.au
+papercut.federation.edu.au
+exams.federation.edu.au
+prb.sagepub.com.ezproxy.federation.edu.au
+web.b.ebscohost.com.ezproxy.federation.edu.au
+eportfolios-test.federation.edu.au
+studyskills.federation.edu.au
+images.webofknowledge.com.ezproxy.federation.edu.au
+www.education.qld.gov.au.ezproxy.federation.edu.au
+maintenance.federation.edu.au
+sfx-61uba.hosted.exlibrisgroup.com.ezproxy.federation.edu.au
+ssc.sagepub.com.ezproxy.federation.edu.au
+optergy.federation.edu.au
+openurl.ebscohost.com.ezproxy.federation.edu.au
+www.avetra.org.au.ezproxy.federation.edu.au
+dangelo.federation.edu.au
+maxi.federation.edu.au
+guerin.ballarat.edu.au.ezproxy.federation.edu.au
+ink-springer-com.ezproxy.federation.edu.au
+study-2017.federation.edu.au
+study.federation.edu.au
+virtualclassroom-fms5.federation.edu.au
+innopac-tr.federation.edu.au
+moodle-staging.federation.edu.au
+sk.sagepub.com.ezproxy.federation.edu.au
+mot.federation.edu.au
+search.ebscohost.com.ezproxy.federation.edu.au
+search-proquest-com.ezproxy.federation.edu.au
+icapac.ezproxy.federation.edu.au
+dig.federation.edu.au
+edutv-informit-com-au.ezproxy.federation.edu.au
+ldap-gc.federation.edu.au
+support.proquest.com.ezproxy.federation.edu.au
+events-dev.federation.edu.au
+bih.federation.edu.au
+min.federation.edu.au
+innopac.federation.edu.au
+virtualclassroom-acts3.federation.edu.au
+www.herdsa.org.au.ezproxy.federation.edu.au
+search.proquest.com.ezproxy.federation.edu.au
+epm.sagepub.com.ezproxy.federation.edu.au
+uni.federation.edu.au
+api.federation.edu.au
+din.federation.edu.au
+awareness.federation.edu.au
+online.sagepub.com.ezproxy.federation.edu.au
+www.fahcsia.gov.au.ezproxy.federation.edu.au
+chinesejil.oxfordjournals.org.ezproxy.federation.edu.au
+search-alexanderstreet-com.ezproxy.federation.edu.au
+nsq.sagepub.com.ezproxy.federation.edu.au
+download.springer.com.ezproxy.federation.edu.au
+pch.sagepub.com.ezproxy.federation.edu.au
+rna.federation.edu.au
+fred.federation.edu.au
+uball.csiro.patron.eb20.com.ezproxy.federation.edu.au
+ras.sagepub.com.ezproxy.federation.edu.au
+pierian.federation.edu.au
+digitaleditions.smedia.com.au.ezproxy.federation.edu.au
+virtualclassroom-staging-lti.federation.edu.au
+shwiki.federation.edu.au
+coursereadings-staging.federation.edu.au
+libanswers.federation.edu.au
+libguides.federation.edu.au
+honey.federation.edu.au
+www.bmj.com.ezproxy.federation.edu.au
+inkjet.federation.edu.au
+sphinx.federation.edu.au
+spatial.federation.edu.au
+remoteaccess.federation.edu.au
+ejournals.ebsco.com.ezproxy.federation.edu.au
+fishandchips.federation.edu.au
+moodle-supt.federation.edu.au
+web.a.ebscohost.com.ezproxy.federation.edu.au
+pavarotti.federation.edu.au
+delivery.acm.org.ezproxy.federation.edu.au
+virtualclassrooms.federation.edu.au
+dux.federation.edu.au
+moodle-poc.federation.edu.au
+login.ezproxy.federation.edu.au
+www-ibisworld-com-au.ezproxy.federation.edu.au
+axe.federation.edu.au
+isc.sagepub.com.ezproxy.federation.edu.au
+sfxapac02.hosted.exlibrisgroup.com.ezproxy.federation.edu.au
+courses.federation.edu.au
+domingo.federation.edu.au
+moodle-staging-mymedia.federation.edu.au
+idp.federation.edu.au
+dramaonlinelibrary.com.ezproxy.federation.edu.au
+www-oxfordreference-com.ezproxy.federation.edu.au
+ac.els-cdn.com.ezproxy.federation.edu.au
+enquiries-tafe.federation.edu.au
+es.oxfordjournals.org.ezproxy.federation.edu.au
+orion.federation.edu.au
+www.worldscientific.com.ezproxy.federation.edu.au
+waos.federation.edu.au
+api-dev.federation.edu.au
+federation.edu.au
+idcardmanagement-uat.federation.edu.au
+gonzo.federation.edu.au
+r-moodle.federation.edu.au
+kumara.federation.edu.au
+crantor.federation.edu.au
+smb-pstn.federation.edu.au
+seraph.federation.edu.au
+jte.sagepub.com.ezproxy.federation.edu.au
+inplace-uat.federation.edu.au
+ovidsp.uk.ovid.com.ezproxy.federation.edu.au
+www-eric-ed-gov.ezproxy.federation.edu.au
+dodona.federation.edu.au
+easel.federation.edu.au
+apply.federation.edu.au
+www.alcoholsummit.nsw.gov.au.ezproxy.federation.edu.au
+fdlgrades.federation.edu.au
+virtualclassroom-staging-acts.federation.edu.au
+methods.asbcnet.org.ezproxy.federation.edu.au
+www.primaryconnections.org.au.ezproxy.federation.edu.au
+soeaccess.federation.edu.au
+www-ncbi-nlm-nih-gov.ezproxy.federation.edu.au
+nomos.federation.edu.au
+fred-test.federation.edu.au
+www.education.vic.gov.au.ezproxy.federation.edu.au
+lyncdiscover.federation.edu.au
+www-mimsonline-com-au.ezproxy.federation.edu.au
+researchonline.federation.edu.au
+www.publish.csiro.au.ezproxy.federation.edu.au
+owata.uni.federation.edu.au
+jester.federation.edu.au
+outlook.students.federation.edu.au
+eds.a.ebscohost.com.ezproxy.federation.edu.au
+triton.federation.edu.au
+muse.jhu.edu.ezproxy.federation.edu.au
+policy.federation.edu.au
+education-nsw-gov-au.ezproxy.federation.edu.au
+s4b-wc.uni.federation.edu.au
+search.alexanderstreet.com.ezproxy.federation.edu.au
+you.sagepub.com.ezproxy.federation.edu.au
+www-tandfonline-com.ezproxy.federation.edu.au
+dspwiki.federation.edu.au
+ess.federation.edu.au
+moodle-sandpit.federation.edu.au
+schedule.federation.edu.au
+tv-theiet-org.ezproxy.federation.edu.au
+virtualclassroom-acts1.federation.edu.au
+fedstore.federation.edu.au
+ebookcentral-proquest-com.ezproxy.federation.edu.au
+coursereadings.federation.edu.au
+proton.federation.edu.au
+m.library.federation.edu.au
+tandfonline-com.ezproxy.federation.edu.au
+virtualclassroom-fms1.federation.edu.au
+audit-wa-gov-au.ezproxy.federation.edu.au
+dnnserver.federation.edu.au
+www.dest.gov.au.ezproxy.federation.edu.au
+cnr.sagepub.com.ezproxy.federation.edu.au
+myac.federation.edu.au
+mug.federation.edu.au
+atom-training.federation.edu.au
+neutron.federation.edu.au
+virtualclassroom-fms2.federation.edu.au
+abs.sagepub.com.ezproxy.federation.edu.au
+journal.media-culture.org.au.ezproxy.federation.edu.au
+virtualclassroom-fms3.federation.edu.au
+www.mja.com.au.ezproxy.federation.edu.au
+analytics.federation.edu.au
+moodle365.federation.edu.au
+virtualclassroom-staging-fms1.federation.edu.au
+studyskills-test.federation.edu.au
+link-springer-com.ezproxy.federation.edu.au
+m.library-tr.federation.edu.au
+www.ezproxy.federation.edu.au
+diard.federation.edu.au
+www-pwc-com-au.ezproxy.federation.edu.au
+ballarat.eblib.com.au.ezproxy.federation.edu.au
+dns1.federation.edu.au
+cseduc.federation.edu.au
+cie.sagepub.com.ezproxy.federation.edu.au
+printerface.federation.edu.au
+federation.edu.au.ezproxy.federation.edu.au
+vvg.federation.edu.au
+cjip.oxfordjournals.org.ezproxy.federation.edu.au
+www.dhs.vic.gov.au.ezproxy.federation.edu.au
+disciplina.federation.edu.au
+moodle-mymedia.federation.edu.au
+www.federation.edu.au
+www-link-springer-com.ezproxy.federation.edu.au
+idp-nature-com.ezproxy.federation.edu.au
+search-ebscohost-com.ezproxy.federation.edu.au
+events.federation.edu.au
+alexanderstreet.com.ezproxy.federation.edu.au
+sip.federation.edu.au
+dx.doi.org.ezproxy.federation.edu.au
+www.science.org.au.ezproxy.federation.edu.au
+eportfolios-testupgrade.federation.edu.au
+dns2.federation.edu.au
+servicedesk.federation.edu.au
+blog-sciencedirect-com.ezproxy.federation.edu.au
+scheduling.federation.edu.au
+study-test.federation.edu.au
+sip.uni.federation.edu.au
+sts.federation.edu.au
+cybersecurityportal.federation.edu.au
+rainyday.federation.edu.au
+rss.ebscohost.com.ezproxy.federation.edu.au
+federationuniversity-safetyhub-com.ezproxy.federation.edu.au
+s4b-sip.uni.federation.edu.au
+clients1.ibisworld.com.ezproxy.federation.edu.au
+idsp.ovid.com.ezproxy.federation.edu.au
+ophelia.federation.edu.au
+websearch-api.federation.edu.au
+ann.sagepub.com.ezproxy.federation.edu.au
+sk-sagepub-com.ezproxy.federation.edu.au
+meet.uni.federation.edu.au
+asterius.federation.edu.au
+edutv.informit.com.au.ezproxy.federation.edu.au
+www.macswd.sa.gov.au.ezproxy.federation.edu.au
+crankshaft.federation.edu.au
+www.oxfordreference.com.ezproxy.federation.edu.au
+virtualclassroom-fms4.federation.edu.au
+idrequest.federation.edu.au
+apj.sagepub.com.ezproxy.federation.edu.au
+www.icevirtuallibrary.com.ezproxy.federation.edu.au
+journals.bmj.com.ezproxy.federation.edu.au
+oxfordjournals.org.ezproxy.federation.edu.au
+www.ballarat.eblib.com.au.ezproxy.federation.edu.au
+ndfonline-com.ezproxy.federation.edu.au
+jme.bmj.com.ezproxy.federation.edu.au
+ezproxy.federation.edu.au
+search-informit-com-au.ezproxy.federation.edu.au
+pams.federation.edu.au
+fedunistore.federation.edu.au
+webchat.federation.edu.au
+www.cpaonline.com.au.ezproxy.federation.edu.au
+video.federation.edu.au
+pirion.federation.edu.au

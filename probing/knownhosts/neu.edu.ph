@@ -1,93 +1,84 @@
-NOERROR	www.k12training.neu.edu.ph
-NOERROR	online.neu.edu.ph
-NOERROR	neuvle.neu.edu.ph
-NOERROR	cdrom.neu.edu.ph
-NOERROR	www.chat.neu.edu.ph
-NOERROR	research.neu.edu.ph
-NOERROR	vle2.neu.edu.ph
-NXDOMAIN	www.oldvle.neu.edu.ph
-NOERROR	sa-basic.lipa.neu.edu.ph
-NOERROR	training.neu.edu.ph
-NOERROR	k12training.neu.edu.ph
-NOERROR	onlineeduc.neu.edu.ph
-NOERROR	www.sa-basic.lipa.neu.edu.ph
-NOERROR	r511.neu.edu.ph
-NOERROR	automate.pamp.neu.edu.ph
-NOERROR	www.cms.neu.edu.ph
-NOERROR	csdvle2.neu.edu.ph
-NOERROR	automate.neu.edu.ph
-NOERROR	automate.gensan.neu.edu.ph
-NOERROR	meet.neu.edu.ph
-NOERROR	sa-basic.neu.edu.ph
-NOERROR	www.sa-basic.pamp.neu.edu.ph
-NOERROR	webdisk.csd.neu.edu.ph
-NOERROR	k-12.neu.edu.ph
-NOERROR	www.csdvle.neu.edu.ph
-NOERROR	www.automate.neu.edu.ph
-NOERROR	cpanel.csd.neu.edu.ph
-NOERROR	www.soir.neu.edu.ph
-NXDOMAIN	oldvle.neu.edu.ph
-NOERROR	www.automate2.neu.edu.ph
-NOERROR	www.neutech.neu.edu.ph
-NOERROR	neutech.neu.edu.ph
-NOERROR	www.r511.neu.edu.ph
-NOERROR	www.training.neu.edu.ph
-NOERROR	www.russianstudies.neu.edu.ph
-NOERROR	www.automate.lipa.neu.edu.ph
-NOERROR	www.automate.pamp.neu.edu.ph
-NOERROR	www.hudyat.neu.edu.ph
-NOERROR	sa-basic.pamp.neu.edu.ph
-NOERROR	college.neu.edu.ph
-NOERROR	chat.neu.edu.ph
-NOERROR	www.press.neu.edu.ph
-NOERROR	automate.lipa.neu.edu.ph
-NXDOMAIN	cdrom.neu.neu.edu.ph
-NOERROR	www.sa-basic.neu.edu.ph
-NOERROR	payment.neu.edu.ph
-NOERROR	press.neu.edu.ph
-NOERROR	webmail.neu.edu.ph
-NOERROR	www.csdbase2.neu.edu.ph
-NOERROR	www.sa-basic.gensan.neu.edu.ph
-NOERROR	www.automate.gensan.neu.edu.ph
-NOERROR	mail.neu.edu.ph
-NOERROR	csdbase.neu.edu.ph
-NOERROR	www.csdvle2.neu.edu.ph
-NOERROR	www.cdrom.neu.edu.ph
-NOERROR	csd.neu.edu.ph
-NOERROR	hudyat.neu.edu.ph
-NOERROR	www.online.neu.edu.ph
-NOERROR	www.onlineeduc.neu.edu.ph
-NXDOMAIN	www.cdrom.neu.neu.edu.ph
-NOERROR	neu.edu.ph
-NOERROR	www.vle2.neu.edu.ph
-NOERROR	www.collvle.neu.edu.ph
-NOERROR	russianstudies.neu.edu.ph
-NXDOMAIN	www.vle.neu.edu.ph
-NOERROR	www.lms.neu.edu.ph
-NOERROR	csdvle.neu.edu.ph
-NOERROR	csdbase2.neu.edu.ph
-NOERROR	k-12plesk.neu.edu.ph
-NOERROR	sa-basic.gensan.neu.edu.ph
-NOERROR	www.payment.neu.edu.ph
-NOERROR	collvle.neu.edu.ph
-NOERROR	cms.neu.edu.ph
-NOERROR	www.meet.neu.edu.ph
-NOERROR	soir.neu.edu.ph
-NOERROR	automate2.neu.edu.ph
-NXDOMAIN	vle.neu.edu.ph
-NOERROR	webdisk.neu.edu.ph
-NOERROR	cpcontacts.csd.neu.edu.ph
-NXDOMAIN	ww.neu.edu.ph
-NXDOMAIN	www.videoconf.neu.edu.ph
-NOERROR	cpcalendars.csd.neu.edu.ph
-NOERROR	ccslr.neu.edu.ph
-NOERROR	collegeplesk.neu.edu.ph
-NOERROR	www.neu.edu.ph
-NOERROR	www.csd.neu.edu.ph
-NOERROR	lms.neu.edu.ph
-NOERROR	www.mcle.neu.edu.ph
-NOERROR	www.research.neu.edu.ph
-NOERROR	mcle.neu.edu.ph
-NXDOMAIN	www.vem.neu.edu.ph
-NOERROR	www.ccslr.neu.edu.ph
-NOERROR	videoconf.neu.edu.ph
+www.k12training.neu.edu.ph
+online.neu.edu.ph
+neuvle.neu.edu.ph
+cdrom.neu.edu.ph
+www.chat.neu.edu.ph
+research.neu.edu.ph
+vle2.neu.edu.ph
+sa-basic.lipa.neu.edu.ph
+training.neu.edu.ph
+k12training.neu.edu.ph
+onlineeduc.neu.edu.ph
+www.sa-basic.lipa.neu.edu.ph
+r511.neu.edu.ph
+automate.pamp.neu.edu.ph
+www.cms.neu.edu.ph
+csdvle2.neu.edu.ph
+automate.neu.edu.ph
+automate.gensan.neu.edu.ph
+meet.neu.edu.ph
+sa-basic.neu.edu.ph
+www.sa-basic.pamp.neu.edu.ph
+webdisk.csd.neu.edu.ph
+k-12.neu.edu.ph
+www.csdvle.neu.edu.ph
+www.automate.neu.edu.ph
+cpanel.csd.neu.edu.ph
+www.soir.neu.edu.ph
+www.automate2.neu.edu.ph
+www.neutech.neu.edu.ph
+neutech.neu.edu.ph
+www.r511.neu.edu.ph
+www.training.neu.edu.ph
+www.russianstudies.neu.edu.ph
+www.automate.lipa.neu.edu.ph
+www.automate.pamp.neu.edu.ph
+www.hudyat.neu.edu.ph
+sa-basic.pamp.neu.edu.ph
+college.neu.edu.ph
+chat.neu.edu.ph
+www.press.neu.edu.ph
+automate.lipa.neu.edu.ph
+www.sa-basic.neu.edu.ph
+payment.neu.edu.ph
+press.neu.edu.ph
+webmail.neu.edu.ph
+www.csdbase2.neu.edu.ph
+www.sa-basic.gensan.neu.edu.ph
+www.automate.gensan.neu.edu.ph
+mail.neu.edu.ph
+csdbase.neu.edu.ph
+www.csdvle2.neu.edu.ph
+www.cdrom.neu.edu.ph
+csd.neu.edu.ph
+hudyat.neu.edu.ph
+www.online.neu.edu.ph
+www.onlineeduc.neu.edu.ph
+neu.edu.ph
+www.vle2.neu.edu.ph
+www.collvle.neu.edu.ph
+russianstudies.neu.edu.ph
+www.lms.neu.edu.ph
+csdvle.neu.edu.ph
+csdbase2.neu.edu.ph
+k-12plesk.neu.edu.ph
+sa-basic.gensan.neu.edu.ph
+www.payment.neu.edu.ph
+collvle.neu.edu.ph
+cms.neu.edu.ph
+www.meet.neu.edu.ph
+soir.neu.edu.ph
+automate2.neu.edu.ph
+webdisk.neu.edu.ph
+cpcontacts.csd.neu.edu.ph
+cpcalendars.csd.neu.edu.ph
+ccslr.neu.edu.ph
+collegeplesk.neu.edu.ph
+www.neu.edu.ph
+www.csd.neu.edu.ph
+lms.neu.edu.ph
+www.mcle.neu.edu.ph
+www.research.neu.edu.ph
+mcle.neu.edu.ph
+www.ccslr.neu.edu.ph
+videoconf.neu.edu.ph

@@ -1,232 +1,54 @@
-NOERROR	yjsc.yangtzeu.edu.cn
-NOERROR	photo.yangtzeu.edu.cn
-NOERROR	cdjjh.yangtzeu.edu.cn
-NOERROR	xlzx.yangtzeu.edu.cn
-NOERROR	hgc.yangtzeu.edu.cn
-NOERROR	agri-bio.yangtzeu.edu.cn
-NOERROR	sns.yangtzeu.edu.cn
-NOERROR	bluesky.yangtzeu.edu.cn
-NOERROR	ccas2015.yangtzeu.edu.cn
-NOERROR	yqlab.yangtzeu.edu.cn
-NOERROR	ltc.yangtzeu.edu.cn
-NOERROR	mba.yangtzeu.edu.cn
-NOERROR	sjc.yangtzeu.edu.cn
-NOERROR	yxb.yangtzeu.edu.cn
-NOERROR	jxsx.yangtzeu.edu.cn
-NOERROR	psat.yangtzeu.edu.cn
-NOERROR	fzg.yangtzeu.edu.cn
-NOERROR	zf.yangtzeu.edu.cn
-NOERROR	hbcjyj.yangtzeu.edu.cn
-NOERROR	dqkx.yangtzeu.edu.cn
-NOERROR	dwyz.yangtzeu.edu.cn
-NOERROR	yangtzeu.edu.cn
-NOERROR	yangtze-photo.yangtzeu.edu.cn
-NOERROR	pro.yangtzeu.edu.cn
-NOERROR	cxcy.yangtzeu.edu.cn
-SERVFAIL	hqbzb.yangtzeu.edu.cn
-SERVFAIL	lcyxy2.yangtzeu.edu.cn
-SERVFAIL	cxjd.yangtzeu.edu.cn
-SERVFAIL	fxx.yangtzeu.edu.cn
-SERVFAIL	dangban.yangtzeu.edu.cn
-SERVFAIL	oldwlxy.yangtzeu.edu.cn
-SERVFAIL	jiaoyu.yangtzeu.edu.cn
-SERVFAIL	kxyj.yangtzeu.edu.cn
-NOERROR	med.yangtzeu.edu.cn
-NOERROR	dqhxx.yangtzeu.edu.cn
-NOERROR	development.yangtzeu.edu.cn
-NOERROR	alumui.yangtzeu.edu.cn
-NOERROR	xywh.yangtzeu.edu.cn
-NOERROR	clinic.yangtzeu.edu.cn
-NOERROR	lcyxy.yangtzeu.edu.cn
-NOERROR	jjc.yangtzeu.edu.cn
-NOERROR	mail.yangtzeu.edu.cn
-NOERROR	dns.yangtzeu.edu.cn
-NOERROR	jky.yangtzeu.edu.cn
-NOERROR	3rg.yangtzeu.edu.cn
-NOERROR	gdsx.yangtzeu.edu.cn
-NOERROR	nxy.yangtzeu.edu.cn
-NOERROR	jswm.yangtzeu.edu.cn
-NOERROR	cdst.yangtzeu.edu.cn
-NOERROR	xssw.yangtzeu.edu.cn
-NOERROR	hqjt.yangtzeu.edu.cn
-NOERROR	www100.yangtzeu.edu.cn
-NOERROR	cdjy.yangtzeu.edu.cn
-NOERROR	xnc.yangtzeu.edu.cn
-NOERROR	2012hy.yangtzeu.edu.cn
-NOERROR	bwc.yangtzeu.edu.cn
-NOERROR	jpkc2.yangtzeu.edu.cn
-NOERROR	yx.yangtzeu.edu.cn
-NOERROR	drg.yangtzeu.edu.cn
-SERVFAIL	jtxy.yangtzeu.edu.cn
-SERVFAIL	fsc.yangtzeu.edu.cn
-SERVFAIL	mas.yangtzeu.edu.cn
-SERVFAIL	ns.yangtzeu.edu.cn
-SERVFAIL	yucte.yangtzeu.edu.cn
-SERVFAIL	english.yangtzeu.edu.cn
-SERVFAIL	etc.yangtzeu.edu.cn
-SERVFAIL	hlxy.yangtzeu.edu.cn
-SERVFAIL	gzc.yangtzeu.edu.cn
-SERVFAIL	jwc.yangtzeu.edu.cn
-SERVFAIL	alumni.yangtzeu.edu.cn
-SERVFAIL	www.yangtzeu.edu.cn
-SERVFAIL	hjt.yangtzeu.edu.cn
-SERVFAIL	dwkjsyzx.yangtzeu.edu.cn
-SERVFAIL	dqwl.yangtzeu.edu.cn
-SERVFAIL	xchd.yangtzeu.edu.cn
-SERVFAIL	art.yangtzeu.edu.cn
-SERVFAIL	my.yangtzeu.edu.cn
-SERVFAIL	xxgkwlxy.yangtzeu.edu.cn
-SERVFAIL	hbuog.yangtzeu.edu.cn
-SERVFAIL	uci.yangtzeu.edu.cn
-SERVFAIL	sjy.yangtzeu.edu.cn
-SERVFAIL	emlc.yangtzeu.edu.cn
-SERVFAIL	root.yangtzeu.edu.cn
-SERVFAIL	psy.yangtzeu.edu.cn
-SERVFAIL	www8.yangtzeu.edu.cn
-SERVFAIL	lwh.yangtzeu.edu.cn
-SERVFAIL	ncjj.yangtzeu.edu.cn
-SERVFAIL	reader.yangtzeu.edu.cn
-SERVFAIL	dihua.yangtzeu.edu.cn
-SERVFAIL	ykt.yangtzeu.edu.cn
-SERVFAIL	ybzx.yangtzeu.edu.cn
-SERVFAIL	mks.yangtzeu.edu.cn
-SERVFAIL	wuhan.yangtzeu.edu.cn
-SERVFAIL	manage.yangtzeu.edu.cn
-SERVFAIL	xzxx.yangtzeu.edu.cn
-SERVFAIL	pec.yangtzeu.edu.cn
-SERVFAIL	cjxy.yangtzeu.edu.cn
-SERVFAIL	cs.yangtzeu.edu.cn
-SERVFAIL	hgsy.yangtzeu.edu.cn
-SERVFAIL	adi.yangtzeu.edu.cn
-SERVFAIL	zjgc.yangtzeu.edu.cn
-SERVFAIL	hcicgi.yangtzeu.edu.cn
-SERVFAIL	jpkc.yangtzeu.edu.cn
-SERVFAIL	news2.yangtzeu.edu.cn
-SERVFAIL	gh.yangtzeu.edu.cn
-SERVFAIL	thinkcmf2.yangtzeu.edu.cn
-SERVFAIL	wlxy.yangtzeu.edu.cn
-SERVFAIL	jxyl.yangtzeu.edu.cn
-SERVFAIL	qzlx.yangtzeu.edu.cn
-SERVFAIL	xf.yangtzeu.edu.cn
-SERVFAIL	jdcxjd.yangtzeu.edu.cn
-SERVFAIL	dxxy.yangtzeu.edu.cn
-SERVFAIL	chengjian.yangtzeu.edu.cn
-SERVFAIL	rsc.yangtzeu.edu.cn
-SERVFAIL	hbdct.yangtzeu.edu.cn
-SERVFAIL	jp.yangtzeu.edu.cn
-SERVFAIL	gcxy.yangtzeu.edu.cn
-SERVFAIL	office.yangtzeu.edu.cn
-SERVFAIL	jfxf.yangtzeu.edu.cn
-NOERROR	www3.yangtzeu.edu.cn
-SERVFAIL	edu.yangtzeu.edu.cn
-SERVFAIL	jyxx.yangtzeu.edu.cn
-SERVFAIL	dx.yangtzeu.edu.cn
-SERVFAIL	lcyx.yangtzeu.edu.cn
-SERVFAIL	cnn.yangtzeu.edu.cn
-SERVFAIL	tv.yangtzeu.edu.cn
-SERVFAIL	jwc2.yangtzeu.edu.cn
-SERVFAIL	dxyy.yangtzeu.edu.cn
-SERVFAIL	vote.yangtzeu.edu.cn
-SERVFAIL	ljyjy.yangtzeu.edu.cn
-SERVFAIL	hfzx.yangtzeu.edu.cn
-SERVFAIL	xxgk.yangtzeu.edu.cn
-SERVFAIL	oa.yangtzeu.edu.cn
-SERVFAIL	erp.yangtzeu.edu.cn
-SERVFAIL	part.slu.edujxjy.yangtzeu.edu.cn
-SERVFAIL	fl.yangtzeu.edu.cn
-SERVFAIL	pay.yangtzeu.edu.cn
-SERVFAIL	chu.yangtzeu.edu.cn
-SERVFAIL	archive.yangtzeu.edu.cn
-SERVFAIL	cwc.yangtzeu.edu.cn
-SERVFAIL	eng.yangtzeu.edu.cn
-SERVFAIL	engwind.yangtzeu.edu.cn
-SERVFAIL	sfzx.yangtzeu.edu.cn
-SERVFAIL	pec2.yangtzeu.edu.cn
-SERVFAIL	fcgl.yangtzeu.edu.cn
-SERVFAIL	gbt.yangtzeu.edu.cn
-SERVFAIL	yl.yangtzeu.edu.cn
-SERVFAIL	cdyc.yangtzeu.edu.cn
-NOERROR	jishe.yangtzeu.edu.cn
-SERVFAIL	123.yangtzeu.edu.cn
-SERVFAIL	agri.yangtzeu.edu.cn
-SERVFAIL	lcjn.yangtzeu.edu.cn
-SERVFAIL	ttc.yangtzeu.edu.cn
-SERVFAIL	sxnc.yangtzeu.edu.cn
-SERVFAIL	jsfz.yangtzeu.edu.cn
-SERVFAIL	home.yangtzeu.edu.cn
-SERVFAIL	dns3.yangtzeu.edu.cn
-SERVFAIL	ftp.yangtzeu.edu.cn
-SERVFAIL	1658.yangtzeu.edu.cn
-SERVFAIL	zzb.yangtzeu.edu.cn
-SERVFAIL	ztbgl.yangtzeu.edu.cn
-SERVFAIL	jwc3.yangtzeu.edu.cn
-SERVFAIL	amc.yangtzeu.edu.cn
-SERVFAIL	gpjh.yangtzeu.edu.cn
-SERVFAIL	radio.yangtzeu.edu.cn
-SERVFAIL	zszc.yangtzeu.edu.cn
-SERVFAIL	gs.yangtzeu.edu.cn
-SERVFAIL	cxy.yangtzeu.edu.cn
-SERVFAIL	yqktlab.yangtzeu.edu.cn
-SERVFAIL	jxjy2.yangtzeu.edu.cn
-SERVFAIL	lib.yangtzeu.edu.cn
-SERVFAIL	shuxue.yangtzeu.edu.cn
-SERVFAIL	jjxy.yangtzeu.edu.cn
-SERVFAIL	lzc.yangtzeu.edu.cn
-SERVFAIL	qks.yangtzeu.edu.cn
-SERVFAIL	chem.yangtzeu.edu.cn
-SERVFAIL	tyxy.yangtzeu.edu.cn
-SERVFAIL	zhongwen.yangtzeu.edu.cn
-SERVFAIL	dqhx.yangtzeu.edu.cn
-SERVFAIL	sky.yangtzeu.edu.cn
-SERVFAIL	lflc.yangtzeu.edu.cn
-SERVFAIL	dongke.yangtzeu.edu.cn
-SERVFAIL	gjxy.yangtzeu.edu.cn
-SERVFAIL	ygb.yangtzeu.edu.cn
-SERVFAIL	new2012.yangtzeu.edu.cn
-SERVFAIL	qccd.yangtzeu.edu.cn
-SERVFAIL	2fwww.yangtzeu.edu.cn
-SERVFAIL	zyz.yangtzeu.edu.cn
-SERVFAIL	ip.yangtzeu.edu.cn
-SERVFAIL	kletor.yangtzeu.edu.cn
-SERVFAIL	email.yangtzeu.edu.cn
-SERVFAIL	whpxzx.yangtzeu.edu.cn
-SERVFAIL	ddh.yangtzeu.edu.cn
-SERVFAIL	seat.yangtzeu.edu.cn
-SERVFAIL	yscm.yangtzeu.edu.cn
-SERVFAIL	xq8.yangtzeu.edu.cn
-SERVFAIL	dzzy.yangtzeu.edu.cn
-SERVFAIL	ib.yangtzeu.edu.cn
-SERVFAIL	cdqn.yangtzeu.edu.cn
-SERVFAIL	bbs.yangtzeu.edu.cn
-SERVFAIL	jxjy.yangtzeu.edu.cn
-SERVFAIL	cllx.yangtzeu.edu.cn
-SERVFAIL	tzb.yangtzeu.edu.cn
-SERVFAIL	hzjl.yangtzeu.edu.cn
-SERVFAIL	nic.yangtzeu.edu.cn
-SERVFAIL	dsz.yangtzeu.edu.cn
-SERVFAIL	xsh.yangtzeu.edu.cn
-SERVFAIL	phylab.yangtzeu.edu.cn
-SERVFAIL	vote2.yangtzeu.edu.cn
-SERVFAIL	lxsy.yangtzeu.edu.cn
-SERVFAIL	ceec.yangtzeu.edu.cn
-SERVFAIL	jsjfwb.yangtzeu.edu.cn
-SERVFAIL	login.yangtzeu.edu.cn
-SERVFAIL	calis.yangtzeu.edu.cn
-SERVFAIL	sdny.yangtzeu.edu.cn
-SERVFAIL	online.yangtzeu.edu.cn
-SERVFAIL	bkpj.yangtzeu.edu.cn
-SERVFAIL	wlxy2.yangtzeu.edu.cn
-SERVFAIL	chenjian.yangtzeu.edu.cn
-SERVFAIL	hbgxyz.yangtzeu.edu.cn
-SERVFAIL	cas.yangtzeu.edu.cn
-SERVFAIL	jw.yangtzeu.edu.cn
-SERVFAIL	news.yangtzeu.edu.cn
-SERVFAIL	hwwang.yangtzeu.edu.cn
-SERVFAIL	xmb.yangtzeu.edu.cn
-SERVFAIL	xcb.yangtzeu.edu.cn
-SERVFAIL	dns2.yangtzeu.edu.cn
-SERVFAIL	jxgc.yangtzeu.edu.cn
-SERVFAIL	gdwx.yangtzeu.edu.cn
-SERVFAIL	jzhssc.yangtzeu.edu.cn
-NOERROR	www2.yangtzeu.edu.cn
-SERVFAIL	jjglxy.yangtzeu.edu.cn
+yjsc.yangtzeu.edu.cn
+photo.yangtzeu.edu.cn
+cdjjh.yangtzeu.edu.cn
+xlzx.yangtzeu.edu.cn
+hgc.yangtzeu.edu.cn
+agri-bio.yangtzeu.edu.cn
+sns.yangtzeu.edu.cn
+bluesky.yangtzeu.edu.cn
+ccas2015.yangtzeu.edu.cn
+yqlab.yangtzeu.edu.cn
+ltc.yangtzeu.edu.cn
+mba.yangtzeu.edu.cn
+sjc.yangtzeu.edu.cn
+yxb.yangtzeu.edu.cn
+jxsx.yangtzeu.edu.cn
+psat.yangtzeu.edu.cn
+fzg.yangtzeu.edu.cn
+zf.yangtzeu.edu.cn
+hbcjyj.yangtzeu.edu.cn
+dqkx.yangtzeu.edu.cn
+dwyz.yangtzeu.edu.cn
+yangtzeu.edu.cn
+yangtze-photo.yangtzeu.edu.cn
+pro.yangtzeu.edu.cn
+cxcy.yangtzeu.edu.cn
+med.yangtzeu.edu.cn
+dqhxx.yangtzeu.edu.cn
+development.yangtzeu.edu.cn
+alumui.yangtzeu.edu.cn
+xywh.yangtzeu.edu.cn
+clinic.yangtzeu.edu.cn
+lcyxy.yangtzeu.edu.cn
+jjc.yangtzeu.edu.cn
+mail.yangtzeu.edu.cn
+dns.yangtzeu.edu.cn
+jky.yangtzeu.edu.cn
+3rg.yangtzeu.edu.cn
+gdsx.yangtzeu.edu.cn
+nxy.yangtzeu.edu.cn
+jswm.yangtzeu.edu.cn
+cdst.yangtzeu.edu.cn
+xssw.yangtzeu.edu.cn
+hqjt.yangtzeu.edu.cn
+www100.yangtzeu.edu.cn
+cdjy.yangtzeu.edu.cn
+xnc.yangtzeu.edu.cn
+2012hy.yangtzeu.edu.cn
+bwc.yangtzeu.edu.cn
+jpkc2.yangtzeu.edu.cn
+yx.yangtzeu.edu.cn
+drg.yangtzeu.edu.cn
+www3.yangtzeu.edu.cn
+jishe.yangtzeu.edu.cn
+www2.yangtzeu.edu.cn

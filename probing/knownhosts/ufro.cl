@@ -1,3471 +1,3174 @@
-NOERROR	quilque.med.ufro.cl
-NOERROR	pc26.riie.ufro.cl
-NOERROR	var2.dmat.ufro.cl
-NOERROR	adm21.daye.ufro.cl
-NOERROR	eaqueve.dim.ufro.cl
-NOERROR	cre02.admcen.ufro.cl
-NOERROR	bib47.bib.ufro.cl
-NOERROR	r207ip81.ufro.cl
-NOERROR	credence.inele.ufro.cl
-NOERROR	jbustama.dinfo.ufro.cl
-NOERROR	caja3.admcen.ufro.cl
-NOERROR	cmcc103.cmcc.ufro.cl
-NOERROR	memo102.inele.ufro.cl
-NOERROR	jvel.admcen.ufro.cl
-NOERROR	secrecar.psico.ufro.cl
-NOERROR	socio06.edu.ufro.cl
-NOERROR	en.investigacion.ufro.cl
-NOERROR	period21.period.ufro.cl
-NOERROR	ociv114.fia.ufro.cl
-NOERROR	ssocial10.edu.ufro.cl
-NOERROR	agro137.fagro.ufro.cl
-NOERROR	socio04.edu.ufro.cl
-NOERROR	campusvirtual2.ufro.cl
-NOERROR	pc13.riie.ufro.cl
-NOERROR	wl65.ufro.cl
-NOERROR	hualpin.med.ufro.cl
-NOERROR	router1.dis.ufro.cl
-NOERROR	ingmat72.ingmat.ufro.cl
-NOERROR	cafecientifico.ufro.cl
-NOERROR	dge197.admcen.ufro.cl
-NOERROR	jsaiz.psico.ufro.cl
-NOERROR	aavila.dmat.ufro.cl
-NOERROR	gim198.dinfo.ufro.cl
-NOERROR	csquim96.csquim.ufro.cl
-NOERROR	dievirtual.ufro.cl
-NOERROR	iei182.iei.ufro.cl
-NOERROR	r207ip40.ufro.cl
-NOERROR	acadvrip2.admcen.ufro.cl
-NOERROR	wl62.ufro.cl
-NOERROR	seduc.edu.ufro.cl
-NOERROR	pc17.riie.ufro.cl
-NOERROR	labgeo.ufro.cl
-NOERROR	wl203.inele.ufro.cl
-NOERROR	cprat86.ufro.cl
-NOERROR	r207ip90.ufro.cl
-NOERROR	agri288.agroi.ufro.cl
-NOERROR	jornadaspregrado.ufro.cl
-NOERROR	gatemed.med.ufro.cl
-NOERROR	oed.edu.ufro.cl
-NOERROR	forcont01.admcen.ufro.cl
-NOERROR	temuco31.dis.ufro.cl
-NOERROR	ingles07.edu.ufro.cl
-NOERROR	terc04.edu.ufro.cl
-NOERROR	wl59.ufro.cl
-NOERROR	agrdoc01.agroi.ufro.cl
-NOERROR	ssuelos.agroi.ufro.cl
-NOERROR	pc97.riie.ufro.cl
-NOERROR	pc68.riie.ufro.cl
-NOERROR	bibliotecas.ufro.cl
-NOERROR	teleprr.ufro.cl
-NOERROR	labo13.edu.ufro.cl
-NOERROR	adm9.daye.ufro.cl
-NOERROR	cbs.inele.ufro.cl
-NOERROR	umatic29.ufro.cl
-NOERROR	radal.med.ufro.cl
-NOERROR	frx.dcfis.ufro.cl
-NOERROR	agri2105.agroi.ufro.cl
-NOERROR	seguridad2.ufro.cl
-NOERROR	csquim72.csquim.ufro.cl
-NOERROR	umatic09.ufro.cl
-NOERROR	r207ip12.ufro.cl
-NOERROR	r207ip151.ufro.cl
-NOERROR	fone.edu.ufro.cl
-NOERROR	wifiinele.ufro.cl
-NOERROR	wifiincuba2.ufro.cl
-NOERROR	salara2002.ufro.cl
-NOERROR	golombe.admcen.ufro.cl
-NOERROR	csprof03.edu.ufro.cl
-NOERROR	cre08.admcen.ufro.cl
-NOERROR	antilhue.med.ufro.cl
-NOERROR	gatecam.ufro.cl
-NOERROR	eduardot.psico.ufro.cl
-NOERROR	gatecomp1.comp.ufro.cl
-NXDOMAIN	ad-gentes.ufro.cl
-NOERROR	terc09.edu.ufro.cl
-NOERROR	r207ip91.ufro.cl
-NOERROR	cprat90.ufro.cl
-NOERROR	fc05.ufro.cl
-NOERROR	gim195.dinfo.ufro.cl
-NOERROR	r207ip190.ufro.cl
-NOERROR	cec.ufro.cl
-NOERROR	agri2101.agroi.ufro.cl
-NOERROR	pargua.med.ufro.cl
-NOERROR	geometryrc.ufro.cl
-NOERROR	cre01.admcen.ufro.cl
-NOERROR	wl58.ufro.cl
-NOERROR	ctt.ufro.cl
-NOERROR	magali.dis.ufro.cl
-NOERROR	trawun.ufro.cl
-SERVFAIL	r207ip60.ufro.cl
-NOERROR	contab02.admcen.ufro.cl
-SERVFAIL	dinamic19.ider.ufro.cl
-NOERROR	r207ip157.ufro.cl
-NOERROR	durazno.agroi.ufro.cl
-NOERROR	bibliotecadigital.ufro.cl
-NOERROR	acadvrip1.admcen.ufro.cl
-NOERROR	pvargas.agroi.ufro.cl
-NOERROR	caja2.admcen.ufro.cl
-NOERROR	ll09.edu.ufro.cl
-SERVFAIL	piri.inele.ufro.cl
-NOERROR	umatic27.ufro.cl
-NOERROR	anat37.med.ufro.cl
-NXDOMAIN	roble.iie.ufro.cl
-NOERROR	agro133.fagro.ufro.cl
-NOERROR	caburga.med.ufro.cl
-NOERROR	salad2.ufro.cl
-NOERROR	r207ip95.ufro.cl
-NOERROR	gatecsbas.ufro.cl
-NOERROR	villarrica.med.ufro.cl
-NOERROR	iei178.iei.ufro.cl
-NOERROR	pe13-111.admcen.ufro.cl
-NOERROR	bib10.bib.ufro.cl
-NOERROR	agri274.agroi.ufro.cl
-NOERROR	gateiie3.ufro.cl
-SERVFAIL	malal.dinfo.ufro.cl
-SERVFAIL	pc-02.dmat.ufro.cl
-NOERROR	hmercado.edu.ufro.cl
-NOERROR	iei170.iei.ufro.cl
-SERVFAIL	salvo.dmat.ufro.cl
-NOERROR	sala16.comp.ufro.cl
-SERVFAIL	dinamic15.ider.ufro.cl
-NOERROR	ingles10.edu.ufro.cl
-NOERROR	r207ip15.ufro.cl
-NOERROR	dvargas.dcfis.ufro.cl
-NOERROR	bib57.bib.ufro.cl
-NOERROR	www2.ufro.cl
-NOERROR	dge199.admcen.ufro.cl
-NOERROR	nutri249.med.ufro.cl
-NOERROR	pc-14.dmat.ufro.cl
-NOERROR	pagoweb.ufro.cl
-NOERROR	r207ip92.ufro.cl
-NOERROR	r207ip135.ufro.cl
-NOERROR	period24.period.ufro.cl
-NOERROR	ociv112.fia.ufro.cl
-NOERROR	labproveg.fagro.ufro.cl
-NOERROR	r207ip164.ufro.cl
-NOERROR	r207ip180.ufro.cl
-NOERROR	contab06.admcen.ufro.cl
-NOERROR	wl19.inele.ufro.cl
-NOERROR	gimbello.edu.ufro.cl
-NOERROR	sim169.dis.ufro.cl
-NOERROR	salar.admcen.ufro.cl
-NOERROR	notebook4.inele.ufro.cl
-NOERROR	agrdoc06.agroi.ufro.cl
-NOERROR	educacionyhumanidades.ufro.cl
-NOERROR	cuar08.edu.ufro.cl
-NOERROR	salae207.edu.ufro.cl
-NOERROR	bib53.bib.ufro.cl
-NOERROR	gim227.dinfo.ufro.cl
-SERVFAIL	ccastill.admcen.ufro.cl
-NOERROR	nut195.med.ufro.cl
-NOERROR	naranjo.med.ufro.cl
-SERVFAIL	secacad.fia.ufro.cl
-NOERROR	labinfo1.fagro.ufro.cl
-NOERROR	chaiten.med.ufro.cl
-NOERROR	leticia.dcfis.ufro.cl
-SERVFAIL	dinamic5.ider.ufro.cl
-NOERROR	lalim.agroi.ufro.cl
-NOERROR	nalcahue.med.ufro.cl
-SERVFAIL	1lab203.dis.ufro.cl
-NOERROR	dinfo.ufro.cl
-NOERROR	terc21.edu.ufro.cl
-NOERROR	difuc1.admcen.ufro.cl
-SERVFAIL	margarita.med.ufro.cl
-NOERROR	odontologia.ufro.cl
-NOERROR	labo6.edu.ufro.cl
-NOERROR	agri275.agroi.ufro.cl
-NOERROR	extranet.ufro.cl
-NOERROR	nahuelbuta.cmcc.ufro.cl
-NOERROR	agri279.agroi.ufro.cl
-NOERROR	linao.med.ufro.cl
-NOERROR	temuco23.dis.ufro.cl
-NOERROR	r207ip132.ufro.cl
-NOERROR	ssocial08.edu.ufro.cl
-NOERROR	ingmat65.ingmat.ufro.cl
-NOERROR	pedagogiaingles.ufro.cl
-NOERROR	wifid.ufro.cl
-NOERROR	cipnoticias.ufro.cl
-NOERROR	r207ip242.ufro.cl
-NOERROR	aarroyo.admcen.ufro.cl
-NOERROR	pera.agroi.ufro.cl
-NOERROR	cprat47.ufro.cl
-NXDOMAIN	prr.dinfo.ufro.cl
-NOERROR	jgomez.dmat.ufro.cl
-NOERROR	repo-odontologia.ufro.cl
-NOERROR	viejita.inele.ufro.cl
-NOERROR	desarrollodocente.ufro.cl
-NOERROR	roble.med.ufro.cl
-NOERROR	quin11.edu.ufro.cl
-NOERROR	labo4.edu.ufro.cl
-NOERROR	apoyo.fia.ufro.cl
-NXDOMAIN	cgna78.cmccm.ufro.cl
-NOERROR	gim248.dinfo.ufro.cl
-SERVFAIL	pe13-115.admcen.ufro.cl
-NOERROR	copihue.med.ufro.cl
-NOERROR	pe12-124.admcen.ufro.cl
-NOERROR	temuco08.dis.ufro.cl
-NOERROR	pc63.riie.ufro.cl
-NOERROR	www.enefa2019.ufro.cl
-NOERROR	alagos.fia.ufro.cl
-NOERROR	tesistas03.dinfo.ufro.cl
-NOERROR	presup07.admcen.ufro.cl
-NXDOMAIN	ociv120.fia.ufro.cl
-NOERROR	router4.dis.ufro.cl
-NOERROR	gateingles.ufro.cl
-NOERROR	moviliza.ufro.cl
-NOERROR	adm11.daye.ufro.cl
-NOERROR	dge210.admcen.ufro.cl
-NOERROR	sviva.med.ufro.cl
-NOERROR	ofvincu.med.ufro.cl
-NOERROR	agri292.agroi.ufro.cl
-NOERROR	ingmat66.ingmat.ufro.cl
-NOERROR	wl178.inele.ufro.cl
-NOERROR	lrehbein.psico.ufro.cl
-NOERROR	observatoriogenerosalud.ufro.cl
-NOERROR	fisica.ufro.cl
-NOERROR	csquim81.csquim.ufro.cl
-NOERROR	www.iccc15.ufro.cl
-NOERROR	braulio.inele.ufro.cl
-NOERROR	agro156.fagro.ufro.cl
-NOERROR	sig134.dis.ufro.cl
-NOERROR	diquim.agroi.ufro.cl
-NOERROR	r207ip200.ufro.cl
-NOERROR	e221.edu.ufro.cl
-NOERROR	sala35.comp.ufro.cl
-NOERROR	gim203.dinfo.ufro.cl
-NOERROR	cidi.ufro.cl
-NOERROR	lmunoz.edu.ufro.cl
-NOERROR	caja1.admcen.ufro.cl
-NOERROR	fica.ufro.cl
-NOERROR	r207ip167.ufro.cl
-NOERROR	pc55.riie.ufro.cl
-NOERROR	rcandia.admcen.ufro.cl
-NOERROR	fresia.dcfis.ufro.cl
-NOERROR	rbaeza.dmat.ufro.cl
-NOERROR	router3.dis.ufro.cl
-NOERROR	contab01.admcen.ufro.cl
-NOERROR	sig130.dis.ufro.cl
-NOERROR	cuar04.edu.ufro.cl
-NOERROR	salat102.fagro.ufro.cl
-NOERROR	huilohuilo.cmcc.ufro.cl
-NOERROR	postgrado.med.ufro.cl
-NOERROR	jmanque.dinfo.ufro.cl
-SERVFAIL	sistemas.dis.ufro.cl
-NXDOMAIN	lautaro2.iie.ufro.cl
-NXDOMAIN	fw.ufro.cl
-NOERROR	umatic35.ufro.cl
-NOERROR	adm13.daye.ufro.cl
-NOERROR	leng12.edu.ufro.cl
-NOERROR	umatic18.ufro.cl
-NOERROR	ciruelo.med.ufro.cl
-NOERROR	agri2109.agroi.ufro.cl
-NOERROR	pc22.riie.ufro.cl
-NOERROR	ima82.ufro.cl
-NOERROR	lila.med.ufro.cl
-NOERROR	cprat76.ufro.cl
-NOERROR	cipres.med.ufro.cl
-NOERROR	socio03.edu.ufro.cl
-NOERROR	sala61.comp.ufro.cl
-NOERROR	kultrun.dinfo.ufro.cl
-NOERROR	www.edu.ufro.cl
-NOERROR	r207ip63.ufro.cl
-NOERROR	r207ip117.ufro.cl
-NOERROR	r207ip47.ufro.cl
-SERVFAIL	static5.ider.ufro.cl
-NOERROR	llaima.med.ufro.cl
-NOERROR	wl220.inele.ufro.cl
-NOERROR	r207ip143.ufro.cl
-NOERROR	incubatec.ufro.cl
-NOERROR	pina.agroi.ufro.cl
-NOERROR	ltraub.dmat.ufro.cl
-NOERROR	educ2.edu.ufro.cl
-NOERROR	encino.med.ufro.cl
-NOERROR	www.cienciasocialesaplicadas.ufro.cl
-NOERROR	pe13-114.admcen.ufro.cl
-NOERROR	pc-13.dmat.ufro.cl
-NOERROR	crisantemo.med.ufro.cl
-NOERROR	dirdim.dim.ufro.cl
-NOERROR	cprat75.ufro.cl
-NOERROR	ldap-nodo1.dinfo.ufro.cl
-NOERROR	r207ip51.ufro.cl
-NOERROR	cprat96.ufro.cl
-NOERROR	cprat105.ufro.cl
-SERVFAIL	dinamic9.ider.ufro.cl
-SERVFAIL	panol.dcfis.ufro.cl
-NXDOMAIN	www.gruluf.cmcc.ufro.cl
-NOERROR	2lab43.daye.ufro.cl
-NOERROR	radicchio.agroi.ufro.cl
-NOERROR	acastro.dinfo.ufro.cl
-NOERROR	profeta.inele.ufro.cl
-NOERROR	w03.admcen.ufro.cl
-NOERROR	sfs132.dis.ufro.cl
-NXDOMAIN	dirgor.ufro.cl
-NOERROR	sim174.dis.ufro.cl
-NOERROR	imprenta2.admcen.ufro.cl
-NOERROR	gim226.dinfo.ufro.cl
-NOERROR	cprat.ufro.cl
-NOERROR	lts.ufro.cl
-NOERROR	diseno03.edu.ufro.cl
-NXDOMAIN	captren.med.ufro.cl
-NOERROR	r207ip80.ufro.cl
-SERVFAIL	dinamic17.ider.ufro.cl
-NOERROR	agri269.agroi.ufro.cl
-NOERROR	gim242.dinfo.ufro.cl
-NOERROR	bambam.inele.ufro.cl
-NOERROR	trancura.med.ufro.cl
-NOERROR	cprat89.ufro.cl
-NOERROR	r207ip106.ufro.cl
-NOERROR	naros2.inele.ufro.cl
-NOERROR	temuco11.dis.ufro.cl
-NOERROR	campusvirtual.ufro.cl
-NOERROR	mitrauquen.med.ufro.cl
-NOERROR	cprat24.ufro.cl
-NOERROR	bib14.bib.ufro.cl
-SERVFAIL	papaya.med.ufro.cl
-NOERROR	webufro-edicion.ufro.cl
-NOERROR	wl187.inele.ufro.cl
-NOERROR	ayacara.med.ufro.cl
-NOERROR	paau.ufro.cl
-NOERROR	cprat97.ufro.cl
-NOERROR	labo9.edu.ufro.cl
-NOERROR	fc08.ufro.cl
-SERVFAIL	proyectos.agroi.ufro.cl
-NOERROR	wifiinele1.ufro.cl
-NOERROR	icfisica.ufro.cl
-NOERROR	diper03.admcen.ufro.cl
-NOERROR	gim223.dinfo.ufro.cl
-NOERROR	temuco27.dis.ufro.cl
-NOERROR	fc32.ufro.cl
-NOERROR	1lab210.dis.ufro.cl
-NOERROR	secpifip.edu.ufro.cl
-NOERROR	catemu.ufro.cl
-NOERROR	finanzasext.ufro.cl
-NOERROR	ldap-ufro.dinfo.ufro.cl
-NOERROR	salad109.ufro.cl
-NOERROR	secpre2.fia.ufro.cl
-NOERROR	feufro02.ufro.cl
-NOERROR	ralco.med.ufro.cl
-NOERROR	euquiche.agroi.ufro.cl
-NOERROR	vilcun.dis.ufro.cl
-NOERROR	gim243.dinfo.ufro.cl
-NOERROR	invenp01.admcen.ufro.cl
-NXDOMAIN	ftp.bsd.ufro.cl
-NOERROR	wl21.inele.ufro.cl
-NOERROR	vrac02.admcen.ufro.cl
-NOERROR	notemag.edu.ufro.cl
-NOERROR	mavera.admcen.ufro.cl
-NOERROR	cprat123.ufro.cl
-NOERROR	gateiei.ufro.cl
-NOERROR	polcura.med.ufro.cl
-NOERROR	agro131.fagro.ufro.cl
-NOERROR	salad111.ufro.cl
-NOERROR	agri266.agroi.ufro.cl
-NOERROR	clinicamatematica.ufro.cl
-NOERROR	centrofrontera.ufro.cl
-NOERROR	afunquelen.med.ufro.cl
-NOERROR	fc38.ufro.cl
-NOERROR	balboa.med.ufro.cl
-NOERROR	pucatrihue.dcfis.ufro.cl
-NOERROR	quin12.edu.ufro.cl
-NOERROR	wifimed01.med.ufro.cl
-NOERROR	intranet.ufro.cl
-NOERROR	labg03.edu.ufro.cl
-NOERROR	verti08.ufro.cl
-NOERROR	adm15.daye.ufro.cl
-SERVFAIL	diper05.admcen.ufro.cl
-NOERROR	r207ip253.ufro.cl
-NOERROR	sala45.comp.ufro.cl
-NOERROR	labmec02.dim.ufro.cl
-NOERROR	orades.ufro.cl
-NOERROR	verti10.ufro.cl
-NOERROR	pc94.riie.ufro.cl
-NOERROR	vrac08.admcen.ufro.cl
-NOERROR	cprat63.ufro.cl
-NOERROR	www.iie.ufro.cl
-NOERROR	angol.med.ufro.cl
-NOERROR	fis53.dcfis.ufro.cl
-NOERROR	dir.agroi.ufro.cl
-SERVFAIL	caagrono.fagro.ufro.cl
-NOERROR	fc25.ufro.cl
-SERVFAIL	labcap203.admcen.ufro.cl
-NOERROR	salara2005.ufro.cl
-NOERROR	queltehue.dinfo.ufro.cl
-NOERROR	cprat32.ufro.cl
-NOERROR	lilium.med.ufro.cl
-NOERROR	ingles06.edu.ufro.cl
-NOERROR	georgeo.agroi.ufro.cl
-NOERROR	tux.cmcc.ufro.cl
-NOERROR	verti05.ufro.cl
-NOERROR	gim221.dinfo.ufro.cl
-NOERROR	pellahuen.med.ufro.cl
-NOERROR	fudea170.admcen.ufro.cl
-NOERROR	ima70.ufro.cl
-NOERROR	umatic14.ufro.cl
-NOERROR	r207ip171.ufro.cl
-NOERROR	conveniointernacionalizacion.ufro.cl
-NOERROR	cprat43.ufro.cl
-NOERROR	huirahueye.med.ufro.cl
-NOERROR	agri2108.agroi.ufro.cl
-NOERROR	sim172.dis.ufro.cl
-NOERROR	chilecompra2.admcen.ufro.cl
-NOERROR	educacion.ufro.cl
-NOERROR	salaszoom.ufro.cl
-NOERROR	sala32.comp.ufro.cl
-NOERROR	wifilbm.ufro.cl
-SERVFAIL	sala60.comp.ufro.cl
-NOERROR	congresopostgrado.ufro.cl
-NOERROR	2lab47.daye.ufro.cl
-NOERROR	portautic.admcen.ufro.cl
-NOERROR	sim170.dis.ufro.cl
-NOERROR	dinfodrive.ufro.cl
-NOERROR	r207ip50.ufro.cl
-NOERROR	wifimed06.med.ufro.cl
-NOERROR	trupan.med.ufro.cl
-NOERROR	wmoscoso.dmat.ufro.cl
-NOERROR	dcardena.admcen.ufro.cl
-NOERROR	magrecnat.ufro.cl
-NOERROR	lsuelos.agroi.ufro.cl
-NOERROR	wifi2.inele.ufro.cl
-NOERROR	fudea169.admcen.ufro.cl
-NOERROR	pe13-110.admcen.ufro.cl
-NOERROR	quin31.edu.ufro.cl
-NOERROR	r207ip22.ufro.cl
-NOERROR	cprat121.ufro.cl
-NOERROR	pc-04.dmat.ufro.cl
-NOERROR	agri267.agroi.ufro.cl
-NOERROR	pc71.riie.ufro.cl
-NOERROR	r207ip121.ufro.cl
-NOERROR	huepil.med.ufro.cl
-NOERROR	wl212.inele.ufro.cl
-NOERROR	cprat83.ufro.cl
-NOERROR	fc14.ufro.cl
-NOERROR	cprat44.ufro.cl
-SERVFAIL	inele.ufro.cl
-NOERROR	pc75.riie.ufro.cl
-SERVFAIL	csquim68.csquim.ufro.cl
-NOERROR	r207ip184.ufro.cl
-NOERROR	r207ip202.ufro.cl
-NOERROR	fudea163.admcen.ufro.cl
-NOERROR	quin21.edu.ufro.cl
-NOERROR	wifi6.inele.ufro.cl
-NOERROR	r207ip65.ufro.cl
-NOERROR	ldap-nodo2.dinfo.ufro.cl
-NOERROR	troquil.cmcc.ufro.cl
-SERVFAIL	bib55.bib.ufro.cl
-NOERROR	aprendizajevirtual.ufro.cl
-NOERROR	magda.agroi.ufro.cl
-NOERROR	last.dmat.ufro.cl
-NOERROR	chilecompra6.admcen.ufro.cl
-NOERROR	iei187.iei.ufro.cl
-NOERROR	cprat82.ufro.cl
-NOERROR	pe13-113.admcen.ufro.cl
-NOERROR	dge220.admcen.ufro.cl
-NOERROR	ll05.edu.ufro.cl
-NOERROR	labcap194.admcen.ufro.cl
-NOERROR	mroman.psico.ufro.cl
-NOERROR	period20.period.ufro.cl
-NOERROR	iei143.iei.ufro.cl
-NOERROR	rector4.admcen.ufro.cl
-NOERROR	iei134.iei.ufro.cl
-NOERROR	op194.dis.ufro.cl
-NOERROR	dim.ufro.cl
-NOERROR	r207ip103.ufro.cl
-NOERROR	gatenat01.admcen.ufro.cl
-NOERROR	csquim106.csquim.ufro.cl
-NOERROR	quin08.edu.ufro.cl
-NOERROR	cprat110.ufro.cl
-NOERROR	cprat98.ufro.cl
-NOERROR	labo16.edu.ufro.cl
-NOERROR	devfin02.admcen.ufro.cl
-SERVFAIL	oregon.med.ufro.cl
-SERVFAIL	daye.ufro.cl
-NOERROR	umatic11.ufro.cl
-NOERROR	pulul.med.ufro.cl
-NOERROR	wificft1.ufro.cl
-NOERROR	wifiquim.ufro.cl
-NOERROR	dge216.admcen.ufro.cl
-NOERROR	ima66.ufro.cl
-NOERROR	universitarios.ufro.cl
-NOERROR	csquim71.csquim.ufro.cl
-NOERROR	ociv99.fia.ufro.cl
-NOERROR	dirplan9.admcen.ufro.cl
-NOERROR	rihue.med.ufro.cl
-NOERROR	contr06.admcen.ufro.cl
-NOERROR	bib54.bib.ufro.cl
-NOERROR	fudea.ufro.cl
-NOERROR	ingecomer2.fia.ufro.cl
-NOERROR	cinteg05.admcen.ufro.cl
-NOERROR	ima86.ufro.cl
-NOERROR	uniej.ufro.cl
-NOERROR	srv-vinculacion.ufro.cl
-SERVFAIL	agrdoc08.agroi.ufro.cl
-NOERROR	2lab49.daye.ufro.cl
-NOERROR	gim214.dinfo.ufro.cl
-NOERROR	telemedicina.ufro.cl
-NOERROR	r207ip209.ufro.cl
-NOERROR	sig137.dis.ufro.cl
-NOERROR	fc06.ufro.cl
-NOERROR	gor50.ufro.cl
-NOERROR	tele172.dis.ufro.cl
-NOERROR	araucaria.med.ufro.cl
-NOERROR	eval04.admcen.ufro.cl
-NOERROR	laraquete.med.ufro.cl
-SERVFAIL	dinamic7.ider.ufro.cl
-NOERROR	sala20.comp.ufro.cl
-NOERROR	decano.fia.ufro.cl
-NOERROR	gatemat.ufro.cl
-NOERROR	ociv102.fia.ufro.cl
-NXDOMAIN	quipue.med.ufro.cl
-NOERROR	gatemec.ufro.cl
-NOERROR	igor.dcfis.ufro.cl
-NOERROR	laser.cmcc.ufro.cl
-NOERROR	ociv121.fia.ufro.cl
-NOERROR	srvfica.ufro.cl
-NOERROR	agro163.fagro.ufro.cl
-SERVFAIL	dinamic2.ider.ufro.cl
-NOERROR	wifimed10.med.ufro.cl
-NOERROR	pc58.riie.ufro.cl
-NOERROR	casino01.ufro.cl
-NOERROR	1lab202.dis.ufro.cl
-NOERROR	iei137.iei.ufro.cl
-NOERROR	umatic26.ufro.cl
-NOERROR	foto.ufro.cl
-NOERROR	teledinfo.ufro.cl
-NOERROR	pc57.riie.ufro.cl
-NOERROR	r207ip52.ufro.cl
-NOERROR	iei130.iei.ufro.cl
-NOERROR	temuco24.dis.ufro.cl
-SERVFAIL	dinamic20.ider.ufro.cl
-NOERROR	pc-01.dmat.ufro.cl
-NOERROR	sala26.comp.ufro.cl
-NOERROR	forcont02.admcen.ufro.cl
-SERVFAIL	dinamic12.ider.ufro.cl
-NOERROR	r207ip31.ufro.cl
-NOERROR	picoiquen.med.ufro.cl
-NOERROR	labdie11.inele.ufro.cl
-NOERROR	r207ip35.ufro.cl
-NOERROR	diseno06.edu.ufro.cl
-NXDOMAIN	red2pc01.iie.ufro.cl
-NXDOMAIN	araucaria.iie.ufro.cl
-NOERROR	vpn.ufro.cl
-NOERROR	diseno05.edu.ufro.cl
-NOERROR	csquim95.csquim.ufro.cl
-NOERROR	catagroi.ufro.cl
-NOERROR	sim176.dis.ufro.cl
-NOERROR	liquine.med.ufro.cl
-NOERROR	r207ip178.ufro.cl
-NOERROR	ll03.edu.ufro.cl
-NOERROR	puesco.med.ufro.cl
-NOERROR	cmcc93.cmcc.ufro.cl
-NOERROR	ramtun2.ufro.cl
-NOERROR	secproyectos.agroi.ufro.cl
-NOERROR	agri281.agroi.ufro.cl
-NOERROR	doc78.dim.ufro.cl
-NOERROR	presup08.admcen.ufro.cl
-NOERROR	wl55.ufro.cl
-NOERROR	r207ip218.ufro.cl
-NOERROR	temuco09.dis.ufro.cl
-NOERROR	senadis.ufro.cl
-NOERROR	huichahue.med.ufro.cl
-NOERROR	mooc.ufro.cl
-NOERROR	well.ufro.cl
-NOERROR	diseno02.edu.ufro.cl
-NOERROR	trolon2.ufro.cl
-NOERROR	g3k-qadb.ufro.cl
-NOERROR	temuco21.dis.ufro.cl
-NOERROR	gateima.ufro.cl
-NOERROR	wifimed07.med.ufro.cl
-NOERROR	pc56.riie.ufro.cl
-SERVFAIL	chucaural.med.ufro.cl
-NOERROR	menetue.med.ufro.cl
-NOERROR	conunhuenu.cmcc.ufro.cl
-NOERROR	bioren.ufro.cl
-NOERROR	agro171.fagro.ufro.cl
-NOERROR	diper02.admcen.ufro.cl
-NOERROR	agri2117.agroi.ufro.cl
-NOERROR	www.med.ufro.cl
-NOERROR	cprat88.ufro.cl
-NOERROR	pillan.dinfo.ufro.cl
-NXDOMAIN	java.cmcc.ufro.cl
-NOERROR	imperial.med.ufro.cl
-NOERROR	nacionalrugby.ufro.cl
-NOERROR	umatic40.ufro.cl
-NOERROR	temuco35.dis.ufro.cl
-NOERROR	eleccionesrector.ufro.cl
-NOERROR	r207ip123.ufro.cl
-NOERROR	iei176.iei.ufro.cl
-NOERROR	r207ip109.ufro.cl
-NOERROR	wl15.inele.ufro.cl
-NOERROR	gateiie2.ufro.cl
-NOERROR	quin09.edu.ufro.cl
-NOERROR	peache.dmat.ufro.cl
-NOERROR	fdeca01.edu.ufro.cl
-NOERROR	r207ip56.ufro.cl
-NOERROR	r207ip37.ufro.cl
-NXDOMAIN	lautaro.iie.ufro.cl
-NOERROR	puancho.med.ufro.cl
-NOERROR	agri294.agroi.ufro.cl
-NOERROR	2lab58.daye.ufro.cl
-NOERROR	chamiza.med.ufro.cl
-NOERROR	cmcc91.cmcc.ufro.cl
-NOERROR	memo06.dis.ufro.cl
-NOERROR	r207ip246.ufro.cl
-NXDOMAIN	www.cig2018.ufro.cl
-NOERROR	pc11.riie.ufro.cl
-SERVFAIL	static8.ider.ufro.cl
-NOERROR	chapilen.med.ufro.cl
-NOERROR	ericksch.agroi.ufro.cl
-SERVFAIL	iei136.iei.ufro.cl
-NOERROR	fc47.ufro.cl
-NOERROR	ramtun2e.ufro.cl
-NOERROR	sala31.comp.ufro.cl
-NOERROR	gatecsquim.ufro.cl
-NOERROR	r207ip136.ufro.cl
-NOERROR	r207ip120.ufro.cl
-NOERROR	jazmin.med.ufro.cl
-NOERROR	agri2119.agroi.ufro.cl
-NOERROR	agrdoc05.agroi.ufro.cl
-NOERROR	juridicasyempresariales.ufro.cl
-NOERROR	cprat64.ufro.cl
-NOERROR	csquimicas.ufro.cl
-NOERROR	gatefagro.fagro.ufro.cl
-NOERROR	2lab57.daye.ufro.cl
-NOERROR	alamo.med.ufro.cl
-NOERROR	pc61.riie.ufro.cl
-NOERROR	colico.med.ufro.cl
-SERVFAIL	doc97.dim.ufro.cl
-NOERROR	ima72.ufro.cl
-NOERROR	ima85.ufro.cl
-NOERROR	eval01.admcen.ufro.cl
-NOERROR	ccuevas.dmat.ufro.cl
-NOERROR	ssocial14.edu.ufro.cl
-NOERROR	temuco34.dis.ufro.cl
-SERVFAIL	var1.dmat.ufro.cl
-NOERROR	r207ip105.ufro.cl
-NOERROR	optima2011.ufro.cl
-NOERROR	temp06.admcen.ufro.cl
-NOERROR	wifiincuba1.ufro.cl
-SERVFAIL	bib39.bib.ufro.cl
-NOERROR	dge200.admcen.ufro.cl
-NOERROR	r207ip214.ufro.cl
-NOERROR	pifip001.edu.ufro.cl
-NOERROR	labcap204.admcen.ufro.cl
-NOERROR	wl217.inele.ufro.cl
-NOERROR	gateider.ufro.cl
-SERVFAIL	jlopez.dmat.ufro.cl
-NOERROR	leng5.edu.ufro.cl
-NOERROR	loncotraro.med.ufro.cl
-NOERROR	csanmartin.psico.ufro.cl
-NOERROR	r207ip58.ufro.cl
-NOERROR	salad103.ufro.cl
-NOERROR	sala53.comp.ufro.cl
-NOERROR	fc39.ufro.cl
-NOERROR	fc31.ufro.cl
-NOERROR	tesore2.admcen.ufro.cl
-NOERROR	pc38.riie.ufro.cl
-NOERROR	doc79.dim.ufro.cl
-NOERROR	leng1.edu.ufro.cl
-SERVFAIL	agro177.fagro.ufro.cl
-NOERROR	r207ip192.ufro.cl
-NOERROR	cmcc90.cmcc.ufro.cl
-NOERROR	fc33.ufro.cl
-NOERROR	cre03.admcen.ufro.cl
-NOERROR	proenta2.ufro.cl
-NOERROR	verti02.ufro.cl
-NOERROR	callcenter01.admcen.ufro.cl
-NOERROR	sala58.comp.ufro.cl
-NOERROR	agro149.fagro.ufro.cl
-NOERROR	labg01.edu.ufro.cl
-NOERROR	gsandova.ufro.cl
-NOERROR	labcap215.admcen.ufro.cl
-NOERROR	wetrun.dinfo.ufro.cl
-NOERROR	gis.ufro.cl
-NOERROR	ider3.admcen.ufro.cl
-NOERROR	gategim.dinfo.ufro.cl
-NOERROR	pc-05.dmat.ufro.cl
-NOERROR	umatic41.ufro.cl
-NOERROR	cochamo.med.ufro.cl
-SERVFAIL	iei172.iei.ufro.cl
-NOERROR	diragro.fagro.ufro.cl
-NOERROR	fudea164.admcen.ufro.cl
-NOERROR	gim228.dinfo.ufro.cl
-NOERROR	dullin.ufro.cl
-SERVFAIL	tele166.dis.ufro.cl
-NOERROR	o202-02.edu.ufro.cl
-NOERROR	terc25.edu.ufro.cl
-NOERROR	trauki.edu.ufro.cl
-NOERROR	sig132.dis.ufro.cl
-NOERROR	labcap199.admcen.ufro.cl
-NOERROR	r207ip222.ufro.cl
-NOERROR	terc22.edu.ufro.cl
-NOERROR	r207ip211.ufro.cl
-NOERROR	cholchol.med.ufro.cl
-NOERROR	csquim74.csquim.ufro.cl
-NOERROR	chillka.bib.ufro.cl
-NOERROR	umatic42.ufro.cl
-NOERROR	rilpe.med.ufro.cl
-NOERROR	wl211.inele.ufro.cl
-NOERROR	r207ip19.ufro.cl
-NOERROR	capacit01.admcen.ufro.cl
-NOERROR	diagnostico.ufro.cl
-NOERROR	terc11.edu.ufro.cl
-NOERROR	secdirapost.admcen.ufro.cl
-NOERROR	cprat79.ufro.cl
-SERVFAIL	fudea184.admcen.ufro.cl
-NOERROR	labg05.edu.ufro.cl
-NOERROR	cprat111.ufro.cl
-NOERROR	peumo.med.ufro.cl
-NOERROR	adm27.daye.ufro.cl
-NXDOMAIN	2lab36.daye.ufro.cl
-NOERROR	mguzman.dim.ufro.cl
-NOERROR	r207ip138.ufro.cl
-NOERROR	r207ip38.ufro.cl
-NOERROR	forcont14.admcen.ufro.cl
-NOERROR	ima76.ufro.cl
-NOERROR	agri2113.agroi.ufro.cl
-NOERROR	rnavia.fia.ufro.cl
-SERVFAIL	dirfin02.admcen.ufro.cl
-NXDOMAIN	alamo.iie.ufro.cl
-NOERROR	dingele.inele.ufro.cl
-NOERROR	salara2001.ufro.cl
-NOERROR	minor.ufro.cl
-NOERROR	fc09.ufro.cl
-NOERROR	www.astro.ufro.cl
-NOERROR	cata.dmat.ufro.cl
-NOERROR	dungun.ufro.cl
-NOERROR	02uniej.edu.ufro.cl
-NOERROR	reinikeo.edu.ufro.cl
-NOERROR	med.ufro.cl
-NXDOMAIN	decserver.ufro.cl
-NOERROR	hleal.agroi.ufro.cl
-NOERROR	chumpirro.med.ufro.cl
-NOERROR	mawida.dis.ufro.cl
-NOERROR	t1.edu.ufro.cl
-NOERROR	marigen.agroi.ufro.cl
-NOERROR	sim178.dis.ufro.cl
-NOERROR	verti07.ufro.cl
-NOERROR	dcabalin.med.ufro.cl
-SERVFAIL	labsig.fagro.ufro.cl
-NOERROR	csquim97.csquim.ufro.cl
-NOERROR	r207ip149.ufro.cl
-NOERROR	tele162.dis.ufro.cl
-NOERROR	wl197.inele.ufro.cl
-NOERROR	sala55.comp.ufro.cl
-NXDOMAIN	2lab238.dis.ufro.cl
-NOERROR	tehualda.med.ufro.cl
-NOERROR	cedron.med.ufro.cl
-NOERROR	coique.med.ufro.cl
-NOERROR	cc.dis.ufro.cl
-NOERROR	vergara.med.ufro.cl
-SERVFAIL	static6.ider.ufro.cl
-NOERROR	fia-online.ufro.cl
-NOERROR	ceii.ufro.cl
-SERVFAIL	dinamic6.ider.ufro.cl
-NOERROR	ssocial12.edu.ufro.cl
-NOERROR	soporte.dinfo.ufro.cl
-NOERROR	cntoper.ufro.cl
-NOERROR	apoyoacademico.ufro.cl
-NOERROR	wl176.inele.ufro.cl
-NOERROR	pc83.riie.ufro.cl
-NOERROR	iei183.iei.ufro.cl
-NXDOMAIN	cgna79.cmccm.ufro.cl
-NOERROR	vilcun.med.ufro.cl
-NOERROR	invent04.admcen.ufro.cl
-NOERROR	cprat38.ufro.cl
-NOERROR	pc30.riie.ufro.cl
-NOERROR	tremun.ufro.cl
-NOERROR	vrac10.admcen.ufro.cl
-NOERROR	doc92.dim.ufro.cl
-SERVFAIL	r207ip101.ufro.cl
-NOERROR	presup04.admcen.ufro.cl
-NOERROR	pensamiento.med.ufro.cl
-NOERROR	dge214.admcen.ufro.cl
-NOERROR	sim171.dis.ufro.cl
-NOERROR	conoco.med.ufro.cl
-NOERROR	quilleihue.med.ufro.cl
-NOERROR	sala28.comp.ufro.cl
-NOERROR	psico111.psico.ufro.cl
-NOERROR	ll02.edu.ufro.cl
-NOERROR	eclipse2020.ufro.cl
-NOERROR	paulandr.psico.ufro.cl
-NOERROR	quin18.edu.ufro.cl
-NOERROR	wl185.inele.ufro.cl
-NOERROR	labdie02.inele.ufro.cl
-NOERROR	labdie04.inele.ufro.cl
-NOERROR	pc-17.dmat.ufro.cl
-NOERROR	terc12.edu.ufro.cl
-NOERROR	peleco.med.ufro.cl
-NOERROR	pe11-103.admcen.ufro.cl
-NOERROR	wl54.ufro.cl
-NOERROR	admin.fia.ufro.cl
-NOERROR	ecad.ufro.cl
-NOERROR	puyanhue.med.ufro.cl
-NOERROR	gatedinfo.ufro.cl
-NOERROR	temuco04.dis.ufro.cl
-NOERROR	r207ip43.ufro.cl
-NOERROR	fc21.ufro.cl
-SERVFAIL	boroa.med.ufro.cl
-NOERROR	capic2014.ufro.cl
-NOERROR	r207ip208.ufro.cl
-NOERROR	catalogo.ufro.cl
-NOERROR	sv5.ceii.ufro.cl
-NOERROR	csquim98.csquim.ufro.cl
-NOERROR	conrec1.admcen.ufro.cl
-NOERROR	pc73.riie.ufro.cl
-NOERROR	bib31.bib.ufro.cl
-NOERROR	quino.med.ufro.cl
-NXDOMAIN	2lab32.daye.ufro.cl
-NOERROR	casino1.admcen.ufro.cl
-NOERROR	memo104.inele.ufro.cl
-NOERROR	tinquilco.med.ufro.cl
-NOERROR	labcap211.admcen.ufro.cl
-NOERROR	gaston.edu.ufro.cl
-NOERROR	temuco07.dis.ufro.cl
-NOERROR	naranja.agroi.ufro.cl
-NOERROR	gim219.dinfo.ufro.cl
-NXDOMAIN	arrayan.iie.ufro.cl
-NOERROR	morari.inele.ufro.cl
-NOERROR	psico112.psico.ufro.cl
-NOERROR	cgrandon.admcen.ufro.cl
-NOERROR	quin26.edu.ufro.cl
-NOERROR	wl205.inele.ufro.cl
-NOERROR	cinta.dinfo.ufro.cl
-SERVFAIL	gim247.dinfo.ufro.cl
-NOERROR	r207ip252.ufro.cl
-NOERROR	r207ip64.ufro.cl
-NOERROR	geometry.ufro.cl
-NOERROR	aromo.med.ufro.cl
-NOERROR	period18.period.ufro.cl
-NOERROR	iei163.iei.ufro.cl
-NOERROR	www.proenta.ufro.cl
-NOERROR	cbmagis03.med.ufro.cl
-NOERROR	doc87.dim.ufro.cl
-NOERROR	mango.med.ufro.cl
-NOERROR	portrec.admcen.ufro.cl
-NOERROR	iei160.iei.ufro.cl
-NOERROR	r207ip13.ufro.cl
-NOERROR	gim224.dinfo.ufro.cl
-NOERROR	r207ip224.ufro.cl
-NOERROR	huilma.med.ufro.cl
-NOERROR	elearning3.ufro.cl
-NOERROR	r207ip182.ufro.cl
-NOERROR	sim173.dis.ufro.cl
-NOERROR	sala24.comp.ufro.cl
-SERVFAIL	volcan.dcfis.ufro.cl
-NOERROR	www.vinculacion.ufro.cl
-NOERROR	cprat77.ufro.cl
-NOERROR	wl23.inele.ufro.cl
-NOERROR	r207ip133.ufro.cl
-NOERROR	biene8.admcen.ufro.cl
-NOERROR	o202-03.edu.ufro.cl
-NOERROR	sala27.comp.ufro.cl
-NOERROR	iei180.iei.ufro.cl
-NOERROR	bib16.bib.ufro.cl
-NOERROR	bib12.bib.ufro.cl
-NOERROR	cbmagis01.med.ufro.cl
-NOERROR	ima71.ufro.cl
-NOERROR	temuco14.dis.ufro.cl
-SERVFAIL	1lab216.dis.ufro.cl
-NOERROR	seceef.edu.ufro.cl
-NOERROR	cienpan.med.ufro.cl
-NOERROR	memo03.dis.ufro.cl
-NOERROR	educ5.edu.ufro.cl
-NOERROR	wl17.inele.ufro.cl
-NOERROR	r207ip3.ufro.cl
-NOERROR	agro135.fagro.ufro.cl
-NOERROR	ldap-eduroam.ufro.cl
-NOERROR	csquim88.csquim.ufro.cl
-NOERROR	listas.ufro.cl
-NOERROR	wl179.inele.ufro.cl
-NOERROR	fc10.ufro.cl
-NOERROR	cienciaempresa.ufro.cl
-NOERROR	www.csquim.ufro.cl
-NOERROR	webadmdge.admcen.ufro.cl
-SERVFAIL	period22.period.ufro.cl
-NOERROR	adm20.daye.ufro.cl
-NOERROR	cprat114.ufro.cl
-NOERROR	r207ip217.ufro.cl
-NOERROR	terc15.edu.ufro.cl
-NOERROR	wl18.inele.ufro.cl
-NXDOMAIN	conf.fia.ufro.cl
-NOERROR	pc76.riie.ufro.cl
-NOERROR	ingles04.edu.ufro.cl
-NOERROR	r207ip193.ufro.cl
-NOERROR	telecnt.ufro.cl
-NOERROR	catinele.ufro.cl
-NOERROR	r207ip26.ufro.cl
-NOERROR	lumaco.med.ufro.cl
-NOERROR	labensayosambientales.ufro.cl
-NOERROR	lkettere.edu.ufro.cl
-NOERROR	bib56.bib.ufro.cl
-NOERROR	www.geometryrc.ufro.cl
-NOERROR	bena.dmat.ufro.cl
-NXDOMAIN	red4pc01.iie.ufro.cl
-NOERROR	edt.ufro.cl
-NOERROR	vraf02.admcen.ufro.cl
-NOERROR	o202-01.edu.ufro.cl
-NOERROR	agri284.agroi.ufro.cl
-NOERROR	doc72.dim.ufro.cl
-NOERROR	gim250.dinfo.ufro.cl
-NOERROR	www.fica.ufro.cl
-NOERROR	salad209.ufro.cl
-NOERROR	anat42.med.ufro.cl
-NOERROR	caagricola.fagro.ufro.cl
-NOERROR	fudea180.admcen.ufro.cl
-NOERROR	sala33.comp.ufro.cl
-NOERROR	jaime.agroi.ufro.cl
-NOERROR	www.forestal.ufro.cl
-NOERROR	catrect.ufro.cl
-NOERROR	wl208.inele.ufro.cl
-NOERROR	ilusiones.med.ufro.cl
-NOERROR	www.derecho.ufro.cl
-NOERROR	agro143.fagro.ufro.cl
-NOERROR	cuar02.edu.ufro.cl
-NOERROR	agro162.fagro.ufro.cl
-NOERROR	fudea178.admcen.ufro.cl
-NOERROR	cprat73.ufro.cl
-NOERROR	cmcc94.cmcc.ufro.cl
-NOERROR	cprat72.ufro.cl
-NOERROR	temuco19.dis.ufro.cl
-NOERROR	soc02.edu.ufro.cl
-NOERROR	ssocial16.edu.ufro.cl
-NOERROR	labcap213.admcen.ufro.cl
-NOERROR	radius-eduroam.ufro.cl
-NOERROR	anat40.med.ufro.cl
-NOERROR	gim204.dinfo.ufro.cl
-NOERROR	cinteg03.admcen.ufro.cl
-NOERROR	cprat37.ufro.cl
-SERVFAIL	labdie05.inele.ufro.cl
-NOERROR	micbio03.med.ufro.cl
-NOERROR	dircopint01.admcen.ufro.cl
-NOERROR	r207ip166.ufro.cl
-NOERROR	pc95.riie.ufro.cl
-NOERROR	sala23.comp.ufro.cl
-NOERROR	notebook2.inele.ufro.cl
-NOERROR	wifiinele2.ufro.cl
-SERVFAIL	csquim66.csquim.ufro.cl
-NOERROR	labinfo3.fagro.ufro.cl
-NOERROR	gim202.dinfo.ufro.cl
-NOERROR	operadores2.dinfo.ufro.cl
-NOERROR	secreclin02.psico.ufro.cl
-NOERROR	gorbea.med.ufro.cl
-NOERROR	pedregoso.med.ufro.cl
-NOERROR	contab03.admcen.ufro.cl
-NOERROR	campuspucon.ufro.cl
-NOERROR	piloto1.inele.ufro.cl
-NOERROR	r207ip223.ufro.cl
-NOERROR	pc01.edu.ufro.cl
-NOERROR	umatic44.ufro.cl
-NOERROR	catsico.ufro.cl
-NOERROR	tatan.inele.ufro.cl
-NOERROR	coneib2015.ufro.cl
-NOERROR	rinie2019.ufro.cl
-NOERROR	labidio03.ufro.cl
-NOERROR	chem.ufro.cl
-SERVFAIL	guacolda.dcfis.ufro.cl
-NOERROR	doc75.dim.ufro.cl
-NOERROR	sedepucon.ufro.cl
-NOERROR	rucatraro.med.ufro.cl
-NOERROR	r207ip104.ufro.cl
-NOERROR	r207ip235.ufro.cl
-NOERROR	dge225.admcen.ufro.cl
-NOERROR	mallol1.dmat.ufro.cl
-NOERROR	agri2124.agroi.ufro.cl
-NXDOMAIN	merlin.iie.ufro.cl
-NOERROR	porma.med.ufro.cl
-NOERROR	amelia.edu.ufro.cl
-NOERROR	pc23.riie.ufro.cl
-NOERROR	temuco17.dis.ufro.cl
-NOERROR	capacit04.admcen.ufro.cl
-NOERROR	cprat102.ufro.cl
-SERVFAIL	taller01.dinfo.ufro.cl
-NOERROR	www.utic.ufro.cl
-NOERROR	docenciavirtual.ufro.cl
-SERVFAIL	wifi8.inele.ufro.cl
-SERVFAIL	dinamic18.ider.ufro.cl
-NOERROR	dge218.admcen.ufro.cl
-NOERROR	contulmo.med.ufro.cl
-NOERROR	r207ip161.ufro.cl
-NOERROR	ccaamec.dim.ufro.cl
-NOERROR	www.cig2019.ufro.cl
-NOERROR	en.movilidad.ufro.cl
-NOERROR	parquerucamanque.ufro.cl
-NOERROR	jdcmora.dcfis.ufro.cl
-NOERROR	pc37.riie.ufro.cl
-NOERROR	wifinotros.ufro.cl
-NOERROR	fc17.ufro.cl
-NOERROR	temuco38.dis.ufro.cl
-NOERROR	terc08.edu.ufro.cl
-NOERROR	dirinv.admcen.ufro.cl
-NOERROR	pc-06.dmat.ufro.cl
-NOERROR	cprat54.ufro.cl
-NOERROR	bibconf.ufro.cl
-NOERROR	labcap196.admcen.ufro.cl
-NOERROR	cprat109.ufro.cl
-NOERROR	pillanlelbun.med.ufro.cl
-NOERROR	r207ip129.ufro.cl
-NOERROR	bib58.bib.ufro.cl
-NOERROR	cprat36.ufro.cl
-NOERROR	camvit.ufro.cl
-NOERROR	inver.fagro.ufro.cl
-NOERROR	feufro.ufro.cl
-NOERROR	terc05.edu.ufro.cl
-NOERROR	chilecompra4.admcen.ufro.cl
-NOERROR	wifimed02.med.ufro.cl
-NOERROR	cprat21.ufro.cl
-NXDOMAIN	2lab31.daye.ufro.cl
-NOERROR	cprat29.ufro.cl
-SERVFAIL	cgna75.cmccm.ufro.cl
-NOERROR	gateociv.fia.ufro.cl
-NOERROR	circulomizona.ufro.cl
-NOERROR	trovolhue.med.ufro.cl
-NOERROR	labidio01.ufro.cl
-NOERROR	manzano.med.ufro.cl
-NOERROR	labpsbas04.psico.ufro.cl
-NOERROR	planpredial.ufro.cl
-NOERROR	che.dinfo.ufro.cl
-NOERROR	silver.inele.ufro.cl
-NOERROR	xbriceno.edu.ufro.cl
-SERVFAIL	huetelen.med.ufro.cl
-NOERROR	r207ip213.ufro.cl
-NOERROR	r207ip41.ufro.cl
-NOERROR	r207ip98.ufro.cl
-NOERROR	labdie06.inele.ufro.cl
-NOERROR	curiletu.med.ufro.cl
-NOERROR	fudea181.admcen.ufro.cl
-NOERROR	ll08.edu.ufro.cl
-NOERROR	lafquen.dmat.ufro.cl
-NXDOMAIN	gatequim.csquim.ufro.cl
-NOERROR	agri289.agroi.ufro.cl
-NOERROR	rbeta.dim.ufro.cl
-NOERROR	dev.iie.ufro.cl
-NOERROR	liucura.dinfo.ufro.cl
-NOERROR	o104.edu.ufro.cl
-NOERROR	r207ip71.ufro.cl
-NOERROR	direef.edu.ufro.cl
-NOERROR	pc49.riie.ufro.cl
-NOERROR	ctoloza.dmat.ufro.cl
-NOERROR	csquim105.csquim.ufro.cl
-NOERROR	pc19.riie.ufro.cl
-SERVFAIL	icelectronica.ufro.cl
-NOERROR	r207ip10.ufro.cl
-NOERROR	1lab206.dis.ufro.cl
-SERVFAIL	rolling.inele.ufro.cl
-NOERROR	cuar09.edu.ufro.cl
-NOERROR	umatic21.ufro.cl
-NOERROR	gim240.dinfo.ufro.cl
-NOERROR	salat101.fagro.ufro.cl
-NXDOMAIN	angol.iie.ufro.cl
-NOERROR	ociv111.fia.ufro.cl
-NXDOMAIN	queltehue2.ufro.cl
-NOERROR	carhuello.med.ufro.cl
-NOERROR	csquim69.csquim.ufro.cl
-NOERROR	r207ip88.ufro.cl
-NOERROR	w04.admcen.ufro.cl
-NOERROR	quintrala.dcfis.ufro.cl
-NOERROR	leng10.edu.ufro.cl
-SERVFAIL	fudea172.admcen.ufro.cl
-NOERROR	sfs142.dis.ufro.cl
-NOERROR	pc90.riie.ufro.cl
-NOERROR	petunia.med.ufro.cl
-NOERROR	liuco.med.ufro.cl
-SERVFAIL	1lab219.dis.ufro.cl
-NOERROR	prr2.dinfo.ufro.cl
-NOERROR	labdge.ufro.cl
-NOERROR	pc72.riie.ufro.cl
-NOERROR	pc27.riie.ufro.cl
-NOERROR	orquidea.med.ufro.cl
-NOERROR	1lab212.dis.ufro.cl
-NOERROR	gim211.dinfo.ufro.cl
-NOERROR	tele163.dis.ufro.cl
-SERVFAIL	gim238.dinfo.ufro.cl
-NOERROR	r207ip57.ufro.cl
-NOERROR	r207ip150.ufro.cl
-NXDOMAIN	canelo.iie.ufro.cl
-NOERROR	traiguen.med.ufro.cl
-NOERROR	terc16.edu.ufro.cl
-NOERROR	congresoforestal2014.ufro.cl
-NOERROR	r207ip229.ufro.cl
-NOERROR	adm17.daye.ufro.cl
-NOERROR	gatedge.ufro.cl
-NOERROR	iei157.iei.ufro.cl
-NOERROR	tempssocial1.edu.ufro.cl
-NOERROR	verti09.ufro.cl
-NOERROR	socio02.edu.ufro.cl
-NOERROR	pcampos.admcen.ufro.cl
-NOERROR	pifip07.edu.ufro.cl
-NOERROR	gim222.dinfo.ufro.cl
-SERVFAIL	wl186.inele.ufro.cl
-NOERROR	cprat93.ufro.cl
-NOERROR	ingenieriacivil.ufro.cl
-NOERROR	gatefudea.admcen.ufro.cl
-NOERROR	www.mii.ufro.cl
-NOERROR	ociv122.fia.ufro.cl
-NOERROR	anat35.med.ufro.cl
-NOERROR	sala59.comp.ufro.cl
-NOERROR	fonoaudiologia.med.ufro.cl
-NOERROR	pe11-106.admcen.ufro.cl
-NOERROR	bib36.bib.ufro.cl
-NOERROR	talquipen.med.ufro.cl
-NOERROR	ima65.ufro.cl
-NOERROR	gatecmcc.cmcc.ufro.cl
-NOERROR	pc64.riie.ufro.cl
-NOERROR	ima.ufro.cl
-NOERROR	movilidad.ufro.cl
-NOERROR	ingmat68.ingmat.ufro.cl
-NOERROR	temuco02.dis.ufro.cl
-NOERROR	lopazoa.dinfo.ufro.cl
-SERVFAIL	natfica.fia.ufro.cl
-NOERROR	tele161.dis.ufro.cl
-NOERROR	ap.ceii.ufro.cl
-NOERROR	bib26.bib.ufro.cl
-SERVFAIL	agri299.agroi.ufro.cl
-NOERROR	labo1.edu.ufro.cl
-NOERROR	gatedircom.ufro.cl
-NOERROR	dhcp1.bib.ufro.cl
-NOERROR	ficainele.inele.ufro.cl
-NOERROR	coordhisto.edu.ufro.cl
-NOERROR	umatic19.ufro.cl
-SERVFAIL	wififedu.ufro.cl
-NOERROR	gim216.dinfo.ufro.cl
-NOERROR	diper11.admcen.ufro.cl
-NOERROR	psicologia.ufro.cl
-NXDOMAIN	machi.dis.ufro.cl
-NOERROR	labcap195.admcen.ufro.cl
-NOERROR	manzanar.med.ufro.cl
-NOERROR	gim213.dinfo.ufro.cl
-NOERROR	inscripcion.ufro.cl
-NOERROR	anaconda.dcfis.ufro.cl
-SERVFAIL	alelie.med.ufro.cl
-NOERROR	cprat56.ufro.cl
-NOERROR	vrac05.admcen.ufro.cl
-NOERROR	finagro.fagro.ufro.cl
-NOERROR	cprat50.ufro.cl
-NOERROR	bib22.bib.ufro.cl
-NOERROR	labpsbas06.psico.ufro.cl
-NOERROR	educ6.edu.ufro.cl
-NOERROR	ociv118.fia.ufro.cl
-NOERROR	www.dircpa.ufro.cl
-NOERROR	wificebior.ufro.cl
-NOERROR	r207ip215.ufro.cl
-NOERROR	ssocial02.edu.ufro.cl
-NOERROR	pc-03.dmat.ufro.cl
-NOERROR	r207ip185.ufro.cl
-NOERROR	iei162.iei.ufro.cl
-NOERROR	csquim77.csquim.ufro.cl
-NOERROR	ufronoticias.ufro.cl
-SERVFAIL	dge221.admcen.ufro.cl
-NOERROR	fudea175.admcen.ufro.cl
-NOERROR	clavel.med.ufro.cl
-NOERROR	gateedu1.ufro.cl
-SERVFAIL	memo107.inele.ufro.cl
-NOERROR	lennon.inele.ufro.cl
-NOERROR	dirinv02.admcen.ufro.cl
-NOERROR	fudea188.admcen.ufro.cl
-NOERROR	mbaeza.edu.ufro.cl
-NOERROR	mzambran.agroi.ufro.cl
-NOERROR	sala52.comp.ufro.cl
-NOERROR	malalcahuello.med.ufro.cl
-NOERROR	pitrufquen.med.ufro.cl
-NOERROR	o101.edu.ufro.cl
-NOERROR	rector3.admcen.ufro.cl
-NOERROR	gim205.dinfo.ufro.cl
-NOERROR	umatic31.ufro.cl
-NOERROR	ider1.admcen.ufro.cl
-NOERROR	r207ip78.ufro.cl
-NOERROR	agro155.fagro.ufro.cl
-NOERROR	gateagroi2.agroi.ufro.cl
-NXDOMAIN	relmu.bib.ufro.cl
-NOERROR	agri271.agroi.ufro.cl
-NOERROR	laurel.med.ufro.cl
-NOERROR	jsspn.ufro.cl
-NOERROR	www.telematica.ufro.cl
-NOERROR	alenav.inele.ufro.cl
-NOERROR	hsoto.dmat.ufro.cl
-NOERROR	elavin.admcen.ufro.cl
-NOERROR	terce.iie.ufro.cl
-NOERROR	iei150.iei.ufro.cl
-NOERROR	licsa.ufro.cl
-NOERROR	cprat58.ufro.cl
-NOERROR	datacenter1.dinfo.ufro.cl
-SERVFAIL	piyawn.cmcc.ufro.cl
-NOERROR	sfs133.dis.ufro.cl
-NOERROR	catemu.dinfo.ufro.cl
-NOERROR	pifip01.edu.ufro.cl
-NOERROR	gim233.dinfo.ufro.cl
-NOERROR	gim197.dinfo.ufro.cl
-NOERROR	o202-04.edu.ufro.cl
-NOERROR	icalmapu.med.ufro.cl
-NOERROR	bib15.bib.ufro.cl
-NOERROR	nahuel.dinfo.ufro.cl
-NOERROR	multbiene.admcen.ufro.cl
-NOERROR	casino03.ufro.cl
-NOERROR	dirplan11.admcen.ufro.cl
-NOERROR	sv2.ceii.ufro.cl
-SERVFAIL	bib13.bib.ufro.cl
-NOERROR	agri2111.agroi.ufro.cl
-NXDOMAIN	dirplan2.admcen.ufro.cl
-NOERROR	diper10.admcen.ufro.cl
-NOERROR	nut219.med.ufro.cl
-NOERROR	pc33.riie.ufro.cl
-NOERROR	bib33.bib.ufro.cl
-NOERROR	gatetele.dis.ufro.cl
-SERVFAIL	jar223.admcen.ufro.cl
-NOERROR	salad4.ufro.cl
-NOERROR	berlin.dis.ufro.cl
-NOERROR	doctoradorrnn.ufro.cl
-NXDOMAIN	adm1.ufro.cl
-NOERROR	keller.inele.ufro.cl
-NOERROR	icees.ufro.cl
-NOERROR	period44.period.ufro.cl
-NOERROR	fcje.ufro.cl
-NOERROR	weche2.dinfo.ufro.cl
-NOERROR	wl189.inele.ufro.cl
-NOERROR	gate2radio.med.ufro.cl
-NOERROR	labwifi.edu.ufro.cl
-NOERROR	labpsbas02.psico.ufro.cl
-NOERROR	foto.inele.ufro.cl
-SERVFAIL	notebook5.inele.ufro.cl
-NOERROR	r207ip111.ufro.cl
-NOERROR	memo105.inele.ufro.cl
-NOERROR	gim246.dinfo.ufro.cl
-NOERROR	pellin.med.ufro.cl
-NOERROR	rucalhue.med.ufro.cl
-NOERROR	cholhuaco.med.ufro.cl
-NOERROR	www.dinfo.ufro.cl
-NOERROR	tempima.ufro.cl
-NOERROR	gatefia5.ufro.cl
-NOERROR	iei179.iei.ufro.cl
-NOERROR	pace.ufro.cl
-NOERROR	wifi1.inele.ufro.cl
-NOERROR	fc43.ufro.cl
-NOERROR	bib42.bib.ufro.cl
-NOERROR	r207ip233.ufro.cl
-NOERROR	castellanoycomunicacion.ufro.cl
-NOERROR	gatefia1.ufro.cl
-NOERROR	circulotitulados.ufro.cl
-NOERROR	agri265.agroi.ufro.cl
-NOERROR	adm28.daye.ufro.cl
-NOERROR	esparrago.agroi.ufro.cl
-NXDOMAIN	www.extension.ufro.cl
-NOERROR	pc85.riie.ufro.cl
-NOERROR	coordina.inele.ufro.cl
-NOERROR	labdie13.inele.ufro.cl
-NXDOMAIN	huma.edu.ufro.cl
-NOERROR	r207ip204.ufro.cl
-NOERROR	r207ip73.ufro.cl
-NOERROR	agri2122.agroi.ufro.cl
-NOERROR	iie.ufro.cl
-NOERROR	secgra5.admcen.ufro.cl
-NOERROR	soc07.edu.ufro.cl
-NXDOMAIN	epu.dmat.ufro.cl
-NOERROR	dge222.admcen.ufro.cl
-NOERROR	agrdoc04.agroi.ufro.cl
-NOERROR	astro.ufro.cl
-NOERROR	r207ip16.ufro.cl
-NOERROR	gatefagro.ufro.cl
-NOERROR	cprat92.ufro.cl
-NOERROR	gim235.dinfo.ufro.cl
-NOERROR	gatesfs.dis.ufro.cl
-NOERROR	iei177.iei.ufro.cl
-NOERROR	ociv108.fia.ufro.cl
-NOERROR	r207ip48.ufro.cl
-NOERROR	r207ip162.ufro.cl
-NOERROR	fudea167.admcen.ufro.cl
-SERVFAIL	r207ip84.ufro.cl
-SERVFAIL	sim181.dis.ufro.cl
-NOERROR	o105.edu.ufro.cl
-NOERROR	csquim104.csquim.ufro.cl
-NOERROR	leng13.edu.ufro.cl
-NOERROR	labo14.edu.ufro.cl
-NOERROR	capacit.ufro.cl
-NOERROR	regposgra.admcen.ufro.cl
-NOERROR	r207ip66.ufro.cl
-NOERROR	insigne.med.ufro.cl
-NXDOMAIN	cprat20.ufro.cl
-NOERROR	wl184.inele.ufro.cl
-NOERROR	doc91.dim.ufro.cl
-NOERROR	pc34.riie.ufro.cl
-NOERROR	csprof02.edu.ufro.cl
-NOERROR	bioterio.ufro.cl
-NOERROR	trufultruful.med.ufro.cl
-NOERROR	gor51.ufro.cl
-NOERROR	punca.med.ufro.cl
-NOERROR	vcmed02.med.ufro.cl
-NXDOMAIN	cgna85.cmccm.ufro.cl
-NOERROR	wl49.ufro.cl
-SERVFAIL	vcalfu.admcen.ufro.cl
-NOERROR	r207ip20.ufro.cl
-NOERROR	cprat31.ufro.cl
-NOERROR	azucena.med.ufro.cl
-NOERROR	sig129.dis.ufro.cl
-NOERROR	sala38.comp.ufro.cl
-NOERROR	fudea186.admcen.ufro.cl
-NOERROR	conveniocienciassociales.ufro.cl
-NOERROR	dirpertesis.admcen.ufro.cl
-NOERROR	quillagua.med.ufro.cl
-NOERROR	jar220.admcen.ufro.cl
-NOERROR	tele165.dis.ufro.cl
-NOERROR	wl200.inele.ufro.cl
-NOERROR	escueladepedagogia.ufro.cl
-NOERROR	cre09.admcen.ufro.cl
-NXDOMAIN	www.diario.ufro.cl
-NOERROR	test05.dinfo.ufro.cl
-NOERROR	pucon.med.ufro.cl
-NOERROR	jhoch.dis.ufro.cl
-NOERROR	cacique.dcfis.ufro.cl
-NOERROR	nat2pprat.ufro.cl
-NOERROR	sala46.comp.ufro.cl
-NOERROR	pc99.riie.ufro.cl
-NOERROR	r207ip79.ufro.cl
-NOERROR	comunidad.ufro.cl
-NOERROR	r207ip102.ufro.cl
-NOERROR	quin02.edu.ufro.cl
-NOERROR	agri2115.agroi.ufro.cl
-NOERROR	teleoper.ufro.cl
-NOERROR	direduc.edu.ufro.cl
-NOERROR	ealtieri.admcen.ufro.cl
-NOERROR	pc42.riie.ufro.cl
-NOERROR	ritu.ufro.cl
-NOERROR	dge194.admcen.ufro.cl
-NOERROR	umatic15.ufro.cl
-NOERROR	labcomp.fia.ufro.cl
-NOERROR	neuro01.ufro.cl
-NOERROR	www.congresosemiotica.ufro.cl
-NOERROR	iei156.iei.ufro.cl
-NOERROR	r207ip251.ufro.cl
-NOERROR	udelafrontera.ufro.cl
-NOERROR	pc15.riie.ufro.cl
-NXDOMAIN	gateimass.ufro.cl
-NOERROR	cssec.edu.ufro.cl
-NOERROR	r207ip191.ufro.cl
-NOERROR	vcmed01.med.ufro.cl
-NOERROR	servsoc.edu.ufro.cl
-NOERROR	pc51.riie.ufro.cl
-NOERROR	1lab218.dis.ufro.cl
-NOERROR	r207ip173.ufro.cl
-NOERROR	sistema.doctoradorrnn.ufro.cl
-NOERROR	cprat116.ufro.cl
-SERVFAIL	cre04.admcen.ufro.cl
-NOERROR	umatic37.ufro.cl
-NOERROR	labg02.edu.ufro.cl
-NOERROR	rapaco.med.ufro.cl
-NOERROR	r207ip44.ufro.cl
-NOERROR	pelaco.med.ufro.cl
-NOERROR	derribandomitos.ufro.cl
-NOERROR	wl218.inele.ufro.cl
-NOERROR	ramtun2a.ufro.cl
-NOERROR	informacion.ufro.cl
-NOERROR	fc15.ufro.cl
-NOERROR	gatedge.admcen.ufro.cl
-NOERROR	www4.ufro.cl
-NOERROR	reyehueico.med.ufro.cl
-NOERROR	gonzalo.agroi.ufro.cl
-NOERROR	csquim101.csquim.ufro.cl
-NOERROR	diseno09.edu.ufro.cl
-NOERROR	vicedec.fagro.ufro.cl
-NOERROR	abast01.admcen.ufro.cl
-NOERROR	rravanal.ufro.cl
-NOERROR	electivos.ufro.cl
-NOERROR	gim215.dinfo.ufro.cl
-NOERROR	r207ip9.ufro.cl
-NOERROR	fc13.ufro.cl
-NOERROR	r207ip145.ufro.cl
-NOERROR	gim232.dinfo.ufro.cl
-NOERROR	fc20.ufro.cl
-NOERROR	forcont06.admcen.ufro.cl
-NOERROR	maichin.med.ufro.cl
-NOERROR	bib27.bib.ufro.cl
-NOERROR	agri2107.agroi.ufro.cl
-NOERROR	r207ip250.ufro.cl
-NOERROR	wifi5.inele.ufro.cl
-NOERROR	doc90.dim.ufro.cl
-NOERROR	agri2120.agroi.ufro.cl
-NOERROR	umatic10.ufro.cl
-NOERROR	iei131.iei.ufro.cl
-NOERROR	codihue.med.ufro.cl
-NOERROR	gateociv.ufro.cl
-NOERROR	contab2.agroi.ufro.cl
-NOERROR	www.fagro.ufro.cl
-NOERROR	sarx-jfmf-2018.ufro.cl
-NOERROR	soc03.edu.ufro.cl
-NOERROR	gatefoncre.admcen.ufro.cl
-NOERROR	bib41.bib.ufro.cl
-NOERROR	sig135.dis.ufro.cl
-NOERROR	ima68.ufro.cl
-NOERROR	labcap193.admcen.ufro.cl
-NOERROR	huife.med.ufro.cl
-NOERROR	allillanco.med.ufro.cl
-NOERROR	oldsite.ufro.cl
-NOERROR	agri272.agroi.ufro.cl
-NOERROR	dsp113.inele.ufro.cl
-NOERROR	cprat106.ufro.cl
-NOERROR	guindo.med.ufro.cl
-NOERROR	labranza.med.ufro.cl
-NOERROR	pc74.riie.ufro.cl
-NOERROR	r207ip239.ufro.cl
-NOERROR	r207ip99.ufro.cl
-NOERROR	pediatria.med.ufro.cl
-NXDOMAIN	gatedfis.edu.ufro.cl
-NOERROR	r207ip159.ufro.cl
-NOERROR	soc04.edu.ufro.cl
-NOERROR	temuco36.dis.ufro.cl
-NOERROR	kalmann.inele.ufro.cl
-NOERROR	salad205.ufro.cl
-NOERROR	sim180.dis.ufro.cl
-NOERROR	salad204.ufro.cl
-NOERROR	csquim110.csquim.ufro.cl
-NOERROR	labpsbas09.psico.ufro.cl
-NOERROR	agro139.fagro.ufro.cl
-NXDOMAIN	reunion.fia.ufro.cl
-NOERROR	agro157.fagro.ufro.cl
-NOERROR	e3047.edu.ufro.cl
-NXDOMAIN	kimun.edu.ufro.cl
-NOERROR	sig138.dis.ufro.cl
-NOERROR	corun.dinfo.ufro.cl
-NOERROR	gatefedu.edu.ufro.cl
-NOERROR	negrita.dcfis.ufro.cl
-NOERROR	terc17.edu.ufro.cl
-NOERROR	investigador.ufro.cl
-NOERROR	sig136.dis.ufro.cl
-NOERROR	cprat41.ufro.cl
-NOERROR	kultrun2.dinfo.ufro.cl
-SERVFAIL	rector2.admcen.ufro.cl
-NOERROR	1lab220.dis.ufro.cl
-NOERROR	gim220.dinfo.ufro.cl
-NOERROR	paritario.ufro.cl
-SERVFAIL	mccartney.inele.ufro.cl
-NOERROR	pc-16.dmat.ufro.cl
-NOERROR	r207ip228.ufro.cl
-NOERROR	jceledon.ufro.cl
-NOERROR	calarcon.psico.ufro.cl
-NOERROR	dsp118.inele.ufro.cl
-NOERROR	cruces.med.ufro.cl
-NOERROR	gim208.dinfo.ufro.cl
-NOERROR	r207ip89.ufro.cl
-NOERROR	dge237.admcen.ufro.cl
-NOERROR	verti03.ufro.cl
-NOERROR	terc19.edu.ufro.cl
-NOERROR	huinay.med.ufro.cl
-NOERROR	secreclin01.psico.ufro.cl
-NOERROR	agro134.fagro.ufro.cl
-NOERROR	r207ip96.ufro.cl
-NOERROR	nucleocienciasociales.ufro.cl
-NOERROR	doc80.dim.ufro.cl
-NOERROR	kultrung3k.dinfo.ufro.cl
-NOERROR	ezproxy.ufro.cl
-NOERROR	proxy.daye.ufro.cl
-NOERROR	leng4.edu.ufro.cl
-NOERROR	iei140.iei.ufro.cl
-NOERROR	gatemec.dim.ufro.cl
-NOERROR	ingles01.edu.ufro.cl
-NOERROR	wifipabe.ufro.cl
-NOERROR	fudea171.admcen.ufro.cl
-NOERROR	antiquina.med.ufro.cl
-SERVFAIL	temuco.iie.ufro.cl
-NOERROR	floyd.inele.ufro.cl
-NOERROR	r207ip23.ufro.cl
-NOERROR	anabalon.admcen.ufro.cl
-NOERROR	r207ip152.ufro.cl
-NOERROR	2lab44.daye.ufro.cl
-SERVFAIL	contr03.admcen.ufro.cl
-NOERROR	agro138.fagro.ufro.cl
-NOERROR	rdlink.dcfis.ufro.cl
-NOERROR	pc39.riie.ufro.cl
-NOERROR	gesproyecto.ufro.cl
-NOERROR	pc1.riie.ufro.cl
-NOERROR	ccct.ufro.cl
-NXDOMAIN	labbioveg.fagro.ufro.cl
-NOERROR	r207ip1.ufro.cl
-NOERROR	agro164.fagro.ufro.cl
-NOERROR	chacayal.med.ufro.cl
-NOERROR	agri293.agroi.ufro.cl
-NOERROR	server02.edu.ufro.cl
-NOERROR	biorremediacion.ufro.cl
-SERVFAIL	bib34.bib.ufro.cl
-NOERROR	umatic05.ufro.cl
-NOERROR	iei181.iei.ufro.cl
-NOERROR	cprat103.ufro.cl
-NOERROR	pc16.riie.ufro.cl
-NOERROR	jrodriguez.dinfo.ufro.cl
-NOERROR	analisis.ufro.cl
-NOERROR	labdie14.inele.ufro.cl
-NOERROR	planestrategico.ufro.cl
-NOERROR	deportes.ufro.cl
-NOERROR	quin24.edu.ufro.cl
-NOERROR	atmbello.ufro.cl
-NOERROR	g3k-qapps.ufro.cl
-NOERROR	impresora.dmat.ufro.cl
-NOERROR	iei135.iei.ufro.cl
-NOERROR	pifip02.edu.ufro.cl
-NOERROR	efactura-webservices.dinfo.ufro.cl
-NOERROR	fondef-psico.ufro.cl
-NOERROR	fudea166.admcen.ufro.cl
-NOERROR	trayen.ufro.cl
-NOERROR	agro167.fagro.ufro.cl
-NOERROR	gateiie0.ufro.cl
-NOERROR	dvera.dinfo.ufro.cl
-NOERROR	rtorres.edu.ufro.cl
-NOERROR	mulchen.med.ufro.cl
-NOERROR	quin33.edu.ufro.cl
-NOERROR	adm22.daye.ufro.cl
-NOERROR	merken.dinfo.ufro.cl
-NXDOMAIN	pehuen.iie.ufro.cl
-NOERROR	memo109.inele.ufro.cl
-NOERROR	piloto3.inele.ufro.cl
-NOERROR	presup03.admcen.ufro.cl
-NOERROR	gor55.ufro.cl
-NOERROR	ingles05.edu.ufro.cl
-NOERROR	teledeteccion.dcfis.ufro.cl
-NOERROR	ociv106.fia.ufro.cl
-NOERROR	quin15.edu.ufro.cl
-NOERROR	collaboradrive.ufro.cl
-NOERROR	gatessocial.ufro.cl
-NOERROR	cegetco.ufro.cl
-NOERROR	copihuelpi.med.ufro.cl
-NOERROR	secgra1.admcen.ufro.cl
-NOERROR	wifi9.inele.ufro.cl
-NOERROR	csquim82.csquim.ufro.cl
-NOERROR	vrac03.admcen.ufro.cl
-NOERROR	iei168.iei.ufro.cl
-NOERROR	pilarz.admcen.ufro.cl
-NOERROR	labpsbas01.psico.ufro.cl
-NOERROR	orebolle.admcen.ufro.cl
-NOERROR	rector1.admcen.ufro.cl
-NOERROR	socio08.edu.ufro.cl
-NOERROR	quin39.edu.ufro.cl
-NOERROR	acceso.edu.ufro.cl
-NOERROR	cinteg01.admcen.ufro.cl
-NOERROR	cnp.admcen.ufro.cl
-NOERROR	salad110.ufro.cl
-NOERROR	hueicolla.med.ufro.cl
-NOERROR	r207ip86.ufro.cl
-NOERROR	cprat85.ufro.cl
-NOERROR	pe12-122.admcen.ufro.cl
-NOERROR	sala57.comp.ufro.cl
-NOERROR	temuco22.dis.ufro.cl
-NOERROR	ima83.ufro.cl
-SERVFAIL	dircopint02.admcen.ufro.cl
-NOERROR	ticket.dinfo.ufro.cl
-NOERROR	ingmat73.ingmat.ufro.cl
-NOERROR	temuco40.dis.ufro.cl
-NOERROR	sala21.comp.ufro.cl
-NOERROR	forcont04.admcen.ufro.cl
-NOERROR	bib09.bib.ufro.cl
-NOERROR	vader.cmcc.ufro.cl
-NOERROR	biometria.ufro.cl
-NOERROR	r207ip94.ufro.cl
-NOERROR	adm4.daye.ufro.cl
-NXDOMAIN	2.ufro.cl
-NOERROR	ocp.ufro.cl
-NOERROR	colores.dcfis.ufro.cl
-NOERROR	vigia.ufro.cl
-NOERROR	derechoshumanos.ufro.cl
-NOERROR	labo8.edu.ufro.cl
-NOERROR	nucleo.dcfis.ufro.cl
-NOERROR	proenta4.admcen.ufro.cl
-NOERROR	agri287.agroi.ufro.cl
-NOERROR	bibescn.ufro.cl
-NOERROR	terc10.edu.ufro.cl
-NOERROR	r207ip6.ufro.cl
-NOERROR	calendario.ufro.cl
-NOERROR	o102.edu.ufro.cl
-NOERROR	r207ip130.ufro.cl
-NOERROR	r207ip45.ufro.cl
-NOERROR	control.dci.ufro.cl
-NOERROR	cuar05.edu.ufro.cl
-NOERROR	pe12-118.admcen.ufro.cl
-NOERROR	iei189.iei.ufro.cl
-NOERROR	wl173.inele.ufro.cl
-NOERROR	ingles08.edu.ufro.cl
-NOERROR	pc93.riie.ufro.cl
-NOERROR	dalia.med.ufro.cl
-NOERROR	wifimed.ufro.cl
-NOERROR	editorial.ufro.cl
-NOERROR	mininco.med.ufro.cl
-NOERROR	amulen.ufro.cl
-NOERROR	csuazo.admcen.ufro.cl
-NOERROR	labcap201.admcen.ufro.cl
-NOERROR	gatebib.ufro.cl
-NOERROR	srvgeometry.ufro.cl
-NXDOMAIN	licanray.iie.ufro.cl
-NOERROR	gateanat.med.ufro.cl
-NOERROR	lonko.ufro.cl
-NOERROR	jzonasur.ufro.cl
-NOERROR	agri297.agroi.ufro.cl
-NOERROR	pc25.riie.ufro.cl
-NOERROR	r207ip72.ufro.cl
-NOERROR	pc3.riie.ufro.cl
-NOERROR	routernat.cmcc.ufro.cl
-SERVFAIL	quitratue.med.ufro.cl
-NOERROR	agrdoc03.agroi.ufro.cl
-NOERROR	r207ip33.ufro.cl
-SERVFAIL	cmcc92.cmcc.ufro.cl
-NOERROR	antillanca.med.ufro.cl
-NOERROR	agrdoc07.agroi.ufro.cl
-NOERROR	secgra3.admcen.ufro.cl
-NOERROR	leng8.edu.ufro.cl
-NOERROR	r207ip249.ufro.cl
-NOERROR	butamallin.ufro.cl
-NOERROR	pe13-112.admcen.ufro.cl
-NOERROR	ssocial17.edu.ufro.cl
-NOERROR	porteria.psico.ufro.cl
-NOERROR	ider2.admcen.ufro.cl
-NOERROR	cit.ufro.cl
-NOERROR	labo7.edu.ufro.cl
-NOERROR	laserdual.cmcc.ufro.cl
-NOERROR	r207ip236.ufro.cl
-NOERROR	jacinto.med.ufro.cl
-NOERROR	salarvrip.admcen.ufro.cl
-NOERROR	iei147.iei.ufro.cl
-NOERROR	labcap198.admcen.ufro.cl
-NOERROR	en.ufro.cl
-NOERROR	wl193.inele.ufro.cl
-NOERROR	operador2.dinfo.ufro.cl
-NOERROR	agri273.agroi.ufro.cl
-NOERROR	autoevaluacion.ufro.cl
-NOERROR	llentane.med.ufro.cl
-SERVFAIL	labtejidos.fagro.ufro.cl
-NOERROR	gaterec3.admcen.ufro.cl
-NOERROR	gatedinfo.dinfo.ufro.cl
-NOERROR	sv4.ceii.ufro.cl
-NOERROR	doc76.dim.ufro.cl
-NOERROR	quin30.edu.ufro.cl
-NOERROR	pc91.riie.ufro.cl
-NOERROR	agri285.agroi.ufro.cl
-NOERROR	leng3.edu.ufro.cl
-NOERROR	cprat45.ufro.cl
-NOERROR	dcaro.dcfis.ufro.cl
-NOERROR	wl214.inele.ufro.cl
-NOERROR	oman.edu.ufro.cl
-NOERROR	cre05.admcen.ufro.cl
-NOERROR	verti11.ufro.cl
-NOERROR	cgi.ufro.cl
-NOERROR	ociv117.fia.ufro.cl
-NOERROR	auditorium2.fagro.ufro.cl
-NOERROR	bandurria.dcfis.ufro.cl
-NOERROR	1lab201.dis.ufro.cl
-NOERROR	ycastro.admcen.ufro.cl
-NOERROR	doctoradopsicologia.ufro.cl
-NOERROR	trehuaco.med.ufro.cl
-NOERROR	leng7.edu.ufro.cl
-NOERROR	dis04.inele.ufro.cl
-NOERROR	anat39.med.ufro.cl
-NOERROR	ssocial01.edu.ufro.cl
-NOERROR	wlprat.ufro.cl
-NOERROR	cemcc.ufro.cl
-NOERROR	wl180.inele.ufro.cl
-NOERROR	sala25.comp.ufro.cl
-NOERROR	period25.period.ufro.cl
-NOERROR	lonquimay.dis.ufro.cl
-NOERROR	dsp117.inele.ufro.cl
-NOERROR	wl10.inele.ufro.cl
-NOERROR	ima69.ufro.cl
-NOERROR	chaiguaco.med.ufro.cl
-NOERROR	doctoradocienciassociales.ufro.cl
-NOERROR	sala42.comp.ufro.cl
-NOERROR	monmz.dinfo.ufro.cl
-NOERROR	ranquil.med.ufro.cl
-NOERROR	cubo.ufro.cl
-NOERROR	ima88.ufro.cl
-NOERROR	terc13.edu.ufro.cl
-NOERROR	r207ip24.ufro.cl
-NOERROR	sala15.comp.ufro.cl
-NOERROR	sala11.comp.ufro.cl
-NOERROR	labpsbas05.psico.ufro.cl
-NOERROR	puren.dcfis.ufro.cl
-NOERROR	r207ip100.ufro.cl
-NOERROR	fc36.ufro.cl
-NOERROR	turbio.med.ufro.cl
-NOERROR	labo15.edu.ufro.cl
-NOERROR	incubatec2.ufro.cl
-NOERROR	vrac07.admcen.ufro.cl
-NOERROR	gvg101.dis.ufro.cl
-NOERROR	adm7.daye.ufro.cl
-NOERROR	fc18.ufro.cl
-SERVFAIL	foncre03.admcen.ufro.cl
-NOERROR	acami.dmat.ufro.cl
-NOERROR	billeke.dmat.ufro.cl
-NOERROR	sala48.comp.ufro.cl
-NOERROR	adm18.daye.ufro.cl
-NOERROR	iei167.iei.ufro.cl
-NOERROR	pc67.riie.ufro.cl
-NOERROR	diseno01.edu.ufro.cl
-NOERROR	agrdoc02.agroi.ufro.cl
-NOERROR	nahuel2.dinfo.ufro.cl
-NOERROR	ll01.edu.ufro.cl
-NOERROR	secdir.agroi.ufro.cl
-NOERROR	pc98.riie.ufro.cl
-NOERROR	vrac11.admcen.ufro.cl
-SERVFAIL	agro180.fagro.ufro.cl
-NOERROR	wifiprat.ufro.cl
-NOERROR	cprat46.ufro.cl
-NOERROR	forcont12.admcen.ufro.cl
-NOERROR	pewmayen.ufro.cl
-NOERROR	quin32.edu.ufro.cl
-NOERROR	trabajosocial.ufro.cl
-NOERROR	gatepsu.ufro.cl
-NOERROR	fc46.ufro.cl
-NOERROR	umatic22.ufro.cl
-NOERROR	sfs130.dis.ufro.cl
-NOERROR	dde.ufro.cl
-NOERROR	memo103.inele.ufro.cl
-NOERROR	qlikadserver.ufro.cl
-NOERROR	humanidades.ufro.cl
-NXDOMAIN	cgna77.cmccm.ufro.cl
-NOERROR	ojs.ufro.cl
-NOERROR	labcap210.admcen.ufro.cl
-NOERROR	cprat53.ufro.cl
-NOERROR	sig131.dis.ufro.cl
-NOERROR	dullin.dinfo.ufro.cl
-NOERROR	r207ip176.ufro.cl
-NOERROR	2lab51.daye.ufro.cl
-NOERROR	dirfin01.admcen.ufro.cl
-NOERROR	bib28.bib.ufro.cl
-NOERROR	bib30.bib.ufro.cl
-NOERROR	ancan.med.ufro.cl
-NOERROR	fudea162.admcen.ufro.cl
-NOERROR	fudea183.admcen.ufro.cl
-NOERROR	terc07.edu.ufro.cl
-NOERROR	r207ip39.ufro.cl
-NOERROR	r207ip118.ufro.cl
-NOERROR	pancho.dcfis.ufro.cl
-NOERROR	forcont05.admcen.ufro.cl
-NOERROR	agro176.fagro.ufro.cl
-NOERROR	dhcp2.bib.ufro.cl
-NOERROR	cprat87.ufro.cl
-SERVFAIL	ipv6.ufro.cl
-NOERROR	administracionyeconomia.ufro.cl
-NOERROR	bib11.bib.ufro.cl
-NOERROR	dge217.admcen.ufro.cl
-NXDOMAIN	www.vacunacovid.ufro.cl
-NOERROR	d206port.ufro.cl
-NOERROR	mireyap.psico.ufro.cl
-NOERROR	piloto.cmcc.ufro.cl
-NOERROR	frio.fagro.ufro.cl
-NOERROR	nahuelbuta.med.ufro.cl
-NOERROR	iei145.iei.ufro.cl
-NOERROR	cprat101.ufro.cl
-NOERROR	tele168.dis.ufro.cl
-NOERROR	ruka.cmcc.ufro.cl
-NOERROR	ociv100.fia.ufro.cl
-NOERROR	elicura.dcfis.ufro.cl
-NOERROR	labcap200.admcen.ufro.cl
-NOERROR	panol.inele.ufro.cl
-NOERROR	r207ip87.ufro.cl
-NOERROR	1lab213.dis.ufro.cl
-NOERROR	tele171.dis.ufro.cl
-NOERROR	temuco18.dis.ufro.cl
-SERVFAIL	sala47.comp.ufro.cl
-NOERROR	ccaa-ieel.inele.ufro.cl
-NOERROR	dspace.fica.ufro.cl
-NOERROR	adm19.daye.ufro.cl
-NOERROR	xtoledo.edu.ufro.cl
-NOERROR	scon1.ufro.cl
-NOERROR	temuco37.dis.ufro.cl
-NXDOMAIN	dirplan3.admcen.ufro.cl
-NOERROR	r207ip146.ufro.cl
-NOERROR	fondefintegracion.ufro.cl
-NOERROR	pc48.riie.ufro.cl
-NOERROR	cala.med.ufro.cl
-SERVFAIL	kultrun3.dinfo.ufro.cl
-NOERROR	nut226.med.ufro.cl
-NOERROR	sochedi2016.ufro.cl
-NOERROR	wifirec1.ufro.cl
-NOERROR	2lab50.daye.ufro.cl
-NOERROR	labo5.edu.ufro.cl
-NOERROR	gim217.dinfo.ufro.cl
-NOERROR	quelhue.med.ufro.cl
-NOERROR	gaterec2.admcen.ufro.cl
-NOERROR	r207ip34.ufro.cl
-SERVFAIL	temuco29.dis.ufro.cl
-NOERROR	cran.dme.ufro.cl
-NOERROR	pe13-109.admcen.ufro.cl
-NOERROR	r207ip175.ufro.cl
-NOERROR	r207ip93.ufro.cl
-NOERROR	rlara.edu.ufro.cl
-NOERROR	tomeco.med.ufro.cl
-NOERROR	cuar06.edu.ufro.cl
-NOERROR	gim231.dinfo.ufro.cl
-NOERROR	salad3.ufro.cl
-NOERROR	r207ip142.ufro.cl
-NOERROR	r207ip172.ufro.cl
-SERVFAIL	fudea165.admcen.ufro.cl
-NOERROR	r207ip8.ufro.cl
-NOERROR	proenta2.admcen.ufro.cl
-NOERROR	pc62.riie.ufro.cl
-NOERROR	secgra2.admcen.ufro.cl
-NOERROR	bodega01.admcen.ufro.cl
-NOERROR	calcol.med.ufro.cl
-NOERROR	gateedu4.ufro.cl
-NOERROR	antihuala.med.ufro.cl
-NOERROR	soc232.edu.ufro.cl
-NOERROR	gatecmcc.ufro.cl
-NOERROR	temuco10.dis.ufro.cl
-NOERROR	1lab204.dis.ufro.cl
-SERVFAIL	control.inele.ufro.cl
-NOERROR	proenta.ufro.cl
-NOERROR	jgonza.edu.ufro.cl
-NOERROR	www.mailing.ufro.cl
-NXDOMAIN	bib40.edu.ufro.cl
-NOERROR	did100p.admcen.ufro.cl
-NOERROR	ecsh.ufro.cl
-NOERROR	adm3.daye.ufro.cl
-NOERROR	iei132.iei.ufro.cl
-NOERROR	sim182.dis.ufro.cl
-SERVFAIL	dde2.ufro.cl
-NOERROR	biblio-admin.ufro.cl
-NOERROR	rlsoto.admcen.ufro.cl
-NOERROR	ociv104.fia.ufro.cl
-NOERROR	salat105.fagro.ufro.cl
-NOERROR	r207ip186.ufro.cl
-NOERROR	alimentacion.ufro.cl
-NOERROR	cinteg02.admcen.ufro.cl
-SERVFAIL	adm16.daye.ufro.cl
-NOERROR	ingles11.edu.ufro.cl
-NOERROR	sperez.edu.ufro.cl
-NOERROR	entomologia.ufro.cl
-NOERROR	ticket-soporte.ufro.cl
-NOERROR	quin14.edu.ufro.cl
-NOERROR	salat104.fagro.ufro.cl
-NOERROR	gatefia4.ufro.cl
-NOERROR	r207ip2.ufro.cl
-NOERROR	umatic13.ufro.cl
-NOERROR	presup02.admcen.ufro.cl
-NOERROR	agro150.fagro.ufro.cl
-NOERROR	agri295.agroi.ufro.cl
-NOERROR	ssocial05.edu.ufro.cl
-NOERROR	galletue.med.ufro.cl
-NOERROR	r207ip115.ufro.cl
-NOERROR	wificasino.ufro.cl
-NOERROR	ingecomer1.fia.ufro.cl
-NOERROR	www.lepfor.ufro.cl
-NOERROR	intercarreras.ufro.cl
-NOERROR	gateedu.ufro.cl
-SERVFAIL	bib35.bib.ufro.cl
-NOERROR	canelo.med.ufro.cl
-NOERROR	bib61.bib.ufro.cl
-NOERROR	vrip.admcen.ufro.cl
-NOERROR	ensayospsu.ufro.cl
-NOERROR	leng11.edu.ufro.cl
-NOERROR	ingles13.edu.ufro.cl
-NOERROR	server01.edu.ufro.cl
-NOERROR	terc02.edu.ufro.cl
-NOERROR	ociv105.fia.ufro.cl
-NOERROR	r207ip61.ufro.cl
-NOERROR	r207ip244.ufro.cl
-NOERROR	mpacheco.admcen.ufro.cl
-NOERROR	acreditacion.odontologia.ufro.cl
-SERVFAIL	ediaz.dim.ufro.cl
-NOERROR	r207ip28.ufro.cl
-NOERROR	quin28.edu.ufro.cl
-NOERROR	r207ip203.ufro.cl
-NOERROR	gim207.dinfo.ufro.cl
-NOERROR	mmunoz.edu.ufro.cl
-NOERROR	adm5.daye.ufro.cl
-NOERROR	elearning4.ufro.cl
-NOERROR	gatesalasd.ufro.cl
-NOERROR	wifiito.ufro.cl
-NOERROR	contab07.admcen.ufro.cl
-NOERROR	damasco.agroi.ufro.cl
-NOERROR	cprat62.ufro.cl
-NOERROR	ima75.ufro.cl
-NOERROR	umatic12.ufro.cl
-NOERROR	temuco32.dis.ufro.cl
-NOERROR	labcap206.admcen.ufro.cl
-NOERROR	dge205.admcen.ufro.cl
-NOERROR	liucura.med.ufro.cl
-NOERROR	msortiz.psico.ufro.cl
-NOERROR	cprat57.ufro.cl
-NOERROR	pc21.riie.ufro.cl
-NOERROR	r207ip148.ufro.cl
-NOERROR	labcap214.admcen.ufro.cl
-NOERROR	geometry2.ufro.cl
-SERVFAIL	gnava.edu.ufro.cl
-NOERROR	labcap220.admcen.ufro.cl
-NOERROR	1lab215.dis.ufro.cl
-NOERROR	labcap207.admcen.ufro.cl
-NOERROR	agrdoc13.agroi.ufro.cl
-NOERROR	temuco06.dis.ufro.cl
-SERVFAIL	newen.cmcc.ufro.cl
-NOERROR	verti04.ufro.cl
-NOERROR	gestionpostgrado.ufro.cl
-NOERROR	secpre.fia.ufro.cl
-NOERROR	pc36.riie.ufro.cl
-NOERROR	vizcarra.psico.ufro.cl
-NOERROR	agro160.fagro.ufro.cl
-NOERROR	cprat84.ufro.cl
-NOERROR	laboptica.dcfis.ufro.cl
-NOERROR	umatic39.ufro.cl
-NXDOMAIN	2lab30.daye.ufro.cl
-NOERROR	period2.period.ufro.cl
-NOERROR	adm1.daye.ufro.cl
-SERVFAIL	gim209.dinfo.ufro.cl
-NOERROR	dge236.admcen.ufro.cl
-NOERROR	agro151.fagro.ufro.cl
-NOERROR	salad207.ufro.cl
-NOERROR	r207ip221.ufro.cl
-NOERROR	pc66.riie.ufro.cl
-NOERROR	quin22.edu.ufro.cl
-NOERROR	r207ip11.ufro.cl
-NOERROR	agri2114.agroi.ufro.cl
-NOERROR	converginghorizons.ufro.cl
-NOERROR	gatemz.dinfo.ufro.cl
-NOERROR	wl213.inele.ufro.cl
-NOERROR	pifip002.edu.ufro.cl
-NXDOMAIN	vilcun.iie.ufro.cl
-NOERROR	www.ufro.cl
-NOERROR	pc43.riie.ufro.cl
-NOERROR	adm29.daye.ufro.cl
-NOERROR	starkey.inele.ufro.cl
-NOERROR	lopeteg.dmat.ufro.cl
-NOERROR	chaquehua.med.ufro.cl
-NOERROR	anat36.med.ufro.cl
-NOERROR	spineda.admcen.ufro.cl
-NOERROR	labcap202.admcen.ufro.cl
-NXDOMAIN	tolten.iie.ufro.cl
-SERVFAIL	period29.period.ufro.cl
-NOERROR	admision.ufro.cl
-NOERROR	avellano.med.ufro.cl
-NOERROR	encuentrosecretarias.ufro.cl
-NOERROR	iei154.iei.ufro.cl
-NOERROR	fc24.ufro.cl
-NOERROR	maquehue.med.ufro.cl
-NOERROR	rleal.dmat.ufro.cl
-NOERROR	wl209.inele.ufro.cl
-SERVFAIL	wl223.inele.ufro.cl
-SERVFAIL	gim229.dinfo.ufro.cl
-NOERROR	terc03.edu.ufro.cl
-NOERROR	csquim87.csquim.ufro.cl
-NXDOMAIN	2lab240.dis.ufro.cl
-NOERROR	pc9.riie.ufro.cl
-NOERROR	www.chem.ufro.cl
-NOERROR	gonzalez.agroi.ufro.cl
-NOERROR	ingles02.edu.ufro.cl
-NOERROR	r207ip194.ufro.cl
-NOERROR	cateduc.ufro.cl
-NOERROR	wl188.inele.ufro.cl
-NXDOMAIN	ceismo.dcfis.ufro.cl
-NOERROR	labmcul.fagro.ufro.cl
-NOERROR	temporal.dinfo.ufro.cl
-SERVFAIL	gateider.ider.ufro.cl
-NOERROR	mdenegri.psico.ufro.cl
-SERVFAIL	respaldo.dinfo.ufro.cl
-NOERROR	pc2.riie.ufro.cl
-NOERROR	secgra9.admcen.ufro.cl
-NOERROR	gim193.dinfo.ufro.cl
-NOERROR	agri2112.agroi.ufro.cl
-NOERROR	rcic.ufro.cl
-NOERROR	periodismo.ufro.cl
-NOERROR	cprat91.ufro.cl
-NOERROR	pc32.riie.ufro.cl
-NOERROR	ulmo.med.ufro.cl
-NOERROR	wifidircade.ufro.cl
-NOERROR	agro140.fagro.ufro.cl
-NOERROR	adm6.daye.ufro.cl
-NOERROR	labdie09.inele.ufro.cl
-NOERROR	hbetancourt.psico.ufro.cl
-NXDOMAIN	peumo.iie.ufro.cl
-SERVFAIL	dinamic14.ider.ufro.cl
-NOERROR	cvtest2020.ufro.cl
-NOERROR	csquim93.csquim.ufro.cl
-NOERROR	pregrado.ufro.cl
-NOERROR	sig147.dis.ufro.cl
-NOERROR	quin36.edu.ufro.cl
-NOERROR	umatic38.ufro.cl
-NOERROR	period12.period.ufro.cl
-NOERROR	pitrufquen.dcfis.ufro.cl
-NOERROR	codi.ufro.cl
-NOERROR	iei133.iei.ufro.cl
-NOERROR	agri270.agroi.ufro.cl
-NOERROR	cardiologia.ufro.cl
-NOERROR	preyes.ufro.cl
-NOERROR	contab04.admcen.ufro.cl
-NOERROR	op195.dis.ufro.cl
-NOERROR	ll04.edu.ufro.cl
-NXDOMAIN	control.ceii.ufro.cl
-NOERROR	cooperacion.ufro.cl
-NOERROR	diradmin.fia.ufro.cl
-NOERROR	labdie15.inele.ufro.cl
-NOERROR	r207ip70.ufro.cl
-NOERROR	period14.period.ufro.cl
-NOERROR	diper04.admcen.ufro.cl
-NOERROR	pc88.riie.ufro.cl
-NOERROR	pc110.riie.ufro.cl
-NOERROR	salara1004.ufro.cl
-NOERROR	vicedec.fia.ufro.cl
-NOERROR	cepec.ufro.cl
-NOERROR	coinco.med.ufro.cl
-NOERROR	maichihue.med.ufro.cl
-NOERROR	weche.dinfo.ufro.cl
-NOERROR	tele167.dis.ufro.cl
-NOERROR	r207ip112.ufro.cl
-NOERROR	cuar07.edu.ufro.cl
-NOERROR	dis02.inele.ufro.cl
-NOERROR	pc59.riie.ufro.cl
-NOERROR	pc-11.dmat.ufro.cl
-NOERROR	queen.inele.ufro.cl
-NOERROR	manio.med.ufro.cl
-NOERROR	vrac09.admcen.ufro.cl
-NOERROR	ssocial215.edu.ufro.cl
-NOERROR	salad208.ufro.cl
-NOERROR	o103.edu.ufro.cl
-NOERROR	pc35.riie.ufro.cl
-NOERROR	gatelabcap.admcen.ufro.cl
-NOERROR	redcap.ufro.cl
-NOERROR	quin05.edu.ufro.cl
-NOERROR	est.ceii.ufro.cl
-NOERROR	cprat25.ufro.cl
-NOERROR	fc34.ufro.cl
-NOERROR	rehue.inele.ufro.cl
-NOERROR	secdec2.fia.ufro.cl
-NOERROR	doitcip.ufro.cl
-SERVFAIL	red3pc01.iie.ufro.cl
-NOERROR	gatemat.dmat.ufro.cl
-NOERROR	r207ip170.ufro.cl
-NOERROR	adm14.daye.ufro.cl
-NOERROR	longlong.med.ufro.cl
-NOERROR	labo10.edu.ufro.cl
-NOERROR	r207ip77.ufro.cl
-NOERROR	pc84.riie.ufro.cl
-NOERROR	sfs131.dis.ufro.cl
-NOERROR	sala22.comp.ufro.cl
-NOERROR	multimedia.iie.ufro.cl
-NOERROR	r207ip62.ufro.cl
-NOERROR	sala36.comp.ufro.cl
-NOERROR	r207ip27.ufro.cl
-NOERROR	secgra6.admcen.ufro.cl
-NOERROR	r207ip199.ufro.cl
-NOERROR	asalame.edu.ufro.cl
-NOERROR	pidima.med.ufro.cl
-SERVFAIL	dinamic3.ider.ufro.cl
-NOERROR	anat41.med.ufro.cl
-NOERROR	temporal.dcfis.ufro.cl
-NOERROR	kudi.cmcc.ufro.cl
-NOERROR	cmcc95.cmcc.ufro.cl
-NOERROR	agri283.agroi.ufro.cl
-NOERROR	o107.edu.ufro.cl
-NOERROR	enin2014.ufro.cl
-NOERROR	pc29.riie.ufro.cl
-NOERROR	dsp116.inele.ufro.cl
-NOERROR	quin03.edu.ufro.cl
-NOERROR	mizona.ufro.cl
-NOERROR	csquim83.csquim.ufro.cl
-NOERROR	bib23.bib.ufro.cl
-NOERROR	wenu.dmat.ufro.cl
-NOERROR	nut218.med.ufro.cl
-NOERROR	iei139.iei.ufro.cl
-NOERROR	www.cibama.ufro.cl
-SERVFAIL	dsp119.inele.ufro.cl
-NOERROR	mecesup.dcfis.ufro.cl
-NOERROR	forcont09.admcen.ufro.cl
-NOERROR	pgprlatinoamericano2016.ufro.cl
-NOERROR	umatic16.ufro.cl
-NOERROR	webpay.ufro.cl
-SERVFAIL	dinamic1.ider.ufro.cl
-NOERROR	joomlavirtual.ufro.cl
-NOERROR	iei144.iei.ufro.cl
-NOERROR	licencia.dcfis.ufro.cl
-NOERROR	nutri235.med.ufro.cl
-NOERROR	wl199.inele.ufro.cl
-NOERROR	fc35.ufro.cl
-NOERROR	agri277.agroi.ufro.cl
-NOERROR	cprat52.ufro.cl
-NOERROR	dis01.inele.ufro.cl
-NOERROR	csquim109.csquim.ufro.cl
-NOERROR	sala29.comp.ufro.cl
-NOERROR	fsandova.admcen.ufro.cl
-NOERROR	e222.edu.ufro.cl
-NOERROR	sim175.dis.ufro.cl
-SERVFAIL	pc79.riie.ufro.cl
-SERVFAIL	ggalindo.admcen.ufro.cl
-NOERROR	asoto.edu.ufro.cl
-NOERROR	uportal.ufro.cl
-NOERROR	mvielh.dmat.ufro.cl
-NOERROR	llfica.cmcc.ufro.cl
-NOERROR	temp04.admcen.ufro.cl
-NOERROR	colga.med.ufro.cl
-NOERROR	cprat95.ufro.cl
-NOERROR	terc01.edu.ufro.cl
-NOERROR	ingles12.edu.ufro.cl
-NOERROR	sce.dis.ufro.cl
-NOERROR	agrdoc12.agroi.ufro.cl
-NOERROR	v-moodle.dinfo.ufro.cl
-NOERROR	ipv6.cmcc.ufro.cl
-NOERROR	seccar.dim.ufro.cl
-NOERROR	ajimenez.dinfo.ufro.cl
-NOERROR	wl53.ufro.cl
-NOERROR	ima78.ufro.cl
-SERVFAIL	memo108.inele.ufro.cl
-NOERROR	pifip.ufro.cl
-NOERROR	adm12.daye.ufro.cl
-NOERROR	cbor.agroi.ufro.cl
-NOERROR	iei171.iei.ufro.cl
-NOERROR	temuco28.dis.ufro.cl
-NOERROR	terc23.edu.ufro.cl
-NOERROR	dis03.inele.ufro.cl
-NOERROR	amoraga.admcen.ufro.cl
-NOERROR	bib25.bib.ufro.cl
-NOERROR	empleaemprende.ufro.cl
-NOERROR	r207ip75.ufro.cl
-NOERROR	quirihue.med.ufro.cl
-NOERROR	sala49.comp.ufro.cl
-NOERROR	werken.ufro.cl
-NOERROR	r207ip30.ufro.cl
-NOERROR	ima89.ufro.cl
-NOERROR	hilhue.med.ufro.cl
-SERVFAIL	wl171.inele.ufro.cl
-NOERROR	queule.med.ufro.cl
-NXDOMAIN	adecca.ufro.cl
-NOERROR	wifibibmed.ufro.cl
-NOERROR	gatedae.ufro.cl
-NOERROR	vinculacion.ufro.cl
-NOERROR	wifimed05.med.ufro.cl
-NOERROR	akeller.psico.ufro.cl
-NOERROR	cprat27.ufro.cl
-NOERROR	chilecompra7.admcen.ufro.cl
-NOERROR	agarin.edu.ufro.cl
-NXDOMAIN	246.edu.ufro.cl
-NOERROR	caihuico.med.ufro.cl
-SERVFAIL	dge215.admcen.ufro.cl
-NOERROR	sala50.comp.ufro.cl
-NOERROR	ociv116.fia.ufro.cl
-NOERROR	socio10.edu.ufro.cl
-NOERROR	fc11.ufro.cl
-NOERROR	anamaria.inele.ufro.cl
-NOERROR	lirio.med.ufro.cl
-NOERROR	orientaufro.ufro.cl
-NOERROR	adm23.daye.ufro.cl
-NOERROR	fc02.ufro.cl
-NOERROR	sala41.comp.ufro.cl
-NOERROR	wl16.inele.ufro.cl
-NOERROR	callcenter02.admcen.ufro.cl
-NOERROR	r207ip177.ufro.cl
-NOERROR	agro146.fagro.ufro.cl
-NOERROR	umatic04.ufro.cl
-NOERROR	verde.med.ufro.cl
-NOERROR	virtual2.ufro.cl
-NOERROR	umatic23.ufro.cl
-NXDOMAIN	www.capacitacion.ufro.cl
-NOERROR	impreutic.admcen.ufro.cl
-NOERROR	gim251.dinfo.ufro.cl
-NOERROR	cinteg07.admcen.ufro.cl
-NOERROR	r207ip85.ufro.cl
-NOERROR	jszige.edu.ufro.cl
-NOERROR	wifihemero.bib.ufro.cl
-NOERROR	wl196.inele.ufro.cl
-NOERROR	2lab42.daye.ufro.cl
-NOERROR	escuelaped.ufro.cl
-NOERROR	preufro01.ufro.cl
-NOERROR	dirplan10.admcen.ufro.cl
-NOERROR	r207ip125.ufro.cl
-NOERROR	iei151.iei.ufro.cl
-NOERROR	dirpersonal.ufro.cl
-NOERROR	salara1003.ufro.cl
-NOERROR	period45.period.ufro.cl
-NOERROR	peral.med.ufro.cl
-NOERROR	dis05.inele.ufro.cl
-NOERROR	iei158.iei.ufro.cl
-NOERROR	chilecompra1.admcen.ufro.cl
-NOERROR	labcap217.admcen.ufro.cl
-NOERROR	fismed.dcfis.ufro.cl
-NOERROR	contr02.admcen.ufro.cl
-NOERROR	lmicro.agroi.ufro.cl
-NOERROR	csquim79.csquim.ufro.cl
-NOERROR	gor52.ufro.cl
-NOERROR	1lab208.dis.ufro.cl
-NOERROR	quilaco.med.ufro.cl
-NOERROR	wifi10.inele.ufro.cl
-NOERROR	quin17.edu.ufro.cl
-NOERROR	puren.med.ufro.cl
-NOERROR	r207ip36.ufro.cl
-NOERROR	wifiiei.iei.ufro.cl
-NOERROR	r207ip207.ufro.cl
-NOERROR	pc45.riie.ufro.cl
-SERVFAIL	herreram.admcen.ufro.cl
-NOERROR	operador.edu.ufro.cl
-NOERROR	r207ip113.ufro.cl
-NOERROR	jardin.ufro.cl
-NOERROR	jcortes.dmat.ufro.cl
-NOERROR	prof1.fia.ufro.cl
-NOERROR	r207ip160.ufro.cl
-NOERROR	proenta3.admcen.ufro.cl
-NOERROR	cerezo.med.ufro.cl
-NOERROR	r207ip140.ufro.cl
-NOERROR	period26.period.ufro.cl
-NOERROR	claudia.agroi.ufro.cl
-NOERROR	r207ip76.ufro.cl
-NOERROR	pifip04.edu.ufro.cl
-NOERROR	r207ip18.ufro.cl
-NOERROR	pc12.riie.ufro.cl
-SERVFAIL	ociv97.fia.ufro.cl
-NOERROR	saavedra.med.ufro.cl
-NOERROR	r207ip183.ufro.cl
-NOERROR	www.cmcc.ufro.cl
-NOERROR	cinteg10.admcen.ufro.cl
-NOERROR	cprat99.ufro.cl
-NOERROR	salad108.ufro.cl
-NOERROR	rolando.agroi.ufro.cl
-NOERROR	ingmat.ufro.cl
-NXDOMAIN	web.cmcc.ufro.cl
-NOERROR	estudiosindigenas.ufro.cl
-NOERROR	matlab.cmcc.ufro.cl
-NOERROR	invent05.admcen.ufro.cl
-NOERROR	centrodelagua.ufro.cl
-NOERROR	nutri.med.ufro.cl
-NOERROR	r207ip234.ufro.cl
-NOERROR	cinteg08.admcen.ufro.cl
-NOERROR	valvarez.admcen.ufro.cl
-NOERROR	temuco13.dis.ufro.cl
-NOERROR	datacenter2.dinfo.ufro.cl
-NOERROR	flori.dmat.ufro.cl
-NOERROR	gatefica.ufro.cl
-NOERROR	pc28.riie.ufro.cl
-NOERROR	cprat115.ufro.cl
-NOERROR	cprat108.ufro.cl
-NXDOMAIN	red7pc01.iie.ufro.cl
-NOERROR	forufro.ufro.cl
-NOERROR	tele170.dis.ufro.cl
-NOERROR	evinet.psico.ufro.cl
-NOERROR	pitrunco.med.ufro.cl
-NOERROR	eucaliptus.med.ufro.cl
-NOERROR	r207ip55.ufro.cl
-NOERROR	soc08.edu.ufro.cl
-NOERROR	conguil.med.ufro.cl
-NOERROR	mensajes.ufro.cl
-NOERROR	doc96.dim.ufro.cl
-NOERROR	www.inele.ufro.cl
-NOERROR	r207ip240.ufro.cl
-NOERROR	2lab237.dis.ufro.cl
-NOERROR	r207ip168.ufro.cl
-NOERROR	ffuentea.admcen.ufro.cl
-NOERROR	op193.dis.ufro.cl
-NOERROR	mvidal.dmat.ufro.cl
-NOERROR	mgonzale.psico.ufro.cl
-NOERROR	pc-10.dmat.ufro.cl
-NOERROR	pc31.riie.ufro.cl
-NOERROR	webphg.ufro.cl
-NOERROR	mgajardo.dinfo.ufro.cl
-NOERROR	dircpa.ufro.cl
-NOERROR	aillapan.med.ufro.cl
-NOERROR	forcont07.admcen.ufro.cl
-NOERROR	agri2118.agroi.ufro.cl
-NOERROR	wl64.ufro.cl
-NOERROR	r207ip114.ufro.cl
-NOERROR	archivo.ufro.cl
-NOERROR	period3.period.ufro.cl
-NOERROR	forcont10.admcen.ufro.cl
-NOERROR	labmateriales.ufro.cl
-NOERROR	mpjf.ufro.cl
-NOERROR	wl206.inele.ufro.cl
-NOERROR	derecho.ufro.cl
-NOERROR	cre06.admcen.ufro.cl
-NOERROR	tanilvoro.med.ufro.cl
-SERVFAIL	dinamic4.ider.ufro.cl
-NOERROR	coordsocio.edu.ufro.cl
-NOERROR	iei186.iei.ufro.cl
-NOERROR	tirivel.med.ufro.cl
-NOERROR	innovacion.iie.ufro.cl
-SERVFAIL	labcap219.admcen.ufro.cl
-NOERROR	cprat65.ufro.cl
-NOERROR	wificlin.psico.ufro.cl
-NOERROR	mcmf.ufro.cl
-NOERROR	www3.ufro.cl
-NOERROR	csquim86.csquim.ufro.cl
-NOERROR	secgra7.admcen.ufro.cl
-NOERROR	wl25.inele.ufro.cl
-NOERROR	labcap205.admcen.ufro.cl
-NOERROR	cprat40.ufro.cl
-NOERROR	utic-test.ufro.cl
-NOERROR	terapiafamiliar.ufro.cl
-NOERROR	quin35.edu.ufro.cl
-NOERROR	pucahuen.med.ufro.cl
-NOERROR	wl219.inele.ufro.cl
-NOERROR	labdie08.inele.ufro.cl
-NOERROR	agromod.cmcc.ufro.cl
-NOERROR	fruta.agroi.ufro.cl
-SERVFAIL	agro159.fagro.ufro.cl
-NOERROR	cprat119.ufro.cl
-NOERROR	terc26.edu.ufro.cl
-NOERROR	cbmagis02.med.ufro.cl
-NOERROR	pc81.riie.ufro.cl
-SERVFAIL	donguil.med.ufro.cl
-NOERROR	leng9.edu.ufro.cl
-NOERROR	gatelabcap.ufro.cl
-NOERROR	labcap209.admcen.ufro.cl
-NOERROR	gatepsico.ufro.cl
-NOERROR	tele164.dis.ufro.cl
-NOERROR	trarileufu.med.ufro.cl
-NOERROR	forcont13.admcen.ufro.cl
-SERVFAIL	trumao.med.ufro.cl
-NXDOMAIN	cgna81.cmccm.ufro.cl
-SERVFAIL	bib59.bib.ufro.cl
-NOERROR	memo02.dis.ufro.cl
-NOERROR	postgrado.ufro.cl
-NOERROR	agri2106.agroi.ufro.cl
-NOERROR	ayun.cmcc.ufro.cl
-NOERROR	iei175.iei.ufro.cl
-NOERROR	gim218.dinfo.ufro.cl
-NOERROR	femenil.inele.ufro.cl
-NOERROR	capsico.psico.ufro.cl
-NOERROR	labmedios.ufro.cl
-NOERROR	fudea168.admcen.ufro.cl
-NOERROR	adm25.daye.ufro.cl
-NOERROR	www.doctoradorrnn.ufro.cl
-NOERROR	cprat74.ufro.cl
-NOERROR	gatepsico.psico.ufro.cl
-NOERROR	r207ip127.ufro.cl
-NOERROR	cprat117.ufro.cl
-NOERROR	d206conf.ufro.cl
-NOERROR	r207ip124.ufro.cl
-NOERROR	cprat67.ufro.cl
-NOERROR	dsp115.inele.ufro.cl
-NOERROR	coilaco.med.ufro.cl
-NXDOMAIN	lonquimay.iie.ufro.cl
-NOERROR	gatedfis.ufro.cl
-NOERROR	wl52.ufro.cl
-NOERROR	r207ip83.ufro.cl
-NOERROR	fro0104.edu.ufro.cl
-NOERROR	ramtun2n.ufro.cl
-NOERROR	agro166.fagro.ufro.cl
-NOERROR	gim245.dinfo.ufro.cl
-NOERROR	temuco26.dis.ufro.cl
-NOERROR	social.ufro.cl
-NOERROR	pc-12.dmat.ufro.cl
-SERVFAIL	wl11.inele.ufro.cl
-NOERROR	gateufro.ufro.cl
-NOERROR	salad105.ufro.cl
-NOERROR	rariruca.med.ufro.cl
-NOERROR	convenio.ufro.cl
-NOERROR	huinfiuca.med.ufro.cl
-NOERROR	programasdocentes.ufro.cl
-NOERROR	gatedae.dae.ufro.cl
-NOERROR	period15.period.ufro.cl
-NOERROR	r207ip67.ufro.cl
-NOERROR	r207ip110.ufro.cl
-NOERROR	dge224.admcen.ufro.cl
-NOERROR	portal.ufro.cl
-NOERROR	gballad.psico.ufro.cl
-NOERROR	wl14.inele.ufro.cl
-NOERROR	csquim67.csquim.ufro.cl
-NOERROR	r207ip219.ufro.cl
-NOERROR	fc28.ufro.cl
-NOERROR	cprat28.ufro.cl
-NOERROR	r207ip198.ufro.cl
-NOERROR	lautaro.cmcc.ufro.cl
-NOERROR	period16.period.ufro.cl
-NOERROR	wl57.ufro.cl
-NOERROR	labpsbas07.psico.ufro.cl
-NOERROR	labo11.edu.ufro.cl
-NOERROR	magisterencomunicacion.ufro.cl
-NOERROR	neuro02.ufro.cl
-NOERROR	period28.period.ufro.cl
-NOERROR	pc92.riie.ufro.cl
-NOERROR	virtual1.ufro.cl
-NOERROR	labo2.edu.ufro.cl
-NOERROR	r207ip74.ufro.cl
-NOERROR	postulacion.ufro.cl
-NOERROR	r207ip29.ufro.cl
-NOERROR	tulipan.med.ufro.cl
-NOERROR	tegualda.dcfis.ufro.cl
-NOERROR	t2.edu.ufro.cl
-NOERROR	pilpilco.med.ufro.cl
-NOERROR	fudea177.admcen.ufro.cl
-NOERROR	mechuque.med.ufro.cl
-NOERROR	quimeyco.med.ufro.cl
-NOERROR	wifimed03.med.ufro.cl
-NOERROR	chaquilcura.med.ufro.cl
-NOERROR	labcap218.admcen.ufro.cl
-NOERROR	ociv119.fia.ufro.cl
-NOERROR	wl175.inele.ufro.cl
-NOERROR	toqui.dcfis.ufro.cl
-NOERROR	temuco30.dis.ufro.cl
-NOERROR	millaray.inele.ufro.cl
-NOERROR	wifipsico.ufro.cl
-NOERROR	pc6.riie.ufro.cl
-NOERROR	cshis.edu.ufro.cl
-NOERROR	misael1.inele.ufro.cl
-NOERROR	r207ip248.ufro.cl
-NOERROR	muco.med.ufro.cl
-NOERROR	presup06.admcen.ufro.cl
-NOERROR	gaterec3.ufro.cl
-NOERROR	dge195.admcen.ufro.cl
-NOERROR	wl177.inele.ufro.cl
-NOERROR	cprat125.ufro.cl
-NXDOMAIN	contab0.agroi.ufro.cl
-NXDOMAIN	cgna83.cmccm.ufro.cl
-NOERROR	doctoradobiomol.ufro.cl
-NOERROR	telemed.ufro.cl
-NOERROR	pc77.riie.ufro.cl
-NOERROR	wl201.inele.ufro.cl
-NOERROR	temuco03.dis.ufro.cl
-NOERROR	catdinfo.ufro.cl
-NOERROR	wl190.inele.ufro.cl
-NOERROR	sala12.comp.ufro.cl
-NOERROR	fudea161.admcen.ufro.cl
-NOERROR	pc44.riie.ufro.cl
-NOERROR	sdelgado.dinfo.ufro.cl
-NOERROR	scon3.ufro.cl
-NOERROR	amorales.csquim.ufro.cl
-NOERROR	r207ip225.ufro.cl
-NOERROR	gim200.dinfo.ufro.cl
-NOERROR	repositoriovcm.ufro.cl
-NOERROR	icel.ufro.cl
-NOERROR	cprat34.ufro.cl
-NOERROR	malleco.med.ufro.cl
-NOERROR	voipir.med.ufro.cl
-NOERROR	cprat124.ufro.cl
-NOERROR	labinfo2.fagro.ufro.cl
-NXDOMAIN	adm2.ufro.cl
-NOERROR	ociv113.fia.ufro.cl
-NOERROR	umatic45.ufro.cl
-NOERROR	win-155e5t8npk3.ufro.cl
-NOERROR	contr04.admcen.ufro.cl
-NOERROR	secadm.edu.ufro.cl
-NOERROR	umatic30.ufro.cl
-NOERROR	sauce.med.ufro.cl
-NXDOMAIN	freire.iie.ufro.cl
-NOERROR	fc49.ufro.cl
-NOERROR	r207ip108.ufro.cl
-NOERROR	csprof01.edu.ufro.cl
-SERVFAIL	gim196.dinfo.ufro.cl
-NXDOMAIN	ociv110.fia.ufro.cl
-NOERROR	cuar01.edu.ufro.cl
-NOERROR	smartcity.ufro.cl
-NOERROR	dge219.admcen.ufro.cl
-SERVFAIL	cautin.dcfis.ufro.cl
-NOERROR	iei161.iei.ufro.cl
-SERVFAIL	huesyusca.med.ufro.cl
-NOERROR	clarke.inele.ufro.cl
-NOERROR	r207ip165.ufro.cl
-NOERROR	agri282.agroi.ufro.cl
-NOERROR	ggacitua.dinfo.ufro.cl
-NOERROR	biene7.admcen.ufro.cl
-NOERROR	cprat33.ufro.cl
-SERVFAIL	temuco16.dis.ufro.cl
-NOERROR	secgra4.admcen.ufro.cl
-NOERROR	pidenco.med.ufro.cl
-NOERROR	agrofor.ufro.cl
-NOERROR	srvmedicina.ufro.cl
-NOERROR	agri268.agroi.ufro.cl
-NOERROR	dge208.admcen.ufro.cl
-NOERROR	sala43.comp.ufro.cl
-SERVFAIL	dinamic8.ider.ufro.cl
-NOERROR	raqui.med.ufro.cl
-NOERROR	wago.inele.ufro.cl
-NOERROR	salara1002.ufro.cl
-NOERROR	r207ip169.ufro.cl
-NOERROR	labdie12.inele.ufro.cl
-NOERROR	wl198.inele.ufro.cl
-NXDOMAIN	hualle.iie.ufro.cl
-NOERROR	cprat26.ufro.cl
-NOERROR	labidio02.ufro.cl
-NOERROR	srv-journals.ufro.cl
-NOERROR	wififagro1.ufro.cl
-NOERROR	r207ip134.ufro.cl
-NOERROR	gateagroi.agroi.ufro.cl
-NOERROR	quin37.edu.ufro.cl
-NOERROR	eval03.admcen.ufro.cl
-NOERROR	gateper.ufro.cl
-NOERROR	ociv123.fia.ufro.cl
-NOERROR	wifiselva.ufro.cl
-NOERROR	gatemov.ufro.cl
-NOERROR	icia.agroi.ufro.cl
-NOERROR	notedge.admcen.ufro.cl
-NOERROR	agroconf.ufro.cl
-SERVFAIL	comuy.med.ufro.cl
-NOERROR	rbaeza1.dmat.ufro.cl
-NOERROR	agrdoc09.agroi.ufro.cl
-NOERROR	iei146.iei.ufro.cl
-NOERROR	deca117.fia.ufro.cl
-NOERROR	llesquehue.med.ufro.cl
-NOERROR	flota.ufro.cl
-NOERROR	pc14.riie.ufro.cl
-NOERROR	iei141.iei.ufro.cl
-NXDOMAIN	boldow.iie.ufro.cl
-NOERROR	r207ip205.ufro.cl
-NOERROR	desarrollohumano.ufro.cl
-NOERROR	op196.dis.ufro.cl
-NOERROR	cprat22.ufro.cl
-NOERROR	cbmagis04.med.ufro.cl
-NOERROR	vrac04.admcen.ufro.cl
-NXDOMAIN	hgonzale.iie.ufro.cl
-NOERROR	2lab221.dis.ufro.cl
-NXDOMAIN	www.adecaa.ufro.cl
-NOERROR	victoria.dcfis.ufro.cl
-NOERROR	lenca.med.ufro.cl
-NOERROR	socio09.edu.ufro.cl
-NOERROR	divservicios.ufro.cl
-NOERROR	pc-00.dmat.ufro.cl
-NOERROR	enco.med.ufro.cl
-NOERROR	2lab41.daye.ufro.cl
-NOERROR	tepa.med.ufro.cl
-NOERROR	www.caos.ufro.cl
-NOERROR	ima73.ufro.cl
-NXDOMAIN	rauli.iie.ufro.cl
-NOERROR	iei164.iei.ufro.cl
-NOERROR	cautin.med.ufro.cl
-NOERROR	agri290.agroi.ufro.cl
-NOERROR	conrec2.admcen.ufro.cl
-NOERROR	sala51.comp.ufro.cl
-NOERROR	seccarr.dim.ufro.cl
-NOERROR	secgra10.admcen.ufro.cl
-NOERROR	iei149.iei.ufro.cl
-NOERROR	gatessocial.edu.ufro.cl
-NOERROR	educ4.edu.ufro.cl
-NOERROR	r207ip141.ufro.cl
-NOERROR	csquim107.csquim.ufro.cl
-NOERROR	wl194.inele.ufro.cl
-NOERROR	quin06.edu.ufro.cl
-NOERROR	labdie03.inele.ufro.cl
-NOERROR	einzunza.admcen.ufro.cl
-NOERROR	gim225.dinfo.ufro.cl
-NOERROR	amansill.dmat.ufro.cl
-NXDOMAIN	cgna82.cmccm.ufro.cl
-NOERROR	sfs138.dis.ufro.cl
-NOERROR	gatemicro.ufro.cl
-NOERROR	trolon.ufro.cl
-NOERROR	ingenieriaenconstruccion.ufro.cl
-NXDOMAIN	qagro141.fagro.ufro.cl
-NOERROR	agroindustria.ufro.cl
-NOERROR	moncul.med.ufro.cl
-NOERROR	lonconao.med.ufro.cl
-NXDOMAIN	gatemgim.ufro.cl
-NOERROR	paliaike.dmat.ufro.cl
-NOERROR	sig144.dis.ufro.cl
-NOERROR	norma.inele.ufro.cl
-NOERROR	pc50.riie.ufro.cl
-NOERROR	doctoradoeducacion.ufro.cl
-NOERROR	gatefis.dcfis.ufro.cl
-NOERROR	ssocial21.edu.ufro.cl
-NOERROR	gim249.dinfo.ufro.cl
-NOERROR	doc74.dim.ufro.cl
-NOERROR	dge202.admcen.ufro.cl
-NOERROR	ociv107.fia.ufro.cl
-NOERROR	forufro2.ufro.cl
-NOERROR	pc70.riie.ufro.cl
-SERVFAIL	java.dis.ufro.cl
-NXDOMAIN	www.codi.ufro.cl
-SERVFAIL	antu.cmcc.ufro.cl
-SERVFAIL	dinamic11.ider.ufro.cl
-NOERROR	pc96.riie.ufro.cl
-NOERROR	pc10.riie.ufro.cl
-NOERROR	r207ip206.ufro.cl
-NOERROR	labdie10.inele.ufro.cl
-NOERROR	cprat59.ufro.cl
-SERVFAIL	mgmorfo05.med.ufro.cl
-NOERROR	wl174.inele.ufro.cl
-NXDOMAIN	erp-server.ufro.cl
-NOERROR	tui.ufro.cl
-NOERROR	temuco20.dis.ufro.cl
-NOERROR	feufro01.ufro.cl
-NOERROR	secu2.ufro.cl
-NOERROR	cprat48.ufro.cl
-NOERROR	weichan.med.ufro.cl
-NOERROR	pc24.riie.ufro.cl
-NOERROR	sv2a1.ceii.ufro.cl
-NOERROR	ufro.cl
-NOERROR	dge204.admcen.ufro.cl
-NOERROR	labg04.edu.ufro.cl
-NOERROR	iei165.iei.ufro.cl
-NOERROR	pc-07.dmat.ufro.cl
-NOERROR	pc82.riie.ufro.cl
-NOERROR	lomacura.med.ufro.cl
-SERVFAIL	static2.ider.ufro.cl
-NOERROR	jher.edu.ufro.cl
-NOERROR	adm10.daye.ufro.cl
-NOERROR	pc86.riie.ufro.cl
-NOERROR	sala40.comp.ufro.cl
-NOERROR	ayu1.dcfis.ufro.cl
-NOERROR	r207ip69.ufro.cl
-SERVFAIL	temuco33.dis.ufro.cl
-NOERROR	lia.dis.ufro.cl
-NOERROR	trailanqui.med.ufro.cl
-NOERROR	ll06.edu.ufro.cl
-NOERROR	boldo.med.ufro.cl
-NOERROR	secdec.fia.ufro.cl
-NOERROR	abast02.admcen.ufro.cl
-NOERROR	salara1001.ufro.cl
-SERVFAIL	static1.ider.ufro.cl
-NOERROR	fquejer.admcen.ufro.cl
-NOERROR	secbiene.admcen.ufro.cl
-NOERROR	cprat60.ufro.cl
-NOERROR	gateing.ufro.cl
-NOERROR	period27.period.ufro.cl
-NOERROR	r207ip25.ufro.cl
-NOERROR	llancahue.med.ufro.cl
-NXDOMAIN	law3m.dcfis.ufro.cl
-NOERROR	divserv3.admcen.ufro.cl
-NOERROR	damas.med.ufro.cl
-NOERROR	ssocial15.edu.ufro.cl
-NOERROR	umatic24.ufro.cl
-NOERROR	gim206.dinfo.ufro.cl
-SERVFAIL	allipen.med.ufro.cl
-NOERROR	wifipaba.ufro.cl
-SERVFAIL	rector5.admcen.ufro.cl
-NOERROR	sv3.ceii.ufro.cl
-NOERROR	cburg.dmat.ufro.cl
-NOERROR	secu.ufro.cl
-NOERROR	pc69.riie.ufro.cl
-NOERROR	fudea174.admcen.ufro.cl
-NOERROR	r207ip210.ufro.cl
-NOERROR	wl191.inele.ufro.cl
-NOERROR	calafquen.med.ufro.cl
-NOERROR	agroecologia.ufro.cl
-NOERROR	ingles09.edu.ufro.cl
-NOERROR	period23.period.ufro.cl
-NOERROR	ssocial03.edu.ufro.cl
-NOERROR	salad100.ufro.cl
-NOERROR	diseno07.edu.ufro.cl
-NOERROR	bodega02.admcen.ufro.cl
-NOERROR	sala44.comp.ufro.cl
-NOERROR	fc48.ufro.cl
-NOERROR	r207ip254.ufro.cl
-NOERROR	edison.inele.ufro.cl
-SERVFAIL	dge223.admcen.ufro.cl
-SERVFAIL	labcap216.admcen.ufro.cl
-NOERROR	olivo.med.ufro.cl
-NOERROR	wifidinfo.ufro.cl
-NOERROR	imprenta1.admcen.ufro.cl
-NOERROR	murta.med.ufro.cl
-NOERROR	potente.inele.ufro.cl
-NOERROR	secvrip.admcen.ufro.cl
-NOERROR	verti01.ufro.cl
-NOERROR	cip.ufro.cl
-NOERROR	ebiol.agroi.ufro.cl
-NOERROR	pino.med.ufro.cl
-NOERROR	r207ip153.ufro.cl
-NOERROR	competenciasgenericas.ufro.cl
-NOERROR	wl181.inele.ufro.cl
-NOERROR	epuno.dmat.ufro.cl
-NOERROR	kullin.dinfo.ufro.cl
-NOERROR	fc27.ufro.cl
-NXDOMAIN	est.dci.ufro.cl
-NOERROR	period10.period.ufro.cl
-NOERROR	iei148.iei.ufro.cl
-NOERROR	prof2.fia.ufro.cl
-NOERROR	wl210.inele.ufro.cl
-NOERROR	dumo.med.ufro.cl
-NOERROR	www.agrofor.ufro.cl
-NOERROR	cmcc.ufro.cl
-NOERROR	internationalworkshop.ufro.cl
-NOERROR	coronavirus.ufro.cl
-NOERROR	r207ip187.ufro.cl
-NOERROR	gim230.dinfo.ufro.cl
-NOERROR	mirror.ufro.cl
-NOERROR	lloco.med.ufro.cl
-NOERROR	r207ip195.ufro.cl
-NOERROR	mahuilque.med.ufro.cl
-NOERROR	pe13-116.admcen.ufro.cl
-NOERROR	fc44.ufro.cl
-NOERROR	sala18.comp.ufro.cl
-NOERROR	csquim78.csquim.ufro.cl
-NOERROR	mem.ufro.cl
-NOERROR	gim239.dinfo.ufro.cl
-NOERROR	wifi7.inele.ufro.cl
-NOERROR	cprat81.ufro.cl
-NOERROR	iei152.iei.ufro.cl
-NOERROR	wl182.inele.ufro.cl
-NOERROR	magistercienciassociales.ufro.cl
-NOERROR	defelen.dinfo.ufro.cl
-NOERROR	sala54.comp.ufro.cl
-NXDOMAIN	hgonzale2.iie.ufro.cl
-NOERROR	bib24.bib.ufro.cl
-NOERROR	relun.med.ufro.cl
-NOERROR	www.geometry.ufro.cl
-NOERROR	r207ip17.ufro.cl
-NOERROR	www.melton.ufro.cl
-NOERROR	tilo.med.ufro.cl
-NOERROR	secdirinv.admcen.ufro.cl
-NOERROR	r207ip137.ufro.cl
-NOERROR	vraf03.admcen.ufro.cl
-NOERROR	bib21.bib.ufro.cl
-NOERROR	quin25.edu.ufro.cl
-SERVFAIL	r207ip116.ufro.cl
-NOERROR	frutilla.agroi.ufro.cl
-NOERROR	kultrun4.dinfo.ufro.cl
-NXDOMAIN	malal.cmcc.ufro.cl
-NOERROR	fc30.ufro.cl
-NOERROR	stuniej.edu.ufro.cl
-NOERROR	gatefia2.ufro.cl
-NOERROR	juanrojo.dinfo.ufro.cl
-NOERROR	fc23.ufro.cl
-NOERROR	virtualeduca.ufro.cl
-NOERROR	quin23.edu.ufro.cl
-NOERROR	chilecompra5.admcen.ufro.cl
-NOERROR	estatutos.ufro.cl
-NOERROR	wifi3.inele.ufro.cl
-NOERROR	molco.med.ufro.cl
-NOERROR	dge206.admcen.ufro.cl
-NOERROR	cprat94.ufro.cl
-NOERROR	terc18.edu.ufro.cl
-NOERROR	helgagud.psico.ufro.cl
-NOERROR	dirport.admcen.ufro.cl
-NOERROR	soc06.edu.ufro.cl
-NOERROR	fc37.ufro.cl
-NOERROR	cplopez.admcen.ufro.cl
-NOERROR	salad104.ufro.cl
-NOERROR	licanray.med.ufro.cl
-NOERROR	agri291.agroi.ufro.cl
-NOERROR	tromen.med.ufro.cl
-NOERROR	naros.fia.ufro.cl
-NOERROR	quin01.edu.ufro.cl
-NOERROR	egonzale.admcen.ufro.cl
-NOERROR	marisolg.admcen.ufro.cl
-NOERROR	1lab217.dis.ufro.cl
-NOERROR	sala19.comp.ufro.cl
-NOERROR	cprat70.ufro.cl
-NOERROR	antuco.med.ufro.cl
-NOERROR	wl224.inele.ufro.cl
-NOERROR	period19.period.ufro.cl
-NOERROR	rromo.dmat.ufro.cl
-NOERROR	csquim102.csquim.ufro.cl
-NOERROR	csquim94.csquim.ufro.cl
-NOERROR	wl20.inele.ufro.cl
-NOERROR	cprat112.ufro.cl
-NOERROR	labmec01.dim.ufro.cl
-NOERROR	wl221.inele.ufro.cl
-NOERROR	vacunacovid.ufro.cl
-NOERROR	ssocial19.edu.ufro.cl
-NXDOMAIN	cgna84.cmccm.ufro.cl
-NOERROR	diper08.admcen.ufro.cl
-NOERROR	labdie07.inele.ufro.cl
-NOERROR	fudea176.admcen.ufro.cl
-NOERROR	r207ip122.ufro.cl
-NOERROR	ciepatagonia.ufro.cl
-NOERROR	ise.ufro.cl
-NOERROR	preufro.ufro.cl
-NOERROR	quetaco.med.ufro.cl
-NOERROR	mailgw2.ufro.cl
-NOERROR	pc60.riie.ufro.cl
-NOERROR	period11.period.ufro.cl
-NOERROR	1lab207.dis.ufro.cl
-NXDOMAIN	www.dis.ufro.cl
-NOERROR	r207ip238.ufro.cl
-NOERROR	pc47.riie.ufro.cl
-NOERROR	cprat118.ufro.cl
-NOERROR	quin10.edu.ufro.cl
-NOERROR	werken2.ufro.cl
-NOERROR	itata.med.ufro.cl
-NOERROR	r207ip231.ufro.cl
-NOERROR	piri.ufro.cl
-NOERROR	cvidal.dinfo.ufro.cl
-SERVFAIL	gim210.dinfo.ufro.cl
-NOERROR	csquim108.csquim.ufro.cl
-NOERROR	salad101.ufro.cl
-NOERROR	umatic43.ufro.cl
-NOERROR	labcomp.cmcc.ufro.cl
-NOERROR	pe12-117.admcen.ufro.cl
-NOERROR	adminip.ufro.cl
-NOERROR	srv-autoevaluacion.ufro.cl
-NOERROR	umatic02.ufro.cl
-NOERROR	lonco.dcfis.ufro.cl
-NOERROR	harrison.inele.ufro.cl
-NOERROR	www.capacit.ufro.cl
-NOERROR	gateinele.ufro.cl
-NOERROR	r207ip241.ufro.cl
-NOERROR	intranet2.ufro.cl
-NOERROR	vcarrasco.edu.ufro.cl
-NOERROR	shiva.ufro.cl
-NOERROR	o202-05.edu.ufro.cl
-NOERROR	bib37.bib.ufro.cl
-NOERROR	fudea182.admcen.ufro.cl
-NOERROR	pc5.riie.ufro.cl
-NOERROR	wl56.ufro.cl
-NOERROR	tesistas01.dinfo.ufro.cl
-NOERROR	ociv101.fia.ufro.cl
-NOERROR	quelhuenco.med.ufro.cl
-NOERROR	rukamanke.cmcc.ufro.cl
-NOERROR	huechulpun.med.ufro.cl
-NOERROR	iei185.iei.ufro.cl
-NOERROR	secgra8.admcen.ufro.cl
-NOERROR	bib20.bib.ufro.cl
-NOERROR	plan2030.ufro.cl
-NXDOMAIN	academicos.fcje.ufro.cl
-NOERROR	r207ip53.ufro.cl
-NOERROR	foncre01.admcen.ufro.cl
-NOERROR	iei173.iei.ufro.cl
-NOERROR	rperezluco.psico.ufro.cl
-NOERROR	mahuidanchi.med.ufro.cl
-NOERROR	wl222.inele.ufro.cl
-NOERROR	phe.admcen.ufro.cl
-NOERROR	tesore1.admcen.ufro.cl
-NOERROR	gateadm.daye.ufro.cl
-NOERROR	doctoradobioprocesos.ufro.cl
-NOERROR	educ3.edu.ufro.cl
-NOERROR	presup05.admcen.ufro.cl
-NOERROR	cromero.edu.ufro.cl
-NOERROR	alamos.dmat.ufro.cl
-NOERROR	beethoven.inele.ufro.cl
-NOERROR	wifipriv1.edu.ufro.cl
-NOERROR	devfin01.admcen.ufro.cl
-NOERROR	jbusta.dcfis.ufro.cl
-NOERROR	lquinele3.admcen.ufro.cl
-NOERROR	secredep.psico.ufro.cl
-NOERROR	salarclinica.psico.ufro.cl
-NOERROR	wl13.inele.ufro.cl
-NOERROR	caja4.admcen.ufro.cl
-NOERROR	gatefia3.ufro.cl
-NOERROR	2lab60.daye.ufro.cl
-NOERROR	agri298.agroi.ufro.cl
-NOERROR	formacioncontinua.ufro.cl
-NOERROR	utic.ufro.cl
-NOERROR	stream-med.ufro.cl
-NOERROR	contab05.admcen.ufro.cl
-NOERROR	ramtun3.ufro.cl
-NOERROR	diper07.admcen.ufro.cl
-NOERROR	ima81.ufro.cl
-NOERROR	agroambiente.ufro.cl
-NOERROR	cprat61.ufro.cl
-NOERROR	colpi.med.ufro.cl
-NOERROR	fudea179.admcen.ufro.cl
-NOERROR	tele2.ufro.cl
-NOERROR	wl195.inele.ufro.cl
-NOERROR	quilleco.med.ufro.cl
-NOERROR	r207ip197.ufro.cl
-NOERROR	salara2003.ufro.cl
-NOERROR	manzana.agroi.ufro.cl
-NOERROR	bib32.bib.ufro.cl
-NOERROR	cebior.ufro.cl
-NOERROR	r207ip188.ufro.cl
-NOERROR	umatic08.ufro.cl
-NOERROR	ssocial06.edu.ufro.cl
-NOERROR	fc04.ufro.cl
-NOERROR	bib19.bib.ufro.cl
-SERVFAIL	cmcc89.cmcc.ufro.cl
-NOERROR	paliaike.ingmat.ufro.cl
-SERVFAIL	gim234.dinfo.ufro.cl
-SERVFAIL	ociv109.fia.ufro.cl
-NOERROR	fc16.ufro.cl
-NOERROR	coyunco.med.ufro.cl
-NOERROR	jhuaquim.admcen.ufro.cl
-NXDOMAIN	red5pc01.iie.ufro.cl
-NOERROR	casino02.ufro.cl
-NXDOMAIN	cgna76.cmccm.ufro.cl
-NOERROR	gaterec1.ufro.cl
-NOERROR	umatic28.ufro.cl
-NOERROR	bib38.bib.ufro.cl
-NOERROR	forcont15.admcen.ufro.cl
-NOERROR	r207ip232.ufro.cl
-NOERROR	investigacion.ufro.cl
-SERVFAIL	dinamic13.ider.ufro.cl
-NOERROR	cprat55.ufro.cl
-NOERROR	agri2104.agroi.ufro.cl
-NOERROR	jsalazar.edu.ufro.cl
-NOERROR	cinteg09.admcen.ufro.cl
-NOERROR	pc20.riie.ufro.cl
-NOERROR	wl225.inele.ufro.cl
-NOERROR	gdonoso.admcen.ufro.cl
-NOERROR	diper06.admcen.ufro.cl
-NOERROR	magisterbiotec.ufro.cl
-NOERROR	e225.edu.ufro.cl
-NOERROR	temuco01.dis.ufro.cl
-NOERROR	wifiima.ufro.cl
-NOERROR	jparra.dcfis.ufro.cl
-NOERROR	csquim70.csquim.ufro.cl
-NOERROR	r207ip154.ufro.cl
-NOERROR	encuestasalud.ufro.cl
-NOERROR	ficaetv.ufro.cl
-NOERROR	elo.inele.ufro.cl
-NOERROR	wifissocial.ufro.cl
-NOERROR	dip.ufro.cl
-NOERROR	ima87.ufro.cl
-NOERROR	quin07.edu.ufro.cl
-NOERROR	gor54.ufro.cl
-NOERROR	secfac.fia.ufro.cl
-NOERROR	pc40.riie.ufro.cl
-NOERROR	salara2004.ufro.cl
-NOERROR	anat38.med.ufro.cl
-NOERROR	moodle2utic.ufro.cl
-NOERROR	cprat42.ufro.cl
-NOERROR	secagro.fagro.ufro.cl
-NOERROR	labpsbas08.psico.ufro.cl
-NOERROR	msgic.ufro.cl
-NOERROR	rododendro.med.ufro.cl
-NOERROR	access02.admcen.ufro.cl
-NOERROR	csquim80.csquim.ufro.cl
-NXDOMAIN	gate.iie.ufro.cl
-NOERROR	labpsbas03.psico.ufro.cl
-NOERROR	pifip06.edu.ufro.cl
-NOERROR	diper01.admcen.ufro.cl
-NOERROR	ll10.edu.ufro.cl
-SERVFAIL	burh.dmat.ufro.cl
-NOERROR	renaico.med.ufro.cl
-NXDOMAIN	2lab34.daye.ufro.cl
-NOERROR	csquim76.csquim.ufro.cl
-NOERROR	w05.admcen.ufro.cl
-NOERROR	chapod.med.ufro.cl
-SERVFAIL	dinamic10.ider.ufro.cl
-NOERROR	pc7.riie.ufro.cl
-NOERROR	agri296.agroi.ufro.cl
-NOERROR	agri2100.agroi.ufro.cl
-SERVFAIL	respaldo2.dinfo.ufro.cl
-NOERROR	wifiagroi.ufro.cl
-NOERROR	asanhue.dmat.ufro.cl
-NOERROR	cprat30.ufro.cl
-NOERROR	amartin.agroi.ufro.cl
-NOERROR	wl192.inele.ufro.cl
-NOERROR	campusidea.ufro.cl
-NOERROR	lautaro.dcfis.ufro.cl
-NOERROR	r207ip107.ufro.cl
-NOERROR	labo12.edu.ufro.cl
-NOERROR	agri280.agroi.ufro.cl
-NOERROR	umatic01.ufro.cl
-NOERROR	wifimed09.med.ufro.cl
-NOERROR	salaeval.edu.ufro.cl
-NOERROR	milla.dinfo.ufro.cl
-NOERROR	dirplan8.admcen.ufro.cl
-NOERROR	fone2.edu.ufro.cl
-NOERROR	repocura.med.ufro.cl
-NOERROR	gatepabra.ufro.cl
-NOERROR	op198.dis.ufro.cl
-NOERROR	curaco.med.ufro.cl
-NXDOMAIN	2lab37.daye.ufro.cl
-NOERROR	mhernand.dim.ufro.cl
-NOERROR	fia.ufro.cl
-NOERROR	leng6.edu.ufro.cl
-NOERROR	millaqueo.med.ufro.cl
-NOERROR	sala30.comp.ufro.cl
-NOERROR	sig139.dis.ufro.cl
-NOERROR	trahuilco.med.ufro.cl
-NOERROR	iei153.iei.ufro.cl
-NOERROR	redider.ufro.cl
-NOERROR	csquim103.csquim.ufro.cl
-NOERROR	www.diq.ufro.cl
-NOERROR	fc12.ufro.cl
-NOERROR	wifipostg.ufro.cl
-NOERROR	bibstream.ufro.cl
-NOERROR	sv1.ceii.ufro.cl
-NOERROR	educ7.edu.ufro.cl
-NOERROR	ingenieriainformatica.ufro.cl
-NOERROR	temuco12.dis.ufro.cl
-NOERROR	presup01.admcen.ufro.cl
-NXDOMAIN	gateufro.enlaces.ufro.cl
-NOERROR	r207ip227.ufro.cl
-NOERROR	dge198.admcen.ufro.cl
-NOERROR	salad107.ufro.cl
-NOERROR	curringue.med.ufro.cl
-NXDOMAIN	cpa.ufro.cl
-NOERROR	cardenal.med.ufro.cl
-NOERROR	labcap197.admcen.ufro.cl
-NOERROR	bib51.bib.ufro.cl
-NOERROR	r207ip32.ufro.cl
-SERVFAIL	melipeuco.med.ufro.cl
-NXDOMAIN	cunco.iie.ufro.cl
-NOERROR	papafrita.agroi.ufro.cl
-NOERROR	r207ip54.ufro.cl
-NOERROR	wl215.inele.ufro.cl
-NOERROR	imiola.admcen.ufro.cl
-NOERROR	cprat104.ufro.cl
-NOERROR	r207ip82.ufro.cl
-NOERROR	pc65.riie.ufro.cl
-NOERROR	dirinv01.admcen.ufro.cl
-SERVFAIL	agri2102.agroi.ufro.cl
-NOERROR	xpetitb.agroi.ufro.cl
-NOERROR	caupolican.med.ufro.cl
-NOERROR	ll07.edu.ufro.cl
-NOERROR	r207ip156.ufro.cl
-NOERROR	rauli.med.ufro.cl
-NOERROR	micbio00.med.ufro.cl
-NOERROR	truftruf.med.ufro.cl
-SERVFAIL	dirapost.admcen.ufro.cl
-NOERROR	sala37.comp.ufro.cl
-NOERROR	cprat68.ufro.cl
-NOERROR	pc18.riie.ufro.cl
-NOERROR	bib52.bib.ufro.cl
-NOERROR	dge226.admcen.ufro.cl
-NOERROR	quin27.edu.ufro.cl
-NOERROR	csquim75.csquim.ufro.cl
-NOERROR	salad106.ufro.cl
-NOERROR	budi.med.ufro.cl
-NOERROR	csaraya.edu.ufro.cl
-NOERROR	gatedmz.dinfo.ufro.cl
-NOERROR	nutri234.med.ufro.cl
-NOERROR	r207ip59.ufro.cl
-NOERROR	opensystem.dis.ufro.cl
-NOERROR	fudea185.admcen.ufro.cl
-NOERROR	sim179.dis.ufro.cl
-NXDOMAIN	capacitacion.ufro.cl
-NOERROR	molul.med.ufro.cl
-NOERROR	umatic06.ufro.cl
-NOERROR	agrdoc14.agroi.ufro.cl
-NOERROR	ingecomer3.fia.ufro.cl
-NOERROR	estadistica.dmat.ufro.cl
-NOERROR	nilhue.med.ufro.cl
-NOERROR	dge229.admcen.ufro.cl
-NOERROR	minentue.med.ufro.cl
-NOERROR	fc77.ufro.cl
-NOERROR	iei184.iei.ufro.cl
-SERVFAIL	dinamic16.ider.ufro.cl
-NOERROR	ssocial20.edu.ufro.cl
-NOERROR	llifen.med.ufro.cl
-NOERROR	totoral.dcfis.ufro.cl
-NOERROR	r207ip5.ufro.cl
-NOERROR	2lab48.daye.ufro.cl
-NOERROR	cuar03.edu.ufro.cl
-NOERROR	micbio01.med.ufro.cl
-NOERROR	iei155.iei.ufro.cl
-NOERROR	pifip05.edu.ufro.cl
-NOERROR	sig146.dis.ufro.cl
-NOERROR	forcont11.admcen.ufro.cl
-NXDOMAIN	www.ad-gentes.ufro.cl
-NOERROR	rmolina.edu.ufro.cl
-NOERROR	jeanette.dis.ufro.cl
-NOERROR	verificar1.psico.ufro.cl
-NOERROR	r207ip247.ufro.cl
-NOERROR	admini.ufro.cl
-NOERROR	r207ip147.ufro.cl
-NOERROR	monnet.dinfo.ufro.cl
-NOERROR	marioin.dim.ufro.cl
-NXDOMAIN	dirplan1.admcen.ufro.cl
-NOERROR	cprat122.ufro.cl
-NOERROR	notro.med.ufro.cl
-NOERROR	vc.admcen.ufro.cl
-NOERROR	trafkin.dinfo.ufro.cl
-NOERROR	agro161.fagro.ufro.cl
-NOERROR	wifilproc.ufro.cl
-NOERROR	fc45.ufro.cl
-NOERROR	r207ip196.ufro.cl
-NOERROR	wifipabra.ufro.cl
-NOERROR	revistas.ufro.cl
-NOERROR	temuco05.dis.ufro.cl
-NOERROR	nutri236.med.ufro.cl
-NOERROR	umatic17.ufro.cl
-NOERROR	ldna.cmcc.ufro.cl
-NOERROR	pc03.edu.ufro.cl
-NOERROR	encuestas.dinfo.ufro.cl
-NOERROR	cprat100.ufro.cl
-NOERROR	cprat39.ufro.cl
-NOERROR	notebook1.inele.ufro.cl
-NOERROR	pc53.riie.ufro.cl
-NOERROR	r207ip14.ufro.cl
-NOERROR	ogolombek.admcen.ufro.cl
-NOERROR	r207ip158.ufro.cl
-NOERROR	1lab209.dis.ufro.cl
-NOERROR	comunitaria.ufro.cl
-NOERROR	adm2.daye.ufro.cl
-NOERROR	cchavarria.edu.ufro.cl
-SERVFAIL	bib48.bib.ufro.cl
-NOERROR	dci.ufro.cl
-NOERROR	r207ip179.ufro.cl
-NOERROR	eucalipto.med.ufro.cl
-NOERROR	servicio.dinfo.ufro.cl
-NOERROR	mlemp.admcen.ufro.cl
-NOERROR	cayucupil.med.ufro.cl
-NOERROR	nutri233.med.ufro.cl
-NOERROR	palquin.med.ufro.cl
-NOERROR	gatecsbas.med.ufro.cl
-NOERROR	terc14.edu.ufro.cl
-NOERROR	lautaro.med.ufro.cl
-NOERROR	sala56.comp.ufro.cl
-NOERROR	quin34.edu.ufro.cl
-NOERROR	fc07.ufro.cl
-NOERROR	r207ip212.ufro.cl
-NOERROR	trafanpulli.med.ufro.cl
-NOERROR	intranet3.ufro.cl
-NOERROR	perezluc.psico.ufro.cl
-NOERROR	iei188.iei.ufro.cl
-NOERROR	huiscapi.med.ufro.cl
-NOERROR	forcont03.admcen.ufro.cl
-NOERROR	quin19.edu.ufro.cl
-NOERROR	pe12-120.admcen.ufro.cl
-NOERROR	srv-centrodelagua.ufro.cl
-NOERROR	gateagroi2.ufro.cl
-NOERROR	www.ficaetv.ufro.cl
-NOERROR	r207ip220.ufro.cl
-NOERROR	iei142.iei.ufro.cl
-NOERROR	devfin03.admcen.ufro.cl
-NOERROR	loncoche.med.ufro.cl
-NOERROR	cprat51.ufro.cl
-NOERROR	temuco25.dis.ufro.cl
-NOERROR	ofernan.edu.ufro.cl
-NOERROR	pc52.riie.ufro.cl
-NOERROR	wifiedu4.ufro.cl
-NOERROR	wifiider.ufro.cl
-NOERROR	chilecompra3.admcen.ufro.cl
-NOERROR	socio07.edu.ufro.cl
-NOERROR	agro132.fagro.ufro.cl
-NOERROR	csquim99.csquim.ufro.cl
-NOERROR	cico.ufro.cl
-NOERROR	huellusca.med.ufro.cl
-NOERROR	kultrun.dcfis.ufro.cl
-NOERROR	rosa.med.ufro.cl
-NOERROR	cssoc.edu.ufro.cl
-NOERROR	agri286.agroi.ufro.cl
-NOERROR	csquim73.csquim.ufro.cl
-SERVFAIL	coipue.med.ufro.cl
-NOERROR	wiki.dim.ufro.cl
-NOERROR	casesoc.edu.ufro.cl
-SERVFAIL	static7.ider.ufro.cl
-NOERROR	router2.dis.ufro.cl
-NOERROR	melton.ufro.cl
-NOERROR	quepe.med.ufro.cl
-NOERROR	leylobby.ufro.cl
-NOERROR	csquim90.csquim.ufro.cl
-NOERROR	ssocial07.edu.ufro.cl
-NOERROR	r207ip68.ufro.cl
-SERVFAIL	gim237.dinfo.ufro.cl
-NOERROR	trintre.med.ufro.cl
-NOERROR	innovacion.ufro.cl
-NOERROR	gateanat.ufro.cl
-NOERROR	pichi.dinfo.ufro.cl
-NOERROR	icalma.med.ufro.cl
-NOERROR	memo05.dis.ufro.cl
-NOERROR	host031.edu.ufro.cl
-NOERROR	cinteg06.admcen.ufro.cl
-NOERROR	salat103.fagro.ufro.cl
-NOERROR	r207ip46.ufro.cl
-NOERROR	agro165.fagro.ufro.cl
-NOERROR	cprat120.ufro.cl
-NOERROR	ccaa-ieea.inele.ufro.cl
-NOERROR	r207ip163.ufro.cl
-NOERROR	gatedis.ufro.cl
-NOERROR	operador1.dinfo.ufro.cl
-NOERROR	hueney.dinfo.ufro.cl
-NOERROR	fc19.ufro.cl
-NOERROR	quin40.edu.ufro.cl
-NOERROR	2lab45.daye.ufro.cl
-NOERROR	ingmat71.ingmat.ufro.cl
-NXDOMAIN	ns.iie.ufro.cl
-NOERROR	hortensia.med.ufro.cl
-NOERROR	win-office.ufro.cl
-NOERROR	www.deportes.ufro.cl
-NOERROR	r207ip119.ufro.cl
-NOERROR	doctoradomatematica.ufro.cl
-SERVFAIL	static4.ider.ufro.cl
-NOERROR	dge209.admcen.ufro.cl
-SERVFAIL	sfs141.dis.ufro.cl
-NOERROR	gaterec2.ufro.cl
-NOERROR	sea.ufro.cl
-NOERROR	r207ip42.ufro.cl
-NOERROR	teleing.ufro.cl
-NOERROR	iieconf.ufro.cl
-NOERROR	testing.iie.ufro.cl
-NOERROR	www.charlasfica.ufro.cl
-NOERROR	ima77.ufro.cl
-NOERROR	coihuaco.med.ufro.cl
-NOERROR	dme.ufro.cl
-NOERROR	salad202.ufro.cl
-NOERROR	bib43.bib.ufro.cl
-NOERROR	mbaier.admcen.ufro.cl
-SERVFAIL	micbio02.med.ufro.cl
-NOERROR	lquinele.admcen.ufro.cl
-NOERROR	dge207.admcen.ufro.cl
-NOERROR	agrdoc11.agroi.ufro.cl
-NOERROR	wifirec2.ufro.cl
-NOERROR	salad201.ufro.cl
-NOERROR	gbustam.psico.ufro.cl
-NOERROR	diseno08.edu.ufro.cl
-NOERROR	umatic07.ufro.cl
-NOERROR	r207ip201.ufro.cl
-NOERROR	cprat71.ufro.cl
-NOERROR	cprat66.ufro.cl
-NOERROR	auchemo.med.ufro.cl
-NOERROR	bib49.bib.ufro.cl
-NOERROR	contab1.agroi.ufro.cl
-NOERROR	fc03.ufro.cl
-NOERROR	period1.period.ufro.cl
-NOERROR	huilipilun.med.ufro.cl
-NOERROR	gim199.dinfo.ufro.cl
-NOERROR	magister.edu.ufro.cl
-NOERROR	wl22.inele.ufro.cl
-SERVFAIL	rector6.admcen.ufro.cl
-NOERROR	www.doctoradomat.ufro.cl
-NOERROR	msylvia.fia.ufro.cl
-NOERROR	pc-09.dmat.ufro.cl
-NOERROR	pc-08.dmat.ufro.cl
-NXDOMAIN	fudea190.admcen.ufro.cl
-NOERROR	www.bib.ufro.cl
-NOERROR	r207ip237.ufro.cl
-NOERROR	gestion.ufro.cl
-NOERROR	sim177.dis.ufro.cl
-NOERROR	ociv98.fia.ufro.cl
-NOERROR	gateagroi.ufro.cl
-NOERROR	adm24.daye.ufro.cl
-NXDOMAIN	cgna80.cmccm.ufro.cl
-NOERROR	bibcont.ufro.cl
-NOERROR	tirua.med.ufro.cl
-NOERROR	iei159.iei.ufro.cl
-NOERROR	r207ip126.ufro.cl
-NOERROR	ociv115.fia.ufro.cl
-NOERROR	secgra11.admcen.ufro.cl
-NXDOMAIN	2lab35.daye.ufro.cl
-NOERROR	calidad.ufro.cl
-NOERROR	r207ip216.ufro.cl
-NOERROR	wl170.inele.ufro.cl
-NOERROR	neuro03.ufro.cl
-NOERROR	cprat69.ufro.cl
-NOERROR	labhisto.ufro.cl
-NOERROR	gim241.dinfo.ufro.cl
-NOERROR	proenta1.admcen.ufro.cl
-NOERROR	wl183.inele.ufro.cl
-NOERROR	pc100.riie.ufro.cl
-NOERROR	r207ip131.ufro.cl
-NOERROR	gim236.dinfo.ufro.cl
-NOERROR	quin04.edu.ufro.cl
-NXDOMAIN	nunez.ufro.cl
-NOERROR	dge193.admcen.ufro.cl
-NOERROR	cprat107.ufro.cl
-NOERROR	gatebib.bib.ufro.cl
-NOERROR	jarro.med.ufro.cl
-NOERROR	1lab211.dis.ufro.cl
-NOERROR	castano.med.ufro.cl
-NOERROR	sig145.dis.ufro.cl
-NOERROR	fc40.ufro.cl
-NOERROR	r207ip139.ufro.cl
-NOERROR	tele169.dis.ufro.cl
-NOERROR	feriainvestigacion.ufro.cl
-NOERROR	wifimed04.med.ufro.cl
-NOERROR	teleba.ufro.cl
-NOERROR	mbaeza.admcen.ufro.cl
-NOERROR	icabrera.admcen.ufro.cl
-NOERROR	wl12.inele.ufro.cl
-NOERROR	r207ip245.ufro.cl
-NOERROR	educacioncontinua.fica.ufro.cl
-NOERROR	gatefis.ufro.cl
-NOERROR	wl24.inele.ufro.cl
-NOERROR	pc41.riie.ufro.cl
-SERVFAIL	gim201.dinfo.ufro.cl
-NXDOMAIN	reunion.cmcc.ufro.cl
-NOERROR	sala.admcen.ufro.cl
-NOERROR	optica.dcfis.ufro.cl
-NOERROR	r207ip144.ufro.cl
-NOERROR	dge201.admcen.ufro.cl
-NOERROR	r207ip189.ufro.cl
-NOERROR	wificft2.ufro.cl
-NOERROR	troyo.med.ufro.cl
-NOERROR	soc05.edu.ufro.cl
-SERVFAIL	paloma.dcfis.ufro.cl
-NOERROR	cis.ufro.cl
-NOERROR	o106.edu.ufro.cl
-NOERROR	mdiaz.dinfo.ufro.cl
-NOERROR	pc80.riie.ufro.cl
-NOERROR	bib08.bib.ufro.cl
-NOERROR	catripulli.med.ufro.cl
-NOERROR	ima79.ufro.cl
-NOERROR	r207ip226.ufro.cl
-NOERROR	dd-tic.ufro.cl
-NOERROR	r207ip97.ufro.cl
-NOERROR	nutri246.med.ufro.cl
-NOERROR	gaterec1.admcen.ufro.cl
-NOERROR	r207ip4.ufro.cl
-NOERROR	e224.edu.ufro.cl
-NOERROR	iei166.iei.ufro.cl
-NOERROR	bib60.bib.ufro.cl
-NOERROR	leng2.edu.ufro.cl
-NOERROR	fc42.ufro.cl
-NOERROR	doc73.dim.ufro.cl
-NOERROR	vraf01.admcen.ufro.cl
-NOERROR	zadeh.inele.ufro.cl
-NOERROR	agri2123.agroi.ufro.cl
-NOERROR	o108.edu.ufro.cl
-NOERROR	cinteg04.admcen.ufro.cl
-NOERROR	clucero.psico.ufro.cl
-NOERROR	dircom4.admcen.ufro.cl
-NOERROR	leng14.edu.ufro.cl
-NOERROR	ufroradio.ufro.cl
-NOERROR	cleinchile2011.ufro.cl
-NOERROR	llaima.dis.ufro.cl
-NOERROR	csquim100.csquim.ufro.cl
-NOERROR	sfiguero.dis.ufro.cl
-NOERROR	dge228.admcen.ufro.cl
-NOERROR	memo01.dis.ufro.cl
-NOERROR	pehuenco.med.ufro.cl
-NOERROR	ima74.ufro.cl
-NOERROR	pc89.riie.ufro.cl
-NOERROR	pregrado.fia.ufro.cl
-NOERROR	csquim92.csquim.ufro.cl
-NOERROR	wifiuniver.bib.ufro.cl
-NOERROR	carahue.med.ufro.cl
-NOERROR	cprat35.ufro.cl
-NOERROR	verti06.ufro.cl
-NOERROR	pc78.riie.ufro.cl
-NOERROR	wifiedfis.ufro.cl
-NOERROR	iei174.iei.ufro.cl
-NOERROR	radmin.dinfo.ufro.cl
-SERVFAIL	labcap208.admcen.ufro.cl
-NOERROR	impresora.admcen.ufro.cl
-NOERROR	r207ip243.ufro.cl
-NOERROR	forcont08.admcen.ufro.cl
-NOERROR	adm26.daye.ufro.cl
-NOERROR	conguillio.med.ufro.cl
-NOERROR	doc77.dim.ufro.cl
-NOERROR	wl207.inele.ufro.cl
-NOERROR	01uniej.edu.ufro.cl
-NOERROR	nitre.med.ufro.cl
-NOERROR	cifde-ep.ufro.cl
-NOERROR	adm8.daye.ufro.cl
-NOERROR	avellanoeuropeo.ufro.cl
-NOERROR	eval02.admcen.ufro.cl
-NOERROR	quin29.edu.ufro.cl
-NOERROR	vrip.ufro.cl
-NOERROR	ingles03.edu.ufro.cl
-NOERROR	lamicro.dae.ufro.cl
-NOERROR	salad102.ufro.cl
-NOERROR	fc29.ufro.cl
-NOERROR	cienciasociales.ufro.cl
-NOERROR	agri2116.agroi.ufro.cl
-SERVFAIL	agri276.agroi.ufro.cl
-NXDOMAIN	en.cooperacion.ufro.cl
-NOERROR	gor56.ufro.cl
-NOERROR	pc02.edu.ufro.cl
-NOERROR	sala34.comp.ufro.cl
-SERVFAIL	bombero.dcfis.ufro.cl
-NXDOMAIN	2lab239.dis.ufro.cl
-NOERROR	terc24.edu.ufro.cl
-NXDOMAIN	www.isos.dinfo.ufro.cl
-NOERROR	notebook3.inele.ufro.cl
-NXDOMAIN	blackberrymail.ufro.cl
-NOERROR	r207ip174.ufro.cl
-NOERROR	juanc.agroi.ufro.cl
-SERVFAIL	www.dim.ufro.cl
-NOERROR	umatic20.ufro.cl
-NOERROR	quillen.med.ufro.cl
-NOERROR	2lab40.daye.ufro.cl
-NOERROR	pc4.riie.ufro.cl
-NOERROR	cmcc101.cmcc.ufro.cl
-NOERROR	gor53.ufro.cl
-NOERROR	dsp112.inele.ufro.cl
-NOERROR	pc54.riie.ufro.cl
-NOERROR	cprat113.ufro.cl
-NOERROR	fudea173.admcen.ufro.cl
-NOERROR	csdirec.edu.ufro.cl
-SERVFAIL	pe12-123.admcen.ufro.cl
-NOERROR	naros.inele.ufro.cl
-NOERROR	printer.admcen.ufro.cl
-NOERROR	portatil.agroi.ufro.cl
-NOERROR	tedxufro.ufro.cl
-NOERROR	www.cemcc.ufro.cl
-NOERROR	fc41.ufro.cl
-NOERROR	catiie.ufro.cl
-NOERROR	pc87.riie.ufro.cl
-SERVFAIL	agro158.fagro.ufro.cl
-NOERROR	kvla.dmat.ufro.cl
-NXDOMAIN	2lab39.daye.ufro.cl
-NOERROR	hueyelhue.med.ufro.cl
-SERVFAIL	quiriquina.med.ufro.cl
-NOERROR	r207ip181.ufro.cl
-NOERROR	ufro-ca.dinfo.ufro.cl
-NOERROR	memo106.inele.ufro.cl
-NOERROR	pc46.riie.ufro.cl
-NOERROR	r207ip7.ufro.cl
-NOERROR	lpino.agroi.ufro.cl
-NOERROR	ima80.ufro.cl
-NOERROR	temuco15.dis.ufro.cl
-NOERROR	huequen.med.ufro.cl
-NOERROR	bi-ufro.ufro.cl
-NOERROR	gateconm.ufro.cl
-NOERROR	labpsbas10.psico.ufro.cl
-NOERROR	quin38.edu.ufro.cl
-NOERROR	pillan.dcfis.ufro.cl
-NOERROR	oes.ufro.cl
-NOERROR	millonhue.med.ufro.cl
-NOERROR	quin16.edu.ufro.cl
-NOERROR	agrdoc10.agroi.ufro.cl
-NOERROR	bibedit.ufro.cl
-NOERROR	r207ip155.ufro.cl
-NOERROR	frambuesa.agroi.ufro.cl
-NOERROR	ssocial13.edu.ufro.cl
-NXDOMAIN	2lab33.daye.ufro.cl
-NOERROR	1lab214.dis.ufro.cl
-NOERROR	gladiolo.med.ufro.cl
-NOERROR	torneco.med.ufro.cl
-NOERROR	agro148.fagro.ufro.cl
-NOERROR	r207ip128.ufro.cl
-NOERROR	wl202.inele.ufro.cl
-NOERROR	ramtun4.ufro.cl
-NOERROR	contr05.admcen.ufro.cl
-NOERROR	educ1.edu.ufro.cl
-NOERROR	pe12-121.admcen.ufro.cl
-NOERROR	cprat80.ufro.cl
-NOERROR	umatic25.ufro.cl
-NOERROR	lifque.inele.ufro.cl
-NOERROR	pc8.riie.ufro.cl
-NOERROR	dge196.admcen.ufro.cl
-NOERROR	newen.ufro.cl
-NOERROR	etel.dmat.ufro.cl
-NOERROR	umatic46.ufro.cl
-NOERROR	umatic36.ufro.cl
-NOERROR	wifiedu3.ufro.cl
-NOERROR	wifiavellanos.admcen.ufro.cl
-NOERROR	coreval.admcen.ufro.cl
-NOERROR	umatic03.ufro.cl
-NOERROR	telebb.ufro.cl
-NXDOMAIN	gateper.period.ufro.cl
-NOERROR	tesistas02.dinfo.ufro.cl
-NOERROR	autentifica.ufro.cl
-NOERROR	r207ip21.ufro.cl
-NOERROR	note.admcen.ufro.cl
-NXDOMAIN	www.telemedicina.ufro.cl
-NOERROR	www.iufrole2016.ufro.cl
-NOERROR	quin20.edu.ufro.cl
-SERVFAIL	static3.ider.ufro.cl
-NOERROR	chago.agroi.ufro.cl
-NOERROR	fc26.ufro.cl
-NOERROR	period17.period.ufro.cl
-NOERROR	nestor.agroi.ufro.cl
-NOERROR	wl172.inele.ufro.cl
-NOERROR	prodanim.agroi.ufro.cl
-NOERROR	foncre02.admcen.ufro.cl
-NOERROR	ingmat69.ingmat.ufro.cl
-NOERROR	csquim91.csquim.ufro.cl
-NOERROR	lquinele2.admcen.ufro.cl
-NOERROR	diseno04.edu.ufro.cl
-NOERROR	gim194.dinfo.ufro.cl
-NOERROR	diper09.admcen.ufro.cl
-NOERROR	ttorres.edu.ufro.cl
-NOERROR	r207ip49.ufro.cl
-NOERROR	r207ip230.ufro.cl
-NOERROR	socio05.edu.ufro.cl
-NOERROR	gim212.dinfo.ufro.cl
-NOERROR	ramtun.ufro.cl
-NOERROR	terc06.edu.ufro.cl
-NOERROR	wififis.ufro.cl
-NOERROR	bib17.bib.ufro.cl
-NOERROR	op197.dis.ufro.cl
-NOERROR	temuco39.dis.ufro.cl
-NOERROR	labdie01.inele.ufro.cl
-NOERROR	wifi4.inele.ufro.cl
-NOERROR	pe11-105.admcen.ufro.cl
-NOERROR	canelo.dcfis.ufro.cl
-NOERROR	feriafica.ufro.cl
-NOERROR	cprat49.ufro.cl
-NOERROR	cprat78.ufro.cl
-NOERROR	wifimed08.med.ufro.cl
-NXDOMAIN	www.cig2017.ufro.cl
-NOERROR	cnap.fia.ufro.cl
-NOERROR	pullinque.med.ufro.cl
-NOERROR	relmu.dis.ufro.cl
-NOERROR	pucono.med.ufro.cl
-NOERROR	wl216.inele.ufro.cl
-NOERROR	aysen.dcfis.ufro.cl
-NOERROR	queltehue2.dinfo.ufro.cl
-NOERROR	dirinv03.admcen.ufro.cl
-SERVFAIL	dge227.admcen.ufro.cl
-NOERROR	dge213.admcen.ufro.cl
-NOERROR	alcalde.dmat.ufro.cl
-NOERROR	salad1.ufro.cl
-NOERROR	fc22.ufro.cl
-NOERROR	quidel.inele.ufro.cl
-NOERROR	sfs134.dis.ufro.cl
-NOERROR	vrac06.admcen.ufro.cl
-NOERROR	publicacionescienciassociales.ufro.cl
-NOERROR	ima67.ufro.cl
-NOERROR	mmida.ufro.cl
-NOERROR	labo3.edu.ufro.cl
-NOERROR	2lab46.daye.ufro.cl
-NXDOMAIN	red6pc01.iie.ufro.cl
-NOERROR	dge212.admcen.ufro.cl
-NOERROR	ingmat70.ingmat.ufro.cl
-NOERROR	fcaire.dim.ufro.cl
-NOERROR	transparencia.ufro.cl
-NOERROR	terc20.edu.ufro.cl
-NOERROR	gateiie1.ufro.cl
-NOERROR	gim244.dinfo.ufro.cl
-NOERROR	panolie.inele.ufro.cl
-NOERROR	wl204.inele.ufro.cl
-NOERROR	bib46.bib.ufro.cl
-NOERROR	period13.period.ufro.cl
-NOERROR	bib45.bib.ufro.cl
-NOERROR	personal.ufro.cl
+quilque.med.ufro.cl
+pc26.riie.ufro.cl
+var2.dmat.ufro.cl
+adm21.daye.ufro.cl
+eaqueve.dim.ufro.cl
+cre02.admcen.ufro.cl
+bib47.bib.ufro.cl
+r207ip81.ufro.cl
+credence.inele.ufro.cl
+jbustama.dinfo.ufro.cl
+caja3.admcen.ufro.cl
+cmcc103.cmcc.ufro.cl
+memo102.inele.ufro.cl
+jvel.admcen.ufro.cl
+secrecar.psico.ufro.cl
+socio06.edu.ufro.cl
+en.investigacion.ufro.cl
+period21.period.ufro.cl
+ociv114.fia.ufro.cl
+ssocial10.edu.ufro.cl
+agro137.fagro.ufro.cl
+socio04.edu.ufro.cl
+campusvirtual2.ufro.cl
+pc13.riie.ufro.cl
+wl65.ufro.cl
+hualpin.med.ufro.cl
+router1.dis.ufro.cl
+ingmat72.ingmat.ufro.cl
+cafecientifico.ufro.cl
+dge197.admcen.ufro.cl
+jsaiz.psico.ufro.cl
+aavila.dmat.ufro.cl
+gim198.dinfo.ufro.cl
+csquim96.csquim.ufro.cl
+dievirtual.ufro.cl
+iei182.iei.ufro.cl
+r207ip40.ufro.cl
+acadvrip2.admcen.ufro.cl
+wl62.ufro.cl
+seduc.edu.ufro.cl
+pc17.riie.ufro.cl
+labgeo.ufro.cl
+wl203.inele.ufro.cl
+cprat86.ufro.cl
+r207ip90.ufro.cl
+agri288.agroi.ufro.cl
+jornadaspregrado.ufro.cl
+gatemed.med.ufro.cl
+oed.edu.ufro.cl
+forcont01.admcen.ufro.cl
+temuco31.dis.ufro.cl
+ingles07.edu.ufro.cl
+terc04.edu.ufro.cl
+wl59.ufro.cl
+agrdoc01.agroi.ufro.cl
+ssuelos.agroi.ufro.cl
+pc97.riie.ufro.cl
+pc68.riie.ufro.cl
+bibliotecas.ufro.cl
+teleprr.ufro.cl
+labo13.edu.ufro.cl
+adm9.daye.ufro.cl
+cbs.inele.ufro.cl
+umatic29.ufro.cl
+radal.med.ufro.cl
+frx.dcfis.ufro.cl
+agri2105.agroi.ufro.cl
+seguridad2.ufro.cl
+csquim72.csquim.ufro.cl
+umatic09.ufro.cl
+r207ip12.ufro.cl
+r207ip151.ufro.cl
+fone.edu.ufro.cl
+wifiinele.ufro.cl
+wifiincuba2.ufro.cl
+salara2002.ufro.cl
+golombe.admcen.ufro.cl
+csprof03.edu.ufro.cl
+cre08.admcen.ufro.cl
+antilhue.med.ufro.cl
+gatecam.ufro.cl
+eduardot.psico.ufro.cl
+gatecomp1.comp.ufro.cl
+terc09.edu.ufro.cl
+r207ip91.ufro.cl
+cprat90.ufro.cl
+fc05.ufro.cl
+gim195.dinfo.ufro.cl
+r207ip190.ufro.cl
+cec.ufro.cl
+agri2101.agroi.ufro.cl
+pargua.med.ufro.cl
+geometryrc.ufro.cl
+cre01.admcen.ufro.cl
+wl58.ufro.cl
+ctt.ufro.cl
+magali.dis.ufro.cl
+trawun.ufro.cl
+contab02.admcen.ufro.cl
+r207ip157.ufro.cl
+durazno.agroi.ufro.cl
+bibliotecadigital.ufro.cl
+acadvrip1.admcen.ufro.cl
+pvargas.agroi.ufro.cl
+caja2.admcen.ufro.cl
+ll09.edu.ufro.cl
+umatic27.ufro.cl
+anat37.med.ufro.cl
+agro133.fagro.ufro.cl
+caburga.med.ufro.cl
+salad2.ufro.cl
+r207ip95.ufro.cl
+gatecsbas.ufro.cl
+villarrica.med.ufro.cl
+iei178.iei.ufro.cl
+pe13-111.admcen.ufro.cl
+bib10.bib.ufro.cl
+agri274.agroi.ufro.cl
+gateiie3.ufro.cl
+hmercado.edu.ufro.cl
+iei170.iei.ufro.cl
+sala16.comp.ufro.cl
+ingles10.edu.ufro.cl
+r207ip15.ufro.cl
+dvargas.dcfis.ufro.cl
+bib57.bib.ufro.cl
+www2.ufro.cl
+dge199.admcen.ufro.cl
+nutri249.med.ufro.cl
+pc-14.dmat.ufro.cl
+pagoweb.ufro.cl
+r207ip92.ufro.cl
+r207ip135.ufro.cl
+period24.period.ufro.cl
+ociv112.fia.ufro.cl
+labproveg.fagro.ufro.cl
+r207ip164.ufro.cl
+r207ip180.ufro.cl
+contab06.admcen.ufro.cl
+wl19.inele.ufro.cl
+gimbello.edu.ufro.cl
+sim169.dis.ufro.cl
+salar.admcen.ufro.cl
+notebook4.inele.ufro.cl
+agrdoc06.agroi.ufro.cl
+educacionyhumanidades.ufro.cl
+cuar08.edu.ufro.cl
+salae207.edu.ufro.cl
+bib53.bib.ufro.cl
+gim227.dinfo.ufro.cl
+nut195.med.ufro.cl
+naranjo.med.ufro.cl
+labinfo1.fagro.ufro.cl
+chaiten.med.ufro.cl
+leticia.dcfis.ufro.cl
+lalim.agroi.ufro.cl
+nalcahue.med.ufro.cl
+dinfo.ufro.cl
+terc21.edu.ufro.cl
+difuc1.admcen.ufro.cl
+odontologia.ufro.cl
+labo6.edu.ufro.cl
+agri275.agroi.ufro.cl
+extranet.ufro.cl
+nahuelbuta.cmcc.ufro.cl
+agri279.agroi.ufro.cl
+linao.med.ufro.cl
+temuco23.dis.ufro.cl
+r207ip132.ufro.cl
+ssocial08.edu.ufro.cl
+ingmat65.ingmat.ufro.cl
+pedagogiaingles.ufro.cl
+wifid.ufro.cl
+cipnoticias.ufro.cl
+r207ip242.ufro.cl
+aarroyo.admcen.ufro.cl
+pera.agroi.ufro.cl
+cprat47.ufro.cl
+jgomez.dmat.ufro.cl
+repo-odontologia.ufro.cl
+viejita.inele.ufro.cl
+desarrollodocente.ufro.cl
+roble.med.ufro.cl
+quin11.edu.ufro.cl
+labo4.edu.ufro.cl
+apoyo.fia.ufro.cl
+gim248.dinfo.ufro.cl
+copihue.med.ufro.cl
+pe12-124.admcen.ufro.cl
+temuco08.dis.ufro.cl
+pc63.riie.ufro.cl
+www.enefa2019.ufro.cl
+alagos.fia.ufro.cl
+tesistas03.dinfo.ufro.cl
+presup07.admcen.ufro.cl
+router4.dis.ufro.cl
+gateingles.ufro.cl
+moviliza.ufro.cl
+adm11.daye.ufro.cl
+dge210.admcen.ufro.cl
+sviva.med.ufro.cl
+ofvincu.med.ufro.cl
+agri292.agroi.ufro.cl
+ingmat66.ingmat.ufro.cl
+wl178.inele.ufro.cl
+lrehbein.psico.ufro.cl
+observatoriogenerosalud.ufro.cl
+fisica.ufro.cl
+csquim81.csquim.ufro.cl
+www.iccc15.ufro.cl
+braulio.inele.ufro.cl
+agro156.fagro.ufro.cl
+sig134.dis.ufro.cl
+diquim.agroi.ufro.cl
+r207ip200.ufro.cl
+e221.edu.ufro.cl
+sala35.comp.ufro.cl
+gim203.dinfo.ufro.cl
+cidi.ufro.cl
+lmunoz.edu.ufro.cl
+caja1.admcen.ufro.cl
+fica.ufro.cl
+r207ip167.ufro.cl
+pc55.riie.ufro.cl
+rcandia.admcen.ufro.cl
+fresia.dcfis.ufro.cl
+rbaeza.dmat.ufro.cl
+router3.dis.ufro.cl
+contab01.admcen.ufro.cl
+sig130.dis.ufro.cl
+cuar04.edu.ufro.cl
+salat102.fagro.ufro.cl
+huilohuilo.cmcc.ufro.cl
+postgrado.med.ufro.cl
+jmanque.dinfo.ufro.cl
+umatic35.ufro.cl
+adm13.daye.ufro.cl
+leng12.edu.ufro.cl
+umatic18.ufro.cl
+ciruelo.med.ufro.cl
+agri2109.agroi.ufro.cl
+pc22.riie.ufro.cl
+ima82.ufro.cl
+lila.med.ufro.cl
+cprat76.ufro.cl
+cipres.med.ufro.cl
+socio03.edu.ufro.cl
+sala61.comp.ufro.cl
+kultrun.dinfo.ufro.cl
+www.edu.ufro.cl
+r207ip63.ufro.cl
+r207ip117.ufro.cl
+r207ip47.ufro.cl
+llaima.med.ufro.cl
+wl220.inele.ufro.cl
+r207ip143.ufro.cl
+incubatec.ufro.cl
+pina.agroi.ufro.cl
+ltraub.dmat.ufro.cl
+educ2.edu.ufro.cl
+encino.med.ufro.cl
+www.cienciasocialesaplicadas.ufro.cl
+pe13-114.admcen.ufro.cl
+pc-13.dmat.ufro.cl
+crisantemo.med.ufro.cl
+dirdim.dim.ufro.cl
+cprat75.ufro.cl
+ldap-nodo1.dinfo.ufro.cl
+r207ip51.ufro.cl
+cprat96.ufro.cl
+cprat105.ufro.cl
+2lab43.daye.ufro.cl
+radicchio.agroi.ufro.cl
+acastro.dinfo.ufro.cl
+profeta.inele.ufro.cl
+w03.admcen.ufro.cl
+sfs132.dis.ufro.cl
+sim174.dis.ufro.cl
+imprenta2.admcen.ufro.cl
+gim226.dinfo.ufro.cl
+cprat.ufro.cl
+lts.ufro.cl
+diseno03.edu.ufro.cl
+r207ip80.ufro.cl
+agri269.agroi.ufro.cl
+gim242.dinfo.ufro.cl
+bambam.inele.ufro.cl
+trancura.med.ufro.cl
+cprat89.ufro.cl
+r207ip106.ufro.cl
+naros2.inele.ufro.cl
+temuco11.dis.ufro.cl
+campusvirtual.ufro.cl
+mitrauquen.med.ufro.cl
+cprat24.ufro.cl
+bib14.bib.ufro.cl
+webufro-edicion.ufro.cl
+wl187.inele.ufro.cl
+ayacara.med.ufro.cl
+paau.ufro.cl
+cprat97.ufro.cl
+labo9.edu.ufro.cl
+fc08.ufro.cl
+wifiinele1.ufro.cl
+icfisica.ufro.cl
+diper03.admcen.ufro.cl
+gim223.dinfo.ufro.cl
+temuco27.dis.ufro.cl
+fc32.ufro.cl
+1lab210.dis.ufro.cl
+secpifip.edu.ufro.cl
+catemu.ufro.cl
+finanzasext.ufro.cl
+ldap-ufro.dinfo.ufro.cl
+salad109.ufro.cl
+secpre2.fia.ufro.cl
+feufro02.ufro.cl
+ralco.med.ufro.cl
+euquiche.agroi.ufro.cl
+vilcun.dis.ufro.cl
+gim243.dinfo.ufro.cl
+invenp01.admcen.ufro.cl
+wl21.inele.ufro.cl
+vrac02.admcen.ufro.cl
+notemag.edu.ufro.cl
+mavera.admcen.ufro.cl
+cprat123.ufro.cl
+gateiei.ufro.cl
+polcura.med.ufro.cl
+agro131.fagro.ufro.cl
+salad111.ufro.cl
+agri266.agroi.ufro.cl
+clinicamatematica.ufro.cl
+centrofrontera.ufro.cl
+afunquelen.med.ufro.cl
+fc38.ufro.cl
+balboa.med.ufro.cl
+pucatrihue.dcfis.ufro.cl
+quin12.edu.ufro.cl
+wifimed01.med.ufro.cl
+intranet.ufro.cl
+labg03.edu.ufro.cl
+verti08.ufro.cl
+adm15.daye.ufro.cl
+r207ip253.ufro.cl
+sala45.comp.ufro.cl
+labmec02.dim.ufro.cl
+orades.ufro.cl
+verti10.ufro.cl
+pc94.riie.ufro.cl
+vrac08.admcen.ufro.cl
+cprat63.ufro.cl
+www.iie.ufro.cl
+angol.med.ufro.cl
+fis53.dcfis.ufro.cl
+dir.agroi.ufro.cl
+fc25.ufro.cl
+salara2005.ufro.cl
+queltehue.dinfo.ufro.cl
+cprat32.ufro.cl
+lilium.med.ufro.cl
+ingles06.edu.ufro.cl
+georgeo.agroi.ufro.cl
+tux.cmcc.ufro.cl
+verti05.ufro.cl
+gim221.dinfo.ufro.cl
+pellahuen.med.ufro.cl
+fudea170.admcen.ufro.cl
+ima70.ufro.cl
+umatic14.ufro.cl
+r207ip171.ufro.cl
+conveniointernacionalizacion.ufro.cl
+cprat43.ufro.cl
+huirahueye.med.ufro.cl
+agri2108.agroi.ufro.cl
+sim172.dis.ufro.cl
+chilecompra2.admcen.ufro.cl
+educacion.ufro.cl
+salaszoom.ufro.cl
+sala32.comp.ufro.cl
+wifilbm.ufro.cl
+congresopostgrado.ufro.cl
+2lab47.daye.ufro.cl
+portautic.admcen.ufro.cl
+sim170.dis.ufro.cl
+dinfodrive.ufro.cl
+r207ip50.ufro.cl
+wifimed06.med.ufro.cl
+trupan.med.ufro.cl
+wmoscoso.dmat.ufro.cl
+dcardena.admcen.ufro.cl
+magrecnat.ufro.cl
+lsuelos.agroi.ufro.cl
+wifi2.inele.ufro.cl
+fudea169.admcen.ufro.cl
+pe13-110.admcen.ufro.cl
+quin31.edu.ufro.cl
+r207ip22.ufro.cl
+cprat121.ufro.cl
+pc-04.dmat.ufro.cl
+agri267.agroi.ufro.cl
+pc71.riie.ufro.cl
+r207ip121.ufro.cl
+huepil.med.ufro.cl
+wl212.inele.ufro.cl
+cprat83.ufro.cl
+fc14.ufro.cl
+cprat44.ufro.cl
+pc75.riie.ufro.cl
+r207ip184.ufro.cl
+r207ip202.ufro.cl
+fudea163.admcen.ufro.cl
+quin21.edu.ufro.cl
+wifi6.inele.ufro.cl
+r207ip65.ufro.cl
+ldap-nodo2.dinfo.ufro.cl
+troquil.cmcc.ufro.cl
+aprendizajevirtual.ufro.cl
+magda.agroi.ufro.cl
+last.dmat.ufro.cl
+chilecompra6.admcen.ufro.cl
+iei187.iei.ufro.cl
+cprat82.ufro.cl
+pe13-113.admcen.ufro.cl
+dge220.admcen.ufro.cl
+ll05.edu.ufro.cl
+labcap194.admcen.ufro.cl
+mroman.psico.ufro.cl
+period20.period.ufro.cl
+iei143.iei.ufro.cl
+rector4.admcen.ufro.cl
+iei134.iei.ufro.cl
+op194.dis.ufro.cl
+dim.ufro.cl
+r207ip103.ufro.cl
+gatenat01.admcen.ufro.cl
+csquim106.csquim.ufro.cl
+quin08.edu.ufro.cl
+cprat110.ufro.cl
+cprat98.ufro.cl
+labo16.edu.ufro.cl
+devfin02.admcen.ufro.cl
+umatic11.ufro.cl
+pulul.med.ufro.cl
+wificft1.ufro.cl
+wifiquim.ufro.cl
+dge216.admcen.ufro.cl
+ima66.ufro.cl
+universitarios.ufro.cl
+csquim71.csquim.ufro.cl
+ociv99.fia.ufro.cl
+dirplan9.admcen.ufro.cl
+rihue.med.ufro.cl
+contr06.admcen.ufro.cl
+bib54.bib.ufro.cl
+fudea.ufro.cl
+ingecomer2.fia.ufro.cl
+cinteg05.admcen.ufro.cl
+ima86.ufro.cl
+uniej.ufro.cl
+srv-vinculacion.ufro.cl
+2lab49.daye.ufro.cl
+gim214.dinfo.ufro.cl
+telemedicina.ufro.cl
+r207ip209.ufro.cl
+sig137.dis.ufro.cl
+fc06.ufro.cl
+gor50.ufro.cl
+tele172.dis.ufro.cl
+araucaria.med.ufro.cl
+eval04.admcen.ufro.cl
+laraquete.med.ufro.cl
+sala20.comp.ufro.cl
+decano.fia.ufro.cl
+gatemat.ufro.cl
+ociv102.fia.ufro.cl
+gatemec.ufro.cl
+igor.dcfis.ufro.cl
+laser.cmcc.ufro.cl
+ociv121.fia.ufro.cl
+srvfica.ufro.cl
+agro163.fagro.ufro.cl
+wifimed10.med.ufro.cl
+pc58.riie.ufro.cl
+casino01.ufro.cl
+1lab202.dis.ufro.cl
+iei137.iei.ufro.cl
+umatic26.ufro.cl
+foto.ufro.cl
+teledinfo.ufro.cl
+pc57.riie.ufro.cl
+r207ip52.ufro.cl
+iei130.iei.ufro.cl
+temuco24.dis.ufro.cl
+pc-01.dmat.ufro.cl
+sala26.comp.ufro.cl
+forcont02.admcen.ufro.cl
+r207ip31.ufro.cl
+picoiquen.med.ufro.cl
+labdie11.inele.ufro.cl
+r207ip35.ufro.cl
+diseno06.edu.ufro.cl
+vpn.ufro.cl
+diseno05.edu.ufro.cl
+csquim95.csquim.ufro.cl
+catagroi.ufro.cl
+sim176.dis.ufro.cl
+liquine.med.ufro.cl
+r207ip178.ufro.cl
+ll03.edu.ufro.cl
+puesco.med.ufro.cl
+cmcc93.cmcc.ufro.cl
+ramtun2.ufro.cl
+secproyectos.agroi.ufro.cl
+agri281.agroi.ufro.cl
+doc78.dim.ufro.cl
+presup08.admcen.ufro.cl
+wl55.ufro.cl
+r207ip218.ufro.cl
+temuco09.dis.ufro.cl
+senadis.ufro.cl
+huichahue.med.ufro.cl
+mooc.ufro.cl
+well.ufro.cl
+diseno02.edu.ufro.cl
+trolon2.ufro.cl
+g3k-qadb.ufro.cl
+temuco21.dis.ufro.cl
+gateima.ufro.cl
+wifimed07.med.ufro.cl
+pc56.riie.ufro.cl
+menetue.med.ufro.cl
+conunhuenu.cmcc.ufro.cl
+bioren.ufro.cl
+agro171.fagro.ufro.cl
+diper02.admcen.ufro.cl
+agri2117.agroi.ufro.cl
+www.med.ufro.cl
+cprat88.ufro.cl
+pillan.dinfo.ufro.cl
+imperial.med.ufro.cl
+nacionalrugby.ufro.cl
+umatic40.ufro.cl
+temuco35.dis.ufro.cl
+eleccionesrector.ufro.cl
+r207ip123.ufro.cl
+iei176.iei.ufro.cl
+r207ip109.ufro.cl
+wl15.inele.ufro.cl
+gateiie2.ufro.cl
+quin09.edu.ufro.cl
+peache.dmat.ufro.cl
+fdeca01.edu.ufro.cl
+r207ip56.ufro.cl
+r207ip37.ufro.cl
+puancho.med.ufro.cl
+agri294.agroi.ufro.cl
+2lab58.daye.ufro.cl
+chamiza.med.ufro.cl
+cmcc91.cmcc.ufro.cl
+memo06.dis.ufro.cl
+r207ip246.ufro.cl
+pc11.riie.ufro.cl
+chapilen.med.ufro.cl
+ericksch.agroi.ufro.cl
+fc47.ufro.cl
+ramtun2e.ufro.cl
+sala31.comp.ufro.cl
+gatecsquim.ufro.cl
+r207ip136.ufro.cl
+r207ip120.ufro.cl
+jazmin.med.ufro.cl
+agri2119.agroi.ufro.cl
+agrdoc05.agroi.ufro.cl
+juridicasyempresariales.ufro.cl
+cprat64.ufro.cl
+csquimicas.ufro.cl
+gatefagro.fagro.ufro.cl
+2lab57.daye.ufro.cl
+alamo.med.ufro.cl
+pc61.riie.ufro.cl
+colico.med.ufro.cl
+ima72.ufro.cl
+ima85.ufro.cl
+eval01.admcen.ufro.cl
+ccuevas.dmat.ufro.cl
+ssocial14.edu.ufro.cl
+temuco34.dis.ufro.cl
+r207ip105.ufro.cl
+optima2011.ufro.cl
+temp06.admcen.ufro.cl
+wifiincuba1.ufro.cl
+dge200.admcen.ufro.cl
+r207ip214.ufro.cl
+pifip001.edu.ufro.cl
+labcap204.admcen.ufro.cl
+wl217.inele.ufro.cl
+gateider.ufro.cl
+leng5.edu.ufro.cl
+loncotraro.med.ufro.cl
+csanmartin.psico.ufro.cl
+r207ip58.ufro.cl
+salad103.ufro.cl
+sala53.comp.ufro.cl
+fc39.ufro.cl
+fc31.ufro.cl
+tesore2.admcen.ufro.cl
+pc38.riie.ufro.cl
+doc79.dim.ufro.cl
+leng1.edu.ufro.cl
+r207ip192.ufro.cl
+cmcc90.cmcc.ufro.cl
+fc33.ufro.cl
+cre03.admcen.ufro.cl
+proenta2.ufro.cl
+verti02.ufro.cl
+callcenter01.admcen.ufro.cl
+sala58.comp.ufro.cl
+agro149.fagro.ufro.cl
+labg01.edu.ufro.cl
+gsandova.ufro.cl
+labcap215.admcen.ufro.cl
+wetrun.dinfo.ufro.cl
+gis.ufro.cl
+ider3.admcen.ufro.cl
+gategim.dinfo.ufro.cl
+pc-05.dmat.ufro.cl
+umatic41.ufro.cl
+cochamo.med.ufro.cl
+diragro.fagro.ufro.cl
+fudea164.admcen.ufro.cl
+gim228.dinfo.ufro.cl
+dullin.ufro.cl
+o202-02.edu.ufro.cl
+terc25.edu.ufro.cl
+trauki.edu.ufro.cl
+sig132.dis.ufro.cl
+labcap199.admcen.ufro.cl
+r207ip222.ufro.cl
+terc22.edu.ufro.cl
+r207ip211.ufro.cl
+cholchol.med.ufro.cl
+csquim74.csquim.ufro.cl
+chillka.bib.ufro.cl
+umatic42.ufro.cl
+rilpe.med.ufro.cl
+wl211.inele.ufro.cl
+r207ip19.ufro.cl
+capacit01.admcen.ufro.cl
+diagnostico.ufro.cl
+terc11.edu.ufro.cl
+secdirapost.admcen.ufro.cl
+cprat79.ufro.cl
+labg05.edu.ufro.cl
+cprat111.ufro.cl
+peumo.med.ufro.cl
+adm27.daye.ufro.cl
+mguzman.dim.ufro.cl
+r207ip138.ufro.cl
+r207ip38.ufro.cl
+forcont14.admcen.ufro.cl
+ima76.ufro.cl
+agri2113.agroi.ufro.cl
+rnavia.fia.ufro.cl
+dingele.inele.ufro.cl
+salara2001.ufro.cl
+minor.ufro.cl
+fc09.ufro.cl
+www.astro.ufro.cl
+cata.dmat.ufro.cl
+dungun.ufro.cl
+02uniej.edu.ufro.cl
+reinikeo.edu.ufro.cl
+med.ufro.cl
+hleal.agroi.ufro.cl
+chumpirro.med.ufro.cl
+mawida.dis.ufro.cl
+t1.edu.ufro.cl
+marigen.agroi.ufro.cl
+sim178.dis.ufro.cl
+verti07.ufro.cl
+dcabalin.med.ufro.cl
+csquim97.csquim.ufro.cl
+r207ip149.ufro.cl
+tele162.dis.ufro.cl
+wl197.inele.ufro.cl
+sala55.comp.ufro.cl
+tehualda.med.ufro.cl
+cedron.med.ufro.cl
+coique.med.ufro.cl
+cc.dis.ufro.cl
+vergara.med.ufro.cl
+fia-online.ufro.cl
+ceii.ufro.cl
+ssocial12.edu.ufro.cl
+soporte.dinfo.ufro.cl
+cntoper.ufro.cl
+apoyoacademico.ufro.cl
+wl176.inele.ufro.cl
+pc83.riie.ufro.cl
+iei183.iei.ufro.cl
+vilcun.med.ufro.cl
+invent04.admcen.ufro.cl
+cprat38.ufro.cl
+pc30.riie.ufro.cl
+tremun.ufro.cl
+vrac10.admcen.ufro.cl
+doc92.dim.ufro.cl
+presup04.admcen.ufro.cl
+pensamiento.med.ufro.cl
+dge214.admcen.ufro.cl
+sim171.dis.ufro.cl
+conoco.med.ufro.cl
+quilleihue.med.ufro.cl
+sala28.comp.ufro.cl
+psico111.psico.ufro.cl
+ll02.edu.ufro.cl
+eclipse2020.ufro.cl
+paulandr.psico.ufro.cl
+quin18.edu.ufro.cl
+wl185.inele.ufro.cl
+labdie02.inele.ufro.cl
+labdie04.inele.ufro.cl
+pc-17.dmat.ufro.cl
+terc12.edu.ufro.cl
+peleco.med.ufro.cl
+pe11-103.admcen.ufro.cl
+wl54.ufro.cl
+admin.fia.ufro.cl
+ecad.ufro.cl
+puyanhue.med.ufro.cl
+gatedinfo.ufro.cl
+temuco04.dis.ufro.cl
+r207ip43.ufro.cl
+fc21.ufro.cl
+capic2014.ufro.cl
+r207ip208.ufro.cl
+catalogo.ufro.cl
+sv5.ceii.ufro.cl
+csquim98.csquim.ufro.cl
+conrec1.admcen.ufro.cl
+pc73.riie.ufro.cl
+bib31.bib.ufro.cl
+quino.med.ufro.cl
+casino1.admcen.ufro.cl
+memo104.inele.ufro.cl
+tinquilco.med.ufro.cl
+labcap211.admcen.ufro.cl
+gaston.edu.ufro.cl
+temuco07.dis.ufro.cl
+naranja.agroi.ufro.cl
+gim219.dinfo.ufro.cl
+morari.inele.ufro.cl
+psico112.psico.ufro.cl
+cgrandon.admcen.ufro.cl
+quin26.edu.ufro.cl
+wl205.inele.ufro.cl
+cinta.dinfo.ufro.cl
+r207ip252.ufro.cl
+r207ip64.ufro.cl
+geometry.ufro.cl
+aromo.med.ufro.cl
+period18.period.ufro.cl
+iei163.iei.ufro.cl
+www.proenta.ufro.cl
+cbmagis03.med.ufro.cl
+doc87.dim.ufro.cl
+mango.med.ufro.cl
+portrec.admcen.ufro.cl
+iei160.iei.ufro.cl
+r207ip13.ufro.cl
+gim224.dinfo.ufro.cl
+r207ip224.ufro.cl
+huilma.med.ufro.cl
+elearning3.ufro.cl
+r207ip182.ufro.cl
+sim173.dis.ufro.cl
+sala24.comp.ufro.cl
+www.vinculacion.ufro.cl
+cprat77.ufro.cl
+wl23.inele.ufro.cl
+r207ip133.ufro.cl
+biene8.admcen.ufro.cl
+o202-03.edu.ufro.cl
+sala27.comp.ufro.cl
+iei180.iei.ufro.cl
+bib16.bib.ufro.cl
+bib12.bib.ufro.cl
+cbmagis01.med.ufro.cl
+ima71.ufro.cl
+temuco14.dis.ufro.cl
+seceef.edu.ufro.cl
+cienpan.med.ufro.cl
+memo03.dis.ufro.cl
+educ5.edu.ufro.cl
+wl17.inele.ufro.cl
+r207ip3.ufro.cl
+agro135.fagro.ufro.cl
+ldap-eduroam.ufro.cl
+csquim88.csquim.ufro.cl
+listas.ufro.cl
+wl179.inele.ufro.cl
+fc10.ufro.cl
+cienciaempresa.ufro.cl
+www.csquim.ufro.cl
+webadmdge.admcen.ufro.cl
+adm20.daye.ufro.cl
+cprat114.ufro.cl
+r207ip217.ufro.cl
+terc15.edu.ufro.cl
+wl18.inele.ufro.cl
+pc76.riie.ufro.cl
+ingles04.edu.ufro.cl
+r207ip193.ufro.cl
+telecnt.ufro.cl
+catinele.ufro.cl
+r207ip26.ufro.cl
+lumaco.med.ufro.cl
+labensayosambientales.ufro.cl
+lkettere.edu.ufro.cl
+bib56.bib.ufro.cl
+www.geometryrc.ufro.cl
+bena.dmat.ufro.cl
+edt.ufro.cl
+vraf02.admcen.ufro.cl
+o202-01.edu.ufro.cl
+agri284.agroi.ufro.cl
+doc72.dim.ufro.cl
+gim250.dinfo.ufro.cl
+www.fica.ufro.cl
+salad209.ufro.cl
+anat42.med.ufro.cl
+caagricola.fagro.ufro.cl
+fudea180.admcen.ufro.cl
+sala33.comp.ufro.cl
+jaime.agroi.ufro.cl
+www.forestal.ufro.cl
+catrect.ufro.cl
+wl208.inele.ufro.cl
+ilusiones.med.ufro.cl
+www.derecho.ufro.cl
+agro143.fagro.ufro.cl
+cuar02.edu.ufro.cl
+agro162.fagro.ufro.cl
+fudea178.admcen.ufro.cl
+cprat73.ufro.cl
+cmcc94.cmcc.ufro.cl
+cprat72.ufro.cl
+temuco19.dis.ufro.cl
+soc02.edu.ufro.cl
+ssocial16.edu.ufro.cl
+labcap213.admcen.ufro.cl
+radius-eduroam.ufro.cl
+anat40.med.ufro.cl
+gim204.dinfo.ufro.cl
+cinteg03.admcen.ufro.cl
+cprat37.ufro.cl
+micbio03.med.ufro.cl
+dircopint01.admcen.ufro.cl
+r207ip166.ufro.cl
+pc95.riie.ufro.cl
+sala23.comp.ufro.cl
+notebook2.inele.ufro.cl
+wifiinele2.ufro.cl
+labinfo3.fagro.ufro.cl
+gim202.dinfo.ufro.cl
+operadores2.dinfo.ufro.cl
+secreclin02.psico.ufro.cl
+gorbea.med.ufro.cl
+pedregoso.med.ufro.cl
+contab03.admcen.ufro.cl
+campuspucon.ufro.cl
+piloto1.inele.ufro.cl
+r207ip223.ufro.cl
+pc01.edu.ufro.cl
+umatic44.ufro.cl
+catsico.ufro.cl
+tatan.inele.ufro.cl
+coneib2015.ufro.cl
+rinie2019.ufro.cl
+labidio03.ufro.cl
+chem.ufro.cl
+doc75.dim.ufro.cl
+sedepucon.ufro.cl
+rucatraro.med.ufro.cl
+r207ip104.ufro.cl
+r207ip235.ufro.cl
+dge225.admcen.ufro.cl
+mallol1.dmat.ufro.cl
+agri2124.agroi.ufro.cl
+porma.med.ufro.cl
+amelia.edu.ufro.cl
+pc23.riie.ufro.cl
+temuco17.dis.ufro.cl
+capacit04.admcen.ufro.cl
+cprat102.ufro.cl
+www.utic.ufro.cl
+docenciavirtual.ufro.cl
+dge218.admcen.ufro.cl
+contulmo.med.ufro.cl
+r207ip161.ufro.cl
+ccaamec.dim.ufro.cl
+www.cig2019.ufro.cl
+en.movilidad.ufro.cl
+parquerucamanque.ufro.cl
+jdcmora.dcfis.ufro.cl
+pc37.riie.ufro.cl
+wifinotros.ufro.cl
+fc17.ufro.cl
+temuco38.dis.ufro.cl
+terc08.edu.ufro.cl
+dirinv.admcen.ufro.cl
+pc-06.dmat.ufro.cl
+cprat54.ufro.cl
+bibconf.ufro.cl
+labcap196.admcen.ufro.cl
+cprat109.ufro.cl
+pillanlelbun.med.ufro.cl
+r207ip129.ufro.cl
+bib58.bib.ufro.cl
+cprat36.ufro.cl
+camvit.ufro.cl
+inver.fagro.ufro.cl
+feufro.ufro.cl
+terc05.edu.ufro.cl
+chilecompra4.admcen.ufro.cl
+wifimed02.med.ufro.cl
+cprat21.ufro.cl
+cprat29.ufro.cl
+gateociv.fia.ufro.cl
+circulomizona.ufro.cl
+trovolhue.med.ufro.cl
+labidio01.ufro.cl
+manzano.med.ufro.cl
+labpsbas04.psico.ufro.cl
+planpredial.ufro.cl
+che.dinfo.ufro.cl
+silver.inele.ufro.cl
+xbriceno.edu.ufro.cl
+r207ip213.ufro.cl
+r207ip41.ufro.cl
+r207ip98.ufro.cl
+labdie06.inele.ufro.cl
+curiletu.med.ufro.cl
+fudea181.admcen.ufro.cl
+ll08.edu.ufro.cl
+lafquen.dmat.ufro.cl
+agri289.agroi.ufro.cl
+rbeta.dim.ufro.cl
+dev.iie.ufro.cl
+liucura.dinfo.ufro.cl
+o104.edu.ufro.cl
+r207ip71.ufro.cl
+direef.edu.ufro.cl
+pc49.riie.ufro.cl
+ctoloza.dmat.ufro.cl
+csquim105.csquim.ufro.cl
+pc19.riie.ufro.cl
+r207ip10.ufro.cl
+1lab206.dis.ufro.cl
+cuar09.edu.ufro.cl
+umatic21.ufro.cl
+gim240.dinfo.ufro.cl
+salat101.fagro.ufro.cl
+ociv111.fia.ufro.cl
+carhuello.med.ufro.cl
+csquim69.csquim.ufro.cl
+r207ip88.ufro.cl
+w04.admcen.ufro.cl
+quintrala.dcfis.ufro.cl
+leng10.edu.ufro.cl
+sfs142.dis.ufro.cl
+pc90.riie.ufro.cl
+petunia.med.ufro.cl
+liuco.med.ufro.cl
+prr2.dinfo.ufro.cl
+labdge.ufro.cl
+pc72.riie.ufro.cl
+pc27.riie.ufro.cl
+orquidea.med.ufro.cl
+1lab212.dis.ufro.cl
+gim211.dinfo.ufro.cl
+tele163.dis.ufro.cl
+r207ip57.ufro.cl
+r207ip150.ufro.cl
+traiguen.med.ufro.cl
+terc16.edu.ufro.cl
+congresoforestal2014.ufro.cl
+r207ip229.ufro.cl
+adm17.daye.ufro.cl
+gatedge.ufro.cl
+iei157.iei.ufro.cl
+tempssocial1.edu.ufro.cl
+verti09.ufro.cl
+socio02.edu.ufro.cl
+pcampos.admcen.ufro.cl
+pifip07.edu.ufro.cl
+gim222.dinfo.ufro.cl
+cprat93.ufro.cl
+ingenieriacivil.ufro.cl
+gatefudea.admcen.ufro.cl
+www.mii.ufro.cl
+ociv122.fia.ufro.cl
+anat35.med.ufro.cl
+sala59.comp.ufro.cl
+fonoaudiologia.med.ufro.cl
+pe11-106.admcen.ufro.cl
+bib36.bib.ufro.cl
+talquipen.med.ufro.cl
+ima65.ufro.cl
+gatecmcc.cmcc.ufro.cl
+pc64.riie.ufro.cl
+ima.ufro.cl
+movilidad.ufro.cl
+ingmat68.ingmat.ufro.cl
+temuco02.dis.ufro.cl
+lopazoa.dinfo.ufro.cl
+tele161.dis.ufro.cl
+ap.ceii.ufro.cl
+bib26.bib.ufro.cl
+labo1.edu.ufro.cl
+gatedircom.ufro.cl
+dhcp1.bib.ufro.cl
+ficainele.inele.ufro.cl
+coordhisto.edu.ufro.cl
+umatic19.ufro.cl
+gim216.dinfo.ufro.cl
+diper11.admcen.ufro.cl
+psicologia.ufro.cl
+labcap195.admcen.ufro.cl
+manzanar.med.ufro.cl
+gim213.dinfo.ufro.cl
+inscripcion.ufro.cl
+anaconda.dcfis.ufro.cl
+cprat56.ufro.cl
+vrac05.admcen.ufro.cl
+finagro.fagro.ufro.cl
+cprat50.ufro.cl
+bib22.bib.ufro.cl
+labpsbas06.psico.ufro.cl
+educ6.edu.ufro.cl
+ociv118.fia.ufro.cl
+www.dircpa.ufro.cl
+wificebior.ufro.cl
+r207ip215.ufro.cl
+ssocial02.edu.ufro.cl
+pc-03.dmat.ufro.cl
+r207ip185.ufro.cl
+iei162.iei.ufro.cl
+csquim77.csquim.ufro.cl
+ufronoticias.ufro.cl
+fudea175.admcen.ufro.cl
+clavel.med.ufro.cl
+gateedu1.ufro.cl
+lennon.inele.ufro.cl
+dirinv02.admcen.ufro.cl
+fudea188.admcen.ufro.cl
+mbaeza.edu.ufro.cl
+mzambran.agroi.ufro.cl
+sala52.comp.ufro.cl
+malalcahuello.med.ufro.cl
+pitrufquen.med.ufro.cl
+o101.edu.ufro.cl
+rector3.admcen.ufro.cl
+gim205.dinfo.ufro.cl
+umatic31.ufro.cl
+ider1.admcen.ufro.cl
+r207ip78.ufro.cl
+agro155.fagro.ufro.cl
+gateagroi2.agroi.ufro.cl
+agri271.agroi.ufro.cl
+laurel.med.ufro.cl
+jsspn.ufro.cl
+www.telematica.ufro.cl
+alenav.inele.ufro.cl
+hsoto.dmat.ufro.cl
+elavin.admcen.ufro.cl
+terce.iie.ufro.cl
+iei150.iei.ufro.cl
+licsa.ufro.cl
+cprat58.ufro.cl
+datacenter1.dinfo.ufro.cl
+sfs133.dis.ufro.cl
+catemu.dinfo.ufro.cl
+pifip01.edu.ufro.cl
+gim233.dinfo.ufro.cl
+gim197.dinfo.ufro.cl
+o202-04.edu.ufro.cl
+icalmapu.med.ufro.cl
+bib15.bib.ufro.cl
+nahuel.dinfo.ufro.cl
+multbiene.admcen.ufro.cl
+casino03.ufro.cl
+dirplan11.admcen.ufro.cl
+sv2.ceii.ufro.cl
+agri2111.agroi.ufro.cl
+diper10.admcen.ufro.cl
+nut219.med.ufro.cl
+pc33.riie.ufro.cl
+bib33.bib.ufro.cl
+gatetele.dis.ufro.cl
+salad4.ufro.cl
+berlin.dis.ufro.cl
+doctoradorrnn.ufro.cl
+keller.inele.ufro.cl
+icees.ufro.cl
+period44.period.ufro.cl
+fcje.ufro.cl
+weche2.dinfo.ufro.cl
+wl189.inele.ufro.cl
+gate2radio.med.ufro.cl
+labwifi.edu.ufro.cl
+labpsbas02.psico.ufro.cl
+foto.inele.ufro.cl
+r207ip111.ufro.cl
+memo105.inele.ufro.cl
+gim246.dinfo.ufro.cl
+pellin.med.ufro.cl
+rucalhue.med.ufro.cl
+cholhuaco.med.ufro.cl
+www.dinfo.ufro.cl
+tempima.ufro.cl
+gatefia5.ufro.cl
+iei179.iei.ufro.cl
+pace.ufro.cl
+wifi1.inele.ufro.cl
+fc43.ufro.cl
+bib42.bib.ufro.cl
+r207ip233.ufro.cl
+castellanoycomunicacion.ufro.cl
+gatefia1.ufro.cl
+circulotitulados.ufro.cl
+agri265.agroi.ufro.cl
+adm28.daye.ufro.cl
+esparrago.agroi.ufro.cl
+pc85.riie.ufro.cl
+coordina.inele.ufro.cl
+labdie13.inele.ufro.cl
+r207ip204.ufro.cl
+r207ip73.ufro.cl
+agri2122.agroi.ufro.cl
+iie.ufro.cl
+secgra5.admcen.ufro.cl
+soc07.edu.ufro.cl
+dge222.admcen.ufro.cl
+agrdoc04.agroi.ufro.cl
+astro.ufro.cl
+r207ip16.ufro.cl
+gatefagro.ufro.cl
+cprat92.ufro.cl
+gim235.dinfo.ufro.cl
+gatesfs.dis.ufro.cl
+iei177.iei.ufro.cl
+ociv108.fia.ufro.cl
+r207ip48.ufro.cl
+r207ip162.ufro.cl
+fudea167.admcen.ufro.cl
+o105.edu.ufro.cl
+csquim104.csquim.ufro.cl
+leng13.edu.ufro.cl
+labo14.edu.ufro.cl
+capacit.ufro.cl
+regposgra.admcen.ufro.cl
+r207ip66.ufro.cl
+insigne.med.ufro.cl
+wl184.inele.ufro.cl
+doc91.dim.ufro.cl
+pc34.riie.ufro.cl
+csprof02.edu.ufro.cl
+bioterio.ufro.cl
+trufultruful.med.ufro.cl
+gor51.ufro.cl
+punca.med.ufro.cl
+vcmed02.med.ufro.cl
+wl49.ufro.cl
+r207ip20.ufro.cl
+cprat31.ufro.cl
+azucena.med.ufro.cl
+sig129.dis.ufro.cl
+sala38.comp.ufro.cl
+fudea186.admcen.ufro.cl
+conveniocienciassociales.ufro.cl
+dirpertesis.admcen.ufro.cl
+quillagua.med.ufro.cl
+jar220.admcen.ufro.cl
+tele165.dis.ufro.cl
+wl200.inele.ufro.cl
+escueladepedagogia.ufro.cl
+cre09.admcen.ufro.cl
+test05.dinfo.ufro.cl
+pucon.med.ufro.cl
+jhoch.dis.ufro.cl
+cacique.dcfis.ufro.cl
+nat2pprat.ufro.cl
+sala46.comp.ufro.cl
+pc99.riie.ufro.cl
+r207ip79.ufro.cl
+comunidad.ufro.cl
+r207ip102.ufro.cl
+quin02.edu.ufro.cl
+agri2115.agroi.ufro.cl
+teleoper.ufro.cl
+direduc.edu.ufro.cl
+ealtieri.admcen.ufro.cl
+pc42.riie.ufro.cl
+ritu.ufro.cl
+dge194.admcen.ufro.cl
+umatic15.ufro.cl
+labcomp.fia.ufro.cl
+neuro01.ufro.cl
+www.congresosemiotica.ufro.cl
+iei156.iei.ufro.cl
+r207ip251.ufro.cl
+udelafrontera.ufro.cl
+pc15.riie.ufro.cl
+cssec.edu.ufro.cl
+r207ip191.ufro.cl
+vcmed01.med.ufro.cl
+servsoc.edu.ufro.cl
+pc51.riie.ufro.cl
+1lab218.dis.ufro.cl
+r207ip173.ufro.cl
+sistema.doctoradorrnn.ufro.cl
+cprat116.ufro.cl
+umatic37.ufro.cl
+labg02.edu.ufro.cl
+rapaco.med.ufro.cl
+r207ip44.ufro.cl
+pelaco.med.ufro.cl
+derribandomitos.ufro.cl
+wl218.inele.ufro.cl
+ramtun2a.ufro.cl
+informacion.ufro.cl
+fc15.ufro.cl
+gatedge.admcen.ufro.cl
+www4.ufro.cl
+reyehueico.med.ufro.cl
+gonzalo.agroi.ufro.cl
+csquim101.csquim.ufro.cl
+diseno09.edu.ufro.cl
+vicedec.fagro.ufro.cl
+abast01.admcen.ufro.cl
+rravanal.ufro.cl
+electivos.ufro.cl
+gim215.dinfo.ufro.cl
+r207ip9.ufro.cl
+fc13.ufro.cl
+r207ip145.ufro.cl
+gim232.dinfo.ufro.cl
+fc20.ufro.cl
+forcont06.admcen.ufro.cl
+maichin.med.ufro.cl
+bib27.bib.ufro.cl
+agri2107.agroi.ufro.cl
+r207ip250.ufro.cl
+wifi5.inele.ufro.cl
+doc90.dim.ufro.cl
+agri2120.agroi.ufro.cl
+umatic10.ufro.cl
+iei131.iei.ufro.cl
+codihue.med.ufro.cl
+gateociv.ufro.cl
+contab2.agroi.ufro.cl
+www.fagro.ufro.cl
+sarx-jfmf-2018.ufro.cl
+soc03.edu.ufro.cl
+gatefoncre.admcen.ufro.cl
+bib41.bib.ufro.cl
+sig135.dis.ufro.cl
+ima68.ufro.cl
+labcap193.admcen.ufro.cl
+huife.med.ufro.cl
+allillanco.med.ufro.cl
+oldsite.ufro.cl
+agri272.agroi.ufro.cl
+dsp113.inele.ufro.cl
+cprat106.ufro.cl
+guindo.med.ufro.cl
+labranza.med.ufro.cl
+pc74.riie.ufro.cl
+r207ip239.ufro.cl
+r207ip99.ufro.cl
+pediatria.med.ufro.cl
+r207ip159.ufro.cl
+soc04.edu.ufro.cl
+temuco36.dis.ufro.cl
+kalmann.inele.ufro.cl
+salad205.ufro.cl
+sim180.dis.ufro.cl
+salad204.ufro.cl
+csquim110.csquim.ufro.cl
+labpsbas09.psico.ufro.cl
+agro139.fagro.ufro.cl
+agro157.fagro.ufro.cl
+e3047.edu.ufro.cl
+sig138.dis.ufro.cl
+corun.dinfo.ufro.cl
+gatefedu.edu.ufro.cl
+negrita.dcfis.ufro.cl
+terc17.edu.ufro.cl
+investigador.ufro.cl
+sig136.dis.ufro.cl
+cprat41.ufro.cl
+kultrun2.dinfo.ufro.cl
+1lab220.dis.ufro.cl
+gim220.dinfo.ufro.cl
+paritario.ufro.cl
+pc-16.dmat.ufro.cl
+r207ip228.ufro.cl
+jceledon.ufro.cl
+calarcon.psico.ufro.cl
+dsp118.inele.ufro.cl
+cruces.med.ufro.cl
+gim208.dinfo.ufro.cl
+r207ip89.ufro.cl
+dge237.admcen.ufro.cl
+verti03.ufro.cl
+terc19.edu.ufro.cl
+huinay.med.ufro.cl
+secreclin01.psico.ufro.cl
+agro134.fagro.ufro.cl
+r207ip96.ufro.cl
+nucleocienciasociales.ufro.cl
+doc80.dim.ufro.cl
+kultrung3k.dinfo.ufro.cl
+ezproxy.ufro.cl
+proxy.daye.ufro.cl
+leng4.edu.ufro.cl
+iei140.iei.ufro.cl
+gatemec.dim.ufro.cl
+ingles01.edu.ufro.cl
+wifipabe.ufro.cl
+fudea171.admcen.ufro.cl
+antiquina.med.ufro.cl
+floyd.inele.ufro.cl
+r207ip23.ufro.cl
+anabalon.admcen.ufro.cl
+r207ip152.ufro.cl
+2lab44.daye.ufro.cl
+agro138.fagro.ufro.cl
+rdlink.dcfis.ufro.cl
+pc39.riie.ufro.cl
+gesproyecto.ufro.cl
+pc1.riie.ufro.cl
+ccct.ufro.cl
+r207ip1.ufro.cl
+agro164.fagro.ufro.cl
+chacayal.med.ufro.cl
+agri293.agroi.ufro.cl
+server02.edu.ufro.cl
+biorremediacion.ufro.cl
+umatic05.ufro.cl
+iei181.iei.ufro.cl
+cprat103.ufro.cl
+pc16.riie.ufro.cl
+jrodriguez.dinfo.ufro.cl
+analisis.ufro.cl
+labdie14.inele.ufro.cl
+planestrategico.ufro.cl
+deportes.ufro.cl
+quin24.edu.ufro.cl
+atmbello.ufro.cl
+g3k-qapps.ufro.cl
+impresora.dmat.ufro.cl
+iei135.iei.ufro.cl
+pifip02.edu.ufro.cl
+efactura-webservices.dinfo.ufro.cl
+fondef-psico.ufro.cl
+fudea166.admcen.ufro.cl
+trayen.ufro.cl
+agro167.fagro.ufro.cl
+gateiie0.ufro.cl
+dvera.dinfo.ufro.cl
+rtorres.edu.ufro.cl
+mulchen.med.ufro.cl
+quin33.edu.ufro.cl
+adm22.daye.ufro.cl
+merken.dinfo.ufro.cl
+memo109.inele.ufro.cl
+piloto3.inele.ufro.cl
+presup03.admcen.ufro.cl
+gor55.ufro.cl
+ingles05.edu.ufro.cl
+teledeteccion.dcfis.ufro.cl
+ociv106.fia.ufro.cl
+quin15.edu.ufro.cl
+collaboradrive.ufro.cl
+gatessocial.ufro.cl
+cegetco.ufro.cl
+copihuelpi.med.ufro.cl
+secgra1.admcen.ufro.cl
+wifi9.inele.ufro.cl
+csquim82.csquim.ufro.cl
+vrac03.admcen.ufro.cl
+iei168.iei.ufro.cl
+pilarz.admcen.ufro.cl
+labpsbas01.psico.ufro.cl
+orebolle.admcen.ufro.cl
+rector1.admcen.ufro.cl
+socio08.edu.ufro.cl
+quin39.edu.ufro.cl
+acceso.edu.ufro.cl
+cinteg01.admcen.ufro.cl
+cnp.admcen.ufro.cl
+salad110.ufro.cl
+hueicolla.med.ufro.cl
+r207ip86.ufro.cl
+cprat85.ufro.cl
+pe12-122.admcen.ufro.cl
+sala57.comp.ufro.cl
+temuco22.dis.ufro.cl
+ima83.ufro.cl
+ticket.dinfo.ufro.cl
+ingmat73.ingmat.ufro.cl
+temuco40.dis.ufro.cl
+sala21.comp.ufro.cl
+forcont04.admcen.ufro.cl
+bib09.bib.ufro.cl
+vader.cmcc.ufro.cl
+biometria.ufro.cl
+r207ip94.ufro.cl
+adm4.daye.ufro.cl
+ocp.ufro.cl
+colores.dcfis.ufro.cl
+vigia.ufro.cl
+derechoshumanos.ufro.cl
+labo8.edu.ufro.cl
+nucleo.dcfis.ufro.cl
+proenta4.admcen.ufro.cl
+agri287.agroi.ufro.cl
+bibescn.ufro.cl
+terc10.edu.ufro.cl
+r207ip6.ufro.cl
+calendario.ufro.cl
+o102.edu.ufro.cl
+r207ip130.ufro.cl
+r207ip45.ufro.cl
+control.dci.ufro.cl
+cuar05.edu.ufro.cl
+pe12-118.admcen.ufro.cl
+iei189.iei.ufro.cl
+wl173.inele.ufro.cl
+ingles08.edu.ufro.cl
+pc93.riie.ufro.cl
+dalia.med.ufro.cl
+wifimed.ufro.cl
+editorial.ufro.cl
+mininco.med.ufro.cl
+amulen.ufro.cl
+csuazo.admcen.ufro.cl
+labcap201.admcen.ufro.cl
+gatebib.ufro.cl
+srvgeometry.ufro.cl
+gateanat.med.ufro.cl
+lonko.ufro.cl
+jzonasur.ufro.cl
+agri297.agroi.ufro.cl
+pc25.riie.ufro.cl
+r207ip72.ufro.cl
+pc3.riie.ufro.cl
+routernat.cmcc.ufro.cl
+agrdoc03.agroi.ufro.cl
+r207ip33.ufro.cl
+antillanca.med.ufro.cl
+agrdoc07.agroi.ufro.cl
+secgra3.admcen.ufro.cl
+leng8.edu.ufro.cl
+r207ip249.ufro.cl
+butamallin.ufro.cl
+pe13-112.admcen.ufro.cl
+ssocial17.edu.ufro.cl
+porteria.psico.ufro.cl
+ider2.admcen.ufro.cl
+cit.ufro.cl
+labo7.edu.ufro.cl
+laserdual.cmcc.ufro.cl
+r207ip236.ufro.cl
+jacinto.med.ufro.cl
+salarvrip.admcen.ufro.cl
+iei147.iei.ufro.cl
+labcap198.admcen.ufro.cl
+en.ufro.cl
+wl193.inele.ufro.cl
+operador2.dinfo.ufro.cl
+agri273.agroi.ufro.cl
+autoevaluacion.ufro.cl
+llentane.med.ufro.cl
+gaterec3.admcen.ufro.cl
+gatedinfo.dinfo.ufro.cl
+sv4.ceii.ufro.cl
+doc76.dim.ufro.cl
+quin30.edu.ufro.cl
+pc91.riie.ufro.cl
+agri285.agroi.ufro.cl
+leng3.edu.ufro.cl
+cprat45.ufro.cl
+dcaro.dcfis.ufro.cl
+wl214.inele.ufro.cl
+oman.edu.ufro.cl
+cre05.admcen.ufro.cl
+verti11.ufro.cl
+cgi.ufro.cl
+ociv117.fia.ufro.cl
+auditorium2.fagro.ufro.cl
+bandurria.dcfis.ufro.cl
+1lab201.dis.ufro.cl
+ycastro.admcen.ufro.cl
+doctoradopsicologia.ufro.cl
+trehuaco.med.ufro.cl
+leng7.edu.ufro.cl
+dis04.inele.ufro.cl
+anat39.med.ufro.cl
+ssocial01.edu.ufro.cl
+wlprat.ufro.cl
+cemcc.ufro.cl
+wl180.inele.ufro.cl
+sala25.comp.ufro.cl
+period25.period.ufro.cl
+lonquimay.dis.ufro.cl
+dsp117.inele.ufro.cl
+wl10.inele.ufro.cl
+ima69.ufro.cl
+chaiguaco.med.ufro.cl
+doctoradocienciassociales.ufro.cl
+sala42.comp.ufro.cl
+monmz.dinfo.ufro.cl
+ranquil.med.ufro.cl
+cubo.ufro.cl
+ima88.ufro.cl
+terc13.edu.ufro.cl
+r207ip24.ufro.cl
+sala15.comp.ufro.cl
+sala11.comp.ufro.cl
+labpsbas05.psico.ufro.cl
+puren.dcfis.ufro.cl
+r207ip100.ufro.cl
+fc36.ufro.cl
+turbio.med.ufro.cl
+labo15.edu.ufro.cl
+incubatec2.ufro.cl
+vrac07.admcen.ufro.cl
+gvg101.dis.ufro.cl
+adm7.daye.ufro.cl
+fc18.ufro.cl
+acami.dmat.ufro.cl
+billeke.dmat.ufro.cl
+sala48.comp.ufro.cl
+adm18.daye.ufro.cl
+iei167.iei.ufro.cl
+pc67.riie.ufro.cl
+diseno01.edu.ufro.cl
+agrdoc02.agroi.ufro.cl
+nahuel2.dinfo.ufro.cl
+ll01.edu.ufro.cl
+secdir.agroi.ufro.cl
+pc98.riie.ufro.cl
+vrac11.admcen.ufro.cl
+wifiprat.ufro.cl
+cprat46.ufro.cl
+forcont12.admcen.ufro.cl
+pewmayen.ufro.cl
+quin32.edu.ufro.cl
+trabajosocial.ufro.cl
+gatepsu.ufro.cl
+fc46.ufro.cl
+umatic22.ufro.cl
+sfs130.dis.ufro.cl
+dde.ufro.cl
+memo103.inele.ufro.cl
+qlikadserver.ufro.cl
+humanidades.ufro.cl
+ojs.ufro.cl
+labcap210.admcen.ufro.cl
+cprat53.ufro.cl
+sig131.dis.ufro.cl
+dullin.dinfo.ufro.cl
+r207ip176.ufro.cl
+2lab51.daye.ufro.cl
+dirfin01.admcen.ufro.cl
+bib28.bib.ufro.cl
+bib30.bib.ufro.cl
+ancan.med.ufro.cl
+fudea162.admcen.ufro.cl
+fudea183.admcen.ufro.cl
+terc07.edu.ufro.cl
+r207ip39.ufro.cl
+r207ip118.ufro.cl
+pancho.dcfis.ufro.cl
+forcont05.admcen.ufro.cl
+agro176.fagro.ufro.cl
+dhcp2.bib.ufro.cl
+cprat87.ufro.cl
+administracionyeconomia.ufro.cl
+bib11.bib.ufro.cl
+dge217.admcen.ufro.cl
+d206port.ufro.cl
+mireyap.psico.ufro.cl
+piloto.cmcc.ufro.cl
+frio.fagro.ufro.cl
+nahuelbuta.med.ufro.cl
+iei145.iei.ufro.cl
+cprat101.ufro.cl
+tele168.dis.ufro.cl
+ruka.cmcc.ufro.cl
+ociv100.fia.ufro.cl
+elicura.dcfis.ufro.cl
+labcap200.admcen.ufro.cl
+panol.inele.ufro.cl
+r207ip87.ufro.cl
+1lab213.dis.ufro.cl
+tele171.dis.ufro.cl
+temuco18.dis.ufro.cl
+ccaa-ieel.inele.ufro.cl
+dspace.fica.ufro.cl
+adm19.daye.ufro.cl
+xtoledo.edu.ufro.cl
+scon1.ufro.cl
+temuco37.dis.ufro.cl
+r207ip146.ufro.cl
+fondefintegracion.ufro.cl
+pc48.riie.ufro.cl
+cala.med.ufro.cl
+nut226.med.ufro.cl
+sochedi2016.ufro.cl
+wifirec1.ufro.cl
+2lab50.daye.ufro.cl
+labo5.edu.ufro.cl
+gim217.dinfo.ufro.cl
+quelhue.med.ufro.cl
+gaterec2.admcen.ufro.cl
+r207ip34.ufro.cl
+cran.dme.ufro.cl
+pe13-109.admcen.ufro.cl
+r207ip175.ufro.cl
+r207ip93.ufro.cl
+rlara.edu.ufro.cl
+tomeco.med.ufro.cl
+cuar06.edu.ufro.cl
+gim231.dinfo.ufro.cl
+salad3.ufro.cl
+r207ip142.ufro.cl
+r207ip172.ufro.cl
+r207ip8.ufro.cl
+proenta2.admcen.ufro.cl
+pc62.riie.ufro.cl
+secgra2.admcen.ufro.cl
+bodega01.admcen.ufro.cl
+calcol.med.ufro.cl
+gateedu4.ufro.cl
+antihuala.med.ufro.cl
+soc232.edu.ufro.cl
+gatecmcc.ufro.cl
+temuco10.dis.ufro.cl
+1lab204.dis.ufro.cl
+proenta.ufro.cl
+jgonza.edu.ufro.cl
+www.mailing.ufro.cl
+did100p.admcen.ufro.cl
+ecsh.ufro.cl
+adm3.daye.ufro.cl
+iei132.iei.ufro.cl
+sim182.dis.ufro.cl
+biblio-admin.ufro.cl
+rlsoto.admcen.ufro.cl
+ociv104.fia.ufro.cl
+salat105.fagro.ufro.cl
+r207ip186.ufro.cl
+alimentacion.ufro.cl
+cinteg02.admcen.ufro.cl
+ingles11.edu.ufro.cl
+sperez.edu.ufro.cl
+entomologia.ufro.cl
+ticket-soporte.ufro.cl
+quin14.edu.ufro.cl
+salat104.fagro.ufro.cl
+gatefia4.ufro.cl
+r207ip2.ufro.cl
+umatic13.ufro.cl
+presup02.admcen.ufro.cl
+agro150.fagro.ufro.cl
+agri295.agroi.ufro.cl
+ssocial05.edu.ufro.cl
+galletue.med.ufro.cl
+r207ip115.ufro.cl
+wificasino.ufro.cl
+ingecomer1.fia.ufro.cl
+www.lepfor.ufro.cl
+intercarreras.ufro.cl
+gateedu.ufro.cl
+canelo.med.ufro.cl
+bib61.bib.ufro.cl
+vrip.admcen.ufro.cl
+ensayospsu.ufro.cl
+leng11.edu.ufro.cl
+ingles13.edu.ufro.cl
+server01.edu.ufro.cl
+terc02.edu.ufro.cl
+ociv105.fia.ufro.cl
+r207ip61.ufro.cl
+r207ip244.ufro.cl
+mpacheco.admcen.ufro.cl
+acreditacion.odontologia.ufro.cl
+r207ip28.ufro.cl
+quin28.edu.ufro.cl
+r207ip203.ufro.cl
+gim207.dinfo.ufro.cl
+mmunoz.edu.ufro.cl
+adm5.daye.ufro.cl
+elearning4.ufro.cl
+gatesalasd.ufro.cl
+wifiito.ufro.cl
+contab07.admcen.ufro.cl
+damasco.agroi.ufro.cl
+cprat62.ufro.cl
+ima75.ufro.cl
+umatic12.ufro.cl
+temuco32.dis.ufro.cl
+labcap206.admcen.ufro.cl
+dge205.admcen.ufro.cl
+liucura.med.ufro.cl
+msortiz.psico.ufro.cl
+cprat57.ufro.cl
+pc21.riie.ufro.cl
+r207ip148.ufro.cl
+labcap214.admcen.ufro.cl
+geometry2.ufro.cl
+labcap220.admcen.ufro.cl
+1lab215.dis.ufro.cl
+labcap207.admcen.ufro.cl
+agrdoc13.agroi.ufro.cl
+temuco06.dis.ufro.cl
+verti04.ufro.cl
+gestionpostgrado.ufro.cl
+secpre.fia.ufro.cl
+pc36.riie.ufro.cl
+vizcarra.psico.ufro.cl
+agro160.fagro.ufro.cl
+cprat84.ufro.cl
+laboptica.dcfis.ufro.cl
+umatic39.ufro.cl
+period2.period.ufro.cl
+adm1.daye.ufro.cl
+dge236.admcen.ufro.cl
+agro151.fagro.ufro.cl
+salad207.ufro.cl
+r207ip221.ufro.cl
+pc66.riie.ufro.cl
+quin22.edu.ufro.cl
+r207ip11.ufro.cl
+agri2114.agroi.ufro.cl
+converginghorizons.ufro.cl
+gatemz.dinfo.ufro.cl
+wl213.inele.ufro.cl
+pifip002.edu.ufro.cl
+www.ufro.cl
+pc43.riie.ufro.cl
+adm29.daye.ufro.cl
+starkey.inele.ufro.cl
+lopeteg.dmat.ufro.cl
+chaquehua.med.ufro.cl
+anat36.med.ufro.cl
+spineda.admcen.ufro.cl
+labcap202.admcen.ufro.cl
+admision.ufro.cl
+avellano.med.ufro.cl
+encuentrosecretarias.ufro.cl
+iei154.iei.ufro.cl
+fc24.ufro.cl
+maquehue.med.ufro.cl
+rleal.dmat.ufro.cl
+wl209.inele.ufro.cl
+terc03.edu.ufro.cl
+csquim87.csquim.ufro.cl
+pc9.riie.ufro.cl
+www.chem.ufro.cl
+gonzalez.agroi.ufro.cl
+ingles02.edu.ufro.cl
+r207ip194.ufro.cl
+cateduc.ufro.cl
+wl188.inele.ufro.cl
+labmcul.fagro.ufro.cl
+temporal.dinfo.ufro.cl
+mdenegri.psico.ufro.cl
+pc2.riie.ufro.cl
+secgra9.admcen.ufro.cl
+gim193.dinfo.ufro.cl
+agri2112.agroi.ufro.cl
+rcic.ufro.cl
+periodismo.ufro.cl
+cprat91.ufro.cl
+pc32.riie.ufro.cl
+ulmo.med.ufro.cl
+wifidircade.ufro.cl
+agro140.fagro.ufro.cl
+adm6.daye.ufro.cl
+labdie09.inele.ufro.cl
+hbetancourt.psico.ufro.cl
+cvtest2020.ufro.cl
+csquim93.csquim.ufro.cl
+pregrado.ufro.cl
+sig147.dis.ufro.cl
+quin36.edu.ufro.cl
+umatic38.ufro.cl
+period12.period.ufro.cl
+pitrufquen.dcfis.ufro.cl
+codi.ufro.cl
+iei133.iei.ufro.cl
+agri270.agroi.ufro.cl
+cardiologia.ufro.cl
+preyes.ufro.cl
+contab04.admcen.ufro.cl
+op195.dis.ufro.cl
+ll04.edu.ufro.cl
+cooperacion.ufro.cl
+diradmin.fia.ufro.cl
+labdie15.inele.ufro.cl
+r207ip70.ufro.cl
+period14.period.ufro.cl
+diper04.admcen.ufro.cl
+pc88.riie.ufro.cl
+pc110.riie.ufro.cl
+salara1004.ufro.cl
+vicedec.fia.ufro.cl
+cepec.ufro.cl
+coinco.med.ufro.cl
+maichihue.med.ufro.cl
+weche.dinfo.ufro.cl
+tele167.dis.ufro.cl
+r207ip112.ufro.cl
+cuar07.edu.ufro.cl
+dis02.inele.ufro.cl
+pc59.riie.ufro.cl
+pc-11.dmat.ufro.cl
+queen.inele.ufro.cl
+manio.med.ufro.cl
+vrac09.admcen.ufro.cl
+ssocial215.edu.ufro.cl
+salad208.ufro.cl
+o103.edu.ufro.cl
+pc35.riie.ufro.cl
+gatelabcap.admcen.ufro.cl
+redcap.ufro.cl
+quin05.edu.ufro.cl
+est.ceii.ufro.cl
+cprat25.ufro.cl
+fc34.ufro.cl
+rehue.inele.ufro.cl
+secdec2.fia.ufro.cl
+doitcip.ufro.cl
+gatemat.dmat.ufro.cl
+r207ip170.ufro.cl
+adm14.daye.ufro.cl
+longlong.med.ufro.cl
+labo10.edu.ufro.cl
+r207ip77.ufro.cl
+pc84.riie.ufro.cl
+sfs131.dis.ufro.cl
+sala22.comp.ufro.cl
+multimedia.iie.ufro.cl
+r207ip62.ufro.cl
+sala36.comp.ufro.cl
+r207ip27.ufro.cl
+secgra6.admcen.ufro.cl
+r207ip199.ufro.cl
+asalame.edu.ufro.cl
+pidima.med.ufro.cl
+anat41.med.ufro.cl
+temporal.dcfis.ufro.cl
+kudi.cmcc.ufro.cl
+cmcc95.cmcc.ufro.cl
+agri283.agroi.ufro.cl
+o107.edu.ufro.cl
+enin2014.ufro.cl
+pc29.riie.ufro.cl
+dsp116.inele.ufro.cl
+quin03.edu.ufro.cl
+mizona.ufro.cl
+csquim83.csquim.ufro.cl
+bib23.bib.ufro.cl
+wenu.dmat.ufro.cl
+nut218.med.ufro.cl
+iei139.iei.ufro.cl
+www.cibama.ufro.cl
+mecesup.dcfis.ufro.cl
+forcont09.admcen.ufro.cl
+pgprlatinoamericano2016.ufro.cl
+umatic16.ufro.cl
+webpay.ufro.cl
+joomlavirtual.ufro.cl
+iei144.iei.ufro.cl
+licencia.dcfis.ufro.cl
+nutri235.med.ufro.cl
+wl199.inele.ufro.cl
+fc35.ufro.cl
+agri277.agroi.ufro.cl
+cprat52.ufro.cl
+dis01.inele.ufro.cl
+csquim109.csquim.ufro.cl
+sala29.comp.ufro.cl
+fsandova.admcen.ufro.cl
+e222.edu.ufro.cl
+sim175.dis.ufro.cl
+asoto.edu.ufro.cl
+uportal.ufro.cl
+mvielh.dmat.ufro.cl
+llfica.cmcc.ufro.cl
+temp04.admcen.ufro.cl
+colga.med.ufro.cl
+cprat95.ufro.cl
+terc01.edu.ufro.cl
+ingles12.edu.ufro.cl
+sce.dis.ufro.cl
+agrdoc12.agroi.ufro.cl
+v-moodle.dinfo.ufro.cl
+ipv6.cmcc.ufro.cl
+seccar.dim.ufro.cl
+ajimenez.dinfo.ufro.cl
+wl53.ufro.cl
+ima78.ufro.cl
+pifip.ufro.cl
+adm12.daye.ufro.cl
+cbor.agroi.ufro.cl
+iei171.iei.ufro.cl
+temuco28.dis.ufro.cl
+terc23.edu.ufro.cl
+dis03.inele.ufro.cl
+amoraga.admcen.ufro.cl
+bib25.bib.ufro.cl
+empleaemprende.ufro.cl
+r207ip75.ufro.cl
+quirihue.med.ufro.cl
+sala49.comp.ufro.cl
+werken.ufro.cl
+r207ip30.ufro.cl
+ima89.ufro.cl
+hilhue.med.ufro.cl
+queule.med.ufro.cl
+wifibibmed.ufro.cl
+gatedae.ufro.cl
+vinculacion.ufro.cl
+wifimed05.med.ufro.cl
+akeller.psico.ufro.cl
+cprat27.ufro.cl
+chilecompra7.admcen.ufro.cl
+agarin.edu.ufro.cl
+caihuico.med.ufro.cl
+sala50.comp.ufro.cl
+ociv116.fia.ufro.cl
+socio10.edu.ufro.cl
+fc11.ufro.cl
+anamaria.inele.ufro.cl
+lirio.med.ufro.cl
+orientaufro.ufro.cl
+adm23.daye.ufro.cl
+fc02.ufro.cl
+sala41.comp.ufro.cl
+wl16.inele.ufro.cl
+callcenter02.admcen.ufro.cl
+r207ip177.ufro.cl
+agro146.fagro.ufro.cl
+umatic04.ufro.cl
+verde.med.ufro.cl
+virtual2.ufro.cl
+umatic23.ufro.cl
+impreutic.admcen.ufro.cl
+gim251.dinfo.ufro.cl
+cinteg07.admcen.ufro.cl
+r207ip85.ufro.cl
+jszige.edu.ufro.cl
+wifihemero.bib.ufro.cl
+wl196.inele.ufro.cl
+2lab42.daye.ufro.cl
+escuelaped.ufro.cl
+preufro01.ufro.cl
+dirplan10.admcen.ufro.cl
+r207ip125.ufro.cl
+iei151.iei.ufro.cl
+dirpersonal.ufro.cl
+salara1003.ufro.cl
+period45.period.ufro.cl
+peral.med.ufro.cl
+dis05.inele.ufro.cl
+iei158.iei.ufro.cl
+chilecompra1.admcen.ufro.cl
+labcap217.admcen.ufro.cl
+fismed.dcfis.ufro.cl
+contr02.admcen.ufro.cl
+lmicro.agroi.ufro.cl
+csquim79.csquim.ufro.cl
+gor52.ufro.cl
+1lab208.dis.ufro.cl
+quilaco.med.ufro.cl
+wifi10.inele.ufro.cl
+quin17.edu.ufro.cl
+puren.med.ufro.cl
+r207ip36.ufro.cl
+wifiiei.iei.ufro.cl
+r207ip207.ufro.cl
+pc45.riie.ufro.cl
+operador.edu.ufro.cl
+r207ip113.ufro.cl
+jardin.ufro.cl
+jcortes.dmat.ufro.cl
+prof1.fia.ufro.cl
+r207ip160.ufro.cl
+proenta3.admcen.ufro.cl
+cerezo.med.ufro.cl
+r207ip140.ufro.cl
+period26.period.ufro.cl
+claudia.agroi.ufro.cl
+r207ip76.ufro.cl
+pifip04.edu.ufro.cl
+r207ip18.ufro.cl
+pc12.riie.ufro.cl
+saavedra.med.ufro.cl
+r207ip183.ufro.cl
+www.cmcc.ufro.cl
+cinteg10.admcen.ufro.cl
+cprat99.ufro.cl
+salad108.ufro.cl
+rolando.agroi.ufro.cl
+ingmat.ufro.cl
+estudiosindigenas.ufro.cl
+matlab.cmcc.ufro.cl
+invent05.admcen.ufro.cl
+centrodelagua.ufro.cl
+nutri.med.ufro.cl
+r207ip234.ufro.cl
+cinteg08.admcen.ufro.cl
+valvarez.admcen.ufro.cl
+temuco13.dis.ufro.cl
+datacenter2.dinfo.ufro.cl
+flori.dmat.ufro.cl
+gatefica.ufro.cl
+pc28.riie.ufro.cl
+cprat115.ufro.cl
+cprat108.ufro.cl
+forufro.ufro.cl
+tele170.dis.ufro.cl
+evinet.psico.ufro.cl
+pitrunco.med.ufro.cl
+eucaliptus.med.ufro.cl
+r207ip55.ufro.cl
+soc08.edu.ufro.cl
+conguil.med.ufro.cl
+mensajes.ufro.cl
+doc96.dim.ufro.cl
+www.inele.ufro.cl
+r207ip240.ufro.cl
+2lab237.dis.ufro.cl
+r207ip168.ufro.cl
+ffuentea.admcen.ufro.cl
+op193.dis.ufro.cl
+mvidal.dmat.ufro.cl
+mgonzale.psico.ufro.cl
+pc-10.dmat.ufro.cl
+pc31.riie.ufro.cl
+webphg.ufro.cl
+mgajardo.dinfo.ufro.cl
+dircpa.ufro.cl
+aillapan.med.ufro.cl
+forcont07.admcen.ufro.cl
+agri2118.agroi.ufro.cl
+wl64.ufro.cl
+r207ip114.ufro.cl
+archivo.ufro.cl
+period3.period.ufro.cl
+forcont10.admcen.ufro.cl
+labmateriales.ufro.cl
+mpjf.ufro.cl
+wl206.inele.ufro.cl
+derecho.ufro.cl
+cre06.admcen.ufro.cl
+tanilvoro.med.ufro.cl
+coordsocio.edu.ufro.cl
+iei186.iei.ufro.cl
+tirivel.med.ufro.cl
+innovacion.iie.ufro.cl
+cprat65.ufro.cl
+wificlin.psico.ufro.cl
+mcmf.ufro.cl
+www3.ufro.cl
+csquim86.csquim.ufro.cl
+secgra7.admcen.ufro.cl
+wl25.inele.ufro.cl
+labcap205.admcen.ufro.cl
+cprat40.ufro.cl
+utic-test.ufro.cl
+terapiafamiliar.ufro.cl
+quin35.edu.ufro.cl
+pucahuen.med.ufro.cl
+wl219.inele.ufro.cl
+labdie08.inele.ufro.cl
+agromod.cmcc.ufro.cl
+fruta.agroi.ufro.cl
+cprat119.ufro.cl
+terc26.edu.ufro.cl
+cbmagis02.med.ufro.cl
+pc81.riie.ufro.cl
+leng9.edu.ufro.cl
+gatelabcap.ufro.cl
+labcap209.admcen.ufro.cl
+gatepsico.ufro.cl
+tele164.dis.ufro.cl
+trarileufu.med.ufro.cl
+forcont13.admcen.ufro.cl
+memo02.dis.ufro.cl
+postgrado.ufro.cl
+agri2106.agroi.ufro.cl
+ayun.cmcc.ufro.cl
+iei175.iei.ufro.cl
+gim218.dinfo.ufro.cl
+femenil.inele.ufro.cl
+capsico.psico.ufro.cl
+labmedios.ufro.cl
+fudea168.admcen.ufro.cl
+adm25.daye.ufro.cl
+www.doctoradorrnn.ufro.cl
+cprat74.ufro.cl
+gatepsico.psico.ufro.cl
+r207ip127.ufro.cl
+cprat117.ufro.cl
+d206conf.ufro.cl
+r207ip124.ufro.cl
+cprat67.ufro.cl
+dsp115.inele.ufro.cl
+coilaco.med.ufro.cl
+gatedfis.ufro.cl
+wl52.ufro.cl
+r207ip83.ufro.cl
+fro0104.edu.ufro.cl
+ramtun2n.ufro.cl
+agro166.fagro.ufro.cl
+gim245.dinfo.ufro.cl
+temuco26.dis.ufro.cl
+social.ufro.cl
+pc-12.dmat.ufro.cl
+gateufro.ufro.cl
+salad105.ufro.cl
+rariruca.med.ufro.cl
+convenio.ufro.cl
+huinfiuca.med.ufro.cl
+programasdocentes.ufro.cl
+gatedae.dae.ufro.cl
+period15.period.ufro.cl
+r207ip67.ufro.cl
+r207ip110.ufro.cl
+dge224.admcen.ufro.cl
+portal.ufro.cl
+gballad.psico.ufro.cl
+wl14.inele.ufro.cl
+csquim67.csquim.ufro.cl
+r207ip219.ufro.cl
+fc28.ufro.cl
+cprat28.ufro.cl
+r207ip198.ufro.cl
+lautaro.cmcc.ufro.cl
+period16.period.ufro.cl
+wl57.ufro.cl
+labpsbas07.psico.ufro.cl
+labo11.edu.ufro.cl
+magisterencomunicacion.ufro.cl
+neuro02.ufro.cl
+period28.period.ufro.cl
+pc92.riie.ufro.cl
+virtual1.ufro.cl
+labo2.edu.ufro.cl
+r207ip74.ufro.cl
+postulacion.ufro.cl
+r207ip29.ufro.cl
+tulipan.med.ufro.cl
+tegualda.dcfis.ufro.cl
+t2.edu.ufro.cl
+pilpilco.med.ufro.cl
+fudea177.admcen.ufro.cl
+mechuque.med.ufro.cl
+quimeyco.med.ufro.cl
+wifimed03.med.ufro.cl
+chaquilcura.med.ufro.cl
+labcap218.admcen.ufro.cl
+ociv119.fia.ufro.cl
+wl175.inele.ufro.cl
+toqui.dcfis.ufro.cl
+temuco30.dis.ufro.cl
+millaray.inele.ufro.cl
+wifipsico.ufro.cl
+pc6.riie.ufro.cl
+cshis.edu.ufro.cl
+misael1.inele.ufro.cl
+r207ip248.ufro.cl
+muco.med.ufro.cl
+presup06.admcen.ufro.cl
+gaterec3.ufro.cl
+dge195.admcen.ufro.cl
+wl177.inele.ufro.cl
+cprat125.ufro.cl
+doctoradobiomol.ufro.cl
+telemed.ufro.cl
+pc77.riie.ufro.cl
+wl201.inele.ufro.cl
+temuco03.dis.ufro.cl
+catdinfo.ufro.cl
+wl190.inele.ufro.cl
+sala12.comp.ufro.cl
+fudea161.admcen.ufro.cl
+pc44.riie.ufro.cl
+sdelgado.dinfo.ufro.cl
+scon3.ufro.cl
+amorales.csquim.ufro.cl
+r207ip225.ufro.cl
+gim200.dinfo.ufro.cl
+repositoriovcm.ufro.cl
+icel.ufro.cl
+cprat34.ufro.cl
+malleco.med.ufro.cl
+voipir.med.ufro.cl
+cprat124.ufro.cl
+labinfo2.fagro.ufro.cl
+ociv113.fia.ufro.cl
+umatic45.ufro.cl
+win-155e5t8npk3.ufro.cl
+contr04.admcen.ufro.cl
+secadm.edu.ufro.cl
+umatic30.ufro.cl
+sauce.med.ufro.cl
+fc49.ufro.cl
+r207ip108.ufro.cl
+csprof01.edu.ufro.cl
+cuar01.edu.ufro.cl
+smartcity.ufro.cl
+dge219.admcen.ufro.cl
+iei161.iei.ufro.cl
+clarke.inele.ufro.cl
+r207ip165.ufro.cl
+agri282.agroi.ufro.cl
+ggacitua.dinfo.ufro.cl
+biene7.admcen.ufro.cl
+cprat33.ufro.cl
+secgra4.admcen.ufro.cl
+pidenco.med.ufro.cl
+agrofor.ufro.cl
+srvmedicina.ufro.cl
+agri268.agroi.ufro.cl
+dge208.admcen.ufro.cl
+sala43.comp.ufro.cl
+raqui.med.ufro.cl
+wago.inele.ufro.cl
+salara1002.ufro.cl
+r207ip169.ufro.cl
+labdie12.inele.ufro.cl
+wl198.inele.ufro.cl
+cprat26.ufro.cl
+labidio02.ufro.cl
+srv-journals.ufro.cl
+wififagro1.ufro.cl
+r207ip134.ufro.cl
+gateagroi.agroi.ufro.cl
+quin37.edu.ufro.cl
+eval03.admcen.ufro.cl
+gateper.ufro.cl
+ociv123.fia.ufro.cl
+wifiselva.ufro.cl
+gatemov.ufro.cl
+icia.agroi.ufro.cl
+notedge.admcen.ufro.cl
+agroconf.ufro.cl
+rbaeza1.dmat.ufro.cl
+agrdoc09.agroi.ufro.cl
+iei146.iei.ufro.cl
+deca117.fia.ufro.cl
+llesquehue.med.ufro.cl
+flota.ufro.cl
+pc14.riie.ufro.cl
+iei141.iei.ufro.cl
+r207ip205.ufro.cl
+desarrollohumano.ufro.cl
+op196.dis.ufro.cl
+cprat22.ufro.cl
+cbmagis04.med.ufro.cl
+vrac04.admcen.ufro.cl
+2lab221.dis.ufro.cl
+victoria.dcfis.ufro.cl
+lenca.med.ufro.cl
+socio09.edu.ufro.cl
+divservicios.ufro.cl
+pc-00.dmat.ufro.cl
+enco.med.ufro.cl
+2lab41.daye.ufro.cl
+tepa.med.ufro.cl
+www.caos.ufro.cl
+ima73.ufro.cl
+iei164.iei.ufro.cl
+cautin.med.ufro.cl
+agri290.agroi.ufro.cl
+conrec2.admcen.ufro.cl
+sala51.comp.ufro.cl
+seccarr.dim.ufro.cl
+secgra10.admcen.ufro.cl
+iei149.iei.ufro.cl
+gatessocial.edu.ufro.cl
+educ4.edu.ufro.cl
+r207ip141.ufro.cl
+csquim107.csquim.ufro.cl
+wl194.inele.ufro.cl
+quin06.edu.ufro.cl
+labdie03.inele.ufro.cl
+einzunza.admcen.ufro.cl
+gim225.dinfo.ufro.cl
+amansill.dmat.ufro.cl
+sfs138.dis.ufro.cl
+gatemicro.ufro.cl
+trolon.ufro.cl
+ingenieriaenconstruccion.ufro.cl
+agroindustria.ufro.cl
+moncul.med.ufro.cl
+lonconao.med.ufro.cl
+paliaike.dmat.ufro.cl
+sig144.dis.ufro.cl
+norma.inele.ufro.cl
+pc50.riie.ufro.cl
+doctoradoeducacion.ufro.cl
+gatefis.dcfis.ufro.cl
+ssocial21.edu.ufro.cl
+gim249.dinfo.ufro.cl
+doc74.dim.ufro.cl
+dge202.admcen.ufro.cl
+ociv107.fia.ufro.cl
+forufro2.ufro.cl
+pc70.riie.ufro.cl
+pc96.riie.ufro.cl
+pc10.riie.ufro.cl
+r207ip206.ufro.cl
+labdie10.inele.ufro.cl
+cprat59.ufro.cl
+wl174.inele.ufro.cl
+tui.ufro.cl
+temuco20.dis.ufro.cl
+feufro01.ufro.cl
+secu2.ufro.cl
+cprat48.ufro.cl
+weichan.med.ufro.cl
+pc24.riie.ufro.cl
+sv2a1.ceii.ufro.cl
+ufro.cl
+dge204.admcen.ufro.cl
+labg04.edu.ufro.cl
+iei165.iei.ufro.cl
+pc-07.dmat.ufro.cl
+pc82.riie.ufro.cl
+lomacura.med.ufro.cl
+jher.edu.ufro.cl
+adm10.daye.ufro.cl
+pc86.riie.ufro.cl
+sala40.comp.ufro.cl
+ayu1.dcfis.ufro.cl
+r207ip69.ufro.cl
+lia.dis.ufro.cl
+trailanqui.med.ufro.cl
+ll06.edu.ufro.cl
+boldo.med.ufro.cl
+secdec.fia.ufro.cl
+abast02.admcen.ufro.cl
+salara1001.ufro.cl
+fquejer.admcen.ufro.cl
+secbiene.admcen.ufro.cl
+cprat60.ufro.cl
+gateing.ufro.cl
+period27.period.ufro.cl
+r207ip25.ufro.cl
+llancahue.med.ufro.cl
+divserv3.admcen.ufro.cl
+damas.med.ufro.cl
+ssocial15.edu.ufro.cl
+umatic24.ufro.cl
+gim206.dinfo.ufro.cl
+wifipaba.ufro.cl
+sv3.ceii.ufro.cl
+cburg.dmat.ufro.cl
+secu.ufro.cl
+pc69.riie.ufro.cl
+fudea174.admcen.ufro.cl
+r207ip210.ufro.cl
+wl191.inele.ufro.cl
+calafquen.med.ufro.cl
+agroecologia.ufro.cl
+ingles09.edu.ufro.cl
+period23.period.ufro.cl
+ssocial03.edu.ufro.cl
+salad100.ufro.cl
+diseno07.edu.ufro.cl
+bodega02.admcen.ufro.cl
+sala44.comp.ufro.cl
+fc48.ufro.cl
+r207ip254.ufro.cl
+edison.inele.ufro.cl
+olivo.med.ufro.cl
+wifidinfo.ufro.cl
+imprenta1.admcen.ufro.cl
+murta.med.ufro.cl
+potente.inele.ufro.cl
+secvrip.admcen.ufro.cl
+verti01.ufro.cl
+cip.ufro.cl
+ebiol.agroi.ufro.cl
+pino.med.ufro.cl
+r207ip153.ufro.cl
+competenciasgenericas.ufro.cl
+wl181.inele.ufro.cl
+epuno.dmat.ufro.cl
+kullin.dinfo.ufro.cl
+fc27.ufro.cl
+period10.period.ufro.cl
+iei148.iei.ufro.cl
+prof2.fia.ufro.cl
+wl210.inele.ufro.cl
+dumo.med.ufro.cl
+www.agrofor.ufro.cl
+cmcc.ufro.cl
+internationalworkshop.ufro.cl
+coronavirus.ufro.cl
+r207ip187.ufro.cl
+gim230.dinfo.ufro.cl
+mirror.ufro.cl
+lloco.med.ufro.cl
+r207ip195.ufro.cl
+mahuilque.med.ufro.cl
+pe13-116.admcen.ufro.cl
+fc44.ufro.cl
+sala18.comp.ufro.cl
+csquim78.csquim.ufro.cl
+mem.ufro.cl
+gim239.dinfo.ufro.cl
+wifi7.inele.ufro.cl
+cprat81.ufro.cl
+iei152.iei.ufro.cl
+wl182.inele.ufro.cl
+magistercienciassociales.ufro.cl
+defelen.dinfo.ufro.cl
+sala54.comp.ufro.cl
+bib24.bib.ufro.cl
+relun.med.ufro.cl
+www.geometry.ufro.cl
+r207ip17.ufro.cl
+www.melton.ufro.cl
+tilo.med.ufro.cl
+secdirinv.admcen.ufro.cl
+r207ip137.ufro.cl
+vraf03.admcen.ufro.cl
+bib21.bib.ufro.cl
+quin25.edu.ufro.cl
+frutilla.agroi.ufro.cl
+kultrun4.dinfo.ufro.cl
+fc30.ufro.cl
+stuniej.edu.ufro.cl
+gatefia2.ufro.cl
+juanrojo.dinfo.ufro.cl
+fc23.ufro.cl
+virtualeduca.ufro.cl
+quin23.edu.ufro.cl
+chilecompra5.admcen.ufro.cl
+estatutos.ufro.cl
+wifi3.inele.ufro.cl
+molco.med.ufro.cl
+dge206.admcen.ufro.cl
+cprat94.ufro.cl
+terc18.edu.ufro.cl
+helgagud.psico.ufro.cl
+dirport.admcen.ufro.cl
+soc06.edu.ufro.cl
+fc37.ufro.cl
+cplopez.admcen.ufro.cl
+salad104.ufro.cl
+licanray.med.ufro.cl
+agri291.agroi.ufro.cl
+tromen.med.ufro.cl
+naros.fia.ufro.cl
+quin01.edu.ufro.cl
+egonzale.admcen.ufro.cl
+marisolg.admcen.ufro.cl
+1lab217.dis.ufro.cl
+sala19.comp.ufro.cl
+cprat70.ufro.cl
+antuco.med.ufro.cl
+wl224.inele.ufro.cl
+period19.period.ufro.cl
+rromo.dmat.ufro.cl
+csquim102.csquim.ufro.cl
+csquim94.csquim.ufro.cl
+wl20.inele.ufro.cl
+cprat112.ufro.cl
+labmec01.dim.ufro.cl
+wl221.inele.ufro.cl
+vacunacovid.ufro.cl
+ssocial19.edu.ufro.cl
+diper08.admcen.ufro.cl
+labdie07.inele.ufro.cl
+fudea176.admcen.ufro.cl
+r207ip122.ufro.cl
+ciepatagonia.ufro.cl
+ise.ufro.cl
+preufro.ufro.cl
+quetaco.med.ufro.cl
+mailgw2.ufro.cl
+pc60.riie.ufro.cl
+period11.period.ufro.cl
+1lab207.dis.ufro.cl
+r207ip238.ufro.cl
+pc47.riie.ufro.cl
+cprat118.ufro.cl
+quin10.edu.ufro.cl
+werken2.ufro.cl
+itata.med.ufro.cl
+r207ip231.ufro.cl
+piri.ufro.cl
+cvidal.dinfo.ufro.cl
+csquim108.csquim.ufro.cl
+salad101.ufro.cl
+umatic43.ufro.cl
+labcomp.cmcc.ufro.cl
+pe12-117.admcen.ufro.cl
+adminip.ufro.cl
+srv-autoevaluacion.ufro.cl
+umatic02.ufro.cl
+lonco.dcfis.ufro.cl
+harrison.inele.ufro.cl
+www.capacit.ufro.cl
+gateinele.ufro.cl
+r207ip241.ufro.cl
+intranet2.ufro.cl
+vcarrasco.edu.ufro.cl
+shiva.ufro.cl
+o202-05.edu.ufro.cl
+bib37.bib.ufro.cl
+fudea182.admcen.ufro.cl
+pc5.riie.ufro.cl
+wl56.ufro.cl
+tesistas01.dinfo.ufro.cl
+ociv101.fia.ufro.cl
+quelhuenco.med.ufro.cl
+rukamanke.cmcc.ufro.cl
+huechulpun.med.ufro.cl
+iei185.iei.ufro.cl
+secgra8.admcen.ufro.cl
+bib20.bib.ufro.cl
+plan2030.ufro.cl
+r207ip53.ufro.cl
+foncre01.admcen.ufro.cl
+iei173.iei.ufro.cl
+rperezluco.psico.ufro.cl
+mahuidanchi.med.ufro.cl
+wl222.inele.ufro.cl
+phe.admcen.ufro.cl
+tesore1.admcen.ufro.cl
+gateadm.daye.ufro.cl
+doctoradobioprocesos.ufro.cl
+educ3.edu.ufro.cl
+presup05.admcen.ufro.cl
+cromero.edu.ufro.cl
+alamos.dmat.ufro.cl
+beethoven.inele.ufro.cl
+wifipriv1.edu.ufro.cl
+devfin01.admcen.ufro.cl
+jbusta.dcfis.ufro.cl
+lquinele3.admcen.ufro.cl
+secredep.psico.ufro.cl
+salarclinica.psico.ufro.cl
+wl13.inele.ufro.cl
+caja4.admcen.ufro.cl
+gatefia3.ufro.cl
+2lab60.daye.ufro.cl
+agri298.agroi.ufro.cl
+formacioncontinua.ufro.cl
+utic.ufro.cl
+stream-med.ufro.cl
+contab05.admcen.ufro.cl
+ramtun3.ufro.cl
+diper07.admcen.ufro.cl
+ima81.ufro.cl
+agroambiente.ufro.cl
+cprat61.ufro.cl
+colpi.med.ufro.cl
+fudea179.admcen.ufro.cl
+tele2.ufro.cl
+wl195.inele.ufro.cl
+quilleco.med.ufro.cl
+r207ip197.ufro.cl
+salara2003.ufro.cl
+manzana.agroi.ufro.cl
+bib32.bib.ufro.cl
+cebior.ufro.cl
+r207ip188.ufro.cl
+umatic08.ufro.cl
+ssocial06.edu.ufro.cl
+fc04.ufro.cl
+bib19.bib.ufro.cl
+paliaike.ingmat.ufro.cl
+fc16.ufro.cl
+coyunco.med.ufro.cl
+jhuaquim.admcen.ufro.cl
+casino02.ufro.cl
+gaterec1.ufro.cl
+umatic28.ufro.cl
+bib38.bib.ufro.cl
+forcont15.admcen.ufro.cl
+r207ip232.ufro.cl
+investigacion.ufro.cl
+cprat55.ufro.cl
+agri2104.agroi.ufro.cl
+jsalazar.edu.ufro.cl
+cinteg09.admcen.ufro.cl
+pc20.riie.ufro.cl
+wl225.inele.ufro.cl
+gdonoso.admcen.ufro.cl
+diper06.admcen.ufro.cl
+magisterbiotec.ufro.cl
+e225.edu.ufro.cl
+temuco01.dis.ufro.cl
+wifiima.ufro.cl
+jparra.dcfis.ufro.cl
+csquim70.csquim.ufro.cl
+r207ip154.ufro.cl
+encuestasalud.ufro.cl
+ficaetv.ufro.cl
+elo.inele.ufro.cl
+wifissocial.ufro.cl
+dip.ufro.cl
+ima87.ufro.cl
+quin07.edu.ufro.cl
+gor54.ufro.cl
+secfac.fia.ufro.cl
+pc40.riie.ufro.cl
+salara2004.ufro.cl
+anat38.med.ufro.cl
+moodle2utic.ufro.cl
+cprat42.ufro.cl
+secagro.fagro.ufro.cl
+labpsbas08.psico.ufro.cl
+msgic.ufro.cl
+rododendro.med.ufro.cl
+access02.admcen.ufro.cl
+csquim80.csquim.ufro.cl
+labpsbas03.psico.ufro.cl
+pifip06.edu.ufro.cl
+diper01.admcen.ufro.cl
+ll10.edu.ufro.cl
+renaico.med.ufro.cl
+csquim76.csquim.ufro.cl
+w05.admcen.ufro.cl
+chapod.med.ufro.cl
+pc7.riie.ufro.cl
+agri296.agroi.ufro.cl
+agri2100.agroi.ufro.cl
+wifiagroi.ufro.cl
+asanhue.dmat.ufro.cl
+cprat30.ufro.cl
+amartin.agroi.ufro.cl
+wl192.inele.ufro.cl
+campusidea.ufro.cl
+lautaro.dcfis.ufro.cl
+r207ip107.ufro.cl
+labo12.edu.ufro.cl
+agri280.agroi.ufro.cl
+umatic01.ufro.cl
+wifimed09.med.ufro.cl
+salaeval.edu.ufro.cl
+milla.dinfo.ufro.cl
+dirplan8.admcen.ufro.cl
+fone2.edu.ufro.cl
+repocura.med.ufro.cl
+gatepabra.ufro.cl
+op198.dis.ufro.cl
+curaco.med.ufro.cl
+mhernand.dim.ufro.cl
+fia.ufro.cl
+leng6.edu.ufro.cl
+millaqueo.med.ufro.cl
+sala30.comp.ufro.cl
+sig139.dis.ufro.cl
+trahuilco.med.ufro.cl
+iei153.iei.ufro.cl
+redider.ufro.cl
+csquim103.csquim.ufro.cl
+www.diq.ufro.cl
+fc12.ufro.cl
+wifipostg.ufro.cl
+bibstream.ufro.cl
+sv1.ceii.ufro.cl
+educ7.edu.ufro.cl
+ingenieriainformatica.ufro.cl
+temuco12.dis.ufro.cl
+presup01.admcen.ufro.cl
+r207ip227.ufro.cl
+dge198.admcen.ufro.cl
+salad107.ufro.cl
+curringue.med.ufro.cl
+cardenal.med.ufro.cl
+labcap197.admcen.ufro.cl
+bib51.bib.ufro.cl
+r207ip32.ufro.cl
+papafrita.agroi.ufro.cl
+r207ip54.ufro.cl
+wl215.inele.ufro.cl
+imiola.admcen.ufro.cl
+cprat104.ufro.cl
+r207ip82.ufro.cl
+pc65.riie.ufro.cl
+dirinv01.admcen.ufro.cl
+xpetitb.agroi.ufro.cl
+caupolican.med.ufro.cl
+ll07.edu.ufro.cl
+r207ip156.ufro.cl
+rauli.med.ufro.cl
+micbio00.med.ufro.cl
+truftruf.med.ufro.cl
+sala37.comp.ufro.cl
+cprat68.ufro.cl
+pc18.riie.ufro.cl
+bib52.bib.ufro.cl
+dge226.admcen.ufro.cl
+quin27.edu.ufro.cl
+csquim75.csquim.ufro.cl
+salad106.ufro.cl
+budi.med.ufro.cl
+csaraya.edu.ufro.cl
+gatedmz.dinfo.ufro.cl
+nutri234.med.ufro.cl
+r207ip59.ufro.cl
+opensystem.dis.ufro.cl
+fudea185.admcen.ufro.cl
+sim179.dis.ufro.cl
+molul.med.ufro.cl
+umatic06.ufro.cl
+agrdoc14.agroi.ufro.cl
+ingecomer3.fia.ufro.cl
+estadistica.dmat.ufro.cl
+nilhue.med.ufro.cl
+dge229.admcen.ufro.cl
+minentue.med.ufro.cl
+fc77.ufro.cl
+iei184.iei.ufro.cl
+ssocial20.edu.ufro.cl
+llifen.med.ufro.cl
+totoral.dcfis.ufro.cl
+r207ip5.ufro.cl
+2lab48.daye.ufro.cl
+cuar03.edu.ufro.cl
+micbio01.med.ufro.cl
+iei155.iei.ufro.cl
+pifip05.edu.ufro.cl
+sig146.dis.ufro.cl
+forcont11.admcen.ufro.cl
+rmolina.edu.ufro.cl
+jeanette.dis.ufro.cl
+verificar1.psico.ufro.cl
+r207ip247.ufro.cl
+admini.ufro.cl
+r207ip147.ufro.cl
+monnet.dinfo.ufro.cl
+marioin.dim.ufro.cl
+cprat122.ufro.cl
+notro.med.ufro.cl
+vc.admcen.ufro.cl
+trafkin.dinfo.ufro.cl
+agro161.fagro.ufro.cl
+wifilproc.ufro.cl
+fc45.ufro.cl
+r207ip196.ufro.cl
+wifipabra.ufro.cl
+revistas.ufro.cl
+temuco05.dis.ufro.cl
+nutri236.med.ufro.cl
+umatic17.ufro.cl
+ldna.cmcc.ufro.cl
+pc03.edu.ufro.cl
+encuestas.dinfo.ufro.cl
+cprat100.ufro.cl
+cprat39.ufro.cl
+notebook1.inele.ufro.cl
+pc53.riie.ufro.cl
+r207ip14.ufro.cl
+ogolombek.admcen.ufro.cl
+r207ip158.ufro.cl
+1lab209.dis.ufro.cl
+comunitaria.ufro.cl
+adm2.daye.ufro.cl
+cchavarria.edu.ufro.cl
+dci.ufro.cl
+r207ip179.ufro.cl
+eucalipto.med.ufro.cl
+servicio.dinfo.ufro.cl
+mlemp.admcen.ufro.cl
+cayucupil.med.ufro.cl
+nutri233.med.ufro.cl
+palquin.med.ufro.cl
+gatecsbas.med.ufro.cl
+terc14.edu.ufro.cl
+lautaro.med.ufro.cl
+sala56.comp.ufro.cl
+quin34.edu.ufro.cl
+fc07.ufro.cl
+r207ip212.ufro.cl
+trafanpulli.med.ufro.cl
+intranet3.ufro.cl
+perezluc.psico.ufro.cl
+iei188.iei.ufro.cl
+huiscapi.med.ufro.cl
+forcont03.admcen.ufro.cl
+quin19.edu.ufro.cl
+pe12-120.admcen.ufro.cl
+srv-centrodelagua.ufro.cl
+gateagroi2.ufro.cl
+www.ficaetv.ufro.cl
+r207ip220.ufro.cl
+iei142.iei.ufro.cl
+devfin03.admcen.ufro.cl
+loncoche.med.ufro.cl
+cprat51.ufro.cl
+temuco25.dis.ufro.cl
+ofernan.edu.ufro.cl
+pc52.riie.ufro.cl
+wifiedu4.ufro.cl
+wifiider.ufro.cl
+chilecompra3.admcen.ufro.cl
+socio07.edu.ufro.cl
+agro132.fagro.ufro.cl
+csquim99.csquim.ufro.cl
+cico.ufro.cl
+huellusca.med.ufro.cl
+kultrun.dcfis.ufro.cl
+rosa.med.ufro.cl
+cssoc.edu.ufro.cl
+agri286.agroi.ufro.cl
+csquim73.csquim.ufro.cl
+wiki.dim.ufro.cl
+casesoc.edu.ufro.cl
+router2.dis.ufro.cl
+melton.ufro.cl
+quepe.med.ufro.cl
+leylobby.ufro.cl
+csquim90.csquim.ufro.cl
+ssocial07.edu.ufro.cl
+r207ip68.ufro.cl
+trintre.med.ufro.cl
+innovacion.ufro.cl
+gateanat.ufro.cl
+pichi.dinfo.ufro.cl
+icalma.med.ufro.cl
+memo05.dis.ufro.cl
+host031.edu.ufro.cl
+cinteg06.admcen.ufro.cl
+salat103.fagro.ufro.cl
+r207ip46.ufro.cl
+agro165.fagro.ufro.cl
+cprat120.ufro.cl
+ccaa-ieea.inele.ufro.cl
+r207ip163.ufro.cl
+gatedis.ufro.cl
+operador1.dinfo.ufro.cl
+hueney.dinfo.ufro.cl
+fc19.ufro.cl
+quin40.edu.ufro.cl
+2lab45.daye.ufro.cl
+ingmat71.ingmat.ufro.cl
+hortensia.med.ufro.cl
+win-office.ufro.cl
+www.deportes.ufro.cl
+r207ip119.ufro.cl
+doctoradomatematica.ufro.cl
+dge209.admcen.ufro.cl
+gaterec2.ufro.cl
+sea.ufro.cl
+r207ip42.ufro.cl
+teleing.ufro.cl
+iieconf.ufro.cl
+testing.iie.ufro.cl
+www.charlasfica.ufro.cl
+ima77.ufro.cl
+coihuaco.med.ufro.cl
+dme.ufro.cl
+salad202.ufro.cl
+bib43.bib.ufro.cl
+mbaier.admcen.ufro.cl
+lquinele.admcen.ufro.cl
+dge207.admcen.ufro.cl
+agrdoc11.agroi.ufro.cl
+wifirec2.ufro.cl
+salad201.ufro.cl
+gbustam.psico.ufro.cl
+diseno08.edu.ufro.cl
+umatic07.ufro.cl
+r207ip201.ufro.cl
+cprat71.ufro.cl
+cprat66.ufro.cl
+auchemo.med.ufro.cl
+bib49.bib.ufro.cl
+contab1.agroi.ufro.cl
+fc03.ufro.cl
+period1.period.ufro.cl
+huilipilun.med.ufro.cl
+gim199.dinfo.ufro.cl
+magister.edu.ufro.cl
+wl22.inele.ufro.cl
+www.doctoradomat.ufro.cl
+msylvia.fia.ufro.cl
+pc-09.dmat.ufro.cl
+pc-08.dmat.ufro.cl
+www.bib.ufro.cl
+r207ip237.ufro.cl
+gestion.ufro.cl
+sim177.dis.ufro.cl
+ociv98.fia.ufro.cl
+gateagroi.ufro.cl
+adm24.daye.ufro.cl
+bibcont.ufro.cl
+tirua.med.ufro.cl
+iei159.iei.ufro.cl
+r207ip126.ufro.cl
+ociv115.fia.ufro.cl
+secgra11.admcen.ufro.cl
+calidad.ufro.cl
+r207ip216.ufro.cl
+wl170.inele.ufro.cl
+neuro03.ufro.cl
+cprat69.ufro.cl
+labhisto.ufro.cl
+gim241.dinfo.ufro.cl
+proenta1.admcen.ufro.cl
+wl183.inele.ufro.cl
+pc100.riie.ufro.cl
+r207ip131.ufro.cl
+gim236.dinfo.ufro.cl
+quin04.edu.ufro.cl
+dge193.admcen.ufro.cl
+cprat107.ufro.cl
+gatebib.bib.ufro.cl
+jarro.med.ufro.cl
+1lab211.dis.ufro.cl
+castano.med.ufro.cl
+sig145.dis.ufro.cl
+fc40.ufro.cl
+r207ip139.ufro.cl
+tele169.dis.ufro.cl
+feriainvestigacion.ufro.cl
+wifimed04.med.ufro.cl
+teleba.ufro.cl
+mbaeza.admcen.ufro.cl
+icabrera.admcen.ufro.cl
+wl12.inele.ufro.cl
+r207ip245.ufro.cl
+educacioncontinua.fica.ufro.cl
+gatefis.ufro.cl
+wl24.inele.ufro.cl
+pc41.riie.ufro.cl
+sala.admcen.ufro.cl
+optica.dcfis.ufro.cl
+r207ip144.ufro.cl
+dge201.admcen.ufro.cl
+r207ip189.ufro.cl
+wificft2.ufro.cl
+troyo.med.ufro.cl
+soc05.edu.ufro.cl
+cis.ufro.cl
+o106.edu.ufro.cl
+mdiaz.dinfo.ufro.cl
+pc80.riie.ufro.cl
+bib08.bib.ufro.cl
+catripulli.med.ufro.cl
+ima79.ufro.cl
+r207ip226.ufro.cl
+dd-tic.ufro.cl
+r207ip97.ufro.cl
+nutri246.med.ufro.cl
+gaterec1.admcen.ufro.cl
+r207ip4.ufro.cl
+e224.edu.ufro.cl
+iei166.iei.ufro.cl
+bib60.bib.ufro.cl
+leng2.edu.ufro.cl
+fc42.ufro.cl
+doc73.dim.ufro.cl
+vraf01.admcen.ufro.cl
+zadeh.inele.ufro.cl
+agri2123.agroi.ufro.cl
+o108.edu.ufro.cl
+cinteg04.admcen.ufro.cl
+clucero.psico.ufro.cl
+dircom4.admcen.ufro.cl
+leng14.edu.ufro.cl
+ufroradio.ufro.cl
+cleinchile2011.ufro.cl
+llaima.dis.ufro.cl
+csquim100.csquim.ufro.cl
+sfiguero.dis.ufro.cl
+dge228.admcen.ufro.cl
+memo01.dis.ufro.cl
+pehuenco.med.ufro.cl
+ima74.ufro.cl
+pc89.riie.ufro.cl
+pregrado.fia.ufro.cl
+csquim92.csquim.ufro.cl
+wifiuniver.bib.ufro.cl
+carahue.med.ufro.cl
+cprat35.ufro.cl
+verti06.ufro.cl
+pc78.riie.ufro.cl
+wifiedfis.ufro.cl
+iei174.iei.ufro.cl
+radmin.dinfo.ufro.cl
+impresora.admcen.ufro.cl
+r207ip243.ufro.cl
+forcont08.admcen.ufro.cl
+adm26.daye.ufro.cl
+conguillio.med.ufro.cl
+doc77.dim.ufro.cl
+wl207.inele.ufro.cl
+01uniej.edu.ufro.cl
+nitre.med.ufro.cl
+cifde-ep.ufro.cl
+adm8.daye.ufro.cl
+avellanoeuropeo.ufro.cl
+eval02.admcen.ufro.cl
+quin29.edu.ufro.cl
+vrip.ufro.cl
+ingles03.edu.ufro.cl
+lamicro.dae.ufro.cl
+salad102.ufro.cl
+fc29.ufro.cl
+cienciasociales.ufro.cl
+agri2116.agroi.ufro.cl
+gor56.ufro.cl
+pc02.edu.ufro.cl
+sala34.comp.ufro.cl
+terc24.edu.ufro.cl
+notebook3.inele.ufro.cl
+r207ip174.ufro.cl
+juanc.agroi.ufro.cl
+umatic20.ufro.cl
+quillen.med.ufro.cl
+2lab40.daye.ufro.cl
+pc4.riie.ufro.cl
+cmcc101.cmcc.ufro.cl
+gor53.ufro.cl
+dsp112.inele.ufro.cl
+pc54.riie.ufro.cl
+cprat113.ufro.cl
+fudea173.admcen.ufro.cl
+csdirec.edu.ufro.cl
+naros.inele.ufro.cl
+printer.admcen.ufro.cl
+portatil.agroi.ufro.cl
+tedxufro.ufro.cl
+www.cemcc.ufro.cl
+fc41.ufro.cl
+catiie.ufro.cl
+pc87.riie.ufro.cl
+kvla.dmat.ufro.cl
+hueyelhue.med.ufro.cl
+r207ip181.ufro.cl
+ufro-ca.dinfo.ufro.cl
+memo106.inele.ufro.cl
+pc46.riie.ufro.cl
+r207ip7.ufro.cl
+lpino.agroi.ufro.cl
+ima80.ufro.cl
+temuco15.dis.ufro.cl
+huequen.med.ufro.cl
+bi-ufro.ufro.cl
+gateconm.ufro.cl
+labpsbas10.psico.ufro.cl
+quin38.edu.ufro.cl
+pillan.dcfis.ufro.cl
+oes.ufro.cl
+millonhue.med.ufro.cl
+quin16.edu.ufro.cl
+agrdoc10.agroi.ufro.cl
+bibedit.ufro.cl
+r207ip155.ufro.cl
+frambuesa.agroi.ufro.cl
+ssocial13.edu.ufro.cl
+1lab214.dis.ufro.cl
+gladiolo.med.ufro.cl
+torneco.med.ufro.cl
+agro148.fagro.ufro.cl
+r207ip128.ufro.cl
+wl202.inele.ufro.cl
+ramtun4.ufro.cl
+contr05.admcen.ufro.cl
+educ1.edu.ufro.cl
+pe12-121.admcen.ufro.cl
+cprat80.ufro.cl
+umatic25.ufro.cl
+lifque.inele.ufro.cl
+pc8.riie.ufro.cl
+dge196.admcen.ufro.cl
+newen.ufro.cl
+etel.dmat.ufro.cl
+umatic46.ufro.cl
+umatic36.ufro.cl
+wifiedu3.ufro.cl
+wifiavellanos.admcen.ufro.cl
+coreval.admcen.ufro.cl
+umatic03.ufro.cl
+telebb.ufro.cl
+tesistas02.dinfo.ufro.cl
+autentifica.ufro.cl
+r207ip21.ufro.cl
+note.admcen.ufro.cl
+www.iufrole2016.ufro.cl
+quin20.edu.ufro.cl
+chago.agroi.ufro.cl
+fc26.ufro.cl
+period17.period.ufro.cl
+nestor.agroi.ufro.cl
+wl172.inele.ufro.cl
+prodanim.agroi.ufro.cl
+foncre02.admcen.ufro.cl
+ingmat69.ingmat.ufro.cl
+csquim91.csquim.ufro.cl
+lquinele2.admcen.ufro.cl
+diseno04.edu.ufro.cl
+gim194.dinfo.ufro.cl
+diper09.admcen.ufro.cl
+ttorres.edu.ufro.cl
+r207ip49.ufro.cl
+r207ip230.ufro.cl
+socio05.edu.ufro.cl
+gim212.dinfo.ufro.cl
+ramtun.ufro.cl
+terc06.edu.ufro.cl
+wififis.ufro.cl
+bib17.bib.ufro.cl
+op197.dis.ufro.cl
+temuco39.dis.ufro.cl
+labdie01.inele.ufro.cl
+wifi4.inele.ufro.cl
+pe11-105.admcen.ufro.cl
+canelo.dcfis.ufro.cl
+feriafica.ufro.cl
+cprat49.ufro.cl
+cprat78.ufro.cl
+wifimed08.med.ufro.cl
+cnap.fia.ufro.cl
+pullinque.med.ufro.cl
+relmu.dis.ufro.cl
+pucono.med.ufro.cl
+wl216.inele.ufro.cl
+aysen.dcfis.ufro.cl
+queltehue2.dinfo.ufro.cl
+dirinv03.admcen.ufro.cl
+dge213.admcen.ufro.cl
+alcalde.dmat.ufro.cl
+salad1.ufro.cl
+fc22.ufro.cl
+quidel.inele.ufro.cl
+sfs134.dis.ufro.cl
+vrac06.admcen.ufro.cl
+publicacionescienciassociales.ufro.cl
+ima67.ufro.cl
+mmida.ufro.cl
+labo3.edu.ufro.cl
+2lab46.daye.ufro.cl
+dge212.admcen.ufro.cl
+ingmat70.ingmat.ufro.cl
+fcaire.dim.ufro.cl
+transparencia.ufro.cl
+terc20.edu.ufro.cl
+gateiie1.ufro.cl
+gim244.dinfo.ufro.cl
+panolie.inele.ufro.cl
+wl204.inele.ufro.cl
+bib46.bib.ufro.cl
+period13.period.ufro.cl
+bib45.bib.ufro.cl
+personal.ufro.cl

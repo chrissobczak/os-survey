@@ -1,316 +1,186 @@
-NXDOMAIN	satellite.macalester.edu
-NOERROR	chapelecmain.meters.macalester.edu
-NOERROR	como.macalester.edu
-NOERROR	scot2.banner.macalester.edu
-NOERROR	engage.macalester.edu
-NXDOMAIN	macapps.macalester.edu
-NXDOMAIN	dw-app01-dev.oci.macalester.edu
-NOERROR	email.macalester.edu
-NXDOMAIN	ems2016dev.macalester.edu
-NOERROR	ezproxy.sys.macalester.edu
-NOERROR	scot22.banner.macalester.edu
-NOERROR	ccmainelec.meters.macalester.edu
-NOERROR	macdirect.macalester.edu
-NOERROR	libserv.macalester.edu
-NXDOMAIN	2018fall.moodle.macalester.edu
-NXDOMAIN	moodle-evalkit.sys.macalester.edu
-NXDOMAIN	argosnew.macalester.edu
-NXDOMAIN	mail.omeka.macalester.edu
-NOERROR	webappsnew.macalester.edu
-NXDOMAIN	clearpass2.sys.macalester.edu
-NXDOMAIN	moodlegroups2.sys.macalester.edu
-NOERROR	advancement.macalester.edu
-NXDOMAIN	avmonitor.macalester.edu
-NOERROR	kirkelec.meters.macalester.edu
-NXDOMAIN	scot31.banner.macalester.edu
-NXDOMAIN	libdata.macalester.edu
-NOERROR	cpanel.dwlibrary.macalester.edu
-NXDOMAIN	crestron.macalester.edu
-NXDOMAIN	orion.macalester.edu
-NOERROR	moodlearchive.macalester.edu
-NOERROR	macalestercmg.macalester.edu
-NOERROR	engagemwtest.macalester.edu
-NOERROR	mailman.macalester.edu
-NOERROR	f5saml.macalester.edu
-NOERROR	webdisk.dwlibrary.macalester.edu
-NOERROR	scot10.banner.macalester.edu
-NXDOMAIN	m.catalog.macalester.edu
-NOERROR	libguides.macalester.edu
-NXDOMAIN	jobsub-linux.macalester.edu
-NXDOMAIN	jamf.macalester.edu
-NXDOMAIN	splunk.macalester.edu
-NXDOMAIN	extron.macalester.edu
-NOERROR	ns3.macalester.edu
-NXDOMAIN	moodlefall2018.macalester.edu
-NXDOMAIN	xa7director.macalester.edu
-NOERROR	nokomis.macalester.edu
-NOERROR	scotoffp1.banner.macalester.edu
-NXDOMAIN	moodlefall2018.moodle.macalester.edu
-NOERROR	moodlefall2018.sys.macalester.edu
-NOERROR	map.macalester.edu
-NXDOMAIN	pa2.mgmt.macalester.edu
-NOERROR	turnon2fa.macalester.edu
-NOERROR	moodletest.macalester.edu
-NXDOMAIN	oci-dc1-prod.macalester.edu
-NXDOMAIN	webmail.omeka.macalester.edu
-NXDOMAIN	cpcontacts.art.sites.macalester.edu
-NOERROR	scot3.banner.macalester.edu
-NXDOMAIN	2fadev.macalester.edu
-NOERROR	odyadminweb.macalester.edu
-NXDOMAIN	ansibletower.sys.macalester.edu
-NXDOMAIN	cpanel.entrepreneurship.macalester.edu
-NOERROR	webmail.dwlibrary.macalester.edu
-NOERROR	gots.macalester.edu
-NOERROR	autodiscover.dwlibrary.macalester.edu
-NXDOMAIN	bn-app01-dev.oci.macalester.edu
-NXDOMAIN	cpcontacts.omeka.macalester.edu
-NOERROR	devgarden.macalester.edu
-NOERROR	poliwiki.macalester.edu
-NOERROR	wlc.macalester.edu
-NXDOMAIN	subversion-new.sys.macalester.edu
-NOERROR	mail.macalester.edu
-NOERROR	sporran.macalester.edu
-NOERROR	soviethistory.macalester.edu
-NXDOMAIN	cpcalendars.omeka.macalester.edu
-NXDOMAIN	mamacdev.meters.macalester.edu
-NOERROR	techcheckout.macalester.edu
-NOERROR	ems.macalester.edu
-NOERROR	ezproxy.macalester.edu
-NXDOMAIN	webdisk.art.sites.macalester.edu
-NOERROR	lcelecmain.meters.macalester.edu
-NXDOMAIN	casper-test.macalester.edu
-NOERROR	mail.dwlibrary.macalester.edu
-NOERROR	scot24.macalester.edu
-NOERROR	nature.com.ezproxy.macalester.edu
-NOERROR	contentdm.macalester.edu
-NOERROR	www.chicagomanualofstyle.org.ezproxy.macalester.edu
-NOERROR	ns1.macalester.edu
-NXDOMAIN	bn-jobsub01-dev.oci.macalester.edu
-NOERROR	secure3.macalester.edu
-NOERROR	campuselecmain.meters.macalester.edu
-NOERROR	saml.macalester.edu
-NOERROR	mamac.meters.macalester.edu
-NOERROR	slateadv.macalester.edu
-NOERROR	status.macalester.edu
-NOERROR	remotehelp.macalester.edu
-NOERROR	org.ezproxy.macalester.edu
-NOERROR	art.sites.macalester.edu
-NOERROR	muse.jhu.edu.ezproxy.macalester.edu
-NXDOMAIN	scot38.banner.macalester.edu
-NXDOMAIN	argos.macalester.edu
-NXDOMAIN	mail.orcas.sites.macalester.edu
-NXDOMAIN	2fadev.sys.macalester.edu
-NOERROR	one.macalester.edu
-NOERROR	dotyelec.meters.macalester.edu
-NXDOMAIN	moodlearchivefall2014.macalester.edu
-NXDOMAIN	fall2018.moodle.macalester.edu
-NOERROR	moodlefall2019.sys.macalester.edu
-NXDOMAIN	eis-prod1.macalester.edu
-NXDOMAIN	registration.macalester.edu
-NOERROR	1600grand.macalester.edu
-NXDOMAIN	mail.art.sites.macalester.edu
-NXDOMAIN	maceis.macalester.edu
-NOERROR	connect.macalester.edu
-NOERROR	wallaceelec.meters.macalester.edu
-NXDOMAIN	ipam.macalester.edu
-NOERROR	stadplugelecred.meters.macalester.edu
-NOERROR	wwwremote.macalester.edu
-NOERROR	dwlibrary.macalester.edu
-NOERROR	idmprod.macalester.edu
-NOERROR	bigelowelec.meters.macalester.edu
-NXDOMAIN	webdisk.orcas.sites.macalester.edu
-NOERROR	m.macalester.edu
-NOERROR	briggselec.meters.macalester.edu
-NXDOMAIN	dwapp1-test.banner.macalester.edu
-NOERROR	apps.webofknowledge.com.ezproxy.macalester.edu
-NOERROR	2fa.macalester.edu
-NXDOMAIN	eis-dev1.banner.macalester.edu
-NOERROR	pubs.acs.org.ezproxy.macalester.edu
-NOERROR	markimelecmain.meters.macalester.edu
-NXDOMAIN	www.omeka.macalester.edu
-NXDOMAIN	eis-prod2.macalester.edu
-NOERROR	moodlegroups.macalester.edu
-NOERROR	moodle.macalester.edu
-NXDOMAIN	mathcs.macalester.edu
-NOERROR	scot5.banner.macalester.edu
-NOERROR	scot24.banner.macalester.edu
-NOERROR	moodlefall2020.sys.macalester.edu
-NOERROR	37macelecmain.meters.macalester.edu
-NOERROR	moodlespring2021.sys.macalester.edu
-NOERROR	shilad2.macalester.edu
-NOERROR	plannedgiving.macalester.edu
-NXDOMAIN	bn-jobsub-prod.oci.macalester.edu
-NXDOMAIN	cpcalendars.art.sites.macalester.edu
-NXDOMAIN	cpanel.omeka.macalester.edu
-NXDOMAIN	callpilot.macalester.edu
-NOERROR	webfile.macalester.edu
-NXDOMAIN	scot27.banner.macalester.edu
-NOERROR	stadenvelecblue.meters.macalester.edu
-NOERROR	login.ezproxy.macalester.edu
-NOERROR	monitor.macalester.edu
-NOERROR	password.macalester.edu
-NXDOMAIN	scot7.banner.macalester.edu
-NOERROR	olriwind.meters.macalester.edu
-NOERROR	secure.macalester.edu
-NOERROR	lpqualadmin.macalester.edu
-NOERROR	xmac.macalester.edu
-NXDOMAIN	scot7.macalester.edu
-NOERROR	clearpass.macalester.edu
-NXDOMAIN	oci1-pa1.mgmt.macalester.edu
-NOERROR	backup.macalester.edu
-NOERROR	postfix.macalester.edu
-NOERROR	bigelowcond.meters.macalester.edu
-NOERROR	science.sciencemag.org.ezproxy.macalester.edu
-NXDOMAIN	webapps4.macalester.edu
-NOERROR	casper.macalester.edu
-NOERROR	weyelec.meters.macalester.edu
-NXDOMAIN	moodlearchivefall2013.macalester.edu
-NOERROR	argoscloud.macalester.edu
-NOERROR	1600grandtest.macalester.edu
-NOERROR	athletics.macalester.edu
-NOERROR	webdb.macalester.edu
-NOERROR	events.macalester.edu
-NXDOMAIN	clearpass2.macalester.edu
-NXDOMAIN	cpanel.orcas.sites.macalester.edu
-NXDOMAIN	webdisk.omeka.macalester.edu
-NOERROR	scot9.macalester.edu
-NOERROR	dupreelec.meters.macalester.edu
-NOERROR	alumni.macalester.edu
-NOERROR	splunkhf.macalester.edu
-NOERROR	www.macalester.edu
-NXDOMAIN	moodlespring2019.macalester.edu
-NOERROR	cckitchelec.meters.macalester.edu
-NXDOMAIN	libdata2.macalester.edu
-NOERROR	athinterface.macalester.edu
-NOERROR	moodlespring2020.sys.macalester.edu
-NXDOMAIN	mac-dc4.macalester.edu
-NOERROR	markimpv.meters.macalester.edu
-NOERROR	gddwatermain.meters.macalester.edu
-NXDOMAIN	odyadmin.macalester.edu
-NOERROR	selkie.macalester.edu
-NOERROR	oracle-linux.macalester.edu
-NOERROR	sites.macalester.edu
-NOERROR	scot9.banner.macalester.edu
-NOERROR	omeka.macalester.edu
-NXDOMAIN	clearpass1.sys.macalester.edu
-NOERROR	entrepreneurship.macalester.edu
-NXDOMAIN	moodlearchivefall2012.macalester.edu
-NXDOMAIN	adv-web.macalester.edu
-NOERROR	scot13.banner.macalester.edu
-NOERROR	vpn.macalester.edu
-NXDOMAIN	moodlearchivespring2013.macalester.edu
-NOERROR	edu.ezproxy.macalester.edu
-NXDOMAIN	bn-argos-dev.oci.macalester.edu
-NOERROR	scot35.banner.macalester.edu
-NXDOMAIN	www.art.sites.macalester.edu
-NXDOMAIN	wlc-test.wlc.macalester.edu
-NOERROR	30macelec.meters.macalester.edu
-NXDOMAIN	subversion.sys.macalester.edu
-NXDOMAIN	clearpass1.macalester.edu
-NOERROR	password2.macalester.edu
-NOERROR	unifyed-ldap.macalester.edu
-NOERROR	scot18.banner.macalester.edu
-NOERROR	serv-u.macalester.edu
-NXDOMAIN	bn-app04-dev.oci.macalester.edu
-NOERROR	f5ldap.macalester.edu
-NOERROR	gddelecmain.meters.macalester.edu
-NOERROR	pnas.org.ezproxy.macalester.edu
-NXDOMAIN	mac-dc-cloud1.macalester.edu
-NOERROR	f5web.macalester.edu
-NOERROR	scot2.macalester.edu
-NXDOMAIN	ns.macalester.edu
-NXDOMAIN	cpanel.art.sites.macalester.edu
-NXDOMAIN	print.macalester.edu
-NXDOMAIN	scot8.macalester.edu
-NXDOMAIN	orion.sys.macalester.edu
-NXDOMAIN	scot4.banner.macalester.edu
-NXDOMAIN	webmail.art.sites.macalester.edu
-NXDOMAIN	argos-dev.macalester.edu
-NOERROR	macalester.edu
-NXDOMAIN	subversion.macalester.edu
-NXDOMAIN	rstudio-new.sys.macalester.edu
-NOERROR	ns4.macalester.edu
-NXDOMAIN	bn-esm01-prod.oci.macalester.edu
-NOERROR	orcas.sites.macalester.edu
-NOERROR	aenea.macalester.edu
-NOERROR	footprint.macalester.edu
-NXDOMAIN	whd.macalester.edu
-NOERROR	lists.macalester.edu
-NOERROR	webapps.macalester.edu
-NOERROR	emis.macalester.edu
-NOERROR	gddcondreturn.meters.macalester.edu
-NOERROR	ns2.macalester.edu
-NOERROR	macxedev.macalester.edu
-NXDOMAIN	cpcalendars.entrepreneurship.macalester.edu
-NXDOMAIN	solidserver1.sys.macalester.edu
-NXDOMAIN	webmail.orcas.sites.macalester.edu
-NOERROR	scot13.macalester.edu
-NOERROR	stuvpn.macalester.edu
-NOERROR	www.dwlibrary.macalester.edu
-NXDOMAIN	moodlearchivespring2014.macalester.edu
-NXDOMAIN	lumprod.macalester.edu
-NOERROR	advancement-webserver.macalester.edu
-NOERROR	library.macalester.edu
-NOERROR	thankyou.macalester.edu
-NOERROR	digitalcommons.macalester.edu
-NOERROR	crashplan.macalester.edu
-NXDOMAIN	mail.entrepreneurship.macalester.edu
-NOERROR	scot3.macalester.edu
-NXDOMAIN	1600grand4.macalester.edu
-NXDOMAIN	voicemail.macalester.edu
-NXDOMAIN	moodlearchive2.macalester.edu
-NOERROR	search.ebscohost.com.ezproxy.macalester.edu
-NOERROR	cdm16120.contentdm.oclc.org.ezproxy.macalester.edu
-NOERROR	search.eb.com.ezproxy.macalester.edu
-NOERROR	chicagomanualofstyle.org.ezproxy.macalester.edu
-NOERROR	webhelpdesk.macalester.edu
-NXDOMAIN	macappsnew.macalester.edu
-NOERROR	scot23.banner.macalester.edu
-NOERROR	webmail.macalester.edu
-NOERROR	scot5.macalester.edu
-NOERROR	rstudio.macalester.edu
-NOERROR	scot10.macalester.edu
-NXDOMAIN	pa1.mgmt.macalester.edu
-NOERROR	helpdesk.macalester.edu
-NXDOMAIN	www.entrepreneurship.macalester.edu
-NOERROR	moodledev.macalester.edu
-NXDOMAIN	keystone.macalester.edu
-NOERROR	qmail.macalester.edu
-NXDOMAIN	scot30.banner.macalester.edu
-NXDOMAIN	securex64.macalester.edu
-NOERROR	omelecmain.meters.macalester.edu
-NOERROR	libelecmain.meters.macalester.edu
-NOERROR	1600grand5.macalester.edu
-NXDOMAIN	jciadx.macalester.edu
-NXDOMAIN	scot28.banner.macalester.edu
-NOERROR	admissions.macalester.edu
-NXDOMAIN	prime.macalester.edu
-NXDOMAIN	moodleacm.macalester.edu
-NOERROR	ldap.macalester.edu
-NXDOMAIN	maceisdev.macalester.edu
-NOERROR	turckelec.meters.macalester.edu
-NOERROR	catalog.macalester.edu
-NXDOMAIN	www2.macalester.edu
-NXDOMAIN	digitalarchive.macalester.edu
-NXDOMAIN	bn-app03-dev.oci.macalester.edu
-NOERROR	epay.macalester.edu
-NXDOMAIN	cpcontacts.entrepreneurship.macalester.edu
-NXDOMAIN	moodlestage.macalester.edu
-NXDOMAIN	keystonenew.macalester.edu
-NOERROR	macxe.macalester.edu
-NXDOMAIN	webdisk.entrepreneurship.macalester.edu
-NOERROR	nuggle.macalester.edu
-NOERROR	mtug.macalester.edu
-NOERROR	macademia.macalester.edu
-NXDOMAIN	lutron.macalester.edu
-NOERROR	moodlespring2019.sys.macalester.edu
-NXDOMAIN	dns.macalester.edu
-NOERROR	jstor.org.ezproxy.macalester.edu
-NXDOMAIN	engagemw.macalester.edu
-NXDOMAIN	satellite.sys.macalester.edu
-NXDOMAIN	webmail.entrepreneurship.macalester.edu
-NXDOMAIN	www.orcas.sites.macalester.edu
-NOERROR	smtp.macalester.edu
-NXDOMAIN	authtest.macalester.edu
-NOERROR	macho.macalester.edu
-NXDOMAIN	mac-dc3.macalester.edu
+chapelecmain.meters.macalester.edu
+como.macalester.edu
+scot2.banner.macalester.edu
+engage.macalester.edu
+email.macalester.edu
+ezproxy.sys.macalester.edu
+scot22.banner.macalester.edu
+ccmainelec.meters.macalester.edu
+macdirect.macalester.edu
+libserv.macalester.edu
+webappsnew.macalester.edu
+advancement.macalester.edu
+kirkelec.meters.macalester.edu
+cpanel.dwlibrary.macalester.edu
+moodlearchive.macalester.edu
+macalestercmg.macalester.edu
+engagemwtest.macalester.edu
+mailman.macalester.edu
+f5saml.macalester.edu
+webdisk.dwlibrary.macalester.edu
+scot10.banner.macalester.edu
+libguides.macalester.edu
+ns3.macalester.edu
+nokomis.macalester.edu
+scotoffp1.banner.macalester.edu
+moodlefall2018.sys.macalester.edu
+map.macalester.edu
+turnon2fa.macalester.edu
+moodletest.macalester.edu
+scot3.banner.macalester.edu
+odyadminweb.macalester.edu
+webmail.dwlibrary.macalester.edu
+gots.macalester.edu
+autodiscover.dwlibrary.macalester.edu
+devgarden.macalester.edu
+poliwiki.macalester.edu
+wlc.macalester.edu
+mail.macalester.edu
+sporran.macalester.edu
+soviethistory.macalester.edu
+techcheckout.macalester.edu
+ems.macalester.edu
+ezproxy.macalester.edu
+lcelecmain.meters.macalester.edu
+mail.dwlibrary.macalester.edu
+scot24.macalester.edu
+nature.com.ezproxy.macalester.edu
+contentdm.macalester.edu
+www.chicagomanualofstyle.org.ezproxy.macalester.edu
+ns1.macalester.edu
+secure3.macalester.edu
+campuselecmain.meters.macalester.edu
+saml.macalester.edu
+mamac.meters.macalester.edu
+slateadv.macalester.edu
+status.macalester.edu
+remotehelp.macalester.edu
+org.ezproxy.macalester.edu
+art.sites.macalester.edu
+muse.jhu.edu.ezproxy.macalester.edu
+one.macalester.edu
+dotyelec.meters.macalester.edu
+moodlefall2019.sys.macalester.edu
+1600grand.macalester.edu
+connect.macalester.edu
+wallaceelec.meters.macalester.edu
+stadplugelecred.meters.macalester.edu
+wwwremote.macalester.edu
+dwlibrary.macalester.edu
+idmprod.macalester.edu
+bigelowelec.meters.macalester.edu
+m.macalester.edu
+briggselec.meters.macalester.edu
+apps.webofknowledge.com.ezproxy.macalester.edu
+2fa.macalester.edu
+pubs.acs.org.ezproxy.macalester.edu
+markimelecmain.meters.macalester.edu
+moodlegroups.macalester.edu
+moodle.macalester.edu
+scot5.banner.macalester.edu
+scot24.banner.macalester.edu
+moodlefall2020.sys.macalester.edu
+37macelecmain.meters.macalester.edu
+moodlespring2021.sys.macalester.edu
+shilad2.macalester.edu
+plannedgiving.macalester.edu
+webfile.macalester.edu
+stadenvelecblue.meters.macalester.edu
+login.ezproxy.macalester.edu
+monitor.macalester.edu
+password.macalester.edu
+olriwind.meters.macalester.edu
+secure.macalester.edu
+lpqualadmin.macalester.edu
+xmac.macalester.edu
+clearpass.macalester.edu
+backup.macalester.edu
+postfix.macalester.edu
+bigelowcond.meters.macalester.edu
+science.sciencemag.org.ezproxy.macalester.edu
+casper.macalester.edu
+weyelec.meters.macalester.edu
+argoscloud.macalester.edu
+1600grandtest.macalester.edu
+athletics.macalester.edu
+webdb.macalester.edu
+events.macalester.edu
+scot9.macalester.edu
+dupreelec.meters.macalester.edu
+alumni.macalester.edu
+splunkhf.macalester.edu
+www.macalester.edu
+cckitchelec.meters.macalester.edu
+athinterface.macalester.edu
+moodlespring2020.sys.macalester.edu
+markimpv.meters.macalester.edu
+gddwatermain.meters.macalester.edu
+selkie.macalester.edu
+oracle-linux.macalester.edu
+sites.macalester.edu
+scot9.banner.macalester.edu
+omeka.macalester.edu
+entrepreneurship.macalester.edu
+scot13.banner.macalester.edu
+vpn.macalester.edu
+edu.ezproxy.macalester.edu
+scot35.banner.macalester.edu
+30macelec.meters.macalester.edu
+password2.macalester.edu
+unifyed-ldap.macalester.edu
+scot18.banner.macalester.edu
+serv-u.macalester.edu
+f5ldap.macalester.edu
+gddelecmain.meters.macalester.edu
+pnas.org.ezproxy.macalester.edu
+f5web.macalester.edu
+scot2.macalester.edu
+macalester.edu
+ns4.macalester.edu
+orcas.sites.macalester.edu
+aenea.macalester.edu
+footprint.macalester.edu
+lists.macalester.edu
+webapps.macalester.edu
+emis.macalester.edu
+gddcondreturn.meters.macalester.edu
+ns2.macalester.edu
+macxedev.macalester.edu
+scot13.macalester.edu
+stuvpn.macalester.edu
+www.dwlibrary.macalester.edu
+advancement-webserver.macalester.edu
+library.macalester.edu
+thankyou.macalester.edu
+digitalcommons.macalester.edu
+crashplan.macalester.edu
+scot3.macalester.edu
+search.ebscohost.com.ezproxy.macalester.edu
+cdm16120.contentdm.oclc.org.ezproxy.macalester.edu
+search.eb.com.ezproxy.macalester.edu
+chicagomanualofstyle.org.ezproxy.macalester.edu
+webhelpdesk.macalester.edu
+scot23.banner.macalester.edu
+webmail.macalester.edu
+scot5.macalester.edu
+rstudio.macalester.edu
+scot10.macalester.edu
+helpdesk.macalester.edu
+moodledev.macalester.edu
+qmail.macalester.edu
+omelecmain.meters.macalester.edu
+libelecmain.meters.macalester.edu
+1600grand5.macalester.edu
+admissions.macalester.edu
+ldap.macalester.edu
+turckelec.meters.macalester.edu
+catalog.macalester.edu
+epay.macalester.edu
+macxe.macalester.edu
+nuggle.macalester.edu
+mtug.macalester.edu
+macademia.macalester.edu
+moodlespring2019.sys.macalester.edu
+jstor.org.ezproxy.macalester.edu
+smtp.macalester.edu
+macho.macalester.edu

@@ -1,4 +1,3 @@
-NOERROR	mail.arellano.edu.ph
-NOERROR	www.arellano.edu.ph
-NXDOMAIN	proxy.arellano.edu.ph
-NOERROR	arellano.edu.ph
+mail.arellano.edu.ph
+www.arellano.edu.ph
+arellano.edu.ph

@@ -1,162 +1,103 @@
-NOERROR	lyncdiscover.rossu.edu
-NOERROR	veterinary.qa2.rossu.edu
-NOERROR	myrosstest.rossu.edu
-NOERROR	app.contact.medical.rossu.edu
-NXDOMAIN	print.rossu.edu
-NXDOMAIN	www.myross.rossu.edu
-NOERROR	ww.rossu.edu
-NOERROR	mail.rossu.edu
-NXDOMAIN	origin-veterinary.int.rossu.edu
-NOERROR	app.contactvet.rossu.edu
-NXDOMAIN	www.rusmbookstore.rossu.edu
-NXDOMAIN	www.myross.qa.rossu.edu
-NOERROR	med.rossu.edu
-NOERROR	medical.rossu.edu
-NOERROR	medhandbook.rossu.edu
-NOERROR	mobile.dev.rossu.edu
-NOERROR	vetstudentstore.rossu.edu
-NOERROR	docs.rossu.edu
-NOERROR	dmimaps01.rossu.edu
-NXDOMAIN	demo.rossu.edu
-NXDOMAIN	med.stg.rossu.edu
-NXDOMAIN	origin-veterinary.stg.rossu.edu
-NOERROR	veterinary.stg.rossu.edu
-NOERROR	games.rossu.edu
-NOERROR	lsmiramar.rossu.edu
-NOERROR	mail01.contact.medical.rossu.edu
-NXDOMAIN	dmifltr01.rossu.edu
-NOERROR	mrm.rossu.edu
-NOERROR	www.qa.rossu.edu
-NXDOMAIN	uat-veterinary.rossu.edu
-NOERROR	dmilogin.rossu.edu
-NOERROR	lv.rossu.edu
-NOERROR	alumni.rossu.edu
-NXDOMAIN	stg.rossu.edu
-NXDOMAIN	www.lsmiramar.rossu.edu
-NOERROR	veterinary.qa.rossu.edu
-NXDOMAIN	www.rosstnc.rossu.edu
-NXDOMAIN	med.dev.rossu.edu
-NOERROR	autodiscover.mymail.rossu.edu
-NOERROR	www.rossu.edu
-NOERROR	dmismtp.rossu.edu
-NOERROR	www.incidentreporting.rossu.edu
-NXDOMAIN	photobook.rossu.edu
-NXDOMAIN	origin-veterinary.qa.rossu.edu
-NXDOMAIN	www.mrm.rossu.edu
-NOERROR	dev.rossu.edu
-NOERROR	myross.qa.rossu.edu
-NXDOMAIN	www.print.rossu.edu
-NOERROR	veterinary.dev.rossu.edu
-NOERROR	veterinary.rossu.edu
-NOERROR	websp.rossu.edu
-NOERROR	mymail.rossu.edu
-NOERROR	shop.rossu.edu
-NXDOMAIN	veterinary.dev2.rossu.edu
-NOERROR	portal.rossu.edu
-NOERROR	rusvmbookstore.rossu.edu
-NOERROR	smtp.rossu.edu
-NOERROR	lg.rossu.edu
-NXDOMAIN	veterinary.stg2.rossu.edu
-NXDOMAIN	origin-www.rossu.edu
-NXDOMAIN	mobile.dev2.rossu.edu
-NXDOMAIN	med.int.rossu.edu
-NXDOMAIN	qa-www.rossu.edu
-NOERROR	imagespace.rossu.edu
-NOERROR	mobile.qa.rossu.edu
-NOERROR	www.int.rossu.edu
-NOERROR	www.medical.rossu.edu
-NXDOMAIN	med.qa.rossu.edu
-NOERROR	www.qa.medical.rossu.edu
-NOERROR	m.rossu.edu
-NXDOMAIN	utd.rossu.edu
-NOERROR	login.rossu.edu
-NOERROR	dmisharepoint01.rossu.edu
-NOERROR	myross.rossu.edu
-NOERROR	veterinary.int.rossu.edu
-NOERROR	vetspiritstore.rossu.edu
-NXDOMAIN	printer.rossu.edu
-NOERROR	dev.myportal.rossu.edu
-NOERROR	dmimaps02.rossu.edu
-NOERROR	l.rossu.edu
-NOERROR	cosmos.rossu.edu
-NXDOMAIN	webmail.rossu.edu
-NXDOMAIN	www.printer.rossu.edu
-NXDOMAIN	origin-veterinary.rossu.edu
-NOERROR	mail02.contact.medical.rossu.edu
-NOERROR	m.stg.rossu.edu
-NXDOMAIN	origin-medical.qa.rossu.edu
-NOERROR	webtrackingvet.rossu.edu
-NXDOMAIN	int.rossu.edu
-NOERROR	medical.stg.rossu.edu
-NOERROR	mobile.rossu.edu
-NXDOMAIN	www.rusvmbookstore.rossu.edu
-NXDOMAIN	origin-medical.int.rossu.edu
-NXDOMAIN	my.dev2.rossu.edu
-NOERROR	connectvet.rossu.edu
-NXDOMAIN	www.umedic.rossu.edu
-NOERROR	app.information.rossu.edu
-NXDOMAIN	origin-www.int.rossu.edu
-NOERROR	mail02.contactvet.rossu.edu
-NXDOMAIN	preview.vet.rossu.edu
-NOERROR	vet.rossu.edu
-NOERROR	test.rossu.edu
-NXDOMAIN	www.connectvet.rossu.edu
-NOERROR	m.int.rossu.edu
-NOERROR	my.qa.rossu.edu
-NXDOMAIN	myrosstestadmin.rossu.edu
-NOERROR	infoseminar.rossu.edu
-NXDOMAIN	www.photobook.rossu.edu
-NOERROR	rossvetlibrary.rossu.edu
-NXDOMAIN	origin-medical.stg.rossu.edu
-NOERROR	njremote.rossu.edu
-NXDOMAIN	atom.qa.rossu.edu
-NOERROR	preview.med.rossu.edu
-NOERROR	medical.dev.rossu.edu
-NXDOMAIN	www.websp.rossu.edu
-NOERROR	www.dev.rossu.edu
-NOERROR	webtracking.medical.rossu.edu
-NOERROR	lo.rossu.edu
-NOERROR	mail03.contact.medical.rossu.edu
-NOERROR	rusvmsuccesscenter.rossu.edu
-NOERROR	medstudentstore.rossu.edu
-NXDOMAIN	uat-www.rossu.edu
-NOERROR	connect.medical.rossu.edu
-NOERROR	rusmbookstore.rossu.edu
-NXDOMAIN	origin-medical.rossu.edu
-NOERROR	sharepoint.rossu.edu
-NXDOMAIN	mobile.tst2.rossu.edu
-NOERROR	medical.qa.rossu.edu
-NXDOMAIN	qa.vet.rossu.edu
-NXDOMAIN	www.webtrackingvet.rossu.edu
-NOERROR	mail01.contactvet.rossu.edu
-NXDOMAIN	www.rusvmsuccesscenter.rossu.edu
-NXDOMAIN	qa-veterinary.rossu.edu
-NOERROR	my.rossu.edu
-NXDOMAIN	mdm.rossu.edu
-NOERROR	umedic.rossu.edu
-NXDOMAIN	origin-www.stg.rossu.edu
-NOERROR	my.dev.rossu.edu
-NXDOMAIN	my.tst2.rossu.edu
-NOERROR	mail03.contactvet.rossu.edu
-NOERROR	vetinfo.rossu.edu
-NXDOMAIN	myrossadmin.rossu.edu
-NXDOMAIN	origin-www.qa.rossu.edu
-NOERROR	w.rossu.edu
-NXDOMAIN	www.dev.myportal.rossu.edu
-NOERROR	m.qa.rossu.edu
-NOERROR	www.qa2.rossu.edu
-NOERROR	feedback.rossu.edu
-NOERROR	autodiscover.rossu.edu
-NOERROR	caribbean.rossu.edu
-NOERROR	rosstnc.rossu.edu
-NXDOMAIN	stg-veterinary.rossu.edu
-NOERROR	www.stg.rossu.edu
-NOERROR	campusdocs.rossu.edu
-NOERROR	medical.qa2.rossu.edu
-NXDOMAIN	myrossadmin.qa.rossu.edu
-NOERROR	sip.rossu.edu
-NOERROR	myportal.rossu.edu
-NOERROR	images.contact.medical.rossu.edu
-NOERROR	medical.int.rossu.edu
-NOERROR	qa.rossu.edu
-NOERROR	rossu.edu
+lyncdiscover.rossu.edu
+veterinary.qa2.rossu.edu
+myrosstest.rossu.edu
+app.contact.medical.rossu.edu
+ww.rossu.edu
+mail.rossu.edu
+app.contactvet.rossu.edu
+med.rossu.edu
+medical.rossu.edu
+medhandbook.rossu.edu
+mobile.dev.rossu.edu
+vetstudentstore.rossu.edu
+docs.rossu.edu
+dmimaps01.rossu.edu
+veterinary.stg.rossu.edu
+games.rossu.edu
+lsmiramar.rossu.edu
+mail01.contact.medical.rossu.edu
+mrm.rossu.edu
+www.qa.rossu.edu
+dmilogin.rossu.edu
+lv.rossu.edu
+alumni.rossu.edu
+veterinary.qa.rossu.edu
+autodiscover.mymail.rossu.edu
+www.rossu.edu
+dmismtp.rossu.edu
+www.incidentreporting.rossu.edu
+dev.rossu.edu
+myross.qa.rossu.edu
+veterinary.dev.rossu.edu
+veterinary.rossu.edu
+websp.rossu.edu
+mymail.rossu.edu
+shop.rossu.edu
+portal.rossu.edu
+rusvmbookstore.rossu.edu
+smtp.rossu.edu
+lg.rossu.edu
+imagespace.rossu.edu
+mobile.qa.rossu.edu
+www.int.rossu.edu
+www.medical.rossu.edu
+www.qa.medical.rossu.edu
+m.rossu.edu
+login.rossu.edu
+dmisharepoint01.rossu.edu
+myross.rossu.edu
+veterinary.int.rossu.edu
+vetspiritstore.rossu.edu
+dev.myportal.rossu.edu
+dmimaps02.rossu.edu
+l.rossu.edu
+cosmos.rossu.edu
+mail02.contact.medical.rossu.edu
+m.stg.rossu.edu
+webtrackingvet.rossu.edu
+medical.stg.rossu.edu
+mobile.rossu.edu
+connectvet.rossu.edu
+app.information.rossu.edu
+mail02.contactvet.rossu.edu
+vet.rossu.edu
+test.rossu.edu
+m.int.rossu.edu
+my.qa.rossu.edu
+infoseminar.rossu.edu
+rossvetlibrary.rossu.edu
+njremote.rossu.edu
+preview.med.rossu.edu
+medical.dev.rossu.edu
+www.dev.rossu.edu
+webtracking.medical.rossu.edu
+lo.rossu.edu
+mail03.contact.medical.rossu.edu
+rusvmsuccesscenter.rossu.edu
+medstudentstore.rossu.edu
+connect.medical.rossu.edu
+rusmbookstore.rossu.edu
+sharepoint.rossu.edu
+medical.qa.rossu.edu
+mail01.contactvet.rossu.edu
+my.rossu.edu
+umedic.rossu.edu
+my.dev.rossu.edu
+mail03.contactvet.rossu.edu
+vetinfo.rossu.edu
+w.rossu.edu
+m.qa.rossu.edu
+www.qa2.rossu.edu
+feedback.rossu.edu
+autodiscover.rossu.edu
+caribbean.rossu.edu
+rosstnc.rossu.edu
+www.stg.rossu.edu
+campusdocs.rossu.edu
+medical.qa2.rossu.edu
+sip.rossu.edu
+myportal.rossu.edu
+images.contact.medical.rossu.edu
+medical.int.rossu.edu
+qa.rossu.edu
+rossu.edu

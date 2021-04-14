@@ -1,2 +1,2 @@
-NOERROR	www.tusom.org
-NOERROR	tusom.org
+www.tusom.org
+tusom.org

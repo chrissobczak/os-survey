@@ -1,66 +1,37 @@
-NOERROR	oasrv04.utdt.edu
-NOERROR	webjsp-prod.utdt.edu
-NOERROR	cena.utdt.edu
-NXDOMAIN	www.gateway.utdt.edu
-NXDOMAIN	staging-api-instituciones.utdt.edu
-NXDOMAIN	staging-api-personas.utdt.edu
-NOERROR	oasrv03.utdt.edu
-NOERROR	mail.utdt.edu
-NXDOMAIN	campus.utdt.edu
-NOERROR	oasvr02.utdt.edu
-NOERROR	repositorio.utdt.edu
-NOERROR	poc-campus.utdt.edu
-NOERROR	teamplace.utdt.edu
-NOERROR	webmail.utdt.edu
-NOERROR	revistajuridica.utdt.edu
-NXDOMAIN	bookonline.utdt.edu
-NXDOMAIN	demogateway.utdt.edu
-NOERROR	02teamplace.utdt.edu
-NOERROR	campusvirtual.utdt.edu
-NOERROR	www.utdt.edu
-NOERROR	websvr01.utdt.edu
-NXDOMAIN	www.lacealames2009.utdt.edu
-NXDOMAIN	api-nacionalidades.utdt.edu
-NOERROR	teamplace-test.utdt.edu
-NOERROR	api.utdt.edu
-NXDOMAIN	api-personas.utdt.edu
-NOERROR	gateway.utdt.edu
-NOERROR	archivo-campusvirtual.utdt.edu
-NOERROR	ezproxy.utdt.edu
-NXDOMAIN	poc.campus.utdt.edu
-NXDOMAIN	prxbdt.utdt.edu
-NXDOMAIN	staging-api-paises.utdt.edu
-NXDOMAIN	staging.utdt.edu
-NXDOMAIN	cabawww.utdt.edu
-NXDOMAIN	rmsummit2007.utdt.edu
-NXDOMAIN	gitlab.utdt.edu
-NOERROR	atlas-cipuv.utdt.edu
-NXDOMAIN	www.campusvirtual.utdt.edu
-NOERROR	websvrmd.utdt.edu
-NXDOMAIN	api-paises.utdt.edu
-NOERROR	donaciones.utdt.edu
-NXDOMAIN	clasesabiertas.utdt.edu
-NXDOMAIN	staging-api-nacionalidades.utdt.edu
-NOERROR	ldap2.utdt.edu
-NXDOMAIN	profesores.utdt.edu
-NOERROR	relay.utdt.edu
-NOERROR	alumni.utdt.edu
-NOERROR	www-jstor-org.ezproxy.utdt.edu
-NXDOMAIN	www.teamplace-test.utdt.edu
-NOERROR	moodle.utdt.edu
-NXDOMAIN	new.utdt.edu
-NXDOMAIN	www.teamplace.utdt.edu
-NXDOMAIN	doloressanz.utdt.edu
-NOERROR	login.ezproxy.utdt.edu
-NOERROR	envios.utdt.edu
-NOERROR	moodle39.utdt.edu
-NOERROR	print.utdt.edu
-NOERROR	vpn.utdt.edu
-NXDOMAIN	staging-api2.utdt.edu
-NOERROR	sigedu.utdt.edu
-NXDOMAIN	catalogo.utdt.edu
-NOERROR	rep-nlb.utdt.edu
-NXDOMAIN	api2.utdt.edu
-NOERROR	utdt.edu
-NXDOMAIN	api-instituciones.utdt.edu
-NOERROR	ldap.utdt.edu
+oasrv04.utdt.edu
+webjsp-prod.utdt.edu
+cena.utdt.edu
+oasrv03.utdt.edu
+mail.utdt.edu
+oasvr02.utdt.edu
+repositorio.utdt.edu
+poc-campus.utdt.edu
+teamplace.utdt.edu
+webmail.utdt.edu
+revistajuridica.utdt.edu
+02teamplace.utdt.edu
+campusvirtual.utdt.edu
+www.utdt.edu
+websvr01.utdt.edu
+teamplace-test.utdt.edu
+api.utdt.edu
+gateway.utdt.edu
+archivo-campusvirtual.utdt.edu
+ezproxy.utdt.edu
+atlas-cipuv.utdt.edu
+websvrmd.utdt.edu
+donaciones.utdt.edu
+ldap2.utdt.edu
+relay.utdt.edu
+alumni.utdt.edu
+www-jstor-org.ezproxy.utdt.edu
+moodle.utdt.edu
+login.ezproxy.utdt.edu
+envios.utdt.edu
+moodle39.utdt.edu
+print.utdt.edu
+vpn.utdt.edu
+sigedu.utdt.edu
+rep-nlb.utdt.edu
+utdt.edu
+ldap.utdt.edu

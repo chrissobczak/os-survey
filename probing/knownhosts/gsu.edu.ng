@@ -1,17 +1,5 @@
-NXDOMAIN	cpanel.gsu.edu.ng
-NOERROR	mail1.gsu.edu.ng
-NXDOMAIN	test.gsu.edu.ng
-NOERROR	server.gsu.edu.ng
-NXDOMAIN	www.mail1.gsu.edu.ng
-NOERROR	mail.gsu.edu.ng
-NXDOMAIN	webdisk.gsu.edu.ng
-NOERROR	www.gsu.edu.ng
-NXDOMAIN	www.test.gsu.edu.ng
-NXDOMAIN	www.server.gsu.edu.ng
-NXDOMAIN	test2.gsu.edu.ng
-NXDOMAIN	www.sagir.gsu.edu.ng
-NOERROR	gsu.edu.ng
-NXDOMAIN	www.test2.gsu.edu.ng
-NXDOMAIN	putme.gsu.edu.ng
-NXDOMAIN	webmail.gsu.edu.ng
-NXDOMAIN	sagir.gsu.edu.ng
+mail1.gsu.edu.ng
+server.gsu.edu.ng
+mail.gsu.edu.ng
+www.gsu.edu.ng
+gsu.edu.ng

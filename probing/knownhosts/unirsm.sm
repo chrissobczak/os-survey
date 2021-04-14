@@ -1,63 +1,31 @@
-NXDOMAIN	fw-df.unirsm.sm
-NOERROR	print.unirsm.sm
-NOERROR	esse3.unirsm.sm
-NOERROR	mx01.unirsm.sm
-NOERROR	vpnfo.unirsm.sm
-NOERROR	autodiscover.unirsm.sm
-NOERROR	dcc.unirsm.sm
-NXDOMAIN	php.unirsm.sm
-NXDOMAIN	sebina.unirsm.sm
-NOERROR	futuredesigned.unirsm.sm
-NOERROR	ns1.unirsm.sm
-NXDOMAIN	exch-htscas2.unirsm.sm
-NXDOMAIN	pegasus.unirsm.sm
-NXDOMAIN	stage.unirsm.sm
-NOERROR	disegnoindustriale.unirsm.sm
-NOERROR	unirsm.sm
-NXDOMAIN	exch-htscas1.unirsm.sm
-NOERROR	turnout.unirsm.sm
-NOERROR	www.smallmagazine.unirsm.sm
-NXDOMAIN	lms.unirsm.sm
-NXDOMAIN	elearning.unirsm.sm
-NOERROR	devel.unirsm.sm
-NXDOMAIN	edustage.unirsm.sm
-NXDOMAIN	cms.unirsm.sm
-NXDOMAIN	libri.unirsm.sm
-NXDOMAIN	moon.unirsm.sm
-NXDOMAIN	www2.unirsm.sm
-NOERROR	webmail.unirsm.sm
-NOERROR	esse4web.unirsm.sm
-NXDOMAIN	sirio.unirsm.sm
-NOERROR	www.unirsm.sm
-NXDOMAIN	owa.unirsm.sm
-NXDOMAIN	docebolms.unirsm.sm
-NXDOMAIN	lib.unirsm.sm
-NOERROR	mx02.unirsm.sm
-NOERROR	inside.unirsm.sm
-NXDOMAIN	opac.unirsm.sm
-NOERROR	safeq.unirsm.sm
-NOERROR	design.unirsm.sm
-NXDOMAIN	supernova.unirsm.sm
-NXDOMAIN	hydra.unirsm.sm
-NOERROR	ddc.unirsm.sm
-NXDOMAIN	www.altaformazione.unirsm.sm
-NXDOMAIN	fw.unirsm.sm
-NOERROR	ns2.unirsm.sm
-NOERROR	flow.unirsm.sm
-NOERROR	altaformazione.unirsm.sm
-NXDOMAIN	fw-det.unirsm.sm
-NOERROR	convegnodislessia.unirsm.sm
-NXDOMAIN	mx3.unirsm.sm
-NXDOMAIN	mx2.unirsm.sm
-NOERROR	www.republicofdesign.unirsm.sm
-NOERROR	listsrvr.unirsm.sm
-NXDOMAIN	lms2.unirsm.sm
-NXDOMAIN	venus.unirsm.sm
-NOERROR	ns3.unirsm.sm
-NXDOMAIN	mail.unirsm.sm
-NXDOMAIN	spin.unirsm.sm
-NXDOMAIN	vega.unirsm.sm
-NOERROR	web.unirsm.sm
-NOERROR	sanmarinodesignworkshop.unirsm.sm
-NXDOMAIN	sp.unirsm.sm
-NOERROR	smtp.unirsm.sm
+print.unirsm.sm
+esse3.unirsm.sm
+mx01.unirsm.sm
+vpnfo.unirsm.sm
+autodiscover.unirsm.sm
+dcc.unirsm.sm
+futuredesigned.unirsm.sm
+ns1.unirsm.sm
+disegnoindustriale.unirsm.sm
+unirsm.sm
+turnout.unirsm.sm
+www.smallmagazine.unirsm.sm
+devel.unirsm.sm
+webmail.unirsm.sm
+esse4web.unirsm.sm
+www.unirsm.sm
+mx02.unirsm.sm
+inside.unirsm.sm
+safeq.unirsm.sm
+design.unirsm.sm
+ddc.unirsm.sm
+ns2.unirsm.sm
+flow.unirsm.sm
+altaformazione.unirsm.sm
+convegnodislessia.unirsm.sm
+www.republicofdesign.unirsm.sm
+listsrvr.unirsm.sm
+ns3.unirsm.sm
+web.unirsm.sm
+sanmarinodesignworkshop.unirsm.sm
+smtp.unirsm.sm

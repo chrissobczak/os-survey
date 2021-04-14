@@ -1,210 +1,79 @@
-NXDOMAIN	lyncfe1.haywood.edu
-NOERROR	equinox.haywood.edu
-NXDOMAIN	wap2.haywood.edu
-NXDOMAIN	ui-prod.cloud.haywood.edu
-NOERROR	etrans-prod.cloud.haywood.edu
-NOERROR	webmail.haywood.edu
-NXDOMAIN	sp16fe0.haywood.edu
-NXDOMAIN	composer.haywood.edu
-NOERROR	selfservice.haywood.edu
-NOERROR	stargazer.haywood.edu
-NXDOMAIN	sp16dc.haywood.edu
-NXDOMAIN	webapi.haywood.edu
-NXDOMAIN	besexpress.haywood.edu
-NOERROR	passwordreset.haywood.edu
-NXDOMAIN	horticultureinternal.haywood.edu
-NXDOMAIN	dl.haywood.edu
-NOERROR	catalog-dev.haywood.edu
-NXDOMAIN	ss.haywood.edu
-NXDOMAIN	2bornot2b.haywood.edu
-NXDOMAIN	selfservicedevelopment.haywood.edu
-NOERROR	pg-test.cloud.haywood.edu
-NXDOMAIN	wsus.haywood.edu
-NXDOMAIN	interdns2.cloud.haywood.edu
-NXDOMAIN	www.moodle2.haywood.edu
-NOERROR	selfservicetest.haywood.edu
-NXDOMAIN	sp16search.haywood.edu
-NXDOMAIN	wap6.haywood.edu
-NXDOMAIN	centraladmin.haywood.edu
-NOERROR	lync.haywood.edu
-NXDOMAIN	caretaker.haywood.edu
-NXDOMAIN	lyncpc0.haywood.edu
-NXDOMAIN	colleagueproduction.haywood.edu
-NXDOMAIN	www.webmail.haywood.edu
-NXDOMAIN	mountainechoes.haywood.edu
-NOERROR	quirinal.haywood.edu
-NXDOMAIN	antares.haywood.edu
-NOERROR	creativearts.haywood.edu
-NXDOMAIN	avisoconn.haywood.edu
-NOERROR	tmg2.haywood.edu
-NXDOMAIN	mailbox2.haywood.edu
-NXDOMAIN	mailbox0.haywood.edu
-NXDOMAIN	lyncdiscoverinternal.haywood.edu
-NOERROR	info.haywood.edu
-NOERROR	defiant.haywood.edu
-NXDOMAIN	interdns1.cloud.haywood.edu
-NXDOMAIN	www-prod.haywood.edu
-NOERROR	informer.haywood.edu
-NXDOMAIN	colleague.cloud.haywood.edu
-NOERROR	yeager.haywood.edu
-NOERROR	moodle.haywood.edu
-NOERROR	nelnet.haywood.edu
-NOERROR	teamsites.haywood.edu
-NOERROR	tmg.haywood.edu
-NXDOMAIN	adfs1.haywood.edu
-NXDOMAIN	hopinternal.haywood.edu
-NOERROR	ss-prod.cloud.haywood.edu
-NXDOMAIN	personnelinfo.haywood.edu
-NXDOMAIN	viewjmp.haywood.edu
-NOERROR	wlan-controller.haywood.edu
-NOERROR	www.365.haywood.edu
-NXDOMAIN	lyncfe0.haywood.edu
-NOERROR	www.haywood.edu
-NXDOMAIN	view2.haywood.edu
-NXDOMAIN	jobsearchinternal.haywood.edu
-NXDOMAIN	ajax.haywood.edu
-NOERROR	dialin.haywood.edu
-NXDOMAIN	secure.haywood.edu
-NOERROR	mailtransport.haywood.edu
-NXDOMAIN	colleague.haywood.edu
-NXDOMAIN	wap4.haywood.edu
-NXDOMAIN	viewgateway.haywood.edu
-NXDOMAIN	xmpp.haywood.edu
-NOERROR	view.haywood.edu
-NXDOMAIN	sp16db.haywood.edu
-NXDOMAIN	webapi-prod.cloud.haywood.edu
-NXDOMAIN	sbcinternal.haywood.edu
-NOERROR	selfserviceproduction.haywood.edu
-NXDOMAIN	appv.haywood.edu
-NXDOMAIN	viewproxy1.haywood.edu
-NOERROR	jobs.haywood.edu
-NOERROR	arnold.haywood.edu
-NXDOMAIN	lyncpc1.haywood.edu
-NXDOMAIN	speedtestinternal.haywood.edu
-NOERROR	pg-test.haywood.edu
-NOERROR	search.haywood.edu
-NXDOMAIN	colleaguetest.haywood.edu
-NOERROR	mysites.haywood.edu
-NOERROR	webapi-d1-test.cloud.haywood.edu
-NOERROR	potemkin.haywood.edu
-NXDOMAIN	w.haywood.edu
-NXDOMAIN	ui-test.cloud.haywood.edu
-NOERROR	sbc.haywood.edu
-NXDOMAIN	www.cms.haywood.edu
-NOERROR	webapi-d1-test.haywood.edu
-NXDOMAIN	guppy.haywood.edu
-NOERROR	haywood.edu
-NXDOMAIN	webapidevelopment.haywood.edu
-NXDOMAIN	mobile-prod.cloud.haywood.edu
-NXDOMAIN	view3.haywood.edu
-NXDOMAIN	www.wlan-controller.haywood.edu
-NXDOMAIN	webapps3.haywood.edu
-NXDOMAIN	planning.haywood.edu
-NXDOMAIN	mailbox1.haywood.edu
-NXDOMAIN	resolve.haywood.edu
-NXDOMAIN	exeter.haywood.edu
-NXDOMAIN	webapitest.haywood.edu
-NXDOMAIN	ns2.haywood.edu
-NOERROR	old.haywood.edu
-NOERROR	logo.haywood.edu
-NOERROR	woz.haywood.edu
-NXDOMAIN	colleaguedevelopment.haywood.edu
-NXDOMAIN	webapiproduction.haywood.edu
-NOERROR	webapps.haywood.edu
-NOERROR	login.haywood.edu
-NXDOMAIN	outdoorclub.haywood.edu
-NOERROR	classclimate.haywood.edu
-NXDOMAIN	view4.haywood.edu
-NXDOMAIN	daedalus.haywood.edu
-NOERROR	webadvisor.haywood.edu
-NOERROR	odyssey.haywood.edu
-NOERROR	aviso.haywood.edu
-NXDOMAIN	sp16app.haywood.edu
-NOERROR	webadv-test.cloud.haywood.edu
-NXDOMAIN	uiwebprod.haywood.edu
-NXDOMAIN	adfs2.haywood.edu
-NXDOMAIN	trieste.haywood.edu
-NXDOMAIN	webapps1.haywood.edu
-NXDOMAIN	naturalresources.haywood.edu
-NXDOMAIN	informer5.haywood.edu
-NXDOMAIN	destiny.haywood.edu
-NOERROR	copernicus.haywood.edu
-NXDOMAIN	kyushu.haywood.edu
-NOERROR	www-dev.haywood.edu
-NOERROR	meet.haywood.edu
-NXDOMAIN	l2.haywood.edu
-NXDOMAIN	colleagueold.haywood.edu
-NXDOMAIN	wap5.haywood.edu
-NOERROR	lyncdiscover.haywood.edu
-NOERROR	books.haywood.edu
-NOERROR	crazyhorse.haywood.edu
-NOERROR	hccms.haywood.edu
-NXDOMAIN	catalog-prod.haywood.edu
-NOERROR	havana.haywood.edu
-NXDOMAIN	earlycollege.haywood.edu
-NOERROR	falink-prod.cloud.haywood.edu
-NOERROR	hal.haywood.edu
-NXDOMAIN	uiwebtest.haywood.edu
-NXDOMAIN	mailcas0.haywood.edu
-NXDOMAIN	viewproxy0.haywood.edu
-NXDOMAIN	webapps4.haywood.edu
-NOERROR	pg-prod.cloud.haywood.edu
-NXDOMAIN	view1.haywood.edu
-NXDOMAIN	www-test.haywood.edu
-NOERROR	support.haywood.edu
-NXDOMAIN	webapps2.haywood.edu
-NXDOMAIN	adfs3.haywood.edu
-NXDOMAIN	endeavour.haywood.edu
-NXDOMAIN	foundation.haywood.edu
-NOERROR	webadv-prod.cloud.haywood.edu
-NOERROR	smail.haywood.edu
-NXDOMAIN	sp16fe1.haywood.edu
-NOERROR	adfs.haywood.edu
-NXDOMAIN	www.moodle.haywood.edu
-NXDOMAIN	catalog-test.haywood.edu
-NOERROR	pg-production.haywood.edu
-NXDOMAIN	wyse.haywood.edu
-NXDOMAIN	hcc.haywood.edu
-NOERROR	assetbank.haywood.edu
-NXDOMAIN	informer.cloud.haywood.edu
-NXDOMAIN	bbr.haywood.edu
-NXDOMAIN	logointernal.haywood.edu
-NXDOMAIN	viewproxy2.haywood.edu
-NXDOMAIN	view5.haywood.edu
-NXDOMAIN	endurance.haywood.edu
-NXDOMAIN	events.haywood.edu
-NOERROR	weather.haywood.edu
-NOERROR	identity.haywood.edu
-NXDOMAIN	wap1.haywood.edu
-NOERROR	www-assets.haywood.edu
-NOERROR	chat2.haywood.edu
-NXDOMAIN	profcrafts.haywood.edu
-NOERROR	moodle2.haywood.edu
-NXDOMAIN	wap3.haywood.edu
-NXDOMAIN	newdestiny.haywood.edu
-NXDOMAIN	jobsearch.haywood.edu
-NOERROR	piwik.haywood.edu
-NOERROR	survey.haywood.edu
-NXDOMAIN	mailcas1.haywood.edu
-NXDOMAIN	view0.haywood.edu
-NXDOMAIN	webapi2-prod.cloud.haywood.edu
-NXDOMAIN	www.equinox.haywood.edu
-NXDOMAIN	archon.haywood.edu
-NOERROR	sip.haywood.edu
-NXDOMAIN	catalog.haywood.edu
-NXDOMAIN	extdns1.cloud.haywood.edu
-NXDOMAIN	halinternal.haywood.edu
-NXDOMAIN	webapi-test.cloud.haywood.edu
-NXDOMAIN	phpmyadmin.haywood.edu
-NOERROR	etrans-test.cloud.haywood.edu
-NXDOMAIN	onedrive.haywood.edu
-NXDOMAIN	odessey.haywood.edu
-NOERROR	chat.haywood.edu
-NXDOMAIN	horizon.haywood.edu
-NXDOMAIN	www.sbc.haywood.edu
-NXDOMAIN	agamemnon.haywood.edu
-NXDOMAIN	busent.haywood.edu
-NOERROR	ss-test.cloud.haywood.edu
-NOERROR	haywired.haywood.edu
-NOERROR	autodiscover.haywood.edu
-NXDOMAIN	ns1.haywood.edu
+equinox.haywood.edu
+etrans-prod.cloud.haywood.edu
+webmail.haywood.edu
+selfservice.haywood.edu
+stargazer.haywood.edu
+passwordreset.haywood.edu
+catalog-dev.haywood.edu
+pg-test.cloud.haywood.edu
+selfservicetest.haywood.edu
+lync.haywood.edu
+quirinal.haywood.edu
+creativearts.haywood.edu
+tmg2.haywood.edu
+info.haywood.edu
+defiant.haywood.edu
+informer.haywood.edu
+yeager.haywood.edu
+moodle.haywood.edu
+nelnet.haywood.edu
+teamsites.haywood.edu
+tmg.haywood.edu
+ss-prod.cloud.haywood.edu
+wlan-controller.haywood.edu
+www.365.haywood.edu
+www.haywood.edu
+dialin.haywood.edu
+mailtransport.haywood.edu
+view.haywood.edu
+selfserviceproduction.haywood.edu
+jobs.haywood.edu
+arnold.haywood.edu
+pg-test.haywood.edu
+search.haywood.edu
+mysites.haywood.edu
+webapi-d1-test.cloud.haywood.edu
+potemkin.haywood.edu
+sbc.haywood.edu
+webapi-d1-test.haywood.edu
+haywood.edu
+old.haywood.edu
+logo.haywood.edu
+woz.haywood.edu
+webapps.haywood.edu
+login.haywood.edu
+classclimate.haywood.edu
+webadvisor.haywood.edu
+odyssey.haywood.edu
+aviso.haywood.edu
+webadv-test.cloud.haywood.edu
+copernicus.haywood.edu
+www-dev.haywood.edu
+meet.haywood.edu
+lyncdiscover.haywood.edu
+books.haywood.edu
+crazyhorse.haywood.edu
+hccms.haywood.edu
+havana.haywood.edu
+falink-prod.cloud.haywood.edu
+hal.haywood.edu
+pg-prod.cloud.haywood.edu
+support.haywood.edu
+webadv-prod.cloud.haywood.edu
+smail.haywood.edu
+adfs.haywood.edu
+pg-production.haywood.edu
+assetbank.haywood.edu
+weather.haywood.edu
+identity.haywood.edu
+www-assets.haywood.edu
+chat2.haywood.edu
+moodle2.haywood.edu
+piwik.haywood.edu
+survey.haywood.edu
+sip.haywood.edu
+etrans-test.cloud.haywood.edu
+chat.haywood.edu
+ss-test.cloud.haywood.edu
+haywired.haywood.edu
+autodiscover.haywood.edu

@@ -1,108 +1,66 @@
-NOERROR	csee.handong.edu
-NOERROR	internship.handong.edu
-NOERROR	gsc.handong.edu
-NXDOMAIN	weup.handong.edu
-NXDOMAIN	gei.handong.edu
-NXDOMAIN	linc.handong.edu
-NXDOMAIN	prime.handong.edu
-NXDOMAIN	sese.handong.edu
-NXDOMAIN	hedc.handong.edu
-NXDOMAIN	elearning.handong.edu
-NOERROR	iacf.handong.edu
-NOERROR	yeartax.handong.edu
-NXDOMAIN	seal.handong.edu
-NOERROR	church.handong.edu
-NOERROR	bcilab.handong.edu
-NOERROR	app.handong.edu
-NXDOMAIN	webmail.handong.edu
-NOERROR	job.handong.edu
-NOERROR	recruit.handong.edu
-NXDOMAIN	www.weup.handong.edu
-NOERROR	admissions.handong.edu
-NXDOMAIN	mail.handong.edu
-NXDOMAIN	bada.handong.edu
-NXDOMAIN	mce.handong.edu
-NOERROR	sugang.handong.edu
-NOERROR	hducc.handong.edu
-NXDOMAIN	i-alumni.handong.edu
-NXDOMAIN	alumni.handong.edu
-NOERROR	attendance.handong.edu
-NOERROR	hicee.handong.edu
-NXDOMAIN	bmnuri.handong.edu
-NOERROR	hisnet.handong.edu
-NOERROR	milab.handong.edu
-NXDOMAIN	his.handong.edu
-NOERROR	bk21het.handong.edu
-NOERROR	mcnl.handong.edu
-NOERROR	arise.handong.edu
-NOERROR	salt.handong.edu
-NXDOMAIN	www.unitwin.handong.edu
-NOERROR	deeplearning.handong.edu
-NOERROR	media.handong.edu
-NOERROR	ps.handong.edu
-NXDOMAIN	www.hised.handong.edu
-NXDOMAIN	ihils.handong.edu
-NOERROR	cafe.church.handong.edu
-NOERROR	light.handong.edu
-NOERROR	api.handong.edu
-NOERROR	unitwin.handong.edu
-NXDOMAIN	old.handong.edu
-NXDOMAIN	unai.handong.edu
-NOERROR	lms.handong.edu
-NOERROR	isel.handong.edu
-NOERROR	lawlibrary.handong.edu
-NOERROR	demo.handong.edu
-NOERROR	senate.handong.edu
-NOERROR	smart.handong.edu
-NXDOMAIN	igrad.handong.edu
-NOERROR	rule.handong.edu
-NOERROR	academia.handong.edu
-NOERROR	library.handong.edu
-NXDOMAIN	www.csee.handong.edu
-NOERROR	rc.handong.edu
-NOERROR	hic.handong.edu
-NXDOMAIN	teachforkorea.handong.edu
-NXDOMAIN	igo.handong.edu
-NXDOMAIN	ghost.handong.edu
-NOERROR	cms.handong.edu
-NXDOMAIN	iglobal.handong.edu
-NOERROR	arklab.handong.edu
-NOERROR	handong.edu
-NXDOMAIN	www.stu.handong.edu
-NXDOMAIN	ace.handong.edu
-NOERROR	support.handong.edu
-NXDOMAIN	i7.handong.edu
-NXDOMAIN	www2.handong.edu
-NOERROR	hised.handong.edu
-NOERROR	m.church.handong.edu
-NOERROR	unitwin-lms.handong.edu
-NXDOMAIN	yeshua.handong.edu
-NOERROR	stu.handong.edu
-NXDOMAIN	www.academia.handong.edu
-NXDOMAIN	ibook.handong.edu
-NOERROR	gsit.handong.edu
-NOERROR	hisnet1.handong.edu
-NOERROR	lawschool.handong.edu
-NOERROR	mt.handong.edu
-NOERROR	www.handong.edu
-NXDOMAIN	i3.handong.edu
-NXDOMAIN	bizcoop.handong.edu
-NOERROR	ige.handong.edu
-NXDOMAIN	abeek.handong.edu
-NXDOMAIN	ocw.handong.edu
-NXDOMAIN	devnet.handong.edu
-NOERROR	writing.handong.edu
-NOERROR	pro.handong.edu
-NOERROR	openapi.handong.edu
-NXDOMAIN	siloam.handong.edu
-NOERROR	sirl.handong.edu
-NOERROR	itaxi.handong.edu
-NOERROR	camp.handong.edu
-NOERROR	histudy.handong.edu
-NOERROR	lincplus.handong.edu
-NOERROR	ictlms.handong.edu
-NOERROR	bi.handong.edu
-NOERROR	sarang.handong.edu
-NOERROR	scampus.handong.edu
-NOERROR	ip.handong.edu
-NXDOMAIN	esri.handong.edu
+csee.handong.edu
+internship.handong.edu
+gsc.handong.edu
+iacf.handong.edu
+yeartax.handong.edu
+church.handong.edu
+bcilab.handong.edu
+app.handong.edu
+job.handong.edu
+recruit.handong.edu
+admissions.handong.edu
+sugang.handong.edu
+hducc.handong.edu
+attendance.handong.edu
+hicee.handong.edu
+hisnet.handong.edu
+milab.handong.edu
+bk21het.handong.edu
+mcnl.handong.edu
+arise.handong.edu
+salt.handong.edu
+deeplearning.handong.edu
+media.handong.edu
+ps.handong.edu
+cafe.church.handong.edu
+light.handong.edu
+api.handong.edu
+unitwin.handong.edu
+lms.handong.edu
+isel.handong.edu
+lawlibrary.handong.edu
+demo.handong.edu
+senate.handong.edu
+smart.handong.edu
+rule.handong.edu
+academia.handong.edu
+library.handong.edu
+rc.handong.edu
+hic.handong.edu
+cms.handong.edu
+arklab.handong.edu
+handong.edu
+support.handong.edu
+hised.handong.edu
+m.church.handong.edu
+unitwin-lms.handong.edu
+stu.handong.edu
+gsit.handong.edu
+hisnet1.handong.edu
+lawschool.handong.edu
+mt.handong.edu
+www.handong.edu
+ige.handong.edu
+writing.handong.edu
+pro.handong.edu
+openapi.handong.edu
+sirl.handong.edu
+itaxi.handong.edu
+camp.handong.edu
+histudy.handong.edu
+lincplus.handong.edu
+ictlms.handong.edu
+bi.handong.edu
+sarang.handong.edu
+scampus.handong.edu
+ip.handong.edu

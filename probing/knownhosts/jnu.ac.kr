@@ -1,673 +1,513 @@
-NOERROR	health.jnu.ac.kr
-NOERROR	bidb.jnu.ac.kr
-NOERROR	lps3.sdfestaticassets-eu-west-1.sciencedirectassets.com.libproxy.jnu.ac.kr
-NOERROR	mse.jnu.ac.kr
-NOERROR	hisedu.jnu.ac.kr
-NOERROR	lps3.publish.acs.org.libproxy.jnu.ac.kr
-NXDOMAIN	www.climate.jnu.ac.kr
-NOERROR	humanecology.jnu.ac.kr
-NOERROR	ocs.jnu.ac.kr
-NXDOMAIN	www.mathedu.jnu.ac.kr
-NOERROR	dev2www.jnu.ac.kr
-NOERROR	cs.jnu.ac.kr
-NXDOMAIN	earth.jnu.ac.kr
-NOERROR	medlib.jnu.ac.kr
-NOERROR	jnurad1.jnu.ac.kr
-NOERROR	president20th.jnu.ac.kr
-NOERROR	sp1.jnu.ac.kr
-NOERROR	www.jnu.ac.kr
-NOERROR	hci.jnu.ac.kr
-NOERROR	global.jnu.ac.kr
-NXDOMAIN	appmath.jnu.ac.kr
-NOERROR	devportal.jnu.ac.kr
-NOERROR	eaiu.jnu.ac.kr
-NOERROR	chemeng.jnu.ac.kr
-NXDOMAIN	ccs.jnu.ac.kr
-NOERROR	elec.jnu.ac.kr
-NOERROR	home.jnu.ac.kr
-NOERROR	fund.jnu.ac.kr
-NXDOMAIN	ffrc.jnu.ac.kr
-NXDOMAIN	www.manual.jnu.ac.kr
-NOERROR	language.jnu.ac.kr
-NOERROR	ailab6.jnu.ac.kr
-NXDOMAIN	mars.jnu.ac.kr
-NOERROR	english.jnu.ac.kr
-NXDOMAIN	cimac.jnu.ac.kr
-NOERROR	devjang.jnu.ac.kr
-NXDOMAIN	cmb.jnu.ac.kr
-NOERROR	homeedu.jnu.ac.kr
-NOERROR	pharmacy.jnu.ac.kr
-NOERROR	agribio.jnu.ac.kr
-NOERROR	comm.jnu.ac.kr
-NOERROR	sdt.jnu.ac.kr
-NOERROR	lps3.pubs.rsc.org.libproxy.jnu.ac.kr
-NOERROR	asia.jnu.ac.kr
-NOERROR	koredu.jnu.ac.kr
-NOERROR	capdweb1.jnu.ac.kr
-NOERROR	iis-lab.jnu.ac.kr
-NOERROR	arte.jnu.ac.kr
-NOERROR	iecc.jnu.ac.kr
-NOERROR	german.jnu.ac.kr
-NXDOMAIN	free21.jnu.ac.kr
-NXDOMAIN	bkbioerg.jnu.ac.kr
-NOERROR	devhope.jnu.ac.kr
-NOERROR	chonnam-am.jnu.ac.kr
-NOERROR	mathedu.jnu.ac.kr
-NOERROR	devbi.jnu.ac.kr
-NXDOMAIN	ricewine.jnu.ac.kr
-NOERROR	eslab.jnu.ac.kr
-NOERROR	afntl.jnu.ac.kr
-NOERROR	msafety.jnu.ac.kr
-NOERROR	cvg.jnu.ac.kr
-NOERROR	janghak.jnu.ac.kr
-NOERROR	clothing.jnu.ac.kr
-NOERROR	ailab1.jnu.ac.kr
-NOERROR	devkabon.jnu.ac.kr
-NOERROR	epms.jnu.ac.kr
-NOERROR	lps3.link.springer.com.libproxy.jnu.ac.kr
-NXDOMAIN	icer.jnu.ac.kr
-NXDOMAIN	transph.jnu.ac.kr
-NOERROR	adn.jnu.ac.kr
-NXDOMAIN	gcct.jnu.ac.kr
-NXDOMAIN	infovet.jnu.ac.kr
-NOERROR	climate.jnu.ac.kr
-NXDOMAIN	ailab.jnu.ac.kr
-NXDOMAIN	bigmail.jnu.ac.kr
-NOERROR	capdweb2.jnu.ac.kr
-NOERROR	eng.jnu.ac.kr
-NOERROR	kunsan.jnu.ac.kr
-NOERROR	archnd.jnu.ac.kr
-NOERROR	nsv61.jnu.ac.kr
-NOERROR	today.jnu.ac.kr
-NOERROR	stat.jnu.ac.kr
-NOERROR	biot.jnu.ac.kr
-NOERROR	oldmydisk.jnu.ac.kr
-NOERROR	eec.jnu.ac.kr
-NOERROR	oceaneng.jnu.ac.kr
-NOERROR	lecture.jnu.ac.kr
-NXDOMAIN	bkdent.jnu.ac.kr
-NOERROR	autodiscover.jnu.ac.kr
-NOERROR	me.jnu.ac.kr
-NOERROR	zeus.jnu.ac.kr
-NOERROR	carbon.jnu.ac.kr
-NOERROR	www.dbpia.co.kr.libproxy.jnu.ac.kr
-NOERROR	website.jnu.ac.kr
-NOERROR	smmc.jnu.ac.kr
-NOERROR	pf.jnu.ac.kr
-NOERROR	ifva.jnu.ac.kr
-NOERROR	ae.jnu.ac.kr
-NOERROR	history.jnu.ac.kr
-NOERROR	idisk.jnu.ac.kr
-NOERROR	mems.jnu.ac.kr
-NXDOMAIN	www.bte.jnu.ac.kr
-NOERROR	hsdorm.jnu.ac.kr
-NOERROR	physicsedu.jnu.ac.kr
-NOERROR	bioedu.jnu.ac.kr
-NOERROR	biomedicine.jnu.ac.kr
-NXDOMAIN	www.abeek.jnu.ac.kr
-NXDOMAIN	jupiter.jnu.ac.kr
-NOERROR	eds.b.ebscohost.com.libproxy.jnu.ac.kr
-NXDOMAIN	math2.jnu.ac.kr
-NOERROR	c4u.jnu.ac.kr
-NXDOMAIN	mcsuh.jnu.ac.kr
-NOERROR	mathan.jnu.ac.kr
-NXDOMAIN	hcis.jnu.ac.kr
-NXDOMAIN	cnupoll.jnu.ac.kr
-NXDOMAIN	calab.jnu.ac.kr
-NXDOMAIN	bkocean.jnu.ac.kr
-NXDOMAIN	job.jnu.ac.kr
-NOERROR	blog.jnu.ac.kr
-NXDOMAIN	dojawi.jnu.ac.kr
-NOERROR	ocrc.jnu.ac.kr
-NOERROR	sip.jnu.ac.kr
-NOERROR	lian.jnu.ac.kr
-NOERROR	oce.jnu.ac.kr
-NOERROR	jobs.jnu.ac.kr
-NOERROR	yosulib.jnu.ac.kr
-NXDOMAIN	jlib.jnu.ac.kr
-NOERROR	freedom.jnu.ac.kr
-NOERROR	ebook.jnu.ac.kr
-NXDOMAIN	www.medicine.jnu.ac.kr
-NOERROR	hookr.jnu.ac.kr
-NXDOMAIN	press.jnu.ac.kr
-NXDOMAIN	ocrtc.jnu.ac.kr
-NXDOMAIN	borami.jnu.ac.kr.jnu.ac.kr
-NOERROR	altair.jnu.ac.kr
-NOERROR	lec.jnu.ac.kr
-NOERROR	natural.jnu.ac.kr
-NXDOMAIN	fishhospital.jnu.ac.kr
-NOERROR	capd.jnu.ac.kr
-NXDOMAIN	che.jnu.ac.kr
-NOERROR	email.jnu.ac.kr
-NXDOMAIN	acpr.jnu.ac.kr
-NXDOMAIN	mercury.jnu.ac.kr
-NOERROR	sugang.jnu.ac.kr
-NXDOMAIN	news.jnu.ac.kr
-NXDOMAIN	download.cwa.jnu.ac.kr
-NXDOMAIN	kisa.jnu.ac.kr
-NOERROR	ailab2.jnu.ac.kr
-NOERROR	cultupropt.jnu.ac.kr
-NOERROR	archis.jnu.ac.kr
-NOERROR	jnufsi.jnu.ac.kr
-NOERROR	fed1.jnu.ac.kr
-NOERROR	wwweb1.jnu.ac.kr
-NOERROR	lps3.www.sciencedirect.com.libproxy.jnu.ac.kr
-NXDOMAIN	iis.jnu.ac.kr
-NOERROR	french.jnu.ac.kr
-NOERROR	bmeng.jnu.ac.kr
-NOERROR	www.excavation.co.kr.libproxy.jnu.ac.kr
-NOERROR	mudol.jnu.ac.kr
-NOERROR	60th.jnu.ac.kr
-NOERROR	dev2global.jnu.ac.kr
-NOERROR	aoi.jnu.ac.kr
-NXDOMAIN	gsis.jnu.ac.kr
-NOERROR	mechauto.jnu.ac.kr
-NOERROR	rechinfo.jnu.ac.kr
-NXDOMAIN	yosulibchair.jnu.ac.kr
-NXDOMAIN	enter.jnu.ac.kr
-NOERROR	irlab.jnu.ac.kr
-NOERROR	devhak.jnu.ac.kr
-NXDOMAIN	electric.jnu.ac.kr
-NXDOMAIN	ocae.jnu.ac.kr
-NXDOMAIN	byte.jnu.ac.kr
-NOERROR	search.jnu.ac.kr
-NOERROR	bme.jnu.ac.kr
-NXDOMAIN	comban.jnu.ac.kr
-NOERROR	admyounsu.jnu.ac.kr
-NOERROR	cyberchips.jnu.ac.kr
-NOERROR	webgs.jnu.ac.kr
-NOERROR	sclab.jnu.ac.kr
-NOERROR	haksc.jnu.ac.kr
-NOERROR	ompol.jnu.ac.kr
-NOERROR	micro.jnu.ac.kr
-NXDOMAIN	aa.jnu.ac.kr
-NXDOMAIN	nabitech.jnu.ac.kr
-NOERROR	math.jnu.ac.kr
-NOERROR	dogt.jnu.ac.kr
-NOERROR	human.jnu.ac.kr
-NOERROR	research.jnu.ac.kr
-NOERROR	china99.jnu.ac.kr
-NOERROR	safety.jnu.ac.kr
-NOERROR	police.jnu.ac.kr
-NOERROR	web.a.ebscohost.com.libproxy.jnu.ac.kr
-NOERROR	algaeblast.jnu.ac.kr
-NXDOMAIN	www.db.jnu.ac.kr
-NOERROR	yarchi.jnu.ac.kr
-NOERROR	netfunnel.jnu.ac.kr
-NOERROR	refri06.jnu.ac.kr
-NOERROR	koreanmusic.jnu.ac.kr
-NOERROR	emdlab.jnu.ac.kr
-NXDOMAIN	www.chemedu.jnu.ac.kr
-NXDOMAIN	chemtec.jnu.ac.kr
-NOERROR	ec.jnu.ac.kr
-NOERROR	jnupa.jnu.ac.kr
-NOERROR	eculture.jnu.ac.kr
-NOERROR	ocean89.jnu.ac.kr
-NOERROR	medicine.jnu.ac.kr
-NOERROR	live.jnu.ac.kr
-NOERROR	cnuvmth.jnu.ac.kr
-NXDOMAIN	ysclass.jnu.ac.kr
-NOERROR	forestry.jnu.ac.kr
-NOERROR	hope.jnu.ac.kr
-NOERROR	manual.jnu.ac.kr
-NXDOMAIN	fishvac.jnu.ac.kr
-NXDOMAIN	agedu.jnu.ac.kr
-NOERROR	flower.jnu.ac.kr
-NOERROR	wwweb2.jnu.ac.kr
-NOERROR	devtest.jnu.ac.kr
-NOERROR	gsit.jnu.ac.kr
-NXDOMAIN	cep.jnu.ac.kr
-NXDOMAIN	syslab.jnu.ac.kr
-NOERROR	518trail.jnu.ac.kr
-NOERROR	kms.jnu.ac.kr
-NXDOMAIN	nssoweb2.jnu.ac.kr
-NXDOMAIN	dblab.jnu.ac.kr
-NXDOMAIN	ebric.jnu.ac.kr
-NOERROR	svcmon.jnu.ac.kr
-NOERROR	lps3.www.earticle.net.libproxy.jnu.ac.kr
-NOERROR	nsv62.jnu.ac.kr
-NOERROR	mealumni.jnu.ac.kr
-NOERROR	hak.jnu.ac.kr
-NOERROR	ncml.jnu.ac.kr
-NOERROR	sociology.jnu.ac.kr
-NXDOMAIN	lcs.jnu.ac.kr
-NOERROR	lps3.science.sciencemag.org.libproxy.jnu.ac.kr
-NOERROR	ckenergy.jnu.ac.kr
-NOERROR	openstack.jnu.ac.kr
-NXDOMAIN	emrep.jnu.ac.kr
-NOERROR	athena.jnu.ac.kr
-NOERROR	swlab.jnu.ac.kr
-NOERROR	pimm.jnu.ac.kr
-NXDOMAIN	extrtc.jnu.ac.kr
-NOERROR	ovidsp.tx.ovid.com.libproxy.jnu.ac.kr
-NOERROR	bergman.jnu.ac.kr
-NXDOMAIN	eucenter.jnu.ac.kr
-NOERROR	ssrc.jnu.ac.kr
-NOERROR	apps.jnu.ac.kr
-NOERROR	mast.jnu.ac.kr
-NOERROR	healthcare.jnu.ac.kr
-NOERROR	sbst.jnu.ac.kr
-NOERROR	engedu.jnu.ac.kr
-NOERROR	sel.jnu.ac.kr
-NXDOMAIN	ece.jnu.ac.kr
-NOERROR	phillian.jnu.ac.kr
-NOERROR	hangj.jnu.ac.kr
-NXDOMAIN	auth.jnu.ac.kr
-NOERROR	graduate.jnu.ac.kr
-NOERROR	portalbeta.jnu.ac.kr
-NOERROR	it.jnu.ac.kr
-NOERROR	miso.jnu.ac.kr
-NOERROR	agro.jnu.ac.kr
-NOERROR	crams.jnu.ac.kr
-NXDOMAIN	exum.jnu.ac.kr
-NOERROR	arsam.jnu.ac.kr
-NOERROR	chemedu.jnu.ac.kr
-NOERROR	chonnam.jnu.ac.kr
-NXDOMAIN	comart.jnu.ac.kr
-NXDOMAIN	radius-1.jnu.ac.kr
-NOERROR	sarc.jnu.ac.kr
-NOERROR	lps3.pubs.acs.org.libproxy.jnu.ac.kr
-NOERROR	counsel.jnu.ac.kr
-NOERROR	trade.jnu.ac.kr
-NOERROR	vetmed.jnu.ac.kr
-NOERROR	korean.jnu.ac.kr
-NOERROR	ailab4.jnu.ac.kr
-NOERROR	borami.jnu.ac.kr
-NOERROR	admission.jnu.ac.kr
-NXDOMAIN	crm.jnu.ac.kr
-NOERROR	olducc.jnu.ac.kr
-NOERROR	imail.jnu.ac.kr
-NOERROR	educloud.jnu.ac.kr
-NXDOMAIN	www.fppl.jnu.ac.kr
-NOERROR	ucc.jnu.ac.kr
-NXDOMAIN	dthong.jnu.ac.kr
-NXDOMAIN	gem.jnu.ac.kr
-NOERROR	nmel.jnu.ac.kr
-NOERROR	api.jnu.ac.kr
-NOERROR	eco.jnu.ac.kr
-NOERROR	kiss.kstudy.com.libproxy.jnu.ac.kr
-NXDOMAIN	www.dentallib.jnu.ac.kr
-NOERROR	lps3.linkinghub.elsevier.com.libproxy.jnu.ac.kr
-NOERROR	geo.jnu.ac.kr
-NOERROR	cnuexam.jnu.ac.kr
-NXDOMAIN	fine.jnu.ac.kr
-NOERROR	selweb3.jnu.ac.kr
-NOERROR	bbnms.jnu.ac.kr
-NOERROR	stat2.jnu.ac.kr
-NOERROR	cne.jnu.ac.kr
-NOERROR	society.jnu.ac.kr
-NOERROR	meric.jnu.ac.kr
-NOERROR	iclab.jnu.ac.kr
-NOERROR	mdm.jnu.ac.kr
-NOERROR	environ.jnu.ac.kr
-NOERROR	ell.jnu.ac.kr
-NOERROR	www.ndsl.kr.libproxy.jnu.ac.kr
-NXDOMAIN	ecobk21.jnu.ac.kr
-NOERROR	devwww.jnu.ac.kr
-NOERROR	illyu.jnu.ac.kr
-NXDOMAIN	www.engedu.jnu.ac.kr
-NOERROR	icee.jnu.ac.kr
-NXDOMAIN	www.zeus.jnu.ac.kr
-NXDOMAIN	cnuirc.jnu.ac.kr
-NOERROR	selweb2.jnu.ac.kr
-NOERROR	help.jnu.ac.kr
-NXDOMAIN	iop.jnu.ac.kr
-NXDOMAIN	hrit.jnu.ac.kr
-NOERROR	bysoh.jnu.ac.kr
-NOERROR	gec.jnu.ac.kr
-NOERROR	agric.jnu.ac.kr
-NOERROR	aqua.jnu.ac.kr
-NOERROR	cnutoday.jnu.ac.kr
-NOERROR	selweb1.jnu.ac.kr
-NOERROR	iwrcv2020.jnu.ac.kr
-NOERROR	engineer.jnu.ac.kr
-NOERROR	pr.jnu.ac.kr
-NOERROR	pvsolar.jnu.ac.kr
-NOERROR	lms-stream.jnu.ac.kr
-NOERROR	hublounge.jnu.ac.kr
-NOERROR	sera.jnu.ac.kr
-NOERROR	hep.jnu.ac.kr
-NOERROR	myweb.jnu.ac.kr
-NOERROR	armi.jnu.ac.kr
-NOERROR	homeweb4.jnu.ac.kr
-NXDOMAIN	ai-lab.jnu.ac.kr
-NOERROR	sunwoo.jnu.ac.kr
-NOERROR	wellbeing.jnu.ac.kr
-NOERROR	law.jnu.ac.kr
-NXDOMAIN	elecbk21.jnu.ac.kr
-NOERROR	biology.jnu.ac.kr
-NOERROR	ailab7.jnu.ac.kr
-NXDOMAIN	ridd.jnu.ac.kr
-NOERROR	biotech.jnu.ac.kr
-NOERROR	pslab.jnu.ac.kr
-NOERROR	new-portal.jnu.ac.kr
-NOERROR	aicri.jnu.ac.kr
-NOERROR	rule.jnu.ac.kr
-NOERROR	ymcri.jnu.ac.kr
-NOERROR	mydisk.jnu.ac.kr
-NOERROR	nihon.jnu.ac.kr
-NOERROR	homeweb1.jnu.ac.kr
-NOERROR	is119.jnu.ac.kr
-NOERROR	gradsea.jnu.ac.kr
-NOERROR	music.jnu.ac.kr
-NXDOMAIN	boltzmann.jnu.ac.kr
-NXDOMAIN	ciscom.jnu.ac.kr
-NOERROR	hive.jnu.ac.kr
-NOERROR	cyber.jnu.ac.kr
-NXDOMAIN	bk21biz.jnu.ac.kr
-NXDOMAIN	license.jnu.ac.kr
-NOERROR	jnuvpn.jnu.ac.kr
-NOERROR	pnct.jnu.ac.kr
-NOERROR	ieccu.jnu.ac.kr
-NOERROR	eds.a.ebscohost.com.libproxy.jnu.ac.kr
-NOERROR	fishpath.jnu.ac.kr
-NXDOMAIN	www.icee.jnu.ac.kr
-NXDOMAIN	newssoweb1.jnu.ac.kr
-NXDOMAIN	cnulang.jnu.ac.kr
-NXDOMAIN	love.jnu.ac.kr
-NOERROR	lms-trans.jnu.ac.kr
-NOERROR	sleonline.jnu.ac.kr
-NOERROR	startup.jnu.ac.kr
-NOERROR	ethics.jnu.ac.kr
-NOERROR	apps.webofknowledge.com.libproxy.jnu.ac.kr
-NOERROR	irb.jnu.ac.kr
-NXDOMAIN	ecrc.jnu.ac.kr
-NOERROR	dx.doi.org.libproxy.jnu.ac.kr
-NXDOMAIN	ecropphy.jnu.ac.kr
-NOERROR	smartplant.jnu.ac.kr
-NXDOMAIN	bada.jnu.ac.kr
-NXDOMAIN	gifted.jnu.ac.kr
-NXDOMAIN	oldwebgs.jnu.ac.kr
-NOERROR	younsu.jnu.ac.kr
-NXDOMAIN	larc.jnu.ac.kr
-NOERROR	web.b.ebscohost.com.libproxy.jnu.ac.kr
-NXDOMAIN	www.dsri.jnu.ac.kr
-NOERROR	ailabreg.jnu.ac.kr
-NOERROR	vpn.jnu.ac.kr
-NOERROR	portal-staging.jnu.ac.kr
-NOERROR	mba.jnu.ac.kr
-NOERROR	logistics.jnu.ac.kr
-NXDOMAIN	jaejon.jnu.ac.kr
-NXDOMAIN	jnuh062.jnu.ac.kr
-NOERROR	international.jnu.ac.kr
-NOERROR	marinefs.jnu.ac.kr
-NOERROR	lps3.www.acs.org.libproxy.jnu.ac.kr
-NOERROR	design.jnu.ac.kr
-NOERROR	dc.jnu.ac.kr
-NXDOMAIN	radius-2.jnu.ac.kr
-NOERROR	sea.jnu.ac.kr
-NOERROR	bioinfo308.jnu.ac.kr
-NOERROR	dormitory.jnu.ac.kr
-NOERROR	ch.jnu.ac.kr
-NOERROR	homeweb2.jnu.ac.kr
-NXDOMAIN	jwa.jnu.ac.kr
-NXDOMAIN	intersec.jnu.ac.kr
-NOERROR	itii.jnu.ac.kr
-NOERROR	bugo.jnu.ac.kr
-NOERROR	www.newnonmun.com.libproxy.jnu.ac.kr
-NOERROR	alumni.jnu.ac.kr
-NOERROR	devsp.jnu.ac.kr
-NXDOMAIN	cbaapp.jnu.ac.kr
-NOERROR	lps3.www.ncbi.nlm.nih.gov.libproxy.jnu.ac.kr
-NOERROR	funlab.jnu.ac.kr
-NXDOMAIN	beom.jnu.ac.kr
-NOERROR	globalmba.jnu.ac.kr
-NOERROR	china.jnu.ac.kr
-NOERROR	life.jnu.ac.kr
-NOERROR	bioins.jnu.ac.kr
-NOERROR	math1.jnu.ac.kr
-NXDOMAIN	nssoweb1.jnu.ac.kr
-NOERROR	ailab5.jnu.ac.kr
-NOERROR	centerlibchair.jnu.ac.kr
-NOERROR	idps2.jnu.ac.kr
-NXDOMAIN	bioche.jnu.ac.kr
-NOERROR	ictauto.jnu.ac.kr
-NOERROR	libproxy.jnu.ac.kr
-NOERROR	marine.jnu.ac.kr
-NOERROR	mail.jnu.ac.kr
-NOERROR	link.jnu.ac.kr
-NOERROR	abeek.jnu.ac.kr
-NOERROR	rptbi.jnu.ac.kr
-NOERROR	president21.jnu.ac.kr
-NOERROR	chips.jnu.ac.kr
-NOERROR	lgsmart.jnu.ac.kr
-NOERROR	lps3.search.ebscohost.com.libproxy.jnu.ac.kr
-NOERROR	chris.jnu.ac.kr
-NOERROR	sisul.jnu.ac.kr
-NXDOMAIN	ark.jnu.ac.kr
-NXDOMAIN	bkct.jnu.ac.kr
-NXDOMAIN	www.bioedu.jnu.ac.kr
-NXDOMAIN	db.jnu.ac.kr
-NOERROR	president39th.jnu.ac.kr
-NXDOMAIN	bekoc.jnu.ac.kr
-NOERROR	jcrf.jnu.ac.kr
-NOERROR	1545031307.jnu._domainkey.mailer.jnu.ac.kr
-NOERROR	kidshome.jnu.ac.kr
-NOERROR	webhost.jnu.ac.kr
-NOERROR	selab.jnu.ac.kr
-NOERROR	ein.jnu.ac.kr
-NOERROR	mlib.jnu.ac.kr
-NOERROR	biz.jnu.ac.kr
-NOERROR	coop.jnu.ac.kr
-NOERROR	lawschool.jnu.ac.kr
-NOERROR	newdevm.jnu.ac.kr
-NXDOMAIN	occwa1.jnu.ac.kr
-NOERROR	mportal4.jnu.ac.kr
-NOERROR	homeapp.jnu.ac.kr
-NOERROR	spededu.jnu.ac.kr
-NOERROR	archi.jnu.ac.kr
-NOERROR	geoedu.jnu.ac.kr
-NOERROR	sw.jnu.ac.kr
-NOERROR	geology.jnu.ac.kr
-NOERROR	japan.jnu.ac.kr
-NOERROR	agrobio.jnu.ac.kr
-NOERROR	tree.jnu.ac.kr
-NXDOMAIN	grace.jnu.ac.kr
-NOERROR	dodream.jnu.ac.kr
-NOERROR	cur.jnu.ac.kr
-NOERROR	mailhub2.jnu.ac.kr
-NOERROR	ici.jnu.ac.kr
-NOERROR	lib.jnu.ac.kr
-NOERROR	devk2web.jnu.ac.kr
-NOERROR	cnuh.jnu.ac.kr
-NOERROR	selweb4.jnu.ac.kr
-NXDOMAIN	gphc.jnu.ac.kr
-NXDOMAIN	hc.jnu.ac.kr
-NXDOMAIN	vetbk21.jnu.ac.kr
-NOERROR	www.ncbi.nlm.nih.gov.libproxy.jnu.ac.kr
-NXDOMAIN	jnutest.jnu.ac.kr
-NOERROR	foodsci.jnu.ac.kr
-NOERROR	npdl.jnu.ac.kr
-NOERROR	psyche.jnu.ac.kr
-NOERROR	kosfic.jnu.ac.kr
-NOERROR	amath.jnu.ac.kr
-NOERROR	asat.jnu.ac.kr
-NOERROR	fn.jnu.ac.kr
-NOERROR	iuep.jnu.ac.kr
-NOERROR	cwes.jnu.ac.kr
-NOERROR	ntp.jnu.ac.kr
-NOERROR	apnms.jnu.ac.kr
-NOERROR	hort.jnu.ac.kr
-NXDOMAIN	www.ao.jnu.ac.kr
-NOERROR	jsh818.jnu.ac.kr
-NOERROR	educate.jnu.ac.kr
-NXDOMAIN	www.arsam.jnu.ac.kr
-NOERROR	iefa.jnu.ac.kr
-NOERROR	imgdb.jnu.ac.kr
-NOERROR	lps3.www.elsevier.com.libproxy.jnu.ac.kr
-NOERROR	cctl.jnu.ac.kr
-NOERROR	earthedu.jnu.ac.kr
-NOERROR	mailer.jnu.ac.kr
-NOERROR	csge.jnu.ac.kr
-NOERROR	biweb.jnu.ac.kr
-NOERROR	dnslab.jnu.ac.kr
-NXDOMAIN	www.gec.jnu.ac.kr
-NOERROR	mimb.jnu.ac.kr
-NOERROR	dfmitl.jnu.ac.kr
-NOERROR	dcollection.jnu.ac.kr
-NOERROR	ailab8.jnu.ac.kr
-NOERROR	women.jnu.ac.kr
-NOERROR	edutop.jnu.ac.kr
-NOERROR	engc.jnu.ac.kr
-NOERROR	linc.jnu.ac.kr
-NOERROR	sophia.jnu.ac.kr
-NOERROR	ao.jnu.ac.kr
-NOERROR	lsrc.jnu.ac.kr
-NOERROR	wood.jnu.ac.kr
-NOERROR	mdirc.jnu.ac.kr
-NOERROR	mech.jnu.ac.kr
-NOERROR	mokpo.jnu.ac.kr
-NOERROR	sunpower.jnu.ac.kr
-NOERROR	politics.jnu.ac.kr
-NOERROR	chem.jnu.ac.kr
-NOERROR	ameri.jnu.ac.kr
-NXDOMAIN	flove.jnu.ac.kr
-NOERROR	cloudweb.jnu.ac.kr
-NOERROR	cnu518.jnu.ac.kr
-NOERROR	itrl.jnu.ac.kr
-NOERROR	fmrc.jnu.ac.kr
-NOERROR	dsp.jnu.ac.kr
-NXDOMAIN	latam.jnu.ac.kr
-NXDOMAIN	ckpw.jnu.ac.kr
-NOERROR	hipsm.jnu.ac.kr
-NOERROR	smailer.jnu.ac.kr
-NOERROR	libguides.jnu.ac.kr
-NOERROR	animalscience.jnu.ac.kr
-NXDOMAIN	elecbk.jnu.ac.kr
-NXDOMAIN	engin.jnu.ac.kr
-NOERROR	list.jnu.ac.kr
-NXDOMAIN	happyeno.jnu.ac.kr
-NOERROR	dev2admission.jnu.ac.kr
-NOERROR	ce.jnu.ac.kr
-NOERROR	bioenergy.jnu.ac.kr
-NOERROR	ethicsedu.jnu.ac.kr
-NXDOMAIN	pros.jnu.ac.kr
-NXDOMAIN	gshin.jnu.ac.kr
-NXDOMAIN	jnuipu.jnu.ac.kr
-NOERROR	cge.jnu.ac.kr
-NOERROR	dsri.jnu.ac.kr
-NOERROR	ailab3.jnu.ac.kr
-NOERROR	210.101.116.16.libproxy.jnu.ac.kr
-NOERROR	jnu.ac.kr
-NOERROR	dent.jnu.ac.kr
-NOERROR	portal.jnu.ac.kr
-NOERROR	house.jnu.ac.kr
-NXDOMAIN	rcbd.jnu.ac.kr
-NOERROR	crdcnu.jnu.ac.kr
-NOERROR	lps3.scholar.google.co.kr.libproxy.jnu.ac.kr
-NOERROR	cnutour.jnu.ac.kr
-NOERROR	gplab.jnu.ac.kr
-NOERROR	nursing.jnu.ac.kr
-NXDOMAIN	hanuri.jnu.ac.kr
-NOERROR	kosficfile.jnu.ac.kr
-NOERROR	cnugspp.jnu.ac.kr
-NOERROR	sdis.jnu.ac.kr
-NOERROR	bte.jnu.ac.kr
-NXDOMAIN	cwa.jnu.ac.kr
-NOERROR	yosu.jnu.ac.kr
-NOERROR	smmclab.jnu.ac.kr
-NOERROR	ctl.jnu.ac.kr
-NOERROR	yculture.jnu.ac.kr
-NOERROR	ace.jnu.ac.kr
-NXDOMAIN	ocwe.jnu.ac.kr
-NOERROR	devportfolio.jnu.ac.kr
-NXDOMAIN	newpros.jnu.ac.kr
-NOERROR	ccd.jnu.ac.kr
-NOERROR	culture.jnu.ac.kr
-NOERROR	oceanography.jnu.ac.kr
-NOERROR	cnu100club.jnu.ac.kr
-NOERROR	ie.jnu.ac.kr
-NOERROR	dinorc.jnu.ac.kr
-NOERROR	lawlib.jnu.ac.kr
-NOERROR	lincplus.jnu.ac.kr
-NXDOMAIN	www.auth.jnu.ac.kr
-NOERROR	civil.jnu.ac.kr
-NOERROR	software.jnu.ac.kr
-NOERROR	welfare.jnu.ac.kr
-NOERROR	dentallib.jnu.ac.kr
-NOERROR	resources.jnu.ac.kr
-NOERROR	yosubi.jnu.ac.kr
-NOERROR	museum.jnu.ac.kr
-NOERROR	edupool.jnu.ac.kr
-NOERROR	image.jnu.ac.kr
-NOERROR	web.jnu.ac.kr
-NOERROR	eclass.jnu.ac.kr
-NOERROR	sle.jnu.ac.kr
-NOERROR	mportal3.jnu.ac.kr
-NOERROR	ct.jnu.ac.kr
-NOERROR	ee.jnu.ac.kr
-NOERROR	m.jnu.ac.kr
-NOERROR	searchmgr.jnu.ac.kr
-NOERROR	peel.jnu.ac.kr
-NOERROR	www.math.jnu.ac.kr
-NOERROR	soc.jnu.ac.kr
-NOERROR	gjtalk.jnu.ac.kr
-NOERROR	socsci.jnu.ac.kr
-NOERROR	fle.jnu.ac.kr
-NOERROR	physicaledu.jnu.ac.kr
-NOERROR	lps3.sso.acs.org.libproxy.jnu.ac.kr
-NOERROR	fineart.jnu.ac.kr
-NOERROR	periodont.jnu.ac.kr
-NXDOMAIN	mdclab.jnu.ac.kr
-NOERROR	lps3.onlinelibrary.wiley.com.libproxy.jnu.ac.kr
-NOERROR	pubs.acs.org.libproxy.jnu.ac.kr
-NOERROR	is.jnu.ac.kr
-NOERROR	rbe.jnu.ac.kr
-NOERROR	mailhub1.jnu.ac.kr
-NOERROR	sanhak.jnu.ac.kr
-NXDOMAIN	eurasia.jnu.ac.kr
-NXDOMAIN	cetl.jnu.ac.kr
-NOERROR	anis2med.jnu.ac.kr
-NOERROR	inter.jnu.ac.kr
-NOERROR	hrc.jnu.ac.kr
-NOERROR	sslvpn.jnu.ac.kr
-NOERROR	korcul.jnu.ac.kr
-NOERROR	ecedu.jnu.ac.kr
-NOERROR	ioh.jnu.ac.kr
-NOERROR	newssoweb2.jnu.ac.kr
-NOERROR	shiptc.jnu.ac.kr
-NOERROR	education.jnu.ac.kr
-NOERROR	kabon.jnu.ac.kr
-NOERROR	agrochem.jnu.ac.kr
-NXDOMAIN	hrcenter.jnu.ac.kr
-NXDOMAIN	cadcam.jnu.ac.kr
-NOERROR	idevel.jnu.ac.kr
-NOERROR	cad.jnu.ac.kr
-NXDOMAIN	www.eclass.jnu.ac.kr
-NOERROR	210.101.116.18.libproxy.jnu.ac.kr
-NOERROR	content.ebscohost.com.libproxy.jnu.ac.kr
-NXDOMAIN	mededu.jnu.ac.kr
-NOERROR	aia.jnu.ac.kr
-NXDOMAIN	diaspora.jnu.ac.kr
-NOERROR	itrc.jnu.ac.kr
-NOERROR	ccrf.jnu.ac.kr
-NXDOMAIN	jjss.jnu.ac.kr
-NOERROR	scholar.dkyobobook.co.kr.libproxy.jnu.ac.kr
-NOERROR	admgraduate.jnu.ac.kr
-NXDOMAIN	idec.jnu.ac.kr
-NXDOMAIN	cep03w.jnu.ac.kr
-NOERROR	hs.jnu.ac.kr
-NXDOMAIN	www.homeedu.jnu.ac.kr
-NOERROR	www.riss.kr.libproxy.jnu.ac.kr
-NXDOMAIN	we.jnu.ac.kr
-NXDOMAIN	hralab.jnu.ac.kr
-NOERROR	facecheck.jnu.ac.kr
-NOERROR	cba.jnu.ac.kr
-NOERROR	devbuild.jnu.ac.kr
-NOERROR	intcon.jnu.ac.kr
-NXDOMAIN	www.educate.jnu.ac.kr
-NXDOMAIN	bkcnums.jnu.ac.kr
-NOERROR	resolver.ebscohost.com.libproxy.jnu.ac.kr
-NOERROR	jnula.jnu.ac.kr
-NXDOMAIN	fppl.jnu.ac.kr
-NOERROR	sso.jnu.ac.kr
-NOERROR	library.jnu.ac.kr
-NOERROR	faculty.jnu.ac.kr
-NOERROR	philos.jnu.ac.kr
-NOERROR	pmgl.jnu.ac.kr
-NOERROR	ile.jnu.ac.kr
-NOERROR	leckor.jnu.ac.kr
-NXDOMAIN	as.cwa.jnu.ac.kr
-NOERROR	eee.jnu.ac.kr
-NOERROR	arts.jnu.ac.kr
-NXDOMAIN	stpcnu.jnu.ac.kr
+health.jnu.ac.kr
+bidb.jnu.ac.kr
+lps3.sdfestaticassets-eu-west-1.sciencedirectassets.com.libproxy.jnu.ac.kr
+mse.jnu.ac.kr
+hisedu.jnu.ac.kr
+lps3.publish.acs.org.libproxy.jnu.ac.kr
+humanecology.jnu.ac.kr
+ocs.jnu.ac.kr
+dev2www.jnu.ac.kr
+cs.jnu.ac.kr
+medlib.jnu.ac.kr
+jnurad1.jnu.ac.kr
+president20th.jnu.ac.kr
+sp1.jnu.ac.kr
+www.jnu.ac.kr
+hci.jnu.ac.kr
+global.jnu.ac.kr
+devportal.jnu.ac.kr
+eaiu.jnu.ac.kr
+chemeng.jnu.ac.kr
+elec.jnu.ac.kr
+home.jnu.ac.kr
+fund.jnu.ac.kr
+language.jnu.ac.kr
+ailab6.jnu.ac.kr
+english.jnu.ac.kr
+devjang.jnu.ac.kr
+homeedu.jnu.ac.kr
+pharmacy.jnu.ac.kr
+agribio.jnu.ac.kr
+comm.jnu.ac.kr
+sdt.jnu.ac.kr
+lps3.pubs.rsc.org.libproxy.jnu.ac.kr
+asia.jnu.ac.kr
+koredu.jnu.ac.kr
+capdweb1.jnu.ac.kr
+iis-lab.jnu.ac.kr
+arte.jnu.ac.kr
+iecc.jnu.ac.kr
+german.jnu.ac.kr
+devhope.jnu.ac.kr
+chonnam-am.jnu.ac.kr
+mathedu.jnu.ac.kr
+devbi.jnu.ac.kr
+eslab.jnu.ac.kr
+afntl.jnu.ac.kr
+msafety.jnu.ac.kr
+cvg.jnu.ac.kr
+janghak.jnu.ac.kr
+clothing.jnu.ac.kr
+ailab1.jnu.ac.kr
+devkabon.jnu.ac.kr
+epms.jnu.ac.kr
+lps3.link.springer.com.libproxy.jnu.ac.kr
+adn.jnu.ac.kr
+climate.jnu.ac.kr
+capdweb2.jnu.ac.kr
+eng.jnu.ac.kr
+kunsan.jnu.ac.kr
+archnd.jnu.ac.kr
+nsv61.jnu.ac.kr
+today.jnu.ac.kr
+stat.jnu.ac.kr
+biot.jnu.ac.kr
+oldmydisk.jnu.ac.kr
+eec.jnu.ac.kr
+oceaneng.jnu.ac.kr
+lecture.jnu.ac.kr
+autodiscover.jnu.ac.kr
+me.jnu.ac.kr
+zeus.jnu.ac.kr
+carbon.jnu.ac.kr
+www.dbpia.co.kr.libproxy.jnu.ac.kr
+website.jnu.ac.kr
+smmc.jnu.ac.kr
+pf.jnu.ac.kr
+ifva.jnu.ac.kr
+ae.jnu.ac.kr
+history.jnu.ac.kr
+idisk.jnu.ac.kr
+mems.jnu.ac.kr
+hsdorm.jnu.ac.kr
+physicsedu.jnu.ac.kr
+bioedu.jnu.ac.kr
+biomedicine.jnu.ac.kr
+eds.b.ebscohost.com.libproxy.jnu.ac.kr
+c4u.jnu.ac.kr
+mathan.jnu.ac.kr
+blog.jnu.ac.kr
+ocrc.jnu.ac.kr
+sip.jnu.ac.kr
+lian.jnu.ac.kr
+oce.jnu.ac.kr
+jobs.jnu.ac.kr
+yosulib.jnu.ac.kr
+freedom.jnu.ac.kr
+ebook.jnu.ac.kr
+hookr.jnu.ac.kr
+altair.jnu.ac.kr
+lec.jnu.ac.kr
+natural.jnu.ac.kr
+capd.jnu.ac.kr
+email.jnu.ac.kr
+sugang.jnu.ac.kr
+ailab2.jnu.ac.kr
+cultupropt.jnu.ac.kr
+archis.jnu.ac.kr
+jnufsi.jnu.ac.kr
+fed1.jnu.ac.kr
+wwweb1.jnu.ac.kr
+lps3.www.sciencedirect.com.libproxy.jnu.ac.kr
+french.jnu.ac.kr
+bmeng.jnu.ac.kr
+www.excavation.co.kr.libproxy.jnu.ac.kr
+mudol.jnu.ac.kr
+60th.jnu.ac.kr
+dev2global.jnu.ac.kr
+aoi.jnu.ac.kr
+mechauto.jnu.ac.kr
+rechinfo.jnu.ac.kr
+irlab.jnu.ac.kr
+devhak.jnu.ac.kr
+search.jnu.ac.kr
+bme.jnu.ac.kr
+admyounsu.jnu.ac.kr
+cyberchips.jnu.ac.kr
+webgs.jnu.ac.kr
+sclab.jnu.ac.kr
+haksc.jnu.ac.kr
+ompol.jnu.ac.kr
+micro.jnu.ac.kr
+math.jnu.ac.kr
+dogt.jnu.ac.kr
+human.jnu.ac.kr
+research.jnu.ac.kr
+china99.jnu.ac.kr
+safety.jnu.ac.kr
+police.jnu.ac.kr
+web.a.ebscohost.com.libproxy.jnu.ac.kr
+algaeblast.jnu.ac.kr
+yarchi.jnu.ac.kr
+netfunnel.jnu.ac.kr
+refri06.jnu.ac.kr
+koreanmusic.jnu.ac.kr
+emdlab.jnu.ac.kr
+ec.jnu.ac.kr
+jnupa.jnu.ac.kr
+eculture.jnu.ac.kr
+ocean89.jnu.ac.kr
+medicine.jnu.ac.kr
+live.jnu.ac.kr
+cnuvmth.jnu.ac.kr
+forestry.jnu.ac.kr
+hope.jnu.ac.kr
+manual.jnu.ac.kr
+flower.jnu.ac.kr
+wwweb2.jnu.ac.kr
+devtest.jnu.ac.kr
+gsit.jnu.ac.kr
+518trail.jnu.ac.kr
+kms.jnu.ac.kr
+svcmon.jnu.ac.kr
+lps3.www.earticle.net.libproxy.jnu.ac.kr
+nsv62.jnu.ac.kr
+mealumni.jnu.ac.kr
+hak.jnu.ac.kr
+ncml.jnu.ac.kr
+sociology.jnu.ac.kr
+lps3.science.sciencemag.org.libproxy.jnu.ac.kr
+ckenergy.jnu.ac.kr
+openstack.jnu.ac.kr
+athena.jnu.ac.kr
+swlab.jnu.ac.kr
+pimm.jnu.ac.kr
+ovidsp.tx.ovid.com.libproxy.jnu.ac.kr
+bergman.jnu.ac.kr
+ssrc.jnu.ac.kr
+apps.jnu.ac.kr
+mast.jnu.ac.kr
+healthcare.jnu.ac.kr
+sbst.jnu.ac.kr
+engedu.jnu.ac.kr
+sel.jnu.ac.kr
+phillian.jnu.ac.kr
+hangj.jnu.ac.kr
+graduate.jnu.ac.kr
+portalbeta.jnu.ac.kr
+it.jnu.ac.kr
+miso.jnu.ac.kr
+agro.jnu.ac.kr
+crams.jnu.ac.kr
+arsam.jnu.ac.kr
+chemedu.jnu.ac.kr
+chonnam.jnu.ac.kr
+sarc.jnu.ac.kr
+lps3.pubs.acs.org.libproxy.jnu.ac.kr
+counsel.jnu.ac.kr
+trade.jnu.ac.kr
+vetmed.jnu.ac.kr
+korean.jnu.ac.kr
+ailab4.jnu.ac.kr
+borami.jnu.ac.kr
+admission.jnu.ac.kr
+olducc.jnu.ac.kr
+imail.jnu.ac.kr
+educloud.jnu.ac.kr
+ucc.jnu.ac.kr
+nmel.jnu.ac.kr
+api.jnu.ac.kr
+eco.jnu.ac.kr
+kiss.kstudy.com.libproxy.jnu.ac.kr
+lps3.linkinghub.elsevier.com.libproxy.jnu.ac.kr
+geo.jnu.ac.kr
+cnuexam.jnu.ac.kr
+selweb3.jnu.ac.kr
+bbnms.jnu.ac.kr
+stat2.jnu.ac.kr
+cne.jnu.ac.kr
+society.jnu.ac.kr
+meric.jnu.ac.kr
+iclab.jnu.ac.kr
+mdm.jnu.ac.kr
+environ.jnu.ac.kr
+ell.jnu.ac.kr
+www.ndsl.kr.libproxy.jnu.ac.kr
+devwww.jnu.ac.kr
+illyu.jnu.ac.kr
+icee.jnu.ac.kr
+selweb2.jnu.ac.kr
+help.jnu.ac.kr
+bysoh.jnu.ac.kr
+gec.jnu.ac.kr
+agric.jnu.ac.kr
+aqua.jnu.ac.kr
+cnutoday.jnu.ac.kr
+selweb1.jnu.ac.kr
+iwrcv2020.jnu.ac.kr
+engineer.jnu.ac.kr
+pr.jnu.ac.kr
+pvsolar.jnu.ac.kr
+lms-stream.jnu.ac.kr
+hublounge.jnu.ac.kr
+sera.jnu.ac.kr
+hep.jnu.ac.kr
+myweb.jnu.ac.kr
+armi.jnu.ac.kr
+homeweb4.jnu.ac.kr
+sunwoo.jnu.ac.kr
+wellbeing.jnu.ac.kr
+law.jnu.ac.kr
+biology.jnu.ac.kr
+ailab7.jnu.ac.kr
+biotech.jnu.ac.kr
+pslab.jnu.ac.kr
+new-portal.jnu.ac.kr
+aicri.jnu.ac.kr
+rule.jnu.ac.kr
+ymcri.jnu.ac.kr
+mydisk.jnu.ac.kr
+nihon.jnu.ac.kr
+homeweb1.jnu.ac.kr
+is119.jnu.ac.kr
+gradsea.jnu.ac.kr
+music.jnu.ac.kr
+hive.jnu.ac.kr
+cyber.jnu.ac.kr
+jnuvpn.jnu.ac.kr
+pnct.jnu.ac.kr
+ieccu.jnu.ac.kr
+eds.a.ebscohost.com.libproxy.jnu.ac.kr
+fishpath.jnu.ac.kr
+lms-trans.jnu.ac.kr
+sleonline.jnu.ac.kr
+startup.jnu.ac.kr
+ethics.jnu.ac.kr
+apps.webofknowledge.com.libproxy.jnu.ac.kr
+irb.jnu.ac.kr
+dx.doi.org.libproxy.jnu.ac.kr
+smartplant.jnu.ac.kr
+younsu.jnu.ac.kr
+web.b.ebscohost.com.libproxy.jnu.ac.kr
+ailabreg.jnu.ac.kr
+vpn.jnu.ac.kr
+portal-staging.jnu.ac.kr
+mba.jnu.ac.kr
+logistics.jnu.ac.kr
+international.jnu.ac.kr
+marinefs.jnu.ac.kr
+lps3.www.acs.org.libproxy.jnu.ac.kr
+design.jnu.ac.kr
+dc.jnu.ac.kr
+sea.jnu.ac.kr
+bioinfo308.jnu.ac.kr
+dormitory.jnu.ac.kr
+ch.jnu.ac.kr
+homeweb2.jnu.ac.kr
+itii.jnu.ac.kr
+bugo.jnu.ac.kr
+www.newnonmun.com.libproxy.jnu.ac.kr
+alumni.jnu.ac.kr
+devsp.jnu.ac.kr
+lps3.www.ncbi.nlm.nih.gov.libproxy.jnu.ac.kr
+funlab.jnu.ac.kr
+globalmba.jnu.ac.kr
+china.jnu.ac.kr
+life.jnu.ac.kr
+bioins.jnu.ac.kr
+math1.jnu.ac.kr
+ailab5.jnu.ac.kr
+centerlibchair.jnu.ac.kr
+idps2.jnu.ac.kr
+ictauto.jnu.ac.kr
+libproxy.jnu.ac.kr
+marine.jnu.ac.kr
+mail.jnu.ac.kr
+link.jnu.ac.kr
+abeek.jnu.ac.kr
+rptbi.jnu.ac.kr
+president21.jnu.ac.kr
+chips.jnu.ac.kr
+lgsmart.jnu.ac.kr
+lps3.search.ebscohost.com.libproxy.jnu.ac.kr
+chris.jnu.ac.kr
+sisul.jnu.ac.kr
+president39th.jnu.ac.kr
+jcrf.jnu.ac.kr
+1545031307.jnu._domainkey.mailer.jnu.ac.kr
+kidshome.jnu.ac.kr
+webhost.jnu.ac.kr
+selab.jnu.ac.kr
+ein.jnu.ac.kr
+mlib.jnu.ac.kr
+biz.jnu.ac.kr
+coop.jnu.ac.kr
+lawschool.jnu.ac.kr
+newdevm.jnu.ac.kr
+mportal4.jnu.ac.kr
+homeapp.jnu.ac.kr
+spededu.jnu.ac.kr
+archi.jnu.ac.kr
+geoedu.jnu.ac.kr
+sw.jnu.ac.kr
+geology.jnu.ac.kr
+japan.jnu.ac.kr
+agrobio.jnu.ac.kr
+tree.jnu.ac.kr
+dodream.jnu.ac.kr
+cur.jnu.ac.kr
+mailhub2.jnu.ac.kr
+ici.jnu.ac.kr
+lib.jnu.ac.kr
+devk2web.jnu.ac.kr
+cnuh.jnu.ac.kr
+selweb4.jnu.ac.kr
+www.ncbi.nlm.nih.gov.libproxy.jnu.ac.kr
+foodsci.jnu.ac.kr
+npdl.jnu.ac.kr
+psyche.jnu.ac.kr
+kosfic.jnu.ac.kr
+amath.jnu.ac.kr
+asat.jnu.ac.kr
+fn.jnu.ac.kr
+iuep.jnu.ac.kr
+cwes.jnu.ac.kr
+ntp.jnu.ac.kr
+apnms.jnu.ac.kr
+hort.jnu.ac.kr
+jsh818.jnu.ac.kr
+educate.jnu.ac.kr
+iefa.jnu.ac.kr
+imgdb.jnu.ac.kr
+lps3.www.elsevier.com.libproxy.jnu.ac.kr
+cctl.jnu.ac.kr
+earthedu.jnu.ac.kr
+mailer.jnu.ac.kr
+csge.jnu.ac.kr
+biweb.jnu.ac.kr
+dnslab.jnu.ac.kr
+mimb.jnu.ac.kr
+dfmitl.jnu.ac.kr
+dcollection.jnu.ac.kr
+ailab8.jnu.ac.kr
+women.jnu.ac.kr
+edutop.jnu.ac.kr
+engc.jnu.ac.kr
+linc.jnu.ac.kr
+sophia.jnu.ac.kr
+ao.jnu.ac.kr
+lsrc.jnu.ac.kr
+wood.jnu.ac.kr
+mdirc.jnu.ac.kr
+mech.jnu.ac.kr
+mokpo.jnu.ac.kr
+sunpower.jnu.ac.kr
+politics.jnu.ac.kr
+chem.jnu.ac.kr
+ameri.jnu.ac.kr
+cloudweb.jnu.ac.kr
+cnu518.jnu.ac.kr
+itrl.jnu.ac.kr
+fmrc.jnu.ac.kr
+dsp.jnu.ac.kr
+hipsm.jnu.ac.kr
+smailer.jnu.ac.kr
+libguides.jnu.ac.kr
+animalscience.jnu.ac.kr
+list.jnu.ac.kr
+dev2admission.jnu.ac.kr
+ce.jnu.ac.kr
+bioenergy.jnu.ac.kr
+ethicsedu.jnu.ac.kr
+cge.jnu.ac.kr
+dsri.jnu.ac.kr
+ailab3.jnu.ac.kr
+210.101.116.16.libproxy.jnu.ac.kr
+jnu.ac.kr
+dent.jnu.ac.kr
+portal.jnu.ac.kr
+house.jnu.ac.kr
+crdcnu.jnu.ac.kr
+lps3.scholar.google.co.kr.libproxy.jnu.ac.kr
+cnutour.jnu.ac.kr
+gplab.jnu.ac.kr
+nursing.jnu.ac.kr
+kosficfile.jnu.ac.kr
+cnugspp.jnu.ac.kr
+sdis.jnu.ac.kr
+bte.jnu.ac.kr
+yosu.jnu.ac.kr
+smmclab.jnu.ac.kr
+ctl.jnu.ac.kr
+yculture.jnu.ac.kr
+ace.jnu.ac.kr
+devportfolio.jnu.ac.kr
+ccd.jnu.ac.kr
+culture.jnu.ac.kr
+oceanography.jnu.ac.kr
+cnu100club.jnu.ac.kr
+ie.jnu.ac.kr
+dinorc.jnu.ac.kr
+lawlib.jnu.ac.kr
+lincplus.jnu.ac.kr
+civil.jnu.ac.kr
+software.jnu.ac.kr
+welfare.jnu.ac.kr
+dentallib.jnu.ac.kr
+resources.jnu.ac.kr
+yosubi.jnu.ac.kr
+museum.jnu.ac.kr
+edupool.jnu.ac.kr
+image.jnu.ac.kr
+web.jnu.ac.kr
+eclass.jnu.ac.kr
+sle.jnu.ac.kr
+mportal3.jnu.ac.kr
+ct.jnu.ac.kr
+ee.jnu.ac.kr
+m.jnu.ac.kr
+searchmgr.jnu.ac.kr
+peel.jnu.ac.kr
+www.math.jnu.ac.kr
+soc.jnu.ac.kr
+gjtalk.jnu.ac.kr
+socsci.jnu.ac.kr
+fle.jnu.ac.kr
+physicaledu.jnu.ac.kr
+lps3.sso.acs.org.libproxy.jnu.ac.kr
+fineart.jnu.ac.kr
+periodont.jnu.ac.kr
+lps3.onlinelibrary.wiley.com.libproxy.jnu.ac.kr
+pubs.acs.org.libproxy.jnu.ac.kr
+is.jnu.ac.kr
+rbe.jnu.ac.kr
+mailhub1.jnu.ac.kr
+sanhak.jnu.ac.kr
+anis2med.jnu.ac.kr
+inter.jnu.ac.kr
+hrc.jnu.ac.kr
+sslvpn.jnu.ac.kr
+korcul.jnu.ac.kr
+ecedu.jnu.ac.kr
+ioh.jnu.ac.kr
+newssoweb2.jnu.ac.kr
+shiptc.jnu.ac.kr
+education.jnu.ac.kr
+kabon.jnu.ac.kr
+agrochem.jnu.ac.kr
+idevel.jnu.ac.kr
+cad.jnu.ac.kr
+210.101.116.18.libproxy.jnu.ac.kr
+content.ebscohost.com.libproxy.jnu.ac.kr
+aia.jnu.ac.kr
+itrc.jnu.ac.kr
+ccrf.jnu.ac.kr
+scholar.dkyobobook.co.kr.libproxy.jnu.ac.kr
+admgraduate.jnu.ac.kr
+hs.jnu.ac.kr
+www.riss.kr.libproxy.jnu.ac.kr
+facecheck.jnu.ac.kr
+cba.jnu.ac.kr
+devbuild.jnu.ac.kr
+intcon.jnu.ac.kr
+resolver.ebscohost.com.libproxy.jnu.ac.kr
+jnula.jnu.ac.kr
+sso.jnu.ac.kr
+library.jnu.ac.kr
+faculty.jnu.ac.kr
+philos.jnu.ac.kr
+pmgl.jnu.ac.kr
+ile.jnu.ac.kr
+leckor.jnu.ac.kr
+eee.jnu.ac.kr
+arts.jnu.ac.kr

@@ -1,167 +1,102 @@
-NOERROR	thehubnew.southeast.edu
-NOERROR	web.b.ebscohost.com.proxy.southeast.edu
-NOERROR	ic.galegroup.com.proxy.southeast.edu
-NOERROR	wp.southeast.edu
-NOERROR	owa.southeast.edu
-NOERROR	alertus.southeast.edu
-NOERROR	emsprod.southeast.edu
-NOERROR	mytest.southeast.edu
-NOERROR	redirector.southeast.edu
-NOERROR	my.southeast.edu
-NOERROR	recruiter.southeast.edu
-NOERROR	sccns01.southeast.edu
-NXDOMAIN	electronics.southeast.edu
-NOERROR	lmvm3.southeast.edu
-NOERROR	wug.southeast.edu
-NOERROR	aruba.southeast.edu
-NOERROR	tidemo.southeast.edu
-NOERROR	helpdesk.southeast.edu
-NOERROR	sitedown.southeast.edu
-NOERROR	resetpw.southeast.edu
-NXDOMAIN	sccintwb.southeast.edu
-NXDOMAIN	postman.southeast.edu
-NOERROR	sccpi.southeast.edu
-NOERROR	scclamp01.southeast.edu
-NXDOMAIN	images.southeast.edu
-NOERROR	cbp.southeast.edu
-NXDOMAIN	www.oed.com.mandarin2.southeast.edu
-NOERROR	sccmailer.southeast.edu
-NOERROR	www.southeast.edu
-NXDOMAIN	webster.southeast.edu
-NXDOMAIN	firstsearch.oclc.org.mandarin2.southeast.edu
-NOERROR	libguides.southeast.edu
-NOERROR	sccdweb.southeast.edu
-NXDOMAIN	www.referenceusa.com.mandarin2.southeast.edu
-NXDOMAIN	find.galegroup.com.mandarin2.southeast.edu
-NXDOMAIN	cap.southeast.edu
-NXDOMAIN	web.b.ebscohost.com.mandarin2.southeast.edu
-NOERROR	lmvm4.southeast.edu
-NXDOMAIN	mandarin.southeast.edu
-NOERROR	scctrackit.southeast.edu
-NOERROR	hlc.southeast.edu
-NXDOMAIN	ilpservices.southeast.edu
-NOERROR	search.ebscohost.com.proxy.southeast.edu
-NOERROR	marketing.southeast.edu
-NOERROR	sccmktg.southeast.edu
-NOERROR	sccdapi.southeast.edu
-NXDOMAIN	w.southeast.edu
-NXDOMAIN	webdev.southeast.edu
-NXDOMAIN	moodle.southeast.edu
-NOERROR	www.micromedexsolutions.com.proxy.southeast.edu
-NXDOMAIN	y1cap.southeast.edu
-NXDOMAIN	digital.films.com.mandarin2.southeast.edu
-NOERROR	placement.southeast.edu
-NOERROR	sccbva01.southeast.edu
-NOERROR	sccldaps.southeast.edu
-NOERROR	professionaldevelopment.southeast.edu
-NXDOMAIN	www.easybib.com.mandarin2.southeast.edu
-NXDOMAIN	natgeo.galegroup.com.mandarin2.southeast.edu
-NOERROR	sccmailout01.southeast.edu
-NXDOMAIN	infoweb.newsbank.com.mandarin2.southeast.edu
-NOERROR	scceacadldap.southeast.edu
-NXDOMAIN	sccvpn.southeast.edu
-NXDOMAIN	www.sccvpn.southeast.edu
-NXDOMAIN	angel.southeast.edu
-NXDOMAIN	wnd.infobaselearning.com.mandarin2.southeast.edu
-NOERROR	web.a.ebscohost.com.proxy.southeast.edu
-NXDOMAIN	sccgd.southeast.edu
-NOERROR	selfservice.southeast.edu
-NXDOMAIN	helpdesktest.southeast.edu
-NXDOMAIN	www.div.southeast.edu
-NOERROR	gdma.southeast.edu
-NXDOMAIN	diversity.southeast.edu
-NOERROR	autodiscover.southeast.edu
-NXDOMAIN	traditional.southeast.edu
-NOERROR	itunes.southeast.edu
-NOERROR	captiveportal.southeast.edu
-NXDOMAIN	academic.eb.com.mandarin2.southeast.edu
-NOERROR	webreg.southeast.edu
-NXDOMAIN	pbl.southeast.edu
-NXDOMAIN	www.online.southeast.edu
-NOERROR	lmvm2.southeast.edu
-NXDOMAIN	wcmsstage.southeast.edu.southeast.edu
-NXDOMAIN	library.cqpress.com.mandarin2.southeast.edu
-NXDOMAIN	www.heritagequestonline.com.mandarin2.southeast.edu
-NXDOMAIN	web.ebscohost.com.mandarin2.southeast.edu
-NOERROR	wcmsstage.southeast.edu
-NOERROR	eis53.southeast.edu
-NOERROR	metasys.southeast.edu
-NXDOMAIN	cisco.southeast.edu
-NXDOMAIN	web.a.ebscohost.com.mandarin2.southeast.edu
-NXDOMAIN	search.ebscohost.com.mandarin2.southeast.edu
-NOERROR	webadvisor.southeast.edu
-NOERROR	sccvss03.southeast.edu
-NOERROR	paymentgatewayt.southeast.edu
-NOERROR	videocenter.southeast.edu
-NXDOMAIN	gdm.southeast.edu
-NOERROR	tableau.southeast.edu
-NOERROR	login.proxy.southeast.edu
-NOERROR	y1cbp.southeast.edu
-NOERROR	pitest.southeast.edu
-NOERROR	thehub.southeast.edu
-NOERROR	eistest.southeast.edu
-NXDOMAIN	www.webgrade.southeast.edu
-NOERROR	hvac.southeast.edu
-NXDOMAIN	support.infobaselearning.com.mandarin2.southeast.edu
-NOERROR	support.southeast.edu
-NOERROR	sccsmpig02.southeast.edu
-NOERROR	eis.southeast.edu
-NOERROR	webmail.southeast.edu
-NXDOMAIN	www.placement.southeast.edu
-NOERROR	southeast.edu
-NXDOMAIN	bi.galegroup.com.mandarin2.southeast.edu
-NXDOMAIN	cadence.southeast.edu
-NOERROR	sccdatacove.southeast.edu
-NXDOMAIN	online.southeast.edu
-NOERROR	library.cqpress.com.proxy.southeast.edu
-NXDOMAIN	webct.southeast.edu
-NXDOMAIN	www.britannica.com.mandarin2.southeast.edu
-NOERROR	lmvc.southeast.edu
-NOERROR	paymentgateway.southeast.edu
-NOERROR	gp.southeast.edu
-NXDOMAIN	placements.southeast.edu
-NOERROR	print.southeast.edu
-NXDOMAIN	www.moodlesupport.southeast.edu
-NOERROR	proxy.southeast.edu
-NOERROR	mobile.southeast.edu
-NOERROR	catalog.southeast.edu
-NXDOMAIN	classtrack.classmail.southeast.edu
-NXDOMAIN	www.netlibrary.com.mandarin2.southeast.edu
-NOERROR	avigilon.southeast.edu
-NOERROR	emstest.southeast.edu
-NXDOMAIN	micros.southeast.edu
-NXDOMAIN	elibrary.bigchalk.com.mandarin2.southeast.edu
-NXDOMAIN	micro.southeast.edu
-NOERROR	moodlesupport.southeast.edu
-NOERROR	mycourses.southeast.edu
-NOERROR	sccmandarin01.southeast.edu
-NXDOMAIN	persi.heritagequestonline.com.mandarin2.southeast.edu
-NOERROR	recruitertest.southeast.edu
-NOERROR	www.medcomrn.com.proxy.southeast.edu
-NOERROR	nebraskaccess.ne.gov.proxy.southeast.edu
-NOERROR	wnd.infobaselearning.com.proxy.southeast.edu
-NXDOMAIN	sccliqmxwb.southeast.edu
-NXDOMAIN	wedct.southeast.edu
-NXDOMAIN	mandarin2.southeast.edu
-NOERROR	sccmailin01.southeast.edu
-NOERROR	test.southeast.edu
-NOERROR	casper.southeast.edu
-NOERROR	hrc.southeast.edu
-NOERROR	prodev.southeast.edu
-NXDOMAIN	lrc.southeast.edu
-NOERROR	www.atoztheworld.com.proxy.southeast.edu
-NOERROR	social.southeast.edu
-NOERROR	academic.eb.com.proxy.southeast.edu
-NOERROR	natgeo.galegroup.com.proxy.southeast.edu
-NOERROR	content.ebscohost.com.proxy.southeast.edu
-NXDOMAIN	ic.galegroup.com.mandarin2.southeast.edu
-NOERROR	firstsearch.oclc.org.proxy.southeast.edu
-NOERROR	testsite.southeast.edu
-NOERROR	sccldap.southeast.edu
-NOERROR	lmvm1.southeast.edu
-NXDOMAIN	go.galegroup.com.mandarin2.southeast.edu
-NOERROR	pgprod.southeast.edu
-NOERROR	eis53test.southeast.edu
-NOERROR	sccweb3.southeast.edu
-NXDOMAIN	support.ebscohost.com.mandarin2.southeast.edu
-NXDOMAIN	connection.ebscohost.com.mandarin2.southeast.edu
+thehubnew.southeast.edu
+web.b.ebscohost.com.proxy.southeast.edu
+ic.galegroup.com.proxy.southeast.edu
+wp.southeast.edu
+owa.southeast.edu
+alertus.southeast.edu
+emsprod.southeast.edu
+mytest.southeast.edu
+redirector.southeast.edu
+my.southeast.edu
+recruiter.southeast.edu
+sccns01.southeast.edu
+lmvm3.southeast.edu
+wug.southeast.edu
+aruba.southeast.edu
+tidemo.southeast.edu
+helpdesk.southeast.edu
+sitedown.southeast.edu
+resetpw.southeast.edu
+sccpi.southeast.edu
+scclamp01.southeast.edu
+cbp.southeast.edu
+sccmailer.southeast.edu
+www.southeast.edu
+libguides.southeast.edu
+sccdweb.southeast.edu
+lmvm4.southeast.edu
+scctrackit.southeast.edu
+hlc.southeast.edu
+search.ebscohost.com.proxy.southeast.edu
+marketing.southeast.edu
+sccmktg.southeast.edu
+sccdapi.southeast.edu
+www.micromedexsolutions.com.proxy.southeast.edu
+placement.southeast.edu
+sccbva01.southeast.edu
+sccldaps.southeast.edu
+professionaldevelopment.southeast.edu
+sccmailout01.southeast.edu
+scceacadldap.southeast.edu
+web.a.ebscohost.com.proxy.southeast.edu
+selfservice.southeast.edu
+gdma.southeast.edu
+autodiscover.southeast.edu
+itunes.southeast.edu
+captiveportal.southeast.edu
+webreg.southeast.edu
+lmvm2.southeast.edu
+wcmsstage.southeast.edu
+eis53.southeast.edu
+metasys.southeast.edu
+webadvisor.southeast.edu
+sccvss03.southeast.edu
+paymentgatewayt.southeast.edu
+videocenter.southeast.edu
+tableau.southeast.edu
+login.proxy.southeast.edu
+y1cbp.southeast.edu
+pitest.southeast.edu
+thehub.southeast.edu
+eistest.southeast.edu
+hvac.southeast.edu
+support.southeast.edu
+sccsmpig02.southeast.edu
+eis.southeast.edu
+webmail.southeast.edu
+southeast.edu
+sccdatacove.southeast.edu
+library.cqpress.com.proxy.southeast.edu
+lmvc.southeast.edu
+paymentgateway.southeast.edu
+gp.southeast.edu
+print.southeast.edu
+proxy.southeast.edu
+mobile.southeast.edu
+catalog.southeast.edu
+avigilon.southeast.edu
+emstest.southeast.edu
+moodlesupport.southeast.edu
+mycourses.southeast.edu
+sccmandarin01.southeast.edu
+recruitertest.southeast.edu
+www.medcomrn.com.proxy.southeast.edu
+nebraskaccess.ne.gov.proxy.southeast.edu
+wnd.infobaselearning.com.proxy.southeast.edu
+sccmailin01.southeast.edu
+test.southeast.edu
+casper.southeast.edu
+hrc.southeast.edu
+prodev.southeast.edu
+www.atoztheworld.com.proxy.southeast.edu
+social.southeast.edu
+academic.eb.com.proxy.southeast.edu
+natgeo.galegroup.com.proxy.southeast.edu
+content.ebscohost.com.proxy.southeast.edu
+firstsearch.oclc.org.proxy.southeast.edu
+testsite.southeast.edu
+sccldap.southeast.edu
+lmvm1.southeast.edu
+pgprod.southeast.edu
+eis53test.southeast.edu
+sccweb3.southeast.edu

@@ -1,289 +1,248 @@
-NOERROR	cbv.unab.cl
-NOERROR	mobile.unab.cl
-NOERROR	diplomados.unab.cl
-NOERROR	test.unab.cl
-NXDOMAIN	ct-esic.unab.cl
-NOERROR	extension.unab.cl
-NXDOMAIN	informesgestion.unab.cl
-NXDOMAIN	www.vigilancia.unab.cl
-NOERROR	crm.unab.cl
-NOERROR	mx.unab.cl
-NOERROR	videos.unab.cl
-NOERROR	campus.ing.unab.cl
-NOERROR	fisica.unab.cl
-NOERROR	ads.unab.cl
-NOERROR	webreconline.unab.cl
-NXDOMAIN	betablogs.unab.cl
-NOERROR	inclusion.unab.cl
-NOERROR	dentidesk.unab.cl
-NOERROR	actividadenaula.unab.cl
-NXDOMAIN	webmail.inicia.unab.cl
-NOERROR	megusta.unab.cl
-NOERROR	smtp2.unab.cl
-NXDOMAIN	mail.ecampuseducacion.unab.cl
-NOERROR	becasybeneficios.unab.cl
-NOERROR	biodesarrollo.unab.cl
-NOERROR	icb.unab.cl
-NXDOMAIN	webmail.bienvenida.unab.cl
-NOERROR	agenda.unab.cl
-NOERROR	blog2.unab.cl
-NOERROR	acreditacion2008.unab.cl
-NOERROR	testeducagral.unab.cl
-NOERROR	autoserviciofuncionario.unab.cl
-NOERROR	database.unab.cl
-NOERROR	explora.unab.cl
-NOERROR	recursosdigitales.unab.cl
-NOERROR	veterinaria.unab.cl
-NOERROR	artesyhumanidades.unab.cl
-NOERROR	gateway.unab.cl
-NOERROR	becasybeneficios-test.unab.cl
-NOERROR	tiemposfundacionales.unab.cl
-NOERROR	bienvenida.unab.cl
-NOERROR	mat.unab.cl
-NOERROR	rap.unab.cl
-NOERROR	web.unab.cl
-NOERROR	ferialaboralconcepcion.unab.cl
-NOERROR	enlaces.unab.cl
-NOERROR	enlinea.unab.cl
-NOERROR	desafio.unab.cl
-NOERROR	programacionacademica.unab.cl
-NOERROR	canalconocimiento.unab.cl
-NOERROR	blogescritorio.unab.cl
-NOERROR	ferialaboral.unab.cl
-NOERROR	vinculacion.unab.cl
-NOERROR	alumnosici.unab.cl
-NOERROR	autoservicio.unab.cl
-NOERROR	formulariosinterescolares.unab.cl
-NOERROR	testinterescolares.unab.cl
-NXDOMAIN	eit.unab.cl
-NXDOMAIN	desarrollo.unab.cl
-NOERROR	advance.unab.cl
-NOERROR	azuldelavida.unab.cl
-NOERROR	imagecenter.unab.cl
-NXDOMAIN	www.bienvenida.unab.cl
-NOERROR	aulavirtual.unab.cl
-NOERROR	admintutores.unab.cl
-NOERROR	mi.unab.cl
-NOERROR	catalogo.unab.cl
-NOERROR	owa.unab.cl
-NOERROR	etesis.unab.cl
-NOERROR	cis.unab.cl
-NOERROR	educaciongeneral.unab.cl
-NOERROR	analisis.unab.cl
-NOERROR	doctoradopsicoanalisis.unab.cl
-NOERROR	infraestructura.unab.cl
-NOERROR	certificados.unab.cl
-NXDOMAIN	cpcontacts.vigilancia.unab.cl
-NOERROR	orgullo.unab.cl
-NXDOMAIN	www.autoservicio.unab.cl
-NOERROR	www.alumnosici.unab.cl
-NOERROR	canvas.unab.cl
-NOERROR	formularioserca.unab.cl
-NOERROR	ballenerosdequintay.unab.cl
-NOERROR	inicia.unab.cl
-NOERROR	interescolares.unab.cl
-NXDOMAIN	www.becasybeneficios.unab.cl
-NOERROR	www.inicia.unab.cl
-NOERROR	mail.unab.cl
-NOERROR	titulaciones.unab.cl
-NXDOMAIN	webdisk.vigilancia.unab.cl
-NXDOMAIN	webdisk.inicia.unab.cl
-NOERROR	leia.ing.unab.cl
-NOERROR	naranjo.unab.cl
-NOERROR	router_republica.unab.cl
-NOERROR	cib.unab.cl
-NOERROR	mimejor.unab.cl
-NOERROR	dcb.unab.cl
-NOERROR	inscripcioninterescolaresexplora.unab.cl
-NXDOMAIN	www.megusta.unab.cl
-NOERROR	eneib.unab.cl
-NOERROR	router_internet.unab.cl
-NOERROR	mdc.unab.cl
-NOERROR	laboratoriocitometria.unab.cl
-NXDOMAIN	mail.vigilancia.unab.cl
-NOERROR	ergonomia.unab.cl
-NOERROR	planos.unab.cl
-NOERROR	testunabonline.unab.cl
-NOERROR	matricula1.unab.cl
-NXDOMAIN	han.ing.unab.cl
-NOERROR	testinternacionalizacion.unab.cl
-NOERROR	subetudocumento.unab.cl
-NOERROR	devuddo.unab.cl
-NOERROR	blog.unab.cl
-NOERROR	galerias.unab.cl
-NOERROR	investigacion.unab.cl
-NOERROR	pagohonorariosdocentes.unab.cl
-NOERROR	saprolegnia.unab.cl
-NOERROR	correomimundo.unab.cl
-NOERROR	cli.unab.cl
-NOERROR	dtt.unab.cl
-NXDOMAIN	cpanel.inicia.unab.cl
-NOERROR	ing.unab.cl
-NOERROR	ciencia.unab.cl
-NOERROR	teamadmision.unab.cl
-NOERROR	tecsa.unab.cl
-NOERROR	teamdifusion.unab.cl
-NOERROR	intranet.unab.cl
-NOERROR	smtpreserv.unab.cl
-NOERROR	miusuario.unab.cl
-NOERROR	correo2.unab.cl
-NXDOMAIN	cei.unab.cl
-NOERROR	uddo.unab.cl
-NOERROR	astro.unab.cl
-NOERROR	testalumni2.unab.cl
-NOERROR	ictchile.unab.cl
-NOERROR	mimundo.unab.cl
-NOERROR	interfoto.unab.cl
-NOERROR	c3.unab.cl
-NOERROR	ns.unab.cl
-NOERROR	repositorio.unab.cl
-NOERROR	formularioinscripcionexplora.unab.cl
-NOERROR	login.recursosbiblioteca.unab.cl
-NXDOMAIN	digichat.unab.cl
-NOERROR	dci.unab.cl
-NOERROR	compensaciones.unab.cl
-NOERROR	langostaisladepascua.unab.cl
-NOERROR	campusonline.unab.cl
-NXDOMAIN	advance2.unab.cl
-NXDOMAIN	www.imagecenter.unab.cl
-NOERROR	dirgac.unab.cl
-NOERROR	cimarq.unab.cl
-NOERROR	noticias.unab.cl
-NOERROR	ctl.unab.cl
-NOERROR	hospitaldesimulacion.unab.cl
-NOERROR	medicina.unab.cl
-NOERROR	biblioteca.unab.cl
-NOERROR	saber.unab.cl
-NOERROR	inxmail.unab.cl
-NOERROR	programadeestudios.unab.cl
-NOERROR	ssb.unab.cl
-NOERROR	defontana.unab.cl
-NOERROR	ficalgas.unab.cl
-NXDOMAIN	matriculaonline.unab.cl
-NOERROR	matriculainternacional.unab.cl
-NXDOMAIN	cpanel.bienvenida.unab.cl
-NOERROR	mundialdebate.unab.cl
-NOERROR	redocumentacion.unab.cl
-NOERROR	academicos.unab.cl
-NXDOMAIN	www.ecampuseducacion.unab.cl
-NOERROR	deportes.unab.cl
-NOERROR	portal.unab.cl
-NOERROR	forminterescolares.unab.cl
-NOERROR	revistahumanidades.unab.cl
-NOERROR	correo.unab.cl
-NOERROR	acem.unab.cl
-NXDOMAIN	casona.unab.cl
-NOERROR	devlms.unab.cl
-NXDOMAIN	abello.unab.cl
-NOERROR	ferialaboralsantiago.unab.cl
-NOERROR	periodismo.unab.cl
-NOERROR	revistaeducacion.unab.cl
-NXDOMAIN	webdisk.bienvenida.unab.cl
-NOERROR	jacaranda.unab.cl
-NOERROR	premiosalumni.unab.cl
-NOERROR	cybertesis.unab.cl
-NOERROR	smile.concepcion.unab.cl
-NOERROR	transparencia.unab.cl
-NOERROR	vigilancia.unab.cl
-NOERROR	comunicacion.unab.cl
-NOERROR	facebook.unab.cl
-NXDOMAIN	www.eba.unab.cl
-NOERROR	formularios.unab.cl
-NOERROR	sustentabilidad.unab.cl
-NXDOMAIN	mail.inicia.unab.cl
-NOERROR	internacional.unab.cl
-NOERROR	aulavirtualdocente.unab.cl
-NOERROR	acca.unab.cl
-NOERROR	vinculacionescolar.unab.cl
-NOERROR	anilloipmag.unab.cl
-NOERROR	hubpagos.unab.cl
-NOERROR	empleos.unab.cl
-NOERROR	pal.unab.cl
-NOERROR	educacioncontinua.unab.cl
-NOERROR	luministest.unab.cl
-NOERROR	encuestascpp.unab.cl
-NOERROR	sello.unab.cl
-NOERROR	titulacion.unab.cl
-NOERROR	expertos.unab.cl
-NXDOMAIN	generator2.unab.cl
-NOERROR	facultades.unab.cl
-NOERROR	formulariosrrii.unab.cl
-NOERROR	ambiental.unab.cl
-NOERROR	www.unab.cl
-NOERROR	autodiscover.unab.cl
-NOERROR	ecobiodiversidad.unab.cl
-NXDOMAIN	cpanel.vigilancia.unab.cl
-NOERROR	quimica.unab.cl
-NXDOMAIN	www.titulaciones.unab.cl
-NOERROR	booking.unab.cl
-NOERROR	formaciongeneral.unab.cl
-NXDOMAIN	mail.bienvenida.unab.cl
-NOERROR	difusiondigital.unab.cl
-NOERROR	programabienestar.unab.cl
-NOERROR	matricula.unab.cl
-NOERROR	adedo.unab.cl
-NOERROR	curriculumacademico.unab.cl
-NOERROR	profesores.ing.unab.cl
-NOERROR	jabba.ing.unab.cl
-NOERROR	saludenlinea.unab.cl
-NOERROR	lece.unab.cl
-NOERROR	csl.unab.cl
-NXDOMAIN	escritorio.unab.cl
-NOERROR	artesvisuales.unab.cl
-NOERROR	jovenseguro.unab.cl
-NOERROR	alumni.unab.cl
-NOERROR	plataforma.vinculacion.unab.cl
-NXDOMAIN	cpcalendars.vigilancia.unab.cl
-NOERROR	cpp.unab.cl
-NOERROR	unab.cl
-NOERROR	genoma.unab.cl
-NOERROR	ifac-iwl08.unab.cl
-NOERROR	imagenesmedicashs.unab.cl
-NXDOMAIN	cimis.unab.cl
-NOERROR	labecom.unab.cl
-NOERROR	dme.unab.cl
-NOERROR	vader.ing.unab.cl
-NOERROR	desarrolloweb.unab.cl
-NOERROR	improve.unab.cl
-NOERROR	didd.unab.cl
-NXDOMAIN	www.medicina.unab.cl
-NOERROR	sitios.unab.cl
-NOERROR	ferialaboralvina.unab.cl
-NXDOMAIN	webmail.vigilancia.unab.cl
-NOERROR	ils.unab.cl
-NOERROR	portaldepagos.unab.cl
-NOERROR	ictiologia.unab.cl
-NOERROR	test1bbb.unab.cl
-NOERROR	sdd.unab.cl
-NOERROR	generator1.unab.cl
-NOERROR	bulk.unab.cl
-NOERROR	admision2015.unab.cl
-NOERROR	honoriscausa.unab.cl
-NOERROR	m.unab.cl
-NOERROR	pop.unab.cl
-NOERROR	cultura.unab.cl
-NOERROR	razones.unab.cl
-NOERROR	seminarioamc.unab.cl
-NOERROR	researchers.unab.cl
-NOERROR	ase4.unab.cl
-NOERROR	jornadasecoturismo.unab.cl
-NOERROR	vcm.unab.cl
-NOERROR	luke.ing.unab.cl
-NOERROR	acreditacioninternacional.unab.cl
-NOERROR	recursosbiblioteca.unab.cl
-NOERROR	testagenda.unab.cl
-NOERROR	icdtchile.unab.cl
-NXDOMAIN	biotecnologiavegetal.unab.cl
-NOERROR	vrac.unab.cl
-NOERROR	diario.unab.cl
-NOERROR	listas.ing.unab.cl
-NOERROR	certificados2.unab.cl
-NOERROR	convocados.unab.cl
-NOERROR	innova.unab.cl
-NOERROR	encuestas.unab.cl
-NOERROR	miscontratos.unab.cl
-NOERROR	fqm.unab.cl
-NOERROR	webmail.unab.cl
-NOERROR	pagodecursos.unab.cl
-NOERROR	gestionacademica.unab.cl
-NOERROR	ecampuseducacion.unab.cl
+cbv.unab.cl
+mobile.unab.cl
+diplomados.unab.cl
+test.unab.cl
+extension.unab.cl
+crm.unab.cl
+mx.unab.cl
+videos.unab.cl
+campus.ing.unab.cl
+fisica.unab.cl
+ads.unab.cl
+webreconline.unab.cl
+inclusion.unab.cl
+dentidesk.unab.cl
+actividadenaula.unab.cl
+megusta.unab.cl
+smtp2.unab.cl
+becasybeneficios.unab.cl
+biodesarrollo.unab.cl
+icb.unab.cl
+agenda.unab.cl
+blog2.unab.cl
+acreditacion2008.unab.cl
+testeducagral.unab.cl
+autoserviciofuncionario.unab.cl
+database.unab.cl
+explora.unab.cl
+recursosdigitales.unab.cl
+veterinaria.unab.cl
+artesyhumanidades.unab.cl
+gateway.unab.cl
+becasybeneficios-test.unab.cl
+tiemposfundacionales.unab.cl
+bienvenida.unab.cl
+mat.unab.cl
+rap.unab.cl
+web.unab.cl
+ferialaboralconcepcion.unab.cl
+enlaces.unab.cl
+enlinea.unab.cl
+desafio.unab.cl
+programacionacademica.unab.cl
+canalconocimiento.unab.cl
+blogescritorio.unab.cl
+ferialaboral.unab.cl
+vinculacion.unab.cl
+alumnosici.unab.cl
+autoservicio.unab.cl
+formulariosinterescolares.unab.cl
+testinterescolares.unab.cl
+advance.unab.cl
+azuldelavida.unab.cl
+imagecenter.unab.cl
+aulavirtual.unab.cl
+admintutores.unab.cl
+mi.unab.cl
+catalogo.unab.cl
+owa.unab.cl
+etesis.unab.cl
+cis.unab.cl
+educaciongeneral.unab.cl
+analisis.unab.cl
+doctoradopsicoanalisis.unab.cl
+infraestructura.unab.cl
+certificados.unab.cl
+orgullo.unab.cl
+www.alumnosici.unab.cl
+canvas.unab.cl
+formularioserca.unab.cl
+ballenerosdequintay.unab.cl
+inicia.unab.cl
+interescolares.unab.cl
+www.inicia.unab.cl
+mail.unab.cl
+titulaciones.unab.cl
+leia.ing.unab.cl
+naranjo.unab.cl
+router_republica.unab.cl
+cib.unab.cl
+mimejor.unab.cl
+dcb.unab.cl
+inscripcioninterescolaresexplora.unab.cl
+eneib.unab.cl
+router_internet.unab.cl
+mdc.unab.cl
+laboratoriocitometria.unab.cl
+ergonomia.unab.cl
+planos.unab.cl
+testunabonline.unab.cl
+matricula1.unab.cl
+testinternacionalizacion.unab.cl
+subetudocumento.unab.cl
+devuddo.unab.cl
+blog.unab.cl
+galerias.unab.cl
+investigacion.unab.cl
+pagohonorariosdocentes.unab.cl
+saprolegnia.unab.cl
+correomimundo.unab.cl
+cli.unab.cl
+dtt.unab.cl
+ing.unab.cl
+ciencia.unab.cl
+teamadmision.unab.cl
+tecsa.unab.cl
+teamdifusion.unab.cl
+intranet.unab.cl
+smtpreserv.unab.cl
+miusuario.unab.cl
+correo2.unab.cl
+uddo.unab.cl
+astro.unab.cl
+testalumni2.unab.cl
+ictchile.unab.cl
+mimundo.unab.cl
+interfoto.unab.cl
+c3.unab.cl
+ns.unab.cl
+repositorio.unab.cl
+formularioinscripcionexplora.unab.cl
+login.recursosbiblioteca.unab.cl
+dci.unab.cl
+compensaciones.unab.cl
+langostaisladepascua.unab.cl
+campusonline.unab.cl
+dirgac.unab.cl
+cimarq.unab.cl
+noticias.unab.cl
+ctl.unab.cl
+hospitaldesimulacion.unab.cl
+medicina.unab.cl
+biblioteca.unab.cl
+saber.unab.cl
+inxmail.unab.cl
+programadeestudios.unab.cl
+ssb.unab.cl
+defontana.unab.cl
+ficalgas.unab.cl
+matriculainternacional.unab.cl
+mundialdebate.unab.cl
+redocumentacion.unab.cl
+academicos.unab.cl
+deportes.unab.cl
+portal.unab.cl
+forminterescolares.unab.cl
+revistahumanidades.unab.cl
+correo.unab.cl
+acem.unab.cl
+devlms.unab.cl
+ferialaboralsantiago.unab.cl
+periodismo.unab.cl
+revistaeducacion.unab.cl
+jacaranda.unab.cl
+premiosalumni.unab.cl
+cybertesis.unab.cl
+smile.concepcion.unab.cl
+transparencia.unab.cl
+vigilancia.unab.cl
+comunicacion.unab.cl
+facebook.unab.cl
+formularios.unab.cl
+sustentabilidad.unab.cl
+internacional.unab.cl
+aulavirtualdocente.unab.cl
+acca.unab.cl
+vinculacionescolar.unab.cl
+anilloipmag.unab.cl
+hubpagos.unab.cl
+empleos.unab.cl
+pal.unab.cl
+educacioncontinua.unab.cl
+luministest.unab.cl
+encuestascpp.unab.cl
+sello.unab.cl
+titulacion.unab.cl
+expertos.unab.cl
+facultades.unab.cl
+formulariosrrii.unab.cl
+ambiental.unab.cl
+www.unab.cl
+autodiscover.unab.cl
+ecobiodiversidad.unab.cl
+quimica.unab.cl
+booking.unab.cl
+formaciongeneral.unab.cl
+difusiondigital.unab.cl
+programabienestar.unab.cl
+matricula.unab.cl
+adedo.unab.cl
+curriculumacademico.unab.cl
+profesores.ing.unab.cl
+jabba.ing.unab.cl
+saludenlinea.unab.cl
+lece.unab.cl
+csl.unab.cl
+artesvisuales.unab.cl
+jovenseguro.unab.cl
+alumni.unab.cl
+plataforma.vinculacion.unab.cl
+cpp.unab.cl
+unab.cl
+genoma.unab.cl
+ifac-iwl08.unab.cl
+imagenesmedicashs.unab.cl
+labecom.unab.cl
+dme.unab.cl
+vader.ing.unab.cl
+desarrolloweb.unab.cl
+improve.unab.cl
+didd.unab.cl
+sitios.unab.cl
+ferialaboralvina.unab.cl
+ils.unab.cl
+portaldepagos.unab.cl
+ictiologia.unab.cl
+test1bbb.unab.cl
+sdd.unab.cl
+generator1.unab.cl
+bulk.unab.cl
+admision2015.unab.cl
+honoriscausa.unab.cl
+m.unab.cl
+pop.unab.cl
+cultura.unab.cl
+razones.unab.cl
+seminarioamc.unab.cl
+researchers.unab.cl
+ase4.unab.cl
+jornadasecoturismo.unab.cl
+vcm.unab.cl
+luke.ing.unab.cl
+acreditacioninternacional.unab.cl
+recursosbiblioteca.unab.cl
+testagenda.unab.cl
+icdtchile.unab.cl
+vrac.unab.cl
+diario.unab.cl
+listas.ing.unab.cl
+certificados2.unab.cl
+convocados.unab.cl
+innova.unab.cl
+encuestas.unab.cl
+miscontratos.unab.cl
+fqm.unab.cl
+webmail.unab.cl
+pagodecursos.unab.cl
+gestionacademica.unab.cl
+ecampuseducacion.unab.cl

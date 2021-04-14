@@ -1,36 +1,34 @@
-NOERROR	cloud.ena.fr
-NXDOMAIN	services.ena.fr
-NOERROR	admin.media.ena.fr
-NOERROR	amphiblanc.ena.fr
-NOERROR	sip.ena.fr
-NOERROR	moodle3.ena.fr
-NOERROR	antispam.ena.fr
-NOERROR	athena.ena.fr
-NOERROR	ethercalc.ena.fr
-NOERROR	www.ena.fr
-NOERROR	plannings-formations.ena.fr
-NOERROR	mail.alumni.ena.fr
-NOERROR	alumni.chee.ena.fr
-NOERROR	smtp.ena.fr
-NOERROR	webconf.ena.fr
-NOERROR	webmail.ena.fr
-NOERROR	candidature-formation.ena.fr
-NOERROR	cours-assiduite.ena.fr
-NOERROR	alumni.ena.fr
-NOERROR	sondage.ena.fr
-NOERROR	sphinx.ena.fr
-NXDOMAIN	eye.formation.ena.fr
-NOERROR	reservations-oraux.ena.fr
-NOERROR	extranet.ena.fr
-NOERROR	prep-admin.ena.fr
-NOERROR	moodle.ena.fr
-NOERROR	mail.alumni.chee.ena.fr
-NOERROR	www.alumni.ena.fr
-NOERROR	img.formation.ena.fr
-NOERROR	prep.ena.fr
-NOERROR	av.ena.fr
-NOERROR	ena.fr
-NOERROR	media.ena.fr
-NOERROR	phototheque.ena.fr
-NOERROR	inscriptions-concours-cycles.ena.fr
-NOERROR	bibliopam.ena.fr
+cloud.ena.fr
+admin.media.ena.fr
+amphiblanc.ena.fr
+sip.ena.fr
+moodle3.ena.fr
+antispam.ena.fr
+athena.ena.fr
+ethercalc.ena.fr
+www.ena.fr
+plannings-formations.ena.fr
+mail.alumni.ena.fr
+alumni.chee.ena.fr
+smtp.ena.fr
+webconf.ena.fr
+webmail.ena.fr
+candidature-formation.ena.fr
+cours-assiduite.ena.fr
+alumni.ena.fr
+sondage.ena.fr
+sphinx.ena.fr
+reservations-oraux.ena.fr
+extranet.ena.fr
+prep-admin.ena.fr
+moodle.ena.fr
+mail.alumni.chee.ena.fr
+www.alumni.ena.fr
+img.formation.ena.fr
+prep.ena.fr
+av.ena.fr
+ena.fr
+media.ena.fr
+phototheque.ena.fr
+inscriptions-concours-cycles.ena.fr
+bibliopam.ena.fr

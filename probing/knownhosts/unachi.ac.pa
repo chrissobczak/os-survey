@@ -1,19 +1,11 @@
-NXDOMAIN	correo.edu.unachi.ac.pa
-NXDOMAIN	repositorio.unachi.ac.pa
-NOERROR	icecast.unachi.ac.pa
-NXDOMAIN	economia.unachi.ac.pa
-NOERROR	lasef.unachi.ac.pa
-NXDOMAIN	www.economia.unachi.ac.pa
-NXDOMAIN	edu.unachi.ac.pa
-NOERROR	jadimike.unachi.ac.pa
-NXDOMAIN	solabiaa.unachi.ac.pa
-NOERROR	registros2.unachi.ac.pa
-NOERROR	nginx.unachi.ac.pa
-NOERROR	www.unachi.ac.pa
-NXDOMAIN	correo.unachi.ac.pa
-NOERROR	revistas.unachi.ac.pa
-NOERROR	pluseconomia.unachi.ac.pa
-NOERROR	virtual.unachi.ac.pa
-NOERROR	unachi.ac.pa
-NXDOMAIN	cencina.unachi.ac.pa
-NOERROR	registros.unachi.ac.pa
+icecast.unachi.ac.pa
+lasef.unachi.ac.pa
+jadimike.unachi.ac.pa
+registros2.unachi.ac.pa
+nginx.unachi.ac.pa
+www.unachi.ac.pa
+revistas.unachi.ac.pa
+pluseconomia.unachi.ac.pa
+virtual.unachi.ac.pa
+unachi.ac.pa
+registros.unachi.ac.pa

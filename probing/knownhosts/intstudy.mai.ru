@@ -1,2 +1,2 @@
-NOERROR	www.intstudy.mai.ru
-NOERROR	intstudy.mai.ru
+www.intstudy.mai.ru
+intstudy.mai.ru

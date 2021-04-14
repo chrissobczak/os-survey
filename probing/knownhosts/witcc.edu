@@ -1,65 +1,55 @@
-NXDOMAIN	www.mail.witcc.edu
-NOERROR	remote.witcc.edu
-NOERROR	rig.witcc.edu
-NOERROR	svrexweb01.witcc.edu
-NOERROR	glossary.witcc.edu
-NXDOMAIN	www.remote.witcc.edu
-NXDOMAIN	mta-sts.quest.witcc.edu
-NOERROR	access.witcc.edu
-NOERROR	apply.witcc.edu
-NOERROR	mas-prod.witcc.edu
-NXDOMAIN	www.www2.witcc.edu
-NOERROR	schedule25.witcc.edu
-NOERROR	ec.witcc.edu
-NOERROR	citrix.witcc.edu
-NOERROR	quest.witcc.edu
-NOERROR	www.witcc.edu
-NOERROR	courses.witcc.edu
-NOERROR	www.clearpass.witcc.edu
-NOERROR	www.svrcsf01.witcc.edu
-NOERROR	testmy.witcc.edu
-NXDOMAIN	www.mycomet.witcc.edu
-NOERROR	bie.witcc.edu
-NOERROR	mura.witcc.edu
-NOERROR	phone.witcc.edu
-NOERROR	dev.witcc.edu
-NOERROR	svrcsf01.witcc.edu
-NOERROR	api.witcc.edu
-NOERROR	cms.witcc.edu
-NOERROR	www.mcms.witcc.edu
-NOERROR	my.witcc.edu
-NOERROR	clearpass.witcc.edu
-NOERROR	www.mura.witcc.edu
-NOERROR	cometradio.witcc.edu
-NOERROR	catalog.witcc.edu
-NOERROR	www.cms2018.witcc.edu
-NOERROR	witcc.edu
-NOERROR	academics.witcc.edu
-NXDOMAIN	www.api.witcc.edu
-NOERROR	mydesktop.witcc.edu
-NOERROR	www.citrix.witcc.edu
-NOERROR	cms2018.witcc.edu
-NOERROR	www.mercury.witcc.edu
-NOERROR	mercury.witcc.edu
-NOERROR	bookstore.witcc.edu
-NOERROR	signs.witcc.edu
-NOERROR	media.witcc.edu
-NOERROR	rlo1.witcc.edu
-NXDOMAIN	www.phone.witcc.edu
-NOERROR	www.signs.witcc.edu
-NXDOMAIN	www.mydesktop.witcc.edu
-NOERROR	witcyberlabs.witcc.edu
-NOERROR	autodiscover.witcc.edu
-NOERROR	mycomet.witcc.edu
-NOERROR	www2.witcc.edu
-NOERROR	www.cms.witcc.edu
-NOERROR	customer.witcc.edu
-NOERROR	boiler.witcc.edu
-NXDOMAIN	www.access.witcc.edu
-NOERROR	m.catalog.witcc.edu
-NOERROR	www.mas-prod.witcc.edu
-NOERROR	svradfs01.witcc.edu
-NOERROR	mcms.witcc.edu
-NOERROR	mail.witcc.edu
-NXDOMAIN	www.dev.witcc.edu
-NOERROR	testrecruitadmin.witcc.edu
+remote.witcc.edu
+rig.witcc.edu
+svrexweb01.witcc.edu
+glossary.witcc.edu
+access.witcc.edu
+apply.witcc.edu
+mas-prod.witcc.edu
+schedule25.witcc.edu
+ec.witcc.edu
+citrix.witcc.edu
+quest.witcc.edu
+www.witcc.edu
+courses.witcc.edu
+www.clearpass.witcc.edu
+www.svrcsf01.witcc.edu
+testmy.witcc.edu
+bie.witcc.edu
+mura.witcc.edu
+phone.witcc.edu
+dev.witcc.edu
+svrcsf01.witcc.edu
+api.witcc.edu
+cms.witcc.edu
+www.mcms.witcc.edu
+my.witcc.edu
+clearpass.witcc.edu
+www.mura.witcc.edu
+cometradio.witcc.edu
+catalog.witcc.edu
+www.cms2018.witcc.edu
+witcc.edu
+academics.witcc.edu
+mydesktop.witcc.edu
+www.citrix.witcc.edu
+cms2018.witcc.edu
+www.mercury.witcc.edu
+mercury.witcc.edu
+bookstore.witcc.edu
+signs.witcc.edu
+media.witcc.edu
+rlo1.witcc.edu
+www.signs.witcc.edu
+witcyberlabs.witcc.edu
+autodiscover.witcc.edu
+mycomet.witcc.edu
+www2.witcc.edu
+www.cms.witcc.edu
+customer.witcc.edu
+boiler.witcc.edu
+m.catalog.witcc.edu
+www.mas-prod.witcc.edu
+svradfs01.witcc.edu
+mcms.witcc.edu
+mail.witcc.edu
+testrecruitadmin.witcc.edu

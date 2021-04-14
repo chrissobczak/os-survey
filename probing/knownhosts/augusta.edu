@@ -1,945 +1,737 @@
-NOERROR	fw-uga-slr-std-nat.augusta.edu
-NOERROR	quintpub.com.ezproxy.augusta.edu
-NXDOMAIN	mail.cyber.augusta.edu
-NOERROR	ns-wafsite-vcs-01.augusta.edu
-NOERROR	journals.sagepub.com.ezproxy.augusta.edu
-NOERROR	cancerdirectory.augusta.edu
-NOERROR	rd48.augusta.edu
-NXDOMAIN	mail.dayofservice.augusta.edu
-NOERROR	calendar2.augusta.edu
-NOERROR	viexhubtest.augusta.edu
-NXDOMAIN	byod.augusta.edu
-NXDOMAIN	wug.augusta.edu
-NOERROR	www.micromedexsolutions.com.ezproxy.augusta.edu
-NOERROR	hrp461.augusta.edu
-NOERROR	dcm.augusta.edu
-NOERROR	vipexhub.augusta.edu
-NOERROR	somadm.augusta.edu
-NOERROR	gradapply.augusta.edu
-NXDOMAIN	mail.cancertrials.augusta.edu
-NOERROR	lists.genomics.augusta.edu
-NOERROR	oncore.augusta.edu
-NOERROR	vs-rp45.augusta.edu
-NOERROR	inauguration.augusta.edu
-NOERROR	analytics.augusta.edu
-NOERROR	web.b.ebscohost.com.ezproxy.augusta.edu
-NOERROR	hpc1-util.augusta.edu
-NXDOMAIN	www.policy.augusta.edu
-NOERROR	pod5.cyberlab.augusta.edu
-NOERROR	search.ebscohost.com.ezproxy.augusta.edu
-NOERROR	au-banprd-wl12.augusta.edu
-NOERROR	ns-wafsite-vcs-07.augusta.edu
-NOERROR	bridge.augusta.edu
-NXDOMAIN	www.cyber.augusta.edu
-NOERROR	catalog.augusta.edu
-NOERROR	lists.augusta.edu
-NOERROR	my.augusta.edu
-NOERROR	vs-rd5.augusta.edu
-NOERROR	hi2.augusta.edu
-NOERROR	login.augusta.edu
-NOERROR	shfed.augusta.edu
-NOERROR	hspf-ise-05.augusta.edu
-NOERROR	ns-wafsite-vcs-10.augusta.edu
-NOERROR	nla-pod-003.cyberlab.augusta.edu
-NOERROR	bjp.rcpsych.org.ezproxy.augusta.edu
-NOERROR	ns-wafsite-vcs-11.augusta.edu
-NOERROR	ns-wafsite-sdc-02.augusta.edu
-NOERROR	ccreport.augusta.edu
-NOERROR	wifi-aumc.augusta.edu
-NOERROR	paws.augusta.edu
-NOERROR	idx.augusta.edu
-NOERROR	www.augusta.edu
-NOERROR	imedia.augusta.edu
-NOERROR	video.augusta.edu
-NOERROR	aug-purgatory.augusta.edu
-NOERROR	bioanalysis.genomic.augusta.edu
-NOERROR	m.augusta.edu
-NOERROR	ns-wafsite-augusta.augusta.edu
-NXDOMAIN	mail.policy.augusta.edu
-NOERROR	sftp.augusta.edu
-NOERROR	hanoi.augusta.edu
-NOERROR	adfstst.augusta.edu
-NOERROR	cancernews.augusta.edu
-NXDOMAIN	mail.cancernews.augusta.edu
-NOERROR	hspf-ise-06.augusta.edu
-NOERROR	wasabi.augusta.edu
-NOERROR	ns-wafsite-vcs-12.augusta.edu
-NOERROR	jagnow.augusta.edu
-NOERROR	cyberlab.augusta.edu
-NOERROR	ns-wafsite-vcs-13.augusta.edu
-NOERROR	cancertrials.augusta.edu
-NOERROR	au-dciparc-app1.augusta.edu
-NOERROR	ns1.augusta.edu
-NOERROR	wan2.augusta.edu
-NOERROR	www-psychiatrist-com.ezproxy.augusta.edu
-NOERROR	www.nature.com.ezproxy.augusta.edu
-NOERROR	fw-uga-slr-act-nat.augusta.edu
-NOERROR	fw-pci-out.augusta.edu
-NOERROR	aupoliceupdates.augusta.edu
-NOERROR	csgolddb.augusta.edu
-NOERROR	apps.augusta.edu
-NXDOMAIN	esirius.augusta.edu
-NXDOMAIN	www.cancerdirectory.augusta.edu
-NXDOMAIN	cpanel.dcm.augusta.edu
-NOERROR	loginqa.augusta.edu
-NOERROR	webservices.augusta.edu
-NOERROR	web2.augusta.edu
-NOERROR	sms2.augusta.edu
-NOERROR	greport.augusta.edu
-NOERROR	deadservice2.augusta.edu
-NXDOMAIN	www.jagnation.augusta.edu
-NOERROR	ezproxy.augusta.edu
-NOERROR	ns-wafsite-vcs-02.augusta.edu
-NOERROR	ns-wafsite-vcs-03.augusta.edu
-NOERROR	webex.augusta.edu
-NOERROR	magazines.augusta.edu
-NXDOMAIN	conference-3-gru.augusta.edu
-NXDOMAIN	digitalpathology.augusta.edu
-NOERROR	nla-pod-001.cyberlab.augusta.edu
-NOERROR	pod1.cyberlab.augusta.edu
-NXDOMAIN	www.inauguration.augusta.edu
-NOERROR	rd57.augusta.edu
-NOERROR	ifolder.augusta.edu
-NOERROR	qapassword.augusta.edu
-NOERROR	wifi-au.augusta.edu
-NXDOMAIN	uc2cms2.augusta.edu
-NOERROR	ppg.augusta.edu
-NOERROR	hi.augusta.edu
-NOERROR	muse.jhu.edu.ezproxy.augusta.edu
-NOERROR	www.essentialevidenceplus.com.ezproxy.augusta.edu
-NOERROR	www-dev.augusta.edu
-NOERROR	rp3.augusta.edu
-NOERROR	vs-rp10.augusta.edu
-NXDOMAIN	www.cancertrials.augusta.edu
-NOERROR	guest.augusta.edu
-NOERROR	gilfind.augusta.edu
-NOERROR	pounce.augusta.edu
-NXDOMAIN	www.hullnews.augusta.edu
-NOERROR	archive.augusta.edu
-NOERROR	os390.augusta.edu
-NOERROR	hiftp.augusta.edu
-NXDOMAIN	mail.jagwire.augusta.edu
-NOERROR	lwwhealthlibrary-com.ezproxy.augusta.edu
-NOERROR	support.ebsco.com.ezproxy.augusta.edu
-NXDOMAIN	www.advances.augusta.edu
-NOERROR	hi-fairwarning.augusta.edu
-NOERROR	hullnews.augusta.edu
-NXDOMAIN	ise.augusta.edu
-NOERROR	sundial.augusta.edu
-NOERROR	genomics.augusta.edu
-NOERROR	dds-fe.augusta.edu
-NXDOMAIN	www.coenews.augusta.edu
-NOERROR	robotron.augusta.edu
-NOERROR	pubdev.augusta.edu
-NOERROR	pvpn.augusta.edu
-NOERROR	sms1.augusta.edu
-NOERROR	dsb.augusta.edu
-NOERROR	ns-wafsite-vcs-04.augusta.edu
-NOERROR	adfsca.augusta.edu
-NXDOMAIN	webdisk.cyber.augusta.edu
-NOERROR	aceweb.augusta.edu
-NOERROR	onlinelibrary.wiley.com.ezproxy.augusta.edu
-NXDOMAIN	mail.brand.augusta.edu
-NOERROR	au-bantstcl.augusta.edu
-NOERROR	sw.augusta.edu
-NOERROR	password.augusta.edu
-NOERROR	webapps.augusta.edu
-NXDOMAIN	www.dcm.augusta.edu
-NOERROR	pod2.cyberlab.augusta.edu
-NOERROR	csgoldtps.augusta.edu
-NOERROR	www.cochranelibrary.com.ezproxy.augusta.edu
-NOERROR	au-devordc-db01.augusta.edu
-NOERROR	entftp.augusta.edu
-NOERROR	pubgru.augusta.edu
-NOERROR	vs-rp9.augusta.edu
-NOERROR	vs-rp12.augusta.edu
-NXDOMAIN	hspf-ise-08.augusta.edu
-NXDOMAIN	leadership-academy.augusta.edu
-NOERROR	ches.augusta.edu
-NXDOMAIN	uc2cmm.augusta.edu
-NOERROR	egsc-augusta.augusta.edu
-NOERROR	duo.augusta.edu
-NXDOMAIN	au-ex16mb01.augusta.edu
-NOERROR	devadfs.augusta.edu
-NOERROR	nam-ids1.augusta.edu
-NOERROR	host.augusta.edu
-NOERROR	bindery.augusta.edu
-NOERROR	edge2.augusta.edu
-NOERROR	fi.augusta.edu
-NOERROR	osh.augusta.edu
-NOERROR	www.sciencedirect.com.ezproxy.augusta.edu
-NOERROR	lecturedev.augusta.edu
-NOERROR	au-banprdcl.augusta.edu
-NOERROR	app.augusta.edu
-NOERROR	data.augusta.edu
-NOERROR	uc2ewe1.augusta.edu
-NXDOMAIN	mail.aupoliceupdates.augusta.edu
-NXDOMAIN	uc2ewc2.augusta.edu
-NXDOMAIN	cpanel.cyber.augusta.edu
-NXDOMAIN	www.igive.augusta.edu
-NOERROR	hs.augusta.edu
-NOERROR	offcampushousing.augusta.edu
-NOERROR	lockss.augusta.edu
-NOERROR	xmail.augusta.edu
-NOERROR	policy.augusta.edu
-NOERROR	vpn3.augusta.edu
-NOERROR	nla-pod-004.cyberlab.augusta.edu
-NOERROR	citrix2.augusta.edu
-NOERROR	proscia.augusta.edu
-NXDOMAIN	mail.insider.augusta.edu
-NXDOMAIN	webdisk.dcm.augusta.edu
-NOERROR	vpn.augusta.edu
-NOERROR	secure.augusta.edu
-NOERROR	ovidsp.tx.ovid.com.ezproxy.augusta.edu
-NXDOMAIN	mail.magazines.augusta.edu
-NOERROR	ns-wafsite-vcs-05.augusta.edu
-NOERROR	cyber.augusta.edu
-NOERROR	login.ezproxy.augusta.edu
-NOERROR	vpn4.augusta.edu
-NOERROR	citrix.augusta.edu
-NOERROR	echonlb.augusta.edu
-NOERROR	brand.augusta.edu
-NOERROR	softserv.augusta.edu
-NOERROR	vcse2.augusta.edu
-NXDOMAIN	hspf-ise-07.augusta.edu
-NXDOMAIN	mail.coenews.augusta.edu
-NOERROR	openurl.ebscohost.com.ezproxy.augusta.edu
-NOERROR	nam-ids3.augusta.edu
-NOERROR	augusta.edu
-NOERROR	web.a.ebscohost.com.ezproxy.augusta.edu
-NOERROR	igive.augusta.edu
-NXDOMAIN	whm.dcm.augusta.edu
-NXDOMAIN	www.cancernews.augusta.edu
-NXDOMAIN	uc2rec2.augusta.edu
-NXDOMAIN	www.ccreport.augusta.edu
-NXDOMAIN	www.magazines.augusta.edu
-NOERROR	deansdiary.augusta.edu
-NOERROR	ce.augusta.edu
-NOERROR	apply.augusta.edu
-NOERROR	dih.augusta.edu
-NOERROR	xsrv1.augusta.edu
-NXDOMAIN	myvoicemail.augusta.edu
-NOERROR	liboclc5.augusta.edu
-NOERROR	rp69.augusta.edu
-NOERROR	ns-wafsite-sdc-03.augusta.edu
-NOERROR	ns-wafsite-vcs-16.augusta.edu
-NOERROR	cyberonline.augusta.edu
-NOERROR	echoftp.augusta.edu
-NOERROR	rp25.augusta.edu
-NOERROR	au-bansys-wl12.augusta.edu
-NOERROR	fod.infobase.com.proxygsu-reg1.galileo.usg.edu.ezproxy.augusta.edu
-NOERROR	ems.augusta.edu
-NOERROR	ns-wafsite-learningspace.augusta.edu
-NOERROR	a0.augusta.edu
-NOERROR	batesvisualguide.com.ezproxy.augusta.edu
-NOERROR	ovidsp.ovid.com.ezproxy.augusta.edu
-NOERROR	waf-ha1-api.augusta.edu
-NOERROR	accessmedicine.mhmedical.com.ezproxy.augusta.edu
-NXDOMAIN	mail.inauguration.augusta.edu
-NOERROR	ns-wafsite-vcs-15.augusta.edu
-NOERROR	timenet.augusta.edu
-NXDOMAIN	www.jagwire.augusta.edu
-NOERROR	email.augusta.edu
-NXDOMAIN	eguide.augusta.edu
-NOERROR	mcg.augusta.edu
-NOERROR	mft.augusta.edu
-NOERROR	fmlectures.augusta.edu
-NOERROR	m.catalog.augusta.edu
-NOERROR	alumni.augusta.edu
-NXDOMAIN	mail.cancerdirectory.augusta.edu
-NXDOMAIN	conference-2-gru.augusta.edu
-NOERROR	flyleaf.augusta.edu
-NOERROR	cj.augusta.edu
-NXDOMAIN	uc2cms-rs2.augusta.edu
-NOERROR	erecruit.augusta.edu
-NOERROR	rv.augusta.edu
-NOERROR	fw-aug-act-out.augusta.edu
-NOERROR	nla-pod-005.cyberlab.augusta.edu
-NOERROR	appl.augusta.edu
-NOERROR	bh.augusta.edu
-NOERROR	mfareg.augusta.edu
-NXDOMAIN	www.jagnow.augusta.edu
-NOERROR	support.augusta.edu
-NOERROR	vs-rd4.augusta.edu
-NOERROR	rd69.augusta.edu
-NOERROR	rx.augusta.edu
-NOERROR	lecture.augusta.edu
-NXDOMAIN	u2cewc2.augusta.edu
-NOERROR	gil.augusta.edu
-NOERROR	summ.augusta.edu
-NOERROR	publish.augusta.edu
-NOERROR	nla-pod-002.cyberlab.augusta.edu
-NOERROR	dev.augusta.edu
-NOERROR	acc.aacnjournals.org.ezproxy.augusta.edu
-NOERROR	www.augusta.edu.ezproxy.augusta.edu
-NOERROR	jagwire.augusta.edu
-NXDOMAIN	webmail.dcm.augusta.edu
-NOERROR	adfs2.augusta.edu
-NOERROR	viexcastest.augusta.edu
-NOERROR	cochranelibrary-wiley.com.ezproxy.augusta.edu
-NOERROR	ns-timenet-augusta.augusta.edu
-NOERROR	ns-wafsite-vcs-14.augusta.edu
-NOERROR	mymail.augusta.edu
-NOERROR	pod4.cyberlab.augusta.edu
-NOERROR	vcsexpressway.augusta.edu
-NOERROR	owa.augusta.edu
-NOERROR	ca.augusta.edu
-NOERROR	hpc1-head.augusta.edu
-NOERROR	therasim.augusta.edu
-NOERROR	www.galileo.usg.edu.ezproxy.augusta.edu
-NXDOMAIN	mail.igive.augusta.edu
-NXDOMAIN	uc2rec1.augusta.edu
-NXDOMAIN	uc2ewc1.augusta.edu
-NOERROR	adfs.augusta.edu
-NOERROR	vpn2.augusta.edu
-NOERROR	ns-wafsite-sdc-01.augusta.edu
-NXDOMAIN	au-ex16mb02.augusta.edu
-NOERROR	rp40.augusta.edu
-NOERROR	au-banprd-ethosid.augusta.edu
-NOERROR	edge1.augusta.edu
-NOERROR	medicalphysics.augusta.edu
-NXDOMAIN	ent-sworion-pol.augusta.edu
-NXDOMAIN	www.bmes.k12.augusta.edu
-NOERROR	giving.augusta.edu
-NOERROR	www.quintpub.com.ezproxy.augusta.edu
-NOERROR	phish.augusta.edu
-NXDOMAIN	uc2rec3.augusta.edu
-NOERROR	train.augusta.edu
-NOERROR	ns-wafsite-vcs-06.augusta.edu
-NXDOMAIN	mydevices.augusta.edu
-NXDOMAIN	whm.cyber.augusta.edu
-NOERROR	wan1.augusta.edu
-NOERROR	rp4.augusta.edu
-NOERROR	calendar.augusta.edu
-NOERROR	eds.b.ebscohost.com.ezproxy.augusta.edu
-NXDOMAIN	www.deansdiary.augusta.edu
-NOERROR	rd47.augusta.edu
-NOERROR	rvpf-ise-01.cyber.augusta.edu
-NOERROR	lms.augusta.edu
-NXDOMAIN	listserv.augusta.edu
-NXDOMAIN	webmail.cyber.augusta.edu
-NOERROR	id3.augusta.edu
-NXDOMAIN	www.dayofservice.augusta.edu
-NOERROR	ec.augusta.edu
-NOERROR	guides.augusta.edu
-NXDOMAIN	www.brand.augusta.edu
-NOERROR	ns-wafsite-vcs-09.augusta.edu
-NOERROR	askus.augusta.edu
-NOERROR	au-dciparc-sql1.augusta.edu
-NXDOMAIN	mail.jagnation.augusta.edu
-NOERROR	gc.augusta.edu
-NOERROR	rp20.augusta.edu
-NOERROR	web1.augusta.edu
-NXDOMAIN	www.aupoliceupdates.augusta.edu
-NOERROR	autodiscover.augusta.edu
-NOERROR	heartstart.augusta.edu
-NOERROR	citrixdev.augusta.edu
-NOERROR	nam-ids4.augusta.edu
-NOERROR	learningspace.augusta.edu
-NOERROR	idp1.augusta.edu
-NOERROR	dayofservice.augusta.edu
-NXDOMAIN	iqvrwsh.augusta.edu
-NOERROR	aurora.augusta.edu
-NOERROR	coenews.augusta.edu
-NOERROR	fw-aug-std-out.augusta.edu
-NOERROR	insider.augusta.edu
-NOERROR	bline-pubstreamsrv.augusta.edu
-NOERROR	ldap4.augusta.edu
-NOERROR	aclandanatomy-com.ezproxy.augusta.edu
-NXDOMAIN	mail.hullnews.augusta.edu
-NXDOMAIN	hspf-ise-10.augusta.edu
-NXDOMAIN	access.augusta.edu
-NOERROR	fod.infobase.com.ezproxy.augusta.edu
-NOERROR	cancer.augusta.edu
-NXDOMAIN	testise.augusta.edu
-NOERROR	fmed-webview.augusta.edu
-NOERROR	pod3.cyberlab.augusta.edu
-NOERROR	ns2.augusta.edu
-NOERROR	jaguar.augusta.edu
-NXDOMAIN	au-infoed-dev1.augusta.edu
-NOERROR	ns-wafsite-vcs-08.augusta.edu
-NOERROR	vs-rp44.augusta.edu
-NOERROR	wiki.augusta.edu
-NOERROR	citrixmfa.augusta.edu
-NOERROR	eds.a.ebscohost.com.ezproxy.augusta.edu
-NOERROR	go.augusta.edu
-NOERROR	sashimi.augusta.edu
-NOERROR	waf-ha1-esirius.augusta.edu
-NXDOMAIN	www.insider.augusta.edu
-NOERROR	au-prodordc-db01.augusta.edu
-NOERROR	jagtrax.augusta.edu
-NOERROR	adfs3.augusta.edu
-NXDOMAIN	uc2cms-rs1.augusta.edu
-NOERROR	vipexcas.augusta.edu
-NOERROR	esirius3g.augusta.edu
-NOERROR	advances.augusta.edu
-NXDOMAIN	fairwarning.augusta.edu
-NOERROR	join.augusta.edu
-NOERROR	page.augusta.edu
-NOERROR	au-bandev-wl12.augusta.edu
-NOERROR	rd11.augusta.edu
-NXDOMAIN	mail.dcm.augusta.edu
-NOERROR	radiology.augusta.edu
-NOERROR	uc2ewe2.augusta.edu
-NOERROR	rp33.augusta.edu
-NOERROR	ddpe-fe.augusta.edu
-NXDOMAIN	hspf-5250pa-fw.augusta.edu
-NOERROR	guestauth.augusta.edu
-NOERROR	fnp461.augusta.edu
-NXDOMAIN	alertus.augusta.edu
-NXDOMAIN	mail.deansdiary.augusta.edu
-NOERROR	jagnation.augusta.edu
-NOERROR	helios.augusta.edu
-NOERROR	box.augusta.edu
-NXDOMAIN	mail.ccreport.augusta.edu
-NXDOMAIN	hspf-ise-09.augusta.edu
-NOERROR	spots.augusta.edu
-NXDOMAIN	mail.advances.augusta.edu
-NXDOMAIN	uc2cms1.augusta.edu
-NOERROR	sn.augusta.edu
-NXDOMAIN	www.support.gru.edu
-SERVFAIL	tberg-ip158-093-192-005.gru.edu
-NOERROR	stm.sciencemag.org.ezproxy.gru.edu
-NOERROR	jamanetwork.com.ezproxy.gru.edu
-NOERROR	alexanderstreet.com.ezproxy.gru.edu
-NOERROR	search.alexanderstreet.com.ezproxy.gru.edu
-NOERROR	tberg-ip158-093-192-013.gru.edu
-NXDOMAIN	www.jagnet.gru.edu
-NOERROR	webapps.gru.edu
-NOERROR	web.ebscohost.com.ezproxy.gru.edu
-NXDOMAIN	www.coenews.gru.edu
-NXDOMAIN	hivpn.gru.edu
-NOERROR	nam-ip158-093-190-219.gru.edu
-NXDOMAIN	www.greport.gru.edu
-NOERROR	nam-ids4.gru.edu
-NOERROR	nam-ip158-093-190-176.gru.edu
-NXDOMAIN	access.gru.edu
-SERVFAIL	archderm.jamanetwork.com.ezproxy.gru.edu
-NOERROR	gchcclock056.gru.edu
-NOERROR	hi2.gru.edu
-NOERROR	ccc.gru.edu
-NOERROR	edtoolbox.gru.edu
-NOERROR	nam-ip158-093-190-170.gru.edu
-NOERROR	sftp.gru.edu
-NOERROR	uc2ewe2.gru.edu
-NOERROR	nam-ip158-093-190-171.gru.edu
-NOERROR	xtids1.gru.edu
-NOERROR	nam-ip158-093-190-211.gru.edu
-NOERROR	tberg-ip158-093-192-030.gru.edu
-NOERROR	publish.gru.edu
-NOERROR	citrixdev.gru.edu
-NOERROR	hi.gru.edu
-NOERROR	nam-ip158-093-190-147.gru.edu
-SERVFAIL	ejournals.ebsco.com.ezproxy.gru.edu
-NOERROR	openurl.ebscohost.com.ezproxy.gru.edu
-NOERROR	bioinformatics.gru.edu
-NOERROR	tberg-ip158-093-192-023.gru.edu
-NXDOMAIN	whm.greport.gru.edu
-NOERROR	login.gru.edu
-NXDOMAIN	www.uc2cer2.gru.edu
-NOERROR	hi-fairwarning.gru.edu
-NOERROR	vs-rp12.gru.edu
-NXDOMAIN	bipf-wism2-1.gru.edu
-NOERROR	edge2.gru.edu
-NOERROR	lecturedev.gru.edu
-NOERROR	www.cbgm.gru.edu
-NOERROR	rd48.gru.edu
-NOERROR	psychiatryonline.org.ezproxy.gru.edu
-NOERROR	tberg-ip158-093-192-004.gru.edu
-NOERROR	resolver.ebscohost.com.ezproxy.gru.edu
-NXDOMAIN	hspf-ise-3.gru.edu
-NOERROR	portal.gru.edu
-NOERROR	nam-ip158-093-190-141.gru.edu
-NOERROR	media.proquest.com.ezproxy.gru.edu
-NOERROR	nam-ip158-093-190-153.gru.edu
-NXDOMAIN	uc2.gru.edu
-NXDOMAIN	mail.greport.gru.edu
-NOERROR	nam-ip158-093-190-128.gru.edu
-NOERROR	nam-ip158-093-190-169.gru.edu
-NOERROR	corefacility.gru.edu
-NOERROR	catalog.gru.edu
-NXDOMAIN	data.gru.edu
-NXDOMAIN	mail.coenews.gru.edu
-NOERROR	nam-ip158-093-190-164.gru.edu
-NOERROR	nam-ip158-093-190-194.gru.edu
-NOERROR	nam-ip158-093-190-162.gru.edu
-NXDOMAIN	uc2tftp3.gru.edu
-NOERROR	eds.b.ebscohost.com.ezproxy.gru.edu
-NXDOMAIN	www.gacybercenter.org.greport.gru.edu
-NOERROR	cancerdirectory.gru.edu
-NOERROR	nam-ip158-093-190-129.gru.edu
-NOERROR	nam-ip158-093-190-182.gru.edu
-NOERROR	go.galegroup.com.ezproxy.gru.edu
-NOERROR	foreword.gru.edu
-NOERROR	nam-ip158-093-190-134.gru.edu
-NOERROR	nam-ip158-093-190-216.gru.edu
-NXDOMAIN	www.cancernews.gru.edu
-NOERROR	mcgps34.gru.edu
-NOERROR	nam-ip158-093-190-159.gru.edu
-NOERROR	heartstart.gru.edu
-NOERROR	nam-ip158-093-190-167.gru.edu
-NOERROR	idp1.gru.edu
-NOERROR	nam-ip158-093-190-236.gru.edu
-NOERROR	rp3.gru.edu
-NXDOMAIN	cyber.greport.gru.edu
-NOERROR	ccreport.gru.edu
-NOERROR	bline-pubstreamsrv.gru.edu
-NOERROR	ns-timenet-gru.gru.edu
-NOERROR	waf-ha1-esirius.gru.edu
-NOERROR	nam-ip158-093-190-124.gru.edu
-NOERROR	calendar2.gru.edu
-NOERROR	cancernews.gru.edu
-NOERROR	mcgps44.gru.edu
-NOERROR	vs-rd5.gru.edu
-NXDOMAIN	www.cyber.greport.gru.edu
-NXDOMAIN	mail.ccreport.gru.edu
-NOERROR	nam-ip158-093-190-206.gru.edu
-NXDOMAIN	eirb.gru.edu
-NOERROR	nam-ip158-093-190-215.gru.edu
-NOERROR	spots.gru.edu
-NOERROR	nam-ip158-093-190-187.gru.edu
-NOERROR	video.gru.edu
-NOERROR	ldap4.gru.edu
-NXDOMAIN	gacybercenter.org.greport.gru.edu
-NXDOMAIN	uc2ccx2.gru.edu
-NOERROR	app.gru.edu
-NOERROR	site.ebrary.com.ezproxy.gru.edu
-NOERROR	tberg-ip158-093-192-024.gru.edu
-NXDOMAIN	osh.gru.edu
-NOERROR	admin-apps.webofknowledge.com.ezproxy.gru.edu
-NXDOMAIN	cahs.gru.edu
-NOERROR	nam-ip158-093-190-224.gru.edu
-NOERROR	gradschool.gru.edu
-NXDOMAIN	conference-2-standalonecluster3f646.gru.edu
-NXDOMAIN	uc2pub.gru.edu
-NOERROR	mymail.gru.edu
-NXDOMAIN	jagnet.gru.edu
-NOERROR	a0.gru.edu
-NOERROR	nam-ip158-093-190-209.gru.edu
-NOERROR	nam-ip158-093-190-136.gru.edu
-NOERROR	fw-aug-act-out.gru.edu
-NXDOMAIN	uc2tftp2.gru.edu
-NOERROR	www.wiley.com.ezproxy.gru.edu
-NOERROR	ghsu-158-93-193-30.gru.edu
-NOERROR	calendar.gru.edu
-NOERROR	www.apreso.gru.edu
-NOERROR	tberg-ip158-093-192-009.gru.edu
-NOERROR	nam-ip158-093-190-150.gru.edu
-NOERROR	magazines.gru.edu
-NXDOMAIN	www.foreword.gru.edu
-NOERROR	bjp.rcpsych.org.ezproxy.gru.edu
-NXDOMAIN	uc2ewc2.gru.edu
-NOERROR	pubdev.gru.edu
-NXDOMAIN	conference-3-standalonecluster3f646.gru.edu
-NOERROR	email.gru.edu
-NOERROR	hpc1-head.gru.edu
-NXDOMAIN	www.au.gru.edu
-NXDOMAIN	support.gru.edu
-NOERROR	nam-ip158-093-190-140.gru.edu
-NOERROR	nam-ip158-093-190-205.gru.edu
-NOERROR	onlinelibrary.wiley.com.ezproxy.gru.edu
-NXDOMAIN	computerlabs.gru.edu
-NOERROR	nam-ip158-093-190-195.gru.edu
-NOERROR	press.endocrine.org.ezproxy.gru.edu
-NOERROR	login.ezproxy2.gru.edu
-NOERROR	ddpe-fe.gru.edu
-NOERROR	nam-ip158-093-190-166.gru.edu
-NOERROR	www.pnas.org.ezproxy.gru.edu
-NOERROR	tberg-ip158-093-192-007.gru.edu
-NOERROR	nam-ip158-093-190-214.gru.edu
-NOERROR	login.ezproxy-v6.gru.edu
-NOERROR	vs-rd1.gru.edu
-NOERROR	www.gru.edu
-NOERROR	tberg-ip158-093-192-018.gru.edu
-NOERROR	page.gru.edu
-NOERROR	lecture.gru.edu
-NOERROR	nam-ip158-093-190-145.gru.edu
-NOERROR	genomics.gru.edu
-NOERROR	owa.gru.edu
-NXDOMAIN	www.uc2ccx1.gru.edu
-NOERROR	fod.infobase.com.proxygsu-reg1.galileo.usg.edu.ezproxy.gru.edu
-NXDOMAIN	uc2cer1.gru.edu
-NOERROR	rp25.gru.edu
-NOERROR	web.b.ebscohost.com.ezproxy.gru.edu
-NOERROR	softserv.gru.edu
-NOERROR	nam-ip158-093-190-148.gru.edu
-NOERROR	nam-ip158-093-190-197.gru.edu
-NOERROR	www.oed.com.ezproxy.gru.edu
-NOERROR	tberg-ip158-093-192-017.gru.edu
-NOERROR	rp40.gru.edu
-NOERROR	nam-ip158-093-190-199.gru.edu
-NOERROR	eds.a.ebscohost.com.ezproxy.gru.edu
-NOERROR	support.ebsco.com.ezproxy.gru.edu
-NXDOMAIN	uc2ewc1.gru.edu
-NOERROR	nam-ip158-093-190-233.gru.edu
-NOERROR	mcgpsoft4nt.gru.edu
-NOERROR	nam-ip158-093-190-154.gru.edu
-NOERROR	coenews.gru.edu
-NOERROR	rd57.gru.edu
-NOERROR	os390.gru.edu
-NOERROR	www.oxfordreference.com.ezproxy.gru.edu
-NOERROR	tberg-ip158-093-192-027.gru.edu
-NOERROR	password.gru.edu
-NOERROR	www.ishib.org.ezproxy.gru.edu
-NOERROR	ovidsp.tx.ovid.com.ezproxy.gru.edu
-SERVFAIL	www.jstor.org.ezproxy.gru.edu
-NXDOMAIN	cts.gru.edu
-NXDOMAIN	mail.insider.gru.edu
-NOERROR	nam-ip158-093-190-183.gru.edu
-NOERROR	nam-ip158-093-190-237.gru.edu
-NXDOMAIN	mail.cancertrials.gru.edu
-SERVFAIL	journals.sagepub.com.ezproxy.gru.edu
-NXDOMAIN	uc2cuc.gru.edu
-NOERROR	secure.gru.edu
-NOERROR	host.gru.edu
-NOERROR	lists.genomics.gru.edu
-NXDOMAIN	mail.au.gru.edu
-NOERROR	train.gru.edu
-NOERROR	guides.gru.edu
-NOERROR	vipexcas.gru.edu
-NXDOMAIN	spotlight.gru.edu
-NOERROR	nam-ip158-093-190-212.gru.edu
-NOERROR	bline-simbrgsrv.gru.edu
-NOERROR	vs-rp44.gru.edu
-NXDOMAIN	www.jagwire.gru.edu
-NOERROR	nam-ip158-093-190-137.gru.edu
-NOERROR	digital.films.com.ezproxy.gru.edu
-NOERROR	www.micromedexsolutions.com.ezproxy.gru.edu
-NOERROR	search.proquest.com.ezproxy.gru.edu
-NOERROR	pshr.gru.edu
-NOERROR	advances.sciencemag.org.ezproxy.gru.edu
-NOERROR	radiology.gru.edu
-NXDOMAIN	www.cancerdirectory.gru.edu
-NOERROR	www.essentialevidenceplus.com.ezproxy.gru.edu
-NOERROR	nam-ag3-gh-https.gru.edu
-NOERROR	nam-ip158-093-190-218.gru.edu
-NOERROR	archinte.jamanetwork.com.ezproxy.gru.edu
-NOERROR	ties.gru.edu
-NXDOMAIN	webmail.greport.gru.edu
-NOERROR	ppg.gru.edu
-NOERROR	bline-firewall.gru.edu
-NXDOMAIN	uc2sub2b.gru.edu
-NXDOMAIN	uc2sub4b.gru.edu
-NOERROR	m.gru.edu
-NXDOMAIN	www.ccreport.gru.edu
-NOERROR	bioanalysis.genomic.gru.edu
-NOERROR	nam-ip158-093-190-189.gru.edu
-NOERROR	ovidsp.uk.ovid.com.ezproxy.gru.edu
-NXDOMAIN	www.cancertrials.gru.edu
-NOERROR	nam-ip158-093-190-142.gru.edu
-SERVFAIL	www.galileo.usg.edu.ezproxy.gru.edu
-NOERROR	ic.galegroup.com.ezproxy.gru.edu
-NOERROR	web.a.ebscohost.com.ezproxy.gru.edu
-NOERROR	nam-ip158-093-190-232.gru.edu
-NOERROR	ps.psychiatryonline.org.ezproxy.gru.edu
-NXDOMAIN	citrixtest.gru.edu
-NOERROR	tberg-ip158-093-192-019.gru.edu
-NOERROR	nam-ip158-093-190-155.gru.edu
-NXDOMAIN	net.gru.edu
-NXDOMAIN	www.csg.gru.edu
-NOERROR	gilfind.gru.edu
-NOERROR	www-ncbi-nlm-nih-gov.ezproxy.gru.edu
-NOERROR	nam-ip158-093-190-223.gru.edu
-NOERROR	hull.gru.edu
-NOERROR	fw-uga-slr-std-nat.gru.edu
-NOERROR	atoz.ebsco.com.ezproxy.gru.edu
-NOERROR	www.sciencemag.org.ezproxy.gru.edu
-NXDOMAIN	www.leadership-academy.gru.edu
-NOERROR	adfs.gru.edu
-NOERROR	content.ebscohost.com.ezproxy.gru.edu
-NXDOMAIN	www.insider.gru.edu
-NOERROR	nam-ip158-093-190-127.gru.edu
-NOERROR	vs-rp9.gru.edu
-NOERROR	science.sciencemag.org.ezproxy.gru.edu
-NXDOMAIN	azziz.gru.edu
-NOERROR	gil.gru.edu
-NOERROR	ns-wafsite-gru.gru.edu
-NOERROR	www.augusta.edu.ezproxy.gru.edu
-NOERROR	link.springer.com.ezproxy.gru.edu
-NXDOMAIN	uc2sub3a.gru.edu
-NOERROR	idx.gru.edu
-NOERROR	mcghgapsftdb1-oracle.gru.edu
-NOERROR	video.gru.edu.ezproxy.gru.edu
-NOERROR	jasn.asnjournals.org.ezproxy.gru.edu
-NOERROR	nam-ip158-093-190-172.gru.edu
-NOERROR	tberg-ip158-093-192-028.gru.edu
-NOERROR	nam-ip158-093-190-165.gru.edu
-NOERROR	api-appdev-01.gru.edu
-SERVFAIL	content.healthaffairs.org.ezproxy.gru.edu
-NOERROR	csg.gru.edu
-NOERROR	ehis.ebscohost.com.ezproxy.gru.edu
-NXDOMAIN	uc2ccx1.gru.edu
-NOERROR	nam-ip158-093-190-178.gru.edu
-NXDOMAIN	uc2sub4a.gru.edu
-NOERROR	nam-ip158-093-190-174.gru.edu
-NOERROR	nam-ip158-093-190-210.gru.edu
-NXDOMAIN	uc2imp1.gru.edu
-NXDOMAIN	eaicas.gru.edu
-NOERROR	nam-ip158-093-190-222.gru.edu
-NOERROR	tberg-ip158-093-192-012.gru.edu
-NOERROR	nam-ip158-093-190-156.gru.edu
-NOERROR	ezproxy-v6.gru.edu
-NOERROR	1dp2.gru.edu
-NOERROR	nam-ip158-093-190-230.gru.edu
-NOERROR	leadership-academy.gru.edu
-NOERROR	autodiscovertest.gru.edu
-NOERROR	tberg-ip158-093-192-020.gru.edu
-NOERROR	www.jimmunol.org.ezproxy.gru.edu
-NOERROR	cancerres.aacrjournals.org.ezproxy.gru.edu
-NOERROR	rd47.gru.edu
-NOERROR	nam-ip158-093-190-132.gru.edu
-NOERROR	nam-ip158-093-190-175.gru.edu
-NOERROR	echonlb.gru.edu
-NOERROR	live.gru.edu
-NOERROR	www.r2library.com.ezproxy.gru.edu
-NOERROR	greport.gru.edu
-NOERROR	adfs2.gru.edu
-NOERROR	therock.gru.edu
-NOERROR	nam-ip158-093-190-173.gru.edu
-NOERROR	uc2ewe1.gru.edu
-NOERROR	tberg-ip158-093-192-014.gru.edu
-NXDOMAIN	report.gru.edu
-NOERROR	theswan.gru.edu
-NOERROR	nam-ip158-093-190-226.gru.edu
-NXDOMAIN	www.uc2ccx2.gru.edu
-NOERROR	tberg-ip158-093-192-031.gru.edu
-NOERROR	echoftp.gru.edu
-NOERROR	edge1.gru.edu
-NOERROR	ifolder.gru.edu
-NOERROR	jagwire.gru.edu
-NXDOMAIN	www.lms.gru.edu
-NOERROR	tberg-ip158-093-192-008.gru.edu
-NOERROR	ezproxy.gru.edu
-NOERROR	nam-ip158-093-190-149.gru.edu
-NOERROR	iovs.arvojournals.org.ezproxy.gru.edu
-NOERROR	search.credoreference.com.ezproxy.gru.edu
-NOERROR	ems.gru.edu
-NOERROR	www.jamaevidence.com.ezproxy.gru.edu
-NOERROR	guestauth.gru.edu
-NOERROR	nam-ip158-093-190-186.gru.edu
-NOERROR	www.quintpub.com.ezproxy.gru.edu
-NOERROR	dsm.psychiatryonline.org.ezproxy.gru.edu
-NOERROR	sms2.gru.edu
-NXDOMAIN	cbgmwn2.genomics.gru.edu
-NOERROR	biostat.gru.edu
-NOERROR	pubs.acs.org.ezproxy.gru.edu
-NOERROR	archopht.jamanetwork.com.ezproxy.gru.edu
-NOERROR	erecruit.gru.edu
-NOERROR	nam-ip158-093-190-152.gru.edu
-NOERROR	www.tandfonline.com.ezproxy.gru.edu
-NOERROR	rp4.gru.edu
-NOERROR	tcs.gru.edu
-NXDOMAIN	uc2cuc1.gru.edu
-NOERROR	adc.bmj.com.ezproxy.gru.edu
-NOERROR	lists.gru.edu
-NOERROR	mcghgapsftdb2.gru.edu
-NOERROR	ac.els-cdn.com.ezproxy.gru.edu
-NXDOMAIN	www.magazines.gru.edu
-NOERROR	deadservice2.gru.edu
-NOERROR	proxygsu-reg1.galileo.usg.edu.ezproxy.gru.edu
-NOERROR	tberg-ip158-093-192-006.gru.edu
-NOERROR	tberg-ip158-093-192-029.gru.edu
-NOERROR	autodiscover.gru.edu
-NOERROR	nam-ip158-093-190-201.gru.edu
-NOERROR	hpc1-util.gru.edu
-NOERROR	gru.edu
-NXDOMAIN	cwchn1.genomics.gru.edu
-NOERROR	syslog01.gru.edu
-NOERROR	library.artstor.org.ezproxy.gru.edu
-NXDOMAIN	conference-2-gru.gru.edu
-NOERROR	nam-ip158-093-190-185.gru.edu
-NOERROR	hrtst91.gru.edu
-NOERROR	nam-ip158-093-190-235.gru.edu
-NXDOMAIN	mail.cancerdirectory.gru.edu
-NOERROR	nam-ip158-093-190-190.gru.edu
-NOERROR	mcgps42.gru.edu
-NOERROR	nam-ip158-093-190-125.gru.edu
-NOERROR	citrixmfa.gru.edu
-NOERROR	search.ebscohost.com.ezproxy.gru.edu
-NOERROR	nam-ip158-093-190-239.gru.edu
-NOERROR	vs-rp45.gru.edu
-NOERROR	nam-ip158-093-190-200.gru.edu
-NOERROR	xmail.gru.edu
-NOERROR	ezproxy2.gru.edu
-NXDOMAIN	chemdb.gru.edu
-NOERROR	vpn.gru.edu
-NOERROR	www.nature.com.ezproxy.gru.edu
-NXDOMAIN	mail.foreword.gru.edu
-NOERROR	nam-ip158-093-190-163.gru.edu
-NOERROR	paws.gru.edu
-SERVFAIL	www.artstor.org.ezproxy.gru.edu
-NXDOMAIN	myvoicemail.gru.edu
-NOERROR	www.psychiatrist.com.ezproxy.gru.edu
-NOERROR	muse.jhu.edu.ezproxy.gru.edu
-NOERROR	ghsu-158-93-191-95.gru.edu
-NOERROR	nam-ip158-093-190-213.gru.edu
-NOERROR	nam-ip158-093-190-122.gru.edu
-NOERROR	appweb.gru.edu
-NOERROR	tberg-ip158-093-192-002.gru.edu
-NXDOMAIN	mail.magazines.gru.edu
-NOERROR	nam-ip158-093-190-220.gru.edu
-NOERROR	ps25-lib.gru.edu
-NOERROR	ezproxy-test.gru.edu
-NXDOMAIN	wug.gru.edu
-NOERROR	imedia.gru.edu
-NXDOMAIN	www.cyberga.greport.gru.edu
-NOERROR	quickrecovery.gru.edu
-NOERROR	mcghga-psft-prd-scan.gru.edu
-NOERROR	nam-ip158-093-190-179.gru.edu
-NOERROR	vs-rp10.gru.edu
-NOERROR	nam-ip158-093-190-160.gru.edu
-NOERROR	cancertrials.gru.edu
-NXDOMAIN	giving.gru.edu
-NOERROR	nam-ip158-093-190-133.gru.edu
-NOERROR	rx.gru.edu
-NOERROR	tberg-ip158-093-192-001.gru.edu
-NOERROR	ns-ties-gru.gru.edu
-NXDOMAIN	uc2sub1a.gru.edu
-NOERROR	nam-ip158-093-190-177.gru.edu
-NOERROR	nam-ip158-093-190-234.gru.edu
-NOERROR	nam-ip158-093-190-181.gru.edu
-NOERROR	tberg-ip158-093-192-010.gru.edu
-NXDOMAIN	policy.gru.edu
-SERVFAIL	clincancerres.aacrjournals.org.ezproxy.gru.edu
-NOERROR	www.annualreviews.org.ezproxy.gru.edu
-NOERROR	nam-ip158-093-190-193.gru.edu
-NXDOMAIN	cyberga.greport.gru.edu
-NOERROR	nam-ip158-093-190-135.gru.edu
-NOERROR	nam-ip158-093-190-228.gru.edu
-NOERROR	tberg-ip158-093-192-025.gru.edu
-NOERROR	rd11.gru.edu
-NOERROR	fw-pci-out.gru.edu
-NXDOMAIN	mft.gru.edu
-NOERROR	nam-ip158-093-190-151.gru.edu
-NOERROR	www-dev.gru.edu
-NOERROR	nam-ip158-093-190-126.gru.edu
-NOERROR	mcghgapsftdb1.gru.edu
-NOERROR	tberg-ip158-093-192-021.gru.edu
-NOERROR	nam-ip158-093-190-188.gru.edu
-NOERROR	syslog02.gru.edu
-NXDOMAIN	uc2sub3b.gru.edu
-NOERROR	www.genomics.gru.edu
-NXDOMAIN	cpanel.greport.gru.edu
-NOERROR	tberg-ip158-093-192-011.gru.edu
-NOERROR	nam-ip158-093-190-196.gru.edu
-NOERROR	mdm.gru.edu
-NOERROR	nam-ip158-093-190-208.gru.edu
-NOERROR	go.gru.edu
-NOERROR	citrix.gru.edu
-NOERROR	nam-ip158-093-190-161.gru.edu
-NOERROR	nam-ip158-093-190-184.gru.edu
-NOERROR	nam-ip158-093-190-130.gru.edu
-NXDOMAIN	mail.cancernews.gru.edu
-NOERROR	lists2.gru.edu
-NOERROR	nam-ip158-093-190-198.gru.edu
-NOERROR	nam-ip158-093-190-227.gru.edu
-NOERROR	aceweb.gru.edu
-NOERROR	pounce.gru.edu
-NOERROR	vcse2.gru.edu
-NOERROR	nam-ip158-093-190-217.gru.edu
-NXDOMAIN	hspf-ise-2.gru.edu
-NOERROR	viexcastest.gru.edu
-NOERROR	citrix2.gru.edu
-NXDOMAIN	news.gru.edu
-NXDOMAIN	www.citrixdev.gru.edu
-NOERROR	xsrv1.gru.edu
-NXDOMAIN	www.wug.gru.edu
-NOERROR	jaguar.gru.edu
-NOERROR	login.ezproxy.gru.edu
-NOERROR	rp20.gru.edu
-NOERROR	nam-ids1.gru.edu
-NOERROR	login.ezproxy-test.gru.edu
-NXDOMAIN	mail.deansdiary.gru.edu
-NOERROR	vcsexpressway.gru.edu
-NOERROR	viexhubtest.gru.edu
-NOERROR	askus.gru.edu
-NOERROR	linkinghub.elsevier.com.ezproxy.gru.edu
-NOERROR	ajs.sagepub.com.ezproxy.gru.edu
-NOERROR	archpsyc.jamanetwork.com.ezproxy.gru.edu
-NOERROR	www.nejm.org.ezproxy.gru.edu
-NOERROR	ajp.psychiatryonline.org.ezproxy.gru.edu
-NOERROR	neuro.psychiatryonline.org.ezproxy.gru.edu
-NOERROR	idp.gru.edu
-NOERROR	accessmedicine.mhmedical.com.ezproxy.gru.edu
-NOERROR	ghsu-158-93-191-96.gru.edu
-NOERROR	ovidsp.ovid.com.ezproxy.gru.edu
-NOERROR	tapor.library.utoronto.ca.ezproxy.gru.edu
-NOERROR	jcn.sagepub.com.ezproxy.gru.edu
-NOERROR	tberg-ip158-093-192-026.gru.edu
-NXDOMAIN	uc2sub2a.gru.edu
-NOERROR	www-lexisnexis-com.proxygsu-reg1.galileo.usg.edu.ezproxy.gru.edu
-NOERROR	hcb.gru.edu
-NOERROR	nam-ip158-093-190-143.gru.edu
-NOERROR	nam-ip158-093-190-123.gru.edu
-NXDOMAIN	uc2imp2.gru.edu
-NXDOMAIN	uc2tftp1.gru.edu
-NXDOMAIN	mail.jagwire.gru.edu
-NOERROR	m.catalog.gru.edu
-NOERROR	nam-ip158-093-190-203.gru.edu
-SERVFAIL	batesvisualguide.com.ezproxy.gru.edu
-NOERROR	www.joponline.org.ezproxy.gru.edu
-NOERROR	ce.gru.edu
-NOERROR	apps.webofknowledge.com.ezproxy.gru.edu
-NXDOMAIN	www.uc2cer1.gru.edu
-NOERROR	cancer.gru.edu
-NOERROR	therasim.gru.edu
-NOERROR	sw.gru.edu
-NXDOMAIN	uc2cuc2.gru.edu
-NOERROR	insider.gru.edu
-NXDOMAIN	hspfproxy1.gru.edu
-NOERROR	www.cochranelibrary.com.ezproxy.gru.edu
-NOERROR	www.myendnoteweb.com.ezproxy.gru.edu
-NXDOMAIN	cwchn1.genomincs.gru.edu
-NOERROR	www.lexisnexis.com.ezproxy.gru.edu
-SERVFAIL	fod.infobase.com.ezproxy.gru.edu
-NOERROR	www.gru.edu.ezproxy.gru.edu
-NXDOMAIN	eguide.gru.edu
-NXDOMAIN	uc2sub1b.gru.edu
-NOERROR	nam-ip158-093-190-139.gru.edu
-NOERROR	xtids2.gru.edu
-NOERROR	jdr.sagepub.com.ezproxy.gru.edu
-NOERROR	fw-aug-std-out.gru.edu
-NOERROR	nam-ip158-093-190-146.gru.edu
-NXDOMAIN	conference-3-gru.gru.edu
-NOERROR	vipexhub.gru.edu
-NOERROR	bioanalysis.genomics.gru.edu
-NOERROR	tberg-ip158-093-192-015.gru.edu
-NOERROR	au.gru.edu
-NOERROR	pubgru.gru.edu
-NOERROR	idp2.gru.edu
-NOERROR	jem.rupress.org.ezproxy.gru.edu
-NOERROR	medicalphysics.gru.edu
-NXDOMAIN	esirius.gru.edu
-SERVFAIL	www.jci.org.ezproxy.gru.edu
-NOERROR	tberg-ip158-093-192-016.gru.edu
-NOERROR	nam-ip158-093-190-204.gru.edu
-NOERROR	www.sciencedirect.com.ezproxy.gru.edu
-NOERROR	nam-ip158-093-190-157.gru.edu
-NOERROR	nam-ip158-093-190-180.gru.edu
-NOERROR	hiftp.gru.edu
-NOERROR	nam-ip158-093-190-231.gru.edu
-NXDOMAIN	lms.gru.edu
-NOERROR	nam-ip158-093-190-158.gru.edu
-NOERROR	web.a.ebscohost.com.proxygsu-reg1.galileo.usg.edu.ezproxy.gru.edu
-NOERROR	sms1.gru.edu
-NOERROR	nam-ip158-093-190-168.gru.edu
-NOERROR	deansdiary.gru.edu
-NOERROR	tberg-ip158-093-192-003.gru.edu
-NXDOMAIN	uc2cer2.gru.edu
-NOERROR	tberg-ip158-093-192-022.gru.edu
-NOERROR	ajprenal.physiology.org.ezproxy.gru.edu
-NXDOMAIN	leadership.gru.edu
-NOERROR	dih.gru.edu
-NXDOMAIN	csgtest.gru.edu
-NXDOMAIN	webdisk.greport.gru.edu
-NOERROR	comics.gru.edu
-NOERROR	nam-ip158-093-190-138.gru.edu
-NOERROR	nam-ip158-093-190-131.gru.edu
-NOERROR	mcghgapsftdb2-oracle.gru.edu
-NXDOMAIN	www.deansdiary.gru.edu
-NOERROR	id3.gru.edu
-NOERROR	nam-ip158-093-190-225.gru.edu
-NOERROR	nam-ip158-093-190-144.gru.edu
-NOERROR	nam-ip158-093-190-229.gru.edu
-NXDOMAIN	hspf-dmz-netscaler.gru.edu
-NOERROR	rp33.gru.edu
+fw-uga-slr-std-nat.augusta.edu
+quintpub.com.ezproxy.augusta.edu
+ns-wafsite-vcs-01.augusta.edu
+journals.sagepub.com.ezproxy.augusta.edu
+cancerdirectory.augusta.edu
+rd48.augusta.edu
+calendar2.augusta.edu
+viexhubtest.augusta.edu
+www.micromedexsolutions.com.ezproxy.augusta.edu
+hrp461.augusta.edu
+dcm.augusta.edu
+vipexhub.augusta.edu
+somadm.augusta.edu
+gradapply.augusta.edu
+lists.genomics.augusta.edu
+oncore.augusta.edu
+vs-rp45.augusta.edu
+inauguration.augusta.edu
+analytics.augusta.edu
+web.b.ebscohost.com.ezproxy.augusta.edu
+hpc1-util.augusta.edu
+pod5.cyberlab.augusta.edu
+search.ebscohost.com.ezproxy.augusta.edu
+au-banprd-wl12.augusta.edu
+ns-wafsite-vcs-07.augusta.edu
+bridge.augusta.edu
+catalog.augusta.edu
+lists.augusta.edu
+my.augusta.edu
+vs-rd5.augusta.edu
+hi2.augusta.edu
+login.augusta.edu
+shfed.augusta.edu
+hspf-ise-05.augusta.edu
+ns-wafsite-vcs-10.augusta.edu
+nla-pod-003.cyberlab.augusta.edu
+bjp.rcpsych.org.ezproxy.augusta.edu
+ns-wafsite-vcs-11.augusta.edu
+ns-wafsite-sdc-02.augusta.edu
+ccreport.augusta.edu
+wifi-aumc.augusta.edu
+paws.augusta.edu
+idx.augusta.edu
+www.augusta.edu
+imedia.augusta.edu
+video.augusta.edu
+aug-purgatory.augusta.edu
+bioanalysis.genomic.augusta.edu
+m.augusta.edu
+ns-wafsite-augusta.augusta.edu
+sftp.augusta.edu
+hanoi.augusta.edu
+adfstst.augusta.edu
+cancernews.augusta.edu
+hspf-ise-06.augusta.edu
+wasabi.augusta.edu
+ns-wafsite-vcs-12.augusta.edu
+jagnow.augusta.edu
+cyberlab.augusta.edu
+ns-wafsite-vcs-13.augusta.edu
+cancertrials.augusta.edu
+au-dciparc-app1.augusta.edu
+ns1.augusta.edu
+wan2.augusta.edu
+www-psychiatrist-com.ezproxy.augusta.edu
+www.nature.com.ezproxy.augusta.edu
+fw-uga-slr-act-nat.augusta.edu
+fw-pci-out.augusta.edu
+aupoliceupdates.augusta.edu
+csgolddb.augusta.edu
+apps.augusta.edu
+loginqa.augusta.edu
+webservices.augusta.edu
+web2.augusta.edu
+sms2.augusta.edu
+greport.augusta.edu
+deadservice2.augusta.edu
+ezproxy.augusta.edu
+ns-wafsite-vcs-02.augusta.edu
+ns-wafsite-vcs-03.augusta.edu
+webex.augusta.edu
+magazines.augusta.edu
+nla-pod-001.cyberlab.augusta.edu
+pod1.cyberlab.augusta.edu
+rd57.augusta.edu
+ifolder.augusta.edu
+qapassword.augusta.edu
+wifi-au.augusta.edu
+ppg.augusta.edu
+hi.augusta.edu
+muse.jhu.edu.ezproxy.augusta.edu
+www.essentialevidenceplus.com.ezproxy.augusta.edu
+www-dev.augusta.edu
+rp3.augusta.edu
+vs-rp10.augusta.edu
+guest.augusta.edu
+gilfind.augusta.edu
+pounce.augusta.edu
+archive.augusta.edu
+os390.augusta.edu
+hiftp.augusta.edu
+lwwhealthlibrary-com.ezproxy.augusta.edu
+support.ebsco.com.ezproxy.augusta.edu
+hi-fairwarning.augusta.edu
+hullnews.augusta.edu
+sundial.augusta.edu
+genomics.augusta.edu
+dds-fe.augusta.edu
+robotron.augusta.edu
+pubdev.augusta.edu
+pvpn.augusta.edu
+sms1.augusta.edu
+dsb.augusta.edu
+ns-wafsite-vcs-04.augusta.edu
+adfsca.augusta.edu
+aceweb.augusta.edu
+onlinelibrary.wiley.com.ezproxy.augusta.edu
+au-bantstcl.augusta.edu
+sw.augusta.edu
+password.augusta.edu
+webapps.augusta.edu
+pod2.cyberlab.augusta.edu
+csgoldtps.augusta.edu
+www.cochranelibrary.com.ezproxy.augusta.edu
+au-devordc-db01.augusta.edu
+entftp.augusta.edu
+pubgru.augusta.edu
+vs-rp9.augusta.edu
+vs-rp12.augusta.edu
+ches.augusta.edu
+egsc-augusta.augusta.edu
+duo.augusta.edu
+devadfs.augusta.edu
+nam-ids1.augusta.edu
+host.augusta.edu
+bindery.augusta.edu
+edge2.augusta.edu
+fi.augusta.edu
+osh.augusta.edu
+www.sciencedirect.com.ezproxy.augusta.edu
+lecturedev.augusta.edu
+au-banprdcl.augusta.edu
+app.augusta.edu
+data.augusta.edu
+uc2ewe1.augusta.edu
+hs.augusta.edu
+offcampushousing.augusta.edu
+lockss.augusta.edu
+xmail.augusta.edu
+policy.augusta.edu
+vpn3.augusta.edu
+nla-pod-004.cyberlab.augusta.edu
+citrix2.augusta.edu
+proscia.augusta.edu
+vpn.augusta.edu
+secure.augusta.edu
+ovidsp.tx.ovid.com.ezproxy.augusta.edu
+ns-wafsite-vcs-05.augusta.edu
+cyber.augusta.edu
+login.ezproxy.augusta.edu
+vpn4.augusta.edu
+citrix.augusta.edu
+echonlb.augusta.edu
+brand.augusta.edu
+softserv.augusta.edu
+vcse2.augusta.edu
+openurl.ebscohost.com.ezproxy.augusta.edu
+nam-ids3.augusta.edu
+augusta.edu
+web.a.ebscohost.com.ezproxy.augusta.edu
+igive.augusta.edu
+deansdiary.augusta.edu
+ce.augusta.edu
+apply.augusta.edu
+dih.augusta.edu
+xsrv1.augusta.edu
+liboclc5.augusta.edu
+rp69.augusta.edu
+ns-wafsite-sdc-03.augusta.edu
+ns-wafsite-vcs-16.augusta.edu
+cyberonline.augusta.edu
+echoftp.augusta.edu
+rp25.augusta.edu
+au-bansys-wl12.augusta.edu
+fod.infobase.com.proxygsu-reg1.galileo.usg.edu.ezproxy.augusta.edu
+ems.augusta.edu
+ns-wafsite-learningspace.augusta.edu
+a0.augusta.edu
+batesvisualguide.com.ezproxy.augusta.edu
+ovidsp.ovid.com.ezproxy.augusta.edu
+waf-ha1-api.augusta.edu
+accessmedicine.mhmedical.com.ezproxy.augusta.edu
+ns-wafsite-vcs-15.augusta.edu
+timenet.augusta.edu
+email.augusta.edu
+mcg.augusta.edu
+mft.augusta.edu
+fmlectures.augusta.edu
+m.catalog.augusta.edu
+alumni.augusta.edu
+flyleaf.augusta.edu
+cj.augusta.edu
+erecruit.augusta.edu
+rv.augusta.edu
+fw-aug-act-out.augusta.edu
+nla-pod-005.cyberlab.augusta.edu
+appl.augusta.edu
+bh.augusta.edu
+mfareg.augusta.edu
+support.augusta.edu
+vs-rd4.augusta.edu
+rd69.augusta.edu
+rx.augusta.edu
+lecture.augusta.edu
+gil.augusta.edu
+summ.augusta.edu
+publish.augusta.edu
+nla-pod-002.cyberlab.augusta.edu
+dev.augusta.edu
+acc.aacnjournals.org.ezproxy.augusta.edu
+www.augusta.edu.ezproxy.augusta.edu
+jagwire.augusta.edu
+adfs2.augusta.edu
+viexcastest.augusta.edu
+cochranelibrary-wiley.com.ezproxy.augusta.edu
+ns-timenet-augusta.augusta.edu
+ns-wafsite-vcs-14.augusta.edu
+mymail.augusta.edu
+pod4.cyberlab.augusta.edu
+vcsexpressway.augusta.edu
+owa.augusta.edu
+ca.augusta.edu
+hpc1-head.augusta.edu
+therasim.augusta.edu
+www.galileo.usg.edu.ezproxy.augusta.edu
+adfs.augusta.edu
+vpn2.augusta.edu
+ns-wafsite-sdc-01.augusta.edu
+rp40.augusta.edu
+au-banprd-ethosid.augusta.edu
+edge1.augusta.edu
+medicalphysics.augusta.edu
+giving.augusta.edu
+www.quintpub.com.ezproxy.augusta.edu
+phish.augusta.edu
+train.augusta.edu
+ns-wafsite-vcs-06.augusta.edu
+wan1.augusta.edu
+rp4.augusta.edu
+calendar.augusta.edu
+eds.b.ebscohost.com.ezproxy.augusta.edu
+rd47.augusta.edu
+rvpf-ise-01.cyber.augusta.edu
+lms.augusta.edu
+id3.augusta.edu
+ec.augusta.edu
+guides.augusta.edu
+ns-wafsite-vcs-09.augusta.edu
+askus.augusta.edu
+au-dciparc-sql1.augusta.edu
+gc.augusta.edu
+rp20.augusta.edu
+web1.augusta.edu
+autodiscover.augusta.edu
+heartstart.augusta.edu
+citrixdev.augusta.edu
+nam-ids4.augusta.edu
+learningspace.augusta.edu
+idp1.augusta.edu
+dayofservice.augusta.edu
+aurora.augusta.edu
+coenews.augusta.edu
+fw-aug-std-out.augusta.edu
+insider.augusta.edu
+bline-pubstreamsrv.augusta.edu
+ldap4.augusta.edu
+aclandanatomy-com.ezproxy.augusta.edu
+fod.infobase.com.ezproxy.augusta.edu
+cancer.augusta.edu
+fmed-webview.augusta.edu
+pod3.cyberlab.augusta.edu
+ns2.augusta.edu
+jaguar.augusta.edu
+ns-wafsite-vcs-08.augusta.edu
+vs-rp44.augusta.edu
+wiki.augusta.edu
+citrixmfa.augusta.edu
+eds.a.ebscohost.com.ezproxy.augusta.edu
+go.augusta.edu
+sashimi.augusta.edu
+waf-ha1-esirius.augusta.edu
+au-prodordc-db01.augusta.edu
+jagtrax.augusta.edu
+adfs3.augusta.edu
+vipexcas.augusta.edu
+esirius3g.augusta.edu
+advances.augusta.edu
+join.augusta.edu
+page.augusta.edu
+au-bandev-wl12.augusta.edu
+rd11.augusta.edu
+radiology.augusta.edu
+uc2ewe2.augusta.edu
+rp33.augusta.edu
+ddpe-fe.augusta.edu
+guestauth.augusta.edu
+fnp461.augusta.edu
+jagnation.augusta.edu
+helios.augusta.edu
+box.augusta.edu
+spots.augusta.edu
+sn.augusta.edu
+stm.sciencemag.org.ezproxy.gru.edu
+jamanetwork.com.ezproxy.gru.edu
+alexanderstreet.com.ezproxy.gru.edu
+search.alexanderstreet.com.ezproxy.gru.edu
+tberg-ip158-093-192-013.gru.edu
+webapps.gru.edu
+web.ebscohost.com.ezproxy.gru.edu
+nam-ip158-093-190-219.gru.edu
+nam-ids4.gru.edu
+nam-ip158-093-190-176.gru.edu
+gchcclock056.gru.edu
+hi2.gru.edu
+ccc.gru.edu
+edtoolbox.gru.edu
+nam-ip158-093-190-170.gru.edu
+sftp.gru.edu
+uc2ewe2.gru.edu
+nam-ip158-093-190-171.gru.edu
+xtids1.gru.edu
+nam-ip158-093-190-211.gru.edu
+tberg-ip158-093-192-030.gru.edu
+publish.gru.edu
+citrixdev.gru.edu
+hi.gru.edu
+nam-ip158-093-190-147.gru.edu
+openurl.ebscohost.com.ezproxy.gru.edu
+bioinformatics.gru.edu
+tberg-ip158-093-192-023.gru.edu
+login.gru.edu
+hi-fairwarning.gru.edu
+vs-rp12.gru.edu
+edge2.gru.edu
+lecturedev.gru.edu
+www.cbgm.gru.edu
+rd48.gru.edu
+psychiatryonline.org.ezproxy.gru.edu
+tberg-ip158-093-192-004.gru.edu
+resolver.ebscohost.com.ezproxy.gru.edu
+portal.gru.edu
+nam-ip158-093-190-141.gru.edu
+media.proquest.com.ezproxy.gru.edu
+nam-ip158-093-190-153.gru.edu
+nam-ip158-093-190-128.gru.edu
+nam-ip158-093-190-169.gru.edu
+corefacility.gru.edu
+catalog.gru.edu
+nam-ip158-093-190-164.gru.edu
+nam-ip158-093-190-194.gru.edu
+nam-ip158-093-190-162.gru.edu
+eds.b.ebscohost.com.ezproxy.gru.edu
+cancerdirectory.gru.edu
+nam-ip158-093-190-129.gru.edu
+nam-ip158-093-190-182.gru.edu
+go.galegroup.com.ezproxy.gru.edu
+foreword.gru.edu
+nam-ip158-093-190-134.gru.edu
+nam-ip158-093-190-216.gru.edu
+mcgps34.gru.edu
+nam-ip158-093-190-159.gru.edu
+heartstart.gru.edu
+nam-ip158-093-190-167.gru.edu
+idp1.gru.edu
+nam-ip158-093-190-236.gru.edu
+rp3.gru.edu
+ccreport.gru.edu
+bline-pubstreamsrv.gru.edu
+ns-timenet-gru.gru.edu
+waf-ha1-esirius.gru.edu
+nam-ip158-093-190-124.gru.edu
+calendar2.gru.edu
+cancernews.gru.edu
+mcgps44.gru.edu
+vs-rd5.gru.edu
+nam-ip158-093-190-206.gru.edu
+nam-ip158-093-190-215.gru.edu
+spots.gru.edu
+nam-ip158-093-190-187.gru.edu
+video.gru.edu
+ldap4.gru.edu
+app.gru.edu
+site.ebrary.com.ezproxy.gru.edu
+tberg-ip158-093-192-024.gru.edu
+admin-apps.webofknowledge.com.ezproxy.gru.edu
+nam-ip158-093-190-224.gru.edu
+gradschool.gru.edu
+mymail.gru.edu
+a0.gru.edu
+nam-ip158-093-190-209.gru.edu
+nam-ip158-093-190-136.gru.edu
+fw-aug-act-out.gru.edu
+www.wiley.com.ezproxy.gru.edu
+ghsu-158-93-193-30.gru.edu
+calendar.gru.edu
+www.apreso.gru.edu
+tberg-ip158-093-192-009.gru.edu
+nam-ip158-093-190-150.gru.edu
+magazines.gru.edu
+bjp.rcpsych.org.ezproxy.gru.edu
+pubdev.gru.edu
+email.gru.edu
+hpc1-head.gru.edu
+nam-ip158-093-190-140.gru.edu
+nam-ip158-093-190-205.gru.edu
+onlinelibrary.wiley.com.ezproxy.gru.edu
+nam-ip158-093-190-195.gru.edu
+press.endocrine.org.ezproxy.gru.edu
+login.ezproxy2.gru.edu
+ddpe-fe.gru.edu
+nam-ip158-093-190-166.gru.edu
+www.pnas.org.ezproxy.gru.edu
+tberg-ip158-093-192-007.gru.edu
+nam-ip158-093-190-214.gru.edu
+login.ezproxy-v6.gru.edu
+vs-rd1.gru.edu
+www.gru.edu
+tberg-ip158-093-192-018.gru.edu
+page.gru.edu
+lecture.gru.edu
+nam-ip158-093-190-145.gru.edu
+genomics.gru.edu
+owa.gru.edu
+fod.infobase.com.proxygsu-reg1.galileo.usg.edu.ezproxy.gru.edu
+rp25.gru.edu
+web.b.ebscohost.com.ezproxy.gru.edu
+softserv.gru.edu
+nam-ip158-093-190-148.gru.edu
+nam-ip158-093-190-197.gru.edu
+www.oed.com.ezproxy.gru.edu
+tberg-ip158-093-192-017.gru.edu
+rp40.gru.edu
+nam-ip158-093-190-199.gru.edu
+eds.a.ebscohost.com.ezproxy.gru.edu
+support.ebsco.com.ezproxy.gru.edu
+nam-ip158-093-190-233.gru.edu
+mcgpsoft4nt.gru.edu
+nam-ip158-093-190-154.gru.edu
+coenews.gru.edu
+rd57.gru.edu
+os390.gru.edu
+www.oxfordreference.com.ezproxy.gru.edu
+tberg-ip158-093-192-027.gru.edu
+password.gru.edu
+www.ishib.org.ezproxy.gru.edu
+ovidsp.tx.ovid.com.ezproxy.gru.edu
+nam-ip158-093-190-183.gru.edu
+nam-ip158-093-190-237.gru.edu
+secure.gru.edu
+host.gru.edu
+lists.genomics.gru.edu
+train.gru.edu
+guides.gru.edu
+vipexcas.gru.edu
+nam-ip158-093-190-212.gru.edu
+bline-simbrgsrv.gru.edu
+vs-rp44.gru.edu
+nam-ip158-093-190-137.gru.edu
+digital.films.com.ezproxy.gru.edu
+www.micromedexsolutions.com.ezproxy.gru.edu
+search.proquest.com.ezproxy.gru.edu
+pshr.gru.edu
+advances.sciencemag.org.ezproxy.gru.edu
+radiology.gru.edu
+www.essentialevidenceplus.com.ezproxy.gru.edu
+nam-ag3-gh-https.gru.edu
+nam-ip158-093-190-218.gru.edu
+archinte.jamanetwork.com.ezproxy.gru.edu
+ties.gru.edu
+ppg.gru.edu
+bline-firewall.gru.edu
+m.gru.edu
+bioanalysis.genomic.gru.edu
+nam-ip158-093-190-189.gru.edu
+ovidsp.uk.ovid.com.ezproxy.gru.edu
+nam-ip158-093-190-142.gru.edu
+ic.galegroup.com.ezproxy.gru.edu
+web.a.ebscohost.com.ezproxy.gru.edu
+nam-ip158-093-190-232.gru.edu
+ps.psychiatryonline.org.ezproxy.gru.edu
+tberg-ip158-093-192-019.gru.edu
+nam-ip158-093-190-155.gru.edu
+gilfind.gru.edu
+www-ncbi-nlm-nih-gov.ezproxy.gru.edu
+nam-ip158-093-190-223.gru.edu
+hull.gru.edu
+fw-uga-slr-std-nat.gru.edu
+atoz.ebsco.com.ezproxy.gru.edu
+www.sciencemag.org.ezproxy.gru.edu
+adfs.gru.edu
+content.ebscohost.com.ezproxy.gru.edu
+nam-ip158-093-190-127.gru.edu
+vs-rp9.gru.edu
+science.sciencemag.org.ezproxy.gru.edu
+gil.gru.edu
+ns-wafsite-gru.gru.edu
+www.augusta.edu.ezproxy.gru.edu
+link.springer.com.ezproxy.gru.edu
+idx.gru.edu
+mcghgapsftdb1-oracle.gru.edu
+video.gru.edu.ezproxy.gru.edu
+jasn.asnjournals.org.ezproxy.gru.edu
+nam-ip158-093-190-172.gru.edu
+tberg-ip158-093-192-028.gru.edu
+nam-ip158-093-190-165.gru.edu
+api-appdev-01.gru.edu
+csg.gru.edu
+ehis.ebscohost.com.ezproxy.gru.edu
+nam-ip158-093-190-178.gru.edu
+nam-ip158-093-190-174.gru.edu
+nam-ip158-093-190-210.gru.edu
+nam-ip158-093-190-222.gru.edu
+tberg-ip158-093-192-012.gru.edu
+nam-ip158-093-190-156.gru.edu
+ezproxy-v6.gru.edu
+1dp2.gru.edu
+nam-ip158-093-190-230.gru.edu
+leadership-academy.gru.edu
+autodiscovertest.gru.edu
+tberg-ip158-093-192-020.gru.edu
+www.jimmunol.org.ezproxy.gru.edu
+cancerres.aacrjournals.org.ezproxy.gru.edu
+rd47.gru.edu
+nam-ip158-093-190-132.gru.edu
+nam-ip158-093-190-175.gru.edu
+echonlb.gru.edu
+live.gru.edu
+www.r2library.com.ezproxy.gru.edu
+greport.gru.edu
+adfs2.gru.edu
+therock.gru.edu
+nam-ip158-093-190-173.gru.edu
+uc2ewe1.gru.edu
+tberg-ip158-093-192-014.gru.edu
+theswan.gru.edu
+nam-ip158-093-190-226.gru.edu
+tberg-ip158-093-192-031.gru.edu
+echoftp.gru.edu
+edge1.gru.edu
+ifolder.gru.edu
+jagwire.gru.edu
+tberg-ip158-093-192-008.gru.edu
+ezproxy.gru.edu
+nam-ip158-093-190-149.gru.edu
+iovs.arvojournals.org.ezproxy.gru.edu
+search.credoreference.com.ezproxy.gru.edu
+ems.gru.edu
+www.jamaevidence.com.ezproxy.gru.edu
+guestauth.gru.edu
+nam-ip158-093-190-186.gru.edu
+www.quintpub.com.ezproxy.gru.edu
+dsm.psychiatryonline.org.ezproxy.gru.edu
+sms2.gru.edu
+biostat.gru.edu
+pubs.acs.org.ezproxy.gru.edu
+archopht.jamanetwork.com.ezproxy.gru.edu
+erecruit.gru.edu
+nam-ip158-093-190-152.gru.edu
+www.tandfonline.com.ezproxy.gru.edu
+rp4.gru.edu
+tcs.gru.edu
+adc.bmj.com.ezproxy.gru.edu
+lists.gru.edu
+mcghgapsftdb2.gru.edu
+ac.els-cdn.com.ezproxy.gru.edu
+deadservice2.gru.edu
+proxygsu-reg1.galileo.usg.edu.ezproxy.gru.edu
+tberg-ip158-093-192-006.gru.edu
+tberg-ip158-093-192-029.gru.edu
+autodiscover.gru.edu
+nam-ip158-093-190-201.gru.edu
+hpc1-util.gru.edu
+gru.edu
+syslog01.gru.edu
+library.artstor.org.ezproxy.gru.edu
+nam-ip158-093-190-185.gru.edu
+hrtst91.gru.edu
+nam-ip158-093-190-235.gru.edu
+nam-ip158-093-190-190.gru.edu
+mcgps42.gru.edu
+nam-ip158-093-190-125.gru.edu
+citrixmfa.gru.edu
+search.ebscohost.com.ezproxy.gru.edu
+nam-ip158-093-190-239.gru.edu
+vs-rp45.gru.edu
+nam-ip158-093-190-200.gru.edu
+xmail.gru.edu
+ezproxy2.gru.edu
+vpn.gru.edu
+www.nature.com.ezproxy.gru.edu
+nam-ip158-093-190-163.gru.edu
+paws.gru.edu
+www.psychiatrist.com.ezproxy.gru.edu
+muse.jhu.edu.ezproxy.gru.edu
+ghsu-158-93-191-95.gru.edu
+nam-ip158-093-190-213.gru.edu
+nam-ip158-093-190-122.gru.edu
+appweb.gru.edu
+tberg-ip158-093-192-002.gru.edu
+nam-ip158-093-190-220.gru.edu
+ps25-lib.gru.edu
+ezproxy-test.gru.edu
+imedia.gru.edu
+quickrecovery.gru.edu
+mcghga-psft-prd-scan.gru.edu
+nam-ip158-093-190-179.gru.edu
+vs-rp10.gru.edu
+nam-ip158-093-190-160.gru.edu
+cancertrials.gru.edu
+nam-ip158-093-190-133.gru.edu
+rx.gru.edu
+tberg-ip158-093-192-001.gru.edu
+ns-ties-gru.gru.edu
+nam-ip158-093-190-177.gru.edu
+nam-ip158-093-190-234.gru.edu
+nam-ip158-093-190-181.gru.edu
+tberg-ip158-093-192-010.gru.edu
+www.annualreviews.org.ezproxy.gru.edu
+nam-ip158-093-190-193.gru.edu
+nam-ip158-093-190-135.gru.edu
+nam-ip158-093-190-228.gru.edu
+tberg-ip158-093-192-025.gru.edu
+rd11.gru.edu
+fw-pci-out.gru.edu
+nam-ip158-093-190-151.gru.edu
+www-dev.gru.edu
+nam-ip158-093-190-126.gru.edu
+mcghgapsftdb1.gru.edu
+tberg-ip158-093-192-021.gru.edu
+nam-ip158-093-190-188.gru.edu
+syslog02.gru.edu
+www.genomics.gru.edu
+tberg-ip158-093-192-011.gru.edu
+nam-ip158-093-190-196.gru.edu
+mdm.gru.edu
+nam-ip158-093-190-208.gru.edu
+go.gru.edu
+citrix.gru.edu
+nam-ip158-093-190-161.gru.edu
+nam-ip158-093-190-184.gru.edu
+nam-ip158-093-190-130.gru.edu
+lists2.gru.edu
+nam-ip158-093-190-198.gru.edu
+nam-ip158-093-190-227.gru.edu
+aceweb.gru.edu
+pounce.gru.edu
+vcse2.gru.edu
+nam-ip158-093-190-217.gru.edu
+viexcastest.gru.edu
+citrix2.gru.edu
+xsrv1.gru.edu
+jaguar.gru.edu
+login.ezproxy.gru.edu
+rp20.gru.edu
+nam-ids1.gru.edu
+login.ezproxy-test.gru.edu
+vcsexpressway.gru.edu
+viexhubtest.gru.edu
+askus.gru.edu
+linkinghub.elsevier.com.ezproxy.gru.edu
+ajs.sagepub.com.ezproxy.gru.edu
+archpsyc.jamanetwork.com.ezproxy.gru.edu
+www.nejm.org.ezproxy.gru.edu
+ajp.psychiatryonline.org.ezproxy.gru.edu
+neuro.psychiatryonline.org.ezproxy.gru.edu
+idp.gru.edu
+accessmedicine.mhmedical.com.ezproxy.gru.edu
+ghsu-158-93-191-96.gru.edu
+ovidsp.ovid.com.ezproxy.gru.edu
+tapor.library.utoronto.ca.ezproxy.gru.edu
+jcn.sagepub.com.ezproxy.gru.edu
+tberg-ip158-093-192-026.gru.edu
+www-lexisnexis-com.proxygsu-reg1.galileo.usg.edu.ezproxy.gru.edu
+hcb.gru.edu
+nam-ip158-093-190-143.gru.edu
+nam-ip158-093-190-123.gru.edu
+m.catalog.gru.edu
+nam-ip158-093-190-203.gru.edu
+www.joponline.org.ezproxy.gru.edu
+ce.gru.edu
+apps.webofknowledge.com.ezproxy.gru.edu
+cancer.gru.edu
+therasim.gru.edu
+sw.gru.edu
+insider.gru.edu
+www.cochranelibrary.com.ezproxy.gru.edu
+www.myendnoteweb.com.ezproxy.gru.edu
+www.lexisnexis.com.ezproxy.gru.edu
+www.gru.edu.ezproxy.gru.edu
+nam-ip158-093-190-139.gru.edu
+xtids2.gru.edu
+jdr.sagepub.com.ezproxy.gru.edu
+fw-aug-std-out.gru.edu
+nam-ip158-093-190-146.gru.edu
+vipexhub.gru.edu
+bioanalysis.genomics.gru.edu
+tberg-ip158-093-192-015.gru.edu
+au.gru.edu
+pubgru.gru.edu
+idp2.gru.edu
+jem.rupress.org.ezproxy.gru.edu
+medicalphysics.gru.edu
+tberg-ip158-093-192-016.gru.edu
+nam-ip158-093-190-204.gru.edu
+www.sciencedirect.com.ezproxy.gru.edu
+nam-ip158-093-190-157.gru.edu
+nam-ip158-093-190-180.gru.edu
+hiftp.gru.edu
+nam-ip158-093-190-231.gru.edu
+nam-ip158-093-190-158.gru.edu
+web.a.ebscohost.com.proxygsu-reg1.galileo.usg.edu.ezproxy.gru.edu
+sms1.gru.edu
+nam-ip158-093-190-168.gru.edu
+deansdiary.gru.edu
+tberg-ip158-093-192-003.gru.edu
+tberg-ip158-093-192-022.gru.edu
+ajprenal.physiology.org.ezproxy.gru.edu
+dih.gru.edu
+comics.gru.edu
+nam-ip158-093-190-138.gru.edu
+nam-ip158-093-190-131.gru.edu
+mcghgapsftdb2-oracle.gru.edu
+id3.gru.edu
+nam-ip158-093-190-225.gru.edu
+nam-ip158-093-190-144.gru.edu
+nam-ip158-093-190-229.gru.edu
+rp33.gru.edu

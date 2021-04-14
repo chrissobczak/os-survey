@@ -1,100 +1,44 @@
-NXDOMAIN	libdb.blackhawk.edu
-NXDOMAIN	sbjemweb01.blackhawk.edu
-NXDOMAIN	edevelopment.blackhawk.edu
-NOERROR	mybtc.blackhawk.edu
-NXDOMAIN	mywebsite.blackhawk.edu
-NXDOMAIN	sbjav01.admin.blackhawk.edu
-NXDOMAIN	techexplore.blackhawk.edu
-NOERROR	autodiscover.blackhawk.edu
-NXDOMAIN	faculty.blackhawk.edu
-NOERROR	studentlife.blackhawk.edu
-NOERROR	catalog.blackhawk.edu
-NXDOMAIN	sbjcas10-02.admin.blackhawk.edu
-NXDOMAIN	guestwireless.blackhawk.edu
-NOERROR	wireless.blackhawk.edu
-NOERROR	survey.blackhawk.edu
-NXDOMAIN	staff.blackhawk.edu
-NOERROR	simiq.blackhawk.edu
-NXDOMAIN	sbjcucmsub1.blackhawk.edu
-NOERROR	passregister.blackhawk.edu
-NXDOMAIN	sbjradius16-02.admin.blackhawk.edu
-NXDOMAIN	adfs01.blackhawk.edu
-NOERROR	passreset.blackhawk.edu
-NOERROR	webmail.blackhawk.edu
-NOERROR	btctest.blackhawk.edu
-NOERROR	eis-prod.ec.blackhawk.edu
-NXDOMAIN	btccas.blackhawk.edu
-NXDOMAIN	sbjwlc01.blackhawk.edu
-NXDOMAIN	sbjcucmpub.blackhawk.edu
-NOERROR	mydesktop.blackhawk.edu
-NOERROR	activecollab.blackhawk.edu
-NXDOMAIN	sbjimppub.blackhawk.edu
-NXDOMAIN	horizondev.blackhawk.edu
-NOERROR	sbjtpexpe01.vc.blackhawk.edu
-NOERROR	formsnew.blackhawk.edu
-NOERROR	inside.blackhawk.edu
-NXDOMAIN	ctxweb.blackhawk.edu
-NXDOMAIN	www.techexploration.blackhawk.edu
-NXDOMAIN	techexploration.blackhawk.edu
-NXDOMAIN	sbjemweb02.blackhawk.edu
-NOERROR	sbjrodc2016.admin.blackhawk.edu
-NOERROR	webapp2.blackhawk.edu
-NXDOMAIN	old.blackhawk.edu
-NOERROR	exchange.blackhawk.edu
-NXDOMAIN	btcois.blackhawk.edu
-NXDOMAIN	adfs02.blackhawk.edu
-NOERROR	test.blackhawk.edu
-NXDOMAIN	sbjjobsrvr.admin.blackhawk.edu
-NXDOMAIN	techprep.blackhawk.edu
-NXDOMAIN	antispam.blackhawk.edu
-NXDOMAIN	uptime.blackhawk.edu
-NXDOMAIN	sbjcas01b.admin.blackhawk.edu
-NXDOMAIN	sbjicadfs-01.blackhawk.edu
-NOERROR	upload.blackhawk.edu
-NOERROR	next-catalog.blackhawk.edu
-NXDOMAIN	sbjucnpub.blackhawk.edu
-NXDOMAIN	antivirus.blackhawk.edu
-NXDOMAIN	coffeebreak.blackhawk.edu
-NOERROR	adfs.blackhawk.edu
-NOERROR	sars.blackhawk.edu
-NOERROR	mdm.blackhawk.edu
-NOERROR	lum-prod.ec.blackhawk.edu
-NOERROR	autodiscover.students.blackhawk.edu
-NOERROR	public.blackhawk.edu
-NXDOMAIN	btcj-asa5525x-1205-01.admin.blackhawk.edu
-NOERROR	blackhawk.edu
-NXDOMAIN	sbjcas10-01.admin.blackhawk.edu
-NOERROR	vpn.blackhawk.edu
-NXDOMAIN	mail.blackhawk.edu
-NOERROR	sbjftp801.blackhawk.edu
-NXDOMAIN	sbmcucmsub2.blackhawk.edu
-NOERROR	www.blackhawk.edu
-NXDOMAIN	podcast.blackhawk.edu
-NXDOMAIN	desktops.blackhawk.edu
-NOERROR	ec.blackhawk.edu
-NXDOMAIN	sample2.blackhawk.edu
-NOERROR	surveys.blackhawk.edu
-NXDOMAIN	extpassregister.blackhawk.edu
-NXDOMAIN	sbmucnsub.blackhawk.edu
-NOERROR	forms.blackhawk.edu
-NXDOMAIN	sijrodc801.students.blackhawk.edu
-NXDOMAIN	sbjradius16-01.admin.blackhawk.edu
-NXDOMAIN	sbjrodc801.admin.blackhawk.edu
-NXDOMAIN	tac.blackhawk.edu
-NXDOMAIN	pwreset.blackhawk.edu
-NXDOMAIN	infocentre.blackhawk.edu
-NOERROR	students.blackhawk.edu
-NXDOMAIN	tracdat.blackhawk.edu
-NXDOMAIN	legacy.blackhawk.edu
-NXDOMAIN	sbjcas01a.admin.blackhawk.edu
-NOERROR	intranet.blackhawk.edu
-NOERROR	webapp1.blackhawk.edu
-NOERROR	helpdesk.blackhawk.edu
-NOERROR	ftp.blackhawk.edu
-NXDOMAIN	sbjtpexpc01.admin.blackhawk.edu
-NOERROR	courses.blackhawk.edu
-NOERROR	localhost.blackhawk.edu
-NXDOMAIN	tlc.blackhawk.edu
-NXDOMAIN	www.exchange.blackhawk.edu
-NXDOMAIN	instruction.blackhawk.edu
-NOERROR	print.blackhawk.edu
+mybtc.blackhawk.edu
+autodiscover.blackhawk.edu
+studentlife.blackhawk.edu
+catalog.blackhawk.edu
+wireless.blackhawk.edu
+survey.blackhawk.edu
+simiq.blackhawk.edu
+passregister.blackhawk.edu
+passreset.blackhawk.edu
+webmail.blackhawk.edu
+btctest.blackhawk.edu
+eis-prod.ec.blackhawk.edu
+mydesktop.blackhawk.edu
+activecollab.blackhawk.edu
+sbjtpexpe01.vc.blackhawk.edu
+formsnew.blackhawk.edu
+inside.blackhawk.edu
+sbjrodc2016.admin.blackhawk.edu
+webapp2.blackhawk.edu
+exchange.blackhawk.edu
+test.blackhawk.edu
+upload.blackhawk.edu
+next-catalog.blackhawk.edu
+adfs.blackhawk.edu
+sars.blackhawk.edu
+mdm.blackhawk.edu
+lum-prod.ec.blackhawk.edu
+autodiscover.students.blackhawk.edu
+public.blackhawk.edu
+blackhawk.edu
+vpn.blackhawk.edu
+sbjftp801.blackhawk.edu
+www.blackhawk.edu
+ec.blackhawk.edu
+surveys.blackhawk.edu
+forms.blackhawk.edu
+students.blackhawk.edu
+intranet.blackhawk.edu
+webapp1.blackhawk.edu
+helpdesk.blackhawk.edu
+ftp.blackhawk.edu
+courses.blackhawk.edu
+localhost.blackhawk.edu
+print.blackhawk.edu

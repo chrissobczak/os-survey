@@ -1,39 +1,27 @@
-NOERROR	gcfs.gcccks.edu
-NXDOMAIN	maestro.gcccks.edu
-NXDOMAIN	gcccmail.gcccks.edu
-NOERROR	meet.gcccks.edu
-NOERROR	lyncdiscover.gcccks.edu
-NXDOMAIN	login.gambit.com.gcccks.edu
-NOERROR	events.gcccks.edu
-NXDOMAIN	elearn.gcccks.edu
-NOERROR	ftp.gcccks.edu
-NOERROR	portal.gcccks.edu
-NXDOMAIN	cxweb.gcccks.edu
-NXDOMAIN	libbookserv.gcccks.edu
-NXDOMAIN	www.gcweb.gcccks.edu
-NXDOMAIN	gc3online.gcccks.edu
-NOERROR	mail.gcccks.edu
-NOERROR	wwwgc.gcccks.edu
-NXDOMAIN	twepawems.gcccks.edu
-NOERROR	gcpoint.gcccks.edu
-NOERROR	omni.gcccks.edu
-NOERROR	dial.gcccks.edu
-NOERROR	mbg.gcccks.edu
-NOERROR	fortimail.gcccks.edu
-NOERROR	www.gcccks.edu
-NXDOMAIN	intra.gcccks.edu
-NOERROR	auron.gcccks.edu
-NOERROR	gambit.gcccks.edu
-NOERROR	selfservice.gcccks.edu
-NOERROR	login.gambit.gcccks.edu
-NOERROR	bookstore.gcccks.edu
-NOERROR	gcccks.edu
-NOERROR	echo360.gcccks.edu
-NOERROR	lync.gcccks.edu
-NOERROR	udoit.gcccks.edu
-NOERROR	gcpss.gcccks.edu
-NOERROR	gcweb.gcccks.edu
-NOERROR	slipspace.gcccks.edu
-NXDOMAIN	www.ssonline.gcccks.edu
-NXDOMAIN	gcccserver2000.gcccks.edu
-NOERROR	tidus.gcccks.edu
+gcfs.gcccks.edu
+meet.gcccks.edu
+lyncdiscover.gcccks.edu
+events.gcccks.edu
+ftp.gcccks.edu
+portal.gcccks.edu
+mail.gcccks.edu
+wwwgc.gcccks.edu
+gcpoint.gcccks.edu
+omni.gcccks.edu
+dial.gcccks.edu
+mbg.gcccks.edu
+fortimail.gcccks.edu
+www.gcccks.edu
+auron.gcccks.edu
+gambit.gcccks.edu
+selfservice.gcccks.edu
+login.gambit.gcccks.edu
+bookstore.gcccks.edu
+gcccks.edu
+echo360.gcccks.edu
+lync.gcccks.edu
+udoit.gcccks.edu
+gcpss.gcccks.edu
+gcweb.gcccks.edu
+slipspace.gcccks.edu
+tidus.gcccks.edu

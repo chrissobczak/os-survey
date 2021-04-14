@@ -1,24 +1,20 @@
-NOERROR	jkvm.lka.lt
-NOERROR	tmk.lka.lt
-NOERROR	search.ebscohost.com.ezproxy.lka.lt
-NOERROR	login.ezproxy.lka.lt
-NOERROR	www.journals.lka.lt
-NXDOMAIN	beta.lka.lt
-NXDOMAIN	mx.lka.lt
-NOERROR	mano.lka.lt
-NOERROR	webmail.lka.lt
-NOERROR	web.a.ebscohost.com.ezproxy.lka.lt
-NOERROR	www.lka.lt
-NOERROR	vb.lka.lt
-NOERROR	kariunai.lka.lt
-NOERROR	keliautojai.lka.lt
-NOERROR	web.b.ebscohost.com.ezproxy.lka.lt
-NOERROR	distance.lka.lt
-NOERROR	connection.ebscohost.com.ezproxy.lka.lt
-NOERROR	linux.lka.lt
-NOERROR	journals.lka.lt
-NOERROR	lka.lt
-NOERROR	ezproxy.lka.lt
-NXDOMAIN	www.vb.lka.lt
-NOERROR	lnmc.lka.lt
-NXDOMAIN	www.mano.lka.lt
+jkvm.lka.lt
+tmk.lka.lt
+search.ebscohost.com.ezproxy.lka.lt
+login.ezproxy.lka.lt
+www.journals.lka.lt
+mano.lka.lt
+webmail.lka.lt
+web.a.ebscohost.com.ezproxy.lka.lt
+www.lka.lt
+vb.lka.lt
+kariunai.lka.lt
+keliautojai.lka.lt
+web.b.ebscohost.com.ezproxy.lka.lt
+distance.lka.lt
+connection.ebscohost.com.ezproxy.lka.lt
+linux.lka.lt
+journals.lka.lt
+lka.lt
+ezproxy.lka.lt
+lnmc.lka.lt

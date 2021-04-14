@@ -1,50 +1,48 @@
-NOERROR	ff.dnu.dp.ua
-NOERROR	chem.dnu.dp.ua
-NOERROR	chemistry.dnu.dp.ua
-NOERROR	kef.dnu.dp.ua
-NOERROR	oh.dnu.dp.ua
-NOERROR	privatebin.dnu.dp.ua
-NOERROR	palace.dnu.dp.ua
-NOERROR	rcmo.dnu.dp.ua
-NOERROR	cpdo.dnu.dp.ua
-NOERROR	at2015.dnu.dp.ua
-NOERROR	dnu.dp.ua
-NOERROR	fbo.dnu.dp.ua
-NOERROR	distance.dnu.dp.ua
-NOERROR	lib.dnu.dp.ua
-NOERROR	at2010.dnu.dp.ua
-NOERROR	mmf.dnu.dp.ua
-NOERROR	www.rcmo.dnu.dp.ua
-NOERROR	courses.dnu.dp.ua
-NOERROR	fpm.dnu.dp.ua
-NOERROR	www.inter.dnu.dp.ua
-NOERROR	fszmk.dnu.dp.ua
-NXDOMAIN	libsql.dnu.dp.ua
-NOERROR	mse.dnu.dp.ua
-NOERROR	rff.dnu.dp.ua
-NOERROR	cf.dnu.dp.ua
-NOERROR	repository.dnu.dp.ua
-NOERROR	fme.dnu.dp.ua
-NOERROR	library.dnu.dp.ua
-NOERROR	www.dnu.dp.ua
-NOERROR	at2019.dnu.dp.ua
-NOERROR	at2020.dnu.dp.ua
-NOERROR	maitf.dnu.dp.ua
-NOERROR	pk.dnu.dp.ua
-NOERROR	botsad.dnu.dp.ua
-NOERROR	spacetechcenter.dnu.dp.ua
-NOERROR	visnyk.dnu.dp.ua
-NOERROR	fie.dnu.dp.ua
-NOERROR	www.palace.dnu.dp.ua
-NOERROR	mpzis.dnu.dp.ua
-NOERROR	edoc.it.dnu.dp.ua
-NOERROR	perocket.dnu.dp.ua
-NOERROR	rating.dnu.dp.ua
-NXDOMAIN	fpdo.dnu.dp.ua
-NOERROR	theorph.dnu.dp.ua
-NOERROR	webmail.dnu.dp.ua
-NOERROR	fpecs.dnu.dp.ua
-NOERROR	moodle.dnu.dp.ua
-NOERROR	vestnmath.dnu.dp.ua
-NOERROR	lawfaculty.dnu.dp.ua
-NOERROR	jphe.dnu.dp.ua
+ff.dnu.dp.ua
+chem.dnu.dp.ua
+chemistry.dnu.dp.ua
+kef.dnu.dp.ua
+oh.dnu.dp.ua
+privatebin.dnu.dp.ua
+palace.dnu.dp.ua
+rcmo.dnu.dp.ua
+cpdo.dnu.dp.ua
+at2015.dnu.dp.ua
+dnu.dp.ua
+fbo.dnu.dp.ua
+distance.dnu.dp.ua
+lib.dnu.dp.ua
+at2010.dnu.dp.ua
+mmf.dnu.dp.ua
+www.rcmo.dnu.dp.ua
+courses.dnu.dp.ua
+fpm.dnu.dp.ua
+www.inter.dnu.dp.ua
+fszmk.dnu.dp.ua
+mse.dnu.dp.ua
+rff.dnu.dp.ua
+cf.dnu.dp.ua
+repository.dnu.dp.ua
+fme.dnu.dp.ua
+library.dnu.dp.ua
+www.dnu.dp.ua
+at2019.dnu.dp.ua
+at2020.dnu.dp.ua
+maitf.dnu.dp.ua
+pk.dnu.dp.ua
+botsad.dnu.dp.ua
+spacetechcenter.dnu.dp.ua
+visnyk.dnu.dp.ua
+fie.dnu.dp.ua
+www.palace.dnu.dp.ua
+mpzis.dnu.dp.ua
+edoc.it.dnu.dp.ua
+perocket.dnu.dp.ua
+rating.dnu.dp.ua
+theorph.dnu.dp.ua
+webmail.dnu.dp.ua
+fpecs.dnu.dp.ua
+moodle.dnu.dp.ua
+vestnmath.dnu.dp.ua
+lawfaculty.dnu.dp.ua
+jphe.dnu.dp.ua

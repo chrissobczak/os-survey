@@ -1,99 +1,91 @@
-NOERROR	jaar.oxfordjournals.org.ez.eu.spb.ru
-NOERROR	ez.eu.spb.ru
-NOERROR	onlinelibrary.wiley.com.ez.eu.spb.ru
-NOERROR	online.ebiblioteka.ru.ez.eu.spb.ru
-NOERROR	quod.lib.umich.edu.ez.eu.spb.ru
-NOERROR	mxs.eu.spb.ru
-NOERROR	www-scopus-com.ez.eu.spb.ru
-NOERROR	coa.sagepub.com.ez.eu.spb.ru
-NOERROR	support.ebsco.com.ez.eu.spb.ru
-NOERROR	www.tandfonline.com.ez.eu.spb.ru
-NOERROR	search.ebscohost.com.ez.eu.spb.ru
-NOERROR	eu.spb.ru
-NOERROR	link.springer.com.ez.eu.spb.ru
-NOERROR	oxfordjournals.org.ez.eu.spb.ru
-NOERROR	pubs.aeaweb.org.ez.eu.spb.ru
-NOERROR	ahr.oxfordjournals.org.ez.eu.spb.ru
-NOERROR	www.biblioclub.ru.ez.eu.spb.ru
-NOERROR	web.b.ebscohost.com.ez.eu.spb.ru
-NOERROR	login.ez.eu.spb.ru
-NOERROR	mx.eu.spb.ru
-NOERROR	www.ingenta.com.ez.eu.spb.ru
-NOERROR	journals.sagepub.com.ez.eu.spb.ru
-NOERROR	do.eu.spb.ru
-NOERROR	autodiscover.eu.spb.ru
-NOERROR	www.game.eu.spb.ru
-NOERROR	resolver.ebscohost.com.ez.eu.spb.ru
-NOERROR	www.oxfordjournals.org.ez.eu.spb.ru
-NOERROR	journals.cambridge.org.ez.eu.spb.ru
-NOERROR	atoz.ebsco.com.ez.eu.spb.ru
-NOERROR	ebookcentral.proquest.com.ez.eu.spb.ru
-NOERROR	game.eu.spb.ru
-NOERROR	images.webofknowledge.com.ez.eu.spb.ru
-NOERROR	mp.eu.spb.ru
-NOERROR	www.oxfordreference.com.ez.eu.spb.ru
-NOERROR	www.ebiblioteka.ru.ez.eu.spb.ru
-NOERROR	pugovka.eu.spb.ru
-NOERROR	univ-management.eu.spb.ru
-NOERROR	imaps.eu.spb.ru
-NOERROR	wlib.eu.spb.ru
-NOERROR	jmm.sagepub.com.ez.eu.spb.ru
-NOERROR	limit.eu.spb.ru
-NOERROR	www.jstor.org.ez.eu.spb.ru
-NOERROR	arch.eu.spb.ru
-NOERROR	zzz.eu.spb.ru
-NOERROR	web.a.ebscohost.com.ez.eu.spb.ru
-NOERROR	elibrary.ru.ez.eu.spb.ru
-NXDOMAIN	web.eu.spb.ru
-NOERROR	www.oxford-byzantium.com.ez.eu.spb.ru
-NOERROR	tsr.eu.spb.ru
-NOERROR	pop3s.eu.spb.ru
-NOERROR	stt.eu.spb.ru
-NOERROR	www.journals.uchicago.edu.ez.eu.spb.ru
-NOERROR	smtps.eu.spb.ru
-NOERROR	www.oxford-economichistory.com.ez.eu.spb.ru
-NOERROR	webofknowledge.com.ez.eu.spb.ru
-NOERROR	muse.jhu.edu.ez.eu.spb.ru
-NOERROR	journalism.eu.spb.ru
-NOERROR	booksandjournals.brillonline.com.ez.eu.spb.ru
-NOERROR	www.vr-elibrary.de.ez.eu.spb.ru
-NOERROR	apps.webofknowledge.com.ez.eu.spb.ru
-NOERROR	www.sciencedirect.com.ez.eu.spb.ru
-NOERROR	site.ebrary.com.ez.eu.spb.ru
-NOERROR	www.brillonline.com.ez.eu.spb.ru
-NOERROR	gate.eu.spb.ru
-NOERROR	new.eu.spb.ru
-NOERROR	www.annualreviews.org.ez.eu.spb.ru
-NXDOMAIN	inflation.eu.spb.ru
-NOERROR	wcs.webofknowledge.com.ez.eu.spb.ru
-NOERROR	web.ebscohost.com.ez.eu.spb.ru
-NOERROR	online.sagepub.com.ez.eu.spb.ru
-NOERROR	zenit.eu.spb.ru
-NXDOMAIN	socionet.eu.spb.ru
-NOERROR	content.ebscohost.com.ez.eu.spb.ru
-NXDOMAIN	board.eu.spb.ru
-NXDOMAIN	mx1.eu.spb.ru
-NOERROR	biblioclub.ru.ez.eu.spb.ru
-NOERROR	wp.eu.spb.ru
-NOERROR	primarysources.brillonline.com.ez.eu.spb.ru
-NOERROR	www-tandfonline-com.ez.eu.spb.ru
-NOERROR	ixy.eu.spb.ru
-NOERROR	www.eu.spb.ru
-NOERROR	www.oxford-renaissance.com.ez.eu.spb.ru
-NOERROR	sakai.eu.spb.ru
-NOERROR	old.eu.spb.ru
-NOERROR	test.eu.spb.ru
-NXDOMAIN	dist-economics.eu.spb.ru
-NOERROR	mail.eu.spb.ru
-NOERROR	v2.eu.spb.ru
-NOERROR	www.humanitiesebook.org.ez.eu.spb.ru
-NOERROR	search.proquest.com.ez.eu.spb.ru
-NXDOMAIN	nw.eu.spb.ru
-NOERROR	ethnology.pitt.edu.ez.eu.spb.ru
-NOERROR	ups.eu.spb.ru
-NOERROR	men.sagepub.com.ez.eu.spb.ru
-NOERROR	stscene.eu.spb.ru
-NOERROR	spb.summon.serialssolutions.com.ez.eu.spb.ru
-NXDOMAIN	irbix.eu.spb.ru
-NOERROR	rcs.eu.spb.ru
-NOERROR	jstor.org.ez.eu.spb.ru
+jaar.oxfordjournals.org.ez.eu.spb.ru
+ez.eu.spb.ru
+onlinelibrary.wiley.com.ez.eu.spb.ru
+online.ebiblioteka.ru.ez.eu.spb.ru
+quod.lib.umich.edu.ez.eu.spb.ru
+mxs.eu.spb.ru
+www-scopus-com.ez.eu.spb.ru
+coa.sagepub.com.ez.eu.spb.ru
+support.ebsco.com.ez.eu.spb.ru
+www.tandfonline.com.ez.eu.spb.ru
+search.ebscohost.com.ez.eu.spb.ru
+eu.spb.ru
+link.springer.com.ez.eu.spb.ru
+oxfordjournals.org.ez.eu.spb.ru
+pubs.aeaweb.org.ez.eu.spb.ru
+ahr.oxfordjournals.org.ez.eu.spb.ru
+www.biblioclub.ru.ez.eu.spb.ru
+web.b.ebscohost.com.ez.eu.spb.ru
+login.ez.eu.spb.ru
+mx.eu.spb.ru
+www.ingenta.com.ez.eu.spb.ru
+journals.sagepub.com.ez.eu.spb.ru
+do.eu.spb.ru
+autodiscover.eu.spb.ru
+www.game.eu.spb.ru
+resolver.ebscohost.com.ez.eu.spb.ru
+www.oxfordjournals.org.ez.eu.spb.ru
+journals.cambridge.org.ez.eu.spb.ru
+atoz.ebsco.com.ez.eu.spb.ru
+ebookcentral.proquest.com.ez.eu.spb.ru
+game.eu.spb.ru
+images.webofknowledge.com.ez.eu.spb.ru
+mp.eu.spb.ru
+www.oxfordreference.com.ez.eu.spb.ru
+www.ebiblioteka.ru.ez.eu.spb.ru
+pugovka.eu.spb.ru
+univ-management.eu.spb.ru
+imaps.eu.spb.ru
+wlib.eu.spb.ru
+jmm.sagepub.com.ez.eu.spb.ru
+limit.eu.spb.ru
+www.jstor.org.ez.eu.spb.ru
+arch.eu.spb.ru
+zzz.eu.spb.ru
+web.a.ebscohost.com.ez.eu.spb.ru
+elibrary.ru.ez.eu.spb.ru
+www.oxford-byzantium.com.ez.eu.spb.ru
+tsr.eu.spb.ru
+pop3s.eu.spb.ru
+stt.eu.spb.ru
+www.journals.uchicago.edu.ez.eu.spb.ru
+smtps.eu.spb.ru
+www.oxford-economichistory.com.ez.eu.spb.ru
+webofknowledge.com.ez.eu.spb.ru
+muse.jhu.edu.ez.eu.spb.ru
+journalism.eu.spb.ru
+booksandjournals.brillonline.com.ez.eu.spb.ru
+www.vr-elibrary.de.ez.eu.spb.ru
+apps.webofknowledge.com.ez.eu.spb.ru
+www.sciencedirect.com.ez.eu.spb.ru
+site.ebrary.com.ez.eu.spb.ru
+www.brillonline.com.ez.eu.spb.ru
+gate.eu.spb.ru
+new.eu.spb.ru
+www.annualreviews.org.ez.eu.spb.ru
+wcs.webofknowledge.com.ez.eu.spb.ru
+web.ebscohost.com.ez.eu.spb.ru
+online.sagepub.com.ez.eu.spb.ru
+zenit.eu.spb.ru
+content.ebscohost.com.ez.eu.spb.ru
+biblioclub.ru.ez.eu.spb.ru
+wp.eu.spb.ru
+primarysources.brillonline.com.ez.eu.spb.ru
+www-tandfonline-com.ez.eu.spb.ru
+ixy.eu.spb.ru
+www.eu.spb.ru
+www.oxford-renaissance.com.ez.eu.spb.ru
+sakai.eu.spb.ru
+old.eu.spb.ru
+test.eu.spb.ru
+mail.eu.spb.ru
+v2.eu.spb.ru
+www.humanitiesebook.org.ez.eu.spb.ru
+search.proquest.com.ez.eu.spb.ru
+ethnology.pitt.edu.ez.eu.spb.ru
+ups.eu.spb.ru
+men.sagepub.com.ez.eu.spb.ru
+stscene.eu.spb.ru
+spb.summon.serialssolutions.com.ez.eu.spb.ru
+rcs.eu.spb.ru
+jstor.org.ez.eu.spb.ru

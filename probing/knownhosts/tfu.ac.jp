@@ -1,38 +1,25 @@
-NOERROR	wuns302.tfu.ac.jp
-NXDOMAIN	tfuee.tfu.ac.jp
-NOERROR	gsr.tfu.ac.jp
-NOERROR	www.tfu.ac.jp
-NOERROR	tfugoah.tfu.ac.jp
-NOERROR	get.tfu.ac.jp
-NXDOMAIN	conr.tfu.ac.jp
-NXDOMAIN	wwwx.tfu.ac.jp
-NOERROR	wuns001.tfu.ac.jp
-NXDOMAIN	msr.tfu.ac.jp
-NOERROR	wuns301.tfu.ac.jp
-NOERROR	report.tfu.ac.jp
-NOERROR	eereport.tfu.ac.jp
-NOERROR	entr.tfu.ac.jp
-NOERROR	dns01.tfu.ac.jp
-NXDOMAIN	jyukennavi.tfu.ac.jp
-NOERROR	vod.tfu.ac.jp
-NOERROR	exam.tfu.ac.jp
-NOERROR	jyuken.tfu.ac.jp
-NOERROR	club.tfu.ac.jp
-NOERROR	dns02.tfu.ac.jp
-NXDOMAIN	tnm.tfu.ac.jp
-NOERROR	vm-uidm01.tfu.ac.jp
-NOERROR	kari.tfu.ac.jp
-NXDOMAIN	lms.tfu.ac.jp
-NOERROR	tfulibinfo.tfu.ac.jp
-NOERROR	wuns303.tfu.ac.jp
-NXDOMAIN	elproject.tfu.ac.jp
-NXDOMAIN	lbinfosv.tfu.ac.jp
-NXDOMAIN	wuns302_2.tfu.ac.jp
-NOERROR	uconm.tfu.ac.jp
-NOERROR	tfu.ac.jp
-NXDOMAIN	wuns304.tfu.ac.jp
-NOERROR	idc-sslvpn01.tfu.ac.jp
-NOERROR	tfu-entr.tfu.ac.jp
-NOERROR	tfusvsun.tfu.ac.jp
-NXDOMAIN	tfu-www.tfu.ac.jp
-NXDOMAIN	tfu-wwwx.tfu.ac.jp
+wuns302.tfu.ac.jp
+gsr.tfu.ac.jp
+www.tfu.ac.jp
+tfugoah.tfu.ac.jp
+get.tfu.ac.jp
+wuns001.tfu.ac.jp
+wuns301.tfu.ac.jp
+report.tfu.ac.jp
+eereport.tfu.ac.jp
+entr.tfu.ac.jp
+dns01.tfu.ac.jp
+vod.tfu.ac.jp
+exam.tfu.ac.jp
+jyuken.tfu.ac.jp
+club.tfu.ac.jp
+dns02.tfu.ac.jp
+vm-uidm01.tfu.ac.jp
+kari.tfu.ac.jp
+tfulibinfo.tfu.ac.jp
+wuns303.tfu.ac.jp
+uconm.tfu.ac.jp
+tfu.ac.jp
+idc-sslvpn01.tfu.ac.jp
+tfu-entr.tfu.ac.jp
+tfusvsun.tfu.ac.jp

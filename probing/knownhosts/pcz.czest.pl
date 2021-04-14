@@ -1,1048 +1,979 @@
-NOERROR	merlot.is.pcz.czest.pl
-NOERROR	z41.zim.pcz.czest.pl
-NOERROR	t116.adm.pcz.czest.pl
-SERVFAIL	dns.mim.pcz.czest.pl
-NOERROR	kika.kik.pcz.czest.pl
-NOERROR	pc002.el.pcz.czest.pl
-NOERROR	z18.zim.pcz.czest.pl
-NOERROR	v10.kik.pcz.czest.pl
-NOERROR	zapas.kik.pcz.czest.pl
-NOERROR	pc26.bud.pcz.czest.pl
-SERVFAIL	keirm.mim.pcz.czest.pl
-NOERROR	pc028.el.pcz.czest.pl
-NOERROR	przemek.is.pcz.czest.pl
-NOERROR	pc5.bud.pcz.czest.pl
-NOERROR	wojtek.zim.pcz.czest.pl
-NOERROR	maluch.pcz.czest.pl
-NOERROR	pc44.bud.pcz.czest.pl
-NOERROR	kka.pcz.czest.pl
-NOERROR	z105.zim.pcz.czest.pl
-NOERROR	bkarwowska.is.pcz.czest.pl
-NOERROR	opti.kpts.pcz.czest.pl
-NOERROR	pc059.el.pcz.czest.pl
-NOERROR	kpts.pcz.czest.pl
-NOERROR	star.kpts.pcz.czest.pl
-NOERROR	i21.iop.pcz.czest.pl
-NXDOMAIN	ktmiap.pcz.czest.pl
-NOERROR	z40.zim.pcz.czest.pl
-NOERROR	pc040.el.pcz.czest.pl
-NOERROR	pc080.el.pcz.czest.pl
-NOERROR	d17.imc.pcz.czest.pl
-NOERROR	tom.kpts.pcz.czest.pl
-NOERROR	pc165.imipkm.pcz.czest.pl
-NOERROR	z95.zim.pcz.czest.pl
-NOERROR	t114.adm.pcz.czest.pl
-NOERROR	d45.imc.pcz.czest.pl
-NOERROR	b15.bibl.pcz.czest.pl
-NOERROR	icnnsc.pcz.czest.pl
-NOERROR	ewisniowska.is.pcz.czest.pl
-NOERROR	pc21.kik.pcz.czest.pl
-NOERROR	s22.itm.pcz.czest.pl
-NOERROR	www.adm.pcz.czest.pl
-NOERROR	access.pcz.czest.pl
-NXDOMAIN	arpex.k2.pcz.czest.pl
-NOERROR	z13.zim.pcz.czest.pl
-NOERROR	b17.bibl.pcz.czest.pl
-SERVFAIL	jan.mim.pcz.czest.pl
-NOERROR	lab4.mib.pcz.czest.pl
-NOERROR	t82.adm.pcz.czest.pl
-NOERROR	areks.is.pcz.czest.pl
-NOERROR	pc18.bud.pcz.czest.pl
-NOERROR	d7.imc.pcz.czest.pl
-NOERROR	i13.iop.pcz.czest.pl
-NOERROR	pc10.bud.pcz.czest.pl
-SERVFAIL	hutnik.mim.pcz.czest.pl
-NOERROR	z50.zim.pcz.czest.pl
-NOERROR	pc035.el.pcz.czest.pl
-NOERROR	z113.zim.pcz.czest.pl
-NOERROR	v7.kik.pcz.czest.pl
-NOERROR	pc038.el.pcz.czest.pl
-NOERROR	szp.is.pcz.czest.pl
-NOERROR	v13.kik.pcz.czest.pl
-NOERROR	bsk4-4.is.pcz.czest.pl
-NOERROR	s20.itm.pcz.czest.pl
-NOERROR	www.el.pcz.czest.pl
-NOERROR	t119.adm.pcz.czest.pl
-NOERROR	z103.zim.pcz.czest.pl
-NOERROR	www.ptsn.pcz.czest.pl
-NOERROR	pc40.bud.pcz.czest.pl
-NOERROR	pc20.kik.pcz.czest.pl
-NOERROR	pc121.imipkm.pcz.czest.pl
-NOERROR	d14.imc.pcz.czest.pl
-NOERROR	d24.imc.pcz.czest.pl
-NOERROR	i33.iop.pcz.czest.pl
-NOERROR	ik2c.kik.pcz.czest.pl
-NOERROR	wojtek.iop.pcz.czest.pl
-NOERROR	z53.zim.pcz.czest.pl
-NOERROR	b25.bibl.pcz.czest.pl
-NOERROR	pc28.bud.pcz.czest.pl
-NOERROR	i4.iop.pcz.czest.pl
-SERVFAIL	www2.mim.pcz.czest.pl
-SERVFAIL	pttk.mim.pcz.czest.pl
-NOERROR	pc065.el.pcz.czest.pl
-NOERROR	raphael.is.pcz.czest.pl
-NOERROR	d11.kik.pcz.czest.pl
-NXDOMAIN	blb17.is.pcz.czest.pl
-NOERROR	k210.kkt.pcz.czest.pl
-NOERROR	s47.itm.pcz.czest.pl
-NOERROR	s53.itm.pcz.czest.pl
-NOERROR	z93.zim.pcz.czest.pl
-NOERROR	k204.kkt.pcz.czest.pl
-NOERROR	d36.imc.pcz.czest.pl
-NOERROR	pc025.el.pcz.czest.pl
-NOERROR	d40.imc.pcz.czest.pl
-NOERROR	i39.iop.pcz.czest.pl
-NOERROR	adm10.el.pcz.czest.pl
-NOERROR	i23.iop.pcz.czest.pl
-NOERROR	pc20.bud.pcz.czest.pl
-NOERROR	i32.iop.pcz.czest.pl
-NOERROR	s28.itm.pcz.czest.pl
-NOERROR	alfa.icis.pcz.czest.pl
-NOERROR	knife.imipkm.pcz.czest.pl
-NOERROR	bpg4b.is.pcz.czest.pl
-NOERROR	bsk3-2.is.pcz.czest.pl
-NOERROR	pc046.el.pcz.czest.pl
-NOERROR	chem.is.pcz.czest.pl
-NXDOMAIN	vpn.is.pcz.czest.pl
-NOERROR	pc012.el.pcz.czest.pl
-NOERROR	z37.zim.pcz.czest.pl
-NOERROR	z14.zim.pcz.czest.pl
-NOERROR	www.icnnsc.pcz.czest.pl
-NOERROR	bsk2-11.is.pcz.czest.pl
-NOERROR	n15.kik.pcz.czest.pl
-NOERROR	pc015.el.pcz.czest.pl
-NOERROR	i26.iop.pcz.czest.pl
-NOERROR	poly.kpts.pcz.czest.pl
-NOERROR	z88.zim.pcz.czest.pl
-NOERROR	marcin.iop.pcz.czest.pl
-NOERROR	t118.adm.pcz.czest.pl
-NOERROR	pc048.el.pcz.czest.pl
-NOERROR	zisio.icis.pcz.czest.pl
-NOERROR	micro.kpts.pcz.czest.pl
-NOERROR	p7.access.pcz.czest.pl
-NOERROR	pc026.el.pcz.czest.pl
-NOERROR	z68.zim.pcz.czest.pl
-NOERROR	d10.kik.pcz.czest.pl
-NXDOMAIN	matinfo.pcz.czest.pl
-NOERROR	iop1.iop.pcz.czest.pl
-NOERROR	bbibl-1.is.pcz.czest.pl
-NOERROR	icis.pcz.czest.pl
-NOERROR	s45.itm.pcz.czest.pl
-NOERROR	zsiie.icis.pcz.czest.pl
-NOERROR	d15.kik.pcz.czest.pl
-NOERROR	p2.itm.pcz.czest.pl
-NOERROR	i22.iop.pcz.czest.pl
-NOERROR	sekret.iop.pcz.czest.pl
-NOERROR	z38.zim.pcz.czest.pl
-NOERROR	kik.pcz.czest.pl
-NOERROR	www.is.pcz.czest.pl
-NOERROR	dhcp3.zim.pcz.czest.pl
-NOERROR	mjr.is.pcz.czest.pl
-NOERROR	s37.itm.pcz.czest.pl
-NOERROR	z87.zim.pcz.czest.pl
-NOERROR	kie.is.pcz.czest.pl
-NOERROR	lab5.mib.pcz.czest.pl
-NOERROR	adm.pcz.czest.pl
-NOERROR	d4.kik.pcz.czest.pl
-NOERROR	pc7.kik.pcz.czest.pl
-NOERROR	d12.kik.pcz.czest.pl
-NOERROR	pc22.kik.pcz.czest.pl
-NOERROR	sek2.is.pcz.czest.pl
-NOERROR	au2.kik.pcz.czest.pl
-NOERROR	s3.itm.pcz.czest.pl
-NOERROR	szymon.is.pcz.czest.pl
-NOERROR	ptsn.pcz.czest.pl
-NXDOMAIN	t120.adm.pcz.czest.pl
-NOERROR	z69.zim.pcz.czest.pl
-NOERROR	d6.kik.pcz.czest.pl
-NOERROR	z90.zim.pcz.czest.pl
-NOERROR	d21.kik.pcz.czest.pl
-NOERROR	aleksandras.is.pcz.czest.pl
-NXDOMAIN	dhcp5.zim.pcz.czest.pl
-NOERROR	d10.imc.pcz.czest.pl
-NOERROR	z31.zim.pcz.czest.pl
-NOERROR	bpg-10.is.pcz.czest.pl
-NOERROR	d2.kik.pcz.czest.pl
-NOERROR	mwolczynski.is.pcz.czest.pl
-NOERROR	v1.kik.pcz.czest.pl
-NOERROR	pc48.imipkm.pcz.czest.pl
-NOERROR	bpk-7.is.pcz.czest.pl
-NOERROR	waldi.is.pcz.czest.pl
-SERVFAIL	www.francik.mim.pcz.czest.pl
-NOERROR	dhcp1.zim.pcz.czest.pl
-NOERROR	bsk4-9.is.pcz.czest.pl
-NOERROR	star.el.pcz.czest.pl
-NOERROR	i15.iop.pcz.czest.pl
-NOERROR	pc064.el.pcz.czest.pl
-NOERROR	z9.zim.pcz.czest.pl
-NXDOMAIN	tola.kik.pcz.czest.pl
-NOERROR	z65.zim.pcz.czest.pl
-NOERROR	adm07.el.pcz.czest.pl
-NOERROR	apopenda.is.pcz.czest.pl
-NOERROR	pc169.imipkm.pcz.czest.pl
-NOERROR	mareka.is.pcz.czest.pl
-NOERROR	documaster3.is.pcz.czest.pl
-NOERROR	www.bibl.pcz.czest.pl
-NOERROR	bsk4-11.is.pcz.czest.pl
-NOERROR	d44.imc.pcz.czest.pl
-NOERROR	lab8.mib.pcz.czest.pl
-NOERROR	d35.imc.pcz.czest.pl
-NOERROR	pc063.el.pcz.czest.pl
-NOERROR	d26.imc.pcz.czest.pl
-NOERROR	t101.adm.pcz.czest.pl
-NOERROR	s41.itm.pcz.czest.pl
-NOERROR	pc29.bud.pcz.czest.pl
-NXDOMAIN	w3cache.pcz.czest.pl
-NOERROR	ps1.kik.pcz.czest.pl
-NOERROR	pc027.el.pcz.czest.pl
-SERVFAIL	www.kiszaniec.mim.pcz.czest.pl
-NOERROR	d13.kik.pcz.czest.pl
-NOERROR	n18.kik.pcz.czest.pl
-NXDOMAIN	avp.matinf.pcz.czest.pl
-NOERROR	s27.itm.pcz.czest.pl
-NOERROR	pc31.bud.pcz.czest.pl
-SERVFAIL	sadurek.mim.pcz.czest.pl
-NOERROR	pc007.el.pcz.czest.pl
-NOERROR	t117.adm.pcz.czest.pl
-NOERROR	z62.zim.pcz.czest.pl
-NOERROR	i29.iop.pcz.czest.pl
-NOERROR	k205.kkt.pcz.czest.pl
-NOERROR	e4200.is.pcz.czest.pl
-NOERROR	d23.imc.pcz.czest.pl
-NOERROR	ack8.ackwf.pcz.czest.pl
-SERVFAIL	www.pzh.mim.pcz.czest.pl
-NOERROR	dhcp4.zim.pcz.czest.pl
-NOERROR	s19.itm.pcz.czest.pl
-NOERROR	s12.itm.pcz.czest.pl
-NOERROR	pc11.kik.pcz.czest.pl
-NOERROR	s13.itm.pcz.czest.pl
-NOERROR	pc079.el.pcz.czest.pl
-NOERROR	michal.iop.pcz.czest.pl
-NOERROR	s7.itm.pcz.czest.pl
-NOERROR	s11.itm.pcz.czest.pl
-NOERROR	i41.iop.pcz.czest.pl
-NOERROR	s8.itm.pcz.czest.pl
-NOERROR	pc096.el.pcz.czest.pl
-NOERROR	i45.iop.pcz.czest.pl
-NOERROR	d6.imc.pcz.czest.pl
-NOERROR	z94.zim.pcz.czest.pl
-NXDOMAIN	lolek.kik.pcz.czest.pl
-NOERROR	s16.itm.pcz.czest.pl
-NOERROR	pc106.el.pcz.czest.pl
-NOERROR	pc031.el.pcz.czest.pl
-NOERROR	rez.kik.pcz.czest.pl
-NOERROR	www.imi.pcz.czest.pl
-NOERROR	i11.iop.pcz.czest.pl
-NOERROR	t70.adm.pcz.czest.pl
-NOERROR	z49.zim.pcz.czest.pl
-NOERROR	mskidn.pcz.czest.pl
-NOERROR	bigdaddy.iop.pcz.czest.pl
-NOERROR	d12.imc.pcz.czest.pl
-NOERROR	kowioa-p210.is.pcz.czest.pl
-NOERROR	latin.icis.pcz.czest.pl
-NOERROR	z60.zim.pcz.czest.pl
-NOERROR	fire2.bibl.pcz.czest.pl
-NOERROR	z23.zim.pcz.czest.pl
-NOERROR	pc037.el.pcz.czest.pl
-NOERROR	z43.zim.pcz.czest.pl
-NOERROR	documaster2.is.pcz.czest.pl
-NXDOMAIN	t115.adm.pcz.czest.pl
-NOERROR	z44.zim.pcz.czest.pl
-SERVFAIL	kiszaniec.mim.pcz.czest.pl
-NOERROR	pc034.el.pcz.czest.pl
-NOERROR	gw.bibl.pcz.czest.pl
-NOERROR	pc060.el.pcz.czest.pl
-NOERROR	pc10.kik.pcz.czest.pl
-NOERROR	magda.is.pcz.czest.pl
-NOERROR	i31.iop.pcz.czest.pl
-NOERROR	bbibl-2.is.pcz.czest.pl
-NOERROR	pc1.kik.pcz.czest.pl
-NOERROR	z115.zim.pcz.czest.pl
-NOERROR	s14.itm.pcz.czest.pl
-NOERROR	z45.zim.pcz.czest.pl
-NOERROR	n12.kik.pcz.czest.pl
-NOERROR	s29.itm.pcz.czest.pl
-NOERROR	b10.bibl.pcz.czest.pl
-NOERROR	rbb.bud.pcz.czest.pl
-NOERROR	t69.adm.pcz.czest.pl
-NOERROR	mario.kpts.pcz.czest.pl
-NOERROR	k209.kkt.pcz.czest.pl
-NOERROR	bpk-10.is.pcz.czest.pl
-NOERROR	v14.kik.pcz.czest.pl
-NOERROR	z85.zim.pcz.czest.pl
-NOERROR	wf3.ackwf.pcz.czest.pl
-NOERROR	d8.kik.pcz.czest.pl
-NOERROR	www.bud.pcz.czest.pl
-NOERROR	pc078.el.pcz.czest.pl
-NOERROR	pc45.bud.pcz.czest.pl
-NOERROR	arek.iop.pcz.czest.pl
-NOERROR	s44.itm.pcz.czest.pl
-NOERROR	b5.bibl.pcz.czest.pl
-NOERROR	pc27.bud.pcz.czest.pl
-NOERROR	bsk3-12.is.pcz.czest.pl
-NOERROR	z47.zim.pcz.czest.pl
-NOERROR	tomc.is.pcz.czest.pl
-NOERROR	bpk-18.is.pcz.czest.pl
-NOERROR	n4.kik.pcz.czest.pl
-NOERROR	pc008.el.pcz.czest.pl
-NOERROR	z25.zim.pcz.czest.pl
-NOERROR	s2.itm.pcz.czest.pl
-NOERROR	pc088.el.pcz.czest.pl
-NOERROR	imi.pcz.czest.pl
-NOERROR	wstroj.is.pcz.czest.pl
-NOERROR	zuig.el.pcz.czest.pl
-NOERROR	z51.zim.pcz.czest.pl
-NOERROR	bsk3-4.is.pcz.czest.pl
-NOERROR	adm12.el.pcz.czest.pl
-NOERROR	lab3.imipkm.pcz.czest.pl
-NOERROR	pc17.kik.pcz.czest.pl
-NOERROR	z56.zim.pcz.czest.pl
-NOERROR	pc3.bud.pcz.czest.pl
-NOERROR	pc071.el.pcz.czest.pl
-NOERROR	v11.kik.pcz.czest.pl
-NOERROR	s15.itm.pcz.czest.pl
-NOERROR	z109.zim.pcz.czest.pl
-NOERROR	pc102.el.pcz.czest.pl
-NOERROR	t113.adm.pcz.czest.pl
-NOERROR	z11.zim.pcz.czest.pl
-NOERROR	pc21.bud.pcz.czest.pl
-NOERROR	www.matinf.pcz.czest.pl
-NOERROR	iis.is.pcz.czest.pl
-SERVFAIL	www.symp-kor-szczyrk.mim.pcz.czest.pl
-NOERROR	pc029.el.pcz.czest.pl
-NOERROR	pc35.bud.pcz.czest.pl
-NOERROR	z15.zim.pcz.czest.pl
-NOERROR	d59.imc.pcz.czest.pl
-NOERROR	pc23.bud.pcz.czest.pl
-NOERROR	z112.zim.pcz.czest.pl
-NOERROR	d14.kik.pcz.czest.pl
-NOERROR	dns1.pcz.czest.pl
-NOERROR	pc56.imipkm.pcz.czest.pl
-NOERROR	z17.zim.pcz.czest.pl
-NOERROR	sep.el.pcz.czest.pl
-NOERROR	v9.kik.pcz.czest.pl
-NOERROR	b12.bibl.pcz.czest.pl
-NOERROR	z72.zim.pcz.czest.pl
-NOERROR	d48.imc.pcz.czest.pl
-NOERROR	pc14.bud.pcz.czest.pl
-NOERROR	n24.kik.pcz.czest.pl
-NOERROR	v15.kik.pcz.czest.pl
-NOERROR	pc50.imipkm.pcz.czest.pl
-NOERROR	pc9.bud.pcz.czest.pl
-NOERROR	lab415.kik.pcz.czest.pl
-NOERROR	bpg-9.is.pcz.czest.pl
-NOERROR	pc054.el.pcz.czest.pl
-NOERROR	pc18.kik.pcz.czest.pl
-NOERROR	plast.kpts.pcz.czest.pl
-NOERROR	pc125.imipkm.pcz.czest.pl
-NOERROR	ca6100.iop.pcz.czest.pl
-NOERROR	poczta.itm.pcz.czest.pl
-NOERROR	z58.zim.pcz.czest.pl
-NOERROR	pc32.bud.pcz.czest.pl
-SERVFAIL	www.pttk.mim.pcz.czest.pl
-NOERROR	mirek.is.pcz.czest.pl
-NOERROR	bsk2-9.is.pcz.czest.pl
-NOERROR	i40.iop.pcz.czest.pl
-NOERROR	ik2.kik.pcz.czest.pl
-NXDOMAIN	blb-7.is.pcz.czest.pl
-NOERROR	s4.kik.pcz.czest.pl
-NOERROR	bpk-14.is.pcz.czest.pl
-NOERROR	s48.itm.pcz.czest.pl
-NOERROR	p215b.is.pcz.czest.pl
-NOERROR	t86.adm.pcz.czest.pl
-NOERROR	ik1.kik.pcz.czest.pl
-NOERROR	s43.itm.pcz.czest.pl
-NOERROR	i1.iop.pcz.czest.pl
-NOERROR	s4.itm.pcz.czest.pl
-NOERROR	d17.kik.pcz.czest.pl
-NOERROR	pc108.el.pcz.czest.pl
-NOERROR	pc041.el.pcz.czest.pl
-NOERROR	eltoro.pcz.czest.pl
-NOERROR	melt.kpts.pcz.czest.pl
-NOERROR	pc091.el.pcz.czest.pl
-NOERROR	d19.imc.pcz.czest.pl
-NOERROR	bsk4-6.is.pcz.czest.pl
-NOERROR	s54.itm.pcz.czest.pl
-NOERROR	wyd2.adm.pcz.czest.pl
-NOERROR	bpk-25.is.pcz.czest.pl
-NOERROR	www.spaw.pcz.czest.pl
-NOERROR	pc166a.imipkm.pcz.czest.pl
-NOERROR	adm13.el.pcz.czest.pl
-NOERROR	z100.zim.pcz.czest.pl
-NOERROR	ack4.ackwf.pcz.czest.pl
-NXDOMAIN	alfa.matinf.pcz.czest.pl
-NOERROR	old.imipkm.pcz.czest.pl
-NOERROR	bsk1-10.is.pcz.czest.pl
-NOERROR	i38.iop.pcz.czest.pl
-NOERROR	zeus.herkules.pcz.czest.pl
-NOERROR	fire1.bibl.pcz.czest.pl
-NOERROR	plot.is.pcz.czest.pl
-NOERROR	z86.zim.pcz.czest.pl
-NOERROR	bsk1-5.is.pcz.czest.pl
-NXDOMAIN	avp.pcz.czest.pl
-NOERROR	gw.kpts.pcz.czest.pl
-NOERROR	bsk2-1.is.pcz.czest.pl
-NOERROR	www.itm.pcz.czest.pl
-NOERROR	ack2.ackwf.pcz.czest.pl
-NOERROR	pc1.bud.pcz.czest.pl
-NOERROR	d32.imc.pcz.czest.pl
-NOERROR	z57.zim.pcz.czest.pl
-NOERROR	i47.iop.pcz.czest.pl
-NOERROR	adm11.el.pcz.czest.pl
-NOERROR	silicon.kpts.pcz.czest.pl
-NOERROR	pc057.el.pcz.czest.pl
-NOERROR	pc095.el.pcz.czest.pl
-NOERROR	d8.imc.pcz.czest.pl
-NOERROR	kukuryk.iop.pcz.czest.pl
-NOERROR	bsk3-9.is.pcz.czest.pl
-NOERROR	is.pcz.czest.pl
-NOERROR	ik1a.kik.pcz.czest.pl
-NOERROR	dns2.pcz.czest.pl
-NOERROR	ack1.ackwf.pcz.czest.pl
-NOERROR	mjanik.is.pcz.czest.pl
-NOERROR	t102.adm.pcz.czest.pl
-NOERROR	bsk4-3.is.pcz.czest.pl
-NOERROR	bg.pcz.czest.pl
-NOERROR	b23.bibl.pcz.czest.pl
-NOERROR	z108.zim.pcz.czest.pl
-NOERROR	pc166.imipkm.pcz.czest.pl
-NOERROR	b13.bibl.pcz.czest.pl
-NOERROR	s1.itm.pcz.czest.pl
-NOERROR	kbib.pcz.czest.pl
-NXDOMAIN	arpex.matinf.pcz.czest.pl
-NOERROR	s35.itm.pcz.czest.pl
-NOERROR	s9.itm.pcz.czest.pl
-NOERROR	d24.kik.pcz.czest.pl
-NOERROR	s3.kik.pcz.czest.pl
-NOERROR	pc24.kik.pcz.czest.pl
-NOERROR	s30.itm.pcz.czest.pl
-NOERROR	z61.zim.pcz.czest.pl
-NOERROR	s5.itm.pcz.czest.pl
-NOERROR	i8.iop.pcz.czest.pl
-NOERROR	z111.zim.pcz.czest.pl
-NOERROR	d16.kik.pcz.czest.pl
-NOERROR	pc105.el.pcz.czest.pl
-NOERROR	n2.kik.pcz.czest.pl
-NOERROR	wf1.ackwf.pcz.czest.pl
-NOERROR	pc047.el.pcz.czest.pl
-NOERROR	adm03.el.pcz.czest.pl
-NOERROR	i7.iop.pcz.czest.pl
-NOERROR	pc13.bud.pcz.czest.pl
-NOERROR	mat.kpts.pcz.czest.pl
-SERVFAIL	www.konferencja.mim.pcz.czest.pl
-NOERROR	pc25.bud.pcz.czest.pl
-NOERROR	dhcp7.zim.pcz.czest.pl
-NOERROR	pc066.el.pcz.czest.pl
-NOERROR	b19.bibl.pcz.czest.pl
-NOERROR	z106.zim.pcz.czest.pl
-NOERROR	d55.imc.pcz.czest.pl
-NOERROR	pc8.kik.pcz.czest.pl
-NOERROR	pc082.el.pcz.czest.pl
-NOERROR	bsk2-3.is.pcz.czest.pl
-NOERROR	iop.pcz.czest.pl
-NXDOMAIN	im.pcz.czest.pl
-NOERROR	d4.imc.pcz.czest.pl
-NOERROR	z16.zim.pcz.czest.pl
-NOERROR	pc107.el.pcz.czest.pl
-NOERROR	andrzej.bud.pcz.czest.pl
-NOERROR	pc044.el.pcz.czest.pl
-NOERROR	darek.kpts.pcz.czest.pl
-NOERROR	lab1.mib.pcz.czest.pl
-NOERROR	k208a.kkt.pcz.czest.pl
-NOERROR	kkt.pcz.czest.pl
-NOERROR	documaster1.is.pcz.czest.pl
-NOERROR	d57.imc.pcz.czest.pl
-NOERROR	n23.kik.pcz.czest.pl
-NOERROR	v4.kik.pcz.czest.pl
-NOERROR	bpk-9.is.pcz.czest.pl
-NOERROR	n9.kik.pcz.czest.pl
-NOERROR	st1.mib.pcz.czest.pl
-NOERROR	pc162b.imipkm.pcz.czest.pl
-NOERROR	d19.kik.pcz.czest.pl
-NXDOMAIN	admin@is.pcz.czest.pl
-NOERROR	ps2.kik.pcz.czest.pl
-NOERROR	pc166b.imipkm.pcz.czest.pl
-SERVFAIL	swpcz.mim.pcz.czest.pl
-NOERROR	pc19.bud.pcz.czest.pl
-NOERROR	adm02.el.pcz.czest.pl
-NOERROR	mold.kpts.pcz.czest.pl
-NOERROR	adm15.el.pcz.czest.pl
-NOERROR	n3.kik.pcz.czest.pl
-NOERROR	pc6.kik.pcz.czest.pl
-NOERROR	pc013.el.pcz.czest.pl
-NOERROR	pc030.el.pcz.czest.pl
-NOERROR	www.icaisc.pcz.czest.pl
-NOERROR	s1.kik.pcz.czest.pl
-NOERROR	z8.zim.pcz.czest.pl
-NOERROR	tomek.iop.pcz.czest.pl
-NOERROR	pc23.kik.pcz.czest.pl
-NOERROR	pc094.el.pcz.czest.pl
-NOERROR	d60.imc.pcz.czest.pl
-NOERROR	mk.is.pcz.czest.pl
-NOERROR	bsk3-10.is.pcz.czest.pl
-NOERROR	z92.zim.pcz.czest.pl
-NOERROR	pc3.kik.pcz.czest.pl
-NOERROR	b7.bibl.pcz.czest.pl
-NOERROR	z83.zim.pcz.czest.pl
-NOERROR	bsk1-3.is.pcz.czest.pl
-NOERROR	pc069.el.pcz.czest.pl
-NOERROR	d20.imc.pcz.czest.pl
-NOERROR	z77.zim.pcz.czest.pl
-NOERROR	z80.zim.pcz.czest.pl
-NOERROR	z36.zim.pcz.czest.pl
-NOERROR	bbibl-4.is.pcz.czest.pl
-NXDOMAIN	passer.matinf.pcz.czest.pl
-NOERROR	pc004.el.pcz.czest.pl
-NOERROR	i3.iop.pcz.czest.pl
-NOERROR	pc7.bud.pcz.czest.pl
-NOERROR	b4.bibl.pcz.czest.pl
-SERVFAIL	pzh.mim.pcz.czest.pl
-NOERROR	bsk3-5.is.pcz.czest.pl
-NOERROR	bpg-3c.is.pcz.czest.pl
-NOERROR	lab2.mib.pcz.czest.pl
-NOERROR	pc067.el.pcz.czest.pl
-NOERROR	z54.zim.pcz.czest.pl
-NOERROR	pc023.el.pcz.czest.pl
-NOERROR	pc001.el.pcz.czest.pl
-NOERROR	n17.kik.pcz.czest.pl
-NOERROR	d3.imc.pcz.czest.pl
-NOERROR	n1.kik.pcz.czest.pl
-NOERROR	d3.kik.pcz.czest.pl
-NOERROR	b8.bibl.pcz.czest.pl
-NOERROR	www.wimi.pcz.czest.pl
-NOERROR	cfd.pcz.czest.pl
-NOERROR	bpk-13.is.pcz.czest.pl
-NOERROR	v3.kik.pcz.czest.pl
-SERVFAIL	podyplomowe.mim.pcz.czest.pl
-NOERROR	adm01.el.pcz.czest.pl
-NOERROR	pc005.el.pcz.czest.pl
-NOERROR	d52.imc.pcz.czest.pl
-NOERROR	d22.imc.pcz.czest.pl
-NOERROR	z22.zim.pcz.czest.pl
-NOERROR	bpk-11.is.pcz.czest.pl
-NOERROR	i19.iop.pcz.czest.pl
-NOERROR	bsk4-10.is.pcz.czest.pl
-NOERROR	pc051.el.pcz.czest.pl
-NOERROR	n7.kik.pcz.czest.pl
-NOERROR	pc175.imipkm.pcz.czest.pl
-NOERROR	kolaps.imipkm.pcz.czest.pl
-NOERROR	lab6.mib.pcz.czest.pl
-NOERROR	pc42.bud.pcz.czest.pl
-NOERROR	pc042.el.pcz.czest.pl
-SERVFAIL	ustron.mim.pcz.czest.pl
-NOERROR	z75.zim.pcz.czest.pl
-NOERROR	d34.imc.pcz.czest.pl
-NOERROR	z33.zim.pcz.czest.pl
-NOERROR	bsk2-6.is.pcz.czest.pl
-NOERROR	www.kie.is.pcz.czest.pl
-NOERROR	z55.zim.pcz.czest.pl
-NOERROR	t93.adm.pcz.czest.pl
-NOERROR	i9.iop.pcz.czest.pl
-NOERROR	www.wim.pcz.czest.pl
-NOERROR	www.siatkowka.pcz.czest.pl
-NOERROR	p5.access.pcz.czest.pl
-NOERROR	pc58.imipkm.pcz.czest.pl
-NOERROR	pc162a.imipkm.pcz.czest.pl
-NOERROR	s23.itm.pcz.czest.pl
-NOERROR	n22.kik.pcz.czest.pl
-NOERROR	d21.imc.pcz.czest.pl
-NOERROR	pc47.imipkm.pcz.czest.pl
-NOERROR	bpk-5.is.pcz.czest.pl
-NOERROR	d54.imc.pcz.czest.pl
-NOERROR	adm08.el.pcz.czest.pl
-NOERROR	n6.kik.pcz.czest.pl
-NXDOMAIN	t112.adm.pcz.czest.pl
-NOERROR	bud.pcz.czest.pl
-NOERROR	pc34.bud.pcz.czest.pl
-NOERROR	n13.kik.pcz.czest.pl
-NOERROR	ztmib.icis.pcz.czest.pl
-NXDOMAIN	www.ktmiap.pcz.czest.pl
-NOERROR	studio233.is.pcz.czest.pl
-NOERROR	d13.imc.pcz.czest.pl
-NOERROR	www.samorzad.pcz.czest.pl
-NOERROR	kikb.kik.pcz.czest.pl
-NOERROR	d1.kik.pcz.czest.pl
-NOERROR	adm05.el.pcz.czest.pl
-NOERROR	z19.zim.pcz.czest.pl
-NOERROR	rsekret.is.pcz.czest.pl
-NOERROR	bsk4-5.is.pcz.czest.pl
-NOERROR	pc126.imipkm.pcz.czest.pl
-NOERROR	t108.adm.pcz.czest.pl
-NOERROR	t95.adm.pcz.czest.pl
-NOERROR	pc050.el.pcz.czest.pl
-NOERROR	hkot.is.pcz.czest.pl
-NOERROR	kera.imipkm.pcz.czest.pl
-NOERROR	d23.kik.pcz.czest.pl
-NOERROR	pc14.kik.pcz.czest.pl
-NOERROR	pc014.el.pcz.czest.pl
-NOERROR	p8.access.pcz.czest.pl
-NOERROR	piolis.is.pcz.czest.pl
-NOERROR	blend.kpts.pcz.czest.pl
-NOERROR	b11.bibl.pcz.czest.pl
-NOERROR	gw1.is.pcz.czest.pl
-NOERROR	pc11.bud.pcz.czest.pl
-NOERROR	bc.adm.pcz.czest.pl
-NOERROR	b3.bibl.pcz.czest.pl
-NOERROR	pc006.el.pcz.czest.pl
-NOERROR	wz8.zim.pcz.czest.pl
-NOERROR	d46.imc.pcz.czest.pl
-NOERROR	d30.imc.pcz.czest.pl
-NXDOMAIN	neuron.imi.pcz.czest.pl
-NOERROR	pcz.czest.pl
-NOERROR	adm09.el.pcz.czest.pl
-NOERROR	s46.itm.pcz.czest.pl
-NOERROR	b20.bibl.pcz.czest.pl
-NOERROR	pc25.kik.pcz.czest.pl
-NOERROR	pc30.bud.pcz.czest.pl
-NOERROR	pc30.kik.pcz.czest.pl
-NOERROR	license.iop.pcz.czest.pl
-NOERROR	gw.kkt.pcz.czest.pl
-SERVFAIL	vidmo.mim.pcz.czest.pl
-NOERROR	eltoro.icis.pcz.czest.pl
-NOERROR	s42.itm.pcz.czest.pl
-NOERROR	d50.imc.pcz.czest.pl
-NOERROR	t105.adm.pcz.czest.pl
-NOERROR	pc017.el.pcz.czest.pl
-NOERROR	s24.itm.pcz.czest.pl
-NOERROR	z63.zim.pcz.czest.pl
-NOERROR	cerebro.is.pcz.czest.pl
-NOERROR	alfa.imi.pcz.czest.pl
-NOERROR	d53.imc.pcz.czest.pl
-NOERROR	gw.imipkm.pcz.czest.pl
-NOERROR	ack7.ackwf.pcz.czest.pl
-NOERROR	d61.imc.pcz.czest.pl
-NOERROR	solaris.imipkm.pcz.czest.pl
-NOERROR	makulam.is.pcz.czest.pl
-NOERROR	herkules.pcz.czest.pl
-NOERROR	t91.adm.pcz.czest.pl
-NOERROR	www.znp.pcz.czest.pl
-NOERROR	d5.kik.pcz.czest.pl
-NOERROR	s36.itm.pcz.czest.pl
-NOERROR	i17.iop.pcz.czest.pl
-NOERROR	s40.itm.pcz.czest.pl
-NOERROR	www.kik.pcz.czest.pl
-NOERROR	bsk3-11.is.pcz.czest.pl
-NOERROR	d29.imc.pcz.czest.pl
-NOERROR	pc058.el.pcz.czest.pl
-NOERROR	ack5.ackwf.pcz.czest.pl
-NOERROR	ik1b.kik.pcz.czest.pl
-NOERROR	pc072.el.pcz.czest.pl
-NOERROR	k214.kkt.pcz.czest.pl
-NOERROR	bsk1-2.is.pcz.czest.pl
-NOERROR	t125.adm.pcz.czest.pl
-NOERROR	vicat.kpts.pcz.czest.pl
-NOERROR	www.zim.pcz.czest.pl
-NOERROR	bpg-3e.is.pcz.czest.pl
-NOERROR	d47.imc.pcz.czest.pl
-NOERROR	v8.kik.pcz.czest.pl
-NOERROR	n20.kik.pcz.czest.pl
-NOERROR	n10.kik.pcz.czest.pl
-NOERROR	bpg-3d.is.pcz.czest.pl
-NOERROR	i10.iop.pcz.czest.pl
-NOERROR	s52.itm.pcz.czest.pl
-NOERROR	n5.kik.pcz.czest.pl
-NOERROR	rafalr.is.pcz.czest.pl
-NOERROR	bsk4-7.is.pcz.czest.pl
-NOERROR	fork1.imipkm.pcz.czest.pl
-NOERROR	p1.itm.pcz.czest.pl
-NOERROR	i12.iop.pcz.czest.pl
-NOERROR	n11.kik.pcz.czest.pl
-NOERROR	mp2510.is.pcz.czest.pl
-NOERROR	z64.zim.pcz.czest.pl
-NOERROR	n14.kik.pcz.czest.pl
-NOERROR	bsk2-7.is.pcz.czest.pl
-NOERROR	fluid-old.is.pcz.czest.pl
-NOERROR	d43.imc.pcz.czest.pl
-NOERROR	bbibl-3.is.pcz.czest.pl
-NOERROR	d9.imc.pcz.czest.pl
-NOERROR	bsk3-6.is.pcz.czest.pl
-NOERROR	pc26.kik.pcz.czest.pl
-NOERROR	dhcp8.zim.pcz.czest.pl
-NOERROR	p3.access.pcz.czest.pl
-NOERROR	bsk3-3.is.pcz.czest.pl
-NOERROR	pc12.kik.pcz.czest.pl
-NOERROR	p3.kik.pcz.czest.pl
-NOERROR	pc019.el.pcz.czest.pl
-NOERROR	b14.bibl.pcz.czest.pl
-NOERROR	i28.iop.pcz.czest.pl
-SERVFAIL	konferencja.mim.pcz.czest.pl
-NOERROR	i27.iop.pcz.czest.pl
-NOERROR	n8.kik.pcz.czest.pl
-NOERROR	pok4.iop.pcz.czest.pl
-NOERROR	i16.iop.pcz.czest.pl
-NOERROR	s31.itm.pcz.czest.pl
-NOERROR	lab4.imipkm.pcz.czest.pl
-NOERROR	documaster.is.pcz.czest.pl
-NOERROR	imc.pcz.czest.pl
-NOERROR	pc049.el.pcz.czest.pl
-NOERROR	cave.kpts.pcz.czest.pl
-NOERROR	dhcp6.zim.pcz.czest.pl
-NOERROR	b21.bibl.pcz.czest.pl
-NOERROR	bsk2-2.is.pcz.czest.pl
-NOERROR	pc54.imipkm.pcz.czest.pl
-NOERROR	www.bg.pcz.czest.pl
-NXDOMAIN	blb-6.is.pcz.czest.pl
-NOERROR	d42.imc.pcz.czest.pl
-NOERROR	s25.itm.pcz.czest.pl
-NXDOMAIN	blb9b.is.pcz.czest.pl
-NOERROR	t126.adm.pcz.czest.pl
-NOERROR	s26.itm.pcz.czest.pl
-NOERROR	pc021.el.pcz.czest.pl
-NOERROR	pc052.el.pcz.czest.pl
-NOERROR	k2.pcz.czest.pl
-NOERROR	t110.adm.pcz.czest.pl
-NOERROR	bsk4-8.is.pcz.czest.pl
-NOERROR	forum.pcz.czest.pl
-NOERROR	wim.pcz.czest.pl
-NOERROR	d33.imc.pcz.czest.pl
-NOERROR	z35.zim.pcz.czest.pl
-NOERROR	p2.access.pcz.czest.pl
-NOERROR	wimi.pcz.czest.pl
-NOERROR	pc57.imipkm.pcz.czest.pl
-NOERROR	pc081.el.pcz.czest.pl
-NOERROR	pc036.el.pcz.czest.pl
-NOERROR	z39.zim.pcz.czest.pl
-NOERROR	pc099.el.pcz.czest.pl
-NOERROR	s2.kik.pcz.czest.pl
-NOERROR	d18.imc.pcz.czest.pl
-NOERROR	pit.kpts.pcz.czest.pl
-NOERROR	ik1c.kik.pcz.czest.pl
-NOERROR	pc37.bud.pcz.czest.pl
-NOERROR	bsk2-12.is.pcz.czest.pl
-SERVFAIL	www.podyplomowe.mim.pcz.czest.pl
-NOERROR	v12.kik.pcz.czest.pl
-NOERROR	z27.zim.pcz.czest.pl
-NOERROR	www.wrss.wimii.pcz.czest.pl
-NOERROR	i6.iop.pcz.czest.pl
-NOERROR	p6.access.pcz.czest.pl
-NOERROR	pc062.el.pcz.czest.pl
-NOERROR	z32.zim.pcz.czest.pl
-NOERROR	pc4.bud.pcz.czest.pl
-NOERROR	pc076.el.pcz.czest.pl
-NOERROR	pc19.kik.pcz.czest.pl
-NOERROR	i36.iop.pcz.czest.pl
-SERVFAIL	ptmk.mim.pcz.czest.pl
-NOERROR	bpg-7.is.pcz.czest.pl
-NOERROR	z76.zim.pcz.czest.pl
-NOERROR	bsk3-8.is.pcz.czest.pl
-NOERROR	i14.iop.pcz.czest.pl
-NOERROR	z59.zim.pcz.czest.pl
-NOERROR	s10.itm.pcz.czest.pl
-NOERROR	z46.zim.pcz.czest.pl
-NOERROR	d56.imc.pcz.czest.pl
-NOERROR	i2.iop.pcz.czest.pl
-NOERROR	i24.iop.pcz.czest.pl
-NOERROR	blizniak.pcz.czest.pl
-NOERROR	z78.zim.pcz.czest.pl
-NOERROR	d18.kik.pcz.czest.pl
-NOERROR	is-from.el.pcz.czest.pl
-NOERROR	i18.iop.pcz.czest.pl
-NOERROR	n16.kik.pcz.czest.pl
-NOERROR	d16.imc.pcz.czest.pl
-NOERROR	pet.kpts.pcz.czest.pl
-NOERROR	t123.adm.pcz.czest.pl
-NOERROR	k208b.kkt.pcz.czest.pl
-NOERROR	rosinska.is.pcz.czest.pl
-NOERROR	t111.adm.pcz.czest.pl
-NOERROR	z116.zim.pcz.czest.pl
-NOERROR	i25.iop.pcz.czest.pl
-NOERROR	zygmunt.iop.pcz.czest.pl
-NOERROR	pc093.el.pcz.czest.pl
-NOERROR	ack3.ackwf.pcz.czest.pl
-NOERROR	d7.kik.pcz.czest.pl
-NOERROR	pc161b.imipkm.pcz.czest.pl
-NOERROR	pc41.bud.pcz.czest.pl
-NOERROR	gw.bud.pcz.czest.pl
-NOERROR	kotlownia.iop.pcz.czest.pl
-NOERROR	z91.zim.pcz.czest.pl
-NOERROR	pc045.el.pcz.czest.pl
-NOERROR	ke.el.pcz.czest.pl
-NOERROR	znp.pcz.czest.pl
-NOERROR	bpg-6.is.pcz.czest.pl
-NOERROR	d49.imc.pcz.czest.pl
-SERVFAIL	www.mim.pcz.czest.pl
-SERVFAIL	lechu.mim.pcz.czest.pl
-NOERROR	www.documaster.is.pcz.czest.pl
-NOERROR	pc032.el.pcz.czest.pl
-NOERROR	arti.is.pcz.czest.pl
-NOERROR	s38.itm.pcz.czest.pl
-NOERROR	pc103.el.pcz.czest.pl
-NOERROR	www.spm.el.pcz.czest.pl
-NOERROR	el.pcz.czest.pl
-NOERROR	pc24.bud.pcz.czest.pl
-NOERROR	eltoro.imi.pcz.czest.pl
-NOERROR	pc8.bud.pcz.czest.pl
-NOERROR	s17.itm.pcz.czest.pl
-NXDOMAIN	tos1.is.pcz.czest.pl
-NOERROR	p1.kik.pcz.czest.pl
-NOERROR	pc104.el.pcz.czest.pl
-NOERROR	bsk3-1.is.pcz.czest.pl
-NOERROR	pc51.imipkm.pcz.czest.pl
-NOERROR	spoon.imipkm.pcz.czest.pl
-NOERROR	d2.imc.pcz.czest.pl
-NOERROR	zim.pcz.czest.pl
-NOERROR	pc16.bud.pcz.czest.pl
-SERVFAIL	www.dyplomowe.mim.pcz.czest.pl
-NOERROR	b18.bibl.pcz.czest.pl
-NOERROR	z107.zim.pcz.czest.pl
-NOERROR	zbis.is.pcz.czest.pl
-NOERROR	pc16.kik.pcz.czest.pl
-NOERROR	pc083.el.pcz.czest.pl
-SERVFAIL	www.sadurek.mim.pcz.czest.pl
-NOERROR	pc068.el.pcz.czest.pl
-NOERROR	s34.itm.pcz.czest.pl
-NOERROR	pc085.el.pcz.czest.pl
-NOERROR	pc056.el.pcz.czest.pl
-NOERROR	z79.zim.pcz.czest.pl
-NOERROR	top.kpts.pcz.czest.pl
-NOERROR	bpk-21.is.pcz.czest.pl
-NOERROR	p4.access.pcz.czest.pl
-NOERROR	magg.bud.pcz.czest.pl
-NOERROR	icaisc.pcz.czest.pl
-NOERROR	t67.adm.pcz.czest.pl
-NOERROR	z82.zim.pcz.czest.pl
-NOERROR	m1.kik.pcz.czest.pl
-NOERROR	www.pcz.czest.pl
-NXDOMAIN	z71.zim.pcz.czest.pl
-NOERROR	ik2a.kik.pcz.czest.pl
-NOERROR	hill.kik.pcz.czest.pl
-NOERROR	pc086.el.pcz.czest.pl
-NOERROR	wyd1.adm.pcz.czest.pl
-NOERROR	d39.imc.pcz.czest.pl
-NOERROR	www.kbib.pcz.czest.pl
-NOERROR	d38.imc.pcz.czest.pl
-NOERROR	z98.zim.pcz.czest.pl
-NOERROR	t84.adm.pcz.czest.pl
-NOERROR	i5.iop.pcz.czest.pl
-NOERROR	z66.zim.pcz.czest.pl
-NOERROR	pc097.el.pcz.czest.pl
-NOERROR	pc033.el.pcz.czest.pl
-NOERROR	imipkm.pcz.czest.pl
-NOERROR	pc9.kik.pcz.czest.pl
-NOERROR	t90.adm.pcz.czest.pl
-SERVFAIL	wlk.mim.pcz.czest.pl
-NOERROR	z96.zim.pcz.czest.pl
-NOERROR	jacek.kpts.pcz.czest.pl
-NOERROR	bpk-12.is.pcz.czest.pl
-NOERROR	nwitm.itm.pcz.czest.pl
-NOERROR	b6.bibl.pcz.czest.pl
-NOERROR	monika.iop.pcz.czest.pl
-NOERROR	n19.kik.pcz.czest.pl
-NOERROR	bpg-11.is.pcz.czest.pl
-NOERROR	juno.is.pcz.czest.pl
-NXDOMAIN	blb-5.is.pcz.czest.pl
-NOERROR	www.spm2009.el.pcz.czest.pl
-NOERROR	www.k2.pcz.czest.pl
-NOERROR	pc084.el.pcz.czest.pl
-NOERROR	pc2.kik.pcz.czest.pl
-NOERROR	pc018.el.pcz.czest.pl
-NXDOMAIN	cisco.pcz.czest.pl
-NOERROR	www.imc.pcz.czest.pl
-NOERROR	i35.iop.pcz.czest.pl
-NOERROR	lab2.imipkm.pcz.czest.pl
-NOERROR	bpg-8.is.pcz.czest.pl
-NOERROR	ztpskisr.icis.pcz.czest.pl
-NOERROR	z29.zim.pcz.czest.pl
-NXDOMAIN	bpg6.is.pcz.czest.pl
-NOERROR	pc087.el.pcz.czest.pl
-NOERROR	pc117.imipkm.pcz.czest.pl
-NOERROR	lab7.mib.pcz.czest.pl
-NOERROR	pc43.bud.pcz.czest.pl
-NXDOMAIN	servi.kik.pcz.czest.pl
-NOERROR	z89.zim.pcz.czest.pl
-NOERROR	test3.adm.pcz.czest.pl
-NOERROR	post.kpts.pcz.czest.pl
-NOERROR	au3.kik.pcz.czest.pl
-NOERROR	pc053.el.pcz.czest.pl
-NOERROR	d25.kik.pcz.czest.pl
-NOERROR	n25.kik.pcz.czest.pl
-NOERROR	t124.adm.pcz.czest.pl
-NOERROR	pc075.el.pcz.czest.pl
-NOERROR	bsk1-9.is.pcz.czest.pl
-NOERROR	bsk2-8.is.pcz.czest.pl
-NOERROR	t85.adm.pcz.czest.pl
-NOERROR	www.imipkm.pcz.czest.pl
-NOERROR	v5.kik.pcz.czest.pl
-NOERROR	t100.adm.pcz.czest.pl
-NOERROR	kociolek.iop.pcz.czest.pl
-NOERROR	lab3.mib.pcz.czest.pl
-NOERROR	sala-205d.is.pcz.czest.pl
-NOERROR	mwm.is.pcz.czest.pl
-NOERROR	z12.zim.pcz.czest.pl
-NOERROR	st0.mib.pcz.czest.pl
-NOERROR	ksztekler.is.pcz.czest.pl
-NOERROR	z67.zim.pcz.czest.pl
-NOERROR	bpg4.is.pcz.czest.pl
-NXDOMAIN	zsp.pcz.czest.pl
-NXDOMAIN	bk.pcz.czest.pl
-NOERROR	bsk2-5.is.pcz.czest.pl
-NOERROR	bpk-8.is.pcz.czest.pl
-NOERROR	bigmummy.iop.pcz.czest.pl
-NOERROR	z21.zim.pcz.czest.pl
-NOERROR	k201.kkt.pcz.czest.pl
-NOERROR	pc39.bud.pcz.czest.pl
-NOERROR	www.wimii.pcz.czest.pl
-NOERROR	pc28.kik.pcz.czest.pl
-NXDOMAIN	blb-9.is.pcz.czest.pl
-NOERROR	i37.iop.pcz.czest.pl
-NOERROR	pc2.bud.pcz.czest.pl
-NOERROR	pc36.bud.pcz.czest.pl
-NOERROR	d27.imc.pcz.czest.pl
-NOERROR	test.kpts.pcz.czest.pl
-NOERROR	ktw.is.pcz.czest.pl
-NOERROR	z97.zim.pcz.czest.pl
-NXDOMAIN	bpg-3.is.pcz.czest.pl
-NOERROR	t106.adm.pcz.czest.pl
-NOERROR	z70.zim.pcz.czest.pl
-NOERROR	pc38.bud.pcz.czest.pl
-NOERROR	www.iop.pcz.czest.pl
-NXDOMAIN	kclp.is.pcz.czest.pl
-NOERROR	pc13.kik.pcz.czest.pl
-NOERROR	sto.kik.pcz.czest.pl
-NOERROR	b24.bibl.pcz.czest.pl
-NOERROR	t121.adm.pcz.czest.pl
-NOERROR	au1.kik.pcz.czest.pl
-NOERROR	jet.kpts.pcz.czest.pl
-NOERROR	b2.bibl.pcz.czest.pl
-NOERROR	m2.kik.pcz.czest.pl
-NOERROR	z30.zim.pcz.czest.pl
-NOERROR	wimii.pcz.czest.pl
-NOERROR	pc009.el.pcz.czest.pl
-NOERROR	adm06.el.pcz.czest.pl
-NOERROR	pc003.el.pcz.czest.pl
-NOERROR	z6.zim.pcz.czest.pl
-NOERROR	z24.zim.pcz.czest.pl
-NOERROR	adm14.el.pcz.czest.pl
-NOERROR	pc061.el.pcz.czest.pl
-NOERROR	d9.kik.pcz.czest.pl
-NOERROR	beatas.is.pcz.czest.pl
-NOERROR	v6.kik.pcz.czest.pl
-NOERROR	z48.zim.pcz.czest.pl
-NOERROR	2i.pcz.czest.pl
-NOERROR	pc074.el.pcz.czest.pl
-NOERROR	bpk-16.is.pcz.czest.pl
-NOERROR	pc6.bud.pcz.czest.pl
-NOERROR	simp.pcz.czest.pl
-NOERROR	boss.kpts.pcz.czest.pl
-NOERROR	pc016.el.pcz.czest.pl
-NOERROR	d58.imc.pcz.czest.pl
-NOERROR	matinf.pcz.czest.pl
-NOERROR	pc043.el.pcz.czest.pl
-NOERROR	t83.adm.pcz.czest.pl
-NOERROR	s6.itm.pcz.czest.pl
-NOERROR	pc4.kik.pcz.czest.pl
-NOERROR	bsk1-11.is.pcz.czest.pl
-NOERROR	s39.itm.pcz.czest.pl
-NOERROR	rklajny.is.pcz.czest.pl
-NOERROR	d20.kik.pcz.czest.pl
-NOERROR	bsk4-1.is.pcz.czest.pl
-NXDOMAIN	blb6b.is.pcz.czest.pl
-SERVFAIL	ppam.pcz.czest.pl
-NOERROR	itm.pcz.czest.pl
-NOERROR	bsk2-4.is.pcz.czest.pl
-NOERROR	pc15.kik.pcz.czest.pl
-NXDOMAIN	avp.k2.pcz.czest.pl
-NOERROR	pc5.kik.pcz.czest.pl
-NOERROR	ack6.ackwf.pcz.czest.pl
-NXDOMAIN	tajfun.imc.pcz.czest.pl
-NOERROR	spaw.pcz.czest.pl
-NOERROR	pc077.el.pcz.czest.pl
-NOERROR	dabrowska.is.pcz.czest.pl
-NOERROR	dwaw.is.pcz.czest.pl
-SERVFAIL	mim.pcz.czest.pl
-NOERROR	b1.bibl.pcz.czest.pl
-NOERROR	pc092.el.pcz.czest.pl
-NOERROR	molas.is.pcz.czest.pl
-NOERROR	ik2b.kik.pcz.czest.pl
-NOERROR	z26.zim.pcz.czest.pl
-NOERROR	d5.imc.pcz.czest.pl
-NOERROR	d31.imc.pcz.czest.pl
-NOERROR	pc17.bud.pcz.czest.pl
-NOERROR	pc055.el.pcz.czest.pl
-NOERROR	jerzy.iop.pcz.czest.pl
-NOERROR	studiapodyplomowe.pcz.czest.pl
-NOERROR	bsk4-12.is.pcz.czest.pl
-NOERROR	fluid.is.pcz.czest.pl
-NOERROR	romek.iop.pcz.czest.pl
-NOERROR	svr.bibl.pcz.czest.pl
-NOERROR	bsk3-7.is.pcz.czest.pl
-NOERROR	pc22.bud.pcz.czest.pl
-SERVFAIL	www.qubit.mim.pcz.czest.pl
-NOERROR	n21.kik.pcz.czest.pl
-NOERROR	z101.zim.pcz.czest.pl
-NOERROR	dhcp9.zim.pcz.czest.pl
-NOERROR	d15.imc.pcz.czest.pl
-NOERROR	adm04.el.pcz.czest.pl
-NOERROR	bsk1-8.is.pcz.czest.pl
-NOERROR	estudy.zim.pcz.czest.pl
-NOERROR	bpk-15.is.pcz.czest.pl
-NOERROR	z28.zim.pcz.czest.pl
-NOERROR	d22.kik.pcz.czest.pl
-NOERROR	r219.is.pcz.czest.pl
-NOERROR	wnowak.is.pcz.czest.pl
-NOERROR	wf2.ackwf.pcz.czest.pl
-NOERROR	z84.zim.pcz.czest.pl
-NOERROR	pc089.el.pcz.czest.pl
-NOERROR	bsk2-10.is.pcz.czest.pl
-NOERROR	pc039.el.pcz.czest.pl
-NOERROR	bsk1-7.is.pcz.czest.pl
-NOERROR	v2.kik.pcz.czest.pl
-NOERROR	s21.itm.pcz.czest.pl
-NOERROR	dhcp2.zim.pcz.czest.pl
-NOERROR	ela.kpts.pcz.czest.pl
-NOERROR	s49.itm.pcz.czest.pl
-NOERROR	i30.iop.pcz.czest.pl
-NOERROR	pc024.el.pcz.czest.pl
-NOERROR	d25.imc.pcz.czest.pl
-NOERROR	b16.bibl.pcz.czest.pl
-NOERROR	pc073.el.pcz.czest.pl
-NOERROR	mib.pcz.czest.pl
-NOERROR	z104.zim.pcz.czest.pl
-NOERROR	bsk1-6.is.pcz.czest.pl
-NOERROR	z34.zim.pcz.czest.pl
-NOERROR	pc109.el.pcz.czest.pl
-NOERROR	bsk4-2.is.pcz.czest.pl
-NOERROR	d11.imc.pcz.czest.pl
-NOERROR	itm1.itm.pcz.czest.pl
-NOERROR	z99.zim.pcz.czest.pl
-NXDOMAIN	blb-11.is.pcz.czest.pl
-NOERROR	t122.adm.pcz.czest.pl
-NOERROR	bsk1-4.is.pcz.czest.pl
-NOERROR	sperczynska.is.pcz.czest.pl
-NOERROR	zziis.is.pcz.czest.pl
-NOERROR	kipigroch.is.pcz.czest.pl
-NOERROR	k207.kkt.pcz.czest.pl
-NOERROR	p215a.is.pcz.czest.pl
-NOERROR	z102.zim.pcz.czest.pl
-NOERROR	z52.zim.pcz.czest.pl
-NOERROR	www.simp.pcz.czest.pl
-NOERROR	d51.imc.pcz.czest.pl
-NOERROR	pc15.bud.pcz.czest.pl
-NOERROR	d28.imc.pcz.czest.pl
-NOERROR	pc090.el.pcz.czest.pl
-NOERROR	pc33.bud.pcz.czest.pl
-NOERROR	pc022.el.pcz.czest.pl
-NOERROR	d41.imc.pcz.czest.pl
-NOERROR	bpg-3b.is.pcz.czest.pl
-NOERROR	p2.kik.pcz.czest.pl
-NOERROR	www.cfd.pcz.czest.pl
-NOERROR	t68.adm.pcz.czest.pl
-NOERROR	sekret.kpts.pcz.czest.pl
-NOERROR	pc12.bud.pcz.czest.pl
-NOERROR	z42.zim.pcz.czest.pl
-NOERROR	z20.zim.pcz.czest.pl
-NOERROR	rnowak.is.pcz.czest.pl
-NOERROR	gate.kpts.pcz.czest.pl
-NOERROR	d37.imc.pcz.czest.pl
-NOERROR	a26.is.pcz.czest.pl
-NOERROR	adamg.kpts.pcz.czest.pl
-NOERROR	z114.zim.pcz.czest.pl
-NOERROR	lin.icis.pcz.czest.pl
-NOERROR	pc098.el.pcz.czest.pl
-NOERROR	p1.access.pcz.czest.pl
-NOERROR	kikc.kik.pcz.czest.pl
-NOERROR	s50.itm.pcz.czest.pl
-NOERROR	bsk1-12.is.pcz.czest.pl
-NOERROR	z110.zim.pcz.czest.pl
-NOERROR	i34.iop.pcz.czest.pl
-NOERROR	i20.iop.pcz.czest.pl
+merlot.is.pcz.czest.pl
+z41.zim.pcz.czest.pl
+t116.adm.pcz.czest.pl
+kika.kik.pcz.czest.pl
+pc002.el.pcz.czest.pl
+z18.zim.pcz.czest.pl
+v10.kik.pcz.czest.pl
+zapas.kik.pcz.czest.pl
+pc26.bud.pcz.czest.pl
+pc028.el.pcz.czest.pl
+przemek.is.pcz.czest.pl
+pc5.bud.pcz.czest.pl
+wojtek.zim.pcz.czest.pl
+maluch.pcz.czest.pl
+pc44.bud.pcz.czest.pl
+kka.pcz.czest.pl
+z105.zim.pcz.czest.pl
+bkarwowska.is.pcz.czest.pl
+opti.kpts.pcz.czest.pl
+pc059.el.pcz.czest.pl
+kpts.pcz.czest.pl
+star.kpts.pcz.czest.pl
+i21.iop.pcz.czest.pl
+z40.zim.pcz.czest.pl
+pc040.el.pcz.czest.pl
+pc080.el.pcz.czest.pl
+d17.imc.pcz.czest.pl
+tom.kpts.pcz.czest.pl
+pc165.imipkm.pcz.czest.pl
+z95.zim.pcz.czest.pl
+t114.adm.pcz.czest.pl
+d45.imc.pcz.czest.pl
+b15.bibl.pcz.czest.pl
+icnnsc.pcz.czest.pl
+ewisniowska.is.pcz.czest.pl
+pc21.kik.pcz.czest.pl
+s22.itm.pcz.czest.pl
+www.adm.pcz.czest.pl
+access.pcz.czest.pl
+z13.zim.pcz.czest.pl
+b17.bibl.pcz.czest.pl
+lab4.mib.pcz.czest.pl
+t82.adm.pcz.czest.pl
+areks.is.pcz.czest.pl
+pc18.bud.pcz.czest.pl
+d7.imc.pcz.czest.pl
+i13.iop.pcz.czest.pl
+pc10.bud.pcz.czest.pl
+z50.zim.pcz.czest.pl
+pc035.el.pcz.czest.pl
+z113.zim.pcz.czest.pl
+v7.kik.pcz.czest.pl
+pc038.el.pcz.czest.pl
+szp.is.pcz.czest.pl
+v13.kik.pcz.czest.pl
+bsk4-4.is.pcz.czest.pl
+s20.itm.pcz.czest.pl
+www.el.pcz.czest.pl
+t119.adm.pcz.czest.pl
+z103.zim.pcz.czest.pl
+www.ptsn.pcz.czest.pl
+pc40.bud.pcz.czest.pl
+pc20.kik.pcz.czest.pl
+pc121.imipkm.pcz.czest.pl
+d14.imc.pcz.czest.pl
+d24.imc.pcz.czest.pl
+i33.iop.pcz.czest.pl
+ik2c.kik.pcz.czest.pl
+wojtek.iop.pcz.czest.pl
+z53.zim.pcz.czest.pl
+b25.bibl.pcz.czest.pl
+pc28.bud.pcz.czest.pl
+i4.iop.pcz.czest.pl
+pc065.el.pcz.czest.pl
+raphael.is.pcz.czest.pl
+d11.kik.pcz.czest.pl
+k210.kkt.pcz.czest.pl
+s47.itm.pcz.czest.pl
+s53.itm.pcz.czest.pl
+z93.zim.pcz.czest.pl
+k204.kkt.pcz.czest.pl
+d36.imc.pcz.czest.pl
+pc025.el.pcz.czest.pl
+d40.imc.pcz.czest.pl
+i39.iop.pcz.czest.pl
+adm10.el.pcz.czest.pl
+i23.iop.pcz.czest.pl
+pc20.bud.pcz.czest.pl
+i32.iop.pcz.czest.pl
+s28.itm.pcz.czest.pl
+alfa.icis.pcz.czest.pl
+knife.imipkm.pcz.czest.pl
+bpg4b.is.pcz.czest.pl
+bsk3-2.is.pcz.czest.pl
+pc046.el.pcz.czest.pl
+chem.is.pcz.czest.pl
+pc012.el.pcz.czest.pl
+z37.zim.pcz.czest.pl
+z14.zim.pcz.czest.pl
+www.icnnsc.pcz.czest.pl
+bsk2-11.is.pcz.czest.pl
+n15.kik.pcz.czest.pl
+pc015.el.pcz.czest.pl
+i26.iop.pcz.czest.pl
+poly.kpts.pcz.czest.pl
+z88.zim.pcz.czest.pl
+marcin.iop.pcz.czest.pl
+t118.adm.pcz.czest.pl
+pc048.el.pcz.czest.pl
+zisio.icis.pcz.czest.pl
+micro.kpts.pcz.czest.pl
+p7.access.pcz.czest.pl
+pc026.el.pcz.czest.pl
+z68.zim.pcz.czest.pl
+d10.kik.pcz.czest.pl
+iop1.iop.pcz.czest.pl
+bbibl-1.is.pcz.czest.pl
+icis.pcz.czest.pl
+s45.itm.pcz.czest.pl
+zsiie.icis.pcz.czest.pl
+d15.kik.pcz.czest.pl
+p2.itm.pcz.czest.pl
+i22.iop.pcz.czest.pl
+sekret.iop.pcz.czest.pl
+z38.zim.pcz.czest.pl
+kik.pcz.czest.pl
+www.is.pcz.czest.pl
+dhcp3.zim.pcz.czest.pl
+mjr.is.pcz.czest.pl
+s37.itm.pcz.czest.pl
+z87.zim.pcz.czest.pl
+kie.is.pcz.czest.pl
+lab5.mib.pcz.czest.pl
+adm.pcz.czest.pl
+d4.kik.pcz.czest.pl
+pc7.kik.pcz.czest.pl
+d12.kik.pcz.czest.pl
+pc22.kik.pcz.czest.pl
+sek2.is.pcz.czest.pl
+au2.kik.pcz.czest.pl
+s3.itm.pcz.czest.pl
+szymon.is.pcz.czest.pl
+ptsn.pcz.czest.pl
+z69.zim.pcz.czest.pl
+d6.kik.pcz.czest.pl
+z90.zim.pcz.czest.pl
+d21.kik.pcz.czest.pl
+aleksandras.is.pcz.czest.pl
+d10.imc.pcz.czest.pl
+z31.zim.pcz.czest.pl
+bpg-10.is.pcz.czest.pl
+d2.kik.pcz.czest.pl
+mwolczynski.is.pcz.czest.pl
+v1.kik.pcz.czest.pl
+pc48.imipkm.pcz.czest.pl
+bpk-7.is.pcz.czest.pl
+waldi.is.pcz.czest.pl
+dhcp1.zim.pcz.czest.pl
+bsk4-9.is.pcz.czest.pl
+star.el.pcz.czest.pl
+i15.iop.pcz.czest.pl
+pc064.el.pcz.czest.pl
+z9.zim.pcz.czest.pl
+z65.zim.pcz.czest.pl
+adm07.el.pcz.czest.pl
+apopenda.is.pcz.czest.pl
+pc169.imipkm.pcz.czest.pl
+mareka.is.pcz.czest.pl
+documaster3.is.pcz.czest.pl
+www.bibl.pcz.czest.pl
+bsk4-11.is.pcz.czest.pl
+d44.imc.pcz.czest.pl
+lab8.mib.pcz.czest.pl
+d35.imc.pcz.czest.pl
+pc063.el.pcz.czest.pl
+d26.imc.pcz.czest.pl
+t101.adm.pcz.czest.pl
+s41.itm.pcz.czest.pl
+pc29.bud.pcz.czest.pl
+ps1.kik.pcz.czest.pl
+pc027.el.pcz.czest.pl
+d13.kik.pcz.czest.pl
+n18.kik.pcz.czest.pl
+s27.itm.pcz.czest.pl
+pc31.bud.pcz.czest.pl
+pc007.el.pcz.czest.pl
+t117.adm.pcz.czest.pl
+z62.zim.pcz.czest.pl
+i29.iop.pcz.czest.pl
+k205.kkt.pcz.czest.pl
+e4200.is.pcz.czest.pl
+d23.imc.pcz.czest.pl
+ack8.ackwf.pcz.czest.pl
+dhcp4.zim.pcz.czest.pl
+s19.itm.pcz.czest.pl
+s12.itm.pcz.czest.pl
+pc11.kik.pcz.czest.pl
+s13.itm.pcz.czest.pl
+pc079.el.pcz.czest.pl
+michal.iop.pcz.czest.pl
+s7.itm.pcz.czest.pl
+s11.itm.pcz.czest.pl
+i41.iop.pcz.czest.pl
+s8.itm.pcz.czest.pl
+pc096.el.pcz.czest.pl
+i45.iop.pcz.czest.pl
+d6.imc.pcz.czest.pl
+z94.zim.pcz.czest.pl
+s16.itm.pcz.czest.pl
+pc106.el.pcz.czest.pl
+pc031.el.pcz.czest.pl
+rez.kik.pcz.czest.pl
+www.imi.pcz.czest.pl
+i11.iop.pcz.czest.pl
+t70.adm.pcz.czest.pl
+z49.zim.pcz.czest.pl
+mskidn.pcz.czest.pl
+bigdaddy.iop.pcz.czest.pl
+d12.imc.pcz.czest.pl
+kowioa-p210.is.pcz.czest.pl
+latin.icis.pcz.czest.pl
+z60.zim.pcz.czest.pl
+fire2.bibl.pcz.czest.pl
+z23.zim.pcz.czest.pl
+pc037.el.pcz.czest.pl
+z43.zim.pcz.czest.pl
+documaster2.is.pcz.czest.pl
+z44.zim.pcz.czest.pl
+pc034.el.pcz.czest.pl
+gw.bibl.pcz.czest.pl
+pc060.el.pcz.czest.pl
+pc10.kik.pcz.czest.pl
+magda.is.pcz.czest.pl
+i31.iop.pcz.czest.pl
+bbibl-2.is.pcz.czest.pl
+pc1.kik.pcz.czest.pl
+z115.zim.pcz.czest.pl
+s14.itm.pcz.czest.pl
+z45.zim.pcz.czest.pl
+n12.kik.pcz.czest.pl
+s29.itm.pcz.czest.pl
+b10.bibl.pcz.czest.pl
+rbb.bud.pcz.czest.pl
+t69.adm.pcz.czest.pl
+mario.kpts.pcz.czest.pl
+k209.kkt.pcz.czest.pl
+bpk-10.is.pcz.czest.pl
+v14.kik.pcz.czest.pl
+z85.zim.pcz.czest.pl
+wf3.ackwf.pcz.czest.pl
+d8.kik.pcz.czest.pl
+www.bud.pcz.czest.pl
+pc078.el.pcz.czest.pl
+pc45.bud.pcz.czest.pl
+arek.iop.pcz.czest.pl
+s44.itm.pcz.czest.pl
+b5.bibl.pcz.czest.pl
+pc27.bud.pcz.czest.pl
+bsk3-12.is.pcz.czest.pl
+z47.zim.pcz.czest.pl
+tomc.is.pcz.czest.pl
+bpk-18.is.pcz.czest.pl
+n4.kik.pcz.czest.pl
+pc008.el.pcz.czest.pl
+z25.zim.pcz.czest.pl
+s2.itm.pcz.czest.pl
+pc088.el.pcz.czest.pl
+imi.pcz.czest.pl
+wstroj.is.pcz.czest.pl
+zuig.el.pcz.czest.pl
+z51.zim.pcz.czest.pl
+bsk3-4.is.pcz.czest.pl
+adm12.el.pcz.czest.pl
+lab3.imipkm.pcz.czest.pl
+pc17.kik.pcz.czest.pl
+z56.zim.pcz.czest.pl
+pc3.bud.pcz.czest.pl
+pc071.el.pcz.czest.pl
+v11.kik.pcz.czest.pl
+s15.itm.pcz.czest.pl
+z109.zim.pcz.czest.pl
+pc102.el.pcz.czest.pl
+t113.adm.pcz.czest.pl
+z11.zim.pcz.czest.pl
+pc21.bud.pcz.czest.pl
+www.matinf.pcz.czest.pl
+iis.is.pcz.czest.pl
+pc029.el.pcz.czest.pl
+pc35.bud.pcz.czest.pl
+z15.zim.pcz.czest.pl
+d59.imc.pcz.czest.pl
+pc23.bud.pcz.czest.pl
+z112.zim.pcz.czest.pl
+d14.kik.pcz.czest.pl
+dns1.pcz.czest.pl
+pc56.imipkm.pcz.czest.pl
+z17.zim.pcz.czest.pl
+sep.el.pcz.czest.pl
+v9.kik.pcz.czest.pl
+b12.bibl.pcz.czest.pl
+z72.zim.pcz.czest.pl
+d48.imc.pcz.czest.pl
+pc14.bud.pcz.czest.pl
+n24.kik.pcz.czest.pl
+v15.kik.pcz.czest.pl
+pc50.imipkm.pcz.czest.pl
+pc9.bud.pcz.czest.pl
+lab415.kik.pcz.czest.pl
+bpg-9.is.pcz.czest.pl
+pc054.el.pcz.czest.pl
+pc18.kik.pcz.czest.pl
+plast.kpts.pcz.czest.pl
+pc125.imipkm.pcz.czest.pl
+ca6100.iop.pcz.czest.pl
+poczta.itm.pcz.czest.pl
+z58.zim.pcz.czest.pl
+pc32.bud.pcz.czest.pl
+mirek.is.pcz.czest.pl
+bsk2-9.is.pcz.czest.pl
+i40.iop.pcz.czest.pl
+ik2.kik.pcz.czest.pl
+s4.kik.pcz.czest.pl
+bpk-14.is.pcz.czest.pl
+s48.itm.pcz.czest.pl
+p215b.is.pcz.czest.pl
+t86.adm.pcz.czest.pl
+ik1.kik.pcz.czest.pl
+s43.itm.pcz.czest.pl
+i1.iop.pcz.czest.pl
+s4.itm.pcz.czest.pl
+d17.kik.pcz.czest.pl
+pc108.el.pcz.czest.pl
+pc041.el.pcz.czest.pl
+eltoro.pcz.czest.pl
+melt.kpts.pcz.czest.pl
+pc091.el.pcz.czest.pl
+d19.imc.pcz.czest.pl
+bsk4-6.is.pcz.czest.pl
+s54.itm.pcz.czest.pl
+wyd2.adm.pcz.czest.pl
+bpk-25.is.pcz.czest.pl
+www.spaw.pcz.czest.pl
+pc166a.imipkm.pcz.czest.pl
+adm13.el.pcz.czest.pl
+z100.zim.pcz.czest.pl
+ack4.ackwf.pcz.czest.pl
+old.imipkm.pcz.czest.pl
+bsk1-10.is.pcz.czest.pl
+i38.iop.pcz.czest.pl
+zeus.herkules.pcz.czest.pl
+fire1.bibl.pcz.czest.pl
+plot.is.pcz.czest.pl
+z86.zim.pcz.czest.pl
+bsk1-5.is.pcz.czest.pl
+gw.kpts.pcz.czest.pl
+bsk2-1.is.pcz.czest.pl
+www.itm.pcz.czest.pl
+ack2.ackwf.pcz.czest.pl
+pc1.bud.pcz.czest.pl
+d32.imc.pcz.czest.pl
+z57.zim.pcz.czest.pl
+i47.iop.pcz.czest.pl
+adm11.el.pcz.czest.pl
+silicon.kpts.pcz.czest.pl
+pc057.el.pcz.czest.pl
+pc095.el.pcz.czest.pl
+d8.imc.pcz.czest.pl
+kukuryk.iop.pcz.czest.pl
+bsk3-9.is.pcz.czest.pl
+is.pcz.czest.pl
+ik1a.kik.pcz.czest.pl
+dns2.pcz.czest.pl
+ack1.ackwf.pcz.czest.pl
+mjanik.is.pcz.czest.pl
+t102.adm.pcz.czest.pl
+bsk4-3.is.pcz.czest.pl
+bg.pcz.czest.pl
+b23.bibl.pcz.czest.pl
+z108.zim.pcz.czest.pl
+pc166.imipkm.pcz.czest.pl
+b13.bibl.pcz.czest.pl
+s1.itm.pcz.czest.pl
+kbib.pcz.czest.pl
+s35.itm.pcz.czest.pl
+s9.itm.pcz.czest.pl
+d24.kik.pcz.czest.pl
+s3.kik.pcz.czest.pl
+pc24.kik.pcz.czest.pl
+s30.itm.pcz.czest.pl
+z61.zim.pcz.czest.pl
+s5.itm.pcz.czest.pl
+i8.iop.pcz.czest.pl
+z111.zim.pcz.czest.pl
+d16.kik.pcz.czest.pl
+pc105.el.pcz.czest.pl
+n2.kik.pcz.czest.pl
+wf1.ackwf.pcz.czest.pl
+pc047.el.pcz.czest.pl
+adm03.el.pcz.czest.pl
+i7.iop.pcz.czest.pl
+pc13.bud.pcz.czest.pl
+mat.kpts.pcz.czest.pl
+pc25.bud.pcz.czest.pl
+dhcp7.zim.pcz.czest.pl
+pc066.el.pcz.czest.pl
+b19.bibl.pcz.czest.pl
+z106.zim.pcz.czest.pl
+d55.imc.pcz.czest.pl
+pc8.kik.pcz.czest.pl
+pc082.el.pcz.czest.pl
+bsk2-3.is.pcz.czest.pl
+iop.pcz.czest.pl
+d4.imc.pcz.czest.pl
+z16.zim.pcz.czest.pl
+pc107.el.pcz.czest.pl
+andrzej.bud.pcz.czest.pl
+pc044.el.pcz.czest.pl
+darek.kpts.pcz.czest.pl
+lab1.mib.pcz.czest.pl
+k208a.kkt.pcz.czest.pl
+kkt.pcz.czest.pl
+documaster1.is.pcz.czest.pl
+d57.imc.pcz.czest.pl
+n23.kik.pcz.czest.pl
+v4.kik.pcz.czest.pl
+bpk-9.is.pcz.czest.pl
+n9.kik.pcz.czest.pl
+st1.mib.pcz.czest.pl
+pc162b.imipkm.pcz.czest.pl
+d19.kik.pcz.czest.pl
+ps2.kik.pcz.czest.pl
+pc166b.imipkm.pcz.czest.pl
+pc19.bud.pcz.czest.pl
+adm02.el.pcz.czest.pl
+mold.kpts.pcz.czest.pl
+adm15.el.pcz.czest.pl
+n3.kik.pcz.czest.pl
+pc6.kik.pcz.czest.pl
+pc013.el.pcz.czest.pl
+pc030.el.pcz.czest.pl
+www.icaisc.pcz.czest.pl
+s1.kik.pcz.czest.pl
+z8.zim.pcz.czest.pl
+tomek.iop.pcz.czest.pl
+pc23.kik.pcz.czest.pl
+pc094.el.pcz.czest.pl
+d60.imc.pcz.czest.pl
+mk.is.pcz.czest.pl
+bsk3-10.is.pcz.czest.pl
+z92.zim.pcz.czest.pl
+pc3.kik.pcz.czest.pl
+b7.bibl.pcz.czest.pl
+z83.zim.pcz.czest.pl
+bsk1-3.is.pcz.czest.pl
+pc069.el.pcz.czest.pl
+d20.imc.pcz.czest.pl
+z77.zim.pcz.czest.pl
+z80.zim.pcz.czest.pl
+z36.zim.pcz.czest.pl
+bbibl-4.is.pcz.czest.pl
+pc004.el.pcz.czest.pl
+i3.iop.pcz.czest.pl
+pc7.bud.pcz.czest.pl
+b4.bibl.pcz.czest.pl
+bsk3-5.is.pcz.czest.pl
+bpg-3c.is.pcz.czest.pl
+lab2.mib.pcz.czest.pl
+pc067.el.pcz.czest.pl
+z54.zim.pcz.czest.pl
+pc023.el.pcz.czest.pl
+pc001.el.pcz.czest.pl
+n17.kik.pcz.czest.pl
+d3.imc.pcz.czest.pl
+n1.kik.pcz.czest.pl
+d3.kik.pcz.czest.pl
+b8.bibl.pcz.czest.pl
+www.wimi.pcz.czest.pl
+cfd.pcz.czest.pl
+bpk-13.is.pcz.czest.pl
+v3.kik.pcz.czest.pl
+adm01.el.pcz.czest.pl
+pc005.el.pcz.czest.pl
+d52.imc.pcz.czest.pl
+d22.imc.pcz.czest.pl
+z22.zim.pcz.czest.pl
+bpk-11.is.pcz.czest.pl
+i19.iop.pcz.czest.pl
+bsk4-10.is.pcz.czest.pl
+pc051.el.pcz.czest.pl
+n7.kik.pcz.czest.pl
+pc175.imipkm.pcz.czest.pl
+kolaps.imipkm.pcz.czest.pl
+lab6.mib.pcz.czest.pl
+pc42.bud.pcz.czest.pl
+pc042.el.pcz.czest.pl
+z75.zim.pcz.czest.pl
+d34.imc.pcz.czest.pl
+z33.zim.pcz.czest.pl
+bsk2-6.is.pcz.czest.pl
+www.kie.is.pcz.czest.pl
+z55.zim.pcz.czest.pl
+t93.adm.pcz.czest.pl
+i9.iop.pcz.czest.pl
+www.wim.pcz.czest.pl
+www.siatkowka.pcz.czest.pl
+p5.access.pcz.czest.pl
+pc58.imipkm.pcz.czest.pl
+pc162a.imipkm.pcz.czest.pl
+s23.itm.pcz.czest.pl
+n22.kik.pcz.czest.pl
+d21.imc.pcz.czest.pl
+pc47.imipkm.pcz.czest.pl
+bpk-5.is.pcz.czest.pl
+d54.imc.pcz.czest.pl
+adm08.el.pcz.czest.pl
+n6.kik.pcz.czest.pl
+bud.pcz.czest.pl
+pc34.bud.pcz.czest.pl
+n13.kik.pcz.czest.pl
+ztmib.icis.pcz.czest.pl
+studio233.is.pcz.czest.pl
+d13.imc.pcz.czest.pl
+www.samorzad.pcz.czest.pl
+kikb.kik.pcz.czest.pl
+d1.kik.pcz.czest.pl
+adm05.el.pcz.czest.pl
+z19.zim.pcz.czest.pl
+rsekret.is.pcz.czest.pl
+bsk4-5.is.pcz.czest.pl
+pc126.imipkm.pcz.czest.pl
+t108.adm.pcz.czest.pl
+t95.adm.pcz.czest.pl
+pc050.el.pcz.czest.pl
+hkot.is.pcz.czest.pl
+kera.imipkm.pcz.czest.pl
+d23.kik.pcz.czest.pl
+pc14.kik.pcz.czest.pl
+pc014.el.pcz.czest.pl
+p8.access.pcz.czest.pl
+piolis.is.pcz.czest.pl
+blend.kpts.pcz.czest.pl
+b11.bibl.pcz.czest.pl
+gw1.is.pcz.czest.pl
+pc11.bud.pcz.czest.pl
+bc.adm.pcz.czest.pl
+b3.bibl.pcz.czest.pl
+pc006.el.pcz.czest.pl
+wz8.zim.pcz.czest.pl
+d46.imc.pcz.czest.pl
+d30.imc.pcz.czest.pl
+pcz.czest.pl
+adm09.el.pcz.czest.pl
+s46.itm.pcz.czest.pl
+b20.bibl.pcz.czest.pl
+pc25.kik.pcz.czest.pl
+pc30.bud.pcz.czest.pl
+pc30.kik.pcz.czest.pl
+license.iop.pcz.czest.pl
+gw.kkt.pcz.czest.pl
+eltoro.icis.pcz.czest.pl
+s42.itm.pcz.czest.pl
+d50.imc.pcz.czest.pl
+t105.adm.pcz.czest.pl
+pc017.el.pcz.czest.pl
+s24.itm.pcz.czest.pl
+z63.zim.pcz.czest.pl
+cerebro.is.pcz.czest.pl
+alfa.imi.pcz.czest.pl
+d53.imc.pcz.czest.pl
+gw.imipkm.pcz.czest.pl
+ack7.ackwf.pcz.czest.pl
+d61.imc.pcz.czest.pl
+solaris.imipkm.pcz.czest.pl
+makulam.is.pcz.czest.pl
+herkules.pcz.czest.pl
+t91.adm.pcz.czest.pl
+www.znp.pcz.czest.pl
+d5.kik.pcz.czest.pl
+s36.itm.pcz.czest.pl
+i17.iop.pcz.czest.pl
+s40.itm.pcz.czest.pl
+www.kik.pcz.czest.pl
+bsk3-11.is.pcz.czest.pl
+d29.imc.pcz.czest.pl
+pc058.el.pcz.czest.pl
+ack5.ackwf.pcz.czest.pl
+ik1b.kik.pcz.czest.pl
+pc072.el.pcz.czest.pl
+k214.kkt.pcz.czest.pl
+bsk1-2.is.pcz.czest.pl
+t125.adm.pcz.czest.pl
+vicat.kpts.pcz.czest.pl
+www.zim.pcz.czest.pl
+bpg-3e.is.pcz.czest.pl
+d47.imc.pcz.czest.pl
+v8.kik.pcz.czest.pl
+n20.kik.pcz.czest.pl
+n10.kik.pcz.czest.pl
+bpg-3d.is.pcz.czest.pl
+i10.iop.pcz.czest.pl
+s52.itm.pcz.czest.pl
+n5.kik.pcz.czest.pl
+rafalr.is.pcz.czest.pl
+bsk4-7.is.pcz.czest.pl
+fork1.imipkm.pcz.czest.pl
+p1.itm.pcz.czest.pl
+i12.iop.pcz.czest.pl
+n11.kik.pcz.czest.pl
+mp2510.is.pcz.czest.pl
+z64.zim.pcz.czest.pl
+n14.kik.pcz.czest.pl
+bsk2-7.is.pcz.czest.pl
+fluid-old.is.pcz.czest.pl
+d43.imc.pcz.czest.pl
+bbibl-3.is.pcz.czest.pl
+d9.imc.pcz.czest.pl
+bsk3-6.is.pcz.czest.pl
+pc26.kik.pcz.czest.pl
+dhcp8.zim.pcz.czest.pl
+p3.access.pcz.czest.pl
+bsk3-3.is.pcz.czest.pl
+pc12.kik.pcz.czest.pl
+p3.kik.pcz.czest.pl
+pc019.el.pcz.czest.pl
+b14.bibl.pcz.czest.pl
+i28.iop.pcz.czest.pl
+i27.iop.pcz.czest.pl
+n8.kik.pcz.czest.pl
+pok4.iop.pcz.czest.pl
+i16.iop.pcz.czest.pl
+s31.itm.pcz.czest.pl
+lab4.imipkm.pcz.czest.pl
+documaster.is.pcz.czest.pl
+imc.pcz.czest.pl
+pc049.el.pcz.czest.pl
+cave.kpts.pcz.czest.pl
+dhcp6.zim.pcz.czest.pl
+b21.bibl.pcz.czest.pl
+bsk2-2.is.pcz.czest.pl
+pc54.imipkm.pcz.czest.pl
+www.bg.pcz.czest.pl
+d42.imc.pcz.czest.pl
+s25.itm.pcz.czest.pl
+t126.adm.pcz.czest.pl
+s26.itm.pcz.czest.pl
+pc021.el.pcz.czest.pl
+pc052.el.pcz.czest.pl
+k2.pcz.czest.pl
+t110.adm.pcz.czest.pl
+bsk4-8.is.pcz.czest.pl
+forum.pcz.czest.pl
+wim.pcz.czest.pl
+d33.imc.pcz.czest.pl
+z35.zim.pcz.czest.pl
+p2.access.pcz.czest.pl
+wimi.pcz.czest.pl
+pc57.imipkm.pcz.czest.pl
+pc081.el.pcz.czest.pl
+pc036.el.pcz.czest.pl
+z39.zim.pcz.czest.pl
+pc099.el.pcz.czest.pl
+s2.kik.pcz.czest.pl
+d18.imc.pcz.czest.pl
+pit.kpts.pcz.czest.pl
+ik1c.kik.pcz.czest.pl
+pc37.bud.pcz.czest.pl
+bsk2-12.is.pcz.czest.pl
+v12.kik.pcz.czest.pl
+z27.zim.pcz.czest.pl
+www.wrss.wimii.pcz.czest.pl
+i6.iop.pcz.czest.pl
+p6.access.pcz.czest.pl
+pc062.el.pcz.czest.pl
+z32.zim.pcz.czest.pl
+pc4.bud.pcz.czest.pl
+pc076.el.pcz.czest.pl
+pc19.kik.pcz.czest.pl
+i36.iop.pcz.czest.pl
+bpg-7.is.pcz.czest.pl
+z76.zim.pcz.czest.pl
+bsk3-8.is.pcz.czest.pl
+i14.iop.pcz.czest.pl
+z59.zim.pcz.czest.pl
+s10.itm.pcz.czest.pl
+z46.zim.pcz.czest.pl
+d56.imc.pcz.czest.pl
+i2.iop.pcz.czest.pl
+i24.iop.pcz.czest.pl
+blizniak.pcz.czest.pl
+z78.zim.pcz.czest.pl
+d18.kik.pcz.czest.pl
+is-from.el.pcz.czest.pl
+i18.iop.pcz.czest.pl
+n16.kik.pcz.czest.pl
+d16.imc.pcz.czest.pl
+pet.kpts.pcz.czest.pl
+t123.adm.pcz.czest.pl
+k208b.kkt.pcz.czest.pl
+rosinska.is.pcz.czest.pl
+t111.adm.pcz.czest.pl
+z116.zim.pcz.czest.pl
+i25.iop.pcz.czest.pl
+zygmunt.iop.pcz.czest.pl
+pc093.el.pcz.czest.pl
+ack3.ackwf.pcz.czest.pl
+d7.kik.pcz.czest.pl
+pc161b.imipkm.pcz.czest.pl
+pc41.bud.pcz.czest.pl
+gw.bud.pcz.czest.pl
+kotlownia.iop.pcz.czest.pl
+z91.zim.pcz.czest.pl
+pc045.el.pcz.czest.pl
+ke.el.pcz.czest.pl
+znp.pcz.czest.pl
+bpg-6.is.pcz.czest.pl
+d49.imc.pcz.czest.pl
+www.documaster.is.pcz.czest.pl
+pc032.el.pcz.czest.pl
+arti.is.pcz.czest.pl
+s38.itm.pcz.czest.pl
+pc103.el.pcz.czest.pl
+www.spm.el.pcz.czest.pl
+el.pcz.czest.pl
+pc24.bud.pcz.czest.pl
+eltoro.imi.pcz.czest.pl
+pc8.bud.pcz.czest.pl
+s17.itm.pcz.czest.pl
+p1.kik.pcz.czest.pl
+pc104.el.pcz.czest.pl
+bsk3-1.is.pcz.czest.pl
+pc51.imipkm.pcz.czest.pl
+spoon.imipkm.pcz.czest.pl
+d2.imc.pcz.czest.pl
+zim.pcz.czest.pl
+pc16.bud.pcz.czest.pl
+b18.bibl.pcz.czest.pl
+z107.zim.pcz.czest.pl
+zbis.is.pcz.czest.pl
+pc16.kik.pcz.czest.pl
+pc083.el.pcz.czest.pl
+pc068.el.pcz.czest.pl
+s34.itm.pcz.czest.pl
+pc085.el.pcz.czest.pl
+pc056.el.pcz.czest.pl
+z79.zim.pcz.czest.pl
+top.kpts.pcz.czest.pl
+bpk-21.is.pcz.czest.pl
+p4.access.pcz.czest.pl
+magg.bud.pcz.czest.pl
+icaisc.pcz.czest.pl
+t67.adm.pcz.czest.pl
+z82.zim.pcz.czest.pl
+m1.kik.pcz.czest.pl
+www.pcz.czest.pl
+ik2a.kik.pcz.czest.pl
+hill.kik.pcz.czest.pl
+pc086.el.pcz.czest.pl
+wyd1.adm.pcz.czest.pl
+d39.imc.pcz.czest.pl
+www.kbib.pcz.czest.pl
+d38.imc.pcz.czest.pl
+z98.zim.pcz.czest.pl
+t84.adm.pcz.czest.pl
+i5.iop.pcz.czest.pl
+z66.zim.pcz.czest.pl
+pc097.el.pcz.czest.pl
+pc033.el.pcz.czest.pl
+imipkm.pcz.czest.pl
+pc9.kik.pcz.czest.pl
+t90.adm.pcz.czest.pl
+z96.zim.pcz.czest.pl
+jacek.kpts.pcz.czest.pl
+bpk-12.is.pcz.czest.pl
+nwitm.itm.pcz.czest.pl
+b6.bibl.pcz.czest.pl
+monika.iop.pcz.czest.pl
+n19.kik.pcz.czest.pl
+bpg-11.is.pcz.czest.pl
+juno.is.pcz.czest.pl
+www.spm2009.el.pcz.czest.pl
+www.k2.pcz.czest.pl
+pc084.el.pcz.czest.pl
+pc2.kik.pcz.czest.pl
+pc018.el.pcz.czest.pl
+www.imc.pcz.czest.pl
+i35.iop.pcz.czest.pl
+lab2.imipkm.pcz.czest.pl
+bpg-8.is.pcz.czest.pl
+ztpskisr.icis.pcz.czest.pl
+z29.zim.pcz.czest.pl
+pc087.el.pcz.czest.pl
+pc117.imipkm.pcz.czest.pl
+lab7.mib.pcz.czest.pl
+pc43.bud.pcz.czest.pl
+z89.zim.pcz.czest.pl
+test3.adm.pcz.czest.pl
+post.kpts.pcz.czest.pl
+au3.kik.pcz.czest.pl
+pc053.el.pcz.czest.pl
+d25.kik.pcz.czest.pl
+n25.kik.pcz.czest.pl
+t124.adm.pcz.czest.pl
+pc075.el.pcz.czest.pl
+bsk1-9.is.pcz.czest.pl
+bsk2-8.is.pcz.czest.pl
+t85.adm.pcz.czest.pl
+www.imipkm.pcz.czest.pl
+v5.kik.pcz.czest.pl
+t100.adm.pcz.czest.pl
+kociolek.iop.pcz.czest.pl
+lab3.mib.pcz.czest.pl
+sala-205d.is.pcz.czest.pl
+mwm.is.pcz.czest.pl
+z12.zim.pcz.czest.pl
+st0.mib.pcz.czest.pl
+ksztekler.is.pcz.czest.pl
+z67.zim.pcz.czest.pl
+bpg4.is.pcz.czest.pl
+bsk2-5.is.pcz.czest.pl
+bpk-8.is.pcz.czest.pl
+bigmummy.iop.pcz.czest.pl
+z21.zim.pcz.czest.pl
+k201.kkt.pcz.czest.pl
+pc39.bud.pcz.czest.pl
+www.wimii.pcz.czest.pl
+pc28.kik.pcz.czest.pl
+i37.iop.pcz.czest.pl
+pc2.bud.pcz.czest.pl
+pc36.bud.pcz.czest.pl
+d27.imc.pcz.czest.pl
+test.kpts.pcz.czest.pl
+ktw.is.pcz.czest.pl
+z97.zim.pcz.czest.pl
+t106.adm.pcz.czest.pl
+z70.zim.pcz.czest.pl
+pc38.bud.pcz.czest.pl
+www.iop.pcz.czest.pl
+pc13.kik.pcz.czest.pl
+sto.kik.pcz.czest.pl
+b24.bibl.pcz.czest.pl
+t121.adm.pcz.czest.pl
+au1.kik.pcz.czest.pl
+jet.kpts.pcz.czest.pl
+b2.bibl.pcz.czest.pl
+m2.kik.pcz.czest.pl
+z30.zim.pcz.czest.pl
+wimii.pcz.czest.pl
+pc009.el.pcz.czest.pl
+adm06.el.pcz.czest.pl
+pc003.el.pcz.czest.pl
+z6.zim.pcz.czest.pl
+z24.zim.pcz.czest.pl
+adm14.el.pcz.czest.pl
+pc061.el.pcz.czest.pl
+d9.kik.pcz.czest.pl
+beatas.is.pcz.czest.pl
+v6.kik.pcz.czest.pl
+z48.zim.pcz.czest.pl
+2i.pcz.czest.pl
+pc074.el.pcz.czest.pl
+bpk-16.is.pcz.czest.pl
+pc6.bud.pcz.czest.pl
+simp.pcz.czest.pl
+boss.kpts.pcz.czest.pl
+pc016.el.pcz.czest.pl
+d58.imc.pcz.czest.pl
+matinf.pcz.czest.pl
+pc043.el.pcz.czest.pl
+t83.adm.pcz.czest.pl
+s6.itm.pcz.czest.pl
+pc4.kik.pcz.czest.pl
+bsk1-11.is.pcz.czest.pl
+s39.itm.pcz.czest.pl
+rklajny.is.pcz.czest.pl
+d20.kik.pcz.czest.pl
+bsk4-1.is.pcz.czest.pl
+itm.pcz.czest.pl
+bsk2-4.is.pcz.czest.pl
+pc15.kik.pcz.czest.pl
+pc5.kik.pcz.czest.pl
+ack6.ackwf.pcz.czest.pl
+spaw.pcz.czest.pl
+pc077.el.pcz.czest.pl
+dabrowska.is.pcz.czest.pl
+dwaw.is.pcz.czest.pl
+b1.bibl.pcz.czest.pl
+pc092.el.pcz.czest.pl
+molas.is.pcz.czest.pl
+ik2b.kik.pcz.czest.pl
+z26.zim.pcz.czest.pl
+d5.imc.pcz.czest.pl
+d31.imc.pcz.czest.pl
+pc17.bud.pcz.czest.pl
+pc055.el.pcz.czest.pl
+jerzy.iop.pcz.czest.pl
+studiapodyplomowe.pcz.czest.pl
+bsk4-12.is.pcz.czest.pl
+fluid.is.pcz.czest.pl
+romek.iop.pcz.czest.pl
+svr.bibl.pcz.czest.pl
+bsk3-7.is.pcz.czest.pl
+pc22.bud.pcz.czest.pl
+n21.kik.pcz.czest.pl
+z101.zim.pcz.czest.pl
+dhcp9.zim.pcz.czest.pl
+d15.imc.pcz.czest.pl
+adm04.el.pcz.czest.pl
+bsk1-8.is.pcz.czest.pl
+estudy.zim.pcz.czest.pl
+bpk-15.is.pcz.czest.pl
+z28.zim.pcz.czest.pl
+d22.kik.pcz.czest.pl
+r219.is.pcz.czest.pl
+wnowak.is.pcz.czest.pl
+wf2.ackwf.pcz.czest.pl
+z84.zim.pcz.czest.pl
+pc089.el.pcz.czest.pl
+bsk2-10.is.pcz.czest.pl
+pc039.el.pcz.czest.pl
+bsk1-7.is.pcz.czest.pl
+v2.kik.pcz.czest.pl
+s21.itm.pcz.czest.pl
+dhcp2.zim.pcz.czest.pl
+ela.kpts.pcz.czest.pl
+s49.itm.pcz.czest.pl
+i30.iop.pcz.czest.pl
+pc024.el.pcz.czest.pl
+d25.imc.pcz.czest.pl
+b16.bibl.pcz.czest.pl
+pc073.el.pcz.czest.pl
+mib.pcz.czest.pl
+z104.zim.pcz.czest.pl
+bsk1-6.is.pcz.czest.pl
+z34.zim.pcz.czest.pl
+pc109.el.pcz.czest.pl
+bsk4-2.is.pcz.czest.pl
+d11.imc.pcz.czest.pl
+itm1.itm.pcz.czest.pl
+z99.zim.pcz.czest.pl
+t122.adm.pcz.czest.pl
+bsk1-4.is.pcz.czest.pl
+sperczynska.is.pcz.czest.pl
+zziis.is.pcz.czest.pl
+kipigroch.is.pcz.czest.pl
+k207.kkt.pcz.czest.pl
+p215a.is.pcz.czest.pl
+z102.zim.pcz.czest.pl
+z52.zim.pcz.czest.pl
+www.simp.pcz.czest.pl
+d51.imc.pcz.czest.pl
+pc15.bud.pcz.czest.pl
+d28.imc.pcz.czest.pl
+pc090.el.pcz.czest.pl
+pc33.bud.pcz.czest.pl
+pc022.el.pcz.czest.pl
+d41.imc.pcz.czest.pl
+bpg-3b.is.pcz.czest.pl
+p2.kik.pcz.czest.pl
+www.cfd.pcz.czest.pl
+t68.adm.pcz.czest.pl
+sekret.kpts.pcz.czest.pl
+pc12.bud.pcz.czest.pl
+z42.zim.pcz.czest.pl
+z20.zim.pcz.czest.pl
+rnowak.is.pcz.czest.pl
+gate.kpts.pcz.czest.pl
+d37.imc.pcz.czest.pl
+a26.is.pcz.czest.pl
+adamg.kpts.pcz.czest.pl
+z114.zim.pcz.czest.pl
+lin.icis.pcz.czest.pl
+pc098.el.pcz.czest.pl
+p1.access.pcz.czest.pl
+kikc.kik.pcz.czest.pl
+s50.itm.pcz.czest.pl
+bsk1-12.is.pcz.czest.pl
+z110.zim.pcz.czest.pl
+i34.iop.pcz.czest.pl
+i20.iop.pcz.czest.pl

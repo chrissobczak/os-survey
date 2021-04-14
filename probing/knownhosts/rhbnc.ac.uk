@@ -1,125 +1,28 @@
-NXDOMAIN	platon.cs.rhbnc.ac.uk
-SERVFAIL	ppu1.pp.rhbnc.ac.uk
-NXDOMAIN	glacier.gg.rhbnc.ac.uk
-NXDOMAIN	dir.rhbnc.ac.uk
-NXDOMAIN	einstein.cs.rhbnc.ac.uk
-NOERROR	smtp.rhbnc.ac.uk
-NXDOMAIN	newlook.rhbnc.ac.uk
-NXDOMAIN	ppu1.ph.rhbnc.ac.uk
-NOERROR	www2.rhbnc.ac.uk
-NXDOMAIN	hp.ma.rhbnc.ac.uk
-NOERROR	smtp0.rhbnc.ac.uk
-NOERROR	alderbaran.rhbnc.ac.uk
-NOERROR	www.gl.rhbnc.ac.uk
-NOERROR	www.clrc.rhbnc.ac.uk
-NXDOMAIN	exch1.rhbnc.ac.uk
-NOERROR	mklab.ph.rhbnc.ac.uk
-NXDOMAIN	glsun2.gl.rhbnc.ac.uk
-NXDOMAIN	www.ma.rhbnc.ac.uk
-NOERROR	alice.ma.rhbnc.ac.uk
-NXDOMAIN	alpha6.rhbnc.ac.uk
-NOERROR	ftp.isg.rhbnc.ac.uk
-NXDOMAIN	nutts.cs.rhbnc.ac.uk
-NXDOMAIN	fs1.ms.rhbnc.ac.uk
-NXDOMAIN	fs1.bl.rhbnc.ac.uk
-NXDOMAIN	dcs.ftp.rhbnc.ac.uk
-NXDOMAIN	www.proxy.rhbnc.ac.uk
-NOERROR	smtp3.rhbnc.ac.uk
-NOERROR	smtp4.rhbnc.ac.uk
-NXDOMAIN	www.sun.rhbnc.ac.uk
-NXDOMAIN	pc2.cc.rhbnc.ac.uk
-NXDOMAIN	svm.dcs.rhbnc.ac.uk
-NXDOMAIN	exch4.rhbnc.ac.uk
-NXDOMAIN	fsl.ms.rhbnc.ac.uk
-NXDOMAIN	castor.pc.rhbnc.ac.uk
-NXDOMAIN	ng3.rhbnc.ac.uk
-NXDOMAIN	nts10.rhbnc.ac.uk
-NXDOMAIN	media.dr.rhbnc.ac.uk
-NXDOMAIN	www.media.dr.rhbnc.ac.uk
-NOERROR	aldebaran.bl.rhbnc.ac.uk
-NOERROR	www.isg.rhbnc.ac.uk
-NXDOMAIN	inventory.gg.rhbnc.ac.uk
-NOERROR	clrc.rhbnc.ac.uk
-NXDOMAIN	www.gg.rhbnc.ac.uk
-NXDOMAIN	darwin.cs.rhbnc.ac.uk
-NXDOMAIN	etna.gl.rhbnc.ac.uk
-NXDOMAIN	alpha1.rhbnc.ac.uk
-NXDOMAIN	psyserver.pc.rhbnc.ac.uk
-NXDOMAIN	engels.dcs.rhbnc.ac.uk
-NXDOMAIN	www.ng.rhbnc.ac.uk
-NOERROR	dns2.cs.rhbnc.ac.uk
-NOERROR	dns3.cs.rhbnc.ac.uk
-NXDOMAIN	www.cyberband.rhbnc.ac.uk
-NXDOMAIN	argaeus.ma.rhbnc.ac.uk
-NOERROR	libserv.rhbnc.ac.uk
-NXDOMAIN	nts15.rhbnc.ac.uk
-NXDOMAIN	pc54.ph.rhbnc.ac.uk
-NOERROR	isg.rhbnc.ac.uk
-NXDOMAIN	www.cedarweb.rhbnc.ac.uk
-NXDOMAIN	www.bb.rhbnc.ac.uk
-NXDOMAIN	sun.rhbnc.ac.uk
-NXDOMAIN	www.su.rhbnc.ac.uk
-NXDOMAIN	www.positron.ph.rhbnc.ac.uk
-NXDOMAIN	galisteo.ma.rhbnc.ac.uk
-NXDOMAIN	wwwnew.cs.rhbnc.ac.uk
-NXDOMAIN	vineland.dcs.rhbnc.ac.uk
-NXDOMAIN	platon.dcs.rhbnc.ac.uk
-NXDOMAIN	nts2.su.rhbnc.ac.uk
-NXDOMAIN	library.rhbnc.ac.uk
-NXDOMAIN	www.ph.rhbnc.ac.uk
-NXDOMAIN	ftp.dcs.rhbnc.ac.uk
-NXDOMAIN	exch3.rhbnc.ac.uk
-NXDOMAIN	einstein.dcs.rhbnc.ac.uk
-NOERROR	spc55.rhbnc.ac.uk
-NXDOMAIN	zoe.cs.rhbnc.ac.uk
-NXDOMAIN	pc176.ph.rhbnc.ac.uk
-NXDOMAIN	fermat.ma.rhbnc.ac.uk
-NOERROR	mail.rhbnc.ac.uk
-NXDOMAIN	boots.cs.rhbnc.ac.uk
-SERVFAIL	www.pp.rhbnc.ac.uk
-NXDOMAIN	www.hep.rhbnc.ac.uk
-NXDOMAIN	www.bl.rhbnc.ac.uk
-NOERROR	www.rhbnc.ac.uk
-NXDOMAIN	2.rhbnc.ac.uk
-NXDOMAIN	www4.rhbnc.ac.uk
-NXDOMAIN	www.ad.rhbnc.ac.uk
-NXDOMAIN	fs1.lb.rhbnc.ac.uk
-NXDOMAIN	ma4.cs.rhbnc.ac.uk
-NXDOMAIN	www.lb.rhbnc.ac.uk
-NXDOMAIN	glsun2.rhbnc.ac.uk
-NXDOMAIN	hegerty.rhbnc.ac.uk
-NXDOMAIN	www.hep.ph.rhbnc.ac.uk
-NXDOMAIN	lara.rhbnc.ac.uk
-NXDOMAIN	ppu2.ph.rhbnc.ac.uk
-NXDOMAIN	bb.su.rhbnc.ac.uk
-NXDOMAIN	ma1.cs.rhbnc.ac.uk
-NXDOMAIN	ldp.cs.rhbnc.ac.uk
-NXDOMAIN	hepsun.ph.rhbnc.ac.uk
-NXDOMAIN	nts8.rhbnc.ac.uk
-NXDOMAIN	wwwnew.dcs.rhbnc.ac.uk
-NXDOMAIN	hyperg.cs.rhbnc.ac.uk
-NOERROR	dl5100.in.rhbnc.ac.uk
-NOERROR	www.dcs.rhbnc.ac.uk
-NXDOMAIN	www.hp.ma.rhbnc.ac.uk
-NXDOMAIN	www.l.rhbnc.ac.uk
-NXDOMAIN	tfs1.ph.rhbnc.ac.uk
-NXDOMAIN	jbas.rhbnc.ac.uk
-NXDOMAIN	newton.cs.rhbnc.ac.uk
-NXDOMAIN	bb.rhbnc.ac.uk
-NXDOMAIN	dns1.rhbnc.ac.uk
-NXDOMAIN	cedarweb.gg.rhbnc.ac.uk
-NXDOMAIN	www.nads.su.rhbnc.ac.uk
-NXDOMAIN	micromouse.cs.rhbnc.ac.uk
-NOERROR	sparc1.ma.rhbnc.ac.uk
-NXDOMAIN	www.athletics.su.rhbnc.ac.uk
-NOERROR	rhbnc.ac.uk
-NXDOMAIN	www0.rhbnc.ac.uk
-NOERROR	www1.rhbnc.ac.uk
-NOERROR	www.cs.rhbnc.ac.uk
-NXDOMAIN	www.ms.rhbnc.ac.uk
-NOERROR	smtp1.rhbnc.ac.uk
-NXDOMAIN	www.pc.rhbnc.ac.uk
-NXDOMAIN	vineland.cs.rhbnc.ac.uk
-NXDOMAIN	www.mklab.rhbnc.ac.uk
-NXDOMAIN	ng4.rhbnc.ac.uk
-NXDOMAIN	svm.cs.rhbnc.ac.uk
+smtp.rhbnc.ac.uk
+www2.rhbnc.ac.uk
+smtp0.rhbnc.ac.uk
+alderbaran.rhbnc.ac.uk
+www.gl.rhbnc.ac.uk
+www.clrc.rhbnc.ac.uk
+mklab.ph.rhbnc.ac.uk
+alice.ma.rhbnc.ac.uk
+ftp.isg.rhbnc.ac.uk
+smtp3.rhbnc.ac.uk
+smtp4.rhbnc.ac.uk
+aldebaran.bl.rhbnc.ac.uk
+www.isg.rhbnc.ac.uk
+clrc.rhbnc.ac.uk
+dns2.cs.rhbnc.ac.uk
+dns3.cs.rhbnc.ac.uk
+libserv.rhbnc.ac.uk
+isg.rhbnc.ac.uk
+spc55.rhbnc.ac.uk
+mail.rhbnc.ac.uk
+www.rhbnc.ac.uk
+dl5100.in.rhbnc.ac.uk
+www.dcs.rhbnc.ac.uk
+sparc1.ma.rhbnc.ac.uk
+rhbnc.ac.uk
+www1.rhbnc.ac.uk
+www.cs.rhbnc.ac.uk
+smtp1.rhbnc.ac.uk

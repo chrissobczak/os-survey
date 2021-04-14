@@ -1,14 +1,4 @@
-NOERROR	www.kufos.ac.in
-NOERROR	www.admission.kufos.ac.in
-NXDOMAIN	demo.kufos.ac.in
-NXDOMAIN	autodiscover.kufos.ac.in
-NXDOMAIN	mooc.kufos.ac.in
-NOERROR	kufos.ac.in
-NXDOMAIN	cpanel.kufos.ac.in
-NXDOMAIN	www.tasbe.kufos.ac.in
-NXDOMAIN	mail.kufos.ac.in
-NXDOMAIN	www.demo.kufos.ac.in
-NXDOMAIN	tasbe.kufos.ac.in
-NXDOMAIN	webdisk.kufos.ac.in
-NXDOMAIN	webmail.kufos.ac.in
-NOERROR	admission.kufos.ac.in
+www.kufos.ac.in
+www.admission.kufos.ac.in
+kufos.ac.in
+admission.kufos.ac.in

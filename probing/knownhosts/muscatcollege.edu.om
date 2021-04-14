@@ -1,10 +1,7 @@
-NOERROR	adfs.muscatcollege.edu.om
-NOERROR	moodle.muscatcollege.edu.om
-NOERROR	portal.muscatcollege.edu.om
-NOERROR	idp01.muscatcollege.edu.om
-NXDOMAIN	adfs01.muscatcollege.edu.om
-NXDOMAIN	webmail.muscatcollege.edu.om
-NOERROR	www.muscatcollege.edu.om
-NOERROR	autodiscover.muscatcollege.edu.om
-NXDOMAIN	oldmoodle.muscatcollege.edu.om
-NOERROR	muscatcollege.edu.om
+adfs.muscatcollege.edu.om
+moodle.muscatcollege.edu.om
+portal.muscatcollege.edu.om
+idp01.muscatcollege.edu.om
+www.muscatcollege.edu.om
+autodiscover.muscatcollege.edu.om
+muscatcollege.edu.om

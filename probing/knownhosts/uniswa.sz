@@ -1,86 +1,70 @@
-NXDOMAIN	atlantis.cs.uniswa.sz
-NOERROR	bursmssvr03.uniswa.sz
-NOERROR	www.maths.uniswa.sz
-NOERROR	lywebmail.uniswa.sz
-NOERROR	ligugu.uniswa.sz
-NOERROR	kwnetreg.uniswa.sz
-NOERROR	lyradius.uniswa.sz
-NXDOMAIN	uniswacc.uniswa.sz
-NOERROR	lynetreg.uniswa.sz
-NOERROR	asms.uniswa.sz
-NOERROR	kwwebmail.uniswa.sz
-NOERROR	radius.uniswa.sz
-NOERROR	mail02.uniswa.sz
-NXDOMAIN	unitime.uniswa.sz
-NOERROR	imailgw.uniswa.sz
-NOERROR	vpn.uniswa.sz
-NOERROR	kw-esxi-06.uniswa.sz
-NOERROR	kwzcmprod01.uniswa.sz
-NXDOMAIN	uniwebconf.uniswa.sz
-NXDOMAIN	elearn.uniswa.sz
-NOERROR	mbnetreg.uniswa.sz
-NOERROR	ojs.uniswa.sz
-NOERROR	lykscupdt01.uniswa.sz
-NXDOMAIN	ifhe.uniswa.sz
-NXDOMAIN	prevlearn.uniswa.sz
-NOERROR	www.uniswa.sz
-NOERROR	fw1.uniswa.sz
-NOERROR	unipwm.uniswa.sz
-NOERROR	fw2.uniswa.sz
-NOERROR	mail01.uniswa.sz
-NOERROR	netreg.uniswa.sz
-NXDOMAIN	tutor.science.uniswa.sz
-NOERROR	helpdesk.uniswa.sz
-NOERROR	www.cs.uniswa.sz
-NOERROR	mboessvr01.uniswa.sz
-NOERROR	ictclxdbsvr01.uniswa.sz
-NOERROR	mbradius.uniswa.sz
-NOERROR	ictcmssvr02.uniswa.sz
-NOERROR	mbwebmail.uniswa.sz
-NOERROR	sis.uniswa.sz
-NOERROR	uniswaapps01.uniswa.sz
-NOERROR	www.physics.uniswa.sz
-NOERROR	www.ctc.uniswa.sz
-NOERROR	ns3.uniswa.sz
-NOERROR	ns4.uniswa.sz
-NOERROR	kwradius.uniswa.sz
-NOERROR	library.uniswa.sz
-NOERROR	ibistro.uniswa.sz
-NOERROR	mbkscupdt01.uniswa.sz
-NOERROR	www.ide.uniswa.sz
-NXDOMAIN	mbmail.uniswa.sz
-NXDOMAIN	elearning.uniswa.sz
-NOERROR	dspace.uniswa.sz
-NOERROR	unierp.uniswa.sz
-NOERROR	unifictrllr.uniswa.sz
-NOERROR	mailgw.uniswa.sz
-NOERROR	omailgw.uniswa.sz
-NOERROR	mbzcmprod01.uniswa.sz
-NOERROR	techno.uniswa.sz
-NOERROR	www.library.uniswa.sz
-NOERROR	kw-esxi-02.uniswa.sz
-NOERROR	www.ictc.uniswa.sz
-NOERROR	wifiquota.uniswa.sz
-NOERROR	lyzcmprod01.uniswa.sz
-NOERROR	learn.uniswa.sz
-NOERROR	uniclmes.uniswa.sz
-NOERROR	mb-esxi-01.uniswa.sz
-NXDOMAIN	learn1617.uniswa.sz
-NOERROR	www.healthsci.uniswa.sz
-NXDOMAIN	www.ebdc.uniswa.sz
-NOERROR	kw-esxi-03.uniswa.sz
-NOERROR	ebdc.uniswa.sz
-NOERROR	univpn.uniswa.sz
-NOERROR	clmes.uniswa.sz
-NOERROR	mail03.uniswa.sz
-NOERROR	ly-esxi-01.uniswa.sz
-NXDOMAIN	pwm.uniswa.sz
-NOERROR	www.asms.uniswa.sz
-NXDOMAIN	learn1516.uniswa.sz
-NOERROR	ictcmssvr03.uniswa.sz
-NXDOMAIN	unividstream.uniswa.sz
-NOERROR	daemon.uniswa.sz
-NOERROR	cs.uniswa.sz
-NXDOMAIN	smart.uniswa.sz
-NOERROR	www.seanac.uniswa.sz
-NOERROR	vlife.uniswa.sz
+bursmssvr03.uniswa.sz
+www.maths.uniswa.sz
+lywebmail.uniswa.sz
+ligugu.uniswa.sz
+kwnetreg.uniswa.sz
+lyradius.uniswa.sz
+lynetreg.uniswa.sz
+asms.uniswa.sz
+kwwebmail.uniswa.sz
+radius.uniswa.sz
+mail02.uniswa.sz
+imailgw.uniswa.sz
+vpn.uniswa.sz
+kw-esxi-06.uniswa.sz
+kwzcmprod01.uniswa.sz
+mbnetreg.uniswa.sz
+ojs.uniswa.sz
+lykscupdt01.uniswa.sz
+www.uniswa.sz
+fw1.uniswa.sz
+unipwm.uniswa.sz
+fw2.uniswa.sz
+mail01.uniswa.sz
+netreg.uniswa.sz
+helpdesk.uniswa.sz
+www.cs.uniswa.sz
+mboessvr01.uniswa.sz
+ictclxdbsvr01.uniswa.sz
+mbradius.uniswa.sz
+ictcmssvr02.uniswa.sz
+mbwebmail.uniswa.sz
+sis.uniswa.sz
+uniswaapps01.uniswa.sz
+www.physics.uniswa.sz
+www.ctc.uniswa.sz
+ns3.uniswa.sz
+ns4.uniswa.sz
+kwradius.uniswa.sz
+library.uniswa.sz
+ibistro.uniswa.sz
+mbkscupdt01.uniswa.sz
+www.ide.uniswa.sz
+dspace.uniswa.sz
+unierp.uniswa.sz
+unifictrllr.uniswa.sz
+mailgw.uniswa.sz
+omailgw.uniswa.sz
+mbzcmprod01.uniswa.sz
+techno.uniswa.sz
+www.library.uniswa.sz
+kw-esxi-02.uniswa.sz
+www.ictc.uniswa.sz
+wifiquota.uniswa.sz
+lyzcmprod01.uniswa.sz
+learn.uniswa.sz
+uniclmes.uniswa.sz
+mb-esxi-01.uniswa.sz
+www.healthsci.uniswa.sz
+kw-esxi-03.uniswa.sz
+ebdc.uniswa.sz
+univpn.uniswa.sz
+clmes.uniswa.sz
+mail03.uniswa.sz
+ly-esxi-01.uniswa.sz
+www.asms.uniswa.sz
+ictcmssvr03.uniswa.sz
+daemon.uniswa.sz
+cs.uniswa.sz
+www.seanac.uniswa.sz
+vlife.uniswa.sz

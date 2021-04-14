@@ -1,84 +1,67 @@
-NOERROR	revpxy3.wsu.ac.za
-NOERROR	hipath.wsu.ac.za
-NOERROR	itsapp.cle.intra.wsu.ac.za
-NXDOMAIN	www.cleldap01.wsu.ac.za
-NOERROR	gwdev.wsu.ac.za
-NOERROR	pdmmail.wsu.ac.za
-NXDOMAIN	www.raddev.wsu.ac.za
-NXDOMAIN	www.cctvvpn.wsu.ac.za
-NOERROR	ibkmail.wsu.ac.za
-NOERROR	clegwia01.wsu.ac.za
-NOERROR	clegwpd03.wsu.ac.za
-NOERROR	ienabler.wsu.ac.za
-NOERROR	cctvvpn.wsu.ac.za
-NOERROR	nmdmail.wsu.ac.za
-NOERROR	clewww01.wsu.ac.za
-NXDOMAIN	mrtg.wsu.ac.za
-NOERROR	zhsstanw1ilo.wsu.ac.za
-NOERROR	gw8mail.wsu.ac.za
-NOERROR	clegwmnw1.wsu.ac.za
-NXDOMAIN	raddev.wsu.ac.za
-NOERROR	wiseup.wsu.ac.za
-NOERROR	clegwmnw2.wsu.ac.za
-NOERROR	students.wsu.ac.za
-NOERROR	rtc.wsu.ac.za
-NOERROR	its.wsu.ac.za
-NOERROR	wsu.ac.za
-NXDOMAIN	mail.wsu.ac.za
-NOERROR	revpxy1.wsu.ac.za
-NXDOMAIN	cpanel.wsu.ac.za
-NOERROR	cs.wsu.ac.za
-NOERROR	cleldap01.wsu.ac.za
-NOERROR	wifiauth.wsu.ac.za
-NOERROR	ussd.wsu.ac.za
-NOERROR	dnsa.wsu.ac.za
-NOERROR	grystanw1ilo.wsu.ac.za
-NOERROR	revpxy2.wsu.ac.za
-NXDOMAIN	www.ienabler.wsu.ac.za
-NOERROR	gms.wsu.ac.za
-NOERROR	wiseup2.wsu.ac.za
-NXDOMAIN	eval.wsu.ac.za
-NOERROR	studmail.wsu.ac.za
-NXDOMAIN	collmail.wsu.ac.za
-NOERROR	clegwpd02.wsu.ac.za
-NOERROR	nmdict.wsu.ac.za
-NOERROR	blackboard.wsu.ac.za
-NOERROR	clestanw1.wsu.ac.za
-NOERROR	wsi.wsu.ac.za
-NOERROR	pdmorams1.wsu.ac.za
-NOERROR	zhsstanw1.wsu.ac.za
-NOERROR	vpn.wsu.ac.za
-NXDOMAIN	cpcontacts.wsu.ac.za
-NOERROR	media.wsu.ac.za
-NXDOMAIN	cpcalendars.wsu.ac.za
-NOERROR	ascghr.wsu.ac.za
-NOERROR	idp.wsu.ac.za
-NOERROR	chtstanw1.wsu.ac.za
-NOERROR	grystanw1.wsu.ac.za
-NOERROR	sspr.wsu.ac.za
-NOERROR	kei.wsu.ac.za
-NOERROR	wsucr.wsu.ac.za
-NOERROR	gw.wsu.ac.za
-NOERROR	status.wsu.ac.za
-NOERROR	ibkstunw1.wsu.ac.za
-NOERROR	itsdrapp.cht.intra.wsu.ac.za
-NOERROR	webmail.wsu.ac.za
-NOERROR	clegwpd01.wsu.ac.za
-NOERROR	clegwia02.wsu.ac.za
-NOERROR	nmdftp.wsu.ac.za
-NOERROR	ibkgwmnw1.wsu.ac.za
-NOERROR	ww1.wsu.ac.za
-NOERROR	pdmstanw1.wsu.ac.za
-NOERROR	pdmstunw1.wsu.ac.za
-NXDOMAIN	webdisk.wsu.ac.za
-NOERROR	chtdev01.student.wsu.ac.za
-NXDOMAIN	chtdev10.student.wsu.ac.za
-NOERROR	nmdgwmnw1.wsu.ac.za
-NOERROR	compsci.wsu.ac.za
-NOERROR	cledns01.wsu.ac.za
-NOERROR	potsoracle.wsu.ac.za
-NOERROR	www.wsu.ac.za
-NXDOMAIN	spps.wsu.ac.za
-NXDOMAIN	servicedesk.wsu.ac.za
-NXDOMAIN	clemail.wsu.ac.za
-NOERROR	gwmail.wsu.ac.za
+revpxy3.wsu.ac.za
+hipath.wsu.ac.za
+itsapp.cle.intra.wsu.ac.za
+gwdev.wsu.ac.za
+pdmmail.wsu.ac.za
+ibkmail.wsu.ac.za
+clegwia01.wsu.ac.za
+clegwpd03.wsu.ac.za
+ienabler.wsu.ac.za
+cctvvpn.wsu.ac.za
+nmdmail.wsu.ac.za
+clewww01.wsu.ac.za
+zhsstanw1ilo.wsu.ac.za
+gw8mail.wsu.ac.za
+clegwmnw1.wsu.ac.za
+wiseup.wsu.ac.za
+clegwmnw2.wsu.ac.za
+students.wsu.ac.za
+rtc.wsu.ac.za
+its.wsu.ac.za
+wsu.ac.za
+revpxy1.wsu.ac.za
+cs.wsu.ac.za
+cleldap01.wsu.ac.za
+wifiauth.wsu.ac.za
+ussd.wsu.ac.za
+dnsa.wsu.ac.za
+grystanw1ilo.wsu.ac.za
+revpxy2.wsu.ac.za
+gms.wsu.ac.za
+wiseup2.wsu.ac.za
+studmail.wsu.ac.za
+clegwpd02.wsu.ac.za
+nmdict.wsu.ac.za
+blackboard.wsu.ac.za
+clestanw1.wsu.ac.za
+wsi.wsu.ac.za
+pdmorams1.wsu.ac.za
+zhsstanw1.wsu.ac.za
+vpn.wsu.ac.za
+media.wsu.ac.za
+ascghr.wsu.ac.za
+idp.wsu.ac.za
+chtstanw1.wsu.ac.za
+grystanw1.wsu.ac.za
+sspr.wsu.ac.za
+kei.wsu.ac.za
+wsucr.wsu.ac.za
+gw.wsu.ac.za
+status.wsu.ac.za
+ibkstunw1.wsu.ac.za
+itsdrapp.cht.intra.wsu.ac.za
+webmail.wsu.ac.za
+clegwpd01.wsu.ac.za
+clegwia02.wsu.ac.za
+nmdftp.wsu.ac.za
+ibkgwmnw1.wsu.ac.za
+ww1.wsu.ac.za
+pdmstanw1.wsu.ac.za
+pdmstunw1.wsu.ac.za
+chtdev01.student.wsu.ac.za
+nmdgwmnw1.wsu.ac.za
+compsci.wsu.ac.za
+cledns01.wsu.ac.za
+potsoracle.wsu.ac.za
+www.wsu.ac.za
+gwmail.wsu.ac.za

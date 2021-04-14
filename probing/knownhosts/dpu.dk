@@ -1,58 +1,46 @@
-NOERROR	smtp-in.dpu.dk
-NOERROR	itdd.dpu.dk
-NOERROR	www.ncfk.dpu.dk
-NOERROR	obelisk7.dpu.dk
-NOERROR	www1.elearning.dpu.dk
-NOERROR	grundtvig.dpu.dk
-NOERROR	www.dpu.dk
-NXDOMAIN	girls.dpb.dpu.dk
-NOERROR	www.dpb.dpu.dk
-NOERROR	remote1.dpu.dk
-NOERROR	vpn3.dpu.dk
-NXDOMAIN	webshop.dpu.dk
-NOERROR	evalgcbs.dpu.dk
-NXDOMAIN	www.aalborg.dpu.dk
-NXDOMAIN	www.aarhus.dpu.dk
-NXDOMAIN	selvbetjening.dpu.dk
-NOERROR	lld.dpu.dk
-NOERROR	freud.dpu.dk
-NOERROR	dpu.dk
-NXDOMAIN	erl.dpu.dk
-NOERROR	obelisk.dpu.dk
-NOERROR	webmail.dpu.dk
-NOERROR	live.dpu.dk
-NOERROR	s-elastix.dpu.dk
-NOERROR	sharepoint.dpu.dk
-NOERROR	ns-soa.dpu.dk
-NOERROR	smtp-in3.dpu.dk
-NOERROR	www13.elearning.dpu.dk
-NOERROR	smtp-out.dpu.dk
-NOERROR	w2.dpu.dk
-NOERROR	dpb.dpu.dk
-NXDOMAIN	blackboard5.dpu.dk
-NOERROR	weblcs.dpu.dk
-NXDOMAIN	www.dlh.dpu.dk
-NOERROR	nyoss.dpu.dk
-NOERROR	remote.dpu.dk
-NOERROR	www11.elearning.dpu.dk
-NOERROR	smtp-in2.dpu.dk
-NOERROR	medieinnovatoriet.dpu.dk
-NOERROR	inet.dpb.dpu.dk
-NOERROR	im.dpu.dk
-NOERROR	blogs.dpu.dk
-NOERROR	autodiscover.dpu.dk
-NOERROR	www.copenhagen.dpu.dk
-NXDOMAIN	www.selvbetjening.dpu.dk
-NOERROR	pure.dpu.dk
-NOERROR	crl.dpu.dk
-NOERROR	www15.elearning.dpu.dk
-NXDOMAIN	www.blackbord.dpu.dk
-NOERROR	2010.dpu.dk
-NXDOMAIN	platon.dpu.dk
-NOERROR	vpn2.dpu.dk
-NOERROR	vpn.dpu.dk
-NOERROR	a308.dpu.dk
-NXDOMAIN	webshopadmin.dpu.dk
-NOERROR	gk.dpu.dk
-NOERROR	www.cfb.dpu.dk
-NOERROR	da.dpu.dk
+smtp-in.dpu.dk
+itdd.dpu.dk
+www.ncfk.dpu.dk
+obelisk7.dpu.dk
+www1.elearning.dpu.dk
+grundtvig.dpu.dk
+www.dpu.dk
+www.dpb.dpu.dk
+remote1.dpu.dk
+vpn3.dpu.dk
+evalgcbs.dpu.dk
+lld.dpu.dk
+freud.dpu.dk
+dpu.dk
+obelisk.dpu.dk
+webmail.dpu.dk
+live.dpu.dk
+s-elastix.dpu.dk
+sharepoint.dpu.dk
+ns-soa.dpu.dk
+smtp-in3.dpu.dk
+www13.elearning.dpu.dk
+smtp-out.dpu.dk
+w2.dpu.dk
+dpb.dpu.dk
+weblcs.dpu.dk
+nyoss.dpu.dk
+remote.dpu.dk
+www11.elearning.dpu.dk
+smtp-in2.dpu.dk
+medieinnovatoriet.dpu.dk
+inet.dpb.dpu.dk
+im.dpu.dk
+blogs.dpu.dk
+autodiscover.dpu.dk
+www.copenhagen.dpu.dk
+pure.dpu.dk
+crl.dpu.dk
+www15.elearning.dpu.dk
+2010.dpu.dk
+vpn2.dpu.dk
+vpn.dpu.dk
+a308.dpu.dk
+gk.dpu.dk
+www.cfb.dpu.dk
+da.dpu.dk

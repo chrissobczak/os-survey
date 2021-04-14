@@ -1,68 +1,52 @@
-NOERROR	it.tncc.edu
-NOERROR	autodiscover.tncc.edu
-NOERROR	live.tncc.edu
-NOERROR	nl.tncc.edu
-NOERROR	tnccarch.tncc.edu
-NOERROR	sevamp.tncc.edu
-NOERROR	workforce.tncc.edu
-NXDOMAIN	create.tncc.edu
-NOERROR	ea.tncc.edu
-NOERROR	itunes.tncc.edu
-NOERROR	tnhawebtier01.tncc.edu
-NOERROR	thomasnelson.tncc.edu
-NOERROR	survey.tncc.edu
-NOERROR	wwwalt.tncc.edu
-NOERROR	www.tncc.edu
-NOERROR	distance.tncc.edu
-NOERROR	nursingsurveys.tncc.edu
-NOERROR	tnhanexpose01.tncc.edu
-NOERROR	tnhtwebtier01.tncc.edu
-NOERROR	digitalcollections.tncc.edu
-NOERROR	mysupport.tncc.edu
-NOERROR	apogee1.tncc.edu
-NOERROR	tncc-vpn.tncc.edu
-NOERROR	view.tncc.edu
-NOERROR	dollieslager.tncc.edu
-NOERROR	mos.tncc.edu
-NOERROR	search.tncc.edu
-NOERROR	archivesspace.tncc.edu
-NXDOMAIN	dev2.tncc.edu
-NXDOMAIN	www.acl.tncc.edu
-NOERROR	visualarts.tncc.edu
-NOERROR	m.tncc.edu
-NXDOMAIN	manufacturingtraining.tncc.edu
-NXDOMAIN	blogs.tncc.edu
-NXDOMAIN	dev3.tncc.edu
-NOERROR	secureview.tncc.edu
-NOERROR	tncc.edu
-NXDOMAIN	dev8.tncc.edu
-NOERROR	mobileo365.tncc.edu
-NXDOMAIN	photos.tncc.edu
-NOERROR	parking.tncc.edu
-NOERROR	libguides.tncc.edu
-NOERROR	go.tncc.edu
-NOERROR	secureid.tncc.edu
-NOERROR	catalog.tncc.edu
-NXDOMAIN	nelsonlink.tncc.edu
-NXDOMAIN	www.survey.tncc.edu
-NXDOMAIN	connect.tncc.edu
-NOERROR	libanswers.tncc.edu
-NOERROR	archives.tncc.edu
-NXDOMAIN	dev1.tncc.edu
-NOERROR	inside.tncc.edu
-NOERROR	lyncdiscover.tncc.edu
-NXDOMAIN	nelsonmagazine.tncc.edu
-NOERROR	discuss.tncc.edu
-NOERROR	community.tncc.edu
-NOERROR	students.tncc.edu
-NOERROR	tnhawebtier02.tncc.edu
-NOERROR	sip.tncc.edu
-NXDOMAIN	www.ea.tncc.edu
-NOERROR	vpn.tncc.edu
-NOERROR	faculty.tncc.edu
-NOERROR	tnalertus.tncc.edu
-NXDOMAIN	sacscoc.tncc.edu
-NXDOMAIN	trackit.tncc.edu
-NOERROR	web1.tncc.edu
-NOERROR	video.tncc.edu
-NOERROR	m.catalog.tncc.edu
+it.tncc.edu
+autodiscover.tncc.edu
+live.tncc.edu
+nl.tncc.edu
+tnccarch.tncc.edu
+sevamp.tncc.edu
+workforce.tncc.edu
+ea.tncc.edu
+itunes.tncc.edu
+tnhawebtier01.tncc.edu
+thomasnelson.tncc.edu
+survey.tncc.edu
+wwwalt.tncc.edu
+www.tncc.edu
+distance.tncc.edu
+nursingsurveys.tncc.edu
+tnhanexpose01.tncc.edu
+tnhtwebtier01.tncc.edu
+digitalcollections.tncc.edu
+mysupport.tncc.edu
+apogee1.tncc.edu
+tncc-vpn.tncc.edu
+view.tncc.edu
+dollieslager.tncc.edu
+mos.tncc.edu
+search.tncc.edu
+archivesspace.tncc.edu
+visualarts.tncc.edu
+m.tncc.edu
+secureview.tncc.edu
+tncc.edu
+mobileo365.tncc.edu
+parking.tncc.edu
+libguides.tncc.edu
+go.tncc.edu
+secureid.tncc.edu
+catalog.tncc.edu
+libanswers.tncc.edu
+archives.tncc.edu
+inside.tncc.edu
+lyncdiscover.tncc.edu
+discuss.tncc.edu
+community.tncc.edu
+students.tncc.edu
+tnhawebtier02.tncc.edu
+sip.tncc.edu
+vpn.tncc.edu
+faculty.tncc.edu
+tnalertus.tncc.edu
+web1.tncc.edu
+video.tncc.edu
+m.catalog.tncc.edu

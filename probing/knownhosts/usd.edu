@@ -1,845 +1,828 @@
-NOERROR	sc232.sc.usd.edu
-NOERROR	sc85.sc.usd.edu
-NOERROR	old2-blogs.usd.edu
-NOERROR	temp-portal.usd.edu
-NOERROR	randy.usd.edu
-NOERROR	misc235.misc.usd.edu
-NOERROR	usd-dns03.usd.edu
-NOERROR	brin-prot00.usd.edu
-NOERROR	admissions.usd.edu
-NOERROR	usd-vcma.usd.edu
-NXDOMAIN	transfer.usd.edu
-NOERROR	mysp.usd.edu
-NOERROR	ucs-esxi01.usd.edu
-NOERROR	sc238.sc.usd.edu
-NOERROR	sc106.sc.usd.edu
-NOERROR	misc247.misc.usd.edu
-NOERROR	old-webct.usd.edu
-NOERROR	u53994.usd.edu
-NOERROR	old-janus.usd.edu
-NOERROR	usd-key01.usd.edu
-NOERROR	nightingale.usd.edu
-NOERROR	mt201printer.usd.edu
-NOERROR	usd-itssql.usd.edu
-NOERROR	containers.usd.edu
-NOERROR	physics3.sdgs.usd.edu
-NOERROR	usd-xnat.usd.edu
-NOERROR	usd-vrli.usd.edu
-NOERROR	usd-sql02.usd.edu
-NOERROR	meetings.usd.edu
-NOERROR	sc114.sc.usd.edu
-NXDOMAIN	dev-starrezweb.usd.edu
-NOERROR	sc250.sc.usd.edu
-NOERROR	uc-cucm01.usd.edu
-NOERROR	usd-sql10.usd.edu
-NOERROR	jurassic.sdgs.usd.edu
-NOERROR	download.sdgs.usd.edu
-NOERROR	dev-ldap.usd.edu
-NOERROR	old-blogs.usd.edu
-NOERROR	sc167.sc.usd.edu
-NOERROR	usdfoundserver2.usd.edu
-NOERROR	usd-perfsonar1.usd.edu
-NOERROR	usd-calendar.usd.edu
-NOERROR	whsic-portal.usd.edu
-NOERROR	dev-calendar.usd.edu
-NOERROR	dx.doi.org.ezproxy.usd.edu
-NOERROR	usd-sgd02.usd.edu
-NOERROR	dev-zeus.usd.edu
-NOERROR	old-flash.usd.edu
-NOERROR	misc227.misc.usd.edu
-NOERROR	fazhah.usd.edu
-NOERROR	sc242.sc.usd.edu
-NOERROR	tsa01.usd.edu
-NOERROR	wegner.usd.edu
-NOERROR	print05.usd.edu
-NOERROR	usd-venueserv.usd.edu
-NOERROR	goyotes.usd.edu
-NOERROR	usd.edu
-NOERROR	wellness.usd.edu
-NOERROR	eric.usd.edu
-NOERROR	usd-websphere.usd.edu
-NOERROR	illiad.usd.edu
-NOERROR	media02-webex.usd.edu
-NOERROR	misc218.misc.usd.edu
-NOERROR	portal.usd.edu
-NOERROR	sc254.sc.usd.edu
-NOERROR	usd-aimsapp01.usd.edu
-NOERROR	usd-pf01.usd.edu
-NOERROR	hscweb.usd.edu
-NOERROR	dev-heat.usd.edu
-NOERROR	misc166.misc.usd.edu
-NOERROR	usd-esx03.usd.edu
-NOERROR	webstats.usd.edu
-NOERROR	misc163.misc.usd.edu
-NOERROR	test-convergence.usd.edu
-NOERROR	usd-cas3.usd.edu
-NOERROR	usd-pktfence2.usd.edu
-NOERROR	admin01-webex.usd.edu
-NOERROR	feepay3.usd.edu
-NOERROR	perfsonar3.usd.edu
-NOERROR	took.usd.edu
-NOERROR	smm104c.smm.usd.edu
-NOERROR	115.sdgs.usd.edu
-NOERROR	dev-shibboleth.usd.edu
-NOERROR	eventscheduler.usd.edu
-NOERROR	sc99.sc.usd.edu
-NOERROR	usd-i430-drac.usd.edu
-NOERROR	sc237.sc.usd.edu
-NOERROR	sfm-abra.usd.edu
-NOERROR	usd-flash.usd.edu
-NOERROR	test-cm.usd.edu
-NOERROR	smm16b.smm.usd.edu
-NOERROR	q1labs.usd.edu
-NOERROR	sc187.sc.usd.edu
-NOERROR	sc18.sc.usd.edu
-NOERROR	asterisk.usd.edu
-NOERROR	misc8.misc.usd.edu
-NOERROR	gamgee.usd.edu
-NOERROR	odin.usd.edu
-NOERROR	fmdocs.usd.edu
-NOERROR	sfm-dynsl.usd.edu
-NOERROR	atat.usd.edu
-NOERROR	media03.usd.edu
-NOERROR	dns1.usd.edu
-NOERROR	perfsonar4.usd.edu
-NOERROR	expressway-e-02.usd.edu
-NOERROR	new-sddenr.usd.edu
-NOERROR	expressway-e-01.usd.edu
-NOERROR	sc47.sc.usd.edu
-NOERROR	sc249.sc.usd.edu
-NOERROR	misc184.misc.usd.edu
-NOERROR	mika-wireless.usd.edu
-NOERROR	autodiscover.usd.edu
-NOERROR	misc185.misc.usd.edu
-NOERROR	usd-gatelink.usd.edu
-NOERROR	usd-dsr.usd.edu
-NOERROR	sdgs.usd.edu
-NOERROR	misc152.misc.usd.edu
-NOERROR	cmevideo.usd.edu
-NOERROR	dev-pktfence1.usd.edu
-NOERROR	misc237.misc.usd.edu
-NOERROR	dev2-portal.usd.edu
-NOERROR	usd-ntm.usd.edu
-NOERROR	usd-restore.usd.edu
-NOERROR	sddenr.usd.edu
-NOERROR	usd-checkout01.usd.edu
-NOERROR	ezproxy.usd.edu
-NOERROR	iheat.usd.edu
-NOERROR	misc207.misc.usd.edu
-NOERROR	misc19.misc.usd.edu
-NOERROR	tablemaker.usd.edu
-NOERROR	td.usd.edu
-NOERROR	dev-ldap7-1.usd.edu
-NOERROR	sc116.sc.usd.edu
-NOERROR	usd-wincollect01.usd.edu
-NOERROR	usd-livesso.usd.edu
-NOERROR	old-rhine.usd.edu
-NOERROR	sites.usd.edu
-NOERROR	video03.usd.edu
-NOERROR	nac.usd.edu
-NOERROR	olivine.sdgs.usd.edu
-NOERROR	sl17ibm.csrv.usd.edu
-NOERROR	webservice02.usd.edu
-NOERROR	aceware.usd.edu
-NOERROR	uc-cup01.usd.edu
-NOERROR	misc164.misc.usd.edu
-NOERROR	brin-prot01.usd.edu
-NOERROR	qwerty.usd.edu
-NOERROR	misc199.misc.usd.edu
-NOERROR	c3000.usd.edu
-NOERROR	ftp2.usd.edu
-NOERROR	sc239.sc.usd.edu
-NOERROR	solo2.sdgs.usd.edu
-NOERROR	test-atune.usd.edu
-NOERROR	heat8.usd.edu
-NOERROR	sfmed-cas.usd.edu
-NOERROR	medgoogle.usd.edu
-NOERROR	elsinore.csrv.usd.edu
-NOERROR	usd-aims01.usd.edu
-NOERROR	misc255.misc.usd.edu
-NOERROR	aura.usd.edu
-NOERROR	new-portal.usd.edu
-NOERROR	usd-dcnm01.usd.edu
-NOERROR	sc144.sc.usd.edu
-NOERROR	biostream.usd.edu
-NOERROR	usd-cas4.usd.edu
-NOERROR	test-adfs01.usd.edu
-NOERROR	dither-free.usd.edu
-NOERROR	stingar-chn.usd.edu
-NOERROR	solarwinds.usd.edu
-NOERROR	new-brin.usd.edu
-NOERROR	ra.usd.edu
-NOERROR	csci-3-226.usd.edu
-NXDOMAIN	hcp-node-102.hcp01.usd.edu
-NOERROR	agn.aud.usd.edu
-NOERROR	smtp.usd.edu
-NOERROR	apcmanager.usd.edu
-NOERROR	sfmed.usd.edu
-NOERROR	usd-sql05.usd.edu
-NOERROR	misc214.misc.usd.edu
-NOERROR	gpn-fiona.usd.edu
-NXDOMAIN	stingray5.usd.edu
-NOERROR	usd-cdsql.usd.edu
-NOERROR	remote.usd.edu
-NOERROR	sc195.sc.usd.edu
-NOERROR	syslog.usd.edu
-NOERROR	usd-apps2.usd.edu
-NOERROR	badlands.usd.edu
-NOERROR	biofirm.usd.edu
-NOERROR	misc229.misc.usd.edu
-NOERROR	thing2.usd.edu
-NOERROR	usd-ns.usd.edu
-NOERROR	cm.usd.edu
-NOERROR	sc25.sc.usd.edu
-NOERROR	misc16.misc.usd.edu
-NOERROR	starrez.usd.edu
-NOERROR	archivesadmin.usd.edu
-NOERROR	usd-pharos01.usd.edu
-NOERROR	sc164.sc.usd.edu
-NOERROR	video02.usd.edu
-NOERROR	google.usd.edu
-NOERROR	jira.usd.edu
-NOERROR	usd-shibbold.usd.edu
-NOERROR	usd-smtp.usd.edu
-NOERROR	sc96.sc.usd.edu
-NOERROR	sc17.sc.usd.edu
-NOERROR	ucs-mgmt02.usd.edu
-NOERROR	cisco5300.usd.edu
-NOERROR	listserv.usd.edu
-NOERROR	usd-labstats.usd.edu
-NOERROR	neutrino.usd.edu
-NOERROR	old-pktfence2.usd.edu
-NOERROR	sdgs01.usd.edu
-NOERROR	spssmanager.usd.edu
-NOERROR	csci.usd.edu
-NOERROR	misc236.misc.usd.edu
-NOERROR	usd-print02.usd.edu
-NOERROR	sc193.sc.usd.edu
-NOERROR	misc186.misc.usd.edu
-NXDOMAIN	hcp-node-103.hcp01.usd.edu
-NOERROR	www.usd.edu
-NOERROR	spacewalk.usd.edu
-NOERROR	misc192.misc.usd.edu
-NXDOMAIN	usd-dynamix.usd.edu
-NOERROR	www.sdgs.usd.edu
-NOERROR	quartz.sdgs.usd.edu
-NOERROR	usd-dragonfly.usd.edu
-NOERROR	sav2.usd.edu
-NOERROR	misc211.misc.usd.edu
-NOERROR	sso1.usd.edu
-NOERROR	jhl2.usd.edu
-NOERROR	voip.usd.edu
-NOERROR	misc13.misc.usd.edu
-NOERROR	parking.usd.edu
-NOERROR	orgs.usd.edu
-NOERROR	usd-maplenet.usd.edu
-NOERROR	sc135.sc.usd.edu
-NOERROR	sdgs02.usd.edu
-NOERROR	uc-unity02.usd.edu
-NOERROR	dev-web.usd.edu
-NOERROR	usd-wts.usd.edu
-NOERROR	pkiosk.usd.edu
-NOERROR	signet.usd.edu
-NOERROR	usd-bomgar.usd.edu
-NOERROR	usd-dc01.usd.edu
-NOERROR	perfsonar1.usd.edu
-NOERROR	sc173.sc.usd.edu
-NOERROR	ucs-mgmt01.usd.edu
-NOERROR	usd-cm.usd.edu
-NOERROR	misc194.misc.usd.edu
-NOERROR	dev-rooms.usd.edu
-NOERROR	usd-sccm.usd.edu
-NOERROR	test-dsu.usd.edu
-NOERROR	admin02-webex.usd.edu
-NOERROR	usd-adfs01.usd.edu
-NOERROR	portal-content.usd.edu
-NOERROR	carolnew.usd.edu
-NOERROR	sc94.sc.usd.edu
-NOERROR	usd-asp.usd.edu
-NOERROR	usd-snort.usd.edu
-NOERROR	biota.usd.edu
-NOERROR	misc151.misc.usd.edu
-NOERROR	backpackdev.usd.edu
-NOERROR	reports.usd.edu
-NOERROR	csci-00.usd.edu
-NOERROR	misc167.misc.usd.edu
-NOERROR	coyotey.usd.edu
-NOERROR	silverapple.usd.edu
-NOERROR	solo3.sdgs.usd.edu
-NOERROR	usd-prmm.usd.edu
-NOERROR	brin-web01.usd.edu
-NOERROR	bast.usd.edu
-NOERROR	usd-pktf01.usd.edu
-NOERROR	perfsonar1.hsc.usd.edu
-NOERROR	prime.usd.edu
-NOERROR	solo1.sdgs.usd.edu
-NOERROR	usd-advisortrac.usd.edu
-NOERROR	mta.goyotes.usd.edu
-NOERROR	usd-webex-r.usd.edu
-NOERROR	usd-web.usd.edu
-NOERROR	sc205.sc.usd.edu
-NOERROR	sso.usd.edu
-NOERROR	uc-unity01.usd.edu
-NOERROR	autodiscover.coyotes.usd.edu
-NOERROR	usd-viewme.usd.edu
-NOERROR	usd-i430.usd.edu
-NOERROR	uc-cup02.usd.edu
-NOERROR	sc202.sc.usd.edu
-NOERROR	usd-sql06.usd.edu
-NOERROR	usd-ldap7-1.usd.edu
-NOERROR	misc254.misc.usd.edu
-NOERROR	usd-blogs.usd.edu
-NOERROR	usd-vmware04.usd.edu
-NOERROR	usd-scct1.usd.edu
-NOERROR	usd-dsr01.usd.edu
-NXDOMAIN	testexchange.usd.edu
-NOERROR	sc153.sc.usd.edu
-NOERROR	misc212.misc.usd.edu
-NOERROR	sc227.sc.usd.edu
-NOERROR	portal01.usd.edu
-NXDOMAIN	usd-starrezweb.usd.edu
-NOERROR	usd-soe.usd.edu
-NOERROR	old-hpc.usd.edu
-NOERROR	coteau.sdgs.usd.edu
-NOERROR	blammo.usd.edu
-NOERROR	old-mri.usd.edu
-NOERROR	sharepoint.usd.edu
-NOERROR	usd-eva.usd.edu
-NOERROR	usd-ddn03.usd.edu
-NOERROR	usd-ldap6-2.usd.edu
-NOERROR	misc246.misc.usd.edu
-NOERROR	dev-cas1.usd.edu
-NOERROR	sol.usd.edu
-NOERROR	sc240.sc.usd.edu
-NOERROR	usd-storage.usd.edu
-NOERROR	usd-uccx01.usd.edu
-NOERROR	dev-portal.usd.edu
-NOERROR	mcu.usd.edu
-NOERROR	usd-dc06.usd.edu
-NOERROR	hscdc.usd.edu
-NOERROR	starnix2.usd.edu
-NOERROR	libanswers.usd.edu
-NOERROR	elsinore.usd.edu
-NOERROR	inst8000.admin.usd.edu
-NOERROR	misc63.misc.usd.edu
-NOERROR	usd-heat.usd.edu
-NOERROR	misc206.misc.usd.edu
-NOERROR	irp02-webex.usd.edu
-NOERROR	misc32.misc.usd.edu
-NOERROR	misc243.misc.usd.edu
-NOERROR	as215printer.usd.edu
-NOERROR	usd-ldap7-1-2.usd.edu
-NOERROR	usd-hpservices.usd.edu
-NOERROR	usd-uportal2.usd.edu
-NOERROR	shelob.usd.edu
-NOERROR	starskyhutch.usd.edu
-NOERROR	k2farm.usd.edu
-NOERROR	misc230.misc.usd.edu
-NOERROR	misc20.misc.usd.edu
-NOERROR	ranger1.its.usd.edu
-NOERROR	sc87.sc.usd.edu
-NOERROR	usd-neutronyield2.usd.edu
-NOERROR	arwen.usd.edu
-NOERROR	misc250.misc.usd.edu
-NOERROR	webchat.usd.edu
-NOERROR	usd-ftp.usd.edu
-NOERROR	usd-dd11.usd.edu
-NOERROR	usd-webqa01.usd.edu
-NOERROR	usd-wiki.usd.edu
-NOERROR	sc207.sc.usd.edu
-NOERROR	misc179.misc.usd.edu
-NOERROR	misc239.misc.usd.edu
-NOERROR	usd-monitor.usd.edu
-NOERROR	sus.usd.edu
-NOERROR	misc45.misc.usd.edu
-NOERROR	calendar.usd.edu
-NOERROR	usdvideo.usd.edu
-NOERROR	dev-sql07.usd.edu
-NOERROR	misc174.misc.usd.edu
-NOERROR	sc243.sc.usd.edu
-NOERROR	webservice01.usd.edu
-NOERROR	usd-storage99.usd.edu
-NOERROR	dev-myu.usd.edu
-NOERROR	misc232.misc.usd.edu
-NOERROR	misc153.misc.usd.edu
-NOERROR	support.usd.edu
-NOERROR	cvs.csci.usd.edu
-NOERROR	misc60.misc.usd.edu
-NOERROR	dev-sql06.usd.edu
-NOERROR	dev-cas.usd.edu
-NOERROR	video.usd.edu
-NOERROR	misc238.misc.usd.edu
-NOERROR	ftp.usd.edu
-NOERROR	misc18.misc.usd.edu
-NOERROR	misc193.misc.usd.edu
-NOERROR	tour.usd.edu
-NOERROR	misc169.misc.usd.edu
-NOERROR	sc255.sc.usd.edu
-NOERROR	guest-dc02.usd.edu
-NXDOMAIN	c6509-davidson.usd.edu
-NOERROR	cm01.usd.edu
-NOERROR	gemini.usd.edu
-NOERROR	usd-checkout.usd.edu
-NOERROR	usd-projx.usd.edu
-NOERROR	usd-ucxn01.usd.edu
-NOERROR	usdwebmail.usd.edu
-NOERROR	old-usd-calendar.usd.edu
-NOERROR	www-clinicalkey-com.ezproxy.usd.edu
-NOERROR	test-mailold.usd.edu
-NOERROR	usd-rooms.usd.edu
-NOERROR	smm107b.smm.usd.edu
-NOERROR	brin00.usd.edu
-NOERROR	wiley.usd.edu
-NOERROR	misc216.misc.usd.edu
-NOERROR	owncloudlin.usd.edu
-NOERROR	sc163.sc.usd.edu
-NOERROR	dither.usd.edu
-NOERROR	newman-zone.usd.edu
-NOERROR	med.usd.edu
-NOERROR	janus.usd.edu
-NOERROR	login.lawproxy.usd.edu
-NOERROR	usd-pharos03.usd.edu
-NOERROR	usd-vmware05.usd.edu
-NOERROR	dev-neutronyield2.usd.edu
-NOERROR	usd-comm.usd.edu
-NOERROR	dtn01.usd.edu
-NOERROR	mt101printer.usd.edu
-NOERROR	internal.usd.edu
-NOERROR	sc203.sc.usd.edu
-NOERROR	sc200.sc.usd.edu
-NOERROR	misc217.misc.usd.edu
-NOERROR	usd-pharos02.usd.edu
-NOERROR	sc88.sc.usd.edu
-NOERROR	sc183.sc.usd.edu
-NOERROR	usd-storage03.usd.edu
-NOERROR	diglab3.sdgs.usd.edu
-NOERROR	dev-lawproxy.usd.edu
-NOERROR	misc12.misc.usd.edu
-NOERROR	phantom.csrv.usd.edu
-NOERROR	perfsonar2.usd.edu
-NOERROR	usd-atune-app.usd.edu
-NOERROR	sc154.sc.usd.edu
-NOERROR	temp-server.usd.edu
-NOERROR	search.proquest.com.ezproxy.usd.edu
-NOERROR	acm_dev.usd.edu
-NOERROR	test-mail2.usd.edu
-NOERROR	sandy.usd.edu
-NOERROR	qwilt.usd.edu
-NOERROR	new-checkout.usd.edu
-NOERROR	usd-webcds02.usd.edu
-NOERROR	usd-vmware01.usd.edu
-NOERROR	hpc-stor01.usd.edu
-NOERROR	feepay4.usd.edu
-NOERROR	svn.csci.usd.edu
-NOERROR	dev-apps2.usd.edu
-NOERROR	depot.usd.edu
-NOERROR	usd-webcds01.usd.edu
-NOERROR	apps.webofknowledge.com.ezproxy.usd.edu
-NOERROR	usd-pmsa01.usd.edu
-NOERROR	test-adfs02.usd.edu
-NOERROR	misc226.misc.usd.edu
-NOERROR	simbridge.usd.edu
-NOERROR	nmm.usd.edu
-NOERROR	cloud.goyotes.usd.edu
-NOERROR	usdinvolved.usd.edu
-NOERROR	usd-atune.usd.edu
-NOERROR	as205printer.usd.edu
-NOERROR	usd-physics01.usd.edu
-NOERROR	usd-isi.usd.edu
-NOERROR	usd-containers.usd.edu
-NOERROR	hutton.sdgs.usd.edu
-NOERROR	adfs.usd.edu
-NOERROR	rdgw.usd.edu
-NOERROR	osmonds.usd.edu
-NOERROR	datsun.usd.edu
-NOERROR	misc79.misc.usd.edu
-NOERROR	usd-ezproxy.usd.edu
-NOERROR	usd-lb02.usd.edu
-NOERROR	usd-gsync.usd.edu
-NOERROR	usd-netenforcer.usd.edu
-NOERROR	usd-venue.usd.edu
-NOERROR	guest.usd.edu
-NOERROR	solr.usd.edu
-NOERROR	usd-cup01.usd.edu
-NOERROR	sc201.sc.usd.edu
-NOERROR	usd-acs.usd.edu
-NOERROR	sc247.sc.usd.edu
-NOERROR	law.usd.edu
-NOERROR	old-internal.usd.edu
-NOERROR	myu.usd.edu
-NOERROR	new-node.sddenr.usd.edu
-NOERROR	c1004dhos.usd.edu
-NOERROR	sc236.sc.usd.edu
-NOERROR	misc182.misc.usd.edu
-NOERROR	halite.sdgs.usd.edu
-NOERROR	hpc-stor00.usd.edu
-NOERROR	misc53.misc.usd.edu
-NOERROR	cme-training.usd.edu
-NOERROR	sc212.sc.usd.edu
-NOERROR	sc162.sc.usd.edu
-NOERROR	agn.vid.usd.edu
-NOERROR	stepback.usd.edu
-NOERROR	sc62.sc.usd.edu
-NOERROR	libguides.law.usd.edu
-NOERROR	misc244.misc.usd.edu
-NOERROR	usd-callrex.usd.edu
-NOERROR	hsc-cas.usd.edu
-NOERROR	print02.usd.edu
-NOERROR	misc196.misc.usd.edu
-NOERROR	liger.usd.edu
-NOERROR	old-myu.usd.edu
-NOERROR	perfsonar-management.usd.edu
-NOERROR	usd-mat.usd.edu
-NOERROR	usd-veeam01.usd.edu
-NOERROR	sfm-nutpro.usd.edu
-NOERROR	brin.usd.edu
-NOERROR	dexter.usd.edu
-NOERROR	pastries.usd.edu
-NOERROR	sc127.sc.usd.edu
-NOERROR	solomon.usd.edu
-NOERROR	misc251.misc.usd.edu
-NOERROR	dev-sql05.usd.edu
-NOERROR	moe.usd.edu
-NOERROR	comet.usd.edu
-NOERROR	ncbi.nlm.nih.gov.ezproxy.usd.edu
-NOERROR	mt102printer.usd.edu
-NOERROR	feepay5.usd.edu
-NOERROR	link.usd.edu
-NOERROR	xnat.usd.edu
-NOERROR	mail.coyotes.usd.edu
-NOERROR	dev-cas2.usd.edu
-NOERROR	webmathematica.usd.edu
-NOERROR	usd-uportal1.usd.edu
-NOERROR	firedog.usd.edu
-NOERROR	jax.usd.edu
-NOERROR	dev-ezproxy.usd.edu
-NOERROR	test-admissions.usd.edu
-NOERROR	misc253.misc.usd.edu
-NOERROR	agassiz.sdgs.usd.edu
-NOERROR	usd-sync365.usd.edu
-NOERROR	usd-sgd.usd.edu
-NOERROR	dev-tfs.usd.edu
-NOERROR	sc50.sc.usd.edu
-NOERROR	misc176.misc.usd.edu
-NOERROR	mcu323.usd.edu
-NOERROR	lawrence.usd.edu
-NOERROR	physics1.sdgs.usd.edu
-NOERROR	misc233.misc.usd.edu
-NOERROR	old-pktfence1.usd.edu
-NOERROR	usd-ldap6-2-2.usd.edu
-NOERROR	usd-rmft.usd.edu
-NOERROR	bioextract1.usd.edu
-NOERROR	usd-mri.usd.edu
-NOERROR	usd-vmman.usd.edu
-NOERROR	misc189.misc.usd.edu
-NOERROR	beta.sciencegateway.usd.edu
-NOERROR	mri.usd.edu
-NOERROR	usd-webcms01.usd.edu
-NOERROR	dev-webct.usd.edu
-NOERROR	sourcefire.usd.edu
-NOERROR	mfl310c.mfl.usd.edu
-NOERROR	oscar.usd.edu
-NOERROR	ahec.usd.edu
-NOERROR	usd-sepm02.usd.edu
-NOERROR	misc175.misc.usd.edu
-NOERROR	misc57.misc.usd.edu
-NOERROR	www.coyotestore.usd.edu
-NOERROR	oldtest-internal.usd.edu
-NXDOMAIN	hcp-node-101.hcp01.usd.edu
-NOERROR	misc188.misc.usd.edu
-NOERROR	misc213.misc.usd.edu
-NOERROR	misc181.misc.usd.edu
-NOERROR	sc176.sc.usd.edu
-NOERROR	usd-wse.usd.edu
-NOERROR	tdd.usd.edu
-NOERROR	misc210.misc.usd.edu
-NOERROR	dev-dynatrace.usd.edu
-NOERROR	pg-laptop.usd.edu
-NOERROR	acelive.usd.edu
-NOERROR	misc92.misc.usd.edu
-NOERROR	sc55.sc.usd.edu
-NOERROR	webmail.usd.edu
-NOERROR	oaisysv5.usd.edu
-NOERROR	new-ldap.usd.edu
-NOERROR	dev-uportal.usd.edu
-NOERROR	misc198.misc.usd.edu
-NOERROR	test-nsu.usd.edu
-NOERROR	misc6.misc.usd.edu
-NOERROR	c1600.pres.usd.edu
-NOERROR	misc90.misc.usd.edu
-NOERROR	sc175.sc.usd.edu
-NOERROR	people.usd.edu
-NOERROR	videoarchive.usd.edu
-NOERROR	bravado.usd.edu
-NOERROR	sciencedirect.com.ezproxy.usd.edu
-NOERROR	usd-apps.usd.edu
-NOERROR	sc140.sc.usd.edu
-NOERROR	thing1.usd.edu
-NOERROR	sc16.sc.usd.edu
-NXDOMAIN	exchange.usd.edu
-NOERROR	usd-cam.usd.edu
-NOERROR	misc231.misc.usd.edu
-NXDOMAIN	barracuda.usd.edu
-NOERROR	lb-cas.usd.edu
-NOERROR	usd-anb.usd.edu
-NOERROR	old-hpc-stor01.usd.edu
-NOERROR	rcg.usd.edu
-NOERROR	usd-od01.usd.edu
-NOERROR	test-uc.usd.edu
-NOERROR	dev-sso1.usd.edu
-NOERROR	alt-web.usd.edu
-NXDOMAIN	c6807-edge.usd.edu
-NOERROR	u54861.usd.edu
-NOERROR	sc231.sc.usd.edu
-NOERROR	oldtest-portal.usd.edu
-NOERROR	scratch.usd.edu
-NOERROR	tarts.usd.edu
-NOERROR	usd-nessus.usd.edu
-NOERROR	quasar.usd.edu
-NOERROR	c7200.usd.edu
-NOERROR	ethal.graphics.usd.edu
-NOERROR	catalog.usd.edu
-NOERROR	as202colorlaser.usd.edu
-NOERROR	aimsweb.usd.edu
-NOERROR	judicial.usd.edu
-NOERROR	usd-swsql.usd.edu
-NOERROR	sc234.sc.usd.edu
-NOERROR	fusionreactor.usd.edu
-NOERROR	usdfoundserv.usd.edu
-NOERROR	legacy.usd.edu
-NOERROR	ucs-vmware01.usd.edu
-NOERROR	misc187.misc.usd.edu
-NOERROR	misc222.misc.usd.edu
-NOERROR	sc86.sc.usd.edu
-NOERROR	usd-sepm03.usd.edu
-NOERROR	login.ezproxy.usd.edu
-NOERROR	activityinsight.usd.edu
-NOERROR	ryan.usd.edu
-NOERROR	vdi.usd.edu
-NOERROR	usd-key.usd.edu
-NOERROR	shaggy.usd.edu
-NOERROR	dev-ldap6-2.usd.edu
-NOERROR	sc253.sc.usd.edu
-NOERROR	usd-vctms.usd.edu
-NOERROR	search.ebscohost.com.ezproxy.usd.edu
-NOERROR	prod-rooms.usd.edu
-NOERROR	medapp.usd.edu
-NOERROR	sc251.sc.usd.edu
-NOERROR	sc97.sc.usd.edu
-NOERROR	ken.usd.edu
-NOERROR	perfsonar5.usd.edu
-NOERROR	sc189.sc.usd.edu
-NOERROR	jurassic3.sdgs.usd.edu
-NOERROR	dev-neutronyield.usd.edu
-NOERROR	admin.webex.usd.edu
-NOERROR	test-exchange.usd.edu
-NOERROR	sc230.sc.usd.edu
-NOERROR	usd-sdds.usd.edu
-NOERROR	jurassic2.sdgs.usd.edu
-NOERROR	lawproxy.usd.edu
-NOERROR	misc178.misc.usd.edu
-NOERROR	test-remote.usd.edu
-NOERROR	hpc.usd.edu
-NOERROR	sc169.sc.usd.edu
-NOERROR	dnashare.usd.edu
-NOERROR	agn.ctrl.usd.edu
-NOERROR	sc98.sc.usd.edu
-NOERROR	test-adfsp01.usd.edu
-NOERROR	dev-apps.usd.edu
-NOERROR	usd-cucm02.usd.edu
-NOERROR	usd-dc02.usd.edu
-NOERROR	podcasting.usd.edu
-NOERROR	m.catalog.usd.edu
-NOERROR	ni1620.usd.edu
-NOERROR	usd-simbridge02.usd.edu
-NOERROR	misc10.misc.usd.edu
-NOERROR	vermillionbackpack.usd.edu
-NOERROR	usd-sso3.usd.edu
-NOERROR	dev-sso.usd.edu
-NOERROR	irp01-webex.usd.edu
-NOERROR	dev-applepp.usd.edu
-NOERROR	sonycam.usd.edu
-NOERROR	my.usd.edu
-NOERROR	print01.usd.edu
-NXDOMAIN	stingray4.usd.edu
-NOERROR	cs3170.usd.edu
-NOERROR	dev-dxr.usd.edu
-NOERROR	jacksons.usd.edu
-NOERROR	mail-router.usd.edu
-NOERROR	usd-dtn.usd.edu
-NOERROR	sc95.sc.usd.edu
-NOERROR	usd-print01.usd.edu
-NOERROR	misc173.misc.usd.edu
-NOERROR	usd-research.usd.edu
-NOERROR	orion.usd.edu
-NOERROR	voicemail.usd.edu
-NOERROR	usd-uportal3.usd.edu
-NOERROR	meddb.hsc.usd.edu
-NOERROR	usd-acctpro.usd.edu
-NOERROR	sidvideo.usd.edu
-NOERROR	www.wellness.usd.edu
-NOERROR	usd-pktf02.usd.edu
-NOERROR	sc182.sc.usd.edu
-NOERROR	dev-www.usd.edu
-NXDOMAIN	n7706-core.usd.edu
-NOERROR	nova.usd.edu
-NOERROR	misc89.misc.usd.edu
-NOERROR	online.usd.edu
-NOERROR	sc168.sc.usd.edu
-NOERROR	qtool.usd.edu
-NOERROR	old-rooms.usd.edu
-NOERROR	sdgs02.sdgs.usd.edu
-NOERROR	radius.usd.edu
-NOERROR	sc235.sc.usd.edu
-NOERROR	usdfoundserver.usd.edu
-NOERROR	misc225.misc.usd.edu
-NOERROR	rio.usd.edu
-NOERROR	sc14.sc.usd.edu
-NOERROR	usd-sepm01.usd.edu
-NOERROR	archives.usd.edu
-NOERROR	usd-pktf03.usd.edu
-NOERROR	medvideo.usd.edu
-NOERROR	mongo.usd.edu
-NOERROR	sc241.sc.usd.edu
-NOERROR	misc221.misc.usd.edu
-NOERROR	infosecutil.usd.edu
-NOERROR	sdgs03.sdgs.usd.edu
-NOERROR	sc122.sc.usd.edu
-NOERROR	misc234.misc.usd.edu
-NOERROR	ucs-esxi02.usd.edu
-NOERROR	apps.usd.edu
-NOERROR	heinonline.org.ezproxy.usd.edu
-NOERROR	physlab5.sdgs.usd.edu
-NOERROR	sdgs01.sdgs.usd.edu
-NOERROR	highdive.usd.edu
-NOERROR	usd-dssync01.usd.edu
-NOERROR	misc190.misc.usd.edu
-NOERROR	usdfoundservcc.usd.edu
-NOERROR	feldspar.sdgs.usd.edu
-NOERROR	dev-projx.usd.edu
-NOERROR	nakota.usd.edu
-NOERROR	mika.usd.edu
-NOERROR	sc107.sc.usd.edu
-NOERROR	misc158.misc.usd.edu
-NOERROR	misc242.misc.usd.edu
-NOERROR	dev-blogs.usd.edu
-NOERROR	usd-view.usd.edu
-NOERROR	misc228.misc.usd.edu
-NOERROR	usd-backup11.usd.edu
-NOERROR	misc209.misc.usd.edu
-NOERROR	usd-solarwinds.usd.edu
-NXDOMAIN	usd-exch2010.usd.edu
-NOERROR	sciencegateway.usd.edu
-NOERROR	usd-heat01.usd.edu
-NOERROR	misc249.misc.usd.edu
-NOERROR	dev-nightingale.usd.edu
-NOERROR	usd-devsql.usd.edu
-NOERROR	t80.usd.edu
-NOERROR	mail-router2.usd.edu
-NOERROR	helpdesk.usd.edu
-NOERROR	ruckus.usd.edu
-NOERROR	media02.usd.edu
-NXDOMAIN	hcp-node-104.hcp01.usd.edu
-NOERROR	cisco5300-2.usd.edu
-NOERROR	rooms.usd.edu
-NOERROR	misc248.misc.usd.edu
-NOERROR	dev-heat01.usd.edu
-NOERROR	oldgoogle.usd.edu
-NOERROR	sc115.sc.usd.edu
-NOERROR	usd-shibboleth.usd.edu
-NOERROR	misc44.misc.usd.edu
-NOERROR	test-comm.usd.edu
-NOERROR	misc241.misc.usd.edu
-NOERROR	amd300.csrv.usd.edu
-NOERROR	fazhah-free.usd.edu
-NOERROR	csci-01.usd.edu
-NOERROR	usd-pktfence1.usd.edu
-NOERROR	bioservices.usd.edu
-NOERROR	ldap.usd.edu
-NOERROR	mt202printer.usd.edu
-NOERROR	misc223.misc.usd.edu
-NOERROR	swalerts.usd.edu
-NOERROR	usd-aimsweb01.usd.edu
-NOERROR	usd-cer01.usd.edu
-NOERROR	usd-cucm01.usd.edu
-NOERROR	libguides.usd.edu
-NOERROR	misc208.misc.usd.edu
-NOERROR	test-www.usd.edu
-NOERROR	stonith.usd.edu
-NOERROR	wowza.usd.edu
-NOERROR	prod-checkout.usd.edu
-NOERROR	sc244.sc.usd.edu
-NOERROR	sc155.sc.usd.edu
-NOERROR	usd-services.usd.edu
-NOERROR	view.goyotes.usd.edu
-NOERROR	sc228.sc.usd.edu
-NOERROR	misc40.misc.usd.edu
-NOERROR	usd-sql09.usd.edu
-NOERROR	hybrid.usd.edu
-NOERROR	usd-dc05.usd.edu
-NOERROR	p2000.usd.edu
-NOERROR	temp-cas.usd.edu
-NOERROR	misc240.misc.usd.edu
-NOERROR	sc161.sc.usd.edu
-NOERROR	sc8.sc.usd.edu
-NOERROR	yukon.usd.edu
-NOERROR	usd-ex03.usd.edu
-NOERROR	bioexmac.usd.edu
-NOERROR	zztop.sdgs.usd.edu
-NOERROR	sc20.sc.usd.edu
-NOERROR	usd-utility01.usd.edu
-NOERROR	felix.usd.edu
-NOERROR	click.goyotes.usd.edu
-NOERROR	dev-elisten.usd.edu
-NOERROR	test-adfs.usd.edu
-NOERROR	misc9.misc.usd.edu
-NOERROR	mail.usd.edu
-NOERROR	naboo.its.usd.edu
-NOERROR	misc180.misc.usd.edu
-NOERROR	sc233.sc.usd.edu
-NOERROR	usd-rdms.usd.edu
-NOERROR	arapaho.usd.edu
-NOERROR	siren.usd.edu
-NOERROR	mars.usd.edu
-NOERROR	image.goyotes.usd.edu
-NOERROR	as202colorprinter.usd.edu
-NOERROR	usd-tmsweb.usd.edu
-NOERROR	usd-mus.usd.edu
-NOERROR	usd-dynatrace.usd.edu
-NOERROR	misc245.misc.usd.edu
-NOERROR	sso2.usd.edu
-NOERROR	coyotestore.usd.edu
-NOERROR	charlie.usd.edu
-NOERROR	misc224.misc.usd.edu
-NOERROR	sc204.sc.usd.edu
-NOERROR	sp.usd.edu
-NOERROR	new2-portal.usd.edu
-NOERROR	sc128.sc.usd.edu
-NOERROR	misc220.misc.usd.edu
-NOERROR	usd-ticker.usd.edu
-NOERROR	usd-labtutor.usd.edu
-NOERROR	mcu1.usd.edu
-NOERROR	fitnessgram.usd.edu
-NOERROR	brin-mascot.usd.edu
-NOERROR	sc181.sc.usd.edu
-NOERROR	usd-coldfusion.usd.edu
-NOERROR	misc62.misc.usd.edu
-NOERROR	usd-storage05.usd.edu
-NOERROR	usd-ddn02.usd.edu
-NOERROR	c2500fleet.usd.edu
-NOERROR	usd-dim.usd.edu
-NOERROR	histoweb.usd.edu
-NOERROR	sc184.sc.usd.edu
-NOERROR	red.library.usd.edu
-NOERROR	usd-zxtm.usd.edu
-NOERROR	dev-moodle.usd.edu
-NOERROR	usd-pf02.usd.edu
-NOERROR	media01-webex.usd.edu
-NOERROR	misc191.misc.usd.edu
-NOERROR	landing.usd.edu
-NOERROR	sc067.sc.usd.edu
-NOERROR	print07.usd.edu
-NOERROR	misc197.misc.usd.edu
-NOERROR	usd-tcs.usd.edu
-NOERROR	misc154.misc.usd.edu
-NOERROR	happychef.usd.edu
+sc232.sc.usd.edu
+sc85.sc.usd.edu
+old2-blogs.usd.edu
+temp-portal.usd.edu
+randy.usd.edu
+misc235.misc.usd.edu
+usd-dns03.usd.edu
+brin-prot00.usd.edu
+admissions.usd.edu
+usd-vcma.usd.edu
+mysp.usd.edu
+ucs-esxi01.usd.edu
+sc238.sc.usd.edu
+sc106.sc.usd.edu
+misc247.misc.usd.edu
+old-webct.usd.edu
+u53994.usd.edu
+old-janus.usd.edu
+usd-key01.usd.edu
+nightingale.usd.edu
+mt201printer.usd.edu
+usd-itssql.usd.edu
+containers.usd.edu
+physics3.sdgs.usd.edu
+usd-xnat.usd.edu
+usd-vrli.usd.edu
+usd-sql02.usd.edu
+meetings.usd.edu
+sc114.sc.usd.edu
+sc250.sc.usd.edu
+uc-cucm01.usd.edu
+usd-sql10.usd.edu
+jurassic.sdgs.usd.edu
+download.sdgs.usd.edu
+dev-ldap.usd.edu
+old-blogs.usd.edu
+sc167.sc.usd.edu
+usdfoundserver2.usd.edu
+usd-perfsonar1.usd.edu
+usd-calendar.usd.edu
+whsic-portal.usd.edu
+dev-calendar.usd.edu
+dx.doi.org.ezproxy.usd.edu
+usd-sgd02.usd.edu
+dev-zeus.usd.edu
+old-flash.usd.edu
+misc227.misc.usd.edu
+fazhah.usd.edu
+sc242.sc.usd.edu
+tsa01.usd.edu
+wegner.usd.edu
+print05.usd.edu
+usd-venueserv.usd.edu
+goyotes.usd.edu
+usd.edu
+wellness.usd.edu
+eric.usd.edu
+usd-websphere.usd.edu
+illiad.usd.edu
+media02-webex.usd.edu
+misc218.misc.usd.edu
+portal.usd.edu
+sc254.sc.usd.edu
+usd-aimsapp01.usd.edu
+usd-pf01.usd.edu
+hscweb.usd.edu
+dev-heat.usd.edu
+misc166.misc.usd.edu
+usd-esx03.usd.edu
+webstats.usd.edu
+misc163.misc.usd.edu
+test-convergence.usd.edu
+usd-cas3.usd.edu
+usd-pktfence2.usd.edu
+admin01-webex.usd.edu
+feepay3.usd.edu
+perfsonar3.usd.edu
+took.usd.edu
+smm104c.smm.usd.edu
+115.sdgs.usd.edu
+dev-shibboleth.usd.edu
+eventscheduler.usd.edu
+sc99.sc.usd.edu
+usd-i430-drac.usd.edu
+sc237.sc.usd.edu
+sfm-abra.usd.edu
+usd-flash.usd.edu
+test-cm.usd.edu
+smm16b.smm.usd.edu
+q1labs.usd.edu
+sc187.sc.usd.edu
+sc18.sc.usd.edu
+asterisk.usd.edu
+misc8.misc.usd.edu
+gamgee.usd.edu
+odin.usd.edu
+fmdocs.usd.edu
+sfm-dynsl.usd.edu
+atat.usd.edu
+media03.usd.edu
+dns1.usd.edu
+perfsonar4.usd.edu
+expressway-e-02.usd.edu
+new-sddenr.usd.edu
+expressway-e-01.usd.edu
+sc47.sc.usd.edu
+sc249.sc.usd.edu
+misc184.misc.usd.edu
+mika-wireless.usd.edu
+autodiscover.usd.edu
+misc185.misc.usd.edu
+usd-gatelink.usd.edu
+usd-dsr.usd.edu
+sdgs.usd.edu
+misc152.misc.usd.edu
+cmevideo.usd.edu
+dev-pktfence1.usd.edu
+misc237.misc.usd.edu
+dev2-portal.usd.edu
+usd-ntm.usd.edu
+usd-restore.usd.edu
+sddenr.usd.edu
+usd-checkout01.usd.edu
+ezproxy.usd.edu
+iheat.usd.edu
+misc207.misc.usd.edu
+misc19.misc.usd.edu
+tablemaker.usd.edu
+td.usd.edu
+dev-ldap7-1.usd.edu
+sc116.sc.usd.edu
+usd-wincollect01.usd.edu
+usd-livesso.usd.edu
+old-rhine.usd.edu
+sites.usd.edu
+video03.usd.edu
+nac.usd.edu
+olivine.sdgs.usd.edu
+sl17ibm.csrv.usd.edu
+webservice02.usd.edu
+aceware.usd.edu
+uc-cup01.usd.edu
+misc164.misc.usd.edu
+brin-prot01.usd.edu
+qwerty.usd.edu
+misc199.misc.usd.edu
+c3000.usd.edu
+ftp2.usd.edu
+sc239.sc.usd.edu
+solo2.sdgs.usd.edu
+test-atune.usd.edu
+heat8.usd.edu
+sfmed-cas.usd.edu
+medgoogle.usd.edu
+elsinore.csrv.usd.edu
+usd-aims01.usd.edu
+misc255.misc.usd.edu
+aura.usd.edu
+new-portal.usd.edu
+usd-dcnm01.usd.edu
+sc144.sc.usd.edu
+biostream.usd.edu
+usd-cas4.usd.edu
+test-adfs01.usd.edu
+dither-free.usd.edu
+stingar-chn.usd.edu
+solarwinds.usd.edu
+new-brin.usd.edu
+ra.usd.edu
+csci-3-226.usd.edu
+agn.aud.usd.edu
+smtp.usd.edu
+apcmanager.usd.edu
+sfmed.usd.edu
+usd-sql05.usd.edu
+misc214.misc.usd.edu
+gpn-fiona.usd.edu
+usd-cdsql.usd.edu
+remote.usd.edu
+sc195.sc.usd.edu
+syslog.usd.edu
+usd-apps2.usd.edu
+badlands.usd.edu
+biofirm.usd.edu
+misc229.misc.usd.edu
+thing2.usd.edu
+usd-ns.usd.edu
+cm.usd.edu
+sc25.sc.usd.edu
+misc16.misc.usd.edu
+starrez.usd.edu
+archivesadmin.usd.edu
+usd-pharos01.usd.edu
+sc164.sc.usd.edu
+video02.usd.edu
+google.usd.edu
+jira.usd.edu
+usd-shibbold.usd.edu
+usd-smtp.usd.edu
+sc96.sc.usd.edu
+sc17.sc.usd.edu
+ucs-mgmt02.usd.edu
+cisco5300.usd.edu
+listserv.usd.edu
+usd-labstats.usd.edu
+neutrino.usd.edu
+old-pktfence2.usd.edu
+sdgs01.usd.edu
+spssmanager.usd.edu
+csci.usd.edu
+misc236.misc.usd.edu
+usd-print02.usd.edu
+sc193.sc.usd.edu
+misc186.misc.usd.edu
+www.usd.edu
+spacewalk.usd.edu
+misc192.misc.usd.edu
+www.sdgs.usd.edu
+quartz.sdgs.usd.edu
+usd-dragonfly.usd.edu
+sav2.usd.edu
+misc211.misc.usd.edu
+sso1.usd.edu
+jhl2.usd.edu
+voip.usd.edu
+misc13.misc.usd.edu
+parking.usd.edu
+orgs.usd.edu
+usd-maplenet.usd.edu
+sc135.sc.usd.edu
+sdgs02.usd.edu
+uc-unity02.usd.edu
+dev-web.usd.edu
+usd-wts.usd.edu
+pkiosk.usd.edu
+signet.usd.edu
+usd-bomgar.usd.edu
+usd-dc01.usd.edu
+perfsonar1.usd.edu
+sc173.sc.usd.edu
+ucs-mgmt01.usd.edu
+usd-cm.usd.edu
+misc194.misc.usd.edu
+dev-rooms.usd.edu
+usd-sccm.usd.edu
+test-dsu.usd.edu
+admin02-webex.usd.edu
+usd-adfs01.usd.edu
+portal-content.usd.edu
+carolnew.usd.edu
+sc94.sc.usd.edu
+usd-asp.usd.edu
+usd-snort.usd.edu
+biota.usd.edu
+misc151.misc.usd.edu
+backpackdev.usd.edu
+reports.usd.edu
+csci-00.usd.edu
+misc167.misc.usd.edu
+coyotey.usd.edu
+silverapple.usd.edu
+solo3.sdgs.usd.edu
+usd-prmm.usd.edu
+brin-web01.usd.edu
+bast.usd.edu
+usd-pktf01.usd.edu
+perfsonar1.hsc.usd.edu
+prime.usd.edu
+solo1.sdgs.usd.edu
+usd-advisortrac.usd.edu
+mta.goyotes.usd.edu
+usd-webex-r.usd.edu
+usd-web.usd.edu
+sc205.sc.usd.edu
+sso.usd.edu
+uc-unity01.usd.edu
+autodiscover.coyotes.usd.edu
+usd-viewme.usd.edu
+usd-i430.usd.edu
+uc-cup02.usd.edu
+sc202.sc.usd.edu
+usd-sql06.usd.edu
+usd-ldap7-1.usd.edu
+misc254.misc.usd.edu
+usd-blogs.usd.edu
+usd-vmware04.usd.edu
+usd-scct1.usd.edu
+usd-dsr01.usd.edu
+sc153.sc.usd.edu
+misc212.misc.usd.edu
+sc227.sc.usd.edu
+portal01.usd.edu
+usd-soe.usd.edu
+old-hpc.usd.edu
+coteau.sdgs.usd.edu
+blammo.usd.edu
+old-mri.usd.edu
+sharepoint.usd.edu
+usd-eva.usd.edu
+usd-ddn03.usd.edu
+usd-ldap6-2.usd.edu
+misc246.misc.usd.edu
+dev-cas1.usd.edu
+sol.usd.edu
+sc240.sc.usd.edu
+usd-storage.usd.edu
+usd-uccx01.usd.edu
+dev-portal.usd.edu
+mcu.usd.edu
+usd-dc06.usd.edu
+hscdc.usd.edu
+starnix2.usd.edu
+libanswers.usd.edu
+elsinore.usd.edu
+inst8000.admin.usd.edu
+misc63.misc.usd.edu
+usd-heat.usd.edu
+misc206.misc.usd.edu
+irp02-webex.usd.edu
+misc32.misc.usd.edu
+misc243.misc.usd.edu
+as215printer.usd.edu
+usd-ldap7-1-2.usd.edu
+usd-hpservices.usd.edu
+usd-uportal2.usd.edu
+shelob.usd.edu
+starskyhutch.usd.edu
+k2farm.usd.edu
+misc230.misc.usd.edu
+misc20.misc.usd.edu
+ranger1.its.usd.edu
+sc87.sc.usd.edu
+usd-neutronyield2.usd.edu
+arwen.usd.edu
+misc250.misc.usd.edu
+webchat.usd.edu
+usd-ftp.usd.edu
+usd-dd11.usd.edu
+usd-webqa01.usd.edu
+usd-wiki.usd.edu
+sc207.sc.usd.edu
+misc179.misc.usd.edu
+misc239.misc.usd.edu
+usd-monitor.usd.edu
+sus.usd.edu
+misc45.misc.usd.edu
+calendar.usd.edu
+usdvideo.usd.edu
+dev-sql07.usd.edu
+misc174.misc.usd.edu
+sc243.sc.usd.edu
+webservice01.usd.edu
+usd-storage99.usd.edu
+dev-myu.usd.edu
+misc232.misc.usd.edu
+misc153.misc.usd.edu
+support.usd.edu
+cvs.csci.usd.edu
+misc60.misc.usd.edu
+dev-sql06.usd.edu
+dev-cas.usd.edu
+video.usd.edu
+misc238.misc.usd.edu
+ftp.usd.edu
+misc18.misc.usd.edu
+misc193.misc.usd.edu
+tour.usd.edu
+misc169.misc.usd.edu
+sc255.sc.usd.edu
+guest-dc02.usd.edu
+cm01.usd.edu
+gemini.usd.edu
+usd-checkout.usd.edu
+usd-projx.usd.edu
+usd-ucxn01.usd.edu
+usdwebmail.usd.edu
+old-usd-calendar.usd.edu
+www-clinicalkey-com.ezproxy.usd.edu
+test-mailold.usd.edu
+usd-rooms.usd.edu
+smm107b.smm.usd.edu
+brin00.usd.edu
+wiley.usd.edu
+misc216.misc.usd.edu
+owncloudlin.usd.edu
+sc163.sc.usd.edu
+dither.usd.edu
+newman-zone.usd.edu
+med.usd.edu
+janus.usd.edu
+login.lawproxy.usd.edu
+usd-pharos03.usd.edu
+usd-vmware05.usd.edu
+dev-neutronyield2.usd.edu
+usd-comm.usd.edu
+dtn01.usd.edu
+mt101printer.usd.edu
+internal.usd.edu
+sc203.sc.usd.edu
+sc200.sc.usd.edu
+misc217.misc.usd.edu
+usd-pharos02.usd.edu
+sc88.sc.usd.edu
+sc183.sc.usd.edu
+usd-storage03.usd.edu
+diglab3.sdgs.usd.edu
+dev-lawproxy.usd.edu
+misc12.misc.usd.edu
+phantom.csrv.usd.edu
+perfsonar2.usd.edu
+usd-atune-app.usd.edu
+sc154.sc.usd.edu
+temp-server.usd.edu
+search.proquest.com.ezproxy.usd.edu
+acm_dev.usd.edu
+test-mail2.usd.edu
+sandy.usd.edu
+qwilt.usd.edu
+new-checkout.usd.edu
+usd-webcds02.usd.edu
+usd-vmware01.usd.edu
+hpc-stor01.usd.edu
+feepay4.usd.edu
+svn.csci.usd.edu
+dev-apps2.usd.edu
+depot.usd.edu
+usd-webcds01.usd.edu
+apps.webofknowledge.com.ezproxy.usd.edu
+usd-pmsa01.usd.edu
+test-adfs02.usd.edu
+misc226.misc.usd.edu
+simbridge.usd.edu
+nmm.usd.edu
+cloud.goyotes.usd.edu
+usdinvolved.usd.edu
+usd-atune.usd.edu
+as205printer.usd.edu
+usd-physics01.usd.edu
+usd-isi.usd.edu
+usd-containers.usd.edu
+hutton.sdgs.usd.edu
+adfs.usd.edu
+rdgw.usd.edu
+osmonds.usd.edu
+datsun.usd.edu
+misc79.misc.usd.edu
+usd-ezproxy.usd.edu
+usd-lb02.usd.edu
+usd-gsync.usd.edu
+usd-netenforcer.usd.edu
+usd-venue.usd.edu
+guest.usd.edu
+solr.usd.edu
+usd-cup01.usd.edu
+sc201.sc.usd.edu
+usd-acs.usd.edu
+sc247.sc.usd.edu
+law.usd.edu
+old-internal.usd.edu
+myu.usd.edu
+new-node.sddenr.usd.edu
+c1004dhos.usd.edu
+sc236.sc.usd.edu
+misc182.misc.usd.edu
+halite.sdgs.usd.edu
+hpc-stor00.usd.edu
+misc53.misc.usd.edu
+cme-training.usd.edu
+sc212.sc.usd.edu
+sc162.sc.usd.edu
+agn.vid.usd.edu
+stepback.usd.edu
+sc62.sc.usd.edu
+libguides.law.usd.edu
+misc244.misc.usd.edu
+usd-callrex.usd.edu
+hsc-cas.usd.edu
+print02.usd.edu
+misc196.misc.usd.edu
+liger.usd.edu
+old-myu.usd.edu
+perfsonar-management.usd.edu
+usd-mat.usd.edu
+usd-veeam01.usd.edu
+sfm-nutpro.usd.edu
+brin.usd.edu
+dexter.usd.edu
+pastries.usd.edu
+sc127.sc.usd.edu
+solomon.usd.edu
+misc251.misc.usd.edu
+dev-sql05.usd.edu
+moe.usd.edu
+comet.usd.edu
+ncbi.nlm.nih.gov.ezproxy.usd.edu
+mt102printer.usd.edu
+feepay5.usd.edu
+link.usd.edu
+xnat.usd.edu
+mail.coyotes.usd.edu
+dev-cas2.usd.edu
+webmathematica.usd.edu
+usd-uportal1.usd.edu
+firedog.usd.edu
+jax.usd.edu
+dev-ezproxy.usd.edu
+test-admissions.usd.edu
+misc253.misc.usd.edu
+agassiz.sdgs.usd.edu
+usd-sync365.usd.edu
+usd-sgd.usd.edu
+dev-tfs.usd.edu
+sc50.sc.usd.edu
+misc176.misc.usd.edu
+mcu323.usd.edu
+lawrence.usd.edu
+physics1.sdgs.usd.edu
+misc233.misc.usd.edu
+old-pktfence1.usd.edu
+usd-ldap6-2-2.usd.edu
+usd-rmft.usd.edu
+bioextract1.usd.edu
+usd-mri.usd.edu
+usd-vmman.usd.edu
+misc189.misc.usd.edu
+beta.sciencegateway.usd.edu
+mri.usd.edu
+usd-webcms01.usd.edu
+dev-webct.usd.edu
+sourcefire.usd.edu
+mfl310c.mfl.usd.edu
+oscar.usd.edu
+ahec.usd.edu
+usd-sepm02.usd.edu
+misc175.misc.usd.edu
+misc57.misc.usd.edu
+www.coyotestore.usd.edu
+oldtest-internal.usd.edu
+misc188.misc.usd.edu
+misc213.misc.usd.edu
+misc181.misc.usd.edu
+sc176.sc.usd.edu
+usd-wse.usd.edu
+tdd.usd.edu
+misc210.misc.usd.edu
+dev-dynatrace.usd.edu
+pg-laptop.usd.edu
+acelive.usd.edu
+misc92.misc.usd.edu
+sc55.sc.usd.edu
+webmail.usd.edu
+oaisysv5.usd.edu
+new-ldap.usd.edu
+dev-uportal.usd.edu
+misc198.misc.usd.edu
+test-nsu.usd.edu
+misc6.misc.usd.edu
+c1600.pres.usd.edu
+misc90.misc.usd.edu
+sc175.sc.usd.edu
+people.usd.edu
+videoarchive.usd.edu
+bravado.usd.edu
+sciencedirect.com.ezproxy.usd.edu
+usd-apps.usd.edu
+sc140.sc.usd.edu
+thing1.usd.edu
+sc16.sc.usd.edu
+usd-cam.usd.edu
+misc231.misc.usd.edu
+lb-cas.usd.edu
+usd-anb.usd.edu
+old-hpc-stor01.usd.edu
+rcg.usd.edu
+usd-od01.usd.edu
+test-uc.usd.edu
+dev-sso1.usd.edu
+alt-web.usd.edu
+u54861.usd.edu
+sc231.sc.usd.edu
+oldtest-portal.usd.edu
+scratch.usd.edu
+tarts.usd.edu
+usd-nessus.usd.edu
+quasar.usd.edu
+c7200.usd.edu
+ethal.graphics.usd.edu
+catalog.usd.edu
+as202colorlaser.usd.edu
+aimsweb.usd.edu
+judicial.usd.edu
+usd-swsql.usd.edu
+sc234.sc.usd.edu
+fusionreactor.usd.edu
+usdfoundserv.usd.edu
+legacy.usd.edu
+ucs-vmware01.usd.edu
+misc187.misc.usd.edu
+misc222.misc.usd.edu
+sc86.sc.usd.edu
+usd-sepm03.usd.edu
+login.ezproxy.usd.edu
+activityinsight.usd.edu
+ryan.usd.edu
+vdi.usd.edu
+usd-key.usd.edu
+shaggy.usd.edu
+dev-ldap6-2.usd.edu
+sc253.sc.usd.edu
+usd-vctms.usd.edu
+search.ebscohost.com.ezproxy.usd.edu
+prod-rooms.usd.edu
+medapp.usd.edu
+sc251.sc.usd.edu
+sc97.sc.usd.edu
+ken.usd.edu
+perfsonar5.usd.edu
+sc189.sc.usd.edu
+jurassic3.sdgs.usd.edu
+dev-neutronyield.usd.edu
+admin.webex.usd.edu
+test-exchange.usd.edu
+sc230.sc.usd.edu
+usd-sdds.usd.edu
+jurassic2.sdgs.usd.edu
+lawproxy.usd.edu
+misc178.misc.usd.edu
+test-remote.usd.edu
+hpc.usd.edu
+sc169.sc.usd.edu
+dnashare.usd.edu
+agn.ctrl.usd.edu
+sc98.sc.usd.edu
+test-adfsp01.usd.edu
+dev-apps.usd.edu
+usd-cucm02.usd.edu
+usd-dc02.usd.edu
+podcasting.usd.edu
+m.catalog.usd.edu
+ni1620.usd.edu
+usd-simbridge02.usd.edu
+misc10.misc.usd.edu
+vermillionbackpack.usd.edu
+usd-sso3.usd.edu
+dev-sso.usd.edu
+irp01-webex.usd.edu
+dev-applepp.usd.edu
+sonycam.usd.edu
+my.usd.edu
+print01.usd.edu
+cs3170.usd.edu
+dev-dxr.usd.edu
+jacksons.usd.edu
+mail-router.usd.edu
+usd-dtn.usd.edu
+sc95.sc.usd.edu
+usd-print01.usd.edu
+misc173.misc.usd.edu
+usd-research.usd.edu
+orion.usd.edu
+voicemail.usd.edu
+usd-uportal3.usd.edu
+meddb.hsc.usd.edu
+usd-acctpro.usd.edu
+sidvideo.usd.edu
+www.wellness.usd.edu
+usd-pktf02.usd.edu
+sc182.sc.usd.edu
+dev-www.usd.edu
+nova.usd.edu
+misc89.misc.usd.edu
+online.usd.edu
+sc168.sc.usd.edu
+qtool.usd.edu
+old-rooms.usd.edu
+sdgs02.sdgs.usd.edu
+radius.usd.edu
+sc235.sc.usd.edu
+usdfoundserver.usd.edu
+misc225.misc.usd.edu
+rio.usd.edu
+sc14.sc.usd.edu
+usd-sepm01.usd.edu
+archives.usd.edu
+usd-pktf03.usd.edu
+medvideo.usd.edu
+mongo.usd.edu
+sc241.sc.usd.edu
+misc221.misc.usd.edu
+infosecutil.usd.edu
+sdgs03.sdgs.usd.edu
+sc122.sc.usd.edu
+misc234.misc.usd.edu
+ucs-esxi02.usd.edu
+apps.usd.edu
+heinonline.org.ezproxy.usd.edu
+physlab5.sdgs.usd.edu
+sdgs01.sdgs.usd.edu
+highdive.usd.edu
+usd-dssync01.usd.edu
+misc190.misc.usd.edu
+usdfoundservcc.usd.edu
+feldspar.sdgs.usd.edu
+dev-projx.usd.edu
+nakota.usd.edu
+mika.usd.edu
+sc107.sc.usd.edu
+misc158.misc.usd.edu
+misc242.misc.usd.edu
+dev-blogs.usd.edu
+usd-view.usd.edu
+misc228.misc.usd.edu
+usd-backup11.usd.edu
+misc209.misc.usd.edu
+usd-solarwinds.usd.edu
+sciencegateway.usd.edu
+usd-heat01.usd.edu
+misc249.misc.usd.edu
+dev-nightingale.usd.edu
+usd-devsql.usd.edu
+t80.usd.edu
+mail-router2.usd.edu
+helpdesk.usd.edu
+ruckus.usd.edu
+media02.usd.edu
+cisco5300-2.usd.edu
+rooms.usd.edu
+misc248.misc.usd.edu
+dev-heat01.usd.edu
+oldgoogle.usd.edu
+sc115.sc.usd.edu
+usd-shibboleth.usd.edu
+misc44.misc.usd.edu
+test-comm.usd.edu
+misc241.misc.usd.edu
+amd300.csrv.usd.edu
+fazhah-free.usd.edu
+csci-01.usd.edu
+usd-pktfence1.usd.edu
+bioservices.usd.edu
+ldap.usd.edu
+mt202printer.usd.edu
+misc223.misc.usd.edu
+swalerts.usd.edu
+usd-aimsweb01.usd.edu
+usd-cer01.usd.edu
+usd-cucm01.usd.edu
+libguides.usd.edu
+misc208.misc.usd.edu
+test-www.usd.edu
+stonith.usd.edu
+wowza.usd.edu
+prod-checkout.usd.edu
+sc244.sc.usd.edu
+sc155.sc.usd.edu
+usd-services.usd.edu
+view.goyotes.usd.edu
+sc228.sc.usd.edu
+misc40.misc.usd.edu
+usd-sql09.usd.edu
+hybrid.usd.edu
+usd-dc05.usd.edu
+p2000.usd.edu
+temp-cas.usd.edu
+misc240.misc.usd.edu
+sc161.sc.usd.edu
+sc8.sc.usd.edu
+yukon.usd.edu
+usd-ex03.usd.edu
+bioexmac.usd.edu
+zztop.sdgs.usd.edu
+sc20.sc.usd.edu
+usd-utility01.usd.edu
+felix.usd.edu
+click.goyotes.usd.edu
+dev-elisten.usd.edu
+test-adfs.usd.edu
+misc9.misc.usd.edu
+mail.usd.edu
+naboo.its.usd.edu
+misc180.misc.usd.edu
+sc233.sc.usd.edu
+usd-rdms.usd.edu
+arapaho.usd.edu
+siren.usd.edu
+mars.usd.edu
+image.goyotes.usd.edu
+as202colorprinter.usd.edu
+usd-tmsweb.usd.edu
+usd-mus.usd.edu
+usd-dynatrace.usd.edu
+misc245.misc.usd.edu
+sso2.usd.edu
+coyotestore.usd.edu
+charlie.usd.edu
+misc224.misc.usd.edu
+sc204.sc.usd.edu
+sp.usd.edu
+new2-portal.usd.edu
+sc128.sc.usd.edu
+misc220.misc.usd.edu
+usd-ticker.usd.edu
+usd-labtutor.usd.edu
+mcu1.usd.edu
+fitnessgram.usd.edu
+brin-mascot.usd.edu
+sc181.sc.usd.edu
+usd-coldfusion.usd.edu
+misc62.misc.usd.edu
+usd-storage05.usd.edu
+usd-ddn02.usd.edu
+c2500fleet.usd.edu
+usd-dim.usd.edu
+histoweb.usd.edu
+sc184.sc.usd.edu
+red.library.usd.edu
+usd-zxtm.usd.edu
+dev-moodle.usd.edu
+usd-pf02.usd.edu
+media01-webex.usd.edu
+misc191.misc.usd.edu
+landing.usd.edu
+sc067.sc.usd.edu
+print07.usd.edu
+misc197.misc.usd.edu
+usd-tcs.usd.edu
+misc154.misc.usd.edu
+happychef.usd.edu

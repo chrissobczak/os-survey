@@ -1,17 +1,6 @@
-NOERROR	spider.gtu.edu.ge
-NOERROR	gtu.edu.ge
-NOERROR	mail.gtu.edu.ge
-NXDOMAIN	email.gtu.edu.ge
-NOERROR	eduroam.gtu.edu.ge
-NXDOMAIN	real.gtu.edu.ge
-NOERROR	www.gtu.edu.ge
-NXDOMAIN	www.universe.gtu.edu.ge
-NXDOMAIN	master.gtu.edu.ge
-NOERROR	ftp.gtu.edu.ge
-NXDOMAIN	universe.gtu.edu.ge
-NXDOMAIN	irtus.gtu.edu.ge
-NXDOMAIN	www.ifg.gtu.edu.ge
-NXDOMAIN	stat.gtu.edu.ge
-NXDOMAIN	wolfy.gtu.edu.ge
-NXDOMAIN	fibtus.gtu.edu.ge
-NXDOMAIN	ps.gtu.edu.ge
+spider.gtu.edu.ge
+gtu.edu.ge
+mail.gtu.edu.ge
+eduroam.gtu.edu.ge
+www.gtu.edu.ge
+ftp.gtu.edu.ge

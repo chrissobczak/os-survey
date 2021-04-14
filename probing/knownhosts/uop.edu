@@ -1,3016 +1,2900 @@
-NOERROR	postdb.esb.uop.edu
-NOERROR	www3.uop.edu
-NOERROR	mail.law.uop.edu
-NXDOMAIN	astro.sci.uop.edu
-NOERROR	gibbs.cop.uop.edu
-NOERROR	eng.uop.edu
-NOERROR	merckx.cop.uop.edu
-NXDOMAIN	sol.sci.uop.edu
-NOERROR	uop.edu
-NOERROR	ez.law.uop.edu
-NXDOMAIN	exchange.serv.uop.edu
-NOERROR	cptest.uop.edu
-NOERROR	mentorweb.uop.edu
-NOERROR	onsager.cop.uop.edu
-NOERROR	ctltserver.lib.uop.edu
-NOERROR	bailey.cs.uop.edu
-NOERROR	asuop.uop.edu
-NOERROR	sf.uop.edu
-NOERROR	insidepacific.uop.edu
-NOERROR	cliodhna.cop.uop.edu
-NXDOMAIN	ets.uop.edu
-NOERROR	sfmail.dental.uop.edu
-NOERROR	attask.serv.uop.edu
-NOERROR	iris.uop.edu
-NOERROR	sfstream.dental.uop.edu
-NOERROR	kpac.uop.edu
-NOERROR	informationcommons.uop.edu
-NOERROR	mis.esb.uop.edu
-NOERROR	exeter1.serv.uop.edu
-NOERROR	ws180.cop.uop.edu
-NOERROR	napa.eng.uop.edu
-NOERROR	caiman.cs.uop.edu
-NOERROR	insidepacific.cc.uop.edu
-NOERROR	atkinsonskulls.dental.uop.edu
-NOERROR	nt01.esb.uop.edu
-NOERROR	phs.phs.uop.edu
-NOERROR	overbyte.dental.uop.edu
-NOERROR	ereserves.lib.uop.edu
-NOERROR	search.uop.edu
-NXDOMAIN	iisstage.uop.edu
-NXDOMAIN	eva.uop.edu
-NOERROR	artemis.cop.uop.edu
-NOERROR	muir.eng.uop.edu
-NXDOMAIN	global08.uop.edu
-NOERROR	casper.cs.uop.edu
-NOERROR	esbforecast.serv.uop.edu
-NOERROR	mx1.sf.uop.edu
-NOERROR	ozzy.uop.edu
-NOERROR	www.uop.edu
-NOERROR	www.dental.uop.edu
-NOERROR	libserver.lib.uop.edu
-NOERROR	www2.uop.edu
-NXDOMAIN	global20.uop.edu
-NOERROR	acme.cs.uop.edu
-NXDOMAIN	daemon.uop.edu
-NOERROR	gw.law.uop.edu
-NOERROR	oisrdell.esb.uop.edu
-NOERROR	psych2.uop.edu
-NOERROR	beehive.eng.uop.edu
-NOERROR	kelvin.cop.uop.edu
-NOERROR	crispy.uop.edu
-NOERROR	www.phs.uop.edu
-NOERROR	pinnacle1.uop.edu
-NOERROR	acm.cs.uop.edu
-NOERROR	dental.uop.edu
-NOERROR	chemistry.cop.uop.edu
-NOERROR	chem.cop.uop.edu
-NOERROR	alumni.uop.edu
-NOERROR	iisprod.uop.edu
-NXDOMAIN	renoir.uop.edu
-NOERROR	billf.cs.uop.edu
-NOERROR	wizard.phs.uop.edu
-NXDOMAIN	global15.uop.edu
-NOERROR	honors.uop.edu
-NOERROR	boltzmann.cop.uop.edu
-NOERROR	chemistry.uop.edu
-NOERROR	mx2.sf.uop.edu
-NOERROR	sfmedia.dental.uop.edu
-NOERROR	postweb.esb.uop.edu
-NOERROR	buri.cs.uop.edu
-NOERROR	www1.uop.edu
-NOERROR	psych.uop.edu
-NOERROR	mail.dental.uop.edu
-NOERROR	sfstudent.dental.uop.edu
-NOERROR	nwadmin.uop.edu
-NOERROR	library.uop.edu
-NOERROR	nt02.esb.uop.edu
-NOERROR	gwtest.uop.edu
-NOERROR	libris.serv.uop.edu
-NOERROR	vpn.uop.edu
-NOERROR	uop-12-22.pacific.edu
-NOERROR	uop-15-102.pacific.edu
-NOERROR	uop-14-68.pacific.edu
-NOERROR	0-youthedition.countrywatch.com.pacificatclassic.pacific.edu
-NOERROR	0-statabs.proquest.com.pacificatclassic.pacific.edu
-NOERROR	uop-9-143.pacific.edu
-NOERROR	uop-10-140.pacific.edu
-NOERROR	www.dental.pacific.edu
-NOERROR	0-www.spiedigitallibrary.org.pacificatclassic.pacific.edu
-NOERROR	0-corpcompliance.bna.com.gocat.law.pacific.edu
-NOERROR	acd.pacific.edu
-NOERROR	uop-12-221.pacific.edu
-NOERROR	uop-13-215.pacific.edu
-NOERROR	uop-11-185.pacific.edu
-NOERROR	dc1.pacific.edu
-NOERROR	uop-15-222.pacific.edu
-NOERROR	uop-9-68.pacific.edu
-NOERROR	mysitedev.pacific.edu
-NOERROR	uop-11-64.pacific.edu
-NOERROR	digitalcollections.pacific.edu
-NOERROR	kpac.pacific.edu
-NOERROR	www.aces2.pacific.edu
-NOERROR	uop-15-225.pacific.edu
-NOERROR	0-cch.com.pacificatclassic.pacific.edu
-NOERROR	uop-11-244.pacific.edu
-NOERROR	0-library.cqpress.com.pacificatclassic.pacific.edu
-NOERROR	pacadam.stk.pacific.edu
-NOERROR	uop-12-184.pacific.edu
-NOERROR	uop-12-166.pacific.edu
-NOERROR	0-olprd.ceb.com.pacificatclassic.pacific.edu
-NOERROR	uop-11-85.pacific.edu
-NOERROR	uop-13-3.pacific.edu
-NOERROR	uop-11-215.pacific.edu
-NOERROR	uop-8-37.pacific.edu
-NOERROR	uop-12-23.pacific.edu
-NOERROR	uop-11-124.pacific.edu
-NOERROR	0-myorthoevidence.com.pacificatclassic.pacific.edu
-NOERROR	uop-14-2.pacific.edu
-NOERROR	sfdental.pacific.edu
-NOERROR	uop-9-133.pacific.edu
-NOERROR	testcasarray.testdom03.pacific.edu
-NOERROR	mysite.pacific.edu
-NOERROR	uop-10-48.pacific.edu
-NOERROR	0-medialaw.bna.com.pacificatclassic.pacific.edu
-NXDOMAIN	transactap.stk.pacific.edu
-NOERROR	0-muse.jhu.edu.gocat.law.pacific.edu
-NOERROR	0-www.artstor.org.pacificatclassic.pacific.edu
-NOERROR	uop-9-31.pacific.edu
-NOERROR	uop-13-187.pacific.edu
-NOERROR	uop-8-47.pacific.edu
-NOERROR	uop-11-50.pacific.edu
-NOERROR	esb.pacific.edu
-NOERROR	uop-14-186.pacific.edu
-NOERROR	uop-10-62.pacific.edu
-NOERROR	vpn.pacific.edu
-NOERROR	uop-15-45.pacific.edu
-NOERROR	nri.pacific.edu
-NOERROR	stkdev.pacific.edu
-NOERROR	uop-13-88.pacific.edu
-NOERROR	uop-12-120.pacific.edu
-NOERROR	0-quod.lib.umich.edu.pacificatclassic.pacific.edu
-NOERROR	uop-9-10.pacific.edu
-NOERROR	uop-14-187.pacific.edu
-NOERROR	uop-9-172.pacific.edu
-NOERROR	sf-pacrdg1.sf.pacific.edu
-NOERROR	canvasbeta.pacific.edu
-NOERROR	www.meeting.pacific.edu
-NOERROR	uop-12-47.pacific.edu
-NOERROR	0-www.dramonline.org.pacificatclassic.pacific.edu
-NOERROR	uop-11-44.pacific.edu
-NOERROR	uop-8-177.pacific.edu
-NOERROR	0-en.westlawchina.com.pacificatclassic.pacific.edu
-NXDOMAIN	tickets.stk.pacific.edu
-NOERROR	uop-8-84.pacific.edu
-NOERROR	0-www.heinonline.org.pacificatclassic.pacific.edu
-NOERROR	uop-10-170.pacific.edu
-NOERROR	uop-14-60.pacific.edu
-NOERROR	healthsciences.ss.pacific.edu
-NOERROR	0-www.oxfordreference.com.pacificatclassic.pacific.edu
-NOERROR	uop-11-118.pacific.edu
-NOERROR	uop-13-55.pacific.edu
-NOERROR	uop-13-237.pacific.edu
-NOERROR	uop-10-161.pacific.edu
-NOERROR	uop-13-20.pacific.edu
-NOERROR	uop-13-50.pacific.edu
-NOERROR	uop-15-180.pacific.edu
-NOERROR	uop-10-142.pacific.edu
-NXDOMAIN	pop.test.pacific.edu
-NOERROR	uop-15-117.pacific.edu
-NOERROR	uop-10-222.pacific.edu
-NOERROR	uop-15-219.pacific.edu
-NOERROR	0-esweb.bna.com.gocat.law.pacific.edu
-NOERROR	com.pacificatclassic.pacific.edu
-NOERROR	bannerdev.pacific.edu
-NOERROR	uop-14-10.pacific.edu
-NOERROR	sso.serv.pacific.edu
-NOERROR	uop-14-231.pacific.edu
-NOERROR	pacdevicereg.pacific.edu
-NOERROR	uop-10-88.pacific.edu
-NOERROR	uop-9-123.pacific.edu
-NOERROR	uop-9-246.pacific.edu
-NOERROR	uop-10-183.pacific.edu
-NOERROR	uop-15-238.pacific.edu
-NOERROR	uop-12-191.pacific.edu
-NOERROR	uop-14-66.pacific.edu
-NOERROR	uop-10-132.pacific.edu
-NXDOMAIN	vdi-con3.stk.pacific.edu
-NOERROR	uop-15-71.pacific.edu
-NOERROR	uop-11-245.pacific.edu
-NOERROR	uop-8-20.pacific.edu
-NOERROR	legacy.pacific.edu
-NOERROR	uop-13-118.pacific.edu
-NOERROR	law.pacific.edu
-NOERROR	uop-8-57.pacific.edu
-NOERROR	uop-11-120.pacific.edu
-NOERROR	0-kluweronline.com.pacificatclassic.pacific.edu
-NOERROR	uop-15-151.pacific.edu
-NOERROR	0-library.justis.com.pacificatclassic.pacific.edu
-NOERROR	uop-12-84.pacific.edu
-NOERROR	uop-13-171.pacific.edu
-NOERROR	webwork.aws.pacific.edu
-NOERROR	uop-10-29.pacific.edu
-NOERROR	0-www.ulrichsweb.com.pacificatclassic.pacific.edu
-NOERROR	uop-15-224.pacific.edu
-NOERROR	mercury.pacific.edu
-NOERROR	nomail.pacific.edu
-NOERROR	net.pacificatclassic.pacific.edu
-NOERROR	uop-10-113.pacific.edu
-NXDOMAIN	spappdev13.stk.pacific.edu
-NOERROR	0-scifinder.cas.org.pacificatclassic.pacific.edu
-NOERROR	myaxium-vpn.pacific.edu
-NXDOMAIN	webappprod1.stk.pacific.edu
-NOERROR	uop-13-23.pacific.edu
-NOERROR	uop-12-165.pacific.edu
-NOERROR	uop-9-81.pacific.edu
-NOERROR	uop-9-65.pacific.edu
-NOERROR	0-corpgov.bna.com.gocat.law.pacific.edu
-NOERROR	uop-11-130.pacific.edu
-NOERROR	uop-8-147.pacific.edu
-NOERROR	test.pacific.edu
-NOERROR	uop-11-10.pacific.edu
-NOERROR	uop-14-217.pacific.edu
-NOERROR	uop-9-25.pacific.edu
-NOERROR	0-stats.newsbank.com.pacificatclassic.pacific.edu
-NOERROR	0-eds.a.ebscohost.com.pacificatclassic.pacific.edu
-NOERROR	uop-12-192.pacific.edu
-NOERROR	uop-8-107.pacific.edu
-NOERROR	healthscreen.pacific.edu
-NOERROR	pacselfserv.stk.pacific.edu
-NOERROR	uop-11-140.pacific.edu
-NOERROR	uop-15-77.pacific.edu
-NOERROR	uop-14-34.pacific.edu
-NXDOMAIN	stkuccx1.stk.pacific.edu
-NOERROR	grad.test.pacific.edu
-NOERROR	uop-9-186.pacific.edu
-NOERROR	0-pacific.illiad.oclc.com.gocat.law.pacific.edu
-NOERROR	uop-10-134.pacific.edu
-NOERROR	uop-14-184.pacific.edu
-NOERROR	uop-11-121.pacific.edu
-NOERROR	uop-13-21.pacific.edu
-NOERROR	uop-13-67.pacific.edu
-NOERROR	grad.cmstraining.pacific.edu
-NOERROR	uop-14-27.pacific.edu
-NOERROR	uop-10-130.pacific.edu
-NOERROR	baunfitness.pacific.edu
-NOERROR	0-linking.ebscohost.com.pacificatclassic.pacific.edu
-NOERROR	0-jamanetwork.com.pacificatclassic.pacific.edu
-NOERROR	locksmith.pacific.edu
-NOERROR	uop-9-34.pacific.edu
-NOERROR	uop-12-186.pacific.edu
-NOERROR	uop-15-246.pacific.edu
-NOERROR	uop-11-99.pacific.edu
-NOERROR	uop-9-150.pacific.edu
-NOERROR	uop-14-182.pacific.edu
-NOERROR	uop-8-50.pacific.edu
-NOERROR	uop-11-7.pacific.edu
-NOERROR	uop-13-136.pacific.edu
-NOERROR	uop-14-9.pacific.edu
-NOERROR	uop-10-163.pacific.edu
-NOERROR	uop-8-235.pacific.edu
-NOERROR	uop-8-182.pacific.edu
-NOERROR	uop-12-209.pacific.edu
-NOERROR	uop-9-167.pacific.edu
-NOERROR	uop-14-207.pacific.edu
-NOERROR	0-www.refworks.com.gocat.law.pacific.edu
-NOERROR	uop-9-113.pacific.edu
-NOERROR	www.pacshare.pacific.edu
-NOERROR	uop-13-128.pacific.edu
-NOERROR	0-research.ceb.com.pacificatclassic.pacific.edu
-NOERROR	uop-14-97.pacific.edu
-NOERROR	uop-13-147.pacific.edu
-NOERROR	uop-12-231.pacific.edu
-NOERROR	uop-10-122.pacific.edu
-NOERROR	uop-12-45.pacific.edu
-NXDOMAIN	cas01.serv.pacific.edu
-NOERROR	uop-9-56.pacific.edu
-NOERROR	uop-8-236.pacific.edu
-NOERROR	0-ja.next.westlaw.com.pacificatclassic.pacific.edu
-NOERROR	uop-12-116.pacific.edu
-NOERROR	uop-8-242.pacific.edu
-NOERROR	education.cmstraining.pacific.edu
-NOERROR	0-chinesereferenceshelf.brillonline.com.pacificatclassic.pacific.edu
-NOERROR	www.rms1.pacific.edu
-NOERROR	uop-13-81.pacific.edu
-NOERROR	0-ca.next.westlaw.com.pacificatclassic.pacific.edu
-NOERROR	uop-10-67.pacific.edu
-NOERROR	uop-15-227.pacific.edu
-NOERROR	www.cas.pacific.edu
-NOERROR	uop-11-3.pacific.edu
-NOERROR	uop-9-104.pacific.edu
-NXDOMAIN	apps.ea.pacific.edu
-NOERROR	uop-14-206.pacific.edu
-NOERROR	pacifician.pacific.edu
-NOERROR	uop-15-187.pacific.edu
-NOERROR	www.gocat.law.pacific.edu
-NOERROR	0-www.humanitiesebook.org.pacificatclassic.pacific.edu
-NOERROR	de.pacificatclassic.pacific.edu
-NOERROR	uop-14-91.pacific.edu
-NOERROR	0-hr.bna.com.gocat.law.pacific.edu
-NOERROR	uop-8-170.pacific.edu
-NOERROR	bssprd.cloud.pacific.edu
-NOERROR	0-www.hti.umich.edu.pacificatclassic.pacific.edu
-NOERROR	0-search.credoreference.com.pacificatclassic.pacific.edu
-NOERROR	uop-10-192.pacific.edu
-NOERROR	sdc.serv.pacific.edu
-NOERROR	stkcmsdev.pacific.edu
-NOERROR	uop-14-225.pacific.edu
-NOERROR	uop-10-177.pacific.edu
-NOERROR	0-corplaw.bna.com.pacificatclassic.pacific.edu
-NOERROR	uop-12-32.pacific.edu
-NOERROR	uop-10-101.pacific.edu
-NOERROR	uop-9-223.pacific.edu
-NOERROR	uop-11-67.pacific.edu
-NOERROR	uop-8-197.pacific.edu
-NOERROR	uop-11-52.pacific.edu
-NOERROR	uop-10-219.pacific.edu
-NOERROR	uop-10-73.pacific.edu
-NOERROR	uop-11-36.pacific.edu
-NOERROR	uop-10-184.pacific.edu
-NOERROR	0-name.umdl.umich.edu.pacificatclassic.pacific.edu
-NOERROR	uop-9-205.pacific.edu
-NOERROR	uop-12-126.pacific.edu
-NOERROR	rdwebaccess.pacific.edu
-NOERROR	uop-10-117.pacific.edu
-NOERROR	uop-15-64.pacific.edu
-NOERROR	uop-11-172.pacific.edu
-NOERROR	uop-13-240.pacific.edu
-NOERROR	uop-15-229.pacific.edu
-NOERROR	webmail.pacific.edu
-NOERROR	sfsharedev19.pacific.edu
-NOERROR	0-www.webofscience.com.pacificatclassic.pacific.edu
-NOERROR	uop-14-1.pacific.edu
-NOERROR	uop-13-98.pacific.edu
-NOERROR	uop-10-103.pacific.edu
-NOERROR	uop-14-241.pacific.edu
-NOERROR	libguides.lib.pacific.edu
-NOERROR	uop-10-165.pacific.edu
-NOERROR	uop-14-127.pacific.edu
-NOERROR	0-link.springer.com.pacificatclassic.pacific.edu
-NOERROR	uop-11-61.pacific.edu
-NOERROR	uop-9-245.pacific.edu
-NOERROR	uop-12-92.pacific.edu
-NOERROR	canvastest.pacific.edu
-NOERROR	0-corplaw.bna.com.gocat.law.pacific.edu
-NOERROR	uop-15-162.pacific.edu
-NOERROR	uop-9-100.pacific.edu
-NOERROR	www.grad.pacific.edu
-NOERROR	uop-10-36.pacific.edu
-NOERROR	uop-10-33.pacific.edu
-NOERROR	911.pacific.edu
-NOERROR	0-search.ebscohost.com.pacificatclassic.pacific.edu
-NOERROR	uop-10-43.pacific.edu
-NOERROR	uop-15-136.pacific.edu
-NOERROR	uop-15-196.pacific.edu
-NOERROR	dental.test.pacific.edu
-NOERROR	uop-9-36.pacific.edu
-NOERROR	uop-10-152.pacific.edu
-NOERROR	www1.pacific.edu
-NOERROR	0-opac.newsbank.com.pacificatclassic.pacific.edu
-NOERROR	uop-10-135.pacific.edu
-NOERROR	0-benefits.bna.com.pacificatclassic.pacific.edu
-NOERROR	uop-15-200.pacific.edu
-NOERROR	uop-10-186.pacific.edu
-NOERROR	uop-8-32.pacific.edu
-NOERROR	uop-9-202.pacific.edu
-NOERROR	uop-9-20.pacific.edu
-NOERROR	0-www.oceanalaw.com.gocat.law.pacific.edu
-NOERROR	uop-10-39.pacific.edu
-NOERROR	uop-13-224.pacific.edu
-NOERROR	uop-10-129.pacific.edu
-NOERROR	0-muse.jhu.edu.pacificatclassic.pacific.edu
-NOERROR	uop-13-140.pacific.edu
-NXDOMAIN	excashub2.stk.pacific.edu
-NOERROR	uop-15-39.pacific.edu
-NOERROR	uop-13-120.pacific.edu
-NOERROR	nscprod.ec.pacific.edu
-NOERROR	uop-11-19.pacific.edu
-NOERROR	uop-10-197.pacific.edu
-NXDOMAIN	pacwebapp.stk.pacific.edu
-NOERROR	uop-15-232.pacific.edu
-NOERROR	uop-12-67.pacific.edu
-NOERROR	o365.pacific.edu
-NOERROR	uop-11-136.pacific.edu
-NOERROR	uop-11-198.pacific.edu
-NOERROR	uop-12-159.pacific.edu
-NOERROR	uop-12-52.pacific.edu
-NOERROR	0-www2.allenpress.com.pacificatclassic.pacific.edu
-NOERROR	uop-9-148.pacific.edu
-NOERROR	uop-10-220.pacific.edu
-NOERROR	uop-14-250.pacific.edu
-NOERROR	uop-15-83.pacific.edu
-NOERROR	uop-11-167.pacific.edu
-NOERROR	uop-14-211.pacific.edu
-NOERROR	uop-12-46.pacific.edu
-NOERROR	uop-13-193.pacific.edu
-NOERROR	0-lrus.wolterskluwer.com.pacificatclassic.pacific.edu
-NOERROR	uop-9-248.pacific.edu
-NOERROR	uop-14-168.pacific.edu
-NOERROR	uop-12-229.pacific.edu
-NOERROR	uop-15-29.pacific.edu
-NOERROR	sharedev19.pacific.edu
-NOERROR	uop-15-155.pacific.edu
-NOERROR	uop-12-141.pacific.edu
-NOERROR	uop-14-101.pacific.edu
-NOERROR	uop-9-225.pacific.edu
-NOERROR	uop-10-112.pacific.edu
-NOERROR	bssprd.ec.pacific.edu
-NOERROR	copresearch.pacific.edu
-NOERROR	uop-8-164.pacific.edu
-NOERROR	uop-15-26.pacific.edu
-NOERROR	uop-15-220.pacific.edu
-NOERROR	0-access.newspaperarchive.com.pacificatclassic.pacific.edu
-NOERROR	uop-8-203.pacific.edu
-NOERROR	music.cmstraining.pacific.edu
-NOERROR	uop-15-5.pacific.edu
-NOERROR	uop-9-140.pacific.edu
-NOERROR	uop-10-249.pacific.edu
-NOERROR	uop-12-147.pacific.edu
-NOERROR	uop-14-74.pacific.edu
-NOERROR	uop-14-92.pacific.edu
-NOERROR	uop-12-89.pacific.edu
-NXDOMAIN	spsrchprod2.stk.pacific.edu
-NOERROR	comcmsdev.pacific.edu
-NOERROR	uop-14-132.pacific.edu
-NOERROR	uop-11-235.pacific.edu
-NOERROR	0-pacific.illiad.oclc.com.pacificatclassic.pacific.edu
-NOERROR	uop-15-132.pacific.edu
-NOERROR	uop-11-222.pacific.edu
-NOERROR	uop-10-54.pacific.edu
-NOERROR	uop-11-91.pacific.edu
-NOERROR	uop-10-6.pacific.edu
-NOERROR	uop-10-118.pacific.edu
-NOERROR	uop-12-119.pacific.edu
-NOERROR	0-ia.next.westlaw.com.pacificatclassic.pacific.edu
-NOERROR	0-idp.sams-sigma.com.pacificatclassic.pacific.edu
-NOERROR	uop-9-115.pacific.edu
-NOERROR	uop-9-18.pacific.edu
-NOERROR	uop-12-79.pacific.edu
-NOERROR	esbresearch1.esb.pacific.edu
-NOERROR	uop-11-203.pacific.edu
-NOERROR	uop-15-121.pacific.edu
-NOERROR	uop-8-31.pacific.edu
-NOERROR	analytics.pacific.edu
-NOERROR	uop-12-190.pacific.edu
-NOERROR	uop-13-214.pacific.edu
-NOERROR	uop-9-40.pacific.edu
-NOERROR	uop-15-11.pacific.edu
-NOERROR	uop-15-50.pacific.edu
-NOERROR	uop-10-230.pacific.edu
-NOERROR	uop-14-136.pacific.edu
-NOERROR	uop-9-16.pacific.edu
-NOERROR	meetingweb.pacific.edu
-NOERROR	uop-14-93.pacific.edu
-NOERROR	uop-12-189.pacific.edu
-NOERROR	uop-11-59.pacific.edu
-NOERROR	uop-11-125.pacific.edu
-NOERROR	uop-11-79.pacific.edu
-NOERROR	www.healthservices.pacific.edu
-NOERROR	uop-13-87.pacific.edu
-NOERROR	uop-8-136.pacific.edu
-NOERROR	uop-14-63.pacific.edu
-NOERROR	uop-9-106.pacific.edu
-NOERROR	uop-8-80.pacific.edu
-NOERROR	uop-15-111.pacific.edu
-NXDOMAIN	vdi-uem.stk.pacific.edu
-NOERROR	uop-12-34.pacific.edu
-NOERROR	uop-13-185.pacific.edu
-NOERROR	vcon1.pacific.edu
-NOERROR	gw2.ec.pacific.edu
-NOERROR	djwebdev.ea.pacific.edu
-NOERROR	uop-11-28.pacific.edu
-NOERROR	uop-11-234.pacific.edu
-NOERROR	uop-15-166.pacific.edu
-NOERROR	0-www.rocksbackpages.com.pacificatclassic.pacific.edu
-NOERROR	uop-14-246.pacific.edu
-NOERROR	uop-14-6.pacific.edu
-NOERROR	uop-15-172.pacific.edu
-NOERROR	uop-9-151.pacific.edu
-NOERROR	uop-14-52.pacific.edu
-NOERROR	uop-11-21.pacific.edu
-NOERROR	uop-8-115.pacific.edu
-NOERROR	dugoniblogs.pacific.edu
-NOERROR	uop-13-108.pacific.edu
-NOERROR	uop-8-222.pacific.edu
-NOERROR	uop-9-152.pacific.edu
-NOERROR	issmdev.pacific.edu
-NOERROR	healthservices.pacific.edu
-NXDOMAIN	uctgp.serv.pacific.edu
-NOERROR	connect.pacific.edu
-NOERROR	education.ss.pacific.edu
-NOERROR	uop-14-165.pacific.edu
-NXDOMAIN	pacwebdev.stk.pacific.edu
-NOERROR	uop-11-127.pacific.edu
-NOERROR	0-hr.bna.com.pacificatclassic.pacific.edu
-NOERROR	0-www.economist.com.pacificatclassic.pacific.edu
-NOERROR	u.pacific.edu
-NOERROR	uop-14-220.pacific.edu
-NOERROR	uop-14-196.pacific.edu
-NOERROR	mx20.pacific.edu
-NOERROR	uop-10-71.pacific.edu
-NOERROR	uop-9-182.pacific.edu
-NOERROR	uop-12-86.pacific.edu
-NOERROR	uop-13-236.pacific.edu
-NOERROR	uop-10-171.pacific.edu
-NOERROR	business.test.pacific.edu
-NOERROR	www.pacifican.pacific.edu
-NOERROR	uop-14-147.pacific.edu
-NOERROR	0-iplaw.bna.com.gocat.law.pacific.edu
-NOERROR	0-news.bna.com.pacificatclassic.law.pacific.edu
-NOERROR	0-news.bna.com.gocat.law.pacific.edu
-NOERROR	webwork.pacific.edu
-NOERROR	kpacradio.pacific.edu
-NOERROR	uop-12-41.pacific.edu
-NOERROR	0-www.nature.com.pacificatclassic.pacific.edu
-NOERROR	0-academic.oup.com.pacificatclassic.pacific.edu
-NOERROR	uop-10-53.pacific.edu
-NOERROR	uop-8-228.pacific.edu
-NOERROR	tigercam.pacific.edu
-NOERROR	outlook365.pacific.edu
-NOERROR	uop-8-19.pacific.edu
-NOERROR	uop-12-37.pacific.edu
-NOERROR	uop-9-195.pacific.edu
-NOERROR	uop-15-167.pacific.edu
-NOERROR	uop-10-5.pacific.edu
-NOERROR	uop-10-217.pacific.edu
-NOERROR	uop-15-158.pacific.edu
-NOERROR	uop-13-15.pacific.edu
-NOERROR	uop-11-166.pacific.edu
-NOERROR	uop-9-23.pacific.edu
-NOERROR	uop-11-108.pacific.edu
-NOERROR	uop-8-244.pacific.edu
-NOERROR	uop-12-225.pacific.edu
-NOERROR	0-jazz.ripmfulltext.org.pacificatclassic.pacific.edu
-NOERROR	www.mydesk.pacific.edu
-NOERROR	uop-12-193.pacific.edu
-NOERROR	media.lecturesdev.pacific.edu
-NOERROR	healthclick-tempura.pacific.edu
-NOERROR	websharedev.pacific.edu
-NOERROR	uop-13-227.pacific.edu
-NXDOMAIN	fopedirsync.stk.pacific.edu
-NOERROR	uop-14-123.pacific.edu
-NOERROR	uop-11-31.pacific.edu
-NOERROR	uop-15-184.pacific.edu
-NOERROR	uop-8-74.pacific.edu
-NOERROR	0-www.webofknowledge.com.pacificatclassic.pacific.edu
-NOERROR	uop-15-33.pacific.edu
-NOERROR	uop-10-34.pacific.edu
-NOERROR	business.cmstraining.pacific.edu
-NOERROR	uop-10-172.pacific.edu
-NOERROR	0-www.cambridge.org.pacificatclassic.pacific.edu
-NOERROR	library.pacific.edu
-NOERROR	uop-13-53.pacific.edu
-NOERROR	uop-9-82.pacific.edu
-NOERROR	uop-8-161.pacific.edu
-NXDOMAIN	apollo.stk.pacific.edu
-NOERROR	uop-12-243.pacific.edu
-NOERROR	now.pacific.edu
-NOERROR	uop-12-162.pacific.edu
-NOERROR	view.pacific.edu
-NOERROR	uop-14-53.pacific.edu
-NOERROR	uop-13-197.pacific.edu
-NOERROR	uop-11-112.pacific.edu
-NOERROR	uop-10-121.pacific.edu
-NOERROR	uop-12-151.pacific.edu
-NOERROR	uop-11-227.pacific.edu
-NOERROR	uop-12-138.pacific.edu
-NOERROR	uop-10-149.pacific.edu
-NOERROR	computerscienceprogram.pacific.edu
-NOERROR	0-www.ftserussell.com.pacificatclassic.pacific.edu
-NOERROR	uop-8-216.pacific.edu
-NOERROR	pacwebcl.stk.pacific.edu
-NOERROR	uop-11-229.pacific.edu
-NOERROR	uop-12-124.pacific.edu
-NXDOMAIN	fsaatlasdev.stk.pacific.edu
-NOERROR	uop-9-45.pacific.edu
-NOERROR	uop-12-236.pacific.edu
-NOERROR	uop-9-13.pacific.edu
-NOERROR	uop-11-30.pacific.edu
-NOERROR	uop-11-110.pacific.edu
-NOERROR	uop-8-7.pacific.edu
-NOERROR	uop-9-241.pacific.edu
-NOERROR	0-services.intelliconnect.cch.pacificatclassic.pacific.edu
-NOERROR	uop-12-246.pacific.edu
-NOERROR	0-healthlawrc.bna.com.pacificatclassic.pacific.edu
-NOERROR	uop-13-200.pacific.edu
-NOERROR	gc-sf.pacific.edu
-NOERROR	uop-10-239.pacific.edu
-NOERROR	0-healthlawrc.bna.com.gocat.law.pacific.edu
-NOERROR	ipnotify.pacific.edu
-NOERROR	uop-8-27.pacific.edu
-NOERROR	uop-8-158.pacific.edu
-NOERROR	admissions.pacific.edu
-NOERROR	uop-10-211.pacific.edu
-NOERROR	uop-10-143.pacific.edu
-NOERROR	uop-13-36.pacific.edu
-NOERROR	engineeringschool.pacific.edu
-NOERROR	uop-15-127.pacific.edu
-NOERROR	uop-15-49.pacific.edu
-NOERROR	uop-14-202.pacific.edu
-NOERROR	uop-14-43.pacific.edu
-NOERROR	uop-10-107.pacific.edu
-NOERROR	uop-13-152.pacific.edu
-NOERROR	0-www.thieme-connect.de.pacificatclassic.pacific.edu
-NOERROR	uop-9-5.pacific.edu
-NOERROR	www.covid19.pacific.edu
-NOERROR	www.tutortrac.pacific.edu
-NOERROR	uop-11-5.pacific.edu
-NOERROR	uop-15-164.pacific.edu
-NOERROR	uop-8-17.pacific.edu
-NOERROR	uop-14-44.pacific.edu
-NOERROR	0-help.ceb.com.pacificatclassic.pacific.edu
-NOERROR	uop-12-80.pacific.edu
-NOERROR	uop-8-206.pacific.edu
-NOERROR	uop-13-158.pacific.edu
-NOERROR	uop-12-234.pacific.edu
-NOERROR	uop-13-178.pacific.edu
-NOERROR	uop-8-250.pacific.edu
-NOERROR	uop-11-23.pacific.edu
-NOERROR	uop-13-245.pacific.edu
-NOERROR	uop-15-43.pacific.edu
-NOERROR	uop-14-140.pacific.edu
-NOERROR	autodiscover.dental.pacific.edu
-NOERROR	uop-11-119.pacific.edu
-NOERROR	education.pacific.edu
-NXDOMAIN	vdi-con2.stk.pacific.edu
-NOERROR	uop-13-163.pacific.edu
-NOERROR	uop-14-175.pacific.edu
-NOERROR	uop-15-247.pacific.edu
-NOERROR	uop-14-210.pacific.edu
-NOERROR	mydesk.pacific.edu
-NOERROR	uop-14-54.pacific.edu
-NOERROR	uop-13-78.pacific.edu
-NOERROR	uop-12-123.pacific.edu
-NOERROR	uop-13-51.pacific.edu
-NOERROR	uop-13-135.pacific.edu
-NOERROR	uop-12-15.pacific.edu
-NOERROR	uop-9-98.pacific.edu
-NOERROR	uop-13-19.pacific.edu
-NOERROR	uop-11-216.pacific.edu
-NXDOMAIN	vdi-sec1.stk.pacific.edu
-NOERROR	0-www.whatsmyip.org.pacificatclassic.pacific.edu
-NOERROR	0-humanitiesebook.org.pacificatclassic.pacific.edu
-NOERROR	uop-13-65.pacific.edu
-NOERROR	uop-11-153.pacific.edu
-NOERROR	0-jcr.incites.thomsonreuters.com.pacificatclassic.pacific.edu
-NOERROR	uop-8-42.pacific.edu
-NOERROR	uop-12-39.pacific.edu
-NOERROR	uop-8-154.pacific.edu
-NOERROR	uop-9-75.pacific.edu
-NOERROR	uop-11-201.pacific.edu
-NOERROR	0-store.ceb.com.pacificatclassic.pacific.edu
-NOERROR	uop-14-104.pacific.edu
-NOERROR	uop-12-72.pacific.edu
-NOERROR	uop-11-180.pacific.edu
-NOERROR	uop-14-88.pacific.edu
-NOERROR	uop-8-142.pacific.edu
-NOERROR	uop-8-48.pacific.edu
-NOERROR	insidepacific.pacific.edu
-NOERROR	uop-9-208.pacific.edu
-NOERROR	0-eds.b.ebscohost.com.pacificatclassic.pacific.edu
-NOERROR	0-booksandjournals.brillonline.com.pacificatclassic.pacific.edu
-NOERROR	tigers.pacific.edu
-NOERROR	uop-15-131.pacific.edu
-NOERROR	uop-9-191.pacific.edu
-NOERROR	uop-10-94.pacific.edu
-NOERROR	uop-8-190.pacific.edu
-NOERROR	uop-13-45.pacific.edu
-NOERROR	uop-8-95.pacific.edu
-NOERROR	0-therapy.ebscohost.com.pacificatclassic.pacific.edu
-NOERROR	uop-11-163.pacific.edu
-NOERROR	uop-9-142.pacific.edu
-NOERROR	pacificrec.pacific.edu
-NOERROR	0-news.bna.com.pacificatclassic.pacific.edu
-NOERROR	uop-10-30.pacific.edu
-NOERROR	uop-12-93.pacific.edu
-NOERROR	uop-12-117.pacific.edu
-NOERROR	uop-9-42.pacific.edu
-NOERROR	uop-8-169.pacific.edu
-NOERROR	pacmdev.pacific.edu
-NOERROR	mta-sts.nomail.pacific.edu
-NOERROR	uop-15-4.pacific.edu
-NOERROR	0-exportguide.bna.com.gocat.law.pacific.edu
-NOERROR	uop-11-84.pacific.edu
-NOERROR	uop-11-51.pacific.edu
-NOERROR	uop-12-103.pacific.edu
-NOERROR	uop-10-22.pacific.edu
-NOERROR	uop-8-4.pacific.edu
-NOERROR	uop-14-58.pacific.edu
-NOERROR	uop-9-126.pacific.edu
-NOERROR	0-www.ebscohost.com.pacificatclassic.pacific.edu
-NOERROR	ipdev.cloud.pacific.edu
-NOERROR	sfbackup3.dental.pacific.edu
-NOERROR	uop-11-1.pacific.edu
-NOERROR	uop-9-90.pacific.edu
-NOERROR	uop-11-232.pacific.edu
-NOERROR	excellenceday.pacific.edu
-NOERROR	mail.testdom03.pacific.edu
-NOERROR	webfolders.pacific.edu
-NOERROR	vpn-sf.pacific.edu
-NOERROR	0-privacylaw.bna.com.gocat.law.pacific.edu
-NOERROR	uop-13-94.pacific.edu
-NOERROR	uop-10-97.pacific.edu
-NOERROR	uop-14-77.pacific.edu
-NOERROR	uop-11-132.pacific.edu
-NOERROR	uop-15-41.pacific.edu
-NOERROR	uop-10-2.pacific.edu
-NOERROR	uop-15-209.pacific.edu
-NOERROR	0-benefits.bna.com.gocat.law.pacific.edu
-NOERROR	pacificatclassic.law.pacific.edu
-NXDOMAIN	dmsmediadb-dev.stk.pacific.edu
-NOERROR	uop-11-42.pacific.edu
-NOERROR	uop-9-209.pacific.edu
-NOERROR	0-dl.acm.org.pacificatclassic.pacific.edu
-NOERROR	uop-12-4.pacific.edu
-NOERROR	0-ebooks.cambridge.org.pacificatclassic.pacific.edu
-NOERROR	uop-12-168.pacific.edu
-NOERROR	uop-12-136.pacific.edu
-NOERROR	uop-13-40.pacific.edu
-NOERROR	engineering.cmstraining.pacific.edu
-NOERROR	uop-12-3.pacific.edu
-NOERROR	uop-10-49.pacific.edu
-NXDOMAIN	vdi-con4.stk.pacific.edu
-NOERROR	0-www.plnfpr.com.pacificatclassic.pacific.edu
-NOERROR	uop-9-19.pacific.edu
-NOERROR	benefits.pacific.edu
-NOERROR	0-healthlaw.bna.com.gocat.law.pacific.edu
-NOERROR	uop-9-64.pacific.edu
-NXDOMAIN	www.bradfordas.serv.pacific.edu
-NOERROR	uop-12-76.pacific.edu
-NOERROR	inside.ec.pacific.edu
-NXDOMAIN	www.transactap.stk.pacific.edu
-NOERROR	0-support.heinonline.org.pacificatclassic.pacific.edu
-NOERROR	uop-12-134.pacific.edu
-NOERROR	uop-11-18.pacific.edu
-NOERROR	uop-8-65.pacific.edu
-NOERROR	uop-11-134.pacific.edu
-NOERROR	uop-10-173.pacific.edu
-NOERROR	vdi-lab.pacific.edu
-NOERROR	uop-8-56.pacific.edu
-NOERROR	uop-9-190.pacific.edu
-NOERROR	uop-13-219.pacific.edu
-NOERROR	uop-9-30.pacific.edu
-NOERROR	uop-8-207.pacific.edu
-NOERROR	lumadmin1-prod.ec.pacific.edu
-NOERROR	uop-10-151.pacific.edu
-NOERROR	uop-13-131.pacific.edu
-NOERROR	uop-10-176.pacific.edu
-NOERROR	uop-11-212.pacific.edu
-NOERROR	uop-15-2.pacific.edu
-NOERROR	uop-13-79.pacific.edu
-NOERROR	uop-13-174.pacific.edu
-NOERROR	uop-9-33.pacific.edu
-NOERROR	uop-13-194.pacific.edu
-NOERROR	0-elgaronline.com.pacificatclassic.pacific.edu
-NOERROR	uop-14-69.pacific.edu
-NOERROR	tsailab.chem.pacific.edu
-NOERROR	uop-10-115.pacific.edu
-NOERROR	uop-9-107.pacific.edu
-NOERROR	uop-10-128.pacific.edu
-NOERROR	0-countrywatch.com.pacificatclassic.pacific.edu
-NOERROR	uop-13-18.pacific.edu
-NOERROR	cmsdev.pacific.edu
-NXDOMAIN	webspawn1.stk.pacific.edu
-NOERROR	uop-9-108.pacific.edu
-NOERROR	uop-11-66.pacific.edu
-NOERROR	uop-12-244.pacific.edu
-NOERROR	uop-13-153.pacific.edu
-NOERROR	uop-8-109.pacific.edu
-NOERROR	uop-11-205.pacific.edu
-NOERROR	alumnicam.pacific.edu
-NOERROR	0-www.statista.com.pacificatclassic.pacific.edu
-NOERROR	uop-13-112.pacific.edu
-NOERROR	uop-13-75.pacific.edu
-NOERROR	djwebprod.ea.pacific.edu
-NOERROR	testdom03.pacific.edu
-NOERROR	uop-12-171.pacific.edu
-NOERROR	uop-12-242.pacific.edu
-NOERROR	uop-12-135.pacific.edu
-NOERROR	0-pacific.nml3.naxosmusiclibrary.com.pacificatclassic.pacific.edu
-NOERROR	uop-13-54.pacific.edu
-NOERROR	uop-10-181.pacific.edu
-NOERROR	0-openurl.ebscohost.com.pacificatclassic.pacific.edu
-NOERROR	secure.pacific.edu
-NOERROR	uop-12-194.pacific.edu
-NOERROR	uop-10-193.pacific.edu
-NOERROR	www.meetingweb.pacific.edu
-NOERROR	uop-13-7.pacific.edu
-NOERROR	uop-13-162.pacific.edu
-NOERROR	0-oxcon.ouplaw.com.pacificatclassic.pacific.edu
-NOERROR	0-regulatoryinsight.proquest.com.pacificatclassic.pacific.edu
-NXDOMAIN	healthclick.stk.pacific.edu
-NOERROR	0-news.bloombergenvironment.com.pacificatclassic.pacific.edu
-NOERROR	0-fiaf.chadwyck.com.pacificatclassic.pacific.edu
-NOERROR	uop-9-231.pacific.edu
-NOERROR	uop-9-146.pacific.edu
-NOERROR	mx10.pacific.edu
-NOERROR	uop-8-209.pacific.edu
-NOERROR	uop-14-85.pacific.edu
-NOERROR	pharmacy.cmstraining.pacific.edu
-NOERROR	uop-8-88.pacific.edu
-NOERROR	uop-11-176.pacific.edu
-NOERROR	uop-15-143.pacific.edu
-NOERROR	uop-8-44.pacific.edu
-NOERROR	0-signin.westacademic.com.pacificatclassic.pacific.edu
-NOERROR	uop-15-91.pacific.edu
-NOERROR	udoit.pacific.edu
-NOERROR	zcipris.pacific.edu
-NOERROR	uop-8-226.pacific.edu
-NOERROR	uop-9-210.pacific.edu
-NOERROR	uop-15-103.pacific.edu
-NOERROR	uop-8-9.pacific.edu
-NOERROR	0-www.tandfonline.com.pacificatclassic.pacific.edu
-NOERROR	apollo.pacific.edu
-NOERROR	uop-15-85.pacific.edu
-NOERROR	uop-14-173.pacific.edu
-NOERROR	uop-13-202.pacific.edu
-NOERROR	uop-8-132.pacific.edu
-NOERROR	uop-12-61.pacific.edu
-NOERROR	uop-12-112.pacific.edu
-NOERROR	liberalarts.cmstraining.pacific.edu
-NOERROR	epay.pacific.edu
-NOERROR	uop-12-164.pacific.edu
-NOERROR	clogicdev.stk.pacific.edu
-NOERROR	uop-8-166.pacific.edu
-NOERROR	uop-11-71.pacific.edu
-NOERROR	0-accessengineeringlibrary.com.pacificatclassic.pacific.edu
-NOERROR	www.lists1.pacific.edu
-NOERROR	uop-12-104.pacific.edu
-NOERROR	uop-15-208.pacific.edu
-NOERROR	0-oxford.universitypressscholarship.com.pacificatclassic.pacific.edu
-NOERROR	uop-14-82.pacific.edu
-NOERROR	0-www.accessengineeringlibrary.com.pacificatclassic.pacific.edu
-NOERROR	uop-9-227.pacific.edu
-NOERROR	uop-11-137.pacific.edu
-NOERROR	uop-12-64.pacific.edu
-NOERROR	uop-12-6.pacific.edu
-NOERROR	uop-9-237.pacific.edu
-NOERROR	uop-9-236.pacific.edu
-NOERROR	0-antitrust.bna.com.gocat.law.pacific.edu
-NOERROR	uop-12-223.pacific.edu
-NOERROR	uop-8-49.pacific.edu
-NOERROR	uop-14-28.pacific.edu
-NOERROR	uop-11-207.pacific.edu
-NOERROR	uop-10-59.pacific.edu
-NOERROR	uop-14-108.pacific.edu
-NOERROR	uop-11-246.pacific.edu
-NOERROR	uop-8-106.pacific.edu
-NOERROR	uop-8-191.pacific.edu
-NOERROR	uop-8-198.pacific.edu
-NOERROR	uop-8-229.pacific.edu
-NOERROR	uop-11-211.pacific.edu
-NOERROR	uop-12-131.pacific.edu
-NOERROR	uop-9-139.pacific.edu
-NOERROR	uop-8-39.pacific.edu
-NOERROR	flexreg.ec.pacific.edu
-NOERROR	uop-14-160.pacific.edu
-NOERROR	uop-14-49.pacific.edu
-NOERROR	uop-13-119.pacific.edu
-NOERROR	paccppm3.wireless.pacific.edu
-NOERROR	uop-15-146.pacific.edu
-NOERROR	uop-14-149.pacific.edu
-NOERROR	uop-11-41.pacific.edu
-NOERROR	uop-11-160.pacific.edu
-NOERROR	uop-9-193.pacific.edu
-NOERROR	uop-12-156.pacific.edu
-NOERROR	uop-13-32.pacific.edu
-NOERROR	uop-13-173.pacific.edu
-NOERROR	uop-15-34.pacific.edu
-NOERROR	uop-15-147.pacific.edu
-NOERROR	gc-stk.pacific.edu
-NOERROR	uop-13-249.pacific.edu
-NOERROR	uop-8-141.pacific.edu
-NOERROR	uop-8-117.pacific.edu
-NOERROR	uop-11-170.pacific.edu
-NOERROR	uop-10-244.pacific.edu
-NOERROR	uop-10-8.pacific.edu
-NOERROR	outlook.pacific.edu
-NOERROR	uop-8-12.pacific.edu
-NOERROR	uop-13-96.pacific.edu
-NOERROR	uop-10-120.pacific.edu
-NOERROR	uop-15-159.pacific.edu
-NOERROR	uop-10-248.pacific.edu
-NOERROR	0-www.sage-ereference.com.pacificatclassic.pacific.edu
-NOERROR	uop-13-164.pacific.edu
-NOERROR	uop-12-201.pacific.edu
-NOERROR	iiswebdev.pacific.edu
-NOERROR	pacificatpublic.pacific.edu
-NOERROR	uop-13-247.pacific.edu
-NOERROR	uop-9-189.pacific.edu
-NOERROR	uop-10-126.pacific.edu
-NOERROR	uop-14-17.pacific.edu
-NOERROR	uop-14-195.pacific.edu
-NOERROR	lynda.pacific.edu
-NOERROR	0-taxandaccounting.bna.com.pacificatclassic.pacific.edu
-NOERROR	uop-8-38.pacific.edu
-NOERROR	uop-9-149.pacific.edu
-NOERROR	0-p-velvet.intelliconnect.cch.com.pacificatclassic.pacific.edu
-NOERROR	uop-12-239.pacific.edu
-NOERROR	uop-15-67.pacific.edu
-NOERROR	0-library.artstor.org.pacificatclassic.pacific.edu
-NOERROR	uop-10-204.pacific.edu
-NOERROR	0-support.ebscohost.com.pacificatclassic.pacific.edu
-NOERROR	uop-13-167.pacific.edu
-NOERROR	uop-8-24.pacific.edu
-NOERROR	uop-8-25.pacific.edu
-NOERROR	uop-8-26.pacific.edu
-NOERROR	uop-10-210.pacific.edu
-NOERROR	0-laborandemploymentlaw.bna.com.pacificatclassic.pacific.edu
-NOERROR	uop-8-233.pacific.edu
-NOERROR	0-wkap.nl.pacificatclassic.pacific.edu
-NOERROR	0-go.galegroup.com.pacificatclassic.pacific.edu
-NOERROR	email.pacific.edu
-NOERROR	uop-8-186.pacific.edu
-NOERROR	uop-11-154.pacific.edu
-NOERROR	uop-15-37.pacific.edu
-NOERROR	uop-15-75.pacific.edu
-NOERROR	uop-11-149.pacific.edu
-NOERROR	uop-9-198.pacific.edu
-NOERROR	uop-9-220.pacific.edu
-NOERROR	overcomingobstacles.pacific.edu
-NOERROR	uop-12-227.pacific.edu
-NOERROR	pacificcmsdev.pacific.edu
-NOERROR	uop-11-145.pacific.edu
-NOERROR	uop-8-123.pacific.edu
-NOERROR	uop-10-228.pacific.edu
-NOERROR	0-exportguide.bna.com.pacificatclassic.pacific.edu
-NOERROR	uop-10-207.pacific.edu
-NOERROR	uop-10-238.pacific.edu
-NOERROR	imap.pacific.edu
-NOERROR	uop-8-36.pacific.edu
-NOERROR	uop-15-110.pacific.edu
-NOERROR	uop-14-113.pacific.edu
-NOERROR	healthsciences.cmstraining.pacific.edu
-NOERROR	uop-10-194.pacific.edu
-NOERROR	uop-11-48.pacific.edu
-NOERROR	uop-14-37.pacific.edu
-NOERROR	0-www.elgaronline.com.pacificatclassic.pacific.edu
-NOERROR	uop-8-118.pacific.edu
-NXDOMAIN	dmsmediaweb-dev.stk.pacific.edu
-NOERROR	www.education.pacific.edu
-NOERROR	uop-14-238.pacific.edu
-NOERROR	uop-12-69.pacific.edu
-NOERROR	uop-15-214.pacific.edu
-NOERROR	0-www.scopus.com.pacificatclassic.pacific.edu
-NOERROR	0-hapi.ucla.edu.pacificatclassic.law.pacific.edu
-NOERROR	0-www.justis.com.pacificatclassic.pacific.edu
-NOERROR	uop-10-58.pacific.edu
-NOERROR	uop-13-46.pacific.edu
-NXDOMAIN	loki.serv.pacific.edu
-NOERROR	uop-15-206.pacific.edu
-NOERROR	0-www.ceb.com.pacificatclassic.pacific.edu
-NOERROR	uop-11-200.pacific.edu
-NOERROR	uop-12-100.pacific.edu
-NOERROR	uop-13-139.pacific.edu
-NOERROR	uop-10-201.pacific.edu
-NOERROR	uop-12-97.pacific.edu
-NOERROR	uop-11-109.pacific.edu
-NOERROR	com.pacificatpublic.pacific.edu
-NOERROR	uop-10-70.pacific.edu
-NOERROR	www.archive.pacific.edu
-NOERROR	uop-12-218.pacific.edu
-NOERROR	uop-9-4.pacific.edu
-NXDOMAIN	drupaldev.ea.pacific.edu
-NOERROR	uop-14-41.pacific.edu
-NOERROR	0-hr.bna.com.pacificatclassic.law.pacific.edu
-NOERROR	0-cases.iclr.co.uk.pacificatclassic.pacific.edu
-NOERROR	uop-12-161.pacific.edu
-NOERROR	uop-15-112.pacific.edu
-NOERROR	uop-13-39.pacific.edu
-NXDOMAIN	stk-exmail2.stk.pacific.edu
-NOERROR	uop-11-129.pacific.edu
-NOERROR	uop-13-159.pacific.edu
-NOERROR	uop-14-57.pacific.edu
-NOERROR	contracts.pacific.edu
-NOERROR	uop-9-168.pacific.edu
-NOERROR	exev1.stk.pacific.edu
-NOERROR	0-www.cabells.com.pacificatclassic.pacific.edu
-NOERROR	uop-9-226.pacific.edu
-NOERROR	uop-14-197.pacific.edu
-NOERROR	uop-11-148.pacific.edu
-NOERROR	uop-15-173.pacific.edu
-NOERROR	uop-8-34.pacific.edu
-NOERROR	0-essential.bna.com.pacificatclassic.pacific.edu
-NOERROR	uop-13-242.pacific.edu
-NOERROR	uop-8-59.pacific.edu
-NOERROR	uop-13-209.pacific.edu
-NOERROR	uop-15-79.pacific.edu
-NOERROR	uop-10-13.pacific.edu
-NOERROR	uop-13-89.pacific.edu
-NOERROR	www.ipnotify.pacific.edu
-NOERROR	uop-15-179.pacific.edu
-NOERROR	uop-10-102.pacific.edu
-NOERROR	uop-14-84.pacific.edu
-NOERROR	sfmyshare.pacific.edu
-NOERROR	mail.dental.pacific.edu
-NOERROR	uop-14-179.pacific.edu
-NOERROR	uop-15-135.pacific.edu
-NOERROR	uop-11-168.pacific.edu
-NOERROR	wwww.pacific.edu
-NOERROR	uop-9-103.pacific.edu
-NOERROR	ftpes.serv.pacific.edu
-NOERROR	uop-8-43.pacific.edu
-NOERROR	uop-15-74.pacific.edu
-NOERROR	uop-15-13.pacific.edu
-NOERROR	uop-9-69.pacific.edu
-NOERROR	ns1.pacific.edu
-NOERROR	uop-9-52.pacific.edu
-NOERROR	uop-9-9.pacific.edu
-NOERROR	0-lwwhealthlibrary.com.pacificatclassic.pacific.edu
-NOERROR	uop-9-99.pacific.edu
-NOERROR	uop-11-247.pacific.edu
-NOERROR	uop-13-184.pacific.edu
-NOERROR	uop-8-30.pacific.edu
-NOERROR	uop-9-46.pacific.edu
-NOERROR	uop-11-223.pacific.edu
-NOERROR	0-pubs.bna.com.pacificatclassic.pacific.edu
-NOERROR	uop-11-243.pacific.edu
-NOERROR	uop-15-115.pacific.edu
-NOERROR	uop-14-137.pacific.edu
-NOERROR	uop-14-221.pacific.edu
-NOERROR	uop-10-11.pacific.edu
-NOERROR	uop-11-241.pacific.edu
-NOERROR	uop-15-118.pacific.edu
-NOERROR	uop-9-32.pacific.edu
-NOERROR	uop-12-59.pacific.edu
-NOERROR	uop-9-206.pacific.edu
-NOERROR	uop-15-148.pacific.edu
-NOERROR	sim-pa-web1.sac.pacific.edu
-NOERROR	uop-10-99.pacific.edu
-NOERROR	0-www.portal.euromonitor.com.pacificatclassic.pacific.edu
-NOERROR	uop-12-102.pacific.edu
-NOERROR	uop-15-47.pacific.edu
-NOERROR	0-archinte.jamanetwork.com.pacificatclassic.pacific.edu
-NOERROR	uop-13-232.pacific.edu
-NOERROR	uop-13-110.pacific.edu
-NOERROR	uop-15-248.pacific.edu
-NOERROR	uop-11-57.pacific.edu
-NOERROR	0-icsidreview.oxfordjournals.org.pacificatclassic.pacific.edu
-NOERROR	0-subscript.bna.com.gocat.law.pacific.edu
-NOERROR	uop-12-38.pacific.edu
-NOERROR	uop-14-99.pacific.edu
-NOERROR	uop-9-197.pacific.edu
-NOERROR	cas.pacific.edu
-NOERROR	uop-14-111.pacific.edu
-NOERROR	0-bankruptcylaw.bna.com.gocat.law.pacific.edu
-NOERROR	uop-15-59.pacific.edu
-NOERROR	uop-9-199.pacific.edu
-NOERROR	0-doi.org.pacificatclassic.pacific.edu
-NOERROR	uop-10-125.pacific.edu
-NOERROR	0-online.ceb.com.pacificatclassic.pacific.edu
-NOERROR	0-philpapers.org.pacificatclassic.pacific.edu
-NOERROR	uop-15-204.pacific.edu
-NXDOMAIN	sp13webprod2.stk.pacific.edu
-NOERROR	uop-9-250.pacific.edu
-NOERROR	0-web.b.ebscohost.com.pacificatclassic.pacific.edu
-NOERROR	olli.pacific.edu
-NOERROR	uop-11-37.pacific.edu
-NOERROR	uop-13-129.pacific.edu
-NOERROR	pharmacy.pacific.edu
-NOERROR	uop-11-231.pacific.edu
-NOERROR	eredirect.pacific.edu
-NOERROR	0-auth.research.ceb.com.pacificatclassic.pacific.edu
-NOERROR	uop-12-219.pacific.edu
-NOERROR	uop-14-89.pacific.edu
-NXDOMAIN	sp13appprod1.stk.pacific.edu
-NOERROR	uop-11-144.pacific.edu
-NOERROR	uop-15-72.pacific.edu
-NOERROR	uop-11-82.pacific.edu
-NOERROR	0-myaccount.nytimes.com.pacificatclassic.pacific.edu
-NOERROR	uop-12-180.pacific.edu
-NOERROR	uop-8-72.pacific.edu
-NOERROR	uop-14-72.pacific.edu
-NOERROR	uop-10-203.pacific.edu
-NOERROR	uop-11-4.pacific.edu
-NOERROR	uop-9-179.pacific.edu
-NOERROR	uop-14-11.pacific.edu
-NXDOMAIN	exev2.stk.pacific.edu
-NOERROR	uop-10-92.pacific.edu
-NOERROR	0-www.law360.com.pacificatclassic.pacific.edu
-NOERROR	0-eon-api.ebscohost.com.pacificatclassic.pacific.edu
-NOERROR	uop-13-218.pacific.edu
-NOERROR	pharmacy.dev.pacific.edu
-NOERROR	uop-15-129.pacific.edu
-NXDOMAIN	vdi-sec2.stk.pacific.edu
-NOERROR	uop-8-52.pacific.edu
-NOERROR	0-www.oreilly.com.pacificatclassic.pacific.edu
-NOERROR	uop-8-212.pacific.edu
-NOERROR	uop-8-55.pacific.edu
-NOERROR	0-shop.iclr.co.uk.pacificatclassic.pacific.edu
-NOERROR	smtp.ec.pacific.edu
-NOERROR	uop-12-150.pacific.edu
-NOERROR	uop-10-223.pacific.edu
-NOERROR	0-wolterskluwer.com.pacificatclassic.pacific.edu
-NOERROR	uop-14-214.pacific.edu
-NOERROR	uop-14-7.pacific.edu
-NOERROR	uop-13-195.pacific.edu
-NOERROR	uop-8-10.pacific.edu
-NOERROR	0-pubchem.ncbi.nlm.nih.gov.pacificatclassic.pacific.edu
-NOERROR	0-lawyersmanual.bna.com.gocat.law.pacific.edu
-NOERROR	0-idp.nature.com.pacificatclassic.pacific.edu
-NOERROR	uop-14-232.pacific.edu
-NOERROR	uop-15-213.pacific.edu
-NOERROR	uop-11-214.pacific.edu
-NOERROR	uop-15-94.pacific.edu
-NOERROR	uop-11-237.pacific.edu
-NOERROR	axiumfacultyaccess.pacific.edu
-NOERROR	0-www.universitypressscholarship.com.pacificatclassic.pacific.edu
-NOERROR	uop-13-121.pacific.edu
-NOERROR	uop-13-172.pacific.edu
-NOERROR	iiswt2.pacific.edu
-NOERROR	uop-11-194.pacific.edu
-NOERROR	0-www.refworks.com.pacificatclassic.pacific.edu
-NOERROR	uop-13-239.pacific.edu
-NOERROR	uop-13-86.pacific.edu
-NOERROR	uop-12-245.pacific.edu
-NOERROR	uop-11-103.pacific.edu
-NOERROR	uop-9-222.pacific.edu
-NOERROR	uop-12-172.pacific.edu
-NOERROR	uop-9-216.pacific.edu
-NOERROR	search.pacific.edu
-NOERROR	uop-15-9.pacific.edu
-NOERROR	uop-13-221.pacific.edu
-NXDOMAIN	paccppm2.serv.pacific.edu
-NXDOMAIN	www.service.ea.pacific.edu
-NOERROR	uop-14-229.pacific.edu
-NOERROR	uop-8-153.pacific.edu
-NOERROR	uop-10-4.pacific.edu
-NOERROR	websharedev19.pacific.edu
-NOERROR	uop-10-159.pacific.edu
-NOERROR	liberalarts.pacific.edu
-NOERROR	0-hdl.handle.net.pacificatclassic.pacific.edu
-NOERROR	uop-9-130.pacific.edu
-NOERROR	uop-9-181.pacific.edu
-NOERROR	uop-10-139.pacific.edu
-NOERROR	uop-14-133.pacific.edu
-NXDOMAIN	extest2010ii.testdom03.pacific.edu
-NOERROR	uop-13-176.pacific.edu
-NOERROR	uop-12-198.pacific.edu
-NOERROR	uop-12-249.pacific.edu
-NOERROR	uop-13-103.pacific.edu
-NOERROR	uop-11-2.pacific.edu
-NOERROR	uop-8-205.pacific.edu
-NOERROR	uop-8-171.pacific.edu
-NOERROR	financialaid.pacific.edu
-NOERROR	uop-12-43.pacific.edu
-NOERROR	info.pacific.edu
-NOERROR	0-countrybriefing.countrywatch.com.pacificatclassic.pacific.edu
-NOERROR	uop-11-248.pacific.edu
-NOERROR	0-taxandaccounting.bna.com.pacificatclassic.law.pacific.edu
-NOERROR	uop-10-64.pacific.edu
-NOERROR	uop-8-185.pacific.edu
-NOERROR	uop-9-8.pacific.edu
-NOERROR	uop-10-51.pacific.edu
-NOERROR	uop-14-226.pacific.edu
-NOERROR	uop-14-203.pacific.edu
-NOERROR	engineering.test.pacific.edu
-NOERROR	uop-11-90.pacific.edu
-NOERROR	uop-11-191.pacific.edu
-NOERROR	uop-13-114.pacific.edu
-NOERROR	uop-8-114.pacific.edu
-NOERROR	uop-15-242.pacific.edu
-NOERROR	uop-13-49.pacific.edu
-NOERROR	uop-10-237.pacific.edu
-NOERROR	uop-12-157.pacific.edu
-NOERROR	uop-8-121.pacific.edu
-NOERROR	uop-13-69.pacific.edu
-NOERROR	uop-15-134.pacific.edu
-NOERROR	0-find.gale.com.pacificatclassic.pacific.edu
-NOERROR	metalib4.pacific.edu
-NOERROR	xferw.stk.pacific.edu
-NOERROR	meeting.pacific.edu
-NOERROR	uop-10-179.pacific.edu
-NOERROR	uop-14-242.pacific.edu
-NOERROR	sfmedia.dental.pacific.edu
-NOERROR	uop-14-224.pacific.edu
-NOERROR	engineering.ss.pacific.edu
-NOERROR	autodiscover.pacific.edu
-NOERROR	uop-14-152.pacific.edu
-NOERROR	uop-13-90.pacific.edu
-NOERROR	dugonidiscoveryday.pacific.edu
-NOERROR	uop-10-109.pacific.edu
-NOERROR	uop-9-102.pacific.edu
-NOERROR	uop-13-68.pacific.edu
-NOERROR	inside.pacific.edu
-NOERROR	uop-11-22.pacific.edu
-NOERROR	uop-9-83.pacific.edu
-NOERROR	uop-10-227.pacific.edu
-NOERROR	uop-11-17.pacific.edu
-NOERROR	artsandsciencescollege.pacific.edu
-NOERROR	uop-8-240.pacific.edu
-NOERROR	uop-14-70.pacific.edu
-NOERROR	cs.pacific.edu
-NOERROR	uop-8-89.pacific.edu
-NOERROR	uop-10-158.pacific.edu
-NOERROR	uop-9-176.pacific.edu
-NXDOMAIN	cas00.serv.pacific.edu
-NOERROR	0-static.1science.com.pacificatclassic.pacific.edu
-NOERROR	uop-14-125.pacific.edu
-NOERROR	uop-13-165.pacific.edu
-NOERROR	uop-9-60.pacific.edu
-NOERROR	uop-9-194.pacific.edu
-NOERROR	uop-13-138.pacific.edu
-NOERROR	uop-15-100.pacific.edu
-NOERROR	uop-13-188.pacific.edu
-NOERROR	uop-15-97.pacific.edu
-NOERROR	uop-12-205.pacific.edu
-NOERROR	0-vlex.com.pacificatclassic.pacific.edu
-NOERROR	uop-11-54.pacific.edu
-NOERROR	uop-12-213.pacific.edu
-NOERROR	www.engineering.pacific.edu
-NOERROR	uop-13-133.pacific.edu
-NXDOMAIN	slfusionweb.stk.pacific.edu
-NOERROR	0-video.alexanderstreet.com.pacificatclassic.pacific.edu
-NOERROR	lecturesdev.pacific.edu
-NOERROR	uop-12-44.pacific.edu
-NOERROR	uop-15-240.pacific.edu
-NOERROR	uop-12-111.pacific.edu
-NOERROR	uop-15-245.pacific.edu
-NXDOMAIN	www.mail.testdom03.pacific.edu
-NOERROR	uop-14-146.pacific.edu
-NOERROR	uop-10-82.pacific.edu
-NOERROR	uop-12-211.pacific.edu
-NOERROR	uop-14-185.pacific.edu
-NOERROR	office365.pacific.edu
-NOERROR	uop-9-120.pacific.edu
-NOERROR	uop-9-79.pacific.edu
-NXDOMAIN	sp13appprod2.stk.pacific.edu
-NOERROR	udoit.aws.pacific.edu
-NOERROR	uop-12-137.pacific.edu
-NOERROR	uop-10-105.pacific.edu
-NOERROR	uop-8-146.pacific.edu
-NOERROR	covid19.pacific.edu
-NOERROR	uop-14-121.pacific.edu
-NOERROR	uop-8-120.pacific.edu
-NOERROR	0-journals.sagepub.com.pacificatclassic.pacific.edu
-NOERROR	uop-8-99.pacific.edu
-NOERROR	uop-15-54.pacific.edu
-NOERROR	www.dev.pacific.edu
-NOERROR	uop-8-140.pacific.edu
-NOERROR	uop-10-175.pacific.edu
-NOERROR	uop-14-164.pacific.edu
-NOERROR	uop-12-233.pacific.edu
-NOERROR	uop-14-234.pacific.edu
-NOERROR	banner.cloud.pacific.edu
-NOERROR	uop-11-39.pacific.edu
-NOERROR	uop-12-27.pacific.edu
-NOERROR	cyberlab.pacific.edu
-NOERROR	edu.pacificatclassic.pacific.edu
-NOERROR	uop-10-37.pacific.edu
-NOERROR	uop-15-217.pacific.edu
-NOERROR	0-www.whatismyip.com.pacificatclassic.pacific.edu
-NOERROR	0-ediscovery.bna.com.gocat.law.pacific.edu
-NOERROR	uop-15-237.pacific.edu
-NOERROR	0-ybio.brillonline.com.pacificatclassic.pacific.edu
-NOERROR	ems.pacific.edu
-NOERROR	uop-11-6.pacific.edu
-NOERROR	uop-12-60.pacific.edu
-NOERROR	ipdev.pacific.edu
-NOERROR	uop-11-184.pacific.edu
-NOERROR	uop-10-226.pacific.edu
-NOERROR	uop-15-89.pacific.edu
-NOERROR	uop-13-25.pacific.edu
-NOERROR	pacificat.pacific.edu
-NOERROR	rdgateway.pacific.edu
-NOERROR	uop-15-93.pacific.edu
-NOERROR	uop-9-159.pacific.edu
-NOERROR	uop-8-246.pacific.edu
-NOERROR	uop-10-196.pacific.edu
-NOERROR	uop-14-75.pacific.edu
-NOERROR	uop-9-51.pacific.edu
-NOERROR	uop-12-160.pacific.edu
-NOERROR	uop-12-145.pacific.edu
-NOERROR	uop-9-3.pacific.edu
-NOERROR	uop-9-132.pacific.edu
-NOERROR	uop-11-158.pacific.edu
-NOERROR	uop-12-101.pacific.edu
-NOERROR	0-subscription.westacademic.com.pacificatclassic.pacific.edu
-NOERROR	uop-11-113.pacific.edu
-NOERROR	uop-8-230.pacific.edu
-NOERROR	0-elections.countrywatch.com.pacificatclassic.pacific.edu
-NOERROR	uop-11-224.pacific.edu
-NOERROR	uop-10-242.pacific.edu
-NOERROR	uop-13-82.pacific.edu
-NOERROR	schoolofeducation.pacific.edu
-NOERROR	uop-14-139.pacific.edu
-NXDOMAIN	slpncappsweb-tempura.stk.pacific.edu
-NOERROR	uop-15-28.pacific.edu
-NOERROR	0-id.elsevier.com.pacificatclassic.pacific.edu
-NOERROR	uop-10-18.pacific.edu
-NOERROR	uop-12-95.pacific.edu
-NOERROR	uop-13-180.pacific.edu
-NOERROR	uop-11-218.pacific.edu
-NOERROR	uop-14-32.pacific.edu
-NOERROR	uop-11-77.pacific.edu
-NOERROR	0-chicagomanualofstyle.org.pacificatclassic.pacific.edu
-NOERROR	uop-15-218.pacific.edu
-NOERROR	pharmacy.ss.pacific.edu
-NOERROR	uop-15-87.pacific.edu
-NOERROR	uop-13-35.pacific.edu
-NOERROR	uop-14-198.pacific.edu
-NOERROR	education.test.pacific.edu
-NOERROR	uop-15-181.pacific.edu
-NOERROR	uop-12-121.pacific.edu
-NOERROR	0-kluwerarbitration.com.pacificatclassic.pacific.edu
-NOERROR	uop-12-57.pacific.edu
-NOERROR	uop-11-24.pacific.edu
-NOERROR	uop-15-44.pacific.edu
-NOERROR	webspawn.pacific.edu
-NOERROR	uop-13-143.pacific.edu
-NOERROR	uop-10-250.pacific.edu
-NOERROR	uop-14-212.pacific.edu
-NOERROR	uop-15-175.pacific.edu
-NOERROR	dentalmuseum.pacific.edu
-NOERROR	uop-14-233.pacific.edu
-NOERROR	uop-10-202.pacific.edu
-NOERROR	ashi.pacific.edu
-NOERROR	uop-8-53.pacific.edu
-NOERROR	uop-13-115.pacific.edu
-NOERROR	uop-14-124.pacific.edu
-NOERROR	0-app.vlex.com.pacificatclassic.pacific.edu
-NOERROR	www.calendar.pacific.edu
-NOERROR	uop-14-166.pacific.edu
-NOERROR	0-www.bloomberglaw.com.pacificatclassic.pacific.edu
-NOERROR	uop-8-137.pacific.edu
-NOERROR	uop-10-35.pacific.edu
-NOERROR	aleph1.pacific.edu
-NOERROR	uop-14-64.pacific.edu
-NOERROR	esbresearch.pacific.edu
-NOERROR	uop-11-32.pacific.edu
-NOERROR	vault.pacific.edu
-NOERROR	uop-15-106.pacific.edu
-NOERROR	pncapps.pacific.edu
-NOERROR	uop-13-12.pacific.edu
-NOERROR	uop-15-60.pacific.edu
-NOERROR	uop-8-100.pacific.edu
-NOERROR	print.pacific.edu
-NOERROR	uop-11-101.pacific.edu
-NOERROR	uop-10-45.pacific.edu
-NOERROR	0-1findr.1science.com.pacificatclassic.pacific.edu
-NOERROR	onbasewebdev1.stk.pacific.edu
-NOERROR	uop-13-211.pacific.edu
-NOERROR	uop-14-79.pacific.edu
-NOERROR	0-j1.next.westlaw.com.pacificatclassic.pacific.edu
-NOERROR	uop-11-92.pacific.edu
-NOERROR	uop-8-133.pacific.edu
-NOERROR	uccx.pacific.edu
-NOERROR	uop-10-1.pacific.edu
-NOERROR	uop-11-68.pacific.edu
-NOERROR	uop-14-4.pacific.edu
-NOERROR	clogicprod.stk.pacific.edu
-NOERROR	uop-13-5.pacific.edu
-NOERROR	uop-10-169.pacific.edu
-NOERROR	uop-9-66.pacific.edu
-NOERROR	0-lwwonline.com.pacificatclassic.pacific.edu
-NOERROR	uop-15-228.pacific.edu
-NOERROR	0-i1.next.westlaw.com.pacificatclassic.pacific.edu
-NOERROR	sharedev19.internal.pacific.edu
-NOERROR	uop-15-205.pacific.edu
-NOERROR	uop-11-151.pacific.edu
-NOERROR	uop-14-174.pacific.edu
-NOERROR	0-exports.ebscohost.com.pacificatclassic.pacific.edu
-NOERROR	uk.pacificatclassic.pacific.edu
-NOERROR	uop-11-45.pacific.edu
-NOERROR	uop-13-225.pacific.edu
-NOERROR	uop-9-155.pacific.edu
-NOERROR	bannerdev.ec.pacific.edu
-NOERROR	uop-8-45.pacific.edu
-NOERROR	uop-11-49.pacific.edu
-NOERROR	uop-15-239.pacific.edu
-NOERROR	uop-13-48.pacific.edu
-NOERROR	pacificfax.pacific.edu
-NOERROR	uop-9-238.pacific.edu
-NOERROR	uop-12-107.pacific.edu
-NOERROR	uop-15-98.pacific.edu
-NOERROR	esbmanagement.pacific.edu
-NOERROR	uop-14-204.pacific.edu
-NOERROR	uop-9-164.pacific.edu
-NOERROR	uop-11-131.pacific.edu
-NOERROR	uop-10-137.pacific.edu
-NOERROR	uop-15-119.pacific.edu
-NOERROR	uop-13-52.pacific.edu
-NXDOMAIN	pacificnet-ssl1.serv.pacific.edu
-NOERROR	uop-12-146.pacific.edu
-NOERROR	uop-15-7.pacific.edu
-NOERROR	uop-8-23.pacific.edu
-NOERROR	uop-8-54.pacific.edu
-NOERROR	healthclick.pacific.edu
-NOERROR	www.secure.pacific.edu
-NOERROR	uop-14-218.pacific.edu
-NOERROR	uop-12-115.pacific.edu
-NOERROR	uop-13-182.pacific.edu
-NOERROR	uop-8-92.pacific.edu
-NOERROR	mxspam1.pacific.edu
-NOERROR	ecs-network.serv.pacific.edu
-NOERROR	uop-11-195.pacific.edu
-NOERROR	0-aja.pubs.asha.org.pacificatclassic.pacific.edu
-NOERROR	uop-15-241.pacific.edu
-NOERROR	uop-15-17.pacific.edu
-NOERROR	digitalarchives.pacific.edu
-NOERROR	uop-9-158.pacific.edu
-NOERROR	pacifican.pacific.edu
-NOERROR	uop-14-78.pacific.edu
-NOERROR	uop-9-121.pacific.edu
-NOERROR	uop-12-96.pacific.edu
-NOERROR	uop-15-18.pacific.edu
-NOERROR	uop-9-247.pacific.edu
-NOERROR	155fifthfaq.pacific.edu
-NOERROR	uop-13-199.pacific.edu
-NOERROR	uop-11-29.pacific.edu
-NOERROR	0-essential.bna.com.gocat.law.pacific.edu
-NOERROR	uop-14-73.pacific.edu
-NXDOMAIN	stk-exhybrid2.stk.pacific.edu
-NOERROR	alerton.pacific.edu
-NOERROR	www.music.pacific.edu
-NOERROR	uop-15-149.pacific.edu
-NXDOMAIN	informacast.serv.pacific.edu
-NOERROR	uop-13-43.pacific.edu
-NOERROR	currentcatalog.pacific.edu
-NOERROR	cmstraining.pacific.edu
-NOERROR	uop-11-75.pacific.edu
-NXDOMAIN	dmsmedia01.stk.pacific.edu
-NOERROR	uop-13-186.pacific.edu
-NXDOMAIN	eamapsrvprod.stk.pacific.edu
-NOERROR	uop-14-189.pacific.edu
-NOERROR	uop-11-53.pacific.edu
-NOERROR	uop-9-7.pacific.edu
-NOERROR	uop-9-21.pacific.edu
-NOERROR	uop-8-8.pacific.edu
-NXDOMAIN	banner8.ec.pacific.edu
-NOERROR	uop-11-65.pacific.edu
-NOERROR	uop-9-170.pacific.edu
-NOERROR	business.ss.pacific.edu
-NOERROR	uop-13-141.pacific.edu
-NOERROR	uop-12-91.pacific.edu
-NOERROR	uop-12-94.pacific.edu
-NOERROR	email365.pacific.edu
-NOERROR	uop-9-95.pacific.edu
-NOERROR	uop-13-154.pacific.edu
-NOERROR	uop-13-42.pacific.edu
-NOERROR	uop-15-201.pacific.edu
-NOERROR	uop-14-154.pacific.edu
-NOERROR	uop-15-133.pacific.edu
-NOERROR	uop-12-232.pacific.edu
-NOERROR	pacificcatclassic.pacific.edu
-NOERROR	sfdata1.dental.pacific.edu
-NOERROR	mydeskwork.pacific.edu
-NOERROR	uop-12-122.pacific.edu
-NOERROR	0-pediatrics.aappublications.org.pacificatclassic.pacific.edu
-NOERROR	uop-15-178.pacific.edu
-NOERROR	uop-8-119.pacific.edu
-NXDOMAIN	excashub1.stk.pacific.edu
-NOERROR	uop-13-93.pacific.edu
-NOERROR	uop-8-60.pacific.edu
-NOERROR	uop-8-61.pacific.edu
-NOERROR	uop-15-226.pacific.edu
-NOERROR	uop-15-88.pacific.edu
-NOERROR	autodiscover.test.pacific.edu
-NOERROR	sim-pa-web.sac.pacific.edu
-NOERROR	uop-10-16.pacific.edu
-NOERROR	uop-8-33.pacific.edu
-NOERROR	uop-15-61.pacific.edu
-NOERROR	uop-10-63.pacific.edu
-NOERROR	english.pacific.edu
-NOERROR	uop-12-247.pacific.edu
-NOERROR	uop-10-106.pacific.edu
-NOERROR	uop-11-14.pacific.edu
-NOERROR	uop-11-74.pacific.edu
-NOERROR	sfvdevelopment.sf.pacific.edu
-NOERROR	uop-13-198.pacific.edu
-NOERROR	uop-10-7.pacific.edu
-NOERROR	0-erisatracker.bna.com.gocat.law.pacific.edu
-NOERROR	www.liberalarts.pacific.edu
-NOERROR	0-chronicle.com.pacificatclassic.pacific.edu
-NOERROR	0-oxfordre.com.pacificatclassic.pacific.edu
-NOERROR	awstest.pacific.edu
-NOERROR	www.webspawn.pacific.edu
-NOERROR	uop-10-188.pacific.edu
-NOERROR	uop-10-21.pacific.edu
-NOERROR	law.cmstraining.pacific.edu
-NOERROR	locksmithdev.pacific.edu
-NOERROR	uop-14-71.pacific.edu
-NOERROR	0-pharmacistsletter.therapeuticresearch.com.pacificatclassic.pacific.edu
-NOERROR	0-archpedi.jamanetwork.com.pacificatclassic.pacific.edu
-NOERROR	uop-14-235.pacific.edu
-NOERROR	uop-14-159.pacific.edu
-NOERROR	uop-14-48.pacific.edu
-NOERROR	uop-11-139.pacific.edu
-NOERROR	uop-12-110.pacific.edu
-NOERROR	law.ss.pacific.edu
-NOERROR	uop-13-1.pacific.edu
-NOERROR	fwroot.pacific.edu
-NOERROR	0-profile.bna.com.pacificatclassic.pacific.edu
-NOERROR	uop-13-102.pacific.edu
-NOERROR	uop-15-15.pacific.edu
-NOERROR	ci-vpn.pacific.edu
-NOERROR	graduate.pacific.edu
-NOERROR	vdi.pacific.edu
-NOERROR	uop-10-28.pacific.edu
-NOERROR	uop-14-228.pacific.edu
-NOERROR	uop-10-27.pacific.edu
-NOERROR	uop-13-166.pacific.edu
-NOERROR	wolterskluwer.com.pacificatclassic.pacific.edu
-NOERROR	emdev.pacific.edu
-NOERROR	uop-9-37.pacific.edu
-NOERROR	uop-9-204.pacific.edu
-NOERROR	uop-13-59.pacific.edu
-NOERROR	uop-8-79.pacific.edu
-NXDOMAIN	verasmartapp.stk.pacific.edu
-NOERROR	0-bybil.oxfordjournals.org.pacificatclassic.pacific.edu
-NOERROR	uop-11-105.pacific.edu
-NOERROR	uop-13-97.pacific.edu
-NOERROR	uop-8-221.pacific.edu
-NOERROR	uop-12-241.pacific.edu
-NOERROR	0-docs.newsbank.com.pacificatclassic.pacific.edu
-NOERROR	www.excellenceday.pacific.edu
-NOERROR	uop-9-88.pacific.edu
-NOERROR	uop-15-193.pacific.edu
-NOERROR	uop-10-87.pacific.edu
-NOERROR	uop-12-185.pacific.edu
-NOERROR	0-dictionaries.brillonline.com.pacificatclassic.pacific.edu
-NOERROR	uop-11-93.pacific.edu
-NOERROR	uop-11-230.pacific.edu
-NOERROR	uop-12-240.pacific.edu
-NOERROR	0-www.europaworld.com.pacificatclassic.pacific.edu
-NOERROR	uop-12-11.pacific.edu
-NOERROR	www.pacifician.pacific.edu
-NOERROR	share.internal.pacific.edu
-NOERROR	uop-11-87.pacific.edu
-NOERROR	uop-14-151.pacific.edu
-NOERROR	uop-15-171.pacific.edu
-NOERROR	libweb.pacific.edu
-NOERROR	music.pacific.edu
-NOERROR	0-content.ebscohost.com.pacificatclassic.pacific.edu
-NOERROR	uop-12-16.pacific.edu
-NOERROR	dental.cmstraining.pacific.edu
-NOERROR	uop-10-100.pacific.edu
-NOERROR	uop-8-116.pacific.edu
-NOERROR	0-login.chicagomanualofstyle.org.pacificatclassic.pacific.edu
-NXDOMAIN	yoursite.pacific.edu
-NOERROR	uop-15-14.pacific.edu
-NOERROR	uop-12-176.pacific.edu
-NOERROR	fingerprints.pacific.edu
-NOERROR	uop-11-78.pacific.edu
-NOERROR	uop-10-148.pacific.edu
-NOERROR	uop-10-155.pacific.edu
-NOERROR	uop-10-81.pacific.edu
-NOERROR	uop-8-134.pacific.edu
-NOERROR	0-infoweb.newsbank.com.pacificatclassic.pacific.edu
-NOERROR	business.dev.pacific.edu
-NXDOMAIN	eamapsrvdev.stk.pacific.edu
-NOERROR	uop-15-177.pacific.edu
-NOERROR	uop-8-214.pacific.edu
-NOERROR	0-www.kluwerlawonline.com.pacificatclassic.pacific.edu
-NOERROR	uop-8-105.pacific.edu
-NOERROR	uop-11-240.pacific.edu
-NOERROR	uop-12-169.pacific.edu
-NOERROR	0-web.a.ebscohost.com.pacificatclassic.pacific.edu
-NOERROR	uop-8-143.pacific.edu
-NOERROR	uop-12-228.pacific.edu
-NOERROR	0-www.vlex.com.pacificatclassic.pacific.edu
-NOERROR	0-www.bna.com.pacificatclassic.pacific.edu
-NOERROR	uop-13-206.pacific.edu
-NOERROR	uop-15-68.pacific.edu
-NOERROR	uop-8-223.pacific.edu
-NOERROR	uop-15-101.pacific.edu
-NOERROR	uop-8-162.pacific.edu
-NOERROR	uop-14-110.pacific.edu
-NOERROR	0-www.hcn.org.pacificatclassic.pacific.edu
-NOERROR	uop-15-20.pacific.edu
-NOERROR	uop-14-177.pacific.edu
-NOERROR	uop-14-90.pacific.edu
-NOERROR	uop-13-212.pacific.edu
-NOERROR	sanfrancisco.pacific.edu
-NOERROR	pharmacy.test.pacific.edu
-NOERROR	0-medialaw.bna.com.gocat.law.pacific.edu
-NOERROR	uop-12-83.pacific.edu
-NOERROR	uop-10-243.pacific.edu
-NOERROR	pharmacyschool.pacific.edu
-NOERROR	uop-9-12.pacific.edu
-NOERROR	uop-8-152.pacific.edu
-NOERROR	uop-9-134.pacific.edu
-NOERROR	uop-12-73.pacific.edu
-NOERROR	uop-8-218.pacific.edu
-NOERROR	uop-15-109.pacific.edu
-NOERROR	uop-10-61.pacific.edu
-NOERROR	uop-11-26.pacific.edu
-NOERROR	uop-12-9.pacific.edu
-NOERROR	music.ss.pacific.edu
-NOERROR	uop-8-18.pacific.edu
-NOERROR	iris.pacific.edu
-NOERROR	solarwinds.pacific.edu
-NOERROR	uop-12-19.pacific.edu
-NOERROR	webapps.pacific.edu
-NOERROR	appnav-prod.ec.pacific.edu
-NOERROR	uop-9-228.pacific.edu
-NOERROR	uop-9-131.pacific.edu
-NOERROR	www.lists.pacific.edu
-NOERROR	uop-15-223.pacific.edu
-NOERROR	uop-12-113.pacific.edu
-NOERROR	uop-11-187.pacific.edu
-NOERROR	uop-15-156.pacific.edu
-NOERROR	uop-14-3.pacific.edu
-NOERROR	uop-8-181.pacific.edu
-NOERROR	sharedev16.internal.pacific.edu
-NOERROR	0-nationalgeographic.eoncontent.ebscohost.com.pacificatclassic.pacific.edu
-NOERROR	www2.pacific.edu
-NOERROR	uop-11-208.pacific.edu
-NXDOMAIN	gitlab.serv.pacific.edu
-NOERROR	uop-8-194.pacific.edu
-NOERROR	uop-15-150.pacific.edu
-NOERROR	www.dugonidiscoveryday.pacific.edu
-NOERROR	sfrdgateway.pacific.edu
-NOERROR	uop-9-173.pacific.edu
-NOERROR	sis.pacific.edu
-NOERROR	uop-14-51.pacific.edu
-NOERROR	uop-14-22.pacific.edu
-NOERROR	uop-11-88.pacific.edu
-NOERROR	uop-13-213.pacific.edu
-NOERROR	uop-8-238.pacific.edu
-NOERROR	uop-8-70.pacific.edu
-NOERROR	uop-14-223.pacific.edu
-NXDOMAIN	spwebprod2.stk.pacific.edu
-NOERROR	mxrentals.pacific.edu
-NOERROR	uop-15-183.pacific.edu
-NOERROR	uop-13-83.pacific.edu
-NOERROR	uop-12-118.pacific.edu
-NOERROR	uop-10-24.pacific.edu
-NOERROR	uop-9-6.pacific.edu
-NOERROR	uop-8-131.pacific.edu
-NOERROR	nscprod.pacific.edu
-NOERROR	uop-13-10.pacific.edu
-NOERROR	0-www.r2library.com.pacificatclassic.pacific.edu
-NOERROR	uop-15-40.pacific.edu
-NOERROR	uop-9-96.pacific.edu
-NOERROR	uop-15-69.pacific.edu
-NOERROR	contactpoint.pacific.edu
-NOERROR	uop-14-247.pacific.edu
-NOERROR	0-education.qwest.tv.pacificatclassic.pacific.edu
-NOERROR	uop-9-184.pacific.edu
-NXDOMAIN	onbasewebprodim.stk.pacific.edu
-NOERROR	uop-15-195.pacific.edu
-NOERROR	uop-9-54.pacific.edu
-NOERROR	uop-10-189.pacific.edu
-NOERROR	uop-9-185.pacific.edu
-NOERROR	www.ss.pacific.edu
-NXDOMAIN	spwebprod1.stk.pacific.edu
-NOERROR	uop-10-195.pacific.edu
-NOERROR	uop-14-169.pacific.edu
-NOERROR	uop-10-236.pacific.edu
-NOERROR	uop-14-155.pacific.edu
-NOERROR	0-corpgov.bna.com.pacificatclassic.pacific.edu
-NOERROR	uop-11-104.pacific.edu
-NOERROR	uop-9-112.pacific.edu
-NOERROR	0-ahainst.ipublishcentral.com.pacificatclassic.pacific.edu
-NOERROR	uop-10-47.pacific.edu
-NOERROR	uop-10-218.pacific.edu
-NOERROR	uop-10-187.pacific.edu
-NOERROR	grad.ss.pacific.edu
-NOERROR	uop-15-250.pacific.edu
-NOERROR	uop-9-239.pacific.edu
-NOERROR	uop-11-192.pacific.edu
-NOERROR	uop-14-128.pacific.edu
-NOERROR	uop-11-204.pacific.edu
-NOERROR	uop-11-138.pacific.edu
-NOERROR	uop-15-38.pacific.edu
-NOERROR	www.olli.pacific.edu
-NOERROR	uop-10-246.pacific.edu
-NOERROR	uop-15-182.pacific.edu
-NOERROR	uop-10-110.pacific.edu
-NOERROR	uop-14-193.pacific.edu
-NOERROR	banner.pacific.edu
-NOERROR	www.pacific.edu
-NOERROR	alerts.pacific.edu
-NOERROR	uop-11-238.pacific.edu
-NOERROR	uop-9-94.pacific.edu
-NOERROR	uop-13-13.pacific.edu
-NOERROR	uop-10-150.pacific.edu
-NOERROR	0-search.alexanderstreet.com.pacificatclassic.pacific.edu
-NOERROR	uop-13-72.pacific.edu
-NOERROR	uop-9-111.pacific.edu
-NOERROR	nscprod.cloud.pacific.edu
-NOERROR	uop-13-149.pacific.edu
-NOERROR	healthsciences.dev.pacific.edu
-NOERROR	uop-8-101.pacific.edu
-NOERROR	0-support.jstor.org.pacificatclassic.pacific.edu
-NOERROR	uop-14-118.pacific.edu
-NOERROR	uop-10-178.pacific.edu
-NOERROR	uop-13-66.pacific.edu
-NOERROR	uop-9-174.pacific.edu
-NOERROR	uop-15-92.pacific.edu
-NOERROR	uop-11-182.pacific.edu
-NOERROR	uop-14-46.pacific.edu
-NOERROR	degreeworks.cloud.pacific.edu
-NOERROR	musicconservatory.pacific.edu
-NOERROR	uop-12-78.pacific.edu
-NOERROR	uop-12-152.pacific.edu
-NOERROR	uop-14-100.pacific.edu
-NOERROR	www.quarantine.pacific.edu
-NOERROR	uop-13-168.pacific.edu
-NOERROR	uop-12-77.pacific.edu
-NOERROR	uop-8-248.pacific.edu
-NOERROR	service.ea.pacific.edu
-NOERROR	0-metrics.bna.com.gocat.law.pacific.edu
-NOERROR	campaign.pacific.edu
-NOERROR	uop-14-25.pacific.edu
-NOERROR	uop-15-90.pacific.edu
-NOERROR	uop-10-104.pacific.edu
-NXDOMAIN	mydesklocal.serv.pacific.edu
-NOERROR	0-www.nejm.org.pacificatclassic.pacific.edu
-NOERROR	uop-15-105.pacific.edu
-NOERROR	uop-10-90.pacific.edu
-NOERROR	uop-11-174.pacific.edu
-NOERROR	uop-9-91.pacific.edu
-NXDOMAIN	vdi-con6.stk.pacific.edu
-NOERROR	uop-15-157.pacific.edu
-NOERROR	sfmobile.sf.pacific.edu
-NOERROR	uop-10-111.pacific.edu
-NOERROR	mail.u.pacific.edu
-NOERROR	uop-11-63.pacific.edu
-NOERROR	0-ecomsci.thieme.com.pacificatclassic.pacific.edu
-NOERROR	uop-8-210.pacific.edu
-NOERROR	uop-8-83.pacific.edu
-NOERROR	uop-15-216.pacific.edu
-NOERROR	uop-11-183.pacific.edu
-NOERROR	uop-12-21.pacific.edu
-NOERROR	uop-11-25.pacific.edu
-NOERROR	mydesklocal.pacific.edu
-NOERROR	uop-15-36.pacific.edu
-NOERROR	clogicprod.pacific.edu
-NOERROR	uop-12-1.pacific.edu
-NOERROR	0-onlawprd.ceb.com.pacificatclassic.pacific.edu
-NOERROR	uop-12-87.pacific.edu
-NOERROR	tiger.pacific.edu
-NOERROR	uop-13-177.pacific.edu
-NOERROR	uop-14-219.pacific.edu
-NOERROR	uop-9-192.pacific.edu
-NOERROR	uop-11-202.pacific.edu
-NOERROR	uop-13-169.pacific.edu
-NOERROR	0-go.gale.com.pacificatclassic.pacific.edu
-NOERROR	uop-11-56.pacific.edu
-NOERROR	0-hapi.ucla.edu.pacificatclassic.pacific.edu
-NOERROR	uop-8-46.pacific.edu
-NOERROR	uop-13-106.pacific.edu
-NOERROR	cch.pacificatclassic.pacific.edu
-NOERROR	uop-12-216.pacific.edu
-NOERROR	healthsciences.test.pacific.edu
-NOERROR	uop-12-130.pacific.edu
-NOERROR	uop-8-62.pacific.edu
-NOERROR	web.pacific.edu
-NOERROR	uop-10-46.pacific.edu
-NOERROR	0-meridian.allenpress.com.pacificatclassic.pacific.edu
-NOERROR	uop-12-58.pacific.edu
-NOERROR	uop-12-51.pacific.edu
-NOERROR	gw1.ec.pacific.edu
-NOERROR	uop-8-179.pacific.edu
-NOERROR	uop-14-167.pacific.edu
-NOERROR	uop-11-196.pacific.edu
-NOERROR	uop-15-65.pacific.edu
-NOERROR	uop-10-136.pacific.edu
-NOERROR	0-imageserver.ebscohost.com.pacificatclassic.pacific.edu
-NOERROR	uop-8-51.pacific.edu
-NOERROR	gatelink.pacific.edu
-NOERROR	healthprod.stk.pacific.edu
-NOERROR	www.email.pacific.edu
-NOERROR	0-resolver.ebscohost.com.pacificatclassic.pacific.edu
-NOERROR	uop-13-250.pacific.edu
-NOERROR	uop-14-55.pacific.edu
-NOERROR	uop-11-150.pacific.edu
-NOERROR	uop-10-234.pacific.edu
-NOERROR	uop-14-83.pacific.edu
-NOERROR	uop-8-208.pacific.edu
-NOERROR	uop-8-234.pacific.edu
-NOERROR	uop-14-245.pacific.edu
-NOERROR	uop-12-132.pacific.edu
-NOERROR	uop-15-235.pacific.edu
-NOERROR	uop-13-24.pacific.edu
-NXDOMAIN	www.pacselfserv.stk.pacific.edu
-NOERROR	uop-13-17.pacific.edu
-NOERROR	uop-15-176.pacific.edu
-NOERROR	uop-13-205.pacific.edu
-NOERROR	uop-12-53.pacific.edu
-NOERROR	uop-11-169.pacific.edu
-NOERROR	www.cms.pacific.edu
-NOERROR	uop-12-235.pacific.edu
-NOERROR	uop-9-144.pacific.edu
-NOERROR	uop-10-23.pacific.edu
-NOERROR	uop-12-13.pacific.edu
-NOERROR	grad.pacific.edu
-NOERROR	uop-12-154.pacific.edu
-NOERROR	uop-8-6.pacific.edu
-NOERROR	uop-14-158.pacific.edu
-NOERROR	uop-11-80.pacific.edu
-NOERROR	login.ezproxy.pacific.edu
-NOERROR	uop-15-113.pacific.edu
-NOERROR	uop-10-42.pacific.edu
-NOERROR	0-www.privco.com.pacificatclassic.pacific.edu
-NOERROR	uop-9-160.pacific.edu
-NOERROR	uop-8-183.pacific.edu
-NOERROR	uop-12-28.pacific.edu
-NOERROR	advizor.pacific.edu
-NOERROR	lum-prod.ec.pacific.edu
-NOERROR	uop-15-95.pacific.edu
-NOERROR	uop-12-50.pacific.edu
-NOERROR	uop-14-105.pacific.edu
-NOERROR	uop-15-211.pacific.edu
-NOERROR	0-forecast.countrywatch.com.pacificatclassic.pacific.edu
-NOERROR	ecs-cslinux.serv.pacific.edu
-NOERROR	uop-10-10.pacific.edu
-NOERROR	uop-8-165.pacific.edu
-NXDOMAIN	exev.stk.pacific.edu
-NXDOMAIN	pacificfax.stk.pacific.edu
-NOERROR	uop-9-92.pacific.edu
-NOERROR	www.dugoniblogs.pacific.edu
-NOERROR	uop-13-223.pacific.edu
-NOERROR	uop-13-150.pacific.edu
-NOERROR	uop-8-29.pacific.edu
-NOERROR	uop-11-33.pacific.edu
-NOERROR	uop-14-143.pacific.edu
-NOERROR	uop-13-70.pacific.edu
-NOERROR	uop-10-145.pacific.edu
-NOERROR	uop-15-233.pacific.edu
-NOERROR	uop-10-133.pacific.edu
-NOERROR	uop-10-75.pacific.edu
-NOERROR	uop-15-190.pacific.edu
-NOERROR	uop-11-236.pacific.edu
-NOERROR	uop-15-249.pacific.edu
-NOERROR	emsdev1.stk.pacific.edu
-NXDOMAIN	sp13webprod1.stk.pacific.edu
-NOERROR	uop-8-13.pacific.edu
-NOERROR	uop-15-203.pacific.edu
-NOERROR	uop-15-170.pacific.edu
-NOERROR	tigertotiger.pacific.edu
-NOERROR	www.overcomingobstacles.pacific.edu
-NOERROR	uop-13-76.pacific.edu
-NOERROR	uop-14-129.pacific.edu
-NOERROR	uop-14-191.pacific.edu
-NOERROR	uop-14-188.pacific.edu
-NOERROR	uop-15-66.pacific.edu
-NOERROR	0-papers.nber.org.pacificatclassic.pacific.edu
-NOERROR	uop-13-28.pacific.edu
-NOERROR	uop-10-141.pacific.edu
-NOERROR	esbsharept1.pacific.edu
-NOERROR	vcs.pacific.edu
-NOERROR	uop-13-220.pacific.edu
-NOERROR	uop-14-126.pacific.edu
-NOERROR	uop-12-70.pacific.edu
-NOERROR	uop-12-188.pacific.edu
-NOERROR	uop-12-20.pacific.edu
-NOERROR	uop-12-98.pacific.edu
-NOERROR	uop-9-86.pacific.edu
-NOERROR	uop-9-249.pacific.edu
-NOERROR	0-jicj.oxfordjournals.org.pacificatclassic.pacific.edu
-NOERROR	uop-9-128.pacific.edu
-NOERROR	uop-10-164.pacific.edu
-NOERROR	uop-12-74.pacific.edu
-NXDOMAIN	excashub3.stk.pacific.edu
-NOERROR	uop-9-145.pacific.edu
-NOERROR	sharedev16.pacific.edu
-NOERROR	uop-13-117.pacific.edu
-NOERROR	uop-9-201.pacific.edu
-NOERROR	uop-13-123.pacific.edu
-NOERROR	uop-14-144.pacific.edu
-NOERROR	uop-11-199.pacific.edu
-NOERROR	pacificatclassic.pacific.edu
-NOERROR	uop-8-40.pacific.edu
-NOERROR	uop-10-131.pacific.edu
-NOERROR	uop-12-88.pacific.edu
-NOERROR	uop-12-140.pacific.edu
-NOERROR	uop-14-150.pacific.edu
-NOERROR	uop-8-82.pacific.edu
-NOERROR	ecs-csweb.cs.pacific.edu
-NOERROR	uop-12-224.pacific.edu
-NOERROR	uop-10-116.pacific.edu
-NOERROR	uop-11-102.pacific.edu
-NOERROR	uop-9-59.pacific.edu
-NOERROR	uop-8-168.pacific.edu
-NOERROR	uop-12-217.pacific.edu
-NOERROR	uop-12-203.pacific.edu
-NXDOMAIN	vdi-con-local.stk.pacific.edu
-NOERROR	uop-8-175.pacific.edu
-NOERROR	uop-11-122.pacific.edu
-NOERROR	0-kluwerlawonline.com.pacificatclassic.pacific.edu
-NOERROR	uop-11-107.pacific.edu
-NOERROR	postapptest.pacific.edu
-NOERROR	uop-14-119.pacific.edu
-NOERROR	uop-14-156.pacific.edu
-NOERROR	uop-13-201.pacific.edu
-NOERROR	0-geneticorigins.countrywatch.com.pacificatclassic.pacific.edu
-NOERROR	0-journals.cambridge.org.pacificatclassic.pacific.edu
-NOERROR	uop-9-80.pacific.edu
-NOERROR	0-www.pdcnet.org.pacificatclassic.pacific.edu
-NOERROR	uop-13-113.pacific.edu
-NOERROR	uop-8-247.pacific.edu
-NOERROR	uop-14-102.pacific.edu
-NOERROR	uop-13-2.pacific.edu
-NOERROR	uop-13-246.pacific.edu
-NXDOMAIN	dmsmediaweb01.stk.pacific.edu
-NOERROR	0-videos.countrywatch.com.pacificatclassic.pacific.edu
-NOERROR	uop-11-97.pacific.edu
-NOERROR	uop-13-26.pacific.edu
-NOERROR	www.nextcatalog.pacific.edu
-NOERROR	uop-14-237.pacific.edu
-NOERROR	uop-14-153.pacific.edu
-NOERROR	uop-12-35.pacific.edu
-NOERROR	uop-12-31.pacific.edu
-NOERROR	0-opil.ouplaw.com.pacificatclassic.pacific.edu
-NOERROR	uop-8-232.pacific.edu
-NOERROR	uop-8-5.pacific.edu
-NOERROR	uop-12-129.pacific.edu
-NOERROR	0-pubchem.ncbi.nlm.nih.gov.gocat.law.pacific.edu
-NOERROR	uop-14-20.pacific.edu
-NOERROR	uop-10-93.pacific.edu
-NOERROR	uop-11-72.pacific.edu
-NOERROR	businessschool.pacific.edu
-NOERROR	uop-14-122.pacific.edu
-NOERROR	uop-11-146.pacific.edu
-NOERROR	uop-13-233.pacific.edu
-NOERROR	uop-8-2.pacific.edu
-NOERROR	uop-11-186.pacific.edu
-NOERROR	facultyaccess.pacific.edu
-NXDOMAIN	www.sso.serv.pacific.edu
-NOERROR	uop-8-125.pacific.edu
-NOERROR	uop-14-205.pacific.edu
-NOERROR	0-corpcompliance.bna.com.pacificatclassic.pacific.edu
-NXDOMAIN	vdi-db.stk.pacific.edu
-NOERROR	0-pubs.bna.com.gocat.law.pacific.edu
-NOERROR	uop-13-161.pacific.edu
-NOERROR	uop-10-221.pacific.edu
-NOERROR	uop-13-101.pacific.edu
-NOERROR	0-www.wkcheetah.com.pacificatclassic.pacific.edu
-NOERROR	uop-15-128.pacific.edu
-NOERROR	0-intelliconnect.cch.com.pacificatclassic.pacific.edu
-NOERROR	uop-14-161.pacific.edu
-NOERROR	uop-9-116.pacific.edu
-NOERROR	uop-13-234.pacific.edu
-NOERROR	0-dsm.psychiatryonline.org.pacificatclassic.pacific.edu
-NOERROR	tiger.serv.pacific.edu
-NOERROR	uop-14-116.pacific.edu
-NOERROR	uop-15-82.pacific.edu
-NOERROR	0-www.annualreviews.org.pacificatclassic.pacific.edu
-NOERROR	uop-14-38.pacific.edu
-NOERROR	uop-12-42.pacific.edu
-NOERROR	uop-10-127.pacific.edu
-NXDOMAIN	pacificnet-ssl2.serv.pacific.edu
-NOERROR	uop-14-183.pacific.edu
-NOERROR	uop-13-157.pacific.edu
-NOERROR	uop-13-99.pacific.edu
-NOERROR	uop-10-68.pacific.edu
-NOERROR	uop-15-57.pacific.edu
-NOERROR	uop-9-232.pacific.edu
-NOERROR	uop-9-203.pacific.edu
-NOERROR	landing.pacific.edu
-NOERROR	uop-9-17.pacific.edu
-NOERROR	jross3.pacific.edu
-NOERROR	uop-12-248.pacific.edu
-NOERROR	uop-12-144.pacific.edu
-NOERROR	uop-9-85.pacific.edu
-NOERROR	uop-15-3.pacific.edu
-NOERROR	law.test.pacific.edu
-NOERROR	uop-9-87.pacific.edu
-NOERROR	cmswebdev.pacific.edu
-NOERROR	uop-12-182.pacific.edu
-NOERROR	uop-9-44.pacific.edu
-NOERROR	uop-10-245.pacific.edu
-NOERROR	uop-11-177.pacific.edu
-NOERROR	uop-8-224.pacific.edu
-NOERROR	uop-15-230.pacific.edu
-NOERROR	uop-15-221.pacific.edu
-NOERROR	uop-13-100.pacific.edu
-NXDOMAIN	banner8dev.ec.pacific.edu
-NOERROR	uop-8-243.pacific.edu
-NOERROR	uop-10-182.pacific.edu
-NOERROR	uop-8-130.pacific.edu
-NOERROR	uop-13-4.pacific.edu
-NOERROR	calendar.pacific.edu
-NOERROR	uop-8-96.pacific.edu
-NOERROR	uop-13-216.pacific.edu
-NOERROR	o84.txmail.pacific.edu
-NOERROR	uop-12-7.pacific.edu
-NOERROR	uop-11-225.pacific.edu
-NXDOMAIN	stk-exmail1.stk.pacific.edu
-NOERROR	uop-15-8.pacific.edu
-NOERROR	issm.pacific.edu
-NOERROR	www.contactpoint.pacific.edu
-NOERROR	uop-15-6.pacific.edu
-NOERROR	uop-11-233.pacific.edu
-NOERROR	uop-8-91.pacific.edu
-NOERROR	uop-15-234.pacific.edu
-NOERROR	uop-9-63.pacific.edu
-NOERROR	uop-15-24.pacific.edu
-NOERROR	0-media.proquest.com.pacificatclassic.pacific.edu
-NOERROR	uop-8-217.pacific.edu
-NOERROR	uop-8-249.pacific.edu
-NOERROR	uop-10-17.pacific.edu
-NOERROR	uop-10-38.pacific.edu
-NOERROR	media.lectures.pacific.edu
-NOERROR	0-www.springerlink.com.gocat.law.pacific.edu
-NOERROR	pacdevcrm.pacific.edu
-NOERROR	mysitedev16.pacific.edu
-NOERROR	pac-vpn.serv.pacific.edu
-NOERROR	uop-12-139.pacific.edu
-NOERROR	uop-8-76.pacific.edu
-NOERROR	uop-11-226.pacific.edu
-NOERROR	uop-13-31.pacific.edu
-NOERROR	uop-9-180.pacific.edu
-NOERROR	uop-11-9.pacific.edu
-NOERROR	uop-11-114.pacific.edu
-NOERROR	uop-9-153.pacific.edu
-NOERROR	uop-11-58.pacific.edu
-NOERROR	bssprd.pacific.edu
-NOERROR	uop-14-130.pacific.edu
-NOERROR	0-heinonline.org.pacificatclassic.pacific.edu
-NOERROR	uop-8-193.pacific.edu
-NOERROR	uop-11-40.pacific.edu
-NOERROR	uop-12-179.pacific.edu
-NOERROR	uop-8-167.pacific.edu
-NXDOMAIN	webspawn2.stk.pacific.edu
-NOERROR	uop-15-23.pacific.edu
-NOERROR	uop-12-237.pacific.edu
-NOERROR	uop-13-71.pacific.edu
-NOERROR	0-bibliographies.brillonline.com.pacificatclassic.pacific.edu
-NOERROR	uop-15-154.pacific.edu
-NOERROR	uop-11-206.pacific.edu
-NOERROR	uop-11-69.pacific.edu
-NOERROR	0-www.jstor.org.pacificatclassic.pacific.edu
-NOERROR	uop-8-86.pacific.edu
-NOERROR	uop-8-90.pacific.edu
-NOERROR	uop-9-135.pacific.edu
-NXDOMAIN	onbasewebdevim.stk.pacific.edu
-NOERROR	asuop.pacific.edu
-NOERROR	uop-9-229.pacific.edu
-NOERROR	uop-13-181.pacific.edu
-NOERROR	uop-11-220.pacific.edu
-NOERROR	uop-10-65.pacific.edu
-NOERROR	uop-12-167.pacific.edu
-NOERROR	0-www.jove.com.pacificatclassic.pacific.edu
-NOERROR	uop-13-238.pacific.edu
-NOERROR	clogicdev.pacific.edu
-NXDOMAIN	cas0.serv.pacific.edu
-NOERROR	uop-14-170.pacific.edu
-NOERROR	uop-13-146.pacific.edu
-NOERROR	sharedev13.pacific.edu
-NOERROR	webex.pacific.edu
-NXDOMAIN	vdi-con5.stk.pacific.edu
-NOERROR	0-foreignlawguide.com.pacificatclassic.pacific.edu
-NOERROR	uop-9-43.pacific.edu
-NOERROR	uop-15-160.pacific.edu
-NOERROR	uop-13-248.pacific.edu
-NOERROR	uop-13-244.pacific.edu
-NOERROR	uop-13-60.pacific.edu
-NOERROR	uop-13-132.pacific.edu
-NOERROR	uop-9-169.pacific.edu
-NOERROR	0-webutil.bna.com.gocat.law.pacific.edu
-NOERROR	uop-8-75.pacific.edu
-NOERROR	uop-11-193.pacific.edu
-NOERROR	uop-14-239.pacific.edu
-NOERROR	uop-12-108.pacific.edu
-NOERROR	uop-14-39.pacific.edu
-NOERROR	uop-12-210.pacific.edu
-NOERROR	onbasedev.pacific.edu
-NOERROR	bridge.pacific.edu
-NOERROR	0-data.countrywatch.com.pacificatclassic.pacific.edu
-NOERROR	uop-10-166.pacific.edu
-NOERROR	esbresearch.esb.pacific.edu
-NOERROR	uop-8-66.pacific.edu
-NOERROR	uop-10-26.pacific.edu
-NOERROR	uop-13-56.pacific.edu
-NXDOMAIN	vdi-con1.stk.pacific.edu
-NOERROR	uop-10-162.pacific.edu
-NOERROR	tigerdomains.pacific.edu
-NOERROR	uop-12-65.pacific.edu
-NOERROR	uop-10-83.pacific.edu
-NOERROR	0-journals.lww.com.pacificatclassic.pacific.edu
-NOERROR	uop-12-106.pacific.edu
-NOERROR	famis.pacific.edu
-NOERROR	uop-13-11.pacific.edu
-NOERROR	uop-8-148.pacific.edu
-NOERROR	uop-14-21.pacific.edu
-NOERROR	uop-12-197.pacific.edu
-NOERROR	0-search.proquest.com.pacificatclassic.pacific.edu
-NOERROR	uop-13-62.pacific.edu
-NXDOMAIN	dmsmedia-dev.stk.pacific.edu
-NOERROR	uop-11-128.pacific.edu
-NOERROR	uop-9-200.pacific.edu
-NOERROR	uop-8-178.pacific.edu
-NOERROR	0-www.oxfordscholarship.com.pacificatclassic.pacific.edu
-NOERROR	uop-12-71.pacific.edu
-NOERROR	uop-14-209.pacific.edu
-NOERROR	lgbtqia.pacific.edu
-NOERROR	uop-15-243.pacific.edu
-NOERROR	uop-10-215.pacific.edu
-NOERROR	uop-13-228.pacific.edu
-NOERROR	uop-8-78.pacific.edu
-NXDOMAIN	vdi-composer.stk.pacific.edu
-NOERROR	emsdev.pacific.edu
-NOERROR	uop-15-137.pacific.edu
-NOERROR	uop-15-123.pacific.edu
-NOERROR	uop-10-229.pacific.edu
-NOERROR	uop-12-114.pacific.edu
-NOERROR	0-www.kluwerarbitration.com.pacificatclassic.pacific.edu
-NOERROR	uop-9-11.pacific.edu
-NOERROR	uop-9-243.pacific.edu
-NOERROR	uop-15-46.pacific.edu
-NOERROR	uop-9-217.pacific.edu
-NOERROR	uop-11-13.pacific.edu
-NOERROR	uop-10-206.pacific.edu
-NOERROR	uop-11-83.pacific.edu
-NOERROR	sfx4.lib.pacific.edu
-NOERROR	uop-14-98.pacific.edu
-NOERROR	uop-12-149.pacific.edu
-NOERROR	uop-11-8.pacific.edu
-NOERROR	engineering.pacific.edu
-NOERROR	uop-9-175.pacific.edu
-NOERROR	uop-15-174.pacific.edu
-NOERROR	pac-vpn.pacific.edu
-NXDOMAIN	compliancesrv.stk.pacific.edu
-NOERROR	uop-14-201.pacific.edu
-NOERROR	uop-13-125.pacific.edu
-NOERROR	uop-11-190.pacific.edu
-NOERROR	uop-14-157.pacific.edu
-NXDOMAIN	cpipsso.ea.pacific.edu
-NOERROR	uop-8-150.pacific.edu
-NOERROR	uop-10-190.pacific.edu
-NOERROR	uop-15-145.pacific.edu
-NOERROR	uop-12-24.pacific.edu
-NOERROR	uop-12-82.pacific.edu
-NOERROR	nextcatalog.pacific.edu
-NOERROR	uop-13-217.pacific.edu
-NOERROR	sandbox.pacificatclassic.pacific.edu
-NOERROR	uop-15-10.pacific.edu
-NOERROR	uop-12-143.pacific.edu
-NOERROR	physicaltherapyprogram.pacific.edu
-NOERROR	0-www.mitpressjournals.org.pacificatclassic.pacific.edu
-NOERROR	tickets.pacific.edu
-NOERROR	uop-8-220.pacific.edu
-NOERROR	uop-11-16.pacific.edu
-NOERROR	uop-9-110.pacific.edu
-NOERROR	uop-8-63.pacific.edu
-NOERROR	uop-15-199.pacific.edu
-NOERROR	uop-10-138.pacific.edu
-NOERROR	uop-10-108.pacific.edu
-NOERROR	ets.pacific.edu
-NOERROR	uop-12-133.pacific.edu
-NOERROR	uop-13-92.pacific.edu
-NOERROR	uop-8-184.pacific.edu
-NOERROR	0-anthrosource.onlinelibrary.wiley.com.pacificatclassic.pacific.edu
-NOERROR	uop-15-130.pacific.edu
-NOERROR	uop-10-124.pacific.edu
-NOERROR	0-bnanews.bna.com.pacificatclassic.pacific.edu
-NOERROR	uop-11-141.pacific.edu
-NOERROR	www.ipdev.pacific.edu
-NOERROR	uop-8-64.pacific.edu
-NOERROR	uop-8-11.pacific.edu
-NOERROR	healthsciences.pacific.edu
-NOERROR	uop-9-240.pacific.edu
-NOERROR	uop-8-16.pacific.edu
-NOERROR	uop-14-61.pacific.edu
-NOERROR	uop-12-54.pacific.edu
-NOERROR	tsailab.pacific.edu
-NOERROR	etsxserve.pacific.edu
-NOERROR	sfsharedev.pacific.edu
-NOERROR	0-www.oxfordmusiconline.com.pacificatclassic.pacific.edu
-NOERROR	uop-9-213.pacific.edu
-NOERROR	uop-10-147.pacific.edu
-NOERROR	0-flsatracker.bna.com.gocat.law.pacific.edu
-NOERROR	uop-11-11.pacific.edu
-NOERROR	uop-8-21.pacific.edu
-NOERROR	0-galeapps.gale.com.pacificatclassic.pacific.edu
-NOERROR	uop-13-29.pacific.edu
-NOERROR	uop-14-31.pacific.edu
-NOERROR	dev.pacific.edu
-NOERROR	www.test.pacific.edu
-NOERROR	morrischapel.pacific.edu
-NOERROR	0-www.sciencemag.org.pacificatclassic.pacific.edu
-NOERROR	mysitedev19.pacific.edu
-NOERROR	uop-12-208.pacific.edu
-NOERROR	uop-8-239.pacific.edu
-NOERROR	uop-10-154.pacific.edu
-NOERROR	uop-15-25.pacific.edu
-NOERROR	uop-9-138.pacific.edu
-NOERROR	uop-10-216.pacific.edu
-NOERROR	uop-10-20.pacific.edu
-NOERROR	uop-10-232.pacific.edu
-NXDOMAIN	slpncappsweb.stk.pacific.edu
-NOERROR	uop-14-81.pacific.edu
-NOERROR	0-www.geoscienceworld.org.pacificatclassic.pacific.edu
-NOERROR	uop-14-199.pacific.edu
-NOERROR	uop-11-188.pacific.edu
-NOERROR	uop-9-61.pacific.edu
-NOERROR	0-fod.infobase.com.pacificatclassic.pacific.edu
-NOERROR	oitfaq.pacific.edu
-NOERROR	0-www.iclr.co.uk.pacificatclassic.pacific.edu
-NOERROR	itunes.pacific.edu
-NOERROR	uop-15-142.pacific.edu
-NOERROR	uop-15-86.pacific.edu
-NOERROR	uop-8-67.pacific.edu
-NOERROR	uop-8-124.pacific.edu
-NOERROR	uop-8-237.pacific.edu
-NOERROR	uop-8-156.pacific.edu
-NOERROR	uop-10-144.pacific.edu
-NOERROR	uop-13-37.pacific.edu
-NOERROR	uop-14-87.pacific.edu
-NOERROR	uop-11-239.pacific.edu
-NOERROR	uop-10-235.pacific.edu
-NOERROR	uop-12-177.pacific.edu
-NOERROR	uop-15-188.pacific.edu
-NOERROR	uop-8-127.pacific.edu
-NOERROR	uop-13-189.pacific.edu
-NOERROR	aces2.pacific.edu
-NOERROR	uop-15-35.pacific.edu
-NOERROR	uop-9-129.pacific.edu
-NOERROR	uop-15-78.pacific.edu
-NOERROR	0-a.next.westlaw.com.pacificatclassic.pacific.edu
-NOERROR	0-www.chronicle.com.pacificatclassic.pacific.edu
-NOERROR	uop-9-141.pacific.edu
-NOERROR	0-rmmlf.casemakerlibra.com.pacificatclassic.pacific.edu
-NOERROR	uop-15-16.pacific.edu
-NOERROR	uop-13-111.pacific.edu
-NOERROR	uop-12-206.pacific.edu
-NOERROR	engineering.dev.pacific.edu
-NOERROR	uop-12-75.pacific.edu
-NOERROR	uop-15-63.pacific.edu
-NOERROR	uop-15-207.pacific.edu
-NOERROR	cms.pacific.edu
-NOERROR	uop-10-25.pacific.edu
-NOERROR	rms1.pacific.edu
-NOERROR	uop-10-153.pacific.edu
-NOERROR	0-www.rmmlf-library.org.pacificatclassic.pacific.edu
-NOERROR	uop-13-122.pacific.edu
-NOERROR	0-referenceworks.brillonline.com.pacificatclassic.pacific.edu
-NOERROR	uop-14-112.pacific.edu
-NOERROR	uop-14-30.pacific.edu
-NOERROR	uop-14-36.pacific.edu
-NOERROR	uop-8-159.pacific.edu
-NOERROR	uop-8-215.pacific.edu
-NOERROR	0-www.degruyter.com.pacificatclassic.pacific.edu
-NOERROR	uop-9-77.pacific.edu
-NOERROR	0-site.ebrary.com.pacificatclassic.pacific.edu
-NOERROR	sfsharedev16.pacific.edu
-NOERROR	uop-8-69.pacific.edu
-NOERROR	uop-11-35.pacific.edu
-NOERROR	uop-9-118.pacific.edu
-NOERROR	0-pubs.acs.org.pacificcatclassic.pacific.edu
-NOERROR	uop-8-201.pacific.edu
-NOERROR	uop-11-123.pacific.edu
-NOERROR	0-checkpoint.riag.com.pacificatclassic.pacific.edu
-NOERROR	uop-13-243.pacific.edu
-NOERROR	law.dev.pacific.edu
-NOERROR	uop-10-74.pacific.edu
-NOERROR	uop-9-119.pacific.edu
-NOERROR	dental.pacific.edu
-NOERROR	uop-14-59.pacific.edu
-NOERROR	uop-13-222.pacific.edu
-NOERROR	uop-14-8.pacific.edu
-NOERROR	uop-11-164.pacific.edu
-NOERROR	uop-14-200.pacific.edu
-NOERROR	uop-9-122.pacific.edu
-NOERROR	uop-10-57.pacific.edu
-NOERROR	gocat.law.pacific.edu
-NOERROR	uop-11-152.pacific.edu
-NOERROR	uop-12-196.pacific.edu
-NOERROR	uop-14-145.pacific.edu
-NOERROR	uop-13-207.pacific.edu
-NOERROR	uop-10-180.pacific.edu
-NOERROR	nl.pacificatclassic.pacific.edu
-NXDOMAIN	paccppm3.serv.pacific.edu
-NOERROR	uop-10-214.pacific.edu
-NOERROR	uop-12-90.pacific.edu
-NOERROR	0-medone-comsci.thieme.com.pacificatclassic.pacific.edu
-NOERROR	0-my.bna.com.gocat.law.pacific.edu
-NOERROR	uop-12-127.pacific.edu
-NOERROR	uop-12-230.pacific.edu
-NOERROR	uop-15-21.pacific.edu
-NOERROR	uop-15-140.pacific.edu
-NOERROR	0-www.engineeringvillage.com.pacificatclassic.pacific.edu
-NOERROR	0-apps.fastcase.com.pacificatclassic.pacific.edu
-NOERROR	uop-14-95.pacific.edu
-NOERROR	share.pacific.edu
-NOERROR	uop-9-156.pacific.edu
-NOERROR	uop-11-95.pacific.edu
-NOERROR	0-proquest.safaribooksonline.com.pacificatclassic.pacific.edu
-NOERROR	uop-11-147.pacific.edu
-NOERROR	uop-15-104.pacific.edu
-NOERROR	uop-8-241.pacific.edu
-NOERROR	emergency.pacific.edu
-NOERROR	liberalarts.test.pacific.edu
-NOERROR	uop-15-27.pacific.edu
-NOERROR	sharedev.pacific.edu
-NOERROR	0-www.rmmlf-library.org.gocat.law.pacific.edu
-NOERROR	uop-11-156.pacific.edu
-NOERROR	covid.pacific.edu
-NOERROR	uop-12-18.pacific.edu
-NOERROR	scholarlycommons.pacific.edu
-NOERROR	uop-11-43.pacific.edu
-NOERROR	0-www.mergentintellect.com.pacificatclassic.pacific.edu
-NOERROR	uop-14-243.pacific.edu
-NOERROR	uop-13-230.pacific.edu
-NOERROR	college.pacific.edu
-NOERROR	mydesklabs.pacific.edu
-NOERROR	uop-15-30.pacific.edu
-NOERROR	uop-14-42.pacific.edu
-NOERROR	cisco-wlc.wireless.pacific.edu
-NOERROR	0-products.newsbank.com.pacificatclassic.pacific.edu
-NOERROR	www.law.pacific.edu
-NOERROR	uop-13-80.pacific.edu
-NOERROR	cpce.pacific.edu
-NOERROR	uop-8-211.pacific.edu
-NOERROR	uop-8-227.pacific.edu
-NXDOMAIN	stk-exmail3.stk.pacific.edu
-NOERROR	uop-9-178.pacific.edu
-NOERROR	uop-15-165.pacific.edu
-NOERROR	iisprod.pacific.edu
-NOERROR	uop-15-169.pacific.edu
-NOERROR	uop-11-217.pacific.edu
-NOERROR	uop-13-91.pacific.edu
-NOERROR	uop-13-134.pacific.edu
-NOERROR	uop-12-48.pacific.edu
-NOERROR	uop-13-6.pacific.edu
-NOERROR	uop-10-3.pacific.edu
-NOERROR	0-www.fulcrum.org.pacificatclassic.pacific.edu
-NOERROR	uop-8-192.pacific.edu
-NOERROR	www.pharmacy.pacific.edu
-NOERROR	0-www.oed.com.pacificatclassic.pacific.edu
-NOERROR	uop-9-38.pacific.edu
-NOERROR	quarantine.pacific.edu
-NOERROR	uop-14-14.pacific.edu
-NOERROR	uop-10-174.pacific.edu
-NOERROR	uop-8-202.pacific.edu
-NOERROR	uop-14-141.pacific.edu
-NOERROR	uop-10-213.pacific.edu
-NOERROR	uop-9-58.pacific.edu
-NOERROR	0-proquestcombo.safaribooksonline.com.pacificatclassic.pacific.edu
-NXDOMAIN	dmsmediatrans-dev.stk.pacific.edu
-NOERROR	uop-13-204.pacific.edu
-NOERROR	uop-13-64.pacific.edu
-NOERROR	uop-9-26.pacific.edu
-NOERROR	0-li.proquest.com.pacificatclassic.pacific.edu
-NOERROR	uop-15-122.pacific.edu
-NOERROR	uop-10-56.pacific.edu
-NOERROR	uop-15-51.pacific.edu
-NOERROR	uop-9-35.pacific.edu
-NOERROR	uop-9-22.pacific.edu
-NOERROR	uop-14-67.pacific.edu
-NOERROR	0-pinnacle-secure.allenpress.com.pacificatclassic.pacific.edu
-NOERROR	uop-10-15.pacific.edu
-NOERROR	uop-10-224.pacific.edu
-NOERROR	uop-14-33.pacific.edu
-NOERROR	uop-11-89.pacific.edu
-NOERROR	0-2019.vlex.com.pacificatclassic.pacific.edu
-NOERROR	uop-14-213.pacific.edu
-NOERROR	uop-12-226.pacific.edu
-NOERROR	uop-10-123.pacific.edu
-NOERROR	uop-14-120.pacific.edu
-NOERROR	uop-14-62.pacific.edu
-NOERROR	pacshare.pacific.edu
-NOERROR	www.currentcatalog.pacific.edu
-NOERROR	uop-11-213.pacific.edu
-NOERROR	0-onlaw.ceb.com.pacificatclassic.pacific.edu
-NOERROR	uop-14-181.pacific.edu
-NOERROR	uop-10-208.pacific.edu
-NOERROR	uop-11-249.pacific.edu
-NOERROR	uop-11-20.pacific.edu
-NOERROR	uop-13-63.pacific.edu
-NOERROR	uop-9-78.pacific.edu
-NOERROR	uop-11-178.pacific.edu
-NOERROR	uop-13-231.pacific.edu
-NOERROR	autodiscover.testdom03.pacific.edu
-NOERROR	purpose.pacific.edu
-NOERROR	uop-8-231.pacific.edu
-NOERROR	0-dx.doi.org.pacificatclassic.pacific.edu
-NOERROR	uop-11-76.pacific.edu
-NOERROR	uop-9-219.pacific.edu
-NXDOMAIN	cmsstage.stk.pacific.edu
-NOERROR	mirapoint1.pacific.edu
-NOERROR	sharedev.internal.pacific.edu
-NOERROR	uop-13-148.pacific.edu
-NOERROR	uop-11-106.pacific.edu
-NOERROR	uop-15-138.pacific.edu
-NOERROR	uop-12-105.pacific.edu
-NOERROR	uop-12-155.pacific.edu
-NOERROR	uop-8-103.pacific.edu
-NOERROR	uop-12-125.pacific.edu
-NOERROR	uop-11-175.pacific.edu
-NOERROR	uop-12-200.pacific.edu
-NXDOMAIN	spwebext2.stk.pacific.edu
-NOERROR	uop-10-41.pacific.edu
-NOERROR	uop-15-48.pacific.edu
-NOERROR	uop-11-81.pacific.edu
-NOERROR	mx40.pacific.edu
-NOERROR	uop-13-33.pacific.edu
-NOERROR	uop-8-85.pacific.edu
-NOERROR	uop-10-84.pacific.edu
-NOERROR	0-lawyersmanual.bna.com.pacificatclassic.pacific.edu
-NOERROR	mswebapps13.pacific.edu
-NOERROR	uop-12-199.pacific.edu
-NOERROR	uop-14-107.pacific.edu
-NOERROR	0-healthlaw.bna.com.pacificatclassic.pacific.edu
-NOERROR	pop.dental.pacific.edu
-NOERROR	uop-9-125.pacific.edu
-NOERROR	uop-8-71.pacific.edu
-NOERROR	uop-9-71.pacific.edu
-NOERROR	uop-8-149.pacific.edu
-NOERROR	uop-11-242.pacific.edu
-NOERROR	0-clmu.alexanderstreet.com.pacificatclassic.pacific.edu
-NOERROR	0-pubs.geoscienceworld.org.pacificatclassic.pacific.edu
-NOERROR	uop-15-161.pacific.edu
-NOERROR	uop-11-181.pacific.edu
-NOERROR	uop-15-144.pacific.edu
-NXDOMAIN	spwebdev13.stk.pacific.edu
-NOERROR	uop-15-197.pacific.edu
-NOERROR	0-web.ebscohost.com.pacificatclassic.pacific.edu
-NOERROR	uop-13-155.pacific.edu
-NOERROR	uop-12-187.pacific.edu
-NOERROR	uop-15-62.pacific.edu
-NOERROR	0-jcr.incites.thomsonreuters.com.pacificatpublic.pacific.edu
-NOERROR	uop-11-96.pacific.edu
-NOERROR	uop-13-190.pacific.edu
-NOERROR	0-online.goinglobal.com.pacificatclassic.pacific.edu
-NOERROR	uop-9-224.pacific.edu
-NOERROR	uop-15-73.pacific.edu
-NOERROR	uop-8-22.pacific.edu
-NOERROR	uop-10-77.pacific.edu
-NOERROR	mx.pacific.edu
-NOERROR	uop-8-73.pacific.edu
-NOERROR	uop-8-176.pacific.edu
-NOERROR	uop-12-181.pacific.edu
-NOERROR	uop-15-126.pacific.edu
-NOERROR	uop-12-12.pacific.edu
-NOERROR	uop-13-116.pacific.edu
-NOERROR	uop-8-129.pacific.edu
-NOERROR	uop-11-250.pacific.edu
-NOERROR	0-c1.next.westlaw.com.pacificatclassic.pacific.edu
-NOERROR	uop-14-18.pacific.edu
-NOERROR	uop-14-15.pacific.edu
-NOERROR	uop-14-13.pacific.edu
-NOERROR	uop-15-141.pacific.edu
-NOERROR	uop-10-114.pacific.edu
-NOERROR	news.pacific.edu
-NOERROR	uop-15-163.pacific.edu
-NOERROR	uop-8-225.pacific.edu
-NOERROR	uop-15-108.pacific.edu
-NOERROR	uop-11-173.pacific.edu
-NOERROR	uop-14-216.pacific.edu
-NOERROR	cmsprod.pacific.edu
-NOERROR	uop-14-24.pacific.edu
-NXDOMAIN	pyramid.stk.pacific.edu
-NOERROR	uop-8-14.pacific.edu
-NOERROR	uop-8-58.pacific.edu
-NOERROR	uop-10-247.pacific.edu
-NOERROR	uop-8-163.pacific.edu
-NOERROR	0-taxandaccounting.bna.com.gocat.law.pacific.edu
-NOERROR	uop-11-86.pacific.edu
-NOERROR	uop-12-163.pacific.edu
-NOERROR	uop-14-50.pacific.edu
-NOERROR	uop-8-110.pacific.edu
-NOERROR	uop-13-160.pacific.edu
-NOERROR	uop-10-86.pacific.edu
-NOERROR	uop-13-30.pacific.edu
-NXDOMAIN	spwebext1.stk.pacific.edu
-NOERROR	uop-11-70.pacific.edu
-NOERROR	uop-13-44.pacific.edu
-NOERROR	www.print.pacific.edu
-NOERROR	uop-14-178.pacific.edu
-NOERROR	0-www.mergentonline.com.pacificatclassic.pacific.edu
-NOERROR	0-eproducts.westacademic.com.pacificatclassic.pacific.edu
-NOERROR	pacauth.pacific.edu
-NOERROR	uop-8-126.pacific.edu
-NOERROR	0-find.galegroup.com.pacificatclassic.pacific.edu
-NOERROR	uop-14-65.pacific.edu
-NOERROR	0-wkcheetah.com.pacificatclassic.pacific.edu
-NXDOMAIN	extest2010.testdom03.pacific.edu
-NOERROR	uop-13-14.pacific.edu
-NOERROR	uop-12-55.pacific.edu
-NOERROR	uop-14-194.pacific.edu
-NOERROR	go.pacific.edu
-NOERROR	uop-9-234.pacific.edu
-NOERROR	uop-9-57.pacific.edu
-NOERROR	uop-8-213.pacific.edu
-NOERROR	uop-9-137.pacific.edu
-NOERROR	0-www.chicagomanualofstyle.org.pacificatclassic.pacific.edu
-NOERROR	liberalarts.ss.pacific.edu
-NOERROR	phsweb.pacific.edu
-NOERROR	uop-12-10.pacific.edu
-NOERROR	www.phsweb.pacific.edu
-NOERROR	uop-15-202.pacific.edu
-NOERROR	uop-9-97.pacific.edu
-NOERROR	uop-15-185.pacific.edu
-NOERROR	uop-15-99.pacific.edu
-NOERROR	uop-11-171.pacific.edu
-NOERROR	osmosis.pacific.edu
-NOERROR	uop-13-22.pacific.edu
-NOERROR	uop-11-162.pacific.edu
-NOERROR	catalog.pacific.edu
-NOERROR	uop-9-171.pacific.edu
-NOERROR	www.dentalmuseum.pacific.edu
-NOERROR	0-www.ripmfulltext.org.pacificatclassic.pacific.edu
-NOERROR	uop-9-165.pacific.edu
-NOERROR	0-spiedigitallibrary.org.pacificatclassic.pacific.edu
-NOERROR	uop-10-31.pacific.edu
-NOERROR	casper.pacific.edu
-NOERROR	uop-14-163.pacific.edu
-NOERROR	0-online.sagepub.com.pacificatclassic.pacific.edu
-NOERROR	uop-8-173.pacific.edu
-NOERROR	0-secure.medicalletter.org.pacificatclassic.pacific.edu
-NOERROR	honors.pacific.edu
-NOERROR	nscdev.ec.pacific.edu
-NOERROR	uop-10-200.pacific.edu
-NOERROR	uop-14-135.pacific.edu
-NOERROR	uop-13-191.pacific.edu
-NOERROR	mswebapps13dev.pacific.edu
-NXDOMAIN	stkuccx2.stk.pacific.edu
-NOERROR	uop-15-153.pacific.edu
-NOERROR	0-primarysources.brillonline.com.pacificatclassic.pacific.edu
-NOERROR	uop-9-109.pacific.edu
-NOERROR	uop-13-95.pacific.edu
-NOERROR	www.smtp.pacific.edu
-NOERROR	uop-15-210.pacific.edu
-NOERROR	uop-14-208.pacific.edu
-NOERROR	uop-8-28.pacific.edu
-NOERROR	uop-13-208.pacific.edu
-NOERROR	uop-10-241.pacific.edu
-NXDOMAIN	libweb.serv.pacific.edu
-NOERROR	uop-11-143.pacific.edu
-NOERROR	uop-8-35.pacific.edu
-NOERROR	uop-12-204.pacific.edu
-NOERROR	uop-13-144.pacific.edu
-NOERROR	uop-9-124.pacific.edu
-NOERROR	0-onlinelibrary.wiley.com.pacificatclassic.pacific.edu
-NOERROR	education.dev.pacific.edu
-NOERROR	0-pacific.naxosmusiclibrary.com.pacificatclassic.pacific.edu
-NOERROR	uop-8-199.pacific.edu
-NOERROR	cloud.pacific.edu
-NOERROR	www.healthsciences.pacific.edu
-NOERROR	uop-15-215.pacific.edu
-NOERROR	sfshare.pacific.edu
-NOERROR	uop-15-186.pacific.edu
-NOERROR	uop-8-3.pacific.edu
-NOERROR	uop-14-240.pacific.edu
-NOERROR	uop-12-173.pacific.edu
-NOERROR	uop-14-138.pacific.edu
-NOERROR	uop-14-35.pacific.edu
-NOERROR	coptic.pacific.edu
-NOERROR	uop-9-39.pacific.edu
-NOERROR	uop-15-120.pacific.edu
-NOERROR	uop-8-195.pacific.edu
-NOERROR	uop-10-85.pacific.edu
-NOERROR	uop-9-73.pacific.edu
-NOERROR	0-www.digitalconcerthall.com.pacificatclassic.pacific.edu
-NOERROR	uop-8-97.pacific.edu
-NOERROR	uop-9-114.pacific.edu
-NOERROR	webshare.pacific.edu
-NOERROR	uop-13-156.pacific.edu
-NOERROR	uop-10-98.pacific.edu
-NOERROR	uop-8-98.pacific.edu
-NOERROR	uop-8-87.pacific.edu
-NOERROR	uop-12-128.pacific.edu
-NOERROR	uop-15-58.pacific.edu
-NOERROR	conservatory.pacific.edu
-NOERROR	patientaccess.pacific.edu
-NOERROR	0-pubs.acs.org.pacificatclassic.pacific.edu
-NOERROR	uop-11-157.pacific.edu
-NOERROR	uop-9-166.pacific.edu
-NOERROR	0-global.factiva.com.pacificatclassic.pacific.edu
-NOERROR	gwmail.pacific.edu
-NOERROR	uop-8-113.pacific.edu
-NOERROR	uop-12-33.pacific.edu
-NOERROR	uop-14-222.pacific.edu
-NOERROR	uop-9-53.pacific.edu
-NOERROR	uop-10-12.pacific.edu
-NOERROR	uop-13-104.pacific.edu
-NOERROR	uop-15-76.pacific.edu
-NOERROR	uop-9-136.pacific.edu
-NOERROR	uop-15-194.pacific.edu
-NOERROR	uop-13-235.pacific.edu
-NOERROR	pacific.edu
-NOERROR	uop-12-5.pacific.edu
-NOERROR	uop-9-72.pacific.edu
-NOERROR	uop-9-48.pacific.edu
-NOERROR	uop-8-102.pacific.edu
-NOERROR	uop-13-77.pacific.edu
-NOERROR	uop-8-245.pacific.edu
-NOERROR	uop-15-231.pacific.edu
-NOERROR	uop-9-50.pacific.edu
-NOERROR	0-www.nytimes.com.pacificatclassic.pacific.edu
-NOERROR	uop-8-15.pacific.edu
-NOERROR	uop-15-96.pacific.edu
-NOERROR	0-dailyreport.bna.com.gocat.law.pacific.edu
-NOERROR	www.epay.pacific.edu
-NOERROR	0-global.factiva.com.gocat.law.pacific.edu
-NOERROR	uop-13-175.pacific.edu
-NOERROR	0-app.justis.com.pacificatclassic.pacific.edu
-NOERROR	uop-15-192.pacific.edu
-NOERROR	www.covid.pacific.edu
-NOERROR	uop-14-249.pacific.edu
-NOERROR	uop-15-212.pacific.edu
-NOERROR	uop-11-100.pacific.edu
-NOERROR	sim.pa.pacific.edu
-NOERROR	uop-8-204.pacific.edu
-NOERROR	uop-12-215.pacific.edu
-NOERROR	uop-9-27.pacific.edu
-NOERROR	eamapsrvdev.cloud.pacific.edu
-NOERROR	nscdev.pacific.edu
-NOERROR	uop-9-117.pacific.edu
-NOERROR	uop-15-42.pacific.edu
-NOERROR	0-www.nutritioncaremanual.org.pacificatclassic.pacific.edu
-NOERROR	0-www.karger.com.pacificatclassic.pacific.edu
-NOERROR	uop-10-66.pacific.edu
-NOERROR	uop-15-198.pacific.edu
-NOERROR	uop-15-152.pacific.edu
-NOERROR	uop-11-27.pacific.edu
-NXDOMAIN	axiomelitedev.ec.pacific.edu
-NOERROR	uop-10-146.pacific.edu
-NOERROR	0-op.bna.com.gocat.law.pacific.edu
-NOERROR	uop-13-16.pacific.edu
-NOERROR	0-shop.heinonline.org.pacificatclassic.pacific.edu
-NOERROR	uop-14-16.pacific.edu
-NOERROR	uop-11-221.pacific.edu
-NOERROR	lists.pacific.edu
-NOERROR	uop-12-220.pacific.edu
-NOERROR	uop-15-191.pacific.edu
-NOERROR	uop-8-135.pacific.edu
-NOERROR	itso.pacific.edu
-NOERROR	uop-10-231.pacific.edu
-NOERROR	0-www.ciaonet.org.pacificatclassic.pacific.edu
-NOERROR	0-login.wolterskluwer.com.pacificatclassic.pacific.edu
-NOERROR	uop-9-162.pacific.edu
-NOERROR	uop-9-84.pacific.edu
-NOERROR	uop-8-172.pacific.edu
-NOERROR	emedley.pacific.edu
-NOERROR	uop-9-15.pacific.edu
-NOERROR	uop-11-47.pacific.edu
-NOERROR	gwmobile.pacific.edu
-NOERROR	servicenow.pacific.edu
-NOERROR	uop-11-46.pacific.edu
-NOERROR	uop-11-210.pacific.edu
-NOERROR	uop-10-199.pacific.edu
-NOERROR	uc.pacific.edu
-NOERROR	uop-14-86.pacific.edu
-NOERROR	uop-11-219.pacific.edu
-NOERROR	uop-12-2.pacific.edu
-NOERROR	djwebprod2.ea.pacific.edu
-NOERROR	uop-14-142.pacific.edu
-NOERROR	uop-12-40.pacific.edu
-NOERROR	uop-12-174.pacific.edu
-NOERROR	0-laborandemploymentlaw.bna.com.gocat.law.pacific.edu
-NOERROR	media.pacific.edu
-NOERROR	uop-15-139.pacific.edu
-NOERROR	sip.pacific.edu
-NOERROR	uop-10-80.pacific.edu
-NOERROR	uop-14-172.pacific.edu
-NOERROR	uop-10-205.pacific.edu
-NOERROR	uop-15-124.pacific.edu
-NOERROR	uop-13-27.pacific.edu
-NOERROR	0-www.sciencedirect.com.pacificatclassic.pacific.edu
-NOERROR	uop-10-40.pacific.edu
-NXDOMAIN	phsplntappprod.stk.pacific.edu
-NOERROR	uop-14-176.pacific.edu
-NOERROR	uop-10-96.pacific.edu
-NOERROR	uop-8-68.pacific.edu
-NOERROR	0-ebookcentral.proquest.com.pacificatclassic.pacific.edu
-NOERROR	uop-8-151.pacific.edu
-NOERROR	iiswt1.pacific.edu
-NOERROR	uop-13-85.pacific.edu
-NOERROR	uop-13-226.pacific.edu
-NOERROR	0-www.oxfordhandbooks.com.pacificatclassic.pacific.edu
-NOERROR	sacems.pacific.edu
-NOERROR	uop-14-114.pacific.edu
-NOERROR	uop-10-14.pacific.edu
-NOERROR	uop-9-127.pacific.edu
-NOERROR	uop-12-222.pacific.edu
-NOERROR	uop-13-57.pacific.edu
-NOERROR	uop-8-112.pacific.edu
-NOERROR	0-esweb.bna.com.pacificatclassic.pacific.edu
-NOERROR	uop-11-135.pacific.edu
-NOERROR	uop-14-45.pacific.edu
-NOERROR	spdevapps.pacific.edu
-NOERROR	uop-12-63.pacific.edu
-NOERROR	uop-10-240.pacific.edu
-NOERROR	uop-11-55.pacific.edu
-NOERROR	uop-12-212.pacific.edu
-NOERROR	dental.ss.pacific.edu
-NOERROR	uop-14-5.pacific.edu
-NOERROR	www.webmail.pacific.edu
-NOERROR	uop-8-160.pacific.edu
-NOERROR	lectures.pacific.edu
-NOERROR	business.pacific.edu
-NOERROR	0-extsvc.ebscohost.com.pacificatclassic.pacific.edu
-NOERROR	0-pharmacistsletter.therapeuticresearch.com.gocat.law.pacific.edu
-NOERROR	uop-9-188.pacific.edu
-NOERROR	0-jcr.incites.thomsonreuters.com.gocat.law.pacific.edu
-NOERROR	uop-12-153.pacific.edu
-NOERROR	uop-11-115.pacific.edu
-NOERROR	uop-12-14.pacific.edu
-NOERROR	joinolli.pacific.edu
-NXDOMAIN	mercury.stk.pacific.edu
-NOERROR	events.pacific.edu
-NOERROR	soth.pacific.edu
-NOERROR	uop-13-229.pacific.edu
-NOERROR	uop-9-62.pacific.edu
-NOERROR	uop-13-192.pacific.edu
-NOERROR	uop-13-47.pacific.edu
-NOERROR	uop-13-203.pacific.edu
-NOERROR	esbshare.pacific.edu
-NOERROR	uop-9-218.pacific.edu
-NOERROR	uop-15-19.pacific.edu
-NOERROR	mses.pacific.edu
-NOERROR	0-iplaw.bna.com.pacificatclassic.pacific.edu
-NOERROR	uop-8-188.pacific.edu
-NOERROR	sp19mos.pacific.edu
-NOERROR	canvas.pacific.edu
-NOERROR	uop-13-151.pacific.edu
-NOERROR	uop-12-170.pacific.edu
-NXDOMAIN	lib-compass.stk.pacific.edu
-NOERROR	uop-8-219.pacific.edu
-NOERROR	music.test.pacific.edu
-NOERROR	forum.pacific.edu
-NOERROR	uop-14-227.pacific.edu
-NOERROR	uop-12-8.pacific.edu
-NOERROR	uop-10-157.pacific.edu
-NOERROR	uop-14-47.pacific.edu
-NOERROR	uop-15-1.pacific.edu
-NOERROR	uop-10-55.pacific.edu
-NOERROR	uop-11-60.pacific.edu
-NOERROR	uop-10-198.pacific.edu
-NOERROR	uop-14-23.pacific.edu
-NOERROR	uop-9-212.pacific.edu
-NOERROR	uop-12-158.pacific.edu
-NOERROR	uop-9-89.pacific.edu
-NOERROR	www.wkcheetah.com.pacificatclassic.pacific.edu
-NOERROR	postweb.pacific.edu
-NOERROR	uop-15-125.pacific.edu
-NOERROR	uop-13-137.pacific.edu
-NOERROR	uop-12-30.pacific.edu
-NOERROR	t3.pacific.edu
-NOERROR	uop-9-70.pacific.edu
-NOERROR	uop-14-106.pacific.edu
-NOERROR	uop-9-105.pacific.edu
-NOERROR	linkedinlearning.pacific.edu
-NOERROR	uop-13-41.pacific.edu
-NOERROR	uop-13-107.pacific.edu
-NOERROR	uop-10-79.pacific.edu
-NOERROR	uop-15-70.pacific.edu
-NOERROR	uop-9-233.pacific.edu
-NOERROR	uop-13-126.pacific.edu
-NOERROR	uop-15-80.pacific.edu
-NOERROR	uop-9-157.pacific.edu
-NOERROR	uop-15-52.pacific.edu
-NOERROR	forecast.pacific.edu
-NOERROR	uop-11-126.pacific.edu
-NOERROR	uop-11-189.pacific.edu
-NOERROR	uop-10-212.pacific.edu
-NOERROR	uop-14-29.pacific.edu
-NOERROR	uop-12-62.pacific.edu
-NOERROR	uop-8-128.pacific.edu
-NOERROR	dentalcms.pacific.edu
-NOERROR	uop-13-61.pacific.edu
-NOERROR	uop-9-67.pacific.edu
-NOERROR	uop-15-107.pacific.edu
-NOERROR	uop-8-1.pacific.edu
-NOERROR	0-1.next.westlaw.com.pacificatclassic.pacific.edu
-NOERROR	uop-10-225.pacific.edu
-NOERROR	uop-12-85.pacific.edu
-NOERROR	uop-13-145.pacific.edu
-NOERROR	uop-8-81.pacific.edu
-NOERROR	0-hdl.lib.umich.edu.pacificatclassic.pacific.edu
-NOERROR	banner.ec.pacific.edu
-NOERROR	uop-9-74.pacific.edu
-NOERROR	uop-8-187.pacific.edu
-NOERROR	uop-11-161.pacific.edu
-NOERROR	uop-13-74.pacific.edu
-NOERROR	uop-13-9.pacific.edu
-NOERROR	uop-9-183.pacific.edu
-NOERROR	nagios.pacific.edu
-NOERROR	uop-13-142.pacific.edu
-NOERROR	0-www.cochranelibrary.com.pacificatclassic.pacific.edu
-NOERROR	uop-9-29.pacific.edu
-NOERROR	uop-11-197.pacific.edu
-NOERROR	uop-11-117.pacific.edu
-NOERROR	uop-14-80.pacific.edu
-NOERROR	0-wsauth.bna.com.pacificatclassic.pacific.edu
-NOERROR	uop-11-62.pacific.edu
-NOERROR	uop-14-94.pacific.edu
-NOERROR	uop-9-215.pacific.edu
-NOERROR	0-www.lexisnexis.com.pacificatclassic.pacific.edu
-NOERROR	uop-10-160.pacific.edu
-NOERROR	uop-9-147.pacific.edu
-NOERROR	uop-12-178.pacific.edu
-NOERROR	uop-10-78.pacific.edu
-NOERROR	tutortrac.pacific.edu
-NOERROR	uop-10-9.pacific.edu
-NOERROR	ezproxy.pacific.edu
-NOERROR	www.go.pacific.edu
-NOERROR	uop-8-94.pacific.edu
-NXDOMAIN	imap.test.pacific.edu
-NOERROR	uop-8-144.pacific.edu
-NOERROR	uop-10-19.pacific.edu
-NOERROR	uop-11-133.pacific.edu
-NOERROR	lists1.pacific.edu
-NOERROR	uop-14-96.pacific.edu
-NOERROR	uop-9-1.pacific.edu
-NOERROR	uop-12-99.pacific.edu
-NOERROR	uop-8-180.pacific.edu
-NXDOMAIN	emsprod1.stk.pacific.edu
-NOERROR	uop-12-195.pacific.edu
-NOERROR	uop-13-196.pacific.edu
-NOERROR	uop-13-130.pacific.edu
-NOERROR	uop-15-12.pacific.edu
-NOERROR	uop-14-117.pacific.edu
-NOERROR	uop-10-185.pacific.edu
-NOERROR	uop-9-14.pacific.edu
-NOERROR	eamapsrvprod.cloud.pacific.edu
-NOERROR	uop-14-180.pacific.edu
-NOERROR	uop-14-215.pacific.edu
-NOERROR	uop-8-200.pacific.edu
-NOERROR	uop-9-2.pacific.edu
-NOERROR	0-newsbank.com.pacificatclassic.pacific.edu
-NOERROR	uop-14-236.pacific.edu
-NOERROR	uop-14-115.pacific.edu
-NOERROR	uop-10-191.pacific.edu
-NOERROR	uop-15-56.pacific.edu
-NOERROR	0-next.westlaw.com.pacificatclassic.pacific.edu
-NOERROR	uop-9-235.pacific.edu
-NOERROR	uop-11-155.pacific.edu
-NOERROR	uop-9-207.pacific.edu
-NOERROR	uop-12-207.pacific.edu
-NOERROR	uop-14-148.pacific.edu
-NOERROR	degreeworksdev.cloud.pacific.edu
-NOERROR	healthclick-opencommunicator.pacific.edu
-NOERROR	uop-14-230.pacific.edu
-NOERROR	uop-11-34.pacific.edu
-NOERROR	uop-11-98.pacific.edu
-NOERROR	uop-9-154.pacific.edu
-NOERROR	websharedev16.pacific.edu
-NOERROR	uop-12-81.pacific.edu
-NOERROR	uop-11-111.pacific.edu
-NOERROR	uop-10-168.pacific.edu
-NOERROR	uop-9-187.pacific.edu
-NOERROR	uop-15-114.pacific.edu
-NOERROR	0-ceb.com.pacificatclassic.pacific.edu
-NOERROR	uop-13-84.pacific.edu
-NOERROR	uop-8-157.pacific.edu
-NOERROR	uop-15-84.pacific.edu
-NOERROR	uop-12-66.pacific.edu
-NOERROR	uop-14-19.pacific.edu
-NOERROR	0-app.knovel.com.pacificatclassic.pacific.edu
-NOERROR	uop-14-56.pacific.edu
-NOERROR	grad.dev.pacific.edu
-NOERROR	0-home.heinonline.org.pacificatclassic.pacific.edu
-NOERROR	0-ieeexplore.ieee.org.pacificatclassic.pacific.edu
-NOERROR	uop-10-60.pacific.edu
-NOERROR	0-eaccess.heart.org.pacificatclassic.pacific.edu
-NOERROR	uop-8-108.pacific.edu
-NOERROR	uop-10-44.pacific.edu
-NOERROR	bannerdev.cloud.pacific.edu
-NOERROR	uop-13-73.pacific.edu
-NOERROR	uop-12-142.pacific.edu
-NOERROR	uop-10-72.pacific.edu
-NOERROR	uop-10-52.pacific.edu
-NOERROR	uop-11-116.pacific.edu
-NOERROR	uop-9-161.pacific.edu
-NOERROR	uop-13-127.pacific.edu
-NOERROR	uop-9-28.pacific.edu
-NOERROR	uop-13-210.pacific.edu
-NOERROR	uop-9-101.pacific.edu
-NOERROR	uop-9-41.pacific.edu
-NOERROR	liberalarts.dev.pacific.edu
-NOERROR	uop-9-196.pacific.edu
-NOERROR	uop-9-242.pacific.edu
-NOERROR	mx30.pacific.edu
-NOERROR	uop-8-174.pacific.edu
-NOERROR	uop-13-170.pacific.edu
-NOERROR	uop-10-69.pacific.edu
-NOERROR	uop-15-53.pacific.edu
-NOERROR	uop-15-236.pacific.edu
-NOERROR	uop-12-183.pacific.edu
-NOERROR	uop-13-179.pacific.edu
-NOERROR	uop-12-36.pacific.edu
-NXDOMAIN	webappprod2.stk.pacific.edu
-NOERROR	gw3.ec.pacific.edu
-NOERROR	uop-10-156.pacific.edu
-NOERROR	uop-9-244.pacific.edu
-NOERROR	uop-14-162.pacific.edu
-NOERROR	smtp.pacific.edu
-NOERROR	uop-10-32.pacific.edu
-NOERROR	uop-8-138.pacific.edu
-NOERROR	uop-15-32.pacific.edu
-NOERROR	uop-11-179.pacific.edu
-NOERROR	uop-10-119.pacific.edu
-NOERROR	uop-12-68.pacific.edu
-NOERROR	uop-12-214.pacific.edu
-NOERROR	uop-9-55.pacific.edu
-NOERROR	www.tigertotiger.pacific.edu
-NOERROR	uop-12-148.pacific.edu
-NOERROR	0-essential.bloombergbna.com.pacificatclassic.pacific.edu
-NOERROR	uop-14-248.pacific.edu
-NOERROR	uop-12-238.pacific.edu
-NOERROR	uop-9-49.pacific.edu
-NOERROR	0-www.worldtradelaw.net.pacificatclassic.pacific.edu
-NOERROR	uop-9-47.pacific.edu
-NOERROR	uop-13-58.pacific.edu
-NOERROR	uop-12-109.pacific.edu
-NOERROR	uop-10-167.pacific.edu
-NOERROR	uop-15-55.pacific.edu
-NOERROR	ns2.pacific.edu
-NOERROR	uop-9-221.pacific.edu
-NXDOMAIN	paccppm.serv.pacific.edu
-NOERROR	uop-8-189.pacific.edu
-NOERROR	uop-14-131.pacific.edu
-NOERROR	uop-11-94.pacific.edu
-NXDOMAIN	slpncappsweb-opencomm.stk.pacific.edu
-NOERROR	uop-11-228.pacific.edu
-NOERROR	uop-15-81.pacific.edu
-NOERROR	uop-14-76.pacific.edu
-NOERROR	uop-13-34.pacific.edu
-NOERROR	archive.pacific.edu
-NOERROR	0-libguides.mcgeorge.edu.pacificatclassic.pacific.edu
-NOERROR	uop-14-134.pacific.edu
-NOERROR	mysites.pacific.edu
-NOERROR	uop-11-209.pacific.edu
-NOERROR	uop-12-25.pacific.edu
-NOERROR	uop-15-116.pacific.edu
-NOERROR	0-pacific.credocourseware.com.pacificatclassic.pacific.edu
-NOERROR	uop-14-26.pacific.edu
-NOERROR	uop-10-209.pacific.edu
-NOERROR	uop-11-12.pacific.edu
-NOERROR	uop-9-230.pacific.edu
-NOERROR	uop-9-177.pacific.edu
-NOERROR	uop-9-163.pacific.edu
-NXDOMAIN	pacwebalerts.stk.pacific.edu
-NOERROR	uop-13-38.pacific.edu
-NOERROR	uop-8-145.pacific.edu
-NOERROR	uop-13-241.pacific.edu
-NOERROR	uop-8-93.pacific.edu
-NOERROR	uop-14-192.pacific.edu
-NOERROR	uop-9-76.pacific.edu
-NOERROR	uop-12-17.pacific.edu
-NOERROR	www.wasc.pacific.edu
-NOERROR	uop-15-244.pacific.edu
-NOERROR	uop-8-155.pacific.edu
-NOERROR	uop-15-31.pacific.edu
-NOERROR	uop-8-41.pacific.edu
-NXDOMAIN	stk-exhybrid1.stk.pacific.edu
-NOERROR	0-refworks.proquest.com.pacificatclassic.pacific.edu
-NOERROR	0-www.brillonline.com.pacificatclassic.pacific.edu
-NOERROR	uop-11-38.pacific.edu
-NOERROR	uop-8-104.pacific.edu
-NOERROR	uop-11-142.pacific.edu
-NOERROR	uop-12-202.pacific.edu
-NOERROR	uop-8-122.pacific.edu
-NOERROR	uop-14-171.pacific.edu
-NOERROR	uop-15-189.pacific.edu
-NOERROR	uop-9-93.pacific.edu
-NOERROR	uop-12-49.pacific.edu
-NOERROR	org.pacificcatclassic.pacific.edu
-NOERROR	0-www.jdentaled.org.pacificatclassic.pacific.edu
-NOERROR	0-system.privco.com.pacificatclassic.pacific.edu
-NOERROR	bradfordas.serv.pacific.edu
-NOERROR	uop-10-91.pacific.edu
-NOERROR	uop-13-183.pacific.edu
-NOERROR	uop-13-8.pacific.edu
-NOERROR	0-congressional.proquest.com.pacificatclassic.pacific.edu
-NOERROR	uop-13-124.pacific.edu
-NOERROR	uop-10-89.pacific.edu
-NOERROR	uop-14-12.pacific.edu
-NOERROR	mail.pacific.edu
-NOERROR	0-help.heinonline.org.pacificatclassic.pacific.edu
-NOERROR	uop-9-214.pacific.edu
-NOERROR	uop-12-250.pacific.edu
-NOERROR	uop-9-24.pacific.edu
-NOERROR	uop-10-95.pacific.edu
-NOERROR	uop-11-73.pacific.edu
-NOERROR	uop-15-22.pacific.edu
-NOERROR	uop-8-196.pacific.edu
-NOERROR	webapp.pacific.edu
-NOERROR	uop-12-56.pacific.edu
-NOERROR	uop-12-26.pacific.edu
-NOERROR	0-bwrite.bna.com.pacificatclassic.pacific.edu
-NOERROR	webmail.dental.pacific.edu
-NOERROR	uop-14-103.pacific.edu
-NOERROR	uop-14-40.pacific.edu
-NOERROR	uop-13-105.pacific.edu
-NXDOMAIN	mxspam1.serv.pacific.edu
-NOERROR	uop-11-165.pacific.edu
-NOERROR	uop-11-159.pacific.edu
-NOERROR	uop-11-15.pacific.edu
-NOERROR	uop-8-77.pacific.edu
-NOERROR	cpanel.tigerdomains.pacific.edu
-NOERROR	uop-8-111.pacific.edu
-NOERROR	uop-13-109.pacific.edu
-NOERROR	uop-10-233.pacific.edu
-NOERROR	0-pib.countrywatch.com.pacificatclassic.pacific.edu
-NOERROR	uop-12-29.pacific.edu
-NOERROR	uop-14-109.pacific.edu
-NOERROR	uop-8-139.pacific.edu
-NOERROR	0-checkpoint.riag.com.gocat.law.pacific.edu
-NOERROR	uop-15-168.pacific.edu
-NOERROR	uop-12-175.pacific.edu
-NOERROR	uop-9-211.pacific.edu
-NXDOMAIN	spsrchprod1.stk.pacific.edu
-NOERROR	uop-14-244.pacific.edu
-NOERROR	blackboard.pacific.edu
-NOERROR	uop-10-50.pacific.edu
-NOERROR	0-science.sciencemag.org.pacificatclassic.pacific.edu
-NOERROR	uop-14-190.pacific.edu
-NXDOMAIN	djweb.ea.pacific.edu
-NOERROR	uop-10-76.pacific.edu
+postdb.esb.uop.edu
+www3.uop.edu
+mail.law.uop.edu
+gibbs.cop.uop.edu
+eng.uop.edu
+merckx.cop.uop.edu
+uop.edu
+ez.law.uop.edu
+cptest.uop.edu
+mentorweb.uop.edu
+onsager.cop.uop.edu
+ctltserver.lib.uop.edu
+bailey.cs.uop.edu
+asuop.uop.edu
+sf.uop.edu
+insidepacific.uop.edu
+cliodhna.cop.uop.edu
+sfmail.dental.uop.edu
+attask.serv.uop.edu
+iris.uop.edu
+sfstream.dental.uop.edu
+kpac.uop.edu
+informationcommons.uop.edu
+mis.esb.uop.edu
+exeter1.serv.uop.edu
+ws180.cop.uop.edu
+napa.eng.uop.edu
+caiman.cs.uop.edu
+insidepacific.cc.uop.edu
+atkinsonskulls.dental.uop.edu
+nt01.esb.uop.edu
+phs.phs.uop.edu
+overbyte.dental.uop.edu
+ereserves.lib.uop.edu
+search.uop.edu
+artemis.cop.uop.edu
+muir.eng.uop.edu
+casper.cs.uop.edu
+esbforecast.serv.uop.edu
+mx1.sf.uop.edu
+ozzy.uop.edu
+www.uop.edu
+www.dental.uop.edu
+libserver.lib.uop.edu
+www2.uop.edu
+acme.cs.uop.edu
+gw.law.uop.edu
+oisrdell.esb.uop.edu
+psych2.uop.edu
+beehive.eng.uop.edu
+kelvin.cop.uop.edu
+crispy.uop.edu
+www.phs.uop.edu
+pinnacle1.uop.edu
+acm.cs.uop.edu
+dental.uop.edu
+chemistry.cop.uop.edu
+chem.cop.uop.edu
+alumni.uop.edu
+iisprod.uop.edu
+billf.cs.uop.edu
+wizard.phs.uop.edu
+honors.uop.edu
+boltzmann.cop.uop.edu
+chemistry.uop.edu
+mx2.sf.uop.edu
+sfmedia.dental.uop.edu
+postweb.esb.uop.edu
+buri.cs.uop.edu
+www1.uop.edu
+psych.uop.edu
+mail.dental.uop.edu
+sfstudent.dental.uop.edu
+nwadmin.uop.edu
+library.uop.edu
+nt02.esb.uop.edu
+gwtest.uop.edu
+libris.serv.uop.edu
+vpn.uop.edu
+uop-12-22.pacific.edu
+uop-15-102.pacific.edu
+uop-14-68.pacific.edu
+0-youthedition.countrywatch.com.pacificatclassic.pacific.edu
+0-statabs.proquest.com.pacificatclassic.pacific.edu
+uop-9-143.pacific.edu
+uop-10-140.pacific.edu
+www.dental.pacific.edu
+0-www.spiedigitallibrary.org.pacificatclassic.pacific.edu
+0-corpcompliance.bna.com.gocat.law.pacific.edu
+acd.pacific.edu
+uop-12-221.pacific.edu
+uop-13-215.pacific.edu
+uop-11-185.pacific.edu
+dc1.pacific.edu
+uop-15-222.pacific.edu
+uop-9-68.pacific.edu
+mysitedev.pacific.edu
+uop-11-64.pacific.edu
+digitalcollections.pacific.edu
+kpac.pacific.edu
+www.aces2.pacific.edu
+uop-15-225.pacific.edu
+0-cch.com.pacificatclassic.pacific.edu
+uop-11-244.pacific.edu
+0-library.cqpress.com.pacificatclassic.pacific.edu
+pacadam.stk.pacific.edu
+uop-12-184.pacific.edu
+uop-12-166.pacific.edu
+0-olprd.ceb.com.pacificatclassic.pacific.edu
+uop-11-85.pacific.edu
+uop-13-3.pacific.edu
+uop-11-215.pacific.edu
+uop-8-37.pacific.edu
+uop-12-23.pacific.edu
+uop-11-124.pacific.edu
+0-myorthoevidence.com.pacificatclassic.pacific.edu
+uop-14-2.pacific.edu
+sfdental.pacific.edu
+uop-9-133.pacific.edu
+testcasarray.testdom03.pacific.edu
+mysite.pacific.edu
+uop-10-48.pacific.edu
+0-medialaw.bna.com.pacificatclassic.pacific.edu
+0-muse.jhu.edu.gocat.law.pacific.edu
+0-www.artstor.org.pacificatclassic.pacific.edu
+uop-9-31.pacific.edu
+uop-13-187.pacific.edu
+uop-8-47.pacific.edu
+uop-11-50.pacific.edu
+esb.pacific.edu
+uop-14-186.pacific.edu
+uop-10-62.pacific.edu
+vpn.pacific.edu
+uop-15-45.pacific.edu
+nri.pacific.edu
+stkdev.pacific.edu
+uop-13-88.pacific.edu
+uop-12-120.pacific.edu
+0-quod.lib.umich.edu.pacificatclassic.pacific.edu
+uop-9-10.pacific.edu
+uop-14-187.pacific.edu
+uop-9-172.pacific.edu
+sf-pacrdg1.sf.pacific.edu
+canvasbeta.pacific.edu
+www.meeting.pacific.edu
+uop-12-47.pacific.edu
+0-www.dramonline.org.pacificatclassic.pacific.edu
+uop-11-44.pacific.edu
+uop-8-177.pacific.edu
+0-en.westlawchina.com.pacificatclassic.pacific.edu
+uop-8-84.pacific.edu
+0-www.heinonline.org.pacificatclassic.pacific.edu
+uop-10-170.pacific.edu
+uop-14-60.pacific.edu
+healthsciences.ss.pacific.edu
+0-www.oxfordreference.com.pacificatclassic.pacific.edu
+uop-11-118.pacific.edu
+uop-13-55.pacific.edu
+uop-13-237.pacific.edu
+uop-10-161.pacific.edu
+uop-13-20.pacific.edu
+uop-13-50.pacific.edu
+uop-15-180.pacific.edu
+uop-10-142.pacific.edu
+uop-15-117.pacific.edu
+uop-10-222.pacific.edu
+uop-15-219.pacific.edu
+0-esweb.bna.com.gocat.law.pacific.edu
+com.pacificatclassic.pacific.edu
+bannerdev.pacific.edu
+uop-14-10.pacific.edu
+sso.serv.pacific.edu
+uop-14-231.pacific.edu
+pacdevicereg.pacific.edu
+uop-10-88.pacific.edu
+uop-9-123.pacific.edu
+uop-9-246.pacific.edu
+uop-10-183.pacific.edu
+uop-15-238.pacific.edu
+uop-12-191.pacific.edu
+uop-14-66.pacific.edu
+uop-10-132.pacific.edu
+uop-15-71.pacific.edu
+uop-11-245.pacific.edu
+uop-8-20.pacific.edu
+legacy.pacific.edu
+uop-13-118.pacific.edu
+law.pacific.edu
+uop-8-57.pacific.edu
+uop-11-120.pacific.edu
+0-kluweronline.com.pacificatclassic.pacific.edu
+uop-15-151.pacific.edu
+0-library.justis.com.pacificatclassic.pacific.edu
+uop-12-84.pacific.edu
+uop-13-171.pacific.edu
+webwork.aws.pacific.edu
+uop-10-29.pacific.edu
+0-www.ulrichsweb.com.pacificatclassic.pacific.edu
+uop-15-224.pacific.edu
+mercury.pacific.edu
+nomail.pacific.edu
+net.pacificatclassic.pacific.edu
+uop-10-113.pacific.edu
+0-scifinder.cas.org.pacificatclassic.pacific.edu
+myaxium-vpn.pacific.edu
+uop-13-23.pacific.edu
+uop-12-165.pacific.edu
+uop-9-81.pacific.edu
+uop-9-65.pacific.edu
+0-corpgov.bna.com.gocat.law.pacific.edu
+uop-11-130.pacific.edu
+uop-8-147.pacific.edu
+test.pacific.edu
+uop-11-10.pacific.edu
+uop-14-217.pacific.edu
+uop-9-25.pacific.edu
+0-stats.newsbank.com.pacificatclassic.pacific.edu
+0-eds.a.ebscohost.com.pacificatclassic.pacific.edu
+uop-12-192.pacific.edu
+uop-8-107.pacific.edu
+healthscreen.pacific.edu
+pacselfserv.stk.pacific.edu
+uop-11-140.pacific.edu
+uop-15-77.pacific.edu
+uop-14-34.pacific.edu
+grad.test.pacific.edu
+uop-9-186.pacific.edu
+0-pacific.illiad.oclc.com.gocat.law.pacific.edu
+uop-10-134.pacific.edu
+uop-14-184.pacific.edu
+uop-11-121.pacific.edu
+uop-13-21.pacific.edu
+uop-13-67.pacific.edu
+grad.cmstraining.pacific.edu
+uop-14-27.pacific.edu
+uop-10-130.pacific.edu
+baunfitness.pacific.edu
+0-linking.ebscohost.com.pacificatclassic.pacific.edu
+0-jamanetwork.com.pacificatclassic.pacific.edu
+locksmith.pacific.edu
+uop-9-34.pacific.edu
+uop-12-186.pacific.edu
+uop-15-246.pacific.edu
+uop-11-99.pacific.edu
+uop-9-150.pacific.edu
+uop-14-182.pacific.edu
+uop-8-50.pacific.edu
+uop-11-7.pacific.edu
+uop-13-136.pacific.edu
+uop-14-9.pacific.edu
+uop-10-163.pacific.edu
+uop-8-235.pacific.edu
+uop-8-182.pacific.edu
+uop-12-209.pacific.edu
+uop-9-167.pacific.edu
+uop-14-207.pacific.edu
+0-www.refworks.com.gocat.law.pacific.edu
+uop-9-113.pacific.edu
+www.pacshare.pacific.edu
+uop-13-128.pacific.edu
+0-research.ceb.com.pacificatclassic.pacific.edu
+uop-14-97.pacific.edu
+uop-13-147.pacific.edu
+uop-12-231.pacific.edu
+uop-10-122.pacific.edu
+uop-12-45.pacific.edu
+uop-9-56.pacific.edu
+uop-8-236.pacific.edu
+0-ja.next.westlaw.com.pacificatclassic.pacific.edu
+uop-12-116.pacific.edu
+uop-8-242.pacific.edu
+education.cmstraining.pacific.edu
+0-chinesereferenceshelf.brillonline.com.pacificatclassic.pacific.edu
+www.rms1.pacific.edu
+uop-13-81.pacific.edu
+0-ca.next.westlaw.com.pacificatclassic.pacific.edu
+uop-10-67.pacific.edu
+uop-15-227.pacific.edu
+www.cas.pacific.edu
+uop-11-3.pacific.edu
+uop-9-104.pacific.edu
+uop-14-206.pacific.edu
+pacifician.pacific.edu
+uop-15-187.pacific.edu
+www.gocat.law.pacific.edu
+0-www.humanitiesebook.org.pacificatclassic.pacific.edu
+de.pacificatclassic.pacific.edu
+uop-14-91.pacific.edu
+0-hr.bna.com.gocat.law.pacific.edu
+uop-8-170.pacific.edu
+bssprd.cloud.pacific.edu
+0-www.hti.umich.edu.pacificatclassic.pacific.edu
+0-search.credoreference.com.pacificatclassic.pacific.edu
+uop-10-192.pacific.edu
+sdc.serv.pacific.edu
+stkcmsdev.pacific.edu
+uop-14-225.pacific.edu
+uop-10-177.pacific.edu
+0-corplaw.bna.com.pacificatclassic.pacific.edu
+uop-12-32.pacific.edu
+uop-10-101.pacific.edu
+uop-9-223.pacific.edu
+uop-11-67.pacific.edu
+uop-8-197.pacific.edu
+uop-11-52.pacific.edu
+uop-10-219.pacific.edu
+uop-10-73.pacific.edu
+uop-11-36.pacific.edu
+uop-10-184.pacific.edu
+0-name.umdl.umich.edu.pacificatclassic.pacific.edu
+uop-9-205.pacific.edu
+uop-12-126.pacific.edu
+rdwebaccess.pacific.edu
+uop-10-117.pacific.edu
+uop-15-64.pacific.edu
+uop-11-172.pacific.edu
+uop-13-240.pacific.edu
+uop-15-229.pacific.edu
+webmail.pacific.edu
+sfsharedev19.pacific.edu
+0-www.webofscience.com.pacificatclassic.pacific.edu
+uop-14-1.pacific.edu
+uop-13-98.pacific.edu
+uop-10-103.pacific.edu
+uop-14-241.pacific.edu
+libguides.lib.pacific.edu
+uop-10-165.pacific.edu
+uop-14-127.pacific.edu
+0-link.springer.com.pacificatclassic.pacific.edu
+uop-11-61.pacific.edu
+uop-9-245.pacific.edu
+uop-12-92.pacific.edu
+canvastest.pacific.edu
+0-corplaw.bna.com.gocat.law.pacific.edu
+uop-15-162.pacific.edu
+uop-9-100.pacific.edu
+www.grad.pacific.edu
+uop-10-36.pacific.edu
+uop-10-33.pacific.edu
+911.pacific.edu
+0-search.ebscohost.com.pacificatclassic.pacific.edu
+uop-10-43.pacific.edu
+uop-15-136.pacific.edu
+uop-15-196.pacific.edu
+dental.test.pacific.edu
+uop-9-36.pacific.edu
+uop-10-152.pacific.edu
+www1.pacific.edu
+0-opac.newsbank.com.pacificatclassic.pacific.edu
+uop-10-135.pacific.edu
+0-benefits.bna.com.pacificatclassic.pacific.edu
+uop-15-200.pacific.edu
+uop-10-186.pacific.edu
+uop-8-32.pacific.edu
+uop-9-202.pacific.edu
+uop-9-20.pacific.edu
+0-www.oceanalaw.com.gocat.law.pacific.edu
+uop-10-39.pacific.edu
+uop-13-224.pacific.edu
+uop-10-129.pacific.edu
+0-muse.jhu.edu.pacificatclassic.pacific.edu
+uop-13-140.pacific.edu
+uop-15-39.pacific.edu
+uop-13-120.pacific.edu
+nscprod.ec.pacific.edu
+uop-11-19.pacific.edu
+uop-10-197.pacific.edu
+uop-15-232.pacific.edu
+uop-12-67.pacific.edu
+o365.pacific.edu
+uop-11-136.pacific.edu
+uop-11-198.pacific.edu
+uop-12-159.pacific.edu
+uop-12-52.pacific.edu
+0-www2.allenpress.com.pacificatclassic.pacific.edu
+uop-9-148.pacific.edu
+uop-10-220.pacific.edu
+uop-14-250.pacific.edu
+uop-15-83.pacific.edu
+uop-11-167.pacific.edu
+uop-14-211.pacific.edu
+uop-12-46.pacific.edu
+uop-13-193.pacific.edu
+0-lrus.wolterskluwer.com.pacificatclassic.pacific.edu
+uop-9-248.pacific.edu
+uop-14-168.pacific.edu
+uop-12-229.pacific.edu
+uop-15-29.pacific.edu
+sharedev19.pacific.edu
+uop-15-155.pacific.edu
+uop-12-141.pacific.edu
+uop-14-101.pacific.edu
+uop-9-225.pacific.edu
+uop-10-112.pacific.edu
+bssprd.ec.pacific.edu
+copresearch.pacific.edu
+uop-8-164.pacific.edu
+uop-15-26.pacific.edu
+uop-15-220.pacific.edu
+0-access.newspaperarchive.com.pacificatclassic.pacific.edu
+uop-8-203.pacific.edu
+music.cmstraining.pacific.edu
+uop-15-5.pacific.edu
+uop-9-140.pacific.edu
+uop-10-249.pacific.edu
+uop-12-147.pacific.edu
+uop-14-74.pacific.edu
+uop-14-92.pacific.edu
+uop-12-89.pacific.edu
+comcmsdev.pacific.edu
+uop-14-132.pacific.edu
+uop-11-235.pacific.edu
+0-pacific.illiad.oclc.com.pacificatclassic.pacific.edu
+uop-15-132.pacific.edu
+uop-11-222.pacific.edu
+uop-10-54.pacific.edu
+uop-11-91.pacific.edu
+uop-10-6.pacific.edu
+uop-10-118.pacific.edu
+uop-12-119.pacific.edu
+0-ia.next.westlaw.com.pacificatclassic.pacific.edu
+0-idp.sams-sigma.com.pacificatclassic.pacific.edu
+uop-9-115.pacific.edu
+uop-9-18.pacific.edu
+uop-12-79.pacific.edu
+esbresearch1.esb.pacific.edu
+uop-11-203.pacific.edu
+uop-15-121.pacific.edu
+uop-8-31.pacific.edu
+analytics.pacific.edu
+uop-12-190.pacific.edu
+uop-13-214.pacific.edu
+uop-9-40.pacific.edu
+uop-15-11.pacific.edu
+uop-15-50.pacific.edu
+uop-10-230.pacific.edu
+uop-14-136.pacific.edu
+uop-9-16.pacific.edu
+meetingweb.pacific.edu
+uop-14-93.pacific.edu
+uop-12-189.pacific.edu
+uop-11-59.pacific.edu
+uop-11-125.pacific.edu
+uop-11-79.pacific.edu
+www.healthservices.pacific.edu
+uop-13-87.pacific.edu
+uop-8-136.pacific.edu
+uop-14-63.pacific.edu
+uop-9-106.pacific.edu
+uop-8-80.pacific.edu
+uop-15-111.pacific.edu
+uop-12-34.pacific.edu
+uop-13-185.pacific.edu
+vcon1.pacific.edu
+gw2.ec.pacific.edu
+djwebdev.ea.pacific.edu
+uop-11-28.pacific.edu
+uop-11-234.pacific.edu
+uop-15-166.pacific.edu
+0-www.rocksbackpages.com.pacificatclassic.pacific.edu
+uop-14-246.pacific.edu
+uop-14-6.pacific.edu
+uop-15-172.pacific.edu
+uop-9-151.pacific.edu
+uop-14-52.pacific.edu
+uop-11-21.pacific.edu
+uop-8-115.pacific.edu
+dugoniblogs.pacific.edu
+uop-13-108.pacific.edu
+uop-8-222.pacific.edu
+uop-9-152.pacific.edu
+issmdev.pacific.edu
+healthservices.pacific.edu
+connect.pacific.edu
+education.ss.pacific.edu
+uop-14-165.pacific.edu
+uop-11-127.pacific.edu
+0-hr.bna.com.pacificatclassic.pacific.edu
+0-www.economist.com.pacificatclassic.pacific.edu
+u.pacific.edu
+uop-14-220.pacific.edu
+uop-14-196.pacific.edu
+mx20.pacific.edu
+uop-10-71.pacific.edu
+uop-9-182.pacific.edu
+uop-12-86.pacific.edu
+uop-13-236.pacific.edu
+uop-10-171.pacific.edu
+business.test.pacific.edu
+www.pacifican.pacific.edu
+uop-14-147.pacific.edu
+0-iplaw.bna.com.gocat.law.pacific.edu
+0-news.bna.com.pacificatclassic.law.pacific.edu
+0-news.bna.com.gocat.law.pacific.edu
+webwork.pacific.edu
+kpacradio.pacific.edu
+uop-12-41.pacific.edu
+0-www.nature.com.pacificatclassic.pacific.edu
+0-academic.oup.com.pacificatclassic.pacific.edu
+uop-10-53.pacific.edu
+uop-8-228.pacific.edu
+tigercam.pacific.edu
+outlook365.pacific.edu
+uop-8-19.pacific.edu
+uop-12-37.pacific.edu
+uop-9-195.pacific.edu
+uop-15-167.pacific.edu
+uop-10-5.pacific.edu
+uop-10-217.pacific.edu
+uop-15-158.pacific.edu
+uop-13-15.pacific.edu
+uop-11-166.pacific.edu
+uop-9-23.pacific.edu
+uop-11-108.pacific.edu
+uop-8-244.pacific.edu
+uop-12-225.pacific.edu
+0-jazz.ripmfulltext.org.pacificatclassic.pacific.edu
+www.mydesk.pacific.edu
+uop-12-193.pacific.edu
+media.lecturesdev.pacific.edu
+healthclick-tempura.pacific.edu
+websharedev.pacific.edu
+uop-13-227.pacific.edu
+uop-14-123.pacific.edu
+uop-11-31.pacific.edu
+uop-15-184.pacific.edu
+uop-8-74.pacific.edu
+0-www.webofknowledge.com.pacificatclassic.pacific.edu
+uop-15-33.pacific.edu
+uop-10-34.pacific.edu
+business.cmstraining.pacific.edu
+uop-10-172.pacific.edu
+0-www.cambridge.org.pacificatclassic.pacific.edu
+library.pacific.edu
+uop-13-53.pacific.edu
+uop-9-82.pacific.edu
+uop-8-161.pacific.edu
+uop-12-243.pacific.edu
+now.pacific.edu
+uop-12-162.pacific.edu
+view.pacific.edu
+uop-14-53.pacific.edu
+uop-13-197.pacific.edu
+uop-11-112.pacific.edu
+uop-10-121.pacific.edu
+uop-12-151.pacific.edu
+uop-11-227.pacific.edu
+uop-12-138.pacific.edu
+uop-10-149.pacific.edu
+computerscienceprogram.pacific.edu
+0-www.ftserussell.com.pacificatclassic.pacific.edu
+uop-8-216.pacific.edu
+pacwebcl.stk.pacific.edu
+uop-11-229.pacific.edu
+uop-12-124.pacific.edu
+uop-9-45.pacific.edu
+uop-12-236.pacific.edu
+uop-9-13.pacific.edu
+uop-11-30.pacific.edu
+uop-11-110.pacific.edu
+uop-8-7.pacific.edu
+uop-9-241.pacific.edu
+0-services.intelliconnect.cch.pacificatclassic.pacific.edu
+uop-12-246.pacific.edu
+0-healthlawrc.bna.com.pacificatclassic.pacific.edu
+uop-13-200.pacific.edu
+gc-sf.pacific.edu
+uop-10-239.pacific.edu
+0-healthlawrc.bna.com.gocat.law.pacific.edu
+ipnotify.pacific.edu
+uop-8-27.pacific.edu
+uop-8-158.pacific.edu
+admissions.pacific.edu
+uop-10-211.pacific.edu
+uop-10-143.pacific.edu
+uop-13-36.pacific.edu
+engineeringschool.pacific.edu
+uop-15-127.pacific.edu
+uop-15-49.pacific.edu
+uop-14-202.pacific.edu
+uop-14-43.pacific.edu
+uop-10-107.pacific.edu
+uop-13-152.pacific.edu
+0-www.thieme-connect.de.pacificatclassic.pacific.edu
+uop-9-5.pacific.edu
+www.covid19.pacific.edu
+www.tutortrac.pacific.edu
+uop-11-5.pacific.edu
+uop-15-164.pacific.edu
+uop-8-17.pacific.edu
+uop-14-44.pacific.edu
+0-help.ceb.com.pacificatclassic.pacific.edu
+uop-12-80.pacific.edu
+uop-8-206.pacific.edu
+uop-13-158.pacific.edu
+uop-12-234.pacific.edu
+uop-13-178.pacific.edu
+uop-8-250.pacific.edu
+uop-11-23.pacific.edu
+uop-13-245.pacific.edu
+uop-15-43.pacific.edu
+uop-14-140.pacific.edu
+autodiscover.dental.pacific.edu
+uop-11-119.pacific.edu
+education.pacific.edu
+uop-13-163.pacific.edu
+uop-14-175.pacific.edu
+uop-15-247.pacific.edu
+uop-14-210.pacific.edu
+mydesk.pacific.edu
+uop-14-54.pacific.edu
+uop-13-78.pacific.edu
+uop-12-123.pacific.edu
+uop-13-51.pacific.edu
+uop-13-135.pacific.edu
+uop-12-15.pacific.edu
+uop-9-98.pacific.edu
+uop-13-19.pacific.edu
+uop-11-216.pacific.edu
+0-www.whatsmyip.org.pacificatclassic.pacific.edu
+0-humanitiesebook.org.pacificatclassic.pacific.edu
+uop-13-65.pacific.edu
+uop-11-153.pacific.edu
+0-jcr.incites.thomsonreuters.com.pacificatclassic.pacific.edu
+uop-8-42.pacific.edu
+uop-12-39.pacific.edu
+uop-8-154.pacific.edu
+uop-9-75.pacific.edu
+uop-11-201.pacific.edu
+0-store.ceb.com.pacificatclassic.pacific.edu
+uop-14-104.pacific.edu
+uop-12-72.pacific.edu
+uop-11-180.pacific.edu
+uop-14-88.pacific.edu
+uop-8-142.pacific.edu
+uop-8-48.pacific.edu
+insidepacific.pacific.edu
+uop-9-208.pacific.edu
+0-eds.b.ebscohost.com.pacificatclassic.pacific.edu
+0-booksandjournals.brillonline.com.pacificatclassic.pacific.edu
+tigers.pacific.edu
+uop-15-131.pacific.edu
+uop-9-191.pacific.edu
+uop-10-94.pacific.edu
+uop-8-190.pacific.edu
+uop-13-45.pacific.edu
+uop-8-95.pacific.edu
+0-therapy.ebscohost.com.pacificatclassic.pacific.edu
+uop-11-163.pacific.edu
+uop-9-142.pacific.edu
+pacificrec.pacific.edu
+0-news.bna.com.pacificatclassic.pacific.edu
+uop-10-30.pacific.edu
+uop-12-93.pacific.edu
+uop-12-117.pacific.edu
+uop-9-42.pacific.edu
+uop-8-169.pacific.edu
+pacmdev.pacific.edu
+mta-sts.nomail.pacific.edu
+uop-15-4.pacific.edu
+0-exportguide.bna.com.gocat.law.pacific.edu
+uop-11-84.pacific.edu
+uop-11-51.pacific.edu
+uop-12-103.pacific.edu
+uop-10-22.pacific.edu
+uop-8-4.pacific.edu
+uop-14-58.pacific.edu
+uop-9-126.pacific.edu
+0-www.ebscohost.com.pacificatclassic.pacific.edu
+ipdev.cloud.pacific.edu
+sfbackup3.dental.pacific.edu
+uop-11-1.pacific.edu
+uop-9-90.pacific.edu
+uop-11-232.pacific.edu
+excellenceday.pacific.edu
+mail.testdom03.pacific.edu
+webfolders.pacific.edu
+vpn-sf.pacific.edu
+0-privacylaw.bna.com.gocat.law.pacific.edu
+uop-13-94.pacific.edu
+uop-10-97.pacific.edu
+uop-14-77.pacific.edu
+uop-11-132.pacific.edu
+uop-15-41.pacific.edu
+uop-10-2.pacific.edu
+uop-15-209.pacific.edu
+0-benefits.bna.com.gocat.law.pacific.edu
+pacificatclassic.law.pacific.edu
+uop-11-42.pacific.edu
+uop-9-209.pacific.edu
+0-dl.acm.org.pacificatclassic.pacific.edu
+uop-12-4.pacific.edu
+0-ebooks.cambridge.org.pacificatclassic.pacific.edu
+uop-12-168.pacific.edu
+uop-12-136.pacific.edu
+uop-13-40.pacific.edu
+engineering.cmstraining.pacific.edu
+uop-12-3.pacific.edu
+uop-10-49.pacific.edu
+0-www.plnfpr.com.pacificatclassic.pacific.edu
+uop-9-19.pacific.edu
+benefits.pacific.edu
+0-healthlaw.bna.com.gocat.law.pacific.edu
+uop-9-64.pacific.edu
+uop-12-76.pacific.edu
+inside.ec.pacific.edu
+0-support.heinonline.org.pacificatclassic.pacific.edu
+uop-12-134.pacific.edu
+uop-11-18.pacific.edu
+uop-8-65.pacific.edu
+uop-11-134.pacific.edu
+uop-10-173.pacific.edu
+vdi-lab.pacific.edu
+uop-8-56.pacific.edu
+uop-9-190.pacific.edu
+uop-13-219.pacific.edu
+uop-9-30.pacific.edu
+uop-8-207.pacific.edu
+lumadmin1-prod.ec.pacific.edu
+uop-10-151.pacific.edu
+uop-13-131.pacific.edu
+uop-10-176.pacific.edu
+uop-11-212.pacific.edu
+uop-15-2.pacific.edu
+uop-13-79.pacific.edu
+uop-13-174.pacific.edu
+uop-9-33.pacific.edu
+uop-13-194.pacific.edu
+0-elgaronline.com.pacificatclassic.pacific.edu
+uop-14-69.pacific.edu
+tsailab.chem.pacific.edu
+uop-10-115.pacific.edu
+uop-9-107.pacific.edu
+uop-10-128.pacific.edu
+0-countrywatch.com.pacificatclassic.pacific.edu
+uop-13-18.pacific.edu
+cmsdev.pacific.edu
+uop-9-108.pacific.edu
+uop-11-66.pacific.edu
+uop-12-244.pacific.edu
+uop-13-153.pacific.edu
+uop-8-109.pacific.edu
+uop-11-205.pacific.edu
+alumnicam.pacific.edu
+0-www.statista.com.pacificatclassic.pacific.edu
+uop-13-112.pacific.edu
+uop-13-75.pacific.edu
+djwebprod.ea.pacific.edu
+testdom03.pacific.edu
+uop-12-171.pacific.edu
+uop-12-242.pacific.edu
+uop-12-135.pacific.edu
+0-pacific.nml3.naxosmusiclibrary.com.pacificatclassic.pacific.edu
+uop-13-54.pacific.edu
+uop-10-181.pacific.edu
+0-openurl.ebscohost.com.pacificatclassic.pacific.edu
+secure.pacific.edu
+uop-12-194.pacific.edu
+uop-10-193.pacific.edu
+www.meetingweb.pacific.edu
+uop-13-7.pacific.edu
+uop-13-162.pacific.edu
+0-oxcon.ouplaw.com.pacificatclassic.pacific.edu
+0-regulatoryinsight.proquest.com.pacificatclassic.pacific.edu
+0-news.bloombergenvironment.com.pacificatclassic.pacific.edu
+0-fiaf.chadwyck.com.pacificatclassic.pacific.edu
+uop-9-231.pacific.edu
+uop-9-146.pacific.edu
+mx10.pacific.edu
+uop-8-209.pacific.edu
+uop-14-85.pacific.edu
+pharmacy.cmstraining.pacific.edu
+uop-8-88.pacific.edu
+uop-11-176.pacific.edu
+uop-15-143.pacific.edu
+uop-8-44.pacific.edu
+0-signin.westacademic.com.pacificatclassic.pacific.edu
+uop-15-91.pacific.edu
+udoit.pacific.edu
+zcipris.pacific.edu
+uop-8-226.pacific.edu
+uop-9-210.pacific.edu
+uop-15-103.pacific.edu
+uop-8-9.pacific.edu
+0-www.tandfonline.com.pacificatclassic.pacific.edu
+apollo.pacific.edu
+uop-15-85.pacific.edu
+uop-14-173.pacific.edu
+uop-13-202.pacific.edu
+uop-8-132.pacific.edu
+uop-12-61.pacific.edu
+uop-12-112.pacific.edu
+liberalarts.cmstraining.pacific.edu
+epay.pacific.edu
+uop-12-164.pacific.edu
+clogicdev.stk.pacific.edu
+uop-8-166.pacific.edu
+uop-11-71.pacific.edu
+0-accessengineeringlibrary.com.pacificatclassic.pacific.edu
+www.lists1.pacific.edu
+uop-12-104.pacific.edu
+uop-15-208.pacific.edu
+0-oxford.universitypressscholarship.com.pacificatclassic.pacific.edu
+uop-14-82.pacific.edu
+0-www.accessengineeringlibrary.com.pacificatclassic.pacific.edu
+uop-9-227.pacific.edu
+uop-11-137.pacific.edu
+uop-12-64.pacific.edu
+uop-12-6.pacific.edu
+uop-9-237.pacific.edu
+uop-9-236.pacific.edu
+0-antitrust.bna.com.gocat.law.pacific.edu
+uop-12-223.pacific.edu
+uop-8-49.pacific.edu
+uop-14-28.pacific.edu
+uop-11-207.pacific.edu
+uop-10-59.pacific.edu
+uop-14-108.pacific.edu
+uop-11-246.pacific.edu
+uop-8-106.pacific.edu
+uop-8-191.pacific.edu
+uop-8-198.pacific.edu
+uop-8-229.pacific.edu
+uop-11-211.pacific.edu
+uop-12-131.pacific.edu
+uop-9-139.pacific.edu
+uop-8-39.pacific.edu
+flexreg.ec.pacific.edu
+uop-14-160.pacific.edu
+uop-14-49.pacific.edu
+uop-13-119.pacific.edu
+paccppm3.wireless.pacific.edu
+uop-15-146.pacific.edu
+uop-14-149.pacific.edu
+uop-11-41.pacific.edu
+uop-11-160.pacific.edu
+uop-9-193.pacific.edu
+uop-12-156.pacific.edu
+uop-13-32.pacific.edu
+uop-13-173.pacific.edu
+uop-15-34.pacific.edu
+uop-15-147.pacific.edu
+gc-stk.pacific.edu
+uop-13-249.pacific.edu
+uop-8-141.pacific.edu
+uop-8-117.pacific.edu
+uop-11-170.pacific.edu
+uop-10-244.pacific.edu
+uop-10-8.pacific.edu
+outlook.pacific.edu
+uop-8-12.pacific.edu
+uop-13-96.pacific.edu
+uop-10-120.pacific.edu
+uop-15-159.pacific.edu
+uop-10-248.pacific.edu
+0-www.sage-ereference.com.pacificatclassic.pacific.edu
+uop-13-164.pacific.edu
+uop-12-201.pacific.edu
+iiswebdev.pacific.edu
+pacificatpublic.pacific.edu
+uop-13-247.pacific.edu
+uop-9-189.pacific.edu
+uop-10-126.pacific.edu
+uop-14-17.pacific.edu
+uop-14-195.pacific.edu
+lynda.pacific.edu
+0-taxandaccounting.bna.com.pacificatclassic.pacific.edu
+uop-8-38.pacific.edu
+uop-9-149.pacific.edu
+0-p-velvet.intelliconnect.cch.com.pacificatclassic.pacific.edu
+uop-12-239.pacific.edu
+uop-15-67.pacific.edu
+0-library.artstor.org.pacificatclassic.pacific.edu
+uop-10-204.pacific.edu
+0-support.ebscohost.com.pacificatclassic.pacific.edu
+uop-13-167.pacific.edu
+uop-8-24.pacific.edu
+uop-8-25.pacific.edu
+uop-8-26.pacific.edu
+uop-10-210.pacific.edu
+0-laborandemploymentlaw.bna.com.pacificatclassic.pacific.edu
+uop-8-233.pacific.edu
+0-wkap.nl.pacificatclassic.pacific.edu
+0-go.galegroup.com.pacificatclassic.pacific.edu
+email.pacific.edu
+uop-8-186.pacific.edu
+uop-11-154.pacific.edu
+uop-15-37.pacific.edu
+uop-15-75.pacific.edu
+uop-11-149.pacific.edu
+uop-9-198.pacific.edu
+uop-9-220.pacific.edu
+overcomingobstacles.pacific.edu
+uop-12-227.pacific.edu
+pacificcmsdev.pacific.edu
+uop-11-145.pacific.edu
+uop-8-123.pacific.edu
+uop-10-228.pacific.edu
+0-exportguide.bna.com.pacificatclassic.pacific.edu
+uop-10-207.pacific.edu
+uop-10-238.pacific.edu
+imap.pacific.edu
+uop-8-36.pacific.edu
+uop-15-110.pacific.edu
+uop-14-113.pacific.edu
+healthsciences.cmstraining.pacific.edu
+uop-10-194.pacific.edu
+uop-11-48.pacific.edu
+uop-14-37.pacific.edu
+0-www.elgaronline.com.pacificatclassic.pacific.edu
+uop-8-118.pacific.edu
+www.education.pacific.edu
+uop-14-238.pacific.edu
+uop-12-69.pacific.edu
+uop-15-214.pacific.edu
+0-www.scopus.com.pacificatclassic.pacific.edu
+0-hapi.ucla.edu.pacificatclassic.law.pacific.edu
+0-www.justis.com.pacificatclassic.pacific.edu
+uop-10-58.pacific.edu
+uop-13-46.pacific.edu
+uop-15-206.pacific.edu
+0-www.ceb.com.pacificatclassic.pacific.edu
+uop-11-200.pacific.edu
+uop-12-100.pacific.edu
+uop-13-139.pacific.edu
+uop-10-201.pacific.edu
+uop-12-97.pacific.edu
+uop-11-109.pacific.edu
+com.pacificatpublic.pacific.edu
+uop-10-70.pacific.edu
+www.archive.pacific.edu
+uop-12-218.pacific.edu
+uop-9-4.pacific.edu
+uop-14-41.pacific.edu
+0-hr.bna.com.pacificatclassic.law.pacific.edu
+0-cases.iclr.co.uk.pacificatclassic.pacific.edu
+uop-12-161.pacific.edu
+uop-15-112.pacific.edu
+uop-13-39.pacific.edu
+uop-11-129.pacific.edu
+uop-13-159.pacific.edu
+uop-14-57.pacific.edu
+contracts.pacific.edu
+uop-9-168.pacific.edu
+exev1.stk.pacific.edu
+0-www.cabells.com.pacificatclassic.pacific.edu
+uop-9-226.pacific.edu
+uop-14-197.pacific.edu
+uop-11-148.pacific.edu
+uop-15-173.pacific.edu
+uop-8-34.pacific.edu
+0-essential.bna.com.pacificatclassic.pacific.edu
+uop-13-242.pacific.edu
+uop-8-59.pacific.edu
+uop-13-209.pacific.edu
+uop-15-79.pacific.edu
+uop-10-13.pacific.edu
+uop-13-89.pacific.edu
+www.ipnotify.pacific.edu
+uop-15-179.pacific.edu
+uop-10-102.pacific.edu
+uop-14-84.pacific.edu
+sfmyshare.pacific.edu
+mail.dental.pacific.edu
+uop-14-179.pacific.edu
+uop-15-135.pacific.edu
+uop-11-168.pacific.edu
+wwww.pacific.edu
+uop-9-103.pacific.edu
+ftpes.serv.pacific.edu
+uop-8-43.pacific.edu
+uop-15-74.pacific.edu
+uop-15-13.pacific.edu
+uop-9-69.pacific.edu
+ns1.pacific.edu
+uop-9-52.pacific.edu
+uop-9-9.pacific.edu
+0-lwwhealthlibrary.com.pacificatclassic.pacific.edu
+uop-9-99.pacific.edu
+uop-11-247.pacific.edu
+uop-13-184.pacific.edu
+uop-8-30.pacific.edu
+uop-9-46.pacific.edu
+uop-11-223.pacific.edu
+0-pubs.bna.com.pacificatclassic.pacific.edu
+uop-11-243.pacific.edu
+uop-15-115.pacific.edu
+uop-14-137.pacific.edu
+uop-14-221.pacific.edu
+uop-10-11.pacific.edu
+uop-11-241.pacific.edu
+uop-15-118.pacific.edu
+uop-9-32.pacific.edu
+uop-12-59.pacific.edu
+uop-9-206.pacific.edu
+uop-15-148.pacific.edu
+sim-pa-web1.sac.pacific.edu
+uop-10-99.pacific.edu
+0-www.portal.euromonitor.com.pacificatclassic.pacific.edu
+uop-12-102.pacific.edu
+uop-15-47.pacific.edu
+0-archinte.jamanetwork.com.pacificatclassic.pacific.edu
+uop-13-232.pacific.edu
+uop-13-110.pacific.edu
+uop-15-248.pacific.edu
+uop-11-57.pacific.edu
+0-icsidreview.oxfordjournals.org.pacificatclassic.pacific.edu
+0-subscript.bna.com.gocat.law.pacific.edu
+uop-12-38.pacific.edu
+uop-14-99.pacific.edu
+uop-9-197.pacific.edu
+cas.pacific.edu
+uop-14-111.pacific.edu
+0-bankruptcylaw.bna.com.gocat.law.pacific.edu
+uop-15-59.pacific.edu
+uop-9-199.pacific.edu
+0-doi.org.pacificatclassic.pacific.edu
+uop-10-125.pacific.edu
+0-online.ceb.com.pacificatclassic.pacific.edu
+0-philpapers.org.pacificatclassic.pacific.edu
+uop-15-204.pacific.edu
+uop-9-250.pacific.edu
+0-web.b.ebscohost.com.pacificatclassic.pacific.edu
+olli.pacific.edu
+uop-11-37.pacific.edu
+uop-13-129.pacific.edu
+pharmacy.pacific.edu
+uop-11-231.pacific.edu
+eredirect.pacific.edu
+0-auth.research.ceb.com.pacificatclassic.pacific.edu
+uop-12-219.pacific.edu
+uop-14-89.pacific.edu
+uop-11-144.pacific.edu
+uop-15-72.pacific.edu
+uop-11-82.pacific.edu
+0-myaccount.nytimes.com.pacificatclassic.pacific.edu
+uop-12-180.pacific.edu
+uop-8-72.pacific.edu
+uop-14-72.pacific.edu
+uop-10-203.pacific.edu
+uop-11-4.pacific.edu
+uop-9-179.pacific.edu
+uop-14-11.pacific.edu
+uop-10-92.pacific.edu
+0-www.law360.com.pacificatclassic.pacific.edu
+0-eon-api.ebscohost.com.pacificatclassic.pacific.edu
+uop-13-218.pacific.edu
+pharmacy.dev.pacific.edu
+uop-15-129.pacific.edu
+uop-8-52.pacific.edu
+0-www.oreilly.com.pacificatclassic.pacific.edu
+uop-8-212.pacific.edu
+uop-8-55.pacific.edu
+0-shop.iclr.co.uk.pacificatclassic.pacific.edu
+smtp.ec.pacific.edu
+uop-12-150.pacific.edu
+uop-10-223.pacific.edu
+0-wolterskluwer.com.pacificatclassic.pacific.edu
+uop-14-214.pacific.edu
+uop-14-7.pacific.edu
+uop-13-195.pacific.edu
+uop-8-10.pacific.edu
+0-pubchem.ncbi.nlm.nih.gov.pacificatclassic.pacific.edu
+0-lawyersmanual.bna.com.gocat.law.pacific.edu
+0-idp.nature.com.pacificatclassic.pacific.edu
+uop-14-232.pacific.edu
+uop-15-213.pacific.edu
+uop-11-214.pacific.edu
+uop-15-94.pacific.edu
+uop-11-237.pacific.edu
+axiumfacultyaccess.pacific.edu
+0-www.universitypressscholarship.com.pacificatclassic.pacific.edu
+uop-13-121.pacific.edu
+uop-13-172.pacific.edu
+iiswt2.pacific.edu
+uop-11-194.pacific.edu
+0-www.refworks.com.pacificatclassic.pacific.edu
+uop-13-239.pacific.edu
+uop-13-86.pacific.edu
+uop-12-245.pacific.edu
+uop-11-103.pacific.edu
+uop-9-222.pacific.edu
+uop-12-172.pacific.edu
+uop-9-216.pacific.edu
+search.pacific.edu
+uop-15-9.pacific.edu
+uop-13-221.pacific.edu
+uop-14-229.pacific.edu
+uop-8-153.pacific.edu
+uop-10-4.pacific.edu
+websharedev19.pacific.edu
+uop-10-159.pacific.edu
+liberalarts.pacific.edu
+0-hdl.handle.net.pacificatclassic.pacific.edu
+uop-9-130.pacific.edu
+uop-9-181.pacific.edu
+uop-10-139.pacific.edu
+uop-14-133.pacific.edu
+uop-13-176.pacific.edu
+uop-12-198.pacific.edu
+uop-12-249.pacific.edu
+uop-13-103.pacific.edu
+uop-11-2.pacific.edu
+uop-8-205.pacific.edu
+uop-8-171.pacific.edu
+financialaid.pacific.edu
+uop-12-43.pacific.edu
+info.pacific.edu
+0-countrybriefing.countrywatch.com.pacificatclassic.pacific.edu
+uop-11-248.pacific.edu
+0-taxandaccounting.bna.com.pacificatclassic.law.pacific.edu
+uop-10-64.pacific.edu
+uop-8-185.pacific.edu
+uop-9-8.pacific.edu
+uop-10-51.pacific.edu
+uop-14-226.pacific.edu
+uop-14-203.pacific.edu
+engineering.test.pacific.edu
+uop-11-90.pacific.edu
+uop-11-191.pacific.edu
+uop-13-114.pacific.edu
+uop-8-114.pacific.edu
+uop-15-242.pacific.edu
+uop-13-49.pacific.edu
+uop-10-237.pacific.edu
+uop-12-157.pacific.edu
+uop-8-121.pacific.edu
+uop-13-69.pacific.edu
+uop-15-134.pacific.edu
+0-find.gale.com.pacificatclassic.pacific.edu
+metalib4.pacific.edu
+xferw.stk.pacific.edu
+meeting.pacific.edu
+uop-10-179.pacific.edu
+uop-14-242.pacific.edu
+sfmedia.dental.pacific.edu
+uop-14-224.pacific.edu
+engineering.ss.pacific.edu
+autodiscover.pacific.edu
+uop-14-152.pacific.edu
+uop-13-90.pacific.edu
+dugonidiscoveryday.pacific.edu
+uop-10-109.pacific.edu
+uop-9-102.pacific.edu
+uop-13-68.pacific.edu
+inside.pacific.edu
+uop-11-22.pacific.edu
+uop-9-83.pacific.edu
+uop-10-227.pacific.edu
+uop-11-17.pacific.edu
+artsandsciencescollege.pacific.edu
+uop-8-240.pacific.edu
+uop-14-70.pacific.edu
+cs.pacific.edu
+uop-8-89.pacific.edu
+uop-10-158.pacific.edu
+uop-9-176.pacific.edu
+0-static.1science.com.pacificatclassic.pacific.edu
+uop-14-125.pacific.edu
+uop-13-165.pacific.edu
+uop-9-60.pacific.edu
+uop-9-194.pacific.edu
+uop-13-138.pacific.edu
+uop-15-100.pacific.edu
+uop-13-188.pacific.edu
+uop-15-97.pacific.edu
+uop-12-205.pacific.edu
+0-vlex.com.pacificatclassic.pacific.edu
+uop-11-54.pacific.edu
+uop-12-213.pacific.edu
+www.engineering.pacific.edu
+uop-13-133.pacific.edu
+0-video.alexanderstreet.com.pacificatclassic.pacific.edu
+lecturesdev.pacific.edu
+uop-12-44.pacific.edu
+uop-15-240.pacific.edu
+uop-12-111.pacific.edu
+uop-15-245.pacific.edu
+uop-14-146.pacific.edu
+uop-10-82.pacific.edu
+uop-12-211.pacific.edu
+uop-14-185.pacific.edu
+office365.pacific.edu
+uop-9-120.pacific.edu
+uop-9-79.pacific.edu
+udoit.aws.pacific.edu
+uop-12-137.pacific.edu
+uop-10-105.pacific.edu
+uop-8-146.pacific.edu
+covid19.pacific.edu
+uop-14-121.pacific.edu
+uop-8-120.pacific.edu
+0-journals.sagepub.com.pacificatclassic.pacific.edu
+uop-8-99.pacific.edu
+uop-15-54.pacific.edu
+www.dev.pacific.edu
+uop-8-140.pacific.edu
+uop-10-175.pacific.edu
+uop-14-164.pacific.edu
+uop-12-233.pacific.edu
+uop-14-234.pacific.edu
+banner.cloud.pacific.edu
+uop-11-39.pacific.edu
+uop-12-27.pacific.edu
+cyberlab.pacific.edu
+edu.pacificatclassic.pacific.edu
+uop-10-37.pacific.edu
+uop-15-217.pacific.edu
+0-www.whatismyip.com.pacificatclassic.pacific.edu
+0-ediscovery.bna.com.gocat.law.pacific.edu
+uop-15-237.pacific.edu
+0-ybio.brillonline.com.pacificatclassic.pacific.edu
+ems.pacific.edu
+uop-11-6.pacific.edu
+uop-12-60.pacific.edu
+ipdev.pacific.edu
+uop-11-184.pacific.edu
+uop-10-226.pacific.edu
+uop-15-89.pacific.edu
+uop-13-25.pacific.edu
+pacificat.pacific.edu
+rdgateway.pacific.edu
+uop-15-93.pacific.edu
+uop-9-159.pacific.edu
+uop-8-246.pacific.edu
+uop-10-196.pacific.edu
+uop-14-75.pacific.edu
+uop-9-51.pacific.edu
+uop-12-160.pacific.edu
+uop-12-145.pacific.edu
+uop-9-3.pacific.edu
+uop-9-132.pacific.edu
+uop-11-158.pacific.edu
+uop-12-101.pacific.edu
+0-subscription.westacademic.com.pacificatclassic.pacific.edu
+uop-11-113.pacific.edu
+uop-8-230.pacific.edu
+0-elections.countrywatch.com.pacificatclassic.pacific.edu
+uop-11-224.pacific.edu
+uop-10-242.pacific.edu
+uop-13-82.pacific.edu
+schoolofeducation.pacific.edu
+uop-14-139.pacific.edu
+uop-15-28.pacific.edu
+0-id.elsevier.com.pacificatclassic.pacific.edu
+uop-10-18.pacific.edu
+uop-12-95.pacific.edu
+uop-13-180.pacific.edu
+uop-11-218.pacific.edu
+uop-14-32.pacific.edu
+uop-11-77.pacific.edu
+0-chicagomanualofstyle.org.pacificatclassic.pacific.edu
+uop-15-218.pacific.edu
+pharmacy.ss.pacific.edu
+uop-15-87.pacific.edu
+uop-13-35.pacific.edu
+uop-14-198.pacific.edu
+education.test.pacific.edu
+uop-15-181.pacific.edu
+uop-12-121.pacific.edu
+0-kluwerarbitration.com.pacificatclassic.pacific.edu
+uop-12-57.pacific.edu
+uop-11-24.pacific.edu
+uop-15-44.pacific.edu
+webspawn.pacific.edu
+uop-13-143.pacific.edu
+uop-10-250.pacific.edu
+uop-14-212.pacific.edu
+uop-15-175.pacific.edu
+dentalmuseum.pacific.edu
+uop-14-233.pacific.edu
+uop-10-202.pacific.edu
+ashi.pacific.edu
+uop-8-53.pacific.edu
+uop-13-115.pacific.edu
+uop-14-124.pacific.edu
+0-app.vlex.com.pacificatclassic.pacific.edu
+www.calendar.pacific.edu
+uop-14-166.pacific.edu
+0-www.bloomberglaw.com.pacificatclassic.pacific.edu
+uop-8-137.pacific.edu
+uop-10-35.pacific.edu
+aleph1.pacific.edu
+uop-14-64.pacific.edu
+esbresearch.pacific.edu
+uop-11-32.pacific.edu
+vault.pacific.edu
+uop-15-106.pacific.edu
+pncapps.pacific.edu
+uop-13-12.pacific.edu
+uop-15-60.pacific.edu
+uop-8-100.pacific.edu
+print.pacific.edu
+uop-11-101.pacific.edu
+uop-10-45.pacific.edu
+0-1findr.1science.com.pacificatclassic.pacific.edu
+onbasewebdev1.stk.pacific.edu
+uop-13-211.pacific.edu
+uop-14-79.pacific.edu
+0-j1.next.westlaw.com.pacificatclassic.pacific.edu
+uop-11-92.pacific.edu
+uop-8-133.pacific.edu
+uccx.pacific.edu
+uop-10-1.pacific.edu
+uop-11-68.pacific.edu
+uop-14-4.pacific.edu
+clogicprod.stk.pacific.edu
+uop-13-5.pacific.edu
+uop-10-169.pacific.edu
+uop-9-66.pacific.edu
+0-lwwonline.com.pacificatclassic.pacific.edu
+uop-15-228.pacific.edu
+0-i1.next.westlaw.com.pacificatclassic.pacific.edu
+sharedev19.internal.pacific.edu
+uop-15-205.pacific.edu
+uop-11-151.pacific.edu
+uop-14-174.pacific.edu
+0-exports.ebscohost.com.pacificatclassic.pacific.edu
+uk.pacificatclassic.pacific.edu
+uop-11-45.pacific.edu
+uop-13-225.pacific.edu
+uop-9-155.pacific.edu
+bannerdev.ec.pacific.edu
+uop-8-45.pacific.edu
+uop-11-49.pacific.edu
+uop-15-239.pacific.edu
+uop-13-48.pacific.edu
+pacificfax.pacific.edu
+uop-9-238.pacific.edu
+uop-12-107.pacific.edu
+uop-15-98.pacific.edu
+esbmanagement.pacific.edu
+uop-14-204.pacific.edu
+uop-9-164.pacific.edu
+uop-11-131.pacific.edu
+uop-10-137.pacific.edu
+uop-15-119.pacific.edu
+uop-13-52.pacific.edu
+uop-12-146.pacific.edu
+uop-15-7.pacific.edu
+uop-8-23.pacific.edu
+uop-8-54.pacific.edu
+healthclick.pacific.edu
+www.secure.pacific.edu
+uop-14-218.pacific.edu
+uop-12-115.pacific.edu
+uop-13-182.pacific.edu
+uop-8-92.pacific.edu
+mxspam1.pacific.edu
+ecs-network.serv.pacific.edu
+uop-11-195.pacific.edu
+0-aja.pubs.asha.org.pacificatclassic.pacific.edu
+uop-15-241.pacific.edu
+uop-15-17.pacific.edu
+digitalarchives.pacific.edu
+uop-9-158.pacific.edu
+pacifican.pacific.edu
+uop-14-78.pacific.edu
+uop-9-121.pacific.edu
+uop-12-96.pacific.edu
+uop-15-18.pacific.edu
+uop-9-247.pacific.edu
+155fifthfaq.pacific.edu
+uop-13-199.pacific.edu
+uop-11-29.pacific.edu
+0-essential.bna.com.gocat.law.pacific.edu
+uop-14-73.pacific.edu
+alerton.pacific.edu
+www.music.pacific.edu
+uop-15-149.pacific.edu
+uop-13-43.pacific.edu
+currentcatalog.pacific.edu
+cmstraining.pacific.edu
+uop-11-75.pacific.edu
+uop-13-186.pacific.edu
+uop-14-189.pacific.edu
+uop-11-53.pacific.edu
+uop-9-7.pacific.edu
+uop-9-21.pacific.edu
+uop-8-8.pacific.edu
+uop-11-65.pacific.edu
+uop-9-170.pacific.edu
+business.ss.pacific.edu
+uop-13-141.pacific.edu
+uop-12-91.pacific.edu
+uop-12-94.pacific.edu
+email365.pacific.edu
+uop-9-95.pacific.edu
+uop-13-154.pacific.edu
+uop-13-42.pacific.edu
+uop-15-201.pacific.edu
+uop-14-154.pacific.edu
+uop-15-133.pacific.edu
+uop-12-232.pacific.edu
+pacificcatclassic.pacific.edu
+sfdata1.dental.pacific.edu
+mydeskwork.pacific.edu
+uop-12-122.pacific.edu
+0-pediatrics.aappublications.org.pacificatclassic.pacific.edu
+uop-15-178.pacific.edu
+uop-8-119.pacific.edu
+uop-13-93.pacific.edu
+uop-8-60.pacific.edu
+uop-8-61.pacific.edu
+uop-15-226.pacific.edu
+uop-15-88.pacific.edu
+autodiscover.test.pacific.edu
+sim-pa-web.sac.pacific.edu
+uop-10-16.pacific.edu
+uop-8-33.pacific.edu
+uop-15-61.pacific.edu
+uop-10-63.pacific.edu
+english.pacific.edu
+uop-12-247.pacific.edu
+uop-10-106.pacific.edu
+uop-11-14.pacific.edu
+uop-11-74.pacific.edu
+sfvdevelopment.sf.pacific.edu
+uop-13-198.pacific.edu
+uop-10-7.pacific.edu
+0-erisatracker.bna.com.gocat.law.pacific.edu
+www.liberalarts.pacific.edu
+0-chronicle.com.pacificatclassic.pacific.edu
+0-oxfordre.com.pacificatclassic.pacific.edu
+awstest.pacific.edu
+www.webspawn.pacific.edu
+uop-10-188.pacific.edu
+uop-10-21.pacific.edu
+law.cmstraining.pacific.edu
+locksmithdev.pacific.edu
+uop-14-71.pacific.edu
+0-pharmacistsletter.therapeuticresearch.com.pacificatclassic.pacific.edu
+0-archpedi.jamanetwork.com.pacificatclassic.pacific.edu
+uop-14-235.pacific.edu
+uop-14-159.pacific.edu
+uop-14-48.pacific.edu
+uop-11-139.pacific.edu
+uop-12-110.pacific.edu
+law.ss.pacific.edu
+uop-13-1.pacific.edu
+fwroot.pacific.edu
+0-profile.bna.com.pacificatclassic.pacific.edu
+uop-13-102.pacific.edu
+uop-15-15.pacific.edu
+ci-vpn.pacific.edu
+graduate.pacific.edu
+vdi.pacific.edu
+uop-10-28.pacific.edu
+uop-14-228.pacific.edu
+uop-10-27.pacific.edu
+uop-13-166.pacific.edu
+wolterskluwer.com.pacificatclassic.pacific.edu
+emdev.pacific.edu
+uop-9-37.pacific.edu
+uop-9-204.pacific.edu
+uop-13-59.pacific.edu
+uop-8-79.pacific.edu
+0-bybil.oxfordjournals.org.pacificatclassic.pacific.edu
+uop-11-105.pacific.edu
+uop-13-97.pacific.edu
+uop-8-221.pacific.edu
+uop-12-241.pacific.edu
+0-docs.newsbank.com.pacificatclassic.pacific.edu
+www.excellenceday.pacific.edu
+uop-9-88.pacific.edu
+uop-15-193.pacific.edu
+uop-10-87.pacific.edu
+uop-12-185.pacific.edu
+0-dictionaries.brillonline.com.pacificatclassic.pacific.edu
+uop-11-93.pacific.edu
+uop-11-230.pacific.edu
+uop-12-240.pacific.edu
+0-www.europaworld.com.pacificatclassic.pacific.edu
+uop-12-11.pacific.edu
+www.pacifician.pacific.edu
+share.internal.pacific.edu
+uop-11-87.pacific.edu
+uop-14-151.pacific.edu
+uop-15-171.pacific.edu
+libweb.pacific.edu
+music.pacific.edu
+0-content.ebscohost.com.pacificatclassic.pacific.edu
+uop-12-16.pacific.edu
+dental.cmstraining.pacific.edu
+uop-10-100.pacific.edu
+uop-8-116.pacific.edu
+0-login.chicagomanualofstyle.org.pacificatclassic.pacific.edu
+uop-15-14.pacific.edu
+uop-12-176.pacific.edu
+fingerprints.pacific.edu
+uop-11-78.pacific.edu
+uop-10-148.pacific.edu
+uop-10-155.pacific.edu
+uop-10-81.pacific.edu
+uop-8-134.pacific.edu
+0-infoweb.newsbank.com.pacificatclassic.pacific.edu
+business.dev.pacific.edu
+uop-15-177.pacific.edu
+uop-8-214.pacific.edu
+0-www.kluwerlawonline.com.pacificatclassic.pacific.edu
+uop-8-105.pacific.edu
+uop-11-240.pacific.edu
+uop-12-169.pacific.edu
+0-web.a.ebscohost.com.pacificatclassic.pacific.edu
+uop-8-143.pacific.edu
+uop-12-228.pacific.edu
+0-www.vlex.com.pacificatclassic.pacific.edu
+0-www.bna.com.pacificatclassic.pacific.edu
+uop-13-206.pacific.edu
+uop-15-68.pacific.edu
+uop-8-223.pacific.edu
+uop-15-101.pacific.edu
+uop-8-162.pacific.edu
+uop-14-110.pacific.edu
+0-www.hcn.org.pacificatclassic.pacific.edu
+uop-15-20.pacific.edu
+uop-14-177.pacific.edu
+uop-14-90.pacific.edu
+uop-13-212.pacific.edu
+sanfrancisco.pacific.edu
+pharmacy.test.pacific.edu
+0-medialaw.bna.com.gocat.law.pacific.edu
+uop-12-83.pacific.edu
+uop-10-243.pacific.edu
+pharmacyschool.pacific.edu
+uop-9-12.pacific.edu
+uop-8-152.pacific.edu
+uop-9-134.pacific.edu
+uop-12-73.pacific.edu
+uop-8-218.pacific.edu
+uop-15-109.pacific.edu
+uop-10-61.pacific.edu
+uop-11-26.pacific.edu
+uop-12-9.pacific.edu
+music.ss.pacific.edu
+uop-8-18.pacific.edu
+iris.pacific.edu
+solarwinds.pacific.edu
+uop-12-19.pacific.edu
+webapps.pacific.edu
+appnav-prod.ec.pacific.edu
+uop-9-228.pacific.edu
+uop-9-131.pacific.edu
+www.lists.pacific.edu
+uop-15-223.pacific.edu
+uop-12-113.pacific.edu
+uop-11-187.pacific.edu
+uop-15-156.pacific.edu
+uop-14-3.pacific.edu
+uop-8-181.pacific.edu
+sharedev16.internal.pacific.edu
+0-nationalgeographic.eoncontent.ebscohost.com.pacificatclassic.pacific.edu
+www2.pacific.edu
+uop-11-208.pacific.edu
+uop-8-194.pacific.edu
+uop-15-150.pacific.edu
+www.dugonidiscoveryday.pacific.edu
+sfrdgateway.pacific.edu
+uop-9-173.pacific.edu
+sis.pacific.edu
+uop-14-51.pacific.edu
+uop-14-22.pacific.edu
+uop-11-88.pacific.edu
+uop-13-213.pacific.edu
+uop-8-238.pacific.edu
+uop-8-70.pacific.edu
+uop-14-223.pacific.edu
+mxrentals.pacific.edu
+uop-15-183.pacific.edu
+uop-13-83.pacific.edu
+uop-12-118.pacific.edu
+uop-10-24.pacific.edu
+uop-9-6.pacific.edu
+uop-8-131.pacific.edu
+nscprod.pacific.edu
+uop-13-10.pacific.edu
+0-www.r2library.com.pacificatclassic.pacific.edu
+uop-15-40.pacific.edu
+uop-9-96.pacific.edu
+uop-15-69.pacific.edu
+contactpoint.pacific.edu
+uop-14-247.pacific.edu
+0-education.qwest.tv.pacificatclassic.pacific.edu
+uop-9-184.pacific.edu
+uop-15-195.pacific.edu
+uop-9-54.pacific.edu
+uop-10-189.pacific.edu
+uop-9-185.pacific.edu
+www.ss.pacific.edu
+uop-10-195.pacific.edu
+uop-14-169.pacific.edu
+uop-10-236.pacific.edu
+uop-14-155.pacific.edu
+0-corpgov.bna.com.pacificatclassic.pacific.edu
+uop-11-104.pacific.edu
+uop-9-112.pacific.edu
+0-ahainst.ipublishcentral.com.pacificatclassic.pacific.edu
+uop-10-47.pacific.edu
+uop-10-218.pacific.edu
+uop-10-187.pacific.edu
+grad.ss.pacific.edu
+uop-15-250.pacific.edu
+uop-9-239.pacific.edu
+uop-11-192.pacific.edu
+uop-14-128.pacific.edu
+uop-11-204.pacific.edu
+uop-11-138.pacific.edu
+uop-15-38.pacific.edu
+www.olli.pacific.edu
+uop-10-246.pacific.edu
+uop-15-182.pacific.edu
+uop-10-110.pacific.edu
+uop-14-193.pacific.edu
+banner.pacific.edu
+www.pacific.edu
+alerts.pacific.edu
+uop-11-238.pacific.edu
+uop-9-94.pacific.edu
+uop-13-13.pacific.edu
+uop-10-150.pacific.edu
+0-search.alexanderstreet.com.pacificatclassic.pacific.edu
+uop-13-72.pacific.edu
+uop-9-111.pacific.edu
+nscprod.cloud.pacific.edu
+uop-13-149.pacific.edu
+healthsciences.dev.pacific.edu
+uop-8-101.pacific.edu
+0-support.jstor.org.pacificatclassic.pacific.edu
+uop-14-118.pacific.edu
+uop-10-178.pacific.edu
+uop-13-66.pacific.edu
+uop-9-174.pacific.edu
+uop-15-92.pacific.edu
+uop-11-182.pacific.edu
+uop-14-46.pacific.edu
+degreeworks.cloud.pacific.edu
+musicconservatory.pacific.edu
+uop-12-78.pacific.edu
+uop-12-152.pacific.edu
+uop-14-100.pacific.edu
+www.quarantine.pacific.edu
+uop-13-168.pacific.edu
+uop-12-77.pacific.edu
+uop-8-248.pacific.edu
+service.ea.pacific.edu
+0-metrics.bna.com.gocat.law.pacific.edu
+campaign.pacific.edu
+uop-14-25.pacific.edu
+uop-15-90.pacific.edu
+uop-10-104.pacific.edu
+0-www.nejm.org.pacificatclassic.pacific.edu
+uop-15-105.pacific.edu
+uop-10-90.pacific.edu
+uop-11-174.pacific.edu
+uop-9-91.pacific.edu
+uop-15-157.pacific.edu
+sfmobile.sf.pacific.edu
+uop-10-111.pacific.edu
+mail.u.pacific.edu
+uop-11-63.pacific.edu
+0-ecomsci.thieme.com.pacificatclassic.pacific.edu
+uop-8-210.pacific.edu
+uop-8-83.pacific.edu
+uop-15-216.pacific.edu
+uop-11-183.pacific.edu
+uop-12-21.pacific.edu
+uop-11-25.pacific.edu
+mydesklocal.pacific.edu
+uop-15-36.pacific.edu
+clogicprod.pacific.edu
+uop-12-1.pacific.edu
+0-onlawprd.ceb.com.pacificatclassic.pacific.edu
+uop-12-87.pacific.edu
+tiger.pacific.edu
+uop-13-177.pacific.edu
+uop-14-219.pacific.edu
+uop-9-192.pacific.edu
+uop-11-202.pacific.edu
+uop-13-169.pacific.edu
+0-go.gale.com.pacificatclassic.pacific.edu
+uop-11-56.pacific.edu
+0-hapi.ucla.edu.pacificatclassic.pacific.edu
+uop-8-46.pacific.edu
+uop-13-106.pacific.edu
+cch.pacificatclassic.pacific.edu
+uop-12-216.pacific.edu
+healthsciences.test.pacific.edu
+uop-12-130.pacific.edu
+uop-8-62.pacific.edu
+web.pacific.edu
+uop-10-46.pacific.edu
+0-meridian.allenpress.com.pacificatclassic.pacific.edu
+uop-12-58.pacific.edu
+uop-12-51.pacific.edu
+gw1.ec.pacific.edu
+uop-8-179.pacific.edu
+uop-14-167.pacific.edu
+uop-11-196.pacific.edu
+uop-15-65.pacific.edu
+uop-10-136.pacific.edu
+0-imageserver.ebscohost.com.pacificatclassic.pacific.edu
+uop-8-51.pacific.edu
+gatelink.pacific.edu
+healthprod.stk.pacific.edu
+www.email.pacific.edu
+0-resolver.ebscohost.com.pacificatclassic.pacific.edu
+uop-13-250.pacific.edu
+uop-14-55.pacific.edu
+uop-11-150.pacific.edu
+uop-10-234.pacific.edu
+uop-14-83.pacific.edu
+uop-8-208.pacific.edu
+uop-8-234.pacific.edu
+uop-14-245.pacific.edu
+uop-12-132.pacific.edu
+uop-15-235.pacific.edu
+uop-13-24.pacific.edu
+uop-13-17.pacific.edu
+uop-15-176.pacific.edu
+uop-13-205.pacific.edu
+uop-12-53.pacific.edu
+uop-11-169.pacific.edu
+www.cms.pacific.edu
+uop-12-235.pacific.edu
+uop-9-144.pacific.edu
+uop-10-23.pacific.edu
+uop-12-13.pacific.edu
+grad.pacific.edu
+uop-12-154.pacific.edu
+uop-8-6.pacific.edu
+uop-14-158.pacific.edu
+uop-11-80.pacific.edu
+login.ezproxy.pacific.edu
+uop-15-113.pacific.edu
+uop-10-42.pacific.edu
+0-www.privco.com.pacificatclassic.pacific.edu
+uop-9-160.pacific.edu
+uop-8-183.pacific.edu
+uop-12-28.pacific.edu
+advizor.pacific.edu
+lum-prod.ec.pacific.edu
+uop-15-95.pacific.edu
+uop-12-50.pacific.edu
+uop-14-105.pacific.edu
+uop-15-211.pacific.edu
+0-forecast.countrywatch.com.pacificatclassic.pacific.edu
+ecs-cslinux.serv.pacific.edu
+uop-10-10.pacific.edu
+uop-8-165.pacific.edu
+uop-9-92.pacific.edu
+www.dugoniblogs.pacific.edu
+uop-13-223.pacific.edu
+uop-13-150.pacific.edu
+uop-8-29.pacific.edu
+uop-11-33.pacific.edu
+uop-14-143.pacific.edu
+uop-13-70.pacific.edu
+uop-10-145.pacific.edu
+uop-15-233.pacific.edu
+uop-10-133.pacific.edu
+uop-10-75.pacific.edu
+uop-15-190.pacific.edu
+uop-11-236.pacific.edu
+uop-15-249.pacific.edu
+emsdev1.stk.pacific.edu
+uop-8-13.pacific.edu
+uop-15-203.pacific.edu
+uop-15-170.pacific.edu
+tigertotiger.pacific.edu
+www.overcomingobstacles.pacific.edu
+uop-13-76.pacific.edu
+uop-14-129.pacific.edu
+uop-14-191.pacific.edu
+uop-14-188.pacific.edu
+uop-15-66.pacific.edu
+0-papers.nber.org.pacificatclassic.pacific.edu
+uop-13-28.pacific.edu
+uop-10-141.pacific.edu
+esbsharept1.pacific.edu
+vcs.pacific.edu
+uop-13-220.pacific.edu
+uop-14-126.pacific.edu
+uop-12-70.pacific.edu
+uop-12-188.pacific.edu
+uop-12-20.pacific.edu
+uop-12-98.pacific.edu
+uop-9-86.pacific.edu
+uop-9-249.pacific.edu
+0-jicj.oxfordjournals.org.pacificatclassic.pacific.edu
+uop-9-128.pacific.edu
+uop-10-164.pacific.edu
+uop-12-74.pacific.edu
+uop-9-145.pacific.edu
+sharedev16.pacific.edu
+uop-13-117.pacific.edu
+uop-9-201.pacific.edu
+uop-13-123.pacific.edu
+uop-14-144.pacific.edu
+uop-11-199.pacific.edu
+pacificatclassic.pacific.edu
+uop-8-40.pacific.edu
+uop-10-131.pacific.edu
+uop-12-88.pacific.edu
+uop-12-140.pacific.edu
+uop-14-150.pacific.edu
+uop-8-82.pacific.edu
+ecs-csweb.cs.pacific.edu
+uop-12-224.pacific.edu
+uop-10-116.pacific.edu
+uop-11-102.pacific.edu
+uop-9-59.pacific.edu
+uop-8-168.pacific.edu
+uop-12-217.pacific.edu
+uop-12-203.pacific.edu
+uop-8-175.pacific.edu
+uop-11-122.pacific.edu
+0-kluwerlawonline.com.pacificatclassic.pacific.edu
+uop-11-107.pacific.edu
+postapptest.pacific.edu
+uop-14-119.pacific.edu
+uop-14-156.pacific.edu
+uop-13-201.pacific.edu
+0-geneticorigins.countrywatch.com.pacificatclassic.pacific.edu
+0-journals.cambridge.org.pacificatclassic.pacific.edu
+uop-9-80.pacific.edu
+0-www.pdcnet.org.pacificatclassic.pacific.edu
+uop-13-113.pacific.edu
+uop-8-247.pacific.edu
+uop-14-102.pacific.edu
+uop-13-2.pacific.edu
+uop-13-246.pacific.edu
+0-videos.countrywatch.com.pacificatclassic.pacific.edu
+uop-11-97.pacific.edu
+uop-13-26.pacific.edu
+www.nextcatalog.pacific.edu
+uop-14-237.pacific.edu
+uop-14-153.pacific.edu
+uop-12-35.pacific.edu
+uop-12-31.pacific.edu
+0-opil.ouplaw.com.pacificatclassic.pacific.edu
+uop-8-232.pacific.edu
+uop-8-5.pacific.edu
+uop-12-129.pacific.edu
+0-pubchem.ncbi.nlm.nih.gov.gocat.law.pacific.edu
+uop-14-20.pacific.edu
+uop-10-93.pacific.edu
+uop-11-72.pacific.edu
+businessschool.pacific.edu
+uop-14-122.pacific.edu
+uop-11-146.pacific.edu
+uop-13-233.pacific.edu
+uop-8-2.pacific.edu
+uop-11-186.pacific.edu
+facultyaccess.pacific.edu
+uop-8-125.pacific.edu
+uop-14-205.pacific.edu
+0-corpcompliance.bna.com.pacificatclassic.pacific.edu
+0-pubs.bna.com.gocat.law.pacific.edu
+uop-13-161.pacific.edu
+uop-10-221.pacific.edu
+uop-13-101.pacific.edu
+0-www.wkcheetah.com.pacificatclassic.pacific.edu
+uop-15-128.pacific.edu
+0-intelliconnect.cch.com.pacificatclassic.pacific.edu
+uop-14-161.pacific.edu
+uop-9-116.pacific.edu
+uop-13-234.pacific.edu
+0-dsm.psychiatryonline.org.pacificatclassic.pacific.edu
+tiger.serv.pacific.edu
+uop-14-116.pacific.edu
+uop-15-82.pacific.edu
+0-www.annualreviews.org.pacificatclassic.pacific.edu
+uop-14-38.pacific.edu
+uop-12-42.pacific.edu
+uop-10-127.pacific.edu
+uop-14-183.pacific.edu
+uop-13-157.pacific.edu
+uop-13-99.pacific.edu
+uop-10-68.pacific.edu
+uop-15-57.pacific.edu
+uop-9-232.pacific.edu
+uop-9-203.pacific.edu
+landing.pacific.edu
+uop-9-17.pacific.edu
+jross3.pacific.edu
+uop-12-248.pacific.edu
+uop-12-144.pacific.edu
+uop-9-85.pacific.edu
+uop-15-3.pacific.edu
+law.test.pacific.edu
+uop-9-87.pacific.edu
+cmswebdev.pacific.edu
+uop-12-182.pacific.edu
+uop-9-44.pacific.edu
+uop-10-245.pacific.edu
+uop-11-177.pacific.edu
+uop-8-224.pacific.edu
+uop-15-230.pacific.edu
+uop-15-221.pacific.edu
+uop-13-100.pacific.edu
+uop-8-243.pacific.edu
+uop-10-182.pacific.edu
+uop-8-130.pacific.edu
+uop-13-4.pacific.edu
+calendar.pacific.edu
+uop-8-96.pacific.edu
+uop-13-216.pacific.edu
+o84.txmail.pacific.edu
+uop-12-7.pacific.edu
+uop-11-225.pacific.edu
+uop-15-8.pacific.edu
+issm.pacific.edu
+www.contactpoint.pacific.edu
+uop-15-6.pacific.edu
+uop-11-233.pacific.edu
+uop-8-91.pacific.edu
+uop-15-234.pacific.edu
+uop-9-63.pacific.edu
+uop-15-24.pacific.edu
+0-media.proquest.com.pacificatclassic.pacific.edu
+uop-8-217.pacific.edu
+uop-8-249.pacific.edu
+uop-10-17.pacific.edu
+uop-10-38.pacific.edu
+media.lectures.pacific.edu
+0-www.springerlink.com.gocat.law.pacific.edu
+pacdevcrm.pacific.edu
+mysitedev16.pacific.edu
+pac-vpn.serv.pacific.edu
+uop-12-139.pacific.edu
+uop-8-76.pacific.edu
+uop-11-226.pacific.edu
+uop-13-31.pacific.edu
+uop-9-180.pacific.edu
+uop-11-9.pacific.edu
+uop-11-114.pacific.edu
+uop-9-153.pacific.edu
+uop-11-58.pacific.edu
+bssprd.pacific.edu
+uop-14-130.pacific.edu
+0-heinonline.org.pacificatclassic.pacific.edu
+uop-8-193.pacific.edu
+uop-11-40.pacific.edu
+uop-12-179.pacific.edu
+uop-8-167.pacific.edu
+uop-15-23.pacific.edu
+uop-12-237.pacific.edu
+uop-13-71.pacific.edu
+0-bibliographies.brillonline.com.pacificatclassic.pacific.edu
+uop-15-154.pacific.edu
+uop-11-206.pacific.edu
+uop-11-69.pacific.edu
+0-www.jstor.org.pacificatclassic.pacific.edu
+uop-8-86.pacific.edu
+uop-8-90.pacific.edu
+uop-9-135.pacific.edu
+asuop.pacific.edu
+uop-9-229.pacific.edu
+uop-13-181.pacific.edu
+uop-11-220.pacific.edu
+uop-10-65.pacific.edu
+uop-12-167.pacific.edu
+0-www.jove.com.pacificatclassic.pacific.edu
+uop-13-238.pacific.edu
+clogicdev.pacific.edu
+uop-14-170.pacific.edu
+uop-13-146.pacific.edu
+sharedev13.pacific.edu
+webex.pacific.edu
+0-foreignlawguide.com.pacificatclassic.pacific.edu
+uop-9-43.pacific.edu
+uop-15-160.pacific.edu
+uop-13-248.pacific.edu
+uop-13-244.pacific.edu
+uop-13-60.pacific.edu
+uop-13-132.pacific.edu
+uop-9-169.pacific.edu
+0-webutil.bna.com.gocat.law.pacific.edu
+uop-8-75.pacific.edu
+uop-11-193.pacific.edu
+uop-14-239.pacific.edu
+uop-12-108.pacific.edu
+uop-14-39.pacific.edu
+uop-12-210.pacific.edu
+onbasedev.pacific.edu
+bridge.pacific.edu
+0-data.countrywatch.com.pacificatclassic.pacific.edu
+uop-10-166.pacific.edu
+esbresearch.esb.pacific.edu
+uop-8-66.pacific.edu
+uop-10-26.pacific.edu
+uop-13-56.pacific.edu
+uop-10-162.pacific.edu
+tigerdomains.pacific.edu
+uop-12-65.pacific.edu
+uop-10-83.pacific.edu
+0-journals.lww.com.pacificatclassic.pacific.edu
+uop-12-106.pacific.edu
+famis.pacific.edu
+uop-13-11.pacific.edu
+uop-8-148.pacific.edu
+uop-14-21.pacific.edu
+uop-12-197.pacific.edu
+0-search.proquest.com.pacificatclassic.pacific.edu
+uop-13-62.pacific.edu
+uop-11-128.pacific.edu
+uop-9-200.pacific.edu
+uop-8-178.pacific.edu
+0-www.oxfordscholarship.com.pacificatclassic.pacific.edu
+uop-12-71.pacific.edu
+uop-14-209.pacific.edu
+lgbtqia.pacific.edu
+uop-15-243.pacific.edu
+uop-10-215.pacific.edu
+uop-13-228.pacific.edu
+uop-8-78.pacific.edu
+emsdev.pacific.edu
+uop-15-137.pacific.edu
+uop-15-123.pacific.edu
+uop-10-229.pacific.edu
+uop-12-114.pacific.edu
+0-www.kluwerarbitration.com.pacificatclassic.pacific.edu
+uop-9-11.pacific.edu
+uop-9-243.pacific.edu
+uop-15-46.pacific.edu
+uop-9-217.pacific.edu
+uop-11-13.pacific.edu
+uop-10-206.pacific.edu
+uop-11-83.pacific.edu
+sfx4.lib.pacific.edu
+uop-14-98.pacific.edu
+uop-12-149.pacific.edu
+uop-11-8.pacific.edu
+engineering.pacific.edu
+uop-9-175.pacific.edu
+uop-15-174.pacific.edu
+pac-vpn.pacific.edu
+uop-14-201.pacific.edu
+uop-13-125.pacific.edu
+uop-11-190.pacific.edu
+uop-14-157.pacific.edu
+uop-8-150.pacific.edu
+uop-10-190.pacific.edu
+uop-15-145.pacific.edu
+uop-12-24.pacific.edu
+uop-12-82.pacific.edu
+nextcatalog.pacific.edu
+uop-13-217.pacific.edu
+sandbox.pacificatclassic.pacific.edu
+uop-15-10.pacific.edu
+uop-12-143.pacific.edu
+physicaltherapyprogram.pacific.edu
+0-www.mitpressjournals.org.pacificatclassic.pacific.edu
+tickets.pacific.edu
+uop-8-220.pacific.edu
+uop-11-16.pacific.edu
+uop-9-110.pacific.edu
+uop-8-63.pacific.edu
+uop-15-199.pacific.edu
+uop-10-138.pacific.edu
+uop-10-108.pacific.edu
+ets.pacific.edu
+uop-12-133.pacific.edu
+uop-13-92.pacific.edu
+uop-8-184.pacific.edu
+0-anthrosource.onlinelibrary.wiley.com.pacificatclassic.pacific.edu
+uop-15-130.pacific.edu
+uop-10-124.pacific.edu
+0-bnanews.bna.com.pacificatclassic.pacific.edu
+uop-11-141.pacific.edu
+www.ipdev.pacific.edu
+uop-8-64.pacific.edu
+uop-8-11.pacific.edu
+healthsciences.pacific.edu
+uop-9-240.pacific.edu
+uop-8-16.pacific.edu
+uop-14-61.pacific.edu
+uop-12-54.pacific.edu
+tsailab.pacific.edu
+etsxserve.pacific.edu
+sfsharedev.pacific.edu
+0-www.oxfordmusiconline.com.pacificatclassic.pacific.edu
+uop-9-213.pacific.edu
+uop-10-147.pacific.edu
+0-flsatracker.bna.com.gocat.law.pacific.edu
+uop-11-11.pacific.edu
+uop-8-21.pacific.edu
+0-galeapps.gale.com.pacificatclassic.pacific.edu
+uop-13-29.pacific.edu
+uop-14-31.pacific.edu
+dev.pacific.edu
+www.test.pacific.edu
+morrischapel.pacific.edu
+0-www.sciencemag.org.pacificatclassic.pacific.edu
+mysitedev19.pacific.edu
+uop-12-208.pacific.edu
+uop-8-239.pacific.edu
+uop-10-154.pacific.edu
+uop-15-25.pacific.edu
+uop-9-138.pacific.edu
+uop-10-216.pacific.edu
+uop-10-20.pacific.edu
+uop-10-232.pacific.edu
+uop-14-81.pacific.edu
+0-www.geoscienceworld.org.pacificatclassic.pacific.edu
+uop-14-199.pacific.edu
+uop-11-188.pacific.edu
+uop-9-61.pacific.edu
+0-fod.infobase.com.pacificatclassic.pacific.edu
+oitfaq.pacific.edu
+0-www.iclr.co.uk.pacificatclassic.pacific.edu
+itunes.pacific.edu
+uop-15-142.pacific.edu
+uop-15-86.pacific.edu
+uop-8-67.pacific.edu
+uop-8-124.pacific.edu
+uop-8-237.pacific.edu
+uop-8-156.pacific.edu
+uop-10-144.pacific.edu
+uop-13-37.pacific.edu
+uop-14-87.pacific.edu
+uop-11-239.pacific.edu
+uop-10-235.pacific.edu
+uop-12-177.pacific.edu
+uop-15-188.pacific.edu
+uop-8-127.pacific.edu
+uop-13-189.pacific.edu
+aces2.pacific.edu
+uop-15-35.pacific.edu
+uop-9-129.pacific.edu
+uop-15-78.pacific.edu
+0-a.next.westlaw.com.pacificatclassic.pacific.edu
+0-www.chronicle.com.pacificatclassic.pacific.edu
+uop-9-141.pacific.edu
+0-rmmlf.casemakerlibra.com.pacificatclassic.pacific.edu
+uop-15-16.pacific.edu
+uop-13-111.pacific.edu
+uop-12-206.pacific.edu
+engineering.dev.pacific.edu
+uop-12-75.pacific.edu
+uop-15-63.pacific.edu
+uop-15-207.pacific.edu
+cms.pacific.edu
+uop-10-25.pacific.edu
+rms1.pacific.edu
+uop-10-153.pacific.edu
+0-www.rmmlf-library.org.pacificatclassic.pacific.edu
+uop-13-122.pacific.edu
+0-referenceworks.brillonline.com.pacificatclassic.pacific.edu
+uop-14-112.pacific.edu
+uop-14-30.pacific.edu
+uop-14-36.pacific.edu
+uop-8-159.pacific.edu
+uop-8-215.pacific.edu
+0-www.degruyter.com.pacificatclassic.pacific.edu
+uop-9-77.pacific.edu
+0-site.ebrary.com.pacificatclassic.pacific.edu
+sfsharedev16.pacific.edu
+uop-8-69.pacific.edu
+uop-11-35.pacific.edu
+uop-9-118.pacific.edu
+0-pubs.acs.org.pacificcatclassic.pacific.edu
+uop-8-201.pacific.edu
+uop-11-123.pacific.edu
+0-checkpoint.riag.com.pacificatclassic.pacific.edu
+uop-13-243.pacific.edu
+law.dev.pacific.edu
+uop-10-74.pacific.edu
+uop-9-119.pacific.edu
+dental.pacific.edu
+uop-14-59.pacific.edu
+uop-13-222.pacific.edu
+uop-14-8.pacific.edu
+uop-11-164.pacific.edu
+uop-14-200.pacific.edu
+uop-9-122.pacific.edu
+uop-10-57.pacific.edu
+gocat.law.pacific.edu
+uop-11-152.pacific.edu
+uop-12-196.pacific.edu
+uop-14-145.pacific.edu
+uop-13-207.pacific.edu
+uop-10-180.pacific.edu
+nl.pacificatclassic.pacific.edu
+uop-10-214.pacific.edu
+uop-12-90.pacific.edu
+0-medone-comsci.thieme.com.pacificatclassic.pacific.edu
+0-my.bna.com.gocat.law.pacific.edu
+uop-12-127.pacific.edu
+uop-12-230.pacific.edu
+uop-15-21.pacific.edu
+uop-15-140.pacific.edu
+0-www.engineeringvillage.com.pacificatclassic.pacific.edu
+0-apps.fastcase.com.pacificatclassic.pacific.edu
+uop-14-95.pacific.edu
+share.pacific.edu
+uop-9-156.pacific.edu
+uop-11-95.pacific.edu
+0-proquest.safaribooksonline.com.pacificatclassic.pacific.edu
+uop-11-147.pacific.edu
+uop-15-104.pacific.edu
+uop-8-241.pacific.edu
+emergency.pacific.edu
+liberalarts.test.pacific.edu
+uop-15-27.pacific.edu
+sharedev.pacific.edu
+0-www.rmmlf-library.org.gocat.law.pacific.edu
+uop-11-156.pacific.edu
+covid.pacific.edu
+uop-12-18.pacific.edu
+scholarlycommons.pacific.edu
+uop-11-43.pacific.edu
+0-www.mergentintellect.com.pacificatclassic.pacific.edu
+uop-14-243.pacific.edu
+uop-13-230.pacific.edu
+college.pacific.edu
+mydesklabs.pacific.edu
+uop-15-30.pacific.edu
+uop-14-42.pacific.edu
+cisco-wlc.wireless.pacific.edu
+0-products.newsbank.com.pacificatclassic.pacific.edu
+www.law.pacific.edu
+uop-13-80.pacific.edu
+cpce.pacific.edu
+uop-8-211.pacific.edu
+uop-8-227.pacific.edu
+uop-9-178.pacific.edu
+uop-15-165.pacific.edu
+iisprod.pacific.edu
+uop-15-169.pacific.edu
+uop-11-217.pacific.edu
+uop-13-91.pacific.edu
+uop-13-134.pacific.edu
+uop-12-48.pacific.edu
+uop-13-6.pacific.edu
+uop-10-3.pacific.edu
+0-www.fulcrum.org.pacificatclassic.pacific.edu
+uop-8-192.pacific.edu
+www.pharmacy.pacific.edu
+0-www.oed.com.pacificatclassic.pacific.edu
+uop-9-38.pacific.edu
+quarantine.pacific.edu
+uop-14-14.pacific.edu
+uop-10-174.pacific.edu
+uop-8-202.pacific.edu
+uop-14-141.pacific.edu
+uop-10-213.pacific.edu
+uop-9-58.pacific.edu
+0-proquestcombo.safaribooksonline.com.pacificatclassic.pacific.edu
+uop-13-204.pacific.edu
+uop-13-64.pacific.edu
+uop-9-26.pacific.edu
+0-li.proquest.com.pacificatclassic.pacific.edu
+uop-15-122.pacific.edu
+uop-10-56.pacific.edu
+uop-15-51.pacific.edu
+uop-9-35.pacific.edu
+uop-9-22.pacific.edu
+uop-14-67.pacific.edu
+0-pinnacle-secure.allenpress.com.pacificatclassic.pacific.edu
+uop-10-15.pacific.edu
+uop-10-224.pacific.edu
+uop-14-33.pacific.edu
+uop-11-89.pacific.edu
+0-2019.vlex.com.pacificatclassic.pacific.edu
+uop-14-213.pacific.edu
+uop-12-226.pacific.edu
+uop-10-123.pacific.edu
+uop-14-120.pacific.edu
+uop-14-62.pacific.edu
+pacshare.pacific.edu
+www.currentcatalog.pacific.edu
+uop-11-213.pacific.edu
+0-onlaw.ceb.com.pacificatclassic.pacific.edu
+uop-14-181.pacific.edu
+uop-10-208.pacific.edu
+uop-11-249.pacific.edu
+uop-11-20.pacific.edu
+uop-13-63.pacific.edu
+uop-9-78.pacific.edu
+uop-11-178.pacific.edu
+uop-13-231.pacific.edu
+autodiscover.testdom03.pacific.edu
+purpose.pacific.edu
+uop-8-231.pacific.edu
+0-dx.doi.org.pacificatclassic.pacific.edu
+uop-11-76.pacific.edu
+uop-9-219.pacific.edu
+mirapoint1.pacific.edu
+sharedev.internal.pacific.edu
+uop-13-148.pacific.edu
+uop-11-106.pacific.edu
+uop-15-138.pacific.edu
+uop-12-105.pacific.edu
+uop-12-155.pacific.edu
+uop-8-103.pacific.edu
+uop-12-125.pacific.edu
+uop-11-175.pacific.edu
+uop-12-200.pacific.edu
+uop-10-41.pacific.edu
+uop-15-48.pacific.edu
+uop-11-81.pacific.edu
+mx40.pacific.edu
+uop-13-33.pacific.edu
+uop-8-85.pacific.edu
+uop-10-84.pacific.edu
+0-lawyersmanual.bna.com.pacificatclassic.pacific.edu
+mswebapps13.pacific.edu
+uop-12-199.pacific.edu
+uop-14-107.pacific.edu
+0-healthlaw.bna.com.pacificatclassic.pacific.edu
+pop.dental.pacific.edu
+uop-9-125.pacific.edu
+uop-8-71.pacific.edu
+uop-9-71.pacific.edu
+uop-8-149.pacific.edu
+uop-11-242.pacific.edu
+0-clmu.alexanderstreet.com.pacificatclassic.pacific.edu
+0-pubs.geoscienceworld.org.pacificatclassic.pacific.edu
+uop-15-161.pacific.edu
+uop-11-181.pacific.edu
+uop-15-144.pacific.edu
+uop-15-197.pacific.edu
+0-web.ebscohost.com.pacificatclassic.pacific.edu
+uop-13-155.pacific.edu
+uop-12-187.pacific.edu
+uop-15-62.pacific.edu
+0-jcr.incites.thomsonreuters.com.pacificatpublic.pacific.edu
+uop-11-96.pacific.edu
+uop-13-190.pacific.edu
+0-online.goinglobal.com.pacificatclassic.pacific.edu
+uop-9-224.pacific.edu
+uop-15-73.pacific.edu
+uop-8-22.pacific.edu
+uop-10-77.pacific.edu
+mx.pacific.edu
+uop-8-73.pacific.edu
+uop-8-176.pacific.edu
+uop-12-181.pacific.edu
+uop-15-126.pacific.edu
+uop-12-12.pacific.edu
+uop-13-116.pacific.edu
+uop-8-129.pacific.edu
+uop-11-250.pacific.edu
+0-c1.next.westlaw.com.pacificatclassic.pacific.edu
+uop-14-18.pacific.edu
+uop-14-15.pacific.edu
+uop-14-13.pacific.edu
+uop-15-141.pacific.edu
+uop-10-114.pacific.edu
+news.pacific.edu
+uop-15-163.pacific.edu
+uop-8-225.pacific.edu
+uop-15-108.pacific.edu
+uop-11-173.pacific.edu
+uop-14-216.pacific.edu
+cmsprod.pacific.edu
+uop-14-24.pacific.edu
+uop-8-14.pacific.edu
+uop-8-58.pacific.edu
+uop-10-247.pacific.edu
+uop-8-163.pacific.edu
+0-taxandaccounting.bna.com.gocat.law.pacific.edu
+uop-11-86.pacific.edu
+uop-12-163.pacific.edu
+uop-14-50.pacific.edu
+uop-8-110.pacific.edu
+uop-13-160.pacific.edu
+uop-10-86.pacific.edu
+uop-13-30.pacific.edu
+uop-11-70.pacific.edu
+uop-13-44.pacific.edu
+www.print.pacific.edu
+uop-14-178.pacific.edu
+0-www.mergentonline.com.pacificatclassic.pacific.edu
+0-eproducts.westacademic.com.pacificatclassic.pacific.edu
+pacauth.pacific.edu
+uop-8-126.pacific.edu
+0-find.galegroup.com.pacificatclassic.pacific.edu
+uop-14-65.pacific.edu
+0-wkcheetah.com.pacificatclassic.pacific.edu
+uop-13-14.pacific.edu
+uop-12-55.pacific.edu
+uop-14-194.pacific.edu
+go.pacific.edu
+uop-9-234.pacific.edu
+uop-9-57.pacific.edu
+uop-8-213.pacific.edu
+uop-9-137.pacific.edu
+0-www.chicagomanualofstyle.org.pacificatclassic.pacific.edu
+liberalarts.ss.pacific.edu
+phsweb.pacific.edu
+uop-12-10.pacific.edu
+www.phsweb.pacific.edu
+uop-15-202.pacific.edu
+uop-9-97.pacific.edu
+uop-15-185.pacific.edu
+uop-15-99.pacific.edu
+uop-11-171.pacific.edu
+osmosis.pacific.edu
+uop-13-22.pacific.edu
+uop-11-162.pacific.edu
+catalog.pacific.edu
+uop-9-171.pacific.edu
+www.dentalmuseum.pacific.edu
+0-www.ripmfulltext.org.pacificatclassic.pacific.edu
+uop-9-165.pacific.edu
+0-spiedigitallibrary.org.pacificatclassic.pacific.edu
+uop-10-31.pacific.edu
+casper.pacific.edu
+uop-14-163.pacific.edu
+0-online.sagepub.com.pacificatclassic.pacific.edu
+uop-8-173.pacific.edu
+0-secure.medicalletter.org.pacificatclassic.pacific.edu
+honors.pacific.edu
+nscdev.ec.pacific.edu
+uop-10-200.pacific.edu
+uop-14-135.pacific.edu
+uop-13-191.pacific.edu
+mswebapps13dev.pacific.edu
+uop-15-153.pacific.edu
+0-primarysources.brillonline.com.pacificatclassic.pacific.edu
+uop-9-109.pacific.edu
+uop-13-95.pacific.edu
+www.smtp.pacific.edu
+uop-15-210.pacific.edu
+uop-14-208.pacific.edu
+uop-8-28.pacific.edu
+uop-13-208.pacific.edu
+uop-10-241.pacific.edu
+uop-11-143.pacific.edu
+uop-8-35.pacific.edu
+uop-12-204.pacific.edu
+uop-13-144.pacific.edu
+uop-9-124.pacific.edu
+0-onlinelibrary.wiley.com.pacificatclassic.pacific.edu
+education.dev.pacific.edu
+0-pacific.naxosmusiclibrary.com.pacificatclassic.pacific.edu
+uop-8-199.pacific.edu
+cloud.pacific.edu
+www.healthsciences.pacific.edu
+uop-15-215.pacific.edu
+sfshare.pacific.edu
+uop-15-186.pacific.edu
+uop-8-3.pacific.edu
+uop-14-240.pacific.edu
+uop-12-173.pacific.edu
+uop-14-138.pacific.edu
+uop-14-35.pacific.edu
+coptic.pacific.edu
+uop-9-39.pacific.edu
+uop-15-120.pacific.edu
+uop-8-195.pacific.edu
+uop-10-85.pacific.edu
+uop-9-73.pacific.edu
+0-www.digitalconcerthall.com.pacificatclassic.pacific.edu
+uop-8-97.pacific.edu
+uop-9-114.pacific.edu
+webshare.pacific.edu
+uop-13-156.pacific.edu
+uop-10-98.pacific.edu
+uop-8-98.pacific.edu
+uop-8-87.pacific.edu
+uop-12-128.pacific.edu
+uop-15-58.pacific.edu
+conservatory.pacific.edu
+patientaccess.pacific.edu
+0-pubs.acs.org.pacificatclassic.pacific.edu
+uop-11-157.pacific.edu
+uop-9-166.pacific.edu
+0-global.factiva.com.pacificatclassic.pacific.edu
+gwmail.pacific.edu
+uop-8-113.pacific.edu
+uop-12-33.pacific.edu
+uop-14-222.pacific.edu
+uop-9-53.pacific.edu
+uop-10-12.pacific.edu
+uop-13-104.pacific.edu
+uop-15-76.pacific.edu
+uop-9-136.pacific.edu
+uop-15-194.pacific.edu
+uop-13-235.pacific.edu
+pacific.edu
+uop-12-5.pacific.edu
+uop-9-72.pacific.edu
+uop-9-48.pacific.edu
+uop-8-102.pacific.edu
+uop-13-77.pacific.edu
+uop-8-245.pacific.edu
+uop-15-231.pacific.edu
+uop-9-50.pacific.edu
+0-www.nytimes.com.pacificatclassic.pacific.edu
+uop-8-15.pacific.edu
+uop-15-96.pacific.edu
+0-dailyreport.bna.com.gocat.law.pacific.edu
+www.epay.pacific.edu
+0-global.factiva.com.gocat.law.pacific.edu
+uop-13-175.pacific.edu
+0-app.justis.com.pacificatclassic.pacific.edu
+uop-15-192.pacific.edu
+www.covid.pacific.edu
+uop-14-249.pacific.edu
+uop-15-212.pacific.edu
+uop-11-100.pacific.edu
+sim.pa.pacific.edu
+uop-8-204.pacific.edu
+uop-12-215.pacific.edu
+uop-9-27.pacific.edu
+eamapsrvdev.cloud.pacific.edu
+nscdev.pacific.edu
+uop-9-117.pacific.edu
+uop-15-42.pacific.edu
+0-www.nutritioncaremanual.org.pacificatclassic.pacific.edu
+0-www.karger.com.pacificatclassic.pacific.edu
+uop-10-66.pacific.edu
+uop-15-198.pacific.edu
+uop-15-152.pacific.edu
+uop-11-27.pacific.edu
+uop-10-146.pacific.edu
+0-op.bna.com.gocat.law.pacific.edu
+uop-13-16.pacific.edu
+0-shop.heinonline.org.pacificatclassic.pacific.edu
+uop-14-16.pacific.edu
+uop-11-221.pacific.edu
+lists.pacific.edu
+uop-12-220.pacific.edu
+uop-15-191.pacific.edu
+uop-8-135.pacific.edu
+itso.pacific.edu
+uop-10-231.pacific.edu
+0-www.ciaonet.org.pacificatclassic.pacific.edu
+0-login.wolterskluwer.com.pacificatclassic.pacific.edu
+uop-9-162.pacific.edu
+uop-9-84.pacific.edu
+uop-8-172.pacific.edu
+emedley.pacific.edu
+uop-9-15.pacific.edu
+uop-11-47.pacific.edu
+gwmobile.pacific.edu
+servicenow.pacific.edu
+uop-11-46.pacific.edu
+uop-11-210.pacific.edu
+uop-10-199.pacific.edu
+uc.pacific.edu
+uop-14-86.pacific.edu
+uop-11-219.pacific.edu
+uop-12-2.pacific.edu
+djwebprod2.ea.pacific.edu
+uop-14-142.pacific.edu
+uop-12-40.pacific.edu
+uop-12-174.pacific.edu
+0-laborandemploymentlaw.bna.com.gocat.law.pacific.edu
+media.pacific.edu
+uop-15-139.pacific.edu
+sip.pacific.edu
+uop-10-80.pacific.edu
+uop-14-172.pacific.edu
+uop-10-205.pacific.edu
+uop-15-124.pacific.edu
+uop-13-27.pacific.edu
+0-www.sciencedirect.com.pacificatclassic.pacific.edu
+uop-10-40.pacific.edu
+uop-14-176.pacific.edu
+uop-10-96.pacific.edu
+uop-8-68.pacific.edu
+0-ebookcentral.proquest.com.pacificatclassic.pacific.edu
+uop-8-151.pacific.edu
+iiswt1.pacific.edu
+uop-13-85.pacific.edu
+uop-13-226.pacific.edu
+0-www.oxfordhandbooks.com.pacificatclassic.pacific.edu
+sacems.pacific.edu
+uop-14-114.pacific.edu
+uop-10-14.pacific.edu
+uop-9-127.pacific.edu
+uop-12-222.pacific.edu
+uop-13-57.pacific.edu
+uop-8-112.pacific.edu
+0-esweb.bna.com.pacificatclassic.pacific.edu
+uop-11-135.pacific.edu
+uop-14-45.pacific.edu
+spdevapps.pacific.edu
+uop-12-63.pacific.edu
+uop-10-240.pacific.edu
+uop-11-55.pacific.edu
+uop-12-212.pacific.edu
+dental.ss.pacific.edu
+uop-14-5.pacific.edu
+www.webmail.pacific.edu
+uop-8-160.pacific.edu
+lectures.pacific.edu
+business.pacific.edu
+0-extsvc.ebscohost.com.pacificatclassic.pacific.edu
+0-pharmacistsletter.therapeuticresearch.com.gocat.law.pacific.edu
+uop-9-188.pacific.edu
+0-jcr.incites.thomsonreuters.com.gocat.law.pacific.edu
+uop-12-153.pacific.edu
+uop-11-115.pacific.edu
+uop-12-14.pacific.edu
+joinolli.pacific.edu
+events.pacific.edu
+soth.pacific.edu
+uop-13-229.pacific.edu
+uop-9-62.pacific.edu
+uop-13-192.pacific.edu
+uop-13-47.pacific.edu
+uop-13-203.pacific.edu
+esbshare.pacific.edu
+uop-9-218.pacific.edu
+uop-15-19.pacific.edu
+mses.pacific.edu
+0-iplaw.bna.com.pacificatclassic.pacific.edu
+uop-8-188.pacific.edu
+sp19mos.pacific.edu
+canvas.pacific.edu
+uop-13-151.pacific.edu
+uop-12-170.pacific.edu
+uop-8-219.pacific.edu
+music.test.pacific.edu
+forum.pacific.edu
+uop-14-227.pacific.edu
+uop-12-8.pacific.edu
+uop-10-157.pacific.edu
+uop-14-47.pacific.edu
+uop-15-1.pacific.edu
+uop-10-55.pacific.edu
+uop-11-60.pacific.edu
+uop-10-198.pacific.edu
+uop-14-23.pacific.edu
+uop-9-212.pacific.edu
+uop-12-158.pacific.edu
+uop-9-89.pacific.edu
+www.wkcheetah.com.pacificatclassic.pacific.edu
+postweb.pacific.edu
+uop-15-125.pacific.edu
+uop-13-137.pacific.edu
+uop-12-30.pacific.edu
+t3.pacific.edu
+uop-9-70.pacific.edu
+uop-14-106.pacific.edu
+uop-9-105.pacific.edu
+linkedinlearning.pacific.edu
+uop-13-41.pacific.edu
+uop-13-107.pacific.edu
+uop-10-79.pacific.edu
+uop-15-70.pacific.edu
+uop-9-233.pacific.edu
+uop-13-126.pacific.edu
+uop-15-80.pacific.edu
+uop-9-157.pacific.edu
+uop-15-52.pacific.edu
+forecast.pacific.edu
+uop-11-126.pacific.edu
+uop-11-189.pacific.edu
+uop-10-212.pacific.edu
+uop-14-29.pacific.edu
+uop-12-62.pacific.edu
+uop-8-128.pacific.edu
+dentalcms.pacific.edu
+uop-13-61.pacific.edu
+uop-9-67.pacific.edu
+uop-15-107.pacific.edu
+uop-8-1.pacific.edu
+0-1.next.westlaw.com.pacificatclassic.pacific.edu
+uop-10-225.pacific.edu
+uop-12-85.pacific.edu
+uop-13-145.pacific.edu
+uop-8-81.pacific.edu
+0-hdl.lib.umich.edu.pacificatclassic.pacific.edu
+banner.ec.pacific.edu
+uop-9-74.pacific.edu
+uop-8-187.pacific.edu
+uop-11-161.pacific.edu
+uop-13-74.pacific.edu
+uop-13-9.pacific.edu
+uop-9-183.pacific.edu
+nagios.pacific.edu
+uop-13-142.pacific.edu
+0-www.cochranelibrary.com.pacificatclassic.pacific.edu
+uop-9-29.pacific.edu
+uop-11-197.pacific.edu
+uop-11-117.pacific.edu
+uop-14-80.pacific.edu
+0-wsauth.bna.com.pacificatclassic.pacific.edu
+uop-11-62.pacific.edu
+uop-14-94.pacific.edu
+uop-9-215.pacific.edu
+0-www.lexisnexis.com.pacificatclassic.pacific.edu
+uop-10-160.pacific.edu
+uop-9-147.pacific.edu
+uop-12-178.pacific.edu
+uop-10-78.pacific.edu
+tutortrac.pacific.edu
+uop-10-9.pacific.edu
+ezproxy.pacific.edu
+www.go.pacific.edu
+uop-8-94.pacific.edu
+uop-8-144.pacific.edu
+uop-10-19.pacific.edu
+uop-11-133.pacific.edu
+lists1.pacific.edu
+uop-14-96.pacific.edu
+uop-9-1.pacific.edu
+uop-12-99.pacific.edu
+uop-8-180.pacific.edu
+uop-12-195.pacific.edu
+uop-13-196.pacific.edu
+uop-13-130.pacific.edu
+uop-15-12.pacific.edu
+uop-14-117.pacific.edu
+uop-10-185.pacific.edu
+uop-9-14.pacific.edu
+eamapsrvprod.cloud.pacific.edu
+uop-14-180.pacific.edu
+uop-14-215.pacific.edu
+uop-8-200.pacific.edu
+uop-9-2.pacific.edu
+0-newsbank.com.pacificatclassic.pacific.edu
+uop-14-236.pacific.edu
+uop-14-115.pacific.edu
+uop-10-191.pacific.edu
+uop-15-56.pacific.edu
+0-next.westlaw.com.pacificatclassic.pacific.edu
+uop-9-235.pacific.edu
+uop-11-155.pacific.edu
+uop-9-207.pacific.edu
+uop-12-207.pacific.edu
+uop-14-148.pacific.edu
+degreeworksdev.cloud.pacific.edu
+healthclick-opencommunicator.pacific.edu
+uop-14-230.pacific.edu
+uop-11-34.pacific.edu
+uop-11-98.pacific.edu
+uop-9-154.pacific.edu
+websharedev16.pacific.edu
+uop-12-81.pacific.edu
+uop-11-111.pacific.edu
+uop-10-168.pacific.edu
+uop-9-187.pacific.edu
+uop-15-114.pacific.edu
+0-ceb.com.pacificatclassic.pacific.edu
+uop-13-84.pacific.edu
+uop-8-157.pacific.edu
+uop-15-84.pacific.edu
+uop-12-66.pacific.edu
+uop-14-19.pacific.edu
+0-app.knovel.com.pacificatclassic.pacific.edu
+uop-14-56.pacific.edu
+grad.dev.pacific.edu
+0-home.heinonline.org.pacificatclassic.pacific.edu
+0-ieeexplore.ieee.org.pacificatclassic.pacific.edu
+uop-10-60.pacific.edu
+0-eaccess.heart.org.pacificatclassic.pacific.edu
+uop-8-108.pacific.edu
+uop-10-44.pacific.edu
+bannerdev.cloud.pacific.edu
+uop-13-73.pacific.edu
+uop-12-142.pacific.edu
+uop-10-72.pacific.edu
+uop-10-52.pacific.edu
+uop-11-116.pacific.edu
+uop-9-161.pacific.edu
+uop-13-127.pacific.edu
+uop-9-28.pacific.edu
+uop-13-210.pacific.edu
+uop-9-101.pacific.edu
+uop-9-41.pacific.edu
+liberalarts.dev.pacific.edu
+uop-9-196.pacific.edu
+uop-9-242.pacific.edu
+mx30.pacific.edu
+uop-8-174.pacific.edu
+uop-13-170.pacific.edu
+uop-10-69.pacific.edu
+uop-15-53.pacific.edu
+uop-15-236.pacific.edu
+uop-12-183.pacific.edu
+uop-13-179.pacific.edu
+uop-12-36.pacific.edu
+gw3.ec.pacific.edu
+uop-10-156.pacific.edu
+uop-9-244.pacific.edu
+uop-14-162.pacific.edu
+smtp.pacific.edu
+uop-10-32.pacific.edu
+uop-8-138.pacific.edu
+uop-15-32.pacific.edu
+uop-11-179.pacific.edu
+uop-10-119.pacific.edu
+uop-12-68.pacific.edu
+uop-12-214.pacific.edu
+uop-9-55.pacific.edu
+www.tigertotiger.pacific.edu
+uop-12-148.pacific.edu
+0-essential.bloombergbna.com.pacificatclassic.pacific.edu
+uop-14-248.pacific.edu
+uop-12-238.pacific.edu
+uop-9-49.pacific.edu
+0-www.worldtradelaw.net.pacificatclassic.pacific.edu
+uop-9-47.pacific.edu
+uop-13-58.pacific.edu
+uop-12-109.pacific.edu
+uop-10-167.pacific.edu
+uop-15-55.pacific.edu
+ns2.pacific.edu
+uop-9-221.pacific.edu
+uop-8-189.pacific.edu
+uop-14-131.pacific.edu
+uop-11-94.pacific.edu
+uop-11-228.pacific.edu
+uop-15-81.pacific.edu
+uop-14-76.pacific.edu
+uop-13-34.pacific.edu
+archive.pacific.edu
+0-libguides.mcgeorge.edu.pacificatclassic.pacific.edu
+uop-14-134.pacific.edu
+mysites.pacific.edu
+uop-11-209.pacific.edu
+uop-12-25.pacific.edu
+uop-15-116.pacific.edu
+0-pacific.credocourseware.com.pacificatclassic.pacific.edu
+uop-14-26.pacific.edu
+uop-10-209.pacific.edu
+uop-11-12.pacific.edu
+uop-9-230.pacific.edu
+uop-9-177.pacific.edu
+uop-9-163.pacific.edu
+uop-13-38.pacific.edu
+uop-8-145.pacific.edu
+uop-13-241.pacific.edu
+uop-8-93.pacific.edu
+uop-14-192.pacific.edu
+uop-9-76.pacific.edu
+uop-12-17.pacific.edu
+www.wasc.pacific.edu
+uop-15-244.pacific.edu
+uop-8-155.pacific.edu
+uop-15-31.pacific.edu
+uop-8-41.pacific.edu
+0-refworks.proquest.com.pacificatclassic.pacific.edu
+0-www.brillonline.com.pacificatclassic.pacific.edu
+uop-11-38.pacific.edu
+uop-8-104.pacific.edu
+uop-11-142.pacific.edu
+uop-12-202.pacific.edu
+uop-8-122.pacific.edu
+uop-14-171.pacific.edu
+uop-15-189.pacific.edu
+uop-9-93.pacific.edu
+uop-12-49.pacific.edu
+org.pacificcatclassic.pacific.edu
+0-www.jdentaled.org.pacificatclassic.pacific.edu
+0-system.privco.com.pacificatclassic.pacific.edu
+bradfordas.serv.pacific.edu
+uop-10-91.pacific.edu
+uop-13-183.pacific.edu
+uop-13-8.pacific.edu
+0-congressional.proquest.com.pacificatclassic.pacific.edu
+uop-13-124.pacific.edu
+uop-10-89.pacific.edu
+uop-14-12.pacific.edu
+mail.pacific.edu
+0-help.heinonline.org.pacificatclassic.pacific.edu
+uop-9-214.pacific.edu
+uop-12-250.pacific.edu
+uop-9-24.pacific.edu
+uop-10-95.pacific.edu
+uop-11-73.pacific.edu
+uop-15-22.pacific.edu
+uop-8-196.pacific.edu
+webapp.pacific.edu
+uop-12-56.pacific.edu
+uop-12-26.pacific.edu
+0-bwrite.bna.com.pacificatclassic.pacific.edu
+webmail.dental.pacific.edu
+uop-14-103.pacific.edu
+uop-14-40.pacific.edu
+uop-13-105.pacific.edu
+uop-11-165.pacific.edu
+uop-11-159.pacific.edu
+uop-11-15.pacific.edu
+uop-8-77.pacific.edu
+cpanel.tigerdomains.pacific.edu
+uop-8-111.pacific.edu
+uop-13-109.pacific.edu
+uop-10-233.pacific.edu
+0-pib.countrywatch.com.pacificatclassic.pacific.edu
+uop-12-29.pacific.edu
+uop-14-109.pacific.edu
+uop-8-139.pacific.edu
+0-checkpoint.riag.com.gocat.law.pacific.edu
+uop-15-168.pacific.edu
+uop-12-175.pacific.edu
+uop-9-211.pacific.edu
+uop-14-244.pacific.edu
+blackboard.pacific.edu
+uop-10-50.pacific.edu
+0-science.sciencemag.org.pacificatclassic.pacific.edu
+uop-14-190.pacific.edu
+uop-10-76.pacific.edu

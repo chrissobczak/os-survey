@@ -1,16 +1,2 @@
-NXDOMAIN	chicaslintas.bundenet.com
-NXDOMAIN	ccibague.bundenet.com
-NOERROR	www.bundenet.com
-NXDOMAIN	correo.bundenet.com
-NXDOMAIN	cpanel.bundenet.com
-NXDOMAIN	chicaslindas.bundenet.com
-NXDOMAIN	www.chicaslintas.bundenet.com
-NXDOMAIN	banners.bundenet.com
-NXDOMAIN	atlas.bundenet.com
-NXDOMAIN	webdisk.bundenet.com
-NXDOMAIN	cafeinternet.bundenet.com
-NOERROR	bundenet.com
-NXDOMAIN	chicas.bundenet.com
-NXDOMAIN	mail.bundenet.com
-NXDOMAIN	webmail.bundenet.com
-NXDOMAIN	chat.bundenet.com
+www.bundenet.com
+bundenet.com

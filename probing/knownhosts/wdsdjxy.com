@@ -1,2 +1,2 @@
-NOERROR	www.wdsdjxy.com
-NOERROR	wdsdjxy.com
+www.wdsdjxy.com
+wdsdjxy.com

@@ -1,10 +1,10 @@
-NOERROR	mail.nha-bg.org
-NOERROR	cpanel.nha-bg.org
-NOERROR	cpcalendars.nha-bg.org
-NOERROR	cpcontacts.nha-bg.org
-NOERROR	nha-bg.org
-NOERROR	webdisk.nha-bg.org
-NOERROR	autodiscover.nha-bg.org
-NOERROR	webmail.nha-bg.org
-NOERROR	www.mail.nha-bg.org
-NOERROR	www.nha-bg.org
+mail.nha-bg.org
+cpanel.nha-bg.org
+cpcalendars.nha-bg.org
+cpcontacts.nha-bg.org
+nha-bg.org
+webdisk.nha-bg.org
+autodiscover.nha-bg.org
+webmail.nha-bg.org
+www.mail.nha-bg.org
+www.nha-bg.org

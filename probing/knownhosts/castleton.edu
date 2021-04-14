@@ -1,41 +1,29 @@
-NOERROR	cuairwave.castleton.edu
-NXDOMAIN	music.castleton.edu
-NOERROR	catalog.castleton.edu
-NOERROR	localweb.castleton.edu
-NOERROR	librarycatalog.castleton.edu
-NOERROR	webmail.castleton.edu
-NOERROR	m.catalog.castleton.edu
-NXDOMAIN	www.info.castleton.edu
-NXDOMAIN	w.castleton.edu
-NOERROR	apps.castleton.edu
-NOERROR	mail.castleton.edu
-NXDOMAIN	forms.castleton.edu
-NOERROR	connect.castleton.edu
-NOERROR	info.castleton.edu
-NOERROR	poll.castleton.edu
-NXDOMAIN	cuwifi.castleton.edu
-NOERROR	libcal.castleton.edu
-NOERROR	grad.castleton.edu
-NOERROR	castleton7210.castleton.edu
-NXDOMAIN	w2.castleton.edu
-NOERROR	www.castleton.edu
-NXDOMAIN	www.explore.castleton.edu
-NOERROR	libguides.castleton.edu
-NOERROR	dspace.castleton.edu
-NOERROR	www.alumni.castleton.edu
-NOERROR	events.castleton.edu
-NOERROR	castleton.edu
-NXDOMAIN	investsmartvt.castleton.edu
-NOERROR	portal.castleton.edu
-NOERROR	netreg.castleton.edu
-NOERROR	clicks.castleton.edu
-NXDOMAIN	w1.castleton.edu
-NOERROR	explore.castleton.edu
-NXDOMAIN	micollab.castleton.edu
-NOERROR	undergrad.castleton.edu
-NOERROR	blogs.castleton.edu
-NOERROR	admissions.castleton.edu
-NOERROR	orientation.castleton.edu
-NXDOMAIN	com.castleton.edu
-NOERROR	radius.castleton.edu
-NXDOMAIN	wiuv.castleton.edu
+cuairwave.castleton.edu
+catalog.castleton.edu
+localweb.castleton.edu
+librarycatalog.castleton.edu
+webmail.castleton.edu
+m.catalog.castleton.edu
+apps.castleton.edu
+mail.castleton.edu
+connect.castleton.edu
+info.castleton.edu
+poll.castleton.edu
+libcal.castleton.edu
+grad.castleton.edu
+castleton7210.castleton.edu
+www.castleton.edu
+libguides.castleton.edu
+dspace.castleton.edu
+www.alumni.castleton.edu
+events.castleton.edu
+castleton.edu
+portal.castleton.edu
+netreg.castleton.edu
+clicks.castleton.edu
+explore.castleton.edu
+undergrad.castleton.edu
+blogs.castleton.edu
+admissions.castleton.edu
+orientation.castleton.edu
+radius.castleton.edu

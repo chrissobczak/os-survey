@@ -1,18 +1,13 @@
-NOERROR	opac.uc-bcf.edu.ph
-NOERROR	k12-canvas.uc-bcf.edu.ph
-NOERROR	uc-bcf.edu.ph
-NOERROR	morale.uc-bcf.edu.ph
-NOERROR	canvas.uc-bcf.edu.ph
-NXDOMAIN	e-learn.uc-bcf.edu.ph
-NOERROR	corregitour.apps.uc-bcf.edu.ph
-NXDOMAIN	www.mystudentportal.uc-bcf.edu.ph
-NOERROR	preview-www.uc-bcf.edu.ph
-NXDOMAIN	elearn.uc-bcf.edu.ph
-NOERROR	k12-morale.uc-bcf.edu.ph
-NOERROR	fw.uc-bcf.edu.ph
-NOERROR	ucordilleras.uc-bcf.edu.ph
-NXDOMAIN	www.opac.uc-bcf.edu.ph
-NOERROR	mystudentportal.uc-bcf.edu.ph
-NOERROR	www.uc-bcf.edu.ph
-NOERROR	reviewhub.uc-bcf.edu.ph
-NXDOMAIN	mail.uc-bcf.edu.ph
+opac.uc-bcf.edu.ph
+k12-canvas.uc-bcf.edu.ph
+uc-bcf.edu.ph
+morale.uc-bcf.edu.ph
+canvas.uc-bcf.edu.ph
+corregitour.apps.uc-bcf.edu.ph
+preview-www.uc-bcf.edu.ph
+k12-morale.uc-bcf.edu.ph
+fw.uc-bcf.edu.ph
+ucordilleras.uc-bcf.edu.ph
+mystudentportal.uc-bcf.edu.ph
+www.uc-bcf.edu.ph
+reviewhub.uc-bcf.edu.ph

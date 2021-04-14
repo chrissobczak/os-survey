@@ -1,116 +1,100 @@
-NOERROR	helpdesk.wou.edu.my
-NOERROR	www.igpublish.com.neptune.wou.edu.my
-NOERROR	library.books24x7.com.neptune.wou.edu.my
-NOERROR	search.proquest.com.neptune.wou.edu.my
-NOERROR	www.britannica.com.neptune.wou.edu.my
-NOERROR	weko.wou.edu.my
-NOERROR	portal.acm.org.neptune.wou.edu.my
-NOERROR	www.emedia.com.my.neptune.wou.edu.my
-NOERROR	sis.wou.edu.my
-NXDOMAIN	iradio.wou.edu.my
-NOERROR	wou.edu.my
-NOERROR	mx.wou.edu.my
-NOERROR	kvcampaign.wou.edu.my
-NOERROR	www.netlibrary.com.neptune.wou.edu.my
-NOERROR	gs.wou.edu.my
-NXDOMAIN	apel2.wou.edu.my
-NXDOMAIN	lmscc.wou.edu.my
-NOERROR	portal.igpublish.com.neptune.wou.edu.my
-NOERROR	resolver.ebscohost.com.neptune.wou.edu.my
-NOERROR	info.emeraldinsight.com.neptune.wou.edu.my
-NOERROR	secure.books24x7.com.neptune.wou.edu.my
-NXDOMAIN	meetme.wou.edu.my
-NOERROR	economist.com.neptune.wou.edu.my
-NOERROR	lms.wou.edu.my
-NOERROR	web.b.ebscohost.com.neptune.wou.edu.my
-NOERROR	projectlms.wou.edu.my
-NOERROR	wawasan4pace.wou.edu.my
-NOERROR	oerasia-repository.wou.edu.my
-NOERROR	chronicle.com.neptune.wou.edu.my
-NOERROR	olp-oncampus.wou.edu.my
-NOERROR	myservice.wou.edu.my
-NOERROR	tutortraining.wou.edu.my
-SERVFAIL	eprint.wou.edu.my
-NOERROR	my.wou.edu.my
-NOERROR	woulibrary.wou.edu.my.neptune.wou.edu.my
-NXDOMAIN	resitlms.wou.edu.my
-NOERROR	student.wou.edu.my
-NXDOMAIN	wmstrial.wou.edu.my
-NOERROR	lms-oncampus.wou.edu.my
-NOERROR	adfs.wou.edu.my
-NOERROR	elgg.wou.edu.my
-NOERROR	my2.wou.edu.my
-NOERROR	gw.wou.edu.my
-SERVFAIL	lmscc-oncampus.wou.edu.my
-NOERROR	tutorportal.wou.edu.my
-NOERROR	ocl.wou.edu.my
-NOERROR	testvle.wou.edu.my
-NOERROR	woucast.wou.edu.my
-NXDOMAIN	contest.wou.edu.my
-NOERROR	tutor.wou.edu.my
-NOERROR	digitech.wou.edu.my
-NOERROR	delivery.acm.org.neptune.wou.edu.my
-NXDOMAIN	aaou2011.wou.edu.my
-NOERROR	www.ebscohost.com.neptune.wou.edu.my
-SERVFAIL	wou-vital.wou.edu.my
-NOERROR	woulibrary.wou.edu.my
-NOERROR	staffportal.wou.edu.my
-NOERROR	oed.com.neptune.wou.edu.my
-NOERROR	application.wou.edu.my
-NOERROR	servicedesk.wou.edu.my
-NOERROR	dictionary.oed.com.neptune.wou.edu.my
-NOERROR	www.jstor.org.neptune.wou.edu.my
-NXDOMAIN	lmstrial.wou.edu.my
-NOERROR	enquiry.wou.edu.my
-NOERROR	search.ebscohost.com.neptune.wou.edu.my
-NOERROR	resourcespace.wou.edu.my
-NOERROR	woumobile.wou.edu.my
-NOERROR	media.proquest.com.neptune.wou.edu.my
-NOERROR	zoho-forms.wou.edu.my
-NOERROR	my-oncampus.wou.edu.my
-NOERROR	web.a.ebscohost.com.neptune.wou.edu.my
-NOERROR	library.wou.edu.my
-NOERROR	search.eb.com.neptune.wou.edu.my
-NOERROR	as.wiley.com.neptune.wou.edu.my
-NOERROR	archives.emedia.com.my.neptune.wou.edu.my
-NOERROR	vo.wou.edu.my
-NOERROR	site.ebrary.com.neptune.wou.edu.my
-NOERROR	eds.a.ebscohost.com.neptune.wou.edu.my
-NOERROR	lp1.wou.edu.my
-NOERROR	neptune.wou.edu.my
-NXDOMAIN	wms.wou.edu.my
-NOERROR	odl.wou.edu.my
-NOERROR	ehrms.wou.edu.my
-NOERROR	campaign.wou.edu.my
-NOERROR	www.nst.com.my.neptune.wou.edu.my
-NOERROR	convocation.wou.edu.my
-NOERROR	ebooks.cambridge.org.neptune.wou.edu.my
-NOERROR	www.emeraldinsight.com.neptune.wou.edu.my
-NOERROR	malaysiakini.com.neptune.wou.edu.my
-NOERROR	ns2.wou.edu.my
-NXDOMAIN	stgwww.wou.edu.my
-NOERROR	www.malaysiakini.com.neptune.wou.edu.my
-NOERROR	lp2.wou.edu.my
-NOERROR	myservice-oncampus.wou.edu.my
-NOERROR	ehis.ebscohost.com.neptune.wou.edu.my
-NOERROR	dx.doi.org.neptune.wou.edu.my
-NOERROR	intelliconnect.wkasiapacific.com.neptune.wou.edu.my
-NOERROR	eds.b.ebscohost.com.neptune.wou.edu.my
-NOERROR	ns1.wou.edu.my
-NOERROR	www.actapress.com.neptune.wou.edu.my
-NOERROR	oerasia.wou.edu.my
-NOERROR	alumni.wou.edu.my
-NOERROR	onlinelibrary.wiley.com.neptune.wou.edu.my
-NOERROR	myapel.wou.edu.my
-NOERROR	assignment.wou.edu.my
-NOERROR	myservice-i.wou.edu.my
-NXDOMAIN	ww.wou.edu.my
-NOERROR	adfs03.wou.edu.my
-NOERROR	www.wou.edu.my
-NOERROR	digitalbiz.wou.edu.my
-NOERROR	www.oxfordreference.com.neptune.wou.edu.my
-NXDOMAIN	student-old.wou.edu.my
-NOERROR	lms-i.wou.edu.my
-NOERROR	www.chicagomanualofstyle.org.neptune.wou.edu.my
-NOERROR	helpcentre.wou.edu.my
-NOERROR	web.ebscohost.com.neptune.wou.edu.my
+helpdesk.wou.edu.my
+www.igpublish.com.neptune.wou.edu.my
+library.books24x7.com.neptune.wou.edu.my
+search.proquest.com.neptune.wou.edu.my
+www.britannica.com.neptune.wou.edu.my
+weko.wou.edu.my
+portal.acm.org.neptune.wou.edu.my
+www.emedia.com.my.neptune.wou.edu.my
+sis.wou.edu.my
+wou.edu.my
+mx.wou.edu.my
+kvcampaign.wou.edu.my
+www.netlibrary.com.neptune.wou.edu.my
+gs.wou.edu.my
+portal.igpublish.com.neptune.wou.edu.my
+resolver.ebscohost.com.neptune.wou.edu.my
+info.emeraldinsight.com.neptune.wou.edu.my
+secure.books24x7.com.neptune.wou.edu.my
+economist.com.neptune.wou.edu.my
+lms.wou.edu.my
+web.b.ebscohost.com.neptune.wou.edu.my
+projectlms.wou.edu.my
+wawasan4pace.wou.edu.my
+oerasia-repository.wou.edu.my
+chronicle.com.neptune.wou.edu.my
+olp-oncampus.wou.edu.my
+myservice.wou.edu.my
+tutortraining.wou.edu.my
+my.wou.edu.my
+woulibrary.wou.edu.my.neptune.wou.edu.my
+student.wou.edu.my
+lms-oncampus.wou.edu.my
+adfs.wou.edu.my
+elgg.wou.edu.my
+my2.wou.edu.my
+gw.wou.edu.my
+tutorportal.wou.edu.my
+ocl.wou.edu.my
+testvle.wou.edu.my
+woucast.wou.edu.my
+tutor.wou.edu.my
+digitech.wou.edu.my
+delivery.acm.org.neptune.wou.edu.my
+www.ebscohost.com.neptune.wou.edu.my
+woulibrary.wou.edu.my
+staffportal.wou.edu.my
+oed.com.neptune.wou.edu.my
+application.wou.edu.my
+servicedesk.wou.edu.my
+dictionary.oed.com.neptune.wou.edu.my
+www.jstor.org.neptune.wou.edu.my
+enquiry.wou.edu.my
+search.ebscohost.com.neptune.wou.edu.my
+resourcespace.wou.edu.my
+woumobile.wou.edu.my
+media.proquest.com.neptune.wou.edu.my
+zoho-forms.wou.edu.my
+my-oncampus.wou.edu.my
+web.a.ebscohost.com.neptune.wou.edu.my
+library.wou.edu.my
+search.eb.com.neptune.wou.edu.my
+as.wiley.com.neptune.wou.edu.my
+archives.emedia.com.my.neptune.wou.edu.my
+vo.wou.edu.my
+site.ebrary.com.neptune.wou.edu.my
+eds.a.ebscohost.com.neptune.wou.edu.my
+lp1.wou.edu.my
+neptune.wou.edu.my
+odl.wou.edu.my
+ehrms.wou.edu.my
+campaign.wou.edu.my
+www.nst.com.my.neptune.wou.edu.my
+convocation.wou.edu.my
+ebooks.cambridge.org.neptune.wou.edu.my
+www.emeraldinsight.com.neptune.wou.edu.my
+malaysiakini.com.neptune.wou.edu.my
+ns2.wou.edu.my
+www.malaysiakini.com.neptune.wou.edu.my
+lp2.wou.edu.my
+myservice-oncampus.wou.edu.my
+ehis.ebscohost.com.neptune.wou.edu.my
+dx.doi.org.neptune.wou.edu.my
+intelliconnect.wkasiapacific.com.neptune.wou.edu.my
+eds.b.ebscohost.com.neptune.wou.edu.my
+ns1.wou.edu.my
+www.actapress.com.neptune.wou.edu.my
+oerasia.wou.edu.my
+alumni.wou.edu.my
+onlinelibrary.wiley.com.neptune.wou.edu.my
+myapel.wou.edu.my
+assignment.wou.edu.my
+myservice-i.wou.edu.my
+adfs03.wou.edu.my
+www.wou.edu.my
+digitalbiz.wou.edu.my
+www.oxfordreference.com.neptune.wou.edu.my
+lms-i.wou.edu.my
+www.chicagomanualofstyle.org.neptune.wou.edu.my
+helpcentre.wou.edu.my
+web.ebscohost.com.neptune.wou.edu.my

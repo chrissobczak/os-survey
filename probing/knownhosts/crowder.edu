@@ -1,42 +1,33 @@
-NXDOMAIN	www.web-mail.crowder.edu
-NXDOMAIN	faq.crowder.edu
-NOERROR	3m.crowder.edu
-NOERROR	pdqlink.crowder.edu
-NOERROR	webmail.crowder.edu
-NOERROR	www.trio.crowder.edu
-NOERROR	www.communityed.crowder.edu
-NOERROR	cctec.crowder.edu
-NOERROR	ael.crowder.edu
-NOERROR	ldap.crowder.edu
-NOERROR	autodiscover.crowder.edu
-NOERROR	my.crowder.edu
-NXDOMAIN	www.my.crowder.edu
-NOERROR	status.crowder.edu
-NOERROR	bionet.crowder.edu
-NOERROR	sars.crowder.edu
-NOERROR	www.crowder.edu
-NOERROR	ourbeach.crowder.edu
-NXDOMAIN	w.crowder.edu
-NOERROR	www.cctec.crowder.edu
-NOERROR	trio.crowder.edu
-NOERROR	econference.crowder.edu
-SERVFAIL	faq.it.crowder.edu
-NXDOMAIN	www.ridermail.crowder.edu
-NOERROR	legacy.crowder.edu
-NOERROR	ns2.crowder.edu
-NXDOMAIN	rider-cppub.crowder.edu
-NOERROR	foundation.crowder.edu
-NOERROR	blackboard.crowder.edu
-NOERROR	www.foundation.crowder.edu
-NOERROR	ridermail.crowder.edu
-NOERROR	mail.crowder.edu
-NOERROR	groupwise.crowder.edu
-NOERROR	webbcity.crowder.edu
-NXDOMAIN	www.rider-cppub.crowder.edu
-NXDOMAIN	www.ccmcdvpn.crowder.edu
-NOERROR	cloud.crowder.edu
-NOERROR	crowder.edu
-NOERROR	ns1.crowder.edu
-NOERROR	ccmcdvpn.crowder.edu
-NOERROR	erc.crowder.edu
-NOERROR	pn.crowder.edu
+3m.crowder.edu
+pdqlink.crowder.edu
+webmail.crowder.edu
+www.trio.crowder.edu
+www.communityed.crowder.edu
+cctec.crowder.edu
+ael.crowder.edu
+ldap.crowder.edu
+autodiscover.crowder.edu
+my.crowder.edu
+status.crowder.edu
+bionet.crowder.edu
+sars.crowder.edu
+www.crowder.edu
+ourbeach.crowder.edu
+www.cctec.crowder.edu
+trio.crowder.edu
+econference.crowder.edu
+legacy.crowder.edu
+ns2.crowder.edu
+foundation.crowder.edu
+blackboard.crowder.edu
+www.foundation.crowder.edu
+ridermail.crowder.edu
+mail.crowder.edu
+groupwise.crowder.edu
+webbcity.crowder.edu
+cloud.crowder.edu
+crowder.edu
+ns1.crowder.edu
+ccmcdvpn.crowder.edu
+erc.crowder.edu
+pn.crowder.edu

@@ -1,83 +1,52 @@
-NOERROR	cpcalendars.usao.edu
-NOERROR	phoneserver2.usao.edu
-SERVFAIL	badgepass.ahlab.usao.edu
-NOERROR	omniupdate.usao.edu
-NOERROR	magazine.usao.edu
-NXDOMAIN	believe.usao.edu
-NOERROR	www.webmail.usao.edu
-NOERROR	canvas.usao.edu
-NOERROR	www.usao.edu
-NXDOMAIN	ccstudent.usao.edu
-NOERROR	droverimpact.usao.edu
-NXDOMAIN	www.usaofoundation.usao.edu
-NOERROR	phones.usao.edu
-NXDOMAIN	mdc.usao.edu.usao.edu
-NXDOMAIN	jenzabar.usao.edu
-NXDOMAIN	koha.library.usao.edu
-NOERROR	givingday.usao.edu
-NOERROR	whm.dev.usao.edu
-NXDOMAIN	dla.usao.edu
-SERVFAIL	printmanager.ahlab.usao.edu
-NOERROR	mdc.usao.edu
-NOERROR	usao.edu
-NXDOMAIN	lxr.usao.edu
-NOERROR	koha.usao.edu
-NXDOMAIN	dspace.library.usao.edu
-NOERROR	remotesupport.usao.edu
-NOERROR	webroute.usao.edu
-NOERROR	phoneserver4.usao.edu
-NXDOMAIN	www.webaccess.usao.edu
-NXDOMAIN	assess.usao.edu
-NOERROR	www.library.usao.edu
-NOERROR	webmail.usao.edu
-NOERROR	staff.library.usao.edu
-NOERROR	cpanel.usao.edu
-NOERROR	phoneserver3.usao.edu
-NOERROR	www.mail.usao.edu
-NXDOMAIN	m.library.usao.edu
-NXDOMAIN	airwave.usao.edu
-NOERROR	mail.dev.usao.edu
-NOERROR	aegir.usao.edu
-NOERROR	link.usao.edu
-NOERROR	ou.usao.edu
-NOERROR	trend.usao.edu
-NXDOMAIN	empoweredmag.usao.edu
-NOERROR	webmail.dev.usao.edu
-NOERROR	library.usao.edu
-NOERROR	opac.library.usao.edu
-NXDOMAIN	usaofoundation.usao.edu
-NOERROR	webdisk.dev.usao.edu
-NXDOMAIN	www.ou.usao.edu
-NOERROR	phoneserver1.usao.edu
-NOERROR	dirac.usao.edu
-NOERROR	mail.usao.edu
-NXDOMAIN	www.empoweredmag.usao.edu
-NOERROR	webaccess.usao.edu
-NXDOMAIN	nlproxy.usao.edu
-NOERROR	cpcontacts.usao.edu
-NXDOMAIN	guest.usao.edu
-NXDOMAIN	www.omniupdate.usao.edu
-NXDOMAIN	login.library.usao.edu
-NOERROR	poise.usao.edu
-NOERROR	webdisk.usao.edu
-NOERROR	dev.usao.edu
-NOERROR	admissions.usao.edu
-NOERROR	mercur.usao.edu
-NXDOMAIN	captiveportal-login.usao.edu
-NOERROR	scdvr.usao.edu
-NOERROR	moodleserver.usao.edu
-NOERROR	ithelpdesk.usao.edu
-NOERROR	cpanel.dev.usao.edu
-NOERROR	projects.usao.edu
-NOERROR	www.dev.usao.edu
-NOERROR	portal.usao.edu
-NOERROR	leo.usao.edu
-NXDOMAIN	ccfaculty.usao.edu
-NXDOMAIN	lewis.library.usao.edu
-NXDOMAIN	securelogin.usao.edu
-SERVFAIL	jenzabar.ahlab.usao.edu
-NXDOMAIN	ccadvisor.usao.edu
-NOERROR	rightfax.usao.edu
-NOERROR	my.usao.edu
-SERVFAIL	sctdb2.ahlab.usao.edu
-NXDOMAIN	clearpass.usao.edu
+cpcalendars.usao.edu
+phoneserver2.usao.edu
+omniupdate.usao.edu
+magazine.usao.edu
+www.webmail.usao.edu
+canvas.usao.edu
+www.usao.edu
+droverimpact.usao.edu
+phones.usao.edu
+givingday.usao.edu
+whm.dev.usao.edu
+mdc.usao.edu
+usao.edu
+koha.usao.edu
+remotesupport.usao.edu
+webroute.usao.edu
+phoneserver4.usao.edu
+www.library.usao.edu
+webmail.usao.edu
+staff.library.usao.edu
+cpanel.usao.edu
+phoneserver3.usao.edu
+www.mail.usao.edu
+mail.dev.usao.edu
+aegir.usao.edu
+link.usao.edu
+ou.usao.edu
+trend.usao.edu
+webmail.dev.usao.edu
+library.usao.edu
+opac.library.usao.edu
+webdisk.dev.usao.edu
+phoneserver1.usao.edu
+dirac.usao.edu
+mail.usao.edu
+webaccess.usao.edu
+cpcontacts.usao.edu
+poise.usao.edu
+webdisk.usao.edu
+dev.usao.edu
+admissions.usao.edu
+mercur.usao.edu
+scdvr.usao.edu
+moodleserver.usao.edu
+ithelpdesk.usao.edu
+cpanel.dev.usao.edu
+projects.usao.edu
+www.dev.usao.edu
+portal.usao.edu
+leo.usao.edu
+rightfax.usao.edu
+my.usao.edu

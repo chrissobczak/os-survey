@@ -1,76 +1,43 @@
-NXDOMAIN	ubtel.ub.edu.ar
-NOERROR	ublug.ub.edu.ar
-NXDOMAIN	bdpp.ub.edu.ar
-NOERROR	cursos.ub.edu.ar
-NOERROR	tv.ub.edu.ar
-NOERROR	conexion.ub.edu.ar
-NOERROR	nuevosmedios.ub.edu.ar
-NOERROR	libreria.ub.edu.ar
-NOERROR	revistas.ub.edu.ar
-NXDOMAIN	demos.ub.edu.ar
-NOERROR	ub.edu.ar
-NOERROR	executive.ub.edu.ar
-NXDOMAIN	videoteca.ub.edu.ar
-NOERROR	v.ub.edu.ar
-NXDOMAIN	borges.ub.edu.ar
-NOERROR	smtp2.ub.edu.ar
-NXDOMAIN	router.ub.edu.ar
-NXDOMAIN	chat.ub.edu.ar
-NXDOMAIN	st.ub.edu.ar
-NXDOMAIN	aea-alliance.ub.edu.ar
-NXDOMAIN	deimos.ub.edu.ar
-NOERROR	patan.ub.edu.ar
-NOERROR	obelix.ub.edu.ar
-NOERROR	www.ub.edu.ar
-NXDOMAIN	cluster1.ub.edu.ar
-NOERROR	phplist.ub.edu.ar
-NOERROR	smtp.ub.edu.ar
-NOERROR	carreras-informatica.ub.edu.ar
-NXDOMAIN	cedevtoolatees.ub.edu.ar
-NXDOMAIN	eduvial.ub.edu.ar
-NXDOMAIN	da.ub.edu.ar
-NOERROR	panoramix.ub.edu.ar
-NOERROR	empleosypasantias.ub.edu.ar
-NXDOMAIN	cidicom.ub.edu.ar
-NXDOMAIN	stx.ub.edu.ar
-NOERROR	biblioteca.ub.edu.ar
-NXDOMAIN	cedevtoolpromo.ub.edu.ar
-NOERROR	obligaciones.ub.edu.ar
-NXDOMAIN	iti.ub.edu.ar
-NOERROR	eeni.ub.edu.ar
-NXDOMAIN	censodoc.ub.edu.ar
-NOERROR	portal.ub.edu.ar
-NOERROR	repositorio.ub.edu.ar
-NOERROR	smtp3.ub.edu.ar
-NOERROR	pagosfedev.ub.edu.ar
-NOERROR	pagoscaba.ub.edu.ar
-NOERROR	sitios.ub.edu.ar
-NXDOMAIN	smsp99.ub.edu.ar
-NOERROR	ubbd.ub.edu.ar
-NXDOMAIN	valicert.ub.edu.ar
-NOERROR	posgrados.ub.edu.ar
-NXDOMAIN	mailub.ub.edu.ar
-NXDOMAIN	cedevtooldemo.ub.edu.ar
-NXDOMAIN	atees.ub.edu.ar
-NOERROR	sia.ub.edu.ar
-NXDOMAIN	att.ub.edu.ar
-NOERROR	smtp4.ub.edu.ar
-NOERROR	campus.ub.edu.ar
-NOERROR	ubit.ub.edu.ar
-NOERROR	conectate.ub.edu.ar
-NOERROR	fedsmtp.ub.edu.ar
-NXDOMAIN	satelital.ub.edu.ar
-NOERROR	consultante.ub.edu.ar
-NXDOMAIN	aatp.ub.edu.ar
-NOERROR	wp.ub.edu.ar
-NOERROR	inscripciones.ub.edu.ar
-NOERROR	redaulas.ub.edu.ar
-NXDOMAIN	ingresos.ub.edu.ar
-NOERROR	fedev.ub.edu.ar
-NXDOMAIN	cluster2.ub.edu.ar
-NOERROR	boletin.ub.edu.ar
-NXDOMAIN	ubcluster.ub.edu.ar
-NXDOMAIN	phobos.ub.edu.ar
-NXDOMAIN	search.ub.edu.ar
-NXDOMAIN	vubed.ub.edu.ar
-NOERROR	sgp.ub.edu.ar
+ublug.ub.edu.ar
+cursos.ub.edu.ar
+tv.ub.edu.ar
+conexion.ub.edu.ar
+nuevosmedios.ub.edu.ar
+libreria.ub.edu.ar
+revistas.ub.edu.ar
+ub.edu.ar
+executive.ub.edu.ar
+v.ub.edu.ar
+smtp2.ub.edu.ar
+patan.ub.edu.ar
+obelix.ub.edu.ar
+www.ub.edu.ar
+phplist.ub.edu.ar
+smtp.ub.edu.ar
+carreras-informatica.ub.edu.ar
+panoramix.ub.edu.ar
+empleosypasantias.ub.edu.ar
+biblioteca.ub.edu.ar
+obligaciones.ub.edu.ar
+eeni.ub.edu.ar
+portal.ub.edu.ar
+repositorio.ub.edu.ar
+smtp3.ub.edu.ar
+pagosfedev.ub.edu.ar
+pagoscaba.ub.edu.ar
+sitios.ub.edu.ar
+ubbd.ub.edu.ar
+posgrados.ub.edu.ar
+sia.ub.edu.ar
+smtp4.ub.edu.ar
+campus.ub.edu.ar
+ubit.ub.edu.ar
+conectate.ub.edu.ar
+fedsmtp.ub.edu.ar
+consultante.ub.edu.ar
+wp.ub.edu.ar
+inscripciones.ub.edu.ar
+redaulas.ub.edu.ar
+fedev.ub.edu.ar
+boletin.ub.edu.ar
+sgp.ub.edu.ar

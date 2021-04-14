@@ -1,20 +1,14 @@
-NXDOMAIN	www.blog.matci.ac.ma
-NOERROR	mail.matci.ac.ma
-NOERROR	cpcalendars.matci.ac.ma
-NOERROR	cpanel.matci.ac.ma
-NXDOMAIN	blog.matci.ac.ma
-NOERROR	www.crm.matci.ac.ma
-NXDOMAIN	next.matci.ac.ma
-NOERROR	www.matcilist.matci.ac.ma
-NXDOMAIN	www.next.matci.ac.ma
-NOERROR	cpcontacts.matci.ac.ma
-NOERROR	www.matci.ac.ma
-NXDOMAIN	calendrier.matci.ac.ma
-NXDOMAIN	cpm.matci.ac.ma
-NOERROR	webdisk.matci.ac.ma
-NOERROR	www.auth.matci.ac.ma
-NOERROR	matcilist.matci.ac.ma
-NOERROR	auth.matci.ac.ma
-NOERROR	matci.ac.ma
-NOERROR	webmail.matci.ac.ma
-NOERROR	crm.matci.ac.ma
+mail.matci.ac.ma
+cpcalendars.matci.ac.ma
+cpanel.matci.ac.ma
+www.crm.matci.ac.ma
+www.matcilist.matci.ac.ma
+cpcontacts.matci.ac.ma
+www.matci.ac.ma
+webdisk.matci.ac.ma
+www.auth.matci.ac.ma
+matcilist.matci.ac.ma
+auth.matci.ac.ma
+matci.ac.ma
+webmail.matci.ac.ma
+crm.matci.ac.ma

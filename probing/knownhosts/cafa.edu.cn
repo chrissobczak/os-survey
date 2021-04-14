@@ -1,77 +1,71 @@
-NOERROR	im.cafa.edu.cn
-NOERROR	medialab.cafa.edu.cn
-NOERROR	dns.cafa.edu.cn
-NOERROR	eqc.cafa.edu.cn
-NOERROR	lxs.cafa.edu.cn
-NOERROR	opac.cafa.edu.cn
-NXDOMAIN	aes.cafa.edu.cn
-NOERROR	sizhengbu.cafa.edu.cn
-NOERROR	art2020.cafa.edu.cn
-NOERROR	jjfz.cafa.edu.cn
-NXDOMAIN	2018.cafa.edu.cn
-NOERROR	jwc.cafa.edu.cn
-NOERROR	vaii.cafa.edu.cn
-NOERROR	ehall.cafa.edu.cn
-NOERROR	dw.cafa.edu.cn
-NOERROR	game.cafa.edu.cn
-NOERROR	mail.cafa.edu.cn
-NOERROR	www.cafa.edu.cn
-NOERROR	ifc.cafa.edu.cn
-NOERROR	cg.cafa.edu.cn
-NOERROR	student.cafa.edu.cn
-NOERROR	artinfo.cafa.edu.cn
-NOERROR	oa.cafa.edu.cn
-NOERROR	df.cafa.edu.cn
-NOERROR	media.cafa.edu.cn
-NOERROR	zscj.cafa.edu.cn
-SERVFAIL	edf.cafa.edu.cn
-NOERROR	kids.cafa.edu.cn
-NOERROR	xiaoyou.cafa.edu.cn
-NXDOMAIN	mirror.cafa.edu.cn
-NOERROR	mobile.cafa.edu.cn
-NOERROR	ci.ifc.cafa.edu.cn
-NOERROR	zs.cafa.edu.cn
-NOERROR	xauf.cafa.edu.cn
-NOERROR	fuzhong.cafa.edu.cn
-NOERROR	yuyue.cafa.edu.cn
-NOERROR	jw.cafa.edu.cn
-NOERROR	hr.cafa.edu.cn
-NOERROR	arch.cafa.edu.cn
-NOERROR	jxjy.cafa.edu.cn
-NOERROR	architecture.cafa.edu.cn
-NOERROR	book.cafa.edu.cn
-NOERROR	net.cafa.edu.cn
-NOERROR	2020.cafa.edu.cn
-NOERROR	app.cafa.edu.cn
-SERVFAIL	cafammedia.cafa.edu.cn
-NOERROR	liblunwen.cafa.edu.cn
-NOERROR	feinaqijing.cafa.edu.cn
-NOERROR	i.cafa.edu.cn
-NOERROR	saae.cafa.edu.cn
-NOERROR	kns-cnki-net.webvpn.cafa.edu.cn
-NOERROR	webvpn.cafa.edu.cn
-NOERROR	lp.cafa.edu.cn
-NOERROR	artac.cafa.edu.cn
-NOERROR	xxgk.cafa.edu.cn
-NOERROR	open.cafa.edu.cn
-NOERROR	publicart.cafa.edu.cn
-NOERROR	design.cafa.edu.cn
-NOERROR	cxml.cafa.edu.cn
-NOERROR	faculty.cafa.edu.cn
-NOERROR	lib.cafa.edu.cn
-NOERROR	mes.cafa.edu.cn
-NOERROR	cw.cafa.edu.cn
-NOERROR	cafa.edu.cn
-NOERROR	designlab.cafa.edu.cn
-NOERROR	my.cafa.edu.cn
-NOERROR	sso.cafa.edu.cn
-NOERROR	designyearshow.cafa.edu.cn
-NOERROR	portal.cafa.edu.cn
-NOERROR	dns2.cafa.edu.cn
-SERVFAIL	iapa.cafa.edu.cn
-NOERROR	graduate.cafa.edu.cn
-NOERROR	zsbm.cafa.edu.cn
-NOERROR	pay.cafa.edu.cn
-NOERROR	events.cafa.edu.cn
-NOERROR	vpn.cafa.edu.cn
-NOERROR	dlib.cafa.edu.cn
+im.cafa.edu.cn
+medialab.cafa.edu.cn
+dns.cafa.edu.cn
+eqc.cafa.edu.cn
+lxs.cafa.edu.cn
+opac.cafa.edu.cn
+sizhengbu.cafa.edu.cn
+art2020.cafa.edu.cn
+jjfz.cafa.edu.cn
+jwc.cafa.edu.cn
+vaii.cafa.edu.cn
+ehall.cafa.edu.cn
+dw.cafa.edu.cn
+game.cafa.edu.cn
+mail.cafa.edu.cn
+www.cafa.edu.cn
+ifc.cafa.edu.cn
+cg.cafa.edu.cn
+student.cafa.edu.cn
+artinfo.cafa.edu.cn
+oa.cafa.edu.cn
+df.cafa.edu.cn
+media.cafa.edu.cn
+zscj.cafa.edu.cn
+kids.cafa.edu.cn
+xiaoyou.cafa.edu.cn
+mobile.cafa.edu.cn
+ci.ifc.cafa.edu.cn
+zs.cafa.edu.cn
+xauf.cafa.edu.cn
+fuzhong.cafa.edu.cn
+yuyue.cafa.edu.cn
+jw.cafa.edu.cn
+hr.cafa.edu.cn
+arch.cafa.edu.cn
+jxjy.cafa.edu.cn
+architecture.cafa.edu.cn
+book.cafa.edu.cn
+net.cafa.edu.cn
+2020.cafa.edu.cn
+app.cafa.edu.cn
+liblunwen.cafa.edu.cn
+feinaqijing.cafa.edu.cn
+i.cafa.edu.cn
+saae.cafa.edu.cn
+kns-cnki-net.webvpn.cafa.edu.cn
+webvpn.cafa.edu.cn
+lp.cafa.edu.cn
+artac.cafa.edu.cn
+xxgk.cafa.edu.cn
+open.cafa.edu.cn
+publicart.cafa.edu.cn
+design.cafa.edu.cn
+cxml.cafa.edu.cn
+faculty.cafa.edu.cn
+lib.cafa.edu.cn
+mes.cafa.edu.cn
+cw.cafa.edu.cn
+cafa.edu.cn
+designlab.cafa.edu.cn
+my.cafa.edu.cn
+sso.cafa.edu.cn
+designyearshow.cafa.edu.cn
+portal.cafa.edu.cn
+dns2.cafa.edu.cn
+graduate.cafa.edu.cn
+zsbm.cafa.edu.cn
+pay.cafa.edu.cn
+events.cafa.edu.cn
+vpn.cafa.edu.cn
+dlib.cafa.edu.cn

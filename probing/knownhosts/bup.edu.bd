@@ -1,50 +1,29 @@
-NOERROR	icict.bup.edu.bd
-NXDOMAIN	archive.bup.edu.bd
-NOERROR	icict4sd.bup.edu.bd
-NXDOMAIN	old.admission.bup.edu.bd
-NXDOMAIN	www.new.bup.edu.bd
-NOERROR	inventory.bup.edu.bd
-NXDOMAIN	fw.bup.edu.bd
-NOERROR	portal.bup.edu.bd
-NXDOMAIN	www.student.bup.edu.bd
-NXDOMAIN	ict.bup.edu.bd
-NOERROR	alumni.bup.edu.bd
-NOERROR	convocation.bup.edu.bd
-NOERROR	afregistration.bup.edu.bd
-NOERROR	admission.bup.edu.bd
-NOERROR	webportal.bup.edu.bd
-NXDOMAIN	gallery.bup.edu.bd
-NOERROR	ucam.bup.edu.bd
-NOERROR	medical.bup.edu.bd
-NOERROR	www.bup.edu.bd
-NOERROR	bo.bup.edu.bd
-NXDOMAIN	tms.bup.edu.bd
-NXDOMAIN	automation.library.bup.edu.bd
-NXDOMAIN	test.bup.edu.bd
-NOERROR	bup.edu.bd
-NOERROR	library.bup.edu.bd
-NOERROR	new.bup.edu.bd
-NOERROR	mail.bup.edu.bd
-NXDOMAIN	hostel.bup.edu.bd
-NXDOMAIN	www.convocation.bup.edu.bd
-NOERROR	journal.bup.edu.bd
-NOERROR	cpanel.bup.edu.bd
-NOERROR	lms.bup.edu.bd
-NOERROR	student.bup.edu.bd
-NOERROR	hr.bup.edu.bd
-NOERROR	vrms.bup.edu.bd
-NOERROR	chsr.bup.edu.bd
-NOERROR	courses.bup.edu.bd
-NOERROR	event.bup.edu.bd
-NOERROR	adjunct.bup.edu.bd
-NOERROR	vc.bup.edu.bd
-SERVFAIL	ns4.bup.edu.bd
-NXDOMAIN	admin.library.bup.edu.bd
-NXDOMAIN	task.bup.edu.bd
-SERVFAIL	lmstutorial.bup.edu.bd
-NOERROR	webmail.bup.edu.bd
-NXDOMAIN	exam.bup.edu.bd
-NXDOMAIN	www.icict.bup.edu.bd
-NXDOMAIN	gw.bup.edu.bd
-NXDOMAIN	ns3.bup.edu.bd
-NXDOMAIN	webdisk.bup.edu.bd
+icict.bup.edu.bd
+icict4sd.bup.edu.bd
+inventory.bup.edu.bd
+portal.bup.edu.bd
+alumni.bup.edu.bd
+convocation.bup.edu.bd
+afregistration.bup.edu.bd
+admission.bup.edu.bd
+webportal.bup.edu.bd
+ucam.bup.edu.bd
+medical.bup.edu.bd
+www.bup.edu.bd
+bo.bup.edu.bd
+bup.edu.bd
+library.bup.edu.bd
+new.bup.edu.bd
+mail.bup.edu.bd
+journal.bup.edu.bd
+cpanel.bup.edu.bd
+lms.bup.edu.bd
+student.bup.edu.bd
+hr.bup.edu.bd
+vrms.bup.edu.bd
+chsr.bup.edu.bd
+courses.bup.edu.bd
+event.bup.edu.bd
+adjunct.bup.edu.bd
+vc.bup.edu.bd
+webmail.bup.edu.bd

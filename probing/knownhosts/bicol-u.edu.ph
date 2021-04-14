@@ -1,23 +1,15 @@
-NOERROR	fc.bicol-u.edu.ph
-SERVFAIL	dns-01.bicol-u.edu.ph
-NOERROR	sc5.bicol-u.edu.ph
-NXDOMAIN	mailbox.bicol-u.edu.ph
-NOERROR	www.bicol-u.edu.ph
-NOERROR	sc4.bicol-u.edu.ph
-NOERROR	m.bicol-u.edu.ph
-NOERROR	my.bicol-u.edu.ph
-NOERROR	sc1.bicol-u.edu.ph
-NXDOMAIN	homepages.bicol-u.edu.ph
-NOERROR	journal.bicol-u.edu.ph
-NXDOMAIN	dns3.bicol-u.edu.ph
-NXDOMAIN	webftp.bicol-u.edu.ph
-NOERROR	lms.bicol-u.edu.ph
-NOERROR	sc2.bicol-u.edu.ph
-NOERROR	admin.bicol-u.edu.ph
-NXDOMAIN	cai.bicol-u.edu.ph
-NOERROR	bulms.bicol-u.edu.ph
-NXDOMAIN	webpages.bicol-u.edu.ph
-NXDOMAIN	lib-gw.bicol-u.edu.ph
-NOERROR	web.bicol-u.edu.ph
-NOERROR	mail.bicol-u.edu.ph
-NOERROR	bicol-u.edu.ph
+fc.bicol-u.edu.ph
+sc5.bicol-u.edu.ph
+www.bicol-u.edu.ph
+sc4.bicol-u.edu.ph
+m.bicol-u.edu.ph
+my.bicol-u.edu.ph
+sc1.bicol-u.edu.ph
+journal.bicol-u.edu.ph
+lms.bicol-u.edu.ph
+sc2.bicol-u.edu.ph
+admin.bicol-u.edu.ph
+bulms.bicol-u.edu.ph
+web.bicol-u.edu.ph
+mail.bicol-u.edu.ph
+bicol-u.edu.ph

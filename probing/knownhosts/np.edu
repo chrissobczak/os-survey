@@ -1,37 +1,28 @@
-NOERROR	ezproxy.np.edu
-NOERROR	webdev.np.edu
-NXDOMAIN	rdweb.np.edu
-NOERROR	shortclass.np.edu
-NOERROR	np.edu
-NOERROR	bookstore.np.edu
-NOERROR	search.np.edu
-NOERROR	hcm.np.edu
-NOERROR	libguides.np.edu
-NOERROR	ns1.np.edu
-NOERROR	www.np.edu
-NXDOMAIN	www.tuexam.np.edu
-NOERROR	login.ezproxy.np.edu
-NOERROR	sonic.np.edu
-NXDOMAIN	wwwfulbright.np.edu
-NOERROR	m.catalog.np.edu
-NOERROR	vpn.np.edu
-NOERROR	npmx.np.edu
-NOERROR	barracuda.np.edu
-NOERROR	psprd.erp.np.edu
-NOERROR	catalog.np.edu
-NXDOMAIN	jp.np.edu
-NOERROR	erp.np.edu
-NXDOMAIN	oasis.np.edu
-NOERROR	d2l.np.edu
-NOERROR	cal.np.edu
-NOERROR	sftp.np.edu
-NOERROR	admissions.np.edu
-NOERROR	it.np.edu
-NXDOMAIN	dev.np.edu
-NXDOMAIN	blackboard.np.edu
-NOERROR	directory.np.edu
-NOERROR	autodiscover.np.edu
-NXDOMAIN	splashtop.np.edu
-NOERROR	ldaps.np.edu
-NOERROR	hcm.erp.np.edu
-NXDOMAIN	aceweb.np.edu
+ezproxy.np.edu
+webdev.np.edu
+shortclass.np.edu
+np.edu
+bookstore.np.edu
+search.np.edu
+hcm.np.edu
+libguides.np.edu
+ns1.np.edu
+www.np.edu
+login.ezproxy.np.edu
+sonic.np.edu
+m.catalog.np.edu
+vpn.np.edu
+npmx.np.edu
+barracuda.np.edu
+psprd.erp.np.edu
+catalog.np.edu
+erp.np.edu
+d2l.np.edu
+cal.np.edu
+sftp.np.edu
+admissions.np.edu
+it.np.edu
+directory.np.edu
+autodiscover.np.edu
+ldaps.np.edu
+hcm.erp.np.edu

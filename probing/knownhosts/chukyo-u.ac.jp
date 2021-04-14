@@ -1,357 +1,251 @@
-NOERROR	mmm.om.sist.chukyo-u.ac.jp
-NOERROR	yahagi.sist.chukyo-u.ac.jp
-NOERROR	www.iso.sist.chukyo-u.ac.jp
-NXDOMAIN	prt-ap02.cst.chukyo-u.ac.jp
-NOERROR	gatefw-dmz.chukyo-u.ac.jp
-NOERROR	a.root.suzuki.sist.chukyo-u.ac.jp
-NXDOMAIN	peacock.cst.chukyo-u.ac.jp
-NOERROR	alcadia.om.sist.chukyo-u.ac.jp
-NOERROR	isd.suzuki.sist.chukyo-u.ac.jp
-NXDOMAIN	ngnt2.cnc.chukyo-u.ac.jp
-NXDOMAIN	www2.cnc.chukyo-u.ac.jp
-NOERROR	manage2.mecl.chukyo-u.ac.jp
-NOERROR	hamakawalab.sist.chukyo-u.ac.jp
-NXDOMAIN	chky-in.chukyo-u.ac.jp
-NOERROR	soramimi.sist.chukyo-u.ac.jp
-NOERROR	manage.mecl.chukyo-u.ac.jp
-NOERROR	ids.mvrlab.sist.chukyo-u.ac.jp
-NOERROR	kitolab.sist.chukyo-u.ac.jp
-SERVFAIL	exam.mng.chukyo-u.ac.jp
-NOERROR	espel.sist.chukyo-u.ac.jp
-NOERROR	localftp.secu.chukyo-u.ac.jp
-NOERROR	enkei.sist.chukyo-u.ac.jp
-NOERROR	mail.iasai.sist.chukyo-u.ac.jp
-NXDOMAIN	gsnk0001.chukyo-u.ac.jp
-NXDOMAIN	chukyo-1x-ty.cnc.chukyo-u.ac.jp
-NOERROR	m.chukyo-u.ac.jp
-NOERROR	cubics4.mng.chukyo-u.ac.jp
-NXDOMAIN	pc-70-20.sass.chukyo-u.ac.jp
-NOERROR	www.sist.chukyo-u.ac.jp
-NXDOMAIN	hawk.chukyo-u.ac.jp
-NXDOMAIN	chkyref.chukyo-u.ac.jp
-NXDOMAIN	license.cnc.chukyo-u.ac.jp
-NXDOMAIN	muc.xmpp.mvrlab.sist.chukyo-u.ac.jp
-NOERROR	ee.secu.chukyo-u.ac.jp
-NOERROR	icnt1.lets.chukyo-u.ac.jp
-NXDOMAIN	ngwm2.cnc.chukyo-u.ac.jp
-NOERROR	iasaisv2.mvrlab.sist.chukyo-u.ac.jp
-NOERROR	isosv.iso.sist.chukyo-u.ac.jp
-NXDOMAIN	opencollege2.chukyo-u.ac.jp
-NOERROR	paris2.suzuki.sist.chukyo-u.ac.jp
-NOERROR	gpu1-infowg.sist.chukyo-u.ac.jp
-NXDOMAIN	www3.cnc.chukyo-u.ac.jp
-NXDOMAIN	gatewww.chukyo-u.ac.jp
-NOERROR	mx.paas.secu.chukyo-u.ac.jp
-NOERROR	gatefw.cnc.chukyo-u.ac.jp
-NOERROR	club.chukyo-u.ac.jp
-NOERROR	garden.secu.chukyo-u.ac.jp
-NOERROR	dockersv2.mvrlab.sist.chukyo-u.ac.jp
-NOERROR	smtp.nelab.sist.chukyo-u.ac.jp
-NOERROR	isotope.sist.chukyo-u.ac.jp
-NOERROR	rails.om.sist.chukyo-u.ac.jp
-NOERROR	gatefw.chukyo-u.ac.jp
-NOERROR	vps.suzuki.sist.chukyo-u.ac.jp
-NOERROR	cubics-le-out.mng.chukyo-u.ac.jp
-NOERROR	leo.lets.chukyo-u.ac.jp
-NOERROR	126035.cnc.chukyo-u.ac.jp
-NOERROR	hatano.sist.chukyo-u.ac.jp
-NXDOMAIN	www.ccad.sccs.chukyo-u.ac.jp
-NXDOMAIN	cocoa-old.chukyo-u.ac.jp
-NOERROR	ihlab.sist.chukyo-u.ac.jp
-NOERROR	manage.chukyo-u.ac.jp
-NOERROR	dwe.chukyo-u.ac.jp
-NXDOMAIN	webmail.mng.chukyo-u.ac.jp
-NOERROR	mail.chukyo-u.ac.jp
-NOERROR	hatalab.sist.chukyo-u.ac.jp
-NOERROR	ansony.lanet.sist.chukyo-u.ac.jp
-NOERROR	gold.cnc.chukyo-u.ac.jp
-NOERROR	hamakawa-lab.sist.chukyo-u.ac.jp
-NXDOMAIN	rgns1.life.chukyo-u.ac.jp
-NOERROR	manabo.cnc.chukyo-u.ac.jp
-NXDOMAIN	tstf.cnc.chukyo-u.ac.jp
-NOERROR	wmuseum.hiroba.sist.chukyo-u.ac.jp
-NXDOMAIN	info.chukyo-u.ac.jp
-NOERROR	sps.chukyo-u.ac.jp
-NXDOMAIN	kouhou-all.chukyo-u.ac.jp
-NXDOMAIN	sns.hiroba.sist.chukyo-u.ac.jp
-NOERROR	dockersv1.mvrlab.sist.chukyo-u.ac.jp
-NOERROR	ns.nelab.sist.chukyo-u.ac.jp
-NOERROR	go-iasai.paas.secu.chukyo-u.ac.jp
-NOERROR	kanseilab-pc1.sist.chukyo-u.ac.jp
-NXDOMAIN	penguin.life.chukyo-u.ac.jp
-NXDOMAIN	syllabus-make.chukyo-u.ac.jp
-NOERROR	dns.hiroba.sist.chukyo-u.ac.jp
-NXDOMAIN	dwe.lets.chukyo-u.ac.jp
-NOERROR	cubics2.mng.chukyo-u.ac.jp
-NOERROR	crystal.mng.chukyo-u.ac.jp
-NOERROR	cen001.syslab.sist.chukyo-u.ac.jp
-NOERROR	secu-dean-y.sist.chukyo-u.ac.jp
-NXDOMAIN	libwww.lib.chukyo-u.ac.jp
-NOERROR	paris.suzuki.sist.chukyo-u.ac.jp
-NOERROR	exten.chukyo-u.ac.jp
-NOERROR	gogh.mvrlab.sist.chukyo-u.ac.jp
-NOERROR	www.ee.secu.chukyo-u.ac.jp
-NOERROR	prosody.mvrlab.sist.chukyo-u.ac.jp
-NOERROR	idm-pwd.cnc.chukyo-u.ac.jp
-NOERROR	trinity.lets.chukyo-u.ac.jp
-NOERROR	gpu1-toyota.sist.chukyo-u.ac.jp
-NOERROR	www.ils.chukyo-u.ac.jp
-NOERROR	paradox.om.sist.chukyo-u.ac.jp
-NOERROR	www.econo.chukyo-u.ac.jp
-NXDOMAIN	kouhou.chukyo-u.ac.jp
-NOERROR	knkyuhi.chukyo-u.ac.jp
-NOERROR	dns.ils.chukyo-u.ac.jp
-NOERROR	iiplab-gw.sist.chukyo-u.ac.jp
-NOERROR	sistwiki.suzuki.sist.chukyo-u.ac.jp
-NOERROR	chiikiryoku.om.sist.chukyo-u.ac.jp
-NXDOMAIN	www.accd.sccs.chukyo-u.ac.jp
-NXDOMAIN	akg.life.chukyo-u.ac.jp
-NOERROR	eeex.sist.chukyo-u.ac.jp
-NXDOMAIN	ngwm.cnc.chukyo-u.ac.jp
-NXDOMAIN	johosw.sist.chukyo-u.ac.jp
-NOERROR	gpu1w-toyota.sist.chukyo-u.ac.jp
-NOERROR	shib.chukyo-u.ac.jp
-NOERROR	methane.iso.sist.chukyo-u.ac.jp
-NXDOMAIN	www.cnc.chukyo-u.ac.jp
-NOERROR	prism.om.sist.chukyo-u.ac.jp
-NOERROR	apl.chukyo-u.ac.jp
-NOERROR	ms.secu.chukyo-u.ac.jp
-NOERROR	black.cnc.chukyo-u.ac.jp
-NOERROR	webauth1.cnc.chukyo-u.ac.jp
-NOERROR	guide.st.chukyo-u.ac.jp
-NOERROR	sv1104.sist.chukyo-u.ac.jp
-NOERROR	ldaps.cnc.chukyo-u.ac.jp
-NOERROR	setokku.om.sist.chukyo-u.ac.jp
-NOERROR	ils.chukyo-u.ac.jp
-NOERROR	kenkyu-db-out.cnc.chukyo-u.ac.jp
-NOERROR	bluenote.suzuki.sist.chukyo-u.ac.jp
-NOERROR	isotope.iso.sist.chukyo-u.ac.jp
-NOERROR	syomei-kanri.mng.chukyo-u.ac.jp
-NXDOMAIN	duck.chukyo-u.ac.jp
-NXDOMAIN	peacock2.cst.chukyo-u.ac.jp
-NOERROR	igc-pcserv1.sist.chukyo-u.ac.jp
-NOERROR	cubics.mng.chukyo-u.ac.jp
-NOERROR	dockersv3.mvrlab.sist.chukyo-u.ac.jp
-NOERROR	lambda.sist.chukyo-u.ac.jp
-NOERROR	254033.cnc.chukyo-u.ac.jp
-NXDOMAIN	flamingo.cst.chukyo-u.ac.jp
-NXDOMAIN	seiken.sass.chukyo-u.ac.jp
-NOERROR	turing.sist.chukyo-u.ac.jp
-NOERROR	www.iasai.chukyo-u.ac.jp
-NXDOMAIN	ngwm1.cnc.chukyo-u.ac.jp
-NXDOMAIN	hibashi.ccad.sccs.chukyo-u.ac.jp
-NXDOMAIN	chkyweb-auth.chukyo-u.ac.jp
-NOERROR	cezanne.mvrlab.sist.chukyo-u.ac.jp
-NOERROR	cloud3.mvrlab.sist.chukyo-u.ac.jp
-NOERROR	ratman.syslab.sist.chukyo-u.ac.jp
-NOERROR	sistwiki2.paas.secu.chukyo-u.ac.jp
-NOERROR	daem.om.sist.chukyo-u.ac.jp
-NOERROR	phys.lets.chukyo-u.ac.jp
-NXDOMAIN	martin.cst.chukyo-u.ac.jp
-NXDOMAIN	apollo-gw.sccs.chukyo-u.ac.jp
-NXDOMAIN	nel.life.chukyo-u.ac.jp
-NOERROR	kap-exam.mng.chukyo-u.ac.jp
-NXDOMAIN	xmpp.mvrlab.sist.chukyo-u.ac.jp
-NOERROR	labs.lanet.sist.chukyo-u.ac.jp
-NXDOMAIN	prt-ap01r.cst.chukyo-u.ac.jp
-NOERROR	lib.chukyo-u.ac.jp
-NOERROR	logsrv.syslab.sist.chukyo-u.ac.jp
-NOERROR	www.om.sist.chukyo-u.ac.jp
-NXDOMAIN	rosetta.chukyo-u.ac.jp
-NOERROR	ub001.syslab.sist.chukyo-u.ac.jp
-NOERROR	cloud.mvrlab.sist.chukyo-u.ac.jp
-NXDOMAIN	sv1722.st.chukyo-u.ac.jp
-NOERROR	syagate.cnc.chukyo-u.ac.jp
-NOERROR	sv1701.st.chukyo-u.ac.jp
-NOERROR	portal.ils.chukyo-u.ac.jp
-NOERROR	windy.om.sist.chukyo-u.ac.jp
-NXDOMAIN	www.nc.chukyo-u.ac.jp
-NOERROR	nonane.iso.sist.chukyo-u.ac.jp
-NOERROR	phonon.sist.chukyo-u.ac.jp
-NOERROR	y.om.sist.chukyo-u.ac.jp
-NOERROR	sv1753.st.chukyo-u.ac.jp
-NOERROR	www.suzuki.sist.chukyo-u.ac.jp
-NXDOMAIN	lark.cst.chukyo-u.ac.jp
-NOERROR	sv1702b.st.chukyo-u.ac.jp
-NOERROR	global.chukyo-u.ac.jp
-NOERROR	ethane.iso.sist.chukyo-u.ac.jp
-NOERROR	iso.sist.chukyo-u.ac.jp
-NOERROR	aqua.cnc.chukyo-u.ac.jp
-NXDOMAIN	tyfs.cst.chukyo-u.ac.jp
-NOERROR	delta.iso.sist.chukyo-u.ac.jp
-NOERROR	mail.m.chukyo-u.ac.jp
-NOERROR	blue.cnc.chukyo-u.ac.jp
-NOERROR	zircon.mng.chukyo-u.ac.jp
-NOERROR	lagrange.sist.chukyo-u.ac.jp
-NOERROR	www.lanet.sist.chukyo-u.ac.jp
-NOERROR	vpn2.cnc.chukyo-u.ac.jp
-NOERROR	cubics-as-out.mng.chukyo-u.ac.jp
-NOERROR	careertest.chukyo-u.ac.jp
-NOERROR	intrasite2.sist.chukyo-u.ac.jp
-NXDOMAIN	p-kodomo.chukyo-u.ac.jp
-NXDOMAIN	syllabus1.chukyo-u.ac.jp
-NOERROR	ml.chukyo-u.ac.jp
-NXDOMAIN	we.lets.chukyo-u.ac.jp
-NOERROR	spzero.sist.chukyo-u.ac.jp
-NXDOMAIN	crane.cst.chukyo-u.ac.jp
-NXDOMAIN	www.ipvs.life.chukyo-u.ac.jp
-NOERROR	smtp2.cnc.chukyo-u.ac.jp
-NOERROR	lcc.lets.chukyo-u.ac.jp
-NOERROR	esprit.om.sist.chukyo-u.ac.jp
-NXDOMAIN	sv1701.cst.chukyo-u.ac.jp
-NXDOMAIN	prt-ap01.cst.chukyo-u.ac.jp
-NXDOMAIN	www.life.chukyo-u.ac.jp
-NOERROR	nas1-infowg.sist.chukyo-u.ac.jp
-NOERROR	buthane.iso.sist.chukyo-u.ac.jp
-NXDOMAIN	econons.econo.chukyo-u.ac.jp
-NXDOMAIN	www.sccs.chukyo-u.ac.jp
-NOERROR	126033.cnc.chukyo-u.ac.jp
-NOERROR	alc.lets.chukyo-u.ac.jp
-NXDOMAIN	www.slit-ray.life.chukyo-u.ac.jp
-NOERROR	eduroauth.cnc.chukyo-u.ac.jp
-NOERROR	sapphire.mng.chukyo-u.ac.jp
-NXDOMAIN	webclass.ils.chukyo-u.ac.jp
-NOERROR	std.om.sist.chukyo-u.ac.jp
-NOERROR	sv1706.st.chukyo-u.ac.jp
-NOERROR	www.chukyo-u.ac.jp
-NOERROR	visualize.sist.chukyo-u.ac.jp
-NXDOMAIN	libcd2.lib.chukyo-u.ac.jp
-NOERROR	syomei.mng.chukyo-u.ac.jp
-NOERROR	air.hiroba.sist.chukyo-u.ac.jp
-NOERROR	sw1-infowg.sist.chukyo-u.ac.jp
-NOERROR	chukyo-web-ty.cnc.chukyo-u.ac.jp
-NOERROR	rslv.suzuki.sist.chukyo-u.ac.jp
-NOERROR	ns2.suzuki.sist.chukyo-u.ac.jp
-NOERROR	sw.mvrlab.sist.chukyo-u.ac.jp
-NOERROR	ns.lanet.sist.chukyo-u.ac.jp
-NXDOMAIN	intrasite.sist.chukyo-u.ac.jp
-NOERROR	cloud2.mvrlab.sist.chukyo-u.ac.jp
-NOERROR	robin.chukyo-u.ac.jp
-NOERROR	webauth2.cnc.chukyo-u.ac.jp
-NOERROR	www.iasai.sist.chukyo-u.ac.jp
-NOERROR	fluorite.mng.chukyo-u.ac.jp
-SERVFAIL	closeweb.aws.cnc.chukyo-u.ac.jp
-NOERROR	bayreuth-www.suzuki.sist.chukyo-u.ac.jp
-NOERROR	ns3.suzuki.sist.chukyo-u.ac.jp
-NOERROR	grey.cnc.chukyo-u.ac.jp
-NOERROR	edu.econo.chukyo-u.ac.jp
-NXDOMAIN	syllabus.chukyo-u.ac.jp
-NOERROR	chukyo-web-ng.cnc.chukyo-u.ac.jp
-NXDOMAIN	kms.sist.chukyo-u.ac.jp
-NOERROR	career.chukyo-u.ac.jp
-NOERROR	grad.om.sist.chukyo-u.ac.jp
-NOERROR	nlp.sist.chukyo-u.ac.jp
-SERVFAIL	tenka1.suzuki.sist.chukyo-u.ac.jp
-NXDOMAIN	turkey.cst.chukyo-u.ac.jp
-NOERROR	igc-pcserv0.sist.chukyo-u.ac.jp
-NOERROR	kenkyuhi.chukyo-u.ac.jp
-NOERROR	sistwiki.paas.secu.chukyo-u.ac.jp
-NXDOMAIN	gw.svroom.sist.chukyo-u.ac.jp
-NOERROR	www.mvrlab.sist.chukyo-u.ac.jp
-NOERROR	robotfactory.sist.chukyo-u.ac.jp
-NOERROR	sv1703.st.chukyo-u.ac.jp
-NOERROR	econo.chukyo-u.ac.jp
-NXDOMAIN	albo.chukyo-u.ac.jp
-NOERROR	sv1706-b.st.chukyo-u.ac.jp
-NOERROR	md.sist.chukyo-u.ac.jp
-NXDOMAIN	ccad.sccs.chukyo-u.ac.jp
-NOERROR	mosaic-r.om.sist.chukyo-u.ac.jp
-NOERROR	www.syslab.sist.chukyo-u.ac.jp
-NXDOMAIN	kiwi.cst.chukyo-u.ac.jp
-NOERROR	idm-admin.cnc.chukyo-u.ac.jp
-NOERROR	payslip.mng.chukyo-u.ac.jp
-NOERROR	nc.chukyo-u.ac.jp
-NOERROR	bayreuth.suzuki.sist.chukyo-u.ac.jp
-NOERROR	www.secu.chukyo-u.ac.jp
-NOERROR	shisetsu-system.mng.chukyo-u.ac.jp
-NOERROR	sv1711.st.chukyo-u.ac.jp
-NOERROR	jazz.om.sist.chukyo-u.ac.jp
-NXDOMAIN	centsv2.chukyo-u.ac.jp
-NOERROR	cbtc.sist.chukyo-u.ac.jp
-NOERROR	cubics-pt-out.mng.chukyo-u.ac.jp
-NXDOMAIN	tywm.cnc.chukyo-u.ac.jp
-NXDOMAIN	portal2.chukyo-u.ac.jp
-NOERROR	lang.sist.chukyo-u.ac.jp
-NXDOMAIN	manabo.chukyo-u.ac.jp
-NOERROR	www.swan.sist.chukyo-u.ac.jp
-NOERROR	254035.cnc.chukyo-u.ac.jp
-NOERROR	mvrgw2.mvrlab.sist.chukyo-u.ac.jp
-NOERROR	sports.chukyo-u.ac.jp
-NOERROR	igc-pcserv.sist.chukyo-u.ac.jp
-NOERROR	ns.iasai.sist.chukyo-u.ac.jp
-NOERROR	prosody2.mvrlab.sist.chukyo-u.ac.jp
-NXDOMAIN	pop.sist.chukyo-u.ac.jp
-NOERROR	nat.suzuki.sist.chukyo-u.ac.jp
-NXDOMAIN	ipcml00.cnc.chukyo-u.ac.jp
-NOERROR	apl.cnc.chukyo-u.ac.jp
-NOERROR	angelite.mng.chukyo-u.ac.jp
-NXDOMAIN	router.paas.secu.chukyo-u.ac.jp
-NXDOMAIN	exam.chukyo-u.ac.jp
-NXDOMAIN	cncwww.cnc.chukyo-u.ac.jp
-NOERROR	secu-dean-t.sist.chukyo-u.ac.jp
-NOERROR	monet.mvrlab.sist.chukyo-u.ac.jp
-NOERROR	yellow.cnc.chukyo-u.ac.jp
-NOERROR	theses.paas.secu.chukyo-u.ac.jp
-NXDOMAIN	report.cnc.chukyo-u.ac.jp
-NOERROR	ss.lets.chukyo-u.ac.jp
-NXDOMAIN	www.st.chukyo-u.ac.jp
-NOERROR	ns3.mvrlab.sist.chukyo-u.ac.jp
-NOERROR	ns2.iasai.sist.chukyo-u.ac.jp
-NOERROR	syomu.mng.chukyo-u.ac.jp
-NXDOMAIN	chukyo-1x.cnc.chukyo-u.ac.jp
-NOERROR	nelab.sist.chukyo-u.ac.jp
-NOERROR	arapaima.cnc.chukyo-u.ac.jp
-NXDOMAIN	satellite.chukyo-u.ac.jp
-NXDOMAIN	ec2amaz-to5tdnq.cst.chukyo-u.ac.jp
-NOERROR	ihwin.sist.chukyo-u.ac.jp
-NOERROR	bonito.cnc.chukyo-u.ac.jp
-NOERROR	gw.iasai.sist.chukyo-u.ac.jp
-NOERROR	mx.nelab.sist.chukyo-u.ac.jp
-NOERROR	ns.suzuki.sist.chukyo-u.ac.jp
-NOERROR	kenkyu-db.chukyo-u.ac.jp
-NXDOMAIN	xoops.ipvs.life.chukyo-u.ac.jp
-NOERROR	jousui.sist.chukyo-u.ac.jp
-NXDOMAIN	metal.cnc.chukyo-u.ac.jp
-NXDOMAIN	gsnr0052.chukyo-u.ac.jp
-NOERROR	cocoa.chukyo-u.ac.jp
-NOERROR	hardware.sist.chukyo-u.ac.jp
-NOERROR	gpu1w-infowg.sist.chukyo-u.ac.jp
-NXDOMAIN	cw.cnc.chukyo-u.ac.jp
-NOERROR	www.lib.chukyo-u.ac.jp
-NOERROR	gw.suzuki.sist.chukyo-u.ac.jp
-NOERROR	loop.suzuki.sist.chukyo-u.ac.jp
-NOERROR	openweb.chukyo-u.ac.jp
-NXDOMAIN	wm.cnc.chukyo-u.ac.jp
-NOERROR	fms.mng.chukyo-u.ac.jp
-NOERROR	sv.ee.secu.chukyo-u.ac.jp
-NXDOMAIN	careerblog.chukyo-u.ac.jp
-NOERROR	obsidian.mng.chukyo-u.ac.jp
-NXDOMAIN	uname.cnc.chukyo-u.ac.jp
-NOERROR	toukei.lets.chukyo-u.ac.jp
-NOERROR	ssl.chukyo-u.ac.jp
-NXDOMAIN	chukyo-1x-ng.cnc.chukyo-u.ac.jp
-NXDOMAIN	js-w.chukyo-u.ac.jp
-NOERROR	cloud4.mvrlab.sist.chukyo-u.ac.jp
-NOERROR	ilsclass.lets.chukyo-u.ac.jp
-NOERROR	libcd1.lib.chukyo-u.ac.jp
-NXDOMAIN	www.bi.chukyo-u.ac.jp
-NOERROR	aura.sass.chukyo-u.ac.jp
-NXDOMAIN	report.chukyo-u.ac.jp
-NXDOMAIN	www.yamada.econo.chukyo-u.ac.jp
-NXDOMAIN	chkyweb.chukyo-u.ac.jp
-NOERROR	www.nelab.sist.chukyo-u.ac.jp
-NOERROR	isl.sist.chukyo-u.ac.jp
-NOERROR	escher.mvrlab.sist.chukyo-u.ac.jp
-NXDOMAIN	yamada.econo.chukyo-u.ac.jp
-NOERROR	sportsmuseum.chukyo-u.ac.jp
-NOERROR	vogue.om.sist.chukyo-u.ac.jp
-NXDOMAIN	aipo.paas.secu.chukyo-u.ac.jp
-NOERROR	silver.cnc.chukyo-u.ac.jp
-NOERROR	tetradecane.iso.sist.chukyo-u.ac.jp
-NXDOMAIN	ml.cnc.chukyo-u.ac.jp
-NOERROR	cugw.chukyo-u.ac.jp
-NOERROR	sv1708.st.chukyo-u.ac.jp
-NOERROR	islfs.sist.chukyo-u.ac.jp
-NXDOMAIN	tynt1.cnc.chukyo-u.ac.jp
-NOERROR	media.sass.chukyo-u.ac.jp
-NOERROR	cubics3.mng.chukyo-u.ac.jp
+mmm.om.sist.chukyo-u.ac.jp
+yahagi.sist.chukyo-u.ac.jp
+www.iso.sist.chukyo-u.ac.jp
+gatefw-dmz.chukyo-u.ac.jp
+a.root.suzuki.sist.chukyo-u.ac.jp
+alcadia.om.sist.chukyo-u.ac.jp
+isd.suzuki.sist.chukyo-u.ac.jp
+manage2.mecl.chukyo-u.ac.jp
+hamakawalab.sist.chukyo-u.ac.jp
+soramimi.sist.chukyo-u.ac.jp
+manage.mecl.chukyo-u.ac.jp
+ids.mvrlab.sist.chukyo-u.ac.jp
+kitolab.sist.chukyo-u.ac.jp
+espel.sist.chukyo-u.ac.jp
+localftp.secu.chukyo-u.ac.jp
+enkei.sist.chukyo-u.ac.jp
+mail.iasai.sist.chukyo-u.ac.jp
+m.chukyo-u.ac.jp
+cubics4.mng.chukyo-u.ac.jp
+www.sist.chukyo-u.ac.jp
+ee.secu.chukyo-u.ac.jp
+icnt1.lets.chukyo-u.ac.jp
+iasaisv2.mvrlab.sist.chukyo-u.ac.jp
+isosv.iso.sist.chukyo-u.ac.jp
+paris2.suzuki.sist.chukyo-u.ac.jp
+gpu1-infowg.sist.chukyo-u.ac.jp
+mx.paas.secu.chukyo-u.ac.jp
+gatefw.cnc.chukyo-u.ac.jp
+club.chukyo-u.ac.jp
+garden.secu.chukyo-u.ac.jp
+dockersv2.mvrlab.sist.chukyo-u.ac.jp
+smtp.nelab.sist.chukyo-u.ac.jp
+isotope.sist.chukyo-u.ac.jp
+rails.om.sist.chukyo-u.ac.jp
+gatefw.chukyo-u.ac.jp
+vps.suzuki.sist.chukyo-u.ac.jp
+cubics-le-out.mng.chukyo-u.ac.jp
+leo.lets.chukyo-u.ac.jp
+126035.cnc.chukyo-u.ac.jp
+hatano.sist.chukyo-u.ac.jp
+ihlab.sist.chukyo-u.ac.jp
+manage.chukyo-u.ac.jp
+dwe.chukyo-u.ac.jp
+mail.chukyo-u.ac.jp
+hatalab.sist.chukyo-u.ac.jp
+ansony.lanet.sist.chukyo-u.ac.jp
+gold.cnc.chukyo-u.ac.jp
+hamakawa-lab.sist.chukyo-u.ac.jp
+manabo.cnc.chukyo-u.ac.jp
+wmuseum.hiroba.sist.chukyo-u.ac.jp
+sps.chukyo-u.ac.jp
+dockersv1.mvrlab.sist.chukyo-u.ac.jp
+ns.nelab.sist.chukyo-u.ac.jp
+go-iasai.paas.secu.chukyo-u.ac.jp
+kanseilab-pc1.sist.chukyo-u.ac.jp
+dns.hiroba.sist.chukyo-u.ac.jp
+cubics2.mng.chukyo-u.ac.jp
+crystal.mng.chukyo-u.ac.jp
+cen001.syslab.sist.chukyo-u.ac.jp
+secu-dean-y.sist.chukyo-u.ac.jp
+paris.suzuki.sist.chukyo-u.ac.jp
+exten.chukyo-u.ac.jp
+gogh.mvrlab.sist.chukyo-u.ac.jp
+www.ee.secu.chukyo-u.ac.jp
+prosody.mvrlab.sist.chukyo-u.ac.jp
+idm-pwd.cnc.chukyo-u.ac.jp
+trinity.lets.chukyo-u.ac.jp
+gpu1-toyota.sist.chukyo-u.ac.jp
+www.ils.chukyo-u.ac.jp
+paradox.om.sist.chukyo-u.ac.jp
+www.econo.chukyo-u.ac.jp
+knkyuhi.chukyo-u.ac.jp
+dns.ils.chukyo-u.ac.jp
+iiplab-gw.sist.chukyo-u.ac.jp
+sistwiki.suzuki.sist.chukyo-u.ac.jp
+chiikiryoku.om.sist.chukyo-u.ac.jp
+eeex.sist.chukyo-u.ac.jp
+gpu1w-toyota.sist.chukyo-u.ac.jp
+shib.chukyo-u.ac.jp
+methane.iso.sist.chukyo-u.ac.jp
+prism.om.sist.chukyo-u.ac.jp
+apl.chukyo-u.ac.jp
+ms.secu.chukyo-u.ac.jp
+black.cnc.chukyo-u.ac.jp
+webauth1.cnc.chukyo-u.ac.jp
+guide.st.chukyo-u.ac.jp
+sv1104.sist.chukyo-u.ac.jp
+ldaps.cnc.chukyo-u.ac.jp
+setokku.om.sist.chukyo-u.ac.jp
+ils.chukyo-u.ac.jp
+kenkyu-db-out.cnc.chukyo-u.ac.jp
+bluenote.suzuki.sist.chukyo-u.ac.jp
+isotope.iso.sist.chukyo-u.ac.jp
+syomei-kanri.mng.chukyo-u.ac.jp
+igc-pcserv1.sist.chukyo-u.ac.jp
+cubics.mng.chukyo-u.ac.jp
+dockersv3.mvrlab.sist.chukyo-u.ac.jp
+lambda.sist.chukyo-u.ac.jp
+254033.cnc.chukyo-u.ac.jp
+turing.sist.chukyo-u.ac.jp
+www.iasai.chukyo-u.ac.jp
+cezanne.mvrlab.sist.chukyo-u.ac.jp
+cloud3.mvrlab.sist.chukyo-u.ac.jp
+ratman.syslab.sist.chukyo-u.ac.jp
+sistwiki2.paas.secu.chukyo-u.ac.jp
+daem.om.sist.chukyo-u.ac.jp
+phys.lets.chukyo-u.ac.jp
+kap-exam.mng.chukyo-u.ac.jp
+labs.lanet.sist.chukyo-u.ac.jp
+lib.chukyo-u.ac.jp
+logsrv.syslab.sist.chukyo-u.ac.jp
+www.om.sist.chukyo-u.ac.jp
+ub001.syslab.sist.chukyo-u.ac.jp
+cloud.mvrlab.sist.chukyo-u.ac.jp
+syagate.cnc.chukyo-u.ac.jp
+sv1701.st.chukyo-u.ac.jp
+portal.ils.chukyo-u.ac.jp
+windy.om.sist.chukyo-u.ac.jp
+nonane.iso.sist.chukyo-u.ac.jp
+phonon.sist.chukyo-u.ac.jp
+y.om.sist.chukyo-u.ac.jp
+sv1753.st.chukyo-u.ac.jp
+www.suzuki.sist.chukyo-u.ac.jp
+sv1702b.st.chukyo-u.ac.jp
+global.chukyo-u.ac.jp
+ethane.iso.sist.chukyo-u.ac.jp
+iso.sist.chukyo-u.ac.jp
+aqua.cnc.chukyo-u.ac.jp
+delta.iso.sist.chukyo-u.ac.jp
+mail.m.chukyo-u.ac.jp
+blue.cnc.chukyo-u.ac.jp
+zircon.mng.chukyo-u.ac.jp
+lagrange.sist.chukyo-u.ac.jp
+www.lanet.sist.chukyo-u.ac.jp
+vpn2.cnc.chukyo-u.ac.jp
+cubics-as-out.mng.chukyo-u.ac.jp
+careertest.chukyo-u.ac.jp
+intrasite2.sist.chukyo-u.ac.jp
+ml.chukyo-u.ac.jp
+spzero.sist.chukyo-u.ac.jp
+smtp2.cnc.chukyo-u.ac.jp
+lcc.lets.chukyo-u.ac.jp
+esprit.om.sist.chukyo-u.ac.jp
+nas1-infowg.sist.chukyo-u.ac.jp
+buthane.iso.sist.chukyo-u.ac.jp
+126033.cnc.chukyo-u.ac.jp
+alc.lets.chukyo-u.ac.jp
+eduroauth.cnc.chukyo-u.ac.jp
+sapphire.mng.chukyo-u.ac.jp
+std.om.sist.chukyo-u.ac.jp
+sv1706.st.chukyo-u.ac.jp
+www.chukyo-u.ac.jp
+visualize.sist.chukyo-u.ac.jp
+syomei.mng.chukyo-u.ac.jp
+air.hiroba.sist.chukyo-u.ac.jp
+sw1-infowg.sist.chukyo-u.ac.jp
+chukyo-web-ty.cnc.chukyo-u.ac.jp
+rslv.suzuki.sist.chukyo-u.ac.jp
+ns2.suzuki.sist.chukyo-u.ac.jp
+sw.mvrlab.sist.chukyo-u.ac.jp
+ns.lanet.sist.chukyo-u.ac.jp
+cloud2.mvrlab.sist.chukyo-u.ac.jp
+robin.chukyo-u.ac.jp
+webauth2.cnc.chukyo-u.ac.jp
+www.iasai.sist.chukyo-u.ac.jp
+fluorite.mng.chukyo-u.ac.jp
+bayreuth-www.suzuki.sist.chukyo-u.ac.jp
+ns3.suzuki.sist.chukyo-u.ac.jp
+grey.cnc.chukyo-u.ac.jp
+edu.econo.chukyo-u.ac.jp
+chukyo-web-ng.cnc.chukyo-u.ac.jp
+career.chukyo-u.ac.jp
+grad.om.sist.chukyo-u.ac.jp
+nlp.sist.chukyo-u.ac.jp
+igc-pcserv0.sist.chukyo-u.ac.jp
+kenkyuhi.chukyo-u.ac.jp
+sistwiki.paas.secu.chukyo-u.ac.jp
+www.mvrlab.sist.chukyo-u.ac.jp
+robotfactory.sist.chukyo-u.ac.jp
+sv1703.st.chukyo-u.ac.jp
+econo.chukyo-u.ac.jp
+sv1706-b.st.chukyo-u.ac.jp
+md.sist.chukyo-u.ac.jp
+mosaic-r.om.sist.chukyo-u.ac.jp
+www.syslab.sist.chukyo-u.ac.jp
+idm-admin.cnc.chukyo-u.ac.jp
+payslip.mng.chukyo-u.ac.jp
+nc.chukyo-u.ac.jp
+bayreuth.suzuki.sist.chukyo-u.ac.jp
+www.secu.chukyo-u.ac.jp
+shisetsu-system.mng.chukyo-u.ac.jp
+sv1711.st.chukyo-u.ac.jp
+jazz.om.sist.chukyo-u.ac.jp
+cbtc.sist.chukyo-u.ac.jp
+cubics-pt-out.mng.chukyo-u.ac.jp
+lang.sist.chukyo-u.ac.jp
+www.swan.sist.chukyo-u.ac.jp
+254035.cnc.chukyo-u.ac.jp
+mvrgw2.mvrlab.sist.chukyo-u.ac.jp
+sports.chukyo-u.ac.jp
+igc-pcserv.sist.chukyo-u.ac.jp
+ns.iasai.sist.chukyo-u.ac.jp
+prosody2.mvrlab.sist.chukyo-u.ac.jp
+nat.suzuki.sist.chukyo-u.ac.jp
+apl.cnc.chukyo-u.ac.jp
+angelite.mng.chukyo-u.ac.jp
+secu-dean-t.sist.chukyo-u.ac.jp
+monet.mvrlab.sist.chukyo-u.ac.jp
+yellow.cnc.chukyo-u.ac.jp
+theses.paas.secu.chukyo-u.ac.jp
+ss.lets.chukyo-u.ac.jp
+ns3.mvrlab.sist.chukyo-u.ac.jp
+ns2.iasai.sist.chukyo-u.ac.jp
+syomu.mng.chukyo-u.ac.jp
+nelab.sist.chukyo-u.ac.jp
+arapaima.cnc.chukyo-u.ac.jp
+ihwin.sist.chukyo-u.ac.jp
+bonito.cnc.chukyo-u.ac.jp
+gw.iasai.sist.chukyo-u.ac.jp
+mx.nelab.sist.chukyo-u.ac.jp
+ns.suzuki.sist.chukyo-u.ac.jp
+kenkyu-db.chukyo-u.ac.jp
+jousui.sist.chukyo-u.ac.jp
+cocoa.chukyo-u.ac.jp
+hardware.sist.chukyo-u.ac.jp
+gpu1w-infowg.sist.chukyo-u.ac.jp
+www.lib.chukyo-u.ac.jp
+gw.suzuki.sist.chukyo-u.ac.jp
+loop.suzuki.sist.chukyo-u.ac.jp
+openweb.chukyo-u.ac.jp
+fms.mng.chukyo-u.ac.jp
+sv.ee.secu.chukyo-u.ac.jp
+obsidian.mng.chukyo-u.ac.jp
+toukei.lets.chukyo-u.ac.jp
+ssl.chukyo-u.ac.jp
+cloud4.mvrlab.sist.chukyo-u.ac.jp
+ilsclass.lets.chukyo-u.ac.jp
+libcd1.lib.chukyo-u.ac.jp
+aura.sass.chukyo-u.ac.jp
+www.nelab.sist.chukyo-u.ac.jp
+isl.sist.chukyo-u.ac.jp
+escher.mvrlab.sist.chukyo-u.ac.jp
+sportsmuseum.chukyo-u.ac.jp
+vogue.om.sist.chukyo-u.ac.jp
+silver.cnc.chukyo-u.ac.jp
+tetradecane.iso.sist.chukyo-u.ac.jp
+cugw.chukyo-u.ac.jp
+sv1708.st.chukyo-u.ac.jp
+islfs.sist.chukyo-u.ac.jp
+media.sass.chukyo-u.ac.jp
+cubics3.mng.chukyo-u.ac.jp

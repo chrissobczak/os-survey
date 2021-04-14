@@ -1,125 +1,102 @@
-NOERROR	tunnel.augie.edu
-NXDOMAIN	smartserv.augie.edu
-NOERROR	cuda.augie.edu
-NOERROR	mdm.augie.edu
-NXDOMAIN	kvmvdi.augie.edu
-NOERROR	relay.augie.edu
-NOERROR	mbg.augie.edu
-NXDOMAIN	ctl.augie.edu
-NOERROR	sciencecam.augie.edu
-NOERROR	vikingcentral.augie.edu
-NOERROR	secure.augie.edu
-NOERROR	search.augie.edu
-NOERROR	pwm2.augie.edu
-NOERROR	traptactic.augie.edu
-NOERROR	finaidshare.augie.edu
-NOERROR	busofcshare.augie.edu
-NOERROR	mariner3.augie.edu
-NOERROR	aug-41-254.augie.edu
-NOERROR	sso.augie.edu
-NXDOMAIN	doorbell.augie.edu
-NOERROR	proxy.augie.edu
-NOERROR	eventmanager.augie.edu
-NOERROR	hlc.augie.edu
-NOERROR	meteor.augie.edu
-NOERROR	menu.augie.edu
-NOERROR	www2.augie.edu
-NOERROR	np3.augie.edu
-NXDOMAIN	gremlin1.augie.edu
-NOERROR	jiscdb.augie.edu
-NOERROR	my.augie.edu
-NOERROR	ramsey.augie.edu
-NXDOMAIN	bigshow.augie.edu
-NOERROR	lithium.augie.edu
-NOERROR	zephyr.augie.edu
-NXDOMAIN	mutt.augie.edu
-NOERROR	mariner.augie.edu
-NOERROR	moodlelab.augie.edu
-NOERROR	viking.augie.edu
-NOERROR	giving.augie.edu
-NOERROR	eldorado.augie.edu
-NXDOMAIN	fog.augie.edu
-NOERROR	www.augie.edu
-NOERROR	ranchero2.augie.edu
-NOERROR	opendata.augie.edu
-NOERROR	tucker.augie.edu
-NXDOMAIN	euclid.augie.edu
-NXDOMAIN	alertus.augie.edu
-NOERROR	marauder.augie.edu
-NOERROR	seminaryshare.augie.edu
-NOERROR	drupal7.augie.edu
-NOERROR	pwm.augie.edu
-NXDOMAIN	kvmvdi1.augie.edu
-NXDOMAIN	application.augie.edu
-NXDOMAIN	vcenter7.augie.edu
-NXDOMAIN	bugs.augie.edu
-NOERROR	utilitydata.augie.edu
-NXDOMAIN	www.studyabroad.augie.edu
-NOERROR	filr.augie.edu
-NOERROR	taurus.augie.edu
-NOERROR	lynx.augie.edu
-NOERROR	sho.augie.edu
-NOERROR	cognos.augie.edu
-NXDOMAIN	monza.augie.edu
-NXDOMAIN	www.moodle.augie.edu
-NOERROR	statusboard.augie.edu
-NOERROR	jicsdev.augie.edu
-NOERROR	shum.augie.edu
-NOERROR	elcamino.augie.edu
-NOERROR	moodlelab2.augie.edu
-NOERROR	userweb.augie.edu
-NXDOMAIN	learningspace.augie.edu
-NXDOMAIN	kvmvdi2.augie.edu
-NOERROR	events.augie.edu
-NOERROR	edge.augie.edu
-NOERROR	aug-41-253.augie.edu
-NOERROR	meitner.augie.edu
-NOERROR	ngwnameserver.augie.edu
-NOERROR	devopendata.augie.edu
-NOERROR	gwmail.augie.edu
-NOERROR	studyabroad.augie.edu
-NOERROR	survey.augie.edu
-NOERROR	nat.augie.edu
-NOERROR	courier.augie.edu
-NOERROR	cisco-capwap-controller.augie.edu
-NOERROR	onsager.augie.edu
-NOERROR	nagios.augie.edu
-NOERROR	hrshare.augie.edu
-NOERROR	library.augie.edu
-NOERROR	vpn.augie.edu
-NOERROR	admission.augie.edu
-NOERROR	ed.augie.edu
-NOERROR	special.augie.edu
-NOERROR	taurus2.augie.edu
-NOERROR	dhcp3.augie.edu
-NXDOMAIN	brutus.augie.edu
-NOERROR	lists.augie.edu
-NOERROR	wise.augie.edu
-NOERROR	pronto.augie.edu
-NOERROR	student.augie.edu
-NOERROR	acsc.augie.edu
-NXDOMAIN	cars.augie.edu
-NOERROR	smtp.augie.edu
-NOERROR	advdocs.augie.edu
-NOERROR	starlight.augie.edu
-NOERROR	oldmoodle.augie.edu
-NOERROR	nash.augie.edu
-NOERROR	mariner2.augie.edu
-NOERROR	content.augie.edu
-NOERROR	idupload.augie.edu
-NOERROR	augie.edu
-NOERROR	ole.augie.edu
-NOERROR	cx.augie.edu
-NOERROR	forums.augie.edu
-NXDOMAIN	printers.augie.edu
-NOERROR	wwwtmp.augie.edu
-NXDOMAIN	lms.augie.edu
-NOERROR	moodle.augie.edu
-NOERROR	change.augie.edu
-NOERROR	marquis.augie.edu
-NOERROR	mail.ole.augie.edu
-NOERROR	faculty.augie.edu
-NOERROR	its.augie.edu
-NOERROR	payrollshare.augie.edu
-NOERROR	seb.augie.edu
-NOERROR	libguides.augie.edu
+tunnel.augie.edu
+cuda.augie.edu
+mdm.augie.edu
+relay.augie.edu
+mbg.augie.edu
+sciencecam.augie.edu
+vikingcentral.augie.edu
+secure.augie.edu
+search.augie.edu
+pwm2.augie.edu
+traptactic.augie.edu
+finaidshare.augie.edu
+busofcshare.augie.edu
+mariner3.augie.edu
+aug-41-254.augie.edu
+sso.augie.edu
+proxy.augie.edu
+eventmanager.augie.edu
+hlc.augie.edu
+meteor.augie.edu
+menu.augie.edu
+www2.augie.edu
+np3.augie.edu
+jiscdb.augie.edu
+my.augie.edu
+ramsey.augie.edu
+lithium.augie.edu
+zephyr.augie.edu
+mariner.augie.edu
+moodlelab.augie.edu
+viking.augie.edu
+giving.augie.edu
+eldorado.augie.edu
+www.augie.edu
+ranchero2.augie.edu
+opendata.augie.edu
+tucker.augie.edu
+marauder.augie.edu
+seminaryshare.augie.edu
+drupal7.augie.edu
+pwm.augie.edu
+utilitydata.augie.edu
+filr.augie.edu
+taurus.augie.edu
+lynx.augie.edu
+sho.augie.edu
+cognos.augie.edu
+statusboard.augie.edu
+jicsdev.augie.edu
+shum.augie.edu
+elcamino.augie.edu
+moodlelab2.augie.edu
+userweb.augie.edu
+events.augie.edu
+edge.augie.edu
+aug-41-253.augie.edu
+meitner.augie.edu
+ngwnameserver.augie.edu
+devopendata.augie.edu
+gwmail.augie.edu
+studyabroad.augie.edu
+survey.augie.edu
+nat.augie.edu
+courier.augie.edu
+cisco-capwap-controller.augie.edu
+onsager.augie.edu
+nagios.augie.edu
+hrshare.augie.edu
+library.augie.edu
+vpn.augie.edu
+admission.augie.edu
+ed.augie.edu
+special.augie.edu
+taurus2.augie.edu
+dhcp3.augie.edu
+lists.augie.edu
+wise.augie.edu
+pronto.augie.edu
+student.augie.edu
+acsc.augie.edu
+smtp.augie.edu
+advdocs.augie.edu
+starlight.augie.edu
+oldmoodle.augie.edu
+nash.augie.edu
+mariner2.augie.edu
+content.augie.edu
+idupload.augie.edu
+augie.edu
+ole.augie.edu
+cx.augie.edu
+forums.augie.edu
+wwwtmp.augie.edu
+moodle.augie.edu
+change.augie.edu
+marquis.augie.edu
+mail.ole.augie.edu
+faculty.augie.edu
+its.augie.edu
+payrollshare.augie.edu
+seb.augie.edu
+libguides.augie.edu

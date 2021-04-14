@@ -1,8 +1,4 @@
-NOERROR	www.wakf.org
-NXDOMAIN	cpcontacts.wakf.org
-NOERROR	mail.wakf.org
-NOERROR	wakf.org
-NXDOMAIN	cpcalendars.wakf.org
-NXDOMAIN	cpanel.wakf.org
-NOERROR	webmail.wakf.org
-NXDOMAIN	webdisk.wakf.org
+www.wakf.org
+mail.wakf.org
+wakf.org
+webmail.wakf.org

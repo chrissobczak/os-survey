@@ -1,6 +1,5 @@
-NOERROR	web.shannoncollege.com
-NOERROR	bis.shannoncollege.com
-NOERROR	student.shannoncollege.com
-NOERROR	shannoncollege.com
-NOERROR	www.shannoncollege.com
-NXDOMAIN	mail.shannoncollege.com
+web.shannoncollege.com
+bis.shannoncollege.com
+student.shannoncollege.com
+shannoncollege.com
+www.shannoncollege.com

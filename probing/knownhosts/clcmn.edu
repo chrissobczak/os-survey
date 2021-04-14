@@ -1,25 +1,19 @@
-NOERROR	cap.clcmn.edu
-NOERROR	www4.clcmn.edu
-NOERROR	vmcm.clcmn.edu
-NOERROR	www5.clcmn.edu
-NOERROR	osticket.clcmn.edu
-NXDOMAIN	ts-web.clcmn.edu
-NOERROR	go.clcmn.edu
-NOERROR	clcmn.edu
-NXDOMAIN	gwwa.clcmn.edu
-NOERROR	vi.clcmn.edu
-NXDOMAIN	gdrive.clcmn.edu
-NOERROR	support.clcmn.edu
-NOERROR	mx1.clcmn.edu
-NOERROR	wwwdev.clcmn.edu
-NXDOMAIN	intranet.clcmn.edu
-NXDOMAIN	netmail.clcmn.edu
-NOERROR	libmuseum.clcmn.edu
-NOERROR	brprint2.clcmn.edu
-NOERROR	libdata.clcmn.edu
-NOERROR	catalognavigator.clcmn.edu
-NXDOMAIN	mnpals.clcmn.edu
-NOERROR	vdi.clcmn.edu
-NOERROR	www.clcmn.edu
-NOERROR	ospreycam.clcmn.edu
-NOERROR	www3.clcmn.edu
+cap.clcmn.edu
+www4.clcmn.edu
+vmcm.clcmn.edu
+www5.clcmn.edu
+osticket.clcmn.edu
+go.clcmn.edu
+clcmn.edu
+vi.clcmn.edu
+support.clcmn.edu
+mx1.clcmn.edu
+wwwdev.clcmn.edu
+libmuseum.clcmn.edu
+brprint2.clcmn.edu
+libdata.clcmn.edu
+catalognavigator.clcmn.edu
+vdi.clcmn.edu
+www.clcmn.edu
+ospreycam.clcmn.edu
+www3.clcmn.edu

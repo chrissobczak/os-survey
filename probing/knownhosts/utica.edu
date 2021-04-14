@@ -1,231 +1,160 @@
-NOERROR	password.utica.edu
-NOERROR	www-01-pub.utica.edu
-NOERROR	lb2.utica.edu
-NXDOMAIN	utica-mbam-01.uc.utica.edu
-NXDOMAIN	webct6.utica.edu
-NOERROR	gaia.utica.edu
-NOERROR	ems.utica.edu
-NOERROR	www.cs.utica.edu
-NOERROR	test.utica.edu
-NOERROR	www.bioone.org.ezproxy.utica.edu
-NOERROR	mail.utica.edu
-NOERROR	i1.next.westlaw.com.ezproxy.utica.edu
-NOERROR	azure-ad-conn.uc.utica.edu
-NXDOMAIN	ip-69.utica.edu
-NOERROR	cyberball.utica.edu
-NOERROR	smtp.utica.edu
-NOERROR	borc2.utica.edu
-NXDOMAIN	lms1.utica.edu
-NOERROR	cs-lamp-1.utica.edu
-NOERROR	utica.edu
-NXDOMAIN	adm.utica.edu
-NOERROR	m.catalog.utica.edu
-NXDOMAIN	lab.ecjs.utica.edu
-NXDOMAIN	ip-87.utica.edu
-NXDOMAIN	bigbluebutton.cs.utica.edu
-NXDOMAIN	orion.utica.edu
-NXDOMAIN	utica-nac-02.uc.utica.edu
-NOERROR	tlsproxy.utica.edu
-NOERROR	uclug.utica.edu
-NXDOMAIN	irptest.utica.edu
-NOERROR	ns1.utica.edu
-NXDOMAIN	utica-nac-06.uc.utica.edu
-NOERROR	www-02-pub.utica.edu
-NXDOMAIN	ip-79.utica.edu
-NOERROR	cstrike.utica.edu
-NXDOMAIN	ip-88.utica.edu
-NOERROR	vdi.ecjs.utica.edu
-NOERROR	vpn.utica.edu
-NOERROR	secure-movementsciencemedia-org.ezproxy.utica.edu
-NXDOMAIN	ip-86.utica.edu
-NOERROR	vmwsol1.utica.edu
-NXDOMAIN	bweb1.utica.edu
-NXDOMAIN	rsi.utica.edu
-NOERROR	scholar-google-com.ezproxy.utica.edu
-NOERROR	vpn3.utica.edu
-NXDOMAIN	adobe.utica.edu
-NXDOMAIN	phonesrvr.utica.edu
-NXDOMAIN	ip-76.utica.edu
-NOERROR	cloud.utica.edu
-NOERROR	b9-etran-02.utica.edu
-NXDOMAIN	ucvapp-01.uc.utica.edu
-NOERROR	l4d2.utica.edu
-NOERROR	ucrdg2.utica.edu
-NXDOMAIN	ip-80.utica.edu
-NOERROR	find.galegroup.com.ezproxy.utica.edu
-NOERROR	genetec.utica.edu
-NOERROR	c1.next.westlaw.com.ezproxy.utica.edu
-NOERROR	cs.utica.edu
-NOERROR	csts.utica.edu
-NOERROR	webmail.utica.edu
-NOERROR	programs.online.utica.edu
-NXDOMAIN	ip-75.utica.edu
-NXDOMAIN	deltek.utica.edu
-NOERROR	bannerweb-test.utica.edu
-NOERROR	bannerweb3.utica.edu
-NOERROR	www.sciencedirect.com.ezproxy.utica.edu
-NOERROR	fof.utica.edu
-NOERROR	bannerweb2.utica.edu
-NOERROR	faulkner.com.ezproxy.utica.edu
-NOERROR	repos.cs.utica.edu
-NOERROR	software.utica.edu
-NOERROR	cl-sandbox.utica.edu
-NOERROR	j1.next.westlaw.com.ezproxy.utica.edu
-NOERROR	ucvpn.utica.edu
-NOERROR	bannerweb1.utica.edu
-NOERROR	soot.utica.edu
-NOERROR	utica-jamf-01.utica.edu
-NOERROR	sgd.utica.edu
-NOERROR	search.ebscohost.com.ezproxy.utica.edu
-NXDOMAIN	localmail.utica.edu
-NOERROR	online.utica.edu
-NXDOMAIN	utica-nac-05.uc.utica.edu
-NOERROR	utica.kanopystreaming.com.ezproxy.utica.edu
-NOERROR	msdn.utica.edu
-NXDOMAIN	chat.utica.edu
-NOERROR	tm.utica.edu
-NOERROR	scholar.google.com.ezproxy.utica.edu
-NXDOMAIN	vapps.uc.utica.edu
-NOERROR	uc-app-01.utica.edu
-NXDOMAIN	ip-71.utica.edu
-NOERROR	be.next.westlaw.com.ezproxy.utica.edu
-NOERROR	catalog.utica.edu
-NOERROR	ns2.cs.utica.edu
-NXDOMAIN	utica-nac-03.uc.utica.edu
-NXDOMAIN	ip-82.utica.edu
-NOERROR	phishing-admin.utica.edu
-NXDOMAIN	ucrdp.uc.utica.edu
-NXDOMAIN	ucrdg.uc.utica.edu
-NXDOMAIN	ip-83.utica.edu
-NOERROR	vpn2.utica.edu
-NOERROR	resnet.utica.edu
-NOERROR	scifinder-cas-org.ezproxy.utica.edu
-NOERROR	www.utica.edu
-NXDOMAIN	utica-prt-02.uc.utica.edu
-NXDOMAIN	ip-78.utica.edu
-NOERROR	pubs.acs.org.ezproxy.utica.edu
-NXDOMAIN	ip-90.utica.edu
-NOERROR	irp.utica.edu
-NOERROR	l4d.utica.edu
-NOERROR	firstsearch.oclc.org.ezproxy.utica.edu
-NOERROR	ihrec.utica.edu
-NOERROR	ebsco-content.com.ezproxy.utica.edu
-NOERROR	lists.utica.edu
-NXDOMAIN	ip-84.utica.edu
-NOERROR	cmlab.utica.edu
-NOERROR	redmine.cs.utica.edu
-NOERROR	landing.online.utica.edu
-NXDOMAIN	fw1.utica.edu
-NOERROR	vle.cs.utica.edu
-NOERROR	ucrdg.utica.edu
-NOERROR	sshproxy.utica.edu
-NXDOMAIN	atris.cs.utica.edu
-NXDOMAIN	admin2.utica.edu
-NOERROR	sso.utica.edu
-NOERROR	wlab.ecjs.utica.edu
-NOERROR	go.galegroup.com.ezproxy.utica.edu
-NOERROR	b.programs.online.utica.edu
-NOERROR	ezproxy.utica.edu
-NXDOMAIN	cfrdl.utica.edu
-NOERROR	bioone.org.ezproxy.utica.edu
-NXDOMAIN	todo.cs.utica.edu
-NOERROR	a.next.westlaw.com.ezproxy.utica.edu
-NOERROR	ja.next.westlaw.com.ezproxy.utica.edu
-NOERROR	tf2.utica.edu
-NOERROR	ebscohost.com.ezproxy.utica.edu
-NOERROR	merope.utica.edu
-NOERROR	cfc.utica.edu
-NXDOMAIN	ucprt.uc.utica.edu
-NXDOMAIN	ucrdg2.uc.utica.edu
-NXDOMAIN	utica-nac-01.uc.utica.edu
-NOERROR	www-prod.utica.edu
-NXDOMAIN	lab.utica.edu
-NOERROR	cs-rdg-01.utica.edu
-NOERROR	ns1.cs.utica.edu
-NOERROR	labs.utica.edu
-NOERROR	www.oed.com.ezproxy.utica.edu
-NOERROR	cashnet-01-pub.utica.edu
-NXDOMAIN	aisadm.utica.edu
-NOERROR	connect.utica.edu
-NOERROR	www-dev.utica.edu
-NOERROR	accessphysiotherapy.mhmedical.com.ezproxy.utica.edu
-NXDOMAIN	kiwi16.uc.utica.edu
-NXDOMAIN	bweb2.utica.edu
-NXDOMAIN	webct4.utica.edu
-NOERROR	web.b.ebscohost.com.ezproxy.utica.edu
-NOERROR	status.utica.edu
-NOERROR	b9-etran-01.utica.edu
-NOERROR	ns2.utica.edu
-NOERROR	helpdesk.utica.edu
-NOERROR	uc.utica.edu
-NOERROR	origin-scifinder.cas.org.ezproxy.utica.edu
-NXDOMAIN	ip-91.utica.edu
-NOERROR	pioneerplace.utica.edu
-NOERROR	library.utica.edu
-NOERROR	engage.utica.edu
-NOERROR	beta.utica.edu
-NOERROR	cas.utica.edu
-NOERROR	web.a.ebscohost.com.ezproxy.utica.edu
-NOERROR	www.bannerweb.utica.edu
-NOERROR	mysql.utica.edu
-NXDOMAIN	student.utica.edu
-NOERROR	utica-expwy-e.utica.edu
-NXDOMAIN	u2one.utica.edu
-NOERROR	muse.jhu.edu.ezproxy.utica.edu
-NXDOMAIN	ip-89.utica.edu
-NOERROR	1.next.westlaw.com.ezproxy.utica.edu
-NOERROR	cl-production.utica.edu
-NOERROR	www.accessphysiotherapy.com.ezproxy.utica.edu
-NOERROR	smarthinking.utica.edu
-NOERROR	global.ac.ebsco-content.com.ezproxy.utica.edu
-NXDOMAIN	ip-70.utica.edu
-NXDOMAIN	uc-vdi-sh.uc.utica.edu
-NOERROR	spiceworks.utica.edu
-NOERROR	sz001.utica.edu
-NOERROR	bannerweb.utica.edu
-NOERROR	scifinder.cas.org.ezproxy.utica.edu
-NXDOMAIN	ip-92.utica.edu
-NOERROR	www.jove.com.ezproxy.utica.edu
-NXDOMAIN	ip-85.utica.edu
-NXDOMAIN	calendar.utica.edu
-NOERROR	vapps.utica.edu
-NXDOMAIN	uc-vdi-vh.uc.utica.edu
-NOERROR	search.proquest.com.ezproxy.utica.edu
-NOERROR	oed.com.ezproxy.utica.edu
-NXDOMAIN	admin.utica.edu
-NOERROR	cas-test.utica.edu
-NXDOMAIN	web-svr.utica.edu
-NOERROR	www.lexisnexis.com.ezproxy.utica.edu
-NOERROR	if.ebsco-content.com.ezproxy.utica.edu
-NOERROR	homecoming.utica.edu
-NXDOMAIN	moodle.cs.utica.edu
-NXDOMAIN	utica-nps-01.uc.utica.edu
-NOERROR	webserver1.utica.edu
-NXDOMAIN	u2two.utica.edu
-NOERROR	webserver2.utica.edu
-NOERROR	csgo.utica.edu
-NOERROR	gamesrv1.utica.edu
-NOERROR	hero.utica.edu
-NOERROR	files.ecjs.utica.edu
-NOERROR	absn.utica.edu
-NOERROR	login.ezproxy.utica.edu
-NOERROR	ajs.sagepub.com.ezproxy.utica.edu
-NOERROR	coco.utica.edu
-NOERROR	acceleratednursing.utica.edu
-NOERROR	ecjs.utica.edu
-NOERROR	printcenter.utica.edu
-NOERROR	shifts.utica.edu
-NOERROR	smsweb.utica.edu
-NOERROR	nac-master.utica.edu
-NOERROR	epnet.com.ezproxy.utica.edu
-NXDOMAIN	utica-nac-04.uc.utica.edu
-NXDOMAIN	uc-vdi-cb.uc.utica.edu
-NOERROR	llab.ecjs.utica.edu
-NOERROR	crm-sftp.utica.edu
-NOERROR	cs16.utica.edu
-NXDOMAIN	ip-81.utica.edu
-NOERROR	confluence.utica.edu
-NOERROR	lb1.utica.edu
-NXDOMAIN	ip-74.utica.edu
-NOERROR	ajplegacy.physiology.org.ezproxy.utica.edu
-NXDOMAIN	utica-trucred.uc.utica.edu
+password.utica.edu
+www-01-pub.utica.edu
+lb2.utica.edu
+gaia.utica.edu
+ems.utica.edu
+www.cs.utica.edu
+test.utica.edu
+www.bioone.org.ezproxy.utica.edu
+mail.utica.edu
+i1.next.westlaw.com.ezproxy.utica.edu
+azure-ad-conn.uc.utica.edu
+cyberball.utica.edu
+smtp.utica.edu
+borc2.utica.edu
+cs-lamp-1.utica.edu
+utica.edu
+m.catalog.utica.edu
+tlsproxy.utica.edu
+uclug.utica.edu
+ns1.utica.edu
+www-02-pub.utica.edu
+cstrike.utica.edu
+vdi.ecjs.utica.edu
+vpn.utica.edu
+secure-movementsciencemedia-org.ezproxy.utica.edu
+vmwsol1.utica.edu
+scholar-google-com.ezproxy.utica.edu
+vpn3.utica.edu
+cloud.utica.edu
+b9-etran-02.utica.edu
+l4d2.utica.edu
+ucrdg2.utica.edu
+find.galegroup.com.ezproxy.utica.edu
+genetec.utica.edu
+c1.next.westlaw.com.ezproxy.utica.edu
+cs.utica.edu
+csts.utica.edu
+webmail.utica.edu
+programs.online.utica.edu
+bannerweb-test.utica.edu
+bannerweb3.utica.edu
+www.sciencedirect.com.ezproxy.utica.edu
+fof.utica.edu
+bannerweb2.utica.edu
+faulkner.com.ezproxy.utica.edu
+repos.cs.utica.edu
+software.utica.edu
+cl-sandbox.utica.edu
+j1.next.westlaw.com.ezproxy.utica.edu
+ucvpn.utica.edu
+bannerweb1.utica.edu
+soot.utica.edu
+utica-jamf-01.utica.edu
+sgd.utica.edu
+search.ebscohost.com.ezproxy.utica.edu
+online.utica.edu
+utica.kanopystreaming.com.ezproxy.utica.edu
+msdn.utica.edu
+tm.utica.edu
+scholar.google.com.ezproxy.utica.edu
+uc-app-01.utica.edu
+be.next.westlaw.com.ezproxy.utica.edu
+catalog.utica.edu
+ns2.cs.utica.edu
+phishing-admin.utica.edu
+vpn2.utica.edu
+resnet.utica.edu
+scifinder-cas-org.ezproxy.utica.edu
+www.utica.edu
+pubs.acs.org.ezproxy.utica.edu
+irp.utica.edu
+l4d.utica.edu
+firstsearch.oclc.org.ezproxy.utica.edu
+ihrec.utica.edu
+ebsco-content.com.ezproxy.utica.edu
+lists.utica.edu
+cmlab.utica.edu
+redmine.cs.utica.edu
+landing.online.utica.edu
+vle.cs.utica.edu
+ucrdg.utica.edu
+sshproxy.utica.edu
+sso.utica.edu
+wlab.ecjs.utica.edu
+go.galegroup.com.ezproxy.utica.edu
+b.programs.online.utica.edu
+ezproxy.utica.edu
+bioone.org.ezproxy.utica.edu
+a.next.westlaw.com.ezproxy.utica.edu
+ja.next.westlaw.com.ezproxy.utica.edu
+tf2.utica.edu
+ebscohost.com.ezproxy.utica.edu
+merope.utica.edu
+cfc.utica.edu
+www-prod.utica.edu
+cs-rdg-01.utica.edu
+ns1.cs.utica.edu
+labs.utica.edu
+www.oed.com.ezproxy.utica.edu
+cashnet-01-pub.utica.edu
+connect.utica.edu
+www-dev.utica.edu
+accessphysiotherapy.mhmedical.com.ezproxy.utica.edu
+web.b.ebscohost.com.ezproxy.utica.edu
+status.utica.edu
+b9-etran-01.utica.edu
+ns2.utica.edu
+helpdesk.utica.edu
+uc.utica.edu
+origin-scifinder.cas.org.ezproxy.utica.edu
+pioneerplace.utica.edu
+library.utica.edu
+engage.utica.edu
+beta.utica.edu
+cas.utica.edu
+web.a.ebscohost.com.ezproxy.utica.edu
+www.bannerweb.utica.edu
+mysql.utica.edu
+utica-expwy-e.utica.edu
+muse.jhu.edu.ezproxy.utica.edu
+1.next.westlaw.com.ezproxy.utica.edu
+cl-production.utica.edu
+www.accessphysiotherapy.com.ezproxy.utica.edu
+smarthinking.utica.edu
+global.ac.ebsco-content.com.ezproxy.utica.edu
+spiceworks.utica.edu
+sz001.utica.edu
+bannerweb.utica.edu
+scifinder.cas.org.ezproxy.utica.edu
+www.jove.com.ezproxy.utica.edu
+vapps.utica.edu
+search.proquest.com.ezproxy.utica.edu
+oed.com.ezproxy.utica.edu
+cas-test.utica.edu
+www.lexisnexis.com.ezproxy.utica.edu
+if.ebsco-content.com.ezproxy.utica.edu
+homecoming.utica.edu
+webserver1.utica.edu
+webserver2.utica.edu
+csgo.utica.edu
+gamesrv1.utica.edu
+hero.utica.edu
+files.ecjs.utica.edu
+absn.utica.edu
+login.ezproxy.utica.edu
+ajs.sagepub.com.ezproxy.utica.edu
+coco.utica.edu
+acceleratednursing.utica.edu
+ecjs.utica.edu
+printcenter.utica.edu
+shifts.utica.edu
+smsweb.utica.edu
+nac-master.utica.edu
+epnet.com.ezproxy.utica.edu
+llab.ecjs.utica.edu
+crm-sftp.utica.edu
+cs16.utica.edu
+confluence.utica.edu
+lb1.utica.edu
+ajplegacy.physiology.org.ezproxy.utica.edu

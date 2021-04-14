@@ -1,241 +1,125 @@
-NXDOMAIN	4biz.kwangju.ac.kr
-NOERROR	info.kwangju.ac.kr
-NXDOMAIN	optec.kwangju.ac.kr
-SERVFAIL	sugang.kwangju.ac.kr
-NXDOMAIN	agent.kwangju.ac.kr
-NXDOMAIN	mcnt.kwangju.ac.kr
-NXDOMAIN	bravo.kwangju.ac.kr
-NXDOMAIN	dls.kwangju.ac.kr
-NXDOMAIN	cyberemp.kwangju.ac.kr
-SERVFAIL	kjarchi.kwangju.ac.kr
-NXDOMAIN	hosim.kwangju.ac.kr
-NXDOMAIN	w2k.kwangju.ac.kr
-NXDOMAIN	urbanity.kwangju.ac.kr
-NXDOMAIN	lug.kwangju.ac.kr
-NXDOMAIN	cse3.kwangju.ac.kr
-SERVFAIL	cse8.kwangju.ac.kr
-NOERROR	elec.kwangju.ac.kr
-NOERROR	ikubs.kwangju.ac.kr
-SERVFAIL	cse7.kwangju.ac.kr
-NXDOMAIN	jinwol.kwangju.ac.kr
-NXDOMAIN	linux.kwangju.ac.kr
-NOERROR	kwangju.ac.kr
-NXDOMAIN	scosysv.kwangju.ac.kr
-NXDOMAIN	web2.kwangju.ac.kr
-NXDOMAIN	lis.kwangju.ac.kr
-NXDOMAIN	kr.kwangju.ac.kr
-NXDOMAIN	flash.kwangju.ac.kr
-SERVFAIL	www.kwangju.ac.kr
-SERVFAIL	ebiz.kwangju.ac.kr
-SERVFAIL	cosmos.kwangju.ac.kr
-SERVFAIL	blacksarang.kwangju.ac.kr
-NXDOMAIN	tpsc.kwangju.ac.kr
-NXDOMAIN	selab1.kwangju.ac.kr
-SERVFAIL	klic.kwangju.ac.kr
-NOERROR	iedu.kwangju.ac.kr
-SERVFAIL	gumedia.kwangju.ac.kr
-SERVFAIL	glis.kwangju.ac.kr
-SERVFAIL	hsn.kwangju.ac.kr
-SERVFAIL	csl.kwangju.ac.kr
-NXDOMAIN	sun.kwangju.ac.kr
-SERVFAIL	sanhak.kwangju.ac.kr
-NXDOMAIN	ecrc.kwangju.ac.kr
-SERVFAIL	mc.kwangju.ac.kr
-SERVFAIL	sanhakyon.kwangju.ac.kr
-NXDOMAIN	kubic.kwangju.ac.kr
-SERVFAIL	mail.kwangju.ac.kr
-SERVFAIL	atom.kwangju.ac.kr
-SERVFAIL	honey.kwangju.ac.kr
-SERVFAIL	dblab.kwangju.ac.kr
-NXDOMAIN	vod.kwangju.ac.kr
-SERVFAIL	tidic.kwangju.ac.kr
-NXDOMAIN	it.kwangju.ac.kr
-SERVFAIL	tamjin.kwangju.ac.kr
-NXDOMAIN	get.gwangju.ac.kr
-NOERROR	gdi.gwangju.ac.kr
-NOERROR	sanhak.gwangju.ac.kr
-NOERROR	sg.gwangju.ac.kr
-NOERROR	icee.gwangju.ac.kr
-NXDOMAIN	nhs.gwangju.ac.kr
-NOERROR	old.gwangju.ac.kr
-NOERROR	glis.gwangju.ac.kr
-NOERROR	teacher.gwangju.ac.kr
-NOERROR	medic.gwangju.ac.kr
-NOERROR	research.gwangju.ac.kr
-NOERROR	azza.gwangju.ac.kr
-NXDOMAIN	mlinc.gwangju.ac.kr
-NOERROR	mklic.gwangju.ac.kr
-NXDOMAIN	tourism.gwangju.ac.kr
-NOERROR	portal.gwangju.ac.kr
-NOERROR	ebook.gwangju.ac.kr
-NOERROR	elec.gwangju.ac.kr
-NXDOMAIN	flc.gwangju.ac.kr
-NOERROR	gjuot.gwangju.ac.kr
-NXDOMAIN	www.mklic.gwangju.ac.kr
-NXDOMAIN	www.enbrix.gwangju.ac.kr
-NOERROR	chi.gwangju.ac.kr
-NOERROR	ebiz.gwangju.ac.kr
-NOERROR	kjumusic.gwangju.ac.kr
-NXDOMAIN	lug.gwangju.ac.kr
-NXDOMAIN	cosmos.gwangju.ac.kr
-NOERROR	dref.gwangju.ac.kr
-NOERROR	openlink.libproxy.gwangju.ac.kr
-NOERROR	ebookfile.gwangju.ac.kr
-NXDOMAIN	ecrc.gwangju.ac.kr
-NOERROR	mobile.gwangju.ac.kr
-NOERROR	dns.gwangju.ac.kr
-NXDOMAIN	optec.gwangju.ac.kr
-NXDOMAIN	dat.gwangju.ac.kr
-NOERROR	cse.gwangju.ac.kr
-NOERROR	dns1.gwangju.ac.kr
-NOERROR	pla.gwangju.ac.kr
-NXDOMAIN	ace.gwangju.ac.kr
-NOERROR	jobcenter.gwangju.ac.kr
-NOERROR	vnm.gwangju.ac.kr
-NOERROR	zzang.gwangju.ac.kr
-NXDOMAIN	hsn.gwangju.ac.kr
-NXDOMAIN	www.elearn.gwangju.ac.kr
-NOERROR	file.gwangju.ac.kr
-NXDOMAIN	gubic.gwangju.ac.kr
-NOERROR	docs.gwangju.ac.kr
-NXDOMAIN	dls.gwangju.ac.kr
-NXDOMAIN	mount.gwangju.ac.kr
-NXDOMAIN	tournuri.gwangju.ac.kr
-NXDOMAIN	htl.gwangju.ac.kr
-NXDOMAIN	tpsc.gwangju.ac.kr
-NOERROR	itcar.gwangju.ac.kr
-NOERROR	korean.gwangju.ac.kr
-NXDOMAIN	linc.gwangju.ac.kr
-NOERROR	dorm.gwangju.ac.kr
-NXDOMAIN	ceo.gwangju.ac.kr
-NOERROR	inuri.gwangju.ac.kr
-NXDOMAIN	urbanity.gwangju.ac.kr
-NXDOMAIN	light.gwangju.ac.kr
-NXDOMAIN	gudip.gwangju.ac.kr
-NOERROR	iphak.gwangju.ac.kr
-NXDOMAIN	www.klic.gwangju.ac.kr
-NOERROR	prof.gwangju.ac.kr
-NOERROR	ycle.gwangju.ac.kr
-NOERROR	dns2.gwangju.ac.kr
-NOERROR	haksa.gwangju.ac.kr
-NOERROR	biofood.gwangju.ac.kr
-NXDOMAIN	dotnet.gwangju.ac.kr
-NOERROR	sugang.gwangju.ac.kr
-NOERROR	fd.gwangju.ac.kr
-NOERROR	startup.gwangju.ac.kr
-NXDOMAIN	gjpwc.gwangju.ac.kr
-NOERROR	tamjin.gwangju.ac.kr
-NXDOMAIN	jiaoliu.gwangju.ac.kr
-NOERROR	gjutax.gwangju.ac.kr
-NXDOMAIN	web2.gwangju.ac.kr
-NOERROR	chinese.gwangju.ac.kr
-NXDOMAIN	www.mail.gwangju.ac.kr
-NXDOMAIN	interlan.gwangju.ac.kr
-NOERROR	arch.gwangju.ac.kr
-NXDOMAIN	event.gwangju.ac.kr
-NXDOMAIN	english.gwangju.ac.kr
-NOERROR	japan.gwangju.ac.kr
-NXDOMAIN	honey.gwangju.ac.kr
-NOERROR	mail.gwangju.ac.kr
-NOERROR	ctl.gwangju.ac.kr
-NXDOMAIN	jayul.gwangju.ac.kr
-NXDOMAIN	csl.gwangju.ac.kr
-NOERROR	jmc.gwangju.ac.kr
-NOERROR	www.gwangju.ac.kr
-NOERROR	biz.gwangju.ac.kr
-NXDOMAIN	ch.gwangju.ac.kr
-NOERROR	web4.gwangju.ac.kr
-NOERROR	cyfo.gwangju.ac.kr
-NXDOMAIN	ice.gwangju.ac.kr
-NOERROR	enuri.gwangju.ac.kr
-NOERROR	ikubs.gwangju.ac.kr
-NOERROR	lincplus.gwangju.ac.kr
-NXDOMAIN	ebiz1.gwangju.ac.kr
-NOERROR	fire.gwangju.ac.kr
-NOERROR	me.gwangju.ac.kr
-NXDOMAIN	hosim.gwangju.ac.kr
-NOERROR	urban.gwangju.ac.kr
-NOERROR	eng.gwangju.ac.kr
-NXDOMAIN	kubic.gwangju.ac.kr
-NOERROR	edu.gwangju.ac.kr
-NOERROR	hamke.gwangju.ac.kr
-NOERROR	support.gwangju.ac.kr
-NOERROR	web5.gwangju.ac.kr
-NXDOMAIN	advent.gwangju.ac.kr
-NOERROR	smart.gwangju.ac.kr
-NOERROR	fn.gwangju.ac.kr
-NOERROR	info.gwangju.ac.kr
-NOERROR	gunuri.gwangju.ac.kr
-NOERROR	civil.gwangju.ac.kr
-NOERROR	edupower.gwangju.ac.kr
-NXDOMAIN	con.gwangju.ac.kr
-NXDOMAIN	sanhakyon.gwangju.ac.kr
-NOERROR	welfare.gwangju.ac.kr
-NOERROR	hnt.gwangju.ac.kr
-NXDOMAIN	www.gucyber.gwangju.ac.kr
-NXDOMAIN	iit.gwangju.ac.kr
-NXDOMAIN	kjarchi.gwangju.ac.kr
-NOERROR	m.gwangju.ac.kr
-NXDOMAIN	4biz.gwangju.ac.kr
-NOERROR	klic.gwangju.ac.kr
-NXDOMAIN	china.gwangju.ac.kr
-NXDOMAIN	abeek.gwangju.ac.kr
-NXDOMAIN	blacksarang.gwangju.ac.kr
-NOERROR	htltour.gwangju.ac.kr
-NOERROR	nr.gwangju.ac.kr
-NXDOMAIN	bio.gwangju.ac.kr
-NOERROR	jori.gwangju.ac.kr
-NOERROR	lifelong.gwangju.ac.kr
-NOERROR	grad.gwangju.ac.kr
-NXDOMAIN	webprog.gwangju.ac.kr
-NOERROR	sw.gwangju.ac.kr
-NXDOMAIN	pma.gwangju.ac.kr
-NOERROR	airline.gwangju.ac.kr
-NOERROR	help.gwangju.ac.kr
-NXDOMAIN	care.gwangju.ac.kr
-NOERROR	gwangju.ac.kr
-NXDOMAIN	cert.gwangju.ac.kr
-NOERROR	slp.gwangju.ac.kr
-NOERROR	web3.gwangju.ac.kr
-NOERROR	vd.gwangju.ac.kr
-NOERROR	educyber.gwangju.ac.kr
-NOERROR	gid.gwangju.ac.kr
-NOERROR	office.gwangju.ac.kr
-NOERROR	uiseo.gwangju.ac.kr
-NXDOMAIN	www.ctl.gwangju.ac.kr
-NOERROR	muncre.gwangju.ac.kr
-NOERROR	beauty.gwangju.ac.kr
-NOERROR	gumedia.gwangju.ac.kr
-NXDOMAIN	dftam.gwangju.ac.kr
-NOERROR	ece.gwangju.ac.kr
-NOERROR	elearn.gwangju.ac.kr
-NOERROR	icc.gwangju.ac.kr
-NOERROR	ghrd.gwangju.ac.kr
-NOERROR	psy.gwangju.ac.kr
-NOERROR	president.gwangju.ac.kr
-NOERROR	sport.gwangju.ac.kr
-NOERROR	edulife.gwangju.ac.kr
-NOERROR	arc.gwangju.ac.kr
-NOERROR	global.gwangju.ac.kr
-NOERROR	gw.gwangju.ac.kr
-NXDOMAIN	wcareer.gwangju.ac.kr
-NOERROR	archive.gwangju.ac.kr
-NOERROR	tax.gwangju.ac.kr
-NOERROR	cms.gwangju.ac.kr
-NXDOMAIN	slpt.gwangju.ac.kr
-NOERROR	dst.gwangju.ac.kr
-NXDOMAIN	w2k.gwangju.ac.kr
-NOERROR	hs.gwangju.ac.kr
-NOERROR	gucyber.gwangju.ac.kr
-NOERROR	fund.gwangju.ac.kr
-NOERROR	ngn.gwangju.ac.kr
-NOERROR	print.gwangju.ac.kr
-NXDOMAIN	erc.gwangju.ac.kr
-NXDOMAIN	bravo.gwangju.ac.kr
-NOERROR	iedu.gwangju.ac.kr
-NXDOMAIN	meditech.gwangju.ac.kr
-NOERROR	enbrix.gwangju.ac.kr
-NOERROR	dlis.gwangju.ac.kr
-NOERROR	gunuriadmin.gwangju.ac.kr
-NXDOMAIN	tesol.gwangju.ac.kr
-NXDOMAIN	sugang2.gwangju.ac.kr
+info.kwangju.ac.kr
+elec.kwangju.ac.kr
+ikubs.kwangju.ac.kr
+kwangju.ac.kr
+iedu.kwangju.ac.kr
+gdi.gwangju.ac.kr
+sanhak.gwangju.ac.kr
+sg.gwangju.ac.kr
+icee.gwangju.ac.kr
+old.gwangju.ac.kr
+glis.gwangju.ac.kr
+teacher.gwangju.ac.kr
+medic.gwangju.ac.kr
+research.gwangju.ac.kr
+azza.gwangju.ac.kr
+mklic.gwangju.ac.kr
+portal.gwangju.ac.kr
+ebook.gwangju.ac.kr
+elec.gwangju.ac.kr
+gjuot.gwangju.ac.kr
+chi.gwangju.ac.kr
+ebiz.gwangju.ac.kr
+kjumusic.gwangju.ac.kr
+dref.gwangju.ac.kr
+openlink.libproxy.gwangju.ac.kr
+ebookfile.gwangju.ac.kr
+mobile.gwangju.ac.kr
+dns.gwangju.ac.kr
+cse.gwangju.ac.kr
+dns1.gwangju.ac.kr
+pla.gwangju.ac.kr
+jobcenter.gwangju.ac.kr
+vnm.gwangju.ac.kr
+zzang.gwangju.ac.kr
+file.gwangju.ac.kr
+docs.gwangju.ac.kr
+itcar.gwangju.ac.kr
+korean.gwangju.ac.kr
+dorm.gwangju.ac.kr
+inuri.gwangju.ac.kr
+iphak.gwangju.ac.kr
+prof.gwangju.ac.kr
+ycle.gwangju.ac.kr
+dns2.gwangju.ac.kr
+haksa.gwangju.ac.kr
+biofood.gwangju.ac.kr
+sugang.gwangju.ac.kr
+fd.gwangju.ac.kr
+startup.gwangju.ac.kr
+tamjin.gwangju.ac.kr
+gjutax.gwangju.ac.kr
+chinese.gwangju.ac.kr
+arch.gwangju.ac.kr
+japan.gwangju.ac.kr
+mail.gwangju.ac.kr
+ctl.gwangju.ac.kr
+jmc.gwangju.ac.kr
+www.gwangju.ac.kr
+biz.gwangju.ac.kr
+web4.gwangju.ac.kr
+cyfo.gwangju.ac.kr
+enuri.gwangju.ac.kr
+ikubs.gwangju.ac.kr
+lincplus.gwangju.ac.kr
+fire.gwangju.ac.kr
+me.gwangju.ac.kr
+urban.gwangju.ac.kr
+eng.gwangju.ac.kr
+edu.gwangju.ac.kr
+hamke.gwangju.ac.kr
+support.gwangju.ac.kr
+web5.gwangju.ac.kr
+smart.gwangju.ac.kr
+fn.gwangju.ac.kr
+info.gwangju.ac.kr
+gunuri.gwangju.ac.kr
+civil.gwangju.ac.kr
+edupower.gwangju.ac.kr
+welfare.gwangju.ac.kr
+hnt.gwangju.ac.kr
+m.gwangju.ac.kr
+klic.gwangju.ac.kr
+htltour.gwangju.ac.kr
+nr.gwangju.ac.kr
+jori.gwangju.ac.kr
+lifelong.gwangju.ac.kr
+grad.gwangju.ac.kr
+sw.gwangju.ac.kr
+airline.gwangju.ac.kr
+help.gwangju.ac.kr
+gwangju.ac.kr
+slp.gwangju.ac.kr
+web3.gwangju.ac.kr
+vd.gwangju.ac.kr
+educyber.gwangju.ac.kr
+gid.gwangju.ac.kr
+office.gwangju.ac.kr
+uiseo.gwangju.ac.kr
+muncre.gwangju.ac.kr
+beauty.gwangju.ac.kr
+gumedia.gwangju.ac.kr
+ece.gwangju.ac.kr
+elearn.gwangju.ac.kr
+icc.gwangju.ac.kr
+ghrd.gwangju.ac.kr
+psy.gwangju.ac.kr
+president.gwangju.ac.kr
+sport.gwangju.ac.kr
+edulife.gwangju.ac.kr
+arc.gwangju.ac.kr
+global.gwangju.ac.kr
+gw.gwangju.ac.kr
+archive.gwangju.ac.kr
+tax.gwangju.ac.kr
+cms.gwangju.ac.kr
+dst.gwangju.ac.kr
+hs.gwangju.ac.kr
+gucyber.gwangju.ac.kr
+fund.gwangju.ac.kr
+ngn.gwangju.ac.kr
+print.gwangju.ac.kr
+iedu.gwangju.ac.kr
+enbrix.gwangju.ac.kr
+dlis.gwangju.ac.kr
+gunuriadmin.gwangju.ac.kr

@@ -1,547 +1,444 @@
-NOERROR	vnmrs.kunsan.ac.kr
-NOERROR	thermo1.kunsan.ac.kr
-NOERROR	surface.kunsan.ac.kr
-NOERROR	jhjoo.kunsan.ac.kr
-NOERROR	pol3.kunsan.ac.kr
-NOERROR	artemis.kunsan.ac.kr
-NOERROR	esports.kunsan.ac.kr
-NOERROR	eclass.kunsan.ac.kr
-NOERROR	fantasia.kunsan.ac.kr
-NOERROR	j0404.kunsan.ac.kr
-NOERROR	kslinux.kunsan.ac.kr
-NOERROR	park-com.kunsan.ac.kr
-NOERROR	printer-server.kunsan.ac.kr
-NOERROR	maginot.kunsan.ac.kr
-NOERROR	mmdbexport.kunsan.ac.kr
-NOERROR	mdlab.kunsan.ac.kr
-NOERROR	idp.kunsan.ac.kr
-NOERROR	mech.kunsan.ac.kr
-NOERROR	doc.kunsan.ac.kr
-NOERROR	cros.kunsan.ac.kr
-NOERROR	pro.kunsan.ac.kr
-NOERROR	applibrary.kunsan.ac.kr
-NOERROR	vib.kunsan.ac.kr
-NOERROR	ftp.kunsan.ac.kr
-NOERROR	me.kunsan.ac.kr
-NOERROR	sun.kunsan.ac.kr
-NOERROR	dblab.kunsan.ac.kr
-NOERROR	elin.kunsan.ac.kr
-NOERROR	control15.kunsan.ac.kr
-NOERROR	nms.kunsan.ac.kr
-NOERROR	ceramicart.kunsan.ac.kr
-NOERROR	raic.kunsan.ac.kr
-NOERROR	zeus.kunsan.ac.kr
-NOERROR	snmc.kunsan.ac.kr
-NOERROR	delphi.kunsan.ac.kr
-NOERROR	mtec.kunsan.ac.kr
-NOERROR	granada.kunsan.ac.kr
-NOERROR	dual.kunsan.ac.kr
-NOERROR	bossking.kunsan.ac.kr
-NOERROR	dslab.kunsan.ac.kr
-NOERROR	stranger.kunsan.ac.kr
-NXDOMAIN	mrtg.kunsan.ac.kr
-NOERROR	web.kunsan.ac.kr
-NOERROR	oogisrs.kunsan.ac.kr
-NOERROR	subguide.kunsan.ac.kr
-NOERROR	sigdb.kunsan.ac.kr
-NOERROR	bm.kunsan.ac.kr
-NOERROR	coms.kunsan.ac.kr
-NOERROR	dns.kunsan.ac.kr
-NOERROR	unfusion.kunsan.ac.kr
-NOERROR	bk21plus.kunsan.ac.kr
-NOERROR	java.kunsan.ac.kr
-NOERROR	libproxy.kunsan.ac.kr
-NOERROR	sage.kunsan.ac.kr
-NOERROR	gongjang.kunsan.ac.kr
-NOERROR	control4.kunsan.ac.kr
-NOERROR	iccad.kunsan.ac.kr
-NOERROR	semtle.kunsan.ac.kr
-SERVFAIL	flash.kunsan.ac.kr
-SERVFAIL	sws.kunsan.ac.kr
-NOERROR	arcserve.kunsan.ac.kr
-NOERROR	qos.kunsan.ac.kr
-NOERROR	house.kunsan.ac.kr
-NOERROR	phya.kunsan.ac.kr
-NOERROR	k-ems.kunsan.ac.kr
-NOERROR	lang.kunsan.ac.kr
-NOERROR	webzine.kunsan.ac.kr
-NOERROR	power.kunsan.ac.kr
-NOERROR	bk21peco.kunsan.ac.kr
-NOERROR	push.kunsan.ac.kr
-NOERROR	tongil.kunsan.ac.kr
-NOERROR	vote.kunsan.ac.kr
-NOERROR	fwserver.kunsan.ac.kr
-NOERROR	chonghak.kunsan.ac.kr
-NOERROR	honesty.kunsan.ac.kr
-NOERROR	nastran.kunsan.ac.kr
-NOERROR	blackhole.kunsan.ac.kr
-NOERROR	fishsci.kunsan.ac.kr
-NOERROR	jvm.kunsan.ac.kr
-NOERROR	www.kunsan.ac.kr
-NOERROR	culture.kunsan.ac.kr
-NOERROR	gnc.kunsan.ac.kr
-NOERROR	control3.kunsan.ac.kr
-NOERROR	eng.kunsan.ac.kr
-NOERROR	research.kunsan.ac.kr
-NOERROR	kdrive.kunsan.ac.kr
-NOERROR	incotech.kunsan.ac.kr
-NOERROR	mario.kunsan.ac.kr
-NOERROR	control2.kunsan.ac.kr
-NOERROR	knet.kunsan.ac.kr
-NOERROR	dcl.kunsan.ac.kr
-NOERROR	mmail.kunsan.ac.kr
-NOERROR	tjchung.kunsan.ac.kr
-SERVFAIL	cube.kunsan.ac.kr
-SERVFAIL	powersys.kunsan.ac.kr
-SERVFAIL	coast.kunsan.ac.kr
-SERVFAIL	enterprise.kunsan.ac.kr
-SERVFAIL	pkh.kunsan.ac.kr
-SERVFAIL	owen.kunsan.ac.kr
-SERVFAIL	istlab.kunsan.ac.kr
-SERVFAIL	s.kunsan.ac.kr
-SERVFAIL	blushark.kunsan.ac.kr
-SERVFAIL	mykubs.kunsan.ac.kr
-SERVFAIL	cnlab.kunsan.ac.kr
-NOERROR	iplab.kunsan.ac.kr
-NOERROR	eltron.kunsan.ac.kr
-NOERROR	ncsl.kunsan.ac.kr
-NOERROR	uriduri.kunsan.ac.kr
-NOERROR	gongsil.kunsan.ac.kr
-NOERROR	poll.kunsan.ac.kr
-NOERROR	dormi.kunsan.ac.kr
-NOERROR	conuri.kunsan.ac.kr
-NOERROR	ems.kunsan.ac.kr
-NOERROR	oracle.kunsan.ac.kr
-NOERROR	moon.kunsan.ac.kr
-NOERROR	coe.kunsan.ac.kr
-NOERROR	js.kunsan.ac.kr
-NOERROR	mic.kunsan.ac.kr
-NOERROR	akiles.kunsan.ac.kr
-NOERROR	linux.kunsan.ac.kr
-NOERROR	career.kunsan.ac.kr
-NXDOMAIN	kis.kunsan.ac.kr
-NOERROR	mdyna.kunsan.ac.kr
-NOERROR	lps3.www.sciencedirect.com.libproxy.kunsan.ac.kr
-NOERROR	djeong.kunsan.ac.kr
-NOERROR	opt.kunsan.ac.kr
-NOERROR	wave.kunsan.ac.kr
-NOERROR	mkis.kunsan.ac.kr
-NOERROR	zerone.kunsan.ac.kr
-NOERROR	caserver.kunsan.ac.kr
-NOERROR	thermo2.kunsan.ac.kr
-NOERROR	ciris.kunsan.ac.kr
-NOERROR	stat3.kunsan.ac.kr
-NOERROR	chemistry.kunsan.ac.kr
-NOERROR	mvlab.kunsan.ac.kr
-NXDOMAIN	kihong.kunsan.ac.kr
-NOERROR	smba.kunsan.ac.kr
-NOERROR	dec-00.kunsan.ac.kr
-NOERROR	salt.kunsan.ac.kr
-NOERROR	tms.kunsan.ac.kr
-NOERROR	solid.kunsan.ac.kr
-NOERROR	setur.kunsan.ac.kr
-NOERROR	ubisys.kunsan.ac.kr
-NOERROR	ksroom.kunsan.ac.kr
-NOERROR	speed.kunsan.ac.kr
-NXDOMAIN	baroon.kunsan.ac.kr
-NXDOMAIN	linuxweb.kunsan.ac.kr
-NOERROR	wwlab.kunsan.ac.kr
-NOERROR	rho.kunsan.ac.kr
-NOERROR	cs1.kunsan.ac.kr
-NOERROR	webd.kunsan.ac.kr
-NOERROR	flowkim.kunsan.ac.kr
-NOERROR	cms.kunsan.ac.kr
-NOERROR	structure.kunsan.ac.kr
-NOERROR	art.kunsan.ac.kr
-NOERROR	dhkim.kunsan.ac.kr
-NOERROR	eds.kunsan.ac.kr
-NOERROR	geobk21.kunsan.ac.kr
-NOERROR	ugis.kunsan.ac.kr
-NOERROR	radiocamp.kunsan.ac.kr
-NXDOMAIN	gitcmsb.kunsan.ac.kr
-NOERROR	spam.kunsan.ac.kr
-NOERROR	quad.kunsan.ac.kr
-NOERROR	dragon.kunsan.ac.kr
-NOERROR	erest.kunsan.ac.kr
-NOERROR	dreamteam.kunsan.ac.kr
-NOERROR	jesus.kunsan.ac.kr
-NOERROR	rome.kunsan.ac.kr
-SERVFAIL	jinpo3.kunsan.ac.kr
-SERVFAIL	hp5si.kunsan.ac.kr
-SERVFAIL	dancesports.kunsan.ac.kr
-SERVFAIL	vip.kunsan.ac.kr
-SERVFAIL	tkis.kunsan.ac.kr
-SERVFAIL	manner.kunsan.ac.kr
-SERVFAIL	jjhquad.kunsan.ac.kr
-SERVFAIL	media.kunsan.ac.kr
-SERVFAIL	k-cape.kunsan.ac.kr
-SERVFAIL	asp.kunsan.ac.kr
-SERVFAIL	news.kunsan.ac.kr
-NOERROR	math.kunsan.ac.kr
-NOERROR	seat.kunsan.ac.kr
-NOERROR	jinpo.kunsan.ac.kr
-NOERROR	stat1.kunsan.ac.kr
-NOERROR	pol2.kunsan.ac.kr
-NOERROR	ktc.kunsan.ac.kr
-NOERROR	katic.kunsan.ac.kr
-NOERROR	koras.kunsan.ac.kr
-NOERROR	rt.kunsan.ac.kr
-NOERROR	ams.kunsan.ac.kr
-NOERROR	ee.kunsan.ac.kr
-NOERROR	esoteric.kunsan.ac.kr
-NOERROR	phyb.kunsan.ac.kr
-NOERROR	control14.kunsan.ac.kr
-NOERROR	nmrks.kunsan.ac.kr
-NOERROR	hammer.kunsan.ac.kr
-NOERROR	control.kunsan.ac.kr
-NOERROR	runaway.kunsan.ac.kr
-NOERROR	jaeeun.kunsan.ac.kr
-NOERROR	gitcms.kunsan.ac.kr
-NOERROR	gnclab.kunsan.ac.kr
-NOERROR	viplab.kunsan.ac.kr
-NOERROR	ksso.kunsan.ac.kr
-NOERROR	archi.kunsan.ac.kr
-NOERROR	kos.kunsan.ac.kr
-NXDOMAIN	drone.kunsan.ac.kr
-NOERROR	pine.kunsan.ac.kr
-NOERROR	stat2.kunsan.ac.kr
-NOERROR	shovelswingman.kunsan.ac.kr
-NOERROR	pms.kunsan.ac.kr
-NOERROR	kiss.kunsan.ac.kr
-NOERROR	control10.kunsan.ac.kr
-NOERROR	cosmos.kunsan.ac.kr
-NOERROR	router.kunsan.ac.kr
-NOERROR	freetime.kunsan.ac.kr
-NOERROR	pc.kunsan.ac.kr
-NOERROR	atom.kunsan.ac.kr
-NOERROR	numate.kunsan.ac.kr
-NOERROR	evi.kunsan.ac.kr
-NOERROR	energy.kunsan.ac.kr
-NOERROR	rad1.kunsan.ac.kr
-NOERROR	knumate.kunsan.ac.kr
-NOERROR	mini.kunsan.ac.kr
-NOERROR	msvr.kunsan.ac.kr
-NOERROR	yellow.kunsan.ac.kr
-NOERROR	webhard.kunsan.ac.kr
-NOERROR	heatlab.kunsan.ac.kr
-NOERROR	image.kunsan.ac.kr
-NOERROR	gongdae.kunsan.ac.kr
-NOERROR	kubs.kunsan.ac.kr
-NOERROR	physics.kunsan.ac.kr
-NOERROR	solarview.kunsan.ac.kr
-NOERROR	homepg.kunsan.ac.kr
-NOERROR	hp.kunsan.ac.kr
-SERVFAIL	windows.kunsan.ac.kr
-SERVFAIL	egna.kunsan.ac.kr
-SERVFAIL	rfmw.kunsan.ac.kr
-SERVFAIL	datalab.kunsan.ac.kr
-SERVFAIL	kunsan1-vip.kunsan.ac.kr
-SERVFAIL	dcss.kunsan.ac.kr
-SERVFAIL	gaja.kunsan.ac.kr
-SERVFAIL	pop3.kunsan.ac.kr
-SERVFAIL	sims.kunsan.ac.kr
-SERVFAIL	cktpc.kunsan.ac.kr
-SERVFAIL	san.kunsan.ac.kr
-NOERROR	planteco.kunsan.ac.kr
-NOERROR	churo.kunsan.ac.kr
-NXDOMAIN	bi.kunsan.ac.kr
-NOERROR	sonata.kunsan.ac.kr
-NXDOMAIN	gomju.kunsan.ac.kr
-NOERROR	dscc.kunsan.ac.kr
-NOERROR	stlab.kunsan.ac.kr
-NOERROR	vision.kunsan.ac.kr
-NOERROR	oct.kunsan.ac.kr
-NOERROR	namok.kunsan.ac.kr
-NOERROR	ddoc.kunsan.ac.kr
-NOERROR	apache.kunsan.ac.kr
-NOERROR	macweb.kunsan.ac.kr
-NOERROR	ebook.kunsan.ac.kr
-NOERROR	icee.kunsan.ac.kr
-NOERROR	dsp.kunsan.ac.kr
-NOERROR	ns2.kunsan.ac.kr
-NOERROR	wmt.kunsan.ac.kr
-NOERROR	ufis.kunsan.ac.kr
-NOERROR	infos.kunsan.ac.kr
-NOERROR	jinpo1.kunsan.ac.kr
-NOERROR	yoo.kunsan.ac.kr
-NOERROR	jrrho.kunsan.ac.kr
-NOERROR	control17.kunsan.ac.kr
-NOERROR	osh.kunsan.ac.kr
-NOERROR	ose.kunsan.ac.kr
-NOERROR	campwe.kunsan.ac.kr
-NOERROR	mouse.kunsan.ac.kr
-NOERROR	telecom.kunsan.ac.kr
-NOERROR	ckt.kunsan.ac.kr
-NOERROR	payaccount.kunsan.ac.kr
-NOERROR	apollon.kunsan.ac.kr
-NOERROR	rms.kunsan.ac.kr
-SERVFAIL	imap.kunsan.ac.kr
-SERVFAIL	naoe.kunsan.ac.kr
-SERVFAIL	photomech.kunsan.ac.kr
-SERVFAIL	pansori.kunsan.ac.kr
-SERVFAIL	jinpo2.kunsan.ac.kr
-SERVFAIL	abeek.kunsan.ac.kr
-SERVFAIL	ace2.kunsan.ac.kr
-SERVFAIL	ict.kunsan.ac.kr
-SERVFAIL	fluid.kunsan.ac.kr
-SERVFAIL	calab.kunsan.ac.kr
-NOERROR	stat4.kunsan.ac.kr
-NOERROR	kunsan.ac.kr
-NOERROR	phoenix.kunsan.ac.kr
-NOERROR	dionysos.kunsan.ac.kr
-NOERROR	nuri.kunsan.ac.kr
-NOERROR	dcollection.kunsan.ac.kr
-NOERROR	pp-lab.kunsan.ac.kr
-NOERROR	shkim.kunsan.ac.kr
-NOERROR	eduup.kunsan.ac.kr
-NOERROR	song.kunsan.ac.kr
-NOERROR	w3.kunsan.ac.kr
-NOERROR	hydro.kunsan.ac.kr
-NOERROR	ocean.kunsan.ac.kr
-NOERROR	mbio.kunsan.ac.kr
-NOERROR	e-magsys.kunsan.ac.kr
-NOERROR	itiiy.kunsan.ac.kr
-NOERROR	control1.kunsan.ac.kr
-NOERROR	ccmtp.kunsan.ac.kr
-NOERROR	mysql.kunsan.ac.kr
-NOERROR	ghost.kunsan.ac.kr
-NOERROR	ldap.kunsan.ac.kr
-NOERROR	jasmin.kunsan.ac.kr
-NOERROR	cbox.kunsan.ac.kr
-NOERROR	control12.kunsan.ac.kr
-NOERROR	joker.kunsan.ac.kr
-NOERROR	kuncoop.kunsan.ac.kr
-NOERROR	control16.kunsan.ac.kr
-NOERROR	datacom.kunsan.ac.kr
-NOERROR	blue.kunsan.ac.kr
-NOERROR	love.kunsan.ac.kr
-NOERROR	kcjme.kunsan.ac.kr
-NOERROR	anyhub.kunsan.ac.kr
-NOERROR	nike.kunsan.ac.kr
-SERVFAIL	ai.kunsan.ac.kr
-SERVFAIL	oceanography.kunsan.ac.kr
-SERVFAIL	phado.kunsan.ac.kr
-SERVFAIL	eros.kunsan.ac.kr
-SERVFAIL	smad.kunsan.ac.kr
-SERVFAIL	origin.kunsan.ac.kr
-SERVFAIL	ittc.kunsan.ac.kr
-SERVFAIL	cslab.kunsan.ac.kr
-NOERROR	windenergy.kunsan.ac.kr
-NOERROR	appseat.kunsan.ac.kr
-NOERROR	portal.kunsan.ac.kr
-NOERROR	indy4000.kunsan.ac.kr
-NOERROR	utm.kunsan.ac.kr
-NOERROR	rad2.kunsan.ac.kr
-NOERROR	sns.kunsan.ac.kr
-NXDOMAIN	fund.kunsan.ac.kr
-NOERROR	control6.kunsan.ac.kr
-NOERROR	sis.kunsan.ac.kr
-NOERROR	heracles.kunsan.ac.kr
-NOERROR	youngger.kunsan.ac.kr
-NOERROR	oogis.kunsan.ac.kr
-NOERROR	westpoint.kunsan.ac.kr
-NOERROR	fafd.kunsan.ac.kr
-NOERROR	oceansystem.kunsan.ac.kr
-NOERROR	vod.kunsan.ac.kr
-NOERROR	dgns.kunsan.ac.kr
-NOERROR	bookclub.kunsan.ac.kr
-NOERROR	speech.kunsan.ac.kr
-NOERROR	inter.kunsan.ac.kr
-NOERROR	bak.kunsan.ac.kr
-NOERROR	polnm.kunsan.ac.kr
-NOERROR	chwim.kunsan.ac.kr
-NOERROR	usn.kunsan.ac.kr
-NOERROR	photo.kunsan.ac.kr
-NOERROR	ic.kunsan.ac.kr
-NOERROR	serc2.kunsan.ac.kr
-NOERROR	jasper.kunsan.ac.kr
-NOERROR	vax2.kunsan.ac.kr
-NOERROR	test.kunsan.ac.kr
-NOERROR	network.kunsan.ac.kr
-NOERROR	ship.kunsan.ac.kr
-SERVFAIL	talk.kunsan.ac.kr
-SERVFAIL	ed.kunsan.ac.kr
-SERVFAIL	upes.kunsan.ac.kr
-SERVFAIL	com.kunsan.ac.kr
-SERVFAIL	webcircuit.kunsan.ac.kr
-SERVFAIL	themaster.kunsan.ac.kr
-SERVFAIL	kis2.kunsan.ac.kr
-NOERROR	control7.kunsan.ac.kr
-NOERROR	ace.kunsan.ac.kr
-NOERROR	smer.kunsan.ac.kr
-NOERROR	soclab.kunsan.ac.kr
-NOERROR	sclab.kunsan.ac.kr
-NOERROR	myjob.kunsan.ac.kr
-NOERROR	banff.kunsan.ac.kr
-NOERROR	umul.kunsan.ac.kr
-NOERROR	security.kunsan.ac.kr
-NOERROR	silkroad.kunsan.ac.kr
-NOERROR	gigabyte.kunsan.ac.kr
-NOERROR	nnl.kunsan.ac.kr
-NOERROR	greenday.kunsan.ac.kr
-NOERROR	kunsan2-vip.kunsan.ac.kr
-NOERROR	linchub.kunsan.ac.kr
-NXDOMAIN	multi.kunsan.ac.kr
-NOERROR	smart.kunsan.ac.kr
-NXDOMAIN	top.kunsan.ac.kr
-NOERROR	nmrdata.kunsan.ac.kr
-NOERROR	zacker.kunsan.ac.kr
-NOERROR	mu.kunsan.ac.kr
-NOERROR	robotics.kunsan.ac.kr
-NOERROR	ciele.kunsan.ac.kr
-NOERROR	expert.kunsan.ac.kr
-NOERROR	netf.kunsan.ac.kr
-NOERROR	bird.kunsan.ac.kr
-NOERROR	ubsys.kunsan.ac.kr
-NOERROR	smb.kunsan.ac.kr
-NOERROR	library.kunsan.ac.kr
-NOERROR	robot.kunsan.ac.kr
-NOERROR	block.kunsan.ac.kr
-NOERROR	ist.kunsan.ac.kr
-SERVFAIL	system.kunsan.ac.kr
-SERVFAIL	hyangws.kunsan.ac.kr
-SERVFAIL	mozart.kunsan.ac.kr
-SERVFAIL	xmlab.kunsan.ac.kr
-SERVFAIL	cep.kunsan.ac.kr
-SERVFAIL	nts.kunsan.ac.kr
-SERVFAIL	motci.kunsan.ac.kr
-SERVFAIL	safety.kunsan.ac.kr
-NOERROR	linuxdb.kunsan.ac.kr
-NOERROR	ailab.kunsan.ac.kr
-NOERROR	eunjung.kunsan.ac.kr
-NOERROR	filmlab.kunsan.ac.kr
-NOERROR	radiocom.kunsan.ac.kr
-NOERROR	jijoe.kunsan.ac.kr
-NOERROR	korf.kunsan.ac.kr
-NOERROR	mseat.kunsan.ac.kr
-NOERROR	o2.kunsan.ac.kr
-NOERROR	dilab.kunsan.ac.kr
-NOERROR	best.kunsan.ac.kr
-NOERROR	cilab.kunsan.ac.kr
-NOERROR	pol.kunsan.ac.kr
-NOERROR	uc.kunsan.ac.kr
-NOERROR	mail.kunsan.ac.kr
-NOERROR	iphak.kunsan.ac.kr
-NOERROR	et.kunsan.ac.kr
-NOERROR	fcm2.kunsan.ac.kr
-NXDOMAIN	find.kunsan.ac.kr
-NOERROR	fwdmz.kunsan.ac.kr
-NOERROR	ksherald.kunsan.ac.kr
-NOERROR	idisk.kunsan.ac.kr
-NOERROR	cap.kunsan.ac.kr
-NOERROR	jazzedman.kunsan.ac.kr
-NOERROR	haerim.kunsan.ac.kr
-NOERROR	cybrary.kunsan.ac.kr
-NOERROR	nmrrho.kunsan.ac.kr
-NOERROR	control9.kunsan.ac.kr
-NOERROR	ndlab.kunsan.ac.kr
-NOERROR	linc.kunsan.ac.kr
-NOERROR	serc.kunsan.ac.kr
-NOERROR	pgjmuse.kunsan.ac.kr
-NOERROR	life.kunsan.ac.kr
-SERVFAIL	catia.kunsan.ac.kr
-SERVFAIL	dykim2.kunsan.ac.kr
-SERVFAIL	idc.kunsan.ac.kr
-SERVFAIL	demo.kunsan.ac.kr
-SERVFAIL	control8.kunsan.ac.kr
-SERVFAIL	geoks.kunsan.ac.kr
-SERVFAIL	vibra.kunsan.ac.kr
-SERVFAIL	control0.kunsan.ac.kr
-SERVFAIL	amadeus.kunsan.ac.kr
-SERVFAIL	rainbow.kunsan.ac.kr
-SERVFAIL	cs-pr.kunsan.ac.kr
-NOERROR	eastsun.kunsan.ac.kr
-NOERROR	red.kunsan.ac.kr
-NOERROR	offcontrol.kunsan.ac.kr
-NOERROR	privacy.kunsan.ac.kr
-NOERROR	fcm1.kunsan.ac.kr
-NOERROR	muhan.kunsan.ac.kr
-NOERROR	dock.kunsan.ac.kr
-NOERROR	architecture.kunsan.ac.kr
-NOERROR	ca.kunsan.ac.kr
-NOERROR	php.kunsan.ac.kr
-NOERROR	srlee.kunsan.ac.kr
-NOERROR	pandora.kunsan.ac.kr
-NOERROR	ham.kunsan.ac.kr
-NOERROR	snclab.kunsan.ac.kr
-NOERROR	wheel.kunsan.ac.kr
-NOERROR	apc.kunsan.ac.kr
-NOERROR	ubi-t.kunsan.ac.kr
-NOERROR	xml4u.kunsan.ac.kr
-NOERROR	kang1992.kunsan.ac.kr
-NOERROR	civil.kunsan.ac.kr
-NOERROR	n4.kunsan.ac.kr
-NOERROR	cshp.kunsan.ac.kr
-NOERROR	gifted.kunsan.ac.kr
-NOERROR	kucc-content.kunsan.ac.kr
-NOERROR	geo.kunsan.ac.kr
-NOERROR	eco.kunsan.ac.kr
-NOERROR	nalary.kunsan.ac.kr
-NOERROR	romance.kunsan.ac.kr
-NOERROR	factory.kunsan.ac.kr
-NOERROR	chem.kunsan.ac.kr
-NOERROR	csworkshop.kunsan.ac.kr
-SERVFAIL	mcalab.kunsan.ac.kr
-SERVFAIL	asp2.kunsan.ac.kr
-SERVFAIL	nt.kunsan.ac.kr
-NOERROR	roadkkc.kunsan.ac.kr
-NXDOMAIN	abeek1.kunsan.ac.kr
-NOERROR	emb.kunsan.ac.kr
-NOERROR	ticom.kunsan.ac.kr
-NOERROR	e-class.kunsan.ac.kr
-NOERROR	control5.kunsan.ac.kr
-NOERROR	tiger.kunsan.ac.kr
-NOERROR	deopia.kunsan.ac.kr
-NOERROR	control11.kunsan.ac.kr
-NOERROR	mac.kunsan.ac.kr
-NOERROR	elec.kunsan.ac.kr
-NOERROR	sgis.kunsan.ac.kr
-NOERROR	octane.kunsan.ac.kr
-NOERROR	indy4400.kunsan.ac.kr
-NOERROR	electro.kunsan.ac.kr
-NOERROR	cat.kunsan.ac.kr
-NOERROR	mlibrary.kunsan.ac.kr
-NOERROR	prt-server.kunsan.ac.kr
-NOERROR	time.kunsan.ac.kr
-NOERROR	xml.kunsan.ac.kr
-NOERROR	palpal.kunsan.ac.kr
-NOERROR	ch.kunsan.ac.kr
-NOERROR	mcl.kunsan.ac.kr
-NOERROR	aclab.kunsan.ac.kr
-NOERROR	smtp.kunsan.ac.kr
-NOERROR	unix.kunsan.ac.kr
-NOERROR	vr.kunsan.ac.kr
-NOERROR	infolab.kunsan.ac.kr
-NOERROR	mdisk.kunsan.ac.kr
-NOERROR	oasis.kunsan.ac.kr
-NOERROR	hschoi.kunsan.ac.kr
-NOERROR	stat5.kunsan.ac.kr
-NOERROR	archnet.kunsan.ac.kr
-SERVFAIL	cloud.kunsan.ac.kr
-SERVFAIL	radiostation.kunsan.ac.kr
-SERVFAIL	lg-ibm.kunsan.ac.kr
-SERVFAIL	prince.kunsan.ac.kr
-SERVFAIL	radionet.kunsan.ac.kr
-SERVFAIL	kucc.kunsan.ac.kr
-SERVFAIL	leejs.kunsan.ac.kr
-NOERROR	m.kunsan.ac.kr
-NOERROR	dj.kunsan.ac.kr
-NOERROR	smbis.kunsan.ac.kr
-NOERROR	hlc.kunsan.ac.kr
-NOERROR	pcweb.kunsan.ac.kr
-NOERROR	shelter.kunsan.ac.kr
-NOERROR	edc.kunsan.ac.kr
-NOERROR	eri.kunsan.ac.kr
-NOERROR	fbaa.kunsan.ac.kr
-NOERROR	bk21.kunsan.ac.kr
-NOERROR	cie.kunsan.ac.kr
-NOERROR	eesys.kunsan.ac.kr
-NOERROR	hyang.kunsan.ac.kr
-NOERROR	choyya.kunsan.ac.kr
-NOERROR	fmx.kunsan.ac.kr
-NOERROR	click.kunsan.ac.kr
-NOERROR	ktchung.kunsan.ac.kr
-NOERROR	tidal.kunsan.ac.kr
-NOERROR	vcl.kunsan.ac.kr
-NOERROR	cee.kunsan.ac.kr
-NOERROR	en.kunsan.ac.kr
+vnmrs.kunsan.ac.kr
+thermo1.kunsan.ac.kr
+surface.kunsan.ac.kr
+jhjoo.kunsan.ac.kr
+pol3.kunsan.ac.kr
+artemis.kunsan.ac.kr
+esports.kunsan.ac.kr
+eclass.kunsan.ac.kr
+fantasia.kunsan.ac.kr
+j0404.kunsan.ac.kr
+kslinux.kunsan.ac.kr
+park-com.kunsan.ac.kr
+printer-server.kunsan.ac.kr
+maginot.kunsan.ac.kr
+mmdbexport.kunsan.ac.kr
+mdlab.kunsan.ac.kr
+idp.kunsan.ac.kr
+mech.kunsan.ac.kr
+doc.kunsan.ac.kr
+cros.kunsan.ac.kr
+pro.kunsan.ac.kr
+applibrary.kunsan.ac.kr
+vib.kunsan.ac.kr
+ftp.kunsan.ac.kr
+me.kunsan.ac.kr
+sun.kunsan.ac.kr
+dblab.kunsan.ac.kr
+elin.kunsan.ac.kr
+control15.kunsan.ac.kr
+nms.kunsan.ac.kr
+ceramicart.kunsan.ac.kr
+raic.kunsan.ac.kr
+zeus.kunsan.ac.kr
+snmc.kunsan.ac.kr
+delphi.kunsan.ac.kr
+mtec.kunsan.ac.kr
+granada.kunsan.ac.kr
+dual.kunsan.ac.kr
+bossking.kunsan.ac.kr
+dslab.kunsan.ac.kr
+stranger.kunsan.ac.kr
+web.kunsan.ac.kr
+oogisrs.kunsan.ac.kr
+subguide.kunsan.ac.kr
+sigdb.kunsan.ac.kr
+bm.kunsan.ac.kr
+coms.kunsan.ac.kr
+dns.kunsan.ac.kr
+unfusion.kunsan.ac.kr
+bk21plus.kunsan.ac.kr
+java.kunsan.ac.kr
+libproxy.kunsan.ac.kr
+sage.kunsan.ac.kr
+gongjang.kunsan.ac.kr
+control4.kunsan.ac.kr
+iccad.kunsan.ac.kr
+semtle.kunsan.ac.kr
+arcserve.kunsan.ac.kr
+qos.kunsan.ac.kr
+house.kunsan.ac.kr
+phya.kunsan.ac.kr
+k-ems.kunsan.ac.kr
+lang.kunsan.ac.kr
+webzine.kunsan.ac.kr
+power.kunsan.ac.kr
+bk21peco.kunsan.ac.kr
+push.kunsan.ac.kr
+tongil.kunsan.ac.kr
+vote.kunsan.ac.kr
+fwserver.kunsan.ac.kr
+chonghak.kunsan.ac.kr
+honesty.kunsan.ac.kr
+nastran.kunsan.ac.kr
+blackhole.kunsan.ac.kr
+fishsci.kunsan.ac.kr
+jvm.kunsan.ac.kr
+www.kunsan.ac.kr
+culture.kunsan.ac.kr
+gnc.kunsan.ac.kr
+control3.kunsan.ac.kr
+eng.kunsan.ac.kr
+research.kunsan.ac.kr
+kdrive.kunsan.ac.kr
+incotech.kunsan.ac.kr
+mario.kunsan.ac.kr
+control2.kunsan.ac.kr
+knet.kunsan.ac.kr
+dcl.kunsan.ac.kr
+mmail.kunsan.ac.kr
+tjchung.kunsan.ac.kr
+iplab.kunsan.ac.kr
+eltron.kunsan.ac.kr
+ncsl.kunsan.ac.kr
+uriduri.kunsan.ac.kr
+gongsil.kunsan.ac.kr
+poll.kunsan.ac.kr
+dormi.kunsan.ac.kr
+conuri.kunsan.ac.kr
+ems.kunsan.ac.kr
+oracle.kunsan.ac.kr
+moon.kunsan.ac.kr
+coe.kunsan.ac.kr
+js.kunsan.ac.kr
+mic.kunsan.ac.kr
+akiles.kunsan.ac.kr
+linux.kunsan.ac.kr
+career.kunsan.ac.kr
+mdyna.kunsan.ac.kr
+lps3.www.sciencedirect.com.libproxy.kunsan.ac.kr
+djeong.kunsan.ac.kr
+opt.kunsan.ac.kr
+wave.kunsan.ac.kr
+mkis.kunsan.ac.kr
+zerone.kunsan.ac.kr
+caserver.kunsan.ac.kr
+thermo2.kunsan.ac.kr
+ciris.kunsan.ac.kr
+stat3.kunsan.ac.kr
+chemistry.kunsan.ac.kr
+mvlab.kunsan.ac.kr
+smba.kunsan.ac.kr
+dec-00.kunsan.ac.kr
+salt.kunsan.ac.kr
+tms.kunsan.ac.kr
+solid.kunsan.ac.kr
+setur.kunsan.ac.kr
+ubisys.kunsan.ac.kr
+ksroom.kunsan.ac.kr
+speed.kunsan.ac.kr
+wwlab.kunsan.ac.kr
+rho.kunsan.ac.kr
+cs1.kunsan.ac.kr
+webd.kunsan.ac.kr
+flowkim.kunsan.ac.kr
+cms.kunsan.ac.kr
+structure.kunsan.ac.kr
+art.kunsan.ac.kr
+dhkim.kunsan.ac.kr
+eds.kunsan.ac.kr
+geobk21.kunsan.ac.kr
+ugis.kunsan.ac.kr
+radiocamp.kunsan.ac.kr
+spam.kunsan.ac.kr
+quad.kunsan.ac.kr
+dragon.kunsan.ac.kr
+erest.kunsan.ac.kr
+dreamteam.kunsan.ac.kr
+jesus.kunsan.ac.kr
+rome.kunsan.ac.kr
+math.kunsan.ac.kr
+seat.kunsan.ac.kr
+jinpo.kunsan.ac.kr
+stat1.kunsan.ac.kr
+pol2.kunsan.ac.kr
+ktc.kunsan.ac.kr
+katic.kunsan.ac.kr
+koras.kunsan.ac.kr
+rt.kunsan.ac.kr
+ams.kunsan.ac.kr
+ee.kunsan.ac.kr
+esoteric.kunsan.ac.kr
+phyb.kunsan.ac.kr
+control14.kunsan.ac.kr
+nmrks.kunsan.ac.kr
+hammer.kunsan.ac.kr
+control.kunsan.ac.kr
+runaway.kunsan.ac.kr
+jaeeun.kunsan.ac.kr
+gitcms.kunsan.ac.kr
+gnclab.kunsan.ac.kr
+viplab.kunsan.ac.kr
+ksso.kunsan.ac.kr
+archi.kunsan.ac.kr
+kos.kunsan.ac.kr
+pine.kunsan.ac.kr
+stat2.kunsan.ac.kr
+shovelswingman.kunsan.ac.kr
+pms.kunsan.ac.kr
+kiss.kunsan.ac.kr
+control10.kunsan.ac.kr
+cosmos.kunsan.ac.kr
+router.kunsan.ac.kr
+freetime.kunsan.ac.kr
+pc.kunsan.ac.kr
+atom.kunsan.ac.kr
+numate.kunsan.ac.kr
+evi.kunsan.ac.kr
+energy.kunsan.ac.kr
+rad1.kunsan.ac.kr
+knumate.kunsan.ac.kr
+mini.kunsan.ac.kr
+msvr.kunsan.ac.kr
+yellow.kunsan.ac.kr
+webhard.kunsan.ac.kr
+heatlab.kunsan.ac.kr
+image.kunsan.ac.kr
+gongdae.kunsan.ac.kr
+kubs.kunsan.ac.kr
+physics.kunsan.ac.kr
+solarview.kunsan.ac.kr
+homepg.kunsan.ac.kr
+hp.kunsan.ac.kr
+planteco.kunsan.ac.kr
+churo.kunsan.ac.kr
+sonata.kunsan.ac.kr
+dscc.kunsan.ac.kr
+stlab.kunsan.ac.kr
+vision.kunsan.ac.kr
+oct.kunsan.ac.kr
+namok.kunsan.ac.kr
+ddoc.kunsan.ac.kr
+apache.kunsan.ac.kr
+macweb.kunsan.ac.kr
+ebook.kunsan.ac.kr
+icee.kunsan.ac.kr
+dsp.kunsan.ac.kr
+ns2.kunsan.ac.kr
+wmt.kunsan.ac.kr
+ufis.kunsan.ac.kr
+infos.kunsan.ac.kr
+jinpo1.kunsan.ac.kr
+yoo.kunsan.ac.kr
+jrrho.kunsan.ac.kr
+control17.kunsan.ac.kr
+osh.kunsan.ac.kr
+ose.kunsan.ac.kr
+campwe.kunsan.ac.kr
+mouse.kunsan.ac.kr
+telecom.kunsan.ac.kr
+ckt.kunsan.ac.kr
+payaccount.kunsan.ac.kr
+apollon.kunsan.ac.kr
+rms.kunsan.ac.kr
+stat4.kunsan.ac.kr
+kunsan.ac.kr
+phoenix.kunsan.ac.kr
+dionysos.kunsan.ac.kr
+nuri.kunsan.ac.kr
+dcollection.kunsan.ac.kr
+pp-lab.kunsan.ac.kr
+shkim.kunsan.ac.kr
+eduup.kunsan.ac.kr
+song.kunsan.ac.kr
+w3.kunsan.ac.kr
+hydro.kunsan.ac.kr
+ocean.kunsan.ac.kr
+mbio.kunsan.ac.kr
+e-magsys.kunsan.ac.kr
+itiiy.kunsan.ac.kr
+control1.kunsan.ac.kr
+ccmtp.kunsan.ac.kr
+mysql.kunsan.ac.kr
+ghost.kunsan.ac.kr
+ldap.kunsan.ac.kr
+jasmin.kunsan.ac.kr
+cbox.kunsan.ac.kr
+control12.kunsan.ac.kr
+joker.kunsan.ac.kr
+kuncoop.kunsan.ac.kr
+control16.kunsan.ac.kr
+datacom.kunsan.ac.kr
+blue.kunsan.ac.kr
+love.kunsan.ac.kr
+kcjme.kunsan.ac.kr
+anyhub.kunsan.ac.kr
+nike.kunsan.ac.kr
+windenergy.kunsan.ac.kr
+appseat.kunsan.ac.kr
+portal.kunsan.ac.kr
+indy4000.kunsan.ac.kr
+utm.kunsan.ac.kr
+rad2.kunsan.ac.kr
+sns.kunsan.ac.kr
+control6.kunsan.ac.kr
+sis.kunsan.ac.kr
+heracles.kunsan.ac.kr
+youngger.kunsan.ac.kr
+oogis.kunsan.ac.kr
+westpoint.kunsan.ac.kr
+fafd.kunsan.ac.kr
+oceansystem.kunsan.ac.kr
+vod.kunsan.ac.kr
+dgns.kunsan.ac.kr
+bookclub.kunsan.ac.kr
+speech.kunsan.ac.kr
+inter.kunsan.ac.kr
+bak.kunsan.ac.kr
+polnm.kunsan.ac.kr
+chwim.kunsan.ac.kr
+usn.kunsan.ac.kr
+photo.kunsan.ac.kr
+ic.kunsan.ac.kr
+serc2.kunsan.ac.kr
+jasper.kunsan.ac.kr
+vax2.kunsan.ac.kr
+test.kunsan.ac.kr
+network.kunsan.ac.kr
+ship.kunsan.ac.kr
+control7.kunsan.ac.kr
+ace.kunsan.ac.kr
+smer.kunsan.ac.kr
+soclab.kunsan.ac.kr
+sclab.kunsan.ac.kr
+myjob.kunsan.ac.kr
+banff.kunsan.ac.kr
+umul.kunsan.ac.kr
+security.kunsan.ac.kr
+silkroad.kunsan.ac.kr
+gigabyte.kunsan.ac.kr
+nnl.kunsan.ac.kr
+greenday.kunsan.ac.kr
+kunsan2-vip.kunsan.ac.kr
+linchub.kunsan.ac.kr
+smart.kunsan.ac.kr
+nmrdata.kunsan.ac.kr
+zacker.kunsan.ac.kr
+mu.kunsan.ac.kr
+robotics.kunsan.ac.kr
+ciele.kunsan.ac.kr
+expert.kunsan.ac.kr
+netf.kunsan.ac.kr
+bird.kunsan.ac.kr
+ubsys.kunsan.ac.kr
+smb.kunsan.ac.kr
+library.kunsan.ac.kr
+robot.kunsan.ac.kr
+block.kunsan.ac.kr
+ist.kunsan.ac.kr
+linuxdb.kunsan.ac.kr
+ailab.kunsan.ac.kr
+eunjung.kunsan.ac.kr
+filmlab.kunsan.ac.kr
+radiocom.kunsan.ac.kr
+jijoe.kunsan.ac.kr
+korf.kunsan.ac.kr
+mseat.kunsan.ac.kr
+o2.kunsan.ac.kr
+dilab.kunsan.ac.kr
+best.kunsan.ac.kr
+cilab.kunsan.ac.kr
+pol.kunsan.ac.kr
+uc.kunsan.ac.kr
+mail.kunsan.ac.kr
+iphak.kunsan.ac.kr
+et.kunsan.ac.kr
+fcm2.kunsan.ac.kr
+fwdmz.kunsan.ac.kr
+ksherald.kunsan.ac.kr
+idisk.kunsan.ac.kr
+cap.kunsan.ac.kr
+jazzedman.kunsan.ac.kr
+haerim.kunsan.ac.kr
+cybrary.kunsan.ac.kr
+nmrrho.kunsan.ac.kr
+control9.kunsan.ac.kr
+ndlab.kunsan.ac.kr
+linc.kunsan.ac.kr
+serc.kunsan.ac.kr
+pgjmuse.kunsan.ac.kr
+life.kunsan.ac.kr
+eastsun.kunsan.ac.kr
+red.kunsan.ac.kr
+offcontrol.kunsan.ac.kr
+privacy.kunsan.ac.kr
+fcm1.kunsan.ac.kr
+muhan.kunsan.ac.kr
+dock.kunsan.ac.kr
+architecture.kunsan.ac.kr
+ca.kunsan.ac.kr
+php.kunsan.ac.kr
+srlee.kunsan.ac.kr
+pandora.kunsan.ac.kr
+ham.kunsan.ac.kr
+snclab.kunsan.ac.kr
+wheel.kunsan.ac.kr
+apc.kunsan.ac.kr
+ubi-t.kunsan.ac.kr
+xml4u.kunsan.ac.kr
+kang1992.kunsan.ac.kr
+civil.kunsan.ac.kr
+n4.kunsan.ac.kr
+cshp.kunsan.ac.kr
+gifted.kunsan.ac.kr
+kucc-content.kunsan.ac.kr
+geo.kunsan.ac.kr
+eco.kunsan.ac.kr
+nalary.kunsan.ac.kr
+romance.kunsan.ac.kr
+factory.kunsan.ac.kr
+chem.kunsan.ac.kr
+csworkshop.kunsan.ac.kr
+roadkkc.kunsan.ac.kr
+emb.kunsan.ac.kr
+ticom.kunsan.ac.kr
+e-class.kunsan.ac.kr
+control5.kunsan.ac.kr
+tiger.kunsan.ac.kr
+deopia.kunsan.ac.kr
+control11.kunsan.ac.kr
+mac.kunsan.ac.kr
+elec.kunsan.ac.kr
+sgis.kunsan.ac.kr
+octane.kunsan.ac.kr
+indy4400.kunsan.ac.kr
+electro.kunsan.ac.kr
+cat.kunsan.ac.kr
+mlibrary.kunsan.ac.kr
+prt-server.kunsan.ac.kr
+time.kunsan.ac.kr
+xml.kunsan.ac.kr
+palpal.kunsan.ac.kr
+ch.kunsan.ac.kr
+mcl.kunsan.ac.kr
+aclab.kunsan.ac.kr
+smtp.kunsan.ac.kr
+unix.kunsan.ac.kr
+vr.kunsan.ac.kr
+infolab.kunsan.ac.kr
+mdisk.kunsan.ac.kr
+oasis.kunsan.ac.kr
+hschoi.kunsan.ac.kr
+stat5.kunsan.ac.kr
+archnet.kunsan.ac.kr
+m.kunsan.ac.kr
+dj.kunsan.ac.kr
+smbis.kunsan.ac.kr
+hlc.kunsan.ac.kr
+pcweb.kunsan.ac.kr
+shelter.kunsan.ac.kr
+edc.kunsan.ac.kr
+eri.kunsan.ac.kr
+fbaa.kunsan.ac.kr
+bk21.kunsan.ac.kr
+cie.kunsan.ac.kr
+eesys.kunsan.ac.kr
+hyang.kunsan.ac.kr
+choyya.kunsan.ac.kr
+fmx.kunsan.ac.kr
+click.kunsan.ac.kr
+ktchung.kunsan.ac.kr
+tidal.kunsan.ac.kr
+vcl.kunsan.ac.kr
+cee.kunsan.ac.kr
+en.kunsan.ac.kr

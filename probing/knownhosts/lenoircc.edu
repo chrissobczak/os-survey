@@ -1,96 +1,48 @@
-NXDOMAIN	mail.lenoircc.edu
-NOERROR	text.lenoircc.edu
-NOERROR	forms.lenoircc.edu
-NOERROR	helpdesk.lenoircc.edu
-NXDOMAIN	www.catalog.lenoircc.edu
-NOERROR	api.lenoircc.edu
-NXDOMAIN	www.orientation.lenoircc.edu
-NOERROR	www.lenoircc.edu
-NOERROR	pg-test.lenoircc.edu
-NOERROR	reset.lenoircc.edu
-NXDOMAIN	falink-test.cloud.lenoircc.edu
-NOERROR	conedregistration.lenoircc.edu
-NOERROR	makeupplan.lenoircc.edu
-NOERROR	portal.lenoircc.edu
-NOERROR	lenoircc.edu
-NOERROR	ss.lenoircc.edu
-NXDOMAIN	ss-prod.cloud.lenoircc.edu
-NOERROR	www4.lenoircc.edu
-NXDOMAIN	mobile-prod.cloud.lenoircc.edu
-NXDOMAIN	ss-test.cloud.lenoircc.edu
-NXDOMAIN	ui-prod.cloud.lenoircc.edu
-NOERROR	jobs.lenoircc.edu
-NOERROR	activate.lenoircc.edu
-NOERROR	bookstore.lenoircc.edu
-NXDOMAIN	datatel.lenoircc.edu
-NOERROR	lccma.lenoircc.edu
-NOERROR	disted.lenoircc.edu
-NOERROR	nelnet.lenoircc.edu
-NXDOMAIN	interdns1.cloud.lenoircc.edu
-NXDOMAIN	etrans-test.cloud.lenoircc.edu
-NOERROR	heritage.lenoircc.edu
-NOERROR	login.lenoircc.edu
-NXDOMAIN	fs.lenoircc.edu
-NXDOMAIN	mobile-test.cloud.lenoircc.edu
-NXDOMAIN	webapi-test.cloud.lenoircc.edu
-NOERROR	email.lenoircc.edu
-NOERROR	sharepoint.lenoircc.edu
-NXDOMAIN	etrans-prod.cloud.lenoircc.edu
-NOERROR	wbltimesheets.lenoircc.edu
-NOERROR	mis.lenoircc.edu
-NXDOMAIN	www.artemis.lenoircc.edu
-NXDOMAIN	www.rave.ad1.lenoircc.edu
-NOERROR	ui.lenoircc.edu
-NXDOMAIN	webmail.lenoircc.edu
-NXDOMAIN	tutortrac.lenoircc.edu
-NXDOMAIN	www.bb.lenoircc.edu
-NOERROR	forms2.lenoircc.edu
-NXDOMAIN	webadv-test.cloud.lenoircc.edu
-NOERROR	autodiscover.lenoircc.edu
-NOERROR	falink.lenoircc.edu
-NXDOMAIN	aws-dc1.ad1.lenoircc.edu
-NOERROR	wa.lenoircc.edu
-NXDOMAIN	pg-test.cloud.lenoircc.edu
-NOERROR	de.lenoircc.edu
-NOERROR	pg.lenoircc.edu
-NOERROR	m.catalog.lenoircc.edu
-NXDOMAIN	libguides.lenoircc.edu
-NXDOMAIN	ms1.lenoircc.edu
-NXDOMAIN	www.wa.lenoircc.edu
-NOERROR	webattendance.lenoircc.edu
-NXDOMAIN	colleague.cloud.lenoircc.edu
-NOERROR	my.lenoircc.edu
-NXDOMAIN	vdi.lenoircc.edu
-NOERROR	catalog.lenoircc.edu
-NOERROR	lcc-dns.lenoircc.edu
-NXDOMAIN	falink-prod.cloud.lenoircc.edu
-NOERROR	artemis.lenoircc.edu
-NXDOMAIN	ui43.lenoircc.edu
-NXDOMAIN	sun2.lenoircc.edu
-NXDOMAIN	www.portal.lenoircc.edu
-NXDOMAIN	distance.lenoircc.edu
-NXDOMAIN	webapi-prod.cloud.lenoircc.edu
-NXDOMAIN	aerospace.lenoircc.edu
-NOERROR	support.lenoircc.edu
-NXDOMAIN	informer.cloud.lenoircc.edu
-NXDOMAIN	webadv-prod.cloud.lenoircc.edu
-NOERROR	orientation.lenoircc.edu
-NXDOMAIN	extdns1.cloud.lenoircc.edu
-NOERROR	docs.lenoircc.edu
-NXDOMAIN	webui.lenoircc.edu
-NOERROR	sso.lenoircc.edu
-NXDOMAIN	ui-test.cloud.lenoircc.edu
-NOERROR	www3.lenoircc.edu
-NXDOMAIN	interdns2.cloud.lenoircc.edu
-NOERROR	ad1.lenoircc.edu
-NOERROR	www2.lenoircc.edu
-NXDOMAIN	ss.cloud.lenoircc.edu
-NOERROR	ss-test.lenoircc.edu
-NXDOMAIN	ui43-dev.lenoircc.edu
-NXDOMAIN	webapi2-test.cloud.lenoircc.edu
-NOERROR	rave.ad1.lenoircc.edu
-NOERROR	tutoring.lenoircc.edu
-NXDOMAIN	pg-prod.cloud.lenoircc.edu
-NXDOMAIN	spol.lenoircc.edu
-NXDOMAIN	webapi2-prod.cloud.lenoircc.edu
-NXDOMAIN	mylcc.lenoircc.edu
+text.lenoircc.edu
+forms.lenoircc.edu
+helpdesk.lenoircc.edu
+api.lenoircc.edu
+www.lenoircc.edu
+pg-test.lenoircc.edu
+reset.lenoircc.edu
+conedregistration.lenoircc.edu
+makeupplan.lenoircc.edu
+portal.lenoircc.edu
+lenoircc.edu
+ss.lenoircc.edu
+www4.lenoircc.edu
+jobs.lenoircc.edu
+activate.lenoircc.edu
+bookstore.lenoircc.edu
+lccma.lenoircc.edu
+disted.lenoircc.edu
+nelnet.lenoircc.edu
+heritage.lenoircc.edu
+login.lenoircc.edu
+email.lenoircc.edu
+sharepoint.lenoircc.edu
+wbltimesheets.lenoircc.edu
+mis.lenoircc.edu
+ui.lenoircc.edu
+forms2.lenoircc.edu
+autodiscover.lenoircc.edu
+falink.lenoircc.edu
+wa.lenoircc.edu
+de.lenoircc.edu
+pg.lenoircc.edu
+m.catalog.lenoircc.edu
+webattendance.lenoircc.edu
+my.lenoircc.edu
+catalog.lenoircc.edu
+lcc-dns.lenoircc.edu
+artemis.lenoircc.edu
+support.lenoircc.edu
+orientation.lenoircc.edu
+docs.lenoircc.edu
+sso.lenoircc.edu
+www3.lenoircc.edu
+ad1.lenoircc.edu
+www2.lenoircc.edu
+ss-test.lenoircc.edu
+rave.ad1.lenoircc.edu
+tutoring.lenoircc.edu

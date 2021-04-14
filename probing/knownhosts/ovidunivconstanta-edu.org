@@ -1,3 +1,1 @@
-NXDOMAIN	ww1.ovidunivconstanta-edu.org
-NOERROR	ovidunivconstanta-edu.org
-NXDOMAIN	www.ovidunivconstanta-edu.org
+ovidunivconstanta-edu.org

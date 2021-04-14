@@ -1,1192 +1,800 @@
-NOERROR	fwvpn.sun.ac.za
-NOERROR	studentftp.stb.sun.ac.za
-NOERROR	enterpriseregistration.sun.ac.za
-NXDOMAIN	moodle.sun.ac.za
-NXDOMAIN	www.learndev.sun.ac.za
-NXDOMAIN	www.services.belpark.sun.ac.za
-NOERROR	bpcsp2016wfe01.belpark.sun.ac.za
-NOERROR	stbowa.sun.ac.za
-NXDOMAIN	okd4-compute-3-idrac.sun.ac.za
-NOERROR	ewseta.sun.ac.za
-NXDOMAIN	sunnms.sun.ac.za
-NOERROR	eng.sun.ac.za
-NOERROR	bpcmdldev.belpark.sun.ac.za
-NXDOMAIN	www.businessfuturessa.ifr.sun.ac.za
-NOERROR	clblade-8-flute.cs.sun.ac.za
-NXDOMAIN	surveys.sun.ac.za
-NOERROR	bibj-ec-marlin.stb.sun.ac.za
-NOERROR	bladevm3.cs.sun.ac.za
-NOERROR	the-kraken.cs.sun.ac.za
-NOERROR	ubuntu.sun.ac.za
-NOERROR	mikro415992.mikro.sun.ac.za
-NXDOMAIN	www.stb-macsrv3.stb.sun.ac.za
-NXDOMAIN	it-digitalsignage.stb.sun.ac.za
-NOERROR	sun026.sun.ac.za
-NOERROR	bladevm4-bmc.cs.sun.ac.za
-NOERROR	mail3.sun.ac.za
-NOERROR	iheat.stb.sun.ac.za
-NOERROR	bpcmoodle.belpark.sun.ac.za
-NXDOMAIN	let-v-sf01.rga.stb.sun.ac.za
-NXDOMAIN	stbadobertmps01.stb.sun.ac.za
-NOERROR	discoverer.sun.ac.za
-NOERROR	bpcspwfe02.belpark.sun.ac.za
-NOERROR	www.kortkursusse.sun.ac.za
-NXDOMAIN	www.webapps.belpark.sun.ac.za
-NOERROR	gerga-camserv.rga.stb.sun.ac.za
-NOERROR	stbcitrix.sun.ac.za
-NOERROR	sunadcip.sun.ac.za
-NOERROR	weather.sun.ac.za
-NOERROR	wiki.lib.sun.ac.za
-NOERROR	bladevm8-bmc.cs.sun.ac.za
-NXDOMAIN	studentsdev.sun.ac.za
-NXDOMAIN	www.eduroam0.sun.ac.za
-NOERROR	learndb02.sun.ac.za
-NOERROR	sso-prod.sun.ac.za
-NOERROR	crest2.sun.ac.za
-NOERROR	ldap.sun.ac.za
-NOERROR	kubem.sun.ac.za
-NOERROR	www.ie.sun.ac.za
-NOERROR	suvpnmsp.sun.ac.za
-NXDOMAIN	www.web-apps-test.sun.ac.za
-NXDOMAIN	sysadm@dsp.sun.ac.za
-NOERROR	physics.sun.ac.za
-NOERROR	admin.sun.ac.za
-NOERROR	coblc2.sun.ac.za
-NXDOMAIN	dttchome.sun.ac.za
-NOERROR	nbn-gateway.sun.ac.za
-NOERROR	uctesperra01.stb.sun.ac.za
-NOERROR	streamdev01.sun.ac.za
-NXDOMAIN	new-usb.belpark.sun.ac.za
-NOERROR	forest.sun.ac.za
-NOERROR	ml.sun.ac.za
-NXDOMAIN	sunldap03.sun.ac.za
-NOERROR	m.sun.ac.za
-NOERROR	bibsccmpr01.stb.sun.ac.za
-NOERROR	clblade-10.cs.sun.ac.za
-NOERROR	suncep.sun.ac.za
-NOERROR	eedsmjoule.sun.ac.za
-NOERROR	login.sun.ac.za
-NOERROR	lyncdir.sun.ac.za
-NOERROR	groundstation.esl.sun.ac.za
-NXDOMAIN	www.schools.sun.ac.za
-NOERROR	bib-s-hv01.rga.stb.sun.ac.za
-NOERROR	autodiscover.sun.ac.za
-NXDOMAIN	www.ata.sun.ac.za
-NOERROR	mail.prg.sun.ac.za
-NOERROR	s11311681.sun.ac.za
-NOERROR	ee.sun.ac.za
-NXDOMAIN	www.stboscapp.sun.ac.za
-NOERROR	clblade-9-brett.cs.sun.ac.za
-NXDOMAIN	www.studentfeedback.sun.ac.za
-NXDOMAIN	lyncadmin.stb.sun.ac.za
-NXDOMAIN	www.students.sun.ac.za
-NXDOMAIN	www.onlinetest.sun.ac.za
-NOERROR	rw746.cs.sun.ac.za
-NXDOMAIN	bpcadfs01.belpark.sun.ac.za
-NOERROR	sage-ereference.com.ez.sun.ac.za
-NOERROR	bpm.sun.ac.za
-NOERROR	usbcontenthub.belpark.sun.ac.za
-NOERROR	bibi-arielpc.stb.sun.ac.za
-NXDOMAIN	wstdevcluster.sun.ac.za
-NOERROR	stay.sun.ac.za
-NOERROR	vpn.sun.ac.za
-NXDOMAIN	sunldap01.sun.ac.za
-NOERROR	devopps02.sun.ac.za
-NOERROR	lyncaccess.sun.ac.za
-NOERROR	servicedeskplus.belpark.sun.ac.za
-NOERROR	surveystest.stb.sun.ac.za
-NOERROR	redcap.sun.ac.za
-NXDOMAIN	lyncfe04.stb.sun.ac.za
-NXDOMAIN	stbidu01.stb.sun.ac.za
-NOERROR	bpcmdltst.belpark.sun.ac.za
-NOERROR	did01.sun.ac.za
-NXDOMAIN	bpcnps01.belpark.sun.ac.za
-NOERROR	stellenbosch.sun.ac.za
-NOERROR	bladevm15.cs.sun.ac.za
-NXDOMAIN	prod-midtier.sun.ac.za
-NXDOMAIN	www.events.ifr.sun.ac.za
-NOERROR	sun-e-hr.sun.ac.za
-NOERROR	sungis02.sun.ac.za
-NOERROR	cob-pos-trn.sun.ac.za
-NOERROR	lists.lib.sun.ac.za
-NOERROR	learndev.sun.ac.za
-NXDOMAIN	actsdev01.stb.sun.ac.za
-NXDOMAIN	www.stb-macsrv4.stb.sun.ac.za
-NOERROR	lyncweb.sun.ac.za
-NOERROR	moleculesrus.sun.ac.za
-NOERROR	itservicedesk.sun.ac.za
-NXDOMAIN	stbsplus-f5.sun.ac.za
-NOERROR	login.ez.sun.ac.za
-NOERROR	stboos.sun.ac.za
-NOERROR	www.uptodate.com.ez.sun.ac.za
-NOERROR	clblade-10-0.cs.sun.ac.za
-NOERROR	clblade-6-0.cs.sun.ac.za
-NOERROR	dip.sun.ac.za
-NOERROR	rgaftp.sun.ac.za
-NXDOMAIN	www.galaxy-new.sun.ac.za
-NOERROR	lvzijl.cs.sun.ac.za
-NOERROR	meet.belpark.sun.ac.za
-NOERROR	akadwebftp.sun.ac.za
-NOERROR	matiesapp-dev.sun.ac.za
-NXDOMAIN	www.galaxy1.sun.ac.za
-NOERROR	protea.sun.ac.za
-NOERROR	arua.sun.ac.za
-NOERROR	terrahertz-share.sun.ac.za
-NOERROR	rw711.cs.sun.ac.za
-NXDOMAIN	www.dev-doclib.belpark.sun.ac.za
-NOERROR	yourls.sun.ac.za
-NXDOMAIN	www.crmdoclib.belpark.sun.ac.za
-NXDOMAIN	www.prod-midtier.sun.ac.za
-NXDOMAIN	www.stbsplus-f5-new.sun.ac.za
-NOERROR	web-apps.sun.ac.za
-NOERROR	met-sms-ingang.sun.ac.za
-NXDOMAIN	autodiscover.sopmp.sun.ac.za
-NXDOMAIN	www.castest.sun.ac.za
-NOERROR	stbsplus.stb.sun.ac.za
-NXDOMAIN	logserver01-idrac.sun.ac.za
-NXDOMAIN	www.crmqa365.belpark.sun.ac.za
-NXDOMAIN	remotedev.sun.ac.za
-NOERROR	it444464.stb.sun.ac.za
-NOERROR	sarcpl.sun.ac.za
-NOERROR	bpcweb06.belpark.sun.ac.za
-NXDOMAIN	stbaonvpn03.stb.sun.ac.za
-NOERROR	stbeskertest01.stb.sun.ac.za
-NOERROR	sciencemag.org.ez.sun.ac.za
-NXDOMAIN	bibj-ec-447347.rga.stb.sun.ac.za
-NOERROR	lyncedge.sun.ac.za
-NOERROR	stb-v-ac01-publisher.sun.ac.za
-NOERROR	willows.sun.ac.za
-NOERROR	suvpnweb.sun.ac.za
-NOERROR	clblade-7.cs.sun.ac.za
-NOERROR	elibrary.worldbank.org.ez.sun.ac.za
-NOERROR	surmepi-p2.tyg.sun.ac.za
-NXDOMAIN	www.nat-v-vcenter01.rga.stb.sun.ac.za
-NOERROR	fwdauth.cs.sun.ac.za
-NOERROR	gerga-ovd-esg1.sun.ac.za
-NOERROR	hpc4.sun.ac.za
-NOERROR	ops.sun.ac.za
-NOERROR	pageslab.cs.sun.ac.za
-NOERROR	clblade-4.cs.sun.ac.za
-NOERROR	connectpublisher.sun.ac.za
-NXDOMAIN	acsr.sun.ac.za
-NOERROR	stbad01.stb.sun.ac.za
-NOERROR	bladevm13.cs.sun.ac.za
-NXDOMAIN	fms.sun.ac.za
-NOERROR	adfsproxy02.sun.ac.za
-NOERROR	services.belpark.sun.ac.za
-NOERROR	xum01.stb.sun.ac.za
-NXDOMAIN	www.fmswebdev.sun.ac.za
-NOERROR	minio.cs.sun.ac.za
-NOERROR	tygripe.sun.ac.za
-NXDOMAIN	www.dev-membrane.sun.ac.za
-NOERROR	tygwsus01.tyg.sun.ac.za
-NXDOMAIN	legacy.webmail.sun.ac.za
-NOERROR	webmail1.sun.ac.za
-NOERROR	mml.sun.ac.za
-NOERROR	gergahpdm.rga.stb.sun.ac.za
-NOERROR	serviceproxy.sun.ac.za
-NXDOMAIN	www.minio.cs.sun.ac.za
-NOERROR	credoreference.com.ez.sun.ac.za
-NOERROR	stbweb01.stb.sun.ac.za
-NXDOMAIN	lyncpoolstb.stb.sun.ac.za
-NXDOMAIN	biosm.stb.sun.ac.za
-NOERROR	solar.esl.sun.ac.za
-NOERROR	tyg422307.stb.sun.ac.za
-NXDOMAIN	stbaonvpn01.stb.sun.ac.za
-NXDOMAIN	galaxy-new.sun.ac.za
-NOERROR	sicmf.sun.ac.za
-NXDOMAIN	www.shl.belpark.sun.ac.za
-NOERROR	spwfe02.stb.sun.ac.za
-NOERROR	academicftp.sun.ac.za
-NOERROR	gitauth.cs.sun.ac.za
-NOERROR	cs778.cs.sun.ac.za
-NXDOMAIN	onlinetest.sun.ac.za
-NOERROR	labs.stb.sun.ac.za
-NXDOMAIN	stbadobertmps02.stb.sun.ac.za
-NOERROR	rw114.cs.sun.ac.za
-NOERROR	kortkursusse.sun.ac.za
-NOERROR	cs712.cs.sun.ac.za
-NOERROR	sungis08.stb.sun.ac.za
-NOERROR	energy.sun.ac.za
-NOERROR	bpcrs02.belpark.sun.ac.za
-NXDOMAIN	rga-hwac01.rga.stb.sun.ac.za
-NOERROR	rw778.cs.sun.ac.za
-NOERROR	gitolite.cs.sun.ac.za
-NOERROR	ir.sun.ac.za
-NOERROR	storage.sun.ac.za
-NOERROR	businessfuturesafrica.ifr.sun.ac.za
-NOERROR	bladevm5.cs.sun.ac.za
-NXDOMAIN	www.apex.sun.ac.za
-NOERROR	search-proquest-com.ez.sun.ac.za
-NOERROR	legacy1.sun.ac.za
-NOERROR	cs741.cs.sun.ac.za
-NXDOMAIN	casdev.sun.ac.za
-NXDOMAIN	www.bpcadfs01.belpark.sun.ac.za
-NXDOMAIN	www.graylog-dev.sun.ac.za
-NOERROR	adminftp.stb.sun.ac.za
-NXDOMAIN	www.bpccitrix.sun.ac.za
-NOERROR	go.galegroup.com.ez.sun.ac.za
-NXDOMAIN	graylog-dev.sun.ac.za
-NOERROR	auth.cs.sun.ac.za
-NOERROR	srmo.sagepub.com.ez.sun.ac.za
-NOERROR	etd.sun.ac.za
-NXDOMAIN	navadm.sun.ac.za
-NOERROR	prometheus.proj.cs.sun.ac.za
-NOERROR	star.sun.ac.za
-NOERROR	chat.cs.sun.ac.za
-NXDOMAIN	nat-v-vcenter01.rga.stb.sun.ac.za
-NOERROR	cs742.cs.sun.ac.za
-NOERROR	clickit.belpark.sun.ac.za
-NOERROR	mail2.sun.ac.za
-NXDOMAIN	www.stbcrmdev.sun.ac.za
-NOERROR	cs354.cs.sun.ac.za
-NXDOMAIN	www.bpcrs02.belpark.sun.ac.za
-NOERROR	bladevm6-bmc.cs.sun.ac.za
-NOERROR	eng-postgrad.sun.ac.za
-NXDOMAIN	dev.sun.ac.za
-NOERROR	drop.sun.ac.za
-NOERROR	web-apps-test.sun.ac.za
-NOERROR	spl.sun.ac.za
-NOERROR	lews-bpc.belpark.sun.ac.za
-NXDOMAIN	splustesting.stb.sun.ac.za
-NOERROR	libanswers.sun.ac.za
-NOERROR	schoolsdev.sun.ac.za
-NXDOMAIN	www.journals3.bib.sun.ac.za
-NOERROR	sip.belpark.sun.ac.za
-NXDOMAIN	logsdash.sun.ac.za
-NXDOMAIN	www.smtp.sun.ac.za
-NOERROR	succeed.sun.ac.za
-NOERROR	www.lib.sun.ac.za
-NOERROR	online.belpark.sun.ac.za
-NOERROR	hpmms.stb.sun.ac.za
-NOERROR	hronlinetraining.sun.ac.za
-NXDOMAIN	legacy.ma2.sun.ac.za
-NXDOMAIN	www.stbidu01.stb.sun.ac.za
-NOERROR	clblade-1.cs.sun.ac.za
-NOERROR	www.trac.sun.ac.za
-NXDOMAIN	www.list.sun.ac.za
-NOERROR	oxforddnb.com.ez.sun.ac.za
-NXDOMAIN	www.splustesting.stb.sun.ac.za
-NXDOMAIN	stbxrsdev.stb.sun.ac.za
-NOERROR	sterg.sun.ac.za
-NOERROR	clblade-2.cs.sun.ac.za
-NOERROR	gnas4b.rga.stb.sun.ac.za
-NOERROR	sun-e-hr-bi.sun.ac.za
-NOERROR	eduroam0.sun.ac.za
-NOERROR	bladevm1-bmc.cs.sun.ac.za
-NOERROR	suntmr01.sun.ac.za
-NOERROR	dev-osb.sun.ac.za
-NOERROR	mecheng.sun.ac.za
-NOERROR	midtier.sun.ac.za
-NOERROR	www.ee.sun.ac.za
-NOERROR	logserver.sun.ac.za
-NXDOMAIN	www.conferences.sun.ac.za
-NXDOMAIN	lyncpers01.stb.sun.ac.za
-NXDOMAIN	www.macreg.sun.ac.za
-NOERROR	video.sun.ac.za
-NOERROR	amethyst-server.sun.ac.za
-NXDOMAIN	www.casdev.sun.ac.za
-NOERROR	bladevm20.cs.sun.ac.za
-NOERROR	crses.sun.ac.za
-NOERROR	mail2007.prg.sun.ac.za
-NXDOMAIN	www.usbcontenthub.belpark.sun.ac.za
-NOERROR	galeradash.sun.ac.za
-NXDOMAIN	bpcsfb02.belpark.sun.ac.za
-NOERROR	firga.sun.ac.za
-NOERROR	rw344.cs.sun.ac.za
-NOERROR	cs748.cs.sun.ac.za
-NXDOMAIN	www.phambiliqa.sun.ac.za
-NOERROR	adobeconnect.sun.ac.za
-NOERROR	www.eng.sun.ac.za
-NOERROR	shortcourses.sun.ac.za
-NXDOMAIN	www.sacemadev.sun.ac.za
-NOERROR	primafamed.sun.ac.za
-NXDOMAIN	www.intranet.belpark.sun.ac.za
-NOERROR	bibj-pc-430377.stb.sun.ac.za
-NOERROR	pubs3.acs.org.ez.sun.ac.za
-NOERROR	tech21.sun.ac.za
-NOERROR	stbagismap01.sun.ac.za
-NXDOMAIN	rtaddev.sun.ac.za
-NOERROR	cs364.cs.sun.ac.za
-NOERROR	webstudies2.sun.ac.za
-NXDOMAIN	www.blogsdev.sun.ac.za
-NOERROR	db.crest.sun.ac.za
-NOERROR	fmhspod.sun.ac.za
-NOERROR	insight.sun.ac.za
-NOERROR	dev-midtier.sun.ac.za
-NXDOMAIN	connect.sun.ac.za
-NOERROR	servicedesk.sun.ac.za
-NOERROR	stbspp01.stb.sun.ac.za
-NXDOMAIN	www.rga-hwac01.rga.stb.sun.ac.za
-NXDOMAIN	www.okd4-compute-3-idrac.sun.ac.za
-NOERROR	agric.sun.ac.za
-NOERROR	rga.sun.ac.za
-NOERROR	test-osb.sun.ac.za
-NOERROR	ibe.sun.ac.za
-NXDOMAIN	exilog.sun.ac.za
-NOERROR	adm443784.sun.ac.za
-NXDOMAIN	sunvs2.sun.ac.za
-NXDOMAIN	www.esat.sun.ac.za
-NXDOMAIN	www.fmswebtest.sun.ac.za
-NOERROR	hsstel.sun.ac.za
-NXDOMAIN	www.studentsdev.sun.ac.za
-NOERROR	giscsat.sun.ac.za
-NXDOMAIN	ome.sun.ac.za
-NXDOMAIN	www.api.k8s.sun.ac.za
-NOERROR	dash.sun.ac.za
-NOERROR	support.stb.sun.ac.za
-NXDOMAIN	www.clickit.belpark.sun.ac.za
-NOERROR	spfrecords.sun.ac.za
-NOERROR	urispam.sun.ac.za
-NXDOMAIN	www.serviceproxy-test.sun.ac.za
-NOERROR	library.sun.ac.za
-NOERROR	algos.cs.sun.ac.za
-NXDOMAIN	stboscapp.sun.ac.za
-NOERROR	bladevm4.cs.sun.ac.za
-NXDOMAIN	rtad.sun.ac.za
-NOERROR	sd02.sun.ac.za
-NOERROR	hermes.mb.sun.ac.za
-NOERROR	gitlab.cs.sun.ac.za
-NOERROR	solys2.meg.sun.ac.za
-NOERROR	bibg-pc-440446.stb.sun.ac.za
-NXDOMAIN	www.bpclogin.belpark.sun.ac.za
-NOERROR	staff.ee.sun.ac.za
-NOERROR	apps.sun.ac.za
-NOERROR	meet.sun.ac.za
-NOERROR	bladevm12.cs.sun.ac.za
-NXDOMAIN	ojs.belpark.sun.ac.za
-NOERROR	blogs.sun.ac.za
-NXDOMAIN	www.aoi.sun.ac.za
-NOERROR	let-v-act01.rga.stb.sun.ac.za
-NXDOMAIN	lyncfe03.stb.sun.ac.za
-NOERROR	stbmail.stb.sun.ac.za
-NOERROR	adv-aut.cs.sun.ac.za
-NXDOMAIN	www.alp.lib.sun.ac.za
-NOERROR	it434127.stb.sun.ac.za
-NOERROR	eagle01.sun.ac.za
-NXDOMAIN	www.servicebus.belpark.sun.ac.za
-NXDOMAIN	webstudies.sun.ac.za
-NOERROR	lawtrust.sun.ac.za
-NOERROR	library.stb.sun.ac.za
-NOERROR	catalogue.belpark.sun.ac.za
-NOERROR	bladevm3-bmc.cs.sun.ac.za
-NOERROR	libguides.sun.ac.za
-NXDOMAIN	adfsproxy01.sun.ac.za
-NOERROR	www.ibe.sun.ac.za
-NXDOMAIN	autodiscover.spl.sun.ac.za
-NXDOMAIN	stb-v-snc02.rga.stb.sun.ac.za
-NOERROR	bpcwordpress06.belpark.sun.ac.za
-NOERROR	gergapivotman06.gerga.sun.ac.za
-NXDOMAIN	crmdev365.belpark.sun.ac.za
-NOERROR	bibit-pc-423380.stb.sun.ac.za
-NOERROR	stbweb01.sun.ac.za
-NOERROR	crm.belpark.sun.ac.za
-NOERROR	bladevm8.cs.sun.ac.za
-NXDOMAIN	autodiscover.ma2.sun.ac.za
-NXDOMAIN	www.bpcweb16.belpark.sun.ac.za
-NOERROR	bpcnetapp02.belpark.sun.ac.za
-NOERROR	bpcweb00.belpark.sun.ac.za
-NXDOMAIN	www.dev-midtier.sun.ac.za
-NXDOMAIN	h-v-vmwvc01.rga.stb.sun.ac.za
-NXDOMAIN	secure.sun.ac.za
-NOERROR	webapps.belpark.sun.ac.za
-NOERROR	mfmstream.sun.ac.za
-NOERROR	connectauthor.sun.ac.za
-NOERROR	webstats.sun.ac.za
-NXDOMAIN	www.sufmprod.sun.ac.za
-NXDOMAIN	www.mml.sun.ac.za
-NOERROR	www.chemeng.sun.ac.za
-NOERROR	suvpnadmin.sun.ac.za
-NOERROR	dttc-popart-web.sun.ac.za
-NOERROR	cs113.cs.sun.ac.za
-NOERROR	wsus.sun.ac.za
-NOERROR	ftp.sun.ac.za
-NOERROR	jjj.biochem.sun.ac.za
-NOERROR	infoteg.sun.ac.za
-NXDOMAIN	ir1.sun.ac.za
-NOERROR	trac.sun.ac.za
-NOERROR	publications.crest.sun.ac.za
-NOERROR	bladevm11.cs.sun.ac.za
-NOERROR	clblade-6.cs.sun.ac.za
-NXDOMAIN	www.eduroam1.sun.ac.za
-NOERROR	cs344.cs.sun.ac.za
-NXDOMAIN	www.mdm.sun.ac.za
-NOERROR	academic.sun.ac.za
-NOERROR	clblade-8-0.cs.sun.ac.za
-NOERROR	suvpn.sun.ac.za
-NOERROR	did.sun.ac.za
-NOERROR	my.sun.ac.za
-NXDOMAIN	bestuur.sun.ac.za
-NOERROR	bpcmail00.belpark.sun.ac.za
-NOERROR	bpcsd01.belpark.sun.ac.za
-NOERROR	data.dttc.sun.ac.za
-NOERROR	lyncdiscover.belpark.sun.ac.za
-NOERROR	research.ee.sun.ac.za
-NXDOMAIN	www.discoverer.sun.ac.za
-NOERROR	bibj-of-430351.rga.stb.sun.ac.za
-NXDOMAIN	www.electives.belpark.sun.ac.za
-NOERROR	conferences.sun.ac.za
-NXDOMAIN	www.schoolsdev.sun.ac.za
-NXDOMAIN	mobile.sun.ac.za
-NXDOMAIN	www.did.sun.ac.za
-NOERROR	gergaveeam.rga.stb.sun.ac.za
-NOERROR	gergapivotvh05.rga.stb.sun.ac.za
-NXDOMAIN	tygad01.tyg.sun.ac.za
-NXDOMAIN	www.cdn.sun.ac.za
-NOERROR	komdiens422085.stb.sun.ac.za
-NXDOMAIN	fmsweb.sun.ac.za
-NOERROR	bbprodcluster.sun.ac.za
-NOERROR	lyncedge02.stb.sun.ac.za
-NOERROR	bpcsp02.belpark.sun.ac.za
-NXDOMAIN	cachedev.sun.ac.za
-NXDOMAIN	www2.sun.ac.za
-NOERROR	www.processengineering.sun.ac.za
-NOERROR	www-ncbi-nlm-nih-gov.ez.sun.ac.za
-NOERROR	support.sun.ac.za
-NOERROR	hpc2.sun.ac.za
-NOERROR	engineering.sun.ac.za
-NXDOMAIN	certauth.bpcadfs01.belpark.sun.ac.za
-NXDOMAIN	www.redcap.sun.ac.za
-NOERROR	bpcsp2016wfe02.belpark.sun.ac.za
-NOERROR	www.jjj.sun.ac.za
-NOERROR	clblade-7-bert.cs.sun.ac.za
-NOERROR	www.ekon.sun.ac.za
-NXDOMAIN	www.servicedeskplus.belpark.sun.ac.za
-NXDOMAIN	icelda.sun.ac.za
-NOERROR	hpcsupport.stb.sun.ac.za
-NOERROR	itselfhelp.sun.ac.za
-NXDOMAIN	www.ome.sun.ac.za
-NXDOMAIN	www.bpcappprod.belpark.sun.ac.za
-NXDOMAIN	www.sunnms.sun.ac.za
-NXDOMAIN	usbdocuments.belpark.sun.ac.za
-NXDOMAIN	www.bpcmoodle04.belpark.sun.ac.za
-NOERROR	hermes.cs.sun.ac.za
-NOERROR	lib.myilibrary.com.ez.sun.ac.za
-NOERROR	studentfeedback.sun.ac.za
-NXDOMAIN	www.learntest.sun.ac.za
-NOERROR	t2000-05.sun.ac.za
-NOERROR	cournot.sun.ac.za
-NXDOMAIN	stb-macsrv4.stb.sun.ac.za
-NOERROR	rw712.cs.sun.ac.za
-NXDOMAIN	www.cataloque.belpark.sun.ac.za
-NXDOMAIN	www.bpcict.sun.ac.za
-NOERROR	clblade-5.cs.sun.ac.za
-NXDOMAIN	www.sun-e-hr-bi.sun.ac.za
-NOERROR	atoz.ebsco.com.ez.sun.ac.za
-NOERROR	applyethics.sun.ac.za
-NOERROR	membrane.sun.ac.za
-NOERROR	wb272.cs.sun.ac.za
-NXDOMAIN	www.usbedmoodle04.belpark.sun.ac.za
-NOERROR	bpcmsmedia.belpark.sun.ac.za
-NOERROR	forums.sun.ac.za
-NOERROR	gallery.stb.sun.ac.za
-NXDOMAIN	www.cassso.sun.ac.za
-NOERROR	bpcappprod.belpark.sun.ac.za
-NXDOMAIN	phambilidev.sun.ac.za
-NXDOMAIN	www.adobeconnect.sun.ac.za
-NXDOMAIN	bpcsfbedge.belpark.sun.ac.za
-NOERROR	bpcweb16.belpark.sun.ac.za
-NOERROR	caf1.sun.ac.za
-NOERROR	stb-v-snc01.rga.stb.sun.ac.za
-NOERROR	bladevm18.cs.sun.ac.za
-NOERROR	aek1.cs.sun.ac.za
-NXDOMAIN	overmeyer.sun.ac.za
-NOERROR	gesxlic01.tyg.sun.ac.za
-NXDOMAIN	www.gophish.sun.ac.za
-NOERROR	www-scopus-com.ez.sun.ac.za
-NOERROR	suvpnlet.sun.ac.za
-NOERROR	dev-membrane.sun.ac.za
-NOERROR	sip.sun.ac.za
-NXDOMAIN	collections.sun.ac.za
-NOERROR	othello.proj.cs.sun.ac.za
-NXDOMAIN	acsrdev.sun.ac.za
-NOERROR	humarga.sun.ac.za
-NOERROR	sunwsproxy.sun.ac.za
-NOERROR	accessengineeringlibrary.com.ez.sun.ac.za
-NOERROR	water.sun.ac.za
-NOERROR	surmepi-s08.tyg.sun.ac.za
-NOERROR	wil-sms-ingang.sun.ac.za
-NOERROR	lyncshare.belpark.sun.ac.za
-NXDOMAIN	stbaovpn02.stb.sun.ac.za
-NOERROR	ekon.sun.ac.za
-NOERROR	gergavh01.rga.stb.sun.ac.za
-NXDOMAIN	mdm.sun.ac.za
-NXDOMAIN	sympadev1.sun.ac.za
-NXDOMAIN	www.connectauthor.sun.ac.za
-NOERROR	stbowa01.stb.sun.ac.za
-NOERROR	bpcexcas01.belpark.sun.ac.za
-NXDOMAIN	www.cachedev.sun.ac.za
-NOERROR	www-tandfonline-com.ez.sun.ac.za
-NOERROR	bpccrm05.belpark.sun.ac.za
-NOERROR	clblade-8.cs.sun.ac.za
-NXDOMAIN	ezha.sun.ac.za
-NOERROR	cdn.sun.ac.za
-NOERROR	www.belpark.sun.ac.za
-NOERROR	rw214.cs.sun.ac.za
-NOERROR	piwik.sun.ac.za
-NXDOMAIN	stbadobeacts01.stb.sun.ac.za
-NOERROR	bpciis01.belpark.sun.ac.za
-NOERROR	crses-qnap.meg.sun.ac.za
-NOERROR	student.belpark.sun.ac.za
-NOERROR	student.sun.ac.za
-NOERROR	sympa.sun.ac.za
-NOERROR	wb372.cs.sun.ac.za
-NXDOMAIN	www.surveys.sun.ac.za
-NOERROR	midtiertest.sun.ac.za
-NXDOMAIN	ovirt.sun.ac.za
-NOERROR	apps.webofknowledge.com.ez.sun.ac.za
-NOERROR	services.ee.sun.ac.za
-NOERROR	berg.sun.ac.za
-NOERROR	dsp.sun.ac.za
-NOERROR	bpctfs01.belpark.sun.ac.za
-NOERROR	bpccitrix.sun.ac.za
-NOERROR	pages.cs.sun.ac.za
-NOERROR	sungis06.sun.ac.za
-NXDOMAIN	www.data.dttc.sun.ac.za
-NXDOMAIN	www.id.sun.ac.za
-NXDOMAIN	wwwq.stb.sun.ac.za
-NOERROR	lyncstb.sun.ac.za
-NXDOMAIN	www.rtaddev.sun.ac.za
-NOERROR	fharga.sun.ac.za
-NXDOMAIN	sandy.sun.ac.za
-NOERROR	caf2.sun.ac.za
-NOERROR	bpchub00.belpark.sun.ac.za
-NOERROR	sumv.sun.ac.za
-NOERROR	bladevm5-bmc.cs.sun.ac.za
-NOERROR	ie.sun.ac.za
-NOERROR	rw713.cs.sun.ac.za
-NXDOMAIN	www.repository.sun.ac.za
-NXDOMAIN	www.ssojwl01.sun.ac.za
-NOERROR	ifr.sun.ac.za
-NOERROR	bpclync01.belpark.sun.ac.za
-NOERROR	clblade-7-0.cs.sun.ac.za
-NXDOMAIN	sunldapqa02.sun.ac.za
-NOERROR	lyncus02.sun.ac.za
-NOERROR	ccle.sun.ac.za
-NOERROR	clblade-7-sitar.cs.sun.ac.za
-NOERROR	www.itm.sun.ac.za
-NXDOMAIN	www.servicedesktest.sun.ac.za
-NXDOMAIN	stbcrmdev.sun.ac.za
-NOERROR	gens.sun.ac.za
-NOERROR	nature.com.ez.sun.ac.za
-NOERROR	pma.sun.ac.za
-NOERROR	sao.sun.ac.za
-NOERROR	fhargasmc01.stb.sun.ac.za
-NOERROR	rwe214.cs.sun.ac.za
-NXDOMAIN	www.student.belpark.sun.ac.za
-NOERROR	fip.sun.ac.za
-NXDOMAIN	www.learn.sun.ac.za
-NOERROR	jstor.org.ez.sun.ac.za
-NXDOMAIN	securelogin.belpark.sun.ac.za
-NOERROR	webmail.sun.ac.za
-NOERROR	stbripe.sun.ac.za
-NXDOMAIN	stbadobecon01.stb.sun.ac.za
-NOERROR	stb-v-ac01-author.sun.ac.za
-NOERROR	stias462687.sun.ac.za
-NXDOMAIN	sitesdev.sun.ac.za
-NOERROR	geomagnet.ee.sun.ac.za
-NOERROR	grafana.proj.cs.sun.ac.za
-NOERROR	clblade-3.cs.sun.ac.za
-NOERROR	caf3.sun.ac.za
-NXDOMAIN	galaxy1.sun.ac.za
-NOERROR	site.ebrary.com.ez.sun.ac.za
-NOERROR	socialwork.oxfordre.com.ez.sun.ac.za
-NOERROR	ez.sun.ac.za
-NOERROR	study-democracy.sun.ac.za
-NOERROR	bladevm6.cs.sun.ac.za
-NOERROR	students.ee.sun.ac.za
-NOERROR	hons.infosci.sun.ac.za
-NOERROR	scholar.sun.ac.za
-NXDOMAIN	www.stbxrsqa.sun.ac.za
-NXDOMAIN	www.midtiertest.sun.ac.za
-NXDOMAIN	www.learnhelp.sun.ac.za
-NOERROR	divingfit.stb.sun.ac.za
-NOERROR	portal.infosci.sun.ac.za
-NOERROR	crmcddev.belpark.sun.ac.za
-NXDOMAIN	hum-v-sfnlb.rga.stb.sun.ac.za
-NOERROR	spwfe01.stb.sun.ac.za
-NOERROR	processengineering.sun.ac.za
-NOERROR	gids.sun.ac.za
-NOERROR	rw144.cs.sun.ac.za
-NXDOMAIN	www.catalogue.belpark.sun.ac.za
-NXDOMAIN	www.scholardata.sun.ac.za
-NXDOMAIN	galaxy-old.sun.ac.za
-NOERROR	bpcwordpress04.belpark.sun.ac.za
-NOERROR	springerlink.com.ez.sun.ac.za
-NOERROR	glue.jjj.sun.ac.za
-NXDOMAIN	www.stbowa.sun.ac.za
-NXDOMAIN	stbplanondev02.stb.sun.ac.za
-NXDOMAIN	www.sympadev1.sun.ac.za
-NOERROR	mtn.sun.ac.za
-NXDOMAIN	www.proton1.caf.sun.ac.za
-NOERROR	gergapivotman02.gerga.sun.ac.za
-NOERROR	prg-tmg.sun.ac.za
-NOERROR	suvpnebw.sun.ac.za
-NOERROR	gems.sun.ac.za
-NOERROR	bibj-ec-440395.rga.stb.sun.ac.za
-NOERROR	www.sopmp.sun.ac.za
-NXDOMAIN	www.bib.sun.ac.za
-NXDOMAIN	securewifi18168450.sun.ac.za
-NXDOMAIN	puppet.sun.ac.za
-NOERROR	usblearn.belpark.sun.ac.za
-NOERROR	art.sun.ac.za
-NXDOMAIN	devmidtiermembrane.sun.ac.za
-NXDOMAIN	cyril.sun.ac.za
-NOERROR	businessfutures.ifr.sun.ac.za
-NOERROR	cs244.cs.sun.ac.za
-NOERROR	contest.cs.sun.ac.za
-NOERROR	domus.sun.ac.za
-NOERROR	digital.lib.sun.ac.za
-NOERROR	suvpntyg.sun.ac.za
-NOERROR	bladevm7.cs.sun.ac.za
-NOERROR	spotter.proj.cs.sun.ac.za
-NOERROR	stbad02.stb.sun.ac.za
-NXDOMAIN	www.sandy.sun.ac.za
-NOERROR	process.sun.ac.za
-NOERROR	serviceproxy-dev.sun.ac.za
-NXDOMAIN	sunldapqa01.sun.ac.za
-NOERROR	businessfuturessa.ifr.sun.ac.za
-NOERROR	narga.sun.ac.za
-NXDOMAIN	dev-e-hr.sun.ac.za
-NOERROR	cs743.cs.sun.ac.za
-NXDOMAIN	uag.sun.ac.za
-NOERROR	appliedmaths.sun.ac.za
-NOERROR	crmqa365.belpark.sun.ac.za
-NOERROR	bladevm16.cs.sun.ac.za
-NXDOMAIN	surmepi.sun.ac.za
-NOERROR	ftp.belpark.sun.ac.za
-NXDOMAIN	www.online.sun.ac.za
-NOERROR	vcit411.stb.sun.ac.za
-NXDOMAIN	www.qa-usbed.belpark.sun.ac.za
-NXDOMAIN	www.hpc1.sun.ac.za
-NOERROR	rancher.proj.cs.sun.ac.za
-NOERROR	proj2.cs.sun.ac.za
-NOERROR	autodiscover.belpark.sun.ac.za
-NOERROR	www.physics.sun.ac.za
-NOERROR	f-v-reme01.rga.stb.sun.ac.za
-NOERROR	suvpnnsc.sun.ac.za
-NOERROR	online.sun.ac.za
-NOERROR	sso.sun.ac.za
-NXDOMAIN	www.onlinedev.sun.ac.za
-NOERROR	intercom.stb.sun.ac.za
-NXDOMAIN	sun-thy01.rga.stb.sun.ac.za
-NXDOMAIN	test-e-hr.sun.ac.za
-NOERROR	gergapivotman01.gerga.sun.ac.za
-NXDOMAIN	www.doclib.belpark.sun.ac.za
-NXDOMAIN	www.phambili.sun.ac.za
-NOERROR	ipacs.mb.sun.ac.za
-NXDOMAIN	collections-dev.sun.ac.za
-NOERROR	crm365.belpark.sun.ac.za
-NOERROR	mrtg.sun.ac.za
-NOERROR	balance01.sun.ac.za
-NOERROR	sciencedirect.com.ez.sun.ac.za
-NXDOMAIN	www.crmdev365.belpark.sun.ac.za
-NOERROR	intranet.belpark.sun.ac.za
-NOERROR	electives.belpark.sun.ac.za
-NOERROR	sacemadev.sun.ac.za
-NXDOMAIN	repository.sun.ac.za
-NXDOMAIN	www.crm.belpark.sun.ac.za
-NOERROR	v240-07.sun.ac.za
-NXDOMAIN	sun-felm01.rga.stb.sun.ac.za
-NXDOMAIN	www.remotedev.sun.ac.za
-NXDOMAIN	tygad02.tyg.sun.ac.za
-NOERROR	gerga-ovd-osm1.sun.ac.za
-NXDOMAIN	www.timetable.sun.ac.za
-NXDOMAIN	bpclogin.belpark.sun.ac.za
-NXDOMAIN	www.scholar.sun.ac.za
-NOERROR	hpc1-storage2.sun.ac.za
-NOERROR	www.eng-postgrad.sun.ac.za
-NXDOMAIN	blogsdev.sun.ac.za
-NOERROR	list.sun.ac.za
-NOERROR	sunepo01.stb.sun.ac.za
-NOERROR	scholardata.sun.ac.za
-NXDOMAIN	galera04.sun.ac.za
-NOERROR	jhub.cs.sun.ac.za
-NOERROR	clblade-9.cs.sun.ac.za
-NOERROR	bladevm14.cs.sun.ac.za
-NXDOMAIN	www.my.sun.ac.za
-NOERROR	caf7.sun.ac.za
-NXDOMAIN	www.fwvpn.sun.ac.za
-NXDOMAIN	www.digital.lib.sun.ac.za
-NOERROR	www.ifr.sun.ac.za
-NOERROR	events.ifr.sun.ac.za
-NOERROR	bpclync1.belpark.sun.ac.za
-NOERROR	www.resep.sun.ac.za
-NXDOMAIN	www.sunvs.sun.ac.za
-NOERROR	bpcaccpac01.belpark.sun.ac.za
-NOERROR	infoserv.sun.ac.za
-NOERROR	www.cs.sun.ac.za
-NOERROR	doclib.belpark.sun.ac.za
-NXDOMAIN	satellitedev.sun.ac.za
-NXDOMAIN	www.cciba.sun.ac.za
-NOERROR	s15073270lan.sun.ac.za
-NOERROR	caf6.sun.ac.za
-NXDOMAIN	bib.sun.ac.za
-NOERROR	facultyit.sun.ac.za
-NOERROR	sunadcip2.sun.ac.za
-NOERROR	clblade-9-tabla.cs.sun.ac.za
-NOERROR	languagecentre.sun.ac.za
-NOERROR	learn.sun.ac.za
-NOERROR	academic.eb.com.ez.sun.ac.za
-NOERROR	iheat.sun.ac.za
-NOERROR	staff.lib.sun.ac.za
-NOERROR	esl.ee.sun.ac.za
-NXDOMAIN	ciims.sun.ac.za
-NXDOMAIN	www.securelogin.belpark.sun.ac.za
-NXDOMAIN	www.bpcsfbedge.belpark.sun.ac.za
-NOERROR	timetable.sun.ac.za
-NOERROR	bpcwpdev02.belpark.sun.ac.za
-NOERROR	dialin.sun.ac.za
-NOERROR	www.spl.sun.ac.za
-NOERROR	stbwsus02.stb.sun.ac.za
-NOERROR	scholar-google-com.ez.sun.ac.za
-NOERROR	ieeexplore.ieee.org.ez.sun.ac.za
-NXDOMAIN	www.fmsweb.sun.ac.za
-NOERROR	fwa.sun.ac.za
-NOERROR	surveys03.stb.sun.ac.za
-NXDOMAIN	stb-macsrv3.stb.sun.ac.za
-NOERROR	studentapi-training.sun.ac.za
-NOERROR	bpcwordpress01.belpark.sun.ac.za
-NOERROR	bpccareers01.belpark.sun.ac.za
-NOERROR	csdev.sun.ac.za
-NOERROR	sulug.sun.ac.za
-NOERROR	bpcict.sun.ac.za
-NOERROR	bladevm9.cs.sun.ac.za
-NOERROR	sso-legacy.sun.ac.za
-NXDOMAIN	cciba.sun.ac.za
-NOERROR	grid.sun.ac.za
-NXDOMAIN	www.h-v-vmwvc01.rga.stb.sun.ac.za
-NOERROR	endler.sun.ac.za
-NOERROR	smtp.sun.ac.za
-NOERROR	www0.sun.ac.za
-NOERROR	sopmp.sun.ac.za
-NOERROR	projects.pages.cs.sun.ac.za
-NXDOMAIN	www.crmportaldev.belpark.sun.ac.za
-NXDOMAIN	www.test-osb.sun.ac.za
-NXDOMAIN	autodiscover.ifr.sun.ac.za
-NOERROR	federate.sun.ac.za
-NOERROR	cs345.cs.sun.ac.za
-NXDOMAIN	www.crm365.belpark.sun.ac.za
-NXDOMAIN	www.mrtg.sun.ac.za
-NXDOMAIN	www.ojs.belpark.sun.ac.za
-NXDOMAIN	www.usbdocuments.belpark.sun.ac.za
-NOERROR	cs878.cs.sun.ac.za
-NOERROR	gerga-ovd-owa1.sun.ac.za
-NXDOMAIN	autodiscover.webmail.sun.ac.za
-NXDOMAIN	dev-bigblubutton.sun.ac.za
-NOERROR	tygmed01.sun.ac.za
-NXDOMAIN	stbadobecon02.stb.sun.ac.za
-NXDOMAIN	www.xibo.bib.sun.ac.za
-NOERROR	www.mecheng.sun.ac.za
-NOERROR	www.ml.sun.ac.za
-NOERROR	worx.rga.stb.sun.ac.za
-NXDOMAIN	www.stb-v-snc02.rga.stb.sun.ac.za
-NXDOMAIN	www.sso-prod.sun.ac.za
-NXDOMAIN	stbxrsqa.sun.ac.za
-NOERROR	id.sun.ac.za
-NXDOMAIN	stbad03.stb.sun.ac.za
-NOERROR	cs746.cs.sun.ac.za
-NOERROR	mathsci.sun.ac.za
-NXDOMAIN	www.wiki.lib.sun.ac.za
-NOERROR	bpccrm01.belpark.sun.ac.za
-NOERROR	servicedesktest.sun.ac.za
-NXDOMAIN	www.etd.sun.ac.za
-NOERROR	rw146.cs.sun.ac.za
-NXDOMAIN	www.dev.sun.ac.za
-NXDOMAIN	usbedqaportal.belpark.sun.ac.za
-NOERROR	cs.sun.ac.za
-NXDOMAIN	lyncdiscoverinternal.sun.ac.za
-NXDOMAIN	sufmprod.sun.ac.za
-NOERROR	bladevm10-bmc.cs.sun.ac.za
-NXDOMAIN	www.ciims.sun.ac.za
-NOERROR	www.sarcpl.sun.ac.za
-NOERROR	stbwatkorpus.sun.ac.za
-NOERROR	rw745.cs.sun.ac.za
-NOERROR	internal.infosci.sun.ac.za
-NOERROR	maties2.sun.ac.za
-NOERROR	webmail.ma2.sun.ac.za
-NOERROR	rw744.cs.sun.ac.za
-NOERROR	gergapivot3vcs.rga.stb.sun.ac.za
-NXDOMAIN	students.sun.ac.za
-NOERROR	associatedftp.sun.ac.za
-NOERROR	sagwri.sun.ac.za
-NOERROR	v240-01.sun.ac.za
-NXDOMAIN	www.maties2.sun.ac.za
-NOERROR	mikrotikvpn.sun.ac.za
-NXDOMAIN	fmswebtest.sun.ac.za
-NOERROR	oauth-sandbox.sun.ac.za
-NOERROR	stbsp01.stb.sun.ac.za
-NXDOMAIN	iddev.sun.ac.za
-NXDOMAIN	stbadobeacts02.stb.sun.ac.za
-NOERROR	cs714.cs.sun.ac.za
-NXDOMAIN	sunldap02.sun.ac.za
-NOERROR	bladevm17.cs.sun.ac.za
-NOERROR	listdev.sun.ac.za
-NXDOMAIN	moodledev03.sun.ac.za
-NOERROR	bpcweb10.belpark.sun.ac.za
-NOERROR	alp.lib.sun.ac.za
-NOERROR	esat.sun.ac.za
-NXDOMAIN	www.idqa.sun.ac.za
-NOERROR	science.sun.ac.za
-NXDOMAIN	crmdoclib.belpark.sun.ac.za
-NOERROR	dagbreek.sun.ac.za
-NXDOMAIN	aford2.sun.ac.za
-NOERROR	referenceworks.brillonline.com.ez.sun.ac.za
-NXDOMAIN	qa-usbed.belpark.sun.ac.za
-NXDOMAIN	www.bpcsfb02.belpark.sun.ac.za
-NOERROR	safe.sun.ac.za
-NOERROR	cs214.cs.sun.ac.za
-NXDOMAIN	dev-doclib.belpark.sun.ac.za
-NXDOMAIN	www.collections.sun.ac.za
-NOERROR	rw314.cs.sun.ac.za
-NOERROR	portal.igpublish.com.ez.sun.ac.za
-NOERROR	reference.sabinet.co.za.ez.sun.ac.za
-NXDOMAIN	login-dev.sun.ac.za
-NOERROR	isic-1.belpark.sun.ac.za
-NXDOMAIN	applications.sun.ac.za
-NOERROR	kroon.cs.sun.ac.za
-NOERROR	sunvs.sun.ac.za
-NXDOMAIN	usbportal.belpark.sun.ac.za
-NOERROR	eduroam1.sun.ac.za
-NOERROR	stbplanonqa02.stb.sun.ac.za
-NOERROR	mail1.sun.ac.za
-NOERROR	www.crses.sun.ac.za
-NXDOMAIN	www.conferences-dev.bib.sun.ac.za
-NOERROR	gerga-ovd-ofs1.sun.ac.za
-NXDOMAIN	www.satellitedev.sun.ac.za
-NOERROR	oda2-uatdevsoa1.sun.ac.za
-NOERROR	sun.ac.za
-NOERROR	speedtest.belpark.sun.ac.za
-NXDOMAIN	www.iheat.sun.ac.za
-NOERROR	bach.sun.ac.za
-NOERROR	stbsp01old.stb.sun.ac.za
-NXDOMAIN	www.devmidtiermembrane.sun.ac.za
-NOERROR	ittd418446-registrasies.sun.ac.za
-NOERROR	online-sagepub-com.ez.sun.ac.za
-NXDOMAIN	www.teamssbc.sun.ac.za
-NXDOMAIN	www.stbaovpn02.stb.sun.ac.za
-NXDOMAIN	www.dash.sun.ac.za
-NXDOMAIN	www.sulug.sun.ac.za
-NOERROR	gergavcenter6.rga.stb.sun.ac.za
-NOERROR	stbwsus01.stb.sun.ac.za
-NOERROR	ncbi.nlm.nih.gov.ez.sun.ac.za
-NOERROR	bladevm9-bmc.cs.sun.ac.za
-NXDOMAIN	qa-doclib.belpark.sun.ac.za
-NOERROR	sunsfx.hosted.exlibrisgroup.com.ez.sun.ac.za
-NOERROR	bladevm7-bmc.cs.sun.ac.za
-NOERROR	reviewethics.sun.ac.za
-NXDOMAIN	www.sun-felm01.rga.stb.sun.ac.za
-NOERROR	puppet.proj.cs.sun.ac.za
-NXDOMAIN	www.midtier.sun.ac.za
-NOERROR	serviceproxy-test.sun.ac.za
-NOERROR	svrg.sun.ac.za
-NOERROR	rw364.cs.sun.ac.za
-NOERROR	rw716.cs.sun.ac.za
-NOERROR	belparkvpn.sun.ac.za
-NOERROR	dttc-tserv.sun.ac.za
-NXDOMAIN	sympadev.sun.ac.za
-NOERROR	stbopen.sun.ac.za
-NOERROR	caf-hpc1.sun.ac.za
-NXDOMAIN	writehand.belpark.sun.ac.za
-NXDOMAIN	www.did01.sun.ac.za
-NOERROR	rw714.cs.sun.ac.za
-NOERROR	caf4.sun.ac.za
-NOERROR	maties.tucows.sun.ac.za
-NXDOMAIN	www.m.sun.ac.za
-NXDOMAIN	www.exilog.sun.ac.za
-NOERROR	web.ee.sun.ac.za
-NOERROR	rw354.cs.sun.ac.za
-NOERROR	rw878.cs.sun.ac.za
-NOERROR	cs114.cs.sun.ac.za
-NOERROR	schools.sun.ac.za
-NOERROR	link.springer.com.ez.sun.ac.za
-NXDOMAIN	proton1.caf.sun.ac.za
-NOERROR	usb.sun.ac.za
-NXDOMAIN	www.puppet.sun.ac.za
-NOERROR	stbeskerprod01.stb.sun.ac.za
-NOERROR	teamssbc.sun.ac.za
-NOERROR	web.lib.sun.ac.za
-NOERROR	student-demo.sun.ac.za
-NXDOMAIN	cataloque.belpark.sun.ac.za
-NOERROR	stbsp01.sun.ac.za
-NOERROR	clientservices.sun.ac.za
-NOERROR	connect.belpark.sun.ac.za
-NOERROR	news.sun.ac.za
-NOERROR	cmap.tyg.sun.ac.za
-NXDOMAIN	cassso.sun.ac.za
-NXDOMAIN	www.usbedqaportal.belpark.sun.ac.za
-NOERROR	git.cs.sun.ac.za
-NXDOMAIN	gophish.sun.ac.za
-NOERROR	find.galegroup.com.ez.sun.ac.za
-NXDOMAIN	www.biosm.stb.sun.ac.za
-NOERROR	journals.sagepub.com.ez.sun.ac.za
-NXDOMAIN	www.navadm.sun.ac.za
-NOERROR	www.dsp.sun.ac.za
-NXDOMAIN	www.phambilidev.sun.ac.za
-NXDOMAIN	streamdev01.stb.sun.ac.za
-NOERROR	www.firga.sun.ac.za
-NXDOMAIN	www.stbwatkorpus.sun.ac.za
-NOERROR	caf5.sun.ac.za
-NOERROR	baobab.sun.ac.za
-NOERROR	www.usb.sun.ac.za
-NOERROR	learn01.sun.ac.za
-NOERROR	securevpn.sun.ac.za
-NOERROR	prod-osb.sun.ac.za
-NOERROR	gnas4.sun.ac.za
-NXDOMAIN	fmswebdev.sun.ac.za
-NOERROR	galeracluster.sun.ac.za
-NXDOMAIN	ematies.sun.ac.za
-NOERROR	legacy.sun.ac.za
-NXDOMAIN	www.servicedeskdev.sun.ac.za
-NOERROR	www1.sun.ac.za
-NOERROR	ccs.esl.sun.ac.za
-NOERROR	maties1.sun.ac.za
-NXDOMAIN	stboos.stb.sun.ac.za
-NOERROR	www.imstus.sun.ac.za
-NOERROR	lib.sun.ac.za
-NOERROR	oxfordreference.com.ez.sun.ac.za
-NXDOMAIN	www.businessfuturesafrica.ifr.sun.ac.za
-NOERROR	proxy0.sun.ac.za
-NOERROR	bpccrm07.belpark.sun.ac.za
-NOERROR	belpark.sun.ac.za
-NOERROR	concentrating.sun.ac.za
-NOERROR	media.belpark.sun.ac.za
-NOERROR	rw742.cs.sun.ac.za
-NXDOMAIN	www.thethatest.sun.ac.za
-NOERROR	www.civeng.sun.ac.za
-NOERROR	learn.belpark.sun.ac.za
-NOERROR	rw244.cs.sun.ac.za
-NXDOMAIN	businessfuturessa.belpark.sun.ac.za
-NXDOMAIN	www.collections-dev.sun.ac.za
-NXDOMAIN	sso-dev.sun.ac.za
-NXDOMAIN	ldaptest.sun.ac.za
-NOERROR	libraryict.sun.ac.za
-NXDOMAIN	www.sunsurveys.sun.ac.za
-NOERROR	shl.belpark.sun.ac.za
-NXDOMAIN	neurosciencedev.sun.ac.za
-NXDOMAIN	stbadobertmpsdev02.stb.sun.ac.za
-NOERROR	bpcspwfe01.belpark.sun.ac.za
-NXDOMAIN	www.sun-thy01.rga.stb.sun.ac.za
-NOERROR	rw743.cs.sun.ac.za
-NOERROR	bpcnetapp01.belpark.sun.ac.za
-NOERROR	stbsp06.stb.sun.ac.za
-NXDOMAIN	stbadobertmpsdev01.stb.sun.ac.za
-NOERROR	sacema.sun.ac.za
-NXDOMAIN	www.businessfuturessa.belpark.sun.ac.za
-NOERROR	irold.sun.ac.za
-NOERROR	math.sun.ac.za
-NOERROR	cs144.cs.sun.ac.za
-NOERROR	git.sun.ac.za
-NOERROR	socialjustice.sun.ac.za
-NOERROR	narga.rga.stb.sun.ac.za
-NOERROR	www0dev.sun.ac.za
-NOERROR	registry.sun.ac.za
-NOERROR	hpc1.sun.ac.za
-NXDOMAIN	sso-test.sun.ac.za
-NXDOMAIN	www.sun-e-hr.sun.ac.za
-NXDOMAIN	learntest.sun.ac.za
-NXDOMAIN	www.splus.sun.ac.za
-NOERROR	resep.sun.ac.za
-NXDOMAIN	idqa.sun.ac.za
-NOERROR	hybridlearning.sun.ac.za
-NOERROR	bigmetal.cs.sun.ac.za
-NOERROR	bpcwordpress03.belpark.sun.ac.za
-NOERROR	bladevm10.cs.sun.ac.za
-NOERROR	bladevm19.cs.sun.ac.za
-NOERROR	helio100.sun.ac.za
-NOERROR	dialin.belpark.sun.ac.za
-NOERROR	rw315.cs.sun.ac.za
-NOERROR	journals.co.za.ez.sun.ac.za
-NXDOMAIN	castest.sun.ac.za
-NOERROR	www.ubuntu.sun.ac.za
-NOERROR	www.sarad.co.za.ez.sun.ac.za
-NXDOMAIN	sungis10.sun.ac.za
-NOERROR	mfm.sun.ac.za
-NOERROR	web.a.ebscohost.com.ez.sun.ac.za
-NOERROR	cs146.cs.sun.ac.za
-NXDOMAIN	www.stbsplus-f5.sun.ac.za
-NXDOMAIN	www.businessfutures.ifr.sun.ac.za
-NOERROR	imap.sun.ac.za
-NOERROR	peg.sun.ac.za
-NOERROR	pay.sun.ac.za
-NOERROR	mhic.sun.ac.za
-NXDOMAIN	api.k8s.sun.ac.za
-NOERROR	law.sun.ac.za
-NXDOMAIN	www.logs.sun.ac.za
-NXDOMAIN	autodiscover.usb.sun.ac.za
-NOERROR	tandfebooks.com.ez.sun.ac.za
-NXDOMAIN	phambili.sun.ac.za
-NXDOMAIN	servicedeskdev.sun.ac.za
-NOERROR	www.esl.sun.ac.za
-NOERROR	apex.sun.ac.za
-NOERROR	buildserver.sun.ac.za
-NOERROR	bladevm2-bmc.cs.sun.ac.za
-NOERROR	saic-it.sun.ac.za
-NOERROR	portal-app1.sun.ac.za
-NOERROR	sun022.sun.ac.za
-NXDOMAIN	www.bpm.sun.ac.za
-NOERROR	stb-v-ac01.rga.stb.sun.ac.za
-NOERROR	narga.pages.cs.sun.ac.za
-NXDOMAIN	www.serviceproxy-dev.sun.ac.za
-NOERROR	www.shortcourses.sun.ac.za
-NXDOMAIN	www.stbcitrix.sun.ac.za
-NXDOMAIN	www.servicedesk.sun.ac.za
-NOERROR	www.tw.sun.ac.za
-NOERROR	stbsplustest.stb.sun.ac.za
-NOERROR	accessscience.com.ez.sun.ac.za
-NOERROR	usb-ns.sun.ac.za
-NXDOMAIN	www.crmportalqa.belpark.sun.ac.za
-NOERROR	adm459614.sun.ac.za
-NOERROR	onlinedev.sun.ac.za
-NXDOMAIN	www.it-digitalsignage.stb.sun.ac.za
-NOERROR	wiki.dsp.sun.ac.za
-NOERROR	matiescom.sun.ac.za
-NOERROR	havarti.cs.sun.ac.za
-NOERROR	arubavpn.sun.ac.za
-NOERROR	rw324.cs.sun.ac.za
-NOERROR	lyncdiscover.sun.ac.za
-NXDOMAIN	xibo.bib.sun.ac.za
-NOERROR	reg.cs.sun.ac.za
-NOERROR	web.ebscohost.com.ez.sun.ac.za
-NXDOMAIN	www.membrane.sun.ac.za
-NXDOMAIN	www.bpcwpdev02.belpark.sun.ac.za
-NOERROR	test-membrane.sun.ac.za
-NOERROR	mail.belpark.sun.ac.za
-NXDOMAIN	sauran.stb.sun.ac.za
-NOERROR	bcollege.sun.ac.za
-NXDOMAIN	ssojwl01.sun.ac.za
-NOERROR	servicebus.belpark.sun.ac.za
-NXDOMAIN	www.stbchase01.stb.sun.ac.za
-NOERROR	sr.sun.ac.za
-NOERROR	cs711.cs.sun.ac.za
-NOERROR	cs716.cs.sun.ac.za
-NXDOMAIN	cob.stb.sun.ac.za
-NOERROR	video.belpark.sun.ac.za
-NOERROR	acia.sun.ac.za
-NOERROR	cse214.cs.sun.ac.za
-NOERROR	splus.sun.ac.za
-NOERROR	cs713.cs.sun.ac.za
-NOERROR	nrv.sun.ac.za
-NXDOMAIN	journals.sun.ac.za
-NOERROR	stream.sun.ac.za
-NOERROR	webassess.cs.sun.ac.za
-NOERROR	chemeng.sun.ac.za
-NXDOMAIN	crmportaldev.belpark.sun.ac.za
-NOERROR	civeng.sun.ac.za
-NXDOMAIN	www.art.sun.ac.za
-NXDOMAIN	langenegger.sun.ac.za
-NOERROR	bladevm1.cs.sun.ac.za
-NXDOMAIN	www.galaxy-old.sun.ac.za
-NXDOMAIN	crmportalqa.belpark.sun.ac.za
-NOERROR	ipw2022.sun.ac.za
-NXDOMAIN	www.connect.belpark.sun.ac.za
-NXDOMAIN	www.bpcmoodle05.belpark.sun.ac.za
-NOERROR	stbeskerdev01.stb.sun.ac.za
-NOERROR	isgsb2020.sun.ac.za
-NOERROR	uribl.sun.ac.za
-NOERROR	campusmap.sun.ac.za
-NOERROR	milestone-vms.stb.sun.ac.za
-NXDOMAIN	aj1.sun.ac.za
-NOERROR	bpcweb04.belpark.sun.ac.za
-NOERROR	cs324.cs.sun.ac.za
-NOERROR	sites.sun.ac.za
-NOERROR	adserver.sun.ac.za
-NOERROR	proxy1.sun.ac.za
-NOERROR	simtel.sun.ac.za
-NOERROR	media.sun.ac.za
-NOERROR	rw345.cs.sun.ac.za
-NXDOMAIN	macreg.sun.ac.za
-NOERROR	frias.cs.sun.ac.za
-NOERROR	sungis10.stb.sun.ac.za
-NXDOMAIN	ar1.sun.ac.za
-NOERROR	www.esl.ee.sun.ac.za
-NOERROR	consent.sun.ac.za
-NOERROR	www.ber.sun.ac.za
-NOERROR	bpcwordpress02.belpark.sun.ac.za
-NOERROR	www.sun.ac.za
-NOERROR	cs744.cs.sun.ac.za
-NOERROR	www.aidscentre.sun.ac.za
-NOERROR	amber.ee.sun.ac.za
-NOERROR	www.clc.sun.ac.za
-NOERROR	amethyst-cardserver.sun.ac.za
-NXDOMAIN	www.storage.sun.ac.za
-NOERROR	or2020.sun.ac.za
-NXDOMAIN	www.connectpublisher.sun.ac.za
-NOERROR	tyg-nagios.sun.ac.za
-NXDOMAIN	www.usbportal.belpark.sun.ac.za
-NOERROR	itservices.sun.ac.za
-NXDOMAIN	stbchase01.stb.sun.ac.za
-NOERROR	bpcmb03.belpark.sun.ac.za
-NOERROR	firga-s203-el03.rga.stb.sun.ac.za
-NXDOMAIN	phambiliqa.sun.ac.za
-NOERROR	bpccrmqa07.belpark.sun.ac.za
-NXDOMAIN	www.cyril.sun.ac.za
-NXDOMAIN	stbsplus-f5-new.sun.ac.za
-NXDOMAIN	aoi.sun.ac.za
-NOERROR	pegvpn.sun.ac.za
-NOERROR	inetkey.sun.ac.za
-NOERROR	blogs.lib.sun.ac.za
-NOERROR	sd03.sun.ac.za
-NOERROR	neuroscience.sun.ac.za
-NOERROR	stbxrsprd.stb.sun.ac.za
-NOERROR	license.sun.ac.za
-NOERROR	ir2.sun.ac.za
-NOERROR	matiesapp.sun.ac.za
-NXDOMAIN	stb-v-sf01.rga.stb.sun.ac.za
-NOERROR	vpnold.sun.ac.za
-NXDOMAIN	tygds01.tyg.sun.ac.za
-NOERROR	sunrecords.sun.ac.za
-NOERROR	knowledge.sagepub.com.ez.sun.ac.za
-NOERROR	globus01.sun.ac.za
-NXDOMAIN	sunstudent.sun.ac.za
-NOERROR	bibj-pc-455735.stb.sun.ac.za
-NOERROR	www.informatics.sun.ac.za
-NOERROR	rw741.cs.sun.ac.za
-NOERROR	webmail.belpark.sun.ac.za
-NOERROR	crest.sun.ac.za
-NOERROR	clblade-9-0.cs.sun.ac.za
-NOERROR	qnapnas.ee.sun.ac.za
-NOERROR	sunfin.sun.ac.za
-NOERROR	learnhelp.sun.ac.za
-NOERROR	bpcmoodle05.belpark.sun.ac.za
-NXDOMAIN	ata.sun.ac.za
-NOERROR	usbedmoodle04.belpark.sun.ac.za
-NXDOMAIN	www.writehand.belpark.sun.ac.za
-NOERROR	admin-apps.isiknowledge.com.ez.sun.ac.za
-NXDOMAIN	www.qa-doclib.belpark.sun.ac.za
-NXDOMAIN	www.hpc2.sun.ac.za
-NOERROR	rw113.cs.sun.ac.za
-NXDOMAIN	www.bpctfs01.belpark.sun.ac.za
-NOERROR	multisite.sun.ac.za
-NOERROR	cs745.cs.sun.ac.za
-NOERROR	cs315.cs.sun.ac.za
-NXDOMAIN	actsdev02.stb.sun.ac.za
-NOERROR	stbapps01.stb.sun.ac.za
-NOERROR	cs314.cs.sun.ac.za
-NXDOMAIN	journals3.bib.sun.ac.za
-NOERROR	bladevm2.cs.sun.ac.za
-NOERROR	test-midtier.sun.ac.za
-NXDOMAIN	conferences-dev.bib.sun.ac.za
-NOERROR	bpcrds01.belpark.sun.ac.za
-NXDOMAIN	autodiscover.acia.sun.ac.za
-NOERROR	rw748.cs.sun.ac.za
-NOERROR	aspen.tw.sun.ac.za
-NOERROR	chat.sun.ac.za
-NOERROR	proj1.cs.sun.ac.za
-NXDOMAIN	www.web-apps.sun.ac.za
-NOERROR	logs.sun.ac.za
-NXDOMAIN	thethatest.sun.ac.za
-NXDOMAIN	stbssd.sun.ac.za
-NOERROR	bpcsupport.belpark.sun.ac.za
-NOERROR	autodiscover.exchange.sun.ac.za
-NXDOMAIN	web-apps-dev.sun.ac.za
-NXDOMAIN	www.dttchome.sun.ac.za
-NOERROR	sunsurveys.sun.ac.za
-NOERROR	suvpning.sun.ac.za
-NOERROR	mml.pages.cs.sun.ac.za
-NOERROR	smtp.prg.sun.ac.za
-NOERROR	www.suncep.sun.ac.za
-NOERROR	bpclync3.belpark.sun.ac.za
-NOERROR	bpcmoodle04.belpark.sun.ac.za
-NXDOMAIN	www.ir.sun.ac.za
-NXDOMAIN	www.journals.sun.ac.za
+fwvpn.sun.ac.za
+studentftp.stb.sun.ac.za
+enterpriseregistration.sun.ac.za
+bpcsp2016wfe01.belpark.sun.ac.za
+stbowa.sun.ac.za
+ewseta.sun.ac.za
+eng.sun.ac.za
+bpcmdldev.belpark.sun.ac.za
+clblade-8-flute.cs.sun.ac.za
+bibj-ec-marlin.stb.sun.ac.za
+bladevm3.cs.sun.ac.za
+the-kraken.cs.sun.ac.za
+ubuntu.sun.ac.za
+mikro415992.mikro.sun.ac.za
+sun026.sun.ac.za
+bladevm4-bmc.cs.sun.ac.za
+mail3.sun.ac.za
+iheat.stb.sun.ac.za
+bpcmoodle.belpark.sun.ac.za
+discoverer.sun.ac.za
+bpcspwfe02.belpark.sun.ac.za
+www.kortkursusse.sun.ac.za
+gerga-camserv.rga.stb.sun.ac.za
+stbcitrix.sun.ac.za
+sunadcip.sun.ac.za
+weather.sun.ac.za
+wiki.lib.sun.ac.za
+bladevm8-bmc.cs.sun.ac.za
+learndb02.sun.ac.za
+sso-prod.sun.ac.za
+crest2.sun.ac.za
+ldap.sun.ac.za
+kubem.sun.ac.za
+www.ie.sun.ac.za
+suvpnmsp.sun.ac.za
+physics.sun.ac.za
+admin.sun.ac.za
+coblc2.sun.ac.za
+nbn-gateway.sun.ac.za
+uctesperra01.stb.sun.ac.za
+streamdev01.sun.ac.za
+forest.sun.ac.za
+ml.sun.ac.za
+m.sun.ac.za
+bibsccmpr01.stb.sun.ac.za
+clblade-10.cs.sun.ac.za
+suncep.sun.ac.za
+eedsmjoule.sun.ac.za
+login.sun.ac.za
+lyncdir.sun.ac.za
+groundstation.esl.sun.ac.za
+bib-s-hv01.rga.stb.sun.ac.za
+autodiscover.sun.ac.za
+mail.prg.sun.ac.za
+s11311681.sun.ac.za
+ee.sun.ac.za
+clblade-9-brett.cs.sun.ac.za
+rw746.cs.sun.ac.za
+sage-ereference.com.ez.sun.ac.za
+bpm.sun.ac.za
+usbcontenthub.belpark.sun.ac.za
+bibi-arielpc.stb.sun.ac.za
+stay.sun.ac.za
+vpn.sun.ac.za
+devopps02.sun.ac.za
+lyncaccess.sun.ac.za
+servicedeskplus.belpark.sun.ac.za
+surveystest.stb.sun.ac.za
+redcap.sun.ac.za
+bpcmdltst.belpark.sun.ac.za
+did01.sun.ac.za
+stellenbosch.sun.ac.za
+bladevm15.cs.sun.ac.za
+sun-e-hr.sun.ac.za
+sungis02.sun.ac.za
+cob-pos-trn.sun.ac.za
+lists.lib.sun.ac.za
+learndev.sun.ac.za
+lyncweb.sun.ac.za
+moleculesrus.sun.ac.za
+itservicedesk.sun.ac.za
+login.ez.sun.ac.za
+stboos.sun.ac.za
+www.uptodate.com.ez.sun.ac.za
+clblade-10-0.cs.sun.ac.za
+clblade-6-0.cs.sun.ac.za
+dip.sun.ac.za
+rgaftp.sun.ac.za
+lvzijl.cs.sun.ac.za
+meet.belpark.sun.ac.za
+akadwebftp.sun.ac.za
+matiesapp-dev.sun.ac.za
+protea.sun.ac.za
+arua.sun.ac.za
+terrahertz-share.sun.ac.za
+rw711.cs.sun.ac.za
+yourls.sun.ac.za
+web-apps.sun.ac.za
+met-sms-ingang.sun.ac.za
+stbsplus.stb.sun.ac.za
+it444464.stb.sun.ac.za
+sarcpl.sun.ac.za
+bpcweb06.belpark.sun.ac.za
+stbeskertest01.stb.sun.ac.za
+sciencemag.org.ez.sun.ac.za
+lyncedge.sun.ac.za
+stb-v-ac01-publisher.sun.ac.za
+willows.sun.ac.za
+suvpnweb.sun.ac.za
+clblade-7.cs.sun.ac.za
+elibrary.worldbank.org.ez.sun.ac.za
+surmepi-p2.tyg.sun.ac.za
+fwdauth.cs.sun.ac.za
+gerga-ovd-esg1.sun.ac.za
+hpc4.sun.ac.za
+ops.sun.ac.za
+pageslab.cs.sun.ac.za
+clblade-4.cs.sun.ac.za
+connectpublisher.sun.ac.za
+stbad01.stb.sun.ac.za
+bladevm13.cs.sun.ac.za
+adfsproxy02.sun.ac.za
+services.belpark.sun.ac.za
+xum01.stb.sun.ac.za
+minio.cs.sun.ac.za
+tygripe.sun.ac.za
+tygwsus01.tyg.sun.ac.za
+webmail1.sun.ac.za
+mml.sun.ac.za
+gergahpdm.rga.stb.sun.ac.za
+serviceproxy.sun.ac.za
+credoreference.com.ez.sun.ac.za
+stbweb01.stb.sun.ac.za
+solar.esl.sun.ac.za
+tyg422307.stb.sun.ac.za
+sicmf.sun.ac.za
+spwfe02.stb.sun.ac.za
+academicftp.sun.ac.za
+gitauth.cs.sun.ac.za
+cs778.cs.sun.ac.za
+labs.stb.sun.ac.za
+rw114.cs.sun.ac.za
+kortkursusse.sun.ac.za
+cs712.cs.sun.ac.za
+sungis08.stb.sun.ac.za
+energy.sun.ac.za
+bpcrs02.belpark.sun.ac.za
+rw778.cs.sun.ac.za
+gitolite.cs.sun.ac.za
+ir.sun.ac.za
+storage.sun.ac.za
+businessfuturesafrica.ifr.sun.ac.za
+bladevm5.cs.sun.ac.za
+search-proquest-com.ez.sun.ac.za
+legacy1.sun.ac.za
+cs741.cs.sun.ac.za
+adminftp.stb.sun.ac.za
+go.galegroup.com.ez.sun.ac.za
+auth.cs.sun.ac.za
+srmo.sagepub.com.ez.sun.ac.za
+etd.sun.ac.za
+prometheus.proj.cs.sun.ac.za
+star.sun.ac.za
+chat.cs.sun.ac.za
+cs742.cs.sun.ac.za
+clickit.belpark.sun.ac.za
+mail2.sun.ac.za
+cs354.cs.sun.ac.za
+bladevm6-bmc.cs.sun.ac.za
+eng-postgrad.sun.ac.za
+drop.sun.ac.za
+web-apps-test.sun.ac.za
+spl.sun.ac.za
+lews-bpc.belpark.sun.ac.za
+libanswers.sun.ac.za
+schoolsdev.sun.ac.za
+sip.belpark.sun.ac.za
+succeed.sun.ac.za
+www.lib.sun.ac.za
+online.belpark.sun.ac.za
+hpmms.stb.sun.ac.za
+hronlinetraining.sun.ac.za
+clblade-1.cs.sun.ac.za
+www.trac.sun.ac.za
+oxforddnb.com.ez.sun.ac.za
+sterg.sun.ac.za
+clblade-2.cs.sun.ac.za
+gnas4b.rga.stb.sun.ac.za
+sun-e-hr-bi.sun.ac.za
+eduroam0.sun.ac.za
+bladevm1-bmc.cs.sun.ac.za
+suntmr01.sun.ac.za
+dev-osb.sun.ac.za
+mecheng.sun.ac.za
+midtier.sun.ac.za
+www.ee.sun.ac.za
+logserver.sun.ac.za
+video.sun.ac.za
+amethyst-server.sun.ac.za
+bladevm20.cs.sun.ac.za
+crses.sun.ac.za
+mail2007.prg.sun.ac.za
+galeradash.sun.ac.za
+firga.sun.ac.za
+rw344.cs.sun.ac.za
+cs748.cs.sun.ac.za
+adobeconnect.sun.ac.za
+www.eng.sun.ac.za
+shortcourses.sun.ac.za
+primafamed.sun.ac.za
+bibj-pc-430377.stb.sun.ac.za
+pubs3.acs.org.ez.sun.ac.za
+tech21.sun.ac.za
+stbagismap01.sun.ac.za
+cs364.cs.sun.ac.za
+webstudies2.sun.ac.za
+db.crest.sun.ac.za
+fmhspod.sun.ac.za
+insight.sun.ac.za
+dev-midtier.sun.ac.za
+servicedesk.sun.ac.za
+stbspp01.stb.sun.ac.za
+agric.sun.ac.za
+rga.sun.ac.za
+test-osb.sun.ac.za
+ibe.sun.ac.za
+adm443784.sun.ac.za
+hsstel.sun.ac.za
+giscsat.sun.ac.za
+dash.sun.ac.za
+support.stb.sun.ac.za
+spfrecords.sun.ac.za
+urispam.sun.ac.za
+library.sun.ac.za
+algos.cs.sun.ac.za
+bladevm4.cs.sun.ac.za
+sd02.sun.ac.za
+hermes.mb.sun.ac.za
+gitlab.cs.sun.ac.za
+solys2.meg.sun.ac.za
+bibg-pc-440446.stb.sun.ac.za
+staff.ee.sun.ac.za
+apps.sun.ac.za
+meet.sun.ac.za
+bladevm12.cs.sun.ac.za
+blogs.sun.ac.za
+let-v-act01.rga.stb.sun.ac.za
+stbmail.stb.sun.ac.za
+adv-aut.cs.sun.ac.za
+it434127.stb.sun.ac.za
+eagle01.sun.ac.za
+lawtrust.sun.ac.za
+library.stb.sun.ac.za
+catalogue.belpark.sun.ac.za
+bladevm3-bmc.cs.sun.ac.za
+libguides.sun.ac.za
+www.ibe.sun.ac.za
+bpcwordpress06.belpark.sun.ac.za
+gergapivotman06.gerga.sun.ac.za
+bibit-pc-423380.stb.sun.ac.za
+stbweb01.sun.ac.za
+crm.belpark.sun.ac.za
+bladevm8.cs.sun.ac.za
+bpcnetapp02.belpark.sun.ac.za
+bpcweb00.belpark.sun.ac.za
+webapps.belpark.sun.ac.za
+mfmstream.sun.ac.za
+connectauthor.sun.ac.za
+webstats.sun.ac.za
+www.chemeng.sun.ac.za
+suvpnadmin.sun.ac.za
+dttc-popart-web.sun.ac.za
+cs113.cs.sun.ac.za
+wsus.sun.ac.za
+ftp.sun.ac.za
+jjj.biochem.sun.ac.za
+infoteg.sun.ac.za
+trac.sun.ac.za
+publications.crest.sun.ac.za
+bladevm11.cs.sun.ac.za
+clblade-6.cs.sun.ac.za
+cs344.cs.sun.ac.za
+academic.sun.ac.za
+clblade-8-0.cs.sun.ac.za
+suvpn.sun.ac.za
+did.sun.ac.za
+my.sun.ac.za
+bpcmail00.belpark.sun.ac.za
+bpcsd01.belpark.sun.ac.za
+data.dttc.sun.ac.za
+lyncdiscover.belpark.sun.ac.za
+research.ee.sun.ac.za
+bibj-of-430351.rga.stb.sun.ac.za
+conferences.sun.ac.za
+gergaveeam.rga.stb.sun.ac.za
+gergapivotvh05.rga.stb.sun.ac.za
+komdiens422085.stb.sun.ac.za
+bbprodcluster.sun.ac.za
+lyncedge02.stb.sun.ac.za
+bpcsp02.belpark.sun.ac.za
+www.processengineering.sun.ac.za
+www-ncbi-nlm-nih-gov.ez.sun.ac.za
+support.sun.ac.za
+hpc2.sun.ac.za
+engineering.sun.ac.za
+bpcsp2016wfe02.belpark.sun.ac.za
+www.jjj.sun.ac.za
+clblade-7-bert.cs.sun.ac.za
+www.ekon.sun.ac.za
+hpcsupport.stb.sun.ac.za
+itselfhelp.sun.ac.za
+hermes.cs.sun.ac.za
+lib.myilibrary.com.ez.sun.ac.za
+studentfeedback.sun.ac.za
+t2000-05.sun.ac.za
+cournot.sun.ac.za
+rw712.cs.sun.ac.za
+clblade-5.cs.sun.ac.za
+atoz.ebsco.com.ez.sun.ac.za
+applyethics.sun.ac.za
+membrane.sun.ac.za
+wb272.cs.sun.ac.za
+bpcmsmedia.belpark.sun.ac.za
+forums.sun.ac.za
+gallery.stb.sun.ac.za
+bpcappprod.belpark.sun.ac.za
+bpcweb16.belpark.sun.ac.za
+caf1.sun.ac.za
+stb-v-snc01.rga.stb.sun.ac.za
+bladevm18.cs.sun.ac.za
+aek1.cs.sun.ac.za
+gesxlic01.tyg.sun.ac.za
+www-scopus-com.ez.sun.ac.za
+suvpnlet.sun.ac.za
+dev-membrane.sun.ac.za
+sip.sun.ac.za
+othello.proj.cs.sun.ac.za
+humarga.sun.ac.za
+sunwsproxy.sun.ac.za
+accessengineeringlibrary.com.ez.sun.ac.za
+water.sun.ac.za
+surmepi-s08.tyg.sun.ac.za
+wil-sms-ingang.sun.ac.za
+lyncshare.belpark.sun.ac.za
+ekon.sun.ac.za
+gergavh01.rga.stb.sun.ac.za
+stbowa01.stb.sun.ac.za
+bpcexcas01.belpark.sun.ac.za
+www-tandfonline-com.ez.sun.ac.za
+bpccrm05.belpark.sun.ac.za
+clblade-8.cs.sun.ac.za
+cdn.sun.ac.za
+www.belpark.sun.ac.za
+rw214.cs.sun.ac.za
+piwik.sun.ac.za
+bpciis01.belpark.sun.ac.za
+crses-qnap.meg.sun.ac.za
+student.belpark.sun.ac.za
+student.sun.ac.za
+sympa.sun.ac.za
+wb372.cs.sun.ac.za
+midtiertest.sun.ac.za
+apps.webofknowledge.com.ez.sun.ac.za
+services.ee.sun.ac.za
+berg.sun.ac.za
+dsp.sun.ac.za
+bpctfs01.belpark.sun.ac.za
+bpccitrix.sun.ac.za
+pages.cs.sun.ac.za
+sungis06.sun.ac.za
+lyncstb.sun.ac.za
+fharga.sun.ac.za
+caf2.sun.ac.za
+bpchub00.belpark.sun.ac.za
+sumv.sun.ac.za
+bladevm5-bmc.cs.sun.ac.za
+ie.sun.ac.za
+rw713.cs.sun.ac.za
+ifr.sun.ac.za
+bpclync01.belpark.sun.ac.za
+clblade-7-0.cs.sun.ac.za
+lyncus02.sun.ac.za
+ccle.sun.ac.za
+clblade-7-sitar.cs.sun.ac.za
+www.itm.sun.ac.za
+gens.sun.ac.za
+nature.com.ez.sun.ac.za
+pma.sun.ac.za
+sao.sun.ac.za
+fhargasmc01.stb.sun.ac.za
+rwe214.cs.sun.ac.za
+fip.sun.ac.za
+jstor.org.ez.sun.ac.za
+webmail.sun.ac.za
+stbripe.sun.ac.za
+stb-v-ac01-author.sun.ac.za
+stias462687.sun.ac.za
+geomagnet.ee.sun.ac.za
+grafana.proj.cs.sun.ac.za
+clblade-3.cs.sun.ac.za
+caf3.sun.ac.za
+site.ebrary.com.ez.sun.ac.za
+socialwork.oxfordre.com.ez.sun.ac.za
+ez.sun.ac.za
+study-democracy.sun.ac.za
+bladevm6.cs.sun.ac.za
+students.ee.sun.ac.za
+hons.infosci.sun.ac.za
+scholar.sun.ac.za
+divingfit.stb.sun.ac.za
+portal.infosci.sun.ac.za
+crmcddev.belpark.sun.ac.za
+spwfe01.stb.sun.ac.za
+processengineering.sun.ac.za
+gids.sun.ac.za
+rw144.cs.sun.ac.za
+bpcwordpress04.belpark.sun.ac.za
+springerlink.com.ez.sun.ac.za
+glue.jjj.sun.ac.za
+mtn.sun.ac.za
+gergapivotman02.gerga.sun.ac.za
+prg-tmg.sun.ac.za
+suvpnebw.sun.ac.za
+gems.sun.ac.za
+bibj-ec-440395.rga.stb.sun.ac.za
+www.sopmp.sun.ac.za
+usblearn.belpark.sun.ac.za
+art.sun.ac.za
+businessfutures.ifr.sun.ac.za
+cs244.cs.sun.ac.za
+contest.cs.sun.ac.za
+domus.sun.ac.za
+digital.lib.sun.ac.za
+suvpntyg.sun.ac.za
+bladevm7.cs.sun.ac.za
+spotter.proj.cs.sun.ac.za
+stbad02.stb.sun.ac.za
+process.sun.ac.za
+serviceproxy-dev.sun.ac.za
+businessfuturessa.ifr.sun.ac.za
+narga.sun.ac.za
+cs743.cs.sun.ac.za
+appliedmaths.sun.ac.za
+crmqa365.belpark.sun.ac.za
+bladevm16.cs.sun.ac.za
+ftp.belpark.sun.ac.za
+vcit411.stb.sun.ac.za
+rancher.proj.cs.sun.ac.za
+proj2.cs.sun.ac.za
+autodiscover.belpark.sun.ac.za
+www.physics.sun.ac.za
+f-v-reme01.rga.stb.sun.ac.za
+suvpnnsc.sun.ac.za
+online.sun.ac.za
+sso.sun.ac.za
+intercom.stb.sun.ac.za
+gergapivotman01.gerga.sun.ac.za
+ipacs.mb.sun.ac.za
+crm365.belpark.sun.ac.za
+mrtg.sun.ac.za
+balance01.sun.ac.za
+sciencedirect.com.ez.sun.ac.za
+intranet.belpark.sun.ac.za
+electives.belpark.sun.ac.za
+sacemadev.sun.ac.za
+v240-07.sun.ac.za
+gerga-ovd-osm1.sun.ac.za
+hpc1-storage2.sun.ac.za
+www.eng-postgrad.sun.ac.za
+list.sun.ac.za
+sunepo01.stb.sun.ac.za
+scholardata.sun.ac.za
+jhub.cs.sun.ac.za
+clblade-9.cs.sun.ac.za
+bladevm14.cs.sun.ac.za
+caf7.sun.ac.za
+www.ifr.sun.ac.za
+events.ifr.sun.ac.za
+bpclync1.belpark.sun.ac.za
+www.resep.sun.ac.za
+bpcaccpac01.belpark.sun.ac.za
+infoserv.sun.ac.za
+www.cs.sun.ac.za
+doclib.belpark.sun.ac.za
+s15073270lan.sun.ac.za
+caf6.sun.ac.za
+facultyit.sun.ac.za
+sunadcip2.sun.ac.za
+clblade-9-tabla.cs.sun.ac.za
+languagecentre.sun.ac.za
+learn.sun.ac.za
+academic.eb.com.ez.sun.ac.za
+iheat.sun.ac.za
+staff.lib.sun.ac.za
+esl.ee.sun.ac.za
+timetable.sun.ac.za
+bpcwpdev02.belpark.sun.ac.za
+dialin.sun.ac.za
+www.spl.sun.ac.za
+stbwsus02.stb.sun.ac.za
+scholar-google-com.ez.sun.ac.za
+ieeexplore.ieee.org.ez.sun.ac.za
+fwa.sun.ac.za
+surveys03.stb.sun.ac.za
+studentapi-training.sun.ac.za
+bpcwordpress01.belpark.sun.ac.za
+bpccareers01.belpark.sun.ac.za
+csdev.sun.ac.za
+sulug.sun.ac.za
+bpcict.sun.ac.za
+bladevm9.cs.sun.ac.za
+sso-legacy.sun.ac.za
+grid.sun.ac.za
+endler.sun.ac.za
+smtp.sun.ac.za
+www0.sun.ac.za
+sopmp.sun.ac.za
+projects.pages.cs.sun.ac.za
+federate.sun.ac.za
+cs345.cs.sun.ac.za
+cs878.cs.sun.ac.za
+gerga-ovd-owa1.sun.ac.za
+tygmed01.sun.ac.za
+www.mecheng.sun.ac.za
+www.ml.sun.ac.za
+worx.rga.stb.sun.ac.za
+id.sun.ac.za
+cs746.cs.sun.ac.za
+mathsci.sun.ac.za
+bpccrm01.belpark.sun.ac.za
+servicedesktest.sun.ac.za
+rw146.cs.sun.ac.za
+cs.sun.ac.za
+bladevm10-bmc.cs.sun.ac.za
+www.sarcpl.sun.ac.za
+stbwatkorpus.sun.ac.za
+rw745.cs.sun.ac.za
+internal.infosci.sun.ac.za
+maties2.sun.ac.za
+webmail.ma2.sun.ac.za
+rw744.cs.sun.ac.za
+gergapivot3vcs.rga.stb.sun.ac.za
+associatedftp.sun.ac.za
+sagwri.sun.ac.za
+v240-01.sun.ac.za
+mikrotikvpn.sun.ac.za
+oauth-sandbox.sun.ac.za
+stbsp01.stb.sun.ac.za
+cs714.cs.sun.ac.za
+bladevm17.cs.sun.ac.za
+listdev.sun.ac.za
+bpcweb10.belpark.sun.ac.za
+alp.lib.sun.ac.za
+esat.sun.ac.za
+science.sun.ac.za
+dagbreek.sun.ac.za
+referenceworks.brillonline.com.ez.sun.ac.za
+safe.sun.ac.za
+cs214.cs.sun.ac.za
+rw314.cs.sun.ac.za
+portal.igpublish.com.ez.sun.ac.za
+reference.sabinet.co.za.ez.sun.ac.za
+isic-1.belpark.sun.ac.za
+kroon.cs.sun.ac.za
+sunvs.sun.ac.za
+eduroam1.sun.ac.za
+stbplanonqa02.stb.sun.ac.za
+mail1.sun.ac.za
+www.crses.sun.ac.za
+gerga-ovd-ofs1.sun.ac.za
+oda2-uatdevsoa1.sun.ac.za
+sun.ac.za
+speedtest.belpark.sun.ac.za
+bach.sun.ac.za
+stbsp01old.stb.sun.ac.za
+ittd418446-registrasies.sun.ac.za
+online-sagepub-com.ez.sun.ac.za
+gergavcenter6.rga.stb.sun.ac.za
+stbwsus01.stb.sun.ac.za
+ncbi.nlm.nih.gov.ez.sun.ac.za
+bladevm9-bmc.cs.sun.ac.za
+sunsfx.hosted.exlibrisgroup.com.ez.sun.ac.za
+bladevm7-bmc.cs.sun.ac.za
+reviewethics.sun.ac.za
+puppet.proj.cs.sun.ac.za
+serviceproxy-test.sun.ac.za
+svrg.sun.ac.za
+rw364.cs.sun.ac.za
+rw716.cs.sun.ac.za
+belparkvpn.sun.ac.za
+dttc-tserv.sun.ac.za
+stbopen.sun.ac.za
+caf-hpc1.sun.ac.za
+rw714.cs.sun.ac.za
+caf4.sun.ac.za
+maties.tucows.sun.ac.za
+web.ee.sun.ac.za
+rw354.cs.sun.ac.za
+rw878.cs.sun.ac.za
+cs114.cs.sun.ac.za
+schools.sun.ac.za
+link.springer.com.ez.sun.ac.za
+usb.sun.ac.za
+stbeskerprod01.stb.sun.ac.za
+teamssbc.sun.ac.za
+web.lib.sun.ac.za
+student-demo.sun.ac.za
+stbsp01.sun.ac.za
+clientservices.sun.ac.za
+connect.belpark.sun.ac.za
+news.sun.ac.za
+cmap.tyg.sun.ac.za
+git.cs.sun.ac.za
+find.galegroup.com.ez.sun.ac.za
+journals.sagepub.com.ez.sun.ac.za
+www.dsp.sun.ac.za
+www.firga.sun.ac.za
+caf5.sun.ac.za
+baobab.sun.ac.za
+www.usb.sun.ac.za
+learn01.sun.ac.za
+securevpn.sun.ac.za
+prod-osb.sun.ac.za
+gnas4.sun.ac.za
+galeracluster.sun.ac.za
+legacy.sun.ac.za
+www1.sun.ac.za
+ccs.esl.sun.ac.za
+maties1.sun.ac.za
+www.imstus.sun.ac.za
+lib.sun.ac.za
+oxfordreference.com.ez.sun.ac.za
+proxy0.sun.ac.za
+bpccrm07.belpark.sun.ac.za
+belpark.sun.ac.za
+concentrating.sun.ac.za
+media.belpark.sun.ac.za
+rw742.cs.sun.ac.za
+www.civeng.sun.ac.za
+learn.belpark.sun.ac.za
+rw244.cs.sun.ac.za
+libraryict.sun.ac.za
+shl.belpark.sun.ac.za
+bpcspwfe01.belpark.sun.ac.za
+rw743.cs.sun.ac.za
+bpcnetapp01.belpark.sun.ac.za
+stbsp06.stb.sun.ac.za
+sacema.sun.ac.za
+irold.sun.ac.za
+math.sun.ac.za
+cs144.cs.sun.ac.za
+git.sun.ac.za
+socialjustice.sun.ac.za
+narga.rga.stb.sun.ac.za
+www0dev.sun.ac.za
+registry.sun.ac.za
+hpc1.sun.ac.za
+resep.sun.ac.za
+hybridlearning.sun.ac.za
+bigmetal.cs.sun.ac.za
+bpcwordpress03.belpark.sun.ac.za
+bladevm10.cs.sun.ac.za
+bladevm19.cs.sun.ac.za
+helio100.sun.ac.za
+dialin.belpark.sun.ac.za
+rw315.cs.sun.ac.za
+journals.co.za.ez.sun.ac.za
+www.ubuntu.sun.ac.za
+www.sarad.co.za.ez.sun.ac.za
+mfm.sun.ac.za
+web.a.ebscohost.com.ez.sun.ac.za
+cs146.cs.sun.ac.za
+imap.sun.ac.za
+peg.sun.ac.za
+pay.sun.ac.za
+mhic.sun.ac.za
+law.sun.ac.za
+tandfebooks.com.ez.sun.ac.za
+www.esl.sun.ac.za
+apex.sun.ac.za
+buildserver.sun.ac.za
+bladevm2-bmc.cs.sun.ac.za
+saic-it.sun.ac.za
+portal-app1.sun.ac.za
+sun022.sun.ac.za
+stb-v-ac01.rga.stb.sun.ac.za
+narga.pages.cs.sun.ac.za
+www.shortcourses.sun.ac.za
+www.tw.sun.ac.za
+stbsplustest.stb.sun.ac.za
+accessscience.com.ez.sun.ac.za
+usb-ns.sun.ac.za
+adm459614.sun.ac.za
+onlinedev.sun.ac.za
+wiki.dsp.sun.ac.za
+matiescom.sun.ac.za
+havarti.cs.sun.ac.za
+arubavpn.sun.ac.za
+rw324.cs.sun.ac.za
+lyncdiscover.sun.ac.za
+reg.cs.sun.ac.za
+web.ebscohost.com.ez.sun.ac.za
+test-membrane.sun.ac.za
+mail.belpark.sun.ac.za
+bcollege.sun.ac.za
+servicebus.belpark.sun.ac.za
+sr.sun.ac.za
+cs711.cs.sun.ac.za
+cs716.cs.sun.ac.za
+video.belpark.sun.ac.za
+acia.sun.ac.za
+cse214.cs.sun.ac.za
+splus.sun.ac.za
+cs713.cs.sun.ac.za
+nrv.sun.ac.za
+stream.sun.ac.za
+webassess.cs.sun.ac.za
+chemeng.sun.ac.za
+civeng.sun.ac.za
+bladevm1.cs.sun.ac.za
+ipw2022.sun.ac.za
+stbeskerdev01.stb.sun.ac.za
+isgsb2020.sun.ac.za
+uribl.sun.ac.za
+campusmap.sun.ac.za
+milestone-vms.stb.sun.ac.za
+bpcweb04.belpark.sun.ac.za
+cs324.cs.sun.ac.za
+sites.sun.ac.za
+adserver.sun.ac.za
+proxy1.sun.ac.za
+simtel.sun.ac.za
+media.sun.ac.za
+rw345.cs.sun.ac.za
+frias.cs.sun.ac.za
+sungis10.stb.sun.ac.za
+www.esl.ee.sun.ac.za
+consent.sun.ac.za
+www.ber.sun.ac.za
+bpcwordpress02.belpark.sun.ac.za
+www.sun.ac.za
+cs744.cs.sun.ac.za
+www.aidscentre.sun.ac.za
+amber.ee.sun.ac.za
+www.clc.sun.ac.za
+amethyst-cardserver.sun.ac.za
+or2020.sun.ac.za
+tyg-nagios.sun.ac.za
+itservices.sun.ac.za
+bpcmb03.belpark.sun.ac.za
+firga-s203-el03.rga.stb.sun.ac.za
+bpccrmqa07.belpark.sun.ac.za
+pegvpn.sun.ac.za
+inetkey.sun.ac.za
+blogs.lib.sun.ac.za
+sd03.sun.ac.za
+neuroscience.sun.ac.za
+stbxrsprd.stb.sun.ac.za
+license.sun.ac.za
+ir2.sun.ac.za
+matiesapp.sun.ac.za
+vpnold.sun.ac.za
+sunrecords.sun.ac.za
+knowledge.sagepub.com.ez.sun.ac.za
+globus01.sun.ac.za
+bibj-pc-455735.stb.sun.ac.za
+www.informatics.sun.ac.za
+rw741.cs.sun.ac.za
+webmail.belpark.sun.ac.za
+crest.sun.ac.za
+clblade-9-0.cs.sun.ac.za
+qnapnas.ee.sun.ac.za
+sunfin.sun.ac.za
+learnhelp.sun.ac.za
+bpcmoodle05.belpark.sun.ac.za
+usbedmoodle04.belpark.sun.ac.za
+admin-apps.isiknowledge.com.ez.sun.ac.za
+rw113.cs.sun.ac.za
+multisite.sun.ac.za
+cs745.cs.sun.ac.za
+cs315.cs.sun.ac.za
+stbapps01.stb.sun.ac.za
+cs314.cs.sun.ac.za
+bladevm2.cs.sun.ac.za
+test-midtier.sun.ac.za
+bpcrds01.belpark.sun.ac.za
+rw748.cs.sun.ac.za
+aspen.tw.sun.ac.za
+chat.sun.ac.za
+proj1.cs.sun.ac.za
+logs.sun.ac.za
+bpcsupport.belpark.sun.ac.za
+autodiscover.exchange.sun.ac.za
+sunsurveys.sun.ac.za
+suvpning.sun.ac.za
+mml.pages.cs.sun.ac.za
+smtp.prg.sun.ac.za
+www.suncep.sun.ac.za
+bpclync3.belpark.sun.ac.za
+bpcmoodle04.belpark.sun.ac.za

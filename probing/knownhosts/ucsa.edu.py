@@ -1,10 +1,6 @@
-NXDOMAIN	webmail.ucsa.edu.py
-NXDOMAIN	webdisk.ucsa.edu.py
-NOERROR	av.ucsa.edu.py
-NOERROR	apps.ucsa.edu.py
-NXDOMAIN	cpanel.ucsa.edu.py
-NOERROR	ucsa.edu.py
-NOERROR	mail.ucsa.edu.py
-NOERROR	www.ucsa.edu.py
-NOERROR	autodiscover.ucsa.edu.py
-NXDOMAIN	gudurix.ucsa.edu.py
+av.ucsa.edu.py
+apps.ucsa.edu.py
+ucsa.edu.py
+mail.ucsa.edu.py
+www.ucsa.edu.py
+autodiscover.ucsa.edu.py

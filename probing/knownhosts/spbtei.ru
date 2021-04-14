@@ -1,11 +1,11 @@
-NOERROR	msdl.spbtei.ru
-NOERROR	bibl.spbtei.ru
-NOERROR	edu.spbtei.ru
-NOERROR	spbtei.ru
-NOERROR	portasp.spbtei.ru
-NOERROR	www.spbtei.ru
-NOERROR	conf.spbtei.ru
-NOERROR	mail.spbtei.ru
-NOERROR	en.spbtei.ru
-NOERROR	smart.spbtei.ru
-NOERROR	journal.spbtei.ru
+msdl.spbtei.ru
+bibl.spbtei.ru
+edu.spbtei.ru
+spbtei.ru
+portasp.spbtei.ru
+www.spbtei.ru
+conf.spbtei.ru
+mail.spbtei.ru
+en.spbtei.ru
+smart.spbtei.ru
+journal.spbtei.ru

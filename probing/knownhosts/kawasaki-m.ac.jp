@@ -1,67 +1,61 @@
-NOERROR	www.kawasaki-m.ac.jp
-NOERROR	h.kawasaki-m.ac.jp
-NOERROR	m.kawasaki-m.ac.jp
-NOERROR	gate-jc.kawasaki-m.ac.jp
-NOERROR	rt-kw-p0.kawasaki-m.ac.jp
-NOERROR	g.kawasaki-m.ac.jp
-NOERROR	keli2.kawasaki-m.ac.jp
-NOERROR	mail-hp.kawasaki-m.ac.jp
-NOERROR	mail.kawasaki-m.ac.jp
-NOERROR	vod.kawasaki-m.ac.jp
-NOERROR	gkweb.kawasaki-m.ac.jp
-NXDOMAIN	altair.kawasaki-m.ac.jp
-NXDOMAIN	shuttle.kawasaki-m.ac.jp
-NOERROR	jcweb.kawasaki-m.ac.jp
-NOERROR	jc-els.kawasaki-m.ac.jp
-NOERROR	kwfw-test.kawasaki-m.ac.jp
-NOERROR	send.kawasaki-m.ac.jp
-NOERROR	jcnet.kawasaki-m.ac.jp
-NOERROR	www2.kawasaki-m.ac.jp
-NOERROR	mail-mw.kawasaki-m.ac.jp
-NOERROR	mail-kw1.kawasaki-m.ac.jp
-NOERROR	mail-gw2.kawasaki-m.ac.jp
-NOERROR	mail-bcc.kawasaki-m.ac.jp
-NOERROR	gsap1.kawasaki-m.ac.jp
-NOERROR	keli-mw.kawasaki-m.ac.jp
-NOERROR	mednet.kawasaki-m.ac.jp
-NOERROR	c.kawasaki-m.ac.jp
-NOERROR	j.kawasaki-m.ac.jp
-NOERROR	webmail.kawasaki-m.ac.jp
-NOERROR	coronary.kawasaki-m.ac.jp
-NOERROR	s.kawasaki-m.ac.jp
-NOERROR	pfap1.kawasaki-m.ac.jp
-NOERROR	proxy-kct.kawasaki-m.ac.jp
-NOERROR	kw-web.kawasaki-m.ac.jp
-NOERROR	kmscc001.kawasaki-m.ac.jp
-NOERROR	gate-kw.kawasaki-m.ac.jp
-NOERROR	medweb.kawasaki-m.ac.jp
-NOERROR	pfweb.kawasaki-m.ac.jp
-NOERROR	mwweb.kawasaki-m.ac.jp
-NOERROR	mail-jc.kawasaki-m.ac.jp
-NOERROR	gate-mw.kawasaki-m.ac.jp
-NOERROR	kawasaki-m.ac.jp
-NOERROR	library.kawasaki-m.ac.jp
-NOERROR	mail-gw.kawasaki-m.ac.jp
-NOERROR	mail-gk.kawasaki-m.ac.jp
-NOERROR	gate-hsc.kawasaki-m.ac.jp
-NOERROR	a.kawasaki-m.ac.jp
-NXDOMAIN	kmscc002.kawasaki-m.ac.jp
-NXDOMAIN	medweb.std.kawasaki-m.ac.jp
-NOERROR	z.kawasaki-m.ac.jp
-NOERROR	w.kawasaki-m.ac.jp
-NOERROR	wonder.kawasaki-m.ac.jp
-NOERROR	proxy.kawasaki-m.ac.jp
-NOERROR	mwnet.kawasaki-m.ac.jp
-NOERROR	r.kawasaki-m.ac.jp
-NOERROR	i.kawasaki-m.ac.jp
-NOERROR	kwweb-res.kawasaki-m.ac.jp
-NOERROR	k.kawasaki-m.ac.jp
-NOERROR	gsap2.kawasaki-m.ac.jp
-NXDOMAIN	recruit.kawasaki-m.ac.jp
-NOERROR	mail-med.kawasaki-m.ac.jp
-NOERROR	mail-me.kawasaki-m.ac.jp
-NOERROR	kmail.kawasaki-m.ac.jp
-NOERROR	e-hinfo.kawasaki-m.ac.jp
-NXDOMAIN	gsap3.kawasaki-m.ac.jp
-NOERROR	gsweb.kawasaki-m.ac.jp
-NOERROR	rinri-system.kawasaki-m.ac.jp
+www.kawasaki-m.ac.jp
+h.kawasaki-m.ac.jp
+m.kawasaki-m.ac.jp
+gate-jc.kawasaki-m.ac.jp
+rt-kw-p0.kawasaki-m.ac.jp
+g.kawasaki-m.ac.jp
+keli2.kawasaki-m.ac.jp
+mail-hp.kawasaki-m.ac.jp
+mail.kawasaki-m.ac.jp
+vod.kawasaki-m.ac.jp
+gkweb.kawasaki-m.ac.jp
+jcweb.kawasaki-m.ac.jp
+jc-els.kawasaki-m.ac.jp
+kwfw-test.kawasaki-m.ac.jp
+send.kawasaki-m.ac.jp
+jcnet.kawasaki-m.ac.jp
+www2.kawasaki-m.ac.jp
+mail-mw.kawasaki-m.ac.jp
+mail-kw1.kawasaki-m.ac.jp
+mail-gw2.kawasaki-m.ac.jp
+mail-bcc.kawasaki-m.ac.jp
+gsap1.kawasaki-m.ac.jp
+keli-mw.kawasaki-m.ac.jp
+mednet.kawasaki-m.ac.jp
+c.kawasaki-m.ac.jp
+j.kawasaki-m.ac.jp
+webmail.kawasaki-m.ac.jp
+coronary.kawasaki-m.ac.jp
+s.kawasaki-m.ac.jp
+pfap1.kawasaki-m.ac.jp
+proxy-kct.kawasaki-m.ac.jp
+kw-web.kawasaki-m.ac.jp
+kmscc001.kawasaki-m.ac.jp
+gate-kw.kawasaki-m.ac.jp
+medweb.kawasaki-m.ac.jp
+pfweb.kawasaki-m.ac.jp
+mwweb.kawasaki-m.ac.jp
+mail-jc.kawasaki-m.ac.jp
+gate-mw.kawasaki-m.ac.jp
+kawasaki-m.ac.jp
+library.kawasaki-m.ac.jp
+mail-gw.kawasaki-m.ac.jp
+mail-gk.kawasaki-m.ac.jp
+gate-hsc.kawasaki-m.ac.jp
+a.kawasaki-m.ac.jp
+z.kawasaki-m.ac.jp
+w.kawasaki-m.ac.jp
+wonder.kawasaki-m.ac.jp
+proxy.kawasaki-m.ac.jp
+mwnet.kawasaki-m.ac.jp
+r.kawasaki-m.ac.jp
+i.kawasaki-m.ac.jp
+kwweb-res.kawasaki-m.ac.jp
+k.kawasaki-m.ac.jp
+gsap2.kawasaki-m.ac.jp
+mail-med.kawasaki-m.ac.jp
+mail-me.kawasaki-m.ac.jp
+kmail.kawasaki-m.ac.jp
+e-hinfo.kawasaki-m.ac.jp
+gsweb.kawasaki-m.ac.jp
+rinri-system.kawasaki-m.ac.jp

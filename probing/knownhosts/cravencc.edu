@@ -1,235 +1,63 @@
-NOERROR	cldx143.cloud.cravencc.edu
-NXDOMAIN	crossroute-test.ad.cravencc.edu
-NOERROR	ldap.cravencc.edu
-NXDOMAIN	cldx12.ad.cravencc.edu
-NXDOMAIN	nps.ad.cravencc.edu
-NXDOMAIN	cldx201.cloud.cravencc.edu
-NXDOMAIN	cldx02.ad.cravencc.edu
-NXDOMAIN	www.blackboard.cravencc.edu
-NXDOMAIN	cldi13.cloud.cravencc.edu
-NXDOMAIN	dc3.cravencc.edu
-NXDOMAIN	cldx16.cloud.cravencc.edu
-NOERROR	login.ezproxy.cravencc.edu
-NXDOMAIN	sql02.cravencc.edu
-NXDOMAIN	cfnc-test.ad.cravencc.edu
-NOERROR	media.cravencc.edu
-NXDOMAIN	moodlevids.cravencc.edu
-NXDOMAIN	falink-prod.ad.cravencc.edu
-NXDOMAIN	schedule.cravencc.edu
-NXDOMAIN	cisadmin.cravencc.edu
-NXDOMAIN	webapi-prod.ad.cravencc.edu
-NXDOMAIN	cldi01.ad.cravencc.edu
-NOERROR	webadv-test.cloud.cravencc.edu
-NXDOMAIN	cldi08.cloud.cravencc.edu
-NXDOMAIN	pg-test.ad.cravencc.edu
-NOERROR	surveys.cravencc.edu
-NXDOMAIN	cldx99.cloud.cravencc.edu
-NOERROR	eforms.cravencc.edu
-NXDOMAIN	epro-prod.ad.cravencc.edu
-NXDOMAIN	ldaps.cravencc.edu
-NXDOMAIN	cldx17.ad.cravencc.edu
-NOERROR	palanthas.cravencc.edu
-NXDOMAIN	cldx03.cloud.cravencc.edu
-NXDOMAIN	www.moodle.cravencc.edu
-NOERROR	cloud.cravencc.edu
-NXDOMAIN	cldi12.ad.cravencc.edu
-NXDOMAIN	csc.cravencc.edu
-NXDOMAIN	cldi18.cloud.cravencc.edu
-NXDOMAIN	avisoconnect.ad.cravencc.edu
-NXDOMAIN	cfnc-prod.cloud.cravencc.edu
-NOERROR	falink-prod.cloud.cravencc.edu
-NXDOMAIN	docefill.ad.cravencc.edu
-NOERROR	reset.cravencc.edu
-NXDOMAIN	cldx13.ad.cravencc.edu
-NOERROR	cldx150.cloud.cravencc.edu
-NXDOMAIN	cldx12.cloud.cravencc.edu
-NXDOMAIN	api1.ad.cravencc.edu
-NXDOMAIN	epro-prod.cloud.cravencc.edu
-NXDOMAIN	cldi03.cloud.cravencc.edu
-NOERROR	mobile.cravencc.edu
-NXDOMAIN	testdc.test.cravencc.edu
-NXDOMAIN	avisoconnect.cloud.cravencc.edu
-NXDOMAIN	www.datatelui.cravencc.edu
-NXDOMAIN	cisco.cravencc.edu
-NXDOMAIN	cldi05.ad.cravencc.edu
-NXDOMAIN	api-ss.cravencc.edu
-NXDOMAIN	printsrv1.ad.cravencc.edu
-NXDOMAIN	www.wlc1.cravencc.edu
-NOERROR	ezproxy.cravencc.edu
-NXDOMAIN	extdns1.cloud.cravencc.edu
-NXDOMAIN	pcoip.ad.cravencc.edu
-NXDOMAIN	cldi08.ad.cravencc.edu
-NOERROR	jss2.cravencc.edu
-NXDOMAIN	wms.ad.cravencc.edu
-NXDOMAIN	gwsync.cravencc.edu
-NOERROR	pg-prod.cloud.cravencc.edu
-NOERROR	ss-test.cloud.cravencc.edu
-NXDOMAIN	cldx06.cloud.cravencc.edu
-NOERROR	help.cravencc.edu
-NXDOMAIN	dc1.test.cravencc.edu
-NXDOMAIN	sql2k8.ad.cravencc.edu
-NXDOMAIN	epro-test.ad.cravencc.edu
-NXDOMAIN	ui5-test.ad.cravencc.edu
-NOERROR	iaweb.cravencc.edu
-NOERROR	cravencc.edu
-NXDOMAIN	iaprint.ad.cravencc.edu
-NXDOMAIN	cldi02.ad.cravencc.edu
-NXDOMAIN	cldx02.cloud.cravencc.edu
-NXDOMAIN	interdns2.cloud.cravencc.edu
-NXDOMAIN	mobile-test.ad.cravencc.edu
-NXDOMAIN	cldi06.cloud.cravencc.edu
-NXDOMAIN	cldi14.ad.cravencc.edu
-NXDOMAIN	cldx13.cloud.cravencc.edu
-NOERROR	rodc1.ad.cravencc.edu
-NOERROR	webadvisor.cravencc.edu
-NXDOMAIN	cldi11.cloud.cravencc.edu
-NXDOMAIN	composer.ad.cravencc.edu
-NXDOMAIN	dc2.pci.cravencc.edu
-NXDOMAIN	ui5-test.cravencc.edu
-NXDOMAIN	sql.cravencc.edu
-NXDOMAIN	dc1.ad.cravencc.edu
-NXDOMAIN	webapi-test.ad.cravencc.edu
-NXDOMAIN	pg-prod.ad.cravencc.edu
-NXDOMAIN	eprocurement.cravencc.edu
-NOERROR	licensing.cravencc.edu
-NXDOMAIN	etrans-prod.ad.cravencc.edu
-NXDOMAIN	cldi09.cloud.cravencc.edu
-NXDOMAIN	mobile-prod.ad.cravencc.edu
-NXDOMAIN	cldx16.ad.cravencc.edu
-NOERROR	cldx153.cloud.cravencc.edu
-NXDOMAIN	pci.cravencc.edu
-NXDOMAIN	cldx11.cloud.cravencc.edu
-NXDOMAIN	informer.cloud.cravencc.edu
-NOERROR	sixsigma.cravencc.edu
-NXDOMAIN	cldi03.ad.cravencc.edu
-NXDOMAIN	api-ss.ad.cravencc.edu
-NXDOMAIN	www.mail.cravencc.edu
-NXDOMAIN	cldx01.ad.cravencc.edu
-NXDOMAIN	cldi13.ad.cravencc.edu
-NXDOMAIN	ui5.cravencc.edu
-NXDOMAIN	cldx04.cloud.cravencc.edu
-NXDOMAIN	sccm.ad.cravencc.edu
-NXDOMAIN	cldx03.ad.cravencc.edu
-NXDOMAIN	iafolder.ad.cravencc.edu
-NXDOMAIN	disted.cravencc.edu
-NOERROR	www.cravencc.edu
-NXDOMAIN	sql2k8.cravencc.edu
-NXDOMAIN	rodc.cravencc.edu
-NOERROR	panther.cravencc.edu
-NXDOMAIN	falink-test.ad.cravencc.edu
-NXDOMAIN	ui-prod.cloud.cravencc.edu
-NOERROR	courses.cravencc.edu
-NOERROR	cldx141.cloud.cravencc.edu
-NXDOMAIN	cldx07.ad.cravencc.edu
-NOERROR	selfservice-test.cravencc.edu
-NXDOMAIN	webadv-test.ad.cravencc.edu
-NXDOMAIN	interdns1.cloud.cravencc.edu
-NXDOMAIN	webapi-prod.cloud.cravencc.edu
-NXDOMAIN	cldi98.ad.cravencc.edu
-NXDOMAIN	colleague.cloud.cravencc.edu
-NXDOMAIN	extdns1.ad.cravencc.edu
-NXDOMAIN	mobile-test.cloud.cravencc.edu
-NXDOMAIN	dc2.ad.cravencc.edu
-NXDOMAIN	nps1.ad.cravencc.edu
-NXDOMAIN	cldi07.cloud.cravencc.edu
-NOERROR	foundation.cravencc.edu
-NOERROR	pg-test.cravencc.edu
-NXDOMAIN	cldi14.cloud.cravencc.edu
-NOERROR	selfservice.cravencc.edu
-NXDOMAIN	cldi02.cloud.cravencc.edu
-NXDOMAIN	etrans-test.ad.cravencc.edu
-NXDOMAIN	colleague.ad.cravencc.edu
-NXDOMAIN	cldx14.cloud.cravencc.edu
-NXDOMAIN	interdns2.ad.cravencc.edu
-NOERROR	cldx152.cloud.cravencc.edu
-NOERROR	itunes.cravencc.edu
-NOERROR	pg-production.cravencc.edu
-NXDOMAIN	cldx100.cloud.cravencc.edu
-NXDOMAIN	doceserv.ad.cravencc.edu
-NOERROR	wlc1.cravencc.edu
-NXDOMAIN	cldi04.ad.cravencc.edu
-NOERROR	rodc.ad.cravencc.edu
-NOERROR	avisoconnect.cravencc.edu
-NXDOMAIN	reset.ad.cravencc.edu
-NXDOMAIN	view.ad.cravencc.edu
-NOERROR	etrans-test.cloud.cravencc.edu
-NOERROR	sharepoint.ad.cravencc.edu
-NXDOMAIN	jss.cravencc.edu
-NXDOMAIN	cldi12.cloud.cravencc.edu
-NXDOMAIN	cldi04.cloud.cravencc.edu
-NXDOMAIN	testdc2.test.cravencc.edu
-NXDOMAIN	dc02.pci.cravencc.edu
-NXDOMAIN	view2.ad.cravencc.edu
-NXDOMAIN	cldi99.ad.cravencc.edu
-NXDOMAIN	cldx04.ad.cravencc.edu
-NXDOMAIN	datatelui.cravencc.edu
-NOERROR	mail.cravencc.edu
-NXDOMAIN	epro-test.cloud.cravencc.edu
-NXDOMAIN	cldi18.ad.cravencc.edu
-NOERROR	cravnt01.cravencc.edu
-NOERROR	facilities.cravencc.edu
-NOERROR	cldx151.cloud.cravencc.edu
-NOERROR	weathercam.cravencc.edu
-NOERROR	webtest.cravencc.edu
-NXDOMAIN	cldi16.cloud.cravencc.edu
-NOERROR	sftp.cravencc.edu
-NXDOMAIN	dc01.pci.cravencc.edu
-NOERROR	moodle.cravencc.edu
-NOERROR	api1test.cravencc.edu
-NXDOMAIN	cldx99.ad.cravencc.edu
-NXDOMAIN	ss-prod.ad.cravencc.edu
-NOERROR	webadv-prod.cloud.cravencc.edu
-NXDOMAIN	crossroute.ad.cravencc.edu
-NOERROR	pg-test.cloud.cravencc.edu
-NOERROR	etrans-prod.cloud.cravencc.edu
-NXDOMAIN	cldx14.ad.cravencc.edu
-NOERROR	kms.cravencc.edu
-NXDOMAIN	bastion.ad.cravencc.edu
-NXDOMAIN	informer.ad.cravencc.edu
-NXDOMAIN	sql.ad.cravencc.edu
-NXDOMAIN	cfnc-test.cloud.cravencc.edu
-NXDOMAIN	cfnc-prod.ad.cravencc.edu
-NXDOMAIN	dc3.ad.cravencc.edu
-NXDOMAIN	webapi-test.cloud.cravencc.edu
-NOERROR	relay.cravencc.edu
-NXDOMAIN	cldx07.cloud.cravencc.edu
-NXDOMAIN	iaweb.ad.cravencc.edu
-NXDOMAIN	w.cravencc.edu
-NXDOMAIN	cldx11.ad.cravencc.edu
-NXDOMAIN	bastion.cloud.cravencc.edu
-NXDOMAIN	falink-test.cloud.cravencc.edu
-NXDOMAIN	ui5.ad.cravencc.edu
-NXDOMAIN	cldx17.cloud.cravencc.edu
-NXDOMAIN	mobile-prod.cloud.cravencc.edu
-NXDOMAIN	cisldap.ad.cravencc.edu
-NXDOMAIN	smop.ad.cravencc.edu
-NOERROR	cldx154.cloud.cravencc.edu
-NXDOMAIN	cldx06.ad.cravencc.edu
-NXDOMAIN	ui-test.cloud.cravencc.edu
-NXDOMAIN	api-ss-test.ad.cravencc.edu
-NXDOMAIN	cldi99.cloud.cravencc.edu
-NOERROR	ss-prod.cloud.cravencc.edu
-NXDOMAIN	ui-prod.ad.cravencc.edu
-NXDOMAIN	cldi05.cloud.cravencc.edu
-NXDOMAIN	cldx100.ad.cravencc.edu
-NXDOMAIN	cldx01.cloud.cravencc.edu
-NXDOMAIN	dc1.pci.cravencc.edu
-NXDOMAIN	cldi19.cloud.cravencc.edu
-NXDOMAIN	interdns1.ad.cravencc.edu
-NXDOMAIN	webadv-prod.ad.cravencc.edu
-NXDOMAIN	dc2.cravencc.edu
-NXDOMAIN	ss-test.ad.cravencc.edu
-NOERROR	ad.cravencc.edu
-NXDOMAIN	view1.ad.cravencc.edu
-NXDOMAIN	cldi98.cloud.cravencc.edu
-NXDOMAIN	informer.cravencc.edu
-NXDOMAIN	sql02.ad.cravencc.edu
-NXDOMAIN	rodc2.ad.cravencc.edu
-NOERROR	cldx142.cloud.cravencc.edu
-NXDOMAIN	ui-test.ad.cravencc.edu
-NXDOMAIN	dc1.cravencc.edu
-NXDOMAIN	cldi01.cloud.cravencc.edu
-NOERROR	gmail.student.cravencc.edu
-NOERROR	cldx140.cloud.cravencc.edu
-NOERROR	helpdesk.cravencc.edu
-NOERROR	api1.cravencc.edu
+cldx143.cloud.cravencc.edu
+ldap.cravencc.edu
+login.ezproxy.cravencc.edu
+media.cravencc.edu
+webadv-test.cloud.cravencc.edu
+surveys.cravencc.edu
+eforms.cravencc.edu
+palanthas.cravencc.edu
+cloud.cravencc.edu
+falink-prod.cloud.cravencc.edu
+reset.cravencc.edu
+cldx150.cloud.cravencc.edu
+mobile.cravencc.edu
+ezproxy.cravencc.edu
+jss2.cravencc.edu
+pg-prod.cloud.cravencc.edu
+ss-test.cloud.cravencc.edu
+help.cravencc.edu
+iaweb.cravencc.edu
+cravencc.edu
+rodc1.ad.cravencc.edu
+webadvisor.cravencc.edu
+licensing.cravencc.edu
+cldx153.cloud.cravencc.edu
+sixsigma.cravencc.edu
+www.cravencc.edu
+panther.cravencc.edu
+courses.cravencc.edu
+cldx141.cloud.cravencc.edu
+selfservice-test.cravencc.edu
+foundation.cravencc.edu
+pg-test.cravencc.edu
+selfservice.cravencc.edu
+cldx152.cloud.cravencc.edu
+itunes.cravencc.edu
+pg-production.cravencc.edu
+wlc1.cravencc.edu
+rodc.ad.cravencc.edu
+avisoconnect.cravencc.edu
+etrans-test.cloud.cravencc.edu
+sharepoint.ad.cravencc.edu
+mail.cravencc.edu
+cravnt01.cravencc.edu
+facilities.cravencc.edu
+cldx151.cloud.cravencc.edu
+weathercam.cravencc.edu
+webtest.cravencc.edu
+sftp.cravencc.edu
+moodle.cravencc.edu
+api1test.cravencc.edu
+webadv-prod.cloud.cravencc.edu
+pg-test.cloud.cravencc.edu
+etrans-prod.cloud.cravencc.edu
+kms.cravencc.edu
+relay.cravencc.edu
+cldx154.cloud.cravencc.edu
+ss-prod.cloud.cravencc.edu
+ad.cravencc.edu
+cldx142.cloud.cravencc.edu
+gmail.student.cravencc.edu
+cldx140.cloud.cravencc.edu
+helpdesk.cravencc.edu
+api1.cravencc.edu

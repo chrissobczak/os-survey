@@ -1,11 +1,10 @@
-NOERROR	webmail.ksa.edu.pk
-NOERROR	ksa.edu.pk
-NOERROR	email.ksa.edu.pk
-NOERROR	cpanel.ksa.edu.pk
-NOERROR	new.ksa.edu.pk
-NXDOMAIN	www.mail.ksa.edu.pk
-NOERROR	cpcalendars.ksa.edu.pk
-NOERROR	cpcontacts.ksa.edu.pk
-NOERROR	webdisk.ksa.edu.pk
-NOERROR	www.ksa.edu.pk
-NOERROR	mail.ksa.edu.pk
+webmail.ksa.edu.pk
+ksa.edu.pk
+email.ksa.edu.pk
+cpanel.ksa.edu.pk
+new.ksa.edu.pk
+cpcalendars.ksa.edu.pk
+cpcontacts.ksa.edu.pk
+webdisk.ksa.edu.pk
+www.ksa.edu.pk
+mail.ksa.edu.pk

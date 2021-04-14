@@ -1,4 +1,0 @@
-NXDOMAIN	isa.isa.fupl.asso.fr
-NXDOMAIN	ia2004.isa.fupl.asso.fr
-NXDOMAIN	isasrv2.isa.fupl.asso.fr
-NXDOMAIN	www.isa.fupl.asso.fr

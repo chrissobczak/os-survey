@@ -1,332 +1,204 @@
-NOERROR	csinfo.stockton.edu
-NOERROR	castest.stockton.edu
-NXDOMAIN	dh.stockton.edu
-NXDOMAIN	emaildev.stockton.edu
-NXDOMAIN	beno.stockton.edu
-NOERROR	services.stockton.edu
-NXDOMAIN	subscribe112.stockton.edu
-NXDOMAIN	bluto.stockton.edu
-NOERROR	intraweb.stockton.edu
-NOERROR	mynah.stockton.edu
-NXDOMAIN	heron.stockton.edu
-NXDOMAIN	vox.stockton.edu
-NOERROR	blogs.stockton.edu
-NOERROR	bifrost.stockton.edu
-NOERROR	compserv.stockton.edu
-NOERROR	voicemail.stockton.edu
-NOERROR	webmail2013.stockton.edu
-NXDOMAIN	stocktonasa.stockton.edu
-NOERROR	doi-org.ezproxy.stockton.edu
-NOERROR	mail.stockton.edu
-NOERROR	wac-srv-01.stockton.edu
-NOERROR	arcgis.stockton.edu
-NOERROR	exchange2007.stockton.edu
-NOERROR	www.mergentonline.com.ezproxy.stockton.edu
-NOERROR	sirsi.stockton.edu
-NOERROR	www.stockton.edu
-NXDOMAIN	fsmacserv.stockton.edu
-NOERROR	scifinder-cas-org.ezproxy.stockton.edu
-NOERROR	gannet.stockton.edu
-NXDOMAIN	subscribe4.stockton.edu
-NOERROR	ojs.stockton.edu
-NOERROR	ospreysgive.stockton.edu
-NXDOMAIN	subscribe241.stockton.edu
-NOERROR	sccm-ps1.stockton.edu
-NOERROR	aspweb.stockton.edu
-NOERROR	dag.testenv.stockton.edu
-NOERROR	bbwebtest.stockton.edu
-NOERROR	webmo-2.stockton.edu
-NOERROR	commencement.stockton.edu
-NOERROR	loki.stockton.edu
-NOERROR	alert.stockton.edu
-NOERROR	dw.stockton.edu
-NXDOMAIN	kh201simopnvr.stockton.edu
-NXDOMAIN	titaniumdb.stockton.edu
-NXDOMAIN	skimmer.stockton.edu
-NXDOMAIN	hscsimop209nvr.stockton.edu
-NOERROR	crcgis2.stockton.edu
-NOERROR	president.stockton.edu
-NXDOMAIN	helpdesktasks.stockton.edu
-NXDOMAIN	subscribe113.stockton.edu
-NXDOMAIN	avupdate.stockton.edu
-NOERROR	25live.stockton.edu
-NOERROR	web.a.ebscohost.com.ezproxy.stockton.edu
-NOERROR	ebookcentral-proquest-com.ezproxy.stockton.edu
-NOERROR	hvac2.stockton.edu
-NOERROR	psig2.stockton.edu
-NOERROR	ezproxy.stockton.edu
-NOERROR	exchange-cas13.stockton.edu
-NXDOMAIN	mermie.stockton.edu
-NOERROR	frodo.stockton.edu
-NOERROR	fsmac1.stockton.edu
-NXDOMAIN	hsc203simopnvr.stockton.edu
-NOERROR	caucus.stockton.edu
-NOERROR	pollingcenter.stockton.edu
-NOERROR	srg.stockton.edu
-NOERROR	admin02.stockton.edu
-NXDOMAIN	subscribe55.stockton.edu
-NXDOMAIN	subscribe110.stockton.edu
-NOERROR	wp.stockton.edu
-NXDOMAIN	vcenter.stockton.edu
-NXDOMAIN	fsmunkiserv.stockton.edu
-NOERROR	cass.stockton.edu
-NXDOMAIN	phys.stockton.edu
-NOERROR	acettc.stockton.edu
-NOERROR	r25ws.stockton.edu
-NOERROR	sasi.stockton.edu
-NOERROR	ediv2.stockton.edu
-NXDOMAIN	subscribe58.stockton.edu
-NXDOMAIN	klank.stockton.edu
-NXDOMAIN	maps-dev.stockton.edu
-NXDOMAIN	alberich.stockton.edu
-NOERROR	textscape.stockton.edu
-NXDOMAIN	wpu.stockton.edu
-NOERROR	my.stockton.edu
-NOERROR	starrez.stockton.edu
-NXDOMAIN	eno.stockton.edu
-NOERROR	acview.stockton.edu
-NXDOMAIN	rscnjvoice.stockton.edu
-NOERROR	graduate.stockton.edu
-NOERROR	muse.jhu.edu.ezproxy.stockton.edu
-NOERROR	blackboard.stockton.edu
-NOERROR	odin.stockton.edu
-NOERROR	recruitpaytest.stockton.edu
-NXDOMAIN	ias01.stockton.edu
-NXDOMAIN	libguides.stockton.edu
-NOERROR	newloki.stockton.edu
-NOERROR	www.lynda.com.ezproxy.stockton.edu
-NOERROR	maitcf.stockton.edu
-NOERROR	dwweb.stockton.edu
-NXDOMAIN	photo.stockton.edu
-NOERROR	sophos2012.stockton.edu
-NOERROR	vdi.stockton.edu
-NOERROR	sunny.stockton.edu
-NXDOMAIN	www.admissions.stockton.edu
-NOERROR	intraweb-test.stockton.edu
-NOERROR	newfrodo.stockton.edu
-NOERROR	ettcusers.stockton.edu
-NXDOMAIN	esm.stockton.edu
-NOERROR	ns2.stockton.edu
-NOERROR	fsvcs2.stockton.edu
-NXDOMAIN	emailprod.stockton.edu
-NXDOMAIN	tssb.stockton.edu
-NXDOMAIN	xtender.stockton.edu
-NOERROR	cltest.stockton.edu
-NXDOMAIN	xtendertest.stockton.edu
-NOERROR	recruitpay.stockton.edu
-NXDOMAIN	cskb.stockton.edu
-NOERROR	stockton.edu
-NOERROR	webcams.stockton.edu
-NXDOMAIN	merchant.stockton.edu
-NOERROR	discovertest.stockton.edu
-NXDOMAIN	merganser.stockton.edu
-NOERROR	crcgis.stockton.edu
-NOERROR	clprod.stockton.edu
-NOERROR	fsmunkireport.stockton.edu
-NOERROR	banproddb.stockton.edu
-NOERROR	1-next-westlaw-com.ezproxy.stockton.edu
-NOERROR	you.stockton.edu
-NOERROR	eduroam-idp.stockton.edu
-NOERROR	wyclif.stockton.edu
-NOERROR	prometheusv.stockton.edu
-NXDOMAIN	scanac.stockton.edu
-NXDOMAIN	subscribe243.stockton.edu
-NXDOMAIN	gekko.stockton.edu
-NXDOMAIN	brutus.stockton.edu
-NOERROR	netreg.stockton.edu
-NOERROR	hipchat.stockton.edu
-NOERROR	adfs.stockton.edu
-NOERROR	aafweb.stockton.edu
-NXDOMAIN	herakles.stockton.edu
-NXDOMAIN	avaya-officelinx.stockton.edu
-NXDOMAIN	subscribe57.stockton.edu
-NOERROR	25livepro.stockton.edu
-NOERROR	licserv-gis.stockton.edu
-NOERROR	acvcs1.stockton.edu
-NXDOMAIN	linuxauth1.stockton.edu
-NOERROR	chemotion.stockton.edu
-NOERROR	indra.stockton.edu
-NOERROR	synergy.stockton.edu
-NOERROR	idp.stockton.edu
-NXDOMAIN	subscribe114.stockton.edu
-NOERROR	ns3.stockton.edu
-NXDOMAIN	caxton.stockton.edu
-NOERROR	pollux.stockton.edu
-NOERROR	fsview.stockton.edu
-NOERROR	register.stockton.edu
-NOERROR	isct.stockton.edu
-NOERROR	zoom.stockton.edu
-NOERROR	library.stockton.edu
-NXDOMAIN	hscsimop208nvr.stockton.edu
-NOERROR	glassfish.stockton.edu
-NOERROR	webmail.stockton.edu
-NXDOMAIN	www.caxton.stockton.edu
-NXDOMAIN	subscribe204.stockton.edu
-NXDOMAIN	hsc208simopnvr.stockton.edu
-NXDOMAIN	klink.stockton.edu
-NOERROR	go.stockton.edu
-NOERROR	lumdev.stockton.edu
-NOERROR	anyconnvpn.stockton.edu
-NXDOMAIN	maps-prod.stockton.edu
-NOERROR	25liveprotest.stockton.edu
-NXDOMAIN	piper.stockton.edu
-NOERROR	web.ebscohost.com.ezproxy.stockton.edu
-NXDOMAIN	newmediastudies.stockton.edu
-NOERROR	staging01.stockton.edu
-NOERROR	wac-srv-02.stockton.edu
-NOERROR	www.jstor.org.ezproxy.stockton.edu
-NXDOMAIN	printnow.stockton.edu
-NOERROR	oclc.stockton.edu
-NOERROR	elevate.stockton.edu
-NOERROR	csdb.stockton.edu
-NOERROR	shigs.stockton.edu
-NOERROR	sirsidev.stockton.edu
-NXDOMAIN	hsc204simopnvr.stockton.edu
-NXDOMAIN	rancher.stockton.edu
-NXDOMAIN	fsmunkiservtest.stockton.edu
-NOERROR	wlfr.stockton.edu
-NOERROR	pym.stockton.edu
-NXDOMAIN	subscribe11.stockton.edu
-NOERROR	web01.lum.stockton.edu
-NOERROR	fsvcs1.stockton.edu
-NOERROR	m.stockton.edu
-NOERROR	srs.stockton.edu
-NOERROR	ldap.stockton.edu
-NOERROR	e-print.stockton.edu
-NXDOMAIN	subscribe19.stockton.edu
-NXDOMAIN	dwtest.stockton.edu
-NOERROR	bxe02.stockton.edu
-NXDOMAIN	thor.stockton.edu
-NOERROR	ims.stockton.edu
-NOERROR	stock01.stockton.edu
-NXDOMAIN	crmrecapp.stockton.edu
-NOERROR	banprodjob.stockton.edu
-NOERROR	fscomposer.stockton.edu
-NOERROR	exp-e.stockton.edu
-NXDOMAIN	dobro.stockton.edu
-NXDOMAIN	subscribe99.stockton.edu
-NXDOMAIN	subscribe242.stockton.edu
-NOERROR	web02.lum.stockton.edu
-NXDOMAIN	dr-banner.stockton.edu
-NXDOMAIN	boa.stockton.edu
-NOERROR	webmo-1.stockton.edu
-NOERROR	banpprddb.stockton.edu
-NOERROR	facilitiesftp.stockton.edu
-NXDOMAIN	odyssey.stockton.edu
-NOERROR	pnc.stockton.edu
-NXDOMAIN	pcs.stockton.edu
-NOERROR	gotest.stockton.edu
-NOERROR	alertus.stockton.edu
-NOERROR	25livetest.stockton.edu
-NXDOMAIN	swan.stockton.edu
-NOERROR	talon.stockton.edu
-NXDOMAIN	scootcaucus.stockton.edu
-NXDOMAIN	subscribe177.stockton.edu
-NXDOMAIN	aden.stockton.edu
-NOERROR	autodiscover.stockton.edu
-NOERROR	stkgis.stockton.edu
-NXDOMAIN	exchange2013.stockton.edu
-NXDOMAIN	vault.hub.stockton.edu
-NOERROR	ns1.stockton.edu
-NOERROR	its.stockton.edu
-NOERROR	connect.stockton.edu
-NXDOMAIN	mailtracking.stockton.edu
-NOERROR	oudev.stockton.edu
-NOERROR	eventmanager.stockton.edu
-NOERROR	fx5ly8ju5l.search.serialssolutions.com.ezproxy.stockton.edu
-NOERROR	browsercheck.stockton.edu
-NOERROR	cas.stockton.edu
-NXDOMAIN	hscsimop203nvr.stockton.edu
-NXDOMAIN	scala.stockton.edu
-NOERROR	licserv-spss.stockton.edu
-NXDOMAIN	dev.stockton.edu
-NXDOMAIN	subscribe3.stockton.edu
-NXDOMAIN	aquatic.stockton.edu
-NXDOMAIN	wireless.stockton.edu
-NXDOMAIN	cs1.stockton.edu
-NXDOMAIN	lockbox.stockton.edu
-NOERROR	cc.stockton.edu
-NXDOMAIN	cacti.stockton.edu
-NXDOMAIN	pproxy.stockton.edu
-NXDOMAIN	hscsimop210nvr.stockton.edu
-NXDOMAIN	subscribe115.stockton.edu
-NOERROR	fsvss2.stockton.edu
-NXDOMAIN	web01.lumtest.stockton.edu
-NXDOMAIN	subscribe1.stockton.edu
-NXDOMAIN	exp-c.stockton.edu
-NOERROR	search.proquest.com.ezproxy.stockton.edu
-NOERROR	admissions.stockton.edu
-NXDOMAIN	hughesj.stockton.edu
-NOERROR	www.acettc.stockton.edu
-NOERROR	lb.lum.stockton.edu
-NOERROR	nextten.stockton.edu
-NXDOMAIN	legacy.stockton.edu
-NOERROR	aris.stockton.edu
-NOERROR	bbweb.stockton.edu
-NOERROR	acvss1.stockton.edu
-NOERROR	hugginn.stockton.edu
-NXDOMAIN	www.you.stockton.edu
-NXDOMAIN	git.stockton.edu
-NXDOMAIN	hsc209simopnvr.stockton.edu
-NOERROR	vax003.stockton.edu
-NOERROR	ias02.stockton.edu
-NOERROR	library.morningstar.com.ezproxy.stockton.edu
-NOERROR	discover.stockton.edu
-NOERROR	psig4.stockton.edu
-NOERROR	quicksupport.stockton.edu
-NOERROR	listserv.stockton.edu
-NOERROR	omeka.stockton.edu
-NOERROR	licserv-jaws.stockton.edu
-NOERROR	njbudget.stockton.edu
-NXDOMAIN	2.stockton.edu
-NOERROR	kb.stockton.edu
-NOERROR	licserv-math.stockton.edu
-NXDOMAIN	subscribe56.stockton.edu
-NOERROR	archiver.stockton.edu
-NXDOMAIN	astro.stockton.edu
-NXDOMAIN	ppoints.stockton.edu
-NOERROR	acvss2.stockton.edu
-NXDOMAIN	splunk.stockton.edu
-NOERROR	www2.stockton.edu
-NXDOMAIN	hsc210simopnvr.stockton.edu
-NOERROR	aclicmgr.stockton.edu
-NXDOMAIN	hscsimop204nvr.stockton.edu
-NXDOMAIN	crmrecapptest.stockton.edu
-NOERROR	bxe01.stockton.edu
-NXDOMAIN	xtender-development.stockton.edu
-NOERROR	acvcs2.stockton.edu
-NOERROR	sophos.stockton.edu
-NOERROR	elearning.stockton.edu
-NXDOMAIN	dr-cas.stockton.edu
-NXDOMAIN	vis.stockton.edu
-NOERROR	psig1.stockton.edu
-NXDOMAIN	subscribe111.stockton.edu
-NOERROR	google.stockton.edu
-NOERROR	banner.stockton.edu
-NXDOMAIN	krink.stockton.edu
-NXDOMAIN	scan.stockton.edu
-NOERROR	vds.stockton.edu
-NXDOMAIN	auth2.stockton.edu
-NXDOMAIN	kh207simopnvr.stockton.edu
-NOERROR	exchange-cas.stockton.edu
-NOERROR	hvac.stockton.edu
-NOERROR	banpprdjob.stockton.edu
-NXDOMAIN	subscribe176.stockton.edu
-NXDOMAIN	subscribe7.stockton.edu
-NOERROR	atcsis.stockton.edu
-NXDOMAIN	wifi.stockton.edu
-NOERROR	bannertest.stockton.edu
-NXDOMAIN	pony.stockton.edu
-NOERROR	fsvss1.stockton.edu
-NOERROR	bannertemp.stockton.edu
-NOERROR	wac.stockton.edu
-NOERROR	titania.stockton.edu
-NXDOMAIN	impact.stockton.edu
-NOERROR	login.ezproxy.stockton.edu
-NOERROR	epay.stockton.edu
-NOERROR	minecraft.esports.stockton.edu
-NOERROR	app01.stockton.edu
-NOERROR	presidentnews.stockton.edu
-NOERROR	pssb.stockton.edu
-NXDOMAIN	rainbow.stockton.edu
-NXDOMAIN	micros.stockton.edu
+csinfo.stockton.edu
+castest.stockton.edu
+services.stockton.edu
+intraweb.stockton.edu
+mynah.stockton.edu
+blogs.stockton.edu
+bifrost.stockton.edu
+compserv.stockton.edu
+voicemail.stockton.edu
+webmail2013.stockton.edu
+doi-org.ezproxy.stockton.edu
+mail.stockton.edu
+wac-srv-01.stockton.edu
+arcgis.stockton.edu
+exchange2007.stockton.edu
+www.mergentonline.com.ezproxy.stockton.edu
+sirsi.stockton.edu
+www.stockton.edu
+scifinder-cas-org.ezproxy.stockton.edu
+gannet.stockton.edu
+ojs.stockton.edu
+ospreysgive.stockton.edu
+sccm-ps1.stockton.edu
+aspweb.stockton.edu
+dag.testenv.stockton.edu
+bbwebtest.stockton.edu
+webmo-2.stockton.edu
+commencement.stockton.edu
+loki.stockton.edu
+alert.stockton.edu
+dw.stockton.edu
+crcgis2.stockton.edu
+president.stockton.edu
+25live.stockton.edu
+web.a.ebscohost.com.ezproxy.stockton.edu
+ebookcentral-proquest-com.ezproxy.stockton.edu
+hvac2.stockton.edu
+psig2.stockton.edu
+ezproxy.stockton.edu
+exchange-cas13.stockton.edu
+frodo.stockton.edu
+fsmac1.stockton.edu
+caucus.stockton.edu
+pollingcenter.stockton.edu
+srg.stockton.edu
+admin02.stockton.edu
+wp.stockton.edu
+cass.stockton.edu
+acettc.stockton.edu
+r25ws.stockton.edu
+sasi.stockton.edu
+ediv2.stockton.edu
+textscape.stockton.edu
+my.stockton.edu
+starrez.stockton.edu
+acview.stockton.edu
+graduate.stockton.edu
+muse.jhu.edu.ezproxy.stockton.edu
+blackboard.stockton.edu
+odin.stockton.edu
+recruitpaytest.stockton.edu
+newloki.stockton.edu
+www.lynda.com.ezproxy.stockton.edu
+maitcf.stockton.edu
+dwweb.stockton.edu
+sophos2012.stockton.edu
+vdi.stockton.edu
+sunny.stockton.edu
+intraweb-test.stockton.edu
+newfrodo.stockton.edu
+ettcusers.stockton.edu
+ns2.stockton.edu
+fsvcs2.stockton.edu
+cltest.stockton.edu
+recruitpay.stockton.edu
+stockton.edu
+webcams.stockton.edu
+discovertest.stockton.edu
+crcgis.stockton.edu
+clprod.stockton.edu
+fsmunkireport.stockton.edu
+banproddb.stockton.edu
+1-next-westlaw-com.ezproxy.stockton.edu
+you.stockton.edu
+eduroam-idp.stockton.edu
+wyclif.stockton.edu
+prometheusv.stockton.edu
+netreg.stockton.edu
+hipchat.stockton.edu
+adfs.stockton.edu
+aafweb.stockton.edu
+25livepro.stockton.edu
+licserv-gis.stockton.edu
+acvcs1.stockton.edu
+chemotion.stockton.edu
+indra.stockton.edu
+synergy.stockton.edu
+idp.stockton.edu
+ns3.stockton.edu
+pollux.stockton.edu
+fsview.stockton.edu
+register.stockton.edu
+isct.stockton.edu
+zoom.stockton.edu
+library.stockton.edu
+glassfish.stockton.edu
+webmail.stockton.edu
+go.stockton.edu
+lumdev.stockton.edu
+anyconnvpn.stockton.edu
+25liveprotest.stockton.edu
+web.ebscohost.com.ezproxy.stockton.edu
+staging01.stockton.edu
+wac-srv-02.stockton.edu
+www.jstor.org.ezproxy.stockton.edu
+oclc.stockton.edu
+elevate.stockton.edu
+csdb.stockton.edu
+shigs.stockton.edu
+sirsidev.stockton.edu
+wlfr.stockton.edu
+pym.stockton.edu
+web01.lum.stockton.edu
+fsvcs1.stockton.edu
+m.stockton.edu
+srs.stockton.edu
+ldap.stockton.edu
+e-print.stockton.edu
+bxe02.stockton.edu
+ims.stockton.edu
+stock01.stockton.edu
+banprodjob.stockton.edu
+fscomposer.stockton.edu
+exp-e.stockton.edu
+web02.lum.stockton.edu
+webmo-1.stockton.edu
+banpprddb.stockton.edu
+facilitiesftp.stockton.edu
+pnc.stockton.edu
+gotest.stockton.edu
+alertus.stockton.edu
+25livetest.stockton.edu
+talon.stockton.edu
+autodiscover.stockton.edu
+stkgis.stockton.edu
+ns1.stockton.edu
+its.stockton.edu
+connect.stockton.edu
+oudev.stockton.edu
+eventmanager.stockton.edu
+fx5ly8ju5l.search.serialssolutions.com.ezproxy.stockton.edu
+browsercheck.stockton.edu
+cas.stockton.edu
+licserv-spss.stockton.edu
+cc.stockton.edu
+fsvss2.stockton.edu
+search.proquest.com.ezproxy.stockton.edu
+admissions.stockton.edu
+www.acettc.stockton.edu
+lb.lum.stockton.edu
+nextten.stockton.edu
+aris.stockton.edu
+bbweb.stockton.edu
+acvss1.stockton.edu
+hugginn.stockton.edu
+vax003.stockton.edu
+ias02.stockton.edu
+library.morningstar.com.ezproxy.stockton.edu
+discover.stockton.edu
+psig4.stockton.edu
+quicksupport.stockton.edu
+listserv.stockton.edu
+omeka.stockton.edu
+licserv-jaws.stockton.edu
+njbudget.stockton.edu
+kb.stockton.edu
+licserv-math.stockton.edu
+archiver.stockton.edu
+acvss2.stockton.edu
+www2.stockton.edu
+aclicmgr.stockton.edu
+bxe01.stockton.edu
+acvcs2.stockton.edu
+sophos.stockton.edu
+elearning.stockton.edu
+psig1.stockton.edu
+google.stockton.edu
+banner.stockton.edu
+vds.stockton.edu
+exchange-cas.stockton.edu
+hvac.stockton.edu
+banpprdjob.stockton.edu
+atcsis.stockton.edu
+bannertest.stockton.edu
+fsvss1.stockton.edu
+bannertemp.stockton.edu
+wac.stockton.edu
+titania.stockton.edu
+login.ezproxy.stockton.edu
+epay.stockton.edu
+minecraft.esports.stockton.edu
+app01.stockton.edu
+presidentnews.stockton.edu
+pssb.stockton.edu

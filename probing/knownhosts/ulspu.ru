@@ -1,39 +1,31 @@
-NOERROR	prism.ulspu.ru
-NOERROR	community.ulspu.ru
-NXDOMAIN	promexpert.ulspu.ru
-NOERROR	brs.ulspu.ru
-NOERROR	lgca.ulspu.ru
-NOERROR	bibl.ulspu.ru
-NOERROR	test.ulspu.ru
-NOERROR	note.ulspu.ru
-NOERROR	ulprice.ulspu.ru
-NXDOMAIN	korablik.ulspu.ru
-NXDOMAIN	old.ulspu.ru
-NOERROR	kinf.ulspu.ru
-NOERROR	sts.ulspu.ru
-NOERROR	lmm.ulspu.ru
-NOERROR	ns.ulspu.ru
-NOERROR	edu.ulspu.ru
-NXDOMAIN	new.ulspu.ru
-NOERROR	els.ulspu.ru
-NOERROR	rusgrav14.ulspu.ru
-NOERROR	journal-no.ulspu.ru
-NOERROR	mirror.ulspu.ru
-NOERROR	ulspu.ru
-NOERROR	master.ulspu.ru
-NXDOMAIN	do2.ulspu.ru
-NXDOMAIN	wmshp.ulspu.ru
-NXDOMAIN	www.edu.ulspu.ru
-NOERROR	www.ulspu.ru
-NOERROR	karamsin.ulspu.ru
-NOERROR	en.ulspu.ru
-NXDOMAIN	ia.ulspu.ru
-NOERROR	uznajki.ulspu.ru
-NOERROR	mail.ulspu.ru
-NOERROR	e.master.ulspu.ru
-NOERROR	do.ulspu.ru
-NOERROR	journal-ppp.ulspu.ru
-NOERROR	ldss.ulspu.ru
-NOERROR	stat.ulspu.ru
-NOERROR	job.ulspu.ru
-NOERROR	pk.ulspu.ru
+prism.ulspu.ru
+community.ulspu.ru
+brs.ulspu.ru
+lgca.ulspu.ru
+bibl.ulspu.ru
+test.ulspu.ru
+note.ulspu.ru
+ulprice.ulspu.ru
+kinf.ulspu.ru
+sts.ulspu.ru
+lmm.ulspu.ru
+ns.ulspu.ru
+edu.ulspu.ru
+els.ulspu.ru
+rusgrav14.ulspu.ru
+journal-no.ulspu.ru
+mirror.ulspu.ru
+ulspu.ru
+master.ulspu.ru
+www.ulspu.ru
+karamsin.ulspu.ru
+en.ulspu.ru
+uznajki.ulspu.ru
+mail.ulspu.ru
+e.master.ulspu.ru
+do.ulspu.ru
+journal-ppp.ulspu.ru
+ldss.ulspu.ru
+stat.ulspu.ru
+job.ulspu.ru
+pk.ulspu.ru

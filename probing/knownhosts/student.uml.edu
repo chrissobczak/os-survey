@@ -1,8 +1,4 @@
-NXDOMAIN	stdc4.student.uml.edu
-NOERROR	mail.student.uml.edu
-NOERROR	johnny.student.uml.edu
-NXDOMAIN	stdc1.student.uml.edu
-NOERROR	webmail.student.uml.edu
-NXDOMAIN	stdc3.student.uml.edu
-NOERROR	student.uml.edu
-NXDOMAIN	stdc2.student.uml.edu
+mail.student.uml.edu
+johnny.student.uml.edu
+webmail.student.uml.edu
+student.uml.edu

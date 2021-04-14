@@ -1,109 +1,73 @@
-NOERROR	webconf.hostos.cuny.edu
-NXDOMAIN	www.my.hostos.cuny.edu
-NXDOMAIN	www.aeconf.hostos.cuny.edu
-NOERROR	vpn.hostos.cuny.edu
-NOERROR	hccbbtsapp01.hostos.cuny.edu
-NOERROR	ewc.hostos.cuny.edu
-NOERROR	webtest.hostos.cuny.edu
-NOERROR	lyncdiscover.hostos.cuny.edu
-NXDOMAIN	hccskypefe02.hostos.cuny.edu
-NOERROR	securesend.hostos.cuny.edu
-NXDOMAIN	www.acc1.acc.hostos.cuny.edu
-NXDOMAIN	lyncdiscoverinternal.hostos.cuny.edu
-NOERROR	autodiscover.stu.hostos.cuny.edu
-NOERROR	hccwebtest.hostos.cuny.edu
-NOERROR	hccems01.hostos.cuny.edu
-NOERROR	hccexchfe03.hostos.cuny.edu
-NXDOMAIN	acc3.acc.hostos.cuny.edu
-NOERROR	labstats.hostos.cuny.edu
-NXDOMAIN	hccsccm01.hostos.cuny.edu
-NXDOMAIN	hosmail2.hostos.cuny.edu
-NOERROR	login.hostos.cuny.edu
-NOERROR	edtech.hostos.cuny.edu
-NOERROR	hccawmagr.hostos.cuny.edu
-NXDOMAIN	www.autodiscover.hostos.cuny.edu
-NXDOMAIN	www.webmail.hostos.cuny.edu
-NOERROR	hccmbx06.hostos.cuny.edu
-NXDOMAIN	skypepool.hostos.cuny.edu
-NOERROR	service.hostos.cuny.edu
-NOERROR	hostosad2.hostos.cuny.edu
-NOERROR	cms.hostos.cuny.edu
-NXDOMAIN	hcclandesk01.hostos.cuny.edu
-NOERROR	hccexchfe02.hostos.cuny.edu
-NOERROR	events.hostos.cuny.edu
-NOERROR	portal.hostos.cuny.edu
-NOERROR	hcccas01.hostos.cuny.edu
-NOERROR	hcccasarray.hostos.cuny.edu
-NXDOMAIN	www.login.hostos.cuny.edu
-NXDOMAIN	mail2.hostos.cuny.edu
-NXDOMAIN	edgepool.hostos.cuny.edu
-NOERROR	apps.hostos.cuny.edu
-NOERROR	lyncdiscover.stu.hostos.cuny.edu
-NXDOMAIN	scheduler.hostos.cuny.edu
-NXDOMAIN	www.commons.hostos.cuny.edu
-NXDOMAIN	skypeadmin.hostos.cuny.edu
-NOERROR	mobile.hostos.cuny.edu
-NOERROR	meet.hostos.cuny.edu
-NXDOMAIN	www.service.hostos.cuny.edu
-NXDOMAIN	pchatpool.hostos.cuny.edu
-NOERROR	autodiscover.hostos.cuny.edu
-NOERROR	officeweb.hostos.cuny.edu
-NOERROR	webdesign.hostos.cuny.edu
-NOERROR	hccexchfe01.hostos.cuny.edu
-NOERROR	oos.hostos.cuny.edu
-NOERROR	sip.stu.hostos.cuny.edu
-NOERROR	downloadlibrary.hostos.cuny.edu
-NOERROR	space.hostos.cuny.edu
-NOERROR	hccawsegstu01.hostos.cuny.edu
-NOERROR	mytest.hostos.cuny.edu
-NOERROR	hccawapp.hostos.cuny.edu
-NOERROR	my.hostos.cuny.edu
-NXDOMAIN	hccskypefe03.hostos.cuny.edu
-NOERROR	sharepointtest.hostos.cuny.edu
-NOERROR	sip.hostos.cuny.edu
-NOERROR	hcchelpdesk1.hostos.cuny.edu
-NXDOMAIN	hccskypefe01.hostos.cuny.edu
-NXDOMAIN	wcb1.hostos.cuny.edu
-NOERROR	hcccas02.hostos.cuny.edu
-NOERROR	hccmbx07.hostos.cuny.edu
-NXDOMAIN	skypepool.stu.hostos.cuny.edu
-NOERROR	evserver.hostos.cuny.edu
-NOERROR	ens.hostos.cuny.edu
-NXDOMAIN	www.hccbbtsapp01.hostos.cuny.edu
-NOERROR	hostosad3.hostos.cuny.edu
-NOERROR	stu.hostos.cuny.edu
-NOERROR	sspm.hostos.cuny.edu
-NOERROR	helpdesk.hostos.cuny.edu
-NXDOMAIN	www.edgepool.hostos.cuny.edu
-NOERROR	tegrity.hostos.cuny.edu
-NOERROR	aeconf.hostos.cuny.edu
-NOERROR	meet.stu.hostos.cuny.edu
-NOERROR	hccmbx08.hostos.cuny.edu
-NXDOMAIN	skypepool-iwc.hostos.cuny.edu
-NOERROR	mypage.hostos.cuny.edu
-NOERROR	oit.hostos.cuny.edu
-NOERROR	hostos.cuny.edu
-NOERROR	signage.hostos.cuny.edu
-NXDOMAIN	hosmail1.hostos.cuny.edu
-NXDOMAIN	sultan.hostos.cuny.edu
-NOERROR	www.hostos.cuny.edu
-NXDOMAIN	lyncdiscoverinternal.stu.hostos.cuny.edu
-NXDOMAIN	www.oaa.hostos.cuny.edu
-NOERROR	myfiles.hostos.cuny.edu
-NOERROR	guides.hostos.cuny.edu
-NOERROR	hcckms01.hostos.cuny.edu
-NOERROR	hostosad1.hostos.cuny.edu
-NOERROR	commons.hostos.cuny.edu
-NOERROR	avconf.hostos.cuny.edu
-NXDOMAIN	www.skypepool.hostos.cuny.edu
-NOERROR	hccedtech02.hostos.cuny.edu
-NXDOMAIN	academic.acc.hostos.cuny.edu
-NOERROR	webvpn.hostos.cuny.edu
-NXDOMAIN	www.hccsccm01.hostos.cuny.edu
-NXDOMAIN	ericdb.hostos.cuny.edu
-NOERROR	dialin.hostos.cuny.edu
-NXDOMAIN	w.hostos.cuny.edu
-NOERROR	hosspam1.hostos.cuny.edu
-NOERROR	hccev01.hostos.cuny.edu
-NOERROR	hccedtech04.hostos.cuny.edu
-NOERROR	webmail.hostos.cuny.edu
+webconf.hostos.cuny.edu
+vpn.hostos.cuny.edu
+hccbbtsapp01.hostos.cuny.edu
+ewc.hostos.cuny.edu
+webtest.hostos.cuny.edu
+lyncdiscover.hostos.cuny.edu
+securesend.hostos.cuny.edu
+autodiscover.stu.hostos.cuny.edu
+hccwebtest.hostos.cuny.edu
+hccems01.hostos.cuny.edu
+hccexchfe03.hostos.cuny.edu
+labstats.hostos.cuny.edu
+login.hostos.cuny.edu
+edtech.hostos.cuny.edu
+hccawmagr.hostos.cuny.edu
+hccmbx06.hostos.cuny.edu
+service.hostos.cuny.edu
+hostosad2.hostos.cuny.edu
+cms.hostos.cuny.edu
+hccexchfe02.hostos.cuny.edu
+events.hostos.cuny.edu
+portal.hostos.cuny.edu
+hcccas01.hostos.cuny.edu
+hcccasarray.hostos.cuny.edu
+apps.hostos.cuny.edu
+lyncdiscover.stu.hostos.cuny.edu
+mobile.hostos.cuny.edu
+meet.hostos.cuny.edu
+autodiscover.hostos.cuny.edu
+officeweb.hostos.cuny.edu
+webdesign.hostos.cuny.edu
+hccexchfe01.hostos.cuny.edu
+oos.hostos.cuny.edu
+sip.stu.hostos.cuny.edu
+downloadlibrary.hostos.cuny.edu
+space.hostos.cuny.edu
+hccawsegstu01.hostos.cuny.edu
+mytest.hostos.cuny.edu
+hccawapp.hostos.cuny.edu
+my.hostos.cuny.edu
+sharepointtest.hostos.cuny.edu
+sip.hostos.cuny.edu
+hcchelpdesk1.hostos.cuny.edu
+hcccas02.hostos.cuny.edu
+hccmbx07.hostos.cuny.edu
+evserver.hostos.cuny.edu
+ens.hostos.cuny.edu
+hostosad3.hostos.cuny.edu
+stu.hostos.cuny.edu
+sspm.hostos.cuny.edu
+helpdesk.hostos.cuny.edu
+tegrity.hostos.cuny.edu
+aeconf.hostos.cuny.edu
+meet.stu.hostos.cuny.edu
+hccmbx08.hostos.cuny.edu
+mypage.hostos.cuny.edu
+oit.hostos.cuny.edu
+hostos.cuny.edu
+signage.hostos.cuny.edu
+www.hostos.cuny.edu
+myfiles.hostos.cuny.edu
+guides.hostos.cuny.edu
+hcckms01.hostos.cuny.edu
+hostosad1.hostos.cuny.edu
+commons.hostos.cuny.edu
+avconf.hostos.cuny.edu
+hccedtech02.hostos.cuny.edu
+webvpn.hostos.cuny.edu
+dialin.hostos.cuny.edu
+hosspam1.hostos.cuny.edu
+hccev01.hostos.cuny.edu
+hccedtech04.hostos.cuny.edu
+webmail.hostos.cuny.edu

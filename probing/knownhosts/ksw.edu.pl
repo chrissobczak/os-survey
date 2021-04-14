@@ -1,37 +1,37 @@
-NOERROR	ghgrdp.kswdmghg.ksw.edu.pl
-NOERROR	www.zgde.ksw.edu.pl
-NOERROR	ww.ksw.edu.pl
-NOERROR	ksw.edu.pl
-NOERROR	ankieta.ksw.edu.pl
-NOERROR	www.menager.ksw.edu.pl
-NOERROR	rtr1.ksw.edu.pl
-NOERROR	samorzad.ksw.edu.pl
-NOERROR	ps.ksw.edu.pl
-NOERROR	wf.ksw.edu.pl
-NOERROR	startwbinzesie.ksw.edu.pl
-NOERROR	wwww.ksw.edu.pl
-NOERROR	przyjacieleonz.ksw.edu.pl
-NOERROR	www.opusculus.ksw.edu.pl
-NOERROR	zgde.ksw.edu.pl
-NOERROR	wyniki.ksw.edu.pl
-NOERROR	www.ankieta.ksw.edu.pl
-NOERROR	plany.ksw.edu.pl
-NOERROR	www.samorzad.ksw.edu.pl
-NOERROR	biblioteka.ksw.edu.pl
-NOERROR	www.bibloteka.ksw.edu.pl
-NOERROR	www.biurokarier.ksw.edu.pl
-NOERROR	www.wpia.ksw.edu.pl
-NOERROR	rekrutacja.ksw.edu.pl
-NOERROR	staze.ksw.edu.pl
-NOERROR	www.ps.ksw.edu.pl
-NOERROR	www.startwbiznesie.ksw.edu.pl
-NOERROR	architektura.ksw.edu.pl
-NOERROR	biurokarier.ksw.edu.pl
-NOERROR	rtr.ksw.edu.pl
-NOERROR	www.carrier.ksw.edu.pl
-NOERROR	www.czytelnia.ksw.edu.pl
-NOERROR	startwbiznesie.ksw.edu.pl
-NOERROR	www.ksw.edu.pl
-NOERROR	www.poczta.ksw.edu.pl
-NOERROR	mta-sts.ksw.edu.pl
-NOERROR	dziekanat.ksw.edu.pl
+ghgrdp.kswdmghg.ksw.edu.pl
+www.zgde.ksw.edu.pl
+ww.ksw.edu.pl
+ksw.edu.pl
+ankieta.ksw.edu.pl
+www.menager.ksw.edu.pl
+rtr1.ksw.edu.pl
+samorzad.ksw.edu.pl
+ps.ksw.edu.pl
+wf.ksw.edu.pl
+startwbinzesie.ksw.edu.pl
+wwww.ksw.edu.pl
+przyjacieleonz.ksw.edu.pl
+www.opusculus.ksw.edu.pl
+zgde.ksw.edu.pl
+wyniki.ksw.edu.pl
+www.ankieta.ksw.edu.pl
+plany.ksw.edu.pl
+www.samorzad.ksw.edu.pl
+biblioteka.ksw.edu.pl
+www.bibloteka.ksw.edu.pl
+www.biurokarier.ksw.edu.pl
+www.wpia.ksw.edu.pl
+rekrutacja.ksw.edu.pl
+staze.ksw.edu.pl
+www.ps.ksw.edu.pl
+www.startwbiznesie.ksw.edu.pl
+architektura.ksw.edu.pl
+biurokarier.ksw.edu.pl
+rtr.ksw.edu.pl
+www.carrier.ksw.edu.pl
+www.czytelnia.ksw.edu.pl
+startwbiznesie.ksw.edu.pl
+www.ksw.edu.pl
+www.poczta.ksw.edu.pl
+mta-sts.ksw.edu.pl
+dziekanat.ksw.edu.pl

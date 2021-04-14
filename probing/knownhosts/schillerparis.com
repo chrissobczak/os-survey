@@ -1,2 +1,2 @@
-NOERROR	schillerparis.com
-NOERROR	www.schillerparis.com
+schillerparis.com
+www.schillerparis.com

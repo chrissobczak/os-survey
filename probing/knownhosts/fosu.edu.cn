@@ -1,90 +1,76 @@
-NXDOMAIN	100.fosu.edu.cn
-NOERROR	vpn.fosu.edu.cn
-NOERROR	lixiao.fosu.edu.cn
-NOERROR	ehall.fosu.edu.cn
-NOERROR	bgxt.fosu.edu.cn
-NOERROR	jxjy.fosu.edu.cn
-NOERROR	webvpn.fosu.edu.cn
-NOERROR	yyxnzx.fosu.edu.cn
-NXDOMAIN	xq50.fosu.edu.cn
-NOERROR	idp.fosu.edu.cn
-NOERROR	wdsys.fosu.edu.cn
-NOERROR	ehallapp.fosu.edu.cn
-NOERROR	ehallapp-fosu-edu-cn.webvpn.fosu.edu.cn
-NOERROR	clab.fosu.edu.cn
-NOERROR	dns3.fosu.edu.cn
-NOERROR	authserver-fosu-edu-cn-s.webvpn.fosu.edu.cn
-NXDOMAIN	met.fosu.edu.cn
-NOERROR	xbbjb-fosu-edu-cn.webvpn.fosu.edu.cn
-NOERROR	202-192-168-72.webvpn.fosu.edu.cn
-NXDOMAIN	chengjiao.fosu.edu.cn
-NOERROR	630.fosu.edu.cn
-NOERROR	keyan.fosu.edu.cn
-NOERROR	sl.fosu.edu.cn
-NXDOMAIN	151.fosu.edu.cn
-NXDOMAIN	cj2.fosu.edu.cn
-NOERROR	map.fosu.edu.cn
-NOERROR	fc.fosu.edu.cn
-NOERROR	file.fosu.edu.cn
-NOERROR	bidding.fosu.edu.cn
-NOERROR	lims.fosu.edu.cn
-NOERROR	shebei.fosu.edu.cn
-NOERROR	blscourse.fosu.edu.cn
-NOERROR	200.fosu.edu.cn
-NOERROR	cj.fosu.edu.cn
-NOERROR	bb.fosu.edu.cn
-NOERROR	mail.fosu.edu.cn
-NOERROR	alumni.fosu.edu.cn
-NOERROR	zhuce.fosu.edu.cn
-NOERROR	gdyiban.fosu.edu.cn
-NOERROR	mailgate.fosu.edu.cn
-NOERROR	web2.fosu.edu.cn
-NOERROR	fbonline.fosu.edu.cn
-NOERROR	fosumail2.fosu.edu.cn
-NOERROR	rczp.fosu.edu.cn
-NOERROR	yiban.fosu.edu.cn
-NOERROR	fsculture.fosu.edu.cn
-NXDOMAIN	dbs.fosu.edu.cn
-NOERROR	dz.fosu.edu.cn
-NXDOMAIN	office.fosu.edu.cn
-NOERROR	dns1.fosu.edu.cn
-NOERROR	mylib.fosu.edu.cn
-NOERROR	ccard.fosu.edu.cn
-NOERROR	wcard.fosu.edu.cn
-NOERROR	jy.fosu.edu.cn
-NOERROR	www.fosu.edu.cn
-NOERROR	jky.fosu.edu.cn
-NOERROR	zcc.fosu.edu.cn
-NXDOMAIN	letterbox.fosu.edu.cn
-NXDOMAIN	sims.fosu.edu.cn
-NOERROR	fosu.edu.cn
-NOERROR	authserver.fosu.edu.cn
-NXDOMAIN	blog.fosu.edu.cn
-NOERROR	xbbjb.fosu.edu.cn
-NOERROR	lab.fosu.edu.cn
-NOERROR	oa.fosu.edu.cn
-NOERROR	yey.fosu.edu.cn
-NOERROR	cnki.fosu.edu.cn
-NOERROR	zhengfa.fosu.edu.cn
-NOERROR	dns4.fosu.edu.cn
-NXDOMAIN	zcgl.fosu.edu.cn
-NOERROR	gzc.fosu.edu.cn
-NOERROR	lms.fosu.edu.cn
-NOERROR	dns2.fosu.edu.cn
-NOERROR	nic.fosu.edu.cn
-NOERROR	lib.fosu.edu.cn
-NOERROR	web.fosu.edu.cn
-NOERROR	xl.fosu.edu.cn
-NOERROR	zsb.fosu.edu.cn
-NOERROR	course.fosu.edu.cn
-NOERROR	vod.fosu.edu.cn
-NOERROR	webmail.fosu.edu.cn
-NOERROR	tw.fosu.edu.cn
-NOERROR	wjc.fosu.edu.cn
-NOERROR	12345.fosu.edu.cn
-NXDOMAIN	168.fosu.edu.cn
-NOERROR	zsbcx.fosu.edu.cn
-NXDOMAIN	pg.fosu.edu.cn
-NOERROR	syzx.fosu.edu.cn
-NOERROR	wenjiao.fosu.edu.cn
-NOERROR	fsjd.fosu.edu.cn
+vpn.fosu.edu.cn
+lixiao.fosu.edu.cn
+ehall.fosu.edu.cn
+bgxt.fosu.edu.cn
+jxjy.fosu.edu.cn
+webvpn.fosu.edu.cn
+yyxnzx.fosu.edu.cn
+idp.fosu.edu.cn
+wdsys.fosu.edu.cn
+ehallapp.fosu.edu.cn
+ehallapp-fosu-edu-cn.webvpn.fosu.edu.cn
+clab.fosu.edu.cn
+dns3.fosu.edu.cn
+authserver-fosu-edu-cn-s.webvpn.fosu.edu.cn
+xbbjb-fosu-edu-cn.webvpn.fosu.edu.cn
+202-192-168-72.webvpn.fosu.edu.cn
+630.fosu.edu.cn
+keyan.fosu.edu.cn
+sl.fosu.edu.cn
+map.fosu.edu.cn
+fc.fosu.edu.cn
+file.fosu.edu.cn
+bidding.fosu.edu.cn
+lims.fosu.edu.cn
+shebei.fosu.edu.cn
+blscourse.fosu.edu.cn
+200.fosu.edu.cn
+cj.fosu.edu.cn
+bb.fosu.edu.cn
+mail.fosu.edu.cn
+alumni.fosu.edu.cn
+zhuce.fosu.edu.cn
+gdyiban.fosu.edu.cn
+mailgate.fosu.edu.cn
+web2.fosu.edu.cn
+fbonline.fosu.edu.cn
+fosumail2.fosu.edu.cn
+rczp.fosu.edu.cn
+yiban.fosu.edu.cn
+fsculture.fosu.edu.cn
+dz.fosu.edu.cn
+dns1.fosu.edu.cn
+mylib.fosu.edu.cn
+ccard.fosu.edu.cn
+wcard.fosu.edu.cn
+jy.fosu.edu.cn
+www.fosu.edu.cn
+jky.fosu.edu.cn
+zcc.fosu.edu.cn
+fosu.edu.cn
+authserver.fosu.edu.cn
+xbbjb.fosu.edu.cn
+lab.fosu.edu.cn
+oa.fosu.edu.cn
+yey.fosu.edu.cn
+cnki.fosu.edu.cn
+zhengfa.fosu.edu.cn
+dns4.fosu.edu.cn
+gzc.fosu.edu.cn
+lms.fosu.edu.cn
+dns2.fosu.edu.cn
+nic.fosu.edu.cn
+lib.fosu.edu.cn
+web.fosu.edu.cn
+xl.fosu.edu.cn
+zsb.fosu.edu.cn
+course.fosu.edu.cn
+vod.fosu.edu.cn
+webmail.fosu.edu.cn
+tw.fosu.edu.cn
+wjc.fosu.edu.cn
+12345.fosu.edu.cn
+zsbcx.fosu.edu.cn
+syzx.fosu.edu.cn
+wenjiao.fosu.edu.cn
+fsjd.fosu.edu.cn

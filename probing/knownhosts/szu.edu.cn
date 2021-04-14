@@ -1,307 +1,255 @@
-NOERROR	skb.szu.edu.cn
-NOERROR	ce.szu.edu.cn
-NOERROR	info.lib.szu.edu.cn
-NOERROR	gw.szu.edu.cn
-NOERROR	swzx.szu.edu.cn
-NOERROR	xili.szu.edu.cn
-NXDOMAIN	zsb.szu.edu.cn
-NXDOMAIN	ctf.szu.edu.cn
-NOERROR	cie.szu.edu.cn
-NOERROR	b.szu.edu.cn
-NXDOMAIN	futurenet.szu.edu.cn
-NOERROR	ssl.szu.edu.cn
-NOERROR	nanosurface-old.szu.edu.cn
-NOERROR	ofccal.szu.edu.cn
-NXDOMAIN	cic.szu.edu.cn
-NOERROR	hmt.szu.edu.cn
-NOERROR	med.szu.edu.cn
-NOERROR	zhifu.cnki.net.ezproxy.lib.szu.edu.cn
-NOERROR	test.authserver.szu.edu.cn
-NOERROR	cmc.szu.edu.cn
-NXDOMAIN	insa.szu.edu.cn
-NOERROR	szklab.szu.edu.cn
-NOERROR	basiclaw.szu.edu.cn
-NOERROR	2d.szu.edu.cn
-NXDOMAIN	szuhr.szu.edu.cn
-NOERROR	szu.edu.cn
-NOERROR	cv.szu.edu.cn
-NOERROR	ter.lib.szu.edu.cn
-NOERROR	jwb.szu.edu.cn
-NOERROR	sjs.szu.edu.cn
-NXDOMAIN	student.aec.szu.edu.cn
-NOERROR	auth.lib.szu.edu.cn
-NOERROR	mailbox.szu.edu.cn
-NOERROR	hpc.szu.edu.cn
-NOERROR	pop.szu.edu.cn
-NOERROR	hqb.szu.edu.cn
-NOERROR	gra.szu.edu.cn
-NOERROR	ecardwx.szu.edu.cn
-NOERROR	sea.szu.edu.cn
-NOERROR	cest.szu.edu.cn
-NOERROR	bio.szu.edu.cn
-NOERROR	bidding.szu.edu.cn
-NOERROR	kjb.szu.edu.cn
-NOERROR	ehall.szu.edu.cn
-NOERROR	itsi.szu.edu.cn
-NOERROR	webmail.szu.edu.cn
-NOERROR	rclc.szu.edu.cn
-NOERROR	ezproxy.szu.edu.cn
-NOERROR	imap.szu.edu.cn
-NOERROR	zzfwrs.szu.edu.cn
-NXDOMAIN	rsc.szu.edu.cn
-NXDOMAIN	iclcs.szu.edu.cn
-NOERROR	vipexam.lib.szu.edu.cn.ezproxy.lib.szu.edu.cn
-NXDOMAIN	macfinder.szu.edu.cn
-NOERROR	smtp.szu.edu.cn
-NOERROR	csse.szu.edu.cn
-NOERROR	dev.lib.szu.edu.cn
-NXDOMAIN	au.szu.edu.cn
-NOERROR	bay.szu.edu.cn
-NXDOMAIN	2017.szu.edu.cn
-NOERROR	www.lib.szu.edu.cn
-NOERROR	psy.szu.edu.cn
-NOERROR	mail.szu.edu.cn
-NOERROR	sd-art3.szu.edu.cn
-NOERROR	tycg.szu.edu.cn
-NOERROR	ggw.szu.edu.cn
-NOERROR	tutor.szu.edu.cn
-NXDOMAIN	arts-sea.szu.edu.cn
-NOERROR	szupu.szu.edu.cn
-NOERROR	sea.lib.szu.edu.cn
-NOERROR	zzfw.szu.edu.cn
-NOERROR	edf.szu.edu.cn
-NXDOMAIN	xsds.szu.edu.cn
-NOERROR	ecardhall.szu.edu.cn
-NOERROR	szdf.szu.edu.cn
-NOERROR	biolab.szu.edu.cn
-NXDOMAIN	ipms.szu.edu.cn
-NOERROR	abc.szu.edu.cn
-NOERROR	wechat.lib.szu.edu.cn
-NOERROR	www.journals.cambridge.org.ezproxy.lib.szu.edu.cn
-NXDOMAIN	design.szu.edu.cn
-NOERROR	dzyh.szu.edu.cn
-NOERROR	teacher.szu.edu.cn
-NXDOMAIN	vm.aurora.szu.edu.cn
-NXDOMAIN	arprarp.szu.edu.cn
-NOERROR	sbc.szu.edu.cn
-NOERROR	xnfz.szu.edu.cn
-NOERROR	scloud.szu.edu.cn
-NOERROR	bpm.szu.edu.cn
-NOERROR	2dcommunication.szu.edu.cn
-NOERROR	mpa.szu.edu.cn
-NOERROR	celab.szu.edu.cn
-NOERROR	ca.szu.edu.cn
-NXDOMAIN	nbbs.szu.edu.cn
-NOERROR	eme.szu.edu.cn
-NOERROR	webvpn.szu.edu.cn
-NOERROR	sky.szu.edu.cn
-NOERROR	gbz.szu.edu.cn
-NXDOMAIN	jingpin.szu.edu.cn
-NOERROR	test.imp.szu.edu.cn
-NOERROR	journal.szu.edu.cn
-NOERROR	chemexp.szu.edu.cn
-NOERROR	cbl.szu.edu.cn
-NOERROR	ty.szu.edu.cn
-NOERROR	apis.szu.edu.cn
-NOERROR	xzxy.cbpt.cnki.net.ezproxy.lib.szu.edu.cn
-NXDOMAIN	v2013.lib.szu.edu.cn
-NOERROR	test.res.szu.edu.cn
-NOERROR	web.szu.edu.cn
-NOERROR	sdys.szu.edu.cn
-NXDOMAIN	owa.szu.edu.cn
-NOERROR	mail.email.szu.edu.cn
-NOERROR	cwweixin.szu.edu.cn
-NOERROR	cscy.lib.szu.edu.cn
-NOERROR	ua.szu.edu.cn
-NOERROR	dns.ezproxy.lib.szu.edu.cn
-NOERROR	art.szu.edu.cn
-NOERROR	cljx.szu.edu.cn
-NOERROR	fib.szu.edu.cn
-NXDOMAIN	ir.lib.szu.edu.cn
-NXDOMAIN	cpda.szu.edu.cn
-NOERROR	it.szu.edu.cn
-NXDOMAIN	2011.szu.edu.cn
-NXDOMAIN	axc.szu.edu.cn
-NOERROR	bkxk.szu.edu.cn
-NOERROR	univphys.szu.edu.cn
-NXDOMAIN	www.auth.lib.szu.edu.cn
-NOERROR	klsfm.szu.edu.cn
-NOERROR	job.szu.edu.cn
-NOERROR	authserver.szu.edu.cn
-NOERROR	cce.szu.edu.cn
-NOERROR	zp.szu.edu.cn
-NOERROR	klpst.szu.edu.cn
-NOERROR	ctc-cmcc.szu.edu.cn
-NOERROR	www1.szu.edu.cn
-NOERROR	breathtest.szu.edu.cn
-NOERROR	media-sec.szu.edu.cn
-NOERROR	student-cce.szu.edu.cn
-NXDOMAIN	mpm.szu.edu.cn
-NOERROR	ias.szu.edu.cn
-NXDOMAIN	golf.szu.edu.cn
-NXDOMAIN	srcms.szu.edu.cn
-NXDOMAIN	aomw2016.szu.edu.cn
-NOERROR	emc.szu.edu.cn
-NOERROR	vcc.szu.edu.cn
-NOERROR	news.szu.edu.cn
-NOERROR	sens.szu.edu.cn
-NOERROR	spatial.szu.edu.cn
-NOERROR	onekey.szu.edu.cn
-NOERROR	ia.szu.edu.cn
-NOERROR	1x.szu.edu.cn
-NOERROR	law.szu.edu.cn
-NOERROR	dds.lib.szu.edu.cn
-NOERROR	cmce.szu.edu.cn
-NOERROR	ma.szu.edu.cn
-NOERROR	nanosurface.szu.edu.cn
-NOERROR	status.szu.edu.cn
-NOERROR	apps.webofknowledge.com.ezproxy.lib.szu.edu.cn
-NOERROR	auth.szu.edu.cn
-NOERROR	math.szu.edu.cn
-NOERROR	imo.szu.edu.cn
-NOERROR	drcom.szu.edu.cn
-NOERROR	iug.szu.edu.cn
-NOERROR	aurora.szu.edu.cn
-NOERROR	ceie.szu.edu.cn
-NOERROR	gxpt.szu.edu.cn
-NOERROR	www.szu.edu.cn
-NOERROR	gdcs.szu.edu.cn
-NOERROR	putonghua.szu.edu.cn
-NXDOMAIN	su.szu.edu.cn
-NOERROR	opac.lib.szu.edu.cn
-NOERROR	ipisc.lib.szu.edu.cn
-NOERROR	iccmp.szu.edu.cn
-NOERROR	cmse.szu.edu.cn
-NOERROR	archives.szu.edu.cn
-NXDOMAIN	bb.szu.edu.cn
-NOERROR	pop3.szu.edu.cn
-NXDOMAIN	aec.szu.edu.cn
-NOERROR	mdm.szu.edu.cn
-NOERROR	xyh.szu.edu.cn
-NOERROR	jwzzfw.szu.edu.cn
-NOERROR	test.apis.szu.edu.cn
-NXDOMAIN	anyconnect.szu.edu.cn
-NOERROR	xzfc.szu.edu.cn
-NXDOMAIN	cwb.szu.edu.cn
-NOERROR	chem.szu.edu.cn
-NOERROR	ailab.szu.edu.cn
-NOERROR	nkos.lib.szu.edu.cn
-NOERROR	reg.szu.edu.cn
-NOERROR	test.smp.szu.edu.cn
-NOERROR	6sou.szu.edu.cn
-NOERROR	bs.szu.edu.cn
-NOERROR	geospatial.szu.edu.cn
-NOERROR	bdsc.szu.edu.cn
-NOERROR	efib.szu.edu.cn
-NOERROR	svpn.szu.edu.cn
-NXDOMAIN	acm.szu.edu.cn
-NOERROR	guoxue.szu.edu.cn
-NOERROR	saup.szu.edu.cn
-NOERROR	ciqed.szu.edu.cn
-NOERROR	test.ehall.szu.edu.cn
-NOERROR	iaslab.szu.edu.cn
-NOERROR	fmlab.szu.edu.cn
-NXDOMAIN	office.szu.edu.cn
-NOERROR	dns.lib.szu.edu.cn
-NOERROR	gjs.szu.edu.cn
-NOERROR	pan.aurora.szu.edu.cn
-NOERROR	res.szu.edu.cn
-NOERROR	opto.szu.edu.cn
-NOERROR	norc.szu.edu.cn
-NXDOMAIN	jingpin2007.szu.edu.cn
-NOERROR	meeting.lib.szu.edu.cn
-NXDOMAIN	m.szu.edu.cn
-NOERROR	jiwei.szu.edu.cn
-NOERROR	nhpcc.szu.edu.cn
-NOERROR	wxy.szu.edu.cn
-NOERROR	ici.szu.edu.cn
-NOERROR	cofs.szu.edu.cn
-NOERROR	ns.webvpn.szu.edu.cn
-NOERROR	login.ezproxy.lib.szu.edu.cn
-NOERROR	zzbtzb.szu.edu.cn
-NOERROR	student.szu.edu.cn
-NOERROR	phhos.szu.edu.cn
-NOERROR	mooc.lib.szu.edu.cn
-NOERROR	zzfwyjs.szu.edu.cn
-NOERROR	cacv.cnki.net.ezproxy.lib.szu.edu.cn
-NOERROR	weixin.szu.edu.cn
-NOERROR	ltb.szu.edu.cn
-NOERROR	proxy.szu.edu.cn
-NOERROR	webcc.szu.edu.cn
-NOERROR	phylab.szu.edu.cn
-NOERROR	en.szu.edu.cn
-NOERROR	lxs.szu.edu.cn
-NOERROR	mitii.szu.edu.cn
-NOERROR	vod.szu.edu.cn
-NXDOMAIN	weijuan.szu.edu.cn
-NOERROR	gyzx.szu.edu.cn
-NOERROR	self.szu.edu.cn
-NXDOMAIN	asunion.szu.edu.cn
-NOERROR	ecard.szu.edu.cn
-NOERROR	ymwh.szu.edu.cn
-NOERROR	ia1.szu.edu.cn
-NXDOMAIN	dangxiao.szu.edu.cn
-NXDOMAIN	course.szu.edu.cn
-NXDOMAIN	atr.szu.edu.cn
-NOERROR	wvpn.szu.edu.cn
-NXDOMAIN	dns.szu.edu.cn
-NOERROR	d.szu.edu.cn
-NOERROR	2dchem.szu.edu.cn
-NOERROR	grasu.szu.edu.cn
-NOERROR	elearning.szu.edu.cn
-NOERROR	www.cnki.net.ezproxy.lib.szu.edu.cn
-NOERROR	cware.szu.edu.cn
-NXDOMAIN	c.szu.edu.cn
-NOERROR	sfl.szu.edu.cn
-NOERROR	sabs.szu.edu.cn
-NOERROR	cms.szu.edu.cn
-NOERROR	ole.lib.szu.edu.cn
-NOERROR	szjy.szu.edu.cn
-NXDOMAIN	www.elearning.szu.edu.cn
-NOERROR	futuremedia.szu.edu.cn
-NOERROR	card.szu.edu.cn
-NOERROR	mba.szu.edu.cn
-NOERROR	idp.szu.edu.cn
-NOERROR	elatc.szu.edu.cn
-NOERROR	lib.szu.edu.cn
-NOERROR	optics.szu.edu.cn
-NOERROR	etd.lib.szu.edu.cn
-NOERROR	xb.szu.edu.cn
-NOERROR	ceec.szu.edu.cn
-NOERROR	ftl.szu.edu.cn
-NOERROR	clc.szu.edu.cn
-NOERROR	chemlab.szu.edu.cn
-NOERROR	smp.szu.edu.cn
-NOERROR	oleopac.lib.szu.edu.cn
-NOERROR	icoe.szu.edu.cn
-NOERROR	2dphotonics.szu.edu.cn
-NOERROR	aau.szu.edu.cn
-NOERROR	draa.lib.szu.edu.cn
-NXDOMAIN	autodiscover.szu.edu.cn
-NOERROR	bbs.szu.edu.cn
-NOERROR	maker.szu.edu.cn
-NOERROR	baowei.szu.edu.cn
-NOERROR	sugh.szu.edu.cn
-NOERROR	ezproxy.lib.szu.edu.cn
-NXDOMAIN	tfpa.szu.edu.cn
-NOERROR	acaf.szu.edu.cn
-NOERROR	xszs.szu.edu.cn
-NXDOMAIN	physics.szu.edu.cn
-NOERROR	yz.szu.edu.cn
-NOERROR	bigdata.szu.edu.cn
-NXDOMAIN	google.szu.edu.cn
-NOERROR	imp.szu.edu.cn
-NOERROR	olepay.szu.edu.cn
-NOERROR	yigong.szu.edu.cn
-NOERROR	a.szu.edu.cn
-NOERROR	bme.szu.edu.cn
-NOERROR	360.szu.edu.cn
-NOERROR	6world.szu.edu.cn
-NOERROR	email.szu.edu.cn
-NOERROR	keylab.szu.edu.cn
-NOERROR	cyy.szu.edu.cn
-NOERROR	tech.szu.edu.cn
-NOERROR	zs.szu.edu.cn
-NOERROR	ipv6.szu.edu.cn
-NOERROR	fsgp.lib.szu.edu.cn
-NOERROR	alevel-sz.szu.edu.cn
+skb.szu.edu.cn
+ce.szu.edu.cn
+info.lib.szu.edu.cn
+gw.szu.edu.cn
+swzx.szu.edu.cn
+xili.szu.edu.cn
+cie.szu.edu.cn
+b.szu.edu.cn
+ssl.szu.edu.cn
+nanosurface-old.szu.edu.cn
+ofccal.szu.edu.cn
+hmt.szu.edu.cn
+med.szu.edu.cn
+zhifu.cnki.net.ezproxy.lib.szu.edu.cn
+test.authserver.szu.edu.cn
+cmc.szu.edu.cn
+szklab.szu.edu.cn
+basiclaw.szu.edu.cn
+2d.szu.edu.cn
+szu.edu.cn
+cv.szu.edu.cn
+ter.lib.szu.edu.cn
+jwb.szu.edu.cn
+sjs.szu.edu.cn
+auth.lib.szu.edu.cn
+mailbox.szu.edu.cn
+hpc.szu.edu.cn
+pop.szu.edu.cn
+hqb.szu.edu.cn
+gra.szu.edu.cn
+ecardwx.szu.edu.cn
+sea.szu.edu.cn
+cest.szu.edu.cn
+bio.szu.edu.cn
+bidding.szu.edu.cn
+kjb.szu.edu.cn
+ehall.szu.edu.cn
+itsi.szu.edu.cn
+webmail.szu.edu.cn
+rclc.szu.edu.cn
+ezproxy.szu.edu.cn
+imap.szu.edu.cn
+zzfwrs.szu.edu.cn
+vipexam.lib.szu.edu.cn.ezproxy.lib.szu.edu.cn
+smtp.szu.edu.cn
+csse.szu.edu.cn
+dev.lib.szu.edu.cn
+bay.szu.edu.cn
+www.lib.szu.edu.cn
+psy.szu.edu.cn
+mail.szu.edu.cn
+sd-art3.szu.edu.cn
+tycg.szu.edu.cn
+ggw.szu.edu.cn
+tutor.szu.edu.cn
+szupu.szu.edu.cn
+sea.lib.szu.edu.cn
+zzfw.szu.edu.cn
+edf.szu.edu.cn
+ecardhall.szu.edu.cn
+szdf.szu.edu.cn
+biolab.szu.edu.cn
+abc.szu.edu.cn
+wechat.lib.szu.edu.cn
+www.journals.cambridge.org.ezproxy.lib.szu.edu.cn
+dzyh.szu.edu.cn
+teacher.szu.edu.cn
+sbc.szu.edu.cn
+xnfz.szu.edu.cn
+scloud.szu.edu.cn
+bpm.szu.edu.cn
+2dcommunication.szu.edu.cn
+mpa.szu.edu.cn
+celab.szu.edu.cn
+ca.szu.edu.cn
+eme.szu.edu.cn
+webvpn.szu.edu.cn
+sky.szu.edu.cn
+gbz.szu.edu.cn
+test.imp.szu.edu.cn
+journal.szu.edu.cn
+chemexp.szu.edu.cn
+cbl.szu.edu.cn
+ty.szu.edu.cn
+apis.szu.edu.cn
+xzxy.cbpt.cnki.net.ezproxy.lib.szu.edu.cn
+test.res.szu.edu.cn
+web.szu.edu.cn
+sdys.szu.edu.cn
+mail.email.szu.edu.cn
+cwweixin.szu.edu.cn
+cscy.lib.szu.edu.cn
+ua.szu.edu.cn
+dns.ezproxy.lib.szu.edu.cn
+art.szu.edu.cn
+cljx.szu.edu.cn
+fib.szu.edu.cn
+it.szu.edu.cn
+bkxk.szu.edu.cn
+univphys.szu.edu.cn
+klsfm.szu.edu.cn
+job.szu.edu.cn
+authserver.szu.edu.cn
+cce.szu.edu.cn
+zp.szu.edu.cn
+klpst.szu.edu.cn
+ctc-cmcc.szu.edu.cn
+www1.szu.edu.cn
+breathtest.szu.edu.cn
+media-sec.szu.edu.cn
+student-cce.szu.edu.cn
+ias.szu.edu.cn
+emc.szu.edu.cn
+vcc.szu.edu.cn
+news.szu.edu.cn
+sens.szu.edu.cn
+spatial.szu.edu.cn
+onekey.szu.edu.cn
+ia.szu.edu.cn
+1x.szu.edu.cn
+law.szu.edu.cn
+dds.lib.szu.edu.cn
+cmce.szu.edu.cn
+ma.szu.edu.cn
+nanosurface.szu.edu.cn
+status.szu.edu.cn
+apps.webofknowledge.com.ezproxy.lib.szu.edu.cn
+auth.szu.edu.cn
+math.szu.edu.cn
+imo.szu.edu.cn
+drcom.szu.edu.cn
+iug.szu.edu.cn
+aurora.szu.edu.cn
+ceie.szu.edu.cn
+gxpt.szu.edu.cn
+www.szu.edu.cn
+gdcs.szu.edu.cn
+putonghua.szu.edu.cn
+opac.lib.szu.edu.cn
+ipisc.lib.szu.edu.cn
+iccmp.szu.edu.cn
+cmse.szu.edu.cn
+archives.szu.edu.cn
+pop3.szu.edu.cn
+mdm.szu.edu.cn
+xyh.szu.edu.cn
+jwzzfw.szu.edu.cn
+test.apis.szu.edu.cn
+xzfc.szu.edu.cn
+chem.szu.edu.cn
+ailab.szu.edu.cn
+nkos.lib.szu.edu.cn
+reg.szu.edu.cn
+test.smp.szu.edu.cn
+6sou.szu.edu.cn
+bs.szu.edu.cn
+geospatial.szu.edu.cn
+bdsc.szu.edu.cn
+efib.szu.edu.cn
+svpn.szu.edu.cn
+guoxue.szu.edu.cn
+saup.szu.edu.cn
+ciqed.szu.edu.cn
+test.ehall.szu.edu.cn
+iaslab.szu.edu.cn
+fmlab.szu.edu.cn
+dns.lib.szu.edu.cn
+gjs.szu.edu.cn
+pan.aurora.szu.edu.cn
+res.szu.edu.cn
+opto.szu.edu.cn
+norc.szu.edu.cn
+meeting.lib.szu.edu.cn
+jiwei.szu.edu.cn
+nhpcc.szu.edu.cn
+wxy.szu.edu.cn
+ici.szu.edu.cn
+cofs.szu.edu.cn
+ns.webvpn.szu.edu.cn
+login.ezproxy.lib.szu.edu.cn
+zzbtzb.szu.edu.cn
+student.szu.edu.cn
+phhos.szu.edu.cn
+mooc.lib.szu.edu.cn
+zzfwyjs.szu.edu.cn
+cacv.cnki.net.ezproxy.lib.szu.edu.cn
+weixin.szu.edu.cn
+ltb.szu.edu.cn
+proxy.szu.edu.cn
+webcc.szu.edu.cn
+phylab.szu.edu.cn
+en.szu.edu.cn
+lxs.szu.edu.cn
+mitii.szu.edu.cn
+vod.szu.edu.cn
+gyzx.szu.edu.cn
+self.szu.edu.cn
+ecard.szu.edu.cn
+ymwh.szu.edu.cn
+ia1.szu.edu.cn
+wvpn.szu.edu.cn
+d.szu.edu.cn
+2dchem.szu.edu.cn
+grasu.szu.edu.cn
+elearning.szu.edu.cn
+www.cnki.net.ezproxy.lib.szu.edu.cn
+cware.szu.edu.cn
+sfl.szu.edu.cn
+sabs.szu.edu.cn
+cms.szu.edu.cn
+ole.lib.szu.edu.cn
+szjy.szu.edu.cn
+futuremedia.szu.edu.cn
+card.szu.edu.cn
+mba.szu.edu.cn
+idp.szu.edu.cn
+elatc.szu.edu.cn
+lib.szu.edu.cn
+optics.szu.edu.cn
+etd.lib.szu.edu.cn
+xb.szu.edu.cn
+ceec.szu.edu.cn
+ftl.szu.edu.cn
+clc.szu.edu.cn
+chemlab.szu.edu.cn
+smp.szu.edu.cn
+oleopac.lib.szu.edu.cn
+icoe.szu.edu.cn
+2dphotonics.szu.edu.cn
+aau.szu.edu.cn
+draa.lib.szu.edu.cn
+bbs.szu.edu.cn
+maker.szu.edu.cn
+baowei.szu.edu.cn
+sugh.szu.edu.cn
+ezproxy.lib.szu.edu.cn
+acaf.szu.edu.cn
+xszs.szu.edu.cn
+yz.szu.edu.cn
+bigdata.szu.edu.cn
+imp.szu.edu.cn
+olepay.szu.edu.cn
+yigong.szu.edu.cn
+a.szu.edu.cn
+bme.szu.edu.cn
+360.szu.edu.cn
+6world.szu.edu.cn
+email.szu.edu.cn
+keylab.szu.edu.cn
+cyy.szu.edu.cn
+tech.szu.edu.cn
+zs.szu.edu.cn
+ipv6.szu.edu.cn
+fsgp.lib.szu.edu.cn
+alevel-sz.szu.edu.cn

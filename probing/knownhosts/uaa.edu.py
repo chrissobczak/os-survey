@@ -1,30 +1,23 @@
-NOERROR	edocente.uaa.edu.py
-NOERROR	uaa.edu.py
-NOERROR	pagos.uaa.edu.py
-NXDOMAIN	tutorias.uaa.edu.py
-NOERROR	mail.uaa.edu.py
-NOERROR	www.jit-cita.uaa.edu.py
-NXDOMAIN	ecampus2.uaa.edu.py
-NOERROR	ecampus.uaa.edu.py
-NOERROR	postgrado.uaa.edu.py
-NOERROR	cacti.uaa.edu.py
-NXDOMAIN	tajy.uaa.edu.py
-NOERROR	blog.uaa.edu.py
-NXDOMAIN	w.uaa.edu.py
-NXDOMAIN	www.e.uaa.edu.py
-NOERROR	e.uaa.edu.py
-NOERROR	e2.uaa.edu.py
-NOERROR	app.uaa.edu.py
-NOERROR	uaalcue.uaa.edu.py
-NOERROR	service.uaa.edu.py
-NOERROR	www.uaa.edu.py
-NXDOMAIN	mailserver.uaa.edu.py
-NOERROR	cel.uaa.edu.py
-NXDOMAIN	web1.uaa.edu.py
-NOERROR	biblioteca.uaa.edu.py
-NOERROR	yvapovo.uaa.edu.py
-NOERROR	etrabajo.uaa.edu.py
-NOERROR	intranet2.uaa.edu.py
-NOERROR	ajedrez.uaa.edu.py
-NOERROR	revistacientifica.uaa.edu.py
-NOERROR	intranet.uaa.edu.py
+edocente.uaa.edu.py
+uaa.edu.py
+pagos.uaa.edu.py
+mail.uaa.edu.py
+www.jit-cita.uaa.edu.py
+ecampus.uaa.edu.py
+postgrado.uaa.edu.py
+cacti.uaa.edu.py
+blog.uaa.edu.py
+e.uaa.edu.py
+e2.uaa.edu.py
+app.uaa.edu.py
+uaalcue.uaa.edu.py
+service.uaa.edu.py
+www.uaa.edu.py
+cel.uaa.edu.py
+biblioteca.uaa.edu.py
+yvapovo.uaa.edu.py
+etrabajo.uaa.edu.py
+intranet2.uaa.edu.py
+ajedrez.uaa.edu.py
+revistacientifica.uaa.edu.py
+intranet.uaa.edu.py

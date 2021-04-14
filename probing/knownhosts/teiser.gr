@@ -1,99 +1,86 @@
-NOERROR	pde.teiser.gr
-NOERROR	lib.teiser.gr
-NOERROR	method.teiser.gr
-NOERROR	bic.teiser.gr
-NOERROR	gym.teiser.gr
-NOERROR	moke.teiser.gr
-NOERROR	nagios.teiser.gr
-NOERROR	arch.teiser.gr
-NOERROR	dilbert.teiser.gr
-NOERROR	idbe.teiser.gr
-NOERROR	idrac3.teiser.gr
-NOERROR	idp.teiser.gr
-NOERROR	foss4g.teiser.gr
-NOERROR	interreg.teiser.gr
-NOERROR	teiser.gr
-NOERROR	elearning.teiser.gr
-NOERROR	sso.teiser.gr
-NOERROR	logistics.teiser.gr
-NOERROR	accounting.teiser.gr
-NOERROR	emailactivation.teiser.gr
-NXDOMAIN	ww.teiser.gr
-NOERROR	gk.teiser.gr
-NOERROR	msdnaa.pde.teiser.gr
-NOERROR	interregcources.teiser.gr
-NOERROR	epeaek.teiser.gr
-NOERROR	noc.teiser.gr
-NOERROR	mail.teiser.gr
-NOERROR	intinflabs.teiser.gr
-NOERROR	kte.teiser.gr
-NOERROR	idrac1.teiser.gr
-NOERROR	web2.teiser.gr
-NOERROR	grnetbox.teiser.gr
-NXDOMAIN	e-class.teiser.gr
-NOERROR	dia.teiser.gr
-NXDOMAIN	lib2.teiser.gr
-NOERROR	erasmus.teiser.gr
-NXDOMAIN	main.teiser.gr
-NOERROR	business.teiser.gr
-NXDOMAIN	blackbox.teiser.gr
-NOERROR	epix.teiser.gr
-NOERROR	modip.teiser.gr
-NOERROR	www.bic.teiser.gr
-NXDOMAIN	sp.teiser.gr.teiser.gr
-NOERROR	dell4.teiser.gr
-NOERROR	eng-anamorfosi.teiser.gr
-NXDOMAIN	www.conf.teiser.gr
-NOERROR	www.teiser.gr
-NOERROR	stats.teiser.gr
-NOERROR	egekt.teiser.gr
-NOERROR	teledu.teiser.gr
-NOERROR	infolab.teiser.gr
-NXDOMAIN	dba.teiser.gr
-NXDOMAIN	www.ftp.teiser.gr
-NOERROR	idrac4.teiser.gr
-NOERROR	scinetnathaz.teiser.gr
-NOERROR	www.method.teiser.gr
-NOERROR	mibes.teiser.gr
-NOERROR	proxy.teiser.gr
-NOERROR	vd.teiser.gr
-NOERROR	egram.teiser.gr
-NOERROR	ldap.teiser.gr
-NOERROR	interreg2011.teiser.gr
-NOERROR	mainlib.teiser.gr
-NOERROR	diasyndesi.teiser.gr
-NOERROR	dell2.teiser.gr
-NXDOMAIN	oldmail.teiser.gr
-NOERROR	rescommittee.teiser.gr
-NOERROR	dns.teiser.gr
-NOERROR	dns2.teiser.gr
-NOERROR	anamorfosi.teiser.gr
-NOERROR	conference.teiser.gr
-NOERROR	openvpn.teiser.gr
-NOERROR	geomatics.teiser.gr
-NOERROR	dasta.teiser.gr
-NOERROR	geo.teiser.gr
-NOERROR	dell3.teiser.gr
-NOERROR	icd.teiser.gr
-NOERROR	e-learning.teiser.gr
-NOERROR	moodle.teiser.gr
-NOERROR	sp.teiser.gr
-NOERROR	engineering.teiser.gr
-NOERROR	ieee.teiser.gr
-NXDOMAIN	www.server.teiser.gr
-NOERROR	dell1.teiser.gr
-NOERROR	farmmanager.teiser.gr
-NOERROR	login.teiser.gr
-NOERROR	idrac2.teiser.gr
-NOERROR	esdo.teiser.gr
-NXDOMAIN	e-gram.teiser.gr
-NOERROR	eadsa.teiser.gr
-NXDOMAIN	elearningaccount.teiser.gr
-NOERROR	pliroforiki.teiser.gr
-NOERROR	praktiki.teiser.gr
-NOERROR	mokedd.teiser.gr
-NOERROR	ftp.teiser.gr
-NOERROR	email.teiser.gr
-NOERROR	elearn.teiser.gr
-NOERROR	shale.teiser.gr
-NOERROR	moda.teiser.gr
+pde.teiser.gr
+lib.teiser.gr
+method.teiser.gr
+bic.teiser.gr
+gym.teiser.gr
+moke.teiser.gr
+nagios.teiser.gr
+arch.teiser.gr
+dilbert.teiser.gr
+idbe.teiser.gr
+idrac3.teiser.gr
+idp.teiser.gr
+foss4g.teiser.gr
+interreg.teiser.gr
+teiser.gr
+elearning.teiser.gr
+sso.teiser.gr
+logistics.teiser.gr
+accounting.teiser.gr
+emailactivation.teiser.gr
+gk.teiser.gr
+msdnaa.pde.teiser.gr
+interregcources.teiser.gr
+epeaek.teiser.gr
+noc.teiser.gr
+mail.teiser.gr
+intinflabs.teiser.gr
+kte.teiser.gr
+idrac1.teiser.gr
+web2.teiser.gr
+grnetbox.teiser.gr
+dia.teiser.gr
+erasmus.teiser.gr
+business.teiser.gr
+epix.teiser.gr
+modip.teiser.gr
+www.bic.teiser.gr
+dell4.teiser.gr
+eng-anamorfosi.teiser.gr
+www.teiser.gr
+stats.teiser.gr
+egekt.teiser.gr
+teledu.teiser.gr
+infolab.teiser.gr
+idrac4.teiser.gr
+scinetnathaz.teiser.gr
+www.method.teiser.gr
+mibes.teiser.gr
+proxy.teiser.gr
+vd.teiser.gr
+egram.teiser.gr
+ldap.teiser.gr
+interreg2011.teiser.gr
+mainlib.teiser.gr
+diasyndesi.teiser.gr
+dell2.teiser.gr
+rescommittee.teiser.gr
+dns.teiser.gr
+dns2.teiser.gr
+anamorfosi.teiser.gr
+conference.teiser.gr
+openvpn.teiser.gr
+geomatics.teiser.gr
+dasta.teiser.gr
+geo.teiser.gr
+dell3.teiser.gr
+icd.teiser.gr
+e-learning.teiser.gr
+moodle.teiser.gr
+sp.teiser.gr
+engineering.teiser.gr
+ieee.teiser.gr
+dell1.teiser.gr
+farmmanager.teiser.gr
+login.teiser.gr
+idrac2.teiser.gr
+esdo.teiser.gr
+eadsa.teiser.gr
+pliroforiki.teiser.gr
+praktiki.teiser.gr
+mokedd.teiser.gr
+ftp.teiser.gr
+email.teiser.gr
+elearn.teiser.gr
+shale.teiser.gr
+moda.teiser.gr

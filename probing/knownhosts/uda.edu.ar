@@ -1,35 +1,20 @@
-NOERROR	campus.uda.edu.ar
-NOERROR	servicios.uda.edu.ar
-NOERROR	serviciosonline.uda.edu.ar
-NOERROR	trapisonda.uda.edu.ar
-NXDOMAIN	cpcontacts.onaf.uda.edu.ar
-NOERROR	bibliotecadigital.uda.edu.ar
-NXDOMAIN	webdisk.onaf.uda.edu.ar
-NXDOMAIN	indicadores.onaf.uda.edu.ar
-NXDOMAIN	webmail.onaf.uda.edu.ar
-NOERROR	biblioteca.uda.edu.ar
-NXDOMAIN	mail.onaf.uda.edu.ar
-NOERROR	hostuda.uda.edu.ar
-NXDOMAIN	www.indicadores.onaf.uda.edu.ar
-NXDOMAIN	test.uda.edu.ar
-NXDOMAIN	autodiscover.onaf.uda.edu.ar
-NXDOMAIN	cpanel.onaf.uda.edu.ar
-NXDOMAIN	mail.uda.edu.ar
-NOERROR	fenix.uda.edu.ar
-NXDOMAIN	e-uda.uda.edu.ar
-NOERROR	www.uda.edu.ar
-NXDOMAIN	www.onaf.uda.edu.ar
-NXDOMAIN	old.uda.edu.ar
-NOERROR	testha.uda.edu.ar
-NOERROR	autogestion.uda.edu.ar
-NOERROR	uda.edu.ar
-NOERROR	prueba.uda.edu.ar
-NOERROR	empleos.uda.edu.ar
-NOERROR	ead.uda.edu.ar
-NXDOMAIN	cpcalendars.onaf.uda.edu.ar
-NOERROR	vpssisargentina.uda.edu.ar
-NXDOMAIN	meet.uda.edu.ar
-NOERROR	aranceles.uda.edu.ar
-NOERROR	fenixdos.uda.edu.ar
-NOERROR	onaf.uda.edu.ar
-NOERROR	correo.uda.edu.ar
+campus.uda.edu.ar
+servicios.uda.edu.ar
+serviciosonline.uda.edu.ar
+trapisonda.uda.edu.ar
+bibliotecadigital.uda.edu.ar
+biblioteca.uda.edu.ar
+hostuda.uda.edu.ar
+fenix.uda.edu.ar
+www.uda.edu.ar
+testha.uda.edu.ar
+autogestion.uda.edu.ar
+uda.edu.ar
+prueba.uda.edu.ar
+empleos.uda.edu.ar
+ead.uda.edu.ar
+vpssisargentina.uda.edu.ar
+aranceles.uda.edu.ar
+fenixdos.uda.edu.ar
+onaf.uda.edu.ar
+correo.uda.edu.ar

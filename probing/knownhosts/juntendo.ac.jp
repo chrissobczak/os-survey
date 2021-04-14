@@ -1,84 +1,64 @@
-NOERROR	mail.juntendo.ac.jp
-NOERROR	jane2.med.juntendo.ac.jp
-NOERROR	wmail.med.juntendo.ac.jp
-NOERROR	hosp-gmc.juntendo.ac.jp
-NOERROR	www.hosp-shizuoka.juntendo.ac.jp
-NOERROR	hosp-nerima.juntendo.ac.jp
-NOERROR	hs.juntendo.ac.jp
-NOERROR	mst.juntendo.ac.jp
-NOERROR	kenkyui.med.juntendo.ac.jp
-NOERROR	jamc.juntendo.ac.jp
-NOERROR	sakura.juntendo.ac.jp
-NXDOMAIN	hokenkango-wlc02.juntendo.ac.jp
-NOERROR	sso.juntendo.ac.jp
-NOERROR	jane4.med.juntendo.ac.jp
-NOERROR	www.gouhi.juntendo.ac.jp
-NXDOMAIN	www.admissions.med.juntendo.ac.jp
-NXDOMAIN	nyushi.med.juntendo.ac.jp
-NXDOMAIN	arukas1.sakura.juntendo.ac.jp
-NOERROR	jtosop01.med.juntendo.ac.jp
-NXDOMAIN	www.library.sakura.juntendo.ac.jp
-NOERROR	www.health-nurs.juntendo.ac.jp
-NOERROR	jane14.med.juntendo.ac.jp
-NXDOMAIN	zaimu.med.juntendo.ac.jp
-NOERROR	www.sns.juntendo.ac.jp
-NOERROR	jane7.med.juntendo.ac.jp
-NOERROR	admissions.med.juntendo.ac.jp
-NXDOMAIN	library.sakura.juntendo.ac.jp
-NOERROR	www2.juntendo.ac.jp
-NXDOMAIN	secure.juntendo.ac.jp
-NXDOMAIN	1.sakura.juntendo.ac.jp
-NXDOMAIN	jane1.med.juntendo.ac.jp
-NOERROR	jamc2.juntendo.ac.jp
-NOERROR	stud.med.juntendo.ac.jp
-NOERROR	hosp-koshigaya.juntendo.ac.jp
-NOERROR	elearning3.nurs.juntendo.ac.jp
-NOERROR	www.hosp-urayasu.juntendo.ac.jp
-NXDOMAIN	www1.sakura.juntendo.ac.jp
-NOERROR	pwdmtn.juntendo.ac.jp
-NOERROR	www2.med.juntendo.ac.jp
-NOERROR	jane3.med.juntendo.ac.jp
-NOERROR	secure.nurs.juntendo.ac.jp
-NOERROR	handbook-studio.med.juntendo.ac.jp
-NOERROR	mr-syllabus.juntendo.ac.jp
-NXDOMAIN	hokenkango-wlc01.juntendo.ac.jp
-NOERROR	renkeisystem.juntendo.ac.jp
-NOERROR	contents-cube.med.juntendo.ac.jp
-NOERROR	www.hosp-koshigaya.juntendo.ac.jp
-NOERROR	lms.juntendo.ac.jp
-NXDOMAIN	ns1.sakura.juntendo.ac.jp
-NOERROR	outgw.med.juntendo.ac.jp
-NXDOMAIN	ns.nurs.juntendo.ac.jp
-NOERROR	www.med.juntendo.ac.jp
-NOERROR	j-kifu.juntendo.ac.jp
-NXDOMAIN	wifi.nurs.juntendo.ac.jp
-NOERROR	www.gcprec.juntendo.ac.jp
-NOERROR	surarimuscle.juntendo.ac.jp
-NOERROR	pulse.juntendo.ac.jp
-NOERROR	lib.med.juntendo.ac.jp
-NOERROR	gcprec.juntendo.ac.jp
-NOERROR	jane50.med.juntendo.ac.jp
-NOERROR	form.nurs.juntendo.ac.jp
-NOERROR	nurs.juntendo.ac.jp
-NOERROR	j-pass.juntendo.ac.jp
-NOERROR	www.sakura.juntendo.ac.jp
-NOERROR	app-gsm.juntendo.ac.jp
-NOERROR	redcap.juntendo.ac.jp
-NOERROR	research-center.juntendo.ac.jp
-NOERROR	cms.juntendo.ac.jp
-NXDOMAIN	ct5520.med.juntendo.ac.jp
-NOERROR	library.med.juntendo.ac.jp
-NOERROR	elearning-web.med.juntendo.ac.jp
-NOERROR	med.juntendo.ac.jp
-NXDOMAIN	ct5520.juntendo.ac.jp
-NOERROR	air.juntendo.ac.jp
-NOERROR	dr-syllabus.juntendo.ac.jp
-NOERROR	www.nurs.juntendo.ac.jp
-NOERROR	e-learning.med.juntendo.ac.jp
-NOERROR	www.juntendo.ac.jp
-NOERROR	hongo-dischsprt.juntendo.ac.jp
-NXDOMAIN	www.health.nurs.juntendo.ac.jp
-NOERROR	juntendo.ac.jp
-NXDOMAIN	dserver.med.juntendo.ac.jp
-NXDOMAIN	ns0.sakura.juntendo.ac.jp
-NOERROR	med-lms.juntendo.ac.jp
+mail.juntendo.ac.jp
+jane2.med.juntendo.ac.jp
+wmail.med.juntendo.ac.jp
+hosp-gmc.juntendo.ac.jp
+www.hosp-shizuoka.juntendo.ac.jp
+hosp-nerima.juntendo.ac.jp
+hs.juntendo.ac.jp
+mst.juntendo.ac.jp
+kenkyui.med.juntendo.ac.jp
+jamc.juntendo.ac.jp
+sakura.juntendo.ac.jp
+sso.juntendo.ac.jp
+jane4.med.juntendo.ac.jp
+www.gouhi.juntendo.ac.jp
+jtosop01.med.juntendo.ac.jp
+www.health-nurs.juntendo.ac.jp
+jane14.med.juntendo.ac.jp
+www.sns.juntendo.ac.jp
+jane7.med.juntendo.ac.jp
+admissions.med.juntendo.ac.jp
+www2.juntendo.ac.jp
+jamc2.juntendo.ac.jp
+stud.med.juntendo.ac.jp
+hosp-koshigaya.juntendo.ac.jp
+elearning3.nurs.juntendo.ac.jp
+www.hosp-urayasu.juntendo.ac.jp
+pwdmtn.juntendo.ac.jp
+www2.med.juntendo.ac.jp
+jane3.med.juntendo.ac.jp
+secure.nurs.juntendo.ac.jp
+handbook-studio.med.juntendo.ac.jp
+mr-syllabus.juntendo.ac.jp
+renkeisystem.juntendo.ac.jp
+contents-cube.med.juntendo.ac.jp
+www.hosp-koshigaya.juntendo.ac.jp
+lms.juntendo.ac.jp
+outgw.med.juntendo.ac.jp
+www.med.juntendo.ac.jp
+j-kifu.juntendo.ac.jp
+www.gcprec.juntendo.ac.jp
+surarimuscle.juntendo.ac.jp
+pulse.juntendo.ac.jp
+lib.med.juntendo.ac.jp
+gcprec.juntendo.ac.jp
+jane50.med.juntendo.ac.jp
+form.nurs.juntendo.ac.jp
+nurs.juntendo.ac.jp
+j-pass.juntendo.ac.jp
+www.sakura.juntendo.ac.jp
+app-gsm.juntendo.ac.jp
+redcap.juntendo.ac.jp
+research-center.juntendo.ac.jp
+cms.juntendo.ac.jp
+library.med.juntendo.ac.jp
+elearning-web.med.juntendo.ac.jp
+med.juntendo.ac.jp
+air.juntendo.ac.jp
+dr-syllabus.juntendo.ac.jp
+www.nurs.juntendo.ac.jp
+e-learning.med.juntendo.ac.jp
+www.juntendo.ac.jp
+hongo-dischsprt.juntendo.ac.jp
+juntendo.ac.jp
+med-lms.juntendo.ac.jp

@@ -1,27 +1,2 @@
-NXDOMAIN	www.wfa.tukkk.fi
-NXDOMAIN	intra.tukkk.fi
-NXDOMAIN	intranet.tukkk.fi
-NXDOMAIN	gram.tukkk.fi
-NXDOMAIN	tudents.tukkk.fi
-NXDOMAIN	edu.tukkk.fi
-NXDOMAIN	hamster.tukkk.fi
-NXDOMAIN	mbx2.tukkk.fi
-NXDOMAIN	mbx1.tukkk.fi
-NXDOMAIN	webct.tukkk.fi
-NXDOMAIN	pori.tukkk.fi
-NXDOMAIN	shibboleth2.tukkk.fi
-NOERROR	tukkk.fi
-NXDOMAIN	atk.tukkk.fi
-NXDOMAIN	frazier.tukkk.fi
-NXDOMAIN	ldap.tukkk.fi
-NXDOMAIN	students.tukkk.fi
-NXDOMAIN	www.pori.tukkk.fi
-NXDOMAIN	wolverine.tukkk.fi
-NXDOMAIN	t01015.tukkk.fi
-NXDOMAIN	kasper.tukkk.fi
-NXDOMAIN	mail.tukkk.fi
-NXDOMAIN	ytkk.tukkk.fi
-NXDOMAIN	justine.tukkk.fi
-NXDOMAIN	listserver.tukkk.fi
-NXDOMAIN	autodiscover.tukkk.fi
-NOERROR	www.tukkk.fi
+tukkk.fi
+www.tukkk.fi

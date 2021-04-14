@@ -1,2 +1,2 @@
-NOERROR	www.kspu.ptz.ru
-NOERROR	kspu.ptz.ru
+www.kspu.ptz.ru
+kspu.ptz.ru

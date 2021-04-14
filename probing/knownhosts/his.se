@@ -1,311 +1,186 @@
-NOERROR	websvrnu.his.se
-NOERROR	grupp3.webug.his.se
-NXDOMAIN	trio2.his.se
-NXDOMAIN	agressows1.his.se
-NOERROR	vdiconnection1.his.se
-NOERROR	grupp15.webug.his.se
-NOERROR	grupp11.webug.his.se
-NXDOMAIN	bergelmir.iki.his.se
-NXDOMAIN	www.hisnya.his.se
-NXDOMAIN	www.play.his.se
-NOERROR	information.his.se
-NXDOMAIN	www.dormnet.his.se
-NOERROR	kursplanering.ing.his.se
-NXDOMAIN	cbmt.research.nsa.his.se
-NOERROR	gitlab.webug.his.se
-NOERROR	fml6.his.se
-NOERROR	hisnat.his.se
-NOERROR	equitrac.his.se
-NOERROR	connect2.his.se
-NOERROR	libraryproxy.his.se
-NOERROR	grupp14.webug.his.se
-NOERROR	iitmssqlbi1.his.se
-NOERROR	archive.his.se
-NOERROR	assar.his.se
-NOERROR	ns2.nsa.his.se
-NXDOMAIN	www.nextcloud.iit.his.se
-NOERROR	nextcloud.iit.his.se
-NOERROR	tcs.his.se
-NXDOMAIN	www.webladok.his.se
-NOERROR	dns2.his.se
-NXDOMAIN	fcsvr1.his.se
-NXDOMAIN	youngoperators.his.se
-NOERROR	grupp4.webug.his.se
-NOERROR	interactionlab.his.se
-NXDOMAIN	www2.his.se
-NOERROR	digitaltutanforskap.iit.his.se
-NXDOMAIN	uag1.his.se
-NOERROR	graham.his.se
-NXDOMAIN	www.hisws.his.se
-NOERROR	canvas.his.se
-NOERROR	webuglabb.iit.his.se
-NOERROR	idp2.his.se
-NXDOMAIN	studentportalenstatic.his.se
-NOERROR	scio.his.se
-NXDOMAIN	hera.his.se
-NXDOMAIN	www.trio.his.se
-NOERROR	viewinternal.his.se
-NOERROR	cbserver.iit.his.se
-NXDOMAIN	openstack.nsa.his.se
-NXDOMAIN	www.iki.his.se
-NOERROR	hsdc6.his.se
-NOERROR	fml1.his.se
-NXDOMAIN	print.his.se
-NOERROR	hsdc3.his.se
-NOERROR	grupp10.webug.his.se
-NXDOMAIN	data.his.se
-NXDOMAIN	www.gspentro.his.se
-NXDOMAIN	cod.his.se
-NXDOMAIN	www.epinode6.his.se
-NOERROR	itwiki.his.se
-NOERROR	hs-p-000004.his.se
-NOERROR	netscaler-193-10-178-7.his.se
-NOERROR	smtp.his.se
-NOERROR	nextcloud-lim-it.iit.his.se
-NXDOMAIN	www.shc.ihl.his.se
-NOERROR	nagios.his.se
-NXDOMAIN	www.hscas.his.se
-NOERROR	sbo.his.se
-NXDOMAIN	www.epidev2.his.se
-NOERROR	linknet-g.his.se
-NOERROR	panik.his.se
-NXDOMAIN	dreamspark.hosting.his.se
-NOERROR	dallocdev.nsa.his.se
-NXDOMAIN	www.student.his.se
-NOERROR	cplan.webug.his.se
-NOERROR	sunetc2lo.his.se
-NOERROR	autodiscover.student.his.se
-NXDOMAIN	anstalld.his.se
-NOERROR	itservice.his.se
-NXDOMAIN	mikromarc2.his.se
-NXDOMAIN	mx1.his.se
-NXDOMAIN	kursmaterial.iki.his.se
-NOERROR	connect.his.se
-NOERROR	view.his.se
-NOERROR	cappa.ing.his.se
-NXDOMAIN	mx2.his.se
-NOERROR	examenskontrollor.his.se
-NXDOMAIN	extern.his.se
-NXDOMAIN	error.his.se
-NOERROR	elin.his.se
-NOERROR	grupp2.webug.his.se
-NOERROR	w3d3.his.se
-NXDOMAIN	utbildning.his.se
-NXDOMAIN	www.vdi.his.se
-NOERROR	k2000.his.se
-NOERROR	login.libraryproxy.his.se
-NXDOMAIN	www.dhisk.his.se
-NOERROR	grupp6.webug.his.se
-NXDOMAIN	www.equitrac.his.se
-NXDOMAIN	webmail.student.his.se
-NXDOMAIN	comperio.his.se
-NXDOMAIN	www.epitest.his.se
-NOERROR	cia.his.se
-NOERROR	fml2.his.se
-NOERROR	hrakletwiki.hosting.his.se
-NOERROR	pluggavidare.his.se
-NOERROR	test.play.his.se
-NXDOMAIN	dormnet.his.se
-NOERROR	hsdc5.his.se
-NOERROR	vpn.nsa.his.se
-NXDOMAIN	arkas.his.se
-NXDOMAIN	studentcentralen.his.se
-NOERROR	hack.nsa.his.se
-NOERROR	guestaccounts.his.se
-NOERROR	smtpsvr1-2.his.se
-NXDOMAIN	episerver.his.se
-NXDOMAIN	webdiarie.his.se
-NOERROR	epidev1.his.se
-NOERROR	forticlient.his.se
-NOERROR	hisvcse.his.se
-NXDOMAIN	epinode7.his.se
-NOERROR	vdiconnection4.his.se
-NOERROR	dns1.his.se
-NOERROR	wise-shopfloor.his.se
-NXDOMAIN	www.scio.his.se
-NOERROR	hswsus2.his.se
-NXDOMAIN	itwki.his.se
-NOERROR	linknet-e.his.se
-NOERROR	map.his.se
-NXDOMAIN	www.pdf.his.se
-NXDOMAIN	controller.nsa.his.se
-NOERROR	darth.his.se
-NXDOMAIN	vdi.his.se
-NOERROR	hosting.his.se
-NOERROR	evasys.his.se
-NOERROR	hssav2.his.se
-NOERROR	his.se
-NOERROR	hscas3.his.se
-NOERROR	lim.his.se
-NOERROR	elintest.his.se
-NXDOMAIN	conferenceregistration.his.se
-NXDOMAIN	svn.iki.his.se
-NOERROR	agressows3.his.se
-NOERROR	syslog.his.se
-NOERROR	hsdc4.his.se
-NOERROR	www.his.se
-NOERROR	cms7test.his.se
-NOERROR	ssh.his.se
-NOERROR	fkawiki.his.se
-NOERROR	grupp12.webug.his.se
-NOERROR	grupp1.webug.his.se
-NXDOMAIN	studentportalen.his.se
-NOERROR	grupp8.webug.his.se
-NOERROR	ssh3.his.se
-NOERROR	smtpsvr2.his.se
-NOERROR	gw.nsa.his.se
-NOERROR	vcs.sbo.his.se
-NXDOMAIN	exapplic.his.se
-NOERROR	kursinfo.his.se
-NXDOMAIN	www.dugga.iit.his.se
-NOERROR	devops.his.se
-NOERROR	fml4.his.se
-NOERROR	webstack.his.se
-NOERROR	git.nsa.his.se
-NXDOMAIN	hypergeneweb.his.se
-NOERROR	fortimail.his.se
-NXDOMAIN	www.epinode7.his.se
-NOERROR	tms2.his.se
-NOERROR	tms.his.se
-NOERROR	autodiscover.his.se
-NOERROR	ipp.his.se
-NOERROR	wwwlab-mono.iit.his.se
-NOERROR	services.nsa.his.se
-NOERROR	sunetc1.his.se
-NXDOMAIN	www.alumn.his.se
-NXDOMAIN	sjalvservice.his.se
-NOERROR	tfs.his.se
-NOERROR	fml7.his.se
-NOERROR	sail.his.se
-NOERROR	his-e.his.se
-NXDOMAIN	tidigaretentamen.his.se
-NOERROR	grupp5.webug.his.se
-NOERROR	computer-193-11-98-37.his.se
-NOERROR	cia2.his.se
-NOERROR	ntp2.his.se
-NOERROR	ns1.nsa.his.se
-NXDOMAIN	forum.dormnet.his.se
-NOERROR	pdf.his.se
-NXDOMAIN	vfu.his.se
-NOERROR	cms-demo.webug.his.se
-NXDOMAIN	www.nextcloud-lim-it.iit.his.se
-NXDOMAIN	knf.hosting.his.se
-NOERROR	smtpsvr2-2.his.se
-NXDOMAIN	webmail.ad.his.se
-NXDOMAIN	sslvpn.his.se
-NXDOMAIN	intyg.his.se
-NXDOMAIN	zeus.his.se
-NOERROR	dev.play.his.se
-NXDOMAIN	www.devops.his.se
-NOERROR	fml3.his.se
-NXDOMAIN	idp.his.se
-NOERROR	trio.his.se
-NOERROR	vdisecurity2.his.se
-NOERROR	sunetc1internal.his.se
-NXDOMAIN	www.trio2.his.se
-NXDOMAIN	epitest1.his.se
-NOERROR	moodle.his.se
-NOERROR	httpiis.his.se
-NXDOMAIN	www.itservice.his.se
-NXDOMAIN	ernie.dormnet.his.se
-NOERROR	mikromarc.his.se
-NOERROR	r1.his.se
-SERVFAIL	nsa.his.se
-NOERROR	his-r1.his.se
-NOERROR	hscas.his.se
-NOERROR	student.his.se
-NOERROR	alumn.his.se
-NOERROR	vdiconnection3.his.se
-NXDOMAIN	www.antagningsprov.his.se
-NOERROR	grupp13.webug.his.se
-NXDOMAIN	www.api.his.se
-NOERROR	dugga.iit.his.se
-NOERROR	webladok.his.se
-NOERROR	apps.webofknowledge.com.login.libraryproxy.his.se
-NXDOMAIN	www.uag.his.se
-NXDOMAIN	www.kursplanering.ing.his.se
-NXDOMAIN	www.demo.kursinfo.his.se
-NOERROR	demo.kursinfo.his.se
-NXDOMAIN	databaslista.his.se
-NOERROR	testvfu.his.se
-NOERROR	smtpsvr1.his.se
-NOERROR	webblabb.iit.his.se
-NXDOMAIN	www.digitaltutanforskap.iit.his.se
-NOERROR	play.his.se
-NXDOMAIN	epinode6.his.se
-NXDOMAIN	www.connect2.his.se
-NXDOMAIN	epidev2.his.se
-NOERROR	shc.ihl.his.se
-NXDOMAIN	hisnya.his.se
-NXDOMAIN	fc.his.se
-NOERROR	sefahisprod01.his.se
-NXDOMAIN	dsu.iki.his.se
-NOERROR	mail.his.se
-NOERROR	limhpc.his.se
-NXDOMAIN	2009.his.se
-NOERROR	fml5.his.se
-NOERROR	sunetc2internal.his.se
-NOERROR	pp.his.se
-NXDOMAIN	hypergenewebtst.his.se
-NOERROR	ntp1.his.se
-NXDOMAIN	www.ipp.his.se
-NOERROR	fce.his.se
-NOERROR	tid.his.se
-NXDOMAIN	bergelmir.ida.his.se
-NXDOMAIN	aristoteles.his.se
-NOERROR	api.his.se
-NOERROR	antagningsprov.his.se
-NXDOMAIN	helpit.his.se
-NOERROR	konto.his.se
-NXDOMAIN	alveheim.ida.his.se
-NXDOMAIN	sigbrittkarlsson.his.se
-NOERROR	personal.his.se
-NOERROR	sail2.his.se
-NOERROR	tcs2.his.se
-NXDOMAIN	uag2.his.se
-NXDOMAIN	tidskriftslista.his.se
-NXDOMAIN	www.connect.his.se
-NOERROR	persefone.his.se
-NXDOMAIN	d02marbe.dormnet.his.se
-NXDOMAIN	webmail.personal.his.se
-NXDOMAIN	www.kursinfo.his.se
-NOERROR	k1000.his.se
-NOERROR	vdisecurity1.his.se
-NXDOMAIN	www.print.his.se
-NOERROR	grupp7.webug.his.se
-NOERROR	contur.his.se
-NOERROR	r2.his.se
-NXDOMAIN	avveckladekurser.his.se
-NOERROR	webug.his.se
-NOERROR	2010.his.se
-NXDOMAIN	www.guestaccounts.his.se
-NXDOMAIN	www.tfs.his.se
-NOERROR	sunetc2.his.se
-NXDOMAIN	cosi.his.se
-NXDOMAIN	alvheim.ida.his.se
-NXDOMAIN	www.ida.his.se
-NXDOMAIN	www.mikromarc.his.se
-NXDOMAIN	wheee.dormnet.his.se
-NOERROR	sunetc1lo.his.se
-NXDOMAIN	www.hypergeneweb.his.se
-NXDOMAIN	www.konto.his.se
-NXDOMAIN	www.assar.his.se
-NXDOMAIN	e-meeting.his.se
-NXDOMAIN	jesper.dormnet.his.se
-NOERROR	his-r2.his.se
-NOERROR	fml0.his.se
-NOERROR	sp2010.his.se
-NOERROR	scoreboard.nsa.his.se
-NOERROR	uag.his.se
-NOERROR	nywww.his.se
-NXDOMAIN	www.map.his.se
-NOERROR	grupp9.webug.his.se
-NXDOMAIN	sciodev.his.se
-NOERROR	his-g.his.se
-NXDOMAIN	dbskserv.ida.his.se
-NXDOMAIN	arkivet.his.se
-NOERROR	wwwlab.iit.his.se
-NOERROR	hswsus1.his.se
-NOERROR	tunnel.his.se
-NXDOMAIN	edugamelab.hosting.his.se
-NOERROR	vdiconnection2.his.se
+websvrnu.his.se
+grupp3.webug.his.se
+vdiconnection1.his.se
+grupp15.webug.his.se
+grupp11.webug.his.se
+information.his.se
+kursplanering.ing.his.se
+gitlab.webug.his.se
+fml6.his.se
+hisnat.his.se
+equitrac.his.se
+connect2.his.se
+libraryproxy.his.se
+grupp14.webug.his.se
+iitmssqlbi1.his.se
+archive.his.se
+assar.his.se
+ns2.nsa.his.se
+nextcloud.iit.his.se
+tcs.his.se
+dns2.his.se
+grupp4.webug.his.se
+interactionlab.his.se
+digitaltutanforskap.iit.his.se
+graham.his.se
+canvas.his.se
+webuglabb.iit.his.se
+idp2.his.se
+scio.his.se
+viewinternal.his.se
+cbserver.iit.his.se
+hsdc6.his.se
+fml1.his.se
+hsdc3.his.se
+grupp10.webug.his.se
+itwiki.his.se
+hs-p-000004.his.se
+netscaler-193-10-178-7.his.se
+smtp.his.se
+nextcloud-lim-it.iit.his.se
+nagios.his.se
+sbo.his.se
+linknet-g.his.se
+panik.his.se
+dallocdev.nsa.his.se
+cplan.webug.his.se
+sunetc2lo.his.se
+autodiscover.student.his.se
+itservice.his.se
+connect.his.se
+view.his.se
+cappa.ing.his.se
+examenskontrollor.his.se
+elin.his.se
+grupp2.webug.his.se
+w3d3.his.se
+k2000.his.se
+login.libraryproxy.his.se
+grupp6.webug.his.se
+cia.his.se
+fml2.his.se
+hrakletwiki.hosting.his.se
+pluggavidare.his.se
+test.play.his.se
+hsdc5.his.se
+vpn.nsa.his.se
+hack.nsa.his.se
+guestaccounts.his.se
+smtpsvr1-2.his.se
+epidev1.his.se
+forticlient.his.se
+hisvcse.his.se
+vdiconnection4.his.se
+dns1.his.se
+wise-shopfloor.his.se
+hswsus2.his.se
+linknet-e.his.se
+map.his.se
+darth.his.se
+hosting.his.se
+evasys.his.se
+hssav2.his.se
+his.se
+hscas3.his.se
+lim.his.se
+elintest.his.se
+agressows3.his.se
+syslog.his.se
+hsdc4.his.se
+www.his.se
+cms7test.his.se
+ssh.his.se
+fkawiki.his.se
+grupp12.webug.his.se
+grupp1.webug.his.se
+grupp8.webug.his.se
+ssh3.his.se
+smtpsvr2.his.se
+gw.nsa.his.se
+vcs.sbo.his.se
+kursinfo.his.se
+devops.his.se
+fml4.his.se
+webstack.his.se
+git.nsa.his.se
+fortimail.his.se
+tms2.his.se
+tms.his.se
+autodiscover.his.se
+ipp.his.se
+wwwlab-mono.iit.his.se
+services.nsa.his.se
+sunetc1.his.se
+tfs.his.se
+fml7.his.se
+sail.his.se
+his-e.his.se
+grupp5.webug.his.se
+computer-193-11-98-37.his.se
+cia2.his.se
+ntp2.his.se
+ns1.nsa.his.se
+pdf.his.se
+cms-demo.webug.his.se
+smtpsvr2-2.his.se
+dev.play.his.se
+fml3.his.se
+trio.his.se
+vdisecurity2.his.se
+sunetc1internal.his.se
+moodle.his.se
+httpiis.his.se
+mikromarc.his.se
+r1.his.se
+his-r1.his.se
+hscas.his.se
+student.his.se
+alumn.his.se
+vdiconnection3.his.se
+grupp13.webug.his.se
+dugga.iit.his.se
+webladok.his.se
+apps.webofknowledge.com.login.libraryproxy.his.se
+demo.kursinfo.his.se
+testvfu.his.se
+smtpsvr1.his.se
+webblabb.iit.his.se
+play.his.se
+shc.ihl.his.se
+sefahisprod01.his.se
+mail.his.se
+limhpc.his.se
+fml5.his.se
+sunetc2internal.his.se
+pp.his.se
+ntp1.his.se
+fce.his.se
+tid.his.se
+api.his.se
+antagningsprov.his.se
+konto.his.se
+personal.his.se
+sail2.his.se
+tcs2.his.se
+persefone.his.se
+k1000.his.se
+vdisecurity1.his.se
+grupp7.webug.his.se
+contur.his.se
+r2.his.se
+webug.his.se
+2010.his.se
+sunetc2.his.se
+sunetc1lo.his.se
+his-r2.his.se
+fml0.his.se
+sp2010.his.se
+scoreboard.nsa.his.se
+uag.his.se
+nywww.his.se
+grupp9.webug.his.se
+his-g.his.se
+wwwlab.iit.his.se
+hswsus1.his.se
+tunnel.his.se
+vdiconnection2.his.se

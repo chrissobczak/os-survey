@@ -1,15 +1,10 @@
-NOERROR	spu.ac.jp
-NXDOMAIN	sowww.spu.ac.jp
-NOERROR	www.spu.ac.jp
-NOERROR	rv-proxy2.spu.ac.jp
-NOERROR	sogw.spu.ac.jp
-NOERROR	portal.spu.ac.jp
-NOERROR	swebclass.spu.ac.jp
-NOERROR	opac.spu.ac.jp
-NOERROR	soweb1.spu.ac.jp
-NXDOMAIN	msmail.spu.ac.jp
-NXDOMAIN	sicolb.spu.ac.jp
-NXDOMAIN	www.jeawpr2010.spu.ac.jp
-NXDOMAIN	www-in.spu.ac.jp
-NOERROR	sopac.spu.ac.jp
-NOERROR	soweb2.spu.ac.jp
+spu.ac.jp
+www.spu.ac.jp
+rv-proxy2.spu.ac.jp
+sogw.spu.ac.jp
+portal.spu.ac.jp
+swebclass.spu.ac.jp
+opac.spu.ac.jp
+soweb1.spu.ac.jp
+sopac.spu.ac.jp
+soweb2.spu.ac.jp

@@ -1,655 +1,555 @@
-NXDOMAIN	mail.easblog.uwe.ac.uk
-NOERROR	livesecurestage.uwe.ac.uk
-NOERROR	gfm-vpn-gateway-cchse24.uwe.ac.uk
-NOERROR	web-ext-fr3.uwe.ac.uk
-NOERROR	old-infohub.uwe.ac.uk
-NOERROR	myattendance.uwe.ac.uk
-NOERROR	reportager.uwe.ac.uk
-NXDOMAIN	arc.uwe.ac.uk
-NOERROR	intranetf5.uwe.ac.uk
-NOERROR	acc-fr3.uwe.ac.uk
-NOERROR	cccs26.cccs.uwe.ac.uk
-NOERROR	appsanywhere.uwe.ac.uk
-NOERROR	ada.uwe.ac.uk
-NOERROR	old-arcpractice.uwe.ac.uk
-NXDOMAIN	csct-prod.uwe.ac.uk
-NXDOMAIN	ucom-eicc24.campus.ads.uwe.ac.uk
-NOERROR	cccs17.cccs.uwe.ac.uk
-NXDOMAIN	mail.cfpreditions.uwe.ac.uk
-NOERROR	f5-coursefeeservice.uwe.ac.uk
-NXDOMAIN	sts.uwe.ac.uk
-NOERROR	idmz-pha01.uwe.ac.uk
-NOERROR	cccs16.cccs.uwe.ac.uk
-NOERROR	heinlein.uwe.ac.uk
-NOERROR	dmzgate.uwe.ac.uk
-NOERROR	learntech.uwe.ac.uk
-NOERROR	info.uwe.ac.uk
-NOERROR	secure.uwe.ac.uk
-NOERROR	ezproxy-old.uwe.ac.uk
-NOERROR	idmz-hls01.uwe.ac.uk
-NXDOMAIN	smstextdev.uwe.ac.uk
-NOERROR	hec9.uwe.ac.uk
-NOERROR	mystage-css.uwe.ac.uk
-NOERROR	edu.projects.uwe.ac.uk
-NOERROR	m.uwe.ac.uk
-NOERROR	sso.uwe.ac.uk
-NOERROR	style.uwe.ac.uk
-NOERROR	auth-cas.uwe.ac.uk
-NXDOMAIN	www.csctcloud.uwe.ac.uk
-NOERROR	usec-uwe08.uwe.ac.uk
-NXDOMAIN	webmail.showcase-stage.uwe.ac.uk
-NOERROR	idp.uwe.ac.uk
-NXDOMAIN	webmail.uwe.ac.uk
-NOERROR	athensda.uwe.ac.uk
-NOERROR	chrisb-dupont.uwe.ac.uk
-NOERROR	cccs07.cccs.uwe.ac.uk
-NOERROR	archives.uwe.ac.uk
-NOERROR	cccs24.cccs.uwe.ac.uk
-NOERROR	testwww.cems.uwe.ac.uk
-NOERROR	f5-infohub.uwe.ac.uk
-NOERROR	systrack.uwe.ac.uk
-NXDOMAIN	ucom-eicc23.campus.ads.uwe.ac.uk
-NXDOMAIN	uagdev.uwe.ac.uk
-NXDOMAIN	www.lists.cccs.uwe.ac.uk
-NOERROR	iuwe.uwe.ac.uk
-NOERROR	f5-spapps.uwe.ac.uk
-NOERROR	www.impact.uwe.ac.uk
-NOERROR	old-notcoming.uwe.ac.uk
-NOERROR	idmz-hls02.uwe.ac.uk
-NOERROR	www.cems.uwe.ac.uk
-NOERROR	blue.uwe.ac.uk
-NXDOMAIN	webmail.easblog.uwe.ac.uk
-NOERROR	public.uwe.ac.uk
-NOERROR	f5-vip-tmg1.uwe.ac.uk
-NOERROR	cccs03.cccs.uwe.ac.uk
-NOERROR	ext_f5_multisite_listener.uwe.ac.uk
-NOERROR	wolfe-clone.uwe.ac.uk
-NOERROR	f5-teldir.uwe.ac.uk
-NOERROR	old-arcpow.uwe.ac.uk
-NOERROR	marvin.cems.uwe.ac.uk
-NOERROR	intranettest.uwe.ac.uk
-NOERROR	old-mystage.uwe.ac.uk
-NOERROR	cms.uwe.ac.uk
-NXDOMAIN	cereusdev.uwe.ac.uk
-NOERROR	temp-sorry-server.uwe.ac.uk
-NOERROR	f5-cetts.uwe.ac.uk
-NOERROR	f5-wellbeing.uwe.ac.uk
-NOERROR	cpd.hsc.uwe.ac.uk
-NOERROR	old-people.uwe.ac.uk
-NOERROR	test-ezproxy.uwe.ac.uk
-NOERROR	csctcloud.uwe.ac.uk
-NOERROR	qaidp.uwe.ac.uk
-NOERROR	uwevc.uwe.ac.uk
-NOERROR	prospectus.uwe.ac.uk
-NOERROR	testsso.uwe.ac.uk
-NOERROR	bne.uwe.ac.uk
-NXDOMAIN	www.showcase1.uwe.ac.uk
-NOERROR	apps.uwe.ac.uk
-NOERROR	brl-gitlab.uwe.ac.uk
-NOERROR	adrms.uwe.ac.uk
-NOERROR	brl.uwe.ac.uk
-NOERROR	teamstest.uwe.ac.uk
-NOERROR	www.bookarts.uwe.ac.uk
-NOERROR	ftp-csm.uwe.ac.uk
-NOERROR	showcase-stage.uwe.ac.uk
-NOERROR	idmz-uwe10.uwe.ac.uk
-NOERROR	idmz-vle20.uwe.ac.uk
-NOERROR	tobe-beta.courses.uwe.ac.uk
-NOERROR	xerte.uwe.ac.uk
-NOERROR	cccs20.cccs.uwe.ac.uk
-NOERROR	te.uwe.ac.uk
-NOERROR	devxa.uwe.ac.uk
-NOERROR	old-wamstrain.uwe.ac.uk
-NOERROR	clearpass.uwe.ac.uk
-NOERROR	appnav-test.ec.uwe.ac.uk
-NXDOMAIN	styledev.uwe.ac.uk
-NOERROR	meet.uwe.ac.uk
-NXDOMAIN	careerhub.uwe.ac.uk
-NOERROR	gfm-vpn-gateway-t-block.uwe.ac.uk
-NOERROR	ltdu.uwe.ac.uk
-NOERROR	connect2.uwe.ac.uk
-NXDOMAIN	bloguat.uwe.ac.uk
-NOERROR	hec10.uwe.ac.uk
-NOERROR	blackboard.uwe.ac.uk
-NOERROR	idmz-uwe06.uwe.ac.uk
-NOERROR	stes-cfg01.uwe.ac.uk
-NXDOMAIN	collins.sso.uwe.ac.uk
-NOERROR	maclean.uwe.ac.uk
-NOERROR	ieeexplore.ieee.org.ezproxy.uwe.ac.uk
-NOERROR	isa-132-220-used.uwe.ac.uk
-NXDOMAIN	vod-farm.uwe.ac.uk
-NOERROR	sitecoreidentity.uwe.ac.uk
-NOERROR	old-rbi.uwe.ac.uk
-NOERROR	electures.uwe.ac.uk
-NOERROR	mysitef5.uwe.ac.uk
-NOERROR	gate.uwe.ac.uk
-NOERROR	dialin.uwe.ac.uk
-NOERROR	docstest.uwe.ac.uk
-NXDOMAIN	imap.uwe.ac.uk
-NOERROR	tux05.uwe.ac.uk
-NOERROR	wc-fr1.uwe.ac.uk
-NOERROR	sciencecomics.uwe.ac.uk
-NOERROR	fr3-psa5000-01.uwe.ac.uk
-NOERROR	f5-hls.uwe.ac.uk
-NOERROR	alephnull.cems.uwe.ac.uk
-NOERROR	cccs04.cccs.uwe.ac.uk
-NXDOMAIN	lyncpool.campus.ads.uwe.ac.uk
-NOERROR	blackboardstage.uwe.ac.uk
-NOERROR	mysite.uwe.ac.uk
-NOERROR	pcbooking-old.uwe.ac.uk
-NOERROR	f5-wamstrain.uwe.ac.uk
-NOERROR	multisite_listener_lab.uwe.ac.uk
-NXDOMAIN	lawdev.uwe.ac.uk
-NOERROR	humanities.uwe.ac.uk
-NOERROR	cccs27.cccs.uwe.ac.uk
-NOERROR	lyncdiscover.uwe.ac.uk
-NOERROR	f5-wams.uwe.ac.uk
-NOERROR	blackboard-as-was.uwe.ac.uk
-NOERROR	ucom-fr640-sbc1k-02.uwe.ac.uk
-NOERROR	dev.cccs.uwe.ac.uk
-NOERROR	oldxa.uwe.ac.uk
-NOERROR	cccs29.cccs.uwe.ac.uk
-NOERROR	av-fr3.uwe.ac.uk
-NOERROR	hec1.uwe.ac.uk
-NXDOMAIN	webmail.cfpreditions.uwe.ac.uk
-NOERROR	oldfetres.uwe.ac.uk
-NXDOMAIN	ucom-fes03.campus.ads.uwe.ac.uk
-NOERROR	dev-sa-jb03.uwe.ac.uk
-NXDOMAIN	radius.uwe.ac.uk
-NOERROR	f5-docs.uwe.ac.uk
-NXDOMAIN	wconf.uwe.ac.uk
-NOERROR	idmz-vle19.uwe.ac.uk
-NOERROR	password.uwe.ac.uk
-NOERROR	f5-password.uwe.ac.uk
-NOERROR	pharostest.uwe.ac.uk
-NXDOMAIN	www.easblog.uwe.ac.uk
-NXDOMAIN	admin.people.uwe.ac.uk
-NOERROR	fet.uwe.ac.uk
-NOERROR	educationessentials.uwe.ac.uk
-NOERROR	f5-cookiemanagement.uwe.ac.uk
-NOERROR	curtis.uwe.ac.uk
-NOERROR	ees.uwe.ac.uk
-NOERROR	lyncweb.uwe.ac.uk
-NOERROR	groups.uwe.ac.uk
-NOERROR	uwe-emap01.uwe.ac.uk
-NOERROR	authoring.uwe.ac.uk
-NOERROR	wp1.uwe.ac.uk
-NOERROR	components-old.uwe.ac.uk
-NOERROR	printme.uwe.ac.uk
-NOERROR	igen-hls02-2.uwe.ac.uk
-NOERROR	www.vortex.uwe.ac.uk
-NOERROR	sip-old.uwe.ac.uk
-NOERROR	f5-connect2.uwe.ac.uk
-NOERROR	f5-keyreporter.uwe.ac.uk
-NOERROR	topology.uwe.ac.uk
-NOERROR	f5-forms.uwe.ac.uk
-NOERROR	autodiscover.live.uwe.ac.uk
-NOERROR	comms.uwe.ac.uk
-NOERROR	tdmz-uwe02.uwe.ac.uk
-NXDOMAIN	coursesdev.uwe.ac.uk
-NOERROR	fetres.uwe.ac.uk
-NOERROR	docs.uwe.ac.uk
-NOERROR	cems.uwe.ac.uk
-NOERROR	f5-sportbookings.uwe.ac.uk
-NOERROR	evault.uwe.ac.uk
-NOERROR	hp-n36l-742b7e.uwe.ac.uk
-NOERROR	cetts.uwe.ac.uk
-NXDOMAIN	cpanel.showcase-stage.uwe.ac.uk
-NOERROR	prod-cas.uwe.ac.uk
-NOERROR	live.timetables.uwe.ac.uk
-NXDOMAIN	dev.uwe.ac.uk
-NOERROR	ezone.uwe.ac.uk
-NOERROR	securityprofile.uwe.ac.uk
-NOERROR	f5-athensla.uwe.ac.uk
-NOERROR	lists.cccs.uwe.ac.uk
-NOERROR	apply4accomdev.uwe.ac.uk
-NOERROR	nix.uwe.ac.uk
-NOERROR	idmz-med03.uwe.ac.uk
-NOERROR	shiller.uwe.ac.uk
-NOERROR	myattendanceqa.uwe.ac.uk
-NXDOMAIN	blackboarddev.uwe.ac.uk
-NOERROR	howitt.uwe.ac.uk
-NOERROR	paging02.uwe.ac.uk
-NOERROR	veps.uwe.ac.uk
-NOERROR	livesecure.uwe.ac.uk
-NOERROR	f5-printing.uwe.ac.uk
-NXDOMAIN	atgdev.uwe.ac.uk
-NOERROR	old-pass.uwe.ac.uk
-NXDOMAIN	im2010.uwe.ac.uk
-NOERROR	old-smstext.uwe.ac.uk
-NOERROR	cfpreditions.uwe.ac.uk
-NOERROR	sgen-dev00.uwe.ac.uk
-NOERROR	igen-hls02.uwe.ac.uk
-NOERROR	onlinelibrary.wiley.com.ezproxy.uwe.ac.uk
-NXDOMAIN	connect.uwe.ac.uk
-NOERROR	blackboard-old.uwe.ac.uk
-NXDOMAIN	cpcontacts.showcase-stage.uwe.ac.uk
-NOERROR	cccs10.cccs.uwe.ac.uk
-NOERROR	groupstest.uwe.ac.uk
-NXDOMAIN	mail.uwe.ac.uk
-NOERROR	reportandsupport.uwe.ac.uk
-NOERROR	researchdata.uwe.ac.uk
-NOERROR	ezproxy.uwe.ac.uk
-NOERROR	courses.uwe.ac.uk
-NXDOMAIN	wamsdev.uwe.ac.uk
-NXDOMAIN	cpanel.easblog.uwe.ac.uk
-NOERROR	wwwcems.uwe.ac.uk
-NOERROR	www.panel.uwe.ac.uk
-NOERROR	gnhre.uwe.ac.uk
-NOERROR	f5-fetres.uwe.ac.uk
-NOERROR	csct-dev.uwe.ac.uk
-NOERROR	imp.uwe.ac.uk
-NXDOMAIN	idmz-med04.uwe.ac.uk
-NOERROR	my.uwe.ac.uk
-NOERROR	athensla-dev.uwe.ac.uk
-NXDOMAIN	aa-analyticsqa.uwe.ac.uk
-NOERROR	go.uwe.ac.uk
-NOERROR	draft.timetables.uwe.ac.uk
-NOERROR	uchoose.uwe.ac.uk
-NOERROR	scu.uwe.ac.uk
-NXDOMAIN	cetts.timetables.uwe.ac.uk
-NOERROR	cccs25.cccs.uwe.ac.uk
-NOERROR	edit.uwe.ac.uk
-NOERROR	readinglists.uwe.ac.uk
-NXDOMAIN	webmailstage.uwe.ac.uk
-NOERROR	old-sportbookings.uwe.ac.uk
-NOERROR	corehistorians.uwe.ac.uk
-NOERROR	telr.uwe.ac.uk
-NOERROR	ites-arc11.uwe.ac.uk
-NOERROR	blogs.uwe.ac.uk
-NOERROR	f5-brl-webcam.uwe.ac.uk
-NXDOMAIN	webdisk.showcase-stage.uwe.ac.uk
-NOERROR	apply4accom.uwe.ac.uk
-NOERROR	wesport.uwe.ac.uk
-NOERROR	idmz-its02.uwe.ac.uk
-NOERROR	www.acid.uwe.ac.uk
-NXDOMAIN	mdev.uwe.ac.uk
-NOERROR	cccs09.cccs.uwe.ac.uk
-NOERROR	f5-library.uwe.ac.uk
-NOERROR	eprints.uwe.ac.uk
-NXDOMAIN	wireless.uwe.ac.uk
-NOERROR	environment7.uwe.ac.uk
-NOERROR	externalstudentweb.uwe.ac.uk
-NOERROR	isa-132-201-used.uwe.ac.uk
-NOERROR	fetinfo.uwe.ac.uk
-NXDOMAIN	clfr1-lb3900-b.uwe.ac.uk
-NOERROR	isa-132-159-used.uwe.ac.uk
-NXDOMAIN	clfr3-lb3900-a.uwe.ac.uk
-NOERROR	athensla.uwe.ac.uk
-NOERROR	old-www2.uwe.ac.uk
-NOERROR	dewisprod.uwe.ac.uk
-NOERROR	store.uwe.ac.uk
-NOERROR	wams.uwe.ac.uk
-NOERROR	oos-fr1.uwe.ac.uk
-NOERROR	formstest.uwe.ac.uk
-NOERROR	search.uwe.ac.uk
-NOERROR	altcomp.uwe.ac.uk
-NXDOMAIN	myteamwork.uwe.ac.uk
-NOERROR	iskillzone.uwe.ac.uk
-NXDOMAIN	cpanel.cfpreditions.uwe.ac.uk
-NOERROR	idmz-ftp01.uwe.ac.uk
-NOERROR	michaelklingerpapers.uwe.ac.uk
-NOERROR	teams.uwe.ac.uk
-NOERROR	webapp.uwe.ac.uk
-NOERROR	beta.uwe.ac.uk
-NOERROR	huxley.uwe.ac.uk
-NOERROR	sitecoretest.uwe.ac.uk
-NOERROR	dewis.uwe.ac.uk
-NOERROR	hls.uwe.ac.uk
-NOERROR	maintain.uwe.ac.uk
-NOERROR	server-mac-jss-01.uwe.ac.uk
-NOERROR	archibus.uwe.ac.uk
-NOERROR	old-wams.uwe.ac.uk
-NOERROR	f5-www2.uwe.ac.uk
-NOERROR	jstor.org.ezproxy.uwe.ac.uk
-NOERROR	xa.uwe.ac.uk
-NOERROR	f5-vip-bitdefender.uwe.ac.uk
-NXDOMAIN	pilotintranet.uwe.ac.uk
-NOERROR	zen.uwe.ac.uk
-NOERROR	f5-smstext.uwe.ac.uk
-NOERROR	idmz-med01.uwe.ac.uk
-NOERROR	cccs28.cccs.uwe.ac.uk
-NOERROR	wc-fr3.uwe.ac.uk
-NOERROR	wellbeing.uwe.ac.uk
-NOERROR	smtp.uwe.ac.uk
-NOERROR	pass.uwe.ac.uk
-NOERROR	idmz-ace02.uwe.ac.uk
-NOERROR	idmz-vle10.uwe.ac.uk
-NOERROR	av-fr1.uwe.ac.uk
-NOERROR	hec4.uwe.ac.uk
-NOERROR	f5-cereus.uwe.ac.uk
-NOERROR	f5-ssl-test.uwe.ac.uk
-NOERROR	allocatorstaff.timetables.uwe.ac.uk
-NXDOMAIN	ucom-eicc22.campus.ads.uwe.ac.uk
-NXDOMAIN	adfs.uwe.ac.uk
-NOERROR	simita.uwe.ac.uk
-NOERROR	oos-fr3.uwe.ac.uk
-NOERROR	idmz-uwe11.uwe.ac.uk
-NOERROR	melville.uwe.ac.uk
-NXDOMAIN	webdisk.cfpreditions.uwe.ac.uk
-NOERROR	cccs19.cccs.uwe.ac.uk
-NOERROR	fbe.uwe.ac.uk
-NXDOMAIN	webservicesdev.uwe.ac.uk
-NOERROR	directaccess-2.uwe.ac.uk
-NOERROR	panel.uwe.ac.uk
-NOERROR	patterns.uwe.ac.uk
-NXDOMAIN	cettsdev.uwe.ac.uk
-NOERROR	cccs05.cccs.uwe.ac.uk
-NOERROR	arya.cccs.uwe.ac.uk
-NOERROR	autodiscover.uwe.ac.uk
-NOERROR	old-hls.uwe.ac.uk
-NOERROR	cem-czc4511009.uwe.ac.uk
-NOERROR	vps.uwe.ac.uk
-NOERROR	f5-environment.uwe.ac.uk
-NOERROR	cccs32.cccs.uwe.ac.uk
-NOERROR	www1.uwe.ac.uk
-NOERROR	hatch.uwe.ac.uk
-NOERROR	blackboardtrain.uwe.ac.uk
-NOERROR	allocator.timetables-old.uwe.ac.uk
-NOERROR	mediaspace.uwe.ac.uk
-NOERROR	dev-cas.uwe.ac.uk
-NXDOMAIN	xadev.uwe.ac.uk
-NOERROR	f5-cit.uwe.ac.uk
-NOERROR	old-cetts.uwe.ac.uk
-NOERROR	test_intf5_lyncweb.uwe.ac.uk
-NOERROR	cccs22.cccs.uwe.ac.uk
-NOERROR	ras.cems.uwe.ac.uk
-NOERROR	ro.uwe.ac.uk
-NOERROR	libcat.uwe.ac.uk
-NOERROR	alph.uwe.ac.uk
-NOERROR	isa-132-245-used.uwe.ac.uk
-NOERROR	web-ext-fr1.uwe.ac.uk
-NOERROR	mystage.uwe.ac.uk
-NOERROR	intf5-lyncweb.uwe.ac.uk
-NXDOMAIN	www.amt.uwe.ac.uk
-NOERROR	aggregate.uwe.ac.uk
-NOERROR	tux01.uwe.ac.uk
-NOERROR	cisccems.uwe.ac.uk
-NOERROR	sls.uwe.ac.uk
-NOERROR	environment.uwe.ac.uk
-NXDOMAIN	ucom-fes12.campus.ads.uwe.ac.uk
-NOERROR	f5-wrb.uwe.ac.uk
-NOERROR	dewisdev.uwe.ac.uk
-NOERROR	old_clarke.uwe.ac.uk
-NXDOMAIN	uwe-api-client-cert-2019.uwe.ac.uk
-NOERROR	mysitetest.uwe.ac.uk
-NOERROR	cccs06.cccs.uwe.ac.uk
-NXDOMAIN	mail.showcase-stage.uwe.ac.uk
-NXDOMAIN	cpcalendars.showcase-stage.uwe.ac.uk
-NXDOMAIN	identity.uwe.ac.uk
-NOERROR	f5-sitecore.uwe.ac.uk
-NOERROR	uwe-microscope.uwe.ac.uk
-NOERROR	smstext.uwe.ac.uk
-NOERROR	crmlite.uwe.ac.uk
-NOERROR	cereus.uwe.ac.uk
-NOERROR	radius02.uwe.ac.uk
-NOERROR	crystal-serv.uwe.ac.uk
-NOERROR	huxley-clone2020.uwe.ac.uk
-NOERROR	fas.uwe.ac.uk
-NOERROR	cccs13.cccs.uwe.ac.uk
-NOERROR	f5-directaccess.uwe.ac.uk
-NOERROR	wamstrain.uwe.ac.uk
-NOERROR	www.emeraldinsight.com.ezproxy.uwe.ac.uk
-NOERROR	rbi.uwe.ac.uk
-NOERROR	punc.uwe.ac.uk
-NOERROR	jips-gw.uwe.ac.uk
-NXDOMAIN	webdisk.easblog.uwe.ac.uk
-NOERROR	f5-facilities.uwe.ac.uk
-NOERROR	campusmp1.uwe.ac.uk
-NXDOMAIN	sfbpool.campus.ads.uwe.ac.uk
-NOERROR	f5-pass.uwe.ac.uk
-NOERROR	idmz-uwe12.uwe.ac.uk
-NOERROR	cccs11.cccs.uwe.ac.uk
-NOERROR	da.uwe.ac.uk
-NOERROR	f5-cpdaweuat.uwe.ac.uk
-NOERROR	f5-teams.uwe.ac.uk
-NOERROR	idmz-hsc01.uwe.ac.uk
-NOERROR	f5-notcoming.uwe.ac.uk
-NOERROR	notcoming.uwe.ac.uk
-NOERROR	www.jstor.org.ezproxy.uwe.ac.uk
-NOERROR	wrb.uwe.ac.uk
-NOERROR	radius04.uwe.ac.uk
-NOERROR	cccs15.cccs.uwe.ac.uk
-NXDOMAIN	www.wp1.uwe.ac.uk
-NOERROR	campusmqa1.uwe.ac.uk
-NOERROR	idmz-edu02.uwe.ac.uk
-NXDOMAIN	atg.uwe.ac.uk
-NXDOMAIN	impdev.uwe.ac.uk
-NOERROR	login.test-ezproxy.uwe.ac.uk
-NOERROR	crigs.uwe.ac.uk
-NOERROR	paging01.uwe.ac.uk
-NOERROR	campusmconnectqa.uwe.ac.uk
-NOERROR	hec12.uwe.ac.uk
-NOERROR	www.fc5.uwe.ac.uk
-NOERROR	idmz-med04_wms.uwe.ac.uk
-NXDOMAIN	godev.uwe.ac.uk
-NOERROR	alpha.hsc.uwe.ac.uk
-NOERROR	sci.uwe.ac.uk
-NOERROR	stes-crm13.uwe.ac.uk
-NOERROR	tea.uwe.ac.uk
-NXDOMAIN	ucom-fes02.campus.ads.uwe.ac.uk
-NOERROR	sportbookings.uwe.ac.uk
-NOERROR	f5-brl.uwe.ac.uk
-NOERROR	f5-streamqa.uwe.ac.uk
-NOERROR	tux04.uwe.ac.uk
-NOERROR	f5-vserv-84.uwe.ac.uk
-NOERROR	agresso.uwe.ac.uk
-NOERROR	cfpr.uwe.ac.uk
-NOERROR	easblog.uwe.ac.uk
-NOERROR	arcpow.uwe.ac.uk
-NOERROR	igen-cts06.uwe.ac.uk
-NOERROR	welcome.uwe.ac.uk
-NOERROR	crawford.uwe.ac.uk
-NOERROR	aovpn.uwe.ac.uk
-NOERROR	mlms.uwe.ac.uk
-NOERROR	coursefees.uwe.ac.uk
-NOERROR	www.uwe.ac.uk
-NOERROR	arcpractice.uwe.ac.uk
-NOERROR	howitt-clone.uwe.ac.uk
-NOERROR	xertetest.uwe.ac.uk
-NOERROR	cccs12.cccs.uwe.ac.uk
-NOERROR	isa-www1.uwe.ac.uk
-NOERROR	cccs02.cccs.uwe.ac.uk
-NOERROR	caidin.uwe.ac.uk
-NOERROR	elibrary.uwe.ac.uk
-NOERROR	mywsstage.uwe.ac.uk
-NOERROR	www.cccs.uwe.ac.uk
-NOERROR	showcase.uwe.ac.uk
-NOERROR	f5-nagios.uwe.ac.uk
-NOERROR	grump.uwe.ac.uk
-NOERROR	cccs18.cccs.uwe.ac.uk
-NOERROR	old-blackboardtest.uwe.ac.uk
-NOERROR	sip.uwe.ac.uk
-NOERROR	components.uwe.ac.uk
-NOERROR	old-teldir.uwe.ac.uk
-NOERROR	accommodation.uwe.ac.uk
-NOERROR	fetstudy.uwe.ac.uk
-NOERROR	sharedservices.uwe.ac.uk
-NOERROR	old-coursefees.uwe.ac.uk
-NOERROR	openkm.cccs.uwe.ac.uk
-NOERROR	igen-its08.uwe.ac.uk
-NXDOMAIN	im.uwe.ac.uk
-NOERROR	webservicesstage.uwe.ac.uk
-NOERROR	clarke.uwe.ac.uk
-NXDOMAIN	enterpriseregistration.campus.ads.uwe.ac.uk
-NXDOMAIN	mobiledev.uwe.ac.uk
-NOERROR	lessing.uwe.ac.uk
-NOERROR	intranet.uwe.ac.uk
-NOERROR	f5-intranet.uwe.ac.uk
-NOERROR	old-arc.uwe.ac.uk
-NXDOMAIN	pilotteams.uwe.ac.uk
-NOERROR	decumanus.cccs.uwe.ac.uk
-NOERROR	f5-cpdawetest.uwe.ac.uk
-NOERROR	www.fet.uwe.ac.uk
-NOERROR	cccs21.cccs.uwe.ac.uk
-NOERROR	idmz-uwe23.uwe.ac.uk
-NOERROR	archivescfpr.uwe.ac.uk
-NOERROR	ses-imap.uwe.ac.uk
-NOERROR	library.sso.uwe.ac.uk
-NOERROR	ecapply.uwe.ac.uk
-NOERROR	blackboardtest-css.uwe.ac.uk
-NOERROR	grendel.uwe.ac.uk
-NOERROR	myws.uwe.ac.uk
-NOERROR	f5-stream.uwe.ac.uk
-NOERROR	historycd.uwe.ac.uk
-NOERROR	f5-crmlite.uwe.ac.uk
-NOERROR	f5-ees.uwe.ac.uk
-NXDOMAIN	componentsdev.uwe.ac.uk
-NOERROR	old-igen-let01.uwe.ac.uk
-NOERROR	myawe.uwe.ac.uk
-NOERROR	blackboardtest.uwe.ac.uk
-NOERROR	hec8.uwe.ac.uk
-NOERROR	fr1-psa5000-02.uwe.ac.uk
-NOERROR	vc-external.uwe.ac.uk
-NOERROR	calcscience.uwe.ac.uk
-NOERROR	wrb.timetables.uwe.ac.uk
-NOERROR	f5-fetsecure.uwe.ac.uk
-NOERROR	campusmp2.uwe.ac.uk
-NOERROR	cccs23.cccs.uwe.ac.uk
-NOERROR	connection-denied.uwe.ac.uk
-NXDOMAIN	lyncadmin.uwe.ac.uk
-NOERROR	search.credoreference.com.ezproxy.uwe.ac.uk
-NXDOMAIN	crmlitedev.uwe.ac.uk
-NOERROR	tux02.uwe.ac.uk
-NOERROR	sturgeon.uwe.ac.uk
-NOERROR	f5-info.uwe.ac.uk
-NXDOMAIN	ucom-fes11.campus.ads.uwe.ac.uk
-NOERROR	idmz-hls03.uwe.ac.uk
-NOERROR	darling.uwe.ac.uk
-NOERROR	myengagementqa.uwe.ac.uk
-NOERROR	campusmqa2.uwe.ac.uk
-NOERROR	sportbookings-test.uwe.ac.uk
-NOERROR	owa.uwe.ac.uk
-NXDOMAIN	law.uwe.ac.uk
-NOERROR	asimov.uwe.ac.uk
-NOERROR	old-wellbeing.uwe.ac.uk
-NXDOMAIN	fbex6.uwe.ac.uk
-NOERROR	wsus.uwe.ac.uk
-NXDOMAIN	sharedservicesdev.uwe.ac.uk
-NOERROR	oldarchivescfpr.uwe.ac.uk
-NOERROR	oldpanel.uwe.ac.uk
-NOERROR	blog.uwe.ac.uk
-NOERROR	f5-people.uwe.ac.uk
-NOERROR	idmz-fbe07.uwe.ac.uk
-NOERROR	f5-pcbooking.uwe.ac.uk
-NOERROR	oldpharos.uwe.ac.uk
-NXDOMAIN	aa-analytics.uwe.ac.uk
-NOERROR	idmz-uwe09.uwe.ac.uk
-NOERROR	www.hls.uwe.ac.uk
-NOERROR	isa-132-160.uwe.ac.uk
-NOERROR	f5-arc.uwe.ac.uk
-NXDOMAIN	bbs-staff.uwe.ac.uk
-NOERROR	f5-kx-test-vip.uwe.ac.uk.uwe.ac.uk
-NOERROR	uncomp.uwe.ac.uk
-NOERROR	gitlab.uwe.ac.uk
-NOERROR	tobe-publicweb.uwe.ac.uk
-NOERROR	pcbooking.uwe.ac.uk
-NXDOMAIN	ucom-eicc21.campus.ads.uwe.ac.uk
-NOERROR	beta.courses.uwe.ac.uk
-NOERROR	mycpd-test.uwe.ac.uk
-NOERROR	fetinfo1.uwe.ac.uk
-NOERROR	tux03.uwe.ac.uk
-NOERROR	mobile.uwe.ac.uk
-NXDOMAIN	www.cfpreditions.uwe.ac.uk
-NOERROR	tux06.uwe.ac.uk
-NOERROR	old-password.uwe.ac.uk
-NOERROR	server-mac-dp-01.uwe.ac.uk
-NOERROR	cccs31.cccs.uwe.ac.uk
-NOERROR	teldir.uwe.ac.uk
-NOERROR	citrix-staff.uwe.ac.uk
-NXDOMAIN	amt.uwe.ac.uk
-NOERROR	showcase1.uwe.ac.uk
-NOERROR	f5-timetables.uwe.ac.uk
-NOERROR	pharos.uwe.ac.uk
-NOERROR	hec3.uwe.ac.uk
-NXDOMAIN	webmail.sso.uwe.ac.uk
-NOERROR	idmz-uwe24.uwe.ac.uk
-NOERROR	blackboardbeta.uwe.ac.uk
-NOERROR	f5-www1.uwe.ac.uk
-NOERROR	uwe-da.uwe.ac.uk
-NOERROR	studiobooking.uwe.ac.uk
-NOERROR	old-crmlite.uwe.ac.uk
-NOERROR	webservices.uwe.ac.uk
-NOERROR	facilities.uwe.ac.uk
-NOERROR	campusmconnect.uwe.ac.uk
-NOERROR	hec11.uwe.ac.uk
-NOERROR	f5-webservices.uwe.ac.uk
-NXDOMAIN	fbedev1.uwe.ac.uk
-NOERROR	salinger.uwe.ac.uk
-NOERROR	f5-mysite.uwe.ac.uk
-NXDOMAIN	my2.uwe.ac.uk
-NOERROR	cccs30.cccs.uwe.ac.uk
-NOERROR	f5-www.uwe.ac.uk
-NOERROR	cccs01.cccs.uwe.ac.uk
-NOERROR	old-lyncweb.uwe.ac.uk
-NOERROR	f5-fetinfo.uwe.ac.uk
-NOERROR	login.ezproxy.uwe.ac.uk
-NOERROR	kinetix-f5-vip.uwe.ac.uk
-NOERROR	share.uwe.ac.uk
-NOERROR	old-blogs.uwe.ac.uk
-NOERROR	www2.uwe.ac.uk
-NOERROR	academicskills.uwe.ac.uk
-NOERROR	nature.com.ezproxy.uwe.ac.uk
-NOERROR	officeonline.uwe.ac.uk
-NOERROR	idmz-hls04.uwe.ac.uk
-NOERROR	cccs08.cccs.uwe.ac.uk
-NOERROR	f5-coursefees.uwe.ac.uk
-NOERROR	style-old.uwe.ac.uk
-NOERROR	oala.uwe.ac.uk
-NOERROR	forms.uwe.ac.uk
-NOERROR	clfr3-dns-02.uwe.ac.uk
-NOERROR	sgen-fac05.uwe.ac.uk
-NOERROR	old-connect2.uwe.ac.uk
-NOERROR	lyncav.uwe.ac.uk
-NOERROR	old-my.uwe.ac.uk
-NOERROR	allocator.timetables.uwe.ac.uk
-NOERROR	wms.uwe.ac.uk
-NOERROR	mta.uwe.ac.uk
-NOERROR	radius01.uwe.ac.uk
-NOERROR	alfresco.cccs.uwe.ac.uk
-NOERROR	hsc.uwe.ac.uk
-NOERROR	wwwvip.uwe.ac.uk
-NOERROR	infohub.uwe.ac.uk
-NOERROR	rescale-lic-proxy.uwe.ac.uk
-NXDOMAIN	fbe6.uwe.ac.uk
-NXDOMAIN	lyncdiscoverinternal.uwe.ac.uk
-NOERROR	radius03.uwe.ac.uk
-NXDOMAIN	www.showcase-stage.uwe.ac.uk
-NOERROR	old-imp.uwe.ac.uk
-NOERROR	authoringtest.uwe.ac.uk
-NOERROR	www.create.uwe.ac.uk
-NOERROR	ec.uwe.ac.uk
-NOERROR	clfr1-dns-01.uwe.ac.uk
-NOERROR	uwe-emap02.uwe.ac.uk
-NOERROR	itservicestatus.uwe.ac.uk
-NOERROR	f5-infopoint.uwe.ac.uk
-NOERROR	acc-fr1.uwe.ac.uk
-NXDOMAIN	owa-legacy.uwe.ac.uk
-NOERROR	path.uwe.ac.uk
-NOERROR	old-pcbooking.uwe.ac.uk
-NOERROR	www.bit.uwe.ac.uk
-NOERROR	timetables.uwe.ac.uk
-NOERROR	uwe.ac.uk
-NXDOMAIN	ucom-fes14.campus.ads.uwe.ac.uk
-NOERROR	mice.uwe.ac.uk
-NXDOMAIN	ucom-fes13.campus.ads.uwe.ac.uk
-NOERROR	directaccess-1.uwe.ac.uk
-NOERROR	huxley-clone.uwe.ac.uk
-NOERROR	ccwebchat.uwe.ac.uk
-NXDOMAIN	infodev.uwe.ac.uk
-NOERROR	cccs14.cccs.uwe.ac.uk
-NOERROR	brl-wiki.uwe.ac.uk
-NOERROR	old-coursefeeservice.uwe.ac.uk
-NXDOMAIN	pilotmysite.uwe.ac.uk
-NXDOMAIN	enterpriseregistration.uwe.ac.uk
-NOERROR	library.uwe.ac.uk
-NOERROR	csctcloudimage.uwe.ac.uk
-NOERROR	lyncwc.uwe.ac.uk
-NOERROR	idmz-hsc05.uwe.ac.uk
-NOERROR	hec2.uwe.ac.uk
-NOERROR	larkin.uwe.ac.uk
-NOERROR	webpayments.uwe.ac.uk
-NOERROR	vc.uwe.ac.uk
-NOERROR	people.uwe.ac.uk
-NOERROR	skelta.uwe.ac.uk
-NOERROR	isa-132-187-used.uwe.ac.uk
+livesecurestage.uwe.ac.uk
+gfm-vpn-gateway-cchse24.uwe.ac.uk
+web-ext-fr3.uwe.ac.uk
+old-infohub.uwe.ac.uk
+myattendance.uwe.ac.uk
+reportager.uwe.ac.uk
+intranetf5.uwe.ac.uk
+acc-fr3.uwe.ac.uk
+cccs26.cccs.uwe.ac.uk
+appsanywhere.uwe.ac.uk
+ada.uwe.ac.uk
+old-arcpractice.uwe.ac.uk
+cccs17.cccs.uwe.ac.uk
+f5-coursefeeservice.uwe.ac.uk
+idmz-pha01.uwe.ac.uk
+cccs16.cccs.uwe.ac.uk
+heinlein.uwe.ac.uk
+dmzgate.uwe.ac.uk
+learntech.uwe.ac.uk
+info.uwe.ac.uk
+secure.uwe.ac.uk
+ezproxy-old.uwe.ac.uk
+idmz-hls01.uwe.ac.uk
+hec9.uwe.ac.uk
+mystage-css.uwe.ac.uk
+edu.projects.uwe.ac.uk
+m.uwe.ac.uk
+sso.uwe.ac.uk
+style.uwe.ac.uk
+auth-cas.uwe.ac.uk
+usec-uwe08.uwe.ac.uk
+idp.uwe.ac.uk
+athensda.uwe.ac.uk
+chrisb-dupont.uwe.ac.uk
+cccs07.cccs.uwe.ac.uk
+archives.uwe.ac.uk
+cccs24.cccs.uwe.ac.uk
+testwww.cems.uwe.ac.uk
+f5-infohub.uwe.ac.uk
+systrack.uwe.ac.uk
+iuwe.uwe.ac.uk
+f5-spapps.uwe.ac.uk
+www.impact.uwe.ac.uk
+old-notcoming.uwe.ac.uk
+idmz-hls02.uwe.ac.uk
+www.cems.uwe.ac.uk
+blue.uwe.ac.uk
+public.uwe.ac.uk
+f5-vip-tmg1.uwe.ac.uk
+cccs03.cccs.uwe.ac.uk
+ext_f5_multisite_listener.uwe.ac.uk
+wolfe-clone.uwe.ac.uk
+f5-teldir.uwe.ac.uk
+old-arcpow.uwe.ac.uk
+marvin.cems.uwe.ac.uk
+intranettest.uwe.ac.uk
+old-mystage.uwe.ac.uk
+cms.uwe.ac.uk
+temp-sorry-server.uwe.ac.uk
+f5-cetts.uwe.ac.uk
+f5-wellbeing.uwe.ac.uk
+cpd.hsc.uwe.ac.uk
+old-people.uwe.ac.uk
+test-ezproxy.uwe.ac.uk
+csctcloud.uwe.ac.uk
+qaidp.uwe.ac.uk
+uwevc.uwe.ac.uk
+prospectus.uwe.ac.uk
+testsso.uwe.ac.uk
+bne.uwe.ac.uk
+apps.uwe.ac.uk
+brl-gitlab.uwe.ac.uk
+adrms.uwe.ac.uk
+brl.uwe.ac.uk
+teamstest.uwe.ac.uk
+www.bookarts.uwe.ac.uk
+ftp-csm.uwe.ac.uk
+showcase-stage.uwe.ac.uk
+idmz-uwe10.uwe.ac.uk
+idmz-vle20.uwe.ac.uk
+tobe-beta.courses.uwe.ac.uk
+xerte.uwe.ac.uk
+cccs20.cccs.uwe.ac.uk
+te.uwe.ac.uk
+devxa.uwe.ac.uk
+old-wamstrain.uwe.ac.uk
+clearpass.uwe.ac.uk
+appnav-test.ec.uwe.ac.uk
+meet.uwe.ac.uk
+gfm-vpn-gateway-t-block.uwe.ac.uk
+ltdu.uwe.ac.uk
+connect2.uwe.ac.uk
+hec10.uwe.ac.uk
+blackboard.uwe.ac.uk
+idmz-uwe06.uwe.ac.uk
+stes-cfg01.uwe.ac.uk
+maclean.uwe.ac.uk
+ieeexplore.ieee.org.ezproxy.uwe.ac.uk
+isa-132-220-used.uwe.ac.uk
+sitecoreidentity.uwe.ac.uk
+old-rbi.uwe.ac.uk
+electures.uwe.ac.uk
+mysitef5.uwe.ac.uk
+gate.uwe.ac.uk
+dialin.uwe.ac.uk
+docstest.uwe.ac.uk
+tux05.uwe.ac.uk
+wc-fr1.uwe.ac.uk
+sciencecomics.uwe.ac.uk
+fr3-psa5000-01.uwe.ac.uk
+f5-hls.uwe.ac.uk
+alephnull.cems.uwe.ac.uk
+cccs04.cccs.uwe.ac.uk
+blackboardstage.uwe.ac.uk
+mysite.uwe.ac.uk
+pcbooking-old.uwe.ac.uk
+f5-wamstrain.uwe.ac.uk
+multisite_listener_lab.uwe.ac.uk
+humanities.uwe.ac.uk
+cccs27.cccs.uwe.ac.uk
+lyncdiscover.uwe.ac.uk
+f5-wams.uwe.ac.uk
+blackboard-as-was.uwe.ac.uk
+ucom-fr640-sbc1k-02.uwe.ac.uk
+dev.cccs.uwe.ac.uk
+oldxa.uwe.ac.uk
+cccs29.cccs.uwe.ac.uk
+av-fr3.uwe.ac.uk
+hec1.uwe.ac.uk
+oldfetres.uwe.ac.uk
+dev-sa-jb03.uwe.ac.uk
+f5-docs.uwe.ac.uk
+idmz-vle19.uwe.ac.uk
+password.uwe.ac.uk
+f5-password.uwe.ac.uk
+pharostest.uwe.ac.uk
+fet.uwe.ac.uk
+educationessentials.uwe.ac.uk
+f5-cookiemanagement.uwe.ac.uk
+curtis.uwe.ac.uk
+ees.uwe.ac.uk
+lyncweb.uwe.ac.uk
+groups.uwe.ac.uk
+uwe-emap01.uwe.ac.uk
+authoring.uwe.ac.uk
+wp1.uwe.ac.uk
+components-old.uwe.ac.uk
+printme.uwe.ac.uk
+igen-hls02-2.uwe.ac.uk
+www.vortex.uwe.ac.uk
+sip-old.uwe.ac.uk
+f5-connect2.uwe.ac.uk
+f5-keyreporter.uwe.ac.uk
+topology.uwe.ac.uk
+f5-forms.uwe.ac.uk
+autodiscover.live.uwe.ac.uk
+comms.uwe.ac.uk
+tdmz-uwe02.uwe.ac.uk
+fetres.uwe.ac.uk
+docs.uwe.ac.uk
+cems.uwe.ac.uk
+f5-sportbookings.uwe.ac.uk
+evault.uwe.ac.uk
+hp-n36l-742b7e.uwe.ac.uk
+cetts.uwe.ac.uk
+prod-cas.uwe.ac.uk
+live.timetables.uwe.ac.uk
+ezone.uwe.ac.uk
+securityprofile.uwe.ac.uk
+f5-athensla.uwe.ac.uk
+lists.cccs.uwe.ac.uk
+apply4accomdev.uwe.ac.uk
+nix.uwe.ac.uk
+idmz-med03.uwe.ac.uk
+shiller.uwe.ac.uk
+myattendanceqa.uwe.ac.uk
+howitt.uwe.ac.uk
+paging02.uwe.ac.uk
+veps.uwe.ac.uk
+livesecure.uwe.ac.uk
+f5-printing.uwe.ac.uk
+old-pass.uwe.ac.uk
+old-smstext.uwe.ac.uk
+cfpreditions.uwe.ac.uk
+sgen-dev00.uwe.ac.uk
+igen-hls02.uwe.ac.uk
+onlinelibrary.wiley.com.ezproxy.uwe.ac.uk
+blackboard-old.uwe.ac.uk
+cccs10.cccs.uwe.ac.uk
+groupstest.uwe.ac.uk
+reportandsupport.uwe.ac.uk
+researchdata.uwe.ac.uk
+ezproxy.uwe.ac.uk
+courses.uwe.ac.uk
+wwwcems.uwe.ac.uk
+www.panel.uwe.ac.uk
+gnhre.uwe.ac.uk
+f5-fetres.uwe.ac.uk
+csct-dev.uwe.ac.uk
+imp.uwe.ac.uk
+my.uwe.ac.uk
+athensla-dev.uwe.ac.uk
+go.uwe.ac.uk
+draft.timetables.uwe.ac.uk
+uchoose.uwe.ac.uk
+scu.uwe.ac.uk
+cccs25.cccs.uwe.ac.uk
+edit.uwe.ac.uk
+readinglists.uwe.ac.uk
+old-sportbookings.uwe.ac.uk
+corehistorians.uwe.ac.uk
+telr.uwe.ac.uk
+ites-arc11.uwe.ac.uk
+blogs.uwe.ac.uk
+f5-brl-webcam.uwe.ac.uk
+apply4accom.uwe.ac.uk
+wesport.uwe.ac.uk
+idmz-its02.uwe.ac.uk
+www.acid.uwe.ac.uk
+cccs09.cccs.uwe.ac.uk
+f5-library.uwe.ac.uk
+eprints.uwe.ac.uk
+environment7.uwe.ac.uk
+externalstudentweb.uwe.ac.uk
+isa-132-201-used.uwe.ac.uk
+fetinfo.uwe.ac.uk
+isa-132-159-used.uwe.ac.uk
+athensla.uwe.ac.uk
+old-www2.uwe.ac.uk
+dewisprod.uwe.ac.uk
+store.uwe.ac.uk
+wams.uwe.ac.uk
+oos-fr1.uwe.ac.uk
+formstest.uwe.ac.uk
+search.uwe.ac.uk
+altcomp.uwe.ac.uk
+iskillzone.uwe.ac.uk
+idmz-ftp01.uwe.ac.uk
+michaelklingerpapers.uwe.ac.uk
+teams.uwe.ac.uk
+webapp.uwe.ac.uk
+beta.uwe.ac.uk
+huxley.uwe.ac.uk
+sitecoretest.uwe.ac.uk
+dewis.uwe.ac.uk
+hls.uwe.ac.uk
+maintain.uwe.ac.uk
+server-mac-jss-01.uwe.ac.uk
+archibus.uwe.ac.uk
+old-wams.uwe.ac.uk
+f5-www2.uwe.ac.uk
+jstor.org.ezproxy.uwe.ac.uk
+xa.uwe.ac.uk
+f5-vip-bitdefender.uwe.ac.uk
+zen.uwe.ac.uk
+f5-smstext.uwe.ac.uk
+idmz-med01.uwe.ac.uk
+cccs28.cccs.uwe.ac.uk
+wc-fr3.uwe.ac.uk
+wellbeing.uwe.ac.uk
+smtp.uwe.ac.uk
+pass.uwe.ac.uk
+idmz-ace02.uwe.ac.uk
+idmz-vle10.uwe.ac.uk
+av-fr1.uwe.ac.uk
+hec4.uwe.ac.uk
+f5-cereus.uwe.ac.uk
+f5-ssl-test.uwe.ac.uk
+allocatorstaff.timetables.uwe.ac.uk
+simita.uwe.ac.uk
+oos-fr3.uwe.ac.uk
+idmz-uwe11.uwe.ac.uk
+melville.uwe.ac.uk
+cccs19.cccs.uwe.ac.uk
+fbe.uwe.ac.uk
+directaccess-2.uwe.ac.uk
+panel.uwe.ac.uk
+patterns.uwe.ac.uk
+cccs05.cccs.uwe.ac.uk
+arya.cccs.uwe.ac.uk
+autodiscover.uwe.ac.uk
+old-hls.uwe.ac.uk
+cem-czc4511009.uwe.ac.uk
+vps.uwe.ac.uk
+f5-environment.uwe.ac.uk
+cccs32.cccs.uwe.ac.uk
+www1.uwe.ac.uk
+hatch.uwe.ac.uk
+blackboardtrain.uwe.ac.uk
+allocator.timetables-old.uwe.ac.uk
+mediaspace.uwe.ac.uk
+dev-cas.uwe.ac.uk
+f5-cit.uwe.ac.uk
+old-cetts.uwe.ac.uk
+test_intf5_lyncweb.uwe.ac.uk
+cccs22.cccs.uwe.ac.uk
+ras.cems.uwe.ac.uk
+ro.uwe.ac.uk
+libcat.uwe.ac.uk
+alph.uwe.ac.uk
+isa-132-245-used.uwe.ac.uk
+web-ext-fr1.uwe.ac.uk
+mystage.uwe.ac.uk
+intf5-lyncweb.uwe.ac.uk
+aggregate.uwe.ac.uk
+tux01.uwe.ac.uk
+cisccems.uwe.ac.uk
+sls.uwe.ac.uk
+environment.uwe.ac.uk
+f5-wrb.uwe.ac.uk
+dewisdev.uwe.ac.uk
+old_clarke.uwe.ac.uk
+mysitetest.uwe.ac.uk
+cccs06.cccs.uwe.ac.uk
+f5-sitecore.uwe.ac.uk
+uwe-microscope.uwe.ac.uk
+smstext.uwe.ac.uk
+crmlite.uwe.ac.uk
+cereus.uwe.ac.uk
+radius02.uwe.ac.uk
+crystal-serv.uwe.ac.uk
+huxley-clone2020.uwe.ac.uk
+fas.uwe.ac.uk
+cccs13.cccs.uwe.ac.uk
+f5-directaccess.uwe.ac.uk
+wamstrain.uwe.ac.uk
+www.emeraldinsight.com.ezproxy.uwe.ac.uk
+rbi.uwe.ac.uk
+punc.uwe.ac.uk
+jips-gw.uwe.ac.uk
+f5-facilities.uwe.ac.uk
+campusmp1.uwe.ac.uk
+f5-pass.uwe.ac.uk
+idmz-uwe12.uwe.ac.uk
+cccs11.cccs.uwe.ac.uk
+da.uwe.ac.uk
+f5-cpdaweuat.uwe.ac.uk
+f5-teams.uwe.ac.uk
+idmz-hsc01.uwe.ac.uk
+f5-notcoming.uwe.ac.uk
+notcoming.uwe.ac.uk
+www.jstor.org.ezproxy.uwe.ac.uk
+wrb.uwe.ac.uk
+radius04.uwe.ac.uk
+cccs15.cccs.uwe.ac.uk
+campusmqa1.uwe.ac.uk
+idmz-edu02.uwe.ac.uk
+login.test-ezproxy.uwe.ac.uk
+crigs.uwe.ac.uk
+paging01.uwe.ac.uk
+campusmconnectqa.uwe.ac.uk
+hec12.uwe.ac.uk
+www.fc5.uwe.ac.uk
+idmz-med04_wms.uwe.ac.uk
+alpha.hsc.uwe.ac.uk
+sci.uwe.ac.uk
+stes-crm13.uwe.ac.uk
+tea.uwe.ac.uk
+sportbookings.uwe.ac.uk
+f5-brl.uwe.ac.uk
+f5-streamqa.uwe.ac.uk
+tux04.uwe.ac.uk
+f5-vserv-84.uwe.ac.uk
+agresso.uwe.ac.uk
+cfpr.uwe.ac.uk
+easblog.uwe.ac.uk
+arcpow.uwe.ac.uk
+igen-cts06.uwe.ac.uk
+welcome.uwe.ac.uk
+crawford.uwe.ac.uk
+aovpn.uwe.ac.uk
+mlms.uwe.ac.uk
+coursefees.uwe.ac.uk
+www.uwe.ac.uk
+arcpractice.uwe.ac.uk
+howitt-clone.uwe.ac.uk
+xertetest.uwe.ac.uk
+cccs12.cccs.uwe.ac.uk
+isa-www1.uwe.ac.uk
+cccs02.cccs.uwe.ac.uk
+caidin.uwe.ac.uk
+elibrary.uwe.ac.uk
+mywsstage.uwe.ac.uk
+www.cccs.uwe.ac.uk
+showcase.uwe.ac.uk
+f5-nagios.uwe.ac.uk
+grump.uwe.ac.uk
+cccs18.cccs.uwe.ac.uk
+old-blackboardtest.uwe.ac.uk
+sip.uwe.ac.uk
+components.uwe.ac.uk
+old-teldir.uwe.ac.uk
+accommodation.uwe.ac.uk
+fetstudy.uwe.ac.uk
+sharedservices.uwe.ac.uk
+old-coursefees.uwe.ac.uk
+openkm.cccs.uwe.ac.uk
+igen-its08.uwe.ac.uk
+webservicesstage.uwe.ac.uk
+clarke.uwe.ac.uk
+lessing.uwe.ac.uk
+intranet.uwe.ac.uk
+f5-intranet.uwe.ac.uk
+old-arc.uwe.ac.uk
+decumanus.cccs.uwe.ac.uk
+f5-cpdawetest.uwe.ac.uk
+www.fet.uwe.ac.uk
+cccs21.cccs.uwe.ac.uk
+idmz-uwe23.uwe.ac.uk
+archivescfpr.uwe.ac.uk
+ses-imap.uwe.ac.uk
+library.sso.uwe.ac.uk
+ecapply.uwe.ac.uk
+blackboardtest-css.uwe.ac.uk
+grendel.uwe.ac.uk
+myws.uwe.ac.uk
+f5-stream.uwe.ac.uk
+historycd.uwe.ac.uk
+f5-crmlite.uwe.ac.uk
+f5-ees.uwe.ac.uk
+old-igen-let01.uwe.ac.uk
+myawe.uwe.ac.uk
+blackboardtest.uwe.ac.uk
+hec8.uwe.ac.uk
+fr1-psa5000-02.uwe.ac.uk
+vc-external.uwe.ac.uk
+calcscience.uwe.ac.uk
+wrb.timetables.uwe.ac.uk
+f5-fetsecure.uwe.ac.uk
+campusmp2.uwe.ac.uk
+cccs23.cccs.uwe.ac.uk
+connection-denied.uwe.ac.uk
+search.credoreference.com.ezproxy.uwe.ac.uk
+tux02.uwe.ac.uk
+sturgeon.uwe.ac.uk
+f5-info.uwe.ac.uk
+idmz-hls03.uwe.ac.uk
+darling.uwe.ac.uk
+myengagementqa.uwe.ac.uk
+campusmqa2.uwe.ac.uk
+sportbookings-test.uwe.ac.uk
+owa.uwe.ac.uk
+asimov.uwe.ac.uk
+old-wellbeing.uwe.ac.uk
+wsus.uwe.ac.uk
+oldarchivescfpr.uwe.ac.uk
+oldpanel.uwe.ac.uk
+blog.uwe.ac.uk
+f5-people.uwe.ac.uk
+idmz-fbe07.uwe.ac.uk
+f5-pcbooking.uwe.ac.uk
+oldpharos.uwe.ac.uk
+idmz-uwe09.uwe.ac.uk
+www.hls.uwe.ac.uk
+isa-132-160.uwe.ac.uk
+f5-arc.uwe.ac.uk
+f5-kx-test-vip.uwe.ac.uk.uwe.ac.uk
+uncomp.uwe.ac.uk
+gitlab.uwe.ac.uk
+tobe-publicweb.uwe.ac.uk
+pcbooking.uwe.ac.uk
+beta.courses.uwe.ac.uk
+mycpd-test.uwe.ac.uk
+fetinfo1.uwe.ac.uk
+tux03.uwe.ac.uk
+mobile.uwe.ac.uk
+tux06.uwe.ac.uk
+old-password.uwe.ac.uk
+server-mac-dp-01.uwe.ac.uk
+cccs31.cccs.uwe.ac.uk
+teldir.uwe.ac.uk
+citrix-staff.uwe.ac.uk
+showcase1.uwe.ac.uk
+f5-timetables.uwe.ac.uk
+pharos.uwe.ac.uk
+hec3.uwe.ac.uk
+idmz-uwe24.uwe.ac.uk
+blackboardbeta.uwe.ac.uk
+f5-www1.uwe.ac.uk
+uwe-da.uwe.ac.uk
+studiobooking.uwe.ac.uk
+old-crmlite.uwe.ac.uk
+webservices.uwe.ac.uk
+facilities.uwe.ac.uk
+campusmconnect.uwe.ac.uk
+hec11.uwe.ac.uk
+f5-webservices.uwe.ac.uk
+salinger.uwe.ac.uk
+f5-mysite.uwe.ac.uk
+cccs30.cccs.uwe.ac.uk
+f5-www.uwe.ac.uk
+cccs01.cccs.uwe.ac.uk
+old-lyncweb.uwe.ac.uk
+f5-fetinfo.uwe.ac.uk
+login.ezproxy.uwe.ac.uk
+kinetix-f5-vip.uwe.ac.uk
+share.uwe.ac.uk
+old-blogs.uwe.ac.uk
+www2.uwe.ac.uk
+academicskills.uwe.ac.uk
+nature.com.ezproxy.uwe.ac.uk
+officeonline.uwe.ac.uk
+idmz-hls04.uwe.ac.uk
+cccs08.cccs.uwe.ac.uk
+f5-coursefees.uwe.ac.uk
+style-old.uwe.ac.uk
+oala.uwe.ac.uk
+forms.uwe.ac.uk
+clfr3-dns-02.uwe.ac.uk
+sgen-fac05.uwe.ac.uk
+old-connect2.uwe.ac.uk
+lyncav.uwe.ac.uk
+old-my.uwe.ac.uk
+allocator.timetables.uwe.ac.uk
+wms.uwe.ac.uk
+mta.uwe.ac.uk
+radius01.uwe.ac.uk
+alfresco.cccs.uwe.ac.uk
+hsc.uwe.ac.uk
+wwwvip.uwe.ac.uk
+infohub.uwe.ac.uk
+rescale-lic-proxy.uwe.ac.uk
+radius03.uwe.ac.uk
+old-imp.uwe.ac.uk
+authoringtest.uwe.ac.uk
+www.create.uwe.ac.uk
+ec.uwe.ac.uk
+clfr1-dns-01.uwe.ac.uk
+uwe-emap02.uwe.ac.uk
+itservicestatus.uwe.ac.uk
+f5-infopoint.uwe.ac.uk
+acc-fr1.uwe.ac.uk
+path.uwe.ac.uk
+old-pcbooking.uwe.ac.uk
+www.bit.uwe.ac.uk
+timetables.uwe.ac.uk
+uwe.ac.uk
+mice.uwe.ac.uk
+directaccess-1.uwe.ac.uk
+huxley-clone.uwe.ac.uk
+ccwebchat.uwe.ac.uk
+cccs14.cccs.uwe.ac.uk
+brl-wiki.uwe.ac.uk
+old-coursefeeservice.uwe.ac.uk
+library.uwe.ac.uk
+csctcloudimage.uwe.ac.uk
+lyncwc.uwe.ac.uk
+idmz-hsc05.uwe.ac.uk
+hec2.uwe.ac.uk
+larkin.uwe.ac.uk
+webpayments.uwe.ac.uk
+vc.uwe.ac.uk
+people.uwe.ac.uk
+skelta.uwe.ac.uk
+isa-132-187-used.uwe.ac.uk

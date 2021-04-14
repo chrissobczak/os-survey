@@ -1,71 +1,63 @@
-NOERROR	idea.bezalel.ac.il
-NOERROR	postpost.bezalel.ac.il
-NOERROR	www.2020.bezalel.ac.il
-NOERROR	2015.bezalel.ac.il
-NOERROR	tripod-journal.bezalel.ac.il
-NOERROR	dyp.bezalel.ac.il
-NOERROR	sip.bezalel.ac.il
-NOERROR	vc-grad12.bezalel.ac.il
-NOERROR	postmx.bezalel.ac.il
-NOERROR	test.bezalel.ac.il
-NOERROR	learningfromjerusalem.bezalel.ac.il
-NOERROR	2016.bezalel.ac.il
-NOERROR	moodle.bezalel.ac.il
-NOERROR	www.futurefit.bezalel.ac.il
-NOERROR	register2013.bezalel.ac.il
-NOERROR	priority.bezalel.ac.il
-NXDOMAIN	ellipsis.bezalel.ac.il
-NOERROR	www.emekzvaim.bezalel.ac.il
-NOERROR	hotrot.bezalel.ac.il
-NOERROR	mail.be.bezalel.ac.il
-NOERROR	be.bezalel.ac.il
-NOERROR	mxmail.bezalel.ac.il
-NOERROR	i.bezalel.ac.il
-NOERROR	www.bezalel.ac.il
-NOERROR	2020.bezalel.ac.il
-NOERROR	2018.bezalel.ac.il
-NOERROR	vc-grads.bezalel.ac.il
-NOERROR	emekzvaim.bezalel.ac.il
-NOERROR	mfa.bezalel.ac.il
-NOERROR	outlook.bezalel.ac.il
-NOERROR	student.bezalel.ac.il
-NOERROR	pro.bezalel.ac.il
-NOERROR	2017.bezalel.ac.il
-NOERROR	cgstore.bezalel.ac.il
-NXDOMAIN	www.clearmash.bezalel.ac.il
-NOERROR	mdesgrad.bezalel.ac.il
-NOERROR	filesclearmash.bezalel.ac.il
-NOERROR	futurefit.bezalel.ac.il
-NXDOMAIN	www.autodiscover.bezalel.ac.il
-NOERROR	archive.bezalel.ac.il
-NOERROR	wiki.bezalel.ac.il
-NOERROR	www.be.bezalel.ac.il
-NOERROR	highlearn.bezalel.ac.il
-NOERROR	www.cgstore.bezalel.ac.il
-NXDOMAIN	www.new.be.bezalel.ac.il
-NOERROR	mdesplatform.bezalel.ac.il
-NXDOMAIN	clearmash.bezalel.ac.il
-NOERROR	bzl.bezalel.ac.il
-NXDOMAIN	www.mail.bezalel.ac.il
-NOERROR	post.bezalel.ac.il
-NOERROR	cm.bezalel.ac.il
-NOERROR	wp.bezalel.ac.il
-SERVFAIL	new.be.bezalel.ac.il
-NOERROR	mdes.bezalel.ac.il
-NOERROR	m.bezalel.ac.il
-NOERROR	ez.bezalel.ac.il
-NOERROR	2014.bezalel.ac.il
-NOERROR	www.dyp.bezalel.ac.il
-NOERROR	dev.bezalel.ac.il
-NOERROR	2019.bezalel.ac.il
-NOERROR	safeq.bezalel.ac.il
-NOERROR	pushproject.bezalel.ac.il
-NOERROR	bezalel.ac.il
-NOERROR	masters.bezalel.ac.il
-NOERROR	mail.bezalel.ac.il
-NOERROR	autodiscover.bezalel.ac.il
-NXDOMAIN	www.archive.bezalel.ac.il
-NOERROR	www.mdesgrad.bezalel.ac.il
-NOERROR	register.bezalel.ac.il
-NOERROR	openday.bezalel.ac.il
-NOERROR	journal.bezalel.ac.il
+idea.bezalel.ac.il
+postpost.bezalel.ac.il
+www.2020.bezalel.ac.il
+2015.bezalel.ac.il
+tripod-journal.bezalel.ac.il
+dyp.bezalel.ac.il
+sip.bezalel.ac.il
+vc-grad12.bezalel.ac.il
+postmx.bezalel.ac.il
+test.bezalel.ac.il
+learningfromjerusalem.bezalel.ac.il
+2016.bezalel.ac.il
+moodle.bezalel.ac.il
+www.futurefit.bezalel.ac.il
+register2013.bezalel.ac.il
+priority.bezalel.ac.il
+www.emekzvaim.bezalel.ac.il
+hotrot.bezalel.ac.il
+mail.be.bezalel.ac.il
+be.bezalel.ac.il
+mxmail.bezalel.ac.il
+i.bezalel.ac.il
+www.bezalel.ac.il
+2020.bezalel.ac.il
+2018.bezalel.ac.il
+vc-grads.bezalel.ac.il
+emekzvaim.bezalel.ac.il
+mfa.bezalel.ac.il
+outlook.bezalel.ac.il
+student.bezalel.ac.il
+pro.bezalel.ac.il
+2017.bezalel.ac.il
+cgstore.bezalel.ac.il
+mdesgrad.bezalel.ac.il
+filesclearmash.bezalel.ac.il
+futurefit.bezalel.ac.il
+archive.bezalel.ac.il
+wiki.bezalel.ac.il
+www.be.bezalel.ac.il
+highlearn.bezalel.ac.il
+www.cgstore.bezalel.ac.il
+mdesplatform.bezalel.ac.il
+bzl.bezalel.ac.il
+post.bezalel.ac.il
+cm.bezalel.ac.il
+wp.bezalel.ac.il
+mdes.bezalel.ac.il
+m.bezalel.ac.il
+ez.bezalel.ac.il
+2014.bezalel.ac.il
+www.dyp.bezalel.ac.il
+dev.bezalel.ac.il
+2019.bezalel.ac.il
+safeq.bezalel.ac.il
+pushproject.bezalel.ac.il
+bezalel.ac.il
+masters.bezalel.ac.il
+mail.bezalel.ac.il
+autodiscover.bezalel.ac.il
+www.mdesgrad.bezalel.ac.il
+register.bezalel.ac.il
+openday.bezalel.ac.il
+journal.bezalel.ac.il

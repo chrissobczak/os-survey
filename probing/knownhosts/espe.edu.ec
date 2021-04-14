@@ -1,691 +1,318 @@
-NOERROR	radio.espe.edu.ec
-NXDOMAIN	www.petroquimica-el.espe.edu.ec
-NXDOMAIN	mail.oric.espe.edu.ec
-NXDOMAIN	www.emp-el.espe.edu.ec
-NOERROR	iptvstreaming.espe.edu.ec
-NOERROR	uec-el.espe.edu.ec
-NOERROR	survey-ese.espe.edu.ec
-NXDOMAIN	www.observatorio.espe.edu.ec
-NXDOMAIN	webdisk.ube-el.espe.edu.ec
-NOERROR	pagos.espe.edu.ec
-NXDOMAIN	webdisk.electromecanica-ugt.espe.edu.ec
-NOERROR	giat.espe.edu.ec
-NXDOMAIN	www.decem-el.espe.edu.ec
-NOERROR	cepraxiii-contaminacion.espe.edu.ec
-NOERROR	especonf.espe.edu.ec
-NOERROR	espel.espe.edu.ec
-NOERROR	expresswaye.espe.edu.ec
-NOERROR	geoespacial.espe.edu.ec
-NOERROR	aspirante.espe.edu.ec
-NXDOMAIN	webmail.itin.espe.edu.ec
-NOERROR	google.espe.edu.ec
-NOERROR	bannapi.espe.edu.ec
-NXDOMAIN	webmail.emprendimiento-el.espe.edu.ec
-NOERROR	redbiotecnologia.espe.edu.ec
-NXDOMAIN	www.deceac-el.espe.edu.ec
-NXDOMAIN	webdisk.observatorio.espe.edu.ec
-NXDOMAIN	mail.ube.espe.edu.ec
-NXDOMAIN	webdisk.telematica-ugt.espe.edu.ec
-NXDOMAIN	espresswaye.espe.edu.ec
-NXDOMAIN	webmail.uep.espe.edu.ec
-NOERROR	sapiv.espe.edu.ec
-NXDOMAIN	webmail.uec-el.espe.edu.ec
-NOERROR	marketing.espe.edu.ec
-NXDOMAIN	www.automotriz-ugt.espe.edu.ec
-NOERROR	ufaslqbanethos.espe.edu.ec
-NXDOMAIN	mail.alumni.espe.edu.ec
-NXDOMAIN	www.finanzas.espe.edu.ec
-NXDOMAIN	webmail.deee-el.espe.edu.ec
-NXDOMAIN	emcvnxspb.espe.edu.ec
-NXDOMAIN	gdspa-el.espe.edu.ec
-NXDOMAIN	webmail.ulog.espe.edu.ec
-NXDOMAIN	webmail.finanzas-el.espe.edu.ec
-NXDOMAIN	webdisk.emprendimiento-el.espe.edu.ec
-NOERROR	aspe.espe.edu.ec
-NXDOMAIN	dspace.espe.edu.ec
-NXDOMAIN	webmail.emp-el.espe.edu.ec
-NOERROR	aplicaciones-ufa.espe.edu.ec
-NXDOMAIN	mail.dechs.espe.edu.ec
-NXDOMAIN	webmail.cafder.espe.edu.ec
-NXDOMAIN	webdisk.alumni.espe.edu.ec
-NXDOMAIN	webmail.electromecanica-el.espe.edu.ec
-NXDOMAIN	www.ugp.espe.edu.ec
-NXDOMAIN	webmail.petroquimica-el.espe.edu.ec
-NXDOMAIN	telematica-ugt.espe.edu.ec
-NXDOMAIN	webmail.dechs.espe.edu.ec
-NOERROR	campus.espe.edu.ec
-NOERROR	movil.espe.edu.ec
-NOERROR	decv.espe.edu.ec
-NXDOMAIN	cpanel.gea.espe.edu.ec
-NXDOMAIN	www.decem.espe.edu.ec
-NXDOMAIN	webmail.automotriz-ugt.espe.edu.ec
-NXDOMAIN	webmail.portaltest.espe.edu.ec
-NXDOMAIN	mail.espe.edu.ec
-NOERROR	mimaletin.espe.edu.ec
-NOERROR	giem.espe.edu.ec
-NOERROR	giec.espe.edu.ec
-NOERROR	cec.espe.edu.ec
-NOERROR	pruebassntt.espe.edu.ec
-NXDOMAIN	www.comercial-el.espe.edu.ec
-NXDOMAIN	mail.bio4tech.espe.edu.ec
-NOERROR	evirtual.espe.edu.ec
-NOERROR	aeronautica-ugt.espe.edu.ec
-NOERROR	biblioteca.espe.edu.ec
-NOERROR	ideespe2.espe.edu.ec
-NXDOMAIN	www.aspe.espe.edu.ec
-NXDOMAIN	cpanel.decem-el.espe.edu.ec
-NXDOMAIN	cpanel.sistemas.espe.edu.ec
-NXDOMAIN	360.espe.edu.ec
-NXDOMAIN	mail.sie-el.espe.edu.ec
-NXDOMAIN	cpanel.electromecanica-el.espe.edu.ec
-NXDOMAIN	www.mecanica.espe.edu.ec
-NOERROR	idiomas.espe.edu.ec
-NOERROR	redes.espe.edu.ec
-NXDOMAIN	webmail.gipchocho.espe.edu.ec
-NOERROR	iriso.espe.edu.ec
-NXDOMAIN	mail.decc.espe.edu.ec
-NXDOMAIN	uf-el.espe.edu.ec
-NOERROR	encuestas.espe.edu.ec
-NXDOMAIN	www.360.espe.edu.ec
-NXDOMAIN	revistas.espe.edu.ec
-NOERROR	repositorio.espe.edu.ec
-NOERROR	miespe.espe.edu.ec
-NXDOMAIN	cpanel.petroquimica-el.espe.edu.ec
-NXDOMAIN	mail.aspe.espe.edu.ec
-NXDOMAIN	webmail.decc.espe.edu.ec
-NXDOMAIN	webdisk.nivelacion.espe.edu.ec
-NOERROR	portal.espe.edu.ec
-NXDOMAIN	webdisk.cimse.espe.edu.ec
-NOERROR	pago.espe.edu.ec
-NOERROR	miespemovil.espe.edu.ec
-NXDOMAIN	www.autoservicio.espe.edu.ec
-NXDOMAIN	mail.automotriz-ugt.espe.edu.ec
-NOERROR	estructuras.espe.edu.ec
-NXDOMAIN	mail.turistica-el.espe.edu.ec
-NXDOMAIN	cpanel.del-el.espe.edu.ec
-NOERROR	devops.espe.edu.ec
-NXDOMAIN	asecei.espe.edu.ec
-NOERROR	planificacion.espe.edu.ec
-NXDOMAIN	espe-s.espe.edu.ec
-NOERROR	ciencias_navales.espe.edu.ec
-NXDOMAIN	www.oric.espe.edu.ec
-NXDOMAIN	webdisk.civil.espe.edu.ec
-NOERROR	robotica-el.espe.edu.ec
-NXDOMAIN	cpanel.electronica-ugt.espe.edu.ec
-NOERROR	geografica.espe.edu.ec
-NXDOMAIN	mail.cimse.espe.edu.ec
-NXDOMAIN	emcvnxspa.espe.edu.ec
-NOERROR	feriadeempleo.espe.edu.ec
-NOERROR	espe.edu.ec
-NXDOMAIN	webdisk.desd.espe.edu.ec
-NOERROR	automotriz-el.espe.edu.ec
-NOERROR	acreditacion.espe.edu.ec
-NXDOMAIN	utic-el.espe.edu.ec
-NOERROR	proyectosvs.espe.edu.ec
-NXDOMAIN	manuales.espe.edu.ec
-NOERROR	www.delicious.espe.edu.ec
-NOERROR	ranking.espe.edu.ec
-NXDOMAIN	administracion_aeronautica.espe.edu.ec
-NXDOMAIN	mail.ube-el.espe.edu.ec
-NOERROR	uth.espe.edu.ec
-NXDOMAIN	www.infantil.espe.edu.ec
-NXDOMAIN	webdisk.deceac-el.espe.edu.ec
-NOERROR	moodleltga.espe.edu.ec
-NOERROR	bd.espe.edu.ec
-NOERROR	ugp.espe.edu.ec
-NOERROR	gica.espe.edu.ec
-NOERROR	evirtual2.espe.edu.ec
-NOERROR	oric.espe.edu.ec
-NXDOMAIN	emprendedor.espe.edu.ec
-NXDOMAIN	webmail.practicas.espe.edu.ec
-NXDOMAIN	webmail.turistica-el.espe.edu.ec
-NXDOMAIN	emprendimiento-el.espe.edu.ec
-NOERROR	autenticacionsigfa.espe.edu.ec
-NOERROR	alumni.espe.edu.ec
-NXDOMAIN	webdisk.electronica-ugt.espe.edu.ec
-NXDOMAIN	webdisk.decc.espe.edu.ec
-NOERROR	seli2.espe.edu.ec
-NXDOMAIN	cpanel.itin.espe.edu.ec
-NOERROR	mercadotecnia.espe.edu.ec
-NOERROR	sie-el.espe.edu.ec
-NOERROR	radioespe.espe.edu.ec
-NXDOMAIN	webdisk.electronica-el.espe.edu.ec
-NOERROR	catalogo-el.espe.edu.ec
-NXDOMAIN	mail.practicas.espe.edu.ec
-NXDOMAIN	mail.idiomas.espe.edu.ec
-NXDOMAIN	mail.deee.espe.edu.ec
-NXDOMAIN	mail.finanzas-el.espe.edu.ec
-NXDOMAIN	webdisk.ulog.espe.edu.ec
-NXDOMAIN	webdisk.dece-sd.espe.edu.ec
-NXDOMAIN	mail.gipchocho.espe.edu.ec
-NXDOMAIN	webdisk.aspe.espe.edu.ec
-NXDOMAIN	cpanel.aspe.espe.edu.ec
-NXDOMAIN	cpanel.software-el.espe.edu.ec
-NXDOMAIN	www.cimse.espe.edu.ec
-NXDOMAIN	webmail.agropecuaria-sd.espe.edu.ec
-NXDOMAIN	www.civil.espe.edu.ec
-NXDOMAIN	www.redbiotecnologia.espe.edu.ec
-NXDOMAIN	emp-el.espe.edu.ec
-NXDOMAIN	webmail.idiomas-el.espe.edu.ec
-NXDOMAIN	www.portal.espe.edu.ec
-NXDOMAIN	mail.emp-el.espe.edu.ec
-NXDOMAIN	cpanel.finanzas-el.espe.edu.ec
-NOERROR	reports.espe.edu.ec
-NOERROR	acreditacioncep.espe.edu.ec
-NXDOMAIN	webdisk.ube.espe.edu.ec
-NOERROR	host.espe.edu.ec
-NOERROR	ezp1.espe.edu.ec
-NOERROR	cloud.espe.edu.ec
-NOERROR	ambiental.espe.edu.ec
-NOERROR	journal.espe.edu.ec
-NXDOMAIN	mail.desd.espe.edu.ec
-NOERROR	investigacion.espe.edu.ec
-NOERROR	capacitacion-quipux.espe.edu.ec
-NXDOMAIN	cpanel.proconet.espe.edu.ec
-NOERROR	asogenal.espe.edu.ec
-NXDOMAIN	cultura-el.espe.edu.ec
-NOERROR	microempresarial.espe.edu.ec
-NXDOMAIN	www.facebook.espe.edu.ec
-NXDOMAIN	www.cultura-el.espe.edu.ec
-NXDOMAIN	intranet.espe.edu.ec
-NOERROR	eeri.espe.edu.ec
-NOERROR	sivec.espe.edu.ec
-NOERROR	del-el.espe.edu.ec
-NOERROR	moviles-ip.espe.edu.ec
-NOERROR	sgc.espe.edu.ec
-NOERROR	automotriz-ugt.espe.edu.ec
-NOERROR	uar.espe.edu.ec
-NXDOMAIN	webdisk.deee-el.espe.edu.ec
-NXDOMAIN	www.seguridad-ugt.espe.edu.ec
-NXDOMAIN	giacc-el.espe.edu.ec
-NOERROR	biotecnologia-sd.espe.edu.ec
-NXDOMAIN	postgrados.espe.edu.ec
-NOERROR	gedc.espe.edu.ec
-NXDOMAIN	www.ulog.espe.edu.ec
-NXDOMAIN	mail.electronica-el.espe.edu.ec
-NOERROR	electronica-el.espe.edu.ec
-NXDOMAIN	mail.medios.espe.edu.ec
-NOERROR	acuacultura.espe.edu.ec
-NOERROR	lab.grimpsoft.espe.edu.ec
-NXDOMAIN	webdisk.proconet.espe.edu.ec
-NXDOMAIN	espescout-el.espe.edu.ec
-NXDOMAIN	mail.sistemas.espe.edu.ec
-NOERROR	geo1.espe.edu.ec
-NOERROR	desd.espe.edu.ec
-NXDOMAIN	mail.portaltest.espe.edu.ec
-NXDOMAIN	cpanel.deee.espe.edu.ec
-NXDOMAIN	www.www5.espe.edu.ec
-NOERROR	bio4tech.espe.edu.ec
-NXDOMAIN	fisi.espe.edu.ec
-NOERROR	itgeoespacial.espe.edu.ec
-NXDOMAIN	iasa2.espe.edu.ec
-NOERROR	ia.espe.edu.ec
-NOERROR	noticias.espe.edu.ec
-NOERROR	itin.espe.edu.ec
-NOERROR	grimpsoft.espe.edu.ec
-NXDOMAIN	miaula.espe.edu.ec
-NOERROR	uep.espe.edu.ec
-NXDOMAIN	mail.civil.espe.edu.ec
-NOERROR	ofimatica.espe.edu.ec
-NOERROR	openconf.espe.edu.ec
-NOERROR	nivelacion.espe.edu.ec
-NXDOMAIN	webdisk.turistica-el.espe.edu.ec
-NOERROR	decem.espe.edu.ec
-NXDOMAIN	webdisk.electromecanica-el.espe.edu.ec
-NXDOMAIN	www.desd.espe.edu.ec
-NOERROR	balanglass.espe.edu.ec
-NXDOMAIN	mail.del-el.espe.edu.ec
-NXDOMAIN	www.idiomas-el.espe.edu.ec
-NOERROR	proyectocicte.espe.edu.ec
-NOERROR	hpc.espe.edu.ec
-NXDOMAIN	webmail.telematica-ugt.espe.edu.ec
-NXDOMAIN	mail.portal.espe.edu.ec
-NXDOMAIN	cpanel.cimse.espe.edu.ec
-NXDOMAIN	cpanel.portaltest.espe.edu.ec
-NOERROR	enfoque.espe.edu.ec
-NOERROR	investiga.espe.edu.ec
-NOERROR	dcc2.espe.edu.ec
-NOERROR	mecatronica.espe.edu.ec
-NOERROR	uvs.espe.edu.ec
-NOERROR	ugvc.espe.edu.ec
-NXDOMAIN	webmail.sistemas.espe.edu.ec
-NOERROR	sin.espe.edu.ec
-NOERROR	cirad.espe.edu.ec
-NOERROR	seguridad-ugt.espe.edu.ec
-NOERROR	www1.espe.edu.ec
-NOERROR	ufaslquticcecvirtual.espe.edu.ec
-NOERROR	eduroam.espe.edu.ec
-NXDOMAIN	gmac-el.espe.edu.ec
-NXDOMAIN	www.espe-el.espe.edu.ec
-NOERROR	quipux2015.espe.edu.ec
-NXDOMAIN	cpanel.telematica-ugt.espe.edu.ec
-NOERROR	biotecnologia.espe.edu.ec
-NXDOMAIN	www.turistica-el.espe.edu.ec
-NXDOMAIN	webmail.alumni.espe.edu.ec
-NXDOMAIN	cpanel.nivelacion.espe.edu.ec
-NXDOMAIN	webdisk.dechs.espe.edu.ec
-NXDOMAIN	www.hpc.espe.edu.ec
-NOERROR	ufaslquticqgpdf.espe.edu.ec
-NXDOMAIN	www.cafder.espe.edu.ec
-NOERROR	www.biotecnologia.espe.edu.ec
-NXDOMAIN	mk.espe.edu.ec
-NXDOMAIN	cpanel.hpc.espe.edu.ec
-NOERROR	mecanica.espe.edu.ec
-NOERROR	academy.espe.edu.ec
-NXDOMAIN	computacion-ugt.espe.edu.ec
-NOERROR	civil.espe.edu.ec
-NXDOMAIN	dcc.espe.edu.ec
-NXDOMAIN	biblioteca-el.espe.edu.ec
-NOERROR	cenepa.espe.edu.ec
-NXDOMAIN	cpanel.deceac-el.espe.edu.ec
-NXDOMAIN	webdisk.finanzas-el.espe.edu.ec
-NXDOMAIN	www.dece-sd.espe.edu.ec
-NXDOMAIN	webmail.utic.espe.edu.ec
-NXDOMAIN	jornadas.espe.edu.ec
-NXDOMAIN	www.dcc.espe.edu.ec
-NXDOMAIN	cpanel.idiomas.espe.edu.ec
-NXDOMAIN	www.del-el.espe.edu.ec
-NXDOMAIN	webdisk.uep.espe.edu.ec
-NOERROR	espeactum.espe.edu.ec
-NXDOMAIN	gves-el.espe.edu.ec
-NOERROR	biomedicaljournal.espe.edu.ec
-NOERROR	www.mercadotecnia.espe.edu.ec
-NOERROR	servicios.espe.edu.ec
-NXDOMAIN	mail.espe-el.espe.edu.ec
-NXDOMAIN	cotrafur.espe.edu.ec
-NXDOMAIN	mail.turistica.espe.edu.ec
-NOERROR	cicte.espe.edu.ec
-NXDOMAIN	webdisk.dectc.espe.edu.ec
-NOERROR	ideespe.espe.edu.ec
-NXDOMAIN	webdisk.gea.espe.edu.ec
-NXDOMAIN	www.decc.espe.edu.ec
-NOERROR	deee.espe.edu.ec
-NOERROR	infantil.espe.edu.ec
-NOERROR	espedemo.espe.edu.ec
-NOERROR	cibsi.espe.edu.ec
-NXDOMAIN	cpanel.turistica.espe.edu.ec
-NXDOMAIN	webmail.idiomas.espe.edu.ec
-NOERROR	riesgos.espe.edu.ec
-NOERROR	usgn.espe.edu.ec
-NOERROR	srvcas.espe.edu.ec
-NOERROR	elecciones.espe.edu.ec
-NXDOMAIN	blogs.espe.edu.ec
-NXDOMAIN	cpanel.electronica-el.espe.edu.ec
-NXDOMAIN	mail.deee-el.espe.edu.ec
-NXDOMAIN	webmail.oric.espe.edu.ec
-NXDOMAIN	webmail.espe-el.espe.edu.ec
-NOERROR	ufaslquticojs.espe.edu.ec
-NXDOMAIN	webdisk.uf-el.espe.edu.ec
-NOERROR	www10.espe.edu.ec
-NOERROR	actividades.espe.edu.ec
-NOERROR	dece-el.espe.edu.ec
-NXDOMAIN	www.dece.espe.edu.ec
-NXDOMAIN	www.deee.espe.edu.ec
-NOERROR	m.espe.edu.ec
-NXDOMAIN	utic.espe.edu.ec
-NXDOMAIN	webmail.electronica-el.espe.edu.ec
-NXDOMAIN	www.uep.espe.edu.ec
-NXDOMAIN	www.sie-el.espe.edu.ec
-NXDOMAIN	mail.uec-el.espe.edu.ec
-NOERROR	urci.espe.edu.ec
-NOERROR	mecatronica-el.espe.edu.ec
-NOERROR	bi1.espe.edu.ec
-NOERROR	cafder.espe.edu.ec
-NXDOMAIN	cpanel.redbiotecnologia.espe.edu.ec
-NOERROR	www4.espe.edu.ec
-NXDOMAIN	biblioteca.sivec.espe.edu.ec
-NOERROR	frp.espe.edu.ec
-NXDOMAIN	cpanel.dece-sd.espe.edu.ec
-NXDOMAIN	cpanel.oric.espe.edu.ec
-NXDOMAIN	webdisk.idiomas.espe.edu.ec
-NXDOMAIN	webdisk.emp-el.espe.edu.ec
-NOERROR	ltga.espe.edu.ec
-NXDOMAIN	salud1.espe.edu.ec
-NXDOMAIN	facebook.espe.edu.ec
-NXDOMAIN	webmail.del-el.espe.edu.ec
-NXDOMAIN	mail.decem.espe.edu.ec
-NOERROR	udi.espe.edu.ec
-NOERROR	dechs.espe.edu.ec
-NOERROR	helpdesk.espe.edu.ec
-NOERROR	firmaelectronica.espe.edu.ec
-NOERROR	www.grimpsoft.espe.edu.ec
-NOERROR	gt.espe.edu.ec
-NOERROR	especonf1.espe.edu.ec
-NXDOMAIN	webdisk.oric.espe.edu.ec
-NOERROR	latingeo.espe.edu.ec
-NOERROR	petroquimica-el.espe.edu.ec
-NOERROR	software-el.espe.edu.ec
-NOERROR	tics-sd.espe.edu.ec
-NOERROR	isoftware.espe.edu.ec
-NOERROR	admisionpregrado.espe.edu.ec
-NOERROR	seli.espe.edu.ec
-NXDOMAIN	webdisk.seguridad-ugt.espe.edu.ec
-NOERROR	ube.espe.edu.ec
-NXDOMAIN	webdisk.decem.espe.edu.ec
-NOERROR	linguistica.espe.edu.ec
-NXDOMAIN	www.gea.espe.edu.ec
-NXDOMAIN	webdisk.portaltest.espe.edu.ec
-NOERROR	finanzas-el.espe.edu.ec
-NXDOMAIN	mail.uf-el.espe.edu.ec
-NOERROR	decem-el.espe.edu.ec
-NOERROR	tvespe.espe.edu.ec
-NOERROR	sistemas.espe.edu.ec
-NOERROR	gestionterritorial.espe.edu.ec
-NOERROR	portal-test.espe.edu.ec
-NOERROR	sigfa-pruebas.espe.edu.ec
-NXDOMAIN	www2.espe.edu.ec
-NOERROR	medios.espe.edu.ec
-NOERROR	cibse.espe.edu.ec
-NXDOMAIN	mail.proconet.espe.edu.ec
-NOERROR	espepad.espe.edu.ec
-NOERROR	educacion.espe.edu.ec
-NOERROR	electromecanica-el.espe.edu.ec
-NXDOMAIN	mail.deceac-el.espe.edu.ec
-NOERROR	sntt.espe.edu.ec
-NOERROR	proconet.espe.edu.ec
-NXDOMAIN	mail.cafder.espe.edu.ec
-NOERROR	www.moodle.espe.edu.ec
-NXDOMAIN	cpanel.sie-el.espe.edu.ec
-NXDOMAIN	www.nivelacion.espe.edu.ec
-NXDOMAIN	webmail.ugp.espe.edu.ec
-NXDOMAIN	mail.decem-el.espe.edu.ec
-NXDOMAIN	webdisk.del-el.espe.edu.ec
-NXDOMAIN	laboratorios_dectc.espe.edu.ec
-NOERROR	sapyc.espe.edu.ec
-NOERROR	www.espe.edu.ec
-NXDOMAIN	webmail.nivelacion.espe.edu.ec
-NXDOMAIN	gpec-el.espe.edu.ec
-NOERROR	www.electronica-el.espe.edu.ec
-NOERROR	salud.espe.edu.ec
-NOERROR	innovaedu.espe.edu.ec
-NXDOMAIN	mail.ulog.espe.edu.ec
-NXDOMAIN	mail.petroquimica-el.espe.edu.ec
-NOERROR	deccloud.espe.edu.ec
-NXDOMAIN	ube-el.espe.edu.ec
-NOERROR	erp.espe.edu.ec
-NXDOMAIN	med.espe.edu.ec
-NOERROR	ugt.espe.edu.ec
-NXDOMAIN	nivelacion.ctt.espe.edu.ec
-NOERROR	gea.espe.edu.ec
-NXDOMAIN	mail.observatorio.espe.edu.ec
-NOERROR	logistica-ugt.espe.edu.ec
-NXDOMAIN	www.electromecanica-ugt.espe.edu.ec
-NOERROR	bqvres01.espe.edu.ec
-NXDOMAIN	webdisk.agropecuaria-sd.espe.edu.ec
-NOERROR	iptv.espe.edu.ec
-NXDOMAIN	webmail.desd.espe.edu.ec
-NXDOMAIN	reportes.espe.edu.ec
-NXDOMAIN	www.agropecuaria-sd.espe.edu.ec
-NXDOMAIN	mail.ugp.espe.edu.ec
-NOERROR	del.espe.edu.ec
-NXDOMAIN	webdisk.uec-el.espe.edu.ec
-NXDOMAIN	cpanel.observatorio.espe.edu.ec
-NOERROR	server-cas-cifte.espe.edu.ec
-NXDOMAIN	cpanel.practicas.espe.edu.ec
-NXDOMAIN	webdisk.deee.espe.edu.ec
-NOERROR	odk.espe.edu.ec
-NXDOMAIN	www.electromecanica-el.espe.edu.ec
-NOERROR	consejos.espe.edu.ec
-NXDOMAIN	gitbio-el.espe.edu.ec
-NXDOMAIN	www3.espe.edu.ec
-NXDOMAIN	webmail.gea.espe.edu.ec
-NXDOMAIN	espe-digital.espe.edu.ec
-NXDOMAIN	cpanel.alumni.espe.edu.ec
-NOERROR	ecp-el.espe.edu.ec
-NOERROR	cic.espe.edu.ec
-NXDOMAIN	mail.dectc.espe.edu.ec
-NXDOMAIN	webmail.medios.espe.edu.ec
-NOERROR	observatorio.espe.edu.ec
-NXDOMAIN	cpanel.uep.espe.edu.ec
-NXDOMAIN	webmail.deee.espe.edu.ec
-NOERROR	ftp.espe.edu.ec
-NXDOMAIN	cpanel.ube.espe.edu.ec
-NOERROR	wicom.espe.edu.ec
-NXDOMAIN	mail.gea.espe.edu.ec
-NOERROR	cme.espe.edu.ec
-NOERROR	espe-el.espe.edu.ec
-NXDOMAIN	www.practicas.espe.edu.ec
-NXDOMAIN	webdisk.decem-el.espe.edu.ec
-NXDOMAIN	www.portaltest.espe.edu.ec
-NOERROR	seguridad.espe.edu.ec
-NOERROR	ciencias_aeronauticas.espe.edu.ec
-NOERROR	ceinci.espe.edu.ec
-NXDOMAIN	mail.telematica-ugt.espe.edu.ec
-NXDOMAIN	www.emprendimiento-el.espe.edu.ec
-NOERROR	bolsadeempleo.espe.edu.ec
-NXDOMAIN	mail.emprendimiento-el.espe.edu.ec
-NXDOMAIN	cpanel.desd.espe.edu.ec
-NOERROR	ufaslqucdwf.espe.edu.ec
-NXDOMAIN	publiespe.espe.edu.ec
-NOERROR	hcu.espe.edu.ec
-NOERROR	www.dcc2.espe.edu.ec
-NXDOMAIN	kyo.deee.espe.edu.ec
-NOERROR	forms.espe.edu.ec
-NXDOMAIN	www.gipchocho.espe.edu.ec
-NXDOMAIN	mail.redbiotecnologia.espe.edu.ec
-NOERROR	santodomingo.espe.edu.ec
-NXDOMAIN	mail.itin.espe.edu.ec
-NXDOMAIN	www.software-el.espe.edu.ec
-NXDOMAIN	webmail.ube.espe.edu.ec
-NOERROR	delicious.espe.edu.ec
-NXDOMAIN	webdisk.sie-el.espe.edu.ec
-NXDOMAIN	cpanel.seguridad-ugt.espe.edu.ec
-NOERROR	portafolio.espe.edu.ec
-NXDOMAIN	webdisk.itin.espe.edu.ec
-NOERROR	ufaslquticpglassfish.espe.edu.ec
-NOERROR	maskay.espe.edu.ec
-NXDOMAIN	web.ltga.espe.edu.ec
-NXDOMAIN	webmail.aspe.espe.edu.ec
-NOERROR	dectc.espe.edu.ec
-NXDOMAIN	idiomas-el.espe.edu.ec
-NOERROR	www.gimm.espe.edu.ec
-NXDOMAIN	cpanel.civil.espe.edu.ec
-NXDOMAIN	webmail.decem.espe.edu.ec
-NOERROR	electronica-ugt.espe.edu.ec
-NXDOMAIN	webmail.civil.espe.edu.ec
-NXDOMAIN	iasa1.espe.edu.ec
-NXDOMAIN	webdisk.espe-el.espe.edu.ec
-NOERROR	agropecuaria-sd.espe.edu.ec
-NXDOMAIN	webmail.software-el.espe.edu.ec
-NOERROR	aplicaciones.espe.edu.ec
-NXDOMAIN	webdisk.bio4tech.espe.edu.ec
-NOERROR	finanzas.espe.edu.ec
-NXDOMAIN	mail.uep.espe.edu.ec
-NOERROR	cimse.espe.edu.ec
-NOERROR	moviles.espe.edu.ec
-NOERROR	conferenciacicte.espe.edu.ec
-NOERROR	autoservicio.espe.edu.ec
-NOERROR	world_business.espe.edu.ec
-NXDOMAIN	mail.agropecuaria-sd.espe.edu.ec
-NXDOMAIN	www.turistica.espe.edu.ec
-NXDOMAIN	mail.electromecanica-ugt.espe.edu.ec
-NXDOMAIN	cpanel.cafder.espe.edu.ec
-NOERROR	redu2016.espe.edu.ec
-NOERROR	ai.espe.edu.ec
-NXDOMAIN	mail.idiomas-el.espe.edu.ec
-NXDOMAIN	gastronomia-el.espe.edu.ec
-NOERROR	espetv.espe.edu.ec
-NOERROR	moodle.espe.edu.ec
-NOERROR	ude.espe.edu.ec
-NXDOMAIN	comercial-el.espe.edu.ec
-NOERROR	profeshor.espe.edu.ec
-NXDOMAIN	turistica-el.espe.edu.ec
-NOERROR	cencinat.espe.edu.ec
-NXDOMAIN	webdisk.software-el.espe.edu.ec
-NXDOMAIN	www.utic.espe.edu.ec
-NXDOMAIN	cpanel.decc.espe.edu.ec
-NXDOMAIN	cpanel.portal.espe.edu.ec
-NOERROR	webltga.espe.edu.ec
-NOERROR	empleo.espe.edu.ec
-NOERROR	www.cic.espe.edu.ec
-NXDOMAIN	electronica-sl.espe.edu.ec
-NXDOMAIN	webmail.portal.espe.edu.ec
-NXDOMAIN	cpanel.utic.espe.edu.ec
-NXDOMAIN	webmail.dece-sd.espe.edu.ec
-NOERROR	apps.espe.edu.ec
-NXDOMAIN	mit.espe.edu.ec
-NOERROR	firmaec.espe.edu.ec
-NXDOMAIN	cpanel.uec-el.espe.edu.ec
-NXDOMAIN	www.medios.espe.edu.ec
-NOERROR	certificacion.espe.edu.ec
-NOERROR	jem.espe.edu.ec
-NXDOMAIN	mail.dece-sd.espe.edu.ec
-NXDOMAIN	www.telematica-ugt.espe.edu.ec
-NXDOMAIN	www.uec-el.espe.edu.ec
-NXDOMAIN	www.itin.espe.edu.ec
-NOERROR	telecomunicaciones.espe.edu.ec
-NXDOMAIN	webdisk.practicas.espe.edu.ec
-NOERROR	grimposftapp.espe.edu.ec
-NXDOMAIN	webdisk.sistemas.espe.edu.ec
-NXDOMAIN	webdisk.turistica.espe.edu.ec
-NXDOMAIN	webmail.redbiotecnologia.espe.edu.ec
-NXDOMAIN	mail.software-el.espe.edu.ec
-NXDOMAIN	cpanel.espe-el.espe.edu.ec
-NOERROR	cespe.espe.edu.ec
-NXDOMAIN	www.sistemas.espe.edu.ec
-NXDOMAIN	www.proconet.espe.edu.ec
-NOERROR	electromecanica-ugt.espe.edu.ec
-NOERROR	comercial.espe.edu.ec
-NXDOMAIN	mail.nivelacion.espe.edu.ec
-NXDOMAIN	cpanel.turistica-el.espe.edu.ec
-NOERROR	uei.espe.edu.ec
-NOERROR	vlabs.espe.edu.ec
-NXDOMAIN	gitv.espe.edu.ec
-NOERROR	quipux.espe.edu.ec
-NXDOMAIN	cpanel.gipchocho.espe.edu.ec
-NXDOMAIN	updi.espe.edu.ec
-NXDOMAIN	www.dechs.espe.edu.ec
-NOERROR	gite.espe.edu.ec
-NOERROR	alumnitest.espe.edu.ec
-NOERROR	procalet.espe.edu.ec
-NXDOMAIN	webmail.turistica.espe.edu.ec
-NXDOMAIN	cpanel.dechs.espe.edu.ec
-NOERROR	espedigital.espe.edu.ec
-NOERROR	portaltest.espe.edu.ec
-NOERROR	rectorado.espe.edu.ec
-NXDOMAIN	www.idiomas.espe.edu.ec
-NXDOMAIN	mail.utic.espe.edu.ec
-NXDOMAIN	cpanel.agropecuaria-sd.espe.edu.ec
-NXDOMAIN	computacion.espe.edu.ec
-NXDOMAIN	webdisk.idiomas-el.espe.edu.ec
-NOERROR	phd.espe.edu.ec
-NOERROR	minube.espe.edu.ec
-NXDOMAIN	bas.espe.edu.ec
-NXDOMAIN	webmail.electronica-ugt.espe.edu.ec
-NXDOMAIN	cpanel.bio4tech.espe.edu.ec
-NXDOMAIN	mail.electronica-ugt.espe.edu.ec
-NXDOMAIN	webdisk.utic.espe.edu.ec
-NOERROR	iasa.espe.edu.ec
-NXDOMAIN	webmail.proconet.espe.edu.ec
-NXDOMAIN	webmail.bio4tech.espe.edu.ec
-NOERROR	midecc.espe.edu.ec
-NXDOMAIN	www.ube.espe.edu.ec
-NOERROR	ciencia.espe.edu.ec
-NXDOMAIN	www.exterior.espe.edu.ec
-NXDOMAIN	cpanel.idiomas-el.espe.edu.ec
-NOERROR	especonferencias.espe.edu.ec
-NOERROR	iot.espe.edu.ec
-NOERROR	jiisicceis.espe.edu.ec
-NXDOMAIN	webmail.deceac-el.espe.edu.ec
-NXDOMAIN	mail1.espe.edu.ec
-NXDOMAIN	mail.seguridad-ugt.espe.edu.ec
-NXDOMAIN	cpanel.deee-el.espe.edu.ec
-NOERROR	automatizacion-ugt.espe.edu.ec
-NOERROR	devops1.espe.edu.ec
-NOERROR	ns1.espe.edu.ec
-NOERROR	pentaho.espe.edu.ec
-NXDOMAIN	cpanel.uf-el.espe.edu.ec
-NOERROR	recovery.espe.edu.ec
-NXDOMAIN	3.espe.edu.ec
-NXDOMAIN	webdisk.portal.espe.edu.ec
-NOERROR	cide.espe.edu.ec
-NXDOMAIN	cpanel.ugp.espe.edu.ec
-NXDOMAIN	webdisk.petroquimica-el.espe.edu.ec
-NOERROR	practicas.espe.edu.ec
-NOERROR	deee-el.espe.edu.ec
-NOERROR	elecciones1.espe.edu.ec
-NOERROR	net4learning.espe.edu.ec
-NXDOMAIN	webmail.decem-el.espe.edu.ec
-NXDOMAIN	webdisk.hpc.espe.edu.ec
-NXDOMAIN	webdisk.automotriz-ugt.espe.edu.ec
-NOERROR	deceac.espe.edu.ec
-NOERROR	ufaslquticqfirmas.espe.edu.ec
-NOERROR	exterior.espe.edu.ec
-NOERROR	gipchocho.espe.edu.ec
-NOERROR	decc.espe.edu.ec
-NOERROR	ulog.espe.edu.ec
-NOERROR	www.noticias.espe.edu.ec
-NXDOMAIN	webmail.cimse.espe.edu.ec
-NXDOMAIN	cpanel.electromecanica-ugt.espe.edu.ec
-NOERROR	redestel-ugt.espe.edu.ec
-NOERROR	ued.espe.edu.ec
-NXDOMAIN	noticias-el.espe.edu.ec
-NOERROR	dece-sd.espe.edu.ec
-NOERROR	posgrados.espe.edu.ec
-NOERROR	gpdfsigfa.espe.edu.ec
-NOERROR	espiando.espe.edu.ec
-NOERROR	consola.espe.edu.ec
-NXDOMAIN	www.alumni.espe.edu.ec
-NOERROR	deceac-el.espe.edu.ec
-NOERROR	eciencia.espe.edu.ec
-NXDOMAIN	cpanel.emp-el.espe.edu.ec
-NXDOMAIN	www.finanzas-el.espe.edu.ec
-NOERROR	ufaslquticsalud.espe.edu.ec
-NXDOMAIN	webmail.dectc.espe.edu.ec
-NXDOMAIN	avinueza.espe.edu.ec
-NXDOMAIN	cpanel.automotriz-ugt.espe.edu.ec
-NXDOMAIN	cpanel.medios.espe.edu.ec
-NXDOMAIN	webdisk.gipchocho.espe.edu.ec
-NXDOMAIN	cpanel.dectc.espe.edu.ec
-NOERROR	iot.grimpsoftii.espe.edu.ec
-NOERROR	uf.espe.edu.ec
-NXDOMAIN	cpanel.ube-el.espe.edu.ec
-NOERROR	automatizacion.espe.edu.ec
-NXDOMAIN	webmail.observatorio.espe.edu.ec
-NXDOMAIN	webmail.ube-el.espe.edu.ec
-NOERROR	minedu-espe.espe.edu.ec
-NXDOMAIN	www.ube-el.espe.edu.ec
-NXDOMAIN	www.uf-el.espe.edu.ec
-NOERROR	dece.espe.edu.ec
-NXDOMAIN	eduvirtual.espe.edu.ec
-NOERROR	appbdms.espe.edu.ec
-NXDOMAIN	webmail.uf-el.espe.edu.ec
-NOERROR	radioeskpe.espe.edu.ec
-NXDOMAIN	www.deee-el.espe.edu.ec
-NXDOMAIN	www.dectc.espe.edu.ec
-NXDOMAIN	webmail.seguridad-ugt.espe.edu.ec
-NOERROR	citrix.espe.edu.ec
-NXDOMAIN	www.electronica-ugt.espe.edu.ec
-NOERROR	webservices.espe.edu.ec
-NXDOMAIN	webdisk.medios.espe.edu.ec
-NXDOMAIN	webmail.electromecanica-ugt.espe.edu.ec
-NOERROR	admlum.espe.edu.ec
-NXDOMAIN	webdisk.cafder.espe.edu.ec
-NOERROR	monitoreo.espe.edu.ec
-NOERROR	ugi.espe.edu.ec
-NOERROR	rackly.espe.edu.ec
-NXDOMAIN	admision-ugt.espe.edu.ec
-NOERROR	silabo.espe.edu.ec
-NXDOMAIN	mail.electromecanica-el.espe.edu.ec
-NXDOMAIN	mail.hpc.espe.edu.ec
-NXDOMAIN	webmail.sie-el.espe.edu.ec
-NXDOMAIN	gsertur-el.espe.edu.ec
-NXDOMAIN	turistica.espe.edu.ec
-NOERROR	transparencia.espe.edu.ec
-NOERROR	www5.espe.edu.ec
-NXDOMAIN	webdisk.ugp.espe.edu.ec
-NOERROR	apoyoinnovaedu.espe.edu.ec
-NOERROR	logistica_naval.espe.edu.ec
-NOERROR	catalogo.espe.edu.ec
-NXDOMAIN	webmail.hpc.espe.edu.ec
-NOERROR	cepra.espe.edu.ec
-NXDOMAIN	cpanel.ulog.espe.edu.ec
-NXDOMAIN	www.bio4tech.espe.edu.ec
-NOERROR	turismo.espe.edu.ec
-NXDOMAIN	cpanel.emprendimiento-el.espe.edu.ec
-NXDOMAIN	webdisk.redbiotecnologia.espe.edu.ec
-NOERROR	vfile-utic.espe.edu.ec
-NOERROR	docentes.espe.edu.ec
-NXDOMAIN	cpanel.decem.espe.edu.ec
-NOERROR	riie.espe.edu.ec
-NXDOMAIN	bvirtual.espe.edu.ec
+radio.espe.edu.ec
+iptvstreaming.espe.edu.ec
+uec-el.espe.edu.ec
+survey-ese.espe.edu.ec
+pagos.espe.edu.ec
+giat.espe.edu.ec
+cepraxiii-contaminacion.espe.edu.ec
+especonf.espe.edu.ec
+espel.espe.edu.ec
+expresswaye.espe.edu.ec
+geoespacial.espe.edu.ec
+aspirante.espe.edu.ec
+google.espe.edu.ec
+bannapi.espe.edu.ec
+redbiotecnologia.espe.edu.ec
+sapiv.espe.edu.ec
+marketing.espe.edu.ec
+ufaslqbanethos.espe.edu.ec
+aspe.espe.edu.ec
+aplicaciones-ufa.espe.edu.ec
+campus.espe.edu.ec
+movil.espe.edu.ec
+decv.espe.edu.ec
+mimaletin.espe.edu.ec
+giem.espe.edu.ec
+giec.espe.edu.ec
+cec.espe.edu.ec
+pruebassntt.espe.edu.ec
+evirtual.espe.edu.ec
+aeronautica-ugt.espe.edu.ec
+biblioteca.espe.edu.ec
+ideespe2.espe.edu.ec
+idiomas.espe.edu.ec
+redes.espe.edu.ec
+iriso.espe.edu.ec
+encuestas.espe.edu.ec
+repositorio.espe.edu.ec
+miespe.espe.edu.ec
+portal.espe.edu.ec
+pago.espe.edu.ec
+miespemovil.espe.edu.ec
+estructuras.espe.edu.ec
+devops.espe.edu.ec
+planificacion.espe.edu.ec
+ciencias_navales.espe.edu.ec
+robotica-el.espe.edu.ec
+geografica.espe.edu.ec
+feriadeempleo.espe.edu.ec
+espe.edu.ec
+automotriz-el.espe.edu.ec
+acreditacion.espe.edu.ec
+proyectosvs.espe.edu.ec
+www.delicious.espe.edu.ec
+ranking.espe.edu.ec
+uth.espe.edu.ec
+moodleltga.espe.edu.ec
+bd.espe.edu.ec
+ugp.espe.edu.ec
+gica.espe.edu.ec
+evirtual2.espe.edu.ec
+oric.espe.edu.ec
+autenticacionsigfa.espe.edu.ec
+alumni.espe.edu.ec
+seli2.espe.edu.ec
+mercadotecnia.espe.edu.ec
+sie-el.espe.edu.ec
+radioespe.espe.edu.ec
+catalogo-el.espe.edu.ec
+reports.espe.edu.ec
+acreditacioncep.espe.edu.ec
+host.espe.edu.ec
+ezp1.espe.edu.ec
+cloud.espe.edu.ec
+ambiental.espe.edu.ec
+journal.espe.edu.ec
+investigacion.espe.edu.ec
+capacitacion-quipux.espe.edu.ec
+asogenal.espe.edu.ec
+microempresarial.espe.edu.ec
+eeri.espe.edu.ec
+sivec.espe.edu.ec
+del-el.espe.edu.ec
+moviles-ip.espe.edu.ec
+sgc.espe.edu.ec
+automotriz-ugt.espe.edu.ec
+uar.espe.edu.ec
+biotecnologia-sd.espe.edu.ec
+gedc.espe.edu.ec
+electronica-el.espe.edu.ec
+acuacultura.espe.edu.ec
+lab.grimpsoft.espe.edu.ec
+geo1.espe.edu.ec
+desd.espe.edu.ec
+bio4tech.espe.edu.ec
+itgeoespacial.espe.edu.ec
+ia.espe.edu.ec
+noticias.espe.edu.ec
+itin.espe.edu.ec
+grimpsoft.espe.edu.ec
+uep.espe.edu.ec
+ofimatica.espe.edu.ec
+openconf.espe.edu.ec
+nivelacion.espe.edu.ec
+decem.espe.edu.ec
+balanglass.espe.edu.ec
+proyectocicte.espe.edu.ec
+hpc.espe.edu.ec
+enfoque.espe.edu.ec
+investiga.espe.edu.ec
+dcc2.espe.edu.ec
+mecatronica.espe.edu.ec
+uvs.espe.edu.ec
+ugvc.espe.edu.ec
+sin.espe.edu.ec
+cirad.espe.edu.ec
+seguridad-ugt.espe.edu.ec
+www1.espe.edu.ec
+ufaslquticcecvirtual.espe.edu.ec
+eduroam.espe.edu.ec
+quipux2015.espe.edu.ec
+biotecnologia.espe.edu.ec
+ufaslquticqgpdf.espe.edu.ec
+www.biotecnologia.espe.edu.ec
+mecanica.espe.edu.ec
+academy.espe.edu.ec
+civil.espe.edu.ec
+cenepa.espe.edu.ec
+espeactum.espe.edu.ec
+biomedicaljournal.espe.edu.ec
+www.mercadotecnia.espe.edu.ec
+servicios.espe.edu.ec
+cicte.espe.edu.ec
+ideespe.espe.edu.ec
+deee.espe.edu.ec
+infantil.espe.edu.ec
+espedemo.espe.edu.ec
+cibsi.espe.edu.ec
+riesgos.espe.edu.ec
+usgn.espe.edu.ec
+srvcas.espe.edu.ec
+elecciones.espe.edu.ec
+ufaslquticojs.espe.edu.ec
+www10.espe.edu.ec
+actividades.espe.edu.ec
+dece-el.espe.edu.ec
+m.espe.edu.ec
+urci.espe.edu.ec
+mecatronica-el.espe.edu.ec
+bi1.espe.edu.ec
+cafder.espe.edu.ec
+www4.espe.edu.ec
+frp.espe.edu.ec
+ltga.espe.edu.ec
+udi.espe.edu.ec
+dechs.espe.edu.ec
+helpdesk.espe.edu.ec
+firmaelectronica.espe.edu.ec
+www.grimpsoft.espe.edu.ec
+gt.espe.edu.ec
+especonf1.espe.edu.ec
+latingeo.espe.edu.ec
+petroquimica-el.espe.edu.ec
+software-el.espe.edu.ec
+tics-sd.espe.edu.ec
+isoftware.espe.edu.ec
+admisionpregrado.espe.edu.ec
+seli.espe.edu.ec
+ube.espe.edu.ec
+linguistica.espe.edu.ec
+finanzas-el.espe.edu.ec
+decem-el.espe.edu.ec
+tvespe.espe.edu.ec
+sistemas.espe.edu.ec
+gestionterritorial.espe.edu.ec
+portal-test.espe.edu.ec
+sigfa-pruebas.espe.edu.ec
+medios.espe.edu.ec
+cibse.espe.edu.ec
+espepad.espe.edu.ec
+educacion.espe.edu.ec
+electromecanica-el.espe.edu.ec
+sntt.espe.edu.ec
+proconet.espe.edu.ec
+www.moodle.espe.edu.ec
+sapyc.espe.edu.ec
+www.espe.edu.ec
+www.electronica-el.espe.edu.ec
+salud.espe.edu.ec
+innovaedu.espe.edu.ec
+deccloud.espe.edu.ec
+erp.espe.edu.ec
+ugt.espe.edu.ec
+gea.espe.edu.ec
+logistica-ugt.espe.edu.ec
+bqvres01.espe.edu.ec
+iptv.espe.edu.ec
+del.espe.edu.ec
+server-cas-cifte.espe.edu.ec
+odk.espe.edu.ec
+consejos.espe.edu.ec
+ecp-el.espe.edu.ec
+cic.espe.edu.ec
+observatorio.espe.edu.ec
+ftp.espe.edu.ec
+wicom.espe.edu.ec
+cme.espe.edu.ec
+espe-el.espe.edu.ec
+seguridad.espe.edu.ec
+ciencias_aeronauticas.espe.edu.ec
+ceinci.espe.edu.ec
+bolsadeempleo.espe.edu.ec
+ufaslqucdwf.espe.edu.ec
+hcu.espe.edu.ec
+www.dcc2.espe.edu.ec
+forms.espe.edu.ec
+santodomingo.espe.edu.ec
+delicious.espe.edu.ec
+portafolio.espe.edu.ec
+ufaslquticpglassfish.espe.edu.ec
+maskay.espe.edu.ec
+dectc.espe.edu.ec
+www.gimm.espe.edu.ec
+electronica-ugt.espe.edu.ec
+agropecuaria-sd.espe.edu.ec
+aplicaciones.espe.edu.ec
+finanzas.espe.edu.ec
+cimse.espe.edu.ec
+moviles.espe.edu.ec
+conferenciacicte.espe.edu.ec
+autoservicio.espe.edu.ec
+world_business.espe.edu.ec
+redu2016.espe.edu.ec
+ai.espe.edu.ec
+espetv.espe.edu.ec
+moodle.espe.edu.ec
+ude.espe.edu.ec
+profeshor.espe.edu.ec
+cencinat.espe.edu.ec
+webltga.espe.edu.ec
+empleo.espe.edu.ec
+www.cic.espe.edu.ec
+apps.espe.edu.ec
+firmaec.espe.edu.ec
+certificacion.espe.edu.ec
+jem.espe.edu.ec
+telecomunicaciones.espe.edu.ec
+grimposftapp.espe.edu.ec
+cespe.espe.edu.ec
+electromecanica-ugt.espe.edu.ec
+comercial.espe.edu.ec
+uei.espe.edu.ec
+vlabs.espe.edu.ec
+quipux.espe.edu.ec
+gite.espe.edu.ec
+alumnitest.espe.edu.ec
+procalet.espe.edu.ec
+espedigital.espe.edu.ec
+portaltest.espe.edu.ec
+rectorado.espe.edu.ec
+phd.espe.edu.ec
+minube.espe.edu.ec
+iasa.espe.edu.ec
+midecc.espe.edu.ec
+ciencia.espe.edu.ec
+especonferencias.espe.edu.ec
+iot.espe.edu.ec
+jiisicceis.espe.edu.ec
+automatizacion-ugt.espe.edu.ec
+devops1.espe.edu.ec
+ns1.espe.edu.ec
+pentaho.espe.edu.ec
+recovery.espe.edu.ec
+cide.espe.edu.ec
+practicas.espe.edu.ec
+deee-el.espe.edu.ec
+elecciones1.espe.edu.ec
+net4learning.espe.edu.ec
+deceac.espe.edu.ec
+ufaslquticqfirmas.espe.edu.ec
+exterior.espe.edu.ec
+gipchocho.espe.edu.ec
+decc.espe.edu.ec
+ulog.espe.edu.ec
+www.noticias.espe.edu.ec
+redestel-ugt.espe.edu.ec
+ued.espe.edu.ec
+dece-sd.espe.edu.ec
+posgrados.espe.edu.ec
+gpdfsigfa.espe.edu.ec
+espiando.espe.edu.ec
+consola.espe.edu.ec
+deceac-el.espe.edu.ec
+eciencia.espe.edu.ec
+ufaslquticsalud.espe.edu.ec
+iot.grimpsoftii.espe.edu.ec
+uf.espe.edu.ec
+automatizacion.espe.edu.ec
+minedu-espe.espe.edu.ec
+dece.espe.edu.ec
+appbdms.espe.edu.ec
+radioeskpe.espe.edu.ec
+citrix.espe.edu.ec
+webservices.espe.edu.ec
+admlum.espe.edu.ec
+monitoreo.espe.edu.ec
+ugi.espe.edu.ec
+rackly.espe.edu.ec
+silabo.espe.edu.ec
+transparencia.espe.edu.ec
+www5.espe.edu.ec
+apoyoinnovaedu.espe.edu.ec
+logistica_naval.espe.edu.ec
+catalogo.espe.edu.ec
+cepra.espe.edu.ec
+turismo.espe.edu.ec
+vfile-utic.espe.edu.ec
+docentes.espe.edu.ec
+riie.espe.edu.ec

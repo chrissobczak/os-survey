@@ -1,201 +1,107 @@
-NXDOMAIN	www.resssvr.cameron.edu
-NXDOMAIN	adfs.cameron.edu
-NXDOMAIN	lyncdiscover.cameron.edu
-NXDOMAIN	demeter.cameron.edu
-NOERROR	cas.cameron.edu
-NOERROR	resssvr.cameron.edu
-NOERROR	owa.cameron.edu
-NXDOMAIN	excli2temp.cameron.edu
-NOERROR	offapp1.cameron.edu
-NXDOMAIN	www.webemail.cameron.edu
-NOERROR	dns4.cameron.edu
-NXDOMAIN	exdb.cameron.edu
-NXDOMAIN	www.cloupath1.cameron.edu
-NXDOMAIN	www.bluesocket.cameron.edu
-NXDOMAIN	exedge2.cameron.edu
-NOERROR	banner02.cameron.edu
-NXDOMAIN	www.admgr.cameron.edu
-NXDOMAIN	www3.cameron.edu
-NOERROR	dwtest.cameron.edu
-NOERROR	aggieshare.cameron.edu
-NXDOMAIN	cupool.cameron.edu
-NOERROR	dev-db06.cameron.edu
-NOERROR	dev-wkfl.cameron.edu
-NXDOMAIN	root@eprint02.cameron.edu
-NXDOMAIN	luministest.cameron.edu
-NXDOMAIN	mbx.cameron.edu
-NOERROR	ada.cameron.edu
-NXDOMAIN	www.recpg.cameron.edu
-NOERROR	dgwtest.cameron.edu
-NOERROR	aggiereset.cameron.edu
-NXDOMAIN	www.banner04.cameron.edu
-NXDOMAIN	www.cas.cameron.edu
-NOERROR	banner01.cameron.edu
-NOERROR	trackit.cameron.edu
-NOERROR	banner04.cameron.edu
-NOERROR	dns2.cameron.edu
-NOERROR	www2.cameron.edu
-NXDOMAIN	evisiontest.cameron.edu
-NXDOMAIN	www.cupool.cameron.edu
-NOERROR	dev-esm01.cameron.edu
-NXDOMAIN	nav.banner02.cameron.edu
-NOERROR	avalon.cameron.edu
-NXDOMAIN	exclib.cameron.edu
-NXDOMAIN	exclia3.cameron.edu
-NXDOMAIN	exmbx.cameron.edu
-NOERROR	enterpriseregistration.cameron.edu
-NOERROR	lumadm.cameron.edu
-NOERROR	cua.cameron.edu
-NXDOMAIN	nav.dev-banner02.cameron.edu
-NXDOMAIN	communicatorme.cameron.edu
-NXDOMAIN	autodiscover.cameron.edu
-NXDOMAIN	www.caduceus.cameron.edu
-NXDOMAIN	exdb3.cameron.edu
-NOERROR	banner05.cameron.edu
-NXDOMAIN	skypefe3.cameron.edu
-NOERROR	esm01.cameron.edu
-NXDOMAIN	www.aggiereset.cameron.edu
-NXDOMAIN	certauth.sts.cameron.edu
-NOERROR	goaggies.cameron.edu
-NOERROR	mycu.cameron.edu
-NOERROR	dev-banner02.cameron.edu
-NOERROR	banapp02.cameron.edu
-NOERROR	blackboard.cameron.edu
-NXDOMAIN	cloupath1.cameron.edu
-NOERROR	getstarted.cameron.edu
-NXDOMAIN	www.banner05.cameron.edu
-NXDOMAIN	www.offapp1.cameron.edu
-NOERROR	mail.cameron.edu
-NXDOMAIN	mbx2.cameron.edu
-NXDOMAIN	skypefe2.cameron.edu
-NOERROR	cat.cameron.edu
-NXDOMAIN	meet.cameron.edu
-NXDOMAIN	www.pupool.cameron.edu
-NOERROR	report01.cameron.edu
-NXDOMAIN	exclia.cameron.edu
-NXDOMAIN	mbxb.cameron.edu
-NXDOMAIN	embedded.dev-banner02.cameron.edu
-NOERROR	sts.cameron.edu
-NXDOMAIN	lyndiscoverinternal.cameron.edu
-NOERROR	docs.cameron.edu
-NOERROR	socrates.cameron.edu
-NOERROR	tmiroam.cameron.edu
-NOERROR	osa.cameron.edu
-NOERROR	banapp04.cameron.edu
-NXDOMAIN	dialin.cameron.edu
-NXDOMAIN	sip.cameron.edu
-NXDOMAIN	mbxa.cameron.edu
-NXDOMAIN	hera.cameron.edu
-NOERROR	tmi.cameron.edu
-NOERROR	excli1.cameron.edu
-NXDOMAIN	skypdedb1.cameron.edu
-NOERROR	wf4ve9vr6b.search.serialssolutions.com.ezproxy.cameron.edu
-NOERROR	dgw.cameron.edu
-NXDOMAIN	communicator.cameron.edu
-NXDOMAIN	mbx1.cameron.edu
-NOERROR	ress.cameron.edu
-NOERROR	doyouknow.cameron.edu
-NOERROR	dev-banner01.cameron.edu
-NXDOMAIN	www.tmiroam.cameron.edu
-NOERROR	banapp05.cameron.edu
-NOERROR	cwa.cameron.edu
-NXDOMAIN	root@www3.cameron.edu
-NOERROR	cuweb.cameron.edu
-NOERROR	dev-aggieaccess.cameron.edu
-NOERROR	banjobs.cameron.edu
-NXDOMAIN	exclia1.cameron.edu
-NOERROR	exmail.cameron.edu
-NOERROR	excli3.cameron.edu
-NOERROR	passwd.cameron.edu
-NOERROR	www5.cameron.edu
-NXDOMAIN	www.evision.cameron.edu
-NOERROR	eprint02.cameron.edu
-NOERROR	mail2.cameron.edu
-NOERROR	aggiepass.cameron.edu
-NOERROR	dev-luminis05.cameron.edu
-NOERROR	sites.cameron.edu
-NXDOMAIN	www.cua.cameron.edu
-NOERROR	caduceus.cameron.edu
-NOERROR	site.ebrary.com.ezproxy.cameron.edu
-NXDOMAIN	skypedb3.cameron.edu
-NOERROR	rectest.cameron.edu
-NOERROR	blackboard-stage.cameron.edu
-NXDOMAIN	lyncdiscoverinternal.cameron.edu
-NXDOMAIN	www.sts.cameron.edu
-NOERROR	login.ezproxy.cameron.edu
-NXDOMAIN	exclia2.cameron.edu
-NOERROR	webemail.cameron.edu
-NXDOMAIN	root@www.cameron.edu
-NOERROR	dev-banapp02.cameron.edu
-NOERROR	streamer.cameron.edu
-NOERROR	www.cameron.edu
-NXDOMAIN	mytest.cameron.edu
-NOERROR	dev-banjobs.cameron.edu
-NXDOMAIN	www.getstarted.cameron.edu
-NOERROR	banapp03.cameron.edu
-NOERROR	gcal.cameron.edu
-NXDOMAIN	bbapp1.cameron.edu
-NXDOMAIN	dev-db01.cameron.edu
-NOERROR	aal20.tutor.com.ezproxy.cameron.edu
-NXDOMAIN	skypedb.cameron.edu
-NXDOMAIN	www.trackit.cameron.edu
-NOERROR	dns.cameron.edu
-NXDOMAIN	skypedb1.cameron.edu
-NOERROR	eprint01.cameron.edu
-NOERROR	banapp01.cameron.edu
-NOERROR	camcas.cameron.edu
-NOERROR	gmail.cameron.edu
-NOERROR	wkfl.cameron.edu
-NOERROR	dev-lumadm.cameron.edu
-NOERROR	sharepoint.cameron.edu
-NXDOMAIN	www.evisiontest.cameron.edu
-NXDOMAIN	exedge1.cameron.edu
-NXDOMAIN	skypedbcluster.cameron.edu
-NXDOMAIN	ssotest.cameron.edu
-NOERROR	libinfosource.cameron.edu
-NXDOMAIN	embedded.banner02.cameron.edu
-NOERROR	db06.cameron.edu
-NOERROR	libcal.cameron.edu
-NXDOMAIN	exdb1.cameron.edu
-NOERROR	dev-banapp03.cameron.edu
-NOERROR	cameron.edu
-NXDOMAIN	www.aggieshare.cameron.edu
-NOERROR	dw.cameron.edu
-NXDOMAIN	lync.cameron.edu
-NXDOMAIN	excli1temp.cameron.edu
-NXDOMAIN	www.owa.cameron.edu
-NXDOMAIN	mysites.cameron.edu
-NXDOMAIN	adfsprx.cameron.edu
-NXDOMAIN	www.recpgtest.cameron.edu
-NOERROR	dev-report01.cameron.edu
-NOERROR	www.ezproxy.cameron.edu
-NXDOMAIN	exdb2.cameron.edu
-NXDOMAIN	www.libinfosource.cameron.edu
-NXDOMAIN	www.mysites.cameron.edu
-NOERROR	dns3.cameron.edu
-NOERROR	bluesocket.cameron.edu
-NOERROR	ftp.cameron.edu
-NOERROR	recpgtest.cameron.edu
-NXDOMAIN	www.rectest.cameron.edu
-NOERROR	email.cameron.edu
-NOERROR	gis.cameron.edu
-NXDOMAIN	studentemail.cameron.edu
-NOERROR	excli2.cameron.edu
-NOERROR	tmimail.cameron.edu
-NOERROR	luminis05.cameron.edu
-NOERROR	ezproxy.cameron.edu
-NXDOMAIN	www.bbapp1.cameron.edu
-NOERROR	wolverine.cameron.edu
-NXDOMAIN	skypefe1.cameron.edu
-NOERROR	dev-banapp01.cameron.edu
-NXDOMAIN	skypedb2.cameron.edu
-NOERROR	aggieaccess.cameron.edu
-NXDOMAIN	skypefe.cameron.edu
-NOERROR	recpg.cameron.edu
-NXDOMAIN	evision.cameron.edu
-NXDOMAIN	communicatoredge.cameron.edu
-NXDOMAIN	www.aggieaccess.cameron.edu
-NOERROR	wireless.cameron.edu
-NXDOMAIN	exedge3.cameron.edu
-NOERROR	admgr.cameron.edu
-NOERROR	rra.cameron.edu
+cas.cameron.edu
+resssvr.cameron.edu
+owa.cameron.edu
+offapp1.cameron.edu
+dns4.cameron.edu
+banner02.cameron.edu
+dwtest.cameron.edu
+aggieshare.cameron.edu
+dev-db06.cameron.edu
+dev-wkfl.cameron.edu
+ada.cameron.edu
+dgwtest.cameron.edu
+aggiereset.cameron.edu
+banner01.cameron.edu
+trackit.cameron.edu
+banner04.cameron.edu
+dns2.cameron.edu
+www2.cameron.edu
+dev-esm01.cameron.edu
+avalon.cameron.edu
+enterpriseregistration.cameron.edu
+lumadm.cameron.edu
+cua.cameron.edu
+banner05.cameron.edu
+esm01.cameron.edu
+goaggies.cameron.edu
+mycu.cameron.edu
+dev-banner02.cameron.edu
+banapp02.cameron.edu
+blackboard.cameron.edu
+getstarted.cameron.edu
+mail.cameron.edu
+cat.cameron.edu
+report01.cameron.edu
+sts.cameron.edu
+docs.cameron.edu
+socrates.cameron.edu
+tmiroam.cameron.edu
+osa.cameron.edu
+banapp04.cameron.edu
+tmi.cameron.edu
+excli1.cameron.edu
+wf4ve9vr6b.search.serialssolutions.com.ezproxy.cameron.edu
+dgw.cameron.edu
+ress.cameron.edu
+doyouknow.cameron.edu
+dev-banner01.cameron.edu
+banapp05.cameron.edu
+cwa.cameron.edu
+cuweb.cameron.edu
+dev-aggieaccess.cameron.edu
+banjobs.cameron.edu
+exmail.cameron.edu
+excli3.cameron.edu
+passwd.cameron.edu
+www5.cameron.edu
+eprint02.cameron.edu
+mail2.cameron.edu
+aggiepass.cameron.edu
+dev-luminis05.cameron.edu
+sites.cameron.edu
+caduceus.cameron.edu
+site.ebrary.com.ezproxy.cameron.edu
+rectest.cameron.edu
+blackboard-stage.cameron.edu
+login.ezproxy.cameron.edu
+webemail.cameron.edu
+dev-banapp02.cameron.edu
+streamer.cameron.edu
+www.cameron.edu
+dev-banjobs.cameron.edu
+banapp03.cameron.edu
+gcal.cameron.edu
+aal20.tutor.com.ezproxy.cameron.edu
+dns.cameron.edu
+eprint01.cameron.edu
+banapp01.cameron.edu
+camcas.cameron.edu
+gmail.cameron.edu
+wkfl.cameron.edu
+dev-lumadm.cameron.edu
+sharepoint.cameron.edu
+libinfosource.cameron.edu
+db06.cameron.edu
+libcal.cameron.edu
+dev-banapp03.cameron.edu
+cameron.edu
+dw.cameron.edu
+dev-report01.cameron.edu
+www.ezproxy.cameron.edu
+dns3.cameron.edu
+bluesocket.cameron.edu
+ftp.cameron.edu
+recpgtest.cameron.edu
+email.cameron.edu
+gis.cameron.edu
+excli2.cameron.edu
+tmimail.cameron.edu
+luminis05.cameron.edu
+ezproxy.cameron.edu
+wolverine.cameron.edu
+dev-banapp01.cameron.edu
+aggieaccess.cameron.edu
+recpg.cameron.edu
+wireless.cameron.edu
+admgr.cameron.edu
+rra.cameron.edu

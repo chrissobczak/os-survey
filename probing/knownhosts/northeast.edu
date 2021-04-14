@@ -1,126 +1,48 @@
-NXDOMAIN	helpdev.northeast.edu
-NXDOMAIN	dwprod-composer.northeast.edu
-NXDOMAIN	o365.northeast.edu
-NOERROR	ssbtest.northeast.edu
-NOERROR	content.ebscohost.com.ezproxy.northeast.edu
-NXDOMAIN	www2.northeast.edu
-NOERROR	ivanti-cloud.northeast.edu
-NOERROR	collegestore.northeast.edu
-NXDOMAIN	cacti.northeast.edu
-NXDOMAIN	cameras-nfk.northeast.edu
-NOERROR	erp-test.northeast.edu
-NXDOMAIN	hawk-guest.northeast.edu
-NXDOMAIN	landesk-cloud.northeast.edu
-NXDOMAIN	dwdevl.northeast.edu
-NOERROR	wac.northeast.edu
-NXDOMAIN	banapi.northeast.edu
-NOERROR	resolver.ebscohost.com.ezproxy.northeast.edu
-NXDOMAIN	www.ivanti-cloud.northeast.edu
-NXDOMAIN	filesadmin.northeast.edu
-NOERROR	search.ebscohost.com.ezproxy.northeast.edu
-NOERROR	ezproxy.northeast.edu
-NXDOMAIN	mydegree-dwprod.northeast.edu
-NXDOMAIN	esm.northeast.edu
-NXDOMAIN	webauth.northeast.edu
-NXDOMAIN	cameras-ssc.northeast.edu
-NXDOMAIN	mydegree-dwdevl.northeast.edu
-NXDOMAIN	ise-01.northeast.edu
-NOERROR	autodiscover.northeast.edu
-NXDOMAIN	ise.northeast.edu
-NXDOMAIN	filelocker.northeast.edu
-NOERROR	print.northeast.edu
-NOERROR	www.cybercenter.northeast.edu
-NOERROR	www.cybersecurity.northeast.edu
-NOERROR	exp-e.northeast.edu
-NXDOMAIN	forticlient-ems.northeast.edu
-NOERROR	www.northeast.edu
-NOERROR	go.galegroup.com.ezproxy.northeast.edu
-NXDOMAIN	webaccess.northeast.edu
-NOERROR	login.ezproxy.northeast.edu
-NXDOMAIN	ssb-test.northeast.edu
-NOERROR	eds-a-ebscohost-com.ezproxy.northeast.edu
-NOERROR	www.signage.northeast.edu
-NOERROR	papercutcc.northeast.edu
-NXDOMAIN	erp-qual.northeast.edu
-NXDOMAIN	erp-prod.northeast.edu
-NXDOMAIN	eiron2.northeast.edu
-NXDOMAIN	papercut.northeast.edu
-NXDOMAIN	dwprod-staff.northeast.edu
-NXDOMAIN	wazuh.northeast.edu
-NOERROR	erp.northeast.edu
-NOERROR	test-id.northeast.edu
-NXDOMAIN	cognos.northeast.edu
-NOERROR	gateway-01.northeast.edu
-NOERROR	test-login.northeast.edu
-NXDOMAIN	cameras-mobile.northeast.edu
-NOERROR	cybercenter.northeast.edu
-NXDOMAIN	exchange.northeast.edu
-NOERROR	hawkshop.northeast.edu
-NXDOMAIN	rds.northeast.edu
-NXDOMAIN	dwupgd-composer.northeast.edu
-NXDOMAIN	northeast-test.northeast.edu
-NXDOMAIN	dwprod.northeast.edu
-NOERROR	ssb-qual.northeast.edu
-NOERROR	web.b.ebscohost.com.ezproxy.northeast.edu
-NOERROR	eds.a.ebscohost.com.ezproxy.northeast.edu
-NXDOMAIN	files.northeast.edu
-NXDOMAIN	elevateapi-prod.northeast.edu
-NXDOMAIN	servicecenter.northeast.edu
-NXDOMAIN	ssb-devl.northeast.edu
-NOERROR	cameras.northeast.edu
-NOERROR	northeast.edu
-NOERROR	ssb.northeast.edu
-NXDOMAIN	myclasses.northeast.edu
-NXDOMAIN	mydegree-dwtest.northeast.edu
-NOERROR	mydegree.northeast.edu
-NXDOMAIN	exch2010.northeast.edu
-NXDOMAIN	mercyhurst.northeast.edu
-NXDOMAIN	cognos11-prod.northeast.edu
-NXDOMAIN	cognos-test.northeast.edu
-NOERROR	login.northeast.edu
-NOERROR	cybersecurity.northeast.edu
-NXDOMAIN	cameras-mobil.northeast.edu
-NXDOMAIN	spcentral.northeast.edu
-NXDOMAIN	y1cap.northeast.edu
-NOERROR	y1cbp.northeast.edu
-NXDOMAIN	sctweb.northeast.edu
-NXDOMAIN	portal.northeast.edu
-NOERROR	calendar.northeast.edu
-NOERROR	web.ebscohost.com.ezproxy.northeast.edu
-NXDOMAIN	printing.northeast.edu
-NXDOMAIN	nagios.northeast.edu
-NOERROR	canvas.northeast.edu
-NOERROR	share.northeast.edu
-NOERROR	gateway.northeast.edu
-NXDOMAIN	banner.northeast.edu
-NXDOMAIN	necc04.northeast.edu
-NXDOMAIN	cognosprod.northeast.edu
-NXDOMAIN	eiron1.northeast.edu
-NOERROR	signage.northeast.edu
-NXDOMAIN	exp-c.northeast.edu
-NXDOMAIN	w.northeast.edu
-NXDOMAIN	eiron.northeast.edu
-NXDOMAIN	dwupgd-staff.northeast.edu
-NXDOMAIN	erp-devl.northeast.edu
-NXDOMAIN	ssbfmw-test.northeast.edu
-NXDOMAIN	mydegree-dwupgd.northeast.edu
-NXDOMAIN	ssbfmw-prod.northeast.edu
-NOERROR	eds.b.ebscohost.com.ezproxy.northeast.edu
-NXDOMAIN	ssb-upgd.northeast.edu
-NXDOMAIN	erp-upgd.northeast.edu
-NXDOMAIN	ise-02.northeast.edu
-NXDOMAIN	spaudit.northeast.edu
-NOERROR	web.a.ebscohost.com.ezproxy.northeast.edu
-NXDOMAIN	portal2.northeast.edu
-NXDOMAIN	fileuploadersrv.northeast.edu
-NXDOMAIN	cognostest.northeast.edu
-NXDOMAIN	elevateapi-test.northeast.edu
-NOERROR	id.northeast.edu
-NOERROR	digital.films.com.ezproxy.northeast.edu
-NXDOMAIN	test-banner.northeast.edu
-NXDOMAIN	cognos10.northeast.edu
-NXDOMAIN	hawknet.northeast.edu
-NXDOMAIN	adaudit.northeast.edu
-NOERROR	fod.infobase.com.ezproxy.northeast.edu
-NXDOMAIN	cognos11-test.northeast.edu
-NOERROR	myshare.northeast.edu
+ssbtest.northeast.edu
+content.ebscohost.com.ezproxy.northeast.edu
+ivanti-cloud.northeast.edu
+collegestore.northeast.edu
+erp-test.northeast.edu
+wac.northeast.edu
+resolver.ebscohost.com.ezproxy.northeast.edu
+search.ebscohost.com.ezproxy.northeast.edu
+ezproxy.northeast.edu
+autodiscover.northeast.edu
+print.northeast.edu
+www.cybercenter.northeast.edu
+www.cybersecurity.northeast.edu
+exp-e.northeast.edu
+www.northeast.edu
+go.galegroup.com.ezproxy.northeast.edu
+login.ezproxy.northeast.edu
+eds-a-ebscohost-com.ezproxy.northeast.edu
+www.signage.northeast.edu
+papercutcc.northeast.edu
+erp.northeast.edu
+test-id.northeast.edu
+gateway-01.northeast.edu
+test-login.northeast.edu
+cybercenter.northeast.edu
+hawkshop.northeast.edu
+ssb-qual.northeast.edu
+web.b.ebscohost.com.ezproxy.northeast.edu
+eds.a.ebscohost.com.ezproxy.northeast.edu
+cameras.northeast.edu
+northeast.edu
+ssb.northeast.edu
+mydegree.northeast.edu
+login.northeast.edu
+cybersecurity.northeast.edu
+y1cbp.northeast.edu
+calendar.northeast.edu
+web.ebscohost.com.ezproxy.northeast.edu
+canvas.northeast.edu
+share.northeast.edu
+gateway.northeast.edu
+signage.northeast.edu
+eds.b.ebscohost.com.ezproxy.northeast.edu
+web.a.ebscohost.com.ezproxy.northeast.edu
+id.northeast.edu
+digital.films.com.ezproxy.northeast.edu
+fod.infobase.com.ezproxy.northeast.edu
+myshare.northeast.edu

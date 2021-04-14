@@ -1,45 +1,20 @@
-NXDOMAIN	schedule.seeu.edu.mk
-NOERROR	us.seeu.edu.mk
-NXDOMAIN	angel.seeu.edu.mk
-NOERROR	techpark.seeu.edu.mk
-NOERROR	www.seeu.edu.mk
-NOERROR	careercentre.seeu.edu.mk
-NXDOMAIN	www.exam.schedule.seeu.edu.mk
-NOERROR	bdc.seeu.edu.mk
-NOERROR	conf.seeu.edu.mk
-NOERROR	apply.seeu.edu.mk
-NOERROR	ieh.seeu.edu.mk
-NXDOMAIN	blogs.seeu.edu.mk
-NXDOMAIN	mmlab.seeu.edu.mk
-NXDOMAIN	libri.seeu.edu.mk
-NOERROR	mvdsi.seeu.edu.mk
-NOERROR	gallery.seeu.edu.mk
-NOERROR	cst.seeu.edu.mk
-NXDOMAIN	grading.seeu.edu.mk
-NOERROR	blog.seeu.edu.mk
-NOERROR	i.seeu.edu.mk
-NXDOMAIN	lcms.seeu.edu.mk
-NOERROR	my.seeu.edu.mk
-NXDOMAIN	www.angel.seeu.edu.mk
-NXDOMAIN	quiz.seeu.edu.mk
-NXDOMAIN	alpine.seeu.edu.mk
-NXDOMAIN	news.seeu.edu.mk
-NXDOMAIN	sign.seeu.edu.mk
-NXDOMAIN	ww.seeu.edu.mk
-NXDOMAIN	esevice.seeu.edu.mk
-NXDOMAIN	www.eserver.seeu.edu.mk
-NXDOMAIN	eservice.seeu.edu.mk
-NXDOMAIN	msdnaa.seeu.edu.mk
-NXDOMAIN	www.i-schedule.seeu.edu.mk
-NXDOMAIN	aspes.seeu.edu.mk
-NOERROR	webmail.seeu.edu.mk
-NXDOMAIN	libri3.seeu.edu.mk
-NXDOMAIN	ocw.seeu.edu.mk
-NOERROR	repository.seeu.edu.mk
-NOERROR	library.seeu.edu.mk
-NOERROR	login.seeu.edu.mk
-NOERROR	seeu.edu.mk
-NXDOMAIN	web2mail.seeu.edu.mk
-NOERROR	cvip.seeu.edu.mk
-NXDOMAIN	courses.seeu.edu.mk
-NXDOMAIN	www.angell.seeu.edu.mk
+us.seeu.edu.mk
+techpark.seeu.edu.mk
+www.seeu.edu.mk
+careercentre.seeu.edu.mk
+bdc.seeu.edu.mk
+conf.seeu.edu.mk
+apply.seeu.edu.mk
+ieh.seeu.edu.mk
+mvdsi.seeu.edu.mk
+gallery.seeu.edu.mk
+cst.seeu.edu.mk
+blog.seeu.edu.mk
+i.seeu.edu.mk
+my.seeu.edu.mk
+webmail.seeu.edu.mk
+repository.seeu.edu.mk
+library.seeu.edu.mk
+login.seeu.edu.mk
+seeu.edu.mk
+cvip.seeu.edu.mk

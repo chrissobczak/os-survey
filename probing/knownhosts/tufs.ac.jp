@@ -1,122 +1,82 @@
-NOERROR	campus.tufs.ac.jp
-NOERROR	atr-call.tufs.ac.jp
-NXDOMAIN	icc-rm.tufs.ac.jp
-NXDOMAIN	idm.tufs.ac.jp
-NOERROR	rlipc01.tufs.ac.jp
-NOERROR	ssh.tufs.ac.jp
-NXDOMAIN	shigenjin.aa.tufs.ac.jp
-NOERROR	irc.aa.tufs.ac.jp
-NOERROR	www.el.tufs.ac.jp
-NOERROR	rcmail.tufs.ac.jp
-NXDOMAIN	nacademy.tufs.ac.jp
-NOERROR	grpw.tufs.ac.jp
-NXDOMAIN	blog2.tufs.ac.jp
-NXDOMAIN	admin-mw.admin.tufs.ac.jp
-NOERROR	star.aa.tufs.ac.jp
-NOERROR	mdle.tufs.ac.jp
-NXDOMAIN	admin-mwz.admin.tufs.ac.jp
-NOERROR	zaimu2.tufs.ac.jp
-NOERROR	lexicon.tufs.ac.jp
-NOERROR	coelang.tufs.ac.jp
-NOERROR	e-alumni.tufs.ac.jp
-NOERROR	coel.tufs.ac.jp
-NOERROR	opac.tufs.ac.jp
-NOERROR	aasnr22.aa.tufs.ac.jp
-NOERROR	rlicc37.tufs.ac.jp
-NOERROR	aa2616c.aa.tufs.ac.jp
-NOERROR	gakumu-web1.tufs.ac.jp
-NOERROR	iiss.tufs.ac.jp
-NXDOMAIN	corpz.tufs.ac.jp
-NOERROR	ml.tufs.ac.jp
-NOERROR	ftp.tufs.ac.jp
-NXDOMAIN	www3.aa.tufs.ac.jp
-NXDOMAIN	mail2.tufs.ac.jp
-NOERROR	imap.tufs.ac.jp
-NOERROR	dls03.tufs.ac.jp
-NXDOMAIN	ldap1.tufs.ac.jp
-NOERROR	dls02.tufs.ac.jp
-NOERROR	cl.tufs.ac.jp
-NOERROR	www-lib.tufs.ac.jp
-NOERROR	coe.aa.tufs.ac.jp
-NXDOMAIN	eduroam1.tufs.ac.jp
-NOERROR	iccoam.tufs.ac.jp
-NOERROR	irc2010-server.aa.tufs.ac.jp
-NOERROR	jpnew.tufs.ac.jp
-NXDOMAIN	nedo.aa.tufs.ac.jp
-NOERROR	jplang.tufs.ac.jp
-NOERROR	www.jplang.tufs.ac.jp
-NOERROR	itliteracy.tufs.ac.jp
-NOERROR	aa-core02.aa.tufs.ac.jp
-NOERROR	drosrp.aa.tufs.ac.jp
-NOERROR	it-lite.tufs.ac.jp
-NXDOMAIN	eduroam2.tufs.ac.jp
-NOERROR	el.tufs.ac.jp
-NXDOMAIN	is4107a.ipc.tufs.ac.jp
-NXDOMAIN	radius2.tufs.ac.jp
-NXDOMAIN	gakumuweb.tufs.ac.jp
-NXDOMAIN	icc-nas-2020.tufs.ac.jp
-NOERROR	sano.tufs.ac.jp
-NOERROR	sanda.tufs.ac.jp
-NOERROR	mail.tufs.ac.jp
-NOERROR	xdatabox.tufs.ac.jp
-NOERROR	kashf-al-asrar.tufs.ac.jp
-NOERROR	aa.tufs.ac.jp
-NOERROR	dls01.tufs.ac.jp
-NXDOMAIN	dilins.c-dats.tufs.ac.jp
-NXDOMAIN	aansr23.aa.tufs.ac.jp
-NOERROR	mail1.tufs.ac.jp
-NOERROR	inmulti.tufs.ac.jp
-NOERROR	mongol.tufs.ac.jp
-NOERROR	wp.tufs.ac.jp
-NXDOMAIN	sso.tufs.ac.jp
-NXDOMAIN	radius-w.tufs.ac.jp
-NOERROR	aa2613a.aa.tufs.ac.jp
-NOERROR	tufs.ac.jp
-NXDOMAIN	mail3.tufs.ac.jp
-NXDOMAIN	radius.tufs.ac.jp
-NXDOMAIN	eduroam.tufs.ac.jp
-NOERROR	tufsnat.tufs.ac.jp
-NXDOMAIN	radius4.tufs.ac.jp
-NOERROR	pop.tufs.ac.jp
-NXDOMAIN	tufsnet.tufs.ac.jp
-NOERROR	vernac.tufs.ac.jp
-NOERROR	jcs.aa.tufs.ac.jp
-NOERROR	iccstudy.tufs.ac.jp
-NOERROR	websurvey.tufs.ac.jp
-NOERROR	ngc2068.tufs.ac.jp
-NXDOMAIN	gakumu-web1z.tufs.ac.jp
-NOERROR	plm.tufs.ac.jp
-NOERROR	rlipc08.tufs.ac.jp
-NOERROR	mailfilter.tufs.ac.jp
-NOERROR	repository.tufs.ac.jp
-NOERROR	ulipc01.tufs.ac.jp
-NOERROR	sapir.aa.tufs.ac.jp
-NOERROR	telnet.tufs.ac.jp
-NOERROR	otdo.aa.tufs.ac.jp
-NXDOMAIN	radius1.tufs.ac.jp
-NXDOMAIN	proself.tufs.ac.jp
-NXDOMAIN	aansr22.aa.tufs.ac.jp
-NOERROR	aasnr23.aa.tufs.ac.jp
-NOERROR	mdle2.tufs.ac.jp
-NOERROR	www.tufs.ac.jp
-NOERROR	www.aa.tufs.ac.jp
-NOERROR	aa2611b.aa.tufs.ac.jp
-NXDOMAIN	iiss2020t.tufs.ac.jp
-NOERROR	coelearning.tufs.ac.jp
-NOERROR	campus2.tufs.ac.jp
-NXDOMAIN	kikaku.ipc.tufs.ac.jp
-NOERROR	bontok.aa.tufs.ac.jp
-NOERROR	www.coelang.tufs.ac.jp
-NXDOMAIN	radius3.tufs.ac.jp
-NXDOMAIN	ldap2.tufs.ac.jp
-NOERROR	cblle.tufs.ac.jp
-NXDOMAIN	www.websurvey.tufs.ac.jp
-NOERROR	ejapanology.tufs.ac.jp
-NOERROR	uidbs.tufs.ac.jp
-NXDOMAIN	admin-fap.admin.tufs.ac.jp
-NXDOMAIN	wwwz.tufs.ac.jp
-NXDOMAIN	dblins.c-dats.tufs.ac.jp
-NOERROR	irfan-lit.tufs.ac.jp
-NOERROR	tonolab.tufs.ac.jp
-NOERROR	webedu.tufs.ac.jp
-NXDOMAIN	tl-mng.tufs.ac.jp
+campus.tufs.ac.jp
+atr-call.tufs.ac.jp
+rlipc01.tufs.ac.jp
+ssh.tufs.ac.jp
+irc.aa.tufs.ac.jp
+www.el.tufs.ac.jp
+rcmail.tufs.ac.jp
+grpw.tufs.ac.jp
+star.aa.tufs.ac.jp
+mdle.tufs.ac.jp
+zaimu2.tufs.ac.jp
+lexicon.tufs.ac.jp
+coelang.tufs.ac.jp
+e-alumni.tufs.ac.jp
+coel.tufs.ac.jp
+opac.tufs.ac.jp
+aasnr22.aa.tufs.ac.jp
+rlicc37.tufs.ac.jp
+aa2616c.aa.tufs.ac.jp
+gakumu-web1.tufs.ac.jp
+iiss.tufs.ac.jp
+ml.tufs.ac.jp
+ftp.tufs.ac.jp
+imap.tufs.ac.jp
+dls03.tufs.ac.jp
+dls02.tufs.ac.jp
+cl.tufs.ac.jp
+www-lib.tufs.ac.jp
+coe.aa.tufs.ac.jp
+iccoam.tufs.ac.jp
+irc2010-server.aa.tufs.ac.jp
+jpnew.tufs.ac.jp
+jplang.tufs.ac.jp
+www.jplang.tufs.ac.jp
+itliteracy.tufs.ac.jp
+aa-core02.aa.tufs.ac.jp
+drosrp.aa.tufs.ac.jp
+it-lite.tufs.ac.jp
+el.tufs.ac.jp
+sano.tufs.ac.jp
+sanda.tufs.ac.jp
+mail.tufs.ac.jp
+xdatabox.tufs.ac.jp
+kashf-al-asrar.tufs.ac.jp
+aa.tufs.ac.jp
+dls01.tufs.ac.jp
+mail1.tufs.ac.jp
+inmulti.tufs.ac.jp
+mongol.tufs.ac.jp
+wp.tufs.ac.jp
+aa2613a.aa.tufs.ac.jp
+tufs.ac.jp
+tufsnat.tufs.ac.jp
+pop.tufs.ac.jp
+vernac.tufs.ac.jp
+jcs.aa.tufs.ac.jp
+iccstudy.tufs.ac.jp
+websurvey.tufs.ac.jp
+ngc2068.tufs.ac.jp
+plm.tufs.ac.jp
+rlipc08.tufs.ac.jp
+mailfilter.tufs.ac.jp
+repository.tufs.ac.jp
+ulipc01.tufs.ac.jp
+sapir.aa.tufs.ac.jp
+telnet.tufs.ac.jp
+otdo.aa.tufs.ac.jp
+aasnr23.aa.tufs.ac.jp
+mdle2.tufs.ac.jp
+www.tufs.ac.jp
+www.aa.tufs.ac.jp
+aa2611b.aa.tufs.ac.jp
+coelearning.tufs.ac.jp
+campus2.tufs.ac.jp
+bontok.aa.tufs.ac.jp
+www.coelang.tufs.ac.jp
+cblle.tufs.ac.jp
+ejapanology.tufs.ac.jp
+uidbs.tufs.ac.jp
+irfan-lit.tufs.ac.jp
+tonolab.tufs.ac.jp
+webedu.tufs.ac.jp

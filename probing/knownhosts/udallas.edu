@@ -1,131 +1,105 @@
-NXDOMAIN	www.guptacob.udallas.edu
-NOERROR	sandbox.udallas.edu
-NOERROR	udprint.udallas.edu
-NOERROR	gradadmis.udallas.edu
-NOERROR	mba.udallas.edu
-NOERROR	tw6.udallas.edu
-NOERROR	stats.udallas.edu
-NOERROR	cnvpn.udallas.edu
-NOERROR	remote.udallas.edu
-NOERROR	info.udallas.edu
-NXDOMAIN	gsmbr.udallas.edu
-NOERROR	hs005.udallas.edu
-NOERROR	hr.udallas.edu
-NOERROR	events.udallas.edu
-NOERROR	alumni.udallas.edu
-NOERROR	guptacob.udallas.edu
-NOERROR	vpnia.udallas.edu
-NOERROR	hs007.udallas.edu
-NXDOMAIN	ud-gateway.udallas.edu
-NXDOMAIN	cait.udallas.edu
-NOERROR	somadmis.udallas.edu
-NOERROR	video.udallas.edu
-NOERROR	www.artsofliberty.udallas.edu
-NOERROR	bannerweb-test.udallas.edu
-NOERROR	udallas.edu
-NOERROR	ariel.udallas.edu
-NOERROR	library.udallas.edu
-NOERROR	cpd.udallas.edu
-NXDOMAIN	udair2.udallas.edu
-NOERROR	cob.udallas.edu
-NXDOMAIN	www.ministry.udallas.edu
-NOERROR	artsofliberty.udallas.edu
-NOERROR	vpnportal.udallas.edu
-NOERROR	artgallery.udallas.edu
-NOERROR	business.udallas.edu
-NOERROR	www.info.udallas.edu
-NOERROR	catholicfaithandculture.udallas.edu
-NOERROR	cobres1.udallas.edu
-NOERROR	hs008.udallas.edu
-NOERROR	fast.udallas.edu
-NOERROR	bannermob.udallas.edu
-NOERROR	mywifi001.udallas.edu
-NOERROR	border-router.udallas.edu
-NOERROR	hs004.udallas.edu
-NOERROR	ssb-prod.ec.udallas.edu
-NOERROR	iopener.udallas.edu
-NOERROR	symphony.udallas.edu
-NOERROR	www.ncbi.nlm.nih.gov.dbproxy.udallas.edu
-NXDOMAIN	banweb.udallas.edu
-NXDOMAIN	cait1.udallas.edu
-NOERROR	cms.udallas.edu
-NOERROR	avaya.udallas.edu
-NOERROR	phys.udallas.edu
-NOERROR	papercut.udallas.edu
-NOERROR	news.udallas.edu
-NOERROR	tw1.udallas.edu
-NOERROR	bannerweb.udallas.edu
-NOERROR	nms.udallas.edu
-NOERROR	tw5.udallas.edu
-NXDOMAIN	blackboard.udallas.edu
-NOERROR	hs003.udallas.edu
-NOERROR	www.catholicfaithandculture.udallas.edu
-NXDOMAIN	gsmweb.udallas.edu
-NOERROR	tw3.udallas.edu
-NOERROR	dns2.udallas.edu
-NOERROR	hs010.udallas.edu
-NOERROR	go.info.udallas.edu
-NOERROR	www.dallasbusiness.udallas.edu
-NOERROR	corchallenge.udallas.edu
-NXDOMAIN	gsmmail.udallas.edu
-NXDOMAIN	aimsweb.udallas.edu
-NOERROR	dbproxy.udallas.edu
-NXDOMAIN	fermat.math.udallas.edu
-NOERROR	hsr.udallas.edu
-NOERROR	udradio.udallas.edu
-NOERROR	plannedgiving.udallas.edu
-NOERROR	hs006.udallas.edu
-NOERROR	blog.gupta.udallas.edu
-NOERROR	go.udallas.edu
-NXDOMAIN	adminnt.udallas.edu
-NOERROR	international.udallas.edu
-NOERROR	tw8.udallas.edu
-NOERROR	www.alumni.udallas.edu
-NOERROR	ais.udallas.edu
-NOERROR	link.springer.com.dbproxy.udallas.edu
-NOERROR	advancement.udallas.edu
-NOERROR	theforum.udallas.edu
-NOERROR	www.udallas.edu
-NOERROR	tw7.udallas.edu
-NOERROR	braniff.udallas.edu
-NXDOMAIN	www.futurehere.udallas.edu
-NOERROR	hs001.udallas.edu
-NOERROR	hs009.udallas.edu
-NXDOMAIN	udair1.udallas.edu
-NXDOMAIN	banweb8.udallas.edu
-NOERROR	dante.udallas.edu
-NOERROR	dns1.udallas.edu
-NOERROR	continuinged.udallas.edu
-NOERROR	studyaway.udallas.edu
-NOERROR	tw2.udallas.edu
-NOERROR	remote2.udallas.edu
-NXDOMAIN	www.mba.udallas.edu
-NOERROR	login.dbproxy.udallas.edu
-NOERROR	www.dbproxy.udallas.edu
-NOERROR	ssb-dev.ec.udallas.edu
-NOERROR	tw4.udallas.edu
-NOERROR	ugadmis.udallas.edu
-NOERROR	imba.udallas.edu
-NXDOMAIN	banweb7.udallas.edu
-NXDOMAIN	www.braniff.udallas.edu
-NXDOMAIN	cs00.math.udallas.edu
-NOERROR	k12classical.udallas.edu
-NXDOMAIN	gsm.udallas.edu
-NOERROR	banner.udallas.edu
-NOERROR	hs002.udallas.edu
-NOERROR	ext1.udallas.edu
-NOERROR	ministry.udallas.edu
-NOERROR	tw9.udallas.edu
-NOERROR	my.udallas.edu
-NOERROR	futurehere.udallas.edu
-NOERROR	udmc.udallas.edu
-NXDOMAIN	blackboard2.udallas.edu
-NOERROR	mail.udallas.edu
-NOERROR	digitalcommons.udallas.edu
-NOERROR	calendar.udallas.edu
-NOERROR	ec.udallas.edu
-NXDOMAIN	www.k12classical.udallas.edu
-NXDOMAIN	acad.udallas.edu
-NXDOMAIN	leibniz.math.udallas.edu
-NOERROR	leahbencivengo.apply.udallas.edu
-NOERROR	chem.udallas.edu
+sandbox.udallas.edu
+udprint.udallas.edu
+gradadmis.udallas.edu
+mba.udallas.edu
+tw6.udallas.edu
+stats.udallas.edu
+cnvpn.udallas.edu
+remote.udallas.edu
+info.udallas.edu
+hs005.udallas.edu
+hr.udallas.edu
+events.udallas.edu
+alumni.udallas.edu
+guptacob.udallas.edu
+vpnia.udallas.edu
+hs007.udallas.edu
+somadmis.udallas.edu
+video.udallas.edu
+www.artsofliberty.udallas.edu
+bannerweb-test.udallas.edu
+udallas.edu
+ariel.udallas.edu
+library.udallas.edu
+cpd.udallas.edu
+cob.udallas.edu
+artsofliberty.udallas.edu
+vpnportal.udallas.edu
+artgallery.udallas.edu
+business.udallas.edu
+www.info.udallas.edu
+catholicfaithandculture.udallas.edu
+cobres1.udallas.edu
+hs008.udallas.edu
+fast.udallas.edu
+bannermob.udallas.edu
+mywifi001.udallas.edu
+border-router.udallas.edu
+hs004.udallas.edu
+ssb-prod.ec.udallas.edu
+iopener.udallas.edu
+symphony.udallas.edu
+www.ncbi.nlm.nih.gov.dbproxy.udallas.edu
+cms.udallas.edu
+avaya.udallas.edu
+phys.udallas.edu
+papercut.udallas.edu
+news.udallas.edu
+tw1.udallas.edu
+bannerweb.udallas.edu
+nms.udallas.edu
+tw5.udallas.edu
+hs003.udallas.edu
+www.catholicfaithandculture.udallas.edu
+tw3.udallas.edu
+dns2.udallas.edu
+hs010.udallas.edu
+go.info.udallas.edu
+www.dallasbusiness.udallas.edu
+corchallenge.udallas.edu
+dbproxy.udallas.edu
+hsr.udallas.edu
+udradio.udallas.edu
+plannedgiving.udallas.edu
+hs006.udallas.edu
+blog.gupta.udallas.edu
+go.udallas.edu
+international.udallas.edu
+tw8.udallas.edu
+www.alumni.udallas.edu
+ais.udallas.edu
+link.springer.com.dbproxy.udallas.edu
+advancement.udallas.edu
+theforum.udallas.edu
+www.udallas.edu
+tw7.udallas.edu
+braniff.udallas.edu
+hs001.udallas.edu
+hs009.udallas.edu
+dante.udallas.edu
+dns1.udallas.edu
+continuinged.udallas.edu
+studyaway.udallas.edu
+tw2.udallas.edu
+remote2.udallas.edu
+login.dbproxy.udallas.edu
+www.dbproxy.udallas.edu
+ssb-dev.ec.udallas.edu
+tw4.udallas.edu
+ugadmis.udallas.edu
+imba.udallas.edu
+k12classical.udallas.edu
+banner.udallas.edu
+hs002.udallas.edu
+ext1.udallas.edu
+ministry.udallas.edu
+tw9.udallas.edu
+my.udallas.edu
+futurehere.udallas.edu
+udmc.udallas.edu
+mail.udallas.edu
+digitalcommons.udallas.edu
+calendar.udallas.edu
+ec.udallas.edu
+leahbencivengo.apply.udallas.edu
+chem.udallas.edu

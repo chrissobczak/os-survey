@@ -1,52 +1,29 @@
-NXDOMAIN	www.printers.dc3.edu
-NOERROR	as400.dc3.edu
-NOERROR	view.dc3.edu
-NOERROR	eq2.dc3.edu
-NOERROR	eq4.dc3.edu
-NXDOMAIN	www.web.dc3.edu
-NXDOMAIN	www.conqs.dc3.edu
-NOERROR	tcp.dc3.edu
-NXDOMAIN	www.view.dc3.edu
-NOERROR	rdp.dc3.edu
-NOERROR	j1web-test.dc3.edu
-NOERROR	legacy.dc3.edu
-NOERROR	www.dc3.edu
-NXDOMAIN	www.nac-1.dc3.edu
-NXDOMAIN	www.liquidfiles.dc3.edu
-NXDOMAIN	www.tcp.dc3.edu
-NXDOMAIN	www.eq3.dc3.edu
-NOERROR	online.dc3.edu
-NOERROR	alertus.dc3.edu
-NOERROR	barracuda.dc3.edu
-NOERROR	book.dc3.edu
-NOERROR	dc3.edu
-NOERROR	tccl.dc3.edu
-NXDOMAIN	www.j1web-test.dc3.edu
-NOERROR	conqs-test.dc3.edu
-NOERROR	pcoip1.dc3.edu
-NOERROR	cams.dc3.edu
-NOERROR	cam.dc3.edu
-NOERROR	eq1.dc3.edu
-NOERROR	autodiscover.dc3.edu
-NOERROR	rdsh.dc3.edu
-NOERROR	web.dc3.edu
-NOERROR	mail.dc3.edu
-NXDOMAIN	www.tccl.dc3.edu
-NXDOMAIN	cisco.dc3.edu
-NXDOMAIN	www.eq4.dc3.edu
-NOERROR	eq3.dc3.edu
-NXDOMAIN	www.conqs-test.dc3.edu
-NOERROR	j1web.dc3.edu
-NXDOMAIN	www.eq2.dc3.edu
-NOERROR	conqs.dc3.edu
-NXDOMAIN	www.rdp.dc3.edu
-NXDOMAIN	printers.dc3.edu
-NXDOMAIN	www.j1web.dc3.edu
-NOERROR	sky.dc3.edu
-NXDOMAIN	nac-1.dc3.edu
-NXDOMAIN	www.eq1.dc3.edu
-NXDOMAIN	www.sky.dc3.edu
-NXDOMAIN	www.cam.dc3.edu
-NXDOMAIN	www.pcoip1.dc3.edu
-NOERROR	liquidfiles.dc3.edu
-NXDOMAIN	www.rdsh.dc3.edu
+as400.dc3.edu
+view.dc3.edu
+eq2.dc3.edu
+eq4.dc3.edu
+tcp.dc3.edu
+rdp.dc3.edu
+j1web-test.dc3.edu
+legacy.dc3.edu
+www.dc3.edu
+online.dc3.edu
+alertus.dc3.edu
+barracuda.dc3.edu
+book.dc3.edu
+dc3.edu
+tccl.dc3.edu
+conqs-test.dc3.edu
+pcoip1.dc3.edu
+cams.dc3.edu
+cam.dc3.edu
+eq1.dc3.edu
+autodiscover.dc3.edu
+rdsh.dc3.edu
+web.dc3.edu
+mail.dc3.edu
+eq3.dc3.edu
+j1web.dc3.edu
+conqs.dc3.edu
+sky.dc3.edu
+liquidfiles.dc3.edu

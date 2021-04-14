@@ -1,81 +1,78 @@
-NOERROR	ftp.cila.iuo.it
-NOERROR	lifelongcommunity.iuo.it
-NOERROR	mail.iuo.it
-NOERROR	webmail.studenti.iuo.it
-NOERROR	moodlecdl.cila.iuo.it
-NOERROR	unior-ricerca.iuo.it
-NOERROR	modem.iuo.it
-NOERROR	www.iuo.it
-NOERROR	stats.webjournal.iuo.it
-NXDOMAIN	www.ripartizionetecnica.iuo.it
-NOERROR	anglistica.iuo.it
-NOERROR	www.mediterraneo.iuo.it
-NOERROR	www.docenti.iuo.it
-NOERROR	ecdl.iuo.it
-NOERROR	cecom.iuo.it
-NOERROR	mouvecila.cila.iuo.it
-NOERROR	www.actingarchives.iuo.it
-NOERROR	aulavirtuale.cila.iuo.it
-NOERROR	old.iuo.it
-NOERROR	docenti.iuo.it
-NOERROR	cilaintranet.cila.iuo.it
-NOERROR	aion.iuo.it
-NOERROR	www.translatingwoolf.iuo.it
-NOERROR	pop3.iuo.it
-NOERROR	www.modem.iuo.it
-NOERROR	mrtg.iuo.it
-NOERROR	cdl.iuo.it
-NOERROR	guida.iuo.it
-NOERROR	www.cila.iuo.it
-NOERROR	smtp2.studenti.iuo.it
-NOERROR	www.anglistica.iuo.it
-NOERROR	actingarchives.iuo.it
-NOERROR	posta.iuo.it
-NOERROR	poststudenti.studenti.iuo.it
-NOERROR	geosociale.iuo.it
-NOERROR	www.lz.iuo.it
-NXDOMAIN	ripartizionetecnica.iuo.it
-NOERROR	mouveuno.cila.iuo.it
-NOERROR	cta.iuo.it
-NOERROR	pop3.studenti.iuo.it
-NOERROR	cse.iuo.it
-NOERROR	www.sod.iuo.it
-NOERROR	torcoliere.iuo.it
-NOERROR	smtp2.iuo.it
-NOERROR	opar.iuo.it
-NOERROR	smtp.studenti.iuo.it
-NXDOMAIN	dns.iuo.it
-NOERROR	oasi.iuo.it
-NOERROR	cila.iuo.it
-NOERROR	proxy2.iuo.it
-NOERROR	iuo.it
-NOERROR	mouvelll.cila.iuo.it
-NOERROR	smtp.iuo.it
-NOERROR	sig2010.iuo.it
-NOERROR	radiorientale.iuo.it
-NOERROR	mediterraneo.iuo.it
-NOERROR	translatingwoolf.iuo.it
-NOERROR	ocpn.iuo.it
-NOERROR	webjournal.iuo.it
-NOERROR	linguelinguaggio.iuo.it
-NOERROR	www.openarchive.iuo.it
-NOERROR	smtp3.iuo.it
-NOERROR	www.lifelongcommunity.iuo.it
-NOERROR	www.webjournal.iuo.it
-NOERROR	www.geosociale.iuo.it
-NOERROR	stats.iuo.it
-NOERROR	magazine.iuo.it
-NOERROR	www.cse.iuo.it
-NOERROR	opac.iuo.it
-NOERROR	magazine2.iuo.it
-NOERROR	www.confucio.iuo.it
-NOERROR	openarchive.iuo.it
-NOERROR	www2.iuo.it
-NOERROR	smtp1.studenti.iuo.it
-NOERROR	www.ecdl.iuo.it
-NOERROR	opacol.iuo.it
-NOERROR	demo2.iuo.it
-NOERROR	ftp.iuo.it
-NOERROR	statistiche.iuo.it
-NOERROR	sod.iuo.it
-NOERROR	www.radiorientale.iuo.it
+ftp.cila.iuo.it
+lifelongcommunity.iuo.it
+mail.iuo.it
+webmail.studenti.iuo.it
+moodlecdl.cila.iuo.it
+unior-ricerca.iuo.it
+modem.iuo.it
+www.iuo.it
+stats.webjournal.iuo.it
+anglistica.iuo.it
+www.mediterraneo.iuo.it
+www.docenti.iuo.it
+ecdl.iuo.it
+cecom.iuo.it
+mouvecila.cila.iuo.it
+www.actingarchives.iuo.it
+aulavirtuale.cila.iuo.it
+old.iuo.it
+docenti.iuo.it
+cilaintranet.cila.iuo.it
+aion.iuo.it
+www.translatingwoolf.iuo.it
+pop3.iuo.it
+www.modem.iuo.it
+mrtg.iuo.it
+cdl.iuo.it
+guida.iuo.it
+www.cila.iuo.it
+smtp2.studenti.iuo.it
+www.anglistica.iuo.it
+actingarchives.iuo.it
+posta.iuo.it
+poststudenti.studenti.iuo.it
+geosociale.iuo.it
+www.lz.iuo.it
+mouveuno.cila.iuo.it
+cta.iuo.it
+pop3.studenti.iuo.it
+cse.iuo.it
+www.sod.iuo.it
+torcoliere.iuo.it
+smtp2.iuo.it
+opar.iuo.it
+smtp.studenti.iuo.it
+oasi.iuo.it
+cila.iuo.it
+proxy2.iuo.it
+iuo.it
+mouvelll.cila.iuo.it
+smtp.iuo.it
+sig2010.iuo.it
+radiorientale.iuo.it
+mediterraneo.iuo.it
+translatingwoolf.iuo.it
+ocpn.iuo.it
+webjournal.iuo.it
+linguelinguaggio.iuo.it
+www.openarchive.iuo.it
+smtp3.iuo.it
+www.lifelongcommunity.iuo.it
+www.webjournal.iuo.it
+www.geosociale.iuo.it
+stats.iuo.it
+magazine.iuo.it
+www.cse.iuo.it
+opac.iuo.it
+magazine2.iuo.it
+www.confucio.iuo.it
+openarchive.iuo.it
+www2.iuo.it
+smtp1.studenti.iuo.it
+www.ecdl.iuo.it
+opacol.iuo.it
+demo2.iuo.it
+ftp.iuo.it
+statistiche.iuo.it
+sod.iuo.it
+www.radiorientale.iuo.it

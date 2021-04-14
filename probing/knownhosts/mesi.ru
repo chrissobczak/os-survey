@@ -1,325 +1,307 @@
-NOERROR	ci.lab.mesi.ru
-NOERROR	kalmikia_new.mesi.ru
-NOERROR	sipinternal.mesi.ru
-NOERROR	connect.mesi.ru
-NOERROR	lookin.mesi.ru
-NXDOMAIN	ex-gamma.mesi.ru
-NOERROR	lms-dev.mesi.ru
-NOERROR	docsvision.mesi.ru
-NOERROR	cz.mesi.ru
-NOERROR	mesi.ru
-NXDOMAIN	comp.mesi.ru
-NOERROR	krasnoyarsk.mesi.ru
-NOERROR	kalmikia.mesi.ru
-NOERROR	sp.tver.mesi.ru
-NOERROR	www.dovuz.mesi.ru
-NXDOMAIN	ns0.mesi.ru
-NOERROR	yerevan.mesi.ru
-NXDOMAIN	www.1c.mesi.ru
-NOERROR	samara.mesi.ru
-NXDOMAIN	conference.conf.mesi.ru
-NOERROR	lab.mesi.ru
-NOERROR	pivso.mesi.ru
-NOERROR	noval.mesi.ru
-NOERROR	www.altai.mesi.ru
-NOERROR	www.magnitogorsk.mesi.ru
-NOERROR	moitp2.mesi.ru
-NOERROR	korneev.lab.mesi.ru
-NOERROR	aris.mesi.ru
-NOERROR	sharepoint.mesi.ru
-NOERROR	books.mesi.ru
-NOERROR	airport.mesi.ru
-NOERROR	www.u-kamenogorsk.mesi.ru
-NOERROR	connect-edge1.mesi.ru
-NOERROR	mx0.mesi.ru
-NOERROR	brs.mesi.ru
-NOERROR	7_hills.mesi.ru
-NOERROR	admin.pay.mesi.ru
-NXDOMAIN	ex10-edge01.mesi.ru
-NOERROR	project.it.mesi.ru
-NOERROR	student.tver.mesi.ru
-NOERROR	asirenko-server.mesi.ru
-NOERROR	post2.mesi.ru
-NXDOMAIN	stat.comp.mesi.ru
-NOERROR	qms.mesi.ru
-NOERROR	www.kaliningrad.mesi.ru
-NOERROR	nsa.mesi.ru
-NOERROR	elab.mesi.ru
-NOERROR	study.mesi.ru
-NOERROR	www.kemerovo.mesi.ru
-NOERROR	riga.mesi.ru
-NOERROR	derbent_new.mesi.ru
-NOERROR	forum.cz.mesi.ru
-NOERROR	lync13-fe-ext.mesi.ru
-NOERROR	e-note.lab.mesi.ru
-NOERROR	www.ibc.mesi.ru
-SERVFAIL	elms2010-01.msk.mesi.ru
-NOERROR	test8.mesi.ru
-NOERROR	www.alumni.mesi.ru
-NOERROR	www.ipgo.mesi.ru
-NOERROR	www.elab.mesi.ru
-NOERROR	cennosti.mesi.ru
-NOERROR	ica.mesi.ru
-NOERROR	info.mesi.ru
-NOERROR	eekm.mesi.ru
-NOERROR	sitos.mesi.ru
-NOERROR	nsb.mesi.ru
-NOERROR	www.lib.college.mesi.ru
-NOERROR	za.mesi.ru
-NOERROR	kf.mesi.ru
-NOERROR	www.nauka.mesi.ru
-NOERROR	e-school.mesi.ru
-NOERROR	cpk.mesi.ru
-NOERROR	dean.mesi.ru
-NXDOMAIN	irbis.dist.mesi.ru
-NOERROR	widgets.mesi.ru
-NOERROR	test11.mesi.ru
-NOERROR	cls.mesi.ru
-NOERROR	sp.ano-college.mesi.ru
-NOERROR	www.campus.mesi.ru
-NOERROR	umo.mesi.ru
-NOERROR	clicktomeet.mesi.ru
-NOERROR	dekanat.mesi.ru
-NOERROR	www.ipd.mesi.ru
-NOERROR	campus.mesi.ru
-NOERROR	1c-dekanat.mesi.ru
-NOERROR	biblio.lab.mesi.ru
-NOERROR	www.yaroslavl.mesi.ru
-NOERROR	www.av.mesi.ru
-NOERROR	ano-college.mesi.ru
-NOERROR	owa.mesi.ru
-NOERROR	nirs.mesi.ru
-NOERROR	nnov.mesi.ru
-NOERROR	subsidy.mesi.ru
-NOERROR	lync-av.mesi.ru
-NOERROR	kaliningrad.mesi.ru
-NOERROR	lync13.mesi.ru
-NOERROR	www.ikt.mesi.ru
-NOERROR	www.moodle.mesi.ru
-NOERROR	study-old.mesi.ru
-NOERROR	www.ipp.mesi.ru
-NOERROR	fizra.mesi.ru
-NOERROR	www.cz.mesi.ru
-NXDOMAIN	lync-fe-ext.mesi.ru.mesi.ru
-NOERROR	www.diss.mesi.ru
-NOERROR	ryazan_new.mesi.ru
-NOERROR	tver.mesi.ru
-NOERROR	masters.mesi.ru
-NOERROR	www.75.mesi.ru
-NOERROR	sp2013.mesi.ru
-NOERROR	www.riga.mesi.ru
-NOERROR	www.buryatia.mesi.ru
-NXDOMAIN	mail.tver.mesi.ru
-NOERROR	rea.mesi.ru
-NOERROR	inter.mesi.ru
-NOERROR	app.e-note.lab.mesi.ru
-NOERROR	devbrs.mesi.ru
-NOERROR	cibso.mesi.ru
-NOERROR	www.meo.mesi.ru
-NOERROR	smart-edu.mesi.ru
-NOERROR	pushkin.lab.mesi.ru
-NOERROR	www.ryazan.mesi.ru
-NOERROR	penza.mesi.ru
-NOERROR	prometeus.mesi.ru
-NOERROR	test1.mesi.ru
-NOERROR	vpo.pk.mesi.ru
-NOERROR	test2.mesi.ru
-NOERROR	dmk201.semir.mesi.ru
-NXDOMAIN	ex2003.mesi.ru
-NOERROR	moodle.mesi.ru
-NOERROR	www.e-school.mesi.ru
-NOERROR	www.moitp3.mesi.ru
-NOERROR	www.congress.mesi.ru
-NOERROR	zbx.lab.mesi.ru
-NOERROR	q-conf.mesi.ru
-NXDOMAIN	www.fmr.mesi.ru
-NOERROR	udmurtia.mesi.ru
-NOERROR	www.moitp.mesi.ru
-NOERROR	www.astrahan.mesi.ru
-NOERROR	fs00.lab.mesi.ru
-NOERROR	mamok.mesi.ru
-NXDOMAIN	dev.dist.mesi.ru
-NOERROR	www.ocw.mesi.ru
-NOERROR	inf.mesi.ru
-NOERROR	kemerovo.mesi.ru
-NOERROR	75.mesi.ru
-NOERROR	forum.college.mesi.ru
-NOERROR	www.mesi.ru
-NOERROR	study.magistr.mesi.ru
-NOERROR	bpr.mesi.ru
-NOERROR	anketa.mesi.ru
-NOERROR	rnp.mesi.ru
-NOERROR	www.conf.college.mesi.ru
-NOERROR	private.mesi.ru
-NOERROR	kaluga.mesi.ru
-NOERROR	solomon.mesi.ru
-NOERROR	www.smolensk.mesi.ru
-NOERROR	sp.mesi.ru
-NOERROR	minsk.mesi.ru
-NOERROR	ipb.rk.mesi.ru
-NOERROR	isptest.mesi.ru
-NOERROR	www.tver.mesi.ru
-NOERROR	www.forum.cz.mesi.ru
-NOERROR	www.design.mesi.ru
-NOERROR	college.mesi.ru
-NOERROR	test7.mesi.ru
-NOERROR	pre.mesi.ru
-NOERROR	smolensk.mesi.ru
-NOERROR	studsovet.mesi.ru
-NOERROR	ryazan.mesi.ru
-NOERROR	log.it.mesi.ru
-NOERROR	www.krasnoyarsk.mesi.ru
-NOERROR	www.bpr.mesi.ru
-NOERROR	ex.mesi.ru
-NOERROR	work.mesi.ru
-NOERROR	edu.mesi.ru
-NOERROR	connect-study.mesi.ru
-NOERROR	krasnoyarsk_new.mesi.ru
-NOERROR	forum.mesi.ru
-NOERROR	comm.mesi.ru
-NOERROR	study.college.mesi.ru
-NOERROR	elearn.mesi.ru
-NXDOMAIN	edir.mesi.ru
-NOERROR	ex10-gamma.mesi.ru
-NOERROR	magnitogorsk.mesi.ru
-NOERROR	www.udmurtia.mesi.ru
-NOERROR	www.fin.mesi.ru
-NOERROR	ois.mesi.ru
-NOERROR	kon.mesi.ru
-NOERROR	test6.mesi.ru
-NOERROR	www.magistr.mesi.ru
-NOERROR	sts.mesi.ru
-NOERROR	eng.mesi.ru
-NOERROR	conf.college.mesi.ru
-NOERROR	www.umo.mesi.ru
-NOERROR	learnexact.mesi.ru
-NOERROR	upo.mesi.ru
-NOERROR	lync.mesi.ru
-NOERROR	confedu.mesi.ru
-NOERROR	media.mesi.ru
-NOERROR	pnz.mesi.ru
-NOERROR	gallery.mesi.ru
-NOERROR	lms.mesi.ru
-NOERROR	khakassiya.mesi.ru
-NOERROR	ikt.mesi.ru
-NOERROR	sap.mesi.ru
-NOERROR	altai.mesi.ru
-NOERROR	etutor.mesi.ru
-NOERROR	lyncdiscover.mesi.ru
-NOERROR	rm.lab.mesi.ru
-NOERROR	map.mesi.ru
-NOERROR	www.kon.mesi.ru
-NOERROR	pi2007.mesi.ru
-NOERROR	www.eng.mesi.ru
-NOERROR	web.mesi.ru
-NOERROR	magistr.mesi.ru
-NOERROR	astrahan.mesi.ru
-NOERROR	rds.mesi.ru
-NOERROR	www.cpk.mesi.ru
-NOERROR	www.aspir.mesi.ru
-NOERROR	www.nn.mesi.ru
-NXDOMAIN	elsitos.mesi.ru
-NOERROR	www.aspir-community.mesi.ru
-NOERROR	ecampus.mesi.ru
-NOERROR	subs2012.mesi.ru
-NOERROR	www.khakassiya.mesi.ru
-NOERROR	hr.mesi.ru
-NOERROR	dovuz.mesi.ru
-NOERROR	webmath.mesi.ru
-NOERROR	moitp.mesi.ru
-NOERROR	elstal.mesi.ru
-NOERROR	jobrea.lab.mesi.ru
-NOERROR	arh.mesi.ru
-NOERROR	it.tver.mesi.ru
-NOERROR	www.penza.mesi.ru
-NOERROR	belgorod.mesi.ru
-NOERROR	grants.mesi.ru
-NOERROR	www.yerevan.mesi.ru
-NOERROR	biblio.mesi.ru
-NOERROR	perm.mesi.ru
-NOERROR	www.biblio.mesi.ru
-NOERROR	www.avtonom.mesi.ru
-NOERROR	git.lab.mesi.ru
-NOERROR	www.bitclub.mesi.ru
-NOERROR	connect2.mesi.ru
-NOERROR	ts.mesi.ru
-NOERROR	files.lab.mesi.ru
-NOERROR	diss.mesi.ru
-NOERROR	www.mgtu.mesi.ru
-NOERROR	lib.college.mesi.ru
-NOERROR	rosstat.mesi.ru
-NOERROR	www.info.mesi.ru
-NOERROR	lync-webconf.mesi.ru
-NOERROR	abc.mesi.ru
-NOERROR	www.bryansk.mesi.ru
-NOERROR	smart.mesi.ru
-NOERROR	irbis.mesi.ru
-NOERROR	test3.mesi.ru
-NOERROR	schedule.mesi.ru
-NOERROR	std.mesi.ru
-NOERROR	www.kf.mesi.ru
-NOERROR	alumni.mesi.ru
-NOERROR	test10.mesi.ru
-NOERROR	pay.mesi.ru
-NOERROR	ibc.mesi.ru
-NOERROR	aspir.mesi.ru
-NOERROR	pf.mesi.ru
-NOERROR	www.iet.mesi.ru
-NOERROR	www.mamok.mesi.ru
-NOERROR	www.belgorod.mesi.ru
-NOERROR	www.sitos.mesi.ru
-NOERROR	elista.mesi.ru
-NOERROR	test5.mesi.ru
-NOERROR	moscow.lab.mesi.ru
-NOERROR	test9.mesi.ru
-NOERROR	www.docsvision.mesi.ru
-NOERROR	meet.mesi.ru
-NOERROR	www.pf.mesi.ru
-NOERROR	borisova.mesi.ru
-NOERROR	aspir-community.mesi.ru
-NOERROR	profkom.mesi.ru
-NOERROR	www.derbent.mesi.ru
-NOERROR	semir.mesi.ru
-NOERROR	lync13-av.mesi.ru
-NOERROR	magnitka.mesi.ru
-NOERROR	u-kamenogorsk.mesi.ru
-NOERROR	mail.mesi.ru
-NOERROR	www.perm.mesi.ru
-NOERROR	ocw.mesi.ru
-NOERROR	www.im.mesi.ru
-NOERROR	ipgo.mesi.ru
-NOERROR	post.mesi.ru
-NOERROR	ts-study.mesi.ru
-NOERROR	www.nnov.mesi.ru
-NOERROR	www.arh.mesi.ru
-NOERROR	www.minsk.mesi.ru
-NOERROR	itterm.mesi.ru
-NOERROR	yaroslavl.mesi.ru
-NOERROR	www.ano-college.mesi.ru
-NOERROR	mincom-subsidy.mesi.ru
-NOERROR	www.rk.mesi.ru
-NOERROR	avtonom.mesi.ru
-NOERROR	www.college.mesi.ru
-NOERROR	russian.mesi.ru
-NOERROR	omsf.mesi.ru
-NOERROR	mon.lab.mesi.ru
-NOERROR	it.mesi.ru
-NOERROR	lync13-webconf.mesi.ru
-NOERROR	www.q-conf.mesi.ru
-NOERROR	derbent.mesi.ru
-NOERROR	mx.mesi.ru
-NOERROR	nn.mesi.ru
-NOERROR	www.derbent_new.mesi.ru
-NOERROR	bryansk.mesi.ru
-NOERROR	elms2010.mesi.ru
-NOERROR	dist.mesi.ru
-NOERROR	proj.mesi.ru
-NXDOMAIN	staff.mesi.ru
-NOERROR	sc.lab.mesi.ru
-NOERROR	edge.webinar.mesi.ru
-NOERROR	webinar.mesi.ru
-NXDOMAIN	market.mesi.ru
-NOERROR	mba.mesi.ru
-NOERROR	online.mesi.ru
-NOERROR	buryatia.mesi.ru
-NOERROR	test-subsidy.mesi.ru
+ci.lab.mesi.ru
+kalmikia_new.mesi.ru
+sipinternal.mesi.ru
+connect.mesi.ru
+lookin.mesi.ru
+lms-dev.mesi.ru
+docsvision.mesi.ru
+cz.mesi.ru
+mesi.ru
+krasnoyarsk.mesi.ru
+kalmikia.mesi.ru
+sp.tver.mesi.ru
+www.dovuz.mesi.ru
+yerevan.mesi.ru
+samara.mesi.ru
+lab.mesi.ru
+pivso.mesi.ru
+noval.mesi.ru
+www.altai.mesi.ru
+www.magnitogorsk.mesi.ru
+moitp2.mesi.ru
+korneev.lab.mesi.ru
+aris.mesi.ru
+sharepoint.mesi.ru
+books.mesi.ru
+airport.mesi.ru
+www.u-kamenogorsk.mesi.ru
+connect-edge1.mesi.ru
+mx0.mesi.ru
+brs.mesi.ru
+7_hills.mesi.ru
+admin.pay.mesi.ru
+project.it.mesi.ru
+student.tver.mesi.ru
+asirenko-server.mesi.ru
+post2.mesi.ru
+qms.mesi.ru
+www.kaliningrad.mesi.ru
+nsa.mesi.ru
+elab.mesi.ru
+study.mesi.ru
+www.kemerovo.mesi.ru
+riga.mesi.ru
+derbent_new.mesi.ru
+forum.cz.mesi.ru
+lync13-fe-ext.mesi.ru
+e-note.lab.mesi.ru
+www.ibc.mesi.ru
+test8.mesi.ru
+www.alumni.mesi.ru
+www.ipgo.mesi.ru
+www.elab.mesi.ru
+cennosti.mesi.ru
+ica.mesi.ru
+info.mesi.ru
+eekm.mesi.ru
+sitos.mesi.ru
+nsb.mesi.ru
+www.lib.college.mesi.ru
+za.mesi.ru
+kf.mesi.ru
+www.nauka.mesi.ru
+e-school.mesi.ru
+cpk.mesi.ru
+dean.mesi.ru
+widgets.mesi.ru
+test11.mesi.ru
+cls.mesi.ru
+sp.ano-college.mesi.ru
+www.campus.mesi.ru
+umo.mesi.ru
+clicktomeet.mesi.ru
+dekanat.mesi.ru
+www.ipd.mesi.ru
+campus.mesi.ru
+1c-dekanat.mesi.ru
+biblio.lab.mesi.ru
+www.yaroslavl.mesi.ru
+www.av.mesi.ru
+ano-college.mesi.ru
+owa.mesi.ru
+nirs.mesi.ru
+nnov.mesi.ru
+subsidy.mesi.ru
+lync-av.mesi.ru
+kaliningrad.mesi.ru
+lync13.mesi.ru
+www.ikt.mesi.ru
+www.moodle.mesi.ru
+study-old.mesi.ru
+www.ipp.mesi.ru
+fizra.mesi.ru
+www.cz.mesi.ru
+www.diss.mesi.ru
+ryazan_new.mesi.ru
+tver.mesi.ru
+masters.mesi.ru
+www.75.mesi.ru
+sp2013.mesi.ru
+www.riga.mesi.ru
+www.buryatia.mesi.ru
+rea.mesi.ru
+inter.mesi.ru
+app.e-note.lab.mesi.ru
+devbrs.mesi.ru
+cibso.mesi.ru
+www.meo.mesi.ru
+smart-edu.mesi.ru
+pushkin.lab.mesi.ru
+www.ryazan.mesi.ru
+penza.mesi.ru
+prometeus.mesi.ru
+test1.mesi.ru
+vpo.pk.mesi.ru
+test2.mesi.ru
+dmk201.semir.mesi.ru
+moodle.mesi.ru
+www.e-school.mesi.ru
+www.moitp3.mesi.ru
+www.congress.mesi.ru
+zbx.lab.mesi.ru
+q-conf.mesi.ru
+udmurtia.mesi.ru
+www.moitp.mesi.ru
+www.astrahan.mesi.ru
+fs00.lab.mesi.ru
+mamok.mesi.ru
+www.ocw.mesi.ru
+inf.mesi.ru
+kemerovo.mesi.ru
+75.mesi.ru
+forum.college.mesi.ru
+www.mesi.ru
+study.magistr.mesi.ru
+bpr.mesi.ru
+anketa.mesi.ru
+rnp.mesi.ru
+www.conf.college.mesi.ru
+private.mesi.ru
+kaluga.mesi.ru
+solomon.mesi.ru
+www.smolensk.mesi.ru
+sp.mesi.ru
+minsk.mesi.ru
+ipb.rk.mesi.ru
+isptest.mesi.ru
+www.tver.mesi.ru
+www.forum.cz.mesi.ru
+www.design.mesi.ru
+college.mesi.ru
+test7.mesi.ru
+pre.mesi.ru
+smolensk.mesi.ru
+studsovet.mesi.ru
+ryazan.mesi.ru
+log.it.mesi.ru
+www.krasnoyarsk.mesi.ru
+www.bpr.mesi.ru
+ex.mesi.ru
+work.mesi.ru
+edu.mesi.ru
+connect-study.mesi.ru
+krasnoyarsk_new.mesi.ru
+forum.mesi.ru
+comm.mesi.ru
+study.college.mesi.ru
+elearn.mesi.ru
+ex10-gamma.mesi.ru
+magnitogorsk.mesi.ru
+www.udmurtia.mesi.ru
+www.fin.mesi.ru
+ois.mesi.ru
+kon.mesi.ru
+test6.mesi.ru
+www.magistr.mesi.ru
+sts.mesi.ru
+eng.mesi.ru
+conf.college.mesi.ru
+www.umo.mesi.ru
+learnexact.mesi.ru
+upo.mesi.ru
+lync.mesi.ru
+confedu.mesi.ru
+media.mesi.ru
+pnz.mesi.ru
+gallery.mesi.ru
+lms.mesi.ru
+khakassiya.mesi.ru
+ikt.mesi.ru
+sap.mesi.ru
+altai.mesi.ru
+etutor.mesi.ru
+lyncdiscover.mesi.ru
+rm.lab.mesi.ru
+map.mesi.ru
+www.kon.mesi.ru
+pi2007.mesi.ru
+www.eng.mesi.ru
+web.mesi.ru
+magistr.mesi.ru
+astrahan.mesi.ru
+rds.mesi.ru
+www.cpk.mesi.ru
+www.aspir.mesi.ru
+www.nn.mesi.ru
+www.aspir-community.mesi.ru
+ecampus.mesi.ru
+subs2012.mesi.ru
+www.khakassiya.mesi.ru
+hr.mesi.ru
+dovuz.mesi.ru
+webmath.mesi.ru
+moitp.mesi.ru
+elstal.mesi.ru
+jobrea.lab.mesi.ru
+arh.mesi.ru
+it.tver.mesi.ru
+www.penza.mesi.ru
+belgorod.mesi.ru
+grants.mesi.ru
+www.yerevan.mesi.ru
+biblio.mesi.ru
+perm.mesi.ru
+www.biblio.mesi.ru
+www.avtonom.mesi.ru
+git.lab.mesi.ru
+www.bitclub.mesi.ru
+connect2.mesi.ru
+ts.mesi.ru
+files.lab.mesi.ru
+diss.mesi.ru
+www.mgtu.mesi.ru
+lib.college.mesi.ru
+rosstat.mesi.ru
+www.info.mesi.ru
+lync-webconf.mesi.ru
+abc.mesi.ru
+www.bryansk.mesi.ru
+smart.mesi.ru
+irbis.mesi.ru
+test3.mesi.ru
+schedule.mesi.ru
+std.mesi.ru
+www.kf.mesi.ru
+alumni.mesi.ru
+test10.mesi.ru
+pay.mesi.ru
+ibc.mesi.ru
+aspir.mesi.ru
+pf.mesi.ru
+www.iet.mesi.ru
+www.mamok.mesi.ru
+www.belgorod.mesi.ru
+www.sitos.mesi.ru
+elista.mesi.ru
+test5.mesi.ru
+moscow.lab.mesi.ru
+test9.mesi.ru
+www.docsvision.mesi.ru
+meet.mesi.ru
+www.pf.mesi.ru
+borisova.mesi.ru
+aspir-community.mesi.ru
+profkom.mesi.ru
+www.derbent.mesi.ru
+semir.mesi.ru
+lync13-av.mesi.ru
+magnitka.mesi.ru
+u-kamenogorsk.mesi.ru
+mail.mesi.ru
+www.perm.mesi.ru
+ocw.mesi.ru
+www.im.mesi.ru
+ipgo.mesi.ru
+post.mesi.ru
+ts-study.mesi.ru
+www.nnov.mesi.ru
+www.arh.mesi.ru
+www.minsk.mesi.ru
+itterm.mesi.ru
+yaroslavl.mesi.ru
+www.ano-college.mesi.ru
+mincom-subsidy.mesi.ru
+www.rk.mesi.ru
+avtonom.mesi.ru
+www.college.mesi.ru
+russian.mesi.ru
+omsf.mesi.ru
+mon.lab.mesi.ru
+it.mesi.ru
+lync13-webconf.mesi.ru
+www.q-conf.mesi.ru
+derbent.mesi.ru
+mx.mesi.ru
+nn.mesi.ru
+www.derbent_new.mesi.ru
+bryansk.mesi.ru
+elms2010.mesi.ru
+dist.mesi.ru
+proj.mesi.ru
+sc.lab.mesi.ru
+edge.webinar.mesi.ru
+webinar.mesi.ru
+mba.mesi.ru
+online.mesi.ru
+buryatia.mesi.ru
+test-subsidy.mesi.ru

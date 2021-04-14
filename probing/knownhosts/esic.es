@@ -1,65 +1,62 @@
-NOERROR	server.esic.es
-NOERROR	psdv.esic.es
-NOERROR	gmg.esic.es
-NOERROR	bmg.esic.es
-NOERROR	knowledge.esic.es
-NOERROR	ecmd.esic.es
-NOERROR	ww.esic.es
-NOERROR	www.alumni.esic.es
-NOERROR	aster.esic.es
-NOERROR	www.universitaria.esic.es
-NOERROR	mail.esic.es
-NOERROR	www.bmkg.esic.es
-NOERROR	adresearch.esic.es
-SERVFAIL	absys.esic.es
-NOERROR	www.mba.esic.es
-NOERROR	experience.esic.es
-NOERROR	webmaster.esic.es
-NOERROR	ebay.meetlavozdegalicia.meetic.esic.es
-NOERROR	esic.es
-NOERROR	www.gesco.esic.es
-NOERROR	www.mkgame.esic.es
-NOERROR	ws.esic.es
-NOERROR	documentos.esic.es
-NOERROR	w3.esic.es
-NOERROR	www.aster.esic.es
-NOERROR	www.postgrado.esic.es
-NOERROR	www.pmk.esic.es
-NOERROR	mba.esic.es
-NOERROR	www.pscllr.esic.es
-NOERROR	pmk.esic.es
-NOERROR	idiomas.esic.es
-SERVFAIL	www.meet.esic.es
-SERVFAIL	www.editorial.esic.es
-NOERROR	biblioteca.esic.es
-NOERROR	desafio.esic.es
-NOERROR	executive.esic.es
-NOERROR	wwww.esic.es
-NOERROR	alumni.esic.es
-NOERROR	campuslife.esic.es
-NOERROR	doc.esic.es
-NOERROR	www.idiomas.esic.es
-NOERROR	www.esic.es
-NOERROR	www.psdv.esic.es
-NOERROR	www.biblioteca.esic.es
-NOERROR	scj.esic.es
-NOERROR	editorial.esic.es
-NOERROR	www.executive.esic.es
-NOERROR	hoyesmarketing.esic.es
-NOERROR	eaula.esic.es
-NOERROR	csmi.esic.es
-NOERROR	www.gmkg.esic.es
-NOERROR	eriete.esic.es
-NOERROR	universitaria.esic.es
-NOERROR	gate.esic.es
-NOERROR	www.psdg.esic.es
-NOERROR	www.summer.esic.es
-NOERROR	summer.esic.es
-NOERROR	www.scj.esic.es
-NOERROR	www.desafio.esic.es
-NOERROR	www.editoral.esic.es
-NOERROR	www.promocion.esic.es
-NOERROR	www.phd.esic.es
-NOERROR	www.csmi.esic.es
-NOERROR	mkgame.esic.es
-NOERROR	www.esicmarket.esic.es
+server.esic.es
+psdv.esic.es
+gmg.esic.es
+bmg.esic.es
+knowledge.esic.es
+ecmd.esic.es
+ww.esic.es
+www.alumni.esic.es
+aster.esic.es
+www.universitaria.esic.es
+mail.esic.es
+www.bmkg.esic.es
+adresearch.esic.es
+www.mba.esic.es
+experience.esic.es
+webmaster.esic.es
+ebay.meetlavozdegalicia.meetic.esic.es
+esic.es
+www.gesco.esic.es
+www.mkgame.esic.es
+ws.esic.es
+documentos.esic.es
+w3.esic.es
+www.aster.esic.es
+www.postgrado.esic.es
+www.pmk.esic.es
+mba.esic.es
+www.pscllr.esic.es
+pmk.esic.es
+idiomas.esic.es
+biblioteca.esic.es
+desafio.esic.es
+executive.esic.es
+wwww.esic.es
+alumni.esic.es
+campuslife.esic.es
+doc.esic.es
+www.idiomas.esic.es
+www.esic.es
+www.psdv.esic.es
+www.biblioteca.esic.es
+scj.esic.es
+editorial.esic.es
+www.executive.esic.es
+hoyesmarketing.esic.es
+eaula.esic.es
+csmi.esic.es
+www.gmkg.esic.es
+eriete.esic.es
+universitaria.esic.es
+gate.esic.es
+www.psdg.esic.es
+www.summer.esic.es
+summer.esic.es
+www.scj.esic.es
+www.desafio.esic.es
+www.editoral.esic.es
+www.promocion.esic.es
+www.phd.esic.es
+www.csmi.esic.es
+mkgame.esic.es
+www.esicmarket.esic.es

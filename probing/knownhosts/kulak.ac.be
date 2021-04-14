@@ -1,32 +1,13 @@
-NOERROR	ns2.kulak.ac.be
-NOERROR	ns.kulak.ac.be
-NOERROR	moodle-itec.kulak.ac.be
-NXDOMAIN	hagar.kulak.ac.be
-NXDOMAIN	bibserv.kulak.ac.be
-NXDOMAIN	svn.kulak.ac.be
-NXDOMAIN	gtmtserver.kulak.ac.be
-NOERROR	terra.kulak.ac.be
-NOERROR	fin.kulak.ac.be
-NOERROR	my.kulak.ac.be
-NXDOMAIN	ntimpuls.kulak.ac.be
-NXDOMAIN	toledo.kulak.ac.be
-NXDOMAIN	hagar3.kulak.ac.be
-NXDOMAIN	wiki.kulak.ac.be
-NOERROR	pop.kulak.ac.be
-NXDOMAIN	student.kulak.ac.be
-NXDOMAIN	bb.kulak.ac.be
-NXDOMAIN	intra.student.kulak.ac.be
-NOERROR	kulak.ac.be
-NXDOMAIN	www.ou.kulak.ac.be
-NOERROR	info.kulak.ac.be
-NXDOMAIN	album.kulak.ac.be
-NXDOMAIN	impuls.kulak.ac.be
-NXDOMAIN	studforum.kulak.ac.be
-NOERROR	pcsup.kulak.ac.be
-NXDOMAIN	www.student.kulak.ac.be
-NOERROR	www.pav.kulak.ac.be
-NXDOMAIN	media.kulak.ac.be
-NXDOMAIN	webmail.kulak.ac.be
-NOERROR	www.kulak.ac.be
-NOERROR	imap.kulak.ac.be
-NXDOMAIN	odeon.kulak.ac.be
+ns2.kulak.ac.be
+ns.kulak.ac.be
+moodle-itec.kulak.ac.be
+terra.kulak.ac.be
+fin.kulak.ac.be
+my.kulak.ac.be
+pop.kulak.ac.be
+kulak.ac.be
+info.kulak.ac.be
+pcsup.kulak.ac.be
+www.pav.kulak.ac.be
+www.kulak.ac.be
+imap.kulak.ac.be

@@ -1,48 +1,29 @@
-NOERROR	escob.hangkong.ac.kr
-NOERROR	esc.hangkong.ac.kr
-NOERROR	hangkong.ac.kr
-NOERROR	ngn.hangkong.ac.kr
-NXDOMAIN	krrc3.hangkong.ac.kr
-NOERROR	oldspam.hangkong.ac.kr
-NOERROR	hdd.hangkong.ac.kr
-NOERROR	anrlab.hangkong.ac.kr
-NXDOMAIN	www.ce.hangkong.ac.kr
-NXDOMAIN	sily.cs.hangkong.ac.kr
-NOERROR	www.hangkong.ac.kr
-NOERROR	mail.hangkong.ac.kr
-NXDOMAIN	sekim.ce.hangkong.ac.kr
-NOERROR	community.hangkong.ac.kr
-NOERROR	gss.hangkong.ac.kr
-NOERROR	ibiz.hangkong.ac.kr
-NXDOMAIN	mksmile.ce.hangkong.ac.kr
-NOERROR	mercury.hangkong.ac.kr
-NOERROR	tikwon.hangkong.ac.kr
-NOERROR	eeabyss.hangkong.ac.kr
-NOERROR	escob.cl.hangkong.ac.kr
-NOERROR	auto.av.hangkong.ac.kr
-NOERROR	eetcsp.hangkong.ac.kr
-NOERROR	esc.cl.hangkong.ac.kr
-NOERROR	eea.hangkong.ac.kr
-NXDOMAIN	duck.ce.hangkong.ac.kr
-NOERROR	office.hangkong.ac.kr
-NOERROR	cfd.hangkong.ac.kr
-NOERROR	his2.hangkong.ac.kr
-NXDOMAIN	eetcsp.av.hangkong.ac.kr
-NXDOMAIN	haulmsweb.hangkong.ac.kr
-NOERROR	club.hangkong.ac.kr
-NXDOMAIN	eekaiser.av.hangkong.ac.kr
-NOERROR	dblab.hangkong.ac.kr
-NXDOMAIN	ewatch.hangkong.ac.kr
-NXDOMAIN	ec2.ba.hangkong.ac.kr
-NOERROR	data-mining.hangkong.ac.kr
-NXDOMAIN	dblab.ce.hangkong.ac.kr
-NOERROR	lab.hangkong.ac.kr
-NXDOMAIN	irc.hangkong.ac.kr
-NXDOMAIN	nemesis.esc.cl.hangkong.ac.kr
-NXDOMAIN	standard.ce.hangkong.ac.kr
-NXDOMAIN	ai.av.hangkong.ac.kr
-NOERROR	jsahn.hangkong.ac.kr
-NXDOMAIN	his3.hangkong.ac.kr
-NXDOMAIN	cssun10.cs.hangkong.ac.kr
-NOERROR	ist.hangkong.ac.kr
-NXDOMAIN	eeibm.av.hangkong.ac.kr
+escob.hangkong.ac.kr
+esc.hangkong.ac.kr
+hangkong.ac.kr
+ngn.hangkong.ac.kr
+oldspam.hangkong.ac.kr
+hdd.hangkong.ac.kr
+anrlab.hangkong.ac.kr
+www.hangkong.ac.kr
+mail.hangkong.ac.kr
+community.hangkong.ac.kr
+gss.hangkong.ac.kr
+ibiz.hangkong.ac.kr
+mercury.hangkong.ac.kr
+tikwon.hangkong.ac.kr
+eeabyss.hangkong.ac.kr
+escob.cl.hangkong.ac.kr
+auto.av.hangkong.ac.kr
+eetcsp.hangkong.ac.kr
+esc.cl.hangkong.ac.kr
+eea.hangkong.ac.kr
+office.hangkong.ac.kr
+cfd.hangkong.ac.kr
+his2.hangkong.ac.kr
+club.hangkong.ac.kr
+dblab.hangkong.ac.kr
+data-mining.hangkong.ac.kr
+lab.hangkong.ac.kr
+jsahn.hangkong.ac.kr
+ist.hangkong.ac.kr

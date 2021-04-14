@@ -1,19 +1,4 @@
-NXDOMAIN	webmail.caluniv.ac.in
-NOERROR	caluniv.ac.in
-NOERROR	www.caluniv.ac.in
-NXDOMAIN	autodiscover.research.caluniv.ac.in
-NXDOMAIN	mail.research.caluniv.ac.in
-NXDOMAIN	cpanel.caluniv.ac.in
-NXDOMAIN	www.cal.caluniv.ac.in
-NXDOMAIN	cal.caluniv.ac.in
-NXDOMAIN	webmail.research.caluniv.ac.in
-NXDOMAIN	cpanel.research.caluniv.ac.in
-NXDOMAIN	linguistics.caluniv.ac.in
-NXDOMAIN	ns2.caluniv.ac.in
-NXDOMAIN	autodiscover.caluniv.ac.in
-NOERROR	research.caluniv.ac.in
-NXDOMAIN	www.linguistics.caluniv.ac.in
-NXDOMAIN	webdisk.research.caluniv.ac.in
-NOERROR	www.research.caluniv.ac.in
-NXDOMAIN	mail.caluniv.ac.in
-NXDOMAIN	webdisk.caluniv.ac.in
+caluniv.ac.in
+www.caluniv.ac.in
+research.caluniv.ac.in
+www.research.caluniv.ac.in

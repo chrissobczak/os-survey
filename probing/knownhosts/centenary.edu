@@ -1,92 +1,54 @@
-NOERROR	oldblackboard.centenary.edu
-NOERROR	london.centenary.edu
-NXDOMAIN	www.exchsvr.centenary.edu
-NXDOMAIN	www.secure.centenary.edu
-NXDOMAIN	80-imagesrvr.epnet.com.ezproxy.centenary.edu
-NXDOMAIN	baruh.centenary.edu
-NOERROR	biophysics.centenary.edu
-NOERROR	ez.centenary.edu
-NOERROR	extra.centenary.edu
-NOERROR	smtp.centenary.edu
-NOERROR	autodiscover.centenary.edu
-NXDOMAIN	80-www.newseum.org.ezproxy.centenary.edu
-NOERROR	apps.centenary.edu
-NXDOMAIN	www.apps.centenary.edu
-NXDOMAIN	dictionary.oed.com.ezproxy.centenary.edu
-NXDOMAIN	80-search.epnet.com.ezproxy.centenary.edu
-NOERROR	login.centenary.edu
-NOERROR	home.centenary.edu
-NOERROR	mba.centenary.edu
-NOERROR	mail.centenary.edu
-NXDOMAIN	www.bannerweb.centenary.edu
-NOERROR	stage.centenary.edu
-NXDOMAIN	devar.centenary.edu
-NOERROR	www.mitpressjournals.org.ez.centenary.edu
-NXDOMAIN	exchcas.centenary.edu
-NXDOMAIN	www.annee-philologique.com.ezproxy.centenary.edu
-NXDOMAIN	www.centfw.centenary.edu
-NOERROR	canvas.centenary.edu
-NOERROR	bannerweb.centenary.edu
-NOERROR	atoz.ebsco.com.ez.centenary.edu
-NXDOMAIN	www.lexisnexis.com.ezproxy.centenary.edu
-NOERROR	my.centenary.edu
-NXDOMAIN	80-www.centenary.edu.ezproxy.centenary.edu
-NOERROR	moxie.centenary.edu
-NOERROR	connect.centenary.edu
-NOERROR	exchsvr.centenary.edu
-NOERROR	lists.centenary.edu
-NOERROR	its.centenary.edu
-NXDOMAIN	ontime.centenary.edu
-NOERROR	apply.centenary.edu
-NOERROR	alumni.centenary.edu
-NOERROR	personal.centenary.edu
-NOERROR	esa.centenary.edu
-NOERROR	www.sciencemag.org.ez.centenary.edu
-NOERROR	french.centenary.edu
-NOERROR	www.centenary.edu
-NXDOMAIN	www.mail.centenary.edu
-NXDOMAIN	www.safe.centenary.edu
-NXDOMAIN	mail.lists.centenary.edu
-NXDOMAIN	search.ebscohost.com.ezproxy.centenary.edu
-NXDOMAIN	ezproxy.centenary.edu
-NOERROR	archive.centenary.edu
-NOERROR	prodxe.centenary.edu
-NXDOMAIN	gent.centenary.edu
-NOERROR	alpha.centenary.edu
-NOERROR	blackboard.centenary.edu
-NOERROR	pubs.acs.org.ez.centenary.edu
-NXDOMAIN	aimworks.centenary.edu
-NOERROR	corrington.centenary.edu
-NOERROR	calendar.centenary.edu
-NXDOMAIN	80-galenet.galegroup.com.ezproxy.centenary.edu
-NXDOMAIN	web.ebscohost.com.ezproxy.centenary.edu
-NOERROR	beta.centenary.edu
-NOERROR	bluesocket.centenary.edu
-NXDOMAIN	www.jstor.org.ezproxy.centenary.edu
-NOERROR	pandora.centenary.edu
-NXDOMAIN	campus.westlaw.com.ezproxy.centenary.edu
-NXDOMAIN	exchange.centenary.edu
-NXDOMAIN	80-www.philosophy.unimelb.edu.au.ezproxy.centenary.edu
-NOERROR	safe.centenary.edu
-NOERROR	engage.centenary.edu
-NOERROR	centfw.centenary.edu
-NOERROR	oracle9.centenary.edu
-NXDOMAIN	www.lists.centenary.edu
-NOERROR	helpdesk.centenary.edu
-NOERROR	centenary.edu
-NXDOMAIN	www2.centenary.edu
-NOERROR	www.jstor.org.ez.centenary.edu
-NXDOMAIN	charis.centenary.edu
-NOERROR	secure.centenary.edu
-NXDOMAIN	80-spweb.silverplatter.com.ezproxy.centenary.edu
-NXDOMAIN	www.westlaw.com.ezproxy.centenary.edu
-NXDOMAIN	nova.centenary.edu
-NOERROR	research.centenary.edu
-NOERROR	media.centenary.edu
-NOERROR	o365.centenary.edu
-NXDOMAIN	legacy.centenary.edu
-NXDOMAIN	www.engage.centenary.edu
-NOERROR	ns1.centenary.edu
-NOERROR	ns2.centenary.edu
-NXDOMAIN	classics.centenary.edu
-NOERROR	cs.centenary.edu
+oldblackboard.centenary.edu
+london.centenary.edu
+biophysics.centenary.edu
+ez.centenary.edu
+extra.centenary.edu
+smtp.centenary.edu
+autodiscover.centenary.edu
+apps.centenary.edu
+login.centenary.edu
+home.centenary.edu
+mba.centenary.edu
+mail.centenary.edu
+stage.centenary.edu
+www.mitpressjournals.org.ez.centenary.edu
+canvas.centenary.edu
+bannerweb.centenary.edu
+atoz.ebsco.com.ez.centenary.edu
+my.centenary.edu
+moxie.centenary.edu
+connect.centenary.edu
+exchsvr.centenary.edu
+lists.centenary.edu
+its.centenary.edu
+apply.centenary.edu
+alumni.centenary.edu
+personal.centenary.edu
+esa.centenary.edu
+www.sciencemag.org.ez.centenary.edu
+french.centenary.edu
+www.centenary.edu
+archive.centenary.edu
+prodxe.centenary.edu
+alpha.centenary.edu
+blackboard.centenary.edu
+pubs.acs.org.ez.centenary.edu
+corrington.centenary.edu
+calendar.centenary.edu
+beta.centenary.edu
+bluesocket.centenary.edu
+pandora.centenary.edu
+safe.centenary.edu
+engage.centenary.edu
+centfw.centenary.edu
+oracle9.centenary.edu
+helpdesk.centenary.edu
+centenary.edu
+www.jstor.org.ez.centenary.edu
+secure.centenary.edu
+research.centenary.edu
+media.centenary.edu
+o365.centenary.edu
+ns1.centenary.edu
+ns2.centenary.edu
+cs.centenary.edu

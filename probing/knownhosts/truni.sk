@@ -1,216 +1,152 @@
-NOERROR	sts.truni.sk
-NXDOMAIN	www.testmais2.truni.sk
-NXDOMAIN	z1-mta1.truni.sk
-NXDOMAIN	www.strava.truni.sk
-NOERROR	oir.truni.sk
-NXDOMAIN	indigo.truni.sk
-NXDOMAIN	z1-ldap.truni.sk
-NOERROR	remotelab4.truni.sk
-NOERROR	ose.truni.sk
-NOERROR	smtp.truni.sk
-NOERROR	uidmportal.truni.sk
-NOERROR	pf.truni.sk
-NOERROR	matematika.truni.sk
-NXDOMAIN	www.3point.truni.sk
-NOERROR	webmail.truni.sk
-NOERROR	miracle-1.truni.sk
-NOERROR	sfeu.truni.sk
-NXDOMAIN	www.fmc.truni.sk
-NOERROR	viva.truni.sk
-NOERROR	wikispace.truni.sk
-NXDOMAIN	staraiuridica.truni.sk
-NXDOMAIN	www.moodletest.truni.sk
-NXDOMAIN	www.kybez.truni.sk
-NXDOMAIN	www.testmais.truni.sk
-NOERROR	katbio.truni.sk
-NXDOMAIN	www.umoodletest.truni.sk
-NOERROR	eshop.truni.sk
-NOERROR	fzasp.truni.sk
-NOERROR	remotelab2.truni.sk
-NOERROR	cyan.truni.sk
-NXDOMAIN	chat.truni.sk
-NOERROR	robot.truni.sk
-NOERROR	konferenciefzsp.truni.sk
-NOERROR	fotka.truni.sk
-NXDOMAIN	sip.truni.sk
-NOERROR	wac.truni.sk
-NOERROR	strava.truni.sk
-NOERROR	remotelab8.truni.sk
-NOERROR	av.truni.sk
-NOERROR	katalog.truni.sk
-NXDOMAIN	www.tidmportal.truni.sk
-NOERROR	deimos.truni.sk
-NOERROR	web-node1.truni.sk
-NOERROR	salsus.truni.sk
-NOERROR	hia.truni.sk
-NOERROR	siriusa.truni.sk
-NXDOMAIN	www.rdgateway.truni.sk
-NOERROR	remotelab5.truni.sk
-NXDOMAIN	z2-mbox1.truni.sk
-NOERROR	sp.truni.sk
-NOERROR	keks.truni.sk
-NXDOMAIN	fmc.truni.sk
-NOERROR	access.truni.sk
-NOERROR	fzsp.truni.sk
-NXDOMAIN	pc11.truni.sk
-NOERROR	meet.truni.sk
-NOERROR	pdfweb.truni.sk
-NOERROR	remotelab6.truni.sk
-NOERROR	sei.iuridica.truni.sk
-NOERROR	katpsych.truni.sk
-NOERROR	iuridica.truni.sk
-NOERROR	www.remlabgrab.truni.sk
-NXDOMAIN	pool.truni.sk
-NOERROR	webcon.truni.sk
-NOERROR	meeting.truni.sk
-NOERROR	trunitest.truni.sk
-NXDOMAIN	www.idmportal.truni.sk
-NOERROR	gen-ckm.truni.sk
-NOERROR	ects.truni.sk
-NXDOMAIN	www.moodle.truni.sk
-NOERROR	fibonacci.truni.sk
-NOERROR	katduak.truni.sk
-NOERROR	osemoodle.truni.sk
-NOERROR	dialin.truni.sk
-NOERROR	elearning.truni.sk
-NOERROR	novell.truni.sk
-NXDOMAIN	www.remlabnet.truni.sk
-NOERROR	ucitelskyportal.truni.sk
-NOERROR	dawinci2.truni.sk
-NOERROR	lyncdiscover.truni.sk
-NOERROR	publikacie.iuridica.truni.sk
-NXDOMAIN	katchem.truni.sk
-NOERROR	ns2.truni.sk
-NOERROR	idmportal.truni.sk
-NXDOMAIN	webconf.truni.sk
-NXDOMAIN	lync-report.truni.sk
-NXDOMAIN	nk-33.truni.sk
-NXDOMAIN	forum.truni.sk
-NOERROR	remotelab7.truni.sk
-NXDOMAIN	webpdf.truni.sk
-NOERROR	tmais.truni.sk
-NXDOMAIN	cabis-ida.truni.sk
-NXDOMAIN	oldweb.truni.sk
-NOERROR	remotelab11.truni.sk
-NOERROR	linguatyrnaviensis.truni.sk
-NOERROR	vcv.truni.sk
-NXDOMAIN	www.pdf.truni.sk
-NOERROR	velvet.truni.sk
-NOERROR	ff.truni.sk
-NOERROR	merkur.truni.sk
-NOERROR	cec.truni.sk
-NOERROR	bech.truni.sk
-NOERROR	vz.truni.sk
-NXDOMAIN	lyncdiscoverinternal.truni.sk
-NXDOMAIN	z1-mta2.truni.sk
-NXDOMAIN	www.radius1.truni.sk
-NXDOMAIN	lyncdiscoverinternalsip.truni.sk
-NOERROR	web-node-vm-4.truni.sk
-NXDOMAIN	www.radius2.truni.sk
-NXDOMAIN	fyzika.truni.sk
-NOERROR	data.truni.sk
-NXDOMAIN	studtestmais.truni.sk
-NOERROR	iepnl.truni.sk
-NOERROR	web-node-vm-2.truni.sk
-NOERROR	fie.iuridica.truni.sk
-NXDOMAIN	www.rdweb.truni.sk
-NXDOMAIN	oos.truni.sk
-NOERROR	remotelab3.truni.sk
-NOERROR	rdweb.truni.sk
-NOERROR	remlabgrab.truni.sk
-NXDOMAIN	www.mais.truni.sk
-NXDOMAIN	wap.truni.sk
-NOERROR	indukcia.truni.sk
-NOERROR	lcms.truni.sk
-NOERROR	podujatia.iuridica.truni.sk
-NOERROR	uninfos.truni.sk
-NOERROR	remotelab9.truni.sk
-NXDOMAIN	casopis.truni.sk
-NOERROR	truni.sk
-NOERROR	lvm.truni.sk
-NOERROR	pravnekliniky.truni.sk
-NXDOMAIN	localhost.truni.sk
-NOERROR	zimbra-1-2-proxy.truni.sk
-NXDOMAIN	z1-mbox1.truni.sk
-NOERROR	tidmportal.truni.sk
-NOERROR	meteo.truni.sk
-NOERROR	rdgateway.truni.sk
-NOERROR	mais.truni.sk
-NOERROR	rusnak.truni.sk
-NXDOMAIN	www.data.truni.sk
-NOERROR	webtd.truni.sk
-NOERROR	ezp.truni.sk
-NOERROR	siriusa-sql.truni.sk
-NOERROR	connect.truni.sk
-NXDOMAIN	www.uidmportal.truni.sk
-NOERROR	humanities.truni.sk
-NOERROR	filozofia.truni.sk
-NXDOMAIN	remotelab10.truni.sk
-NOERROR	rs.truni.sk
-NOERROR	academies.truni.sk
-NOERROR	moodletest.truni.sk
-NXDOMAIN	z1-proxy.truni.sk
-NXDOMAIN	www.sibidp.truni.sk
-NOERROR	infokampan.truni.sk
-NXDOMAIN	www.vpn.truni.sk
-NOERROR	interne.truni.sk
-NXDOMAIN	phobos.truni.sk
-NOERROR	3point.truni.sk
-NOERROR	umoodletest.truni.sk
-NXDOMAIN	sibidp.truni.sk
-NOERROR	radius1.truni.sk
-NXDOMAIN	pc214.truni.sk
-NOERROR	kybez.truni.sk
-NOERROR	remotelab1.truni.sk
-NOERROR	vpn.truni.sk
-NXDOMAIN	www.remotelab1.truni.sk
-NOERROR	mail.truni.sk
-NOERROR	testwebmail.truni.sk
-NOERROR	radius2.truni.sk
-NOERROR	ibse.truni.sk
-NOERROR	pdf.truni.sk
-NOERROR	fff.truni.sk
-NOERROR	purp.truni.sk
-NOERROR	testmais.truni.sk
-NOERROR	skype.truni.sk
-NOERROR	snowy.truni.sk
-NOERROR	smtp2.truni.sk
-NOERROR	klasarch.truni.sk
-NOERROR	remotelab.truni.sk
-NXDOMAIN	www.eshop.truni.sk
-NOERROR	zak.truni.sk
-NOERROR	www.pravne-kliniky.truni.sk
-NOERROR	fiber-gw.truni.sk
-NOERROR	esmc.truni.sk
-NOERROR	shib-idp.truni.sk
-NOERROR	xxlmysql.truni.sk
-NOERROR	kdch.truni.sk
-NOERROR	web-node-vm-1.truni.sk
-NOERROR	siriusb.truni.sk
-NOERROR	ntidv.iuridica.truni.sk
-NOERROR	testmais2.truni.sk
-NOERROR	student.truni.sk
-NOERROR	web-node2.truni.sk
-NOERROR	pen.truni.sk
-NXDOMAIN	tesla.truni.sk
-NOERROR	pravne-kliniky.truni.sk
-NXDOMAIN	vivva.truni.sk
-NXDOMAIN	ostium.truni.sk
-NXDOMAIN	www.infokampan.truni.sk
-NOERROR	www.truni.sk
-NXDOMAIN	www.remotelab8.truni.sk
-NOERROR	didmattech.truni.sk
-NOERROR	blu.truni.sk
-NOERROR	kf.truni.sk
-NOERROR	remlabnet.truni.sk
-NOERROR	miracle-2.truni.sk
-NOERROR	dawinci.truni.sk
-NOERROR	web-node-vm-3.truni.sk
-NXDOMAIN	www.meteo.truni.sk
-NOERROR	pascal.truni.sk
-NOERROR	rlgc.truni.sk
-NOERROR	dokumenty.truni.sk
-NOERROR	vzmoodle.truni.sk
-NOERROR	web-node-vm-6.truni.sk
-NOERROR	moodle.truni.sk
-NXDOMAIN	pdfwebb.truni.sk
+sts.truni.sk
+oir.truni.sk
+remotelab4.truni.sk
+ose.truni.sk
+smtp.truni.sk
+uidmportal.truni.sk
+pf.truni.sk
+matematika.truni.sk
+webmail.truni.sk
+miracle-1.truni.sk
+sfeu.truni.sk
+viva.truni.sk
+wikispace.truni.sk
+katbio.truni.sk
+eshop.truni.sk
+fzasp.truni.sk
+remotelab2.truni.sk
+cyan.truni.sk
+robot.truni.sk
+konferenciefzsp.truni.sk
+fotka.truni.sk
+wac.truni.sk
+strava.truni.sk
+remotelab8.truni.sk
+av.truni.sk
+katalog.truni.sk
+deimos.truni.sk
+web-node1.truni.sk
+salsus.truni.sk
+hia.truni.sk
+siriusa.truni.sk
+remotelab5.truni.sk
+sp.truni.sk
+keks.truni.sk
+access.truni.sk
+fzsp.truni.sk
+meet.truni.sk
+pdfweb.truni.sk
+remotelab6.truni.sk
+sei.iuridica.truni.sk
+katpsych.truni.sk
+iuridica.truni.sk
+www.remlabgrab.truni.sk
+webcon.truni.sk
+meeting.truni.sk
+trunitest.truni.sk
+gen-ckm.truni.sk
+ects.truni.sk
+fibonacci.truni.sk
+katduak.truni.sk
+osemoodle.truni.sk
+dialin.truni.sk
+elearning.truni.sk
+novell.truni.sk
+ucitelskyportal.truni.sk
+dawinci2.truni.sk
+lyncdiscover.truni.sk
+publikacie.iuridica.truni.sk
+ns2.truni.sk
+idmportal.truni.sk
+remotelab7.truni.sk
+tmais.truni.sk
+remotelab11.truni.sk
+linguatyrnaviensis.truni.sk
+vcv.truni.sk
+velvet.truni.sk
+ff.truni.sk
+merkur.truni.sk
+cec.truni.sk
+bech.truni.sk
+vz.truni.sk
+web-node-vm-4.truni.sk
+data.truni.sk
+iepnl.truni.sk
+web-node-vm-2.truni.sk
+fie.iuridica.truni.sk
+remotelab3.truni.sk
+rdweb.truni.sk
+remlabgrab.truni.sk
+indukcia.truni.sk
+lcms.truni.sk
+podujatia.iuridica.truni.sk
+uninfos.truni.sk
+remotelab9.truni.sk
+truni.sk
+lvm.truni.sk
+pravnekliniky.truni.sk
+zimbra-1-2-proxy.truni.sk
+tidmportal.truni.sk
+meteo.truni.sk
+rdgateway.truni.sk
+mais.truni.sk
+rusnak.truni.sk
+webtd.truni.sk
+ezp.truni.sk
+siriusa-sql.truni.sk
+connect.truni.sk
+humanities.truni.sk
+filozofia.truni.sk
+rs.truni.sk
+academies.truni.sk
+moodletest.truni.sk
+infokampan.truni.sk
+interne.truni.sk
+3point.truni.sk
+umoodletest.truni.sk
+radius1.truni.sk
+kybez.truni.sk
+remotelab1.truni.sk
+vpn.truni.sk
+mail.truni.sk
+testwebmail.truni.sk
+radius2.truni.sk
+ibse.truni.sk
+pdf.truni.sk
+fff.truni.sk
+purp.truni.sk
+testmais.truni.sk
+skype.truni.sk
+snowy.truni.sk
+smtp2.truni.sk
+klasarch.truni.sk
+remotelab.truni.sk
+zak.truni.sk
+www.pravne-kliniky.truni.sk
+fiber-gw.truni.sk
+esmc.truni.sk
+shib-idp.truni.sk
+xxlmysql.truni.sk
+kdch.truni.sk
+web-node-vm-1.truni.sk
+siriusb.truni.sk
+ntidv.iuridica.truni.sk
+testmais2.truni.sk
+student.truni.sk
+web-node2.truni.sk
+pen.truni.sk
+pravne-kliniky.truni.sk
+www.truni.sk
+didmattech.truni.sk
+blu.truni.sk
+kf.truni.sk
+remlabnet.truni.sk
+miracle-2.truni.sk
+dawinci.truni.sk
+web-node-vm-3.truni.sk
+pascal.truni.sk
+rlgc.truni.sk
+dokumenty.truni.sk
+vzmoodle.truni.sk
+web-node-vm-6.truni.sk
+moodle.truni.sk

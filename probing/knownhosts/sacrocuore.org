@@ -1,32 +1,8 @@
-NOERROR	www.sacrocuore.org
-NOERROR	autodiscover.sacrocuore.org
-NXDOMAIN	colloqui.sacrocuore.org
-NXDOMAIN	webdisk.sacrocuore.org
-NXDOMAIN	exchange.sacrocuore.org
-NXDOMAIN	cpcontacts.sacrocuore.org
-NOERROR	my.sacrocuore.org
-NXDOMAIN	cpcalendars.sacrocuore.org
-NXDOMAIN	cpanel.sacrocuore.org
-NXDOMAIN	vecchiomy.sacrocuore.org
-NXDOMAIN	login.sacrocuore.org
-NOERROR	sacrocuore.org
-NXDOMAIN	people.sacrocuore.org
-NXDOMAIN	iter.sacrocuore.org
-NXDOMAIN	canvas.sacrocuore.org
-NXDOMAIN	it.sacrocuore.org
-NOERROR	assistenza.sacrocuore.org
-NOERROR	web.sacrocuore.org
-NXDOMAIN	libri.sacrocuore.org
-NXDOMAIN	www.web.sacrocuore.org
-NXDOMAIN	spiderweb.sacrocuore.org
-NXDOMAIN	www.youandmedia.sacrocuore.org
-NXDOMAIN	mail.sacrocuore.org
-NOERROR	youandmedia.sacrocuore.org
-NOERROR	iscrizioni.sacrocuore.org
-NXDOMAIN	www.medjugorje.sacrocuore.org
-NXDOMAIN	msdnaa.sacrocuore.org
-NXDOMAIN	sso.sacrocuore.org
-NXDOMAIN	voti.sacrocuore.org
-NXDOMAIN	archivio.sacrocuore.org
-NXDOMAIN	photos.headtrax.sacrocuore.org
-NXDOMAIN	webmail.sacrocuore.org
+www.sacrocuore.org
+autodiscover.sacrocuore.org
+my.sacrocuore.org
+sacrocuore.org
+assistenza.sacrocuore.org
+web.sacrocuore.org
+youandmedia.sacrocuore.org
+iscrizioni.sacrocuore.org

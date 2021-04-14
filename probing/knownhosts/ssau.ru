@@ -1,832 +1,732 @@
-NOERROR	vss.ssau.ru
-NOERROR	91.222.130.147-pppoe.ssau.ru
-NOERROR	91.222.130.141-pppoe.ssau.ru
-NOERROR	vc209.ssau.ru
-NOERROR	phys307.ssau.ru
-NOERROR	metaldeform2017.ssau.ru
-NOERROR	www.cabinet.ssau.ru
-NOERROR	imc.ssau.ru
-NOERROR	tdla202.ssau.ru
-NOERROR	miel520.ssau.ru
-NOERROR	aspir.ssau.ru
-NOERROR	nir.ssau.ru
-NOERROR	kipla23.ssau.ru
-NOERROR	imi.ssau.ru
-NOERROR	go.ssau.ru
-NOERROR	osm1.ssau.ru
-NOERROR	dc01.ad.ssau.ru
-NOERROR	igr229.ssau.ru
-NXDOMAIN	olymp1.ssau.ru
-NOERROR	sport33.ssau.ru
-NXDOMAIN	sukhov3.ssau.ru
-NOERROR	cp19.aviatech.ssau.ru
-NOERROR	electrotech.ssau.ru
-NOERROR	oge28.ssau.ru
-NOERROR	bbb6.ssau.ru
-NXDOMAIN	cp21.aviatech.ssau.ru
-NOERROR	progsist1.ssau.ru
-NOERROR	fdpct.ssau.ru
-NOERROR	bbb9.ssau.ru
-NOERROR	olga.ssau.ru
-NOERROR	91.222.130.188-pppoe.ssau.ru
-NOERROR	delcntr5.ssau.ru
-NOERROR	samotanud.ssau.ru
-NOERROR	www.phynist3d.ssau.ru
-NOERROR	universum.ssau.ru
-NOERROR	fit.distance.ssau.ru
-NOERROR	delcntr1.ssau.ru
-NXDOMAIN	sukhov4.ssau.ru
-NXDOMAIN	conf.ssau.ru
-NOERROR	onil1.ssau.ru
-NXDOMAIN	decanat7.ssau.ru
-NOERROR	www.aslanov.ssau.ru
-NOERROR	nil41-109.ssau.ru
-NOERROR	ivt.ssau.ru
-NOERROR	91.222.130.132-pppoe.ssau.ru
-NOERROR	91.222.130.158-pppoe.ssau.ru
-NOERROR	brainy.ssau.ru
-NOERROR	lyceum0.ssau.ru
-NOERROR	pravoslavie.ssau.ru
-NOERROR	fizo.ssau.ru
-NOERROR	www.career.ssau.ru
-NOERROR	aseu302.ssau.ru
-NOERROR	igr.ssau.ru
-NOERROR	sopromat63.ssau.ru
-NOERROR	niip.ssau.ru
-NOERROR	pfo220-2.ssau.ru
-NOERROR	91.222.130.134-pppoe.ssau.ru
-NOERROR	en.mlpcd.ssau.ru
-NOERROR	jbpe.ssau.ru
-NOERROR	chess.ssau.ru
-NOERROR	91.222.130.159-pppoe.ssau.ru
-NOERROR	newweb.ssau.ru
-NOERROR	www.distance.ssau.ru
-NXDOMAIN	obinf2.ssau.ru
-NOERROR	km.ssau.ru
-NXDOMAIN	libisu.ssau.ru
-NOERROR	omd401.ssau.ru
-NOERROR	91.222.130.150-pppoe.ssau.ru
-NOERROR	ist1.ssau.ru
-NOERROR	www.robofest.ssau.ru
-NOERROR	korolev2011.ssau.ru
-NOERROR	algeom.ssau.ru
-NOERROR	aseu9.ssau.ru
-NOERROR	91.222.130.167-pppoe.ssau.ru
-NXDOMAIN	www.mb.ssau.ru
-NXDOMAIN	commun-gw.ssau.ru
-NOERROR	ntk.roscosmos.ssau.ru
-NOERROR	vcdot.ssau.ru
-NXDOMAIN	www.dial-up.ssau.ru
-NOERROR	nano.ssau.ru
-NOERROR	samsuarchive.ssau.ru
-NOERROR	91.222.130.62-pppoe.ssau.ru
-NOERROR	www.speleo.ssau.ru
-NOERROR	adfs.ssau.ru
-NOERROR	nirs.ssau.ru
-NXDOMAIN	ciad.ssau.ru
-NOERROR	ist507.ssau.ru
-NOERROR	aseu4.ssau.ru
-NOERROR	sed.ssau.ru
-NOERROR	math.ssau.ru
-NOERROR	polit208.ssau.ru
-NOERROR	phil.ssau.ru
-NOERROR	osni.ssau.ru
-NOERROR	eat112.ssau.ru
-NXDOMAIN	cp15.aviatech.ssau.ru
-NOERROR	addpro136.ssau.ru
-NOERROR	ist504.ssau.ru
-NOERROR	htbm.ssau.ru
-NOERROR	91.222.130.187-pppoe.ssau.ru
-NOERROR	omd405.ssau.ru
-NOERROR	gbnir.ssau.ru
-NOERROR	teach2.ssau.ru
-NOERROR	uuvr.ssau.ru
-NOERROR	students.ssau.ru
-NOERROR	91.222.130.174-pppoe.ssau.ru
-NOERROR	cwphost.ssau.ru
-NOERROR	rmds2.ssau.ru
-NOERROR	skb5-16.ssau.ru
-NOERROR	ikp.ssau.ru
-NOERROR	lyceum3.ssau.ru
-NOERROR	priem3.ssau.ru
-NOERROR	msms310.ssau.ru
-NOERROR	buch2.ssau.ru
-NOERROR	rt.ssau.ru
-NOERROR	rtu1.ssau.ru
-NOERROR	ssau.ru
-NOERROR	big.ssau.ru
-NOERROR	ist-teachers.ssau.ru
-NOERROR	kipla1.ssau.ru
-NXDOMAIN	cmi.ssau.ru
-NOERROR	91.222.130.171-pppoe.ssau.ru
-NOERROR	miel517.ssau.ru
-NXDOMAIN	cskb1-2.ssau.ru
-NOERROR	91.222.130.51-pppoe.ssau.ru
-NOERROR	oi.ssau.ru
-NOERROR	ccpe.ssau.ru
-NOERROR	startup.ssau.ru
-NOERROR	91.222.130.185-pppoe.ssau.ru
-NOERROR	www.expert-forum.ssau.ru
-NOERROR	91.222.130.52-pppoe.ssau.ru
-NOERROR	www.feu.ssau.ru
-NOERROR	91.222.130.32-pppoe.ssau.ru
-NOERROR	aseu305.ssau.ru
-NOERROR	91.222.130.136-pppoe.ssau.ru
-NOERROR	aseu6.ssau.ru
-NOERROR	niisp.ssau.ru
-NOERROR	rtf314.ssau.ru
-NOERROR	kard.ssau.ru
-NOERROR	hpc.ssau.ru
-NOERROR	www.monitoring.ssau.ru
-NOERROR	bbb10.ssau.ru
-NOERROR	4u.ssau.ru
-NOERROR	ist-ap.ssau.ru
-NOERROR	pas1.ssau.ru
-NOERROR	iuvt.ssau.ru
-NOERROR	german.ssau.ru
-NOERROR	labofpt.ssau.ru
-NOERROR	htm2016.ssau.ru
-NOERROR	kombpit.ssau.ru
-NOERROR	91.222.130.170-pppoe.ssau.ru
-NOERROR	lib.ssau.ru
-NOERROR	upnk.ssau.ru
-NOERROR	soplo.ssau.ru
-NXDOMAIN	cnit1.ssau.ru
-NOERROR	tdla203.ssau.ru
-NOERROR	stream0.ssau.ru
-NOERROR	ua-tdla.ssau.ru
-NOERROR	de.ssau.ru
-NOERROR	cabinet.ssau.ru
-NOERROR	phynist3d.ssau.ru
-NOERROR	museum3.ssau.ru
-NOERROR	phys313.ssau.ru
-NXDOMAIN	decanat4.ssau.ru
-NOERROR	nts.ssau.ru
-NOERROR	sport3-215.ssau.ru
-NOERROR	cluster.ssau.ru
-NOERROR	vist.ssau.ru
-NOERROR	sport2.ssau.ru
-NOERROR	fce3.ssau.ru
-NOERROR	tdla310.ssau.ru
-NOERROR	tdla326.ssau.ru
-NXDOMAIN	cp2.aviatech.ssau.ru
-NOERROR	igr223.ssau.ru
-NOERROR	91.222.130.192-pppoe.ssau.ru
-NOERROR	pronin.ssau.ru
-NOERROR	www.universite.ssau.ru
-NOERROR	mdtt.ssau.ru
-NXDOMAIN	bort3.ssau.ru
-NOERROR	pmpm.ssau.ru
-NOERROR	rtf.ssau.ru
-NOERROR	samaviat.ssau.ru
-NOERROR	bbb8.ssau.ru
-NOERROR	olymp.ssau.ru
-NOERROR	skb5p.ssau.ru
-NOERROR	91.222.130.56-pppoe.ssau.ru
-NOERROR	aseu320.ssau.ru
-NXDOMAIN	cnit7.ssau.ru
-NOERROR	presscentr-st.ssau.ru
-NOERROR	chat.ssau.ru
-NOERROR	91.222.130.37-pppoe.ssau.ru
-NOERROR	ras.ssau.ru
-NOERROR	pla215a.ssau.ru
-NOERROR	cube155.ssau.ru
-NOERROR	pas2.ssau.ru
-NOERROR	bjd2.ssau.ru
-NOERROR	lekzal4.ssau.ru
-NOERROR	dekan-6.ssau.ru
-NOERROR	bochkar.ssau.ru
-NOERROR	biosp.acvrb.ssau.ru
-NOERROR	feumoodle.ssau.ru
-NOERROR	redakcia.ssau.ru
-NOERROR	stg-m.ssau.ru
-SERVFAIL	dc02.ad.ssau.ru
-NOERROR	npe.ssau.ru
-NXDOMAIN	commun5.ssau.ru
-NOERROR	bak.ssau.ru
-NOERROR	cabinettest.ssau.ru
-NOERROR	91.222.130.168-pppoe.ssau.ru
-NOERROR	umu.ssau.ru
-NOERROR	savin4.ssau.ru
-NOERROR	pas-odbc.ssau.ru
-NOERROR	delcntr8.ssau.ru
-NOERROR	vvz.ssau.ru
-NOERROR	bjd.ssau.ru
-NOERROR	aseu325.ssau.ru
-NOERROR	ttd334.ssau.ru
-NOERROR	www.ntk.roscosmos.ssau.ru
-NOERROR	mlpcd.ssau.ru
-NXDOMAIN	1c.ssau.ru
-NOERROR	pla210a.ssau.ru
-NOERROR	91.222.130.38-pppoe.ssau.ru
-NOERROR	91.222.130.175-pppoe.ssau.ru
-NOERROR	vs209.ssau.ru
-NOERROR	polenk.ssau.ru
-NXDOMAIN	cp3.aviatech.ssau.ru
-NXDOMAIN	cp22.aviatech.ssau.ru
-NXDOMAIN	mme.ssau.ru
-NOERROR	seat116.ssau.ru
-NXDOMAIN	cskb1-1.ssau.ru
-NOERROR	bit.ssau.ru
-NOERROR	ppk.ssau.ru
-NOERROR	vc404.ssau.ru
-NOERROR	gfps2018.ssau.ru
-NOERROR	rflew.ssau.ru
-NOERROR	www.forum.ssau.ru
-NOERROR	monitoring.ssau.ru
-NOERROR	91.222.130.39-pppoe.ssau.ru
-NXDOMAIN	vc.ssau.ru
-NOERROR	91.222.130.42-pppoe.ssau.ru
-NOERROR	91.222.130.164-pppoe.ssau.ru
-NXDOMAIN	print1.ssau.ru
-NOERROR	91.222.130.181-pppoe.ssau.ru
-NOERROR	atx2.ssau.ru
-NOERROR	91.222.130.128-pppoe.ssau.ru
-NOERROR	aseu116.ssau.ru
-NOERROR	91.222.130.58-pppoe.ssau.ru
-NOERROR	kurs2.ssau.ru
-NOERROR	iam.ssau.ru
-NOERROR	www.bibliotech.ssau.ru
-NOERROR	vc1.ssau.ru
-NOERROR	vzal.ssau.ru
-NOERROR	sdn.ssau.ru
-NOERROR	isp.ssau.ru
-NOERROR	unisecsamara.ssau.ru
-NOERROR	91.222.130.57-pppoe.ssau.ru
-NOERROR	oupt2.ssau.ru
-NXDOMAIN	ntc1.ssau.ru
-NOERROR	mail.aviatech.ssau.ru
-NOERROR	cnit4.ssau.ru
-NOERROR	regim2.ssau.ru
-NOERROR	ifn1.ssau.ru
-NOERROR	kipla26.ssau.ru
-NOERROR	cab1.ssau.ru
-NOERROR	niau.ssau.ru
-NOERROR	fd4.ssau.ru
-NOERROR	cp9.aviatech.ssau.ru
-NOERROR	block2.ssau.ru
-NOERROR	91.222.130.146-pppoe.ssau.ru
-NOERROR	buch3.ssau.ru
-NOERROR	kadr.ssau.ru
-NOERROR	ciad2.ssau.ru
-NOERROR	www.sokol.ssau.ru
-NOERROR	www.phpadmin.ssau.ru
-NXDOMAIN	deps.ssau.ru
-NOERROR	bibliotech.ssau.ru
-NOERROR	mb02.ssau.ru
-NOERROR	vfdla.ssau.ru
-NOERROR	profsot.ssau.ru
-NOERROR	climentieff.ssau.ru
-NOERROR	endowment.ssau.ru
-NOERROR	mom2.ssau.ru
-NOERROR	tem413.ssau.ru
-NOERROR	www.journals.ssau.ru
-NOERROR	catlab.ssau.ru
-NOERROR	bjd1.ssau.ru
-NOERROR	videocam11.ssau.ru
-NOERROR	profunion1.ssau.ru
-NOERROR	pnn1.ssau.ru
-NOERROR	aes16.ssau.ru
-NOERROR	savin3.ssau.ru
-NOERROR	aes24.ssau.ru
-NOERROR	uvr.ssau.ru
-NOERROR	oot.ssau.ru
-NOERROR	www.metaldeform2017.ssau.ru
-NOERROR	kancl.ssau.ru
-NOERROR	ubs2016.ssau.ru
-NOERROR	doc.ssau.ru
-NOERROR	91.222.130.184-pppoe.ssau.ru
-NOERROR	tem413-1.ssau.ru
-NOERROR	ser.ssau.ru
-NOERROR	aes.ssau.ru
-NOERROR	snil.ssau.ru
-NOERROR	sp.ssau.ru
-NOERROR	htm2015.ssau.ru
-NOERROR	oisio.ssau.ru
-NOERROR	obinfcisco1.ssau.ru
-NOERROR	int1.ssau.ru
-NOERROR	ttd132.ssau.ru
-NOERROR	regim3.ssau.ru
-NOERROR	pla510.ssau.ru
-SERVFAIL	owa01.ad.ssau.ru
-NOERROR	polit1.ssau.ru
-NOERROR	91.222.130.155-pppoe.ssau.ru
-NOERROR	spb.ssau.ru
-NOERROR	nil45mt3.ssau.ru
-NOERROR	91.222.130.139-pppoe.ssau.ru
-NOERROR	korolev2013.ssau.ru
-NXDOMAIN	www.ciad.ssau.ru
-NOERROR	tdla312.ssau.ru
-NOERROR	rcse.ssau.ru
-NOERROR	rhub.ssau.ru
-NXDOMAIN	cp23.aviatech.ssau.ru
-NOERROR	innmen.ssau.ru
-NOERROR	vis.ssau.ru
-NOERROR	91.222.130.50-pppoe.ssau.ru
-NOERROR	91.222.130.140-pppoe.ssau.ru
-NOERROR	orz.ssau.ru
-NOERROR	sw15-vlan254.ssau.ru
-NOERROR	tube.ssau.ru
-NOERROR	en.pdc.ssau.ru
-NXDOMAIN	cp14.aviatech.ssau.ru
-NOERROR	91.222.130.46-pppoe.ssau.ru
-NOERROR	ino1.ssau.ru
-NOERROR	91.222.130.182-pppoe.ssau.ru
-NOERROR	patent12.ssau.ru
-NXDOMAIN	unkom2.ssau.ru
-NOERROR	vjakin.ssau.ru
-NOERROR	inncntr3.ssau.ru
-NOERROR	pdla1.ssau.ru
-NOERROR	oupt.ssau.ru
-NOERROR	rmds.ssau.ru
-NOERROR	mom1.ssau.ru
-NOERROR	ds.ssau.ru
-NOERROR	dan.ssau.ru
-NXDOMAIN	cp6.aviatech.ssau.ru
-NOERROR	vpn.ssau.ru
-NOERROR	91.222.130.148-pppoe.ssau.ru
-NOERROR	91.222.130.131-pppoe.ssau.ru
-SERVFAIL	mb03.ad.ssau.ru
-NXDOMAIN	decanat6.ssau.ru
-NOERROR	templet.ssau.ru
-NOERROR	rtsyst.ssau.ru
-NOERROR	itc.ssau.ru
-NXDOMAIN	diop3.ssau.ru
-NOERROR	print4.ssau.ru
-NOERROR	imcisu.ssau.ru
-NOERROR	aseu3.ssau.ru
-NOERROR	91.222.130.133-pppoe.ssau.ru
-NOERROR	91.222.130.190-pppoe.ssau.ru
-NOERROR	bis.ssau.ru
-NOERROR	tmserv.ssau.ru
-NXDOMAIN	aviatech.ssau.ru
-NOERROR	91.222.130.165-pppoe.ssau.ru
-NOERROR	kafedra-ps.ssau.ru
-NOERROR	cp7.aviatech.ssau.ru
-NOERROR	91.222.130.163-pppoe.ssau.ru
-NOERROR	iat.ssau.ru
-NOERROR	5top100conf.ssau.ru
-NOERROR	volgactf.ssau.ru
-NOERROR	lanii205.ssau.ru
-NOERROR	mme2.ssau.ru
-NOERROR	gw-1k.ssau.ru
-NOERROR	cp26.aviatech.ssau.ru
-NOERROR	aseu2.ssau.ru
-NOERROR	lic2.ssau.ru
-NOERROR	91.222.130.153-pppoe.ssau.ru
-NOERROR	president.ssau.ru
-NOERROR	ino.ssau.ru
-NOERROR	ai.ssau.ru
-NOERROR	91.222.130.144-pppoe.ssau.ru
-NXDOMAIN	asis.ssau.ru
-NOERROR	nas21.ssau.ru
-NXDOMAIN	uio3.ssau.ru
-NXDOMAIN	aseummc.ssau.ru
-NOERROR	cp18.aviatech.ssau.ru
-NOERROR	akps3.ssau.ru
-NOERROR	stream-tv.ssau.ru
-NOERROR	91.222.130.48-pppoe.ssau.ru
-NOERROR	omd.ssau.ru
-NOERROR	videofoto.ssau.ru
-NOERROR	pfo220.ssau.ru
-NOERROR	kipdla108.ssau.ru
-NOERROR	91.222.130.156-pppoe.ssau.ru
-NOERROR	ist426.ssau.ru
-NOERROR	lic.ssau.ru
-NOERROR	en.ssau.ru
-NOERROR	cp27.aviatech.ssau.ru
-NOERROR	bankomat3a.ssau.ru
-NOERROR	smt.ssau.ru
-NOERROR	sk1.ssau.ru
-NOERROR	sport4.ssau.ru
-NOERROR	91.222.130.61-pppoe.ssau.ru
-NOERROR	nti.ssau.ru
-NOERROR	onil16.ssau.ru
-NOERROR	mediasamsu.ssau.ru
-NOERROR	splav.ssau.ru
-NXDOMAIN	virtualmuseum.ssau.ru
-NOERROR	onil5.ssau.ru
-NOERROR	acm.ssau.ru
-NOERROR	print3.ssau.ru
-SERVFAIL	mail.rs34.ssau.ru
-NOERROR	abit.ssau.ru
-NOERROR	innmen248.ssau.ru
-NOERROR	asr-vlan55.ssau.ru
-NOERROR	tmam309a.ssau.ru
-NOERROR	lms.ssau.ru
-NXDOMAIN	ckp.ssau.ru
-NOERROR	91.222.130.189-pppoe.ssau.ru
-NOERROR	phys1.ssau.ru
-NOERROR	cp11.aviatech.ssau.ru
-NOERROR	ist12.ssau.ru
-SERVFAIL	ksc.ssau.ru
-NOERROR	savin1.ssau.ru
-NOERROR	pfu2.ssau.ru
-NOERROR	bbb7.ssau.ru
-NOERROR	fce4.ssau.ru
-NOERROR	museum4.ssau.ru
-NXDOMAIN	cp5.aviatech.ssau.ru
-NOERROR	kons.ssau.ru
-NOERROR	feu1.ssau.ru
-NOERROR	nam.ssau.ru
-NOERROR	fd.ssau.ru
-NXDOMAIN	fdp2.ssau.ru
-NOERROR	oupt3.ssau.ru
-NOERROR	aseu337.ssau.ru
-NOERROR	91.222.130.35-pppoe.ssau.ru
-NOERROR	fdla.ssau.ru
-NOERROR	fla.ssau.ru
-NOERROR	pfu1.ssau.ru
-NOERROR	www.samaviat.ssau.ru
-NXDOMAIN	ks.ssau.ru
-NOERROR	okm432.ssau.ru
-NOERROR	91.222.130.161-pppoe.ssau.ru
-NOERROR	fd2.ssau.ru
-NOERROR	publications.ssau.ru
-NOERROR	print-do.ssau.ru
-NOERROR	91.222.130.40-pppoe.ssau.ru
-NOERROR	phpadmin.ssau.ru
-NOERROR	skb1.ssau.ru
-NOERROR	medium.ssau.ru
-NXDOMAIN	www.decanat6.ssau.ru
-NOERROR	nil43.ssau.ru
-NOERROR	cp17.aviatech.ssau.ru
-NOERROR	delcntr.ssau.ru
-NOERROR	bjd4.ssau.ru
-NOERROR	ino2.ssau.ru
-NOERROR	school.ssau.ru
-NXDOMAIN	campus.ssau.ru
-NOERROR	graphplus.ssau.ru
-NOERROR	mail.ssau.ru
-NOERROR	bbb.ssau.ru
-NOERROR	cp10.aviatech.ssau.ru
-NOERROR	smus1.ssau.ru
-NOERROR	tdla202a.ssau.ru
-NOERROR	rgcep.ssau.ru
-NOERROR	91.222.130.179-pppoe.ssau.ru
-NXDOMAIN	aprt.ssau.ru
-NOERROR	tdla.ssau.ru
-NOERROR	oks2.ssau.ru
-NOERROR	oip.ssau.ru
-NOERROR	igr325g.ssau.ru
-NOERROR	mooc.ssau.ru
-NOERROR	aseu.ssau.ru
-NOERROR	obinfcisco2.ssau.ru
-NOERROR	91.222.130.45-pppoe.ssau.ru
-NOERROR	fem.ssau.ru
-NOERROR	gw-net131.ssau.ru
-NXDOMAIN	commun6.ssau.ru
-NOERROR	do.ssau.ru
-NOERROR	math1.ssau.ru
-NXDOMAIN	upd.ssau.ru
-NOERROR	chem.ssau.ru
-NOERROR	91.222.130.186-pppoe.ssau.ru
-NOERROR	oks1.ssau.ru
-NOERROR	fin513.ssau.ru
-NXDOMAIN	cp28.aviatech.ssau.ru
-NOERROR	konf-nk404.ssau.ru
-NOERROR	tdla318-2.ssau.ru
-NXDOMAIN	asc.ssau.ru
-NOERROR	gto.ssau.ru
-NOERROR	91.222.130.130-pppoe.ssau.ru
-NOERROR	shakhm.ssau.ru
-NXDOMAIN	dspace.ssau.ru
-NOERROR	portalweb.ssau.ru
-NOERROR	int.ssau.ru
-NOERROR	www.gosuniver.ssau.ru
-NOERROR	distance.ssau.ru
-NOERROR	polet.ssau.ru
-NOERROR	big-vlan10.ssau.ru
-NOERROR	www.cnit.ssau.ru
-NOERROR	komendant3.ssau.ru
-NXDOMAIN	uio2.ssau.ru
-NOERROR	tm431.ssau.ru
-NXDOMAIN	lyceum1.ssau.ru
-NOERROR	proctor.ssau.ru
-NOERROR	cp20.aviatech.ssau.ru
-NOERROR	boss.ssau.ru
-NOERROR	profkom.ssau.ru
-NOERROR	fbpfn7.ssau.ru
-NOERROR	help.ssau.ru
-NOERROR	aslanov.ssau.ru
-NXDOMAIN	6fak.ssau.ru
-NOERROR	mdeform.ssau.ru
-NOERROR	aspir1.ssau.ru
-NOERROR	91.222.130.143-pppoe.ssau.ru
-NOERROR	aviatech-gw.ssau.ru
-NXDOMAIN	www.vss.ssau.ru
-NOERROR	cpr.ssau.ru
-NOERROR	plasma.ssau.ru
-SERVFAIL	ws.ssau.ru
-NOERROR	stream.ssau.ru
-NOERROR	www.lk.ssau.ru
-NOERROR	cgdi2.ssau.ru
-NOERROR	speleo.ssau.ru
-SERVFAIL	ad.ssau.ru
-NOERROR	www.chem.ssau.ru
-NOERROR	91.222.130.59-pppoe.ssau.ru
-NOERROR	cgdi3.ssau.ru
-NOERROR	korolev2015.ssau.ru
-NOERROR	botsad-adm.ssau.ru
-NOERROR	mailfilter.ssau.ru
-NOERROR	kipla22.ssau.ru
-NOERROR	91.222.130.135-pppoe.ssau.ru
-NXDOMAIN	cp30.aviatech.ssau.ru
-SERVFAIL	ws.ad.ssau.ru
-NOERROR	radiot.ssau.ru
-NOERROR	91.222.130.176-pppoe.ssau.ru
-NOERROR	ino3.ssau.ru
-NXDOMAIN	cp24.aviatech.ssau.ru
-NOERROR	aseu323.ssau.ru
-NOERROR	91.222.130.145-pppoe.ssau.ru
-NOERROR	www.ssau.ru
-NOERROR	tdla318.ssau.ru
-NOERROR	ist11.ssau.ru
-NOERROR	91.222.130.41-pppoe.ssau.ru
-NOERROR	centruk.ssau.ru
-NOERROR	lnp.ssau.ru
-NOERROR	91.222.130.157-pppoe.ssau.ru
-NOERROR	askb.ssau.ru
-NOERROR	prochnost.ssau.ru
-NOERROR	onil-16.ssau.ru
-NOERROR	91.222.130.177-pppoe.ssau.ru
-NOERROR	rs34.ssau.ru
-NOERROR	eltech.ssau.ru
-NOERROR	gosuniver.ssau.ru
-NOERROR	labiom.ssau.ru
-NOERROR	hosting.ssau.ru
-NXDOMAIN	confdvm.ssau.ru
-NOERROR	pla-ukm.ssau.ru
-NOERROR	nig82.ssau.ru
-NOERROR	lbts.ssau.ru
-NOERROR	phys.ssau.ru
-NXDOMAIN	lekzal313a.ssau.ru
-NOERROR	www.dvm2016.ssau.ru
-NOERROR	91.222.130.47-pppoe.ssau.ru
-NOERROR	sokol.ssau.ru
-NOERROR	nas12.ssau.ru
-NOERROR	nas22.ssau.ru
-NOERROR	chem326a.ssau.ru
-NOERROR	aseu321.ssau.ru
-NOERROR	itest.ssau.ru
-NOERROR	bcp.ssau.ru
-NOERROR	comphyschem.ssau.ru
-NOERROR	uuvr1.ssau.ru
-NOERROR	91.222.130.34-pppoe.ssau.ru
-NXDOMAIN	www.decanat4.ssau.ru
-NXDOMAIN	www.isp.ssau.ru
-NOERROR	feu.ssau.ru
-NXDOMAIN	pfu3.ssau.ru
-NOERROR	block.ssau.ru
-NOERROR	unikon.ssau.ru
-NOERROR	www.kipla.ssau.ru
-NOERROR	nil57.ssau.ru
-NOERROR	91.222.130.53-pppoe.ssau.ru
-NOERROR	aseu5.ssau.ru
-NXDOMAIN	la.ssau.ru
-NOERROR	print9.ssau.ru
-NOERROR	diop.ssau.ru
-NOERROR	lk.ssau.ru
-NOERROR	lyceum.ssau.ru
-NOERROR	sport3.ssau.ru
-NOERROR	ist09.ssau.ru
-NOERROR	krea.ssau.ru
-NOERROR	print2.ssau.ru
-NOERROR	passport.ssau.ru
-NOERROR	acvrb.ssau.ru
-NOERROR	info-sckool.ssau.ru
-NOERROR	ifn.ssau.ru
-NOERROR	91.222.130.60-pppoe.ssau.ru
-NOERROR	91.222.130.151-pppoe.ssau.ru
-NOERROR	91.222.130.180-pppoe.ssau.ru
-NOERROR	fit.ssau.ru
-NOERROR	hvzal.ssau.ru
-NOERROR	universite.ssau.ru
-NOERROR	dynvibro.ssau.ru
-NOERROR	career.ssau.ru
-NOERROR	91.222.130.43-pppoe.ssau.ru
-NOERROR	metod.ssau.ru
-NOERROR	war2.ssau.ru
-NOERROR	cnit.ssau.ru
-NOERROR	proton.ssau.ru
-NOERROR	polit210.ssau.ru
-NOERROR	forms.ssau.ru
-NOERROR	korolev.ssau.ru
-NOERROR	eds.ssau.ru
-NOERROR	robofest.ssau.ru
-NOERROR	91.222.130.154-pppoe.ssau.ru
-NOERROR	phil1.ssau.ru
-NOERROR	91.222.130.178-pppoe.ssau.ru
-NOERROR	fdp1.ssau.ru
-NXDOMAIN	guest7.ssau.ru
-NOERROR	tdla305.ssau.ru
-NOERROR	fdla1.ssau.ru
-NOERROR	pravo.ssau.ru
-NOERROR	profunion2.ssau.ru
-NOERROR	mb.ssau.ru
-NOERROR	fd1.ssau.ru
-NXDOMAIN	izj.ssau.ru
-NXDOMAIN	fp.ssau.ru
-NOERROR	www.ai.ssau.ru
-NOERROR	pdc.ssau.ru
-NOERROR	germanistik.ssau.ru
-NOERROR	belokonov.ssau.ru
-NOERROR	teach.ssau.ru
-NOERROR	lb-vip.ssau.ru
-NOERROR	nil97.ssau.ru
-NOERROR	sk0.ssau.ru
-NOERROR	axo12.ssau.ru
-NOERROR	nil45mt2.ssau.ru
-NOERROR	bochkarev.ssau.ru
-NOERROR	print.ssau.ru
-NOERROR	start.ssau.ru
-NOERROR	91.222.130.162-pppoe.ssau.ru
-NOERROR	91.222.130.55-pppoe.ssau.ru
-NOERROR	amber.ssau.ru
-NOERROR	phys307a.ssau.ru
-NOERROR	91.222.130.191-pppoe.ssau.ru
-NOERROR	rtf1.ssau.ru
-NXDOMAIN	www.avmod.ssau.ru
-NOERROR	virkt.ssau.ru
-NOERROR	videocam4.ssau.ru
-NOERROR	www.itschool.ssau.ru
-NOERROR	sw15-vlan3.ssau.ru
-NXDOMAIN	uio1.ssau.ru
-NOERROR	spaceresearch.ssau.ru
-NOERROR	nil54.ssau.ru
-NXDOMAIN	cp12.aviatech.ssau.ru
-NOERROR	91.222.130.129-pppoe.ssau.ru
-NXDOMAIN	ast-test.ssau.ru
-NOERROR	geoinfb.ssau.ru
-NXDOMAIN	avmod.ssau.ru
-NXDOMAIN	cp8.aviatech.ssau.ru
-NOERROR	lyceum4.ssau.ru
-NOERROR	priem2.ssau.ru
-NOERROR	aelita1.ssau.ru
-NOERROR	3d.ssau.ru
-NOERROR	pla520.ssau.ru
-NOERROR	aist.ssau.ru
-NOERROR	akps.ssau.ru
-NOERROR	onil2.ssau.ru
-NOERROR	pfu5.ssau.ru
-NOERROR	nil-41-138.ssau.ru
-NOERROR	91.222.130.160-pppoe.ssau.ru
-NOERROR	videostud.ssau.ru
-NOERROR	confdvm2014.ssau.ru
-NOERROR	atx.ssau.ru
-NOERROR	kipdla209.ssau.ru
-NOERROR	osni210a.ssau.ru
-NOERROR	ebs.ssau.ru
-NXDOMAIN	delcntr3.ssau.ru
-NOERROR	srmoodle.ssau.ru
-NOERROR	kozlov.ssau.ru
-NOERROR	ats.ssau.ru
-NXDOMAIN	cp16.aviatech.ssau.ru
-NOERROR	aes25.ssau.ru
-NOERROR	biotech1.ssau.ru
-NOERROR	geoinfb2.ssau.ru
-NOERROR	inncentr.ssau.ru
-NOERROR	91.222.130.169-pppoe.ssau.ru
-NXDOMAIN	web.ssau.ru
-NOERROR	91.222.130.44-pppoe.ssau.ru
-NOERROR	pro-ov.ssau.ru
-NOERROR	ivc106a.ssau.ru
-NOERROR	tp-biopark.ssau.ru
-NOERROR	chemistry.ssau.ru
-NOERROR	axokom3a.ssau.ru
-NXDOMAIN	diop1.ssau.ru
-SERVFAIL	ksc.ad.ssau.ru
-NOERROR	www.kipdla.ssau.ru
-NOERROR	fin504.ssau.ru
-NOERROR	ivt113.ssau.ru
-NOERROR	pdla.ssau.ru
-NOERROR	sopromat.ssau.ru
-NOERROR	eat1.ssau.ru
-NOERROR	progsist.ssau.ru
-NOERROR	pla501-1.ssau.ru
-NXDOMAIN	betaw.ssau.ru
-NOERROR	vprogsist.ssau.ru
-NOERROR	kurs.ssau.ru
-SERVFAIL	mb04.ad.ssau.ru
-NXDOMAIN	commun.ssau.ru
-NOERROR	mme1.ssau.ru
-NOERROR	print10.ssau.ru
-NOERROR	sp01.ssau.ru
-NOERROR	nas11.ssau.ru
-NOERROR	ogm.ssau.ru
-NOERROR	expert-forum.ssau.ru
-NOERROR	phys2.ssau.ru
-NOERROR	kgv.ssau.ru
-NOERROR	kipla.ssau.ru
-NOERROR	www.aero.ssau.ru
-NOERROR	oupt1.ssau.ru
-NOERROR	rkt.ssau.ru
-NOERROR	aseu7.ssau.ru
-NOERROR	fce2.ssau.ru
-NOERROR	journals.ssau.ru
-NOERROR	adm3.ssau.ru
-NOERROR	dvm2016.ssau.ru
-NOERROR	cp25.aviatech.ssau.ru
-NOERROR	osd.ssau.ru
-NOERROR	sport17-4.ssau.ru
-NOERROR	stim.ssau.ru
-NOERROR	regim.ssau.ru
-NOERROR	polenk-cl.ssau.ru
-NOERROR	forlang.ssau.ru
-NOERROR	91.222.130.152-pppoe.ssau.ru
-NXDOMAIN	decanat5.ssau.ru
-NOERROR	smu.ssau.ru
-NOERROR	priem1.ssau.ru
-NOERROR	fce1.ssau.ru
-NOERROR	sputnik.ssau.ru
-NXDOMAIN	obinf1.ssau.ru
-NOERROR	mpm.ssau.ru
-NOERROR	mme3.ssau.ru
-NOERROR	aerd1.ssau.ru
-NOERROR	pla501.ssau.ru
-NOERROR	rektor.ssau.ru
-NOERROR	newbig-vlan55.ssau.ru
-NOERROR	laarm.ssau.ru
-NOERROR	aseu322.ssau.ru
-NOERROR	sport1.ssau.ru
-NOERROR	virtual6.ssau.ru
-NOERROR	sw15-vlan55.ssau.ru
-NOERROR	rtu.ssau.ru
-NXDOMAIN	tdla204.ssau.ru
-NOERROR	ideu.ssau.ru
-NXDOMAIN	sukhov2.ssau.ru
-NOERROR	91.222.130.33-pppoe.ssau.ru
-NOERROR	veter.ssau.ru
-NOERROR	baza.ssau.ru
-NOERROR	tdla1.ssau.ru
-NOERROR	okvd522a.ssau.ru
-NOERROR	sacc.ssau.ru
-NOERROR	repo.ssau.ru
-NOERROR	botsad-orang.ssau.ru
-NOERROR	diss.ssau.ru
-NOERROR	yachtclub.ssau.ru
-NOERROR	91.222.130.36-pppoe.ssau.ru
-NOERROR	bjd3.ssau.ru
-NOERROR	fdp.ssau.ru
-NOERROR	wbc.ssau.ru
-NOERROR	91.222.130.172-pppoe.ssau.ru
-NOERROR	addpro.ssau.ru
-NOERROR	91.222.130.138-pppoe.ssau.ru
-NXDOMAIN	war.ssau.ru
-NOERROR	distance.itschool.ssau.ru
-NXDOMAIN	omd461.ssau.ru
-NOERROR	91.222.130.49-pppoe.ssau.ru
-NXDOMAIN	cskb1-3.ssau.ru
-NOERROR	vestniksamgu.ssau.ru
-NOERROR	mb01.ssau.ru
-NOERROR	teach1.ssau.ru
-NOERROR	inncntr2.ssau.ru
-NOERROR	www.smu.ssau.ru
-NOERROR	priem.ssau.ru
-NOERROR	lotus.ssau.ru
-NOERROR	econcentre.ssau.ru
-NOERROR	tdla0.ssau.ru
-NOERROR	91.222.130.142-pppoe.ssau.ru
-NOERROR	cgdi1.ssau.ru
-NOERROR	life.ssau.ru
-NOERROR	www.omd.ssau.ru
-NOERROR	adm2.ssau.ru
-NOERROR	big-vlan55.ssau.ru
-NOERROR	orz1.ssau.ru
-NOERROR	ist420.ssau.ru
-NXDOMAIN	www.conf.ssau.ru
-NOERROR	www.philosophy.ssau.ru
-NOERROR	nigmech.ssau.ru
-NOERROR	philosophy.ssau.ru
-NOERROR	tm.ssau.ru
-NOERROR	aseu331.ssau.ru
-NOERROR	91.222.130.54-pppoe.ssau.ru
-NOERROR	nil45mt1.ssau.ru
-NOERROR	91.222.130.149-pppoe.ssau.ru
-NOERROR	unc.ssau.ru
-NOERROR	91.222.130.63-pppoe.ssau.ru
-NOERROR	savin2.ssau.ru
-NOERROR	kultura.ssau.ru
-NOERROR	obinf3.ssau.ru
-NOERROR	itschool.ssau.ru
-NOERROR	felib.ssau.ru
-NOERROR	inf.ssau.ru
-NOERROR	cp13.aviatech.ssau.ru
-NOERROR	91.222.130.166-pppoe.ssau.ru
-NOERROR	ist501.ssau.ru
-NOERROR	forum.ssau.ru
-NOERROR	91.222.130.183-pppoe.ssau.ru
-NOERROR	91.222.130.173-pppoe.ssau.ru
-NOERROR	aseu411.ssau.ru
-NOERROR	oge.ssau.ru
-NOERROR	inf432.ssau.ru
-NOERROR	ist510.ssau.ru
-NOERROR	lyceum2.ssau.ru
-NOERROR	91.222.130.137-pppoe.ssau.ru
-NOERROR	aes12a.ssau.ru
-NOERROR	r1-vlan254.ssau.ru
-NXDOMAIN	cp4.aviatech.ssau.ru
-NOERROR	rtfmoodle.ssau.ru
-NOERROR	museum.ssau.ru
-NOERROR	crpoo.ssau.ru
-NOERROR	www.aseu.ssau.ru
+vss.ssau.ru
+91.222.130.147-pppoe.ssau.ru
+91.222.130.141-pppoe.ssau.ru
+vc209.ssau.ru
+phys307.ssau.ru
+metaldeform2017.ssau.ru
+www.cabinet.ssau.ru
+imc.ssau.ru
+tdla202.ssau.ru
+miel520.ssau.ru
+aspir.ssau.ru
+nir.ssau.ru
+kipla23.ssau.ru
+imi.ssau.ru
+go.ssau.ru
+osm1.ssau.ru
+dc01.ad.ssau.ru
+igr229.ssau.ru
+sport33.ssau.ru
+cp19.aviatech.ssau.ru
+electrotech.ssau.ru
+oge28.ssau.ru
+bbb6.ssau.ru
+progsist1.ssau.ru
+fdpct.ssau.ru
+bbb9.ssau.ru
+olga.ssau.ru
+91.222.130.188-pppoe.ssau.ru
+delcntr5.ssau.ru
+samotanud.ssau.ru
+www.phynist3d.ssau.ru
+universum.ssau.ru
+fit.distance.ssau.ru
+delcntr1.ssau.ru
+onil1.ssau.ru
+www.aslanov.ssau.ru
+nil41-109.ssau.ru
+ivt.ssau.ru
+91.222.130.132-pppoe.ssau.ru
+91.222.130.158-pppoe.ssau.ru
+brainy.ssau.ru
+lyceum0.ssau.ru
+pravoslavie.ssau.ru
+fizo.ssau.ru
+www.career.ssau.ru
+aseu302.ssau.ru
+igr.ssau.ru
+sopromat63.ssau.ru
+niip.ssau.ru
+pfo220-2.ssau.ru
+91.222.130.134-pppoe.ssau.ru
+en.mlpcd.ssau.ru
+jbpe.ssau.ru
+chess.ssau.ru
+91.222.130.159-pppoe.ssau.ru
+newweb.ssau.ru
+www.distance.ssau.ru
+km.ssau.ru
+omd401.ssau.ru
+91.222.130.150-pppoe.ssau.ru
+ist1.ssau.ru
+www.robofest.ssau.ru
+korolev2011.ssau.ru
+algeom.ssau.ru
+aseu9.ssau.ru
+91.222.130.167-pppoe.ssau.ru
+ntk.roscosmos.ssau.ru
+vcdot.ssau.ru
+nano.ssau.ru
+samsuarchive.ssau.ru
+91.222.130.62-pppoe.ssau.ru
+www.speleo.ssau.ru
+adfs.ssau.ru
+nirs.ssau.ru
+ist507.ssau.ru
+aseu4.ssau.ru
+sed.ssau.ru
+math.ssau.ru
+polit208.ssau.ru
+phil.ssau.ru
+osni.ssau.ru
+eat112.ssau.ru
+addpro136.ssau.ru
+ist504.ssau.ru
+htbm.ssau.ru
+91.222.130.187-pppoe.ssau.ru
+omd405.ssau.ru
+gbnir.ssau.ru
+teach2.ssau.ru
+uuvr.ssau.ru
+students.ssau.ru
+91.222.130.174-pppoe.ssau.ru
+cwphost.ssau.ru
+rmds2.ssau.ru
+skb5-16.ssau.ru
+ikp.ssau.ru
+lyceum3.ssau.ru
+priem3.ssau.ru
+msms310.ssau.ru
+buch2.ssau.ru
+rt.ssau.ru
+rtu1.ssau.ru
+ssau.ru
+big.ssau.ru
+ist-teachers.ssau.ru
+kipla1.ssau.ru
+91.222.130.171-pppoe.ssau.ru
+miel517.ssau.ru
+91.222.130.51-pppoe.ssau.ru
+oi.ssau.ru
+ccpe.ssau.ru
+startup.ssau.ru
+91.222.130.185-pppoe.ssau.ru
+www.expert-forum.ssau.ru
+91.222.130.52-pppoe.ssau.ru
+www.feu.ssau.ru
+91.222.130.32-pppoe.ssau.ru
+aseu305.ssau.ru
+91.222.130.136-pppoe.ssau.ru
+aseu6.ssau.ru
+niisp.ssau.ru
+rtf314.ssau.ru
+kard.ssau.ru
+hpc.ssau.ru
+www.monitoring.ssau.ru
+bbb10.ssau.ru
+4u.ssau.ru
+ist-ap.ssau.ru
+pas1.ssau.ru
+iuvt.ssau.ru
+german.ssau.ru
+labofpt.ssau.ru
+htm2016.ssau.ru
+kombpit.ssau.ru
+91.222.130.170-pppoe.ssau.ru
+lib.ssau.ru
+upnk.ssau.ru
+soplo.ssau.ru
+tdla203.ssau.ru
+stream0.ssau.ru
+ua-tdla.ssau.ru
+de.ssau.ru
+cabinet.ssau.ru
+phynist3d.ssau.ru
+museum3.ssau.ru
+phys313.ssau.ru
+nts.ssau.ru
+sport3-215.ssau.ru
+cluster.ssau.ru
+vist.ssau.ru
+sport2.ssau.ru
+fce3.ssau.ru
+tdla310.ssau.ru
+tdla326.ssau.ru
+igr223.ssau.ru
+91.222.130.192-pppoe.ssau.ru
+pronin.ssau.ru
+www.universite.ssau.ru
+mdtt.ssau.ru
+pmpm.ssau.ru
+rtf.ssau.ru
+samaviat.ssau.ru
+bbb8.ssau.ru
+olymp.ssau.ru
+skb5p.ssau.ru
+91.222.130.56-pppoe.ssau.ru
+aseu320.ssau.ru
+presscentr-st.ssau.ru
+chat.ssau.ru
+91.222.130.37-pppoe.ssau.ru
+ras.ssau.ru
+pla215a.ssau.ru
+cube155.ssau.ru
+pas2.ssau.ru
+bjd2.ssau.ru
+lekzal4.ssau.ru
+dekan-6.ssau.ru
+bochkar.ssau.ru
+biosp.acvrb.ssau.ru
+feumoodle.ssau.ru
+redakcia.ssau.ru
+stg-m.ssau.ru
+npe.ssau.ru
+bak.ssau.ru
+cabinettest.ssau.ru
+91.222.130.168-pppoe.ssau.ru
+umu.ssau.ru
+savin4.ssau.ru
+pas-odbc.ssau.ru
+delcntr8.ssau.ru
+vvz.ssau.ru
+bjd.ssau.ru
+aseu325.ssau.ru
+ttd334.ssau.ru
+www.ntk.roscosmos.ssau.ru
+mlpcd.ssau.ru
+pla210a.ssau.ru
+91.222.130.38-pppoe.ssau.ru
+91.222.130.175-pppoe.ssau.ru
+vs209.ssau.ru
+polenk.ssau.ru
+seat116.ssau.ru
+bit.ssau.ru
+ppk.ssau.ru
+vc404.ssau.ru
+gfps2018.ssau.ru
+rflew.ssau.ru
+www.forum.ssau.ru
+monitoring.ssau.ru
+91.222.130.39-pppoe.ssau.ru
+91.222.130.42-pppoe.ssau.ru
+91.222.130.164-pppoe.ssau.ru
+91.222.130.181-pppoe.ssau.ru
+atx2.ssau.ru
+91.222.130.128-pppoe.ssau.ru
+aseu116.ssau.ru
+91.222.130.58-pppoe.ssau.ru
+kurs2.ssau.ru
+iam.ssau.ru
+www.bibliotech.ssau.ru
+vc1.ssau.ru
+vzal.ssau.ru
+sdn.ssau.ru
+isp.ssau.ru
+unisecsamara.ssau.ru
+91.222.130.57-pppoe.ssau.ru
+oupt2.ssau.ru
+mail.aviatech.ssau.ru
+cnit4.ssau.ru
+regim2.ssau.ru
+ifn1.ssau.ru
+kipla26.ssau.ru
+cab1.ssau.ru
+niau.ssau.ru
+fd4.ssau.ru
+cp9.aviatech.ssau.ru
+block2.ssau.ru
+91.222.130.146-pppoe.ssau.ru
+buch3.ssau.ru
+kadr.ssau.ru
+ciad2.ssau.ru
+www.sokol.ssau.ru
+www.phpadmin.ssau.ru
+bibliotech.ssau.ru
+mb02.ssau.ru
+vfdla.ssau.ru
+profsot.ssau.ru
+climentieff.ssau.ru
+endowment.ssau.ru
+mom2.ssau.ru
+tem413.ssau.ru
+www.journals.ssau.ru
+catlab.ssau.ru
+bjd1.ssau.ru
+videocam11.ssau.ru
+profunion1.ssau.ru
+pnn1.ssau.ru
+aes16.ssau.ru
+savin3.ssau.ru
+aes24.ssau.ru
+uvr.ssau.ru
+oot.ssau.ru
+www.metaldeform2017.ssau.ru
+kancl.ssau.ru
+ubs2016.ssau.ru
+doc.ssau.ru
+91.222.130.184-pppoe.ssau.ru
+tem413-1.ssau.ru
+ser.ssau.ru
+aes.ssau.ru
+snil.ssau.ru
+sp.ssau.ru
+htm2015.ssau.ru
+oisio.ssau.ru
+obinfcisco1.ssau.ru
+int1.ssau.ru
+ttd132.ssau.ru
+regim3.ssau.ru
+pla510.ssau.ru
+polit1.ssau.ru
+91.222.130.155-pppoe.ssau.ru
+spb.ssau.ru
+nil45mt3.ssau.ru
+91.222.130.139-pppoe.ssau.ru
+korolev2013.ssau.ru
+tdla312.ssau.ru
+rcse.ssau.ru
+rhub.ssau.ru
+innmen.ssau.ru
+vis.ssau.ru
+91.222.130.50-pppoe.ssau.ru
+91.222.130.140-pppoe.ssau.ru
+orz.ssau.ru
+sw15-vlan254.ssau.ru
+tube.ssau.ru
+en.pdc.ssau.ru
+91.222.130.46-pppoe.ssau.ru
+ino1.ssau.ru
+91.222.130.182-pppoe.ssau.ru
+patent12.ssau.ru
+vjakin.ssau.ru
+inncntr3.ssau.ru
+pdla1.ssau.ru
+oupt.ssau.ru
+rmds.ssau.ru
+mom1.ssau.ru
+ds.ssau.ru
+dan.ssau.ru
+vpn.ssau.ru
+91.222.130.148-pppoe.ssau.ru
+91.222.130.131-pppoe.ssau.ru
+templet.ssau.ru
+rtsyst.ssau.ru
+itc.ssau.ru
+print4.ssau.ru
+imcisu.ssau.ru
+aseu3.ssau.ru
+91.222.130.133-pppoe.ssau.ru
+91.222.130.190-pppoe.ssau.ru
+bis.ssau.ru
+tmserv.ssau.ru
+91.222.130.165-pppoe.ssau.ru
+kafedra-ps.ssau.ru
+cp7.aviatech.ssau.ru
+91.222.130.163-pppoe.ssau.ru
+iat.ssau.ru
+5top100conf.ssau.ru
+volgactf.ssau.ru
+lanii205.ssau.ru
+mme2.ssau.ru
+gw-1k.ssau.ru
+cp26.aviatech.ssau.ru
+aseu2.ssau.ru
+lic2.ssau.ru
+91.222.130.153-pppoe.ssau.ru
+president.ssau.ru
+ino.ssau.ru
+ai.ssau.ru
+91.222.130.144-pppoe.ssau.ru
+nas21.ssau.ru
+cp18.aviatech.ssau.ru
+akps3.ssau.ru
+stream-tv.ssau.ru
+91.222.130.48-pppoe.ssau.ru
+omd.ssau.ru
+videofoto.ssau.ru
+pfo220.ssau.ru
+kipdla108.ssau.ru
+91.222.130.156-pppoe.ssau.ru
+ist426.ssau.ru
+lic.ssau.ru
+en.ssau.ru
+cp27.aviatech.ssau.ru
+bankomat3a.ssau.ru
+smt.ssau.ru
+sk1.ssau.ru
+sport4.ssau.ru
+91.222.130.61-pppoe.ssau.ru
+nti.ssau.ru
+onil16.ssau.ru
+mediasamsu.ssau.ru
+splav.ssau.ru
+onil5.ssau.ru
+acm.ssau.ru
+print3.ssau.ru
+abit.ssau.ru
+innmen248.ssau.ru
+asr-vlan55.ssau.ru
+tmam309a.ssau.ru
+lms.ssau.ru
+91.222.130.189-pppoe.ssau.ru
+phys1.ssau.ru
+cp11.aviatech.ssau.ru
+ist12.ssau.ru
+savin1.ssau.ru
+pfu2.ssau.ru
+bbb7.ssau.ru
+fce4.ssau.ru
+museum4.ssau.ru
+kons.ssau.ru
+feu1.ssau.ru
+nam.ssau.ru
+fd.ssau.ru
+oupt3.ssau.ru
+aseu337.ssau.ru
+91.222.130.35-pppoe.ssau.ru
+fdla.ssau.ru
+fla.ssau.ru
+pfu1.ssau.ru
+www.samaviat.ssau.ru
+okm432.ssau.ru
+91.222.130.161-pppoe.ssau.ru
+fd2.ssau.ru
+publications.ssau.ru
+print-do.ssau.ru
+91.222.130.40-pppoe.ssau.ru
+phpadmin.ssau.ru
+skb1.ssau.ru
+medium.ssau.ru
+nil43.ssau.ru
+cp17.aviatech.ssau.ru
+delcntr.ssau.ru
+bjd4.ssau.ru
+ino2.ssau.ru
+school.ssau.ru
+graphplus.ssau.ru
+mail.ssau.ru
+bbb.ssau.ru
+cp10.aviatech.ssau.ru
+smus1.ssau.ru
+tdla202a.ssau.ru
+rgcep.ssau.ru
+91.222.130.179-pppoe.ssau.ru
+tdla.ssau.ru
+oks2.ssau.ru
+oip.ssau.ru
+igr325g.ssau.ru
+mooc.ssau.ru
+aseu.ssau.ru
+obinfcisco2.ssau.ru
+91.222.130.45-pppoe.ssau.ru
+fem.ssau.ru
+gw-net131.ssau.ru
+do.ssau.ru
+math1.ssau.ru
+chem.ssau.ru
+91.222.130.186-pppoe.ssau.ru
+oks1.ssau.ru
+fin513.ssau.ru
+konf-nk404.ssau.ru
+tdla318-2.ssau.ru
+gto.ssau.ru
+91.222.130.130-pppoe.ssau.ru
+shakhm.ssau.ru
+portalweb.ssau.ru
+int.ssau.ru
+www.gosuniver.ssau.ru
+distance.ssau.ru
+polet.ssau.ru
+big-vlan10.ssau.ru
+www.cnit.ssau.ru
+komendant3.ssau.ru
+tm431.ssau.ru
+proctor.ssau.ru
+cp20.aviatech.ssau.ru
+boss.ssau.ru
+profkom.ssau.ru
+fbpfn7.ssau.ru
+help.ssau.ru
+aslanov.ssau.ru
+mdeform.ssau.ru
+aspir1.ssau.ru
+91.222.130.143-pppoe.ssau.ru
+aviatech-gw.ssau.ru
+cpr.ssau.ru
+plasma.ssau.ru
+stream.ssau.ru
+www.lk.ssau.ru
+cgdi2.ssau.ru
+speleo.ssau.ru
+www.chem.ssau.ru
+91.222.130.59-pppoe.ssau.ru
+cgdi3.ssau.ru
+korolev2015.ssau.ru
+botsad-adm.ssau.ru
+mailfilter.ssau.ru
+kipla22.ssau.ru
+91.222.130.135-pppoe.ssau.ru
+radiot.ssau.ru
+91.222.130.176-pppoe.ssau.ru
+ino3.ssau.ru
+aseu323.ssau.ru
+91.222.130.145-pppoe.ssau.ru
+www.ssau.ru
+tdla318.ssau.ru
+ist11.ssau.ru
+91.222.130.41-pppoe.ssau.ru
+centruk.ssau.ru
+lnp.ssau.ru
+91.222.130.157-pppoe.ssau.ru
+askb.ssau.ru
+prochnost.ssau.ru
+onil-16.ssau.ru
+91.222.130.177-pppoe.ssau.ru
+rs34.ssau.ru
+eltech.ssau.ru
+gosuniver.ssau.ru
+labiom.ssau.ru
+hosting.ssau.ru
+pla-ukm.ssau.ru
+nig82.ssau.ru
+lbts.ssau.ru
+phys.ssau.ru
+www.dvm2016.ssau.ru
+91.222.130.47-pppoe.ssau.ru
+sokol.ssau.ru
+nas12.ssau.ru
+nas22.ssau.ru
+chem326a.ssau.ru
+aseu321.ssau.ru
+itest.ssau.ru
+bcp.ssau.ru
+comphyschem.ssau.ru
+uuvr1.ssau.ru
+91.222.130.34-pppoe.ssau.ru
+feu.ssau.ru
+block.ssau.ru
+unikon.ssau.ru
+www.kipla.ssau.ru
+nil57.ssau.ru
+91.222.130.53-pppoe.ssau.ru
+aseu5.ssau.ru
+print9.ssau.ru
+diop.ssau.ru
+lk.ssau.ru
+lyceum.ssau.ru
+sport3.ssau.ru
+ist09.ssau.ru
+krea.ssau.ru
+print2.ssau.ru
+passport.ssau.ru
+acvrb.ssau.ru
+info-sckool.ssau.ru
+ifn.ssau.ru
+91.222.130.60-pppoe.ssau.ru
+91.222.130.151-pppoe.ssau.ru
+91.222.130.180-pppoe.ssau.ru
+fit.ssau.ru
+hvzal.ssau.ru
+universite.ssau.ru
+dynvibro.ssau.ru
+career.ssau.ru
+91.222.130.43-pppoe.ssau.ru
+metod.ssau.ru
+war2.ssau.ru
+cnit.ssau.ru
+proton.ssau.ru
+polit210.ssau.ru
+forms.ssau.ru
+korolev.ssau.ru
+eds.ssau.ru
+robofest.ssau.ru
+91.222.130.154-pppoe.ssau.ru
+phil1.ssau.ru
+91.222.130.178-pppoe.ssau.ru
+fdp1.ssau.ru
+tdla305.ssau.ru
+fdla1.ssau.ru
+pravo.ssau.ru
+profunion2.ssau.ru
+mb.ssau.ru
+fd1.ssau.ru
+www.ai.ssau.ru
+pdc.ssau.ru
+germanistik.ssau.ru
+belokonov.ssau.ru
+teach.ssau.ru
+lb-vip.ssau.ru
+nil97.ssau.ru
+sk0.ssau.ru
+axo12.ssau.ru
+nil45mt2.ssau.ru
+bochkarev.ssau.ru
+print.ssau.ru
+start.ssau.ru
+91.222.130.162-pppoe.ssau.ru
+91.222.130.55-pppoe.ssau.ru
+amber.ssau.ru
+phys307a.ssau.ru
+91.222.130.191-pppoe.ssau.ru
+rtf1.ssau.ru
+virkt.ssau.ru
+videocam4.ssau.ru
+www.itschool.ssau.ru
+sw15-vlan3.ssau.ru
+spaceresearch.ssau.ru
+nil54.ssau.ru
+91.222.130.129-pppoe.ssau.ru
+geoinfb.ssau.ru
+lyceum4.ssau.ru
+priem2.ssau.ru
+aelita1.ssau.ru
+3d.ssau.ru
+pla520.ssau.ru
+aist.ssau.ru
+akps.ssau.ru
+onil2.ssau.ru
+pfu5.ssau.ru
+nil-41-138.ssau.ru
+91.222.130.160-pppoe.ssau.ru
+videostud.ssau.ru
+confdvm2014.ssau.ru
+atx.ssau.ru
+kipdla209.ssau.ru
+osni210a.ssau.ru
+ebs.ssau.ru
+srmoodle.ssau.ru
+kozlov.ssau.ru
+ats.ssau.ru
+aes25.ssau.ru
+biotech1.ssau.ru
+geoinfb2.ssau.ru
+inncentr.ssau.ru
+91.222.130.169-pppoe.ssau.ru
+91.222.130.44-pppoe.ssau.ru
+pro-ov.ssau.ru
+ivc106a.ssau.ru
+tp-biopark.ssau.ru
+chemistry.ssau.ru
+axokom3a.ssau.ru
+www.kipdla.ssau.ru
+fin504.ssau.ru
+ivt113.ssau.ru
+pdla.ssau.ru
+sopromat.ssau.ru
+eat1.ssau.ru
+progsist.ssau.ru
+pla501-1.ssau.ru
+vprogsist.ssau.ru
+kurs.ssau.ru
+mme1.ssau.ru
+print10.ssau.ru
+sp01.ssau.ru
+nas11.ssau.ru
+ogm.ssau.ru
+expert-forum.ssau.ru
+phys2.ssau.ru
+kgv.ssau.ru
+kipla.ssau.ru
+www.aero.ssau.ru
+oupt1.ssau.ru
+rkt.ssau.ru
+aseu7.ssau.ru
+fce2.ssau.ru
+journals.ssau.ru
+adm3.ssau.ru
+dvm2016.ssau.ru
+cp25.aviatech.ssau.ru
+osd.ssau.ru
+sport17-4.ssau.ru
+stim.ssau.ru
+regim.ssau.ru
+polenk-cl.ssau.ru
+forlang.ssau.ru
+91.222.130.152-pppoe.ssau.ru
+smu.ssau.ru
+priem1.ssau.ru
+fce1.ssau.ru
+sputnik.ssau.ru
+mpm.ssau.ru
+mme3.ssau.ru
+aerd1.ssau.ru
+pla501.ssau.ru
+rektor.ssau.ru
+newbig-vlan55.ssau.ru
+laarm.ssau.ru
+aseu322.ssau.ru
+sport1.ssau.ru
+virtual6.ssau.ru
+sw15-vlan55.ssau.ru
+rtu.ssau.ru
+ideu.ssau.ru
+91.222.130.33-pppoe.ssau.ru
+veter.ssau.ru
+baza.ssau.ru
+tdla1.ssau.ru
+okvd522a.ssau.ru
+sacc.ssau.ru
+repo.ssau.ru
+botsad-orang.ssau.ru
+diss.ssau.ru
+yachtclub.ssau.ru
+91.222.130.36-pppoe.ssau.ru
+bjd3.ssau.ru
+fdp.ssau.ru
+wbc.ssau.ru
+91.222.130.172-pppoe.ssau.ru
+addpro.ssau.ru
+91.222.130.138-pppoe.ssau.ru
+distance.itschool.ssau.ru
+91.222.130.49-pppoe.ssau.ru
+vestniksamgu.ssau.ru
+mb01.ssau.ru
+teach1.ssau.ru
+inncntr2.ssau.ru
+www.smu.ssau.ru
+priem.ssau.ru
+lotus.ssau.ru
+econcentre.ssau.ru
+tdla0.ssau.ru
+91.222.130.142-pppoe.ssau.ru
+cgdi1.ssau.ru
+life.ssau.ru
+www.omd.ssau.ru
+adm2.ssau.ru
+big-vlan55.ssau.ru
+orz1.ssau.ru
+ist420.ssau.ru
+www.philosophy.ssau.ru
+nigmech.ssau.ru
+philosophy.ssau.ru
+tm.ssau.ru
+aseu331.ssau.ru
+91.222.130.54-pppoe.ssau.ru
+nil45mt1.ssau.ru
+91.222.130.149-pppoe.ssau.ru
+unc.ssau.ru
+91.222.130.63-pppoe.ssau.ru
+savin2.ssau.ru
+kultura.ssau.ru
+obinf3.ssau.ru
+itschool.ssau.ru
+felib.ssau.ru
+inf.ssau.ru
+cp13.aviatech.ssau.ru
+91.222.130.166-pppoe.ssau.ru
+ist501.ssau.ru
+forum.ssau.ru
+91.222.130.183-pppoe.ssau.ru
+91.222.130.173-pppoe.ssau.ru
+aseu411.ssau.ru
+oge.ssau.ru
+inf432.ssau.ru
+ist510.ssau.ru
+lyceum2.ssau.ru
+91.222.130.137-pppoe.ssau.ru
+aes12a.ssau.ru
+r1-vlan254.ssau.ru
+rtfmoodle.ssau.ru
+museum.ssau.ru
+crpoo.ssau.ru
+www.aseu.ssau.ru

@@ -1,2 +1,2 @@
-NOERROR	www.dbskkv.org
-NOERROR	dbskkv.org
+www.dbskkv.org
+dbskkv.org

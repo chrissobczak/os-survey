@@ -1,45 +1,28 @@
-NXDOMAIN	dept.honad.honolulu.hawaii.edu
-NOERROR	vdi.honad.honolulu.hawaii.edu
-NXDOMAIN	viewserver1.honad.honolulu.hawaii.edu
-NOERROR	clubs.honolulu.hawaii.edu
-NOERROR	home.honolulu.hawaii.edu
-NXDOMAIN	jobplacement.honolulu.hawaii.edu
-NXDOMAIN	viewserver3.honad.honolulu.hawaii.edu
-NOERROR	campus.honolulu.hawaii.edu
-NXDOMAIN	2.honolulu.hawaii.edu
-NOERROR	programs.honolulu.hawaii.edu
-NOERROR	dc000.honolulu.hawaii.edu
-NOERROR	intranet.honolulu.hawaii.edu
-NOERROR	dc001.honolulu.hawaii.edu
-NOERROR	library.honolulu.hawaii.edu
-NOERROR	cisco.honolulu.hawaii.edu
-NOERROR	viewsecurity2.honad.honolulu.hawaii.edu
-NXDOMAIN	viewserver2.honad.honolulu.hawaii.edu
-NXDOMAIN	aruba-master.honolulu.hawaii.edu
-NOERROR	www2.honolulu.hawaii.edu
-NXDOMAIN	itsdev4.honolulu.hawaii.edu
-NOERROR	www.honolulu.hawaii.edu
-NOERROR	honits.honolulu.hawaii.edu
-NXDOMAIN	itc.honolulu.hawaii.edu
-NXDOMAIN	wellness.honad.honolulu.hawaii.edu
-NXDOMAIN	honad03.honad.honolulu.hawaii.edu
-NOERROR	its.honolulu.hawaii.edu
-NOERROR	viewsecurity1.honad.honolulu.hawaii.edu
-NOERROR	portal.honolulu.hawaii.edu
-NOERROR	coursecontent1.honolulu.hawaii.edu
-NOERROR	honolulu.hawaii.edu
-NXDOMAIN	avit.honolulu.hawaii.edu
-NOERROR	depts.honad.honolulu.hawaii.edu
-NOERROR	programs00.honolulu.hawaii.edu
-NXDOMAIN	viewserver4.honad.honolulu.hawaii.edu
-NOERROR	mele.honolulu.hawaii.edu
-NOERROR	itmgt.honad.honolulu.hawaii.edu
-NXDOMAIN	ssl.honolulu.hawaii.edu
-NOERROR	libart.honolulu.hawaii.edu
-NXDOMAIN	itsapps01.honolulu.hawaii.edu
-NOERROR	dc002.honolulu.hawaii.edu
-NOERROR	its2.honolulu.hawaii.edu
-NOERROR	honfedsvcs.honad.honolulu.hawaii.edu
-NOERROR	www00.honolulu.hawaii.edu
-NXDOMAIN	mysuccess.honolulu.hawaii.edu
-NXDOMAIN	honad01.honad.honolulu.hawaii.edu
+vdi.honad.honolulu.hawaii.edu
+clubs.honolulu.hawaii.edu
+home.honolulu.hawaii.edu
+campus.honolulu.hawaii.edu
+programs.honolulu.hawaii.edu
+dc000.honolulu.hawaii.edu
+intranet.honolulu.hawaii.edu
+dc001.honolulu.hawaii.edu
+library.honolulu.hawaii.edu
+cisco.honolulu.hawaii.edu
+viewsecurity2.honad.honolulu.hawaii.edu
+www2.honolulu.hawaii.edu
+www.honolulu.hawaii.edu
+honits.honolulu.hawaii.edu
+its.honolulu.hawaii.edu
+viewsecurity1.honad.honolulu.hawaii.edu
+portal.honolulu.hawaii.edu
+coursecontent1.honolulu.hawaii.edu
+honolulu.hawaii.edu
+depts.honad.honolulu.hawaii.edu
+programs00.honolulu.hawaii.edu
+mele.honolulu.hawaii.edu
+itmgt.honad.honolulu.hawaii.edu
+libart.honolulu.hawaii.edu
+dc002.honolulu.hawaii.edu
+its2.honolulu.hawaii.edu
+honfedsvcs.honad.honolulu.hawaii.edu
+www00.honolulu.hawaii.edu

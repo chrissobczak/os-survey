@@ -1,97 +1,97 @@
-NOERROR	www.bmw.uef.ru
-NOERROR	oncology.uef.ru
-NOERROR	www.turist.uef.ru
-NOERROR	www.venerolog.uef.ru
-NOERROR	www.avtolombard.uef.ru
-NOERROR	mail.uef.ru
-NOERROR	ginekolog.uef.ru
-NOERROR	www.stroyka.uef.ru
-NOERROR	www.lib.uef.ru
-NOERROR	venerolog.uef.ru
-NOERROR	www.gigastroi.uef.ru
-NOERROR	www.gemorroy.uef.ru
-NOERROR	avtolombard.uef.ru
-NOERROR	gemorroy.uef.ru
-NOERROR	www.zapoy.uef.ru
-NOERROR	www.kartograf.uef.ru
-NOERROR	hcv.uef.ru
-NOERROR	varikoz.uef.ru
-NOERROR	kannabis.uef.ru
-NOERROR	www.maviret.uef.ru
-NOERROR	www.kannabis.uef.ru
-NOERROR	www.gepatit.uef.ru
-NOERROR	remont-avto.uef.ru
-NOERROR	samogon.uef.ru
-NOERROR	generator.uef.ru
-NOERROR	www.hcv.uef.ru
-NOERROR	hemorrhoid.uef.ru
-NOERROR	www.karta.uef.ru
-NOERROR	uef.ru
-NOERROR	www.zaym.uef.ru
-NOERROR	sustav.uef.ru
-NOERROR	hiv.uef.ru
-NOERROR	www.marketing.uef.ru
-NOERROR	www.alkogolizm.uef.ru
-NOERROR	www.zalog.uef.ru
-NOERROR	www.hemorrhoid.uef.ru
-NOERROR	www.sofosbuvir.uef.ru
-NOERROR	remont-auto.uef.ru
-NOERROR	www.varikoz.uef.ru
-NOERROR	www.dengi.uef.ru
-NOERROR	zapoy.uef.ru
-NOERROR	stroyka.uef.ru
-NOERROR	pechen.uef.ru
-NOERROR	gallery.uef.ru
-NOERROR	www.turizm.uef.ru
-NOERROR	zalog.uef.ru
-NOERROR	www.pechen.uef.ru
-NOERROR	bmw.uef.ru
-NOERROR	remont-pc.uef.ru
-NOERROR	www.tur.uef.ru
-NOERROR	zakon.uef.ru
-NOERROR	semena.uef.ru
-NOERROR	pochta.uef.ru
-NOERROR	www.samogon.uef.ru
-NOERROR	www.remont-pc.uef.ru
-NOERROR	www.remont-avto.uef.ru
-NOERROR	squid.uef.ru
-NOERROR	ems.uef.ru
-NOERROR	kartograf.uef.ru
-NOERROR	www.platezh.uef.ru
-NOERROR	sberbank.uef.ru
-NOERROR	www.ginekolog.uef.ru
-NOERROR	www.oncology.uef.ru
-NOERROR	tur.uef.ru
-NOERROR	www.hiv.uef.ru
-NOERROR	credit.uef.ru
-NOERROR	www.semena.uef.ru
-NOERROR	main.uef.ru
-NOERROR	alkogolizm.uef.ru
-NOERROR	trouble.uef.ru
-NOERROR	www.offshor.uef.ru
-NOERROR	zaym.uef.ru
-NOERROR	turist.uef.ru
-NOERROR	gepatit.uef.ru
-NOERROR	offshor.uef.ru
-NOERROR	www.credit.uef.ru
-NOERROR	www.ems.uef.ru
-NOERROR	www.maps.uef.ru
-NOERROR	www.sberbank.uef.ru
-NOERROR	turizm.uef.ru
-NOERROR	www.testtest.uef.ru
-NOERROR	www.uef.ru
-NOERROR	karta.uef.ru
-NOERROR	www.remont-auto.uef.ru
-NOERROR	www.pochta.uef.ru
-NOERROR	maps.uef.ru
-NOERROR	maviret.uef.ru
-NOERROR	platezh.uef.ru
-NOERROR	testtest.uef.ru
-NOERROR	www.sustav.uef.ru
-NOERROR	www.zakon.uef.ru
-NOERROR	www.generator.uef.ru
-NOERROR	dengi.uef.ru
-NOERROR	ns.uef.ru
-NOERROR	alfa-bank.uef.ru
-NOERROR	sofosbuvir.uef.ru
-NOERROR	gigastroi.uef.ru
+www.bmw.uef.ru
+oncology.uef.ru
+www.turist.uef.ru
+www.venerolog.uef.ru
+www.avtolombard.uef.ru
+mail.uef.ru
+ginekolog.uef.ru
+www.stroyka.uef.ru
+www.lib.uef.ru
+venerolog.uef.ru
+www.gigastroi.uef.ru
+www.gemorroy.uef.ru
+avtolombard.uef.ru
+gemorroy.uef.ru
+www.zapoy.uef.ru
+www.kartograf.uef.ru
+hcv.uef.ru
+varikoz.uef.ru
+kannabis.uef.ru
+www.maviret.uef.ru
+www.kannabis.uef.ru
+www.gepatit.uef.ru
+remont-avto.uef.ru
+samogon.uef.ru
+generator.uef.ru
+www.hcv.uef.ru
+hemorrhoid.uef.ru
+www.karta.uef.ru
+uef.ru
+www.zaym.uef.ru
+sustav.uef.ru
+hiv.uef.ru
+www.marketing.uef.ru
+www.alkogolizm.uef.ru
+www.zalog.uef.ru
+www.hemorrhoid.uef.ru
+www.sofosbuvir.uef.ru
+remont-auto.uef.ru
+www.varikoz.uef.ru
+www.dengi.uef.ru
+zapoy.uef.ru
+stroyka.uef.ru
+pechen.uef.ru
+gallery.uef.ru
+www.turizm.uef.ru
+zalog.uef.ru
+www.pechen.uef.ru
+bmw.uef.ru
+remont-pc.uef.ru
+www.tur.uef.ru
+zakon.uef.ru
+semena.uef.ru
+pochta.uef.ru
+www.samogon.uef.ru
+www.remont-pc.uef.ru
+www.remont-avto.uef.ru
+squid.uef.ru
+ems.uef.ru
+kartograf.uef.ru
+www.platezh.uef.ru
+sberbank.uef.ru
+www.ginekolog.uef.ru
+www.oncology.uef.ru
+tur.uef.ru
+www.hiv.uef.ru
+credit.uef.ru
+www.semena.uef.ru
+main.uef.ru
+alkogolizm.uef.ru
+trouble.uef.ru
+www.offshor.uef.ru
+zaym.uef.ru
+turist.uef.ru
+gepatit.uef.ru
+offshor.uef.ru
+www.credit.uef.ru
+www.ems.uef.ru
+www.maps.uef.ru
+www.sberbank.uef.ru
+turizm.uef.ru
+www.testtest.uef.ru
+www.uef.ru
+karta.uef.ru
+www.remont-auto.uef.ru
+www.pochta.uef.ru
+maps.uef.ru
+maviret.uef.ru
+platezh.uef.ru
+testtest.uef.ru
+www.sustav.uef.ru
+www.zakon.uef.ru
+www.generator.uef.ru
+dengi.uef.ru
+ns.uef.ru
+alfa-bank.uef.ru
+sofosbuvir.uef.ru
+gigastroi.uef.ru

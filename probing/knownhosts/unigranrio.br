@@ -1,24 +1,8 @@
-NOERROR	unigranrio.br
-NXDOMAIN	www.wifi.unigranrio.br
-NXDOMAIN	ssrs.unigranrio.br
-NOERROR	apps.unigranrio.br
-NOERROR	pos.unigranrio.br
-NXDOMAIN	publicacoes.unigranrio.br
-NXDOMAIN	dns.unigranrio.br
-NXDOMAIN	www.ruckus.unigranrio.br
-NOERROR	www.unigranrio.br
-NXDOMAIN	www.srvrdp.unigranrio.br
-NXDOMAIN	ns1.unigranrio.br
-NOERROR	wifi.unigranrio.br
-NOERROR	www2.unigranrio.br
-NXDOMAIN	sistemas.unigranrio.br
-NXDOMAIN	www.sistemas.unigranrio.br
-NXDOMAIN	portal.unigranrio.br
-NXDOMAIN	webmail.unigranrio.br
-NXDOMAIN	hal9000.unigranrio.br
-NOERROR	srvrdp.unigranrio.br
-NXDOMAIN	ruckus.unigranrio.br
-NOERROR	blogs.unigranrio.br
-NXDOMAIN	vestibular.unigranrio.br
-NXDOMAIN	net.unigranrio.br
-NXDOMAIN	ead.unigranrio.br
+unigranrio.br
+apps.unigranrio.br
+pos.unigranrio.br
+www.unigranrio.br
+wifi.unigranrio.br
+www2.unigranrio.br
+srvrdp.unigranrio.br
+blogs.unigranrio.br

@@ -1,158 +1,114 @@
-NOERROR	path.kantiana.ru
-NOERROR	cw.kantiana.ru
-NOERROR	newjob.kantiana.ru
-NOERROR	geoserver.aimg.kantiana.ru
-NOERROR	f.kantiana.ru
-NOERROR	med.kantiana.ru
-NOERROR	ns2.kantiana.ru
-NOERROR	mx.kantiana.ru
-NOERROR	olymp2017.kantiana.ru
-NXDOMAIN	pilula.kantiana.ru
-NXDOMAIN	sdo-1.kantiana.ru
-NXDOMAIN	edu.aimg.kantiana.ru
-NOERROR	www.old.kantiana.ru
-NOERROR	kantiana.ru
-NOERROR	kantiana-old.kantiana.ru
-NOERROR	billing1.kantiana.ru
-NXDOMAIN	lms-1.kantiana.ru
-NXDOMAIN	mail.innopark.kantiana.ru
-NOERROR	exch2016-2.stud.kantiana.ru
-NOERROR	edge.kantiana.ru
-NOERROR	aimg.kantiana.ru
-NOERROR	metageo.aimg.kantiana.ru
-NOERROR	lms-3.kantiana.ru
-NOERROR	garden.kantiana.ru
-NOERROR	museum.kantiana.ru
-NOERROR	nginx-1.kantiana.ru
-NOERROR	nir.kantiana.ru
-NXDOMAIN	otchet-nauka.kantiana.ru
-NXDOMAIN	www.philoslog.kantiana.ru
-NXDOMAIN	ctf.kantiana.ru
-SERVFAIL	hamster.int.kantiana.ru
-NOERROR	lib.kantiana.ru
-NOERROR	lk.kantiana.ru
-NOERROR	pbx.kantiana.ru
-NOERROR	olymp.kantiana.ru
-NOERROR	alumni.kantiana.ru
-NOERROR	clinic.kantiana.ru
-NXDOMAIN	schedule.kantiana.ru
-NXDOMAIN	pt.kantiana.ru
-NOERROR	ru-olymp.kantiana.ru
-NOERROR	docs.kantiana.ru
-NXDOMAIN	abitstat.kantiana.ru
-NOERROR	ckp.kantiana.ru
-NOERROR	gps.kantiana.ru
-NOERROR	cdo.kantiana.ru
-NOERROR	hosting-ispconfig-1.kantiana.ru
-NOERROR	journals.kantiana.ru
-NOERROR	devfest.kantiana.ru
-NXDOMAIN	law.kantiana.ru
-NOERROR	connect.kantiana.ru
-NXDOMAIN	genlab.innopark.kantiana.ru
-NOERROR	reserve.kantiana.ru
-NOERROR	innopark.kantiana.ru
-NOERROR	nauka.kantiana.ru
-NXDOMAIN	rating.kantiana.ru
-NXDOMAIN	dr.kantiana.ru
-NOERROR	www.kantiana.ru
-NOERROR	region.kantiana.ru
-NOERROR	labs.kantiana.ru
-NOERROR	billing.kantiana.ru
-NOERROR	vpn.kantiana.ru
-NOERROR	woodpecker.kantiana.ru
-NOERROR	pr.kantiana.ru
-NOERROR	mizar.kantiana.ru
-NOERROR	vpn2.kantiana.ru
-NOERROR	mizar2.kantiana.ru
-NOERROR	startup.kantiana.ru
-NOERROR	www.devfest.kantiana.ru
-NOERROR	ns1.kantiana.ru
-NOERROR	atmos.kantiana.ru
-NOERROR	www.sls.kantiana.ru
-NXDOMAIN	milovsky-gallery.kantiana.ru
-NXDOMAIN	n.kantiana.ru
-NXDOMAIN	ru.kantiana.ru
-NOERROR	ns0.kantiana.ru
-NXDOMAIN	lms-2.kantiana.ru
-NOERROR	examreg.kantiana.ru
-NOERROR	anketa.kantiana.ru
-NXDOMAIN	itacademy.kantiana.ru
-NXDOMAIN	books.kantiana.ru
-NOERROR	fk.kantiana.ru
-NOERROR	mediamed.kantiana.ru
-NOERROR	ez.kantiana.ru
-NOERROR	studmail.kantiana.ru
-NXDOMAIN	fn.innopark.kantiana.ru
-NOERROR	de.kantiana.ru
-NOERROR	studlk.kantiana.ru
-NXDOMAIN	labdoc.kantiana.ru
-NOERROR	sc.kantiana.ru
-NOERROR	sciencegroups.kantiana.ru
-NXDOMAIN	check.kantiana.ru
-NOERROR	cepri.kantiana.ru
-NOERROR	history.kantiana.ru
-NOERROR	olymp2017m.kantiana.ru
-NOERROR	old.kantiana.ru
-NOERROR	job.kantiana.ru
-NXDOMAIN	tss.kantiana.ru
-NOERROR	penguin.stud.kantiana.ru
-NXDOMAIN	grizzly.kantiana.ru
-NOERROR	at.kantiana.ru
-NOERROR	special.kantiana.ru
-NOERROR	unichild.kantiana.ru
-NOERROR	lms.kantiana.ru
-NOERROR	ign.kantiana.ru
-NXDOMAIN	grant.kantiana.ru
-NXDOMAIN	bunc.kantiana.ru
-NOERROR	ibs-hr.kantiana.ru
-NOERROR	rabbit.stud.kantiana.ru
-NOERROR	litolymp.kantiana.ru
-NOERROR	hosting-bitrix-2.kantiana.ru
-NOERROR	edu.kantiana.ru
-NOERROR	abit.kantiana.ru
-NOERROR	5top100.kantiana.ru
-SERVFAIL	whale.int.kantiana.ru
-NXDOMAIN	www.ciel.kantiana.ru
-NOERROR	www.medik.kantiana.ru
-NOERROR	cluster-docs.kantiana.ru
-NXDOMAIN	photos.kantiana.ru
-NOERROR	skpntp.kantiana.ru
-NXDOMAIN	abibrs.kantiana.ru
-NOERROR	rooms.conf.kantiana.ru
-NOERROR	science.kantiana.ru
-NOERROR	hosting-bitrix-1.kantiana.ru
-NXDOMAIN	sakai.kantiana.ru
-NOERROR	sls.kantiana.ru
-NXDOMAIN	abitrating.kantiana.ru
-NOERROR	www.aimg.kantiana.ru
-NOERROR	kant2017.kantiana.ru
-NXDOMAIN	mailserv.innopark.kantiana.ru
-NOERROR	livecam.kantiana.ru
-NOERROR	conf.kantiana.ru
-NOERROR	socmap.kantiana.ru
-NXDOMAIN	geonetwork.aimg.kantiana.ru
-NOERROR	dc-05.stud.kantiana.ru
-NXDOMAIN	sno.kantiana.ru
-NOERROR	ftp.aimg.kantiana.ru
-NOERROR	bioinfodbs.kantiana.ru
-NOERROR	webmail.kantiana.ru
-NOERROR	hosting-generic-1.kantiana.ru
-NXDOMAIN	design.kantiana.ru
-NXDOMAIN	contester.kantiana.ru
-NOERROR	fr.kantiana.ru
-NXDOMAIN	sport.kantiana.ru
-NOERROR	elib.kantiana.ru
-NOERROR	conference.kantiana.ru
-NOERROR	stud.kantiana.ru
-NXDOMAIN	brs.kantiana.ru
-NOERROR	www.olymp2017.kantiana.ru
-NOERROR	medik.kantiana.ru
-NOERROR	clusterwiki.kantiana.ru
-NOERROR	gdg.kantiana.ru
-NXDOMAIN	sdo-2.kantiana.ru
-NOERROR	eng.kantiana.ru
-NOERROR	pr5100.kantiana.ru
-NOERROR	gate.kantiana.ru
-NOERROR	ek.kantiana.ru
-NOERROR	atmos2.kantiana.ru
-NXDOMAIN	medialib.kantiana.ru
+path.kantiana.ru
+cw.kantiana.ru
+newjob.kantiana.ru
+geoserver.aimg.kantiana.ru
+f.kantiana.ru
+med.kantiana.ru
+ns2.kantiana.ru
+mx.kantiana.ru
+olymp2017.kantiana.ru
+www.old.kantiana.ru
+kantiana.ru
+kantiana-old.kantiana.ru
+billing1.kantiana.ru
+exch2016-2.stud.kantiana.ru
+edge.kantiana.ru
+aimg.kantiana.ru
+metageo.aimg.kantiana.ru
+lms-3.kantiana.ru
+garden.kantiana.ru
+museum.kantiana.ru
+nginx-1.kantiana.ru
+nir.kantiana.ru
+lib.kantiana.ru
+lk.kantiana.ru
+pbx.kantiana.ru
+olymp.kantiana.ru
+alumni.kantiana.ru
+clinic.kantiana.ru
+ru-olymp.kantiana.ru
+docs.kantiana.ru
+ckp.kantiana.ru
+gps.kantiana.ru
+cdo.kantiana.ru
+hosting-ispconfig-1.kantiana.ru
+journals.kantiana.ru
+devfest.kantiana.ru
+connect.kantiana.ru
+reserve.kantiana.ru
+innopark.kantiana.ru
+nauka.kantiana.ru
+www.kantiana.ru
+region.kantiana.ru
+labs.kantiana.ru
+billing.kantiana.ru
+vpn.kantiana.ru
+woodpecker.kantiana.ru
+pr.kantiana.ru
+mizar.kantiana.ru
+vpn2.kantiana.ru
+mizar2.kantiana.ru
+startup.kantiana.ru
+www.devfest.kantiana.ru
+ns1.kantiana.ru
+atmos.kantiana.ru
+www.sls.kantiana.ru
+ns0.kantiana.ru
+examreg.kantiana.ru
+anketa.kantiana.ru
+fk.kantiana.ru
+mediamed.kantiana.ru
+ez.kantiana.ru
+studmail.kantiana.ru
+de.kantiana.ru
+studlk.kantiana.ru
+sc.kantiana.ru
+sciencegroups.kantiana.ru
+cepri.kantiana.ru
+history.kantiana.ru
+olymp2017m.kantiana.ru
+old.kantiana.ru
+job.kantiana.ru
+penguin.stud.kantiana.ru
+at.kantiana.ru
+special.kantiana.ru
+unichild.kantiana.ru
+lms.kantiana.ru
+ign.kantiana.ru
+ibs-hr.kantiana.ru
+rabbit.stud.kantiana.ru
+litolymp.kantiana.ru
+hosting-bitrix-2.kantiana.ru
+edu.kantiana.ru
+abit.kantiana.ru
+5top100.kantiana.ru
+www.medik.kantiana.ru
+cluster-docs.kantiana.ru
+skpntp.kantiana.ru
+rooms.conf.kantiana.ru
+science.kantiana.ru
+hosting-bitrix-1.kantiana.ru
+sls.kantiana.ru
+www.aimg.kantiana.ru
+kant2017.kantiana.ru
+livecam.kantiana.ru
+conf.kantiana.ru
+socmap.kantiana.ru
+dc-05.stud.kantiana.ru
+ftp.aimg.kantiana.ru
+bioinfodbs.kantiana.ru
+webmail.kantiana.ru
+hosting-generic-1.kantiana.ru
+fr.kantiana.ru
+elib.kantiana.ru
+conference.kantiana.ru
+stud.kantiana.ru
+www.olymp2017.kantiana.ru
+medik.kantiana.ru
+clusterwiki.kantiana.ru
+gdg.kantiana.ru
+eng.kantiana.ru
+pr5100.kantiana.ru
+gate.kantiana.ru
+ek.kantiana.ru
+atmos2.kantiana.ru

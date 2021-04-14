@@ -1,25 +1,16 @@
-NXDOMAIN	socsci.uwichill.edu.bb
-NXDOMAIN	humanities.uwichill.edu.bb
-NOERROR	athena.uwichill.edu.bb
-NOERROR	radius.uwichill.edu.bb
-NOERROR	www.uwichill.edu.bb
-NXDOMAIN	scitec.uwichill.edu.bb
-NOERROR	nmc.uwichill.edu.bb
-NXDOMAIN	sentinel.uwichill.edu.bb
-NXDOMAIN	chuplink.uwichill.edu.bb
-NOERROR	gender.uwichill.edu.bb
-NOERROR	electronics200.uwichill.edu.bb
-NOERROR	mailhubt.test.uwichill.edu.bb
-NOERROR	ras2.uwichill.edu.bb
-NOERROR	uwichill.edu.bb
-NXDOMAIN	webct.uwichill.edu.bb
-NOERROR	barbadosseaturtles.uwichill.edu.bb
-NOERROR	www2.uwichill.edu.bb
-NOERROR	sentinelt.test.uwichill.edu.bb
-NXDOMAIN	cnyack.uwichill.edu.bb
-NXDOMAIN	inet-r1.uwichill.edu.bb
-NOERROR	law.uwichill.edu.bb
-NOERROR	chsb.uwichill.edu.bb
-NOERROR	electronics300.uwichill.edu.bb
-NOERROR	mainlibrary.uwichill.edu.bb
-NXDOMAIN	mail.uwichill.edu.bb
+athena.uwichill.edu.bb
+radius.uwichill.edu.bb
+www.uwichill.edu.bb
+nmc.uwichill.edu.bb
+gender.uwichill.edu.bb
+electronics200.uwichill.edu.bb
+mailhubt.test.uwichill.edu.bb
+ras2.uwichill.edu.bb
+uwichill.edu.bb
+barbadosseaturtles.uwichill.edu.bb
+www2.uwichill.edu.bb
+sentinelt.test.uwichill.edu.bb
+law.uwichill.edu.bb
+chsb.uwichill.edu.bb
+electronics300.uwichill.edu.bb
+mainlibrary.uwichill.edu.bb

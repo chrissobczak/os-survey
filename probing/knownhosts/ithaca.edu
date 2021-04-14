@@ -1,721 +1,412 @@
-NOERROR	energymetering.ithaca.edu
-NXDOMAIN	logindev.ithaca.edu
-NOERROR	ready.ithaca.edu
-NOERROR	asmtpgw01.ithaca.edu
-NXDOMAIN	icmoon.ithaca.edu
-NXDOMAIN	quash.ithaca.edu
-NXDOMAIN	guardian.ithaca.edu
-NOERROR	gis.ithaca.edu
-NXDOMAIN	addt1vlan2.ithaca.edu
-NOERROR	mobenps.ithaca.edu
-NOERROR	aqua.ithaca.edu
-NOERROR	helpline2.ithaca.edu
-NXDOMAIN	www.teva.ithaca.edu
-NXDOMAIN	icr0.ithaca.edu
-NOERROR	meteor.ithaca.edu
-NOERROR	homerconnect-angus.ithaca.edu
-NXDOMAIN	seemore.staging.ithaca.edu
-NOERROR	aadds.ithaca.edu
-NXDOMAIN	garlic.ithaca.edu
-NOERROR	my.ithaca.edu
-NOERROR	design-system.ithaca.edu
-NXDOMAIN	mercury.ithaca.edu
-NOERROR	myichealthcenter.ithaca.edu
-NXDOMAIN	www-decker.ithaca.edu
-NOERROR	gimli.cs.ithaca.edu
-NOERROR	givingday.ithaca.edu
-NXDOMAIN	dover.ithaca.edu
-NXDOMAIN	psr-aruba7240.ithaca.edu
-NOERROR	challenger.ithaca.edu
-NOERROR	ainfdock01.ithaca.edu
-NOERROR	milton.ithaca.edu
-NXDOMAIN	degreeworksdev.ithaca.edu
-NOERROR	agri.ithaca.edu
-NOERROR	libanswers.ithaca.edu
-NOERROR	www5.ithaca.edu
-NXDOMAIN	myithaca9qa.ithaca.edu
-NXDOMAIN	dante3.ithaca.edu
-NXDOMAIN	footprints.ithaca.edu
-NOERROR	ces.ithaca.edu
-NXDOMAIN	bombay.ithaca.edu
-NXDOMAIN	qtrack.staging.ithaca.edu
-NOERROR	decker.ithaca.edu
-NOERROR	santestic.ithaca.edu
-NOERROR	jobs-mohall.ithaca.edu
-NOERROR	himalaya.ithaca.edu
-NXDOMAIN	j220.ithaca.edu
-NXDOMAIN	aberdeen.ithaca.edu
-NOERROR	psych1.ithaca.edu
-NXDOMAIN	dronec1-vip.ithaca.edu
-NXDOMAIN	hector.ithaca.edu
-NXDOMAIN	quate.ithaca.edu
-NXDOMAIN	www.advizortest.ithaca.edu
-NXDOMAIN	adsvr1vlan2.ithaca.edu
-NOERROR	ahomwa02.ithaca.edu
-NXDOMAIN	icr1-acad.ithaca.edu
-NXDOMAIN	www.afininf01.ithaca.edu
-NXDOMAIN	secure.ithaca.edu
-NOERROR	www4.ithaca.edu
-NXDOMAIN	dbirepdb01.ithaca.edu
-NOERROR	ldap.ithaca.edu
-NOERROR	homerconnect-mohall.ithaca.edu
-NXDOMAIN	www.ainfprx01.ithaca.edu
-NOERROR	shire.cs.ithaca.edu
-NOERROR	qtrack.ithaca.edu
-NOERROR	angus.ithaca.edu
-NOERROR	dunton.ithaca.edu
-NXDOMAIN	bannersispre.ithaca.edu
-NOERROR	nutrition.ithaca.edu
-NOERROR	cas.ithaca.edu
-NOERROR	pecmws.ithaca.edu
-NOERROR	login.ezproxy.ithaca.edu
-NOERROR	passwords.ithaca.edu
-NXDOMAIN	saturn.ithaca.edu
-NOERROR	bhomerwa2.ithaca.edu
-NOERROR	web2-angus.ithaca.edu
-NOERROR	iccmg.ithaca.edu
-NOERROR	canvas.ithaca.edu
-NOERROR	ticker1.ithaca.edu
-NXDOMAIN	myhome.staging.ithaca.edu
-NOERROR	library.cqpress.com.ezproxy.ithaca.edu
-NOERROR	staff.ithaca.edu
-NXDOMAIN	ready.staging.ithaca.edu
-NOERROR	qatar.ithaca.edu
-NOERROR	itstatus.ithaca.edu
-NOERROR	homerapps.ithaca.edu
-NOERROR	reno2.ithaca.edu
-NOERROR	lists.ithaca.edu
-NOERROR	fmp16.ithaca.edu
-NXDOMAIN	icr1-internet.ithaca.edu
-NOERROR	degreeworks.ithaca.edu
-NXDOMAIN	banner9qa.ithaca.edu
-NOERROR	oraclent.ithaca.edu
-NOERROR	www.alumni.ithaca.edu
-NXDOMAIN	www.events.ithaca.edu
-NOERROR	apps.ithaca.edu
-NOERROR	mathedan.ithaca.edu
-NOERROR	rocky.ithaca.edu
-NXDOMAIN	gilgamesh.ithaca.edu
-NOERROR	frodo.cs.ithaca.edu
-NOERROR	courses.ithaca.edu
-NXDOMAIN	ithaca-console.ithaca.edu
-NXDOMAIN	www.ahomwa01.ithaca.edu
-NXDOMAIN	psr-aruba6000.ithaca.edu
-NOERROR	dbiobiee01.ithaca.edu
-NXDOMAIN	adminwww.ithaca.edu
-NOERROR	dhomerff.ithaca.edu
-NOERROR	web2.dev.ithaca.edu
-NOERROR	ictvstream.ithaca.edu
-NOERROR	iclink.ithaca.edu
-NXDOMAIN	padvwa.ithaca.edu
-NXDOMAIN	thyme.ithaca.edu
-NOERROR	eportfolios-angus.ithaca.edu
-NXDOMAIN	perth.ithaca.edu
-NOERROR	firstsearch.oclc.org.ezproxy.ithaca.edu
-NOERROR	ainfprx21.ithaca.edu
-NOERROR	eureka.ithaca.edu
-NOERROR	web2-mohall.ithaca.edu
-NXDOMAIN	dev.decm.ithaca.edu
-NOERROR	oin.cs.ithaca.edu
-NOERROR	webprint.ithaca.edu
-NXDOMAIN	icr1-admin.ithaca.edu
-NOERROR	dlibweb01.ithaca.edu
-NOERROR	odessy.ithaca.edu
-NOERROR	itunes-angus.ithaca.edu
-NXDOMAIN	banner.ithaca.edu
-NXDOMAIN	courses-angus.ithaca.edu
-NXDOMAIN	172.28.0.62.ithaca.edu
-NOERROR	gandalf.cs.ithaca.edu
-NOERROR	smaug.cs.ithaca.edu
-NOERROR	ainfdock02.ithaca.edu
-NOERROR	ithaca-naxosmusiclibrary-com.ezproxy.ithaca.edu
-NXDOMAIN	www.iccmg.ithaca.edu
-NXDOMAIN	ncur.ithaca.edu
-NXDOMAIN	azza.ithaca.edu
-NOERROR	arwen.cs.ithaca.edu
-NOERROR	license2.ithaca.edu
-NOERROR	ahomerwa1.ithaca.edu
-NXDOMAIN	ld-core.ithaca.edu
-NXDOMAIN	praguec2-vip.ithaca.edu
-NXDOMAIN	hindsight.ithaca.edu
-NOERROR	restools.ithaca.edu
-NXDOMAIN	rotterdam.ithaca.edu
-NXDOMAIN	eportfolios.staging.ithaca.edu
-NXDOMAIN	davdwa.ithaca.edu
-NOERROR	gondor.cs.ithaca.edu
-NXDOMAIN	t950-p1.ithaca.edu
-NXDOMAIN	hermes.ithaca.edu
-NOERROR	dx.doi.org.ezproxy.ithaca.edu
-NOERROR	vpnsplit.ithaca.edu
-NXDOMAIN	www.canvas.ithaca.edu
-NOERROR	staff-decker.ithaca.edu
-NXDOMAIN	dante.ithaca.edu
-NOERROR	minotaur.ithaca.edu
-NOERROR	comp105.cs.ithaca.edu
-NXDOMAIN	mp1.ithaca.edu
-NOERROR	iclabs.ithaca.edu
-NXDOMAIN	ottawa.ithaca.edu
-NXDOMAIN	asdev.ithaca.edu
-NOERROR	ush.ithaca.edu
-NOERROR	www-sciencedirect-com.ezproxy.ithaca.edu
-NOERROR	ithaca.naxosmusiclibrary.com.ezproxy.ithaca.edu
-NOERROR	my-decker.ithaca.edu
-NOERROR	biology.ithaca.edu
-NXDOMAIN	www.bbirepdb01.ithaca.edu
-NXDOMAIN	bhomerwa1.ithaca.edu
-NOERROR	titan1.ithaca.edu
-NXDOMAIN	praguec1-vip.ithaca.edu
-NXDOMAIN	peking.ithaca.edu
-NOERROR	125.ithaca.edu
-NOERROR	darwin.ithaca.edu
-NOERROR	www.ithaca.edu
-NOERROR	nmr-ws.ithaca.edu
-NOERROR	cyber.ithaca.edu
-NOERROR	fbalumni.dev.ithaca.edu
-NOERROR	anakin.ithaca.edu
-NOERROR	igor.ithaca.edu
-NOERROR	arwin.ithaca.edu
-NXDOMAIN	courses.staging.ithaca.edu
-NXDOMAIN	portland.ithaca.edu
-NXDOMAIN	www.arthistory.ithaca.edu
-NXDOMAIN	svithaca.ithaca.edu
-NXDOMAIN	albion.ithaca.edu
-NOERROR	ds2.ithaca.edu
-NXDOMAIN	ldap-test.ithaca.edu
-NOERROR	ninurta.ithaca.edu
-NOERROR	bigben.ithaca.edu
-NOERROR	duo.dev.ithaca.edu
-NOERROR	alibweb01.ithaca.edu
-NOERROR	careerservices.ithaca.edu
-NXDOMAIN	ops-arms.ithaca.edu
-NOERROR	nausicaa.ithaca.edu
-NOERROR	bilbo.cs.ithaca.edu
-NXDOMAIN	afton.ithaca.edu
-NOERROR	homerconnect-decker.ithaca.edu
-NOERROR	dunton.dev.ithaca.edu
-NXDOMAIN	degreeworksqa.ithaca.edu
-NOERROR	tompkins.ithaca.edu
-NOERROR	olympus.ithaca.edu
-NXDOMAIN	ausable.ithaca.edu
-NOERROR	ainfprx09.ithaca.edu
-NOERROR	connect.ithaca.edu
-NOERROR	quito.ithaca.edu
-NOERROR	delta.ithaca.edu
-NXDOMAIN	www.media.ithaca.edu
-NXDOMAIN	cppm.ithaca.edu
-NXDOMAIN	bbiobiee01.ithaca.edu
-NOERROR	digitalcommons.ithaca.edu
-NOERROR	rockwell.ithaca.edu
-NXDOMAIN	asntsvr99.ithaca.edu
-NOERROR	durango.ithaca.edu
-NOERROR	ilene-temp.ithaca.edu
-NXDOMAIN	apncapp01-opencomm.ithaca.edu
-NOERROR	astro.ithaca.edu
-NOERROR	catalog.ithaca.edu
-NXDOMAIN	t950-j1.ithaca.edu
-NXDOMAIN	roller.ithaca.local.ithaca.edu
-NOERROR	bhomerwa3.ithaca.edu
-NXDOMAIN	ithaca-console2.ithaca.edu
-NOERROR	athletics.ithaca.edu
-NOERROR	web2-decker.ithaca.edu
-NOERROR	rohan.ithaca.edu
-NXDOMAIN	jsr-aruba7210.ithaca.edu
-NOERROR	mse.ithaca.edu
-NXDOMAIN	mail.alumni.ithaca.edu
-NOERROR	nuc.ithaca.edu
-NOERROR	aecmws.ithaca.edu
-NOERROR	charon.ithaca.edu
-NOERROR	ic.galegroup.com.ezproxy.ithaca.edu
-NOERROR	mon.ithaca.edu
-NOERROR	blogs-loc-gov.ezproxy.ithaca.edu
-NOERROR	my-angus.ithaca.edu
-NXDOMAIN	alden.ithaca.edu
-NOERROR	daqua.ithaca.edu
-NXDOMAIN	ld-gateway.ithaca.edu
-NOERROR	display3.ithaca.edu
-NOERROR	uniconntest.ithaca.edu
-NXDOMAIN	battica1.ithaca.edu
-NOERROR	reno.ithaca.edu
-NXDOMAIN	basil.ithaca.edu
-NXDOMAIN	www.degreeworksqa.ithaca.edu
-NOERROR	webct-old.ithaca.edu
-NXDOMAIN	www.bbiobiee01.ithaca.edu
-NXDOMAIN	jobs.staging.ithaca.edu
-NXDOMAIN	www.webwork.ithaca.edu
-NXDOMAIN	aadvwa.ithaca.edu
-NXDOMAIN	bangor.ithaca.edu
-NOERROR	harriman.ithaca.edu
-NOERROR	sundance.ithaca.edu
-NXDOMAIN	adsvr2vlan2.ithaca.edu
-NXDOMAIN	www.vpn.ithaca.edu
-NXDOMAIN	alumniprod.ithaca.edu
-NOERROR	bparnapp.ithaca.edu
-NOERROR	my-mohall.ithaca.edu
-NOERROR	tickets.ithaca.edu
-NXDOMAIN	quebecc1.ithaca.edu
-NXDOMAIN	ld-database2.ithaca.edu
-NOERROR	recreation.ithaca.edu
-NOERROR	ds1.ithaca.edu
-NOERROR	biproxy.ithaca.edu
-NOERROR	alumni.ithaca.edu
-NOERROR	registration-chat.ithaca.edu
-NXDOMAIN	almond.ithaca.edu
-NOERROR	gondor.ithaca.edu
-NOERROR	faculty.dev.ithaca.edu
-NXDOMAIN	icsun.ithaca.edu
-NXDOMAIN	webmail.ithaca.edu
-NXDOMAIN	fp1ws.ithaca.edu
-NOERROR	amidon.ithaca.edu
-NOERROR	ticker2.ithaca.edu
-NXDOMAIN	altoona.ithaca.edu
-NXDOMAIN	dbisap1.ithaca.edu
-NOERROR	pubs.acs.org.ezproxy.ithaca.edu
-NOERROR	giving.ithaca.edu
-NXDOMAIN	dweeb.ithaca.edu
-NOERROR	sciencedirect.com.ezproxy.ithaca.edu
-NXDOMAIN	icmail.ithaca.edu
-NOERROR	aparnapp.ithaca.edu
-NOERROR	realmedia1a.ithaca.edu
-NOERROR	ic7.ithaca.edu
-NOERROR	apncweb01.ithaca.edu
-NOERROR	ns1.ithaca.edu
-NXDOMAIN	stanley.ithaca.edu
-NXDOMAIN	belfast.ithaca.edu
-NOERROR	login.ithaca.edu
-NXDOMAIN	itunes.staging.ithaca.edu
-NXDOMAIN	antwerp.ithaca.edu
-NXDOMAIN	ashton.ithaca.edu
-NXDOMAIN	mp2.ithaca.edu
-NXDOMAIN	teva.ithaca.edu
-NXDOMAIN	abirepdb01.ithaca.edu
-NOERROR	itunes-mohall.ithaca.edu
-NOERROR	owego.ithaca.edu
-NXDOMAIN	vista.ithaca.edu
-NOERROR	ainfprx02.ithaca.edu
-NOERROR	devweb.ithaca.edu
-NXDOMAIN	apncapp01-tempura.ithaca.edu
-NXDOMAIN	dallas.ithaca.edu
-NXDOMAIN	rugby.ithaca.edu
-NOERROR	deis.ithaca.edu
-NOERROR	webwork.ithaca.edu
-NOERROR	progress.ithaca.edu
-NXDOMAIN	webmail3.ithaca.edu
-NXDOMAIN	matador.ithaca.edu
-NOERROR	iccareernetwork.ithaca.edu
-NOERROR	typeset.ithaca.edu
-NOERROR	faculty-angus.ithaca.edu
-NOERROR	ainfmicdm01.ithaca.edu
-NXDOMAIN	faculty.staging.ithaca.edu
-NXDOMAIN	albany.ithaca.edu
-NXDOMAIN	www.login.ithaca.edu
-NOERROR	faculty.ithaca.edu
-NOERROR	go.galegroup.com.ezproxy.ithaca.edu
-NOERROR	www6.ithaca.edu
-NXDOMAIN	brinks.ithaca.edu
-NOERROR	jobs.ithaca.edu
-NOERROR	dinfmicd01.ithaca.edu
-NOERROR	duo.ithaca.edu
-NXDOMAIN	quark.ithaca.edu
-NOERROR	austin-temp.ithaca.edu
-NXDOMAIN	tioga.ithaca.edu
-NOERROR	www-mohall.ithaca.edu
-NOERROR	nutrition.dev.ithaca.edu
-NXDOMAIN	adam12.ithaca.edu
-NXDOMAIN	inkwell.ithaca.edu
-NOERROR	musictech.ithaca.edu
-NOERROR	cdn.ithaca.edu
-NXDOMAIN	www.pwc.ithaca.edu
-NXDOMAIN	www.ds3.ithaca.edu
-NOERROR	public-kiosk-1.ithaca.edu
-NXDOMAIN	git.rancher.ithaca.edu
-NOERROR	display4.ithaca.edu
-NXDOMAIN	bhomwaq01.ithaca.edu
-NOERROR	nextcatalog.ithaca.edu
-NXDOMAIN	dbxewa3.ithaca.edu
-NOERROR	decmdock01.ithaca.edu
-NXDOMAIN	www.abiobiee01.ithaca.edu
-NOERROR	vail.ithaca.edu
-NOERROR	brand-standards.ithaca.edu
-NXDOMAIN	www.degreeworksprod.ithaca.edu
-NXDOMAIN	my.staging.ithaca.edu
-NOERROR	ecm.ithaca.edu
-NXDOMAIN	homerconnect.staging.ithaca.edu
-NXDOMAIN	waterbury.ithaca.edu
-NXDOMAIN	dayton.ithaca.edu
-NOERROR	decm.ithaca.edu
-NXDOMAIN	restools.staging.ithaca.edu
-NXDOMAIN	www.degreeworksdev.ithaca.edu
-NXDOMAIN	dbiportal.ithaca.edu
-NOERROR	smtpgate.ithaca.edu
-NOERROR	www-lexisnexis-com.ezproxy.ithaca.edu
-NOERROR	ishtar.ithaca.edu
-NXDOMAIN	www.eis.ithaca.edu
-NOERROR	apncapp01.ithaca.edu
-NXDOMAIN	icmycareer.ithaca.edu
-NOERROR	ainfprx20.ithaca.edu
-NOERROR	careercore.ithaca.edu
-NOERROR	realmedia1b.ithaca.edu
-NXDOMAIN	apex.ithaca.edu
-NXDOMAIN	mmp3.ithaca.edu
-NXDOMAIN	www.ahomwa02.ithaca.edu
-NXDOMAIN	amidon.staging.ithaca.edu
-NOERROR	ahomerwa2.ithaca.edu
-NXDOMAIN	analytics.ithaca.edu
-NOERROR	ithaca.ithaca.edu
-NXDOMAIN	dronec2-vip.ithaca.edu
-NOERROR	fuse.ithaca.edu
-NOERROR	alumniap02.ithaca.edu
-NXDOMAIN	quebec-vip2.ithaca.edu
-NXDOMAIN	boston.ithaca.edu
-NOERROR	dhomwa02.ithaca.edu
-NXDOMAIN	advizor.ithaca.edu
-NOERROR	eportfolios-alpine.ithaca.edu
-NXDOMAIN	eportfolios-decker.ithaca.edu
-NOERROR	beagle.ithaca.edu
-NOERROR	penn.ithaca.edu
-NOERROR	odessy-client.ithaca.edu
-NXDOMAIN	www.grouper.ithaca.edu
-NXDOMAIN	icr3-acad.ithaca.edu
-NXDOMAIN	anzio.ithaca.edu
-NOERROR	sus.ithaca.edu
-NXDOMAIN	quin.ithaca.edu
-NOERROR	pointandclick.ithaca.edu
-NOERROR	siren.ithaca.edu
-NXDOMAIN	www.nuc.ithaca.edu
-NOERROR	my.dev.ithaca.edu
-NXDOMAIN	rdwa.ithaca.edu
-NXDOMAIN	dbxewa1.ithaca.edu
-NOERROR	display5.ithaca.edu
-NOERROR	ds3.ithaca.edu
-NXDOMAIN	scwxcta01.ithaca.edu
-NOERROR	dhomerwa.ithaca.edu
-NOERROR	afininf01.ithaca.edu
-NOERROR	pwc.ithaca.edu
-NOERROR	gloin.cs.ithaca.edu
-NOERROR	arda.cs.ithaca.edu
-NOERROR	bhomwap02.ithaca.edu
-NOERROR	give.ithaca.edu
-NXDOMAIN	ith1892.ithaca.edu
-NOERROR	ic030059.ithaca.edu
-NOERROR	lem.ithaca.edu
-NOERROR	icsa.ithaca.edu
-NXDOMAIN	melvin.ithaca.edu
-NXDOMAIN	ithaca-enps1.ithaca.edu
-NOERROR	www2.ithaca.edu
-NXDOMAIN	l20.ithaca.edu
-NOERROR	ezproxy.ithaca.edu
-NXDOMAIN	dresden.ithaca.edu
-NOERROR	staff.dev.ithaca.edu
-NOERROR	www3.ithaca.edu
-NXDOMAIN	sentry.ithaca.edu
-NXDOMAIN	dill.ithaca.edu
-NXDOMAIN	dhomff01.ithaca.edu
-NOERROR	paolpresent.ithaca.edu
-NOERROR	scithaca.ithaca.edu
-NOERROR	andes.ithaca.edu
-NOERROR	dinfdock01.ithaca.edu
-NOERROR	campusstore.ithaca.edu
-NXDOMAIN	brutus.ithaca.edu
-NOERROR	decmws.ithaca.edu
-NOERROR	becm.ithaca.edu
-NOERROR	ilene.ithaca.edu
-NOERROR	dunland.ithaca.edu
-NOERROR	dinfeis02.ithaca.edu
-NOERROR	faculty-alpine.ithaca.edu
-NXDOMAIN	mastodon.ithaca.edu
-NOERROR	departments-angus.ithaca.edu
-NOERROR	vader.ithaca.edu
-NOERROR	icengage.ithaca.edu
-NXDOMAIN	p220.ithaca.edu
-NXDOMAIN	arthistory.ithaca.edu
-NOERROR	blackboard.dev.ithaca.edu
-NOERROR	display2.ithaca.edu
-NXDOMAIN	akron.ithaca.edu
-NOERROR	autodiscover.ithaca.edu
-NXDOMAIN	august2.ithaca.edu
-NOERROR	web2-alpine.ithaca.edu
-NOERROR	itunes.ithaca.edu
-NOERROR	departments.dev.ithaca.edu
-NXDOMAIN	dbxewa2.ithaca.edu
-NXDOMAIN	august.ithaca.edu
-NOERROR	staff-alpine.ithaca.edu
-NOERROR	uniconnprod.ithaca.edu
-NXDOMAIN	icmail2.ithaca.edu
-NOERROR	com.ezproxy.ithaca.edu
-NOERROR	bombers.ithaca.edu
-NOERROR	dwalin.cs.ithaca.edu
-NXDOMAIN	www.teva4.ithaca.edu
-NXDOMAIN	www.lists.ithaca.edu
-NXDOMAIN	asntsvr.ithaca.edu
-NOERROR	diablo.ithaca.edu
-NXDOMAIN	eventia.ithaca.edu
-NOERROR	mse1.ithaca.edu
-NXDOMAIN	park-webcheckout.ithaca.edu
-NOERROR	eowyn.cs.ithaca.edu
-NXDOMAIN	bbiportal.ithaca.edu
-NXDOMAIN	megalodon.ithaca.edu
-NXDOMAIN	sage.ithaca.edu
-NOERROR	infinity-dev.ithaca.edu
-NOERROR	alumniap01.ithaca.edu
-NXDOMAIN	abiobiee01.ithaca.edu
-NOERROR	restools.dev.ithaca.edu
-NOERROR	test.decker.ithaca.edu
-NOERROR	wwwcdn.ithaca.edu
-NXDOMAIN	aachen.ithaca.edu
-NOERROR	austin.ithaca.edu
-NXDOMAIN	www.staging.ithaca.edu
-NOERROR	icweb-alpine.ithaca.edu
-NXDOMAIN	rdcb.ithaca.edu
-NOERROR	library.ithaca.edu
-NXDOMAIN	praguec1.ithaca.edu
-NXDOMAIN	enkidu.ithaca.edu
-NOERROR	jobs-alpine.ithaca.edu
-NXDOMAIN	staging.ithaca.edu
-NOERROR	display1.ithaca.edu
-NXDOMAIN	admin.ithaca.edu
-NOERROR	fpdev.ithaca.edu
-NOERROR	ithaca.edu
-NXDOMAIN	dadvwa.ithaca.edu
-NXDOMAIN	elmira.ithaca.edu
-NOERROR	nmr-ac.ithaca.edu
-NOERROR	search.dev.ithaca.edu
-NXDOMAIN	dronec2.ithaca.edu
-NOERROR	searchapp.ithaca.edu
-NXDOMAIN	dwindle.ithaca.edu
-NOERROR	vpn.ithaca.edu
-NOERROR	faculty-decker.ithaca.edu
-NOERROR	icdell.ithaca.edu
-NOERROR	staff-angus.ithaca.edu
-NXDOMAIN	deposit.ithaca.edu
-NOERROR	homerconnect.ithaca.edu
-NOERROR	departments-decker.ithaca.edu
-NXDOMAIN	standards.ithaca.edu
-NXDOMAIN	quebec-vip.ithaca.edu
-NOERROR	biproxyqa.ithaca.edu
-NOERROR	daisy13.ithaca.edu
-NOERROR	dparnapp.ithaca.edu
-NXDOMAIN	qa.decm.ithaca.edu
-NOERROR	arnor.ithaca.edu
-NXDOMAIN	webmail2.ithaca.edu
-NXDOMAIN	fargo.ithaca.edu
-NXDOMAIN	mdev.ithaca.edu
-NOERROR	pecm.ithaca.edu
-NOERROR	myhome.dev.ithaca.edu
-NOERROR	fbalumni.ithaca.edu
-NOERROR	dbatest.ithaca.edu
-NOERROR	jimi.ithaca.edu
-NOERROR	jobs-angus.ithaca.edu
-NXDOMAIN	addt2vlan2.ithaca.edu
-NOERROR	ainfdock09.ithaca.edu
-NOERROR	antler.ithaca.edu
-NOERROR	dinfeis01.ithaca.edu
-NXDOMAIN	artarch.ithaca.edu
-NOERROR	mordor.ithaca.edu
-NOERROR	jobs.dev.ithaca.edu
-NXDOMAIN	rosemary.ithaca.edu
-NOERROR	azimuth.ithaca.edu
-NXDOMAIN	bastogne.ithaca.edu
-NOERROR	ahomerff.ithaca.edu
-NXDOMAIN	courses-decker.ithaca.edu
-NOERROR	search.proquest.com.ezproxy.ithaca.edu
-NXDOMAIN	www.managed.ithaca.edu
-NXDOMAIN	bbisap1.ithaca.edu
-NOERROR	healthcenterapp.ithaca.edu
-NXDOMAIN	vmail.ithaca.edu
-NOERROR	azimuth-temp.ithaca.edu
-NXDOMAIN	fbalumni.staging.ithaca.edu
-NXDOMAIN	webapps.ithaca.edu
-NXDOMAIN	www.apncapp01.ithaca.edu
-NOERROR	ahomwa01.ithaca.edu
-NXDOMAIN	auburn.ithaca.edu
-NXDOMAIN	grouper.ithaca.edu
-NXDOMAIN	paris.ithaca.edu
-NOERROR	dublin.ithaca.edu
-NXDOMAIN	www.degreeworks.ithaca.edu
-NOERROR	events.ithaca.edu
-NOERROR	pecmdock01.ithaca.edu
-NXDOMAIN	www.abirepdb01.ithaca.edu
-NOERROR	lowell.ithaca.edu
-NOERROR	efieldsim.ithaca.edu
-NOERROR	itunes-alpine.ithaca.edu
-NXDOMAIN	addt1vlan3.ithaca.edu
-NXDOMAIN	adelberg.ithaca.edu
-NXDOMAIN	www.dinfprx01.ithaca.edu
-NOERROR	eportfolios.dev.ithaca.edu
-NXDOMAIN	bitlocker.ithaca.edu
-NOERROR	lindon.ithaca.edu
-NXDOMAIN	cairo.ithaca.edu
-NOERROR	icnet.ithaca.edu
-NOERROR	ns2.ithaca.edu
-NOERROR	icweb-angus.ithaca.edu
-NOERROR	departments.ithaca.edu
-NOERROR	mse2.ithaca.edu
-NOERROR	staff-mohall.ithaca.edu
-NXDOMAIN	infinet.ithaca.edu
-NXDOMAIN	danbury.ithaca.edu
-NXDOMAIN	axiomtest.ithaca.edu
-NXDOMAIN	praguec2.ithaca.edu
-NXDOMAIN	search.staging.ithaca.edu
-NXDOMAIN	amsterdam.ithaca.edu
-NOERROR	paolcap303.ithaca.edu
-NXDOMAIN	spamtrap.ithaca.edu
-NOERROR	libguides.ithaca.edu
-NXDOMAIN	web1.ithaca.edu
-NXDOMAIN	arnhem.ithaca.edu
-NOERROR	labosx2.ithaca.edu
-NXDOMAIN	oldmemphis.ithaca.edu
-NOERROR	www-angus.ithaca.edu
-NOERROR	jss.ithaca.edu
-NOERROR	becmdock01.ithaca.edu
-NOERROR	login.dlibweb01.ithaca.edu
-NXDOMAIN	dexter.ithaca.edu
-NOERROR	answers.ithaca.edu
-NOERROR	www.library.ithaca.edu
-NXDOMAIN	ic9.ithaca.edu
-NOERROR	micros01.ithaca.edu
-NXDOMAIN	trigeo-ithaca.ithaca.edu
-NXDOMAIN	web2.staging.ithaca.edu
-NOERROR	dfininf01.ithaca.edu
-NXDOMAIN	drake.ithaca.edu
-NOERROR	amidon.dev.ithaca.edu
-NOERROR	fuse.dev.ithaca.edu
-NXDOMAIN	apps.staging.ithaca.edu
-NXDOMAIN	adsvr1vlan3.ithaca.edu
-NOERROR	www.dev.ithaca.edu
-NOERROR	remote.ithaca.edu
-NOERROR	homerapps.dev.ithaca.edu
-NOERROR	vpnf.ithaca.edu
-NXDOMAIN	www.cppm.ithaca.edu
-NXDOMAIN	quad.ithaca.edu
-NXDOMAIN	www.padvwa.ithaca.edu
-NXDOMAIN	adsvr2vlan3.ithaca.edu
-NOERROR	media.ithaca.edu
-NOERROR	careers.ithaca.edu
-NOERROR	ready.dev.ithaca.edu
-NOERROR	khand.ithaca.edu
-NOERROR	departments-alpine.ithaca.edu
-NOERROR	lucida.ithaca.edu
-NXDOMAIN	dronec1.ithaca.edu
-NXDOMAIN	vail.staging.ithaca.edu
-NXDOMAIN	battica2.ithaca.edu
-NOERROR	bela.ithaca.edu
-NXDOMAIN	calendar.ithaca.edu
-NOERROR	managed.ithaca.edu
-NXDOMAIN	aattica2.ithaca.edu
-NOERROR	webct-virt.dev.ithaca.edu
-NOERROR	chumley.ithaca.edu
-NOERROR	bhomerwa4.ithaca.edu
-NXDOMAIN	dante2.ithaca.edu
-NXDOMAIN	registry.rancher.ithaca.edu
-NXDOMAIN	degreeworksprod.ithaca.edu
-NOERROR	collab.ithaca.edu
-NXDOMAIN	ic6.ithaca.edu
-NOERROR	sakai.ithaca.edu
-NXDOMAIN	desire.ithaca.edu
-NXDOMAIN	kbaker@alumni.ithaca.edu
-NXDOMAIN	www.axiom.ithaca.edu
-NXDOMAIN	fuse.staging.ithaca.edu
-NOERROR	courses.dev.ithaca.edu
-NOERROR	dewey.ithaca.edu
-NXDOMAIN	badvwa.ithaca.edu
-NOERROR	ic5.ithaca.edu
-NXDOMAIN	asntsvr98.ithaca.edu
-NXDOMAIN	mammoth.ithaca.edu
-NOERROR	aportal.ithaca.edu
-NXDOMAIN	ow5000app.ithaca.edu
-NOERROR	phoebe.ithaca.edu
-NOERROR	search.ithaca.edu
-NOERROR	miles.ithaca.edu
-NXDOMAIN	dattica1.ithaca.edu
-NOERROR	nina.ithaca.edu
-NOERROR	seemore.ithaca.edu
-NXDOMAIN	aattica1.ithaca.edu
-NXDOMAIN	lradmin.ithaca.edu
-NOERROR	techops.ithaca.edu
-NOERROR	gollum.cs.ithaca.edu
-NXDOMAIN	chronos.ithaca.edu
-NXDOMAIN	vmial.ithaca.edu
-NOERROR	cs-oracle.ithaca.edu
-NOERROR	eportfolios.ithaca.edu
-NOERROR	scholar-google-com.ezproxy.ithaca.edu
-NOERROR	infinity.ithaca.edu
-NXDOMAIN	bhomwaq02.ithaca.edu
-NXDOMAIN	quebecc2.ithaca.edu
-NXDOMAIN	atlantis-t31.ithaca.edu
-NXDOMAIN	fieldservice.ithaca.edu
-NOERROR	itunes.dev.ithaca.edu
-NOERROR	map.ithaca.edu
-NXDOMAIN	advizortest.ithaca.edu
-NOERROR	nori.cs.ithaca.edu
-NOERROR	paolcap309.ithaca.edu
-NOERROR	icknoll.ithaca.edu
-NXDOMAIN	departments.staging.ithaca.edu
-NOERROR	dinfprx03.ithaca.edu
-NOERROR	itunes-decker.ithaca.edu
-NXDOMAIN	seattle.ithaca.edu
-NOERROR	alpine.ithaca.edu
-NXDOMAIN	dasiy13.ithaca.edu
-NXDOMAIN	fusion.ithaca.edu
-NXDOMAIN	teva4.ithaca.edu
-NOERROR	www-alpine.ithaca.edu
-NOERROR	eriador.ithaca.edu
-NOERROR	myhome.ithaca.edu
-NOERROR	icarus.ithaca.edu
-NOERROR	ainfprx06.ithaca.edu
-NOERROR	dinfprx01.ithaca.edu
-NXDOMAIN	vision.ithaca.edu
-NXDOMAIN	www.axiomtest.ithaca.edu
-NOERROR	rhun.ithaca.edu
-NXDOMAIN	icr3-ithacare.ithaca.edu
-NXDOMAIN	jsr-aruba6000.ithaca.edu
-NOERROR	physics.ithaca.edu
-NXDOMAIN	alumnidev.ithaca.edu
-NXDOMAIN	aspen.ithaca.edu
-NOERROR	apps.dev.ithaca.edu
-NOERROR	bookstore.dev.ithaca.edu
-NXDOMAIN	ldap-test2.ithaca.edu
-NOERROR	ithaca-enps-mob.ithaca.edu
-NOERROR	icweb.ithaca.edu
-NOERROR	ainfprx01.ithaca.edu
-NOERROR	homerconnect.dev.ithaca.edu
-NOERROR	aroya.ithaca.edu
-NXDOMAIN	bbirepdb01.ithaca.edu
-NXDOMAIN	dattica2.ithaca.edu
-NOERROR	greenwich.ithaca.edu
-NOERROR	homerconnect-alpine.ithaca.edu
-NOERROR	courses-mohall.ithaca.edu
-NXDOMAIN	chicago.ithaca.edu
-NOERROR	web2.ithaca.edu
-NXDOMAIN	axiom.ithaca.edu
-NOERROR	bhomwap01.ithaca.edu
-NOERROR	eis.ithaca.edu
-NXDOMAIN	jsr-aruba7240.ithaca.edu
-NOERROR	eportfolios-mohall.ithaca.edu
-NOERROR	dhomwa01.ithaca.edu
-NOERROR	qtrack.dev.ithaca.edu
-NOERROR	comp106.cs.ithaca.edu
-NXDOMAIN	bannerdev.ithaca.edu
-NXDOMAIN	ahomff01.ithaca.edu
-NOERROR	webct.dev.ithaca.edu
-NOERROR	vail.dev.ithaca.edu
-NOERROR	login-internal.ithaca.edu
-NXDOMAIN	duo.staging.ithaca.edu
-NXDOMAIN	rochester.ithaca.edu
-NOERROR	courses-alpine.ithaca.edu
-NOERROR	banner9.dev.ithaca.edu
-NOERROR	aecmdock01.ithaca.edu
-NXDOMAIN	scout.ithaca.edu
-NOERROR	abiportal.ithaca.edu
-NOERROR	abisap1.ithaca.edu
-NOERROR	search.ebscohost.com.ezproxy.ithaca.edu
-NXDOMAIN	addt2vlan3.ithaca.edu
-NOERROR	departments-mohall.ithaca.edu
-NOERROR	my-alpine.ithaca.edu
-NOERROR	ainfprx05.ithaca.edu
-NOERROR	bookstore.ithaca.edu
-NOERROR	washington.ithaca.edu
-NXDOMAIN	danube.ithaca.edu
-NOERROR	seemore.dev.ithaca.edu
-NXDOMAIN	staff.staging.ithaca.edu
-NXDOMAIN	neptune.ithaca.edu
-NOERROR	faculty-mohall.ithaca.edu
+energymetering.ithaca.edu
+ready.ithaca.edu
+asmtpgw01.ithaca.edu
+gis.ithaca.edu
+mobenps.ithaca.edu
+aqua.ithaca.edu
+helpline2.ithaca.edu
+meteor.ithaca.edu
+homerconnect-angus.ithaca.edu
+aadds.ithaca.edu
+my.ithaca.edu
+design-system.ithaca.edu
+myichealthcenter.ithaca.edu
+gimli.cs.ithaca.edu
+givingday.ithaca.edu
+challenger.ithaca.edu
+ainfdock01.ithaca.edu
+milton.ithaca.edu
+agri.ithaca.edu
+libanswers.ithaca.edu
+www5.ithaca.edu
+ces.ithaca.edu
+decker.ithaca.edu
+santestic.ithaca.edu
+jobs-mohall.ithaca.edu
+himalaya.ithaca.edu
+psych1.ithaca.edu
+ahomwa02.ithaca.edu
+www4.ithaca.edu
+ldap.ithaca.edu
+homerconnect-mohall.ithaca.edu
+shire.cs.ithaca.edu
+qtrack.ithaca.edu
+angus.ithaca.edu
+dunton.ithaca.edu
+nutrition.ithaca.edu
+cas.ithaca.edu
+pecmws.ithaca.edu
+login.ezproxy.ithaca.edu
+passwords.ithaca.edu
+bhomerwa2.ithaca.edu
+web2-angus.ithaca.edu
+iccmg.ithaca.edu
+canvas.ithaca.edu
+ticker1.ithaca.edu
+library.cqpress.com.ezproxy.ithaca.edu
+staff.ithaca.edu
+qatar.ithaca.edu
+itstatus.ithaca.edu
+homerapps.ithaca.edu
+reno2.ithaca.edu
+lists.ithaca.edu
+fmp16.ithaca.edu
+degreeworks.ithaca.edu
+oraclent.ithaca.edu
+www.alumni.ithaca.edu
+apps.ithaca.edu
+mathedan.ithaca.edu
+rocky.ithaca.edu
+frodo.cs.ithaca.edu
+courses.ithaca.edu
+dbiobiee01.ithaca.edu
+dhomerff.ithaca.edu
+web2.dev.ithaca.edu
+ictvstream.ithaca.edu
+iclink.ithaca.edu
+eportfolios-angus.ithaca.edu
+firstsearch.oclc.org.ezproxy.ithaca.edu
+ainfprx21.ithaca.edu
+eureka.ithaca.edu
+web2-mohall.ithaca.edu
+oin.cs.ithaca.edu
+webprint.ithaca.edu
+dlibweb01.ithaca.edu
+odessy.ithaca.edu
+itunes-angus.ithaca.edu
+gandalf.cs.ithaca.edu
+smaug.cs.ithaca.edu
+ainfdock02.ithaca.edu
+ithaca-naxosmusiclibrary-com.ezproxy.ithaca.edu
+arwen.cs.ithaca.edu
+license2.ithaca.edu
+ahomerwa1.ithaca.edu
+restools.ithaca.edu
+gondor.cs.ithaca.edu
+dx.doi.org.ezproxy.ithaca.edu
+vpnsplit.ithaca.edu
+staff-decker.ithaca.edu
+minotaur.ithaca.edu
+comp105.cs.ithaca.edu
+iclabs.ithaca.edu
+ush.ithaca.edu
+www-sciencedirect-com.ezproxy.ithaca.edu
+ithaca.naxosmusiclibrary.com.ezproxy.ithaca.edu
+my-decker.ithaca.edu
+biology.ithaca.edu
+titan1.ithaca.edu
+125.ithaca.edu
+darwin.ithaca.edu
+www.ithaca.edu
+nmr-ws.ithaca.edu
+cyber.ithaca.edu
+fbalumni.dev.ithaca.edu
+anakin.ithaca.edu
+igor.ithaca.edu
+arwin.ithaca.edu
+ds2.ithaca.edu
+ninurta.ithaca.edu
+bigben.ithaca.edu
+duo.dev.ithaca.edu
+alibweb01.ithaca.edu
+careerservices.ithaca.edu
+nausicaa.ithaca.edu
+bilbo.cs.ithaca.edu
+homerconnect-decker.ithaca.edu
+dunton.dev.ithaca.edu
+tompkins.ithaca.edu
+olympus.ithaca.edu
+ainfprx09.ithaca.edu
+connect.ithaca.edu
+quito.ithaca.edu
+delta.ithaca.edu
+digitalcommons.ithaca.edu
+rockwell.ithaca.edu
+durango.ithaca.edu
+ilene-temp.ithaca.edu
+astro.ithaca.edu
+catalog.ithaca.edu
+bhomerwa3.ithaca.edu
+athletics.ithaca.edu
+web2-decker.ithaca.edu
+rohan.ithaca.edu
+mse.ithaca.edu
+nuc.ithaca.edu
+aecmws.ithaca.edu
+charon.ithaca.edu
+ic.galegroup.com.ezproxy.ithaca.edu
+mon.ithaca.edu
+blogs-loc-gov.ezproxy.ithaca.edu
+my-angus.ithaca.edu
+daqua.ithaca.edu
+display3.ithaca.edu
+uniconntest.ithaca.edu
+reno.ithaca.edu
+webct-old.ithaca.edu
+harriman.ithaca.edu
+sundance.ithaca.edu
+bparnapp.ithaca.edu
+my-mohall.ithaca.edu
+tickets.ithaca.edu
+recreation.ithaca.edu
+ds1.ithaca.edu
+biproxy.ithaca.edu
+alumni.ithaca.edu
+registration-chat.ithaca.edu
+gondor.ithaca.edu
+faculty.dev.ithaca.edu
+amidon.ithaca.edu
+ticker2.ithaca.edu
+pubs.acs.org.ezproxy.ithaca.edu
+giving.ithaca.edu
+sciencedirect.com.ezproxy.ithaca.edu
+aparnapp.ithaca.edu
+realmedia1a.ithaca.edu
+ic7.ithaca.edu
+apncweb01.ithaca.edu
+ns1.ithaca.edu
+login.ithaca.edu
+itunes-mohall.ithaca.edu
+owego.ithaca.edu
+ainfprx02.ithaca.edu
+devweb.ithaca.edu
+deis.ithaca.edu
+webwork.ithaca.edu
+progress.ithaca.edu
+iccareernetwork.ithaca.edu
+typeset.ithaca.edu
+faculty-angus.ithaca.edu
+ainfmicdm01.ithaca.edu
+faculty.ithaca.edu
+go.galegroup.com.ezproxy.ithaca.edu
+www6.ithaca.edu
+jobs.ithaca.edu
+dinfmicd01.ithaca.edu
+duo.ithaca.edu
+austin-temp.ithaca.edu
+www-mohall.ithaca.edu
+nutrition.dev.ithaca.edu
+musictech.ithaca.edu
+cdn.ithaca.edu
+public-kiosk-1.ithaca.edu
+display4.ithaca.edu
+nextcatalog.ithaca.edu
+decmdock01.ithaca.edu
+vail.ithaca.edu
+brand-standards.ithaca.edu
+ecm.ithaca.edu
+decm.ithaca.edu
+smtpgate.ithaca.edu
+www-lexisnexis-com.ezproxy.ithaca.edu
+ishtar.ithaca.edu
+apncapp01.ithaca.edu
+ainfprx20.ithaca.edu
+careercore.ithaca.edu
+realmedia1b.ithaca.edu
+ahomerwa2.ithaca.edu
+ithaca.ithaca.edu
+fuse.ithaca.edu
+alumniap02.ithaca.edu
+dhomwa02.ithaca.edu
+eportfolios-alpine.ithaca.edu
+beagle.ithaca.edu
+penn.ithaca.edu
+odessy-client.ithaca.edu
+sus.ithaca.edu
+pointandclick.ithaca.edu
+siren.ithaca.edu
+my.dev.ithaca.edu
+display5.ithaca.edu
+ds3.ithaca.edu
+dhomerwa.ithaca.edu
+afininf01.ithaca.edu
+pwc.ithaca.edu
+gloin.cs.ithaca.edu
+arda.cs.ithaca.edu
+bhomwap02.ithaca.edu
+give.ithaca.edu
+ic030059.ithaca.edu
+lem.ithaca.edu
+icsa.ithaca.edu
+www2.ithaca.edu
+ezproxy.ithaca.edu
+staff.dev.ithaca.edu
+www3.ithaca.edu
+paolpresent.ithaca.edu
+scithaca.ithaca.edu
+andes.ithaca.edu
+dinfdock01.ithaca.edu
+campusstore.ithaca.edu
+decmws.ithaca.edu
+becm.ithaca.edu
+ilene.ithaca.edu
+dunland.ithaca.edu
+dinfeis02.ithaca.edu
+faculty-alpine.ithaca.edu
+departments-angus.ithaca.edu
+vader.ithaca.edu
+icengage.ithaca.edu
+blackboard.dev.ithaca.edu
+display2.ithaca.edu
+autodiscover.ithaca.edu
+web2-alpine.ithaca.edu
+itunes.ithaca.edu
+departments.dev.ithaca.edu
+staff-alpine.ithaca.edu
+uniconnprod.ithaca.edu
+com.ezproxy.ithaca.edu
+bombers.ithaca.edu
+dwalin.cs.ithaca.edu
+diablo.ithaca.edu
+mse1.ithaca.edu
+eowyn.cs.ithaca.edu
+infinity-dev.ithaca.edu
+alumniap01.ithaca.edu
+restools.dev.ithaca.edu
+test.decker.ithaca.edu
+wwwcdn.ithaca.edu
+austin.ithaca.edu
+icweb-alpine.ithaca.edu
+library.ithaca.edu
+jobs-alpine.ithaca.edu
+display1.ithaca.edu
+fpdev.ithaca.edu
+ithaca.edu
+nmr-ac.ithaca.edu
+search.dev.ithaca.edu
+searchapp.ithaca.edu
+vpn.ithaca.edu
+faculty-decker.ithaca.edu
+icdell.ithaca.edu
+staff-angus.ithaca.edu
+homerconnect.ithaca.edu
+departments-decker.ithaca.edu
+biproxyqa.ithaca.edu
+daisy13.ithaca.edu
+dparnapp.ithaca.edu
+arnor.ithaca.edu
+pecm.ithaca.edu
+myhome.dev.ithaca.edu
+fbalumni.ithaca.edu
+dbatest.ithaca.edu
+jimi.ithaca.edu
+jobs-angus.ithaca.edu
+ainfdock09.ithaca.edu
+antler.ithaca.edu
+dinfeis01.ithaca.edu
+mordor.ithaca.edu
+jobs.dev.ithaca.edu
+azimuth.ithaca.edu
+ahomerff.ithaca.edu
+search.proquest.com.ezproxy.ithaca.edu
+healthcenterapp.ithaca.edu
+azimuth-temp.ithaca.edu
+ahomwa01.ithaca.edu
+dublin.ithaca.edu
+events.ithaca.edu
+pecmdock01.ithaca.edu
+lowell.ithaca.edu
+efieldsim.ithaca.edu
+itunes-alpine.ithaca.edu
+eportfolios.dev.ithaca.edu
+lindon.ithaca.edu
+icnet.ithaca.edu
+ns2.ithaca.edu
+icweb-angus.ithaca.edu
+departments.ithaca.edu
+mse2.ithaca.edu
+staff-mohall.ithaca.edu
+paolcap303.ithaca.edu
+libguides.ithaca.edu
+labosx2.ithaca.edu
+www-angus.ithaca.edu
+jss.ithaca.edu
+becmdock01.ithaca.edu
+login.dlibweb01.ithaca.edu
+answers.ithaca.edu
+www.library.ithaca.edu
+micros01.ithaca.edu
+dfininf01.ithaca.edu
+amidon.dev.ithaca.edu
+fuse.dev.ithaca.edu
+www.dev.ithaca.edu
+remote.ithaca.edu
+homerapps.dev.ithaca.edu
+vpnf.ithaca.edu
+media.ithaca.edu
+careers.ithaca.edu
+ready.dev.ithaca.edu
+khand.ithaca.edu
+departments-alpine.ithaca.edu
+lucida.ithaca.edu
+bela.ithaca.edu
+managed.ithaca.edu
+webct-virt.dev.ithaca.edu
+chumley.ithaca.edu
+bhomerwa4.ithaca.edu
+collab.ithaca.edu
+sakai.ithaca.edu
+courses.dev.ithaca.edu
+dewey.ithaca.edu
+ic5.ithaca.edu
+aportal.ithaca.edu
+phoebe.ithaca.edu
+search.ithaca.edu
+miles.ithaca.edu
+nina.ithaca.edu
+seemore.ithaca.edu
+techops.ithaca.edu
+gollum.cs.ithaca.edu
+cs-oracle.ithaca.edu
+eportfolios.ithaca.edu
+scholar-google-com.ezproxy.ithaca.edu
+infinity.ithaca.edu
+itunes.dev.ithaca.edu
+map.ithaca.edu
+nori.cs.ithaca.edu
+paolcap309.ithaca.edu
+icknoll.ithaca.edu
+dinfprx03.ithaca.edu
+itunes-decker.ithaca.edu
+alpine.ithaca.edu
+www-alpine.ithaca.edu
+eriador.ithaca.edu
+myhome.ithaca.edu
+icarus.ithaca.edu
+ainfprx06.ithaca.edu
+dinfprx01.ithaca.edu
+rhun.ithaca.edu
+physics.ithaca.edu
+apps.dev.ithaca.edu
+bookstore.dev.ithaca.edu
+ithaca-enps-mob.ithaca.edu
+icweb.ithaca.edu
+ainfprx01.ithaca.edu
+homerconnect.dev.ithaca.edu
+aroya.ithaca.edu
+greenwich.ithaca.edu
+homerconnect-alpine.ithaca.edu
+courses-mohall.ithaca.edu
+web2.ithaca.edu
+bhomwap01.ithaca.edu
+eis.ithaca.edu
+eportfolios-mohall.ithaca.edu
+dhomwa01.ithaca.edu
+qtrack.dev.ithaca.edu
+comp106.cs.ithaca.edu
+webct.dev.ithaca.edu
+vail.dev.ithaca.edu
+login-internal.ithaca.edu
+courses-alpine.ithaca.edu
+banner9.dev.ithaca.edu
+aecmdock01.ithaca.edu
+abiportal.ithaca.edu
+abisap1.ithaca.edu
+search.ebscohost.com.ezproxy.ithaca.edu
+departments-mohall.ithaca.edu
+my-alpine.ithaca.edu
+ainfprx05.ithaca.edu
+bookstore.ithaca.edu
+washington.ithaca.edu
+seemore.dev.ithaca.edu
+faculty-mohall.ithaca.edu

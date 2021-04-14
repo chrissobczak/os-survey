@@ -1,109 +1,77 @@
-NOERROR	techlabs.greenriver.edu
-NOERROR	webmail.greenriver.edu
-NOERROR	itlamp.greenriver.edu
-NOERROR	catalog.greenriver.edu
-NOERROR	t4.greenriver.edu
-NXDOMAIN	www.remote.greenriver.edu
-NOERROR	orientation.greenriver.edu
-NXDOMAIN	www.catalog.greenriver.edu
-NOERROR	grcc.greenriver.edu
-NXDOMAIN	www.otacedaron.greenriver.edu
-NXDOMAIN	fs.student.greenriver.edu
-NOERROR	pepper.cca.greenriver.edu
-NOERROR	www.library.greenriver.edu
-NOERROR	drais.greenriver.edu
-NOERROR	smtp.greenriver.edu
-NXDOMAIN	www.itlamp.greenriver.edu
-NOERROR	techvm3.greenriver.edu
-NOERROR	techvm2.greenriver.edu
-NOERROR	mazama.greenriver.edu
-NOERROR	ippathway.greenriver.edu
-NXDOMAIN	www.sts.greenriver.edu
-NXDOMAIN	gobydev.greenriver.edu
-NXDOMAIN	www.watson.greenriver.edu
-NOERROR	remote.greenriver.edu
-NOERROR	wifireg.greenriver.edu
-NOERROR	www.libguides.greenriver.edu
-NOERROR	netlab.greenriver.edu
-NOERROR	netlab1.greenriver.edu
-NXDOMAIN	www.wireless.wifi.guest.greenriver.edu
-NXDOMAIN	www.landing.wifi.guest.greenriver.edu
-NXDOMAIN	landing.wifi.greenriver.edu
-NXDOMAIN	goby.greenriver.edu
-NOERROR	egator.greenriver.edu
-NOERROR	greenriver.edu
-NXDOMAIN	techlab2.greenriver.edu
-NOERROR	demo.greenriver.edu
-NOERROR	remote2.greenriver.edu
-NXDOMAIN	www.webmail.greenriver.edu
-NOERROR	mail.greenriver.edu
-NOERROR	techdivvpn.greenriver.edu
-NOERROR	cedar1.greenriver.edu
-NOERROR	login.ezproxy.greenriver.edu
-NOERROR	techvm5.greenriver.edu
-NOERROR	techvm.greenriver.edu
-NXDOMAIN	www.grcc.greenriver.edu
-NXDOMAIN	www.mdm.greenriver.edu
-NXDOMAIN	www.pepper.cca.greenriver.edu
-NOERROR	proxy2.greenriver.edu
-NOERROR	ibises.greenriver.edu
-NOERROR	techvmcopy.greenriver.edu
-NXDOMAIN	www.netlab2.greenriver.edu
-NXDOMAIN	oscar.greenriver.edu
-NXDOMAIN	landing.wifi.guest.greenriver.edu
-NOERROR	commencement.greenriver.edu
-NOERROR	w.greenriver.edu
-NOERROR	techvm6.greenriver.edu
-NOERROR	site.ebrary.com.ezproxy.greenriver.edu
-NOERROR	media.greenriver.edu
-NXDOMAIN	www.orientation.greenriver.edu
-NXDOMAIN	www.netlab1.greenriver.edu
-NOERROR	www.instruction.greenriver.edu
-NOERROR	photos.greenriver.edu
-NOERROR	wms.greenriver.edu
-NOERROR	redmine1.greenriver.edu
-NOERROR	www.commencement.greenriver.edu
-NOERROR	hvlab1.greenriver.edu
-NOERROR	gatornet.greenriver.edu
-NOERROR	mckinley.greenriver.edu
-NOERROR	instruction.greenriver.edu
-NXDOMAIN	www.remote2.greenriver.edu
-NXDOMAIN	www2.greenriver.edu.greenriver.edu
-NOERROR	papertree.greenriver.edu
-NOERROR	lamprey.greenriver.edu
-NXDOMAIN	techlab3.greenriver.edu
-NXDOMAIN	wireless.wifi.guest.greenriver.edu
-NOERROR	techvm1.greenriver.edu
-NXDOMAIN	techlab.greenriver.edu
-NOERROR	techpassword.greenriver.edu
-NOERROR	netlab2.greenriver.edu
-NOERROR	bl.greenriver.edu
-NXDOMAIN	wireless.wifi.greenriver.edu
-NXDOMAIN	techlab1.greenriver.edu
-NOERROR	vdi.greenriver.edu
-NOERROR	sts.greenriver.edu
-NOERROR	otacedaron.greenriver.edu
-NOERROR	events.greenriver.edu
-NXDOMAIN	www.owa.greenriver.edu
-NOERROR	rb.greenriver.edu
-NOERROR	mdm.greenriver.edu
-NOERROR	sts.student.greenriver.edu
-NOERROR	autodiscover.greenriver.edu
-NOERROR	www.gatornet.greenriver.edu
-NOERROR	mccartney.greenriver.edu
-NOERROR	password.greenriver.edu
-NOERROR	watson.greenriver.edu
-NOERROR	libguides.greenriver.edu
-NOERROR	prtg.greenriver.edu
-NXDOMAIN	www.techdivvpn.greenriver.edu
-NOERROR	gp.greenriver.edu
-NOERROR	m.catalog.greenriver.edu
-NOERROR	proxy.greenriver.edu
-NOERROR	owa.greenriver.edu
-NOERROR	desktop.greenriver.edu
-NOERROR	my.greenriver.edu
-NXDOMAIN	www.egator.greenriver.edu
-NOERROR	crmedia.greenriver.edu
-NOERROR	ezproxy.greenriver.edu
-NOERROR	www.greenriver.edu
-NOERROR	techvm4.greenriver.edu
+techlabs.greenriver.edu
+webmail.greenriver.edu
+itlamp.greenriver.edu
+catalog.greenriver.edu
+t4.greenriver.edu
+orientation.greenriver.edu
+grcc.greenriver.edu
+pepper.cca.greenriver.edu
+www.library.greenriver.edu
+drais.greenriver.edu
+smtp.greenriver.edu
+techvm3.greenriver.edu
+techvm2.greenriver.edu
+mazama.greenriver.edu
+ippathway.greenriver.edu
+remote.greenriver.edu
+wifireg.greenriver.edu
+www.libguides.greenriver.edu
+netlab.greenriver.edu
+netlab1.greenriver.edu
+egator.greenriver.edu
+greenriver.edu
+demo.greenriver.edu
+remote2.greenriver.edu
+mail.greenriver.edu
+techdivvpn.greenriver.edu
+cedar1.greenriver.edu
+login.ezproxy.greenriver.edu
+techvm5.greenriver.edu
+techvm.greenriver.edu
+proxy2.greenriver.edu
+ibises.greenriver.edu
+techvmcopy.greenriver.edu
+commencement.greenriver.edu
+w.greenriver.edu
+techvm6.greenriver.edu
+site.ebrary.com.ezproxy.greenriver.edu
+media.greenriver.edu
+www.instruction.greenriver.edu
+photos.greenriver.edu
+wms.greenriver.edu
+redmine1.greenriver.edu
+www.commencement.greenriver.edu
+hvlab1.greenriver.edu
+gatornet.greenriver.edu
+mckinley.greenriver.edu
+instruction.greenriver.edu
+papertree.greenriver.edu
+lamprey.greenriver.edu
+techvm1.greenriver.edu
+techpassword.greenriver.edu
+netlab2.greenriver.edu
+bl.greenriver.edu
+vdi.greenriver.edu
+sts.greenriver.edu
+otacedaron.greenriver.edu
+events.greenriver.edu
+rb.greenriver.edu
+mdm.greenriver.edu
+sts.student.greenriver.edu
+autodiscover.greenriver.edu
+www.gatornet.greenriver.edu
+mccartney.greenriver.edu
+password.greenriver.edu
+watson.greenriver.edu
+libguides.greenriver.edu
+prtg.greenriver.edu
+gp.greenriver.edu
+m.catalog.greenriver.edu
+proxy.greenriver.edu
+owa.greenriver.edu
+desktop.greenriver.edu
+my.greenriver.edu
+crmedia.greenriver.edu
+ezproxy.greenriver.edu
+www.greenriver.edu
+techvm4.greenriver.edu

@@ -1,149 +1,109 @@
-NOERROR	mail.msht.ndpi.uz
-NOERROR	mail.journal.ndpi.uz
-NOERROR	mail.pedagogika.ndpi.uz
-NOERROR	mail.fizmat.ndpi.uz
-NOERROR	asb.ndpi.uz
-NOERROR	mail.dmfak.ndpi.uz
-NOERROR	mail.edu.ndpi.uz
-NOERROR	mgikaf.ndpi.uz
-NXDOMAIN	www.mat-inf.ndpi.uz
-NOERROR	www.uzadab.ndpi.uz
-NOERROR	www.moodle.ndpi.uz
-NOERROR	mail.fizika-miynet.ndpi.uz
-NOERROR	mail.forlang.ndpi.uz
-NXDOMAIN	lectures.ndpi.uz
-NOERROR	magistratura.ndpi.uz
-NOERROR	moodle.ndpi.uz
-NOERROR	www.contract.ndpi.uz
-NOERROR	www.xim-bio.ndpi.uz
-NOERROR	webmail.ndpi.uz
-NXDOMAIN	interaktiv.ndpi.uz
-NXDOMAIN	qabul2015.ndpi.uz
-NOERROR	ek.ndpi.uz
-NOERROR	www.pedagogika.ndpi.uz
-NOERROR	old.ndpi.uz
-NOERROR	mail.test.ndpi.uz
-NOERROR	mail.telegrambotok.ndpi.uz
-NXDOMAIN	tarix.ndpi.uz
-NXDOMAIN	matinf.ndpi.uz
-NXDOMAIN	targibot.ndpi.uz
-NXDOMAIN	geograf.ndpi.uz
-NOERROR	uzadab.ndpi.uz
-NOERROR	testoviy.ndpi.uz
-NOERROR	contract.ndpi.uz
-NOERROR	www.mgikaf.ndpi.uz
-NXDOMAIN	filologiya.ndpi.uz
-NOERROR	fizmat.ndpi.uz
-NOERROR	www.journal.ndpi.uz
-NOERROR	mail.moodle.ndpi.uz
-NOERROR	mail.tsmt.ndpi.uz
-NOERROR	mail.ek.ndpi.uz
-NXDOMAIN	strateg.ndpi.uz
-NOERROR	www.mathconf.ndpi.uz
-NOERROR	www.msht.ndpi.uz
-NXDOMAIN	jurnal.ndpi.uz
-NOERROR	mail.kkadeb.ndpi.uz
-NOERROR	www.ek.ndpi.uz
-NOERROR	mail.contract.ndpi.uz
-NXDOMAIN	kerder.ndpi.uz
-NXDOMAIN	qabul.ndpi.uz
-NOERROR	www.ndpi.uz
-NXDOMAIN	webdisk.ndpi.uz
-NOERROR	kkadeb.ndpi.uz
-NOERROR	www.asb.ndpi.uz
-NXDOMAIN	qabul2014.ndpi.uz
-NOERROR	www.nnn.ndpi.uz
-NOERROR	www.magistratura.ndpi.uz
-NOERROR	mail.nnn.ndpi.uz
-NOERROR	mail.magistratura.ndpi.uz
-NXDOMAIN	www.aaaa.ndpi.uz
-NOERROR	mail.old.ndpi.uz
-NXDOMAIN	mail.news.ndpi.uz
-NXDOMAIN	www.matinf.ndpi.uz
-NOERROR	mail.tarixqq.ndpi.uz
-NOERROR	nnn.ndpi.uz
-NXDOMAIN	qabul2013.ndpi.uz
-NOERROR	edu.ndpi.uz
-NXDOMAIN	mat-inf.ndpi.uz
-NOERROR	www.tsmt.ndpi.uz
-NXDOMAIN	tabiyat.ndpi.uz
-NOERROR	tariyx.ndpi.uz
-NOERROR	mail.hujjet.ndpi.uz
-NOERROR	forlang.ndpi.uz
-NXDOMAIN	qabul2012.ndpi.uz
-NOERROR	cpanel.ndpi.uz
-NOERROR	www.telegrambotok.ndpi.uz
-NOERROR	mail.mathconf.ndpi.uz
-NXDOMAIN	magistr.ndpi.uz
-NOERROR	contra-telega.ndpi.uz
-NXDOMAIN	www.news.ndpi.uz
-NOERROR	dmfak.ndpi.uz
-NOERROR	test.ndpi.uz
-NOERROR	www.tariyx.ndpi.uz
-NOERROR	xim-bio.ndpi.uz
-NOERROR	mail.btm.ndpi.uz
-NOERROR	btm.ndpi.uz
-NOERROR	learn.ndpi.uz
-NOERROR	tariyx-geo.ndpi.uz
-NOERROR	ndpi.uz
-NOERROR	www.forlang.ndpi.uz
-NOERROR	www.fizika-miynet.ndpi.uz
-NXDOMAIN	mail.matinf.ndpi.uz
-NOERROR	mail.contra-telega.ndpi.uz
-NOERROR	fizika-miynet.ndpi.uz
-NOERROR	pedagogika.ndpi.uz
-NOERROR	mail.asb.ndpi.uz
-NOERROR	mail.xim-bio.ndpi.uz
-NOERROR	www.contra-telega.ndpi.uz
-NXDOMAIN	ibrayimyusupov.ndpi.uz
-NOERROR	mail.tariyx-geo.ndpi.uz
-NOERROR	www.kkadeb.ndpi.uz
-NOERROR	mail.tariyx.ndpi.uz
-NXDOMAIN	news.ndpi.uz
-NXDOMAIN	www.filfak.ndpi.uz
-NOERROR	server.ndpi.uz
-NOERROR	telegrambotok.ndpi.uz
-NOERROR	mail.filolog.ndpi.uz
-NOERROR	mail.mgikaf.ndpi.uz
-NOERROR	tsmt.ndpi.uz
-NOERROR	www.tariyx-geo.ndpi.uz
-NXDOMAIN	ximiykaf.ndpi.uz
-NXDOMAIN	admin.ndpi.uz
-NOERROR	msht.ndpi.uz
-NXDOMAIN	www.filologiya.ndpi.uz
-NOERROR	www.old.ndpi.uz
-NOERROR	study.ndpi.uz
-NOERROR	www.hujjet.ndpi.uz
-NXDOMAIN	www.magistr.ndpi.uz
-NOERROR	ohmymoodle.ndpi.uz
-NOERROR	www.testoviy.ndpi.uz
-NOERROR	www.test.ndpi.uz
-NOERROR	mathconf.ndpi.uz
-NXDOMAIN	db.ndpi.uz
-NOERROR	mail.telegrambot.ndpi.uz
-NOERROR	www.study.ndpi.uz
-NXDOMAIN	filfak.ndpi.uz
-NOERROR	dist.ndpi.uz
-NXDOMAIN	autodiscover.ndpi.uz
-NOERROR	www.edu.ndpi.uz
-NOERROR	tarixqq.ndpi.uz
-NOERROR	mail.uzadab.ndpi.uz
-NOERROR	www.filolog.ndpi.uz
-NOERROR	www.telegrambot.ndpi.uz
-NOERROR	journal.ndpi.uz
-NOERROR	www.fizmat.ndpi.uz
-NOERROR	filolog.ndpi.uz
-NOERROR	telegrambot.ndpi.uz
-NOERROR	hujjet.ndpi.uz
-NXDOMAIN	strategiya.ndpi.uz
-NOERROR	mail.ndpi.uz
-NOERROR	mail.testoviy.ndpi.uz
-NOERROR	www.tarixqq.ndpi.uz
-NOERROR	www.btm.ndpi.uz
-NOERROR	mail.study.ndpi.uz
-NXDOMAIN	aaaa.ndpi.uz
-NXDOMAIN	demo.ndpi.uz
-NXDOMAIN	www.db.ndpi.uz
-NOERROR	new.ndpi.uz
-NOERROR	www.dmfak.ndpi.uz
-NXDOMAIN	www.learn.ndpi.uz
+mail.msht.ndpi.uz
+mail.journal.ndpi.uz
+mail.pedagogika.ndpi.uz
+mail.fizmat.ndpi.uz
+asb.ndpi.uz
+mail.dmfak.ndpi.uz
+mail.edu.ndpi.uz
+mgikaf.ndpi.uz
+www.uzadab.ndpi.uz
+www.moodle.ndpi.uz
+mail.fizika-miynet.ndpi.uz
+mail.forlang.ndpi.uz
+magistratura.ndpi.uz
+moodle.ndpi.uz
+www.contract.ndpi.uz
+www.xim-bio.ndpi.uz
+webmail.ndpi.uz
+ek.ndpi.uz
+www.pedagogika.ndpi.uz
+old.ndpi.uz
+mail.test.ndpi.uz
+mail.telegrambotok.ndpi.uz
+uzadab.ndpi.uz
+testoviy.ndpi.uz
+contract.ndpi.uz
+www.mgikaf.ndpi.uz
+fizmat.ndpi.uz
+www.journal.ndpi.uz
+mail.moodle.ndpi.uz
+mail.tsmt.ndpi.uz
+mail.ek.ndpi.uz
+www.mathconf.ndpi.uz
+www.msht.ndpi.uz
+mail.kkadeb.ndpi.uz
+www.ek.ndpi.uz
+mail.contract.ndpi.uz
+www.ndpi.uz
+kkadeb.ndpi.uz
+www.asb.ndpi.uz
+www.nnn.ndpi.uz
+www.magistratura.ndpi.uz
+mail.nnn.ndpi.uz
+mail.magistratura.ndpi.uz
+mail.old.ndpi.uz
+mail.tarixqq.ndpi.uz
+nnn.ndpi.uz
+edu.ndpi.uz
+www.tsmt.ndpi.uz
+tariyx.ndpi.uz
+mail.hujjet.ndpi.uz
+forlang.ndpi.uz
+cpanel.ndpi.uz
+www.telegrambotok.ndpi.uz
+mail.mathconf.ndpi.uz
+contra-telega.ndpi.uz
+dmfak.ndpi.uz
+test.ndpi.uz
+www.tariyx.ndpi.uz
+xim-bio.ndpi.uz
+mail.btm.ndpi.uz
+btm.ndpi.uz
+learn.ndpi.uz
+tariyx-geo.ndpi.uz
+ndpi.uz
+www.forlang.ndpi.uz
+www.fizika-miynet.ndpi.uz
+mail.contra-telega.ndpi.uz
+fizika-miynet.ndpi.uz
+pedagogika.ndpi.uz
+mail.asb.ndpi.uz
+mail.xim-bio.ndpi.uz
+www.contra-telega.ndpi.uz
+mail.tariyx-geo.ndpi.uz
+www.kkadeb.ndpi.uz
+mail.tariyx.ndpi.uz
+server.ndpi.uz
+telegrambotok.ndpi.uz
+mail.filolog.ndpi.uz
+mail.mgikaf.ndpi.uz
+tsmt.ndpi.uz
+www.tariyx-geo.ndpi.uz
+msht.ndpi.uz
+www.old.ndpi.uz
+study.ndpi.uz
+www.hujjet.ndpi.uz
+ohmymoodle.ndpi.uz
+www.testoviy.ndpi.uz
+www.test.ndpi.uz
+mathconf.ndpi.uz
+mail.telegrambot.ndpi.uz
+www.study.ndpi.uz
+dist.ndpi.uz
+www.edu.ndpi.uz
+tarixqq.ndpi.uz
+mail.uzadab.ndpi.uz
+www.filolog.ndpi.uz
+www.telegrambot.ndpi.uz
+journal.ndpi.uz
+www.fizmat.ndpi.uz
+filolog.ndpi.uz
+telegrambot.ndpi.uz
+hujjet.ndpi.uz
+mail.ndpi.uz
+mail.testoviy.ndpi.uz
+www.tarixqq.ndpi.uz
+www.btm.ndpi.uz
+mail.study.ndpi.uz
+new.ndpi.uz
+www.dmfak.ndpi.uz

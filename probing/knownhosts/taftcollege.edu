@@ -1,111 +1,92 @@
-NXDOMAIN	laserfiche.taftcollege.edu
-NOERROR	ns1.taftcollege.edu
-NOERROR	cognos-prod.taftcollege.edu
-NOERROR	ct-dw-prod.taftcollege.edu
-NOERROR	clipart.taftcollege.edu
-NOERROR	ms-sw1.taftcollege.edu
-NOERROR	www.dev2.taftcollege.edu
-NOERROR	tcsr.taftcollege.edu
-NOERROR	faculty.taftcollege.edu
-NOERROR	ms-db1.taftcollege.edu
-NOERROR	tutor-test.taftcollege.edu
-NOERROR	ct-test-dl.taftcollege.edu
-NOERROR	ct-test-wp.taftcollege.edu
-NOERROR	class.taftcollege.edu
-NOERROR	wlc.taftcollege.edu
-NXDOMAIN	ctportal.taftcollege.edu
-NOERROR	ct-prod-shib.taftcollege.edu
-NOERROR	www.taftcollege.edu
-NOERROR	library.taftcollege.edu
-NOERROR	moodle.taftcollege.edu
-NXDOMAIN	cognos-test.taftcollege.edu
-NOERROR	alumni.taftcollege.edu
-NOERROR	vpn.taftcollege.edu
-NXDOMAIN	www.vpn.taftcollege.edu
-NOERROR	athletics.taftcollege.edu
-NXDOMAIN	ct-prod-pdc.taftcollege.edu
-NOERROR	taftcollege.edu
-NOERROR	qt2-server.taftcollege.edu
-NXDOMAIN	ct-test-bxe.taftcollege.edu
-NOERROR	sars-anywhere.taftcollege.edu
-NOERROR	wiki2.taftcollege.edu
-NOERROR	oldweb.taftcollege.edu
-NOERROR	dev2.taftcollege.edu
-NOERROR	web-production.taftcollege.edu
-NOERROR	echo.taftcollege.edu
-NOERROR	committees.taftcollege.edu
-NOERROR	terra.taftcollege.edu
-NOERROR	moodle-test.taftcollege.edu
-NOERROR	qt-server.taftcollege.edu
-NXDOMAIN	ct-prod-disco.taftcollege.edu
-NXDOMAIN	ct-test-dwi.taftcollege.edu
-NOERROR	ct-prod-moodle.taftcollege.edu
-NOERROR	planning.taftcollege.edu
-NOERROR	math-server.taftcollege.edu
-NOERROR	ct-bigbrother.taftcollege.edu
-NXDOMAIN	ct-prod-spirion.taftcollege.edu
-NOERROR	ct-prod-apps.taftcollege.edu
-NXDOMAIN	gitlab.taftcollege.edu
-NOERROR	tc-poll.taftcollege.edu
-NXDOMAIN	ct-prod-bas.taftcollege.edu
-NOERROR	ct-prod-nps.taftcollege.edu
-NOERROR	ct-dw-web.taftcollege.edu
-NOERROR	qt1-server.taftcollege.edu
-NOERROR	lib.taftcollege.edu
-NOERROR	dev.taftcollege.edu
-NOERROR	cosc.taftcollege.edu
-NOERROR	campuslogic-sandbox.taftcollege.edu
-NXDOMAIN	ct-test-midware.taftcollege.edu
-NOERROR	transfer.taftcollege.edu
-NOERROR	tc-stats.taftcollege.edu
-NOERROR	ct-test-video.taftcollege.edu
-NOERROR	qt1-podcasts.taftcollege.edu
-NOERROR	camtasia.taftcollege.edu
-NOERROR	tc-moodle.taftcollege.edu
-NOERROR	web.taftcollege.edu
-NOERROR	vtc.taftcollege.edu
-NOERROR	idp.taftcollege.edu
-NOERROR	tutor.taftcollege.edu
-NXDOMAIN	ct-stage-midware.taftcollege.edu
-NOERROR	vbnet.taftcollege.edu
-NOERROR	mymathskills.taftcollege.edu
-NOERROR	smtp.taftcollege.edu
-NOERROR	bluejay.taftcollege.edu
-NOERROR	ct-prod-ssb.taftcollege.edu
-NOERROR	portalguard-test.taftcollege.edu
-NOERROR	photos.taftcollege.edu
-NXDOMAIN	tc-asa.taftcollege.edu
-NXDOMAIN	ct-test-bex.taftcollege.edu
-NOERROR	wms.taftcollege.edu
-NOERROR	ct-prod-wp.taftcollege.edu
-NOERROR	sars.taftcollege.edu
-NOERROR	campus-logic.taftcollege.edu
-NOERROR	ct-moodle.taftcollege.edu
-NOERROR	sia.taftcollege.edu
-NOERROR	dli.taftcollege.edu
-NXDOMAIN	ct-prod-esm.taftcollege.edu
-NOERROR	ezproxy.taftcollege.edu
-NOERROR	ct-prod-ssa.taftcollege.edu
-NOERROR	wiki1.taftcollege.edu
-NOERROR	math.taftcollege.edu
-NOERROR	ct-prod-media.taftcollege.edu
-NOERROR	ct-prod-trio.taftcollege.edu
-NOERROR	ct-prod-dwi.taftcollege.edu
-NXDOMAIN	ct-test-hrfi.taftcollege.edu
-NOERROR	portalguard.taftcollege.edu
-NOERROR	dl-test.taftcollege.edu
-NOERROR	ns2.taftcollege.edu
-NOERROR	ct-prod-web.taftcollege.edu
-NXDOMAIN	ct-dw-test.taftcollege.edu
-NOERROR	tc-art.taftcollege.edu
-NOERROR	astronomy.taftcollege.edu
-NOERROR	stem.taftcollege.edu
-NOERROR	login.ezproxy.taftcollege.edu
-NOERROR	dl.taftcollege.edu
-NXDOMAIN	ct-test-devl.taftcollege.edu
-NOERROR	elumen.taftcollege.edu
-NOERROR	bookstore.taftcollege.edu
-NOERROR	staffcal.taftcollege.edu
-NOERROR	ssws.taftcollege.edu
-NOERROR	www.dev.taftcollege.edu
-NOERROR	ares.taftcollege.edu
+ns1.taftcollege.edu
+cognos-prod.taftcollege.edu
+ct-dw-prod.taftcollege.edu
+clipart.taftcollege.edu
+ms-sw1.taftcollege.edu
+www.dev2.taftcollege.edu
+tcsr.taftcollege.edu
+faculty.taftcollege.edu
+ms-db1.taftcollege.edu
+tutor-test.taftcollege.edu
+ct-test-dl.taftcollege.edu
+ct-test-wp.taftcollege.edu
+class.taftcollege.edu
+wlc.taftcollege.edu
+ct-prod-shib.taftcollege.edu
+www.taftcollege.edu
+library.taftcollege.edu
+moodle.taftcollege.edu
+alumni.taftcollege.edu
+vpn.taftcollege.edu
+athletics.taftcollege.edu
+taftcollege.edu
+qt2-server.taftcollege.edu
+sars-anywhere.taftcollege.edu
+wiki2.taftcollege.edu
+oldweb.taftcollege.edu
+dev2.taftcollege.edu
+web-production.taftcollege.edu
+echo.taftcollege.edu
+committees.taftcollege.edu
+terra.taftcollege.edu
+moodle-test.taftcollege.edu
+qt-server.taftcollege.edu
+ct-prod-moodle.taftcollege.edu
+planning.taftcollege.edu
+math-server.taftcollege.edu
+ct-bigbrother.taftcollege.edu
+ct-prod-apps.taftcollege.edu
+tc-poll.taftcollege.edu
+ct-prod-nps.taftcollege.edu
+ct-dw-web.taftcollege.edu
+qt1-server.taftcollege.edu
+lib.taftcollege.edu
+dev.taftcollege.edu
+cosc.taftcollege.edu
+campuslogic-sandbox.taftcollege.edu
+transfer.taftcollege.edu
+tc-stats.taftcollege.edu
+ct-test-video.taftcollege.edu
+qt1-podcasts.taftcollege.edu
+camtasia.taftcollege.edu
+tc-moodle.taftcollege.edu
+web.taftcollege.edu
+vtc.taftcollege.edu
+idp.taftcollege.edu
+tutor.taftcollege.edu
+vbnet.taftcollege.edu
+mymathskills.taftcollege.edu
+smtp.taftcollege.edu
+bluejay.taftcollege.edu
+ct-prod-ssb.taftcollege.edu
+portalguard-test.taftcollege.edu
+photos.taftcollege.edu
+wms.taftcollege.edu
+ct-prod-wp.taftcollege.edu
+sars.taftcollege.edu
+campus-logic.taftcollege.edu
+ct-moodle.taftcollege.edu
+sia.taftcollege.edu
+dli.taftcollege.edu
+ezproxy.taftcollege.edu
+ct-prod-ssa.taftcollege.edu
+wiki1.taftcollege.edu
+math.taftcollege.edu
+ct-prod-media.taftcollege.edu
+ct-prod-trio.taftcollege.edu
+ct-prod-dwi.taftcollege.edu
+portalguard.taftcollege.edu
+dl-test.taftcollege.edu
+ns2.taftcollege.edu
+ct-prod-web.taftcollege.edu
+tc-art.taftcollege.edu
+astronomy.taftcollege.edu
+stem.taftcollege.edu
+login.ezproxy.taftcollege.edu
+dl.taftcollege.edu
+elumen.taftcollege.edu
+bookstore.taftcollege.edu
+staffcal.taftcollege.edu
+ssws.taftcollege.edu
+www.dev.taftcollege.edu
+ares.taftcollege.edu

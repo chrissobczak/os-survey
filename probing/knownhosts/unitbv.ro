@@ -1,365 +1,269 @@
-NOERROR	tst2.unitbv.ro
-NOERROR	bbb8.unitbv.ro
-NOERROR	bbb10.unitbv.ro
-NOERROR	ru-res.unitbv.ro
-NOERROR	ims.unitbv.ro
-NOERROR	vega.unitbv.ro
-NXDOMAIN	ru-med-y.unitbv.ro
-NOERROR	cibv.unitbv.ro
-NOERROR	germanistik.unitbv.ro
-NXDOMAIN	www.info.unitbv.ro
-NOERROR	ru-iesp.unitbv.ro
-NOERROR	info-covid.unitbv.ro
-NOERROR	mobile.unitbv.ro
-NOERROR	beta.unitbv.ro
-NOERROR	relbv.unitbv.ro
-NOERROR	ns.unitbv.ro
-NOERROR	xu1.unitbv.ro
-NXDOMAIN	www.afco2019.unitbv.ro
-NXDOMAIN	www.chestionare-alumni.unitbv.ro
-NOERROR	jmb.unitbv.ro
-NOERROR	cs.unitbv.ro
-NOERROR	dpr.unitbv.ro
-NXDOMAIN	www.atb.unitbv.ro
-NXDOMAIN	www.pkpojs.unitbv.ro
-NOERROR	inscriere.unitbv.ro
-NXDOMAIN	gw-univ.unitbv.ro
-NOERROR	vpn.bbb.unitbv.ro
-NOERROR	s2.unitbv.ro
-NOERROR	refdisc.unitbv.ro
-NOERROR	ru-m.unitbv.ro
-NOERROR	ww3.unitbv.ro
-NOERROR	gemini.unitbv.ro
-NXDOMAIN	www.bbb7.unitbv.ro
-NOERROR	ticket.unitbv.ro
-NXDOMAIN	www.intranet.unitbv.ro
-NXDOMAIN	elearning3.unitbv.ro
-NOERROR	best.unitbv.ro
-NXDOMAIN	www.bbb11.unitbv.ro
-NXDOMAIN	www.ticket2.unitbv.ro
-NXDOMAIN	www.learning.unitbv.ro
-NXDOMAIN	edu2.unitbv.ro
-NXDOMAIN	www.bbb2.unitbv.ro
-NOERROR	ru-iesc.unitbv.ro
-NOERROR	bd.unitbv.ro
-NOERROR	vettrend.unitbv.ro
-NXDOMAIN	www.tst2.unitbv.ro
-NOERROR	writing.unitbv.ro
-NOERROR	heart.unitbv.ro
-NXDOMAIN	eduvpn2.unitbv.ro
-NOERROR	moim.unitbv.ro
-NOERROR	bbb4.unitbv.ro
-NOERROR	ctib.unitbv.ro
-NOERROR	meet.unitbv.ro
-NXDOMAIN	www.scientificbulletin.unitbv.ro
-NOERROR	bbb5.unitbv.ro
-NXDOMAIN	stud.unitbv.ro
-NOERROR	tas.unitbv.ro
-NOERROR	gef.unitbv.ro
-NOERROR	anglistica.unitbv.ro
-NXDOMAIN	compas.unitbv.ro
-NOERROR	navieyes.unitbv.ro
-NOERROR	rt1.unitbv.ro
-NOERROR	itmi.unitbv.ro
-NOERROR	rmv.unitbv.ro
-NOERROR	ru-dpr.unitbv.ro
-NXDOMAIN	www.bbb.unitbv.ro
-NOERROR	muzica.unitbv.ro
-NXDOMAIN	www.alumninet.unitbv.ro
-NOERROR	bbb7.unitbv.ro
-NOERROR	bbb1.unitbv.ro
-NOERROR	driveof.unitbv.ro
-NOERROR	bd-firme.unitbv.ro
-NOERROR	afco.unitbv.ro
-NOERROR	mail.unitbv.ro
-NOERROR	litere.unitbv.ro
-NXDOMAIN	www.alumni.unitbv.ro
-NOERROR	creativ.unitbv.ro
-NOERROR	etc.unitbv.ro
-NOERROR	itaproenerg.unitbv.ro
-NXDOMAIN	tp.unitbv.ro
-NOERROR	s1.unitbv.ro
-NOERROR	practica.unitbv.ro
-NOERROR	pkpojs.unitbv.ro
-NOERROR	r.unitbv.ro
-NOERROR	drive.unitbv.ro
-NXDOMAIN	www.bbb12.unitbv.ro
-NOERROR	cse.unitbv.ro
-NOERROR	old.unitbv.ro
-NXDOMAIN	gz-xu.unitbv.ro
-NOERROR	noc-u3.unitbv.ro
-NOERROR	portal2.unitbv.ro
-NXDOMAIN	el.unitbv.ro
-NXDOMAIN	www.info-covid.unitbv.ro
-NOERROR	libra.unitbv.ro
-NOERROR	radius.unitbv.ro
-NOERROR	www.uniculture.unitbv.ro
-NOERROR	alumni.unitbv.ro
-NOERROR	menelaus.unitbv.ro
-NOERROR	ru-indlemn.unitbv.ro
-NOERROR	cvtc.unitbv.ro
-NOERROR	constructii.unitbv.ro
-NOERROR	noneucandidates.unitbv.ro
-NOERROR	info.unitbv.ro
-NOERROR	rs.unitbv.ro
-NOERROR	gw-wg4.unitbv.ro
-NOERROR	ww6.unitbv.ro
-NOERROR	biofiz.unitbv.ro
-NOERROR	testbut.unitbv.ro
-NOERROR	ww2.unitbv.ro
-NOERROR	gwb.unitbv.ro
-NOERROR	iweek.unitbv.ro
-NOERROR	auth.meet.unitbv.ro
-NXDOMAIN	www.mlass.unitbv.ro
-NXDOMAIN	edu3.unitbv.ro
-NOERROR	bbb3.unitbv.ro
-NOERROR	cjm.unitbv.ro
-NOERROR	ru-rmv.unitbv.ro
-NOERROR	ru-maia.unitbv.ro
-NOERROR	il.unitbv.ro
-NOERROR	bbb9.unitbv.ro
-NXDOMAIN	www.e-learning.unitbv.ro
-NOERROR	wbt.unitbv.ro
-NOERROR	cercetare.unitbv.ro
-NXDOMAIN	www.wbt.unitbv.ro
-NOERROR	medicina.unitbv.ro
-NXDOMAIN	ru-construct.unitbv.ro
-NOERROR	www.unitbv.ro
-NXDOMAIN	dyno3.unitbv.ro
-NXDOMAIN	nti-monitor.unitbv.ro
-NOERROR	cciu.unitbv.ro
-NOERROR	atitech.unitbv.ro
-NOERROR	ww4.unitbv.ro
-NOERROR	healthfoodenviron.unitbv.ro
-NOERROR	bbb6.unitbv.ro
-NOERROR	tc.unitbv.ro
-NOERROR	j-seism1.unitbv.ro
-NXDOMAIN	www.bbb1.unitbv.ro
-NXDOMAIN	dentaltraining.unitbv.ro
-NOERROR	gw-wg3.unitbv.ro
-NOERROR	iesc.unitbv.ro
-NOERROR	futureweb.unitbv.ro
-NOERROR	ms1.unitbv.ro
-NXDOMAIN	www.turn.unitbv.ro
-NOERROR	cariere.unitbv.ro
-NOERROR	orion.unitbv.ro
-NOERROR	ru-autov.unitbv.ro
-NXDOMAIN	www.mobile.unitbv.ro
-NXDOMAIN	www.acum.unitbv.ro
-NXDOMAIN	www.bbb9.unitbv.ro
-NXDOMAIN	www.bbb10.unitbv.ro
-NOERROR	miv.unitbv.ro
-NOERROR	auth.unitbv.ro
-NXDOMAIN	www.inscriere.unitbv.ro
-NOERROR	moodle.unitbv.ro
-NOERROR	sas.unitbv.ro
-NOERROR	mcu.unitbv.ro
-NOERROR	newsletter.unitbv.ro
-NOERROR	bbb2.unitbv.ro
-NOERROR	ru-gdgt.unitbv.ro
-NXDOMAIN	bbb0.unitbv.ro
-NXDOMAIN	forum.unitbv.ro
-NOERROR	noc-u2.unitbv.ro
-NXDOMAIN	test-m1.unitbv.ro
-NXDOMAIN	www.ww4.unitbv.ro
-NXDOMAIN	www.bbb0.unitbv.ro
-NOERROR	pvwastecomp.unitbv.ro
-NOERROR	bbb11.unitbv.ro
-NOERROR	sport.unitbv.ro
-NOERROR	rct.unitbv.ro
-NXDOMAIN	sw-core.unitbv.ro
-NOERROR	gesfo.unitbv.ro
-NOERROR	sim.unitbv.ro
-NOERROR	afco2019.unitbv.ro
-NXDOMAIN	www.bbb3.unitbv.ro
-NXDOMAIN	unknown.unitbv.ro
-NOERROR	sdriveof.unitbv.ro
-NOERROR	elmset.unitbv.ro
-NOERROR	el2.unitbv.ro
-NOERROR	admitere.unitbv.ro
-NOERROR	bramat.unitbv.ro
-NOERROR	robocore.unitbv.ro
-NOERROR	ms0.unitbv.ro
-NOERROR	ns-a.unitbv.ro
-NOERROR	ru-uccp.unitbv.ro
-NXDOMAIN	www.econ.unitbv.ro
-NOERROR	listaspecialistilor.unitbv.ro
-NOERROR	s15k3.bbb.unitbv.ro
-NXDOMAIN	ms.unitbv.ro
-NOERROR	dfsgah23.unitbv.ro
-NOERROR	gesco.unitbv.ro
-NOERROR	metabase.unitbv.ro
-NOERROR	ru-s-colina.unitbv.ro
-NOERROR	fortuna.unitbv.ro
-NOERROR	ipc.unitbv.ro
-NOERROR	mecanica.unitbv.ro
-NXDOMAIN	eduvpn.unitbv.ro
-NOERROR	icanmbes.unitbv.ro
-NXDOMAIN	radius2.unitbv.ro
-NXDOMAIN	www.bbb5.unitbv.ro
-NOERROR	econ.unitbv.ro
-NOERROR	lexica.unitbv.ro
-NOERROR	acum.unitbv.ro
-NOERROR	xu.unitbv.ro
-NXDOMAIN	www.cm2020.unitbv.ro
-NOERROR	gw-wg5.unitbv.ro
-NOERROR	icdt.unitbv.ro
-NOERROR	noc-u1.unitbv.ro
-NOERROR	ru-fizica.unitbv.ro
-NOERROR	atb.unitbv.ro
-NOERROR	decide.unitbv.ro
-NOERROR	dmil.unitbv.ro
-NOERROR	chestionare-alumni.unitbv.ro
-NOERROR	webbut.unitbv.ro
-NXDOMAIN	www.lerarning.unitbv.ro
-NOERROR	rovis.unitbv.ro
-NOERROR	cerex.unitbv.ro
-NOERROR	yo6ksu.unitbv.ro
-NOERROR	tsg.unitbv.ro
-NOERROR	silvic.unitbv.ro
-NXDOMAIN	www.doctorat.unitbv.ro
-NOERROR	ru-auto.unitbv.ro
-NXDOMAIN	sw-ext.unitbv.ro
-NOERROR	ru-lzf.unitbv.ro
-NOERROR	uniculture.unitbv.ro
-NOERROR	complete.unitbv.ro
-NOERROR	urbanbim2.unitbv.ro
-NOERROR	scientificbulletin.unitbv.ro
-NOERROR	stargate.unitbv.ro
-NOERROR	mateinfo.unitbv.ro
-NOERROR	ru-cam-col.unitbv.ro
-NOERROR	bbb12.unitbv.ro
-NXDOMAIN	gz.unitbv.ro
-NOERROR	at.unitbv.ro
-NOERROR	vpn.unitbv.ro
-NOERROR	lzcp17.unitbv.ro
-NOERROR	matrice.unitbv.ro
-NOERROR	www.healthfoodenviron.unitbv.ro
-NOERROR	s0.unitbv.ro
-NOERROR	erasmus.unitbv.ro
-NOERROR	spine.unitbv.ro
-NOERROR	gw-wg0.unitbv.ro
-NOERROR	aspeckt.unitbv.ro
-NOERROR	apscconference.unitbv.ro
-NOERROR	ilab.unitbv.ro
-NOERROR	rmu.unitbv.ro
-NOERROR	musiccenter.unitbv.ro
-NOERROR	unitbv.ro
-NOERROR	auto.unitbv.ro
-NOERROR	cosme.unitbv.ro
-NOERROR	fizica.unitbv.ro
-NOERROR	srait.unitbv.ro
-NXDOMAIN	2.unitbv.ro
-NOERROR	marconi.unitbv.ro
-NOERROR	intranet.unitbv.ro
-NOERROR	conat.unitbv.ro
-NOERROR	estud.unitbv.ro
-NOERROR	sunacademy.unitbv.ro
-NXDOMAIN	dyno1.unitbv.ro
-NOERROR	testvoluntar.unitbv.ro
-NXDOMAIN	www.gesco.unitbv.ro
-NXDOMAIN	www.bbb8.unitbv.ro
-NOERROR	simcor.unitbv.ro
-NOERROR	elearning2.unitbv.ro
-NXDOMAIN	www.bbb4.unitbv.ro
-NOERROR	doctorat.unitbv.ro
-NXDOMAIN	weby.unitbv.ro
-NXDOMAIN	www.tsg.unitbv.ro
-NOERROR	chestionare.unitbv.ro
-NXDOMAIN	www.citrix.unitbv.ro
-NOERROR	proced.unitbv.ro
-NOERROR	testnewsletter.unitbv.ro
-NXDOMAIN	vpnst2.unitbv.ro
-NOERROR	centrulmuzical.unitbv.ro
-NOERROR	ru-s.unitbv.ro
-NOERROR	s6v1.bbb.unitbv.ro
-NOERROR	iris.unitbv.ro
-NXDOMAIN	bacov-ia.unitbv.ro
-NOERROR	mfm.unitbv.ro
-NXDOMAIN	gwm.unitbv.ro
-NXDOMAIN	www.radius.unitbv.ro
-NXDOMAIN	mec-flu.unitbv.ro
-NOERROR	el3.unitbv.ro
-NXDOMAIN	gala.unitbv.ro
-NOERROR	irclar.unitbv.ro
-NXDOMAIN	www.bit.unitbv.ro
-NXDOMAIN	www.estud.unitbv.ro
-NOERROR	auth2.unitbv.ro
-NOERROR	s7k3.bbb.unitbv.ro
-NXDOMAIN	www.veaga.unitbv.ro
-NXDOMAIN	ru-camp.unitbv.ro
-NOERROR	braconfmusic.unitbv.ro
-NOERROR	portal.unitbv.ro
-NOERROR	aut.unitbv.ro
-NOERROR	turn.unitbv.ro
-NOERROR	econ2.unitbv.ro
-NOERROR	edu.unitbv.ro
-NOERROR	ticket2.unitbv.ro
-NXDOMAIN	www.metabase.unitbv.ro
-NXDOMAIN	proxy.unitbv.ro
-NOERROR	www6.unitbv.ro
-NOERROR	bit.unitbv.ro
-NXDOMAIN	ru-cilm.unitbv.ro
-NOERROR	voluntar.unitbv.ro
-NXDOMAIN	www.testbut.unitbv.ro
-NOERROR	dpm.unitbv.ro
-NOERROR	erasmusplus.unitbv.ro
-NOERROR	leda.unitbv.ro
-NOERROR	cm2020.unitbv.ro
-NOERROR	socrates.unitbv.ro
-NXDOMAIN	www.bbb6.unitbv.ro
-NXDOMAIN	www.ticket.unitbv.ro
-NOERROR	psihoedu.unitbv.ro
-NOERROR	drept.unitbv.ro
-NOERROR	apps.unitbv.ro
-NOERROR	kronmed.unitbv.ro
-NOERROR	student.unitbv.ro
-NXDOMAIN	www.apps.unitbv.ro
-NXDOMAIN	www.tst1.unitbv.ro
-NXDOMAIN	www.simcor.unitbv.ro
-NOERROR	xu0.unitbv.ro
-NOERROR	ns-b.unitbv.ro
-NOERROR	learnromanian.unitbv.ro
-NOERROR	opac.unitbv.ro
-NOERROR	ichnph.unitbv.ro
-NOERROR	teorist.unitbv.ro
-NOERROR	admiesc.unitbv.ro
-NOERROR	socio.unitbv.ro
-NOERROR	incubator.unitbv.ro
-NOERROR	selfpasswd.unitbv.ro
-NOERROR	didactic.unitbv.ro
-NOERROR	ru-but.unitbv.ro
-NXDOMAIN	ru-re.unitbv.ro
-NOERROR	vpnst.unitbv.ro
-NXDOMAIN	www.bd-firme.unitbv.ro
-NOERROR	citrix.unitbv.ro
-NOERROR	bbb.unitbv.ro
-NOERROR	webyn.unitbv.ro
-NOERROR	cultural.unitbv.ro
-NXDOMAIN	www.radius2.unitbv.ro
-NOERROR	ati.unitbv.ro
-NOERROR	vlab.unitbv.ro
-NOERROR	s18k2.bbb.unitbv.ro
-NOERROR	sdrive.unitbv.ro
-NXDOMAIN	ru-muz.unitbv.ro
-NOERROR	elearning.unitbv.ro
-NOERROR	but.unitbv.ro
-NOERROR	astr.unitbv.ro
-NOERROR	mlass.unitbv.ro
-NXDOMAIN	gw1.unitbv.ro
-NOERROR	newtest.unitbv.ro
-NOERROR	ru-cam-mem.unitbv.ro
-NOERROR	desc.unitbv.ro
-NOERROR	www2.unitbv.ro
-NOERROR	tst1.unitbv.ro
-NOERROR	confucius.unitbv.ro
-NXDOMAIN	st.unitbv.ro
-NXDOMAIN	www.selfpasswd.unitbv.ro
-NOERROR	alumninet.unitbv.ro
-NOERROR	st1.unitbv.ro
-NOERROR	iseg.unitbv.ro
-NOERROR	st0.unitbv.ro
-NOERROR	ru-tcm.unitbv.ro
-NOERROR	esscap2015.unitbv.ro
-NOERROR	ftp.unitbv.ro
-NXDOMAIN	med.unitbv.ro
+tst2.unitbv.ro
+bbb8.unitbv.ro
+bbb10.unitbv.ro
+ru-res.unitbv.ro
+ims.unitbv.ro
+vega.unitbv.ro
+cibv.unitbv.ro
+germanistik.unitbv.ro
+ru-iesp.unitbv.ro
+info-covid.unitbv.ro
+mobile.unitbv.ro
+beta.unitbv.ro
+relbv.unitbv.ro
+ns.unitbv.ro
+xu1.unitbv.ro
+jmb.unitbv.ro
+cs.unitbv.ro
+dpr.unitbv.ro
+inscriere.unitbv.ro
+vpn.bbb.unitbv.ro
+s2.unitbv.ro
+refdisc.unitbv.ro
+ru-m.unitbv.ro
+ww3.unitbv.ro
+gemini.unitbv.ro
+ticket.unitbv.ro
+best.unitbv.ro
+ru-iesc.unitbv.ro
+bd.unitbv.ro
+vettrend.unitbv.ro
+writing.unitbv.ro
+heart.unitbv.ro
+moim.unitbv.ro
+bbb4.unitbv.ro
+ctib.unitbv.ro
+meet.unitbv.ro
+bbb5.unitbv.ro
+tas.unitbv.ro
+gef.unitbv.ro
+anglistica.unitbv.ro
+navieyes.unitbv.ro
+rt1.unitbv.ro
+itmi.unitbv.ro
+rmv.unitbv.ro
+ru-dpr.unitbv.ro
+muzica.unitbv.ro
+bbb7.unitbv.ro
+bbb1.unitbv.ro
+driveof.unitbv.ro
+bd-firme.unitbv.ro
+afco.unitbv.ro
+mail.unitbv.ro
+litere.unitbv.ro
+creativ.unitbv.ro
+etc.unitbv.ro
+itaproenerg.unitbv.ro
+s1.unitbv.ro
+practica.unitbv.ro
+pkpojs.unitbv.ro
+r.unitbv.ro
+drive.unitbv.ro
+cse.unitbv.ro
+old.unitbv.ro
+noc-u3.unitbv.ro
+portal2.unitbv.ro
+libra.unitbv.ro
+radius.unitbv.ro
+www.uniculture.unitbv.ro
+alumni.unitbv.ro
+menelaus.unitbv.ro
+ru-indlemn.unitbv.ro
+cvtc.unitbv.ro
+constructii.unitbv.ro
+noneucandidates.unitbv.ro
+info.unitbv.ro
+rs.unitbv.ro
+gw-wg4.unitbv.ro
+ww6.unitbv.ro
+biofiz.unitbv.ro
+testbut.unitbv.ro
+ww2.unitbv.ro
+gwb.unitbv.ro
+iweek.unitbv.ro
+auth.meet.unitbv.ro
+bbb3.unitbv.ro
+cjm.unitbv.ro
+ru-rmv.unitbv.ro
+ru-maia.unitbv.ro
+il.unitbv.ro
+bbb9.unitbv.ro
+wbt.unitbv.ro
+cercetare.unitbv.ro
+medicina.unitbv.ro
+www.unitbv.ro
+cciu.unitbv.ro
+atitech.unitbv.ro
+ww4.unitbv.ro
+healthfoodenviron.unitbv.ro
+bbb6.unitbv.ro
+tc.unitbv.ro
+j-seism1.unitbv.ro
+gw-wg3.unitbv.ro
+iesc.unitbv.ro
+futureweb.unitbv.ro
+ms1.unitbv.ro
+cariere.unitbv.ro
+orion.unitbv.ro
+ru-autov.unitbv.ro
+miv.unitbv.ro
+auth.unitbv.ro
+moodle.unitbv.ro
+sas.unitbv.ro
+mcu.unitbv.ro
+newsletter.unitbv.ro
+bbb2.unitbv.ro
+ru-gdgt.unitbv.ro
+noc-u2.unitbv.ro
+pvwastecomp.unitbv.ro
+bbb11.unitbv.ro
+sport.unitbv.ro
+rct.unitbv.ro
+gesfo.unitbv.ro
+sim.unitbv.ro
+afco2019.unitbv.ro
+sdriveof.unitbv.ro
+elmset.unitbv.ro
+el2.unitbv.ro
+admitere.unitbv.ro
+bramat.unitbv.ro
+robocore.unitbv.ro
+ms0.unitbv.ro
+ns-a.unitbv.ro
+ru-uccp.unitbv.ro
+listaspecialistilor.unitbv.ro
+s15k3.bbb.unitbv.ro
+dfsgah23.unitbv.ro
+gesco.unitbv.ro
+metabase.unitbv.ro
+ru-s-colina.unitbv.ro
+fortuna.unitbv.ro
+ipc.unitbv.ro
+mecanica.unitbv.ro
+icanmbes.unitbv.ro
+econ.unitbv.ro
+lexica.unitbv.ro
+acum.unitbv.ro
+xu.unitbv.ro
+gw-wg5.unitbv.ro
+icdt.unitbv.ro
+noc-u1.unitbv.ro
+ru-fizica.unitbv.ro
+atb.unitbv.ro
+decide.unitbv.ro
+dmil.unitbv.ro
+chestionare-alumni.unitbv.ro
+webbut.unitbv.ro
+rovis.unitbv.ro
+cerex.unitbv.ro
+yo6ksu.unitbv.ro
+tsg.unitbv.ro
+silvic.unitbv.ro
+ru-auto.unitbv.ro
+ru-lzf.unitbv.ro
+uniculture.unitbv.ro
+complete.unitbv.ro
+urbanbim2.unitbv.ro
+scientificbulletin.unitbv.ro
+stargate.unitbv.ro
+mateinfo.unitbv.ro
+ru-cam-col.unitbv.ro
+bbb12.unitbv.ro
+at.unitbv.ro
+vpn.unitbv.ro
+lzcp17.unitbv.ro
+matrice.unitbv.ro
+www.healthfoodenviron.unitbv.ro
+s0.unitbv.ro
+erasmus.unitbv.ro
+spine.unitbv.ro
+gw-wg0.unitbv.ro
+aspeckt.unitbv.ro
+apscconference.unitbv.ro
+ilab.unitbv.ro
+rmu.unitbv.ro
+musiccenter.unitbv.ro
+unitbv.ro
+auto.unitbv.ro
+cosme.unitbv.ro
+fizica.unitbv.ro
+srait.unitbv.ro
+marconi.unitbv.ro
+intranet.unitbv.ro
+conat.unitbv.ro
+estud.unitbv.ro
+sunacademy.unitbv.ro
+testvoluntar.unitbv.ro
+simcor.unitbv.ro
+elearning2.unitbv.ro
+doctorat.unitbv.ro
+chestionare.unitbv.ro
+proced.unitbv.ro
+testnewsletter.unitbv.ro
+centrulmuzical.unitbv.ro
+ru-s.unitbv.ro
+s6v1.bbb.unitbv.ro
+iris.unitbv.ro
+mfm.unitbv.ro
+el3.unitbv.ro
+irclar.unitbv.ro
+auth2.unitbv.ro
+s7k3.bbb.unitbv.ro
+braconfmusic.unitbv.ro
+portal.unitbv.ro
+aut.unitbv.ro
+turn.unitbv.ro
+econ2.unitbv.ro
+edu.unitbv.ro
+ticket2.unitbv.ro
+www6.unitbv.ro
+bit.unitbv.ro
+voluntar.unitbv.ro
+dpm.unitbv.ro
+erasmusplus.unitbv.ro
+leda.unitbv.ro
+cm2020.unitbv.ro
+socrates.unitbv.ro
+psihoedu.unitbv.ro
+drept.unitbv.ro
+apps.unitbv.ro
+kronmed.unitbv.ro
+student.unitbv.ro
+xu0.unitbv.ro
+ns-b.unitbv.ro
+learnromanian.unitbv.ro
+opac.unitbv.ro
+ichnph.unitbv.ro
+teorist.unitbv.ro
+admiesc.unitbv.ro
+socio.unitbv.ro
+incubator.unitbv.ro
+selfpasswd.unitbv.ro
+didactic.unitbv.ro
+ru-but.unitbv.ro
+vpnst.unitbv.ro
+citrix.unitbv.ro
+bbb.unitbv.ro
+webyn.unitbv.ro
+cultural.unitbv.ro
+ati.unitbv.ro
+vlab.unitbv.ro
+s18k2.bbb.unitbv.ro
+sdrive.unitbv.ro
+elearning.unitbv.ro
+but.unitbv.ro
+astr.unitbv.ro
+mlass.unitbv.ro
+newtest.unitbv.ro
+ru-cam-mem.unitbv.ro
+desc.unitbv.ro
+www2.unitbv.ro
+tst1.unitbv.ro
+confucius.unitbv.ro
+alumninet.unitbv.ro
+st1.unitbv.ro
+iseg.unitbv.ro
+st0.unitbv.ro
+ru-tcm.unitbv.ro
+esscap2015.unitbv.ro
+ftp.unitbv.ro

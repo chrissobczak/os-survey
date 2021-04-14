@@ -1,113 +1,90 @@
-NOERROR	elecciones.uto.edu.bo
-NOERROR	www.matricula.uto.edu.bo
-NOERROR	ftapp01.uto.edu.bo
-NOERROR	saga.uto.edu.bo
-NXDOMAIN	da.uto.edu.bo
-NOERROR	www.fatec.uto.edu.bo
-NOERROR	www.uto.edu.bo
-NXDOMAIN	www.fcav.uto.edu.bo
-NOERROR	fcefa01.uto.edu.bo
-NOERROR	docentes.uto.edu.bo
-NOERROR	fcan.uto.edu.bo
-NOERROR	fdcps.uto.edu.bo
-NXDOMAIN	rtvu.uto.edu.bo
-NOERROR	dnsprifni.uto.edu.bo
-NOERROR	smb01.uto.edu.bo
-NOERROR	uto.edu.bo
-NXDOMAIN	irc.uto.edu.bo
-NOERROR	bbb.uto.edu.bo
-NXDOMAIN	agronomia.uto.edu.bo
-NOERROR	poa.uto.edu.bo
-NOERROR	ftp.uto.edu.bo
-NXDOMAIN	web02.uto.edu.bo
-NOERROR	ingreso.fcs.uto.edu.bo
-NOERROR	www.siscop.uto.edu.bo
-NOERROR	sistemas.uto.edu.bo
-NOERROR	registro.uto.edu.bo
-NOERROR	www.docentes.uto.edu.bo
-NOERROR	www.sistemas.uto.edu.bo
-NXDOMAIN	juanmarcelo.uto.edu.bo
-NOERROR	fni.uto.edu.bo
-NOERROR	www.infoaces.uto.edu.bo
-NOERROR	drnicyb.uto.edu.bo
-NXDOMAIN	armengolblanco.uto.edu.bo
-NOERROR	fatec.uto.edu.bo
-NOERROR	www.rrhh.uto.edu.bo
-NOERROR	idh.uto.edu.bo
-NOERROR	rrhh.uto.edu.bo
-NOERROR	www.fcs.uto.edu.bo
-NXDOMAIN	chat.uto.edu.bo
-NOERROR	dicyt.uto.edu.bo
-NOERROR	titulados.uto.edu.bo
-NOERROR	moodle.uto.edu.bo
-NXDOMAIN	expoteco.uto.edu.bo
-NOERROR	fcs01.uto.edu.bo
-NXDOMAIN	congreso-eiee.uto.edu.bo
-NXDOMAIN	publicaciones.uto.edu.bo
-NOERROR	derecho.uto.edu.bo
-NXDOMAIN	cei.webs.uto.edu.bo
-NOERROR	eltetn.uto.edu.bo
-NOERROR	fcefa.uto.edu.bo
-NOERROR	pluton.uto.edu.bo
-NXDOMAIN	jhchallapa.uto.edu.bo
-NOERROR	mercurio.uto.edu.bo
-NXDOMAIN	wcoregui.uto.edu.bo
-NOERROR	dpa.uto.edu.bo
-NOERROR	quimica.fni.uto.edu.bo
-NXDOMAIN	www.iest.uto.edu.bo
-NXDOMAIN	www.ingqmc.uto.edu.bo
-NOERROR	siafau.uto.edu.bo
-NOERROR	www.congreso.uto.edu.bo
-NOERROR	siaga.fni.uto.edu.bo
-NOERROR	raliendre.uto.edu.bo
-NOERROR	saga2api.uto.edu.bo
-NOERROR	www.feduto.uto.edu.bo
-NOERROR	cobros.uto.edu.bo
-NOERROR	geologia.fni.uto.edu.bo
-NOERROR	www.informativo.uto.edu.bo
-NOERROR	www.eltetn.uto.edu.bo
-NXDOMAIN	relacionespublicas.uto.edu.bo
-NOERROR	fepro.uto.edu.bo
-NOERROR	correo.uto.edu.bo
-NOERROR	congreso-camelidos.uto.edu.bo
-NOERROR	marte.uto.edu.bo
-NOERROR	www.dicyt.uto.edu.bo
-NOERROR	www.teu.uto.edu.bo
-NOERROR	postgrado.fdcps.uto.edu.bo
-NOERROR	ft.uto.edu.bo
-NOERROR	verifica.uto.edu.bo
-NOERROR	appwebms.uto.edu.bo
-NOERROR	ingmecanica.uto.edu.bo
-NOERROR	www.fau.uto.edu.bo
-NOERROR	siaft.uto.edu.bo
-NOERROR	webuto.uto.edu.bo
-NOERROR	fcs.uto.edu.bo
-NOERROR	saga01.uto.edu.bo
-NOERROR	saga2.uto.edu.bo
-NOERROR	fau.uto.edu.bo
-NOERROR	www.fni.uto.edu.bo
-NXDOMAIN	correo1.uto.edu.bo
-NOERROR	siscat.uto.edu.bo
-NOERROR	mail.uto.edu.bo
-NOERROR	www.sat-comunal.uto.edu.bo
-NXDOMAIN	administracion.uto.edu.bo
-NOERROR	minas.fni.uto.edu.bo
-NOERROR	matricula.uto.edu.bo
-NOERROR	fcan01.uto.edu.bo
-NOERROR	industrial.fni.uto.edu.bo
-NXDOMAIN	vallejosmartin.uto.edu.bo
-NOERROR	www.fdcps.uto.edu.bo
-NOERROR	informativo.uto.edu.bo
-NOERROR	mecanica.fni.uto.edu.bo
-NOERROR	postgrado.uto.edu.bo
-NOERROR	civil.fni.uto.edu.bo
-NOERROR	webms.uto.edu.bo
-NOERROR	dpic.fni.uto.edu.bo
-NXDOMAIN	mp.uto.edu.bo
-NOERROR	eingreso.uto.edu.bo
-NXDOMAIN	foro.uto.edu.bo
-NOERROR	apolo.uto.edu.bo
-NOERROR	www.fcan.uto.edu.bo
-NOERROR	www.sg.uto.edu.bo
-NOERROR	fni-dragon.uto.edu.bo
-NOERROR	www.kardex.uto.edu.bo
+elecciones.uto.edu.bo
+www.matricula.uto.edu.bo
+ftapp01.uto.edu.bo
+saga.uto.edu.bo
+www.fatec.uto.edu.bo
+www.uto.edu.bo
+fcefa01.uto.edu.bo
+docentes.uto.edu.bo
+fcan.uto.edu.bo
+fdcps.uto.edu.bo
+dnsprifni.uto.edu.bo
+smb01.uto.edu.bo
+uto.edu.bo
+bbb.uto.edu.bo
+poa.uto.edu.bo
+ftp.uto.edu.bo
+ingreso.fcs.uto.edu.bo
+www.siscop.uto.edu.bo
+sistemas.uto.edu.bo
+registro.uto.edu.bo
+www.docentes.uto.edu.bo
+www.sistemas.uto.edu.bo
+fni.uto.edu.bo
+www.infoaces.uto.edu.bo
+drnicyb.uto.edu.bo
+fatec.uto.edu.bo
+www.rrhh.uto.edu.bo
+idh.uto.edu.bo
+rrhh.uto.edu.bo
+www.fcs.uto.edu.bo
+dicyt.uto.edu.bo
+titulados.uto.edu.bo
+moodle.uto.edu.bo
+fcs01.uto.edu.bo
+derecho.uto.edu.bo
+eltetn.uto.edu.bo
+fcefa.uto.edu.bo
+pluton.uto.edu.bo
+mercurio.uto.edu.bo
+dpa.uto.edu.bo
+quimica.fni.uto.edu.bo
+siafau.uto.edu.bo
+www.congreso.uto.edu.bo
+siaga.fni.uto.edu.bo
+raliendre.uto.edu.bo
+saga2api.uto.edu.bo
+www.feduto.uto.edu.bo
+cobros.uto.edu.bo
+geologia.fni.uto.edu.bo
+www.informativo.uto.edu.bo
+www.eltetn.uto.edu.bo
+fepro.uto.edu.bo
+correo.uto.edu.bo
+congreso-camelidos.uto.edu.bo
+marte.uto.edu.bo
+www.dicyt.uto.edu.bo
+www.teu.uto.edu.bo
+postgrado.fdcps.uto.edu.bo
+ft.uto.edu.bo
+verifica.uto.edu.bo
+appwebms.uto.edu.bo
+ingmecanica.uto.edu.bo
+www.fau.uto.edu.bo
+siaft.uto.edu.bo
+webuto.uto.edu.bo
+fcs.uto.edu.bo
+saga01.uto.edu.bo
+saga2.uto.edu.bo
+fau.uto.edu.bo
+www.fni.uto.edu.bo
+siscat.uto.edu.bo
+mail.uto.edu.bo
+www.sat-comunal.uto.edu.bo
+minas.fni.uto.edu.bo
+matricula.uto.edu.bo
+fcan01.uto.edu.bo
+industrial.fni.uto.edu.bo
+www.fdcps.uto.edu.bo
+informativo.uto.edu.bo
+mecanica.fni.uto.edu.bo
+postgrado.uto.edu.bo
+civil.fni.uto.edu.bo
+webms.uto.edu.bo
+dpic.fni.uto.edu.bo
+eingreso.uto.edu.bo
+apolo.uto.edu.bo
+www.fcan.uto.edu.bo
+www.sg.uto.edu.bo
+fni-dragon.uto.edu.bo
+www.kardex.uto.edu.bo

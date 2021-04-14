@@ -1,90 +1,63 @@
-NOERROR	guest-faculty.bits-pilani.ac.in
-NOERROR	fsm.erp.bits-pilani.ac.in
-NOERROR	taxilaold.bits-pilani.ac.in
-NXDOMAIN	cs-stat.bits-pilani.ac.in
-NOERROR	wilpdar.bits-pilani.ac.in
-NXDOMAIN	ilabs.bits-pilani.ac.in
-NXDOMAIN	asura.bits-pilani.ac.in
-NOERROR	feedback.bits-pilani.ac.in
-NOERROR	smtp-wilp.bits-pilani.ac.in
-NOERROR	dams.bits-pilani.ac.in
-NOERROR	rc.bits-pilani.ac.in
-NOERROR	libwilp.bits-pilani.ac.in
-NXDOMAIN	ipv6.bits-pilani.ac.in
-NOERROR	eassessment.bits-pilani.ac.in
-NOERROR	id.bits-pilani.ac.in
-NOERROR	arc.bits-pilani.ac.in
-NOERROR	wilpdar-aws.bits-pilani.ac.in
-NXDOMAIN	sandesh.bits-pilani.ac.in
-NXDOMAIN	bitscap.bits-pilani.ac.in
-NXDOMAIN	v6host.bits-pilani.ac.in
-NXDOMAIN	www.idp.bits-pilani.ac.in
-NOERROR	any-learn.bits-pilani.ac.in
-NXDOMAIN	cmt.bits-pilani.ac.in
-NOERROR	placement.bits-pilani.ac.in
-NOERROR	wilpd.bits-pilani.ac.in
-NOERROR	lab.bits-pilani.ac.in
-NOERROR	taxila-aws.bits-pilani.ac.in
-NOERROR	idpb.bits-pilani.ac.in
-NXDOMAIN	ebooks.bits-pilani.ac.in
-NXDOMAIN	csis.bits-pilani.ac.in
-NOERROR	wilpadmissions.bits-pilani.ac.in
-NOERROR	docs.bits-pilani.ac.in
-NXDOMAIN	lsm-netcentral.bits-pilani.ac.in
-NOERROR	bits-pilani.ac.in
-NOERROR	cahu.bits-pilani.ac.in
-NXDOMAIN	www.apogee2k7.bits-pilani.ac.in
-NOERROR	wilp-admissions.bits-pilani.ac.in
-NXDOMAIN	www.rc.bits-pilani.ac.in
-NOERROR	rainwater.bits-pilani.ac.in
-NOERROR	ns3.bits-pilani.ac.in
-NOERROR	universe.bits-pilani.ac.in
-NXDOMAIN	nnmdc.bits-pilani.ac.in
-NXDOMAIN	journalserver.bits-pilani.ac.in
-NOERROR	convocation.bits-pilani.ac.in
-NOERROR	taxila.bits-pilani.ac.in
-NOERROR	swd.bits-pilani.ac.in
-NXDOMAIN	bitsaa.bits-pilani.ac.in
-NOERROR	eprints.bits-pilani.ac.in
-NXDOMAIN	emtm2n2007.bits-pilani.ac.in
-NOERROR	nalanda.bits-pilani.ac.in
-NOERROR	erp.bits-pilani.ac.in
-NOERROR	labserver2.bits-pilani.ac.in
-NOERROR	erp1.bits-pilani.ac.in
-NOERROR	bbf.bits-pilani.ac.in
-NOERROR	libcatalog.bits-pilani.ac.in
-NOERROR	rlab.bits-pilani.ac.in
-NOERROR	hcm.erp.bits-pilani.ac.in
-NXDOMAIN	emtm2n.bits-pilani.ac.in
-NOERROR	arcd.bits-pilani.ac.in
-NOERROR	library.bits-pilani.ac.in
-NOERROR	www.bits-pilani.ac.in
-SERVFAIL	nalandalms.bits-pilani.ac.in
-NOERROR	discovery.bits-pilani.ac.in
-NOERROR	elearn.bits-pilani.ac.in
-NOERROR	hyderabad.bits-pilani.ac.in
-NOERROR	alumni.bits-pilani.ac.in
-NOERROR	dashboard.bits-pilani.ac.in
-NXDOMAIN	mailserver.bits-pilani.ac.in
-NXDOMAIN	sdetu.bits-pilani.ac.in
-NOERROR	tp.bits-pilani.ac.in
-NXDOMAIN	etmn.bits-pilani.ac.in
-NXDOMAIN	pagan.bits-pilani.ac.in
-NOERROR	ns1.bits-pilani.ac.in
-NOERROR	academic.bits-pilani.ac.in
-NOERROR	embryo.bits-pilani.ac.in
-NOERROR	fw.bits-pilani.ac.in
-NXDOMAIN	bludgeon.bits-pilani.ac.in
-NOERROR	idp.bits-pilani.ac.in
-NOERROR	taxila-aws-ps.bits-pilani.ac.in
-NOERROR	ns2.bits-pilani.ac.in
-NOERROR	sdms.bits-pilani.ac.in
-NOERROR	viva.bits-pilani.ac.in
-NOERROR	nalanda-aws.bits-pilani.ac.in
-NXDOMAIN	vu.bits-pilani.ac.in
-NOERROR	psd.bits-pilani.ac.in
-NOERROR	dlpd.bits-pilani.ac.in
-NOERROR	rlab-embedded.bits-pilani.ac.in
-NOERROR	icms.bits-pilani.ac.in
-NOERROR	sis.erp.bits-pilani.ac.in
-NXDOMAIN	haydes.bits-pilani.ac.in
+guest-faculty.bits-pilani.ac.in
+fsm.erp.bits-pilani.ac.in
+taxilaold.bits-pilani.ac.in
+wilpdar.bits-pilani.ac.in
+feedback.bits-pilani.ac.in
+smtp-wilp.bits-pilani.ac.in
+dams.bits-pilani.ac.in
+rc.bits-pilani.ac.in
+libwilp.bits-pilani.ac.in
+eassessment.bits-pilani.ac.in
+id.bits-pilani.ac.in
+arc.bits-pilani.ac.in
+wilpdar-aws.bits-pilani.ac.in
+any-learn.bits-pilani.ac.in
+placement.bits-pilani.ac.in
+wilpd.bits-pilani.ac.in
+lab.bits-pilani.ac.in
+taxila-aws.bits-pilani.ac.in
+idpb.bits-pilani.ac.in
+wilpadmissions.bits-pilani.ac.in
+docs.bits-pilani.ac.in
+bits-pilani.ac.in
+cahu.bits-pilani.ac.in
+wilp-admissions.bits-pilani.ac.in
+rainwater.bits-pilani.ac.in
+ns3.bits-pilani.ac.in
+universe.bits-pilani.ac.in
+convocation.bits-pilani.ac.in
+taxila.bits-pilani.ac.in
+swd.bits-pilani.ac.in
+eprints.bits-pilani.ac.in
+nalanda.bits-pilani.ac.in
+erp.bits-pilani.ac.in
+labserver2.bits-pilani.ac.in
+erp1.bits-pilani.ac.in
+bbf.bits-pilani.ac.in
+libcatalog.bits-pilani.ac.in
+rlab.bits-pilani.ac.in
+hcm.erp.bits-pilani.ac.in
+arcd.bits-pilani.ac.in
+library.bits-pilani.ac.in
+www.bits-pilani.ac.in
+discovery.bits-pilani.ac.in
+elearn.bits-pilani.ac.in
+hyderabad.bits-pilani.ac.in
+alumni.bits-pilani.ac.in
+dashboard.bits-pilani.ac.in
+tp.bits-pilani.ac.in
+ns1.bits-pilani.ac.in
+academic.bits-pilani.ac.in
+embryo.bits-pilani.ac.in
+fw.bits-pilani.ac.in
+idp.bits-pilani.ac.in
+taxila-aws-ps.bits-pilani.ac.in
+ns2.bits-pilani.ac.in
+sdms.bits-pilani.ac.in
+viva.bits-pilani.ac.in
+nalanda-aws.bits-pilani.ac.in
+psd.bits-pilani.ac.in
+dlpd.bits-pilani.ac.in
+rlab-embedded.bits-pilani.ac.in
+icms.bits-pilani.ac.in
+sis.erp.bits-pilani.ac.in

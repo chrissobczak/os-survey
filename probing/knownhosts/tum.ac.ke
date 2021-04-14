@@ -1,24 +1,19 @@
-NOERROR	opac.tum.ac.ke
-NOERROR	www.tum.ac.ke
-NOERROR	library.tum.ac.ke
-NOERROR	hr.tum.ac.ke
-NOERROR	elearning.tum.ac.ke
-NXDOMAIN	olmis.tum.ac.ke
-NOERROR	backup.tum.ac.ke
-NOERROR	eregistrar.tum.ac.ke
-NOERROR	ezproxy.tum.ac.ke
-NXDOMAIN	medicine.tum.ac.ke
-NOERROR	tum.ac.ke
-NXDOMAIN	news.tum.ac.ke
-NXDOMAIN	elearn.tum.ac.ke
-NOERROR	controller.tum.ac.ke
-NOERROR	journals.tum.ac.ke
-NOERROR	mail.tum.ac.ke
-NOERROR	eballot.tum.ac.ke
-NOERROR	students.tum.ac.ke
-NOERROR	repo.tum.ac.ke
-NOERROR	ir.tum.ac.ke
-NOERROR	erepository.tum.ac.ke
-NOERROR	staff.tum.ac.ke
-NOERROR	iap.tum.ac.ke
-NXDOMAIN	maktaba.tum.ac.ke
+opac.tum.ac.ke
+www.tum.ac.ke
+library.tum.ac.ke
+hr.tum.ac.ke
+elearning.tum.ac.ke
+backup.tum.ac.ke
+eregistrar.tum.ac.ke
+ezproxy.tum.ac.ke
+tum.ac.ke
+controller.tum.ac.ke
+journals.tum.ac.ke
+mail.tum.ac.ke
+eballot.tum.ac.ke
+students.tum.ac.ke
+repo.tum.ac.ke
+ir.tum.ac.ke
+erepository.tum.ac.ke
+staff.tum.ac.ke
+iap.tum.ac.ke

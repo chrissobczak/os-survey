@@ -1,12 +1,10 @@
-NXDOMAIN	db.sgu.ac.kr
-NXDOMAIN	delta.sgu.ac.kr
-NOERROR	ns1.sgu.ac.kr
-NOERROR	sgu.ac.kr
-NOERROR	tiger.sgu.ac.kr
-NOERROR	scloud.sgu.ac.kr
-NOERROR	inet.sgu.ac.kr
-NOERROR	leo.sgu.ac.kr
-NOERROR	www.sgu.ac.kr
-NOERROR	library.sgu.ac.kr
-NOERROR	zeus.sgu.ac.kr
-NOERROR	mail.sgu.ac.kr
+ns1.sgu.ac.kr
+sgu.ac.kr
+tiger.sgu.ac.kr
+scloud.sgu.ac.kr
+inet.sgu.ac.kr
+leo.sgu.ac.kr
+www.sgu.ac.kr
+library.sgu.ac.kr
+zeus.sgu.ac.kr
+mail.sgu.ac.kr

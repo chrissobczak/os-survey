@@ -1,8485 +1,8268 @@
-NOERROR	host109-90.fis.agh.edu.pl
-NOERROR	moscicki.geol.agh.edu.pl
-NOERROR	kap-109.imir.agh.edu.pl
-NOERROR	www.ergonomia.agh.edu.pl
-NOERROR	mops011.uci.agh.edu.pl
-NOERROR	it.podyplomowe.agh.edu.pl
-NOERROR	www.eti.agh.edu.pl
-NOERROR	gdc.kt.agh.edu.pl
-NOERROR	zxspectrum.wibro.agh.edu.pl
-NOERROR	pag5.gorn.agh.edu.pl
-NOERROR	dhcp064.kt.agh.edu.pl
-NOERROR	skarbek1.gorn.agh.edu.pl
-NOERROR	regent2.uci.agh.edu.pl
-NOERROR	studium5.sjo.agh.edu.pl
-NOERROR	iopscience-1iop-1org-1ickguhjl0de5.wbg2.bg.agh.edu.pl
-NOERROR	kirk.kis.agh.edu.pl
-NOERROR	lm5.ia.agh.edu.pl
-NOERROR	weip-d4-26.weip.agh.edu.pl
-NOERROR	aq7.ia.agh.edu.pl
-NOERROR	emisja.radio17.agh.edu.pl
-NOERROR	fog.ins.agh.edu.pl
-NOERROR	cmat58.mat.agh.edu.pl
-NOERROR	www.ki.agh.edu.pl
-NOERROR	ken.zee.agh.edu.pl
-NOERROR	rekrut3.wnaft.agh.edu.pl
-NOERROR	mik.wibro.agh.edu.pl
-NOERROR	maja.geol.agh.edu.pl
-NOERROR	pc108.zfcs.agh.edu.pl
-NXDOMAIN	host110-17.fis.agh.edu.pl
-NOERROR	ds5.unifi.dsnet.agh.edu.pl
-NOERROR	poczta-kopia.zarz.agh.edu.pl
-NOERROR	wfitj19e.ftj.agh.edu.pl
-NOERROR	pks6.gorn.agh.edu.pl
-NOERROR	zkc6.ceramika.agh.edu.pl
-NOERROR	labsol.ia.agh.edu.pl
-NOERROR	demo4.ftj.agh.edu.pl
-NOERROR	dixi.kt.agh.edu.pl
-NOERROR	olimp23.imir.agh.edu.pl
-NOERROR	aster-0a.imir.agh.edu.pl
-NOERROR	kcs30.ceramika.agh.edu.pl
-NOERROR	studium28.sjo.agh.edu.pl
-NOERROR	publ.dc1-prx-a.infra.ki.agh.edu.pl
-NOERROR	gisday.agh.edu.pl
-NOERROR	hp.zee.agh.edu.pl
-NOERROR	pt.wpie.agh.edu.pl
-NOERROR	wiki.ms.agh.edu.pl
-NOERROR	www.wydawnictwo.agh.edu.pl
-NOERROR	mim.agh.edu.pl
-NOERROR	ajan.imir.agh.edu.pl
-NOERROR	ibl5.ics.agh.edu.pl
-NOERROR	rotor.kme.agh.edu.pl
-NOERROR	wo4.odlew.agh.edu.pl
-NOERROR	czajka-pc.zarz.agh.edu.pl
-NOERROR	dhcp059.kt.agh.edu.pl
-NXDOMAIN	ewas.imir.agh.edu.pl
-NOERROR	test196.kt.agh.edu.pl
-NOERROR	nat.ds3.agh.edu.pl
-NOERROR	fsia1.adm.agh.edu.pl
-NOERROR	cb6-155.ceramika.agh.edu.pl
-NOERROR	onlinelibrary-1wiley-1com-1atoz.wbg2.bg.agh.edu.pl
-NOERROR	gagat.geol.agh.edu.pl
-NOERROR	www.kkio2005.agh.edu.pl
-NOERROR	host110-235.fis.agh.edu.pl
-NOERROR	analit.agh.edu.pl
-NOERROR	pg.b1.agh.edu.pl
-NOERROR	pszwed.kis.agh.edu.pl
-NOERROR	foto.agh.edu.pl
-NOERROR	lab02.mn.agh.edu.pl
-NOERROR	nat-vl116.agh.edu.pl
-NOERROR	aga.mn.agh.edu.pl
-NOERROR	olimp195.imir.agh.edu.pl
-NOERROR	kse2.ceramika.agh.edu.pl
-NOERROR	grazyna-f.geod.agh.edu.pl
-NOERROR	kiosk.b1.agh.edu.pl
-NOERROR	wmsg35.gorn.agh.edu.pl
-NOERROR	kap-24.imir.agh.edu.pl
-NOERROR	www.ncisc.agh.edu.pl
-NOERROR	nat-wggios1.agh.edu.pl
-NOERROR	nano.mn.agh.edu.pl
-NOERROR	wpie22.wpie.agh.edu.pl
-NOERROR	lab1.ket.agh.edu.pl
-NOERROR	www.gorn.agh.edu.pl
-NOERROR	www.ftj.agh.edu.pl
-NOERROR	mdp03b.elektro.agh.edu.pl
-NOERROR	kca17.ceramika.agh.edu.pl
-NOERROR	www.ce4reg.zarz.agh.edu.pl
-NOERROR	ogonki.agh.edu.pl
-NOERROR	ctt-patenty.adm.agh.edu.pl
-NOERROR	biolog.geod.agh.edu.pl
-NOERROR	cc.cel.agh.edu.pl
-NOERROR	www.xrd.ceramika.agh.edu.pl
-NOERROR	proj11.gorn.agh.edu.pl
-NXDOMAIN	p0.b1.agh.edu.pl
-NOERROR	przystas.geol.agh.edu.pl
-NOERROR	dhcp172.kt.agh.edu.pl
-NOERROR	jedrusik-pc.zarz.agh.edu.pl
-NOERROR	jokaba.mn.agh.edu.pl
-NOERROR	chacha.ia.agh.edu.pl
-NOERROR	dhcp198.kt.agh.edu.pl
-NOERROR	wo116.odlew.agh.edu.pl
-NOERROR	pogon.kt.agh.edu.pl
-NOERROR	hrbusinesspartner.agh.edu.pl
-NOERROR	wms.mat.agh.edu.pl
-NOERROR	www.ctk.agh.edu.pl
-NOERROR	www.drgania.agh.edu.pl
-NOERROR	wmsg22.gorn.agh.edu.pl
-NOERROR	test197.kt.agh.edu.pl
-NOERROR	tensor.elektro.agh.edu.pl
-NOERROR	wfitj139e.ftj.agh.edu.pl
-NOERROR	kct32.ceramika.agh.edu.pl
-NOERROR	wfitj99e.ftj.agh.edu.pl
-NOERROR	pc54.zfcs.agh.edu.pl
-NOERROR	tomlata.imir.agh.edu.pl
-NOERROR	dawid.ket.agh.edu.pl
-NOERROR	host110-36.fis.agh.edu.pl
-NOERROR	kcs47.ceramika.agh.edu.pl
-NOERROR	test201.kt.agh.edu.pl
-NOERROR	mariusz.wpie.agh.edu.pl
-NOERROR	agpeszko-pc.zarz.agh.edu.pl
-NOERROR	prj1.kis.agh.edu.pl
-NOERROR	nat-adm22.agh.edu.pl
-NOERROR	www.mechanics.agh.edu.pl
-NOERROR	gfe.agh.edu.pl
-NOERROR	xrd.weip.agh.edu.pl
-NOERROR	wfitj101e.ftj.agh.edu.pl
-NOERROR	www.ptp.agh.edu.pl
-NOERROR	pcc211.ia.agh.edu.pl
-NOERROR	www.senster.agh.edu.pl
-NOERROR	wwww.wimir.agh.edu.pl
-NOERROR	kap-47.imir.agh.edu.pl
-NOERROR	dhcp049.kt.agh.edu.pl
-NOERROR	http2.geod.agh.edu.pl
-NOERROR	zawrat.metal.agh.edu.pl
-NOERROR	geomechanika2.gorn.agh.edu.pl
-NOERROR	p219.mn.agh.edu.pl
-NOERROR	test2.uci.agh.edu.pl
-NOERROR	www.pamiatki.agh.edu.pl
-NOERROR	kmg-151.imir.agh.edu.pl
-NOERROR	https.student.agh.edu.pl
-NOERROR	kwas.mn.agh.edu.pl
-NOERROR	mwjw.kt.agh.edu.pl
-NOERROR	www.1odlewnictwo.agh.edu.pl
-NOERROR	upel2.cel.agh.edu.pl
-NOERROR	nt4.geol.agh.edu.pl
-NOERROR	nat-wwnig4.agh.edu.pl
-NOERROR	lech.metal.agh.edu.pl
-NOERROR	stud143.fis.agh.edu.pl
-NOERROR	machedu2.fis.agh.edu.pl
-NOERROR	dwz.agh.edu.pl
-NOERROR	pc140.ket.agh.edu.pl
-NOERROR	comptest.agh.edu.pl
-NOERROR	wfitj138e.ftj.agh.edu.pl
-NOERROR	aniup117a.keiaspe.agh.edu.pl
-NOERROR	wo75.odlew.agh.edu.pl
-NOERROR	wifi-02.wnaft.agh.edu.pl
-NOERROR	laplace.ia.agh.edu.pl
-NOERROR	gorniczy.gorn.agh.edu.pl
-NOERROR	www.dopm.agh.edu.pl
-NOERROR	www2.international.agh.edu.pl
-NOERROR	www.wimir100lat.agh.edu.pl
-NOERROR	wfitj68e.ftj.agh.edu.pl
-NOERROR	pc47.zfcs.agh.edu.pl
-NOERROR	best-biuro.adm.agh.edu.pl
-NOERROR	www-1sciencedirect-1com-1000032e9110e.wbg2.bg.agh.edu.pl
-NOERROR	rpress4.imir.agh.edu.pl
-NOERROR	xbl2.ics.agh.edu.pl
-NOERROR	mat191.mat.agh.edu.pl
-NOERROR	fluid.wpie.agh.edu.pl
-NOERROR	test242.kt.agh.edu.pl
-NOERROR	host110-149.fis.agh.edu.pl
-NOERROR	olek.geod.agh.edu.pl
-NOERROR	www.kgo.agh.edu.pl
-NOERROR	wfitj127e.ftj.agh.edu.pl
-NOERROR	mkwiet.imir.agh.edu.pl
-NOERROR	bon.agh.edu.pl
-NOERROR	cyberbezpieczenstwo.podyplomowe.agh.edu.pl
-NOERROR	insigma.kt.agh.edu.pl
-NOERROR	kmirek.geol.agh.edu.pl
-NOERROR	dhcp161.kt.agh.edu.pl
-NOERROR	zasus.zet.agh.edu.pl
-NOERROR	mta-1.ki.agh.edu.pl
-NOERROR	tomek.metal.agh.edu.pl
-NOERROR	wfitj168e.ftj.agh.edu.pl
-NOERROR	panel.agh.edu.pl
-NOERROR	www.rotmed.agh.edu.pl
-NOERROR	labodiag.wibro.agh.edu.pl
-NOERROR	pc16.geol.agh.edu.pl
-NOERROR	zmb5.ceramika.agh.edu.pl
-NOERROR	dydaktycos.zarz.agh.edu.pl
-NOERROR	labatm1.kt.agh.edu.pl
-NOERROR	brzoza.elektro.agh.edu.pl
-NOERROR	mgadamer.ia.agh.edu.pl
-NOERROR	kct28.ceramika.agh.edu.pl
-NOERROR	mat240.mat.agh.edu.pl
-NOERROR	kap-112.imir.agh.edu.pl
-NOERROR	nat-wggiis3.agh.edu.pl
-NOERROR	lab.geol.agh.edu.pl
-NOERROR	pc15.geol.agh.edu.pl
-NOERROR	ftjrtr.agh.edu.pl
-NOERROR	machedu3bis.fis.agh.edu.pl
-NOERROR	stud107.fis.agh.edu.pl
-NXDOMAIN	poczta1.zarz.agh.edu.pl
-NOERROR	pent3.mn.agh.edu.pl
-NOERROR	wfitj179e.ftj.agh.edu.pl
-NOERROR	sing10.agh.edu.pl
-NOERROR	lsr03.ia.agh.edu.pl
-NOERROR	sala101.mn.agh.edu.pl
-NOERROR	stopyra.gorn.agh.edu.pl
-NOERROR	poczta.regent.agh.edu.pl
-NOERROR	ds7.agh.edu.pl
-NOERROR	www.msdnaa.mn.agh.edu.pl
-NOERROR	ca0-025.ceramika.agh.edu.pl
-NOERROR	kct26.ceramika.agh.edu.pl
-NOERROR	tumida.mn.agh.edu.pl
-NOERROR	zmb3.ceramika.agh.edu.pl
-NOERROR	kawiory12.wpie.agh.edu.pl
-NOERROR	vpn244.kt.agh.edu.pl
-NOERROR	samba.dwz.agh.edu.pl
-NOERROR	sosna2.metal.agh.edu.pl
-NOERROR	detres.kt.agh.edu.pl
-NOERROR	vyatta-router.kis.agh.edu.pl
-NOERROR	zdproj.gorn.agh.edu.pl
-NOERROR	studzagr.agh.edu.pl
-NOERROR	wfitj109e.ftj.agh.edu.pl
-NOERROR	phanus.geod.agh.edu.pl
-NOERROR	syllabus3.uci.agh.edu.pl
-NOERROR	pc156.kme.agh.edu.pl
-NOERROR	www.miekinia.agh.edu.pl
-NOERROR	dhcp-pc185.elektro.agh.edu.pl
-NOERROR	congress.eestec.agh.edu.pl
-NOERROR	kiosk.eaiib.agh.edu.pl
-NOERROR	kee.agh.edu.pl
-NOERROR	host110-83.fis.agh.edu.pl
-NOERROR	nat-wggios3.agh.edu.pl
-NOERROR	test154.kt.agh.edu.pl
-NOERROR	kcs4.ceramika.agh.edu.pl
-NOERROR	www.ionmed.agh.edu.pl
-NXDOMAIN	p3.b1.agh.edu.pl
-NOERROR	stud231.fis.agh.edu.pl
-NOERROR	ca0-010.ceramika.agh.edu.pl
-NOERROR	korozja2011.agh.edu.pl
-NOERROR	allibys.iisg.agh.edu.pl
-NOERROR	yukona.uci.agh.edu.pl
-NOERROR	pag6.gorn.agh.edu.pl
-NOERROR	wnss16i.ins.agh.edu.pl
-NOERROR	mops071.uci.agh.edu.pl
-NOERROR	zm223.zmet.agh.edu.pl
-NOERROR	dns.imir.agh.edu.pl
-NOERROR	www.sigma.agh.edu.pl
-NOERROR	senster.agh.edu.pl
-NOERROR	www.zzl.zarz.agh.edu.pl
-NOERROR	zmb10.ceramika.agh.edu.pl
-NOERROR	dhcp041.kt.agh.edu.pl
-NOERROR	kap-57.imir.agh.edu.pl
-NOERROR	cb6-183.ceramika.agh.edu.pl
-NOERROR	krokus135.imir.agh.edu.pl
-NOERROR	otto.mn.agh.edu.pl
-NOERROR	kap-33.imir.agh.edu.pl
-NOERROR	journals-1bg-1agh-1edu-1pl-1000032dr10cc.wbg2.bg.agh.edu.pl
-NOERROR	wpedziek5.wpie.agh.edu.pl
-NOERROR	k-209-08.imir.agh.edu.pl
-NOERROR	d8-626-jan.ket.agh.edu.pl
-NOERROR	bbor.mn.agh.edu.pl
-NOERROR	wfitj92e.ftj.agh.edu.pl
-NOERROR	dhcp0106.kt.agh.edu.pl
-NOERROR	iopscience-1iop-1org-1atoz.wbg2.bg.agh.edu.pl
-NOERROR	august.gorn.agh.edu.pl
-NOERROR	wo93.odlew.agh.edu.pl
-NOERROR	tarkowski.geol.agh.edu.pl
-NOERROR	ka69.ia.agh.edu.pl
-NOERROR	kap-136.imir.agh.edu.pl
-NOERROR	pldlab2.elektro.agh.edu.pl
-NOERROR	euro01.ia.agh.edu.pl
-NOERROR	kgg2.gorn.agh.edu.pl
-NOERROR	ankiety.agh.edu.pl
-NOERROR	krochmal-pc.wnaft.agh.edu.pl
-NOERROR	hp210chf.mn.agh.edu.pl
-NOERROR	sg1.adm.agh.edu.pl
-NXDOMAIN	chile.cel.agh.edu.pl
-NOERROR	mops176.uci.agh.edu.pl
-NOERROR	cttserver.mn.agh.edu.pl
-NOERROR	web.usos.agh.edu.pl
-NOERROR	dhcp34.zee.agh.edu.pl
-NOERROR	admin.skos.agh.edu.pl
-NOERROR	cb6-200.ceramika.agh.edu.pl
-NOERROR	www.skm.agh.edu.pl
-NOERROR	bfnagh1.geol.agh.edu.pl
-NOERROR	ps180.bg.agh.edu.pl
-NOERROR	urbanski-nb.zarz.agh.edu.pl
-NOERROR	ds13.agh.edu.pl
-NOERROR	nat.b1.agh.edu.pl
-NOERROR	ruter-15h.keiaspe.agh.edu.pl
-NOERROR	frog.geol.agh.edu.pl
-NOERROR	andrusik.gorn.agh.edu.pl
-NOERROR	kct31.ceramika.agh.edu.pl
-NOERROR	kkio2012.agh.edu.pl
-NOERROR	dhcp177.kt.agh.edu.pl
-NOERROR	gpsg.geod.agh.edu.pl
-NOERROR	ilon5.ia.agh.edu.pl
-NOERROR	stalow2.metal.agh.edu.pl
-NOERROR	newsletter.bg.agh.edu.pl
-NOERROR	quickstep.ia.agh.edu.pl
-NOERROR	wfitj37e.ftj.agh.edu.pl
-NOERROR	www.infoceram.agh.edu.pl
-NOERROR	kilian.gorn.agh.edu.pl
-NOERROR	cmat40.mat.agh.edu.pl
-NOERROR	vpn253.kt.agh.edu.pl
-NOERROR	www-1jamris-1org-1000032bj1dda.wbg2.bg.agh.edu.pl
-NOERROR	pc121.zfcs.agh.edu.pl
-NOERROR	sobole.imir.agh.edu.pl
-NOERROR	zmb12.ceramika.agh.edu.pl
-NOERROR	diuczek.elektro.agh.edu.pl
-NOERROR	dhcp212.kt.agh.edu.pl
-NOERROR	jagular.d17.iisg.agh.edu.pl
-NOERROR	woda.metal.agh.edu.pl
-NOERROR	biomat.agh.edu.pl
-NOERROR	czysteniebo.agh.edu.pl
-NOERROR	dmz-agh.agh.edu.pl
-NOERROR	www.kzre.agh.edu.pl
-NOERROR	www.endline.agh.edu.pl
-NOERROR	kama583.mn.agh.edu.pl
-NOERROR	test234.kt.agh.edu.pl
-NOERROR	d17-c2-prx-1.infra.iisg.agh.edu.pl
-NOERROR	stud212.fis.agh.edu.pl
-NOERROR	kap-137.imir.agh.edu.pl
-NOERROR	home.ki.agh.edu.pl
-NOERROR	www.keja.agh.edu.pl
-NOERROR	elas.imir.agh.edu.pl
-NOERROR	dhcp187.kt.agh.edu.pl
-NOERROR	szczurek.ket.agh.edu.pl
-NOERROR	kcs37.ceramika.agh.edu.pl
-NOERROR	host110-34.fis.agh.edu.pl
-NOERROR	syllabusnowy1.uci.agh.edu.pl
-NOERROR	qa.agh.edu.pl
-NOERROR	wo97.odlew.agh.edu.pl
-NOERROR	wfitj163e.ftj.agh.edu.pl
-NOERROR	mat174.mat.agh.edu.pl
-NOERROR	wo14.odlew.agh.edu.pl
-NOERROR	jack.metal.agh.edu.pl
-NOERROR	wnssp4.ins.agh.edu.pl
-NOERROR	bigzbig.geol.agh.edu.pl
-NOERROR	mat129.mat.agh.edu.pl
-NOERROR	dziekanat-fg2.agh.edu.pl
-NOERROR	msm.keiaspe.agh.edu.pl
-NOERROR	puchacz.bg.agh.edu.pl
-NOERROR	nat-wwnig3.agh.edu.pl
-NOERROR	dhcp026.kt.agh.edu.pl
-NOERROR	www.mkm2016.agh.edu.pl
-NOERROR	wo16.odlew.agh.edu.pl
-NOERROR	tomek.elektro.agh.edu.pl
-NOERROR	host110-163.fis.agh.edu.pl
-NOERROR	b1rtr192.imir.agh.edu.pl
-NOERROR	landinfo.geod.agh.edu.pl
-NOERROR	cmat56.mat.agh.edu.pl
-NOERROR	cb6-135.ceramika.agh.edu.pl
-NOERROR	lr3.ia.agh.edu.pl
-NOERROR	www.kzft.fis.agh.edu.pl
-NOERROR	kppe.agh.edu.pl
-NOERROR	wfitj128e.ftj.agh.edu.pl
-NOERROR	dorota.wpie.agh.edu.pl
-NOERROR	www.kiwon.agh.edu.pl
-NOERROR	kordek.gorn.agh.edu.pl
-NOERROR	moodle.ki.agh.edu.pl
-NOERROR	diogenes.gorn.agh.edu.pl
-NOERROR	aq62.ia.agh.edu.pl
-NOERROR	iwaszczuk-pc.zarz.agh.edu.pl
-NOERROR	duda-pc.wnaft.agh.edu.pl
-NOERROR	pks1.gorn.agh.edu.pl
-NOERROR	ab.geod.agh.edu.pl
-NOERROR	sintiara.geod.agh.edu.pl
-NOERROR	wo71.odlew.agh.edu.pl
-NOERROR	mops180.uci.agh.edu.pl
-NOERROR	krokus147.imir.agh.edu.pl
-NOERROR	p020-b1.keiaspe.agh.edu.pl
-NOERROR	wifi-eduroam.agh.edu.pl
-NOERROR	cacti.geod.agh.edu.pl
-NOERROR	sentry.dev.uci.agh.edu.pl
-NOERROR	zmb8.ceramika.agh.edu.pl
-NOERROR	rid.agh.edu.pl
-NXDOMAIN	wat.eaiib.agh.edu.pl
-NOERROR	cmat17.mat.agh.edu.pl
-NOERROR	kiosk.portacc.cr.agh.edu.pl
-NOERROR	mitsu.kt.agh.edu.pl
-NOERROR	test186.kt.agh.edu.pl
-NOERROR	rescue-website.kt.agh.edu.pl
-NOERROR	grzybek.wpie.agh.edu.pl
-NOERROR	bala.geol.agh.edu.pl
-NOERROR	mwilk.metal.agh.edu.pl
-NOERROR	shrek.ia.agh.edu.pl
-NOERROR	patenty.bg.agh.edu.pl
-NOERROR	cb6-205.ceramika.agh.edu.pl
-NOERROR	dante.wibro.agh.edu.pl
-NOERROR	k-209-04.imir.agh.edu.pl
-NOERROR	www.cbctia.ki.agh.edu.pl
-NOERROR	amx-ap.gorn.agh.edu.pl
-NOERROR	wmsg33.gorn.agh.edu.pl
-NOERROR	pcmiue3.imir.agh.edu.pl
-NOERROR	pc23.zfcs.agh.edu.pl
-NOERROR	ka90.ia.agh.edu.pl
-NOERROR	lr4.ia.agh.edu.pl
-NOERROR	baszta.mn.agh.edu.pl
-NOERROR	kpb-054.imir.agh.edu.pl
-NOERROR	drillpack.wnaft.agh.edu.pl
-NOERROR	host110-125.fis.agh.edu.pl
-NOERROR	ener144.weip.agh.edu.pl
-NOERROR	apollo.geod.agh.edu.pl
-NOERROR	zgg56.geod.agh.edu.pl
-NOERROR	www-1degruyter-1com-1atoz.wbg2.bg.agh.edu.pl
-NOERROR	d8-626-router.ket.agh.edu.pl
-NOERROR	wnss16n.ins.agh.edu.pl
-NOERROR	kubinski-pc.zarz.agh.edu.pl
-NOERROR	ariane.imir.agh.edu.pl
-NOERROR	kanlab9.keiaspe.agh.edu.pl
-NOERROR	pc3.ins.agh.edu.pl
-NOERROR	kap-13.imir.agh.edu.pl
-NOERROR	ubezpieczenia.agh.edu.pl
-NOERROR	kirk.ia.agh.edu.pl
-NOERROR	la1.ia.agh.edu.pl
-NOERROR	mail.eaiib.agh.edu.pl
-NOERROR	isz.agh.edu.pl
-NOERROR	elam.imir.agh.edu.pl
-NOERROR	www.zgazowaniewegla.agh.edu.pl
-NOERROR	nat-other3.agh.edu.pl
-NOERROR	konfiguracja.dwz.agh.edu.pl
-NOERROR	ktipm55.ktipm.agh.edu.pl
-NOERROR	dyplom.ki.agh.edu.pl
-NOERROR	dhcp35.zee.agh.edu.pl
-NOERROR	ixs5.cel.agh.edu.pl
-NOERROR	jarjan.mn.agh.edu.pl
-NOERROR	sztymar-pc.wnaft.agh.edu.pl
-NOERROR	jot13.mn.agh.edu.pl
-NOERROR	ca0-074.ceramika.agh.edu.pl
-NOERROR	wfitj41e.ftj.agh.edu.pl
-NOERROR	power2.uci.agh.edu.pl
-NOERROR	labstud06.wpie.agh.edu.pl
-NOERROR	bonikowski.imir.agh.edu.pl
-NOERROR	einstein.zee.agh.edu.pl
-NXDOMAIN	work.uci.agh.edu.pl
-NOERROR	scorpius.elektro.agh.edu.pl
-NOERROR	krokus133.imir.agh.edu.pl
-NOERROR	gorniak.geol.agh.edu.pl
-NOERROR	trac.rescue.kt.agh.edu.pl
-NOERROR	marzena.metal.agh.edu.pl
-NOERROR	planzajec.eaiib.agh.edu.pl
-NOERROR	wo12.odlew.agh.edu.pl
-NOERROR	demo2.ftj.agh.edu.pl
-NOERROR	zszydlo2.imir.agh.edu.pl
-NOERROR	ktipm15.ktipm.agh.edu.pl
-NOERROR	zm251.zmet.agh.edu.pl
-NOERROR	wfitj73e.ftj.agh.edu.pl
-NOERROR	hector.kt.agh.edu.pl
-NOERROR	dhcp084.kt.agh.edu.pl
-NOERROR	pc240.geol.agh.edu.pl
-NOERROR	cmat44.mat.agh.edu.pl
-NOERROR	pustka-12.imir.agh.edu.pl
-NOERROR	ldell.ket.agh.edu.pl
-NOERROR	host110-79.fis.agh.edu.pl
-NOERROR	kcs43.ceramika.agh.edu.pl
-NOERROR	p113a2.mn.agh.edu.pl
-NOERROR	dhcp0118.kt.agh.edu.pl
-NOERROR	kiot-1.geod.agh.edu.pl
-NOERROR	downloads.hindawi.com.atoz.wbg2.bg.agh.edu.pl
-NOERROR	stmet02.metal.agh.edu.pl
-NOERROR	mat211.mat.agh.edu.pl
-NOERROR	mat231.mat.agh.edu.pl
-NOERROR	www.ekrany.agh.edu.pl
-NOERROR	msia.agh.edu.pl
-NOERROR	witchking.metal.agh.edu.pl
-NOERROR	kawiory2.wpie.agh.edu.pl
-NOERROR	dhcp217.kt.agh.edu.pl
-NOERROR	fd.cytryna.uci.agh.edu.pl
-NOERROR	jeduda-pc.zarz.agh.edu.pl
-NOERROR	haduch.imir.agh.edu.pl
-NOERROR	robercik.mn.agh.edu.pl
-NOERROR	mat227.mat.agh.edu.pl
-NOERROR	wnsp25-2.ins.agh.edu.pl
-NOERROR	ka85.ia.agh.edu.pl
-NOERROR	dhcp099.kt.agh.edu.pl
-NOERROR	wnss16g.ins.agh.edu.pl
-NOERROR	marketinginternetowy.agh.edu.pl
-NOERROR	kpb-060.imir.agh.edu.pl
-NOERROR	dhcp40.zee.agh.edu.pl
-NOERROR	lab15h2-b1.keiaspe.agh.edu.pl
-NOERROR	natka.metal.agh.edu.pl
-NOERROR	weip-d4-61.weip.agh.edu.pl
-NOERROR	reserved73.eaiib.agh.edu.pl
-NOERROR	rumin1-pc.zarz.agh.edu.pl
-NOERROR	kcs31.ceramika.agh.edu.pl
-NOERROR	zsn.agh.edu.pl
-NOERROR	hp4700.kt.agh.edu.pl
-NOERROR	annaprzewie.geod.agh.edu.pl
-NOERROR	ops.dc1-prx-a.infra.ki.agh.edu.pl
-NOERROR	talyn.ia.agh.edu.pl
-NOERROR	n3.kis.agh.edu.pl
-NOERROR	nessie.mn.agh.edu.pl
-NOERROR	onderka.gorn.agh.edu.pl
-NOERROR	mops185.uci.agh.edu.pl
-NOERROR	osuch.mn.agh.edu.pl
-NOERROR	smtp.ki.agh.edu.pl
-NOERROR	mat218.mat.agh.edu.pl
-NOERROR	plan2.agh.edu.pl
-NOERROR	www.poczta.adm.agh.edu.pl
-NOERROR	origin.ftj.agh.edu.pl
-NOERROR	ukr1tmp.agh.edu.pl
-NOERROR	zm232.zmet.agh.edu.pl
-NOERROR	asx.kt.agh.edu.pl
-NOERROR	dhcp-pc210.elektro.agh.edu.pl
-NOERROR	wfitj238e.ftj.agh.edu.pl
-NOERROR	host110-189.fis.agh.edu.pl
-NOERROR	ssr.ia.agh.edu.pl
-NOERROR	nikodem.gorn.agh.edu.pl
-NOERROR	ptychol.gorn.agh.edu.pl
-NOERROR	wwww.imir.agh.edu.pl
-NOERROR	herman.iisg.agh.edu.pl
-NOERROR	www.znp.agh.edu.pl
-NOERROR	wnssp124.ins.agh.edu.pl
-NOERROR	www.agh.edu.pl
-NOERROR	ca0-056.ceramika.agh.edu.pl
-NOERROR	banaszew2.imir.agh.edu.pl
-NOERROR	zm211.zmet.agh.edu.pl
-NOERROR	www.hefajstos.agh.edu.pl
-NOERROR	jagular.iisg.agh.edu.pl
-NOERROR	wo5.odlew.agh.edu.pl
-NOERROR	www.uo.agh.edu.pl
-NOERROR	robus.ia.agh.edu.pl
-NOERROR	k-322-14.imir.agh.edu.pl
-NOERROR	www.zdpb.agh.edu.pl
-NXDOMAIN	host110-16.fis.agh.edu.pl
-NOERROR	wo108.odlew.agh.edu.pl
-NOERROR	wo36.odlew.agh.edu.pl
-NOERROR	student.ki.agh.edu.pl
-NOERROR	www.azs.agh.edu.pl
-NOERROR	www.chemicke-listy.cz.atoz.wbg2.bg.agh.edu.pl
-NOERROR	pr-inf5.wibro.agh.edu.pl
-NOERROR	vz.dsnet.agh.edu.pl
-NOERROR	pyrlik.gorn.agh.edu.pl
-NOERROR	repo.agh.edu.pl
-NOERROR	cb6-221.ceramika.agh.edu.pl
-NOERROR	dhcp098.kt.agh.edu.pl
-NOERROR	mat214.mat.agh.edu.pl
-NOERROR	kkrrit2016.kt.agh.edu.pl
-NOERROR	olajossy.gorn.agh.edu.pl
-NOERROR	pol-jap2017.agh.edu.pl
-NOERROR	cb6-153.ceramika.agh.edu.pl
-NOERROR	www.legiaakademicka.agh.edu.pl
-NOERROR	mops098.uci.agh.edu.pl
-NOERROR	www.kiz.zarz.agh.edu.pl
-NOERROR	jburkiew.imir.agh.edu.pl
-NOERROR	cmat5.mat.agh.edu.pl
-NOERROR	d4.agh.edu.pl
-NOERROR	tango.ia.agh.edu.pl
-NOERROR	a3-05.gorn.agh.edu.pl
-NOERROR	asystent1.wpie.agh.edu.pl
-NOERROR	hmc.fis.agh.edu.pl
-NOERROR	lapjad.kt.agh.edu.pl
-NOERROR	con.agh.edu.pl
-NOERROR	szafran-pc.wnaft.agh.edu.pl
-NOERROR	mdp01b.elektro.agh.edu.pl
-NOERROR	nat-wggios7.agh.edu.pl
-NOERROR	student2.zee.agh.edu.pl
-NOERROR	centaur.fis.agh.edu.pl
-NOERROR	dhcp183.kt.agh.edu.pl
-NOERROR	nat-weaiib20.agh.edu.pl
-NOERROR	lab.dc1-prx-a.infra.ki.agh.edu.pl
-NOERROR	kuba.wibro.agh.edu.pl
-NOERROR	kw4.kwestura.agh.edu.pl
-NOERROR	mops077.uci.agh.edu.pl
-NOERROR	link-1springer-1com-1nyztljjl0222.wbg2.bg.agh.edu.pl
-NOERROR	pc247.geol.agh.edu.pl
-NOERROR	clusterpwm.ket.agh.edu.pl
-NOERROR	kasin1.geol.agh.edu.pl
-NOERROR	agh-ke-www.map.infra.ki.agh.edu.pl
-NOERROR	okibedu.agh.edu.pl
-NOERROR	mat223.mat.agh.edu.pl
-NOERROR	ksemiekinia.geol.agh.edu.pl
-NOERROR	nat-other2.agh.edu.pl
-NOERROR	stefan.imir.agh.edu.pl
-NOERROR	nat-vl62.agh.edu.pl
-NOERROR	ixs4.cel.agh.edu.pl
-NOERROR	inka-f.geod.agh.edu.pl
-NOERROR	mayday.metal.agh.edu.pl
-NOERROR	kca15.ceramika.agh.edu.pl
-NOERROR	cerber.ftj.agh.edu.pl
-NOERROR	smoku.mn.agh.edu.pl
-NOERROR	pcmiue8.imir.agh.edu.pl
-NOERROR	pc124.ia.agh.edu.pl
-NOERROR	lab06-5.mn.agh.edu.pl
-NOERROR	prazeodym.zfcs.agh.edu.pl
-NOERROR	ktipm17.ktipm.agh.edu.pl
-NOERROR	tze.agh.edu.pl
-NOERROR	turnia4.metal.agh.edu.pl
-NOERROR	www.kkmu.agh.edu.pl
-NOERROR	dhcp3.zet.agh.edu.pl
-NOERROR	seminar14.metal.agh.edu.pl
-NOERROR	dhcp55.zee.agh.edu.pl
-NOERROR	ieeexplore-1ieee-1org-1000047n402a1.wbg2.bg.agh.edu.pl
-NOERROR	vpl-jail-01.cel.agh.edu.pl
-NOERROR	kb13.ceramika.agh.edu.pl
-NOERROR	zgg9.geod.agh.edu.pl
-NOERROR	wdm2.kt.agh.edu.pl
-NOERROR	kandydat.zarz.agh.edu.pl
-NOERROR	mops132.uci.agh.edu.pl
-NOERROR	mops078.uci.agh.edu.pl
-NOERROR	feniks-109.fis.agh.edu.pl
-NOERROR	www.kair.agh.edu.pl
-NOERROR	host-gw.ki.agh.edu.pl
-NOERROR	puma.metal.agh.edu.pl
-NOERROR	ziuzia.ktipm.agh.edu.pl
-NOERROR	nimfa.bg.agh.edu.pl
-NOERROR	pc98.zfcs.agh.edu.pl
-NOERROR	swpdm.imir.agh.edu.pl
-NOERROR	tel2556.zfcs.agh.edu.pl
-NOERROR	zgg8.geod.agh.edu.pl
-NOERROR	dhcp060.kt.agh.edu.pl
-NOERROR	weliza.wpie.agh.edu.pl
-NOERROR	foxtrot.ia.agh.edu.pl
-NOERROR	b2-kor1-2.imir.agh.edu.pl
-NOERROR	st17.gorn.agh.edu.pl
-NOERROR	beta.mn.agh.edu.pl
-NOERROR	cb6-207.ceramika.agh.edu.pl
-NOERROR	wimir-006.imir.agh.edu.pl
-NOERROR	www.alchemist.agh.edu.pl
-NOERROR	cmat3.mat.agh.edu.pl
-NOERROR	mortimer.geol.agh.edu.pl
-NOERROR	kserohall-pc.zarz.agh.edu.pl
-NOERROR	wyprawabari.agh.edu.pl
-NOERROR	krzys.ia.agh.edu.pl
-NOERROR	mat167.mat.agh.edu.pl
-NOERROR	kap-101.imir.agh.edu.pl
-NOERROR	www.sat08.agh.edu.pl
-NOERROR	k-320-1.imir.agh.edu.pl
-NOERROR	wfitj82e.ftj.agh.edu.pl
-NOERROR	de-drukarka.ceramika.agh.edu.pl
-NOERROR	pliki.cri.agh.edu.pl
-NOERROR	zmb31.ceramika.agh.edu.pl
-NOERROR	dhcp-pc196.elektro.agh.edu.pl
-NOERROR	wo118.odlew.agh.edu.pl
-NOERROR	lab308.elektro.agh.edu.pl
-NOERROR	blu.mn.agh.edu.pl
-NOERROR	kcs36.ceramika.agh.edu.pl
-NOERROR	ewider.dsnet.agh.edu.pl
-NOERROR	ziamol.metal.agh.edu.pl
-NOERROR	hermes.imir.agh.edu.pl
-NOERROR	szkola.imir.agh.edu.pl
-NOERROR	mgmt.cytryna.uci.agh.edu.pl
-NOERROR	stud210.fis.agh.edu.pl
-NOERROR	beta.elektro.agh.edu.pl
-NOERROR	b2-21-4.imir.agh.edu.pl
-NOERROR	ofss.agh.edu.pl
-NOERROR	cb6-191.ceramika.agh.edu.pl
-NOERROR	kct15.ceramika.agh.edu.pl
-NOERROR	neuron.gorn.agh.edu.pl
-NOERROR	mat188.mat.agh.edu.pl
-NOERROR	olimp191.imir.agh.edu.pl
-NOERROR	pc106.zfcs.agh.edu.pl
-NOERROR	apokalipsa.testament9.uci.agh.edu.pl
-NOERROR	krokus172.imir.agh.edu.pl
-NOERROR	mops167.uci.agh.edu.pl
-NOERROR	agh4test4.agh.edu.pl
-NOERROR	reksio.eaiib.agh.edu.pl
-NOERROR	wifi-03.wnaft.agh.edu.pl
-NOERROR	michalec.gorn.agh.edu.pl
-NOERROR	host110-27.fis.agh.edu.pl
-NOERROR	www.semk.agh.edu.pl
-NOERROR	www.sakwa.agh.edu.pl
-NOERROR	krim.agh.edu.pl
-NOERROR	kulula.geol.agh.edu.pl
-NOERROR	www.lab.zarz.agh.edu.pl
-NOERROR	pc11.zfcs.agh.edu.pl
-NOERROR	wo38.odlew.agh.edu.pl
-NOERROR	wrd.zet.agh.edu.pl
-NOERROR	dziek.mn.agh.edu.pl
-NOERROR	slizien.gorn.agh.edu.pl
-NOERROR	wfitj58e.ftj.agh.edu.pl
-NOERROR	bauer.geol.agh.edu.pl
-NOERROR	zmb28.ceramika.agh.edu.pl
-NXDOMAIN	webhd.uci.agh.edu.pl
-NOERROR	ns.ki.agh.edu.pl
-NOERROR	kwiecinska.geol.agh.edu.pl
-NOERROR	nat-vl123.agh.edu.pl
-NOERROR	pc141.kme.agh.edu.pl
-NOERROR	wpie4.wpie.agh.edu.pl
-NOERROR	dhcp-pc204.elektro.agh.edu.pl
-NOERROR	dhcp-pc206.elektro.agh.edu.pl
-NOERROR	urss8.urss.agh.edu.pl
-NOERROR	wlppot.kt.agh.edu.pl
-NOERROR	www.sitg.agh.edu.pl
-NOERROR	labrs.ia.agh.edu.pl
-NOERROR	sonata.agh.edu.pl
-NOERROR	mes7.mn.agh.edu.pl
-NOERROR	suliga-pc.zarz.agh.edu.pl
-NOERROR	wfitj51e.ftj.agh.edu.pl
-NOERROR	kustra.gorn.agh.edu.pl
-NOERROR	dalnia.gorn.agh.edu.pl
-NOERROR	kap-58.imir.agh.edu.pl
-NOERROR	rozdzielnia1-u11.adm.agh.edu.pl
-NOERROR	ce.agh.edu.pl
-NOERROR	studium17.sjo.agh.edu.pl
-NOERROR	test.wordpress.agh.edu.pl
-NOERROR	host110-213.fis.agh.edu.pl
-NOERROR	www.msia.agh.edu.pl
-NOERROR	mdp07b.elektro.agh.edu.pl
-NOERROR	in.fslab.agh.edu.pl
-NOERROR	ws.uci.agh.edu.pl
-NOERROR	www.cos.agh.edu.pl
-NOERROR	www.greenenergy.agh.edu.pl
-NOERROR	sala-pc.zarz.agh.edu.pl
-NOERROR	mzieciak.keiaspe.agh.edu.pl
-NOERROR	zabbix.zarz.agh.edu.pl
-NOERROR	kct11.ceramika.agh.edu.pl
-NOERROR	wfitj197e.ftj.agh.edu.pl
-NXDOMAIN	rak.agh.edu.pl
-NOERROR	academica.agh.edu.pl
-NOERROR	wfitj211e.ftj.agh.edu.pl
-NOERROR	wo156.odlew.agh.edu.pl
-NOERROR	muszynski.geol.agh.edu.pl
-NOERROR	nat.ds18.agh.edu.pl
-NOERROR	limba8.metal.agh.edu.pl
-NOERROR	voice.elektro.agh.edu.pl
-NOERROR	raporty.agh.edu.pl
-NOERROR	ppnb1.kt.agh.edu.pl
-NOERROR	mat181.mat.agh.edu.pl
-NOERROR	fis.agh.edu.pl
-NOERROR	host110-174.fis.agh.edu.pl
-NOERROR	labes4.ket.agh.edu.pl
-NOERROR	wms.agh.edu.pl
-NOERROR	trix.geod.agh.edu.pl
-NOERROR	www.wgig.agh.edu.pl
-NOERROR	wiki.kt.agh.edu.pl
-NXDOMAIN	www.powergig.agh.edu.pl
-NOERROR	ilon8.ia.agh.edu.pl
-NOERROR	kka2017.kaib.agh.edu.pl
-NOERROR	pc239.geol.agh.edu.pl
-NOERROR	lrajchel.geol.agh.edu.pl
-NOERROR	www.iab2018.agh.edu.pl
-NOERROR	www.summer-courses.agh.edu.pl
-NOERROR	b2-kor1-4.imir.agh.edu.pl
-NOERROR	katel2.elektro.agh.edu.pl
-NOERROR	www.spis.agh.edu.pl
-NOERROR	host110-222.fis.agh.edu.pl
-NOERROR	grobler2.ia.agh.edu.pl
-NOERROR	szpytko2.imir.agh.edu.pl
-NOERROR	epom.dgn.agh.edu.pl
-NOERROR	cynk2.mn.agh.edu.pl
-NOERROR	www.basen.agh.edu.pl
-NOERROR	fslab.agh.edu.pl
-NOERROR	lola.geod.agh.edu.pl
-NOERROR	pc13.zfcs.agh.edu.pl
-NOERROR	wpie26.wpie.agh.edu.pl
-NOERROR	mops181.uci.agh.edu.pl
-NOERROR	dhcp0114.kt.agh.edu.pl
-NOERROR	saturn.elektro.agh.edu.pl
-NOERROR	www.csr.agh.edu.pl
-NOERROR	ksero-pc.zarz.agh.edu.pl
-NOERROR	mta.ki.agh.edu.pl
-NOERROR	skowron.gorn.agh.edu.pl
-NOERROR	dec.geol.agh.edu.pl
-NOERROR	cb6-177.ceramika.agh.edu.pl
-NOERROR	wfitj87e.ftj.agh.edu.pl
-NOERROR	b3-komp6.zet.agh.edu.pl
-NOERROR	wnss16s.ins.agh.edu.pl
-NOERROR	elektronika.agh.edu.pl
-NOERROR	wpw.agh.edu.pl
-NOERROR	k-210-13.imir.agh.edu.pl
-NXDOMAIN	olimp47.imir.agh.edu.pl
-NOERROR	bbb.ki.agh.edu.pl
-NOERROR	omnivista.uci.agh.edu.pl
-NOERROR	rpress3.imir.agh.edu.pl
-NOERROR	aq23.ia.agh.edu.pl
-NOERROR	milab2.wibro.agh.edu.pl
-NOERROR	dhcp-pc188.elektro.agh.edu.pl
-NOERROR	host110-191.fis.agh.edu.pl
-NOERROR	users.dsnet.agh.edu.pl
-NOERROR	www.ceramika.agh.edu.pl
-NOERROR	dt2.adm.agh.edu.pl
-NOERROR	bg.agh.edu.pl
-NOERROR	janw.metal.agh.edu.pl
-NOERROR	lse15.zee.agh.edu.pl
-NOERROR	smerf.elektro.agh.edu.pl
-NOERROR	wnssp3.ins.agh.edu.pl
-NOERROR	nat-wggios5.agh.edu.pl
-NOERROR	cmat61.mat.agh.edu.pl
-NOERROR	wfitj53e.ftj.agh.edu.pl
-NOERROR	machniak.gorn.agh.edu.pl
-NOERROR	krokus184.imir.agh.edu.pl
-NOERROR	www.wms.agh.edu.pl
-NOERROR	krol.geol.agh.edu.pl
-NOERROR	ka72.ia.agh.edu.pl
-NOERROR	dell-r900.fis.agh.edu.pl
-NOERROR	host110-230.fis.agh.edu.pl
-NOERROR	smtp.iisg.agh.edu.pl
-NOERROR	laut-1.keiaspe.agh.edu.pl
-NOERROR	zm206.zmet.agh.edu.pl
-NOERROR	host110-30.fis.agh.edu.pl
-NOERROR	preweda.geod.agh.edu.pl
-NOERROR	jasra.geod.agh.edu.pl
-NOERROR	wrss-pc.zarz.agh.edu.pl
-NOERROR	kap-111.imir.agh.edu.pl
-NOERROR	hubert.wibro.agh.edu.pl
-NOERROR	www.eko-energia.agh.edu.pl
-NOERROR	pc35.zfcs.agh.edu.pl
-NOERROR	sap315.zarz.agh.edu.pl
-NOERROR	aq21.ia.agh.edu.pl
-NOERROR	nat-wggios14.agh.edu.pl
-NOERROR	nat3.kt.agh.edu.pl
-NOERROR	b2-21-3.imir.agh.edu.pl
-NOERROR	zm221.zmet.agh.edu.pl
-NOERROR	wwwmail.zet.agh.edu.pl
-NOERROR	nat-wggios15.agh.edu.pl
-NOERROR	wfitj167e.ftj.agh.edu.pl
-NOERROR	lab404e.ia.agh.edu.pl
-NOERROR	walkor.gorn.agh.edu.pl
-NOERROR	www.ppim.agh.edu.pl
-NOERROR	b3-217.imir.agh.edu.pl
-NOERROR	phoenix.ia.agh.edu.pl
-NOERROR	studium12.sjo.agh.edu.pl
-NOERROR	koszyk.imir.agh.edu.pl
-NOERROR	agh-rdi-www.map.infra.ki.agh.edu.pl
-NOERROR	dziekan.metal.agh.edu.pl
-NOERROR	dhcp146.kt.agh.edu.pl
-NOERROR	www.kkio2012.agh.edu.pl
-NOERROR	swop.kt.agh.edu.pl
-NOERROR	bobble.wibro.agh.edu.pl
-NOERROR	zmiue-serv.imir.agh.edu.pl
-NOERROR	kozi.mn.agh.edu.pl
-NOERROR	paivi.wibro.agh.edu.pl
-NOERROR	ptpo.agh.edu.pl
-NOERROR	ka71.ia.agh.edu.pl
-NOERROR	mops178.uci.agh.edu.pl
-NOERROR	cho-oyu.ia.agh.edu.pl
-NOERROR	gosia.mn.agh.edu.pl
-NOERROR	vega.kis.agh.edu.pl
-NOERROR	zm219.zmet.agh.edu.pl
-NOERROR	vpn240.kt.agh.edu.pl
-NOERROR	cm.agh.edu.pl
-NOERROR	wfitj231e.ftj.agh.edu.pl
-NOERROR	kumpel.mn.agh.edu.pl
-NOERROR	www.szc2008.agh.edu.pl
-NOERROR	jcdesktopa115.weip.agh.edu.pl
-NOERROR	ktipm47.ktipm.agh.edu.pl
-NOERROR	nat-wggios2.agh.edu.pl
-NOERROR	marvin.cri.agh.edu.pl
-NOERROR	ricoh.zet.agh.edu.pl
-NOERROR	p115-3.zet.agh.edu.pl
-NOERROR	isim.agh.edu.pl
-NOERROR	host110-223.fis.agh.edu.pl
-NOERROR	wo152.odlew.agh.edu.pl
-NOERROR	mops144.uci.agh.edu.pl
-NXDOMAIN	krokus.imir.agh.edu.pl
-NOERROR	www.dsdfe.agh.edu.pl
-NOERROR	www.cada.agh.edu.pl
-NOERROR	ms.agh.edu.pl
-NOERROR	hp5m309.kt.agh.edu.pl
-NOERROR	stalow4.metal.agh.edu.pl
-NOERROR	rdi.agh.edu.pl
-NOERROR	r04.gorn.agh.edu.pl
-NOERROR	cb6-165.ceramika.agh.edu.pl
-NOERROR	gps1.geod.agh.edu.pl
-NOERROR	www.volt.agh.edu.pl
-NOERROR	www.siec.zarz.agh.edu.pl
-NOERROR	mario.wibro.agh.edu.pl
-NOERROR	pietreus.metal.agh.edu.pl
-NOERROR	kgg5.gorn.agh.edu.pl
-NOERROR	pc5.ins.agh.edu.pl
-NOERROR	termosorp.wpie.agh.edu.pl
-NOERROR	stud233.fis.agh.edu.pl
-NOERROR	cam-226.imir.agh.edu.pl
-NOERROR	cmat42.mat.agh.edu.pl
-NOERROR	enviro.geod.agh.edu.pl
-NOERROR	esa2.agh.edu.pl
-NOERROR	apro-106.imir.agh.edu.pl
-NOERROR	sknos.agh.edu.pl
-NOERROR	wfitj185e.ftj.agh.edu.pl
-NOERROR	acminacademy.agh.edu.pl
-NOERROR	blum.imir.agh.edu.pl
-NOERROR	www.open.agh.edu.pl
-NOERROR	ls.bg.agh.edu.pl
-NOERROR	polka.ia.agh.edu.pl
-NOERROR	kgg4.gorn.agh.edu.pl
-NOERROR	mat140.mat.agh.edu.pl
-NOERROR	stud106.fis.agh.edu.pl
-NOERROR	convert.cel.agh.edu.pl
-NOERROR	bystrze.urss.agh.edu.pl
-NOERROR	wnss125.ins.agh.edu.pl
-NOERROR	openlon3.ia.agh.edu.pl
-NOERROR	rec.wibro.agh.edu.pl
-NOERROR	chulist.gorn.agh.edu.pl
-NOERROR	studium11.sjo.agh.edu.pl
-NOERROR	wnssczyt7.ins.agh.edu.pl
-NOERROR	www.iaeste.agh.edu.pl
-NOERROR	lab513-pc3.elektro.agh.edu.pl
-NOERROR	test205.kt.agh.edu.pl
-NOERROR	host110-43.fis.agh.edu.pl
-NOERROR	www.kbib.agh.edu.pl
-NOERROR	slug.keiaspe.agh.edu.pl
-NOERROR	omega.ics.agh.edu.pl
-NOERROR	kap-34.imir.agh.edu.pl
-NOERROR	pc07.zfcs.agh.edu.pl
-NOERROR	mops161.uci.agh.edu.pl
-NOERROR	pix-dziekanat.geol.agh.edu.pl
-NOERROR	bugajski.geol.agh.edu.pl
-NOERROR	ca0-023.ceramika.agh.edu.pl
-NOERROR	moose.agh.edu.pl
-NOERROR	blackhole-nat.iisg.agh.edu.pl
-NOERROR	zachara3.imir.agh.edu.pl
-NOERROR	iono.elektro.agh.edu.pl
-NOERROR	mops159.uci.agh.edu.pl
-NOERROR	mops007.uci.agh.edu.pl
-NOERROR	wrt54gl.elektro.agh.edu.pl
-NOERROR	backup2.kt.agh.edu.pl
-NOERROR	kap-28.imir.agh.edu.pl
-NOERROR	pompon.cri.agh.edu.pl
-NOERROR	media.fis.agh.edu.pl
-NOERROR	st4.gorn.agh.edu.pl
-NOERROR	www.iab2013.agh.edu.pl
-NOERROR	kcs42.ceramika.agh.edu.pl
-NOERROR	radomin.geol.agh.edu.pl
-NOERROR	cam-218.imir.agh.edu.pl
-NOERROR	host110-122.fis.agh.edu.pl
-NOERROR	lds-2.keiaspe.agh.edu.pl
-NOERROR	fraczek.wibro.agh.edu.pl
-NOERROR	cam-212.imir.agh.edu.pl
-NOERROR	demeter-dhcp.zarz.agh.edu.pl
-NOERROR	pssi.agh.edu.pl
-NOERROR	proj14.gorn.agh.edu.pl
-NOERROR	epqu2020.agh.edu.pl
-NOERROR	wpie18.wpie.agh.edu.pl
-NOERROR	wfitj122e.ftj.agh.edu.pl
-NOERROR	www.smoluchowski.fis.agh.edu.pl
-NOERROR	plan3.uci.agh.edu.pl
-NOERROR	test146.kt.agh.edu.pl
-NOERROR	catalyst.ftj.agh.edu.pl
-NOERROR	hyperlo.ia.agh.edu.pl
-NOERROR	host110-216.fis.agh.edu.pl
-NOERROR	kuras.geod.agh.edu.pl
-NOERROR	layer.uci.agh.edu.pl
-NOERROR	www.dmms.agh.edu.pl
-NOERROR	www.psg.agh.edu.pl
-NOERROR	test161.kt.agh.edu.pl
-NOERROR	wo87.odlew.agh.edu.pl
-NOERROR	test1.isa.agh.edu.pl
-NOERROR	pc14.zfcs.agh.edu.pl
-NOERROR	jkudrys.geod.agh.edu.pl
-NOERROR	www.kisiko.agh.edu.pl
-NOERROR	cd.agh.edu.pl
-NOERROR	energy01.wpie.agh.edu.pl
-NOERROR	mops014.uci.agh.edu.pl
-NOERROR	aq12.ia.agh.edu.pl
-NOERROR	intcourses.agh.edu.pl
-NOERROR	www.swfis.agh.edu.pl
-NOERROR	pcmiue11.imir.agh.edu.pl
-NOERROR	kolo231.kt.agh.edu.pl
-NOERROR	staszowska.geol.agh.edu.pl
-NOERROR	pc67.zfcs.agh.edu.pl
-NOERROR	steniab.imir.agh.edu.pl
-NOERROR	cb6-176.ceramika.agh.edu.pl
-NOERROR	ltm10.ia.agh.edu.pl
-NOERROR	nat-vl130.agh.edu.pl
-NOERROR	nat-vl200.agh.edu.pl
-NOERROR	wmsg27.gorn.agh.edu.pl
-NOERROR	totek.mn.agh.edu.pl
-NOERROR	wo101.odlew.agh.edu.pl
-NOERROR	apisek.elektro.agh.edu.pl
-NOERROR	www.urss.agh.edu.pl
-NOERROR	www.ptmin.agh.edu.pl
-NOERROR	dhcp062.kt.agh.edu.pl
-NOERROR	www.tur.agh.edu.pl
-NOERROR	aq24.ia.agh.edu.pl
-NOERROR	pc145.kme.agh.edu.pl
-NOERROR	stud159.fis.agh.edu.pl
-NOERROR	kct2.ceramika.agh.edu.pl
-NOERROR	wfitj29e.ftj.agh.edu.pl
-NOERROR	dhcp036.kt.agh.edu.pl
-NOERROR	pc92.zfcs.agh.edu.pl
-NOERROR	n-ferro.mn.agh.edu.pl
-NOERROR	pc123.ia.agh.edu.pl
-NOERROR	powermac2.elektro.agh.edu.pl
-NOERROR	kfcsr810.fis.agh.edu.pl
-NOERROR	pcmiue15.imir.agh.edu.pl
-NOERROR	rosa.geod.agh.edu.pl
-NOERROR	urss4.urss.agh.edu.pl
-NOERROR	zm212.zmet.agh.edu.pl
-NOERROR	majta2.metal.agh.edu.pl
-NOERROR	tomaszew.gorn.agh.edu.pl
-NOERROR	umbreon.metal.agh.edu.pl
-NOERROR	jsc.elektro.agh.edu.pl
-NOERROR	cinc.agh.edu.pl
-NOERROR	www.spin.miekinia.agh.edu.pl
-NOERROR	apro-102.imir.agh.edu.pl
-NOERROR	ekrapiec.geol.agh.edu.pl
-NOERROR	osa2.agh.edu.pl
-NOERROR	fundacjams.agh.edu.pl
-NXDOMAIN	olimp46.imir.agh.edu.pl
-NOERROR	www.kmpig.geol.agh.edu.pl
-NOERROR	www.kyc.agh.edu.pl
-NOERROR	www.lider.agh.edu.pl
-NOERROR	adrian2.metal.agh.edu.pl
-NOERROR	bbl.agh.edu.pl
-NOERROR	vpn248.kt.agh.edu.pl
-NOERROR	b6rtr.agh.edu.pl
-NOERROR	iworid2017.fis.agh.edu.pl
-NOERROR	wozniak.geol.agh.edu.pl
-NOERROR	www.xiiidm.agh.edu.pl
-NOERROR	typo3dev2.uci.agh.edu.pl
-NOERROR	dhcp185.kt.agh.edu.pl
-NOERROR	nb-jrzasa.kt.agh.edu.pl
-NOERROR	mat176.mat.agh.edu.pl
-NOERROR	pcwydrych.kt.agh.edu.pl
-NOERROR	kse13.ceramika.agh.edu.pl
-NOERROR	wnss114.ins.agh.edu.pl
-NOERROR	jameson.metal.agh.edu.pl
-NOERROR	luksza.metal.agh.edu.pl
-NOERROR	euro07.ia.agh.edu.pl
-NOERROR	zm218.zmet.agh.edu.pl
-NXDOMAIN	testament.uci.agh.edu.pl
-NOERROR	krk.agh.edu.pl
-NOERROR	nbleszczuk.kt.agh.edu.pl
-NOERROR	lab09.gorn.agh.edu.pl
-NOERROR	forum.eestec.agh.edu.pl
-NOERROR	ctt-crm.adm.agh.edu.pl
-NOERROR	ds10.agh.edu.pl
-NOERROR	hpm402dnp218-dr.zarz.agh.edu.pl
-NOERROR	dou3.adm.agh.edu.pl
-NOERROR	ca0-033.ceramika.agh.edu.pl
-NOERROR	kusiak.cel.agh.edu.pl
-NOERROR	mm.mn.agh.edu.pl
-NOERROR	pansy.ics.agh.edu.pl
-NOERROR	jurek.keiaspe.agh.edu.pl
-NOERROR	mops156.uci.agh.edu.pl
-NOERROR	wfitj60a.ftj.agh.edu.pl
-NOERROR	mat222.mat.agh.edu.pl
-NXDOMAIN	borg.ia.agh.edu.pl
-NOERROR	wfitj123e.ftj.agh.edu.pl
-NOERROR	jnocon.metal.agh.edu.pl
-NOERROR	k-322-6.imir.agh.edu.pl
-NOERROR	paw.agh.edu.pl
-NOERROR	weip-d4-40.weip.agh.edu.pl
-NOERROR	ns.eaiib.agh.edu.pl
-NOERROR	cb6-146.ceramika.agh.edu.pl
-NOERROR	host110-131.fis.agh.edu.pl
-NOERROR	www.witness.zarz.agh.edu.pl
-NOERROR	matlab3.uci.agh.edu.pl
-NOERROR	solar1.ia.agh.edu.pl
-NOERROR	saramak.gorn.agh.edu.pl
-NOERROR	fmn2010.kt.agh.edu.pl
-NOERROR	portiernia.weip.agh.edu.pl
-NOERROR	gradk.imir.agh.edu.pl
-NOERROR	kej.agh.edu.pl
-NOERROR	lab-409-4.wibro.agh.edu.pl
-NOERROR	csci.agh.edu.pl
-NOERROR	vmw4.ftj.agh.edu.pl
-NOERROR	mops023.uci.agh.edu.pl
-NOERROR	host110-75.fis.agh.edu.pl
-NOERROR	wfitj49e.ftj.agh.edu.pl
-NOERROR	borg.kis.agh.edu.pl
-NOERROR	centrala.adm.agh.edu.pl
-NOERROR	nebula.ftj.agh.edu.pl
-NOERROR	gitara.uci.agh.edu.pl
-NOERROR	wfitj169e.ftj.agh.edu.pl
-NOERROR	baloo.ket.agh.edu.pl
-NOERROR	valkiria.geol.agh.edu.pl
-NOERROR	crt.ftj.agh.edu.pl
-NOERROR	stmet01.metal.agh.edu.pl
-NOERROR	docs.iisg.agh.edu.pl
-NOERROR	lx3.geol.agh.edu.pl
-NOERROR	krokus2-10.imir.agh.edu.pl
-NOERROR	dhcp194.kt.agh.edu.pl
-NOERROR	bigbang.elektro.agh.edu.pl
-NOERROR	wnssp15.ins.agh.edu.pl
-NOERROR	makalu.ia.agh.edu.pl
-NOERROR	kola.agh.edu.pl
-NOERROR	mops103.uci.agh.edu.pl
-NOERROR	www-1tandfonline-1com-1sciencecitationindex.wbg2.bg.agh.edu.pl
-NOERROR	agh4dev8.agh.edu.pl
-NOERROR	cmat11.mat.agh.edu.pl
-NOERROR	zm249.zmet.agh.edu.pl
-NOERROR	forum.ms.agh.edu.pl
-NOERROR	pc246.geol.agh.edu.pl
-NOERROR	licz-b4.adm.agh.edu.pl
-NOERROR	bogdan.gorn.agh.edu.pl
-NOERROR	vps.zarz.agh.edu.pl
-NOERROR	kap-118.imir.agh.edu.pl
-NXDOMAIN	neti.ics.agh.edu.pl
-NOERROR	cmat14.mat.agh.edu.pl
-NXDOMAIN	pompon.uci.agh.edu.pl
-NOERROR	dhcp159.kt.agh.edu.pl
-NOERROR	podroze.agh.edu.pl
-NOERROR	nat-wwnig6.agh.edu.pl
-NOERROR	wfitj228e.ftj.agh.edu.pl
-NOERROR	kap-108.imir.agh.edu.pl
-NOERROR	www.scr.agh.edu.pl
-NOERROR	dziek3.ceramika.agh.edu.pl
-NOERROR	kosala.wibro.agh.edu.pl
-NOERROR	host110-215.fis.agh.edu.pl
-NOERROR	nat-vl115.agh.edu.pl
-SERVFAIL	wnaft-dc-02.ad.wnaft.agh.edu.pl
-NOERROR	pc41.zfcs.agh.edu.pl
-NOERROR	turnia12.metal.agh.edu.pl
-NXDOMAIN	korzycki.ki.agh.edu.pl
-NOERROR	stmet03.metal.agh.edu.pl
-NOERROR	klis.gorn.agh.edu.pl
-NOERROR	prodziek2.weip.agh.edu.pl
-NOERROR	labor.geol.agh.edu.pl
-NOERROR	pluton.kt.agh.edu.pl
-NOERROR	revistes-1ub-1edu-1atoz.wbg2.bg.agh.edu.pl
-NOERROR	amber.zarz.agh.edu.pl
-NOERROR	kobra.uci.agh.edu.pl
-NOERROR	mdp06b.elektro.agh.edu.pl
-NOERROR	stud168.fis.agh.edu.pl
-NXDOMAIN	olimp42.imir.agh.edu.pl
-NOERROR	joanna.imir.agh.edu.pl
-NOERROR	lan.cel.agh.edu.pl
-NOERROR	szafir.imir.agh.edu.pl
-NOERROR	www.hpua.agh.edu.pl
-NXDOMAIN	dbadmin.d17-c1-prx-1.infra.iisg.agh.edu.pl
-NOERROR	stud153.fis.agh.edu.pl
-NOERROR	www.sga.agh.edu.pl
-NOERROR	wfitj184e.ftj.agh.edu.pl
-NOERROR	dhcp160.kt.agh.edu.pl
-NOERROR	rawa.imir.agh.edu.pl
-NOERROR	host110-136.fis.agh.edu.pl
-NOERROR	cb6-178.ceramika.agh.edu.pl
-NOERROR	sioux.kt.agh.edu.pl
-NOERROR	journals-1bg-1agh-1edu-1pl-1000032i30050.wbg2.bg.agh.edu.pl
-NOERROR	host110-183.fis.agh.edu.pl
-NOERROR	vircan.kt.agh.edu.pl
-NOERROR	pc125.ia.agh.edu.pl
-NOERROR	b3-13.mn.agh.edu.pl
-NOERROR	hp2015-dr.zarz.agh.edu.pl
-NOERROR	p316-2.ket.agh.edu.pl
-NOERROR	rekrut-3.gorn.agh.edu.pl
-NOERROR	hp1320np419-dr.zarz.agh.edu.pl
-NOERROR	suliga.metal.agh.edu.pl
-NOERROR	www.ekospirit.agh.edu.pl
-NOERROR	agh-pc.geod.agh.edu.pl
-NOERROR	draco.elektro.agh.edu.pl
-NOERROR	giro.geod.agh.edu.pl
-NOERROR	www.kwestura.agh.edu.pl
-NOERROR	hl5250dn.zet.agh.edu.pl
-NOERROR	pc44.zfcs.agh.edu.pl
-NOERROR	nf.kt.agh.edu.pl
-NOERROR	test153.kt.agh.edu.pl
-NOERROR	om.cel.agh.edu.pl
-NOERROR	kap-45.imir.agh.edu.pl
-NOERROR	herman.d17.iisg.agh.edu.pl
-NOERROR	www.wakeup.agh.edu.pl
-NOERROR	dhcp072.kt.agh.edu.pl
-NOERROR	wfitj134e.ftj.agh.edu.pl
-NOERROR	incr2.kt.agh.edu.pl
-NOERROR	pc73.zfcs.agh.edu.pl
-NOERROR	wfitj64e.ftj.agh.edu.pl
-NOERROR	nas4free.zarz.agh.edu.pl
-NOERROR	smtp.agh.edu.pl
-NOERROR	helios.zarz.agh.edu.pl
-NOERROR	ka78.ia.agh.edu.pl
-NOERROR	milab1.wibro.agh.edu.pl
-NOERROR	p115-1.mn.agh.edu.pl
-NOERROR	netten2.cri.agh.edu.pl
-NOERROR	ticoo.metal.agh.edu.pl
-NOERROR	dolik.geol.agh.edu.pl
-NOERROR	www-1cambridge-1org-1ysv0kvjl0fcf.wbg2.bg.agh.edu.pl
-NOERROR	upsp1.odlew.agh.edu.pl
-NOERROR	cb6-212.ceramika.agh.edu.pl
-NOERROR	fa2014.agh.edu.pl
-NOERROR	mops179.uci.agh.edu.pl
-NOERROR	distalo.mn.agh.edu.pl
-NOERROR	zaneta.geol.agh.edu.pl
-NOERROR	kawiory8.wpie.agh.edu.pl
-NOERROR	klubabsolwentow.agh.edu.pl
-NOERROR	mat173.mat.agh.edu.pl
-NOERROR	fortigate-out2.uci.agh.edu.pl
-NOERROR	robeko.geod.agh.edu.pl
-NOERROR	wifi-guest.agh.edu.pl
-NXDOMAIN	ns2.iisg.agh.edu.pl
-NOERROR	k-322-15.imir.agh.edu.pl
-NOERROR	nat-weaiib10.agh.edu.pl
-NOERROR	kap-132.imir.agh.edu.pl
-NOERROR	ca0-038.ceramika.agh.edu.pl
-NOERROR	www.uaue.zarz.agh.edu.pl
-NXDOMAIN	xmatys.ia.agh.edu.pl
-NOERROR	brutus.zarz.agh.edu.pl
-NOERROR	wpie23.wpie.agh.edu.pl
-NOERROR	ktipm42.ktipm.agh.edu.pl
-NOERROR	weip-d4-42.weip.agh.edu.pl
-NOERROR	ka75.ia.agh.edu.pl
-NOERROR	ca0-057.ceramika.agh.edu.pl
-NOERROR	sso.agh.edu.pl
-NOERROR	zts36.ia.agh.edu.pl
-NOERROR	cbmos.agh.edu.pl
-NOERROR	waga.imir.agh.edu.pl
-NOERROR	wfitj226e.ftj.agh.edu.pl
-NOERROR	pcmiue10.imir.agh.edu.pl
-NOERROR	szyndler.metal.agh.edu.pl
-NOERROR	age.agh.edu.pl
-NOERROR	aq63.ia.agh.edu.pl
-NOERROR	pc9.wibro.agh.edu.pl
-NOERROR	mat193.mat.agh.edu.pl
-NOERROR	lsr01.ia.agh.edu.pl
-NOERROR	stud241.fis.agh.edu.pl
-NOERROR	necronomicon.ia.agh.edu.pl
-NOERROR	www.kezp.agh.edu.pl
-NOERROR	gorc.metal.agh.edu.pl
-NOERROR	nat.dsv.agh.edu.pl
-NOERROR	wrss.metal.agh.edu.pl
-NOERROR	tango.geol.agh.edu.pl
-NOERROR	wpie37.wpie.agh.edu.pl
-NOERROR	trac.icsr.agh.edu.pl
-NOERROR	kowalski.gorn.agh.edu.pl
-NOERROR	wo62.odlew.agh.edu.pl
-NOERROR	nat-wggios8.agh.edu.pl
-NOERROR	akademik.agh.edu.pl
-NOERROR	cmms.agh.edu.pl
-NOERROR	hpcad2.fis.agh.edu.pl
-NOERROR	zmb13.ceramika.agh.edu.pl
-NOERROR	host110-159.fis.agh.edu.pl
-NOERROR	kse18.ceramika.agh.edu.pl
-NOERROR	wfitj223e.ftj.agh.edu.pl
-NOERROR	cb6-152.ceramika.agh.edu.pl
-NOERROR	urss6.urss.agh.edu.pl
-NOERROR	vpn245.kt.agh.edu.pl
-NOERROR	pc22.geol.agh.edu.pl
-NOERROR	www.chemia.odlew.agh.edu.pl
-NOERROR	ds2.unifi.dsnet.agh.edu.pl
-NOERROR	wfitj100e.ftj.agh.edu.pl
-NOERROR	wldixi.kt.agh.edu.pl
-NOERROR	pc4.wibro.agh.edu.pl
-NOERROR	cb6-164.ceramika.agh.edu.pl
-NOERROR	mat199.mat.agh.edu.pl
-NOERROR	ns1.a2s.agh.edu.pl
-NOERROR	moodle.agh.edu.pl
-NOERROR	rubin.wibro.agh.edu.pl
-NOERROR	dhcp-pc192.elektro.agh.edu.pl
-NOERROR	athena.ia.agh.edu.pl
-NOERROR	lrob.ia.agh.edu.pl
-NOERROR	fas0svmtmp.kt.agh.edu.pl
-NOERROR	pc133.kme.agh.edu.pl
-NOERROR	krokus139.imir.agh.edu.pl
-NOERROR	www.iab2011.agh.edu.pl
-NOERROR	cloud.eaiib.agh.edu.pl
-NOERROR	nat-gst1.agh.edu.pl
-NOERROR	michal.metal.agh.edu.pl
-NOERROR	cider.kt.agh.edu.pl
-NXDOMAIN	dhcp90.eaiib.agh.edu.pl
-NOERROR	ie25.ket.agh.edu.pl
-NOERROR	mika.mn.agh.edu.pl
-NOERROR	wnssczyt6.ins.agh.edu.pl
-NOERROR	krokus2-5.imir.agh.edu.pl
-NOERROR	dhcp050.kt.agh.edu.pl
-NOERROR	wo59.odlew.agh.edu.pl
-NOERROR	bator.gorn.agh.edu.pl
-NOERROR	mops101.uci.agh.edu.pl
-NOERROR	hadrian.metal.agh.edu.pl
-NOERROR	apro-105.imir.agh.edu.pl
-NOERROR	wmsgl.gorn.agh.edu.pl
-NOERROR	d8-626-hp-cp2025.ket.agh.edu.pl
-NOERROR	ds5.agh.edu.pl
-NOERROR	zts39.ia.agh.edu.pl
-NOERROR	cmat8.mat.agh.edu.pl
-NOERROR	dhcp192.kt.agh.edu.pl
-NOERROR	knm2.imir.agh.edu.pl
-NOERROR	lonlab2.elektro.agh.edu.pl
-NOERROR	labstud03.wpie.agh.edu.pl
-NOERROR	ocs.zarz.agh.edu.pl
-NOERROR	seismic.geol.agh.edu.pl
-NOERROR	stass6.gorn.agh.edu.pl
-NOERROR	help.eaiib.agh.edu.pl
-SERVFAIL	ns1.mediaframe.agh.edu.pl
-NOERROR	jednacz.gorn.agh.edu.pl
-NOERROR	fuego.wibro.agh.edu.pl
-NOERROR	tytko.imir.agh.edu.pl
-NOERROR	lab513-pc4.elektro.agh.edu.pl
-NOERROR	www.ucte2011.agh.edu.pl
-NOERROR	host110-206.fis.agh.edu.pl
-NOERROR	kawiory15.wpie.agh.edu.pl
-NOERROR	www.rekrutacja.agh.edu.pl
-NOERROR	macaira.gorn.agh.edu.pl
-NOERROR	www.dzn.agh.edu.pl
-NOERROR	naworyta.gorn.agh.edu.pl
-NOERROR	pc102.zfcs.agh.edu.pl
-NOERROR	ca0-035.ceramika.agh.edu.pl
-NOERROR	www.tf.agh.edu.pl
-NOERROR	kw7.kwestura.agh.edu.pl
-NOERROR	cb6-216.ceramika.agh.edu.pl
-NOERROR	olimp33.imir.agh.edu.pl
-NOERROR	spider2.ki.agh.edu.pl
-NOERROR	www.yic2019.agh.edu.pl
-NOERROR	barbara.keiaspe.agh.edu.pl
-NOERROR	pc17.zfcs.agh.edu.pl
-NOERROR	ca0-014.ceramika.agh.edu.pl
-NOERROR	host110-69.fis.agh.edu.pl
-NOERROR	p016-b1.keiaspe.agh.edu.pl
-NOERROR	krol.gorn.agh.edu.pl
-NOERROR	dhcp039.kt.agh.edu.pl
-NOERROR	nat.ds17.agh.edu.pl
-NOERROR	kulik.gorn.agh.edu.pl
-NOERROR	www.eurotherm2016.agh.edu.pl
-NOERROR	intramat.mat.agh.edu.pl
-NOERROR	icon.imir.agh.edu.pl
-NOERROR	pc109.zfcs.agh.edu.pl
-NOERROR	wo20.odlew.agh.edu.pl
-NOERROR	paloalto.ia.agh.edu.pl
-NOERROR	weip-d4-46.weip.agh.edu.pl
-NOERROR	cmat20.mat.agh.edu.pl
-NOERROR	buba.geod.agh.edu.pl
-NOERROR	pcc212.ia.agh.edu.pl
-NOERROR	dhcp0.zet.agh.edu.pl
-NOERROR	kap-126.imir.agh.edu.pl
-NOERROR	test150.kt.agh.edu.pl
-NOERROR	krysiap.imir.agh.edu.pl
-NOERROR	linux.ia.agh.edu.pl
-NOERROR	edytka.metal.agh.edu.pl
-NOERROR	prac.bg.agh.edu.pl
-NOERROR	wo99.odlew.agh.edu.pl
-NOERROR	host110-135.fis.agh.edu.pl
-NOERROR	zm231.zmet.agh.edu.pl
-NOERROR	mops160.uci.agh.edu.pl
-NOERROR	laboratoriumhp-nb.zarz.agh.edu.pl
-NXDOMAIN	wkr01.imir.agh.edu.pl
-NOERROR	mops020.uci.agh.edu.pl
-NOERROR	teneta-rtr.ia.agh.edu.pl
-NOERROR	dou10.adm.agh.edu.pl
-NOERROR	wojbach.zee.agh.edu.pl
-NOERROR	weip-d4-53.weip.agh.edu.pl
-NOERROR	international.agh.edu.pl
-NOERROR	www.racing.agh.edu.pl
-NOERROR	lab404l.ia.agh.edu.pl
-NOERROR	bplaptop.metal.agh.edu.pl
-NOERROR	ca0-060.ceramika.agh.edu.pl
-NOERROR	wfitj130e.ftj.agh.edu.pl
-NOERROR	dhcp162.kt.agh.edu.pl
-NOERROR	rekrutacja.cr.agh.edu.pl
-NOERROR	hostel.test.dsnet.agh.edu.pl
-NOERROR	mops032.uci.agh.edu.pl
-NOERROR	www.samorzad.imir.agh.edu.pl
-NOERROR	www.kap.agh.edu.pl
-NOERROR	lukaszw.metal.agh.edu.pl
-NOERROR	jump.kt.agh.edu.pl
-NOERROR	jarmutka.metal.agh.edu.pl
-NOERROR	wo39.odlew.agh.edu.pl
-NOERROR	3c4500.wnaft.agh.edu.pl
-NOERROR	szafir.mn.agh.edu.pl
-NOERROR	stud116.fis.agh.edu.pl
-NOERROR	www.zftik.agh.edu.pl
-NOERROR	masus.zet.agh.edu.pl
-NOERROR	hipekv6.zarz.agh.edu.pl
-NOERROR	dhcp096.kt.agh.edu.pl
-NOERROR	mops120.uci.agh.edu.pl
-NOERROR	goblin.wibro.agh.edu.pl
-NOERROR	kcs10.ceramika.agh.edu.pl
-NOERROR	nat-adm15.agh.edu.pl
-NOERROR	dell.ia.agh.edu.pl
-NOERROR	cmat6.mat.agh.edu.pl
-NOERROR	zm207.zmet.agh.edu.pl
-NOERROR	kawecki.imir.agh.edu.pl
-NOERROR	krawente.elektro.agh.edu.pl
-NOERROR	host110-80.fis.agh.edu.pl
-NOERROR	mat224.mat.agh.edu.pl
-NOERROR	test194.kt.agh.edu.pl
-NOERROR	test248.kt.agh.edu.pl
-NOERROR	a3-03.gorn.agh.edu.pl
-NOERROR	weip-d4-52.weip.agh.edu.pl
-NOERROR	test159.kt.agh.edu.pl
-NOERROR	mon-1.d8.iisg.agh.edu.pl
-NOERROR	wesoly.imir.agh.edu.pl
-NOERROR	allchemia.agh.edu.pl
-NOERROR	vpn.kis.agh.edu.pl
-NOERROR	dominik.metal.agh.edu.pl
-NOERROR	wnssp119.ins.agh.edu.pl
-NXDOMAIN	ricoh-dziekanat.fis.agh.edu.pl
-NOERROR	gut.metal.agh.edu.pl
-NOERROR	makuch.zee.agh.edu.pl
-NOERROR	www.masstrans.agh.edu.pl
-NOERROR	emi.wibro.agh.edu.pl
-NOERROR	pokoj109.ins.agh.edu.pl
-NOERROR	wfitj48e.ftj.agh.edu.pl
-NOERROR	piekrz.mn.agh.edu.pl
-NOERROR	jakub-dell.elektro.agh.edu.pl
-NOERROR	solar2.ia.agh.edu.pl
-NOERROR	www.cc.agh.edu.pl
-NOERROR	mops053.uci.agh.edu.pl
-NOERROR	jpiotrow.wibro.agh.edu.pl
-NOERROR	bim.agh.edu.pl
-NOERROR	kalliope.zarz.agh.edu.pl
-NOERROR	zacharak.imir.agh.edu.pl
-NOERROR	dhcp144.kt.agh.edu.pl
-NXDOMAIN	marvin.uci.agh.edu.pl
-NOERROR	aghdev.agh.edu.pl
-NOERROR	www.wrss.iet.agh.edu.pl
-NOERROR	xs4.cel.agh.edu.pl
-NOERROR	kap-02.imir.agh.edu.pl
-NOERROR	clifford.kt.agh.edu.pl
-NOERROR	marysia.elektro.agh.edu.pl
-NOERROR	wpie30.wpie.agh.edu.pl
-NOERROR	test172.kt.agh.edu.pl
-NOERROR	karkula-pc.zarz.agh.edu.pl
-NOERROR	muzeum.agh.edu.pl
-NOERROR	journals-1bg-1agh-1edu-1pl-1ftlf1rvi0abc.wbg2.bg.agh.edu.pl
-NXDOMAIN	lj2100.uci.agh.edu.pl
-NOERROR	power2nas.zarz.agh.edu.pl
-NOERROR	przemeks.imir.agh.edu.pl
-NOERROR	tbartus.geol.agh.edu.pl
-NXDOMAIN	wolf.ics.agh.edu.pl
-NOERROR	kiot417.geod.agh.edu.pl
-NOERROR	kotg1.geod.agh.edu.pl
-NOERROR	kzft.fis.agh.edu.pl
-NOERROR	patola.gorn.agh.edu.pl
-NOERROR	alu-lab1.mn.agh.edu.pl
-NOERROR	nbkorus.kt.agh.edu.pl
-NOERROR	www.spacetech.agh.edu.pl
-NOERROR	p115-4.mn.agh.edu.pl
-NOERROR	ai.ia.agh.edu.pl
-NXDOMAIN	b2-ro-16.imir.agh.edu.pl
-NOERROR	biuro.wpie.agh.edu.pl
-NOERROR	hplab.zet.agh.edu.pl
-NOERROR	cb6-245.ceramika.agh.edu.pl
-NOERROR	www.pcbbe.agh.edu.pl
-NOERROR	host110-113.fis.agh.edu.pl
-NOERROR	arizona.elektro.agh.edu.pl
-NOERROR	gps13.geod.agh.edu.pl
-NOERROR	hanzel.keiaspe.agh.edu.pl
-NOERROR	legiaakademicka.agh.edu.pl
-NOERROR	www.keios.agh.edu.pl
-NOERROR	kca7.ceramika.agh.edu.pl
-NOERROR	gbl.mn.agh.edu.pl
-NOERROR	kap-56.imir.agh.edu.pl
-NOERROR	huragan.ia.agh.edu.pl
-NOERROR	dhcp-pc190.elektro.agh.edu.pl
-NOERROR	ise.kis.agh.edu.pl
-NOERROR	vpn247.kt.agh.edu.pl
-NOERROR	www.kzp.zarz.agh.edu.pl
-NOERROR	www.omn.agh.edu.pl
-NOERROR	cb6-147.ceramika.agh.edu.pl
-NOERROR	labog02.wpie.agh.edu.pl
-NOERROR	chameleon.bg.agh.edu.pl
-NOERROR	krokusnt.imir.agh.edu.pl
-NOERROR	mogolan.wibro.agh.edu.pl
-NOERROR	www.czysteniebo.agh.edu.pl
-NOERROR	rzutnik.ia.agh.edu.pl
-NOERROR	mikos.imir.agh.edu.pl
-NOERROR	kgg26.gorn.agh.edu.pl
-NOERROR	elenergrtr.zee.agh.edu.pl
-NOERROR	pc131.kme.agh.edu.pl
-NOERROR	dzk.ceramika.agh.edu.pl
-NOERROR	pasodoble.ia.agh.edu.pl
-NOERROR	piestrzynski.geol.agh.edu.pl
-NOERROR	b2sw.agh.edu.pl
-NOERROR	agh-bziolko.ket.agh.edu.pl
-NOERROR	rose.ics.agh.edu.pl
-NOERROR	shalom2.kt.agh.edu.pl
-NOERROR	mat254.mat.agh.edu.pl
-NOERROR	iris.ics.agh.edu.pl
-NOERROR	host110-58.fis.agh.edu.pl
-NOERROR	ak.geod.agh.edu.pl
-NOERROR	baran.wpie.agh.edu.pl
-NOERROR	insigma2.kt.agh.edu.pl
-NOERROR	www.igrzyska.agh.edu.pl
-NOERROR	testoracle.adm.agh.edu.pl
-NOERROR	ka-93.ia.agh.edu.pl
-NOERROR	pc39.zfcs.agh.edu.pl
-NOERROR	koziol.gorn.agh.edu.pl
-NOERROR	mat201.mat.agh.edu.pl
-NOERROR	fractal.zet.agh.edu.pl
-NOERROR	www.sodas.agh.edu.pl
-NOERROR	acmin.agh.edu.pl
-NOERROR	junior.agh.edu.pl
-NOERROR	p222-1.mn.agh.edu.pl
-NOERROR	agnes.metal.agh.edu.pl
-NOERROR	syllabus4.uci.agh.edu.pl
-NOERROR	kap-43.imir.agh.edu.pl
-NOERROR	jalta.metal.agh.edu.pl
-NOERROR	pc124.zfcs.agh.edu.pl
-NOERROR	mat208.mat.agh.edu.pl
-NOERROR	hera.zarz.agh.edu.pl
-NOERROR	www.maglay.agh.edu.pl
-NOERROR	konrad.zfcs.agh.edu.pl
-NOERROR	wnioski.dwz.agh.edu.pl
-NOERROR	pc59.zfcs.agh.edu.pl
-NOERROR	kmg-159.imir.agh.edu.pl
-NOERROR	sail504.wpie.agh.edu.pl
-NOERROR	dzp.agh.edu.pl
-NOERROR	geomatyka.agh.edu.pl
-NOERROR	l20.gorn.agh.edu.pl
-NOERROR	w-wiesiek.wibro.agh.edu.pl
-NOERROR	s106.geod.agh.edu.pl
-NOERROR	robot.wibro.agh.edu.pl
-NOERROR	jm.gorn.agh.edu.pl
-NOERROR	nat.ds13.agh.edu.pl
-NOERROR	pc10.geol.agh.edu.pl
-NOERROR	elektro.mn.agh.edu.pl
-NOERROR	solinski.gorn.agh.edu.pl
-NOERROR	rejsm.agh.edu.pl
-NOERROR	www.kne.agh.edu.pl
-NOERROR	poldek.ia.agh.edu.pl
-NOERROR	www.isi.agh.edu.pl
-NOERROR	mops135.uci.agh.edu.pl
-NOERROR	proj06.gorn.agh.edu.pl
-NOERROR	ktipm16.ktipm.agh.edu.pl
-NOERROR	amilopro.geod.agh.edu.pl
-NOERROR	vpn250.kt.agh.edu.pl
-NOERROR	davical.kis.agh.edu.pl
-NOERROR	zefir.elektro.agh.edu.pl
-NOERROR	nest.agh.edu.pl
-NOERROR	monika.metal.agh.edu.pl
-NOERROR	wo209.odlew.agh.edu.pl
-NOERROR	www.cekomat.agh.edu.pl
-NOERROR	www.ukod.zarz.agh.edu.pl
-NOERROR	studium8.sjo.agh.edu.pl
-NOERROR	wpie31.wpie.agh.edu.pl
-NOERROR	dhcp143.kt.agh.edu.pl
-NOERROR	host110-115.fis.agh.edu.pl
-NOERROR	stolowka2.adm.agh.edu.pl
-NOERROR	agh-pdpl-informatyka.map.infra.ki.agh.edu.pl
-NOERROR	kb5.ceramika.agh.edu.pl
-NOERROR	mat220.mat.agh.edu.pl
-NOERROR	basista.geod.agh.edu.pl
-NOERROR	cam-221.imir.agh.edu.pl
-NOERROR	pantek.mn.agh.edu.pl
-NOERROR	borek.wibro.agh.edu.pl
-NOERROR	dudakekus-pc.zarz.agh.edu.pl
-NOERROR	dtk1.elektro.agh.edu.pl
-NOERROR	wrss.geod.agh.edu.pl
-NOERROR	gip316d.geod.agh.edu.pl
-NOERROR	neoawa.mat.agh.edu.pl
-NOERROR	gopr.cel.agh.edu.pl
-NXDOMAIN	asia-cz.imir.agh.edu.pl
-NOERROR	dhcp165.kt.agh.edu.pl
-NOERROR	er.agh.edu.pl
-NOERROR	nat.ds15.agh.edu.pl
-NOERROR	nat-wggiis2.agh.edu.pl
-NOERROR	wlodek.zee.agh.edu.pl
-NOERROR	notebook-s3.wnaft.agh.edu.pl
-NOERROR	rekrut-1.gorn.agh.edu.pl
-NOERROR	sstwpie.wpie.agh.edu.pl
-NOERROR	wiki.icsr.agh.edu.pl
-NOERROR	zkc7.ceramika.agh.edu.pl
-NOERROR	test1.geod.agh.edu.pl
-NOERROR	fpga.elektro.agh.edu.pl
-NOERROR	host110-128.fis.agh.edu.pl
-NOERROR	cmat10.mat.agh.edu.pl
-NOERROR	pc08.zfcs.agh.edu.pl
-NOERROR	wpie2.wpie.agh.edu.pl
-NOERROR	automatics.agh.edu.pl
-NOERROR	brasil.cel.agh.edu.pl
-NOERROR	rtg-307.mn.agh.edu.pl
-NOERROR	medon.geol.agh.edu.pl
-NOERROR	pc6.geol.agh.edu.pl
-NOERROR	stud221.fis.agh.edu.pl
-NOERROR	pwojnaro.metal.agh.edu.pl
-NOERROR	nobby.cel.agh.edu.pl
-NOERROR	aq15.ia.agh.edu.pl
-NOERROR	www.kandydaci.agh.edu.pl
-NOERROR	term.bg.agh.edu.pl
-NOERROR	jacek-nb.kt.agh.edu.pl
-NOERROR	b3-9.mn.agh.edu.pl
-NOERROR	wimir-005.imir.agh.edu.pl
-NOERROR	data.cri.agh.edu.pl
-NOERROR	milo.cel.agh.edu.pl
-NOERROR	ktipm38.ktipm.agh.edu.pl
-NOERROR	jacek.wpie.agh.edu.pl
-NOERROR	grzyb.wpie.agh.edu.pl
-NOERROR	nat-adm2.agh.edu.pl
-NOERROR	las.metal.agh.edu.pl
-NOERROR	casper.elektro.agh.edu.pl
-NOERROR	mat200.mat.agh.edu.pl
-NOERROR	wnssp15-2.ins.agh.edu.pl
-NOERROR	www.glider.agh.edu.pl
-NOERROR	tomgord.imir.agh.edu.pl
-NOERROR	wnss16d.ins.agh.edu.pl
-NOERROR	dell2.geol.agh.edu.pl
-NOERROR	automatyka.wo.agh.edu.pl
-NOERROR	cb6-159.ceramika.agh.edu.pl
-NOERROR	ama.metal.agh.edu.pl
-NOERROR	nat.ds14.agh.edu.pl
-NOERROR	ksw.imir.agh.edu.pl
-NOERROR	apro-103.imir.agh.edu.pl
-NOERROR	teledsp.kt.agh.edu.pl
-NOERROR	pc236.geol.agh.edu.pl
-NOERROR	krokus2-13.imir.agh.edu.pl
-NOERROR	milab3.wibro.agh.edu.pl
-NOERROR	ktipm41.ktipm.agh.edu.pl
-NOERROR	st14.gorn.agh.edu.pl
-NOERROR	host110-96.fis.agh.edu.pl
-NOERROR	mat195.mat.agh.edu.pl
-NOERROR	mnich.metal.agh.edu.pl
-NOERROR	se.kis.agh.edu.pl
-NOERROR	ogrodnik.gorn.agh.edu.pl
-NOERROR	fog.zarz.agh.edu.pl
-NOERROR	ktipm52.ktipm.agh.edu.pl
-NOERROR	stud161.fis.agh.edu.pl
-NOERROR	kad-94.ia.agh.edu.pl
-NOERROR	l06.gorn.agh.edu.pl
-NOERROR	accounts.ki.agh.edu.pl
-NOERROR	kap-120.imir.agh.edu.pl
-NXDOMAIN	eduvpn.ki.agh.edu.pl
-NOERROR	wo86.odlew.agh.edu.pl
-NOERROR	www.8ccgt.agh.edu.pl
-NOERROR	nat-adm13.agh.edu.pl
-NOERROR	mops079.uci.agh.edu.pl
-NOERROR	jerzak.metal.agh.edu.pl
-NOERROR	www.intstudies.agh.edu.pl
-NOERROR	skoda.imir.agh.edu.pl
-NOERROR	www.sag.agh.edu.pl
-NOERROR	host110-42.fis.agh.edu.pl
-NOERROR	mops030.uci.agh.edu.pl
-NOERROR	celeron.wibro.agh.edu.pl
-NOERROR	cb6-219.ceramika.agh.edu.pl
-NOERROR	ozon.geod.agh.edu.pl
-NOERROR	wo8.odlew.agh.edu.pl
-NOERROR	test213.kt.agh.edu.pl
-NOERROR	fotos.fotogrametria.agh.edu.pl
-NOERROR	sunum.kt.agh.edu.pl
-NOERROR	weip-d4-29.weip.agh.edu.pl
-NOERROR	olesiak.gorn.agh.edu.pl
-NOERROR	kap-107.imir.agh.edu.pl
-NXDOMAIN	aelius.imir.agh.edu.pl
-NOERROR	kap-46.imir.agh.edu.pl
-NOERROR	kotlownia.agh.edu.pl
-NOERROR	varna.metal.agh.edu.pl
-NOERROR	haproxy.cel.agh.edu.pl
-NOERROR	wfitj173e.ftj.agh.edu.pl
-NOERROR	cb6-136.ceramika.agh.edu.pl
-NOERROR	ewider.test.dsnet.agh.edu.pl
-NOERROR	pmeibf.metal.agh.edu.pl
-NOERROR	acri2014.agh.edu.pl
-NOERROR	di.adm.agh.edu.pl
-NOERROR	kap-41.imir.agh.edu.pl
-NOERROR	aq16.ia.agh.edu.pl
-NOERROR	www.igsm2006.agh.edu.pl
-NOERROR	nsiut.kt.agh.edu.pl
-NOERROR	host110-219.fis.agh.edu.pl
-NOERROR	avdiushchenko-pc.zarz.agh.edu.pl
-NOERROR	p118a-1-b1.keiaspe.agh.edu.pl
-NOERROR	kowal-pc.zarz.agh.edu.pl
-NOERROR	wimir-252.imir.agh.edu.pl
-NOERROR	wfitj79e.ftj.agh.edu.pl
-NOERROR	wo88.odlew.agh.edu.pl
-NOERROR	www.rejsm.agh.edu.pl
-NOERROR	test206.kt.agh.edu.pl
-NOERROR	host110-77.fis.agh.edu.pl
-NOERROR	raporty.cop.agh.edu.pl
-NOERROR	hermes.wydagh.agh.edu.pl
-NOERROR	cmat28.mat.agh.edu.pl
-NOERROR	dziekanat.agh.edu.pl
-NOERROR	ksmd.gorn.agh.edu.pl
-NOERROR	agh-pdpl-cyberbezpieczenstwo.map.infra.ki.agh.edu.pl
-NOERROR	www.wsn.agh.edu.pl
-NOERROR	wfitj84e.ftj.agh.edu.pl
-NOERROR	platforma.kis.agh.edu.pl
-NOERROR	pcania.zet.agh.edu.pl
-NOERROR	packo.metal.agh.edu.pl
-NXDOMAIN	kkiem01.imir.agh.edu.pl
-NOERROR	nat-vl53.agh.edu.pl
-NOERROR	pkgrant1.wibro.agh.edu.pl
-NOERROR	dhcp189.kt.agh.edu.pl
-NOERROR	lab400b5.metal.agh.edu.pl
-NOERROR	journals-1plos-1org-1atoz.wbg2.bg.agh.edu.pl
-NOERROR	iopscience-1iop-1org-1000032ym0046.wbg2.bg.agh.edu.pl
-NOERROR	a3-09.gorn.agh.edu.pl
-NOERROR	toshiba.wibro.agh.edu.pl
-NOERROR	cb6-182.ceramika.agh.edu.pl
-NOERROR	kap-11.imir.agh.edu.pl
-NOERROR	www.bfn.agh.edu.pl
-NOERROR	wfitj86e.ftj.agh.edu.pl
-NOERROR	wibro-110.imir.agh.edu.pl
-NOERROR	kpb-050.imir.agh.edu.pl
-NOERROR	romulus.ia.agh.edu.pl
-NOERROR	synology.zarz.agh.edu.pl
-NOERROR	michalw.kt.agh.edu.pl
-NOERROR	wfitj172e.ftj.agh.edu.pl
-NOERROR	kfaryj.metal.agh.edu.pl
-NOERROR	czubak.wibro.agh.edu.pl
-NOERROR	bd.metal.agh.edu.pl
-NOERROR	kcs25.ceramika.agh.edu.pl
-NOERROR	ksero.zarz.agh.edu.pl
-NOERROR	cmat22.mat.agh.edu.pl
-NOERROR	miki-dell.zet.agh.edu.pl
-NOERROR	krokus178.imir.agh.edu.pl
-NOERROR	panel.ka.agh.edu.pl
-NOERROR	mts01.gorn.agh.edu.pl
-NOERROR	gargamel.kt.agh.edu.pl
-NOERROR	sirius.kis.agh.edu.pl
-NOERROR	www.ltpmn.agh.edu.pl
-NOERROR	rejestracja.akademiajunior.agh.edu.pl
-NOERROR	www.tlm.agh.edu.pl
-NOERROR	host110-204.fis.agh.edu.pl
-NOERROR	pks4.gorn.agh.edu.pl
-NOERROR	kct4.ceramika.agh.edu.pl
-NOERROR	kca3.ceramika.agh.edu.pl
-NOERROR	ds6.agh.edu.pl
-NOERROR	host110-221.fis.agh.edu.pl
-NOERROR	lab11h2-b1.keiaspe.agh.edu.pl
-NOERROR	test188.kt.agh.edu.pl
-NOERROR	biomat.ceramika.agh.edu.pl
-NOERROR	www-1fibtex-1lodz-1pl-1atoz.wbg2.bg.agh.edu.pl
-NOERROR	vpn.zarz.agh.edu.pl
-NOERROR	cb6-137.ceramika.agh.edu.pl
-NOERROR	bobik.geod.agh.edu.pl
-NOERROR	test141.kt.agh.edu.pl
-NOERROR	kap-27.imir.agh.edu.pl
-NXDOMAIN	b2-ro-12.imir.agh.edu.pl
-NOERROR	zmb29.ceramika.agh.edu.pl
-NOERROR	pc8.geol.agh.edu.pl
-NOERROR	mops065.uci.agh.edu.pl
-NOERROR	vpn235.kt.agh.edu.pl
-NOERROR	dhcp0120.kt.agh.edu.pl
-NOERROR	wnssp104.ins.agh.edu.pl
-NOERROR	cb6-186.ceramika.agh.edu.pl
-NOERROR	nat-weaiib19.agh.edu.pl
-NOERROR	ds7.unifi.dsnet.agh.edu.pl
-NOERROR	weip-d4-59.weip.agh.edu.pl
-NOERROR	hebda.gorn.agh.edu.pl
-NOERROR	amidala.ia.agh.edu.pl
-NOERROR	korek.uci.agh.edu.pl
-NOERROR	pc30.zfcs.agh.edu.pl
-NOERROR	guca-pc.zarz.agh.edu.pl
-NOERROR	dmzvpn.agh.edu.pl
-NOERROR	typo3dev1.uci.agh.edu.pl
-NOERROR	wo122.odlew.agh.edu.pl
-NOERROR	la2.ia.agh.edu.pl
-NXDOMAIN	hp2100.fis.agh.edu.pl
-NOERROR	www.skalnik.agh.edu.pl
-NOERROR	pc11.geol.agh.edu.pl
-NOERROR	eslomka.geol.agh.edu.pl
-NOERROR	www.dzienhutnika.agh.edu.pl
-NOERROR	wiesiek2.kt.agh.edu.pl
-NOERROR	dgn.adm.agh.edu.pl
-NOERROR	pc28.zfcs.agh.edu.pl
-NOERROR	bj.geod.agh.edu.pl
-NOERROR	ktipm32.ktipm.agh.edu.pl
-NOERROR	mat198.mat.agh.edu.pl
-NOERROR	vega.geod.agh.edu.pl
-NOERROR	www.studzagr.agh.edu.pl
-NOERROR	studium2.sjo.agh.edu.pl
-NOERROR	www.pta-krakow.agh.edu.pl
-NOERROR	koi2.fis.agh.edu.pl
-NOERROR	cam-222.imir.agh.edu.pl
-NOERROR	stud223.fis.agh.edu.pl
-NOERROR	kulma.geol.agh.edu.pl
-NOERROR	dhcp070.kt.agh.edu.pl
-NXDOMAIN	www.bluzy.agh.edu.pl
-NOERROR	zm213.zmet.agh.edu.pl
-NOERROR	pomoc-it.agh.edu.pl
-NOERROR	k-210-05.imir.agh.edu.pl
-NOERROR	k-210-03.imir.agh.edu.pl
-NOERROR	test143.kt.agh.edu.pl
-NOERROR	wkrlaptop.weip.agh.edu.pl
-NOERROR	stud222.fis.agh.edu.pl
-NOERROR	nbl0.ics.agh.edu.pl
-NOERROR	dhcp213.kt.agh.edu.pl
-NOERROR	slartibartfast.kis.agh.edu.pl
-NOERROR	aq22.ia.agh.edu.pl
-NXDOMAIN	koi.fis.agh.edu.pl
-NOERROR	kad-95.ia.agh.edu.pl
-NOERROR	dziekanat-fg3.agh.edu.pl
-NOERROR	forest.elektro.agh.edu.pl
-NOERROR	wfitj32e.ftj.agh.edu.pl
-NOERROR	wfitj10e.ftj.agh.edu.pl
-NOERROR	asior.ia.agh.edu.pl
-NOERROR	dziek5.ceramika.agh.edu.pl
-NOERROR	kse23.ceramika.agh.edu.pl
-NOERROR	ilon10.ia.agh.edu.pl
-NOERROR	mops029.uci.agh.edu.pl
-NOERROR	rd50.agh.edu.pl
-NOERROR	www.zse.agh.edu.pl
-NOERROR	super2-pc.zarz.agh.edu.pl
-NOERROR	hpsim.metal.agh.edu.pl
-NOERROR	wnss16e.ins.agh.edu.pl
-NOERROR	wimir-238.imir.agh.edu.pl
-NOERROR	twinning.iaeste.agh.edu.pl
-NOERROR	www.isdm2013.agh.edu.pl
-NOERROR	yoda.icsr.agh.edu.pl
-NOERROR	nat-wwnig5.agh.edu.pl
-NOERROR	zts50.ia.agh.edu.pl
-NOERROR	www.klubabsolwentow.agh.edu.pl
-NOERROR	www.iwkwkis.zarz.agh.edu.pl
-NOERROR	slack0.darwin.cri.agh.edu.pl
-NOERROR	ie10.ket.agh.edu.pl
-NOERROR	test195.kt.agh.edu.pl
-NOERROR	dhcp168.kt.agh.edu.pl
-NOERROR	dhcp2.zet.agh.edu.pl
-NOERROR	apro-111.imir.agh.edu.pl
-NOERROR	straz4.adm.agh.edu.pl
-NOERROR	memento.wibro.agh.edu.pl
-NOERROR	www.mi.wh.agh.edu.pl
-NOERROR	apro-104.imir.agh.edu.pl
-NOERROR	twardowski-pc.wnaft.agh.edu.pl
-NOERROR	filipow.imir.agh.edu.pl
-NOERROR	rajd100.agh.edu.pl
-NOERROR	kap-03.imir.agh.edu.pl
-NOERROR	ca0-062.ceramika.agh.edu.pl
-NOERROR	rozdzielnia-u11.adm.agh.edu.pl
-NXDOMAIN	olimp44.imir.agh.edu.pl
-NOERROR	wo74.odlew.agh.edu.pl
-NOERROR	p021-b1.keiaspe.agh.edu.pl
-NOERROR	tplinkp122.zarz.agh.edu.pl
-NOERROR	wloch.gorn.agh.edu.pl
-NOERROR	indico.fis.agh.edu.pl
-NOERROR	rpress1.imir.agh.edu.pl
-NOERROR	byrska.metal.agh.edu.pl
-NOERROR	zm236.zmet.agh.edu.pl
-NOERROR	labog03.wpie.agh.edu.pl
-NOERROR	dhcp0127.kt.agh.edu.pl
-NOERROR	www-1afe-1polsl-1pl-1atoz.wbg2.bg.agh.edu.pl
-NOERROR	weip-d4-24.weip.agh.edu.pl
-NOERROR	test233.kt.agh.edu.pl
-NOERROR	vigil.kis.agh.edu.pl
-NOERROR	www.ccs.agh.edu.pl
-NOERROR	patryk.ia.agh.edu.pl
-NOERROR	mops174.uci.agh.edu.pl
-NOERROR	tomekd.metal.agh.edu.pl
-NOERROR	daq.elektro.agh.edu.pl
-NOERROR	telejko.metal.agh.edu.pl
-NOERROR	www.fgp13.agh.edu.pl
-NOERROR	dhcp040.kt.agh.edu.pl
-NOERROR	kw2.kwestura.agh.edu.pl
-NOERROR	pc115.ia.agh.edu.pl
-NOERROR	mdp02b.elektro.agh.edu.pl
-NOERROR	pixi.kt.agh.edu.pl
-NOERROR	mops128.uci.agh.edu.pl
-NOERROR	koi4.fis.agh.edu.pl
-NOERROR	ck.uci.agh.edu.pl
-NOERROR	dhcp147.kt.agh.edu.pl
-NOERROR	mazur.gorn.agh.edu.pl
-NOERROR	beata.mn.agh.edu.pl
-NOERROR	iris.wibro.agh.edu.pl
-NOERROR	jesion.geod.agh.edu.pl
-NOERROR	nat-adm5.agh.edu.pl
-NOERROR	kap-26.imir.agh.edu.pl
-NOERROR	dhcp222.kt.agh.edu.pl
-NOERROR	posejdon.zarz.agh.edu.pl
-NOERROR	tad.wibro.agh.edu.pl
-NOERROR	kotwica2.imir.agh.edu.pl
-NOERROR	www-1sciencedirect-1com-1000032q000c4.wbg2.bg.agh.edu.pl
-NOERROR	chfie.agh.edu.pl
-NOERROR	grzeslo.gorn.agh.edu.pl
-NOERROR	b2-kor0-5.imir.agh.edu.pl
-NOERROR	skotnicz.keiaspe.agh.edu.pl
-NOERROR	styx.wibro.agh.edu.pl
-NOERROR	wfitj210e.ftj.agh.edu.pl
-NOERROR	stud243.fis.agh.edu.pl
-NOERROR	karol.metal.agh.edu.pl
-NOERROR	www.mentor.zarz.agh.edu.pl
-NOERROR	mops075.uci.agh.edu.pl
-NOERROR	kap-39.imir.agh.edu.pl
-NOERROR	wfitj88e.ftj.agh.edu.pl
-NOERROR	pc146.kme.agh.edu.pl
-NOERROR	dosin.metal.agh.edu.pl
-NOERROR	3forum.ptm.agh.edu.pl
-NOERROR	fd.pti.agh.edu.pl
-NOERROR	aq4.ia.agh.edu.pl
-NOERROR	neptun.zee.agh.edu.pl
-NOERROR	kgg15.gorn.agh.edu.pl
-NOERROR	wydawnictwo2.wydagh.agh.edu.pl
-NOERROR	ca0-017.ceramika.agh.edu.pl
-NOERROR	stud101.fis.agh.edu.pl
-NOERROR	olam.wpie.agh.edu.pl
-NOERROR	dhcp171.kt.agh.edu.pl
-NOERROR	fortigate-out1.uci.agh.edu.pl
-NOERROR	dhcp150.kt.agh.edu.pl
-NOERROR	visu.elektro.agh.edu.pl
-NOERROR	www.giswis.agh.edu.pl
-NOERROR	nat.ds5.agh.edu.pl
-NOERROR	karkula-ps.zarz.agh.edu.pl
-NOERROR	glogowska.geol.agh.edu.pl
-NOERROR	krokus177.imir.agh.edu.pl
-NOERROR	tm112.imir.agh.edu.pl
-NOERROR	pc153.kme.agh.edu.pl
-NOERROR	walker.ia.agh.edu.pl
-NOERROR	akot.zee.agh.edu.pl
-NOERROR	host110-53.fis.agh.edu.pl
-NOERROR	zmb30.ceramika.agh.edu.pl
-NOERROR	www.akademik.agh.edu.pl
-NOERROR	wocy.gorn.agh.edu.pl
-NOERROR	doktoranckie.agh.edu.pl
-NXDOMAIN	b2-101.imir.agh.edu.pl
-NOERROR	mops154.uci.agh.edu.pl
-NOERROR	zmb16.ceramika.agh.edu.pl
-NOERROR	k-210-15.imir.agh.edu.pl
-NOERROR	pckantor.kt.agh.edu.pl
-NXDOMAIN	c3swpg.ia.agh.edu.pl
-NOERROR	mdp03c.elektro.agh.edu.pl
-NOERROR	www.kb.ceramika.agh.edu.pl
-NOERROR	kaina.metal.agh.edu.pl
-NOERROR	www.juwenalia.agh.edu.pl
-NOERROR	wnssp208.ins.agh.edu.pl
-NOERROR	wo17.odlew.agh.edu.pl
-NOERROR	aga.geod.agh.edu.pl
-NOERROR	zeus.imir.agh.edu.pl
-NOERROR	www.welcome.agh.edu.pl
-NXDOMAIN	www.misio.fis.agh.edu.pl
-NOERROR	dc1-mta-out-a.infra.ki.agh.edu.pl
-NOERROR	host110-225.fis.agh.edu.pl
-NOERROR	arkana.elektro.agh.edu.pl
-NOERROR	wibro-112.imir.agh.edu.pl
-NOERROR	www.bon.agh.edu.pl
-NOERROR	cmmc19.wms.agh.edu.pl
-NOERROR	ktipm48.ktipm.agh.edu.pl
-NOERROR	lds-4.keiaspe.agh.edu.pl
-NOERROR	www.student.agh.edu.pl
-NOERROR	kmg-prac1.imir.agh.edu.pl
-NOERROR	hyper.ia.agh.edu.pl
-NOERROR	proffs.imir.agh.edu.pl
-NOERROR	samstu4.imir.agh.edu.pl
-NOERROR	www.modfem.agh.edu.pl
-NOERROR	adam.metal.agh.edu.pl
-NOERROR	lbsh5.ia.agh.edu.pl
-NOERROR	zts32.ia.agh.edu.pl
-NOERROR	ds14.unifi.dsnet.agh.edu.pl
-NOERROR	biolab.ia.agh.edu.pl
-NOERROR	pundit.kt.agh.edu.pl
-NOERROR	krokus189.imir.agh.edu.pl
-NOERROR	lr13.ia.agh.edu.pl
-NOERROR	kamerabudowa.b1.agh.edu.pl
-NOERROR	zm246.zmet.agh.edu.pl
-NOERROR	ds18.agh.edu.pl
-NOERROR	portier.test.dsnet.agh.edu.pl
-NOERROR	xbl1.ics.agh.edu.pl
-NOERROR	l00.gorn.agh.edu.pl
-NOERROR	backuptest.kt.agh.edu.pl
-NOERROR	wfitj133e.ftj.agh.edu.pl
-NOERROR	www.kotlownia.agh.edu.pl
-NOERROR	wfitj200e.ftj.agh.edu.pl
-NOERROR	lbmbic.agh.edu.pl
-NOERROR	b2-kor0-2.imir.agh.edu.pl
-NOERROR	proj02.gorn.agh.edu.pl
-NOERROR	xs5.cel.agh.edu.pl
-NOERROR	grant.metal.agh.edu.pl
-NOERROR	wo40.odlew.agh.edu.pl
-NOERROR	www.dmms.zarz.agh.edu.pl
-NOERROR	host110-165.fis.agh.edu.pl
-NOERROR	test137.kt.agh.edu.pl
-NOERROR	syllabus.agh.edu.pl
-NOERROR	kca10.ceramika.agh.edu.pl
-NOERROR	whankiew.imir.agh.edu.pl
-NOERROR	dhcp164.kt.agh.edu.pl
-NOERROR	www.knss.agh.edu.pl
-NOERROR	dziekanat.test.dsnet.agh.edu.pl
-NOERROR	ktipm34.ktipm.agh.edu.pl
-NOERROR	www.sysinf.agh.edu.pl
-NOERROR	ieeexplore-1ieee-1org-10000471y0098.wbg2.bg.agh.edu.pl
-NOERROR	nat-wggios13.agh.edu.pl
-NOERROR	mes0.mn.agh.edu.pl
-NOERROR	stalow5.metal.agh.edu.pl
-NXDOMAIN	soso.iaeste.agh.edu.pl
-NOERROR	test152.kt.agh.edu.pl
-NOERROR	studium6.sjo.agh.edu.pl
-NOERROR	dsp.agh.edu.pl
-NOERROR	jerzy.ia.agh.edu.pl
-NOERROR	host110-187.fis.agh.edu.pl
-NOERROR	stud236.fis.agh.edu.pl
-NOERROR	mes2.imir.agh.edu.pl
-NOERROR	onlinelibrary-1wiley-1com-1r3ntz4pp0153.wbg2.bg.agh.edu.pl
-NOERROR	ubpo3.agh.edu.pl
-NOERROR	host110-73.fis.agh.edu.pl
-NOERROR	p319.ket.agh.edu.pl
-NXDOMAIN	rekrutacja.ukr.agh.edu.pl
-NOERROR	wpedziek4.wpie.agh.edu.pl
-NOERROR	kap-61.imir.agh.edu.pl
-NOERROR	wo29.odlew.agh.edu.pl
-NOERROR	rescue.kt.agh.edu.pl
-NOERROR	www.esa.agh.edu.pl
-NXDOMAIN	xs2.cel.agh.edu.pl
-NOERROR	ilon3.ia.agh.edu.pl
-NOERROR	ds1.unifi.dsnet.agh.edu.pl
-NOERROR	www.tp.agh.edu.pl
-NOERROR	kameraz2-3.adm.agh.edu.pl
-NOERROR	neo4j.fis.agh.edu.pl
-NOERROR	kap-143.imir.agh.edu.pl
-NOERROR	nat.d17-c2-prx-1.infra.iisg.agh.edu.pl
-NOERROR	d17-c1-lab.infra.iisg.agh.edu.pl
-NOERROR	linksyswap54g-ap.zarz.agh.edu.pl
-NOERROR	stud205.fis.agh.edu.pl
-NOERROR	aziewiec.metal.agh.edu.pl
-NOERROR	squid.ktipm.agh.edu.pl
-NOERROR	mysql.agh.edu.pl
-NOERROR	administrator.zee.agh.edu.pl
-NOERROR	test214.kt.agh.edu.pl
-NOERROR	ns1.kt.agh.edu.pl
-NOERROR	kca18.ceramika.agh.edu.pl
-NOERROR	biblio2.ceramika.agh.edu.pl
-NOERROR	termik.keiaspe.agh.edu.pl
-NOERROR	piesek.metal.agh.edu.pl
-NOERROR	morfeusz.zarz.agh.edu.pl
-NOERROR	www.cmms.agh.edu.pl
-NOERROR	pcc219.ia.agh.edu.pl
-NOERROR	dhcp0126.kt.agh.edu.pl
-NOERROR	kcs23.ceramika.agh.edu.pl
-NOERROR	vmw17.ftj.agh.edu.pl
-NOERROR	samsungm2825p413-dr.zarz.agh.edu.pl
-NOERROR	labog01.wpie.agh.edu.pl
-NOERROR	b3-6.mn.agh.edu.pl
-NOERROR	ns1.geod.agh.edu.pl
-NOERROR	dhcp157.kt.agh.edu.pl
-NOERROR	raft.metal.agh.edu.pl
-NOERROR	megi.agh.edu.pl
-NOERROR	krokus182.imir.agh.edu.pl
-NOERROR	test174.kt.agh.edu.pl
-NOERROR	opila-pc.zarz.agh.edu.pl
-NOERROR	www.tais.agh.edu.pl
-NOERROR	kap-21.imir.agh.edu.pl
-NOERROR	wnaft-sw-srv-01.wnaft.agh.edu.pl
-NOERROR	www-1sciencedirect-1com-10000321800b5.wbg2.bg.agh.edu.pl
-NOERROR	kanlab8.keiaspe.agh.edu.pl
-NOERROR	www.ctt.agh.edu.pl
-NOERROR	proj15.gorn.agh.edu.pl
-NOERROR	zwmik.imir.agh.edu.pl
-NXDOMAIN	midpoint.uci.agh.edu.pl
-NOERROR	kap-122.imir.agh.edu.pl
-NOERROR	wpie9.wpie.agh.edu.pl
-NOERROR	chudzik.wpie.agh.edu.pl
-NOERROR	mambo.ia.agh.edu.pl
-NOERROR	wodnik.zee.agh.edu.pl
-NOERROR	spatyk.imir.agh.edu.pl
-NOERROR	kwestura.agh.edu.pl
-NOERROR	aq64.ia.agh.edu.pl
-NOERROR	host110-74.fis.agh.edu.pl
-NOERROR	andrzej.metal.agh.edu.pl
-NOERROR	host110-169.fis.agh.edu.pl
-NOERROR	babajaga.wibro.agh.edu.pl
-NOERROR	p3zpe.zfcs.agh.edu.pl
-NOERROR	www.fpga.agh.edu.pl
-NOERROR	skalna-pc.zarz.agh.edu.pl
-NOERROR	test144.kt.agh.edu.pl
-NOERROR	vm4.uci.agh.edu.pl
-NOERROR	wmsg14.gorn.agh.edu.pl
-NOERROR	host110-196.fis.agh.edu.pl
-NOERROR	weip.agh.edu.pl
-NOERROR	urban.gorn.agh.edu.pl
-NOERROR	sek.gorn.agh.edu.pl
-NOERROR	wnssp10.ins.agh.edu.pl
-NOERROR	zmac.metal.agh.edu.pl
-NOERROR	ca0-031.ceramika.agh.edu.pl
-NOERROR	krokus174.imir.agh.edu.pl
-NOERROR	ca0-043.ceramika.agh.edu.pl
-NOERROR	sylabus-test.phd.agh.edu.pl
-NOERROR	test167.kt.agh.edu.pl
-NOERROR	mops076.uci.agh.edu.pl
-NOERROR	dsv.agh.edu.pl
-NOERROR	a3-04.gorn.agh.edu.pl
-NOERROR	mat185.mat.agh.edu.pl
-NOERROR	mosfet.zmet.agh.edu.pl
-NOERROR	cb6-213.ceramika.agh.edu.pl
-NOERROR	dt5.adm.agh.edu.pl
-NOERROR	pc138.kme.agh.edu.pl
-NOERROR	stud145.fis.agh.edu.pl
-NOERROR	k-320-6.imir.agh.edu.pl
-NOERROR	dt8.adm.agh.edu.pl
-NOERROR	www.era-inzyniera.agh.edu.pl
-NOERROR	dlasrodowiska.agh.edu.pl
-NOERROR	pc142.ket.agh.edu.pl
-NOERROR	www.informatyka.podyplomowe.agh.edu.pl
-NOERROR	new.kt.agh.edu.pl
-NOERROR	www.justbridge.agh.edu.pl
-NXDOMAIN	fm1.uci.agh.edu.pl
-NOERROR	krokus2-1.imir.agh.edu.pl
-NOERROR	stmet04.metal.agh.edu.pl
-NOERROR	janstrz.zee.agh.edu.pl
-NOERROR	plan.agh.edu.pl
-NOERROR	venus.elektro.agh.edu.pl
-NOERROR	wnaft-sw-r-01.wnaft.agh.edu.pl
-NOERROR	www.kng.agh.edu.pl
-NOERROR	host110-47.fis.agh.edu.pl
-NOERROR	cb6-141.ceramika.agh.edu.pl
-NOERROR	www.moodle.agh.edu.pl
-NOERROR	krk.wpie.agh.edu.pl
-NOERROR	slack0.marvin.cri.agh.edu.pl
-NOERROR	adamczyk.wibro.agh.edu.pl
-NOERROR	kaczka.zee.agh.edu.pl
-NOERROR	dhcp092.kt.agh.edu.pl
-NOERROR	plan2.uci.agh.edu.pl
-NOERROR	basia.wpie.agh.edu.pl
-NOERROR	weip-d4-50.weip.agh.edu.pl
-NOERROR	astawowy-pc.zarz.agh.edu.pl
-NOERROR	ds20.agh.edu.pl
-NOERROR	dziadhp.mn.agh.edu.pl
-NOERROR	dephos.geod.agh.edu.pl
-NOERROR	www.do.agh.edu.pl
-NOERROR	gdlaptop.weip.agh.edu.pl
-NOERROR	p36.geod.agh.edu.pl
-NOERROR	ca0-067.ceramika.agh.edu.pl
-NOERROR	dhcp046.kt.agh.edu.pl
-NOERROR	dhcp0125.kt.agh.edu.pl
-NOERROR	www.iet.agh.edu.pl
-NOERROR	cb6-192.ceramika.agh.edu.pl
-NOERROR	p107.mn.agh.edu.pl
-NOERROR	dhcp055.kt.agh.edu.pl
-NOERROR	wo49.odlew.agh.edu.pl
-NXDOMAIN	cyber.podyplomowe.agh.edu.pl
-NOERROR	www.mkg.agh.edu.pl
-NOERROR	host110-46.fis.agh.edu.pl
-NOERROR	aggr1.detres.kt.agh.edu.pl
-NOERROR	kcs41.ceramika.agh.edu.pl
-NOERROR	pc65.bg.agh.edu.pl
-NOERROR	journals-1aps-1org-1atoz.wbg2.bg.agh.edu.pl
-NOERROR	nat-adm11.agh.edu.pl
-NOERROR	ania.metal.agh.edu.pl
-NOERROR	machina.wibro.agh.edu.pl
-NOERROR	kct14.ceramika.agh.edu.pl
-NOERROR	mops116.uci.agh.edu.pl
-NOERROR	www.kppimmn.agh.edu.pl
-NOERROR	cb6-140.ceramika.agh.edu.pl
-NOERROR	lbsh1.ia.agh.edu.pl
-NOERROR	smol-agh.elektro.agh.edu.pl
-NOERROR	stud112.fis.agh.edu.pl
-NOERROR	sikor.kt.agh.edu.pl
-NOERROR	ca0-021.ceramika.agh.edu.pl
-NOERROR	tobiko.ics.agh.edu.pl
-NOERROR	kap-121.imir.agh.edu.pl
-NOERROR	ricoh.kt.agh.edu.pl
-NOERROR	wpie8.wpie.agh.edu.pl
-NOERROR	b3-komp13.zet.agh.edu.pl
-NOERROR	kse3.ceramika.agh.edu.pl
-NOERROR	kaski-pc.mn.agh.edu.pl
-NOERROR	mops002.uci.agh.edu.pl
-NOERROR	ktipm51.ktipm.agh.edu.pl
-NOERROR	vq.kt.agh.edu.pl
-NOERROR	iris.ki.agh.edu.pl
-NOERROR	wpie29.wpie.agh.edu.pl
-NOERROR	kap-30.imir.agh.edu.pl
-NOERROR	kap-115.imir.agh.edu.pl
-NOERROR	mops110.uci.agh.edu.pl
-NOERROR	www.kee.agh.edu.pl
-NOERROR	yukon.uci.agh.edu.pl
-NOERROR	p120-b1.keiaspe.agh.edu.pl
-NOERROR	ics.agh.edu.pl
-NOERROR	www.produkt.zarz.agh.edu.pl
-NOERROR	submarine.kt.agh.edu.pl
-NOERROR	www.kig.wnaft.agh.edu.pl
-NOERROR	wpie3.wpie.agh.edu.pl
-NOERROR	tera.acmin.agh.edu.pl
-NOERROR	cb6-238.ceramika.agh.edu.pl
-NOERROR	wnss16r.ins.agh.edu.pl
-NOERROR	cytrus.bg.agh.edu.pl
-NOERROR	test251.kt.agh.edu.pl
-NOERROR	mdp10a.elektro.agh.edu.pl
-NOERROR	gawel.geol.agh.edu.pl
-NOERROR	weip-d4-54.weip.agh.edu.pl
-NOERROR	vector.kwestura.agh.edu.pl
-NOERROR	zm216.zmet.agh.edu.pl
-NOERROR	wordpress.uci.agh.edu.pl
-NOERROR	gitlab.kt.agh.edu.pl
-NOERROR	cmat27.mat.agh.edu.pl
-NOERROR	wfitj55e.ftj.agh.edu.pl
-NOERROR	sam.ceramika.agh.edu.pl
-NOERROR	wo33.odlew.agh.edu.pl
-NOERROR	helios.dsnet.agh.edu.pl
-NOERROR	pc96.zfcs.agh.edu.pl
-NOERROR	ldap.uci.agh.edu.pl
-NOERROR	www.ck.agh.edu.pl
-NOERROR	bogdan.agh.edu.pl
-NOERROR	kawiory7.wpie.agh.edu.pl
-NOERROR	test158.kt.agh.edu.pl
-NOERROR	zeus.ics.agh.edu.pl
-NOERROR	maja.mn.agh.edu.pl
-NXDOMAIN	p1.b1.agh.edu.pl
-NOERROR	kowalik-pc.zarz.agh.edu.pl
-NOERROR	turnia11.metal.agh.edu.pl
-NOERROR	cmat46.mat.agh.edu.pl
-NOERROR	wfitj213e.ftj.agh.edu.pl
-NOERROR	kap-134.imir.agh.edu.pl
-NOERROR	boruta.imir.agh.edu.pl
-NOERROR	ken1.zee.agh.edu.pl
-NOERROR	upsp2.odlew.agh.edu.pl
-NOERROR	d17-herman.infra.iisg.agh.edu.pl
-NOERROR	lhotse.ia.agh.edu.pl
-NOERROR	pacyna.metal.agh.edu.pl
-NOERROR	www.ztcios.agh.edu.pl
-NXDOMAIN	keiaspertr.keiaspe.agh.edu.pl
-NOERROR	b3-7.mn.agh.edu.pl
-NOERROR	bogusz.geol.agh.edu.pl
-NOERROR	chemfiz2.mn.agh.edu.pl
-NOERROR	www.samorzad.ceramika.agh.edu.pl
-NOERROR	xorp-109.ftj.agh.edu.pl
-NOERROR	www.dea.agh.edu.pl
-NOERROR	trabant.keiaspe.agh.edu.pl
-NOERROR	kb1.ceramika.agh.edu.pl
-NOERROR	sentry.dsnet.agh.edu.pl
-NOERROR	limba3.metal.agh.edu.pl
-NOERROR	kawon.mn.agh.edu.pl
-NOERROR	sylabus.agh.edu.pl
-NOERROR	wimir-239.imir.agh.edu.pl
-NOERROR	radio17.agh.edu.pl
-NOERROR	dou5.adm.agh.edu.pl
-NOERROR	rekrut-9.gorn.agh.edu.pl
-NOERROR	ipguru.metal.agh.edu.pl
-NOERROR	kap-103.imir.agh.edu.pl
-NOERROR	eit.kt.agh.edu.pl
-NOERROR	drusie.wibro.agh.edu.pl
-NOERROR	host110-37.fis.agh.edu.pl
-NOERROR	stwolny.imir.agh.edu.pl
-NOERROR	pc168.kme.agh.edu.pl
-NOERROR	kandydat.wnaft.agh.edu.pl
-NOERROR	testowyplan2.agh.edu.pl
-NOERROR	kcs16.ceramika.agh.edu.pl
-NOERROR	stud114.fis.agh.edu.pl
-NOERROR	korzeniowski.gorn.agh.edu.pl
-NOERROR	www.euee.agh.edu.pl
-NOERROR	guru.metal.agh.edu.pl
-NOERROR	pracfiz2.ftj.agh.edu.pl
-NOERROR	pss.agh.edu.pl
-NOERROR	www.tlm.zarz.agh.edu.pl
-NOERROR	cybersecurity.agh.edu.pl
-NOERROR	vpn230.kt.agh.edu.pl
-NOERROR	slide.kt.agh.edu.pl
-NOERROR	u2-1.adm.agh.edu.pl
-NOERROR	dhcp091.kt.agh.edu.pl
-NOERROR	zts37.ia.agh.edu.pl
-NOERROR	mops105.uci.agh.edu.pl
-NOERROR	krokus143.imir.agh.edu.pl
-NOERROR	cmat7.mat.agh.edu.pl
-NOERROR	ovirt-console.fis.agh.edu.pl
-NOERROR	intomdb.kt.agh.edu.pl
-NOERROR	lab001.elektro.agh.edu.pl
-NOERROR	kwien.metal.agh.edu.pl
-NOERROR	notatki.cel.agh.edu.pl
-NOERROR	link-1springer-1com-1atoz.wbg2.bg.agh.edu.pl
-NOERROR	a3-12.gorn.agh.edu.pl
-NOERROR	www.er.agh.edu.pl
-NOERROR	eis.agh.edu.pl
-NOERROR	vpn242.kt.agh.edu.pl
-NOERROR	test166.kt.agh.edu.pl
-NOERROR	kb6.ceramika.agh.edu.pl
-NOERROR	ppnb2.kt.agh.edu.pl
-NOERROR	mail.agh.edu.pl
-NOERROR	stach-pc.zarz.agh.edu.pl
-NOERROR	kcs27.ceramika.agh.edu.pl
-NOERROR	www.iworid2017.fis.agh.edu.pl
-NOERROR	pc29.zfcs.agh.edu.pl
-NOERROR	www.scalamas.agh.edu.pl
-NOERROR	dhcp-pc202.elektro.agh.edu.pl
-NOERROR	cichon-pc.zarz.agh.edu.pl
-NOERROR	krokus137.imir.agh.edu.pl
-NOERROR	2-p118a-b1.keiaspe.agh.edu.pl
-NOERROR	vmw14.ftj.agh.edu.pl
-NOERROR	tad2.wibro.agh.edu.pl
-NOERROR	szef.metal.agh.edu.pl
-NOERROR	wavelet.elektro.agh.edu.pl
-NOERROR	rejestr4.adm.agh.edu.pl
-NOERROR	mops173.uci.agh.edu.pl
-NOERROR	wmsg19.gorn.agh.edu.pl
-NOERROR	wnssp24.ins.agh.edu.pl
-NOERROR	erportal-www.map.infra.ki.agh.edu.pl
-NOERROR	www.kkmp2014.agh.edu.pl
-NOERROR	live.uci.agh.edu.pl
-NOERROR	www.eportfolio.agh.edu.pl
-NOERROR	upsp4.odlew.agh.edu.pl
-NOERROR	e-pracownik.ki.agh.edu.pl
-NOERROR	mcss2013.kt.agh.edu.pl
-NOERROR	www.tvaula.zarz.agh.edu.pl
-NOERROR	pc122.zfcs.agh.edu.pl
-NOERROR	agnes.mn.agh.edu.pl
-NOERROR	lic-srv-6.wnaft.agh.edu.pl
-NOERROR	test.vm7.uci.agh.edu.pl
-NOERROR	www.dofp.agh.edu.pl
-NOERROR	vmw13.ftj.agh.edu.pl
-NOERROR	www.creative.agh.edu.pl
-NOERROR	co.ia.agh.edu.pl
-NOERROR	host110-210.fis.agh.edu.pl
-NOERROR	a3-08.gorn.agh.edu.pl
-NOERROR	cb6-171.ceramika.agh.edu.pl
-NOERROR	szafir.geol.agh.edu.pl
-NOERROR	waszkielewicz-pc.zarz.agh.edu.pl
-NOERROR	lab223.mn.agh.edu.pl
-NOERROR	wfitj80e.ftj.agh.edu.pl
-NOERROR	b3-komp7.zet.agh.edu.pl
-NOERROR	vpn246.kt.agh.edu.pl
-NOERROR	saturn.geod.agh.edu.pl
-NOERROR	prx-1.d17.iisg.agh.edu.pl
-NOERROR	www.kompetencje.agh.edu.pl
-NOERROR	dt12.adm.agh.edu.pl
-NOERROR	lab204.imir.agh.edu.pl
-NXDOMAIN	doktorant.iet.agh.edu.pl
-NOERROR	bieda-pc.zarz.agh.edu.pl
-NOERROR	ca0-032.ceramika.agh.edu.pl
-NOERROR	intomer.kt.agh.edu.pl
-NOERROR	kawiory29.wpie.agh.edu.pl
-NOERROR	www.ct2tte.agh.edu.pl
-NOERROR	reksio.ftj.agh.edu.pl
-NOERROR	libra.geod.agh.edu.pl
-NOERROR	test189.kt.agh.edu.pl
-NOERROR	apc.ftj.agh.edu.pl
-NOERROR	www.profuturo.agh.edu.pl
-NOERROR	sucheta.gorn.agh.edu.pl
-NOERROR	ca0-002.ceramika.agh.edu.pl
-NOERROR	b2-kor1-3.imir.agh.edu.pl
-NOERROR	pentium3.mn.agh.edu.pl
-NOERROR	zm204.zmet.agh.edu.pl
-NOERROR	www-1biomat-1krakow-1pl-1000032160fce.wbg2.bg.agh.edu.pl
-NOERROR	admeip.weip.agh.edu.pl
-NOERROR	power3.5.fis.agh.edu.pl
-NOERROR	host110-214.fis.agh.edu.pl
-NOERROR	niezgoda-nb.ins.agh.edu.pl
-NOERROR	pc1.gorn.agh.edu.pl
-NOERROR	krokus131.imir.agh.edu.pl
-NOERROR	swd.bg.agh.edu.pl
-NOERROR	ca0-019.ceramika.agh.edu.pl
-NOERROR	www.jee.agh.edu.pl
-NOERROR	wentyl.gorn.agh.edu.pl
-NOERROR	www.esn.agh.edu.pl
-NOERROR	vega.kt.agh.edu.pl
-NOERROR	100lat.fis.agh.edu.pl
-NOERROR	mops044.uci.agh.edu.pl
-NOERROR	wo106.odlew.agh.edu.pl
-NOERROR	www.cjee.agh.edu.pl
-NOERROR	host110-138.fis.agh.edu.pl
-NOERROR	cam-214.imir.agh.edu.pl
-NOERROR	www.polviet.agh.edu.pl
-NOERROR	wnaft-0001-e2.wnaft.agh.edu.pl
-NOERROR	kct16.ceramika.agh.edu.pl
-NOERROR	kap-133.imir.agh.edu.pl
-NOERROR	vpn233.kt.agh.edu.pl
-NOERROR	stud240.fis.agh.edu.pl
-NOERROR	agh-er-www.map.infra.ki.agh.edu.pl
-NOERROR	polscyniepelnosprawni.agh.edu.pl
-NOERROR	pbanasik.geod.agh.edu.pl
-NOERROR	pc89.zfcs.agh.edu.pl
-NOERROR	wfitj232e.ftj.agh.edu.pl
-NOERROR	lsr06.ia.agh.edu.pl
-NOERROR	sanocki.geol.agh.edu.pl
-NOERROR	gryglik.gorn.agh.edu.pl
-NOERROR	www.wggios.agh.edu.pl
-NOERROR	quest.ktipm.agh.edu.pl
-NOERROR	blabel.agh.edu.pl
-NOERROR	wmn.dznet.agh.edu.pl
-NOERROR	lab110-nat.ia.agh.edu.pl
-NXDOMAIN	p2g.b1.agh.edu.pl
-NOERROR	nat-weaiib5.agh.edu.pl
-NOERROR	kap-147.imir.agh.edu.pl
-NOERROR	cb6-132.ceramika.agh.edu.pl
-NOERROR	studium10.sjo.agh.edu.pl
-NOERROR	kwig.wnaft.agh.edu.pl
-NOERROR	piotr.mn.agh.edu.pl
-NOERROR	iwkwkis.zarz.agh.edu.pl
-NOERROR	gamma.keiaspe.agh.edu.pl
-NOERROR	host110-195.fis.agh.edu.pl
-NOERROR	kcs5.ceramika.agh.edu.pl
-NOERROR	wo60.odlew.agh.edu.pl
-NOERROR	patyczak.wibro.agh.edu.pl
-NOERROR	otwartanauka.cel.agh.edu.pl
-NOERROR	orlik.gorn.agh.edu.pl
-NOERROR	olimp197.imir.agh.edu.pl
-NOERROR	asic.ftj.agh.edu.pl
-NOERROR	aethra.kt.agh.edu.pl
-NOERROR	evmgm.agh.edu.pl
-NOERROR	alpha.zarz.agh.edu.pl
-NOERROR	as.wgig.agh.edu.pl
-NOERROR	dt6.adm.agh.edu.pl
-NOERROR	stud213.fis.agh.edu.pl
-NOERROR	www.ecart.agh.edu.pl
-NOERROR	benus.geod.agh.edu.pl
-NOERROR	labstud02.wpie.agh.edu.pl
-NOERROR	kcs3.ceramika.agh.edu.pl
-NOERROR	dhcp053.kt.agh.edu.pl
-NOERROR	kis.agh.edu.pl
-NOERROR	pc245.geol.agh.edu.pl
-NOERROR	jurasz-pc.zarz.agh.edu.pl
-NOERROR	rekrut-8.gorn.agh.edu.pl
-NOERROR	cmat37.mat.agh.edu.pl
-NOERROR	servis3.mn.agh.edu.pl
-NOERROR	host110-40.fis.agh.edu.pl
-NOERROR	dziek1.ceramika.agh.edu.pl
-NOERROR	dudraf2.imir.agh.edu.pl
-NOERROR	kundelek.metal.agh.edu.pl
-NOERROR	medic.kt.agh.edu.pl
-NOERROR	www.kgos.agh.edu.pl
-NOERROR	mosix.kt.agh.edu.pl
-NOERROR	proj01.gorn.agh.edu.pl
-NOERROR	dhcp-pc203.elektro.agh.edu.pl
-NOERROR	www.nsgeo.agh.edu.pl
-NOERROR	visioner.uci.agh.edu.pl
-NOERROR	wfitj136e.ftj.agh.edu.pl
-NOERROR	kezp.gorn.agh.edu.pl
-NOERROR	agata.mn.agh.edu.pl
-NOERROR	cumulus.geod.agh.edu.pl
-NOERROR	czepiec.geol.agh.edu.pl
-NOERROR	wfitj237e.ftj.agh.edu.pl
-NOERROR	host110-157.fis.agh.edu.pl
-NOERROR	stalow1.metal.agh.edu.pl
-NOERROR	posejdon.kt.agh.edu.pl
-NOERROR	www.kp.agh.edu.pl
-NOERROR	neptune.elektro.agh.edu.pl
-NOERROR	hiszpan.kt.agh.edu.pl
-NOERROR	pcc201.ia.agh.edu.pl
-NOERROR	termia.keiaspe.agh.edu.pl
-NOERROR	mat146.mat.agh.edu.pl
-NOERROR	eds-1a-1ebscohost-1com-1atoz.wbg2.bg.agh.edu.pl
-NXDOMAIN	cluster06.fis.agh.edu.pl
-NOERROR	www.lbs.agh.edu.pl
-NOERROR	mat177.mat.agh.edu.pl
-NOERROR	nat-weaiib8.agh.edu.pl
-NOERROR	ieeexplore.ieee.org.ieee-xplore.wbg2.bg.agh.edu.pl
-NOERROR	max32x.mn.agh.edu.pl
-NOERROR	okic5200np217-dr.zarz.agh.edu.pl
-NOERROR	pawnik-pc.zarz.agh.edu.pl
-NOERROR	nat4.kt.agh.edu.pl
-NOERROR	prgzsp.fis.agh.edu.pl
-NOERROR	ca0-048.ceramika.agh.edu.pl
-NOERROR	schab.imir.agh.edu.pl
-NOERROR	www.uci.agh.edu.pl
-NOERROR	fg-lan.agh.edu.pl
-NOERROR	pcc204.ia.agh.edu.pl
-NOERROR	kinasz.gorn.agh.edu.pl
-NOERROR	cmat60.mat.agh.edu.pl
-NOERROR	mdick.kt.agh.edu.pl
-NOERROR	typo3dev4.uci.agh.edu.pl
-NOERROR	kap-36.imir.agh.edu.pl
-NOERROR	www.bean.agh.edu.pl
-NOERROR	krokus2-6.imir.agh.edu.pl
-NOERROR	wo121.odlew.agh.edu.pl
-NOERROR	los.geol.agh.edu.pl
-NOERROR	samba.uci.agh.edu.pl
-NOERROR	ca0-045.ceramika.agh.edu.pl
-NOERROR	wo42.odlew.agh.edu.pl
-NOERROR	nat-wggios10.agh.edu.pl
-NOERROR	twoje-dev.uci.agh.edu.pl
-NOERROR	test182.kt.agh.edu.pl
-NOERROR	dhcp186.kt.agh.edu.pl
-NOERROR	journals.bg.agh.edu.pl
-NOERROR	ola.geod.agh.edu.pl
-NOERROR	idec.gorn.agh.edu.pl
-NOERROR	wfitj191e.ftj.agh.edu.pl
-NOERROR	node12.kt.agh.edu.pl
-NOERROR	lochan1.gorn.agh.edu.pl
-NOERROR	wnssp6.ins.agh.edu.pl
-NOERROR	link-1springer-1com-1nyztljd20073.wbg2.bg.agh.edu.pl
-NOERROR	kw3.kwestura.agh.edu.pl
-NOERROR	http.galaxy.agh.edu.pl
-NOERROR	wgig.dznet.agh.edu.pl
-NOERROR	ftp.agh.edu.pl
-NOERROR	p316.ket.agh.edu.pl
-NOERROR	pc134.kme.agh.edu.pl
-NOERROR	pc6.wibro.agh.edu.pl
-NOERROR	tango.metal.agh.edu.pl
-NOERROR	welcome.agh.edu.pl
-NOERROR	kmpig.geol.agh.edu.pl
-NOERROR	oleksy.imir.agh.edu.pl
-NOERROR	migacz.ia.agh.edu.pl
-NOERROR	imir.agh.edu.pl
-NOERROR	ca0-061.ceramika.agh.edu.pl
-NOERROR	mat166.mat.agh.edu.pl
-NOERROR	lumifun.ftj.agh.edu.pl
-NOERROR	www.kckizw.ceramika.agh.edu.pl
-NOERROR	ca0-077.ceramika.agh.edu.pl
-NOERROR	doblak.wpie.agh.edu.pl
-NOERROR	www.iisg.agh.edu.pl
-NOERROR	dsnet.agh.edu.pl
-NOERROR	wnssp9.ins.agh.edu.pl
-NOERROR	www.kotg.agh.edu.pl
-NXDOMAIN	riviadesktop.ics.agh.edu.pl
-NOERROR	lab07.gorn.agh.edu.pl
-NOERROR	www.dimat2004.agh.edu.pl
-NOERROR	www-1ingentaconnect-1com-1atoz.wbg2.bg.agh.edu.pl
-NOERROR	ca0-051.ceramika.agh.edu.pl
-NOERROR	dt0.adm.agh.edu.pl
-NOERROR	enos.agh.edu.pl
-NOERROR	www.ofss.agh.edu.pl
-NOERROR	ds18.unifi.dsnet.agh.edu.pl
-NOERROR	sendzimir.metal.agh.edu.pl
-NOERROR	mat172.mat.agh.edu.pl
-NOERROR	a3-02.gorn.agh.edu.pl
-NOERROR	cb6-180.ceramika.agh.edu.pl
-NOERROR	test199.kt.agh.edu.pl
-NOERROR	kawon2.mn.agh.edu.pl
-NOERROR	labes1.ket.agh.edu.pl
-NOERROR	mops043.uci.agh.edu.pl
-NOERROR	k-320-15.imir.agh.edu.pl
-NOERROR	lmsdemo.wibro.agh.edu.pl
-NOERROR	tadwoj.zee.agh.edu.pl
-NOERROR	host109-94.fis.agh.edu.pl
-NOERROR	ka110.ia.agh.edu.pl
-NOERROR	wo98.odlew.agh.edu.pl
-NOERROR	lm10.ia.agh.edu.pl
-NOERROR	wdsku.lab.ki.agh.edu.pl
-NOERROR	kct30.ceramika.agh.edu.pl
-NOERROR	iza.geod.agh.edu.pl
-NOERROR	antek.metal.agh.edu.pl
-NOERROR	lidia.ia.agh.edu.pl
-NOERROR	taler.imir.agh.edu.pl
-NOERROR	ca0-046.ceramika.agh.edu.pl
-NOERROR	idub.agh.edu.pl
-NOERROR	www.acri2014.agh.edu.pl
-NOERROR	bogus.mn.agh.edu.pl
-NOERROR	www.eh.agh.edu.pl
-NOERROR	atlantis.geod.agh.edu.pl
-NOERROR	www.gfe.agh.edu.pl
-NOERROR	wo70.odlew.agh.edu.pl
-NOERROR	prx-1.ki.agh.edu.pl
-NOERROR	jwojcie.imir.agh.edu.pl
-NOERROR	mops012.uci.agh.edu.pl
-NOERROR	dhcp223.kt.agh.edu.pl
-NOERROR	otto.ket.agh.edu.pl
-NOERROR	mops018.uci.agh.edu.pl
-NOERROR	cb6-195.ceramika.agh.edu.pl
-NOERROR	nat-weaiib18.agh.edu.pl
-NOERROR	mops169.uci.agh.edu.pl
-NOERROR	www-1sciencedirect-1com-18w7w47mp0517.wbg2.bg.agh.edu.pl
-NOERROR	pc20.geol.agh.edu.pl
-NOERROR	isi.agh.edu.pl
-NOERROR	pcc207.ia.agh.edu.pl
-NOERROR	dhcp042.kt.agh.edu.pl
-NOERROR	proj08.gorn.agh.edu.pl
-NOERROR	aq60.ia.agh.edu.pl
-NOERROR	proj05.gorn.agh.edu.pl
-NOERROR	mat247.mat.agh.edu.pl
-NOERROR	biblioteka-3.mn.agh.edu.pl
-NOERROR	krzyzano.metal.agh.edu.pl
-NOERROR	syllabusnowy2.uci.agh.edu.pl
-NOERROR	sklepik.agh.edu.pl
-NOERROR	kap-62.imir.agh.edu.pl
-NOERROR	b3-12.mn.agh.edu.pl
-NOERROR	cloud.cop.agh.edu.pl
-NOERROR	wo28.odlew.agh.edu.pl
-NOERROR	stawiarz.gorn.agh.edu.pl
-NOERROR	zkc8.ceramika.agh.edu.pl
-NOERROR	furgal.zee.agh.edu.pl
-NOERROR	mes2.mn.agh.edu.pl
-NOERROR	aq25.ia.agh.edu.pl
-NOERROR	kawiory19.wpie.agh.edu.pl
-NOERROR	weklicz.gorn.agh.edu.pl
-NOERROR	wo144.odlew.agh.edu.pl
-NOERROR	www.iday.agh.edu.pl
-NOERROR	alsite1.geol.agh.edu.pl
-NOERROR	www.metalforming.agh.edu.pl
-NOERROR	student1.ceramika.agh.edu.pl
-NOERROR	beam.elektro.agh.edu.pl
-NOERROR	konserwa.cri.agh.edu.pl
-NOERROR	zm241.zmet.agh.edu.pl
-NOERROR	ns.bg.agh.edu.pl
-NOERROR	www.dt.agh.edu.pl
-NOERROR	platan.geod.agh.edu.pl
-NOERROR	cb6-214.ceramika.agh.edu.pl
-NOERROR	sso.pti.agh.edu.pl
-NOERROR	poczta.icsr.agh.edu.pl
-NOERROR	kgg9.gorn.agh.edu.pl
-NOERROR	ogw.kt.agh.edu.pl
-NOERROR	dhcp-pc207.elektro.agh.edu.pl
-NOERROR	www-1degruyter-1com-1000032to090a.wbg2.bg.agh.edu.pl
-NOERROR	powder2.metal.agh.edu.pl
-NOERROR	adamiec.geol.agh.edu.pl
-NOERROR	nat.ds7.agh.edu.pl
-NOERROR	zmb33.ceramika.agh.edu.pl
-NOERROR	www.forti-units.agh.edu.pl
-NOERROR	nowy.weip.agh.edu.pl
-NOERROR	nalepkab.imir.agh.edu.pl
-NOERROR	akrawczyk.geol.agh.edu.pl
-NOERROR	elekt.eaiib.agh.edu.pl
-NOERROR	lsr07.ia.agh.edu.pl
-NOERROR	mn.kt.agh.edu.pl
-NOERROR	kawiory22.wpie.agh.edu.pl
-NXDOMAIN	ns1.iisg.agh.edu.pl
-NOERROR	grodowska.gorn.agh.edu.pl
-NOERROR	ztcios.metal.agh.edu.pl
-NOERROR	asystent4.wpie.agh.edu.pl
-NOERROR	zgg7.geod.agh.edu.pl
-NOERROR	jive.ia.agh.edu.pl
-NOERROR	megastorage.geod.agh.edu.pl
-NOERROR	workvpn.cri.agh.edu.pl
-NOERROR	biblio.ceramika.agh.edu.pl
-NOERROR	opal.geod.agh.edu.pl
-NOERROR	www.ifip2007.agh.edu.pl
-NOERROR	wo85.odlew.agh.edu.pl
-NOERROR	wfitj14e.ftj.agh.edu.pl
-NOERROR	irena.kt.agh.edu.pl
-NOERROR	zmb25.ceramika.agh.edu.pl
-NOERROR	herezy.gorn.agh.edu.pl
-NOERROR	l12.gorn.agh.edu.pl
-NOERROR	kawecki.mn.agh.edu.pl
-NOERROR	tem.mn.agh.edu.pl
-NOERROR	eostrow.imir.agh.edu.pl
-NOERROR	wpie1.wpie.agh.edu.pl
-NOERROR	czyt1.bg.agh.edu.pl
-NOERROR	www.decybel.agh.edu.pl
-NOERROR	www.fis.agh.edu.pl
-NOERROR	sun.imir.agh.edu.pl
-NOERROR	www.wimir.agh.edu.pl
-NOERROR	kap-106.imir.agh.edu.pl
-NOERROR	danol.wpie.agh.edu.pl
-NOERROR	lwm3.imir.agh.edu.pl
-NXDOMAIN	sopd.uci.agh.edu.pl
-NOERROR	gps3.geod.agh.edu.pl
-NOERROR	mops189.uci.agh.edu.pl
-NOERROR	mat216.mat.agh.edu.pl
-NOERROR	cyklon.ia.agh.edu.pl
-NOERROR	limba16.metal.agh.edu.pl
-NOERROR	ds14.agh.edu.pl
-NOERROR	www.dofs.agh.edu.pl
-NOERROR	dhcp037.kt.agh.edu.pl
-NOERROR	unix386.ktipm.agh.edu.pl
-NOERROR	goscinski.geol.agh.edu.pl
-NOERROR	majewski.geol.agh.edu.pl
-NOERROR	kew.agh.edu.pl
-NOERROR	zaphod.kis.agh.edu.pl
-NOERROR	host110-116.fis.agh.edu.pl
-NOERROR	wfitj239e.ftj.agh.edu.pl
-NOERROR	lagan.geol.agh.edu.pl
-NOERROR	labkan7.ket.agh.edu.pl
-NOERROR	l14.gorn.agh.edu.pl
-NOERROR	www-1cmms-1agh-1edu-1pl-1atoz.wbg2.bg.agh.edu.pl
-NOERROR	cb6-226.ceramika.agh.edu.pl
-NOERROR	viking.metal.agh.edu.pl
-NOERROR	kaja.imir.agh.edu.pl
-NOERROR	kawiory30.wpie.agh.edu.pl
-NOERROR	zalucki.gorn.agh.edu.pl
-NOERROR	dziekanat4-pc.wnaft.agh.edu.pl
-NOERROR	kap-123.imir.agh.edu.pl
-NOERROR	wfitj48a.ftj.agh.edu.pl
-NOERROR	pasimi2.imir.agh.edu.pl
-NOERROR	mops182.uci.agh.edu.pl
-NOERROR	klepta.imir.agh.edu.pl
-NOERROR	p-116-1.keiaspe.agh.edu.pl
-NOERROR	test215.kt.agh.edu.pl
-NOERROR	d17-c2-fslab-vpn.infra.iisg.agh.edu.pl
-NOERROR	stud172.fis.agh.edu.pl
-NOERROR	catalyst2.ftj.agh.edu.pl
-NOERROR	rotunda.wibro.agh.edu.pl
-NOERROR	ps.b1.agh.edu.pl
-NOERROR	s214.gorn.agh.edu.pl
-NOERROR	iudicium6.geod.agh.edu.pl
-NOERROR	etze.agh.edu.pl
-NOERROR	r01.gorn.agh.edu.pl
-NOERROR	saturn.kt.agh.edu.pl
-NOERROR	vpn234.kt.agh.edu.pl
-NOERROR	www.gig.agh.edu.pl
-NOERROR	host109-92.fis.agh.edu.pl
-NOERROR	db2.cel.agh.edu.pl
-NOERROR	stud224.fis.agh.edu.pl
-NOERROR	troll.wibro.agh.edu.pl
-NOERROR	tomgoral.imir.agh.edu.pl
-NOERROR	www.zpk.agh.edu.pl
-NOERROR	kseiuos.imir.agh.edu.pl
-NOERROR	matlab4.uci.agh.edu.pl
-NOERROR	traple-pc.wnaft.agh.edu.pl
-NOERROR	summer-courses.agh.edu.pl
-NOERROR	p119-b1.keiaspe.agh.edu.pl
-NOERROR	www.knmj.zarz.agh.edu.pl
-NOERROR	wpie17.wpie.agh.edu.pl
-NOERROR	www.praca.ck.agh.edu.pl
-NOERROR	stass5.gorn.agh.edu.pl
-NOERROR	dt.kt.agh.edu.pl
-NOERROR	wnss-3c4400.ins.agh.edu.pl
-NOERROR	wnss103.ins.agh.edu.pl
-NOERROR	motorola.ia.agh.edu.pl
-NOERROR	rkrzyzek.geod.agh.edu.pl
-NOERROR	eds-1a-1ebscohost-1com-1s4pnp9fh00bd.wbg2.bg.agh.edu.pl
-NOERROR	wibro-119.imir.agh.edu.pl
-NOERROR	mdp08b.elektro.agh.edu.pl
-NOERROR	krokus179.imir.agh.edu.pl
-NOERROR	seed.agh.edu.pl
-NOERROR	wpie32.wpie.agh.edu.pl
-NOERROR	postaw.geol.agh.edu.pl
-NOERROR	acf.metal.agh.edu.pl
-NOERROR	stud225.fis.agh.edu.pl
-NOERROR	link-1springer-1com-1000032u30418.wbg2.bg.agh.edu.pl
-NOERROR	abakan.geod.agh.edu.pl
-NOERROR	budek.geol.agh.edu.pl
-NOERROR	weip-d4-23.weip.agh.edu.pl
-NOERROR	surfer.geod.agh.edu.pl
-NOERROR	goska.wpie.agh.edu.pl
-NOERROR	mat205.mat.agh.edu.pl
-NOERROR	dhcp36.zee.agh.edu.pl
-NOERROR	krokus145.imir.agh.edu.pl
-NOERROR	iet.agh.edu.pl
-NOERROR	dhcp203.kt.agh.edu.pl
-NOERROR	pcmiue2.imir.agh.edu.pl
-NOERROR	cb6-241.ceramika.agh.edu.pl
-NOERROR	k-322-11.imir.agh.edu.pl
-NOERROR	legal.wibro.agh.edu.pl
-NOERROR	bbb.zarz.agh.edu.pl
-NOERROR	andrzejs.kt.agh.edu.pl
-NOERROR	teneta.b1.agh.edu.pl
-NOERROR	pc6.ins.agh.edu.pl
-NOERROR	ktipm36.ktipm.agh.edu.pl
-NOERROR	mops166.uci.agh.edu.pl
-NOERROR	wfitj209e.ftj.agh.edu.pl
-NOERROR	nat-v1.agh.edu.pl
-NOERROR	straz6.adm.agh.edu.pl
-NOERROR	newton2.ftj.agh.edu.pl
-NOERROR	s301.geod.agh.edu.pl
-NOERROR	jamat.geol.agh.edu.pl
-NOERROR	oragh.agh.edu.pl
-NOERROR	storm.metal.agh.edu.pl
-NOERROR	host110-158.fis.agh.edu.pl
-NOERROR	max.gorn.agh.edu.pl
-NOERROR	l08.gorn.agh.edu.pl
-NOERROR	ds6.unifi.dsnet.agh.edu.pl
-NOERROR	cb6-201.ceramika.agh.edu.pl
-NOERROR	stud155.fis.agh.edu.pl
-NOERROR	zawisza-pc.wnaft.agh.edu.pl
-NOERROR	beata.metal.agh.edu.pl
-NOERROR	mops089.uci.agh.edu.pl
-NOERROR	gpr.geod.agh.edu.pl
-NOERROR	pc144.kme.agh.edu.pl
-NXDOMAIN	blogi.agh.edu.pl
-NOERROR	dhcp193.kt.agh.edu.pl
-NOERROR	kcs32.ceramika.agh.edu.pl
-NOERROR	nat-vl56.agh.edu.pl
-NOERROR	wfitj94e.ftj.agh.edu.pl
-NOERROR	kgps.gorn.agh.edu.pl
-NOERROR	wfitj49a.ftj.agh.edu.pl
-NOERROR	marylka.geod.agh.edu.pl
-NOERROR	urss3.urss.agh.edu.pl
-NOERROR	krokus2-3.imir.agh.edu.pl
-NOERROR	matlab2.uci.agh.edu.pl
-NOERROR	minitower.elektro.agh.edu.pl
-NOERROR	host110-82.fis.agh.edu.pl
-NOERROR	stass10.gorn.agh.edu.pl
-NOERROR	autocad.fundacja.agh.edu.pl
-NOERROR	wfitj31e.ftj.agh.edu.pl
-NOERROR	wfitj229e.ftj.agh.edu.pl
-NOERROR	csci.iisg.agh.edu.pl
-NOERROR	mops031.uci.agh.edu.pl
-NOERROR	ola.gorn.agh.edu.pl
-NOERROR	ciesla.metal.agh.edu.pl
-NOERROR	bbiel.gorn.agh.edu.pl
-NOERROR	www.em2014.agh.edu.pl
-NOERROR	drukarka.elektro.agh.edu.pl
-NOERROR	zm214.zmet.agh.edu.pl
-NOERROR	virt.kt.agh.edu.pl
-NOERROR	ceo.eportfolio.agh.edu.pl
-NOERROR	kw5.kwestura.agh.edu.pl
-NOERROR	zgg6.geod.agh.edu.pl
-NOERROR	wo51.odlew.agh.edu.pl
-NOERROR	turnia15.metal.agh.edu.pl
-NOERROR	zts47.ia.agh.edu.pl
-NOERROR	swagh.geol.agh.edu.pl
-NOERROR	stud209.fis.agh.edu.pl
-NOERROR	edi.gorn.agh.edu.pl
-NOERROR	res.imir.agh.edu.pl
-NOERROR	wimir-253.imir.agh.edu.pl
-NOERROR	ns1.ki.agh.edu.pl
-NOERROR	cyborg.ia.agh.edu.pl
-NOERROR	sor.doktoranci.agh.edu.pl
-NOERROR	nat-vl61.agh.edu.pl
-NOERROR	www.cp.agh.edu.pl
-NOERROR	lab01.gorn.agh.edu.pl
-NOERROR	aku-bio-rp.wibro.agh.edu.pl
-NOERROR	kap-146.imir.agh.edu.pl
-NOERROR	legal2.wibro.agh.edu.pl
-NOERROR	hp4600.zet.agh.edu.pl
-NOERROR	olimp13.imir.agh.edu.pl
-NOERROR	pc2.ins.agh.edu.pl
-NOERROR	guru-mob.metal.agh.edu.pl
-NOERROR	erydan.fis.agh.edu.pl
-NOERROR	zts56.ia.agh.edu.pl
-NOERROR	autodiscover.agh.edu.pl
-NOERROR	www.swietadzieciom.agh.edu.pl
-NOERROR	dhcp086.kt.agh.edu.pl
-NOERROR	halas.agh.edu.pl
-NOERROR	fatkitten.fis.agh.edu.pl
-NOERROR	kosmo.zarz.agh.edu.pl
-NOERROR	obrzut-pc.zarz.agh.edu.pl
-NOERROR	stud216.fis.agh.edu.pl
-NOERROR	kier.mn.agh.edu.pl
-NOERROR	kozarkiewicz-pc.zarz.agh.edu.pl
-NOERROR	stud245.fis.agh.edu.pl
-NOERROR	cheo.elektro.agh.edu.pl
-NOERROR	scanning.mn.agh.edu.pl
-NOERROR	zgg52.geod.agh.edu.pl
-NOERROR	cieplin.gorn.agh.edu.pl
-NOERROR	feniks.zarz.agh.edu.pl
-NOERROR	mops037.uci.agh.edu.pl
-NOERROR	wfitj78e.ftj.agh.edu.pl
-NOERROR	docs.icsr.agh.edu.pl
-NOERROR	zmb4.ceramika.agh.edu.pl
-NOERROR	www.hs.zarz.agh.edu.pl
-NOERROR	wpie13.wpie.agh.edu.pl
-NXDOMAIN	gwh.uci.agh.edu.pl
-NOERROR	sfero.odlew.agh.edu.pl
-NOERROR	ca0-024.ceramika.agh.edu.pl
-NOERROR	wfitj224e.ftj.agh.edu.pl
-NOERROR	cynk.mn.agh.edu.pl
-NOERROR	zmb22.ceramika.agh.edu.pl
-NOERROR	gip316a.geod.agh.edu.pl
-NOERROR	www.cd.agh.edu.pl
-NOERROR	proj.dc1-prx-a.infra.ki.agh.edu.pl
-NOERROR	cb6-240.ceramika.agh.edu.pl
-NOERROR	power1.uci.agh.edu.pl
-NOERROR	rez192122.imir.agh.edu.pl
-NOERROR	nat-adm8.agh.edu.pl
-NOERROR	mat189.mat.agh.edu.pl
-NOERROR	hacknarok.eestec.agh.edu.pl
-NOERROR	serwis.ce.agh.edu.pl
-NOERROR	czapkiewicz-pc.zarz.agh.edu.pl
-NOERROR	kgg3.gorn.agh.edu.pl
-NOERROR	tsunami.kaniup.agh.edu.pl
-NOERROR	p-309-1.mn.agh.edu.pl
-NOERROR	fsia3.adm.agh.edu.pl
-NOERROR	ozs.bg.agh.edu.pl
-NXDOMAIN	dhcp154.kt.agh.edu.pl
-NOERROR	mat179.mat.agh.edu.pl
-NOERROR	vpn231.kt.agh.edu.pl
-NOERROR	smok.imir.agh.edu.pl
-NOERROR	pcrzasa.kt.agh.edu.pl
-NOERROR	wo103.odlew.agh.edu.pl
-NOERROR	host110-150.fis.agh.edu.pl
-NOERROR	repo.age.agh.edu.pl
-NOERROR	brozyna-pc.zarz.agh.edu.pl
-NOERROR	pc173.kme.agh.edu.pl
-NOERROR	dhcp083.kt.agh.edu.pl
-NOERROR	giacomo.zee.agh.edu.pl
-NOERROR	sudermarcin-pc.zarz.agh.edu.pl
-NOERROR	puszczyk.bg.agh.edu.pl
-NOERROR	andromeda.elektro.agh.edu.pl
-NOERROR	tajchman.gorn.agh.edu.pl
-NOERROR	orion.fis.agh.edu.pl
-NOERROR	www.kse.agh.edu.pl
-NOERROR	www.ze.zarz.agh.edu.pl
-NOERROR	www.skng.agh.edu.pl
-NOERROR	host110-127.fis.agh.edu.pl
-NOERROR	moje.agh.edu.pl
-NOERROR	cmat41.mat.agh.edu.pl
-NOERROR	gandalf.zfcs.agh.edu.pl
-NOERROR	samorzad.ftj.agh.edu.pl
-NXDOMAIN	rekrut1.zarz.agh.edu.pl
-NOERROR	hobbit.wibro.agh.edu.pl
-NOERROR	weip-d4-21.weip.agh.edu.pl
-NOERROR	weip-d4-60.weip.agh.edu.pl
-NOERROR	galas.geol.agh.edu.pl
-NOERROR	ca0-042.ceramika.agh.edu.pl
-NOERROR	piotr.wibro.agh.edu.pl
-NOERROR	wo43.odlew.agh.edu.pl
-NOERROR	ca0-036.ceramika.agh.edu.pl
-NOERROR	mrowka.zmet.agh.edu.pl
-NOERROR	es.agh.edu.pl
-NOERROR	ktipm27.ktipm.agh.edu.pl
-NOERROR	milab4.wibro.agh.edu.pl
-NOERROR	www.ksaf.agh.edu.pl
-NOERROR	ncisc.agh.edu.pl
-NOERROR	lic-srv-2.wnaft.agh.edu.pl
-NOERROR	majka.metal.agh.edu.pl
-NOERROR	zm243.zmet.agh.edu.pl
-NOERROR	ricohp112.zarz.agh.edu.pl
-NOERROR	wpie6.wpie.agh.edu.pl
-NOERROR	simdb.odlew.agh.edu.pl
-NOERROR	sylwia.gorn.agh.edu.pl
-NOERROR	journals-1bg-1agh-1edu-1pl-100003218020d.wbg2.bg.agh.edu.pl
-NOERROR	cicha.geol.agh.edu.pl
-NOERROR	krokus187.imir.agh.edu.pl
-NOERROR	cb6-174.ceramika.agh.edu.pl
-NOERROR	pc143.ket.agh.edu.pl
-NOERROR	www.mtm.agh.edu.pl
-NOERROR	szafir.wibro.agh.edu.pl
-NOERROR	karbon.wpie.agh.edu.pl
-NOERROR	pc202.bg.agh.edu.pl
-NOERROR	dhcp151.kt.agh.edu.pl
-NOERROR	gemini-1.fis.agh.edu.pl
-NOERROR	frodo.wibro.agh.edu.pl
-NXDOMAIN	ceram.agh.edu.pl
-NOERROR	telesfor.ftj.agh.edu.pl
-NOERROR	stud164.fis.agh.edu.pl
-NOERROR	servis2.mn.agh.edu.pl
-NOERROR	krokus190.imir.agh.edu.pl
-NOERROR	mat251.mat.agh.edu.pl
-NOERROR	zm227.zmet.agh.edu.pl
-NOERROR	herzig.geol.agh.edu.pl
-NOERROR	lab.d17.iisg.agh.edu.pl
-NOERROR	habdank.ket.agh.edu.pl
-NOERROR	mail.bg.agh.edu.pl
-NOERROR	kca16.ceramika.agh.edu.pl
-NOERROR	bojdys.geol.agh.edu.pl
-NOERROR	test207.kt.agh.edu.pl
-NOERROR	wpie38.wpie.agh.edu.pl
-NOERROR	www.managerial.zarz.agh.edu.pl
-NOERROR	dhcp0113.kt.agh.edu.pl
-NOERROR	host110-180.fis.agh.edu.pl
-NOERROR	krokosz.geol.agh.edu.pl
-NOERROR	dt1-voip.adm.agh.edu.pl
-NOERROR	studium24.sjo.agh.edu.pl
-NOERROR	bromowicz.geol.agh.edu.pl
-NOERROR	black.mn.agh.edu.pl
-NOERROR	slonce3.ket.agh.edu.pl
-NOERROR	adm-ms.agh.edu.pl
-NOERROR	kpwpl.mn.agh.edu.pl
-NOERROR	www.oksgeo.agh.edu.pl
-NOERROR	zmb21.ceramika.agh.edu.pl
-NOERROR	wmsg15.gorn.agh.edu.pl
-NOERROR	biggulip.elektro.agh.edu.pl
-NOERROR	ksiazkie.elektro.agh.edu.pl
-NOERROR	autel.metal.agh.edu.pl
-NOERROR	wo55.odlew.agh.edu.pl
-NOERROR	kowalik.geod.agh.edu.pl
-NOERROR	netsrv.kt.agh.edu.pl
-NOERROR	wnss16u.ins.agh.edu.pl
-NOERROR	majer.zet.agh.edu.pl
-NOERROR	nb-jkd.kt.agh.edu.pl
-NOERROR	zts35.ia.agh.edu.pl
-NOERROR	ie5.ket.agh.edu.pl
-NOERROR	kap-131.imir.agh.edu.pl
-NOERROR	wimir-236.imir.agh.edu.pl
-NOERROR	host110-141.fis.agh.edu.pl
-NOERROR	zegar.zet.agh.edu.pl
-NOERROR	www.biuletyn.agh.edu.pl
-NOERROR	ptfit-1sgp-1geodezja-1org-1pl-1atoz.wbg2.bg.agh.edu.pl
-NOERROR	rexrtr.ia.agh.edu.pl
-NOERROR	hp4350parter.kt.agh.edu.pl
-NOERROR	moon.ia.agh.edu.pl
-NOERROR	szary.mn.agh.edu.pl
-NOERROR	kawiory33.wpie.agh.edu.pl
-NOERROR	herkules.fis.agh.edu.pl
-NOERROR	stud239.fis.agh.edu.pl
-NOERROR	wo35.odlew.agh.edu.pl
-NOERROR	cirrus.elektro.agh.edu.pl
-NOERROR	wfitj16e.ftj.agh.edu.pl
-NOERROR	rekrutacja.ins.agh.edu.pl
-NOERROR	snopko.gorn.agh.edu.pl
-NOERROR	lpa-ka.metal.agh.edu.pl
-NOERROR	webhd.agh.edu.pl
-NOERROR	nat-sjo3.agh.edu.pl
-NOERROR	dyplom.kt.agh.edu.pl
-NOERROR	host110-124.fis.agh.edu.pl
-NOERROR	cyklop.ia.agh.edu.pl
-NXDOMAIN	netten2.uci.agh.edu.pl
-NOERROR	wkr1.weip.agh.edu.pl
-NOERROR	wo50.odlew.agh.edu.pl
-NOERROR	kuleczka.imir.agh.edu.pl
-NOERROR	dhcp-pc186.elektro.agh.edu.pl
-NOERROR	wfitj102e.ftj.agh.edu.pl
-NOERROR	iepiwn0.ket.agh.edu.pl
-NOERROR	wfitj113e.ftj.agh.edu.pl
-NOERROR	walex.geol.agh.edu.pl
-NOERROR	kl.kt.agh.edu.pl
-NOERROR	ubpo.agh.edu.pl
-NOERROR	l17.gorn.agh.edu.pl
-NOERROR	kse15.ceramika.agh.edu.pl
-NOERROR	malgosia.wpie.agh.edu.pl
-NOERROR	cb6-168.ceramika.agh.edu.pl
-NOERROR	lj2100.cri.agh.edu.pl
-NOERROR	nat-wggios9.agh.edu.pl
-NOERROR	www.solarboat.agh.edu.pl
-NOERROR	d17-proxy.iisg.agh.edu.pl
-NOERROR	lontalk.ia.agh.edu.pl
-NOERROR	wfitj165e.ftj.agh.edu.pl
-NOERROR	www.wpw.agh.edu.pl
-NOERROR	wfitj143e.ftj.agh.edu.pl
-NXDOMAIN	dmz-ad.agh.edu.pl
-NOERROR	basiam.metal.agh.edu.pl
-NOERROR	tchrobak.geod.agh.edu.pl
-NOERROR	kamila.metal.agh.edu.pl
-NOERROR	polisy.dwz.agh.edu.pl
-NOERROR	kse16.ceramika.agh.edu.pl
-NOERROR	kazan.metal.agh.edu.pl
-NOERROR	mint.fis.agh.edu.pl
-NOERROR	monolit.metal.agh.edu.pl
-NOERROR	web.icsr.agh.edu.pl
-NOERROR	dtphost.mn.agh.edu.pl
-NOERROR	wnssczyt1.ins.agh.edu.pl
-NOERROR	wo120.odlew.agh.edu.pl
-NOERROR	mops022.uci.agh.edu.pl
-NOERROR	lx1.geol.agh.edu.pl
-NOERROR	labstud05.wpie.agh.edu.pl
-NOERROR	host109-95.fis.agh.edu.pl
-NOERROR	mops111.uci.agh.edu.pl
-NOERROR	jczaja.geod.agh.edu.pl
-NOERROR	lasocki.geol.agh.edu.pl
-NOERROR	www-1sciencedirect-1com-18w7w47jl1084.wbg2.bg.agh.edu.pl
-NOERROR	wmsg8.gorn.agh.edu.pl
-NOERROR	wfitj120e.ftj.agh.edu.pl
-NOERROR	wfitj36e.ftj.agh.edu.pl
-NOERROR	dhcp-pc205.elektro.agh.edu.pl
-NOERROR	blog.iaeste.agh.edu.pl
-NOERROR	zurek.geol.agh.edu.pl
-NOERROR	wfitj129e.ftj.agh.edu.pl
-NOERROR	admin1.fis.agh.edu.pl
-NOERROR	ktipm18.ktipm.agh.edu.pl
-NOERROR	pcc221.ia.agh.edu.pl
-NOERROR	poczta.regent.uci.agh.edu.pl
-NOERROR	p117-b1.keiaspe.agh.edu.pl
-NOERROR	stratus.geod.agh.edu.pl
-NOERROR	test247.kt.agh.edu.pl
-NOERROR	backup.kt.agh.edu.pl
-NOERROR	www.poczta.regent.uci.agh.edu.pl
-NOERROR	proj12.gorn.agh.edu.pl
-NOERROR	weip-d4-47.weip.agh.edu.pl
-NOERROR	www-1sciencedirect-1com-1000032i3035b.wbg2.bg.agh.edu.pl
-NOERROR	rentgen.geol.agh.edu.pl
-NOERROR	adrian.metal.agh.edu.pl
-NOERROR	energet1.metal.agh.edu.pl
-NOERROR	test176.kt.agh.edu.pl
-NOERROR	mops124.uci.agh.edu.pl
-NOERROR	lab13h2-b1.keiaspe.agh.edu.pl
-NOERROR	kfurman.imir.agh.edu.pl
-NOERROR	jkons2.metal.agh.edu.pl
-NOERROR	cnap.ki.agh.edu.pl
-NOERROR	nat-vl106.agh.edu.pl
-NOERROR	host109-99.fis.agh.edu.pl
-NOERROR	journals-1ametsoc-1org-1wos.wbg2.bg.agh.edu.pl
-NOERROR	ibl6.ics.agh.edu.pl
-NOERROR	pcc213.ia.agh.edu.pl
-NXDOMAIN	rex.eaiib.agh.edu.pl
-NOERROR	mobil2.geod.agh.edu.pl
-NOERROR	ka73.ia.agh.edu.pl
-NOERROR	kcs35.ceramika.agh.edu.pl
-NOERROR	sdts.ia.agh.edu.pl
-NOERROR	ceenes.cri.agh.edu.pl
-NOERROR	jmk.gorn.agh.edu.pl
-NOERROR	vpn228.kt.agh.edu.pl
-NOERROR	rejestracje.usos.agh.edu.pl
-NOERROR	bis.agh.edu.pl
-NOERROR	pliker.dsnet.agh.edu.pl
-NOERROR	wmsg18.gorn.agh.edu.pl
-NOERROR	ds8.agh.edu.pl
-NOERROR	szydlo-pc.zarz.agh.edu.pl
-NOERROR	cb6-190.ceramika.agh.edu.pl
-NOERROR	kap-113.imir.agh.edu.pl
-NOERROR	www.zkk.agh.edu.pl
-NOERROR	kingeli.wpie.agh.edu.pl
-NOERROR	ca0-072.ceramika.agh.edu.pl
-NOERROR	weip-d4-25.weip.agh.edu.pl
-NOERROR	new.keiaspe.agh.edu.pl
-NOERROR	mops165.uci.agh.edu.pl
-NOERROR	zmb11.ceramika.agh.edu.pl
-NOERROR	bosman.zet.agh.edu.pl
-NOERROR	k-322-9.imir.agh.edu.pl
-NOERROR	rogozik-pc.zarz.agh.edu.pl
-NOERROR	wfitj47e.ftj.agh.edu.pl
-NOERROR	wfitj146e.ftj.agh.edu.pl
-NOERROR	regulski.metal.agh.edu.pl
-NOERROR	cb6-154.ceramika.agh.edu.pl
-NXDOMAIN	lj2200.uci.agh.edu.pl
-NOERROR	mops069.uci.agh.edu.pl
-NOERROR	wmsg30.gorn.agh.edu.pl
-NOERROR	zm226.zmet.agh.edu.pl
-NOERROR	kppmmn1.mn.agh.edu.pl
-NOERROR	applelab.kis.agh.edu.pl
-NOERROR	kmg-155.imir.agh.edu.pl
-NOERROR	electra.elektro.agh.edu.pl
-NOERROR	przewoz.wibro.agh.edu.pl
-NOERROR	conaslaczy.agh.edu.pl
-NOERROR	arch.cr.agh.edu.pl
-NOERROR	emix.cri.agh.edu.pl
-NOERROR	aq14.ia.agh.edu.pl
-NOERROR	mops084.uci.agh.edu.pl
-NOERROR	dsdfe.agh.edu.pl
-NOERROR	doc2.mn.agh.edu.pl
-NOERROR	stass12.gorn.agh.edu.pl
-NOERROR	kap-09.imir.agh.edu.pl
-NOERROR	host110-90.fis.agh.edu.pl
-NOERROR	kruk.geod.agh.edu.pl
-NOERROR	tniedoba.gorn.agh.edu.pl
-NOERROR	kap-08.imir.agh.edu.pl
-NOERROR	mops006.uci.agh.edu.pl
-NOERROR	wmsg32.gorn.agh.edu.pl
-NOERROR	wfitj117e.ftj.agh.edu.pl
-NOERROR	cmat30.mat.agh.edu.pl
-NOERROR	ciember.metal.agh.edu.pl
-NOERROR	dou2.adm.agh.edu.pl
-NOERROR	jakub.mn.agh.edu.pl
-NOERROR	pc37.zfcs.agh.edu.pl
-NOERROR	mat202.mat.agh.edu.pl
-NOERROR	ggios.geol.agh.edu.pl
-NOERROR	elpe.zee.agh.edu.pl
-NOERROR	lab513-pc2.elektro.agh.edu.pl
-NOERROR	pc2.geol.agh.edu.pl
-NOERROR	nat-glk.ki.agh.edu.pl
-NOERROR	wo142.odlew.agh.edu.pl
-NOERROR	zo.kt.agh.edu.pl
-NOERROR	pw.agh.edu.pl
-NOERROR	www.neuromet.agh.edu.pl
-NOERROR	mops081.uci.agh.edu.pl
-NOERROR	www.zis.agh.edu.pl
-NOERROR	nat-vl194.agh.edu.pl
-NOERROR	hal.geod.agh.edu.pl
-NOERROR	proj10.gorn.agh.edu.pl
-NOERROR	p686zpe.zfcs.agh.edu.pl
-NOERROR	wfitj205e.ftj.agh.edu.pl
-NOERROR	feniks.fis.agh.edu.pl
-NOERROR	www.kpk.agh.edu.pl
-NOERROR	wmsg38.gorn.agh.edu.pl
-NOERROR	www.wgi2016.agh.edu.pl
-NOERROR	pracfiz3.ftj.agh.edu.pl
-NOERROR	vpn251.kt.agh.edu.pl
-NOERROR	dou11.adm.agh.edu.pl
-NOERROR	host110-212.fis.agh.edu.pl
-NOERROR	proj03.gorn.agh.edu.pl
-NOERROR	mops087.uci.agh.edu.pl
-NOERROR	kulinow2.imir.agh.edu.pl
-NOERROR	zfcscatalyst.zfcs.agh.edu.pl
-NOERROR	stud113.fis.agh.edu.pl
-NXDOMAIN	apb.ics.agh.edu.pl
-NOERROR	zgg57.geod.agh.edu.pl
-NOERROR	unitime.agh.edu.pl
-NOERROR	nat-weaiib15.agh.edu.pl
-NOERROR	pw.ket.agh.edu.pl
-NXDOMAIN	d17-c1-adm.infra.iisg.agh.edu.pl
-NOERROR	ultra1.geol.agh.edu.pl
-NOERROR	kernel.agh.edu.pl
-NOERROR	deja.gorn.agh.edu.pl
-NOERROR	pijar.mn.agh.edu.pl
-NOERROR	labkostek2.ket.agh.edu.pl
-NOERROR	mops063.uci.agh.edu.pl
-NOERROR	aq2.ia.agh.edu.pl
-NOERROR	kap-105.imir.agh.edu.pl
-NOERROR	test160.kt.agh.edu.pl
-NOERROR	mts.wibro.agh.edu.pl
-NOERROR	wfitj230e.ftj.agh.edu.pl
-NOERROR	pcmaderska.kt.agh.edu.pl
-NOERROR	sura.gorn.agh.edu.pl
-NOERROR	wfitj81e.ftj.agh.edu.pl
-NOERROR	wo143.odlew.agh.edu.pl
-NOERROR	jowisz.imir.agh.edu.pl
-NOERROR	b4.sdb.agh.edu.pl
-NOERROR	teleinformatyka.kt.agh.edu.pl
-NOERROR	www.dni-hoborskiego.agh.edu.pl
-NOERROR	pc70.bg.agh.edu.pl
-NOERROR	kolano1.imir.agh.edu.pl
-NOERROR	wnss16t.ins.agh.edu.pl
-NOERROR	ktipm14.ktipm.agh.edu.pl
-NOERROR	www.iwogl2016.agh.edu.pl
-NOERROR	cb6-163.ceramika.agh.edu.pl
-NOERROR	crimson.kt.agh.edu.pl
-NOERROR	wfitj175e.ftj.agh.edu.pl
-NOERROR	www.hindawi.com.atoz.wbg2.bg.agh.edu.pl
-NOERROR	demo5.ftj.agh.edu.pl
-NOERROR	pc176.kme.agh.edu.pl
-NOERROR	wimiip.dznet.agh.edu.pl
-NOERROR	www.icses2016.agh.edu.pl
-NOERROR	weip-d4-38.weip.agh.edu.pl
-NOERROR	zanzibar.geod.agh.edu.pl
-NOERROR	kap.agh.edu.pl
-NOERROR	poczta.geod.agh.edu.pl
-NOERROR	kca8.ceramika.agh.edu.pl
-NOERROR	pc116.zfcs.agh.edu.pl
-NOERROR	dhcp156.kt.agh.edu.pl
-NOERROR	lata.imir.agh.edu.pl
-NOERROR	mat190.mat.agh.edu.pl
-NOERROR	typo3dev3.uci.agh.edu.pl
-NOERROR	vpn225.kt.agh.edu.pl
-NOERROR	donelek.metal.agh.edu.pl
-NOERROR	vtls.bg.agh.edu.pl
-NOERROR	tlen.geod.agh.edu.pl
-NOERROR	pcminer.geol.agh.edu.pl
-NOERROR	jaskow.gorn.agh.edu.pl
-NOERROR	delta.keiaspe.agh.edu.pl
-NOERROR	dou7.adm.agh.edu.pl
-NOERROR	www.mine.agh.edu.pl
-NOERROR	catalyst.fis.agh.edu.pl
-NOERROR	www.zpr.zarz.agh.edu.pl
-NOERROR	meteo.ftj.agh.edu.pl
-NOERROR	chemia.odlew.agh.edu.pl
-NOERROR	wnssp11.ins.agh.edu.pl
-NOERROR	raczka.gorn.agh.edu.pl
-NOERROR	www.heat2014.agh.edu.pl
-NOERROR	bw.imir.agh.edu.pl
-NOERROR	mops177.uci.agh.edu.pl
-NOERROR	ds11.unifi.dsnet.agh.edu.pl
-NOERROR	link.springer.com.atoz.wbg2.bg.agh.edu.pl
-NOERROR	edyta.imir.agh.edu.pl
-NOERROR	www.bibt.agh.edu.pl
-NOERROR	lab.bg.agh.edu.pl
-NOERROR	k-322-3.imir.agh.edu.pl
-NOERROR	kostek308.ket.agh.edu.pl
-NOERROR	olimp31.imir.agh.edu.pl
-NOERROR	jkbmobile.mn.agh.edu.pl
-NOERROR	alumina1.mn.agh.edu.pl
-NOERROR	stud247.fis.agh.edu.pl
-NOERROR	ada.mn.agh.edu.pl
-NOERROR	zm200.zmet.agh.edu.pl
-NOERROR	zm205.zmet.agh.edu.pl
-NOERROR	mops155.uci.agh.edu.pl
-NOERROR	mat226.mat.agh.edu.pl
-NOERROR	ksp.elektro.agh.edu.pl
-NOERROR	jacek.gorn.agh.edu.pl
-NOERROR	wnss16b.ins.agh.edu.pl
-NOERROR	nat.ds2.agh.edu.pl
-NOERROR	pc163.kme.agh.edu.pl
-NOERROR	www.es.agh.edu.pl
-NOERROR	vm5.uci.agh.edu.pl
-NOERROR	kt.agh.edu.pl
-NOERROR	mops175.uci.agh.edu.pl
-NXDOMAIN	host110-11.fis.agh.edu.pl
-NOERROR	www.wdev.cel.agh.edu.pl
-NOERROR	www.isz.agh.edu.pl
-NOERROR	olimp190.imir.agh.edu.pl
-NOERROR	olimp39.imir.agh.edu.pl
-NOERROR	rekrut1.wnaft.agh.edu.pl
-NOERROR	kap-59.imir.agh.edu.pl
-NOERROR	stud238.fis.agh.edu.pl
-NOERROR	bsoa.ics.agh.edu.pl
-NOERROR	vpn2.zarz.agh.edu.pl
-NOERROR	pcaj.kt.agh.edu.pl
-NOERROR	cam-211.imir.agh.edu.pl
-NOERROR	wfitj208e.ftj.agh.edu.pl
-NOERROR	cb6-230.ceramika.agh.edu.pl
-NOERROR	wo66.odlew.agh.edu.pl
-NOERROR	ktipm20.ktipm.agh.edu.pl
-NOERROR	wmsg7.gorn.agh.edu.pl
-NOERROR	kca2.ceramika.agh.edu.pl
-NOERROR	jszybka.imir.agh.edu.pl
-NOERROR	www.sienkiewiczowka.agh.edu.pl
-NOERROR	test232.kt.agh.edu.pl
-NOERROR	test156.kt.agh.edu.pl
-NOERROR	cmat19.mat.agh.edu.pl
-NOERROR	matrix.zarz.agh.edu.pl
-NOERROR	auth.e-capacit8.cel.agh.edu.pl
-NOERROR	drk217.mn.agh.edu.pl
-NOERROR	crm.ctt.agh.edu.pl
-NOERROR	krokus180.imir.agh.edu.pl
-NOERROR	solinski2.gorn.agh.edu.pl
-NXDOMAIN	host110-12.fis.agh.edu.pl
-NOERROR	mops036.uci.agh.edu.pl
-NOERROR	biuroadm1.weip.agh.edu.pl
-NOERROR	heavy.metal.agh.edu.pl
-NOERROR	www.6ccgt.agh.edu.pl
-NOERROR	kmg-160.imir.agh.edu.pl
-NOERROR	ostrega.gorn.agh.edu.pl
-NOERROR	www.biomat.agh.edu.pl
-NOERROR	karp.gorn.agh.edu.pl
-NOERROR	www.zgloszenie-covid.agh.edu.pl
-NOERROR	host110-200.fis.agh.edu.pl
-NOERROR	cb6-157.ceramika.agh.edu.pl
-NOERROR	mat134.mat.agh.edu.pl
-NOERROR	gawel-pc.zarz.agh.edu.pl
-NOERROR	dhcp-pc200.elektro.agh.edu.pl
-NOERROR	p3nbzpe.zfcs.agh.edu.pl
-NOERROR	lgo.geod.agh.edu.pl
-NOERROR	klapyta.geol.agh.edu.pl
-NOERROR	marcak.geol.agh.edu.pl
-NOERROR	dhcp081.kt.agh.edu.pl
-NOERROR	wimir-004.imir.agh.edu.pl
-NOERROR	kb20.ceramika.agh.edu.pl
-NOERROR	nat.ds11.agh.edu.pl
-NOERROR	test.uci.agh.edu.pl
-NOERROR	lab-1.wibro.agh.edu.pl
-NOERROR	lab-13.mn.agh.edu.pl
-NOERROR	wolak-pc.zarz.agh.edu.pl
-NOERROR	abl3.ics.agh.edu.pl
-NOERROR	discover.bg.agh.edu.pl
-NOERROR	ridus.geod.agh.edu.pl
-NOERROR	dhcp209.kt.agh.edu.pl
-NOERROR	monitoring.test.dsnet.agh.edu.pl
-NOERROR	cmat12.mat.agh.edu.pl
-NOERROR	rout208.mn.agh.edu.pl
-NOERROR	www.zobaczycmatematyke.agh.edu.pl
-NXDOMAIN	akademik.demo.dsnet.agh.edu.pl
-NOERROR	mops113.uci.agh.edu.pl
-NOERROR	wfiis.dznet.agh.edu.pl
-NOERROR	wojtowicz-pc.zarz.agh.edu.pl
-NOERROR	unesco.agh.edu.pl
-NOERROR	icsr.agh.edu.pl
-NOERROR	test155.kt.agh.edu.pl
-NOERROR	biocyb.ia.agh.edu.pl
-NOERROR	www.kt.agh.edu.pl
-NXDOMAIN	cytryna-mgmt.uci.agh.edu.pl
-NOERROR	wo21.odlew.agh.edu.pl
-NOERROR	wfitj189e.ftj.agh.edu.pl
-NOERROR	zm242.zmet.agh.edu.pl
-NOERROR	faisrv.fis.agh.edu.pl
-NOERROR	mat228.mat.agh.edu.pl
-NOERROR	wo63.odlew.agh.edu.pl
-NOERROR	www.rury-wmn.agh.edu.pl
-NOERROR	www.oska2016.agh.edu.pl
-NOERROR	host110-88.fis.agh.edu.pl
-NOERROR	agh-rditt-www.map.infra.ki.agh.edu.pl
-NOERROR	stud167.fis.agh.edu.pl
-NOERROR	www.ce.agh.edu.pl
-NXDOMAIN	b2-ro-14.imir.agh.edu.pl
-NOERROR	kpb-056.imir.agh.edu.pl
-NOERROR	www.odlewnictwo.agh.edu.pl
-NOERROR	wfitj59e.ftj.agh.edu.pl
-NOERROR	wfitj52e.ftj.agh.edu.pl
-NOERROR	monika.elektro.agh.edu.pl
-NOERROR	kamerah24.b1.agh.edu.pl
-NXDOMAIN	p2s.b1.agh.edu.pl
-NOERROR	krawiec.imir.agh.edu.pl
-NOERROR	pegaz.fis.agh.edu.pl
-NOERROR	pustka-11.imir.agh.edu.pl
-NXDOMAIN	workvpn.uci.agh.edu.pl
-NOERROR	www.ia.agh.edu.pl
-NOERROR	wolkowska-pc.wnaft.agh.edu.pl
-NOERROR	p386zpe.zfcs.agh.edu.pl
-NOERROR	b3-komp12.zet.agh.edu.pl
-NOERROR	ktrtr.kt.agh.edu.pl
-NOERROR	ca0-030.ceramika.agh.edu.pl
-NOERROR	journals.uci.agh.edu.pl
-NOERROR	falcon.ket.agh.edu.pl
-NOERROR	pracfiz1.ftj.agh.edu.pl
-NOERROR	lr6.ia.agh.edu.pl
-NOERROR	cmat13.mat.agh.edu.pl
-NOERROR	rainbow.ftj.agh.edu.pl
-NOERROR	ns1.agh.edu.pl
-NOERROR	mondan.wpie.agh.edu.pl
-NOERROR	eaiib.agh.edu.pl
-NOERROR	dhcp148.kt.agh.edu.pl
-NOERROR	kawon3.mn.agh.edu.pl
-NOERROR	cam-220.imir.agh.edu.pl
-NOERROR	active3.elektro.agh.edu.pl
-NOERROR	rigaku.mn.agh.edu.pl
-NOERROR	blues.ia.agh.edu.pl
-NOERROR	wpie39.wpie.agh.edu.pl
-NOERROR	maciol-pc.zarz.agh.edu.pl
-NOERROR	supel.imir.agh.edu.pl
-NOERROR	ds9.unifi.dsnet.agh.edu.pl
-NOERROR	host110-85.fis.agh.edu.pl
-NOERROR	cb6-242.ceramika.agh.edu.pl
-NOERROR	aq20.ia.agh.edu.pl
-NOERROR	wfitj148e.ftj.agh.edu.pl
-NOERROR	lwm1.imir.agh.edu.pl
-NOERROR	l04.gorn.agh.edu.pl
-NOERROR	tofik.ket.agh.edu.pl
-NOERROR	www.ics.agh.edu.pl
-NOERROR	nat-adm7.agh.edu.pl
-NOERROR	bahranowski.geol.agh.edu.pl
-NOERROR	host110-146.fis.agh.edu.pl
-NOERROR	thebe.keiaspe.agh.edu.pl
-NOERROR	cb6-130.ceramika.agh.edu.pl
-NOERROR	akademik.test.dsnet.agh.edu.pl
-NOERROR	kca12.ceramika.agh.edu.pl
-NOERROR	www.dss.agh.edu.pl
-NOERROR	b3biuro2.wpie.agh.edu.pl
-NOERROR	zm203.zmet.agh.edu.pl
-NOERROR	www.klub.zarz.agh.edu.pl
-NOERROR	pokoj4.mn.agh.edu.pl
-NOERROR	studium16.sjo.agh.edu.pl
-NOERROR	www.elte2007.agh.edu.pl
-NOERROR	pldlab5.elektro.agh.edu.pl
-NOERROR	olimp.metal.agh.edu.pl
-NOERROR	lic-srv-1.wnaft.agh.edu.pl
-NOERROR	www.sibud.zarz.agh.edu.pl
-NOERROR	wfitj196e.ftj.agh.edu.pl
-NOERROR	zasoby1.open.agh.edu.pl
-NXDOMAIN	olimp49.imir.agh.edu.pl
-NOERROR	mdp05b.elektro.agh.edu.pl
-NOERROR	jaszczur.imir.agh.edu.pl
-NOERROR	ka.mailing.agh.edu.pl
-NOERROR	wnss16j.ins.agh.edu.pl
-NOERROR	www.cyfra.zarz.agh.edu.pl
-NOERROR	halat.gorn.agh.edu.pl
-NOERROR	wo148.odlew.agh.edu.pl
-NOERROR	wpie20.wpie.agh.edu.pl
-NOERROR	krokus169.imir.agh.edu.pl
-NOERROR	www.wgigpower35.agh.edu.pl
-NOERROR	ipsk.geod.agh.edu.pl
-NOERROR	tulip.ki.agh.edu.pl
-NOERROR	s102.geod.agh.edu.pl
-NOERROR	weip-d4-33.weip.agh.edu.pl
-NOERROR	cmat24.mat.agh.edu.pl
-NOERROR	olimp193.imir.agh.edu.pl
-NOERROR	mops024.uci.agh.edu.pl
-NOERROR	historiatest.uci.agh.edu.pl
-NOERROR	kap-64.imir.agh.edu.pl
-NOERROR	wfitj76e.ftj.agh.edu.pl
-NOERROR	dhcp196.kt.agh.edu.pl
-NOERROR	mjg.wibro.agh.edu.pl
-NOERROR	kca20.ceramika.agh.edu.pl
-NOERROR	cb6-246.ceramika.agh.edu.pl
-NOERROR	weip-d4-51.weip.agh.edu.pl
-NOERROR	dhcp-pc194.elektro.agh.edu.pl
-NOERROR	mops003.uci.agh.edu.pl
-NOERROR	zm247.zmet.agh.edu.pl
-NOERROR	alvis.kis.agh.edu.pl
-NOERROR	www.miag.agh.edu.pl
-NOERROR	pclason.kt.agh.edu.pl
-NOERROR	abeben.imir.agh.edu.pl
-NOERROR	viking.wibro.agh.edu.pl
-NOERROR	pc95.zfcs.agh.edu.pl
-NOERROR	mat130.mat.agh.edu.pl
-NXDOMAIN	ljp3015.uci.agh.edu.pl
-NOERROR	www.esm2018.agh.edu.pl
-NOERROR	hp2100.ftj.agh.edu.pl
-NOERROR	wpedziek6.wpie.agh.edu.pl
-NOERROR	krokus138.imir.agh.edu.pl
-NOERROR	kmiw.imir.agh.edu.pl
-NOERROR	dhcp051.kt.agh.edu.pl
-NOERROR	zg-nt.wnaft.agh.edu.pl
-NOERROR	stmet07.metal.agh.edu.pl
-NOERROR	cirrus.geod.agh.edu.pl
-NOERROR	charon.kis.agh.edu.pl
-NOERROR	energet2.metal.agh.edu.pl
-NOERROR	turnia3.metal.agh.edu.pl
-NOERROR	sdr.kt.agh.edu.pl
-NOERROR	kb4.ceramika.agh.edu.pl
-NOERROR	ec8.cel.agh.edu.pl
-NOERROR	pomost.fis.agh.edu.pl
-NOERROR	wimic.dznet.agh.edu.pl
-NOERROR	mops001.uci.agh.edu.pl
-NOERROR	vm.pti.agh.edu.pl
-NOERROR	mich106.metal.agh.edu.pl
-NOERROR	mops034.uci.agh.edu.pl
-NOERROR	geotermia.agh.edu.pl
-NOERROR	nautilus.ia.agh.edu.pl
-NOERROR	brukselka.elektro.agh.edu.pl
-NOERROR	dhcp207.kt.agh.edu.pl
-NOERROR	pc32.zfcs.agh.edu.pl
-NOERROR	kmcip.agh.edu.pl
-NOERROR	witek.wibro.agh.edu.pl
-NOERROR	nat-adm4.agh.edu.pl
-NOERROR	link.springer.com.springer.wbg2.bg.agh.edu.pl
-NOERROR	ca0-069.ceramika.agh.edu.pl
-NOERROR	zm201.zmet.agh.edu.pl
-NOERROR	host110-144.fis.agh.edu.pl
-NOERROR	dou9.adm.agh.edu.pl
-NOERROR	dhcp090.kt.agh.edu.pl
-NOERROR	tplink.metal.agh.edu.pl
-NOERROR	age.iisg.agh.edu.pl
-NOERROR	www.podroze.agh.edu.pl
-NOERROR	halny.ia.agh.edu.pl
-NOERROR	saruman.wibro.agh.edu.pl
-NOERROR	support.fslab.agh.edu.pl
-NOERROR	projekt.ipbk.agh.edu.pl
-NOERROR	pc144.ket.agh.edu.pl
-NOERROR	wo9.odlew.agh.edu.pl
-NOERROR	idm-apps-lb.ki.agh.edu.pl
-NOERROR	diament.agh.edu.pl
-NOERROR	volt.zet.agh.edu.pl
-NOERROR	boss.geod.agh.edu.pl
-NXDOMAIN	alvis.ia.agh.edu.pl
-NOERROR	ola.mn.agh.edu.pl
-NOERROR	5-p118b-b1.keiaspe.agh.edu.pl
-NOERROR	mops147.uci.agh.edu.pl
-NOERROR	cb6-196.ceramika.agh.edu.pl
-NOERROR	mat160.mat.agh.edu.pl
-NOERROR	rafi.kt.agh.edu.pl
-NOERROR	irys.kwestura.agh.edu.pl
-NOERROR	k-210-09.imir.agh.edu.pl
-NOERROR	ag.metal.agh.edu.pl
-NOERROR	mops104.uci.agh.edu.pl
-NOERROR	www.zsbpo.zarz.agh.edu.pl
-NOERROR	lbpr2.mn.agh.edu.pl
-NOERROR	pc56.zfcs.agh.edu.pl
-NOERROR	mes8.mn.agh.edu.pl
-NOERROR	www.zj.zarz.agh.edu.pl
-NOERROR	kmpm.agh.edu.pl
-NOERROR	dhcp0100.kt.agh.edu.pl
-NOERROR	cb6-203.ceramika.agh.edu.pl
-NOERROR	cmat38.mat.agh.edu.pl
-NOERROR	www-1pgi-1gov-1pl-1000032tb1031.wbg2.bg.agh.edu.pl
-NOERROR	labkan8.ket.agh.edu.pl
-NOERROR	mat139.mat.agh.edu.pl
-NOERROR	henryk.mn.agh.edu.pl
-NOERROR	mops052.uci.agh.edu.pl
-NOERROR	wfitj178e.ftj.agh.edu.pl
-NOERROR	test.usos.agh.edu.pl
-NOERROR	stmet10.metal.agh.edu.pl
-NOERROR	moodle.cel.agh.edu.pl
-NOERROR	www.sylabuskrk.agh.edu.pl
-NOERROR	ka77.ia.agh.edu.pl
-NOERROR	www.gaee.agh.edu.pl
-NOERROR	kct7.ceramika.agh.edu.pl
-NOERROR	agh-rditt.map.infra.ki.agh.edu.pl
-NOERROR	cb6-228.ceramika.agh.edu.pl
-NOERROR	www.syllabuskrk.agh.edu.pl
-NXDOMAIN	b2c2950.agh.edu.pl
-NOERROR	ca.elp.agh.edu.pl
-NOERROR	nimbus.geod.agh.edu.pl
-NOERROR	victor.gorn.agh.edu.pl
-NOERROR	netten.cri.agh.edu.pl
-NOERROR	wpie7.wpie.agh.edu.pl
-NOERROR	wdm1.kt.agh.edu.pl
-NOERROR	pc06.zfcs.agh.edu.pl
-NOERROR	wum.uci.agh.edu.pl
-NOERROR	wpie34.wpie.agh.edu.pl
-NOERROR	dyduch-pc.zarz.agh.edu.pl
-NOERROR	www.con.agh.edu.pl
-NOERROR	a3-11.gorn.agh.edu.pl
-NOERROR	dhcp0115.kt.agh.edu.pl
-NOERROR	krokus2-15.imir.agh.edu.pl
-NOERROR	nok.ia.agh.edu.pl
-NOERROR	babel.cel.agh.edu.pl
-NOERROR	wo145.odlew.agh.edu.pl
-NOERROR	molski.imir.agh.edu.pl
-NOERROR	www.wozpi.agh.edu.pl
-NOERROR	mat155.mat.agh.edu.pl
-NOERROR	krokus168.imir.agh.edu.pl
-NOERROR	asystent3.wpie.agh.edu.pl
-NOERROR	necronomiconlo.ia.agh.edu.pl
-NOERROR	cam-223.imir.agh.edu.pl
-NXDOMAIN	fisrtr.fis.agh.edu.pl
-NOERROR	www2.geod.agh.edu.pl
-NOERROR	b3-komp11.zet.agh.edu.pl
-NOERROR	ca0-027.ceramika.agh.edu.pl
-NOERROR	pc7.wibro.agh.edu.pl
-NOERROR	www.ibm.agh.edu.pl
-NOERROR	wpie14.wpie.agh.edu.pl
-NOERROR	endline.agh.edu.pl
-NOERROR	hprtr.imir.agh.edu.pl
-NOERROR	lux.uci.agh.edu.pl
-NOERROR	krput.uci.agh.edu.pl
-NOERROR	msdn.wnaft.agh.edu.pl
-NOERROR	banas.gorn.agh.edu.pl
-NOERROR	zts49.ia.agh.edu.pl
-NOERROR	stud149.fis.agh.edu.pl
-NOERROR	lab404i.ia.agh.edu.pl
-NOERROR	wms.dznet.agh.edu.pl
-NOERROR	szewczyk.geol.agh.edu.pl
-NOERROR	host110-64.fis.agh.edu.pl
-NOERROR	mkrapiec.geol.agh.edu.pl
-NOERROR	linard.wibro.agh.edu.pl
-NOERROR	pc110.zfcs.agh.edu.pl
-NOERROR	ica110-a0.agh.edu.pl
-NOERROR	szlaban-b4.adm.agh.edu.pl
-NOERROR	k-320-4.imir.agh.edu.pl
-NOERROR	dhcp7.zet.agh.edu.pl
-NOERROR	lab.iisg.agh.edu.pl
-NOERROR	wladek.gorn.agh.edu.pl
-NOERROR	nat-vl57.agh.edu.pl
-NOERROR	pcmiue14.imir.agh.edu.pl
-NOERROR	mat192.mat.agh.edu.pl
-NOERROR	sites.dsnet.agh.edu.pl
-NOERROR	wo146.odlew.agh.edu.pl
-NXDOMAIN	b2-110rw.imir.agh.edu.pl
-NOERROR	slc1.geol.agh.edu.pl
-NOERROR	ktipm44.ktipm.agh.edu.pl
-NOERROR	stats.upel.agh.edu.pl
-NOERROR	pc-jkd.kt.agh.edu.pl
-NOERROR	mops038.uci.agh.edu.pl
-NOERROR	calibrate.kt.agh.edu.pl
-NOERROR	rez192124.imir.agh.edu.pl
-NXDOMAIN	b4rtr.agh.edu.pl
-NOERROR	kse6.ceramika.agh.edu.pl
-NOERROR	fenix.wibro.agh.edu.pl
-NOERROR	krokus2-12.imir.agh.edu.pl
-NOERROR	ela.geod.agh.edu.pl
-NOERROR	kcs46.ceramika.agh.edu.pl
-NOERROR	wmastej.geol.agh.edu.pl
-NOERROR	test140.kt.agh.edu.pl
-NOERROR	wfitj215e.ftj.agh.edu.pl
-NOERROR	mat163.mat.agh.edu.pl
-NOERROR	mapped.cel.agh.edu.pl
-NOERROR	ilon4.ia.agh.edu.pl
-NOERROR	samstu1.imir.agh.edu.pl
-NOERROR	mat229.mat.agh.edu.pl
-NXDOMAIN	komparator.geod.agh.edu.pl
-NOERROR	orion-109.fis.agh.edu.pl
-NXDOMAIN	www.misio.ftj.agh.edu.pl
-NOERROR	studium21.sjo.agh.edu.pl
-NOERROR	kasia.geod.agh.edu.pl
-NOERROR	p3g.b1.agh.edu.pl
-NOERROR	dhcp061.kt.agh.edu.pl
-NOERROR	wfitj75e.ftj.agh.edu.pl
-NOERROR	vpn.fslab.agh.edu.pl
-NOERROR	zabierz.geod.agh.edu.pl
-NOERROR	mat149.mat.agh.edu.pl
-NOERROR	wibro-114.imir.agh.edu.pl
-NOERROR	mobile.ceramika.agh.edu.pl
-NOERROR	dhcp206.kt.agh.edu.pl
-NOERROR	weip-d4-57.weip.agh.edu.pl
-NOERROR	basiura-pc.zarz.agh.edu.pl
-NOERROR	bon.dznet.agh.edu.pl
-NOERROR	mercury.geod.agh.edu.pl
-NOERROR	prymon-pc.zarz.agh.edu.pl
-NOERROR	www.kadra.zarz.agh.edu.pl
-NOERROR	webmail.bg.agh.edu.pl
-NOERROR	dhcp-pc197.elektro.agh.edu.pl
-NOERROR	labserv.kt.agh.edu.pl
-NOERROR	wpie36.wpie.agh.edu.pl
-NOERROR	alumina2.mn.agh.edu.pl
-NOERROR	ionserwer2.adm.agh.edu.pl
-NOERROR	stud141.fis.agh.edu.pl
-NOERROR	d17-jagular.infra.iisg.agh.edu.pl
-NOERROR	www.wrss.eaiib.agh.edu.pl
-NOERROR	mops016.uci.agh.edu.pl
-NOERROR	wo73.odlew.agh.edu.pl
-NOERROR	psv-serw.mn.agh.edu.pl
-NOERROR	apd.usos.agh.edu.pl
-NOERROR	nat-wggios6.agh.edu.pl
-NOERROR	zin1.geol.agh.edu.pl
-NOERROR	cb6-248.ceramika.agh.edu.pl
-NXDOMAIN	deenes.uci.agh.edu.pl
-NOERROR	jvc-1sagepub-1com-1atoz.wbg2.bg.agh.edu.pl
-NOERROR	wibro-117.imir.agh.edu.pl
-NOERROR	gip311c.geod.agh.edu.pl
-NOERROR	ca0-005.ceramika.agh.edu.pl
-NOERROR	ecctd03.zet.agh.edu.pl
-NOERROR	iwaniec.wibro.agh.edu.pl
-NOERROR	ewaru.mn.agh.edu.pl
-NOERROR	pc171.ket.agh.edu.pl
-NOERROR	host110-62.fis.agh.edu.pl
-NOERROR	iac3gate.ia.agh.edu.pl
-NOERROR	www.edi.agh.edu.pl
-NOERROR	wakacje.agh.edu.pl
-NOERROR	www.wszechswiat.agh.edu.pl
-NOERROR	wfitj13e.ftj.agh.edu.pl
-NOERROR	ftjrtr.fis.agh.edu.pl
-NOERROR	marian2.gorn.agh.edu.pl
-NOERROR	kap-07.imir.agh.edu.pl
-NOERROR	wfitj118e.ftj.agh.edu.pl
-NOERROR	transportgazu.agh.edu.pl
-NOERROR	amonit.kt.agh.edu.pl
-NOERROR	st7.gorn.agh.edu.pl
-NOERROR	host110-177.fis.agh.edu.pl
-NOERROR	www.e-control.agh.edu.pl
-NOERROR	www.icses2008.agh.edu.pl
-NOERROR	stud226.fis.agh.edu.pl
-NOERROR	www.tem.agh.edu.pl
-NOERROR	pc-oper1.geol.agh.edu.pl
-NOERROR	ktipm39.ktipm.agh.edu.pl
-NOERROR	gpib.ket.agh.edu.pl
-NOERROR	adsorp.wpie.agh.edu.pl
-NOERROR	ka82.ia.agh.edu.pl
-NOERROR	luczak.gorn.agh.edu.pl
-SERVFAIL	leo.kwestura.agh.edu.pl
-NOERROR	pc193.keiaspe.agh.edu.pl
-NOERROR	bpawlow.metal.agh.edu.pl
-NOERROR	jarzyna.geol.agh.edu.pl
-NOERROR	ksaf.agh.edu.pl
-NOERROR	laboratoria.agh.edu.pl
-NOERROR	zcop.agh.edu.pl
-NOERROR	nat-wiet2.agh.edu.pl
-NOERROR	cieplo-b5.adm.agh.edu.pl
-NOERROR	wfitj111e.ftj.agh.edu.pl
-NOERROR	pracfiz9.ftj.agh.edu.pl
-NOERROR	hp3005-kffs.ftj.agh.edu.pl
-NOERROR	www.eeagrants.agh.edu.pl
-NOERROR	www.agsh.agh.edu.pl
-NOERROR	ca0-052.ceramika.agh.edu.pl
-NOERROR	piechota.gorn.agh.edu.pl
-NOERROR	test151.kt.agh.edu.pl
-NOERROR	staff.kis.agh.edu.pl
-NOERROR	b2-kor0-1.imir.agh.edu.pl
-NOERROR	vm3.uci.agh.edu.pl
-NOERROR	anna.mn.agh.edu.pl
-NOERROR	scholar-1google-1com-1000032d700c5.wbg2.bg.agh.edu.pl
-NOERROR	epreweda.geod.agh.edu.pl
-NOERROR	wo159.odlew.agh.edu.pl
-NOERROR	a1400.metal.agh.edu.pl
-NOERROR	pc8.ins.agh.edu.pl
-NOERROR	potter.ceramika.agh.edu.pl
-NOERROR	adam.elektro.agh.edu.pl
-NOERROR	vpn.ki.agh.edu.pl
-NOERROR	www.nucleus.agh.edu.pl
-NOERROR	lab308-2.elektro.agh.edu.pl
-NOERROR	dhcp-pc199.elektro.agh.edu.pl
-NOERROR	pc7.geol.agh.edu.pl
-NOERROR	ns.wrss.eaiib.agh.edu.pl
-NOERROR	studium7.sjo.agh.edu.pl
-NOERROR	cb6-162.ceramika.agh.edu.pl
-NOERROR	stud148.fis.agh.edu.pl
-NOERROR	klimkiewicz-pc.zarz.agh.edu.pl
-NOERROR	ftjrtr.ftj.agh.edu.pl
-NOERROR	pc24.zfcs.agh.edu.pl
-NOERROR	mobile.ia.agh.edu.pl
-NOERROR	rejestr3.adm.agh.edu.pl
-NOERROR	bona.geod.agh.edu.pl
-NOERROR	ww-h15.keiaspe.agh.edu.pl
-NOERROR	host110-162.fis.agh.edu.pl
-NOERROR	www.kaniup.agh.edu.pl
-NOERROR	host110-91.fis.agh.edu.pl
-NOERROR	krokus129.imir.agh.edu.pl
-NOERROR	lsr08.ia.agh.edu.pl
-NOERROR	voce.imir.agh.edu.pl
-NOERROR	gcegla.wpie.agh.edu.pl
-NOERROR	wmsg31.gorn.agh.edu.pl
-NOERROR	eportfolio.agh.edu.pl
-NOERROR	gospodarczyk.imir.agh.edu.pl
-NOERROR	porterniac4.geod.agh.edu.pl
-NOERROR	gerall.metal.agh.edu.pl
-NOERROR	dhcp208.kt.agh.edu.pl
-NOERROR	stud154.fis.agh.edu.pl
-NOERROR	lab404a.ia.agh.edu.pl
-NOERROR	aristo.keiaspe.agh.edu.pl
-NOERROR	zsro-druk.elektro.agh.edu.pl
-NOERROR	kap-22.imir.agh.edu.pl
-NOERROR	wisla.imir.agh.edu.pl
-NOERROR	kap-49.imir.agh.edu.pl
-NOERROR	nat-weaiib11.agh.edu.pl
-NOERROR	confluence.iisg.agh.edu.pl
-NOERROR	b3-14.mn.agh.edu.pl
-NOERROR	beck-pc.zarz.agh.edu.pl
-NOERROR	marvin.kis.agh.edu.pl
-NOERROR	www.skpan.agh.edu.pl
-NOERROR	cmat50.mat.agh.edu.pl
-NOERROR	kct12.ceramika.agh.edu.pl
-NOERROR	zm194.zmet.agh.edu.pl
-NOERROR	eestec.agh.edu.pl
-NOERROR	brozek.gorn.agh.edu.pl
-NOERROR	ca0-080.ceramika.agh.edu.pl
-NOERROR	kaskomp.metal.agh.edu.pl
-NOERROR	host110-94.fis.agh.edu.pl
-NOERROR	zabierow.wpie.agh.edu.pl
-NOERROR	lr10.ia.agh.edu.pl
-NOERROR	pc117.ia.agh.edu.pl
-NXDOMAIN	b2-ro-15.imir.agh.edu.pl
-NOERROR	spacetech.agh.edu.pl
-NOERROR	stadnik.metal.agh.edu.pl
-NOERROR	stud207.fis.agh.edu.pl
-NOERROR	cb6-199.ceramika.agh.edu.pl
-NOERROR	rejest-kamer.zarz.agh.edu.pl
-NOERROR	misio.fis.agh.edu.pl
-NOERROR	bg251.bg.agh.edu.pl
-NOERROR	antoniuk.geol.agh.edu.pl
-NOERROR	pc244.geol.agh.edu.pl
-NOERROR	mat212.mat.agh.edu.pl
-NOERROR	wbg2.bg.agh.edu.pl
-NOERROR	www.epqu2020.agh.edu.pl
-NOERROR	pc34.zfcs.agh.edu.pl
-NOERROR	krysia.geod.agh.edu.pl
-NOERROR	usdir.agh.edu.pl
-NOERROR	hp2015dnp217-dr.zarz.agh.edu.pl
-NOERROR	kpb-058.imir.agh.edu.pl
-NOERROR	mat161.mat.agh.edu.pl
-NOERROR	labes2.ket.agh.edu.pl
-NOERROR	turnia1.metal.agh.edu.pl
-NXDOMAIN	drukwf.imir.agh.edu.pl
-NOERROR	amx-ni3100.gorn.agh.edu.pl
-NOERROR	wa214.wibro.agh.edu.pl
-NXDOMAIN	d17-c2-caribou.iisg.agh.edu.pl
-NOERROR	evolutus.icsr.agh.edu.pl
-NOERROR	lr11.ia.agh.edu.pl
-NXDOMAIN	b2-radio-0e.imir.agh.edu.pl
-NOERROR	ka83.ia.agh.edu.pl
-NOERROR	intr.icsr.agh.edu.pl
-NOERROR	cb6-231.ceramika.agh.edu.pl
-NOERROR	http.forti-units.agh.edu.pl
-NOERROR	mk.ia.agh.edu.pl
-NOERROR	lab06.gorn.agh.edu.pl
-NOERROR	publ.dc1-prx-b.infra.ki.agh.edu.pl
-NOERROR	kckizw.ceramika.agh.edu.pl
-NOERROR	fsia2.adm.agh.edu.pl
-NOERROR	www-1biomat-1krakow-1pl-1nd8ak8wr0133.wbg2.bg.agh.edu.pl
-NOERROR	servis0.mn.agh.edu.pl
-NOERROR	host110-227.fis.agh.edu.pl
-NOERROR	dragon.imir.agh.edu.pl
-NOERROR	p106-a2.mn.agh.edu.pl
-NOERROR	jarkan.ket.agh.edu.pl
-NOERROR	isolib.cri.agh.edu.pl
-NOERROR	matrix.keiaspe.agh.edu.pl
-NOERROR	ca0-028.ceramika.agh.edu.pl
-NOERROR	pc42.zfcs.agh.edu.pl
-NOERROR	wpiewmech.wpie.agh.edu.pl
-NOERROR	bbb.fotogrametria.agh.edu.pl
-NOERROR	dep4test.agh.edu.pl
-NOERROR	stud237.fis.agh.edu.pl
-NOERROR	wnssczyt5.ins.agh.edu.pl
-NOERROR	wfitj35e.ftj.agh.edu.pl
-NOERROR	test235.kt.agh.edu.pl
-NOERROR	koi3.fis.agh.edu.pl
-NOERROR	host110-59.fis.agh.edu.pl
-NOERROR	kolaczko.metal.agh.edu.pl
-NOERROR	zeus.kt.agh.edu.pl
-NOERROR	wibro-118.imir.agh.edu.pl
-NOERROR	centurion.zarz.agh.edu.pl
-NOERROR	pc45.zfcs.agh.edu.pl
-NOERROR	test204.kt.agh.edu.pl
-NOERROR	soltys.gorn.agh.edu.pl
-NOERROR	mops027.uci.agh.edu.pl
-NOERROR	mops112.uci.agh.edu.pl
-NOERROR	wfitj161e.ftj.agh.edu.pl
-NOERROR	wardas.geol.agh.edu.pl
-NOERROR	abl2.ics.agh.edu.pl
-NOERROR	zeus.zarz.agh.edu.pl
-NOERROR	dt11.adm.agh.edu.pl
-NOERROR	pc136.kme.agh.edu.pl
-NOERROR	marcin.elektro.agh.edu.pl
-NOERROR	filipowicz-pc.zarz.agh.edu.pl
-NOERROR	wmsg23.gorn.agh.edu.pl
-NOERROR	a1.geod.agh.edu.pl
-NOERROR	galaxy.ftj.agh.edu.pl
-NOERROR	stass2.gorn.agh.edu.pl
-NOERROR	dhcp142.kt.agh.edu.pl
-NOERROR	aga.wibro.agh.edu.pl
-NOERROR	regent.uci.agh.edu.pl
-NOERROR	powietrze.agh.edu.pl
-NOERROR	kasia.gorn.agh.edu.pl
-NOERROR	wfitj251e.ftj.agh.edu.pl
-NOERROR	p216-1.mn.agh.edu.pl
-NOERROR	dziek2.ceramika.agh.edu.pl
-NOERROR	wfitj149e.ftj.agh.edu.pl
-NOERROR	rejestr1.adm.agh.edu.pl
-NOERROR	nat-weaiib14.agh.edu.pl
-NXDOMAIN	sgx.imir.agh.edu.pl
-NOERROR	pc121.ia.agh.edu.pl
-NOERROR	prymus.metal.agh.edu.pl
-NOERROR	kcs28.ceramika.agh.edu.pl
-NOERROR	nemezis.metal.agh.edu.pl
-NOERROR	snet.geol.agh.edu.pl
-NOERROR	henr.zet.agh.edu.pl
-NOERROR	cb6-251.ceramika.agh.edu.pl
-NOERROR	mat239.mat.agh.edu.pl
-NOERROR	dbc2.cel.agh.edu.pl
-NOERROR	p1g.b1.agh.edu.pl
-NOERROR	hpcp352np217-dr.zarz.agh.edu.pl
-NXDOMAIN	res5.b1.agh.edu.pl
-NOERROR	wfitj34e.ftj.agh.edu.pl
-NOERROR	ktipm21.ktipm.agh.edu.pl
-NOERROR	www.dominium.zarz.agh.edu.pl
-NOERROR	host110-152.fis.agh.edu.pl
-NOERROR	www.ua.agh.edu.pl
-NOERROR	wo117.odlew.agh.edu.pl
-NOERROR	cmat49.mat.agh.edu.pl
-NOERROR	studium1.sjo.agh.edu.pl
-NOERROR	www.bg.agh.edu.pl
-NOERROR	www.unesco.agh.edu.pl
-NOERROR	wydawnictwo.agh.edu.pl
-NOERROR	mforest.elektro.agh.edu.pl
-NOERROR	winid-pc.wnaft.agh.edu.pl
-NOERROR	echelon.ia.agh.edu.pl
-NOERROR	janrus.geod.agh.edu.pl
-NOERROR	magiera.geol.agh.edu.pl
-NOERROR	minolta.wpie.agh.edu.pl
-NOERROR	k-210-06.imir.agh.edu.pl
-NOERROR	lbsh8.ia.agh.edu.pl
-NOERROR	sloty-proxy.bpp.agh.edu.pl
-NOERROR	woman.ktipm.agh.edu.pl
-NOERROR	zaljan.wibro.agh.edu.pl
-NOERROR	stud208.fis.agh.edu.pl
-NOERROR	lachowicz.gramatyka7.agh.edu.pl
-NOERROR	kap-139.imir.agh.edu.pl
-NOERROR	kpput.agh.edu.pl
-NOERROR	cam-217.imir.agh.edu.pl
-NOERROR	k-322-4.imir.agh.edu.pl
-NOERROR	acer.geod.agh.edu.pl
-NOERROR	host110-170.fis.agh.edu.pl
-NOERROR	russian.elektro.agh.edu.pl
-NOERROR	lsise-notebook.zee.agh.edu.pl
-NOERROR	wfitj12e.ftj.agh.edu.pl
-NOERROR	wfitj46a.ftj.agh.edu.pl
-NOERROR	kurcz.metal.agh.edu.pl
-NOERROR	rs.keiaspe.agh.edu.pl
-NOERROR	kb12.ceramika.agh.edu.pl
-NOERROR	limba10.metal.agh.edu.pl
-NOERROR	zts58.ia.agh.edu.pl
-NOERROR	xnn.ics.agh.edu.pl
-NOERROR	viola.metal.agh.edu.pl
-NOERROR	lab-09.mn.agh.edu.pl
-NOERROR	dtest.uci.agh.edu.pl
-NOERROR	mops149.uci.agh.edu.pl
-NOERROR	yoda.ia.agh.edu.pl
-NOERROR	www.zkios.agh.edu.pl
-NOERROR	git.age.agh.edu.pl
-NOERROR	a3-01.gorn.agh.edu.pl
-NOERROR	wfitj198e.ftj.agh.edu.pl
-NOERROR	turnia10.metal.agh.edu.pl
-NOERROR	host110-211.fis.agh.edu.pl
-NOERROR	teczke-pc.zarz.agh.edu.pl
-NOERROR	kawiory18.wpie.agh.edu.pl
-NOERROR	cmat1.mat.agh.edu.pl
-NOERROR	prosecco.agh.edu.pl
-NOERROR	dhcp078.kt.agh.edu.pl
-NOERROR	wmsg25.gorn.agh.edu.pl
-NOERROR	wnssp115.ins.agh.edu.pl
-NOERROR	dt9.adm.agh.edu.pl
-NOERROR	tornado.ia.agh.edu.pl
-NOERROR	www.ldap.agh.edu.pl
-NOERROR	ktrtr.agh.edu.pl
-NOERROR	newton.fis.agh.edu.pl
-NOERROR	igf.wggios.agh.edu.pl
-NOERROR	mdp01a.elektro.agh.edu.pl
-NOERROR	matlab1.uci.agh.edu.pl
-NOERROR	wojtek-komputer.elektro.agh.edu.pl
-NOERROR	aq29.ia.agh.edu.pl
-NOERROR	host110-202.fis.agh.edu.pl
-NOERROR	milenin.metal.agh.edu.pl
-NOERROR	justyna.geod.agh.edu.pl
-NOERROR	k-320-10.imir.agh.edu.pl
-NOERROR	pc71.zfcs.agh.edu.pl
-NOERROR	aq8.ia.agh.edu.pl
-NOERROR	wfitj50e.ftj.agh.edu.pl
-NOERROR	kameraz2-2.adm.agh.edu.pl
-NOERROR	amach.keiaspe.agh.edu.pl
-NOERROR	wrss.eaiib.agh.edu.pl
-NOERROR	vpn232.kt.agh.edu.pl
-NOERROR	dpilch.imir.agh.edu.pl
-NOERROR	ca0-055.ceramika.agh.edu.pl
-NOERROR	pc55.zfcs.agh.edu.pl
-NOERROR	gurgul-pc.zarz.agh.edu.pl
-NOERROR	fotogrametria.agh.edu.pl
-NOERROR	zm233.zmet.agh.edu.pl
-NOERROR	pc165.kme.agh.edu.pl
-NOERROR	symsel.agh.edu.pl
-NOERROR	testowyplan4.agh.edu.pl
-NOERROR	basen.agh.edu.pl
-NOERROR	vmw7.ftj.agh.edu.pl
-NOERROR	indra.metal.agh.edu.pl
-NOERROR	lbws03.gorn.agh.edu.pl
-NOERROR	mdp07a.elektro.agh.edu.pl
-NOERROR	crystal.ket.agh.edu.pl
-NOERROR	sparrow.keiaspe.agh.edu.pl
-NOERROR	www.shader.agh.edu.pl
-NOERROR	ckagh4.adm.agh.edu.pl
-NOERROR	weip-d4-30.weip.agh.edu.pl
-NOERROR	limba13.metal.agh.edu.pl
-NOERROR	kct27.ceramika.agh.edu.pl
-NOERROR	wo44.odlew.agh.edu.pl
-NOERROR	weip-d4-22.weip.agh.edu.pl
-NOERROR	gafcio.imir.agh.edu.pl
-NOERROR	dhcp38.zee.agh.edu.pl
-NOERROR	weip-d4-56.weip.agh.edu.pl
-NOERROR	karwat.imir.agh.edu.pl
-NOERROR	fm.kis.agh.edu.pl
-NOERROR	lbsh2.ia.agh.edu.pl
-NOERROR	cam-215.imir.agh.edu.pl
-NOERROR	dedal.zarz.agh.edu.pl
-NOERROR	ivta.icsr.agh.edu.pl
-NOERROR	lab404f.ia.agh.edu.pl
-NOERROR	bibl-geol.geol.agh.edu.pl
-NOERROR	mat168.mat.agh.edu.pl
-NOERROR	ctt.mn.agh.edu.pl
-NOERROR	mdaszcz.zee.agh.edu.pl
-NXDOMAIN	matachfilip.imir.agh.edu.pl
-NOERROR	tosia.mn.agh.edu.pl
-NOERROR	sala3-pc.wnaft.agh.edu.pl
-NOERROR	pomykala.gorn.agh.edu.pl
-NOERROR	zasoby.open.agh.edu.pl
-NOERROR	wmctest.agh.edu.pl
-NOERROR	aragorn.wibro.agh.edu.pl
-NOERROR	l03.gorn.agh.edu.pl
-NOERROR	wfitj26e.ftj.agh.edu.pl
-NOERROR	zm230.zmet.agh.edu.pl
-NOERROR	www.caloria.agh.edu.pl
-NOERROR	basiak.metal.agh.edu.pl
-NOERROR	nat-wwnig7.agh.edu.pl
-NOERROR	fg2.adm.agh.edu.pl
-NOERROR	www.detonator.agh.edu.pl
-NOERROR	pldlab4.elektro.agh.edu.pl
-NOERROR	odziewa.imir.agh.edu.pl
-NOERROR	krokus175.imir.agh.edu.pl
-NOERROR	zmb20.ceramika.agh.edu.pl
-NOERROR	www.econgeol.agh.edu.pl
-NOERROR	virtweb.zarz.agh.edu.pl
-NOERROR	warsztat.eaiib.agh.edu.pl
-NOERROR	ipnet.agh.edu.pl
-NOERROR	stalow7.metal.agh.edu.pl
-NOERROR	pcc222.ia.agh.edu.pl
-NOERROR	wkr2.weip.agh.edu.pl
-NOERROR	cs2018.fis.agh.edu.pl
-NOERROR	mat233.mat.agh.edu.pl
-NOERROR	pp2.geod.agh.edu.pl
-NOERROR	jarek.metal.agh.edu.pl
-NOERROR	zm202.zmet.agh.edu.pl
-NOERROR	stud248.fis.agh.edu.pl
-NOERROR	labog05.wpie.agh.edu.pl
-NOERROR	pk217d.mn.agh.edu.pl
-NOERROR	ckagh5.adm.agh.edu.pl
-NOERROR	cb6-151.ceramika.agh.edu.pl
-NOERROR	ca0-047.ceramika.agh.edu.pl
-NOERROR	kktz.imir.agh.edu.pl
-NOERROR	hp3005-kffs.fis.agh.edu.pl
-NOERROR	evet2edu.cel.agh.edu.pl
-NOERROR	www.pelab.agh.edu.pl
-NOERROR	dhcp063.kt.agh.edu.pl
-NOERROR	zts55.ia.agh.edu.pl
-NOERROR	kamera-a1.gorn.agh.edu.pl
-NOERROR	tom.mn.agh.edu.pl
-NOERROR	vsm.ket.agh.edu.pl
-NOERROR	tyka.imir.agh.edu.pl
-NOERROR	kocanda.elektro.agh.edu.pl
-NOERROR	dhcp56.zee.agh.edu.pl
-NOERROR	dt10.adm.agh.edu.pl
-NOERROR	kcs39.ceramika.agh.edu.pl
-NOERROR	pracfiz4.ftj.agh.edu.pl
-NOERROR	dhcp221.kt.agh.edu.pl
-NOERROR	dhcp182.kt.agh.edu.pl
-NXDOMAIN	iartrb1.ia.agh.edu.pl
-NOERROR	nat-sjo2.agh.edu.pl
-NOERROR	mops066.uci.agh.edu.pl
-NOERROR	lankosz.imir.agh.edu.pl
-NOERROR	www-1mdpi-1com-1000032ex11e6.wbg2.bg.agh.edu.pl
-NOERROR	dziekanat5-pc.wnaft.agh.edu.pl
-NOERROR	dhcp89.eaiib.agh.edu.pl
-NOERROR	grant1.metal.agh.edu.pl
-NOERROR	mops062.uci.agh.edu.pl
-NOERROR	wfitj177e.ftj.agh.edu.pl
-NOERROR	mailhog.test.dsnet.agh.edu.pl
-NOERROR	sala201.gorn.agh.edu.pl
-NOERROR	milab5.wibro.agh.edu.pl
-NOERROR	www.it-architecture.agh.edu.pl
-NOERROR	host110-240.fis.agh.edu.pl
-NOERROR	pc90.zfcs.agh.edu.pl
-NOERROR	isset2013.agh.edu.pl
-NOERROR	aq13.ia.agh.edu.pl
-NOERROR	east.agh.edu.pl
-NOERROR	wmsnet.mat.agh.edu.pl
-NOERROR	gamma.ics.agh.edu.pl
-NOERROR	hpkel.elektro.agh.edu.pl
-NOERROR	mops090.uci.agh.edu.pl
-NOERROR	mat143.mat.agh.edu.pl
-NOERROR	tvaula.zarz.agh.edu.pl
-NOERROR	galaxy.uci.agh.edu.pl
-NOERROR	preisner-pc.zarz.agh.edu.pl
-NOERROR	boks1.metal.agh.edu.pl
-NOERROR	xorp-110.fis.agh.edu.pl
-NOERROR	ns2.ki.agh.edu.pl
-NOERROR	host110-201.fis.agh.edu.pl
-NOERROR	poczta.adm.agh.edu.pl
-NOERROR	mszm.ia.agh.edu.pl
-NOERROR	upel.agh.edu.pl
-NOERROR	host110-134.fis.agh.edu.pl
-NOERROR	www.zcop.agh.edu.pl
-NOERROR	rejestracja.ka.agh.edu.pl
-NOERROR	www.kmopw.agh.edu.pl
-NOERROR	krokus166.imir.agh.edu.pl
-NOERROR	asia.elektro.agh.edu.pl
-NOERROR	www.cok.agh.edu.pl
-NOERROR	zts44.ia.agh.edu.pl
-NOERROR	ca0-053.ceramika.agh.edu.pl
-NOERROR	sp.keiaspe.agh.edu.pl
-NOERROR	krimnorth.wibro.agh.edu.pl
-NOERROR	p012.ia.agh.edu.pl
-NOERROR	wfitj124e.ftj.agh.edu.pl
-NOERROR	ds12.agh.edu.pl
-NOERROR	homnibus.kt.agh.edu.pl
-NOERROR	walery.imir.agh.edu.pl
-NOERROR	www.studiahumanistyczne.agh.edu.pl
-NOERROR	trafo.kt.agh.edu.pl
-NOERROR	ltx.metal.agh.edu.pl
-NOERROR	rejestracja.agh.edu.pl
-NOERROR	potiopa-pc.zarz.agh.edu.pl
-NOERROR	cb6-218.ceramika.agh.edu.pl
-NOERROR	ds17.agh.edu.pl
-NOERROR	kcs7.ceramika.agh.edu.pl
-NOERROR	wfitj62e.ftj.agh.edu.pl
-NOERROR	wpie10.wpie.agh.edu.pl
-NOERROR	c3sw1.ia.agh.edu.pl
-NOERROR	dhcp0123.kt.agh.edu.pl
-NOERROR	nat-wimip4.agh.edu.pl
-NOERROR	cb6-233.ceramika.agh.edu.pl
-NOERROR	jira.kis.agh.edu.pl
-NOERROR	skolysz.metal.agh.edu.pl
-NOERROR	d1c2950.agh.edu.pl
-NOERROR	zts51.ia.agh.edu.pl
-NOERROR	git.iisg.agh.edu.pl
-NOERROR	d1sw.agh.edu.pl
-NOERROR	pc20.zfcs.agh.edu.pl
-NOERROR	kap-38.imir.agh.edu.pl
-NOERROR	nat-vl202.agh.edu.pl
-NOERROR	chopin.zet.agh.edu.pl
-NOERROR	pc61.zfcs.agh.edu.pl
-NOERROR	host110-76.fis.agh.edu.pl
-NOERROR	pc192.keiaspe.agh.edu.pl
-NOERROR	wfitj77e.ftj.agh.edu.pl
-NOERROR	dhcp4.zet.agh.edu.pl
-NOERROR	kap-10.imir.agh.edu.pl
-NOERROR	zgg5.geod.agh.edu.pl
-NOERROR	test169.kt.agh.edu.pl
-NOERROR	teresam.gorn.agh.edu.pl
-NOERROR	labesx.kt.agh.edu.pl
-NOERROR	diuna.zet.agh.edu.pl
-NOERROR	sylabuskrk.agh.edu.pl
-NOERROR	mops129.uci.agh.edu.pl
-NOERROR	pldlab6.elektro.agh.edu.pl
-NOERROR	host110-19.fis.agh.edu.pl
-NOERROR	dhcp097.kt.agh.edu.pl
-NOERROR	awing.kis.agh.edu.pl
-NOERROR	wenus.wibro.agh.edu.pl
-NOERROR	www.radio17.agh.edu.pl
-NOERROR	wo158.odlew.agh.edu.pl
-NOERROR	krokus134.imir.agh.edu.pl
-NOERROR	lbws04.gorn.agh.edu.pl
-NOERROR	mat204.mat.agh.edu.pl
-NOERROR	mops021.uci.agh.edu.pl
-NOERROR	wo102.odlew.agh.edu.pl
-NOERROR	mops080.uci.agh.edu.pl
-NOERROR	dziekanat-fg1.agh.edu.pl
-NOERROR	mdp05c.elektro.agh.edu.pl
-NOERROR	siudek.metal.agh.edu.pl
-NOERROR	akad.elektro.agh.edu.pl
-NOERROR	mdp10b.elektro.agh.edu.pl
-NOERROR	stud211.fis.agh.edu.pl
-NOERROR	st15.gorn.agh.edu.pl
-NOERROR	podyplomowe.kt.agh.edu.pl
-NOERROR	cd16.adm.agh.edu.pl
-NOERROR	jgalka.ket.agh.edu.pl
-NOERROR	lab513-pc0.elektro.agh.edu.pl
-NOERROR	pc72.zfcs.agh.edu.pl
-NOERROR	hades.wibro.agh.edu.pl
-NOERROR	ds1.agh.edu.pl
-NOERROR	www.kosz.agh.edu.pl
-NOERROR	studium29.sjo.agh.edu.pl
-NOERROR	host110-123.fis.agh.edu.pl
-NOERROR	pawlus.gorn.agh.edu.pl
-NOERROR	rekrut2.wnaft.agh.edu.pl
-NOERROR	zin3.geol.agh.edu.pl
-NOERROR	nat-wwnig2.agh.edu.pl
-NOERROR	wiki.ki.agh.edu.pl
-NOERROR	ops.usos.agh.edu.pl
-NOERROR	test190.kt.agh.edu.pl
-NOERROR	aq28.ia.agh.edu.pl
-NOERROR	wo23.odlew.agh.edu.pl
-NOERROR	szafran.imir.agh.edu.pl
-NOERROR	k-320-9.imir.agh.edu.pl
-NOERROR	k-210-01.imir.agh.edu.pl
-NOERROR	dune.zet.agh.edu.pl
-NOERROR	k-209-09.imir.agh.edu.pl
-NOERROR	mops010.uci.agh.edu.pl
-NOERROR	www.ptmi.agh.edu.pl
-NOERROR	www.bhp.agh.edu.pl
-NOERROR	kap-14.imir.agh.edu.pl
-NOERROR	kme.agh.edu.pl
-NOERROR	gerlach.metal.agh.edu.pl
-NOERROR	sas-pc.zarz.agh.edu.pl
-NOERROR	finanse.zee.agh.edu.pl
-NOERROR	kap-142.imir.agh.edu.pl
-NOERROR	k-320-7.imir.agh.edu.pl
-NOERROR	wentylatornia.zarz.agh.edu.pl
-NOERROR	b3-komp5.zet.agh.edu.pl
-NOERROR	www.kiwon.geol.agh.edu.pl
-NOERROR	pieczka.geol.agh.edu.pl
-NOERROR	proj.dc1-prx-b.infra.ki.agh.edu.pl
-NOERROR	wo31.odlew.agh.edu.pl
-NOERROR	hp5035parter.kt.agh.edu.pl
-NOERROR	ilon1.ia.agh.edu.pl
-NOERROR	www.cop.agh.edu.pl
-NOERROR	podstawy.imir.agh.edu.pl
-NOERROR	wfitj91e.ftj.agh.edu.pl
-NOERROR	xps.kt.agh.edu.pl
-NOERROR	wpie27.wpie.agh.edu.pl
-NOERROR	cb6-166.ceramika.agh.edu.pl
-NOERROR	www.isimiip.agh.edu.pl
-NOERROR	rekrut-4.gorn.agh.edu.pl
-NOERROR	mieszan.gorn.agh.edu.pl
-NOERROR	dhcp048.kt.agh.edu.pl
-NOERROR	mri.ia.agh.edu.pl
-NOERROR	waclawski.gorn.agh.edu.pl
-NOERROR	krokus130.imir.agh.edu.pl
-NOERROR	debian.cri.agh.edu.pl
-NOERROR	usos-prx.ki.agh.edu.pl
-NOERROR	dhcp0124.kt.agh.edu.pl
-NOERROR	zm210.zmet.agh.edu.pl
-NOERROR	st3.gorn.agh.edu.pl
-NOERROR	zgloszenie-covid.agh.edu.pl
-NXDOMAIN	szymon-voip.uci.agh.edu.pl
-NOERROR	mat175.mat.agh.edu.pl
-NOERROR	lobster.ktipm.agh.edu.pl
-NOERROR	hycner.geod.agh.edu.pl
-NOERROR	krywan.metal.agh.edu.pl
-NOERROR	stefan2.imir.agh.edu.pl
-NOERROR	wfitj186e.ftj.agh.edu.pl
-NOERROR	zhn.kt.agh.edu.pl
-NOERROR	wmsg4.gorn.agh.edu.pl
-NOERROR	kpw75vmr.mn.agh.edu.pl
-NOERROR	ticket.fis.agh.edu.pl
-NOERROR	mziemian.gorn.agh.edu.pl
-NOERROR	www.dok.agh.edu.pl
-NOERROR	dhcp58.zee.agh.edu.pl
-NOERROR	pczh.kt.agh.edu.pl
-NOERROR	www.kkiem.agh.edu.pl
-NOERROR	cala1.gorn.agh.edu.pl
-NOERROR	tarczydlo-pc.zarz.agh.edu.pl
-NOERROR	kcs18.ceramika.agh.edu.pl
-NOERROR	zgg10.geod.agh.edu.pl
-NOERROR	mailgraph.bg.agh.edu.pl
-NXDOMAIN	tomm.imir.agh.edu.pl
-NOERROR	mat169.mat.agh.edu.pl
-NOERROR	zm240.zmet.agh.edu.pl
-NOERROR	host110-171.fis.agh.edu.pl
-NOERROR	sorp1.wpie.agh.edu.pl
-NOERROR	p-12b.metal.agh.edu.pl
-NOERROR	wnss16o.ins.agh.edu.pl
-NOERROR	syriusz.elektro.agh.edu.pl
-NOERROR	vena.mn.agh.edu.pl
-NOERROR	rpress2.imir.agh.edu.pl
-NOERROR	www.dziekanat.geod.agh.edu.pl
-NOERROR	pc175.kme.agh.edu.pl
-NOERROR	pysiek.metal.agh.edu.pl
-NOERROR	yic2019.agh.edu.pl
-NOERROR	mops138.uci.agh.edu.pl
-NOERROR	baw19.agh.edu.pl
-NOERROR	pcmiue9.imir.agh.edu.pl
-NOERROR	pasimi3.imir.agh.edu.pl
-NOERROR	cb6-209.ceramika.agh.edu.pl
-NOERROR	dhcp199.kt.agh.edu.pl
-NOERROR	ktipm30.ktipm.agh.edu.pl
-NOERROR	cb6-211.ceramika.agh.edu.pl
-NOERROR	smoczek.imir.agh.edu.pl
-NOERROR	www.it-phd-studies.agh.edu.pl
-NOERROR	turkus.geod.agh.edu.pl
-NOERROR	pxi-8196.wibro.agh.edu.pl
-NOERROR	dhcp219.kt.agh.edu.pl
-NOERROR	rezerwa.agh.edu.pl
-NOERROR	biuletynpig-1publisherspanel-1com-1000032s90190.wbg2.bg.agh.edu.pl
-NOERROR	mops.uci.agh.edu.pl
-NOERROR	giewont.metal.agh.edu.pl
-NOERROR	mops054.uci.agh.edu.pl
-NOERROR	mat182.mat.agh.edu.pl
-NOERROR	mariola.gorn.agh.edu.pl
-NOERROR	i460t.wnaft.agh.edu.pl
-NOERROR	stud204.fis.agh.edu.pl
-NOERROR	host110-81.fis.agh.edu.pl
-NOERROR	klaster.agh.edu.pl
-NOERROR	mat236.mat.agh.edu.pl
-NOERROR	kawiory1.wpie.agh.edu.pl
-NOERROR	zm234.zmet.agh.edu.pl
-NOERROR	st2.gorn.agh.edu.pl
-NOERROR	bobulski.geol.agh.edu.pl
-NOERROR	wmsg11.gorn.agh.edu.pl
-NOERROR	fiz-chem.metal.agh.edu.pl
-NOERROR	fut.samorzad.agh.edu.pl
-NOERROR	test209.kt.agh.edu.pl
-NOERROR	regent.agh.edu.pl
-NOERROR	ewa2.imir.agh.edu.pl
-NOERROR	wfitj235e.ftj.agh.edu.pl
-NOERROR	bi2.eaiib.agh.edu.pl
-NOERROR	wpierekrut1.wpie.agh.edu.pl
-NOERROR	wfitj106e.ftj.agh.edu.pl
-NOERROR	nat-weaiib38.agh.edu.pl
-NOERROR	nat-gst2.agh.edu.pl
-NOERROR	dhcp97.kt.agh.edu.pl
-NOERROR	active4.elektro.agh.edu.pl
-NOERROR	skwirek.imir.agh.edu.pl
-NXDOMAIN	awing.ia.agh.edu.pl
-NOERROR	aq87.ia.agh.edu.pl
-NOERROR	overko.geod.agh.edu.pl
-NOERROR	weip-d4-20.weip.agh.edu.pl
-NOERROR	pcc210.ia.agh.edu.pl
-NOERROR	mat215.mat.agh.edu.pl
-NXDOMAIN	b2-110a.imir.agh.edu.pl
-NOERROR	dt15.adm.agh.edu.pl
-NOERROR	krokus140.imir.agh.edu.pl
-NOERROR	grupanet.agh.edu.pl
-NOERROR	chris.metal.agh.edu.pl
-NOERROR	pasimi0.wibro.agh.edu.pl
-NOERROR	www.mj.zarz.agh.edu.pl
-NOERROR	szajding.metal.agh.edu.pl
-NOERROR	planr.agh.edu.pl
-NOERROR	olgas.geod.agh.edu.pl
-NOERROR	ca0-066.ceramika.agh.edu.pl
-NOERROR	st1.gorn.agh.edu.pl
-NOERROR	dhcp201.kt.agh.edu.pl
-NOERROR	lab106.metal.agh.edu.pl
-NOERROR	krbsrv1.fis.agh.edu.pl
-NOERROR	mops000.uci.agh.edu.pl
-NOERROR	lidis.imir.agh.edu.pl
-NOERROR	b2-302.imir.agh.edu.pl
-NOERROR	kszydlow.geol.agh.edu.pl
-NOERROR	www.geoinf.agh.edu.pl
-NOERROR	10latels.agh.edu.pl
-NOERROR	www.kipo.agh.edu.pl
-NOERROR	mes.imir.agh.edu.pl
-NXDOMAIN	natalka.geod.agh.edu.pl
-NOERROR	wfitj61e.ftj.agh.edu.pl
-NOERROR	pr-inf6.wibro.agh.edu.pl
-NOERROR	mops095.uci.agh.edu.pl
-NOERROR	xcp.kt.agh.edu.pl
-NOERROR	wmsg28.gorn.agh.edu.pl
-NOERROR	feliks-pc.zarz.agh.edu.pl
-NOERROR	www.wh.agh.edu.pl
-NOERROR	journals-1aps-1org-1000032sv01fa.wbg2.bg.agh.edu.pl
-NOERROR	winntbg.bg.agh.edu.pl
-NOERROR	euro04.ia.agh.edu.pl
-NOERROR	chivas.metal.agh.edu.pl
-NOERROR	marek.metal.agh.edu.pl
-NOERROR	www.wimiip-poig.agh.edu.pl
-NOERROR	solinski3.gorn.agh.edu.pl
-NOERROR	rekrut23.fis.agh.edu.pl
-NOERROR	kca6.ceramika.agh.edu.pl
-NOERROR	vm2.uci.agh.edu.pl
-NXDOMAIN	switch3com.imir.agh.edu.pl
-NOERROR	www.prmr2013.agh.edu.pl
-NOERROR	pcc203.ia.agh.edu.pl
-NOERROR	rysy.metal.agh.edu.pl
-NOERROR	jolap.imir.agh.edu.pl
-NOERROR	capo.iisg.agh.edu.pl
-NOERROR	wnssczyt3.ins.agh.edu.pl
-NOERROR	lipsk210-pc3.zarz.agh.edu.pl
-NOERROR	media-1proquest-1com-1000032to0023.wbg2.bg.agh.edu.pl
-NOERROR	mes1.mn.agh.edu.pl
-NOERROR	pc123.zfcs.agh.edu.pl
-NOERROR	stud170.fis.agh.edu.pl
-NOERROR	wo54.odlew.agh.edu.pl
-NXDOMAIN	d17-c2-cmk.infra.iisg.agh.edu.pl
-NOERROR	wfitj227e.ftj.agh.edu.pl
-NOERROR	www.dsoc.agh.edu.pl
-NOERROR	mops102.uci.agh.edu.pl
-NOERROR	wmsg16.gorn.agh.edu.pl
-NOERROR	techstart.agh.edu.pl
-NOERROR	vsphere83.geod.agh.edu.pl
-NOERROR	wfitj174e.ftj.agh.edu.pl
-NOERROR	tora.gorn.agh.edu.pl
-NOERROR	marszalek.geol.agh.edu.pl
-NOERROR	www.kzfm.fis.agh.edu.pl
-NOERROR	live.cri.agh.edu.pl
-NOERROR	ppd.b1.agh.edu.pl
-NOERROR	winzer.gorn.agh.edu.pl
-NOERROR	kawiory31.wpie.agh.edu.pl
-NOERROR	ceramika.agh.edu.pl
-NOERROR	pc117.zfcs.agh.edu.pl
-NOERROR	taurus.fis.agh.edu.pl
-NOERROR	blackhole.kis.agh.edu.pl
-NOERROR	dhcp-pc183.elektro.agh.edu.pl
-NOERROR	weip-d4-32.weip.agh.edu.pl
-NOERROR	centurion.kt.agh.edu.pl
-NOERROR	hermes.wibro.agh.edu.pl
-NOERROR	majwojna.imir.agh.edu.pl
-NOERROR	warey.ia.agh.edu.pl
-NOERROR	krokus171.imir.agh.edu.pl
-NOERROR	lbws02.gorn.agh.edu.pl
-NOERROR	maternowska-pc.zarz.agh.edu.pl
-NOERROR	www.mse.agh.edu.pl
-NOERROR	acf1.metal.agh.edu.pl
-NOERROR	biblioteka-okr.zarz.agh.edu.pl
-NOERROR	powermac.elektro.agh.edu.pl
-NOERROR	ca0-059.ceramika.agh.edu.pl
-NOERROR	nat-vl103.agh.edu.pl
-NOERROR	smoluchowski.fis.agh.edu.pl
-NOERROR	firek.gorn.agh.edu.pl
-NOERROR	www.wrss.zarz.agh.edu.pl
-NOERROR	cri.typo3dev2.uci.agh.edu.pl
-NOERROR	mat225.mat.agh.edu.pl
-NOERROR	www.zsg.agh.edu.pl
-NOERROR	asiwik.zee.agh.edu.pl
-NOERROR	a2s.agh.edu.pl
-NOERROR	gulipin.imir.agh.edu.pl
-NOERROR	stroj.zee.agh.edu.pl
-NOERROR	stefan.ia.agh.edu.pl
-NOERROR	majta.metal.agh.edu.pl
-NOERROR	ca0-083.ceramika.agh.edu.pl
-NXDOMAIN	host110-15.fis.agh.edu.pl
-NOERROR	waclaw.gorn.agh.edu.pl
-NOERROR	tomek.mn.agh.edu.pl
-NOERROR	lsise-notebook2.zee.agh.edu.pl
-NOERROR	mentor.zarz.agh.edu.pl
-NOERROR	pc15.zfcs.agh.edu.pl
-NOERROR	cb6-236.ceramika.agh.edu.pl
-NOERROR	ipa.kt.agh.edu.pl
-NOERROR	stalow6.metal.agh.edu.pl
-NOERROR	kap-145.imir.agh.edu.pl
-NOERROR	asa121.bg.agh.edu.pl
-NOERROR	cmat2.mat.agh.edu.pl
-NOERROR	mops107.uci.agh.edu.pl
-NOERROR	pc31.zfcs.agh.edu.pl
-NOERROR	stud147.fis.agh.edu.pl
-NOERROR	gdowska-pc.zarz.agh.edu.pl
-NOERROR	iopscience-1iop-1org-1000032bl0491.wbg2.bg.agh.edu.pl
-NOERROR	jason.kis.agh.edu.pl
-NOERROR	k-322-2.imir.agh.edu.pl
-NOERROR	wnssp408.ins.agh.edu.pl
-NOERROR	woli.wibro.agh.edu.pl
-NOERROR	mat213.mat.agh.edu.pl
-NOERROR	cmat34.mat.agh.edu.pl
-NOERROR	k-322-5.imir.agh.edu.pl
-NOERROR	maciek.geod.agh.edu.pl
-NOERROR	e-przetargi.agh.edu.pl
-NOERROR	ka91.ia.agh.edu.pl
-NOERROR	lmk24.geol.agh.edu.pl
-NOERROR	kpb-062.imir.agh.edu.pl
-NOERROR	linksys.b1.agh.edu.pl
-NXDOMAIN	login.dsnet.agh.edu.pl
-NOERROR	pc183.kme.agh.edu.pl
-NOERROR	anko.mat.agh.edu.pl
-NOERROR	kajot.geol.agh.edu.pl
-NOERROR	dhcp082.kt.agh.edu.pl
-NOERROR	vm10.uci.agh.edu.pl
-NOERROR	debowski.gorn.agh.edu.pl
-NOERROR	pelech-pc.zarz.agh.edu.pl
-NOERROR	weip-d4-36.weip.agh.edu.pl
-NOERROR	vpn236.kt.agh.edu.pl
-NOERROR	www.focus.agh.edu.pl
-NOERROR	dziekanat.odlew.agh.edu.pl
-NOERROR	przemek.geod.agh.edu.pl
-NOERROR	lr7.ia.agh.edu.pl
-NOERROR	buczek.metal.agh.edu.pl
-NOERROR	mops051.uci.agh.edu.pl
-NOERROR	odp.icsr.agh.edu.pl
-NOERROR	wycisk2.mn.agh.edu.pl
-NOERROR	kse7.ceramika.agh.edu.pl
-NOERROR	wezel-mpec-agh.zarz.agh.edu.pl
-NOERROR	cytryna.uci.agh.edu.pl
-NOERROR	mops108.uci.agh.edu.pl
-NOERROR	wfitj11e.ftj.agh.edu.pl
-NOERROR	malem.geol.agh.edu.pl
-NOERROR	wfitj15e.ftj.agh.edu.pl
-NOERROR	wmsg39.gorn.agh.edu.pl
-NOERROR	host110-239.fis.agh.edu.pl
-NOERROR	aq10.ia.agh.edu.pl
-NOERROR	samorzad.fis.agh.edu.pl
-NOERROR	leko.metal.agh.edu.pl
-NOERROR	ca0-068.ceramika.agh.edu.pl
-NOERROR	mat183.mat.agh.edu.pl
-NOERROR	www.tuo.agh.edu.pl
-NOERROR	stud108.fis.agh.edu.pl
-NOERROR	charon1.fis.agh.edu.pl
-NOERROR	host110-166.fis.agh.edu.pl
-NOERROR	c2-420-router.elektro.agh.edu.pl
-NOERROR	bkowal.gorn.agh.edu.pl
-NOERROR	kb19.ceramika.agh.edu.pl
-NOERROR	ie3.ket.agh.edu.pl
-NOERROR	stass9.gorn.agh.edu.pl
-NOERROR	saluga-pc.zarz.agh.edu.pl
-NOERROR	dev-kaib.agh.edu.pl
-NOERROR	jabcon-pc.zarz.agh.edu.pl
-NOERROR	cerber.fis.agh.edu.pl
-NOERROR	naukaitradycje.agh.edu.pl
-NOERROR	www.otwartanauka.cel.agh.edu.pl
-NOERROR	ns2.geod.agh.edu.pl
-NOERROR	zm225.zmet.agh.edu.pl
-NOERROR	kanlab13.keiaspe.agh.edu.pl
-NOERROR	fuksa.gorn.agh.edu.pl
-NXDOMAIN	uproszczony.plan.agh.edu.pl
-NOERROR	krokus132.imir.agh.edu.pl
-NOERROR	kielbasa.imir.agh.edu.pl
-NOERROR	nat-wggios12.agh.edu.pl
-NOERROR	dhcp176.kt.agh.edu.pl
-NOERROR	wfitj47a.ftj.agh.edu.pl
-NOERROR	wo186.odlew.agh.edu.pl
-NOERROR	nat-vl121.agh.edu.pl
-NOERROR	geoturystyka.agh.edu.pl
-NOERROR	i-lon2.elektro.agh.edu.pl
-NOERROR	host110-142.fis.agh.edu.pl
-NOERROR	wo25.odlew.agh.edu.pl
-NOERROR	rekrutacja.agh.edu.pl
-NOERROR	cumulus.elektro.agh.edu.pl
-NOERROR	jkulcz.zee.agh.edu.pl
-NOERROR	pr-inf4.wibro.agh.edu.pl
-NOERROR	cirus.zet.agh.edu.pl
-NOERROR	bpb.ceramika.agh.edu.pl
-NXDOMAIN	panel.demo.dsnet.agh.edu.pl
-NOERROR	www.szbi.zarz.agh.edu.pl
-NOERROR	kusmierek.geol.agh.edu.pl
-NOERROR	koi1.fis.agh.edu.pl
-NOERROR	hp2025d5.kt.agh.edu.pl
-NOERROR	lhojna.keiaspe.agh.edu.pl
-NOERROR	st5.gorn.agh.edu.pl
-NOERROR	lab111.metal.agh.edu.pl
-NOERROR	pc172.kme.agh.edu.pl
-NOERROR	ziuta1.imir.agh.edu.pl
-NOERROR	www.erasmusplus.agh.edu.pl
-NOERROR	stud115.fis.agh.edu.pl
-NOERROR	ktipm59.ktipm.agh.edu.pl
-NOERROR	l10.gorn.agh.edu.pl
-NOERROR	aq.ia.agh.edu.pl
-NOERROR	p3s.b1.agh.edu.pl
-NOERROR	marian1.gorn.agh.edu.pl
-NXDOMAIN	host110-29.fis.agh.edu.pl
-NOERROR	rydlew.gorn.agh.edu.pl
-NOERROR	szef-kmg.imir.agh.edu.pl
-NOERROR	rtr109.ftj.agh.edu.pl
-NOERROR	www.zarzadca.zarz.agh.edu.pl
-NOERROR	promocja.agh.edu.pl
-NOERROR	pc13.geol.agh.edu.pl
-NOERROR	www.kis2.zarz.agh.edu.pl
-NOERROR	kamerau2-2.adm.agh.edu.pl
-NOERROR	zts30.ia.agh.edu.pl
-NOERROR	kmg-153.imir.agh.edu.pl
-NOERROR	nimbus.elektro.agh.edu.pl
-NOERROR	szlaban-s2.adm.agh.edu.pl
-NOERROR	ops.dc1-prx-b.infra.ki.agh.edu.pl
-NOERROR	www.dwag.agh.edu.pl
-NOERROR	mat133.mat.agh.edu.pl
-NOERROR	rekrut-5.gorn.agh.edu.pl
-NOERROR	www.nmitb.agh.edu.pl
-NOERROR	nas.ia.agh.edu.pl
-NOERROR	pawul.gorn.agh.edu.pl
-NOERROR	ka89.ia.agh.edu.pl
-NOERROR	rateeat.icsr.agh.edu.pl
-NOERROR	wfitj39e.ftj.agh.edu.pl
-NOERROR	turnia6.metal.agh.edu.pl
-NOERROR	erp.ki.agh.edu.pl
-NOERROR	wfitj212e.ftj.agh.edu.pl
-NOERROR	margo.ia.agh.edu.pl
-NOERROR	servis5.mn.agh.edu.pl
-NOERROR	wo92.odlew.agh.edu.pl
-NOERROR	qoe.kt.agh.edu.pl
-NOERROR	cb6-149.ceramika.agh.edu.pl
-NOERROR	cmat32.mat.agh.edu.pl
-NOERROR	c5p106-pd1-3-14.keiaspe.agh.edu.pl
-NOERROR	www.budownictwo.agh.edu.pl
-NOERROR	nc.ftj.agh.edu.pl
-NOERROR	bb.metal.agh.edu.pl
-NOERROR	krimlab.wibro.agh.edu.pl
-NOERROR	mdp06c.elektro.agh.edu.pl
-NOERROR	fundacja.agh.edu.pl
-NOERROR	aniup117c.keiaspe.agh.edu.pl
-NOERROR	pldlab1.elektro.agh.edu.pl
-NOERROR	alfa.elektro.agh.edu.pl
-NOERROR	wojcik.imir.agh.edu.pl
-NOERROR	klimek.metal.agh.edu.pl
-NOERROR	wfitj90e.ftj.agh.edu.pl
-NOERROR	kb11.ceramika.agh.edu.pl
-NOERROR	jacek.imir.agh.edu.pl
-NOERROR	dhcp202.kt.agh.edu.pl
-NOERROR	nzs.agh.edu.pl
-NOERROR	szyndle.metal.agh.edu.pl
-NOERROR	nat-vl122.agh.edu.pl
-NOERROR	host110-137.fis.agh.edu.pl
-NOERROR	k-209-12.imir.agh.edu.pl
-NOERROR	www.dydaktyka.agh.edu.pl
-NOERROR	phg.b1.agh.edu.pl
-NOERROR	www.kmpan.agh.edu.pl
-NOERROR	lbpr5.mn.agh.edu.pl
-NOERROR	rpress6.imir.agh.edu.pl
-NOERROR	mops117.uci.agh.edu.pl
-NOERROR	iopscience.iop.org.iop-science.wbg2.bg.agh.edu.pl
-NOERROR	zm252.zmet.agh.edu.pl
-NOERROR	machedu3.fis.agh.edu.pl
-NOERROR	vpn241.kt.agh.edu.pl
-NOERROR	adamk.metal.agh.edu.pl
-NOERROR	best.zarz.agh.edu.pl
-NOERROR	wbg4.bg.agh.edu.pl
-NOERROR	wnioski.idub.agh.edu.pl
-NOERROR	1-p118a-b1.keiaspe.agh.edu.pl
-NOERROR	wfitj216e.ftj.agh.edu.pl
-NOERROR	ludka.metal.agh.edu.pl
-NOERROR	syllabus5.uci.agh.edu.pl
-NOERROR	agile.fis.agh.edu.pl
-NOERROR	host110-71.fis.agh.edu.pl
-NOERROR	zts34.ia.agh.edu.pl
-NOERROR	soa.uci.agh.edu.pl
-NOERROR	host110-89.fis.agh.edu.pl
-NOERROR	ns2.agh.edu.pl
-NOERROR	ktipm49.ktipm.agh.edu.pl
-NOERROR	test.wnig.agh.edu.pl
-NXDOMAIN	ansib.cel.agh.edu.pl
-NOERROR	max.mn.agh.edu.pl
-NOERROR	kwiatek.elektro.agh.edu.pl
-NOERROR	pojdzka.bg.agh.edu.pl
-NOERROR	www.cri.agh.edu.pl
-NOERROR	geoepom.dgn.agh.edu.pl
-NOERROR	sony-pcs.zarz.agh.edu.pl
-NOERROR	k-210-14.imir.agh.edu.pl
-NOERROR	nat-weaiib16.agh.edu.pl
-NOERROR	mops119.uci.agh.edu.pl
-NOERROR	www.trend.zarz.agh.edu.pl
-NOERROR	zm217.zmet.agh.edu.pl
-NOERROR	crm.kt.agh.edu.pl
-NOERROR	dhcp0103.kt.agh.edu.pl
-NOERROR	kap-110.imir.agh.edu.pl
-NOERROR	stud246.fis.agh.edu.pl
-NOERROR	ka81.ia.agh.edu.pl
-NOERROR	zbiegien-pc.zarz.agh.edu.pl
-NOERROR	repo.uci.agh.edu.pl
-NOERROR	pc49.zfcs.agh.edu.pl
-NOERROR	ozana.gorn.agh.edu.pl
-NOERROR	etee.agh.edu.pl
-NOERROR	kap-16.imir.agh.edu.pl
-NOERROR	krokus167.imir.agh.edu.pl
-NOERROR	gnom.wibro.agh.edu.pl
-NOERROR	kap-148.imir.agh.edu.pl
-NOERROR	kawiory6.wpie.agh.edu.pl
-NOERROR	b2-211.imir.agh.edu.pl
-NOERROR	co.bg.agh.edu.pl
-NOERROR	cmat21.mat.agh.edu.pl
-NOERROR	sloty.testament9.uci.agh.edu.pl
-NOERROR	ktipm37.ktipm.agh.edu.pl
-NOERROR	stalow14.metal.agh.edu.pl
-NOERROR	nat.zmet.agh.edu.pl
-NOERROR	neuro-rtr.ceramika.agh.edu.pl
-NOERROR	pc103.zfcs.agh.edu.pl
-NOERROR	ds19.unifi.dsnet.agh.edu.pl
-NOERROR	apps.usos.agh.edu.pl
-NOERROR	mayer.geol.agh.edu.pl
-NOERROR	bip.agh.edu.pl
-NOERROR	www.weip.agh.edu.pl
-NOERROR	ktipm22.ktipm.agh.edu.pl
-NOERROR	ktl-xxx.imir.agh.edu.pl
-NOERROR	vm7.uci.agh.edu.pl
-NOERROR	image-f.geod.agh.edu.pl
-NOERROR	wfitj166e.ftj.agh.edu.pl
-NOERROR	www.chor.agh.edu.pl
-NOERROR	ktipm35.ktipm.agh.edu.pl
-NOERROR	zimowski.imir.agh.edu.pl
-NOERROR	stfortun.imir.agh.edu.pl
-NOERROR	sunny.elektro.agh.edu.pl
-NOERROR	student3.zee.agh.edu.pl
-NOERROR	kolo228.kt.agh.edu.pl
-NOERROR	wojna-pc.wnaft.agh.edu.pl
-NOERROR	wfitj182e.ftj.agh.edu.pl
-NOERROR	engel.wibro.agh.edu.pl
-NOERROR	quark.ket.agh.edu.pl
-NOERROR	pc75.zfcs.agh.edu.pl
-NOERROR	cam-224.imir.agh.edu.pl
-NOERROR	grazyna.elektro.agh.edu.pl
-NOERROR	www.dynamix.agh.edu.pl
-NOERROR	dhcp50.kt.agh.edu.pl
-NOERROR	kalendarz.samorzad.agh.edu.pl
-NOERROR	sigma.gorn.agh.edu.pl
-NOERROR	szyba-pc.zarz.agh.edu.pl
-NOERROR	wpelib.wpie.agh.edu.pl
-NOERROR	pcmiue1.imir.agh.edu.pl
-NOERROR	pc8.wibro.agh.edu.pl
-NOERROR	st13.gorn.agh.edu.pl
-NOERROR	www.mathplay.agh.edu.pl
-NOERROR	lab404g.ia.agh.edu.pl
-NOERROR	nat-vl39.agh.edu.pl
-NOERROR	profil.test.dsnet.agh.edu.pl
-NOERROR	www.dev-cpps.agh.edu.pl
-NOERROR	www.knmss.agh.edu.pl
-NOERROR	zm245.zmet.agh.edu.pl
-NOERROR	pc16.zfcs.agh.edu.pl
-NOERROR	cam-225.imir.agh.edu.pl
-NOERROR	mdp11a.elektro.agh.edu.pl
-NOERROR	adapter.agh.edu.pl
-NOERROR	l02.gorn.agh.edu.pl
-NOERROR	urss1.urss.agh.edu.pl
-NOERROR	gemini.geod.agh.edu.pl
-NOERROR	zubrzycki-pc.wnaft.agh.edu.pl
-NOERROR	host110-160.fis.agh.edu.pl
-NOERROR	pluto.elektro.agh.edu.pl
-NOERROR	test198.kt.agh.edu.pl
-NOERROR	www.sciencedirect.com.atoz.wbg2.bg.agh.edu.pl
-NOERROR	dea.agh.edu.pl
-NOERROR	zgg59.geod.agh.edu.pl
-NOERROR	dhcp214.kt.agh.edu.pl
-NOERROR	mes5.mn.agh.edu.pl
-NOERROR	studium26.sjo.agh.edu.pl
-NOERROR	pcw.imir.agh.edu.pl
-NOERROR	smartenit-y3review.kt.agh.edu.pl
-NOERROR	pc139.kme.agh.edu.pl
-NOERROR	praktyki.zarz.agh.edu.pl
-NOERROR	rumin-pc.zarz.agh.edu.pl
-NOERROR	pc248.geol.agh.edu.pl
-NOERROR	kca22.ceramika.agh.edu.pl
-NOERROR	kct3.ceramika.agh.edu.pl
-NOERROR	samsungp401b-dr.zarz.agh.edu.pl
-NOERROR	balboa.ia.agh.edu.pl
-NOERROR	progress3.ket.agh.edu.pl
-NOERROR	wfitj40e.ftj.agh.edu.pl
-NOERROR	bemol.wibro.agh.edu.pl
-NOERROR	rjablonski.imir.agh.edu.pl
-NOERROR	wfitj190e.ftj.agh.edu.pl
-NOERROR	pegaz.wibro.agh.edu.pl
-NOERROR	kolo227.kt.agh.edu.pl
-NOERROR	wfitj222e.ftj.agh.edu.pl
-NOERROR	kin.wnaft.agh.edu.pl
-NOERROR	pcc200.ia.agh.edu.pl
-NOERROR	cb6-181.ceramika.agh.edu.pl
-NOERROR	datemp.wpie.agh.edu.pl
-NOERROR	ds12.unifi.dsnet.agh.edu.pl
-NOERROR	p415.wpie.agh.edu.pl
-NOERROR	w160548.geod.agh.edu.pl
-NOERROR	kse.agh.edu.pl
-NOERROR	layer-lab.ket.agh.edu.pl
-NOERROR	www.rdi.agh.edu.pl
-NOERROR	stud166.fis.agh.edu.pl
-NOERROR	test187.kt.agh.edu.pl
-NOERROR	foto.ia.agh.edu.pl
-NOERROR	nat-other1.agh.edu.pl
-NOERROR	irc.agh.edu.pl
-NOERROR	www.7ccgt.agh.edu.pl
-NOERROR	baca.ia.agh.edu.pl
-NOERROR	rheo.metal.agh.edu.pl
-NOERROR	www.intcourses.agh.edu.pl
-NOERROR	kl2.geod.agh.edu.pl
-NOERROR	lab404d.ia.agh.edu.pl
-NOERROR	www.oze-day.agh.edu.pl
-NOERROR	ktsipa.ceramika.agh.edu.pl
-NOERROR	sodas1.imir.agh.edu.pl
-NOERROR	lonlab3.elektro.agh.edu.pl
-NOERROR	kb17.ceramika.agh.edu.pl
-NOERROR	olimp32.imir.agh.edu.pl
-NOERROR	testament9.uci.agh.edu.pl
-NOERROR	ifip2007.agh.edu.pl
-NOERROR	dwz.dznet.agh.edu.pl
-NOERROR	kgg13.gorn.agh.edu.pl
-NOERROR	stass3.gorn.agh.edu.pl
-NOERROR	ad.mn.agh.edu.pl
-NOERROR	b3-120.imir.agh.edu.pl
-NOERROR	ostachowski.mn.agh.edu.pl
-NOERROR	limba2.metal.agh.edu.pl
-NOERROR	mops133.uci.agh.edu.pl
-NOERROR	api.uci.agh.edu.pl
-NOERROR	svn.asic.fis.agh.edu.pl
-NOERROR	wpelib2.wpie.agh.edu.pl
-NOERROR	wnssp25.ins.agh.edu.pl
-NOERROR	rekrut-6.gorn.agh.edu.pl
-NOERROR	ds2.agh.edu.pl
-NOERROR	testowyplan.agh.edu.pl
-NOERROR	marzena.mn.agh.edu.pl
-NOERROR	dhcp067.kt.agh.edu.pl
-NOERROR	test208.kt.agh.edu.pl
-NOERROR	nat-wggios4.agh.edu.pl
-NOERROR	stud249.fis.agh.edu.pl
-NOERROR	weip-d4-37.weip.agh.edu.pl
-NOERROR	dhcp068.kt.agh.edu.pl
-NOERROR	journals-1bg-1agh-1edu-1pl-1atoz.wbg2.bg.agh.edu.pl
-NOERROR	dhcp-pc191.elektro.agh.edu.pl
-NOERROR	miasteczko.agh.edu.pl
-NOERROR	kap-150.imir.agh.edu.pl
-NOERROR	pc155.kme.agh.edu.pl
-NOERROR	cel.dysk.agh.edu.pl
-NOERROR	wfitj220e.ftj.agh.edu.pl
-NOERROR	pc94.zfcs.agh.edu.pl
-NOERROR	isp.zarz.agh.edu.pl
-NOERROR	wo147.odlew.agh.edu.pl
-NOERROR	bimloq.ia.agh.edu.pl
-NOERROR	cracovia.elektro.agh.edu.pl
-NOERROR	www.powierzchnia.agh.edu.pl
-NOERROR	w10a.cri.agh.edu.pl
-NOERROR	ktipm45.ktipm.agh.edu.pl
-NOERROR	zts45.ia.agh.edu.pl
-NOERROR	usos.agh.edu.pl
-NOERROR	buba.ia.agh.edu.pl
-NOERROR	pami.agh.edu.pl
-NOERROR	www.kis.zarz.agh.edu.pl
-NOERROR	kisiel.gorn.agh.edu.pl
-NOERROR	asp.geod.agh.edu.pl
-NOERROR	wifi.agh.edu.pl
-NOERROR	kajtek17.gorn.agh.edu.pl
-NOERROR	www.sklep.agh.edu.pl
-NOERROR	wierchy.metal.agh.edu.pl
-NOERROR	krokus186.imir.agh.edu.pl
-NOERROR	bib.mn.agh.edu.pl
-NOERROR	www.tsgb.agh.edu.pl
-NOERROR	zdgpodz.gorn.agh.edu.pl
-NOERROR	term-f.bg.agh.edu.pl
-NOERROR	dhcp191.kt.agh.edu.pl
-NOERROR	dhcp076.kt.agh.edu.pl
-NOERROR	wimir.agh.edu.pl
-NOERROR	srtr.kt.agh.edu.pl
-NOERROR	raporty.bpp.agh.edu.pl
-NOERROR	ctk.agh.edu.pl
-NOERROR	aq3.ia.agh.edu.pl
-NOERROR	host110-38.fis.agh.edu.pl
-NOERROR	mops150.uci.agh.edu.pl
-NOERROR	krokus176.imir.agh.edu.pl
-NXDOMAIN	d8-os.infra.iisg.agh.edu.pl
-NOERROR	ieeexplore-1ieee-1org-1atoz.wbg2.bg.agh.edu.pl
-NOERROR	sgulip.elektro.agh.edu.pl
-NOERROR	pracfiz5.ftj.agh.edu.pl
-NOERROR	manfred.geod.agh.edu.pl
-NOERROR	epuniach.geod.agh.edu.pl
-NOERROR	host110-199.fis.agh.edu.pl
-NOERROR	www.embs.agh.edu.pl
-NOERROR	dt14.adm.agh.edu.pl
-NOERROR	dhcp210.kt.agh.edu.pl
-NOERROR	archiwum.plan.agh.edu.pl
-NOERROR	ka79.ia.agh.edu.pl
-NOERROR	la3.ia.agh.edu.pl
-NOERROR	warsztatygi.agh.edu.pl
-NOERROR	fg3.adm.agh.edu.pl
-NOERROR	zmb17.ceramika.agh.edu.pl
-NOERROR	www.bip.agh.edu.pl
-NOERROR	plan1.uci.agh.edu.pl
-NOERROR	www.spdbhp.agh.edu.pl
-NOERROR	cdmaserv.kt.agh.edu.pl
-NOERROR	e-capacit8.cel.agh.edu.pl
-NOERROR	www.ftwtp.fis.agh.edu.pl
-NOERROR	www.szkola.gorn.agh.edu.pl
-NOERROR	host110-57.fis.agh.edu.pl
-NOERROR	www-1biomat-1krakow-1pl-1atoz.wbg2.bg.agh.edu.pl
-NOERROR	lupus.elektro.agh.edu.pl
-NOERROR	host110-133.fis.agh.edu.pl
-NOERROR	link.iisg.agh.edu.pl
-NOERROR	xcm.ics.agh.edu.pl
-NOERROR	www.zet.agh.edu.pl
-NOERROR	rekrut2.zarz.agh.edu.pl
-NOERROR	urss7.urss.agh.edu.pl
-NOERROR	gandalf.zet.agh.edu.pl
-NOERROR	stock.agh.edu.pl
-NOERROR	pszm.ia.agh.edu.pl
-NOERROR	kobo.mn.agh.edu.pl
-NOERROR	krzyszt.gorn.agh.edu.pl
-NOERROR	krokus183.imir.agh.edu.pl
-NOERROR	www.closer.agh.edu.pl
-NOERROR	nbzielin.kt.agh.edu.pl
-NOERROR	slalek.metal.agh.edu.pl
-NOERROR	cmat18.mat.agh.edu.pl
-NOERROR	s303.gorn.agh.edu.pl
-NOERROR	vpn1.zarz.agh.edu.pl
-NOERROR	inzynier.geol.agh.edu.pl
-NXDOMAIN	aries.geod.agh.edu.pl
-NOERROR	mat137.mat.agh.edu.pl
-NOERROR	zfcscatalystb.zfcs.agh.edu.pl
-NXDOMAIN	wrss-rtr.eaiib.agh.edu.pl
-NOERROR	wfitj183e.ftj.agh.edu.pl
-NOERROR	limba9.metal.agh.edu.pl
-NOERROR	dou8.adm.agh.edu.pl
-NOERROR	stud229.fis.agh.edu.pl
-NOERROR	demo1.ftj.agh.edu.pl
-NOERROR	s02baran.imir.agh.edu.pl
-NOERROR	host110-151.fis.agh.edu.pl
-NOERROR	ca0-016.ceramika.agh.edu.pl
-NOERROR	www.warsztatygi.agh.edu.pl
-NOERROR	wfitj176e.ftj.agh.edu.pl
-NOERROR	wfitj195e.ftj.agh.edu.pl
-NOERROR	mts03.gorn.agh.edu.pl
-NOERROR	nat-uci8.agh.edu.pl
-NOERROR	dybiec.mn.agh.edu.pl
-NOERROR	dhcp204.kt.agh.edu.pl
-NOERROR	wfitj194e.ftj.agh.edu.pl
-NOERROR	lonmanager.ia.agh.edu.pl
-NOERROR	www.ieee.agh.edu.pl
-NOERROR	dhcp86.eaiib.agh.edu.pl
-NOERROR	weip-d4-35.weip.agh.edu.pl
-NXDOMAIN	eaiibrtr.eaiib.agh.edu.pl
-NOERROR	www.sciencedirect.com.ebsco-eds.wbg2.bg.agh.edu.pl
-NXDOMAIN	host110-14.fis.agh.edu.pl
-NOERROR	weip.dznet.agh.edu.pl
-NOERROR	kamila.elektro.agh.edu.pl
-NOERROR	kawalec.gorn.agh.edu.pl
-NOERROR	wnssp18.ins.agh.edu.pl
-NOERROR	active1.elektro.agh.edu.pl
-NOERROR	wimir-251.imir.agh.edu.pl
-NOERROR	host110-92.fis.agh.edu.pl
-NOERROR	fundacjams2.agh.edu.pl
-NOERROR	ca0-013.ceramika.agh.edu.pl
-NOERROR	www.cm.agh.edu.pl
-NOERROR	www.bpp.agh.edu.pl
-NOERROR	www.ubezpieczenia.agh.edu.pl
-NOERROR	xs3.cel.agh.edu.pl
-NOERROR	view.fis.agh.edu.pl
-NOERROR	mts02.gorn.agh.edu.pl
-NOERROR	kanlab7.keiaspe.agh.edu.pl
-NOERROR	bolek.mn.agh.edu.pl
-NOERROR	wfitj27e.ftj.agh.edu.pl
-NOERROR	ehr.geol.agh.edu.pl
-NOERROR	ipm2.agh.edu.pl
-NOERROR	poczta2.agh.edu.pl
-NOERROR	www.doktoranci.agh.edu.pl
-NOERROR	mat234.mat.agh.edu.pl
-NOERROR	bziolko.ket.agh.edu.pl
-NOERROR	codogni-pc.zarz.agh.edu.pl
-NOERROR	dudzic.gorn.agh.edu.pl
-NOERROR	kolo224.kt.agh.edu.pl
-NOERROR	stud206.fis.agh.edu.pl
-NOERROR	edd.ia.agh.edu.pl
-NXDOMAIN	auster.keiaspe.agh.edu.pl
-NOERROR	korozja.mn.agh.edu.pl
-NXDOMAIN	tommach.imir.agh.edu.pl
-NOERROR	pc177.kme.agh.edu.pl
-NOERROR	www.marketing.zarz.agh.edu.pl
-NOERROR	host110-114.fis.agh.edu.pl
-NOERROR	kap-119.imir.agh.edu.pl
-NOERROR	ktl-p1.imir.agh.edu.pl
-NOERROR	host110-194.fis.agh.edu.pl
-NOERROR	wmsg13.gorn.agh.edu.pl
-NOERROR	mielec.agh.edu.pl
-NOERROR	wicher.ia.agh.edu.pl
-NOERROR	dhcp6.zet.agh.edu.pl
-NXDOMAIN	slack0.marvin.uci.agh.edu.pl
-NOERROR	host110-78.fis.agh.edu.pl
-NOERROR	wfitj30e.ftj.agh.edu.pl
-NOERROR	bpp.testament10.uci.agh.edu.pl
-NOERROR	ci.cel.agh.edu.pl
-NOERROR	wfitj20e.ftj.agh.edu.pl
-NOERROR	www.kolarstwo.agh.edu.pl
-NOERROR	mops187.uci.agh.edu.pl
-NOERROR	pc116.ia.agh.edu.pl
-NOERROR	merlin.wibro.agh.edu.pl
-NOERROR	ca0-070.ceramika.agh.edu.pl
-NOERROR	icsadl.agh.edu.pl
-NOERROR	fntg.gorn.agh.edu.pl
-NOERROR	ca0-006.ceramika.agh.edu.pl
-NOERROR	www.usos.agh.edu.pl
-NOERROR	mat152.mat.agh.edu.pl
-NXDOMAIN	orion-vm.fis.agh.edu.pl
-NOERROR	p3d.b1.agh.edu.pl
-NOERROR	www.cms.agh.edu.pl
-NOERROR	mtrela-pc.zarz.agh.edu.pl
-NOERROR	www.transnarodowosc.agh.edu.pl
-NOERROR	host109-80.fis.agh.edu.pl
-NOERROR	wnss133b.ins.agh.edu.pl
-NOERROR	kpb-061.imir.agh.edu.pl
-NOERROR	xorp-110.ftj.agh.edu.pl
-NOERROR	news.agh.edu.pl
-NOERROR	limba4.metal.agh.edu.pl
-NOERROR	sylabusy.agh.edu.pl
-NOERROR	dt13.adm.agh.edu.pl
-NOERROR	dhcp-pc209.elektro.agh.edu.pl
-NOERROR	stud169.fis.agh.edu.pl
-NOERROR	host110-208.fis.agh.edu.pl
-NOERROR	wfitj98e.ftj.agh.edu.pl
-NOERROR	manecki.geol.agh.edu.pl
-NOERROR	ie4.ket.agh.edu.pl
-NOERROR	witek-pc.zarz.agh.edu.pl
-NOERROR	piorun.zee.agh.edu.pl
-NOERROR	wolny.metal.agh.edu.pl
-NOERROR	rk.keiaspe.agh.edu.pl
-NOERROR	pc74.zfcs.agh.edu.pl
-NOERROR	intstudies.agh.edu.pl
-NOERROR	cb6-249.ceramika.agh.edu.pl
-NOERROR	www.wpie.agh.edu.pl
-NOERROR	miag.agh.edu.pl
-NOERROR	router-lan109.fis.agh.edu.pl
-NOERROR	host110-238.fis.agh.edu.pl
-NOERROR	wo45.odlew.agh.edu.pl
-NXDOMAIN	pocztad.zarz.agh.edu.pl
-NOERROR	kawiory27.wpie.agh.edu.pl
-NOERROR	smartcity.ki.agh.edu.pl
-NOERROR	1-p118b-b1.keiaspe.agh.edu.pl
-NOERROR	arivald.metal.agh.edu.pl
-NOERROR	test175.kt.agh.edu.pl
-NOERROR	www.coemem.agh.edu.pl
-NOERROR	ca0-004.ceramika.agh.edu.pl
-NOERROR	ck.agh.edu.pl
-NOERROR	kse.geol.agh.edu.pl
-NOERROR	power2.agh.edu.pl
-NOERROR	mateusz.metal.agh.edu.pl
-NOERROR	www.sklepik.agh.edu.pl
-NOERROR	test171.kt.agh.edu.pl
-NOERROR	asterix.geod.agh.edu.pl
-NOERROR	kap-138.imir.agh.edu.pl
-NOERROR	www.sing10.zarz.agh.edu.pl
-NOERROR	ssa.eestec.agh.edu.pl
-NOERROR	nat-vl102.agh.edu.pl
-NOERROR	st11.gorn.agh.edu.pl
-NOERROR	ca0-009.ceramika.agh.edu.pl
-NOERROR	adyduch-pc.zarz.agh.edu.pl
-NOERROR	i5os2.fis.agh.edu.pl
-NOERROR	bi3.eaiib.agh.edu.pl
-NOERROR	test.gorn.agh.edu.pl
-NOERROR	wfitj110e.ftj.agh.edu.pl
-NOERROR	aoliinyk-router.wnaft.agh.edu.pl
-NOERROR	golab.metal.agh.edu.pl
-NOERROR	instron.mn.agh.edu.pl
-NOERROR	ktipm19.ktipm.agh.edu.pl
-NOERROR	siwek2.weip.agh.edu.pl
-NOERROR	lab03.gorn.agh.edu.pl
-NOERROR	lgc.kt.agh.edu.pl
-NOERROR	kcs20.ceramika.agh.edu.pl
-NOERROR	ktipm23.ktipm.agh.edu.pl
-NOERROR	dziekanat.geod.agh.edu.pl
-NOERROR	n-ferro2.mn.agh.edu.pl
-NOERROR	lochan2.gorn.agh.edu.pl
-NOERROR	www.grupawzs.agh.edu.pl
-NOERROR	tkargul.metal.agh.edu.pl
-NOERROR	kcs21.ceramika.agh.edu.pl
-NOERROR	monitor.kt.agh.edu.pl
-NOERROR	uo.agh.edu.pl
-NOERROR	www.marka.zarz.agh.edu.pl
-NOERROR	pc167.kme.agh.edu.pl
-NOERROR	www.asisemi.agh.edu.pl
-NOERROR	wibro-111.imir.agh.edu.pl
-NOERROR	wykowska.wibro.agh.edu.pl
-NOERROR	lonworks.ia.agh.edu.pl
-NOERROR	sphinx.ia.agh.edu.pl
-NOERROR	host109-86.fis.agh.edu.pl
-NOERROR	jozszew.geod.agh.edu.pl
-NOERROR	wnssp106a.ins.agh.edu.pl
-NOERROR	beta.ia.agh.edu.pl
-NOERROR	lm4.ia.agh.edu.pl
-NOERROR	aw.metal.agh.edu.pl
-NOERROR	rumian.wpie.agh.edu.pl
-NOERROR	miki.geod.agh.edu.pl
-NOERROR	bartnik.gorn.agh.edu.pl
-NOERROR	mikolaj.zet.agh.edu.pl
-NOERROR	dhcp047.kt.agh.edu.pl
-NOERROR	soundplan.wibro.agh.edu.pl
-NOERROR	ds4.unifi.dsnet.agh.edu.pl
-NOERROR	ergonom.wibro.agh.edu.pl
-NOERROR	dhcp069.kt.agh.edu.pl
-NOERROR	ceramrtr.ceramika.agh.edu.pl
-NOERROR	krawczyk.gorn.agh.edu.pl
-NOERROR	kawiory25.wpie.agh.edu.pl
-NOERROR	pc126.ia.agh.edu.pl
-NOERROR	ca0-079.ceramika.agh.edu.pl
-NOERROR	marek.mn.agh.edu.pl
-NXDOMAIN	irc.uci.agh.edu.pl
-NOERROR	kap-127.imir.agh.edu.pl
-NOERROR	pcmiue7.imir.agh.edu.pl
-NOERROR	awa.mat.agh.edu.pl
-NOERROR	djedrzej.metal.agh.edu.pl
-NOERROR	dhcp88.kt.agh.edu.pl
-NOERROR	ftwtp.fis.agh.edu.pl
-NOERROR	witczak.geol.agh.edu.pl
-NOERROR	www.bogdan.agh.edu.pl
-NXDOMAIN	ixs1.cel.agh.edu.pl
-NOERROR	kmg-152.imir.agh.edu.pl
-NOERROR	dudek-pc.zarz.agh.edu.pl
-NOERROR	cb6-167.ceramika.agh.edu.pl
-NOERROR	rejestracja.diament.agh.edu.pl
-NOERROR	dziekanat3-pc.wnaft.agh.edu.pl
-NOERROR	zaoczmn.mn.agh.edu.pl
-NOERROR	bach.elektro.agh.edu.pl
-NOERROR	faisrv.ftj.agh.edu.pl
-NOERROR	rtsg.elektro.agh.edu.pl
-NOERROR	host110-35.fis.agh.edu.pl
-NOERROR	wfitj93e.ftj.agh.edu.pl
-NOERROR	minolta.zet.agh.edu.pl
-NOERROR	serwer.keiaspe.agh.edu.pl
-NOERROR	walec.mn.agh.edu.pl
-NOERROR	cam.wibro.agh.edu.pl
-NOERROR	mat252.mat.agh.edu.pl
-NOERROR	ca0-065.ceramika.agh.edu.pl
-NOERROR	lab10.gorn.agh.edu.pl
-NOERROR	wmsg10.gorn.agh.edu.pl
-NXDOMAIN	testowyplan3.agh.edu.pl
-NXDOMAIN	yacek.uci.agh.edu.pl
-NOERROR	mowglie.ket.agh.edu.pl
-NOERROR	mczapkie.ket.agh.edu.pl
-NOERROR	labes3.ket.agh.edu.pl
-NOERROR	stud160.fis.agh.edu.pl
-NOERROR	ha-203.mn.agh.edu.pl
-NXDOMAIN	dhcp155.kt.agh.edu.pl
-NOERROR	rekrut24.fis.agh.edu.pl
-NOERROR	gorum.wpie.agh.edu.pl
-NOERROR	old.kt.agh.edu.pl
-NOERROR	dknez.wnaft.agh.edu.pl
-NOERROR	kct8.ceramika.agh.edu.pl
-NOERROR	pingwin.geod.agh.edu.pl
-NOERROR	kair.agh.edu.pl
-NOERROR	proj04.gorn.agh.edu.pl
-NOERROR	pc50.zfcs.agh.edu.pl
-NOERROR	www.kis.agh.edu.pl
-NOERROR	pc113.zfcs.agh.edu.pl
-NOERROR	lr8.ia.agh.edu.pl
-NOERROR	fg-agh.agh.edu.pl
-NOERROR	pasimi1.imir.agh.edu.pl
-NOERROR	przyrbwn-1icm-1edu-1pl-1atoz.wbg2.bg.agh.edu.pl
-NOERROR	host110-179.fis.agh.edu.pl
-NOERROR	historia.agh.edu.pl
-NOERROR	lab404k.ia.agh.edu.pl
-NOERROR	ppm.metal.agh.edu.pl
-NOERROR	host110-203.fis.agh.edu.pl
-NOERROR	krysia.kt.agh.edu.pl
-NOERROR	pks3.gorn.agh.edu.pl
-NOERROR	upsp0.odlew.agh.edu.pl
-NOERROR	krimsouth.wibro.agh.edu.pl
-NOERROR	mat157.mat.agh.edu.pl
-NOERROR	klimkowski.wnaft.agh.edu.pl
-NOERROR	open.agh.edu.pl
-NOERROR	szklarski.ket.agh.edu.pl
-NOERROR	ca0-034.ceramika.agh.edu.pl
-NOERROR	ursus.geol.agh.edu.pl
-NOERROR	www.cn.agh.edu.pl
-NOERROR	wmsg17.gorn.agh.edu.pl
-NOERROR	kcs38.ceramika.agh.edu.pl
-NOERROR	aggr2.detres.kt.agh.edu.pl
-NOERROR	kap-128.imir.agh.edu.pl
-NOERROR	wggios.dznet.agh.edu.pl
-NOERROR	www.skos.agh.edu.pl
-NOERROR	test239.kt.agh.edu.pl
-NOERROR	masz.zee.agh.edu.pl
-NOERROR	wpie11.wpie.agh.edu.pl
-NOERROR	zm196.zmet.agh.edu.pl
-NOERROR	feniks.imir.agh.edu.pl
-NOERROR	ostoja.mn.agh.edu.pl
-NOERROR	nat-adm1.agh.edu.pl
-NOERROR	mops148.uci.agh.edu.pl
-NOERROR	mops049.uci.agh.edu.pl
-NOERROR	czyz-pc.zarz.agh.edu.pl
-NOERROR	login.usos.agh.edu.pl
-NOERROR	metalforming.agh.edu.pl
-NOERROR	dhcp065.kt.agh.edu.pl
-NOERROR	lab404c.ia.agh.edu.pl
-NOERROR	zm229.zmet.agh.edu.pl
-NOERROR	wibrolab.wibro.agh.edu.pl
-NOERROR	mops136.uci.agh.edu.pl
-NOERROR	fluentgambit.gorn.agh.edu.pl
-NOERROR	pcstoch.kt.agh.edu.pl
-NOERROR	mdp06a.elektro.agh.edu.pl
-NOERROR	natanek.gorn.agh.edu.pl
-NOERROR	www.rditt.agh.edu.pl
-NOERROR	ux.agh.edu.pl
-NOERROR	cb6-210.ceramika.agh.edu.pl
-NOERROR	stud151.fis.agh.edu.pl
-NOERROR	www-1mdpi-1com-12vzsevgt05c9.wbg2.bg.agh.edu.pl
-NOERROR	cn.agh.edu.pl
-NOERROR	pubs-1rsc-1org-1000032to0b4d.wbg2.bg.agh.edu.pl
-NOERROR	pbogacz.gorn.agh.edu.pl
-NOERROR	dun.agh.edu.pl
-NOERROR	meteo2.ftj.agh.edu.pl
-NOERROR	kmyczkow.metal.agh.edu.pl
-NOERROR	www.keiaspe.agh.edu.pl
-NOERROR	tkam.wibro.agh.edu.pl
-NOERROR	jarekj.imir.agh.edu.pl
-NOERROR	agentday.agh.edu.pl
-NOERROR	kap-141.imir.agh.edu.pl
-NOERROR	www.demonstracje.agh.edu.pl
-NOERROR	team.kis.agh.edu.pl
-NOERROR	msass.geol.agh.edu.pl
-NOERROR	dell1.geol.agh.edu.pl
-NOERROR	sii.imir.agh.edu.pl
-NOERROR	wnssp10-2.ins.agh.edu.pl
-NOERROR	sorbenty2015.agh.edu.pl
-NOERROR	szeryf.ket.agh.edu.pl
-NOERROR	orlinska-pc.zarz.agh.edu.pl
-NOERROR	b2-307.imir.agh.edu.pl
-NOERROR	grupawzs.agh.edu.pl
-NOERROR	pracfiz0.ftj.agh.edu.pl
-NOERROR	boltzman.ia.agh.edu.pl
-NOERROR	ktipm58.ktipm.agh.edu.pl
-NOERROR	www.etee.agh.edu.pl
-NOERROR	pc118.zfcs.agh.edu.pl
-NOERROR	dziekanat-fg4.agh.edu.pl
-NOERROR	wfitj162e.ftj.agh.edu.pl
-NOERROR	b2gate.imir.agh.edu.pl
-NOERROR	k-320-5.imir.agh.edu.pl
-NOERROR	panel.dsnet.agh.edu.pl
-NOERROR	dhcp195.kt.agh.edu.pl
-NOERROR	mat165.mat.agh.edu.pl
-NOERROR	lab513-pc1.elektro.agh.edu.pl
-NOERROR	www.transportgazu.agh.edu.pl
-NOERROR	msdn.wgig.agh.edu.pl
-NOERROR	drv.kwestura.agh.edu.pl
-NOERROR	skarpeta.best.agh.edu.pl
-NOERROR	pc114.zfcs.agh.edu.pl
-NOERROR	pc77.zfcs.agh.edu.pl
-NOERROR	moteco.kt.agh.edu.pl
-NOERROR	mops059.uci.agh.edu.pl
-NOERROR	wo150.odlew.agh.edu.pl
-NOERROR	la5.ia.agh.edu.pl
-NOERROR	cb6-243.ceramika.agh.edu.pl
-NOERROR	sakwa.agh.edu.pl
-NOERROR	smyrak.mn.agh.edu.pl
-NOERROR	www.firn.agh.edu.pl
-NOERROR	syriusz.imir.agh.edu.pl
-NOERROR	mops064.uci.agh.edu.pl
-NOERROR	lab08-1.mn.agh.edu.pl
-NOERROR	www.eee.agh.edu.pl
-NOERROR	dhcp8.zet.agh.edu.pl
-NOERROR	mat151.mat.agh.edu.pl
-NOERROR	test178.kt.agh.edu.pl
-NOERROR	oleksy.gorn.agh.edu.pl
-NOERROR	nat-weaiib6.agh.edu.pl
-NOERROR	bstawowy-pc.zarz.agh.edu.pl
-NOERROR	pc76.zfcs.agh.edu.pl
-NOERROR	stud152.fis.agh.edu.pl
-NOERROR	matrtr.agh.edu.pl
-NOERROR	chodacki.imir.agh.edu.pl
-NOERROR	www.mafe.agh.edu.pl
-NOERROR	dtk-p3.ia.agh.edu.pl
-NOERROR	tslaptop.ket.agh.edu.pl
-NOERROR	www.rach.zarz.agh.edu.pl
-NOERROR	zmb6.ceramika.agh.edu.pl
-NOERROR	wo131.odlew.agh.edu.pl
-NOERROR	energet4.metal.agh.edu.pl
-NOERROR	uran.kt.agh.edu.pl
-NOERROR	host110-41.fis.agh.edu.pl
-NOERROR	vpn254.kt.agh.edu.pl
-NXDOMAIN	sopd.agh.edu.pl
-NOERROR	teneta1.ia.agh.edu.pl
-NXDOMAIN	res3.b1.agh.edu.pl
-NOERROR	noga.uci.agh.edu.pl
-NOERROR	pcc215.ia.agh.edu.pl
-NOERROR	lex.kwestura.agh.edu.pl
-NOERROR	kameraz2-4.adm.agh.edu.pl
-NOERROR	wnaft-sw-r-02.wnaft.agh.edu.pl
-NOERROR	lab06-4.mn.agh.edu.pl
-NOERROR	zts52.ia.agh.edu.pl
-NOERROR	lm1.ia.agh.edu.pl
-NOERROR	host109-89.fis.agh.edu.pl
-NOERROR	jkonstanty.metal.agh.edu.pl
-NOERROR	cb6-184.ceramika.agh.edu.pl
-NOERROR	www.dwz.agh.edu.pl
-NOERROR	hp4.agh.edu.pl
-NOERROR	dc1-idm-prx.infra.ki.agh.edu.pl
-NOERROR	studium14.sjo.agh.edu.pl
-NOERROR	gemini.elektro.agh.edu.pl
-NOERROR	wfitj199e.ftj.agh.edu.pl
-NOERROR	grant.geod.agh.edu.pl
-NOERROR	wo26.odlew.agh.edu.pl
-NOERROR	pcdomzal.kt.agh.edu.pl
-NOERROR	pc107.zfcs.agh.edu.pl
-NOERROR	szkolenia.informatyka.agh.edu.pl
-NOERROR	stalow8.metal.agh.edu.pl
-NOERROR	microrelay.uci.agh.edu.pl
-NOERROR	pokoj321-dr.zarz.agh.edu.pl
-NOERROR	debosz.imir.agh.edu.pl
-NOERROR	studium9.sjo.agh.edu.pl
-NOERROR	isd.fis.agh.edu.pl
-NOERROR	skarbek.gorn.agh.edu.pl
-NOERROR	kap-54.imir.agh.edu.pl
-NOERROR	brudnik.ket.agh.edu.pl
-NXDOMAIN	host110-28.fis.agh.edu.pl
-NOERROR	universeh.agh.edu.pl
-NOERROR	cmat23.mat.agh.edu.pl
-NOERROR	wnss16h.ins.agh.edu.pl
-NOERROR	uno.gorn.agh.edu.pl
-NOERROR	zgg58.geod.agh.edu.pl
-NOERROR	nowinska-pc.zarz.agh.edu.pl
-NOERROR	pc19.zfcs.agh.edu.pl
-NOERROR	maxwell.elektro.agh.edu.pl
-NXDOMAIN	olimp199.imir.agh.edu.pl
-NOERROR	mklenovo.weip.agh.edu.pl
-NOERROR	emoos.agh.edu.pl
-NOERROR	xeon.ia.agh.edu.pl
-NOERROR	orion.kis.agh.edu.pl
-NOERROR	zk.gorn.agh.edu.pl
-NOERROR	www.embio.agh.edu.pl
-NOERROR	dtyrala.metal.agh.edu.pl
-NOERROR	jeta.imir.agh.edu.pl
-NOERROR	akademiki.agh.edu.pl
-NOERROR	ca0-073.ceramika.agh.edu.pl
-NOERROR	krzys.zarz.agh.edu.pl
-NOERROR	www.icil.zarz.agh.edu.pl
-NOERROR	parnas.ia.agh.edu.pl
-NOERROR	gps4.geod.agh.edu.pl
-NOERROR	machedu1.fis.agh.edu.pl
-NOERROR	zfchpm.metal.agh.edu.pl
-NOERROR	b2-kor1-5.imir.agh.edu.pl
-NOERROR	wfitj214e.ftj.agh.edu.pl
-NOERROR	rybicki.geol.agh.edu.pl
-NOERROR	cjee.agh.edu.pl
-NOERROR	host110-198.fis.agh.edu.pl
-NOERROR	pc174.kme.agh.edu.pl
-NOERROR	wo72.odlew.agh.edu.pl
-NOERROR	dhcp0111.kt.agh.edu.pl
-NOERROR	www.wmiim.agh.edu.pl
-NOERROR	kb16.ceramika.agh.edu.pl
-NOERROR	wmsg24.gorn.agh.edu.pl
-NOERROR	oborg.kis.agh.edu.pl
-NOERROR	tomasz.geol.agh.edu.pl
-NOERROR	kcs1.ceramika.agh.edu.pl
-NOERROR	test203.kt.agh.edu.pl
-NOERROR	mops042.uci.agh.edu.pl
-NOERROR	pc154.kme.agh.edu.pl
-NOERROR	machno-pc.zarz.agh.edu.pl
-NOERROR	jachim-f.geod.agh.edu.pl
-NOERROR	kct10.ceramika.agh.edu.pl
-NOERROR	pc105.zfcs.agh.edu.pl
-NOERROR	ucirtr.agh.edu.pl
-NOERROR	pc164.kme.agh.edu.pl
-NOERROR	d8-806-sambo.ket.agh.edu.pl
-NOERROR	atrynka.wpie.agh.edu.pl
-NOERROR	deathstar.kt.agh.edu.pl
-NOERROR	nt3.geol.agh.edu.pl
-NOERROR	checkmk.iisg.agh.edu.pl
-NOERROR	zetrtr.zet.agh.edu.pl
-NOERROR	krokus173.imir.agh.edu.pl
-NOERROR	samsungm2825p311-dr.zarz.agh.edu.pl
-NOERROR	biblioteka-1.mn.agh.edu.pl
-NOERROR	lab-linux.zee.agh.edu.pl
-NOERROR	lbpr1.mn.agh.edu.pl
-NOERROR	mops163.uci.agh.edu.pl
-NOERROR	serwer7.ktipm.agh.edu.pl
-NOERROR	pc137.kme.agh.edu.pl
-NOERROR	gorski-pc.zarz.agh.edu.pl
-NOERROR	olimp192.imir.agh.edu.pl
-NOERROR	vpn.kt.agh.edu.pl
-NOERROR	stud232.fis.agh.edu.pl
-NOERROR	www.ltpmn-poig.agh.edu.pl
-NOERROR	test192.kt.agh.edu.pl
-NOERROR	mdp05a.elektro.agh.edu.pl
-NOERROR	www.fut.samorzad.agh.edu.pl
-NOERROR	iopscience-1iop-1org-1000032xr063e.wbg2.bg.agh.edu.pl
-NOERROR	nat.ds9.agh.edu.pl
-NOERROR	mdp12b.elektro.agh.edu.pl
-NOERROR	zgg55.geod.agh.edu.pl
-NOERROR	bazyli.imir.agh.edu.pl
-NOERROR	www.qcw2020.agh.edu.pl
-NOERROR	kw1.kwestura.agh.edu.pl
-NOERROR	wyt1.imir.agh.edu.pl
-NOERROR	skos.agh.edu.pl
-NOERROR	nat-vl37.agh.edu.pl
-NOERROR	pc99.zfcs.agh.edu.pl
-NOERROR	nat-vl118.agh.edu.pl
-NOERROR	mercury.elektro.agh.edu.pl
-NOERROR	kap-37.imir.agh.edu.pl
-NOERROR	geofizyk.geol.agh.edu.pl
-NOERROR	www.zp.zarz.agh.edu.pl
-NOERROR	www-1tandfonline-1com-1atoz.wbg2.bg.agh.edu.pl
-NOERROR	www.msad.zarz.agh.edu.pl
-NOERROR	gemini-2.fis.agh.edu.pl
-NOERROR	cb6-198.ceramika.agh.edu.pl
-NOERROR	cb6-247.ceramika.agh.edu.pl
-NOERROR	alfa.keiaspe.agh.edu.pl
-NOERROR	host110-205.fis.agh.edu.pl
-NOERROR	www.doktoraty.iet.agh.edu.pl
-NOERROR	switch4.wnaft.agh.edu.pl
-NOERROR	www-1scientific-1net-1000032e90f79.wbg2.bg.agh.edu.pl
-NOERROR	pc74.bg.agh.edu.pl
-NOERROR	wo58.odlew.agh.edu.pl
-NOERROR	nat-wggiis4.agh.edu.pl
-NOERROR	kap-52.imir.agh.edu.pl
-NOERROR	ktipm53.ktipm.agh.edu.pl
-NOERROR	zin2.geol.agh.edu.pl
-NOERROR	wmsg37.gorn.agh.edu.pl
-NOERROR	lbsh3.ia.agh.edu.pl
-NOERROR	www.difrea08.agh.edu.pl
-NOERROR	molenda.geol.agh.edu.pl
-NOERROR	pedro.zee.agh.edu.pl
-NOERROR	kap-19.imir.agh.edu.pl
-NOERROR	ikar.zarz.agh.edu.pl
-NOERROR	www.cs.agh.edu.pl
-NOERROR	kap-31.imir.agh.edu.pl
-NOERROR	kalukiewicz-pc.zarz.agh.edu.pl
-NOERROR	nat-vl108.agh.edu.pl
-NOERROR	kct13.ceramika.agh.edu.pl
-NOERROR	www.nit.agh.edu.pl
-NOERROR	journals.bg.agh.edu.pl.atoz.wbg2.bg.agh.edu.pl
-NOERROR	wo48.odlew.agh.edu.pl
-NOERROR	lipsk210-pc4.zarz.agh.edu.pl
-NOERROR	speech.ia.agh.edu.pl
-NOERROR	ca0-003.ceramika.agh.edu.pl
-NOERROR	www.sylabus.agh.edu.pl
-NOERROR	aeroteam.agh.edu.pl
-NOERROR	test183.kt.agh.edu.pl
-NOERROR	dydaktyka.iisg.agh.edu.pl
-NOERROR	pracme1.mn.agh.edu.pl
-NOERROR	twwm.imir.agh.edu.pl
-NOERROR	kgg11.gorn.agh.edu.pl
-NOERROR	ca0-064.ceramika.agh.edu.pl
-NOERROR	piechowi.wibro.agh.edu.pl
-NOERROR	cast.iisg.agh.edu.pl
-NOERROR	mat242.mat.agh.edu.pl
-NOERROR	oowee.agh.edu.pl
-NOERROR	stud201.fis.agh.edu.pl
-NOERROR	www.dgn.agh.edu.pl
-NOERROR	zm239.zmet.agh.edu.pl
-NOERROR	labog04.wpie.agh.edu.pl
-NOERROR	dhcp057.kt.agh.edu.pl
-NOERROR	mops130.uci.agh.edu.pl
-NOERROR	mops142.uci.agh.edu.pl
-NOERROR	apollo.dsnet.agh.edu.pl
-NOERROR	www.zsn.agh.edu.pl
-NOERROR	ubpo-data2.agh.edu.pl
-NOERROR	www.d4.agh.edu.pl
-NOERROR	pldml-1icm-1edu-1pl-1atoz.wbg2.bg.agh.edu.pl
-NOERROR	www.mpd.agh.edu.pl
-NOERROR	www.zfcs.agh.edu.pl
-NOERROR	www.kigbp.agh.edu.pl
-NOERROR	ka76.ia.agh.edu.pl
-NOERROR	dhcp073.kt.agh.edu.pl
-NOERROR	www.cpv.agh.edu.pl
-NOERROR	grobler.ia.agh.edu.pl
-NOERROR	l19.gorn.agh.edu.pl
-NOERROR	mops025.uci.agh.edu.pl
-NOERROR	jh.mn.agh.edu.pl
-NOERROR	bystrze1.adm.agh.edu.pl
-NOERROR	tommadej.imir.agh.edu.pl
-NOERROR	wpie35.wpie.agh.edu.pl
-NOERROR	weip-d4-49.weip.agh.edu.pl
-NOERROR	sunum4.kt.agh.edu.pl
-NOERROR	wpie21.wpie.agh.edu.pl
-NOERROR	kobiety.elektro.agh.edu.pl
-NOERROR	kostolow.metal.agh.edu.pl
-NOERROR	weip-d4-31.weip.agh.edu.pl
-NOERROR	lmdm.agh.edu.pl
-NOERROR	switch2.wnaft.agh.edu.pl
-NOERROR	nat.ds8.agh.edu.pl
-NOERROR	kap-124.imir.agh.edu.pl
-NOERROR	www.knmimn.agh.edu.pl
-NOERROR	jetlan7.ia.agh.edu.pl
-NOERROR	www.bieg.agh.edu.pl
-NOERROR	www.knnobel.agh.edu.pl
-NOERROR	wnssp117.ins.agh.edu.pl
-NOERROR	bbl0.ics.agh.edu.pl
-NOERROR	k-322-7.imir.agh.edu.pl
-NXDOMAIN	olimp43.imir.agh.edu.pl
-NOERROR	link-1springer-1com-1000032sv00ef.wbg2.bg.agh.edu.pl
-NOERROR	spdbhp.agh.edu.pl
-NOERROR	joter.wpie.agh.edu.pl
-NOERROR	cuprum.mn.agh.edu.pl
-NOERROR	pldlab3.elektro.agh.edu.pl
-NOERROR	host110-63.fis.agh.edu.pl
-NOERROR	wo79.odlew.agh.edu.pl
-NOERROR	wimir-254.imir.agh.edu.pl
-NOERROR	nawa.metal.agh.edu.pl
-NOERROR	wo47.odlew.agh.edu.pl
-NOERROR	k-210-10.imir.agh.edu.pl
-NOERROR	wnss16c.ins.agh.edu.pl
-NOERROR	klinik.wpie.agh.edu.pl
-NOERROR	rebit.zarz.agh.edu.pl
-NOERROR	labkostek1.ket.agh.edu.pl
-NOERROR	rekrut-7.gorn.agh.edu.pl
-NOERROR	www-1meeri-1pl-1atoz.wbg2.bg.agh.edu.pl
-NOERROR	iisg.agh.edu.pl
-NOERROR	pc243.geol.agh.edu.pl
-NOERROR	sock.esa.agh.edu.pl
-NOERROR	egzamin.zarz.agh.edu.pl
-NOERROR	kobialka.imir.agh.edu.pl
-NOERROR	powder1.metal.agh.edu.pl
-NOERROR	mdp10c.elektro.agh.edu.pl
-NOERROR	kcs15.ceramika.agh.edu.pl
-NOERROR	fus-pc.zarz.agh.edu.pl
-NOERROR	p-218.mn.agh.edu.pl
-NOERROR	kamel.kme.agh.edu.pl
-NOERROR	caribou.iisg.agh.edu.pl
-NOERROR	ukr2tmp.agh.edu.pl
-NOERROR	dhcp0104.kt.agh.edu.pl
-NOERROR	mops152.uci.agh.edu.pl
-NOERROR	www.isc.agh.edu.pl
-NOERROR	biuro4.wpie.agh.edu.pl
-NOERROR	paperless.uci.agh.edu.pl
-NOERROR	kct29.ceramika.agh.edu.pl
-NOERROR	turnia2.metal.agh.edu.pl
-NXDOMAIN	idm-apps-lb.infra.ki.agh.edu.pl
-NOERROR	wfitj67e.ftj.agh.edu.pl
-NXDOMAIN	mlody.imir.agh.edu.pl
-NOERROR	www.barborka.agh.edu.pl
-NOERROR	www.knmg.agh.edu.pl
-NOERROR	informatyka.agh.edu.pl
-NOERROR	studium19.sjo.agh.edu.pl
-NOERROR	koala.metal.agh.edu.pl
-NOERROR	www.syllabus.agh.edu.pl
-NOERROR	e-rejestr.cri.agh.edu.pl
-NOERROR	zagnes.wpie.agh.edu.pl
-NOERROR	ivserv.ia.agh.edu.pl
-NOERROR	yacek.cri.agh.edu.pl
-NOERROR	misiek.metal.agh.edu.pl
-NXDOMAIN	isolib.uci.agh.edu.pl
-NOERROR	sorp2.wpie.agh.edu.pl
-NOERROR	studium27.sjo.agh.edu.pl
-NOERROR	wfitj43e.ftj.agh.edu.pl
-NOERROR	wmsg3.gorn.agh.edu.pl
-NOERROR	host110-178.fis.agh.edu.pl
-NOERROR	host109-96.fis.agh.edu.pl
-NOERROR	pc161.kme.agh.edu.pl
-NOERROR	tytus.kt.agh.edu.pl
-NOERROR	pracedyplomowe.eaiib.agh.edu.pl
-NOERROR	larix.metal.agh.edu.pl
-NOERROR	kca11.ceramika.agh.edu.pl
-NOERROR	wsn.elektro.agh.edu.pl
-NOERROR	stock-test.agh.edu.pl
-NOERROR	ds3.agh.edu.pl
-NOERROR	annapurna.ia.agh.edu.pl
-NOERROR	ktipm31.ktipm.agh.edu.pl
-NOERROR	k-210-12.imir.agh.edu.pl
-NOERROR	www.cel.agh.edu.pl
-NOERROR	dhcp-pc201.elektro.agh.edu.pl
-NOERROR	nat-vl117.agh.edu.pl
-NOERROR	dhcp035.kt.agh.edu.pl
-NOERROR	techspo.agh.edu.pl
-NOERROR	mosix2.kt.agh.edu.pl
-NOERROR	kcs45.ceramika.agh.edu.pl
-NOERROR	cb6-134.ceramika.agh.edu.pl
-NOERROR	link-1springer-1com-1000032i308ce.wbg2.bg.agh.edu.pl
-NOERROR	www.kmcip.agh.edu.pl
-NOERROR	rys-pc.zarz.agh.edu.pl
-NOERROR	host110-229.fis.agh.edu.pl
-NOERROR	wo32.odlew.agh.edu.pl
-NOERROR	zm250.zmet.agh.edu.pl
-NXDOMAIN	fourier.fis.agh.edu.pl
-NOERROR	willow.metal.agh.edu.pl
-NOERROR	mops109.uci.agh.edu.pl
-NOERROR	joduda-pc.zarz.agh.edu.pl
-NOERROR	www.kchwnos.agh.edu.pl
-NOERROR	wnaft-file-01.wnaft.agh.edu.pl
-NOERROR	lwm4.imir.agh.edu.pl
-NOERROR	kgg14.gorn.agh.edu.pl
-NOERROR	karo.mn.agh.edu.pl
-NOERROR	kcs29.ceramika.agh.edu.pl
-NOERROR	pc62.zfcs.agh.edu.pl
-NOERROR	mdp08a.elektro.agh.edu.pl
-NOERROR	olejnicz.gorn.agh.edu.pl
-NOERROR	scotty.kis.agh.edu.pl
-NOERROR	aip.agh.edu.pl
-NOERROR	wfitj112e.ftj.agh.edu.pl
-NOERROR	ksero.ia.agh.edu.pl
-NOERROR	turnia14.metal.agh.edu.pl
-NOERROR	pc151.kme.agh.edu.pl
-NOERROR	dziekanat6-pc.wnaft.agh.edu.pl
-NOERROR	test168.kt.agh.edu.pl
-NOERROR	www.controlling.zarz.agh.edu.pl
-NOERROR	cb6-224.ceramika.agh.edu.pl
-NOERROR	www.icq12.fis.agh.edu.pl
-NOERROR	wo11.odlew.agh.edu.pl
-NOERROR	mczaja.gorn.agh.edu.pl
-NOERROR	cb6-237.ceramika.agh.edu.pl
-NOERROR	www.ursstv.agh.edu.pl
-NOERROR	bigtower.elektro.agh.edu.pl
-NOERROR	dhcp218.kt.agh.edu.pl
-NOERROR	pindor-pc.zarz.agh.edu.pl
-NOERROR	ds17.unifi.dsnet.agh.edu.pl
-NOERROR	mops151.uci.agh.edu.pl
-NOERROR	www.chfie.agh.edu.pl
-NXDOMAIN	demeter-projektor.zarz.agh.edu.pl
-NOERROR	wifi-wpa.agh.edu.pl
-NOERROR	lab02.gorn.agh.edu.pl
-NOERROR	a3-10.gorn.agh.edu.pl
-NOERROR	stud109.fis.agh.edu.pl
-NOERROR	syllabus0.uci.agh.edu.pl
-NOERROR	nat-weaiib13.agh.edu.pl
-NOERROR	vmw18.ftj.agh.edu.pl
-NOERROR	mops172.uci.agh.edu.pl
-NOERROR	wfitj25e.ftj.agh.edu.pl
-NOERROR	bogdanes.wpie.agh.edu.pl
-NOERROR	www.elektronika.agh.edu.pl
-NOERROR	marpers.gorn.agh.edu.pl
-NOERROR	lab713.metal.agh.edu.pl
-NOERROR	www.wrss-met.agh.edu.pl
-NOERROR	nbph.elektro.agh.edu.pl
-NOERROR	dhcp-pc184.elektro.agh.edu.pl
-NOERROR	kw6.kwestura.agh.edu.pl
-NOERROR	bsl.agh.edu.pl
-NOERROR	mops168.uci.agh.edu.pl
-NOERROR	zkedzier.metal.agh.edu.pl
-NOERROR	k-320-12.imir.agh.edu.pl
-NOERROR	student.agh.edu.pl
-NOERROR	pwitako.gorn.agh.edu.pl
-NOERROR	icmfs2015.agh.edu.pl
-NOERROR	ghandi.wibro.agh.edu.pl
-NOERROR	nat-adm23.agh.edu.pl
-NOERROR	kap-23.imir.agh.edu.pl
-NOERROR	zgg53.geod.agh.edu.pl
-NOERROR	dzn.agh.edu.pl
-NOERROR	bartek.metal.agh.edu.pl
-NOERROR	urss0.urss.agh.edu.pl
-NOERROR	gucio.metal.agh.edu.pl
-NXDOMAIN	kasia.imir.agh.edu.pl
-NOERROR	dziurzyn.gorn.agh.edu.pl
-NOERROR	mops040.uci.agh.edu.pl
-NOERROR	i-lon1.elektro.agh.edu.pl
-NOERROR	servis4.mn.agh.edu.pl
-NOERROR	fem.zet.agh.edu.pl
-NOERROR	kig.wnaft.agh.edu.pl
-NOERROR	antares.wydagh.agh.edu.pl
-NOERROR	lds-3.keiaspe.agh.edu.pl
-NOERROR	rtr1.kt.agh.edu.pl
-NOERROR	cam-216.imir.agh.edu.pl
-NOERROR	dhcp173.kt.agh.edu.pl
-NOERROR	dhcp149.kt.agh.edu.pl
-NOERROR	www-1sciencedirect-1com-1000032bj2218.wbg2.bg.agh.edu.pl
-NOERROR	pc27.zfcs.agh.edu.pl
-NOERROR	dura-pc.zarz.agh.edu.pl
-NOERROR	www.rdisgie.agh.edu.pl
-NOERROR	justbridge.agh.edu.pl
-NOERROR	www.personel.zarz.agh.edu.pl
-NOERROR	papytko.imir.agh.edu.pl
-NOERROR	mat196.mat.agh.edu.pl
-NOERROR	k-320-3.imir.agh.edu.pl
-NOERROR	70lat.wggios.agh.edu.pl
-NOERROR	morawa.gorn.agh.edu.pl
-NOERROR	mops153.uci.agh.edu.pl
-NOERROR	mops026.uci.agh.edu.pl
-NOERROR	dhcp052.kt.agh.edu.pl
-NOERROR	oska2016.agh.edu.pl
-NOERROR	epomdb.uci.agh.edu.pl
-NOERROR	wo52.odlew.agh.edu.pl
-NOERROR	tribos2.imir.agh.edu.pl
-NOERROR	zm209.zmet.agh.edu.pl
-NOERROR	mat180.mat.agh.edu.pl
-NOERROR	playwithurss.samorzad.agh.edu.pl
-NOERROR	wnssp209.ins.agh.edu.pl
-NOERROR	oldlabserv.kt.agh.edu.pl
-NOERROR	elektro.agh.edu.pl
-NOERROR	rekrutacja.eestec.agh.edu.pl
-NOERROR	nat-tech4.agh.edu.pl
-NOERROR	b2-323.imir.agh.edu.pl
-NOERROR	kap-29.imir.agh.edu.pl
-NOERROR	arva.geod.agh.edu.pl
-NOERROR	50lat.wnig.agh.edu.pl
-NOERROR	lic-srv-5.wnaft.agh.edu.pl
-NOERROR	zorba.ia.agh.edu.pl
-NOERROR	wfitj187e.ftj.agh.edu.pl
-NOERROR	kse12.ceramika.agh.edu.pl
-NOERROR	kusa-brother.zarz.agh.edu.pl
-NOERROR	rainbow.fis.agh.edu.pl
-NOERROR	krasp2020.agh.edu.pl
-NOERROR	cerber-2.fis.agh.edu.pl
-NOERROR	nomad.zet.agh.edu.pl
-NOERROR	pnor.mn.agh.edu.pl
-NOERROR	mops184.uci.agh.edu.pl
-NOERROR	nat-wimip3.agh.edu.pl
-NOERROR	ekrany.agh.edu.pl
-NOERROR	probc.zarz.agh.edu.pl
-NOERROR	zm222.zmet.agh.edu.pl
-NOERROR	mat232.mat.agh.edu.pl
-NOERROR	cmat55.mat.agh.edu.pl
-NOERROR	kmg-166.imir.agh.edu.pl
-NOERROR	p112.mn.agh.edu.pl
-NOERROR	td200-f.geod.agh.edu.pl
-NOERROR	wo2.odlew.agh.edu.pl
-NOERROR	www.khgi.agh.edu.pl
-NOERROR	apc2.ftj.agh.edu.pl
-NOERROR	vm.zet.agh.edu.pl
-NOERROR	muszka.metal.agh.edu.pl
-NOERROR	wydzlab.agh.edu.pl
-NOERROR	rpress9.imir.agh.edu.pl
-NOERROR	www.icsr.agh.edu.pl
-NOERROR	www.laboratoria.agh.edu.pl
-NOERROR	pcmiue5.imir.agh.edu.pl
-NOERROR	www.knia.agh.edu.pl
-NOERROR	sroka.geod.agh.edu.pl
-NOERROR	journals-1bg-1agh-1edu-1pl-1000032kf048d.wbg2.bg.agh.edu.pl
-NOERROR	china.agh.edu.pl
-NOERROR	nat-vl111.agh.edu.pl
-NOERROR	wpie40.wpie.agh.edu.pl
-NOERROR	pcorzech.kt.agh.edu.pl
-NOERROR	www.spinlab.agh.edu.pl
-NOERROR	www.inbioks.agh.edu.pl
-NOERROR	pc51.zfcs.agh.edu.pl
-NOERROR	p4.metal.agh.edu.pl
-NOERROR	zmb15.ceramika.agh.edu.pl
-NOERROR	ziam1.metal.agh.edu.pl
-NOERROR	www.bazy.agh.edu.pl
-NOERROR	www.power3.5.agh.edu.pl
-NOERROR	aq61.ia.agh.edu.pl
-NOERROR	stefansz.metal.agh.edu.pl
-NOERROR	wojtek.elektro.agh.edu.pl
-NOERROR	jedyneczka.geod.agh.edu.pl
-NOERROR	wnssp22.ins.agh.edu.pl
-NOERROR	dhcp76.kt.agh.edu.pl
-NOERROR	kap-15.imir.agh.edu.pl
-NOERROR	man.ktipm.agh.edu.pl
-NOERROR	www.forumkrakow.geol.agh.edu.pl
-NOERROR	host110-197.fis.agh.edu.pl
-NOERROR	pc91.zfcs.agh.edu.pl
-NOERROR	stepin.metal.agh.edu.pl
-NOERROR	dareklesniak.mn.agh.edu.pl
-NOERROR	wyklad.elektro.agh.edu.pl
-NOERROR	kawiory5.wpie.agh.edu.pl
-NOERROR	host110-140.fis.agh.edu.pl
-NOERROR	host110-50.fis.agh.edu.pl
-NOERROR	test185.kt.agh.edu.pl
-NOERROR	www.kngf.geol.agh.edu.pl
-NOERROR	pkcomp.elektro.agh.edu.pl
-NOERROR	ca0-040.ceramika.agh.edu.pl
-NOERROR	host110-72.fis.agh.edu.pl
-NOERROR	agh4dev2.agh.edu.pl
-NOERROR	vmw1.ftj.agh.edu.pl
-NOERROR	spectro.ket.agh.edu.pl
-NOERROR	doktor2.gorn.agh.edu.pl
-NXDOMAIN	jabber.agh.edu.pl
-NOERROR	demeter-adm.zarz.agh.edu.pl
-NOERROR	www.koliba.agh.edu.pl
-NOERROR	loki.ia.agh.edu.pl
-NOERROR	md.mn.agh.edu.pl
-NOERROR	ka84.ia.agh.edu.pl
-NOERROR	leszekop.geod.agh.edu.pl
-NOERROR	kgg10.gorn.agh.edu.pl
-NOERROR	wimir100lat.agh.edu.pl
-NOERROR	lbsh6.ia.agh.edu.pl
-NOERROR	pccholda.kt.agh.edu.pl
-NOERROR	d1zpe.zfcs.agh.edu.pl
-NOERROR	dsp-hp5m.elektro.agh.edu.pl
-NOERROR	demeter-bms.zarz.agh.edu.pl
-NOERROR	hajdo-pc.zarz.agh.edu.pl
-NOERROR	mine.agh.edu.pl
-NOERROR	apro-107.imir.agh.edu.pl
-NOERROR	mops050.uci.agh.edu.pl
-NOERROR	x-pomiary.elektro.agh.edu.pl
-NOERROR	st18.gorn.agh.edu.pl
-NOERROR	pc05.zfcs.agh.edu.pl
-NOERROR	mops086.uci.agh.edu.pl
-NOERROR	kse21.ceramika.agh.edu.pl
-NOERROR	ultra.wibro.agh.edu.pl
-NOERROR	wo155.odlew.agh.edu.pl
-NOERROR	wfitj234e.ftj.agh.edu.pl
-NOERROR	gip316.geod.agh.edu.pl
-NOERROR	mailman.agh.edu.pl
-NOERROR	mops145.uci.agh.edu.pl
-NOERROR	daniel.imir.agh.edu.pl
-NOERROR	kcs34.ceramika.agh.edu.pl
-NOERROR	wfitj107e.ftj.agh.edu.pl
-NOERROR	mszczerba.mn.agh.edu.pl
-NOERROR	host110-209.fis.agh.edu.pl
-NOERROR	majcher.gorn.agh.edu.pl
-NOERROR	telephoners.agh.edu.pl
-NOERROR	belzebub.imir.agh.edu.pl
-NOERROR	korcyl-pc.zarz.agh.edu.pl
-NOERROR	palinski-pc.zarz.agh.edu.pl
-NOERROR	kap-48.imir.agh.edu.pl
-NOERROR	ca0-049.ceramika.agh.edu.pl
-NOERROR	targi.agh.edu.pl
-NOERROR	cmat9.mat.agh.edu.pl
-NOERROR	mops070.uci.agh.edu.pl
-NOERROR	hestia.zarz.agh.edu.pl
-NOERROR	sodas.imir.agh.edu.pl
-NOERROR	kawiory20.wpie.agh.edu.pl
-NOERROR	vote.agh.edu.pl
-NOERROR	www-1sciencedirect-1com-18w7w476n3b8b.wbg2.bg.agh.edu.pl
-NOERROR	wfitj188e.ftj.agh.edu.pl
-NOERROR	ggrid.ics.agh.edu.pl
-NOERROR	www.notatki.cel.agh.edu.pl
-NOERROR	wnssp5.ins.agh.edu.pl
-NOERROR	www.geol.agh.edu.pl
-NOERROR	vsphere130.geod.agh.edu.pl
-NOERROR	dymek.metal.agh.edu.pl
-NOERROR	pc119.ia.agh.edu.pl
-NOERROR	iopscience-1iop-1org-10000320000e7.wbg2.bg.agh.edu.pl
-NOERROR	rychter.gorn.agh.edu.pl
-NOERROR	ca0-041.ceramika.agh.edu.pl
-NOERROR	auriga.fis.agh.edu.pl
-NOERROR	ef-conference.agh.edu.pl
-NOERROR	noc.cri.agh.edu.pl
-NOERROR	mat162.mat.agh.edu.pl
-NOERROR	hpcad2.ftj.agh.edu.pl
-NOERROR	www.kmasz.odlew.agh.edu.pl
-NOERROR	kaut.agh.edu.pl
-NOERROR	kb7.ceramika.agh.edu.pl
-NOERROR	pc33.zfcs.agh.edu.pl
-NOERROR	dhcp167.kt.agh.edu.pl
-NOERROR	cubryna.metal.agh.edu.pl
-NOERROR	hp5035pietro.kt.agh.edu.pl
-NOERROR	cerber.icsr.agh.edu.pl
-NOERROR	pc3.wibro.agh.edu.pl
-NOERROR	st10.gorn.agh.edu.pl
-NOERROR	nat-empl.ki.agh.edu.pl
-NOERROR	wojcik.geod.agh.edu.pl
-NOERROR	hp5100.zet.agh.edu.pl
-NOERROR	itracs.uci.agh.edu.pl
-NOERROR	sklep.agh.edu.pl
-NOERROR	geos.geol.agh.edu.pl
-NOERROR	kzfm.fis.agh.edu.pl
-NXDOMAIN	blusrtr.uci.agh.edu.pl
-NOERROR	kb8.ceramika.agh.edu.pl
-NOERROR	mirra.imir.agh.edu.pl
-NOERROR	agh1.geol.agh.edu.pl
-NOERROR	tsgb.agh.edu.pl
-NOERROR	netzsch.metal.agh.edu.pl
-NOERROR	wkr1.ceramika.agh.edu.pl
-NOERROR	aula.geol.agh.edu.pl
-NOERROR	hp-4250.imir.agh.edu.pl
-NOERROR	kca9.ceramika.agh.edu.pl
-NOERROR	franco.metal.agh.edu.pl
-NOERROR	kcs14.ceramika.agh.edu.pl
-NOERROR	www.foto.agh.edu.pl
-NOERROR	laszczka.imir.agh.edu.pl
-NOERROR	host110-97.fis.agh.edu.pl
-NOERROR	dhcp0101.kt.agh.edu.pl
-NOERROR	ktipm29.ktipm.agh.edu.pl
-NOERROR	janosik.mn.agh.edu.pl
-NOERROR	zgg54.geod.agh.edu.pl
-NOERROR	kb10.ceramika.agh.edu.pl
-NOERROR	stud157.fis.agh.edu.pl
-NOERROR	p41.geod.agh.edu.pl
-NOERROR	k-210-04.imir.agh.edu.pl
-NOERROR	www.geoinformatica.agh.edu.pl
-NOERROR	cb6-139.ceramika.agh.edu.pl
-NOERROR	ipsl.geod.agh.edu.pl
-NOERROR	komplastech.agh.edu.pl
-NOERROR	jkarcz.geol.agh.edu.pl
-NOERROR	yeti.ia.agh.edu.pl
-NOERROR	lfa222.ket.agh.edu.pl
-NOERROR	kse1.ceramika.agh.edu.pl
-NOERROR	www.icpmat2014.agh.edu.pl
-NOERROR	lab08-2.mn.agh.edu.pl
-NOERROR	wo1.odlew.agh.edu.pl
-NXDOMAIN	reserved.eaiib.agh.edu.pl
-NOERROR	stud202.fis.agh.edu.pl
-NXDOMAIN	res4.b1.agh.edu.pl
-NOERROR	nat-wiet1.agh.edu.pl
-NOERROR	perseusz.mn.agh.edu.pl
-NOERROR	lsr05.ia.agh.edu.pl
-NOERROR	host110-121.fis.agh.edu.pl
-NOERROR	emix.uci.agh.edu.pl
-NOERROR	pc93.zfcs.agh.edu.pl
-NOERROR	pcmiue4.imir.agh.edu.pl
-NOERROR	paulo.geol.agh.edu.pl
-NOERROR	weip-d4-27.weip.agh.edu.pl
-NOERROR	wnss16m.ins.agh.edu.pl
-NOERROR	grazas.imir.agh.edu.pl
-NOERROR	ca0-007.ceramika.agh.edu.pl
-NOERROR	sprawdz.plan.agh.edu.pl
-NOERROR	bardo.metal.agh.edu.pl
-NOERROR	stud227.fis.agh.edu.pl
-NOERROR	mars.elektro.agh.edu.pl
-NOERROR	pcwojcik.kt.agh.edu.pl
-NOERROR	krokus2-7.imir.agh.edu.pl
-NOERROR	hk.gorn.agh.edu.pl
-NOERROR	riv.geod.agh.edu.pl
-NOERROR	aciesla.zet.agh.edu.pl
-NOERROR	terra.imir.agh.edu.pl
-NOERROR	ilon7.ia.agh.edu.pl
-NOERROR	stud111.fis.agh.edu.pl
-NOERROR	charon.ftj.agh.edu.pl
-NOERROR	wfitj233e.ftj.agh.edu.pl
-NOERROR	nat-weaiib9.agh.edu.pl
-NOERROR	mops005.uci.agh.edu.pl
-NOERROR	kipczak.imir.agh.edu.pl
-NOERROR	rozdzielnia2-u11.adm.agh.edu.pl
-NOERROR	mat206.mat.agh.edu.pl
-NOERROR	eos.fis.agh.edu.pl
-NOERROR	pawelw.wibro.agh.edu.pl
-NOERROR	cmat31.mat.agh.edu.pl
-NXDOMAIN	w10a.uci.agh.edu.pl
-NOERROR	lm9.ia.agh.edu.pl
-NOERROR	tjadczyk.elektro.agh.edu.pl
-NOERROR	dhcp163.kt.agh.edu.pl
-NOERROR	zm237.zmet.agh.edu.pl
-NOERROR	kca13.ceramika.agh.edu.pl
-NOERROR	pk217f.mn.agh.edu.pl
-NOERROR	krokus188.imir.agh.edu.pl
-NOERROR	canon2.mn.agh.edu.pl
-NOERROR	testament10.uci.agh.edu.pl
-NXDOMAIN	k-210-02.imir.agh.edu.pl
-NOERROR	sor.cr.agh.edu.pl
-NOERROR	www.geotermia.agh.edu.pl
-NOERROR	wo30.odlew.agh.edu.pl
-NXDOMAIN	reserved74.eaiib.agh.edu.pl
-NOERROR	intranet.kt.agh.edu.pl
-NOERROR	wnig.agh.edu.pl
-NOERROR	panel.test.dsnet.agh.edu.pl
-NOERROR	klobuk.gorn.agh.edu.pl
-NOERROR	vm6.uci.agh.edu.pl
-NOERROR	biuletynpig-1publisherspanel-1com-10000326y0907.wbg2.bg.agh.edu.pl
-NOERROR	ladecki.imir.agh.edu.pl
-NOERROR	aga.metal.agh.edu.pl
-NOERROR	kap-35.imir.agh.edu.pl
-NOERROR	smart.keiaspe.agh.edu.pl
-NOERROR	host110-217.fis.agh.edu.pl
-NOERROR	lichota-pc.zarz.agh.edu.pl
-NOERROR	nat-vl101.agh.edu.pl
-NXDOMAIN	wlctl.uci.agh.edu.pl
-NOERROR	clusterups.ket.agh.edu.pl
-NOERROR	mdp11c.elektro.agh.edu.pl
-NOERROR	mat221.mat.agh.edu.pl
-NOERROR	dhcp0107.kt.agh.edu.pl
-NOERROR	weip-d4-39.weip.agh.edu.pl
-NOERROR	vpn238.kt.agh.edu.pl
-NOERROR	www.odlew.agh.edu.pl
-NOERROR	wfitj217e.ftj.agh.edu.pl
-NOERROR	jadwigat.wibro.agh.edu.pl
-NOERROR	doctor.mn.agh.edu.pl
-NOERROR	ca0-029.ceramika.agh.edu.pl
-NOERROR	studium4.sjo.agh.edu.pl
-NOERROR	www.ki-pokl.agh.edu.pl
-NOERROR	olimp21.imir.agh.edu.pl
-NOERROR	kese.ia.agh.edu.pl
-NOERROR	ktipm.ktipm.agh.edu.pl
-NOERROR	linksys.eaiib.agh.edu.pl
-NOERROR	koala.geod.agh.edu.pl
-NXDOMAIN	anha.imir.agh.edu.pl
-NOERROR	comm.dc1-prx-a.infra.ki.agh.edu.pl
-NOERROR	k-320-11.imir.agh.edu.pl
-NOERROR	msdn.zarz.agh.edu.pl
-NOERROR	cmat26.mat.agh.edu.pl
-NOERROR	wo56.odlew.agh.edu.pl
-NOERROR	mta.iisg.agh.edu.pl
-NOERROR	zm198.zmet.agh.edu.pl
-NOERROR	ka70.ia.agh.edu.pl
-NOERROR	d8-806-hp-cp2025.ket.agh.edu.pl
-NOERROR	www.mpwp2016.agh.edu.pl
-NOERROR	agnieszka.metal.agh.edu.pl
-NOERROR	host110-184.fis.agh.edu.pl
-NOERROR	skankser.imir.agh.edu.pl
-NOERROR	fortiweb3.uci.agh.edu.pl
-NOERROR	atomscript.agh.edu.pl
-NOERROR	wfitj44e.ftj.agh.edu.pl
-NOERROR	nat.ds10.agh.edu.pl
-NOERROR	bem.zet.agh.edu.pl
-NOERROR	wnaft-rpc.wnaft.agh.edu.pl
-NOERROR	twin.mn.agh.edu.pl
-NOERROR	www.fit.agh.edu.pl
-NOERROR	host109-82.fis.agh.edu.pl
-NOERROR	apro-108.imir.agh.edu.pl
-NOERROR	ca0-015.ceramika.agh.edu.pl
-NOERROR	b3-11.mn.agh.edu.pl
-NOERROR	cesar.imir.agh.edu.pl
-NOERROR	www.dzp.agh.edu.pl
-NOERROR	charon3.fis.agh.edu.pl
-NOERROR	isci18.fis.agh.edu.pl
-NOERROR	lwm2.imir.agh.edu.pl
-NOERROR	ldap.agh.edu.pl
-NOERROR	mlynarska.gorn.agh.edu.pl
-NOERROR	poczta.zarz.agh.edu.pl
-NOERROR	mrychter.gorn.agh.edu.pl
-NOERROR	sylwia.geod.agh.edu.pl
-NOERROR	bluzy.agh.edu.pl
-NXDOMAIN	host110-241.fis.agh.edu.pl
-NOERROR	krysia.ket.agh.edu.pl
-NOERROR	kcs8.ceramika.agh.edu.pl
-NOERROR	chemfiz1.mn.agh.edu.pl
-NOERROR	stamal.mn.agh.edu.pl
-NOERROR	anna.geod.agh.edu.pl
-NOERROR	vpn229.kt.agh.edu.pl
-NOERROR	waclawik-pc.zarz.agh.edu.pl
-NOERROR	lemuel.ket.agh.edu.pl
-NOERROR	dhcp181.kt.agh.edu.pl
-NOERROR	gw62.bg.agh.edu.pl
-NOERROR	urss2.urss.agh.edu.pl
-NOERROR	kcs17.ceramika.agh.edu.pl
-NOERROR	dhcp200.kt.agh.edu.pl
-NOERROR	mops074.uci.agh.edu.pl
-NOERROR	jankowski-pc.zarz.agh.edu.pl
-NOERROR	kgib.geod.agh.edu.pl
-NOERROR	www.kolanaukowe.agh.edu.pl
-NOERROR	www-1sciencedirect-1com-1000032to090a.wbg2.bg.agh.edu.pl
-NOERROR	kap-20.imir.agh.edu.pl
-NOERROR	boron.elektro.agh.edu.pl
-NOERROR	dhcp080.kt.agh.edu.pl
-NOERROR	www.oowee.agh.edu.pl
-NOERROR	pc40.zfcs.agh.edu.pl
-NOERROR	turnas.wgig.agh.edu.pl
-NOERROR	szt-agh.metal.agh.edu.pl
-NOERROR	amx-modero.gorn.agh.edu.pl
-NOERROR	szyszka.geod.agh.edu.pl
-NOERROR	lbws01.gorn.agh.edu.pl
-NOERROR	host110-52.fis.agh.edu.pl
-NOERROR	wnaft-0001-e4.wnaft.agh.edu.pl
-NOERROR	www.posrednik.zarz.agh.edu.pl
-NOERROR	lwm6.imir.agh.edu.pl
-NOERROR	wdev.cel.agh.edu.pl
-NOERROR	www.sp-is.agh.edu.pl
-NOERROR	kse4.ceramika.agh.edu.pl
-NOERROR	pc115.zfcs.agh.edu.pl
-NOERROR	wh.uci.agh.edu.pl
-NOERROR	stud-dok.metal.agh.edu.pl
-NOERROR	ca0-076.ceramika.agh.edu.pl
-NOERROR	cbk.geod.agh.edu.pl
-NOERROR	ts.ftj.agh.edu.pl
-NOERROR	zm228.zmet.agh.edu.pl
-NOERROR	wpie24.wpie.agh.edu.pl
-NOERROR	plachno.imir.agh.edu.pl
-NOERROR	lily.ics.agh.edu.pl
-NOERROR	geotermia.geod.agh.edu.pl
-NOERROR	labstud04.wpie.agh.edu.pl
-NOERROR	odkurzacz.geod.agh.edu.pl
-NOERROR	zts59.ia.agh.edu.pl
-NOERROR	marcinkowska-pc.zarz.agh.edu.pl
-NOERROR	kezp.agh.edu.pl
-NOERROR	kawiory10.wpie.agh.edu.pl
-NOERROR	mops015.uci.agh.edu.pl
-NOERROR	mops041.uci.agh.edu.pl
-NOERROR	5sg-es.agh.edu.pl
-NOERROR	www.icmfs2015.agh.edu.pl
-NOERROR	pcromaniak.kt.agh.edu.pl
-NOERROR	vpn252.kt.agh.edu.pl
-NOERROR	emiter.radio17.agh.edu.pl
-NOERROR	ajedrzej.metal.agh.edu.pl
-NOERROR	krobicki.geol.agh.edu.pl
-NOERROR	ca0-044.ceramika.agh.edu.pl
-NOERROR	host110-207.fis.agh.edu.pl
-NOERROR	zts43.ia.agh.edu.pl
-NOERROR	www.ksw.agh.edu.pl
-NOERROR	nowakows.metal.agh.edu.pl
-NOERROR	mops019.uci.agh.edu.pl
-NOERROR	wnss16k.ins.agh.edu.pl
-NXDOMAIN	mars.ics.agh.edu.pl
-NOERROR	wkr2.ceramika.agh.edu.pl
-NOERROR	vlsi.elektro.agh.edu.pl
-NOERROR	storage.acmin.agh.edu.pl
-NOERROR	pc12.zfcs.agh.edu.pl
-NOERROR	duna.keiaspe.agh.edu.pl
-NOERROR	basia.ket.agh.edu.pl
-NOERROR	cmat53.mat.agh.edu.pl
-NOERROR	ewakom.wpie.agh.edu.pl
-NOERROR	www.5sg-es.agh.edu.pl
-NOERROR	www.diament.agh.edu.pl
-NOERROR	vote.eaiib.agh.edu.pl
-NOERROR	wrss.iet.agh.edu.pl
-NOERROR	slosar.gorn.agh.edu.pl
-NOERROR	kotmarc.imir.agh.edu.pl
-NOERROR	rumba.ia.agh.edu.pl
-NOERROR	chrzastek.geol.agh.edu.pl
-NOERROR	mgmt.sso.pti.agh.edu.pl
-NOERROR	killer.wibro.agh.edu.pl
-NOERROR	www.geowiert.wnaft.agh.edu.pl
-NOERROR	mongo.icsr.agh.edu.pl
-NOERROR	geist.agh.edu.pl
-NOERROR	www.aip.agh.edu.pl
-NOERROR	kcs33.ceramika.agh.edu.pl
-NOERROR	nat.ds4.agh.edu.pl
-NOERROR	test223.kt.agh.edu.pl
-NOERROR	wo90.odlew.agh.edu.pl
-NOERROR	www.sjo.agh.edu.pl
-NOERROR	rozdzielnia1-u12.adm.agh.edu.pl
-NOERROR	cb6-193.ceramika.agh.edu.pl
-NOERROR	cmat15.mat.agh.edu.pl
-NOERROR	brama2.adm.agh.edu.pl
-NOERROR	vpn239.kt.agh.edu.pl
-NOERROR	progress.geod.agh.edu.pl
-NOERROR	ie24.ket.agh.edu.pl
-NOERROR	dt4.adm.agh.edu.pl
-NOERROR	cttrouter.adm.agh.edu.pl
-NOERROR	www.kandydat.agh.edu.pl
-NOERROR	adam.imir.agh.edu.pl
-NOERROR	host110-93.fis.agh.edu.pl
-NOERROR	vpn224.kt.agh.edu.pl
-NOERROR	pcc214.ia.agh.edu.pl
-NOERROR	mat245.mat.agh.edu.pl
-NOERROR	mat203.mat.agh.edu.pl
-NOERROR	minus.ds14.agh.edu.pl
-NOERROR	pr-inf2.wibro.agh.edu.pl
-NOERROR	alto-status.elektro.agh.edu.pl
-NOERROR	mops008.uci.agh.edu.pl
-NOERROR	www.moodle.cel.agh.edu.pl
-NOERROR	pc249.geol.agh.edu.pl
-NOERROR	mikilaptop.zet.agh.edu.pl
-NXDOMAIN	pcoip-vpn.iisg.agh.edu.pl
-NOERROR	mops162.uci.agh.edu.pl
-NOERROR	fg1.adm.agh.edu.pl
-NOERROR	gwh.cri.agh.edu.pl
-NOERROR	brzeczyk.ket.agh.edu.pl
-NOERROR	www.cmmc19.wms.agh.edu.pl
-NOERROR	www.knaa.agh.edu.pl
-NOERROR	www3.zarz.agh.edu.pl
-NOERROR	ktl.imir.agh.edu.pl
-NOERROR	kap-114.imir.agh.edu.pl
-NOERROR	mops004.uci.agh.edu.pl
-NOERROR	stud244.fis.agh.edu.pl
-NOERROR	bett.agh.edu.pl
-NOERROR	tv.zarz.agh.edu.pl
-NOERROR	doktor1.gorn.agh.edu.pl
-NOERROR	wfitj145e.ftj.agh.edu.pl
-NOERROR	www.knbig.wgig.agh.edu.pl
-NOERROR	www.biomed.agh.edu.pl
-NOERROR	www.foundry.agh.edu.pl
-NOERROR	afej.agh.edu.pl
-NOERROR	delta.metal.agh.edu.pl
-NOERROR	www.kniop.agh.edu.pl
-NOERROR	pc135.kme.agh.edu.pl
-NOERROR	fizykadlamedyka.agh.edu.pl
-NOERROR	lk.geod.agh.edu.pl
-NOERROR	szmaragd.geod.agh.edu.pl
-NOERROR	dominik.wibro.agh.edu.pl
-NOERROR	ci.ics.agh.edu.pl
-NOERROR	siemens.geod.agh.edu.pl
-NOERROR	e-cop.agh.edu.pl
-NOERROR	test210.kt.agh.edu.pl
-NOERROR	wfitj96e.ftj.agh.edu.pl
-NXDOMAIN	fix.ki.agh.edu.pl
-NOERROR	kap-51.imir.agh.edu.pl
-NOERROR	stud104.fis.agh.edu.pl
-NOERROR	mat250.mat.agh.edu.pl
-NOERROR	serwer2.ktipm.agh.edu.pl
-NOERROR	www.misp.agh.edu.pl
-NOERROR	kb18.ceramika.agh.edu.pl
-NOERROR	opal.wibro.agh.edu.pl
-NOERROR	mops055.uci.agh.edu.pl
-NOERROR	ktipm40.ktipm.agh.edu.pl
-NOERROR	cb6-161.ceramika.agh.edu.pl
-NOERROR	www.universeh.agh.edu.pl
-NOERROR	l05.gorn.agh.edu.pl
-NOERROR	cetus.imir.agh.edu.pl
-NOERROR	www.dsp.agh.edu.pl
-NOERROR	leszek.kis.agh.edu.pl
-NOERROR	wnaft-0001-ilo.wnaft.agh.edu.pl
-NOERROR	sonata.kt.agh.edu.pl
-NOERROR	jw.ket.agh.edu.pl
-NXDOMAIN	gucio.eaiib.agh.edu.pl
-NOERROR	mpec.zarz.agh.edu.pl
-NOERROR	turnia9.metal.agh.edu.pl
-NOERROR	pc142.kme.agh.edu.pl
-NOERROR	brasil.oen.agh.edu.pl
-NOERROR	www.artmag.agh.edu.pl
-NOERROR	c3sw2.ia.agh.edu.pl
-NOERROR	www.spinwork.agh.edu.pl
-NOERROR	krokus2-11.imir.agh.edu.pl
-NOERROR	syllabus1.uci.agh.edu.pl
-NOERROR	krab.agh.edu.pl
-NOERROR	lab317-99.ia.agh.edu.pl
-NOERROR	cb6-208.ceramika.agh.edu.pl
-NOERROR	host110-98.fis.agh.edu.pl
-NOERROR	kap-149.imir.agh.edu.pl
-NOERROR	allibys.d17.iisg.agh.edu.pl
-NOERROR	www.kisips.agh.edu.pl
-NOERROR	altera.wibro.agh.edu.pl
-NOERROR	majewska.geol.agh.edu.pl
-NOERROR	host110-86.fis.agh.edu.pl
-NOERROR	dhcp045.kt.agh.edu.pl
-NOERROR	lds-1.keiaspe.agh.edu.pl
-NOERROR	www.ea.agh.edu.pl
-NOERROR	pcc.imir.agh.edu.pl
-NOERROR	mops057.uci.agh.edu.pl
-NOERROR	zm248.zmet.agh.edu.pl
-NOERROR	pergamon.wydagh.agh.edu.pl
-NOERROR	www.siatka.agh.edu.pl
-NOERROR	docs.age.agh.edu.pl
-NOERROR	ieeexplore.ieee.org.atoz.wbg2.bg.agh.edu.pl
-NXDOMAIN	sso-mgmt.agh.edu.pl
-NOERROR	knmd.agh.edu.pl
-NOERROR	gandalf.kt.agh.edu.pl
-NOERROR	vpn249.kt.agh.edu.pl
-NXDOMAIN	slack0.darwin.uci.agh.edu.pl
-NOERROR	stud105.fis.agh.edu.pl
-NOERROR	ca0-026.ceramika.agh.edu.pl
-NOERROR	snauk.ket.agh.edu.pl
-NOERROR	jaga.wibro.agh.edu.pl
-NXDOMAIN	darwin.uci.agh.edu.pl
-NOERROR	kronos.zarz.agh.edu.pl
-NOERROR	polak.icsr.agh.edu.pl
-NOERROR	wfitj97e.ftj.agh.edu.pl
-NOERROR	nowak.gorn.agh.edu.pl
-NOERROR	ubpo-data1.agh.edu.pl
-NOERROR	sienkiewiczowka.agh.edu.pl
-NXDOMAIN	osa.uci.agh.edu.pl
-NOERROR	www.icps.agh.edu.pl
-NOERROR	nat.keiaspe.agh.edu.pl
-NOERROR	b3-15.mn.agh.edu.pl
-NOERROR	www.ru.agh.edu.pl
-NOERROR	k-322-13.imir.agh.edu.pl
-NOERROR	host110-173.fis.agh.edu.pl
-NOERROR	dhcp093.kt.agh.edu.pl
-NOERROR	pompon.wydagh.agh.edu.pl
-NOERROR	sauron.wibro.agh.edu.pl
-NOERROR	siaka.kt.agh.edu.pl
-NOERROR	mcss2015.kt.agh.edu.pl
-NOERROR	ka88.ia.agh.edu.pl
-NOERROR	sniezka.metal.agh.edu.pl
-NOERROR	dhcp1.zet.agh.edu.pl
-NOERROR	zmimp5.metal.agh.edu.pl
-NOERROR	dhcp075.kt.agh.edu.pl
-NOERROR	dhcp175.kt.agh.edu.pl
-NOERROR	ktipm57.ktipm.agh.edu.pl
-NOERROR	traf0.kme.agh.edu.pl
-NOERROR	kolano2.imir.agh.edu.pl
-NOERROR	rofteam.agh.edu.pl
-NOERROR	www.socjonetka.agh.edu.pl
-NOERROR	kchudyba.zee.agh.edu.pl
-NOERROR	jakczak.geol.agh.edu.pl
-NOERROR	b2-310.imir.agh.edu.pl
-NOERROR	eeagrants.agh.edu.pl
-NOERROR	atena.imir.agh.edu.pl
-NOERROR	rembie.gorn.agh.edu.pl
-NOERROR	stud162.fis.agh.edu.pl
-NOERROR	dt3-voip.adm.agh.edu.pl
-NOERROR	lab.dc1-prx-b.infra.ki.agh.edu.pl
-NOERROR	kusa-pc.zarz.agh.edu.pl
-NOERROR	kct5.ceramika.agh.edu.pl
-NOERROR	greebo.cel.agh.edu.pl
-NOERROR	ktipm46.ktipm.agh.edu.pl
-NOERROR	batko.wibro.agh.edu.pl
-NOERROR	www.ignis.agh.edu.pl
-NOERROR	lupus.metal.agh.edu.pl
-NOERROR	wpie25.wpie.agh.edu.pl
-NOERROR	mops017.uci.agh.edu.pl
-NOERROR	pc04.zfcs.agh.edu.pl
-NOERROR	dhcp044.kt.agh.edu.pl
-NOERROR	ka80.ia.agh.edu.pl
-NOERROR	bastion.ki.agh.edu.pl
-NOERROR	kaniup.agh.edu.pl
-NOERROR	ipm.agh.edu.pl
-NOERROR	wnssp113.ins.agh.edu.pl
-NOERROR	k-209-05.imir.agh.edu.pl
-NOERROR	aq5.ia.agh.edu.pl
-NOERROR	gartek.zet.agh.edu.pl
-NOERROR	syrius.mn.agh.edu.pl
-NOERROR	www.90lat.agh.edu.pl
-NOERROR	3dpath.wnaft.agh.edu.pl
-NOERROR	kgg7.gorn.agh.edu.pl
-NOERROR	rychlicki-pc.wnaft.agh.edu.pl
-NXDOMAIN	mapa.imir.agh.edu.pl
-NOERROR	nat-adm3.agh.edu.pl
-NOERROR	host110-126.fis.agh.edu.pl
-NOERROR	www.mp.zarz.agh.edu.pl
-NOERROR	l13.gorn.agh.edu.pl
-NOERROR	openlon2.ia.agh.edu.pl
-NOERROR	kamil.geod.agh.edu.pl
-NOERROR	ca0-008.ceramika.agh.edu.pl
-NOERROR	forms.typo3.agh.edu.pl
-NOERROR	ossowski.geol.agh.edu.pl
-NOERROR	stalow9.metal.agh.edu.pl
-NOERROR	dziek.zee.agh.edu.pl
-NOERROR	cb6-215.ceramika.agh.edu.pl
-NOERROR	dhcp57.zee.agh.edu.pl
-NOERROR	mat253.mat.agh.edu.pl
-NOERROR	hp2100-2.ftj.agh.edu.pl
-NOERROR	p486zpe.zfcs.agh.edu.pl
-NOERROR	dev-build.cel.agh.edu.pl
-NOERROR	rdziurka.metal.agh.edu.pl
-NOERROR	cb6-160.ceramika.agh.edu.pl
-NOERROR	kap-55.imir.agh.edu.pl
-NOERROR	cb6-175.ceramika.agh.edu.pl
-NOERROR	tiki-proactive.kt.agh.edu.pl
-NOERROR	chelabor.wpie.agh.edu.pl
-NOERROR	pc101.zfcs.agh.edu.pl
-NOERROR	ckagh9.adm.agh.edu.pl
-NOERROR	mops188.uci.agh.edu.pl
-NOERROR	biuro2.wpie.agh.edu.pl
-NOERROR	ucte2011.agh.edu.pl
-NOERROR	www.sp-sab.agh.edu.pl
-NOERROR	kawiory35.wpie.agh.edu.pl
-NOERROR	wo61.odlew.agh.edu.pl
-NOERROR	limba14.metal.agh.edu.pl
-NOERROR	michlowi1.imir.agh.edu.pl
-NOERROR	dhcp08.kt.agh.edu.pl
-NOERROR	wz.dznet.agh.edu.pl
-NOERROR	host110-120.fis.agh.edu.pl
-NOERROR	wo160.odlew.agh.edu.pl
-NOERROR	dns.dsnet.agh.edu.pl
-NOERROR	l01.gorn.agh.edu.pl
-NOERROR	kap-53.imir.agh.edu.pl
-NOERROR	wmsg2.gorn.agh.edu.pl
-NOERROR	pcg-service.uci.agh.edu.pl
-NOERROR	kse5.ceramika.agh.edu.pl
-NOERROR	szlaban-s1.adm.agh.edu.pl
-NOERROR	do.agh.edu.pl
-NOERROR	galop.metal.agh.edu.pl
-NOERROR	chogori.ia.agh.edu.pl
-NOERROR	amper.zet.agh.edu.pl
-NXDOMAIN	osa.agh.edu.pl
-NOERROR	rekrutacja1.mn.agh.edu.pl
-NOERROR	mailing.agh.edu.pl
-NOERROR	glados.kis.agh.edu.pl
-NOERROR	wo27.odlew.agh.edu.pl
-NOERROR	nat2.kt.agh.edu.pl
-NOERROR	nat-vl112.agh.edu.pl
-NOERROR	pcgrega.kt.agh.edu.pl
-NOERROR	euro02.ia.agh.edu.pl
-NOERROR	kap-60.imir.agh.edu.pl
-NXDOMAIN	pc68.bg.agh.edu.pl
-NOERROR	www.automatics.agh.edu.pl
-NXDOMAIN	uran.ics.agh.edu.pl
-NOERROR	kse19.ceramika.agh.edu.pl
-NOERROR	chmura.gorn.agh.edu.pl
-NOERROR	hkusiak.metal.agh.edu.pl
-NOERROR	lhotse.metal.agh.edu.pl
-NOERROR	cb6-234.ceramika.agh.edu.pl
-NOERROR	stud234.fis.agh.edu.pl
-NOERROR	twist.ia.agh.edu.pl
-NOERROR	in.ki.agh.edu.pl
-NOERROR	lr1.ia.agh.edu.pl
-NOERROR	www.forti-agh.agh.edu.pl
-NOERROR	zas104.mn.agh.edu.pl
-NOERROR	www.makler.zarz.agh.edu.pl
-NOERROR	fortiweb.uci.agh.edu.pl
-NOERROR	stalow3.metal.agh.edu.pl
-NOERROR	mat178.mat.agh.edu.pl
-NOERROR	marta.geod.agh.edu.pl
-NOERROR	cm-nat.agh.edu.pl
-NOERROR	ds8.unifi.dsnet.agh.edu.pl
-NOERROR	wojtek.geol.agh.edu.pl
-NOERROR	multisite.wh.agh.edu.pl
-NOERROR	ziam2.metal.agh.edu.pl
-NOERROR	www.desire.agh.edu.pl
-NOERROR	www.dopk.agh.edu.pl
-NOERROR	wimir-003.imir.agh.edu.pl
-NOERROR	pc166.kme.agh.edu.pl
-NOERROR	nat-tech5.agh.edu.pl
-NOERROR	integra.uci.agh.edu.pl
-NOERROR	ds15.unifi.dsnet.agh.edu.pl
-NOERROR	rychlicki-nb.wnaft.agh.edu.pl
-NOERROR	testowyplan5.agh.edu.pl
-NOERROR	wfitj140e.ftj.agh.edu.pl
-NXDOMAIN	keiaspe-d.keiaspe.agh.edu.pl
-NOERROR	b3-10.mn.agh.edu.pl
-NOERROR	b3-komp4.zet.agh.edu.pl
-NOERROR	100lat.agh.edu.pl
-NOERROR	foster.ics.agh.edu.pl
-NOERROR	vpn.acmin.agh.edu.pl
-NOERROR	rhea.imir.agh.edu.pl
-NOERROR	kawiory4.wpie.agh.edu.pl
-NOERROR	anowak.gorn.agh.edu.pl
-NOERROR	mops106.uci.agh.edu.pl
-NOERROR	www2.wggios.agh.edu.pl
-NOERROR	www.neuro.agh.edu.pl
-NOERROR	kurczak.zee.agh.edu.pl
-NOERROR	dawna.ki.agh.edu.pl
-NOERROR	dhcp043.kt.agh.edu.pl
-NOERROR	iet.uci.agh.edu.pl
-NOERROR	sliwka.gorn.agh.edu.pl
-NOERROR	ripley.geol.agh.edu.pl
-NOERROR	www.targi.agh.edu.pl
-NOERROR	host109-85.fis.agh.edu.pl
-NOERROR	r02.gorn.agh.edu.pl
-NOERROR	www.nanospin.agh.edu.pl
-NOERROR	chaos.zet.agh.edu.pl
-NOERROR	ziolkowski-pc.zarz.agh.edu.pl
-NOERROR	ds16.unifi.dsnet.agh.edu.pl
-NOERROR	krokus181.imir.agh.edu.pl
-NOERROR	zmora.kis.agh.edu.pl
-NOERROR	kameraz2-1.adm.agh.edu.pl
-NOERROR	watt.zet.agh.edu.pl
-NOERROR	wojcik.gorn.agh.edu.pl
-NOERROR	wojtek1.imir.agh.edu.pl
-NOERROR	admin.zee.agh.edu.pl
-NOERROR	weaiiib.dznet.agh.edu.pl
-NOERROR	pc104.zfcs.agh.edu.pl
-NOERROR	jpietrzyk.mn.agh.edu.pl
-NOERROR	st9.gorn.agh.edu.pl
-NOERROR	wo140.odlew.agh.edu.pl
-NOERROR	mat136.mat.agh.edu.pl
-NOERROR	gawin.geol.agh.edu.pl
-NOERROR	konopka.gorn.agh.edu.pl
-NOERROR	xbl5.ics.agh.edu.pl
-NOERROR	wszpyra.zee.agh.edu.pl
-NOERROR	hp2300dtn.ftj.agh.edu.pl
-NOERROR	eit.agh.edu.pl
-NOERROR	asic.fis.agh.edu.pl
-NOERROR	cam-213.imir.agh.edu.pl
-NOERROR	stud242.fis.agh.edu.pl
-NOERROR	uci.agh.edu.pl
-NOERROR	xandy.elektro.agh.edu.pl
-NOERROR	cogito.elektro.agh.edu.pl
-NOERROR	dell-buiro1.weip.agh.edu.pl
-NOERROR	cb6-239.ceramika.agh.edu.pl
-NOERROR	planck.ftj.agh.edu.pl
-NOERROR	host110-139.fis.agh.edu.pl
-NOERROR	stanco.ket.agh.edu.pl
-NOERROR	fatcat.ftj.agh.edu.pl
-NOERROR	power1b.uci.agh.edu.pl
-NOERROR	tymon.geod.agh.edu.pl
-NOERROR	www.exhft-7.agh.edu.pl
-NOERROR	www.tze.agh.edu.pl
-NOERROR	abb1.eaiib.agh.edu.pl
-NOERROR	franik2.gorn.agh.edu.pl
-NOERROR	host110-190.fis.agh.edu.pl
-NOERROR	rdisgie.agh.edu.pl
-NOERROR	www.dlasrodowiska.agh.edu.pl
-NOERROR	jawien.gorn.agh.edu.pl
-NOERROR	mint1.icsr.agh.edu.pl
-NOERROR	ttokarz.imir.agh.edu.pl
-NOERROR	titanv.metal.agh.edu.pl
-NOERROR	pcleszczuk.kt.agh.edu.pl
-NOERROR	batko.gorn.agh.edu.pl
-NOERROR	pc171.kme.agh.edu.pl
-NOERROR	www.firma.agh.edu.pl
-NOERROR	krokus2-4.imir.agh.edu.pl
-NOERROR	kct1.ceramika.agh.edu.pl
-NOERROR	www.zarz.agh.edu.pl
-NOERROR	bskorupa.geod.agh.edu.pl
-NOERROR	mops158.uci.agh.edu.pl
-NOERROR	utrata.gorn.agh.edu.pl
-NOERROR	opuscula.agh.edu.pl
-NOERROR	stan-f.geod.agh.edu.pl
-NOERROR	k-320-13.imir.agh.edu.pl
-NOERROR	la7.ia.agh.edu.pl
-NOERROR	drozdz-pc.zarz.agh.edu.pl
-NOERROR	wfitj105e.ftj.agh.edu.pl
-NOERROR	wfitj150e.ftj.agh.edu.pl
-NOERROR	ktipm43.ktipm.agh.edu.pl
-NOERROR	blecharz.imir.agh.edu.pl
-NOERROR	archmet.metal.agh.edu.pl
-NOERROR	studium22.sjo.agh.edu.pl
-NOERROR	dar1.mn.agh.edu.pl
-NOERROR	wo19.odlew.agh.edu.pl
-NOERROR	wwnig.dznet.agh.edu.pl
-NOERROR	lab05.gorn.agh.edu.pl
-NOERROR	wfitj121e.ftj.agh.edu.pl
-NOERROR	wfitj17e.ftj.agh.edu.pl
-NOERROR	wbg.bg.agh.edu.pl
-NOERROR	wibro-116.imir.agh.edu.pl
-NOERROR	yogi.metal.agh.edu.pl
-NOERROR	caribou.d8.iisg.agh.edu.pl
-NOERROR	hila.geod.agh.edu.pl
-NOERROR	checkmk.eaiib.agh.edu.pl
-NOERROR	pc25.zfcs.agh.edu.pl
-NOERROR	trip.metal.agh.edu.pl
-NOERROR	d8-806.ket.agh.edu.pl
-NOERROR	darwin.cri.agh.edu.pl
-NOERROR	p1d.b1.agh.edu.pl
-NOERROR	prtr.kt.agh.edu.pl
-NOERROR	urss5.urss.agh.edu.pl
-NOERROR	zsp.agh.edu.pl
-NOERROR	nat.ds1.agh.edu.pl
-NOERROR	sekr-rtr.keiaspe.agh.edu.pl
-NOERROR	zkc9.ceramika.agh.edu.pl
-NOERROR	host110-132.fis.agh.edu.pl
-NOERROR	mat217.mat.agh.edu.pl
-NOERROR	galeria.geod.agh.edu.pl
-NOERROR	kawiory34.wpie.agh.edu.pl
-NOERROR	nat-vl104.agh.edu.pl
-NOERROR	kets.ket.agh.edu.pl
-NOERROR	aq27.ia.agh.edu.pl
-NOERROR	stud150.fis.agh.edu.pl
-NOERROR	powder3.metal.agh.edu.pl
-NOERROR	zfcs-printer.zfcs.agh.edu.pl
-NOERROR	test162.kt.agh.edu.pl
-NOERROR	host110-49.fis.agh.edu.pl
-NOERROR	www-1infona-1pl-1atoz.wbg2.bg.agh.edu.pl
-NOERROR	dhcp52.zee.agh.edu.pl
-NOERROR	fiona.gorn.agh.edu.pl
-NOERROR	deepthought.kis.agh.edu.pl
-NOERROR	qwev.keiaspe.agh.edu.pl
-NOERROR	tango.gorn.agh.edu.pl
-NOERROR	kerrmz.ket.agh.edu.pl
-NOERROR	www.kmimp.agh.edu.pl
-NOERROR	cok.agh.edu.pl
-NOERROR	bda.geod.agh.edu.pl
-NOERROR	pcmiue12.imir.agh.edu.pl
-NOERROR	speechsamples.agh.edu.pl
-NOERROR	mat142.mat.agh.edu.pl
-NOERROR	somar.zet.agh.edu.pl
-NOERROR	kkios.geod.agh.edu.pl
-NOERROR	mat235.mat.agh.edu.pl
-NOERROR	p221-3.mn.agh.edu.pl
-NOERROR	vertigo.elektro.agh.edu.pl
-NOERROR	oska2017.agh.edu.pl
-NOERROR	hades.zarz.agh.edu.pl
-NOERROR	ematerialy.cel.agh.edu.pl
-NOERROR	cmat35.mat.agh.edu.pl
-NOERROR	egzaminy.cel.agh.edu.pl
-NOERROR	test240.kt.agh.edu.pl
-NOERROR	wnss16a.ins.agh.edu.pl
-NOERROR	www.zs.zarz.agh.edu.pl
-NOERROR	wfitj71a.ftj.agh.edu.pl
-NOERROR	kasiacze.wpie.agh.edu.pl
-NOERROR	mops164.uci.agh.edu.pl
-NOERROR	szaniec.agh.edu.pl
-NOERROR	host109-91.fis.agh.edu.pl
-NOERROR	rditt.agh.edu.pl
-NOERROR	poczta.agh.edu.pl
-NOERROR	krokusb2.imir.agh.edu.pl
-NOERROR	wfitj203e.ftj.agh.edu.pl
-NOERROR	weip-d4-43.weip.agh.edu.pl
-NOERROR	daimos.kt.agh.edu.pl
-NOERROR	lab404m.ia.agh.edu.pl
-NOERROR	www.international.agh.edu.pl
-NOERROR	wfitj181e.ftj.agh.edu.pl
-NOERROR	wnss16f.ins.agh.edu.pl
-NOERROR	mat243.mat.agh.edu.pl
-NOERROR	wo89.odlew.agh.edu.pl
-NOERROR	wozniak-pc.zarz.agh.edu.pl
-NOERROR	metal.metal.agh.edu.pl
-NOERROR	sofa.uci.agh.edu.pl
-NOERROR	chem44a4.wpie.agh.edu.pl
-NOERROR	aver.geol.agh.edu.pl
-NOERROR	rpress7.imir.agh.edu.pl
-NOERROR	stud163.fis.agh.edu.pl
-NOERROR	wg.ia.agh.edu.pl
-NXDOMAIN	m.ceramika.agh.edu.pl
-NOERROR	wnss16l.ins.agh.edu.pl
-NOERROR	zobaczycmatematyke.agh.edu.pl
-NOERROR	kb2.ceramika.agh.edu.pl
-NOERROR	cb6-131.ceramika.agh.edu.pl
-NOERROR	mops122.uci.agh.edu.pl
-NOERROR	cb6-144.ceramika.agh.edu.pl
-NOERROR	dhcp9.zet.agh.edu.pl
-NOERROR	msc-lm.wibro.agh.edu.pl
-NOERROR	cb6-225.ceramika.agh.edu.pl
-NOERROR	wo104.odlew.agh.edu.pl
-NOERROR	fitzn.mn.agh.edu.pl
-NOERROR	ds19.agh.edu.pl
-NOERROR	otrs.iisg.agh.edu.pl
-NOERROR	kanlab10.keiaspe.agh.edu.pl
-NOERROR	karol.geod.agh.edu.pl
-NOERROR	cisi.agh.edu.pl
-NOERROR	pcpolak.kt.agh.edu.pl
-NOERROR	bi1.eaiib.agh.edu.pl
-NOERROR	mr.metal.agh.edu.pl
-NOERROR	www.techno.agh.edu.pl
-NOERROR	xbl3.ics.agh.edu.pl
-NOERROR	sajuasus.weip.agh.edu.pl
-NOERROR	student1.zee.agh.edu.pl
-NOERROR	pc141.ket.agh.edu.pl
-NOERROR	mdp11b.elektro.agh.edu.pl
-NOERROR	wmsg34.gorn.agh.edu.pl
-NOERROR	mops056.uci.agh.edu.pl
-NOERROR	h5400.ics.agh.edu.pl
-NOERROR	www.muzeum.agh.edu.pl
-NOERROR	nat-weaiib17.agh.edu.pl
-NOERROR	www.spider2.ki.agh.edu.pl
-NOERROR	mcss2017.kt.agh.edu.pl
-NOERROR	pv-tracker.ia.agh.edu.pl
-NOERROR	wo10.odlew.agh.edu.pl
-NOERROR	podyplomowe.agh.edu.pl
-NOERROR	www.konferencja-eip.agh.edu.pl
-NOERROR	wnss-hp2015.ins.agh.edu.pl
-NOERROR	stass7.gorn.agh.edu.pl
-NOERROR	studium15.sjo.agh.edu.pl
-NOERROR	kawiory3.wpie.agh.edu.pl
-NOERROR	www.gew.agh.edu.pl
-NOERROR	wfitj63e.ftj.agh.edu.pl
-NOERROR	wfitj144e.ftj.agh.edu.pl
-NOERROR	ca0-063.ceramika.agh.edu.pl
-NOERROR	sock.ubpo.agh.edu.pl
-NOERROR	ds10.unifi.dsnet.agh.edu.pl
-NOERROR	comm.dc1-prx-b.infra.ki.agh.edu.pl
-NOERROR	www.iab2016.agh.edu.pl
-NOERROR	mikro.mn.agh.edu.pl
-NOERROR	www.zip.agh.edu.pl
-NOERROR	p104-b1.keiaspe.agh.edu.pl
-NOERROR	kcs44.ceramika.agh.edu.pl
-NOERROR	k-320-8.imir.agh.edu.pl
-NOERROR	mat219.mat.agh.edu.pl
-NOERROR	hp5035d6.kt.agh.edu.pl
-NOERROR	www.audytor.zarz.agh.edu.pl
-NOERROR	cb6-252.ceramika.agh.edu.pl
-NOERROR	cieplo.metal.agh.edu.pl
-NOERROR	twszolek.wibro.agh.edu.pl
-NOERROR	cs.agh.edu.pl
-NOERROR	kse11.ceramika.agh.edu.pl
-NOERROR	blister.mn.agh.edu.pl
-NOERROR	cb6-244.ceramika.agh.edu.pl
-NXDOMAIN	noc.uci.agh.edu.pl
-NOERROR	dhcp145.kt.agh.edu.pl
-NOERROR	www.age.agh.edu.pl
-NOERROR	mackalo.gorn.agh.edu.pl
-NOERROR	grafika.kis.agh.edu.pl
-NXDOMAIN	geozagrozenia.agh.edu.pl
-NOERROR	copter.wibro.agh.edu.pl
-NOERROR	e-risk.agh.edu.pl
-NOERROR	test184.kt.agh.edu.pl
-NXDOMAIN	korbell.imir.agh.edu.pl
-NOERROR	zmb9.ceramika.agh.edu.pl
-NOERROR	pmk.metal.agh.edu.pl
-NOERROR	host110-193.fis.agh.edu.pl
-NOERROR	pldlab7.elektro.agh.edu.pl
-NOERROR	ua.agh.edu.pl
-NOERROR	bukowski.geol.agh.edu.pl
-NOERROR	lester.ket.agh.edu.pl
-NOERROR	link-1springer-1com-1sciencecitationindex.wbg2.bg.agh.edu.pl
-NOERROR	mat187.mat.agh.edu.pl
-NXDOMAIN	www.geozagrozenia.agh.edu.pl
-NOERROR	karkoszka.gorn.agh.edu.pl
-NOERROR	kap-104.imir.agh.edu.pl
-NOERROR	wo68.odlew.agh.edu.pl
-NOERROR	mdp09b.elektro.agh.edu.pl
-NOERROR	st6.gorn.agh.edu.pl
-NOERROR	cloud.portacc.cr.agh.edu.pl
-NOERROR	www.knbiomed.agh.edu.pl
-NOERROR	sjo.dznet.agh.edu.pl
-NOERROR	erydan-109.fis.agh.edu.pl
-NOERROR	host110-172.fis.agh.edu.pl
-NOERROR	leners.keiaspe.agh.edu.pl
-NOERROR	lm7.ia.agh.edu.pl
-NOERROR	dhcp152.kt.agh.edu.pl
-NOERROR	rejestr5.adm.agh.edu.pl
-NOERROR	fizykadlamedyka.fis.agh.edu.pl
-NOERROR	studium3.sjo.agh.edu.pl
-NOERROR	urss9.urss.agh.edu.pl
-NOERROR	violin.ia.agh.edu.pl
-NOERROR	dziek4.ceramika.agh.edu.pl
-NOERROR	jitter.elektro.agh.edu.pl
-NOERROR	host110-100.fis.agh.edu.pl
-NOERROR	serwer4.ktipm.agh.edu.pl
-NOERROR	pc88.zfcs.agh.edu.pl
-NOERROR	red.mn.agh.edu.pl
-NOERROR	ki.agh.edu.pl
-NOERROR	kpm.gorn.agh.edu.pl
-NOERROR	nat-adm.ki.agh.edu.pl
-NOERROR	galaxy.agh.edu.pl
-NOERROR	www.wph2007.agh.edu.pl
-NOERROR	rekrut-2.gorn.agh.edu.pl
-NOERROR	wiesiek.kt.agh.edu.pl
-NOERROR	kcs13.ceramika.agh.edu.pl
-NOERROR	atos.wydagh.agh.edu.pl
-NOERROR	fafara-pc.wnaft.agh.edu.pl
-NOERROR	ricoh-dziekanat.ftj.agh.edu.pl
-NOERROR	ke.agh.edu.pl
-NOERROR	www-1sciencedirect-1com-1000027az0188.wbg2.bg.agh.edu.pl
-NOERROR	kgg8.gorn.agh.edu.pl
-NOERROR	kuligowska.gorn.agh.edu.pl
-NOERROR	l11.gorn.agh.edu.pl
-NOERROR	fit.agh.edu.pl
-NOERROR	nat-wwnig8.agh.edu.pl
-NOERROR	poczta.bg.agh.edu.pl
-NXDOMAIN	cloud.ceramika.agh.edu.pl
-NOERROR	nat.ds16.agh.edu.pl
-NOERROR	roszkow.gorn.agh.edu.pl
-NOERROR	wojtek2.imir.agh.edu.pl
-NOERROR	pcdukat.kt.agh.edu.pl
-NOERROR	michalin.gorn.agh.edu.pl
-NOERROR	pc203.bg.agh.edu.pl
-NOERROR	lewicka-pc.zarz.agh.edu.pl
-NOERROR	kap-40.imir.agh.edu.pl
-NOERROR	listopad.mn.agh.edu.pl
-NOERROR	lm8.ia.agh.edu.pl
-NOERROR	aac-1asm-1org-1atoz.wbg2.bg.agh.edu.pl
-NOERROR	kmg-157.imir.agh.edu.pl
-NOERROR	test180.kt.agh.edu.pl
-NOERROR	www.blabel.agh.edu.pl
-NOERROR	www.upel.agh.edu.pl
-NXDOMAIN	nc.fis.agh.edu.pl
-NOERROR	kudlacik.gorn.agh.edu.pl
-NXDOMAIN	dhcp169.kt.agh.edu.pl
-NOERROR	rpress8.imir.agh.edu.pl
-NOERROR	dhcp205.kt.agh.edu.pl
-NOERROR	mikro2.mn.agh.edu.pl
-NOERROR	ilon6.ia.agh.edu.pl
-NOERROR	ca0-082.ceramika.agh.edu.pl
-NOERROR	ca0-018.ceramika.agh.edu.pl
-NOERROR	wfitj240e.ftj.agh.edu.pl
-NOERROR	termia2.keiaspe.agh.edu.pl
-NOERROR	max.zee.agh.edu.pl
-NOERROR	ops.ki.agh.edu.pl
-NOERROR	syllabus-2019.uci.agh.edu.pl
-NOERROR	dhcp188.kt.agh.edu.pl
-NOERROR	wozpi.agh.edu.pl
-NOERROR	aq17.ia.agh.edu.pl
-NOERROR	procast.metal.agh.edu.pl
-NOERROR	kulczycka-pc.zarz.agh.edu.pl
-NOERROR	archiwum.agh.edu.pl
-NOERROR	wmsg29.gorn.agh.edu.pl
-NOERROR	pr-inf3.wibro.agh.edu.pl
-NOERROR	old.wh.agh.edu.pl
-NOERROR	wnssp18-2.ins.agh.edu.pl
-NOERROR	clustersrv.ket.agh.edu.pl
-NOERROR	www.isim.agh.edu.pl
-NOERROR	www.embedded.agh.edu.pl
-NOERROR	wo91.odlew.agh.edu.pl
-NOERROR	kocierz.geod.agh.edu.pl
-NOERROR	projektor.wpie.agh.edu.pl
-NOERROR	kesek.gorn.agh.edu.pl
-NOERROR	zts33.ia.agh.edu.pl
-NOERROR	www.krk.agh.edu.pl
-NOERROR	vpn227.kt.agh.edu.pl
-NOERROR	hpcad3.ftj.agh.edu.pl
-NOERROR	kawiory21.wpie.agh.edu.pl
-NOERROR	dhcp087.kt.agh.edu.pl
-NOERROR	irezaj.imir.agh.edu.pl
-NOERROR	www.geod.agh.edu.pl
-NOERROR	www.b2b.zarz.agh.edu.pl
-NOERROR	pc21.zfcs.agh.edu.pl
-NOERROR	misiek.wibro.agh.edu.pl
-NOERROR	mops125.uci.agh.edu.pl
-NOERROR	st16.gorn.agh.edu.pl
-NOERROR	wfitj72e.ftj.agh.edu.pl
-NOERROR	test128.kt.agh.edu.pl
-NOERROR	stats.dsnet.agh.edu.pl
-NOERROR	virtual.zarz.agh.edu.pl
-NOERROR	dhcp-pc193.elektro.agh.edu.pl
-NOERROR	nuta.gorn.agh.edu.pl
-SERVFAIL	ns1.kolo.kt.agh.edu.pl
-NXDOMAIN	sectord17.ki.agh.edu.pl
-NOERROR	b3-3.mn.agh.edu.pl
-NOERROR	itsrcp18.fis.agh.edu.pl
-NOERROR	marta.wpie.agh.edu.pl
-NOERROR	informatyka.podyplomowe.agh.edu.pl
-NOERROR	pkm.imir.agh.edu.pl
-NOERROR	mops146.uci.agh.edu.pl
-NOERROR	klys.gorn.agh.edu.pl
-NOERROR	dyplomy.gorn.agh.edu.pl
-NOERROR	pin.bg.agh.edu.pl
-NOERROR	b1-104.keiaspe.agh.edu.pl
-NOERROR	laser.kme.agh.edu.pl
-NOERROR	model.metal.agh.edu.pl
-NOERROR	ktipm50.ktipm.agh.edu.pl
-NOERROR	zm224.zmet.agh.edu.pl
-NOERROR	nat-adm9.agh.edu.pl
-NOERROR	sieradzki.gorn.agh.edu.pl
-NOERROR	mops097.uci.agh.edu.pl
-NOERROR	wsuwala.weip.agh.edu.pl
-NOERROR	zefirek.ia.agh.edu.pl
-NOERROR	mops068.uci.agh.edu.pl
-NOERROR	sylabusy-test.agh.edu.pl
-NOERROR	bip-2.geol.agh.edu.pl
-NOERROR	kiosk.bg.agh.edu.pl
-NOERROR	pajak.imir.agh.edu.pl
-NOERROR	mozart.elektro.agh.edu.pl
-NOERROR	tribos1.imir.agh.edu.pl
-NOERROR	zmb32.ceramika.agh.edu.pl
-NOERROR	lucz.zee.agh.edu.pl
-NOERROR	pc238.geol.agh.edu.pl
-NOERROR	zgaga.geod.agh.edu.pl
-NOERROR	www.knpg.agh.edu.pl
-NOERROR	lpw.agh.edu.pl
-NOERROR	ixs3.cel.agh.edu.pl
-NOERROR	host110-228.fis.agh.edu.pl
-NOERROR	maver.elektro.agh.edu.pl
-NOERROR	mdp04c.elektro.agh.edu.pl
-NOERROR	krokus2-14.imir.agh.edu.pl
-NOERROR	aska.geod.agh.edu.pl
-NOERROR	mdp12a.elektro.agh.edu.pl
-NOERROR	labservn.kt.agh.edu.pl
-NOERROR	bukowski-pc.zarz.agh.edu.pl
-NOERROR	ns2.kt.agh.edu.pl
-NOERROR	zts57.ia.agh.edu.pl
-NOERROR	mops082.uci.agh.edu.pl
-NOERROR	cyrnek.gorn.agh.edu.pl
-NOERROR	mat244.mat.agh.edu.pl
-NOERROR	kostek.ket.agh.edu.pl
-NOERROR	vela.wpie.agh.edu.pl
-NOERROR	mikulik-pc.zarz.agh.edu.pl
-NOERROR	owlet.kis.agh.edu.pl
-NOERROR	mat209.mat.agh.edu.pl
-NOERROR	jmd.wpie.agh.edu.pl
-NOERROR	kasina.geol.agh.edu.pl
-NOERROR	nb-al.kt.agh.edu.pl
-NOERROR	lipsk210-pc2.zarz.agh.edu.pl
-NOERROR	cb6-197.ceramika.agh.edu.pl
-NOERROR	gandalf.icsr.agh.edu.pl
-NOERROR	moon.kt.agh.edu.pl
-NOERROR	kaz.metal.agh.edu.pl
-NXDOMAIN	b2-ro-17.imir.agh.edu.pl
-NOERROR	wnssp105.ins.agh.edu.pl
-NOERROR	elzbieta.wpie.agh.edu.pl
-NOERROR	www.kgp.agh.edu.pl
-NOERROR	mj.zarz.agh.edu.pl
-NOERROR	mms.ftj.agh.edu.pl
-NOERROR	www.acmin.agh.edu.pl
-NOERROR	zubel.geol.agh.edu.pl
-NOERROR	chomik.metal.agh.edu.pl
-NOERROR	kz.eaiib.agh.edu.pl
-NOERROR	art.mn.agh.edu.pl
-NOERROR	johny.metal.agh.edu.pl
-NOERROR	host110-168.fis.agh.edu.pl
-NOERROR	host109-97.fis.agh.edu.pl
-NOERROR	123gate.imir.agh.edu.pl
-NOERROR	rada-wg.gorn.agh.edu.pl
-NOERROR	test237.kt.agh.edu.pl
-NOERROR	p111.zet.agh.edu.pl
-NOERROR	mdp07c.elektro.agh.edu.pl
-NOERROR	host110-164.fis.agh.edu.pl
-NOERROR	lab12.gorn.agh.edu.pl
-NOERROR	micro.metal.agh.edu.pl
-NOERROR	test139.kt.agh.edu.pl
-NOERROR	aux.testament10.uci.agh.edu.pl
-NOERROR	ca0-037.ceramika.agh.edu.pl
-NOERROR	mat238.mat.agh.edu.pl
-NOERROR	mdp04a.elektro.agh.edu.pl
-NOERROR	cmat48.mat.agh.edu.pl
-NOERROR	pp.geod.agh.edu.pl
-NOERROR	pc1.geol.agh.edu.pl
-NOERROR	cb6-179.ceramika.agh.edu.pl
-NOERROR	kopec.gorn.agh.edu.pl
-NOERROR	kokpit-dev.uci.agh.edu.pl
-NOERROR	kcs2.ceramika.agh.edu.pl
-NOERROR	wagner.geol.agh.edu.pl
-NOERROR	lewicki.gorn.agh.edu.pl
-NOERROR	studium23.sjo.agh.edu.pl
-NOERROR	wifip321dlink.zarz.agh.edu.pl
-NOERROR	wgig.agh.edu.pl
-NOERROR	aneta.metal.agh.edu.pl
-NOERROR	home.agh.edu.pl
-NOERROR	wo13.odlew.agh.edu.pl
-NOERROR	jurek-p.wibro.agh.edu.pl
-NXDOMAIN	p4.b1.agh.edu.pl
-NOERROR	host110-145.fis.agh.edu.pl
-NOERROR	www.pami.agh.edu.pl
-NOERROR	julia.gorn.agh.edu.pl
-NOERROR	jamroz-pc.zarz.agh.edu.pl
-NOERROR	wfitj236e.ftj.agh.edu.pl
-NOERROR	proj09.gorn.agh.edu.pl
-NOERROR	kca23.ceramika.agh.edu.pl
-NOERROR	wnssp106.ins.agh.edu.pl
-NOERROR	dziekanz-pc.zarz.agh.edu.pl
-NOERROR	wfitj83e.ftj.agh.edu.pl
-NOERROR	zasmob.mn.agh.edu.pl
-NOERROR	prezes.zet.agh.edu.pl
-NOERROR	swfis.dznet.agh.edu.pl
-NOERROR	ilona.mn.agh.edu.pl
-NOERROR	fil.mn.agh.edu.pl
-NOERROR	dynamix.agh.edu.pl
-NOERROR	calendar.kis.agh.edu.pl
-NOERROR	ozs-czyt.bg.agh.edu.pl
-NOERROR	b2-kor0-3.imir.agh.edu.pl
-NOERROR	host110-20.fis.agh.edu.pl
-NOERROR	mat237.mat.agh.edu.pl
-NOERROR	vumix.uci.agh.edu.pl
-NOERROR	zts53.ia.agh.edu.pl
-NOERROR	wilk.geol.agh.edu.pl
-NOERROR	starccm.wibro.agh.edu.pl
-NXDOMAIN	host110-13.fis.agh.edu.pl
-NOERROR	wh.agh.edu.pl
-NOERROR	aq6.ia.agh.edu.pl
-NOERROR	host109-81.fis.agh.edu.pl
-NOERROR	pc69.bg.agh.edu.pl
-NOERROR	kstaszek.elektro.agh.edu.pl
-NOERROR	tem.agh.edu.pl
-NOERROR	i5os1.fis.agh.edu.pl
-NOERROR	wloziak.keiaspe.agh.edu.pl
-NOERROR	ccs.agh.edu.pl
-NOERROR	grafika.geod.agh.edu.pl
-NOERROR	stud214.fis.agh.edu.pl
-NOERROR	p221-2.mn.agh.edu.pl
-NOERROR	admiet.uci.agh.edu.pl
-NOERROR	zm238.zmet.agh.edu.pl
-NOERROR	stud146.fis.agh.edu.pl
-NOERROR	elproma.kt.agh.edu.pl
-NOERROR	kb.ceramika.agh.edu.pl
-NOERROR	beskid.metal.agh.edu.pl
-NOERROR	wo100.odlew.agh.edu.pl
-NOERROR	pc169.kme.agh.edu.pl
-NOERROR	www.lat.agh.edu.pl
-NOERROR	if3.zfcs.agh.edu.pl
-NOERROR	www.rid.agh.edu.pl
-NOERROR	kap-130.imir.agh.edu.pl
-NOERROR	kristo.mn.agh.edu.pl
-NOERROR	pracme2.mn.agh.edu.pl
-NOERROR	musti.zet.agh.edu.pl
-NOERROR	www.mecc08.agh.edu.pl
-NOERROR	teneta.eaiib.agh.edu.pl
-NOERROR	www.eestec.agh.edu.pl
-NOERROR	www.biometr.agh.edu.pl
-NOERROR	wojcik-2.imir.agh.edu.pl
-NOERROR	weip-d4-48.weip.agh.edu.pl
-NOERROR	alibel.geod.agh.edu.pl
-NOERROR	teneta2.ia.agh.edu.pl
-NOERROR	luk15.metal.agh.edu.pl
-NOERROR	weip-d4-19.weip.agh.edu.pl
-NOERROR	http1.geod.agh.edu.pl
-NOERROR	weip-d4-28.weip.agh.edu.pl
-NOERROR	test163.kt.agh.edu.pl
-NOERROR	wnaft-0001-e1.wnaft.agh.edu.pl
-NOERROR	wfitj108e.ftj.agh.edu.pl
-NOERROR	zts31.ia.agh.edu.pl
-NOERROR	www.obrony.zarz.agh.edu.pl
-NOERROR	test193.kt.agh.edu.pl
-NOERROR	www.krab.agh.edu.pl
-NOERROR	ie6.ket.agh.edu.pl
-NOERROR	switch5.wnaft.agh.edu.pl
-NOERROR	ni2s3.kt.agh.edu.pl
-NOERROR	www.techstart.agh.edu.pl
-NOERROR	kisworkstation.zarz.agh.edu.pl
-NOERROR	talgo.keiaspe.agh.edu.pl
-NOERROR	zurek.metal.agh.edu.pl
-NOERROR	www.promocja.agh.edu.pl
-NOERROR	klon.geod.agh.edu.pl
-NOERROR	bdc.geod.agh.edu.pl
-NOERROR	asg.metal.agh.edu.pl
-NOERROR	agh.edu.pl
-NOERROR	kmertr.kme.agh.edu.pl
-NOERROR	www.giigs.agh.edu.pl
-NOERROR	pc65.zfcs.agh.edu.pl
-NOERROR	zm244.zmet.agh.edu.pl
-NOERROR	lab404b.ia.agh.edu.pl
-NOERROR	a3-06.gorn.agh.edu.pl
-NOERROR	servis1.mn.agh.edu.pl
-NOERROR	podyplomowe.fis.agh.edu.pl
-NOERROR	konik.metal.agh.edu.pl
-NOERROR	ktipm54.ktipm.agh.edu.pl
-NOERROR	bd.geod.agh.edu.pl
-NOERROR	abrzeziak.metal.agh.edu.pl
-NOERROR	otuc.agh.edu.pl
-NOERROR	webadm.zarz.agh.edu.pl
-NOERROR	anubis.metal.agh.edu.pl
-NOERROR	alsite.geol.agh.edu.pl
-NOERROR	host110-226.fis.agh.edu.pl
-NOERROR	limba11.metal.agh.edu.pl
-NOERROR	wmsg1.gorn.agh.edu.pl
-NOERROR	host110-55.fis.agh.edu.pl
-NOERROR	tokarz.imir.agh.edu.pl
-NOERROR	karw.geol.agh.edu.pl
-NOERROR	kcs9.ceramika.agh.edu.pl
-NOERROR	gielzeck.metal.agh.edu.pl
-NOERROR	mops141.uci.agh.edu.pl
-NOERROR	robik.mn.agh.edu.pl
-NOERROR	shalom.kt.agh.edu.pl
-NOERROR	mat154.mat.agh.edu.pl
-NOERROR	nat-wggiis1.agh.edu.pl
-NOERROR	4-p118b-b1.keiaspe.agh.edu.pl
-NOERROR	ds11.agh.edu.pl
-NOERROR	wo157.odlew.agh.edu.pl
-NOERROR	throne.keiaspe.agh.edu.pl
-NOERROR	ftj.agh.edu.pl
-NOERROR	sekret2.zet.agh.edu.pl
-NOERROR	ov.kis.agh.edu.pl
-NOERROR	krzysio.ia.agh.edu.pl
-NOERROR	wordpress.agh.edu.pl
-NOERROR	vmw6.ftj.agh.edu.pl
-NOERROR	wmsg20.gorn.agh.edu.pl
-NOERROR	wutest.agh.edu.pl
-NOERROR	weip-d4-45.weip.agh.edu.pl
-NOERROR	pc237.geol.agh.edu.pl
-NOERROR	www.adapter.agh.edu.pl
-NOERROR	ca0-012.ceramika.agh.edu.pl
-NOERROR	wfitj42e.ftj.agh.edu.pl
-NOERROR	pc119.zfcs.agh.edu.pl
-NOERROR	dhcp0121.kt.agh.edu.pl
-NOERROR	labkan9.ket.agh.edu.pl
-NOERROR	cmat59.mat.agh.edu.pl
-NOERROR	www.kseiuos.agh.edu.pl
-NOERROR	kap-144.imir.agh.edu.pl
-NOERROR	solmet.ia.agh.edu.pl
-NOERROR	kawiory17.wpie.agh.edu.pl
-NOERROR	ktl-s1.imir.agh.edu.pl
-NOERROR	cb6-185.ceramika.agh.edu.pl
-NOERROR	metody.metal.agh.edu.pl
-NOERROR	zgg51.geod.agh.edu.pl
-NOERROR	mops143.uci.agh.edu.pl
-NOERROR	sanak.gorn.agh.edu.pl
-NOERROR	mi.wh.agh.edu.pl
-NOERROR	test181.kt.agh.edu.pl
-NOERROR	ie23.ket.agh.edu.pl
-NOERROR	pc60.zfcs.agh.edu.pl
-NOERROR	nat-adm20.agh.edu.pl
-NOERROR	webmail.kt.agh.edu.pl
-NOERROR	adam.wpie.agh.edu.pl
-NOERROR	wfitj193e.ftj.agh.edu.pl
-NOERROR	www.vivat.agh.edu.pl
-NOERROR	cb6-148.ceramika.agh.edu.pl
-NOERROR	zgg4.geod.agh.edu.pl
-NOERROR	wnaft-0001-e3.wnaft.agh.edu.pl
-NXDOMAIN	konserwa.uci.agh.edu.pl
-NOERROR	ppg.b1.agh.edu.pl
-NOERROR	kalukiewicz.imir.agh.edu.pl
-NOERROR	www.spdgp.agh.edu.pl
-NOERROR	wfitj131e.ftj.agh.edu.pl
-NOERROR	licz-b5.adm.agh.edu.pl
-NOERROR	www.pomost.fis.agh.edu.pl
-NOERROR	t-w.wibro.agh.edu.pl
-NOERROR	pc43.zfcs.agh.edu.pl
-NOERROR	dysk.agh.edu.pl
-NOERROR	ds3.unifi.dsnet.agh.edu.pl
-NOERROR	dlugi.geol.agh.edu.pl
-NOERROR	k-210-08.imir.agh.edu.pl
-NOERROR	www.sing10.agh.edu.pl
-NOERROR	build.fslab.agh.edu.pl
-NOERROR	https.forti-units.agh.edu.pl
-NXDOMAIN	generator.ukr.agh.edu.pl
-NOERROR	rutkowski.geol.agh.edu.pl
-NOERROR	ebatko2.metal.agh.edu.pl
-NOERROR	kcs22.ceramika.agh.edu.pl
-NOERROR	kanlab12.keiaspe.agh.edu.pl
-NOERROR	wo119.odlew.agh.edu.pl
-NOERROR	dhcp178.kt.agh.edu.pl
-NOERROR	pszwed.ia.agh.edu.pl
-NOERROR	sekret.elektro.agh.edu.pl
-NOERROR	krokus150.imir.agh.edu.pl
-NOERROR	magicyola.uci.agh.edu.pl
-NOERROR	barbakan.kwestura.agh.edu.pl
-NOERROR	wo95.odlew.agh.edu.pl
-NOERROR	demo3.ftj.agh.edu.pl
-NOERROR	ptetis.agh.edu.pl
-NOERROR	krokus136.imir.agh.edu.pl
-NOERROR	amir413.elektro.agh.edu.pl
-NOERROR	ala.gorn.agh.edu.pl
-NOERROR	dhcp0110.kt.agh.edu.pl
-NOERROR	dhcp0108.kt.agh.edu.pl
-NOERROR	ktipm26.ktipm.agh.edu.pl
-NOERROR	dhcp184.kt.agh.edu.pl
-NOERROR	aq18.ia.agh.edu.pl
-NOERROR	izwa.ia.agh.edu.pl
-NOERROR	db3.cel.agh.edu.pl
-NOERROR	wfitj170e.ftj.agh.edu.pl
-NOERROR	everest.uci.agh.edu.pl
-NOERROR	kap-140.imir.agh.edu.pl
-NOERROR	st8.gorn.agh.edu.pl
-NOERROR	sinczak.metal.agh.edu.pl
-NOERROR	www.klient.zarz.agh.edu.pl
-NOERROR	wo96.odlew.agh.edu.pl
-NOERROR	syllabuskrk.agh.edu.pl
-NOERROR	cb6-220.ceramika.agh.edu.pl
-NOERROR	skylab.geod.agh.edu.pl
-NOERROR	stass1.gorn.agh.edu.pl
-NOERROR	jgalka-i7.ket.agh.edu.pl
-NOERROR	icses2016.agh.edu.pl
-NOERROR	ka74.ia.agh.edu.pl
-NOERROR	katel.elektro.agh.edu.pl
-NOERROR	szczep.metal.agh.edu.pl
-NOERROR	madzia.mn.agh.edu.pl
-NOERROR	lm2.ia.agh.edu.pl
-NOERROR	kraszan.zet.agh.edu.pl
-NOERROR	www.kucie.agh.edu.pl
-NOERROR	asystent2.wpie.agh.edu.pl
-NOERROR	rafi2.kt.agh.edu.pl
-NOERROR	kcs40.ceramika.agh.edu.pl
-NOERROR	dhcp180.kt.agh.edu.pl
-NOERROR	www.kaut.agh.edu.pl
-NOERROR	lysy.wibro.agh.edu.pl
-NOERROR	balancer.uci.agh.edu.pl
-NOERROR	host110-87.fis.agh.edu.pl
-NOERROR	pc386.ia.agh.edu.pl
-NOERROR	lukasz.metal.agh.edu.pl
-NOERROR	pckulak.kt.agh.edu.pl
-NOERROR	kis.zarz.agh.edu.pl
-NOERROR	mech.fis.agh.edu.pl
-NOERROR	sekretariat-kmg.imir.agh.edu.pl
-NOERROR	franik.gorn.agh.edu.pl
-NOERROR	nat-vl107.agh.edu.pl
-NOERROR	magda.gorn.agh.edu.pl
-NOERROR	icq12.fis.agh.edu.pl
-NOERROR	host109-98.fis.agh.edu.pl
-NOERROR	hpmini.geod.agh.edu.pl
-NOERROR	benek.wibro.agh.edu.pl
-NOERROR	www.kmg.agh.edu.pl
-NOERROR	sylabus.phd.agh.edu.pl
-NOERROR	wo109.odlew.agh.edu.pl
-NOERROR	kap-18.imir.agh.edu.pl
-NOERROR	danusia.mn.agh.edu.pl
-NOERROR	wfitj164e.ftj.agh.edu.pl
-NOERROR	confreg.auth.kt.agh.edu.pl
-NOERROR	www.ketg.agh.edu.pl
-NOERROR	nanga.ia.agh.edu.pl
-NOERROR	ict2021.agh.edu.pl
-NOERROR	muweis-pc.zarz.agh.edu.pl
-NOERROR	kap-12.imir.agh.edu.pl
-NOERROR	galas.gorn.agh.edu.pl
-NOERROR	ds13.unifi.dsnet.agh.edu.pl
-NOERROR	jabba.icsr.agh.edu.pl
-NOERROR	ares.gorn.agh.edu.pl
-NOERROR	www.smartgrid.agh.edu.pl
-NOERROR	pcc208.ia.agh.edu.pl
-NOERROR	www.ct2tee.agh.edu.pl
-NOERROR	archive.kt.agh.edu.pl
-NOERROR	nowaksen.gorn.agh.edu.pl
-NOERROR	pc162.kme.agh.edu.pl
-NOERROR	gandawa.imir.agh.edu.pl
-NOERROR	nat-sjo1.agh.edu.pl
-NOERROR	kse9.ceramika.agh.edu.pl
-NOERROR	dinomkop.metal.agh.edu.pl
-NOERROR	www.eaiib.agh.edu.pl
-NOERROR	rakowski.imir.agh.edu.pl
-NOERROR	wpie33.wpie.agh.edu.pl
-NOERROR	www.geoturystyka.agh.edu.pl
-NOERROR	strzelska.geol.agh.edu.pl
-NOERROR	ldm.agh.edu.pl
-NOERROR	apro-109.imir.agh.edu.pl
-NOERROR	aq65.ia.agh.edu.pl
-NOERROR	fafara-nb.wnaft.agh.edu.pl
-NOERROR	lab14h2-b1.keiaspe.agh.edu.pl
-NOERROR	ds4.agh.edu.pl
-NOERROR	nat.ds19.agh.edu.pl
-NOERROR	l09.gorn.agh.edu.pl
-NOERROR	pc36.zfcs.agh.edu.pl
-NOERROR	laser.keiaspe.agh.edu.pl
-NOERROR	wfitj135e.ftj.agh.edu.pl
-NOERROR	journals-1bg-1agh-1edu-1pl-1000032d903a0.wbg2.bg.agh.edu.pl
-NOERROR	kandydaci.agh.edu.pl
-NOERROR	wpie41.wpie.agh.edu.pl
-NOERROR	dhcp088.kt.agh.edu.pl
-NOERROR	nat-weaiib39.agh.edu.pl
-NOERROR	marta.metal.agh.edu.pl
-NOERROR	phobos.kt.agh.edu.pl
-NOERROR	geolog.geol.agh.edu.pl
-NOERROR	host110-143.fis.agh.edu.pl
-NOERROR	glodzik.gorn.agh.edu.pl
-NOERROR	dzienhutnika.agh.edu.pl
-NOERROR	test147.kt.agh.edu.pl
-NOERROR	gpsf.geod.agh.edu.pl
-NOERROR	zibi.wibro.agh.edu.pl
-NOERROR	samba.ia.agh.edu.pl
-NOERROR	mitis.kt.agh.edu.pl
-NOERROR	ktipm33.ktipm.agh.edu.pl
-NOERROR	nat-csg.ki.agh.edu.pl
-NOERROR	wo37.odlew.agh.edu.pl
-NOERROR	test212.kt.agh.edu.pl
-NOERROR	turnia5.metal.agh.edu.pl
-NOERROR	kca21.ceramika.agh.edu.pl
-NOERROR	neon.mn.agh.edu.pl
-NOERROR	dhcp085.kt.agh.edu.pl
-NOERROR	dhcp058.kt.agh.edu.pl
-NOERROR	wggios.agh.edu.pl
-NOERROR	vmw2.ftj.agh.edu.pl
-NOERROR	rez192113.imir.agh.edu.pl
-NOERROR	wfitj116e.ftj.agh.edu.pl
-NOERROR	wf.agh.edu.pl
-NOERROR	kawiory16.wpie.agh.edu.pl
-NOERROR	jupyter.sp-class.agh.edu.pl
-NOERROR	p115-3.mn.agh.edu.pl
-NOERROR	siemens.ia.agh.edu.pl
-NOERROR	mes6.mn.agh.edu.pl
-NOERROR	solinski-pc.zarz.agh.edu.pl
-NOERROR	sd.dznet.agh.edu.pl
-NOERROR	kawiory28.wpie.agh.edu.pl
-NOERROR	pc86.zfcs.agh.edu.pl
-NOERROR	geod.agh.edu.pl
-NOERROR	kawiory24.wpie.agh.edu.pl
-NOERROR	host110-118.fis.agh.edu.pl
-NOERROR	mnoga.keiaspe.agh.edu.pl
-NOERROR	gustaw.wpie.agh.edu.pl
-NOERROR	zmetrtr.zmet.agh.edu.pl
-NOERROR	wnssp23.ins.agh.edu.pl
-NOERROR	apollo.ia.agh.edu.pl
-NOERROR	dhcp095.kt.agh.edu.pl
-NOERROR	cb6-170.ceramika.agh.edu.pl
-NOERROR	www.msm.agh.edu.pl
-NOERROR	nebula.fis.agh.edu.pl
-NOERROR	josef.imir.agh.edu.pl
-NOERROR	usos.demo.ki.agh.edu.pl
-NOERROR	doktoraty.iet.agh.edu.pl
-NOERROR	www.iab2019.agh.edu.pl
-NOERROR	integra-01-open.cel.agh.edu.pl
-NOERROR	stud144.fis.agh.edu.pl
-NOERROR	ca0-022.ceramika.agh.edu.pl
-NOERROR	ph.elektro.agh.edu.pl
-NOERROR	kcs12.ceramika.agh.edu.pl
-NOERROR	indectnode.kt.agh.edu.pl
-NOERROR	zubek.wibro.agh.edu.pl
-NOERROR	turnia8.metal.agh.edu.pl
-NOERROR	ela.mn.agh.edu.pl
-NOERROR	aurlab.agh.edu.pl
-NOERROR	gandalf.wibro.agh.edu.pl
-NOERROR	olek.elektro.agh.edu.pl
-NOERROR	elog.kt.agh.edu.pl
-NOERROR	plichta.kt.agh.edu.pl
-NOERROR	mpawlik.geol.agh.edu.pl
-NOERROR	krokus141.imir.agh.edu.pl
-NOERROR	semyrka.geol.agh.edu.pl
-NOERROR	zts40.ia.agh.edu.pl
-NOERROR	zmb24.ceramika.agh.edu.pl
-NOERROR	jakobczak.geol.agh.edu.pl
-NOERROR	kompilatory.agh.edu.pl
-NOERROR	bpp.agh.edu.pl
-NOERROR	roscisz.gorn.agh.edu.pl
-NOERROR	machowska-pc.zarz.agh.edu.pl
-NOERROR	mops067.uci.agh.edu.pl
-NOERROR	dhcp071.kt.agh.edu.pl
-NOERROR	fermi.ftj.agh.edu.pl
-NOERROR	host110-44.fis.agh.edu.pl
-NOERROR	www-1scientific-1net-1atoz.wbg2.bg.agh.edu.pl
-NOERROR	atlas.imir.agh.edu.pl
-NOERROR	mdp12c.elektro.agh.edu.pl
-NOERROR	kcs26.ceramika.agh.edu.pl
-NOERROR	lumifun.fis.agh.edu.pl
-NOERROR	kania.geod.agh.edu.pl
-NOERROR	www-1degruyter-1com-1xh51ewjl3aef.wbg2.bg.agh.edu.pl
-NOERROR	ops.iisg.agh.edu.pl
-NOERROR	dhcp0112.kt.agh.edu.pl
-NOERROR	kp.metal.agh.edu.pl
-NOERROR	sith.icsr.agh.edu.pl
-NOERROR	csr.agh.edu.pl
-NOERROR	nowakows.mn.agh.edu.pl
-NOERROR	a3-07.gorn.agh.edu.pl
-NOERROR	wo.dznet.agh.edu.pl
-NOERROR	stmet09.metal.agh.edu.pl
-NOERROR	somlenska.geol.agh.edu.pl
-NOERROR	zw.metal.agh.edu.pl
-NOERROR	nat-uci1.agh.edu.pl
-NOERROR	host109-88.fis.agh.edu.pl
-NXDOMAIN	ipaqpiter.ics.agh.edu.pl
-NOERROR	www.bigdata.agh.edu.pl
-NOERROR	pcc220.ia.agh.edu.pl
-NOERROR	wpie16.wpie.agh.edu.pl
-NOERROR	www.dsnet.agh.edu.pl
-NOERROR	iaeste.agh.edu.pl
-NOERROR	posejdon.zee.agh.edu.pl
-NOERROR	lbpr4.mn.agh.edu.pl
-NOERROR	wibro-113.imir.agh.edu.pl
-NOERROR	esa.agh.edu.pl
-NOERROR	chludek.gorn.agh.edu.pl
-NOERROR	mops127.uci.agh.edu.pl
-NOERROR	n98.kis.agh.edu.pl
-NXDOMAIN	raf.icsr.agh.edu.pl
-NOERROR	grzesiak.metal.agh.edu.pl
-NOERROR	janmar.imir.agh.edu.pl
-NOERROR	wolowiec.metal.agh.edu.pl
-NOERROR	hp5000.kt.agh.edu.pl
-NOERROR	olimp22.imir.agh.edu.pl
-NOERROR	dev3.cel.agh.edu.pl
-NOERROR	ktipm28.ktipm.agh.edu.pl
-NOERROR	www.pssi.agh.edu.pl
-NOERROR	spin-up.agh.edu.pl
-NOERROR	kse17.ceramika.agh.edu.pl
-NOERROR	stud102.fis.agh.edu.pl
-NOERROR	kamerah24.eaiib.agh.edu.pl
-NOERROR	www.paraphrase.agh.edu.pl
-NOERROR	mops118.uci.agh.edu.pl
-NOERROR	wfitj192e.ftj.agh.edu.pl
-NOERROR	pcc206.ia.agh.edu.pl
-NOERROR	b3-4.mn.agh.edu.pl
-NXDOMAIN	doctores.agh.edu.pl
-NOERROR	cmat47.mat.agh.edu.pl
-NOERROR	host110-231.fis.agh.edu.pl
-NXDOMAIN	ekg.bg.agh.edu.pl
-NOERROR	p306.ket.agh.edu.pl
-NOERROR	mat138.mat.agh.edu.pl
-NOERROR	nat-weaiib7.agh.edu.pl
-NOERROR	www.kpput.agh.edu.pl
-NOERROR	bastion.d17.iisg.agh.edu.pl
-NOERROR	przenosiny.elektro.agh.edu.pl
-NOERROR	wfitj171e.ftj.agh.edu.pl
-NOERROR	fcb.fis.agh.edu.pl
-NOERROR	spinlab.agh.edu.pl
-NOERROR	optyme.kt.agh.edu.pl
-NOERROR	usterki.test.dsnet.agh.edu.pl
-NOERROR	kmg-prac0.imir.agh.edu.pl
-NOERROR	kokpit.uci.agh.edu.pl
-NOERROR	dragon.wibro.agh.edu.pl
-NOERROR	kse8.ceramika.agh.edu.pl
-NOERROR	basen-router.adm.agh.edu.pl
-NOERROR	amon.metal.agh.edu.pl
-NOERROR	orawiak.geod.agh.edu.pl
-NOERROR	broda.gorn.agh.edu.pl
-NOERROR	dabrowska.geol.agh.edu.pl
-NOERROR	stratus.elektro.agh.edu.pl
-NOERROR	www.oragh.agh.edu.pl
-NOERROR	7ccgt.agh.edu.pl
-NOERROR	typo3dev.uci.agh.edu.pl
-NOERROR	ursstv.agh.edu.pl
-NOERROR	lsr02.ia.agh.edu.pl
-NOERROR	k-322-12.imir.agh.edu.pl
-NOERROR	prodziek1.weip.agh.edu.pl
-NOERROR	ad.elektro.agh.edu.pl
-NOERROR	b3-komp3.zet.agh.edu.pl
-NOERROR	zts48.ia.agh.edu.pl
-NOERROR	lab08-3.mn.agh.edu.pl
-NOERROR	journals-1bg-1agh-1edu-1pl-1000032tb0add.wbg2.bg.agh.edu.pl
-NOERROR	ru.agh.edu.pl
-NOERROR	eds-1b-1ebscohost-1com-1atoz.wbg2.bg.agh.edu.pl
-NOERROR	test148.kt.agh.edu.pl
-NOERROR	felisiak.geol.agh.edu.pl
-NOERROR	azs.agh.edu.pl
-NOERROR	agh-cop-raporty.map.infra.ki.agh.edu.pl
-NOERROR	kap-116.imir.agh.edu.pl
-NOERROR	mat248.mat.agh.edu.pl
-NOERROR	justyna.mn.agh.edu.pl
-NOERROR	pc87.zfcs.agh.edu.pl
-NOERROR	dhcp089.kt.agh.edu.pl
-NOERROR	www.projekty.krim.agh.edu.pl
-NOERROR	tecra.kt.agh.edu.pl
-NOERROR	pubs-1rsc-1org-1wu2bf66n3846.wbg2.bg.agh.edu.pl
-NOERROR	aryniew.imir.agh.edu.pl
-NOERROR	wfitj202e.ftj.agh.edu.pl
-NOERROR	s4f.agh.edu.pl
-NOERROR	wz.zarz.agh.edu.pl
-NOERROR	www.ptkat.agh.edu.pl
-NOERROR	oserv1.kt.agh.edu.pl
-NOERROR	pcpolaczyk.kt.agh.edu.pl
-NOERROR	mops100.uci.agh.edu.pl
-NOERROR	vivat.agh.edu.pl
-NOERROR	k-322-10.imir.agh.edu.pl
-NXDOMAIN	rejestracja.rajd100.agh.edu.pl
-NOERROR	www.pzme.zarz.agh.edu.pl
-NOERROR	tempus.metal.agh.edu.pl
-NOERROR	wfitj180e.ftj.agh.edu.pl
-NOERROR	facedev.kt.agh.edu.pl
-NOERROR	wfitj225e.ftj.agh.edu.pl
-NOERROR	cel.agh.edu.pl
-NOERROR	usos.ki.agh.edu.pl
-NOERROR	dhcp066.kt.agh.edu.pl
-NOERROR	www.mielec.agh.edu.pl
-NOERROR	galileo.imir.agh.edu.pl
-NOERROR	www.sorbenty2017.agh.edu.pl
-NOERROR	zagajnik.wibro.agh.edu.pl
-NOERROR	rpress5.imir.agh.edu.pl
-NOERROR	limba5.metal.agh.edu.pl
-NOERROR	www.kusiak.cel.agh.edu.pl
-NOERROR	lx2.geol.agh.edu.pl
-NOERROR	mat131.mat.agh.edu.pl
-NOERROR	portage.kt.agh.edu.pl
-NOERROR	iza.elektro.agh.edu.pl
-NOERROR	gollum.zfcs.agh.edu.pl
-NOERROR	hydra.elektro.agh.edu.pl
-NXDOMAIN	misio-old.fis.agh.edu.pl
-NOERROR	host110-61.fis.agh.edu.pl
-NOERROR	wnssp23-2.ins.agh.edu.pl
-NOERROR	nat-wwnig1.agh.edu.pl
-NOERROR	walec2.mn.agh.edu.pl
-NOERROR	geomatyka.geod.agh.edu.pl
-NOERROR	b3-8.mn.agh.edu.pl
-NOERROR	l16.gorn.agh.edu.pl
-NOERROR	dni-hoborskiego.agh.edu.pl
-NOERROR	turbacz.metal.agh.edu.pl
-NOERROR	wo107.odlew.agh.edu.pl
-NOERROR	wo105.odlew.agh.edu.pl
-NOERROR	jk.gorn.agh.edu.pl
-NOERROR	stud235.fis.agh.edu.pl
-NOERROR	ka.agh.edu.pl
-NOERROR	rusek.imir.agh.edu.pl
-NOERROR	www-1sciencedirect-1com-1000027uj0050.wbg2.bg.agh.edu.pl
-NXDOMAIN	plan.uci.agh.edu.pl
-NOERROR	rek1.mn.agh.edu.pl
-NOERROR	mops083.uci.agh.edu.pl
-NOERROR	krokus142.imir.agh.edu.pl
-NOERROR	phd.b1.agh.edu.pl
-NOERROR	host110-130.fis.agh.edu.pl
-NOERROR	www.ms.agh.edu.pl
-NOERROR	krokus146.imir.agh.edu.pl
-NOERROR	www.scalak.elektro.agh.edu.pl
-NOERROR	ns25.elektro.agh.edu.pl
-NOERROR	kawiory14.wpie.agh.edu.pl
-NOERROR	power1a.uci.agh.edu.pl
-NOERROR	login.wbg2.bg.agh.edu.pl
-NOERROR	nyquist.ia.agh.edu.pl
-NOERROR	dbc3.cel.agh.edu.pl
-NOERROR	cmat54.mat.agh.edu.pl
-NOERROR	lc1.labcisco.agh.edu.pl
-NOERROR	wumtest.uci.agh.edu.pl
-NOERROR	nat-adm21.agh.edu.pl
-NOERROR	if22.zfcs.agh.edu.pl
-NOERROR	www-1sciencedirect-1com-1000027eh02cb.wbg2.bg.agh.edu.pl
-NOERROR	cb6-172.ceramika.agh.edu.pl
-NOERROR	pc21.geol.agh.edu.pl
-NOERROR	hp4350pietro.kt.agh.edu.pl
-NOERROR	mszczerba2.mn.agh.edu.pl
-NOERROR	laska.geol.agh.edu.pl
-NOERROR	lrmz.ia.agh.edu.pl
-NOERROR	www.afej.agh.edu.pl
-NOERROR	zkc5.ceramika.agh.edu.pl
-NOERROR	www.wnss.agh.edu.pl
-NOERROR	www.kgbig.agh.edu.pl
-NOERROR	feliks.imir.agh.edu.pl
-NOERROR	kse14.ceramika.agh.edu.pl
-NOERROR	rejestr2.adm.agh.edu.pl
-NOERROR	wfitj115e.ftj.agh.edu.pl
-NOERROR	hawking.ia.agh.edu.pl
-NOERROR	host110-188.fis.agh.edu.pl
-NOERROR	pc5.geol.agh.edu.pl
-NOERROR	dou4.adm.agh.edu.pl
-NOERROR	vcs-e.ki.agh.edu.pl
-NOERROR	wnssp112.ins.agh.edu.pl
-NOERROR	pc.ia.agh.edu.pl
-NOERROR	www.decyzje.agh.edu.pl
-NOERROR	www.ka.agh.edu.pl
-NOERROR	www.gazety.agh.edu.pl
-NOERROR	poseidon.uci.agh.edu.pl
-NOERROR	proszowska-pc.zarz.agh.edu.pl
-NOERROR	aq67.ia.agh.edu.pl
-NOERROR	wo67.odlew.agh.edu.pl
-NOERROR	cb6-169.ceramika.agh.edu.pl
-NOERROR	host110-186.fis.agh.edu.pl
-NOERROR	host110-48.fis.agh.edu.pl
-NOERROR	lab-12.mn.agh.edu.pl
-NOERROR	www.komplastech.agh.edu.pl
-NOERROR	tak.uci.agh.edu.pl
-NOERROR	nato.geol.agh.edu.pl
-NOERROR	keios.agh.edu.pl
-NOERROR	kca5.ceramika.agh.edu.pl
-NOERROR	in.iisg.agh.edu.pl
-NOERROR	dflisiak.gorn.agh.edu.pl
-NOERROR	b3-1.mn.agh.edu.pl
-NOERROR	papiernik.geol.agh.edu.pl
-NOERROR	joki.zee.agh.edu.pl
-NOERROR	proactive.kt.agh.edu.pl
-NOERROR	basia.elektro.agh.edu.pl
-NOERROR	dhcp-pc208.elektro.agh.edu.pl
-NOERROR	wo123.odlew.agh.edu.pl
-NOERROR	zts38.ia.agh.edu.pl
-NOERROR	pc512.elektro.agh.edu.pl
-NOERROR	zjazd.ceramika.agh.edu.pl
-NOERROR	wfitj132e.ftj.agh.edu.pl
-NXDOMAIN	www.wnioski.dwz.agh.edu.pl
-NOERROR	dhcp0116.kt.agh.edu.pl
-NOERROR	jtrela.mn.agh.edu.pl
-NOERROR	tsokol.geol.agh.edu.pl
-NOERROR	host110-236.fis.agh.edu.pl
-NOERROR	wfitj207e.ftj.agh.edu.pl
-NOERROR	ilon9.ia.agh.edu.pl
-NOERROR	wpie28.wpie.agh.edu.pl
-NOERROR	biblio.kt.agh.edu.pl
-NOERROR	mops126.uci.agh.edu.pl
-NOERROR	wmsg.gorn.agh.edu.pl
-NOERROR	nat.ds20.agh.edu.pl
-NOERROR	www.kngpan.agh.edu.pl
-NOERROR	stamak.keiaspe.agh.edu.pl
-NOERROR	wfitj114e.ftj.agh.edu.pl
-NOERROR	knm1.imir.agh.edu.pl
-NOERROR	kb14.ceramika.agh.edu.pl
-NOERROR	switch1.wnaft.agh.edu.pl
-NOERROR	trash.metal.agh.edu.pl
-NOERROR	l15.gorn.agh.edu.pl
-NOERROR	l07.gorn.agh.edu.pl
-NOERROR	lic-srv-3.wnaft.agh.edu.pl
-NOERROR	kaib.agh.edu.pl
-NOERROR	sonata.wibro.agh.edu.pl
-NOERROR	st12.gorn.agh.edu.pl
-NOERROR	redmine.kis.agh.edu.pl
-NOERROR	olimp194.imir.agh.edu.pl
-NOERROR	netback.uci.agh.edu.pl
-NOERROR	mambroz.metal.agh.edu.pl
-NOERROR	lwm5.imir.agh.edu.pl
-NOERROR	czopek.gorn.agh.edu.pl
-NOERROR	dhcp0109.kt.agh.edu.pl
-NOERROR	pc18.zfcs.agh.edu.pl
-NOERROR	mat171.mat.agh.edu.pl
-NOERROR	sikora.wibro.agh.edu.pl
-NOERROR	omnivista2.adm.agh.edu.pl
-NOERROR	stud156.fis.agh.edu.pl
-NOERROR	dhcp170.kt.agh.edu.pl
-NOERROR	mat184.mat.agh.edu.pl
-NOERROR	pc152.kme.agh.edu.pl
-NOERROR	dok.agh.edu.pl
-NOERROR	tyflos.uci.agh.edu.pl
-NOERROR	ww1.cel.agh.edu.pl
-NOERROR	kastor.ics.agh.edu.pl
-NOERROR	www.kezp.gorn.agh.edu.pl
-NOERROR	www.sim.agh.edu.pl
-NOERROR	2-p118b-b1.keiaspe.agh.edu.pl
-NOERROR	anka.metal.agh.edu.pl
-NOERROR	kernel.fis.agh.edu.pl
-NOERROR	host110-95.fis.agh.edu.pl
-NOERROR	grantyds.iet.agh.edu.pl
-NOERROR	webhd.cri.agh.edu.pl
-NOERROR	ky4300parter.kt.agh.edu.pl
-NOERROR	nutech-2017.agh.edu.pl
-NOERROR	pc64.zfcs.agh.edu.pl
-NOERROR	twiki.fotogrametria.agh.edu.pl
-NOERROR	fg4.adm.agh.edu.pl
-NOERROR	kerrjw.ket.agh.edu.pl
-NOERROR	mfcs.ki.agh.edu.pl
-NOERROR	www.pinbio.agh.edu.pl
-NOERROR	www.or.zarz.agh.edu.pl
-NOERROR	dhcp197.kt.agh.edu.pl
-NOERROR	pendel.geod.agh.edu.pl
-NOERROR	komplex.geod.agh.edu.pl
-NOERROR	clusterpm2.ket.agh.edu.pl
-NOERROR	pr-pom.imir.agh.edu.pl
-NOERROR	glowniak.geol.agh.edu.pl
-NOERROR	kse22.ceramika.agh.edu.pl
-NOERROR	rajchel.geol.agh.edu.pl
-NOERROR	mops073.uci.agh.edu.pl
-NOERROR	kandydat.agh.edu.pl
-NXDOMAIN	b2-ro-13.imir.agh.edu.pl
-NOERROR	optas.elektro.agh.edu.pl
-NOERROR	hydra.fis.agh.edu.pl
-NOERROR	www.pomoc-it.agh.edu.pl
-NOERROR	nat-vl222.agh.edu.pl
-NOERROR	bekgaik-pc.zarz.agh.edu.pl
-NOERROR	kca14.ceramika.agh.edu.pl
-NOERROR	wfitj18e.ftj.agh.edu.pl
-NOERROR	www.ict2021.agh.edu.pl
-NOERROR	tobola.geol.agh.edu.pl
-NOERROR	iris.cs.agh.edu.pl
-NOERROR	nat-wiet3.agh.edu.pl
-NOERROR	ns.icsr.agh.edu.pl
-NOERROR	nb-kw.kt.agh.edu.pl
-NOERROR	zmb27.ceramika.agh.edu.pl
-NOERROR	voodoo.elektro.agh.edu.pl
-NOERROR	orion.geod.agh.edu.pl
-NOERROR	kusto.mn.agh.edu.pl
-NOERROR	host110-232.fis.agh.edu.pl
-NOERROR	ktipm12.ktipm.agh.edu.pl
-NOERROR	phoneme.dsp.agh.edu.pl
-NOERROR	wfitj206e.ftj.agh.edu.pl
-NOERROR	figa2.kwestura.agh.edu.pl
-NOERROR	pc5.wibro.agh.edu.pl
-NOERROR	lwm7.imir.agh.edu.pl
-NOERROR	mat148.mat.agh.edu.pl
-NOERROR	wlodek.ia.agh.edu.pl
-NOERROR	stud228.fis.agh.edu.pl
-NOERROR	wfitj126e.ftj.agh.edu.pl
-NOERROR	felis.wibro.agh.edu.pl
-NOERROR	zgg2.geod.agh.edu.pl
-NOERROR	www.fi.agh.edu.pl
-NOERROR	joz.wibro.agh.edu.pl
-NOERROR	mops072.uci.agh.edu.pl
-NOERROR	k-322-8.imir.agh.edu.pl
-NOERROR	cmat16.mat.agh.edu.pl
-NOERROR	jblachut-pc.zarz.agh.edu.pl
-NOERROR	jarjar.icsr.agh.edu.pl
-NOERROR	midas.geod.agh.edu.pl
-NXDOMAIN	mask.uci.agh.edu.pl
-NOERROR	pyra.gorn.agh.edu.pl
-NOERROR	kfimp.ceramika.agh.edu.pl
-NOERROR	mat150.mat.agh.edu.pl
-NOERROR	dgn.agh.edu.pl
-NOERROR	wfitj147e.ftj.agh.edu.pl
-NOERROR	www.sknos.agh.edu.pl
-NOERROR	dima.metal.agh.edu.pl
-NOERROR	callmgr.kt.agh.edu.pl
-NOERROR	nat.ds6.agh.edu.pl
-NOERROR	tuo.agh.edu.pl
-NOERROR	tomek310.geod.agh.edu.pl
-NOERROR	dhcp074.kt.agh.edu.pl
-NOERROR	fgp13.agh.edu.pl
-NOERROR	dou6.adm.agh.edu.pl
-NOERROR	pc09.zfcs.agh.edu.pl
-NOERROR	peszko.gorn.agh.edu.pl
-NOERROR	www.dialog.agh.edu.pl
-NOERROR	rekrutacja.doktoranci.agh.edu.pl
-NOERROR	www.kaskgg.agh.edu.pl
-NOERROR	super3-pc.zarz.agh.edu.pl
-NOERROR	kap-102.imir.agh.edu.pl
-NOERROR	zm197.zmet.agh.edu.pl
-NOERROR	nela.wibro.agh.edu.pl
-NOERROR	cb6-232.ceramika.agh.edu.pl
-NOERROR	skrzypko.gorn.agh.edu.pl
-NOERROR	kap-44.imir.agh.edu.pl
-NOERROR	opc3.kt.agh.edu.pl
-NOERROR	mdp01c.elektro.agh.edu.pl
-NOERROR	proszek.metal.agh.edu.pl
-NOERROR	journals-1sagepub-1com-1000032oq0e2d.wbg2.bg.agh.edu.pl
-NOERROR	stud230.fis.agh.edu.pl
-NOERROR	pks2.gorn.agh.edu.pl
-NOERROR	zmb14.ceramika.agh.edu.pl
-NOERROR	rank.bpp2020.agh.edu.pl
-NOERROR	wo149.odlew.agh.edu.pl
-NOERROR	forum-et.agh.edu.pl
-NOERROR	wo115.odlew.agh.edu.pl
-NOERROR	test165.kt.agh.edu.pl
-NOERROR	www.komb.agh.edu.pl
-NOERROR	ktipm56.ktipm.agh.edu.pl
-NOERROR	wfitj137e.ftj.agh.edu.pl
-NOERROR	stolowka1.adm.agh.edu.pl
-NOERROR	www.puchar.agh.edu.pl
-NOERROR	procjon.imir.agh.edu.pl
-NOERROR	wo64.odlew.agh.edu.pl
-NOERROR	lbsh7.ia.agh.edu.pl
-NXDOMAIN	ansyskwzmik.imir.agh.edu.pl
-NOERROR	miles.metal.agh.edu.pl
-NOERROR	portal.ki.agh.edu.pl
-NOERROR	wfitj71e.ftj.agh.edu.pl
-NOERROR	host109-84.fis.agh.edu.pl
-NOERROR	larix.geod.agh.edu.pl
-NOERROR	autoconfig.agh.edu.pl
-NOERROR	mops137.uci.agh.edu.pl
-NOERROR	www.kmet.agh.edu.pl
-NOERROR	www.sat10.agh.edu.pl
-NOERROR	kcs11.ceramika.agh.edu.pl
-NOERROR	jim.metal.agh.edu.pl
-NOERROR	brygada.geol.agh.edu.pl
-NOERROR	svn-proactive.kt.agh.edu.pl
-NOERROR	www.kwig.wnaft.agh.edu.pl
-NXDOMAIN	kamera-eaiie.fis.agh.edu.pl
-NOERROR	pc242.geol.agh.edu.pl
-NOERROR	chem45a4.wpie.agh.edu.pl
-NOERROR	lr9.ia.agh.edu.pl
-NOERROR	stmet05.metal.agh.edu.pl
-NOERROR	https.galaxy.agh.edu.pl
-NOERROR	nat-adm12.agh.edu.pl
-NOERROR	mgoly.metal.agh.edu.pl
-NOERROR	nbkant.kt.agh.edu.pl
-NOERROR	k-210-11.imir.agh.edu.pl
-NOERROR	mops094.uci.agh.edu.pl
-NOERROR	gruszcz.metal.agh.edu.pl
-NOERROR	pcdanda.kt.agh.edu.pl
-NOERROR	picasso.geod.agh.edu.pl
-NXDOMAIN	kandtest.ukr.agh.edu.pl
-NOERROR	pc182.kme.agh.edu.pl
-NOERROR	dhcp166.kt.agh.edu.pl
-NOERROR	dev2.cel.agh.edu.pl
-NOERROR	kct6.ceramika.agh.edu.pl
-NOERROR	mat170.mat.agh.edu.pl
-NXDOMAIN	ftjnas.uci.agh.edu.pl
-NXDOMAIN	aster-0b.imir.agh.edu.pl
-NOERROR	krajewski.geol.agh.edu.pl
-NOERROR	dhcp54.zee.agh.edu.pl
-NOERROR	www.podyplomowe.agh.edu.pl
-NOERROR	delegat.mat.agh.edu.pl
-NOERROR	praca.ck.agh.edu.pl
-NOERROR	d8-805-router.ket.agh.edu.pl
-NOERROR	www.akg.agh.edu.pl
-NOERROR	olimp196.imir.agh.edu.pl
-NOERROR	kanlab11.keiaspe.agh.edu.pl
-NOERROR	kmiw.wibro.agh.edu.pl
-NOERROR	ds15.agh.edu.pl
-NOERROR	jlezansk.metal.agh.edu.pl
-NOERROR	dzn-router.adm.agh.edu.pl
-NOERROR	pc111.zfcs.agh.edu.pl
-NOERROR	nat-adm6.agh.edu.pl
-NOERROR	d17-allibys.infra.iisg.agh.edu.pl
-NOERROR	zts42.ia.agh.edu.pl
-NOERROR	syllabus2.uci.agh.edu.pl
-NOERROR	wdm3.kt.agh.edu.pl
-NOERROR	tumidaj.gorn.agh.edu.pl
-NOERROR	pmaj.ket.agh.edu.pl
-NOERROR	mops028.uci.agh.edu.pl
-NOERROR	b2-214b.imir.agh.edu.pl
-NOERROR	iccc.agh.edu.pl
-NOERROR	linksysap1.ins.agh.edu.pl
-NOERROR	cb6-158.ceramika.agh.edu.pl
-NOERROR	wmaczka.gorn.agh.edu.pl
-NOERROR	wnssp103.ins.agh.edu.pl
-NOERROR	ieeexplore-1ieee-1org-10000477v0049.wbg2.bg.agh.edu.pl
-NOERROR	mops123.uci.agh.edu.pl
-NOERROR	selene.mn.agh.edu.pl
-NOERROR	test170.kt.agh.edu.pl
-NOERROR	mat141.mat.agh.edu.pl
-NOERROR	kridm.imir.agh.edu.pl
-NOERROR	pcc202.ia.agh.edu.pl
-NOERROR	r03.gorn.agh.edu.pl
-NOERROR	p019-b1.keiaspe.agh.edu.pl
-NOERROR	mgulip.elektro.agh.edu.pl
-NOERROR	hp2025.kt.agh.edu.pl
-NOERROR	ca0-054.ceramika.agh.edu.pl
-NOERROR	miekinia.agh.edu.pl
-NOERROR	www.pacs.agh.edu.pl
-NOERROR	fsia4.adm.agh.edu.pl
-NOERROR	wimir-235.imir.agh.edu.pl
-NOERROR	newton.ftj.agh.edu.pl
-NOERROR	stud158.fis.agh.edu.pl
-NOERROR	pijar2.mn.agh.edu.pl
-NOERROR	dhcp056.kt.agh.edu.pl
-NOERROR	tremb.gorn.agh.edu.pl
-NOERROR	monitoring.fslab.agh.edu.pl
-NOERROR	cb6-204.ceramika.agh.edu.pl
-NOERROR	p315mobil.mn.agh.edu.pl
-NOERROR	nat-vl207.agh.edu.pl
-NOERROR	pr-inf7.wibro.agh.edu.pl
-NOERROR	keiaspe.agh.edu.pl
-NOERROR	dhcp077.kt.agh.edu.pl
-NOERROR	wo24.odlew.agh.edu.pl
-NOERROR	kamera-eaiie.ftj.agh.edu.pl
-NOERROR	wfitj85e.ftj.agh.edu.pl
-NOERROR	aq86.ia.agh.edu.pl
-NOERROR	kolo226.kt.agh.edu.pl
-NOERROR	pomiar2.wpie.agh.edu.pl
-NOERROR	k-322-1.imir.agh.edu.pl
-NOERROR	host110-119.fis.agh.edu.pl
-NOERROR	www.geomatyka.agh.edu.pl
-NOERROR	sp-is.agh.edu.pl
-NOERROR	cb6-217.ceramika.agh.edu.pl
-NOERROR	dhcp174.kt.agh.edu.pl
-NOERROR	herkules-109.fis.agh.edu.pl
-NOERROR	ie16.ket.agh.edu.pl
-NOERROR	nt.ia.agh.edu.pl
-NOERROR	laptop-arp.kt.agh.edu.pl
-NOERROR	bgagh.bg.agh.edu.pl
-NOERROR	magda2.gorn.agh.edu.pl
-NOERROR	wfitj125e.ftj.agh.edu.pl
-NOERROR	wlctl.cri.agh.edu.pl
-NOERROR	www.kmo.agh.edu.pl
-NOERROR	xoa.cel.agh.edu.pl
-NXDOMAIN	b2-ro-11.imir.agh.edu.pl
-NOERROR	wo153.odlew.agh.edu.pl
-NOERROR	cmat45.mat.agh.edu.pl
-NOERROR	kstit2015.kt.agh.edu.pl
-NOERROR	d2zpe.zfcs.agh.edu.pl
-NOERROR	test191.kt.agh.edu.pl
-NOERROR	lhotse.wibro.agh.edu.pl
-NOERROR	pc100.zfcs.agh.edu.pl
-NOERROR	stasica.gorn.agh.edu.pl
-NOERROR	tulip.ics.agh.edu.pl
-NOERROR	www.fundacja.agh.edu.pl
-NOERROR	lab04.gorn.agh.edu.pl
-NOERROR	rezerwacje.iet.agh.edu.pl
-NOERROR	kap-42.imir.agh.edu.pl
-NOERROR	kap-50.imir.agh.edu.pl
-NOERROR	pc132.kme.agh.edu.pl
-NOERROR	batman.metal.agh.edu.pl
-NOERROR	ww4.zarz.agh.edu.pl
-NOERROR	zielinsk.metal.agh.edu.pl
-NXDOMAIN	www.login.dsnet.agh.edu.pl
-NOERROR	www.sgo.agh.edu.pl
-NOERROR	kca1.ceramika.agh.edu.pl
-NOERROR	mops093.uci.agh.edu.pl
-NOERROR	dt3.adm.agh.edu.pl
-NOERROR	host110-176.fis.agh.edu.pl
-NOERROR	zm220.zmet.agh.edu.pl
-NOERROR	www.power2.agh.edu.pl
-NOERROR	ca0-071.ceramika.agh.edu.pl
-NOERROR	kwant.kt.agh.edu.pl
-NOERROR	dc1-mta-out-b.infra.ki.agh.edu.pl
-NOERROR	www.icms.agh.edu.pl
-NOERROR	dt1.adm.agh.edu.pl
-SERVFAIL	wnaft-dc-01.ad.wnaft.agh.edu.pl
-NOERROR	mza-p3.ia.agh.edu.pl
-NOERROR	demeter.zarz.agh.edu.pl
-NOERROR	host109-83.fis.agh.edu.pl
-NOERROR	ca0-081.ceramika.agh.edu.pl
-NOERROR	zmb19.ceramika.agh.edu.pl
-NOERROR	mat197.mat.agh.edu.pl
-NOERROR	rsagh.adm.agh.edu.pl
-NOERROR	phe.b1.agh.edu.pl
-NOERROR	ekran.bg.agh.edu.pl
-NOERROR	dt2-voip.adm.agh.edu.pl
-NOERROR	podyplomowe.informatyka.agh.edu.pl
-NOERROR	teresa.geol.agh.edu.pl
-NOERROR	www.mackn.agh.edu.pl
-NOERROR	charon2.fis.agh.edu.pl
-NOERROR	kongresy.fundacja.agh.edu.pl
-NOERROR	www.integra.agh.edu.pl
-NOERROR	dl.icsr.agh.edu.pl
-NOERROR	cb6-206.ceramika.agh.edu.pl
-NOERROR	kuzminsk.metal.agh.edu.pl
-NOERROR	nat-uci2.agh.edu.pl
-NOERROR	plus.ds14.agh.edu.pl
-NOERROR	www.mapped.cel.agh.edu.pl
-NOERROR	apache.kt.agh.edu.pl
-NOERROR	weip-d4-58.weip.agh.edu.pl
-NOERROR	c5.agh.edu.pl
-NOERROR	hp5225.kt.agh.edu.pl
-NOERROR	wfitj28e.ftj.agh.edu.pl
-NXDOMAIN	ceenes.uci.agh.edu.pl
-NOERROR	mat132.mat.agh.edu.pl
-NOERROR	test.detres.kt.agh.edu.pl
-NXDOMAIN	gmazur-pc.zarz.agh.edu.pl
-NOERROR	mops.cri.agh.edu.pl
-NOERROR	wmn-pip.agh.edu.pl
-NOERROR	wpie15.wpie.agh.edu.pl
-NOERROR	dhaulagiri.ia.agh.edu.pl
-NOERROR	beta.keiaspe.agh.edu.pl
-NOERROR	lektor.metal.agh.edu.pl
-NOERROR	tytan.imir.agh.edu.pl
-NOERROR	andy.kt.agh.edu.pl
-NOERROR	wmsg26.gorn.agh.edu.pl
-NOERROR	motyl.mn.agh.edu.pl
-NOERROR	teneta3.ia.agh.edu.pl
-NOERROR	zmb23.ceramika.agh.edu.pl
-NOERROR	www.informatyka.agh.edu.pl
-NOERROR	wfitj95e.ftj.agh.edu.pl
-NOERROR	jbroz.zee.agh.edu.pl
-NOERROR	epodreczniki.open.agh.edu.pl
-NOERROR	www.unitime.agh.edu.pl
-NOERROR	czaja.gorn.agh.edu.pl
-NOERROR	drucik.metal.agh.edu.pl
-NOERROR	zm253.zmet.agh.edu.pl
-NOERROR	dhcp054.kt.agh.edu.pl
-NOERROR	stass8.gorn.agh.edu.pl
-NOERROR	www.elte2016.agh.edu.pl
-NOERROR	server-f.geod.agh.edu.pl
-NOERROR	biblioteka-2.mn.agh.edu.pl
-NOERROR	p2d.b1.agh.edu.pl
-NOERROR	kim2.geod.agh.edu.pl
-NOERROR	zmb7.ceramika.agh.edu.pl
-NOERROR	burtan.gorn.agh.edu.pl
-NOERROR	zam-sz.wibro.agh.edu.pl
-NOERROR	fiutow.gorn.agh.edu.pl
-NOERROR	www.imir.agh.edu.pl
-NOERROR	pcc216.ia.agh.edu.pl
-NOERROR	cc.agh.edu.pl
-NOERROR	kgg6.gorn.agh.edu.pl
-NOERROR	kcs19.ceramika.agh.edu.pl
-NOERROR	ca0-020.ceramika.agh.edu.pl
-NOERROR	dsc.mn.agh.edu.pl
-NOERROR	jaro.ia.agh.edu.pl
-NOERROR	limba1.metal.agh.edu.pl
-NOERROR	arax.uci.agh.edu.pl
-NXDOMAIN	c3sw3.ia.agh.edu.pl
-NOERROR	iza.metal.agh.edu.pl
-NOERROR	ca3-80.ceramika.agh.edu.pl
-NOERROR	pc66.zfcs.agh.edu.pl
-NOERROR	wood.agh.edu.pl
-NOERROR	netarc.uci.agh.edu.pl
-NOERROR	kpb-055.imir.agh.edu.pl
-NOERROR	www.tmpm.agh.edu.pl
-NOERROR	zdpb.agh.edu.pl
-NOERROR	wnssp7.ins.agh.edu.pl
-NOERROR	kuczynsk.gorn.agh.edu.pl
-NOERROR	janusz01.geod.agh.edu.pl
-NOERROR	cb6-143.ceramika.agh.edu.pl
-NOERROR	link-1springer-1com-1000032to181d.wbg2.bg.agh.edu.pl
-NOERROR	kompozyt.metal.agh.edu.pl
-NOERROR	k-320-14.imir.agh.edu.pl
-NOERROR	www.fccm.agh.edu.pl
-NOERROR	wfitj60e.ftj.agh.edu.pl
-NXDOMAIN	newton2.fis.agh.edu.pl
-NOERROR	b1rtr.agh.edu.pl
-NOERROR	ktipm61.ktipm.agh.edu.pl
-NOERROR	wh.dznet.agh.edu.pl
-NOERROR	www.wmn.agh.edu.pl
-NOERROR	pc53.zfcs.agh.edu.pl
-NOERROR	piogr2.imir.agh.edu.pl
-NOERROR	garfield.gorn.agh.edu.pl
-NOERROR	ktipm60.ktipm.agh.edu.pl
-NOERROR	pc58.zfcs.agh.edu.pl
-NOERROR	mops085.uci.agh.edu.pl
-NOERROR	f201.kt.agh.edu.pl
-NOERROR	iksraj.metal.agh.edu.pl
-NOERROR	b3gate.imir.agh.edu.pl
-NOERROR	mops186.uci.agh.edu.pl
-NOERROR	test138.kt.agh.edu.pl
-NOERROR	wwszolek.wibro.agh.edu.pl
-NOERROR	sawicka-pc.zarz.agh.edu.pl
-NOERROR	home.iisg.agh.edu.pl
-NOERROR	ppim.agh.edu.pl
-NOERROR	madej.metal.agh.edu.pl
-NOERROR	www.isd.fis.agh.edu.pl
-NOERROR	pelech-druk.zarz.agh.edu.pl
-NOERROR	pcc217.ia.agh.edu.pl
-NOERROR	ergo-lab.wibro.agh.edu.pl
-NOERROR	www-1sciencedirect-1com-1000032pc000d.wbg2.bg.agh.edu.pl
-NOERROR	ad.bg.agh.edu.pl
-NOERROR	andrzejb.gorn.agh.edu.pl
-NOERROR	nat-iisg.ki.agh.edu.pl
-NOERROR	sokol.wibro.agh.edu.pl
-NOERROR	hekate.ia.agh.edu.pl
-NOERROR	mops134.uci.agh.edu.pl
-NOERROR	wlodek.mn.agh.edu.pl
-NOERROR	lr12.ia.agh.edu.pl
-NOERROR	mdp02a.elektro.agh.edu.pl
-NOERROR	ie27.ket.agh.edu.pl
-NOERROR	lab404h.ia.agh.edu.pl
-NOERROR	ct2tee.agh.edu.pl
-NOERROR	proms2000.kt.agh.edu.pl
-NOERROR	proj13.gorn.agh.edu.pl
-NOERROR	www.fslab.agh.edu.pl
-NOERROR	host109-87.fis.agh.edu.pl
-NOERROR	dziekan3.wpie.agh.edu.pl
-NOERROR	p34.geod.agh.edu.pl
-NOERROR	wmsg6.gorn.agh.edu.pl
-NOERROR	limba15.metal.agh.edu.pl
-NOERROR	warlock.metal.agh.edu.pl
-NOERROR	pc10.zfcs.agh.edu.pl
-NOERROR	kms.ins.agh.edu.pl
-NOERROR	kb3.ceramika.agh.edu.pl
-NOERROR	bh.metal.agh.edu.pl
-NOERROR	kpb-057.imir.agh.edu.pl
-NOERROR	kct25.ceramika.agh.edu.pl
-NOERROR	krokus144.imir.agh.edu.pl
-NOERROR	www.space.agh.edu.pl
-NOERROR	zmb34.ceramika.agh.edu.pl
-NOERROR	mops096.uci.agh.edu.pl
-NOERROR	ksero.zet.agh.edu.pl
-NOERROR	lonlab1.elektro.agh.edu.pl
-NOERROR	pc184.kme.agh.edu.pl
-NOERROR	host110-45.fis.agh.edu.pl
-NOERROR	arrow.uci.agh.edu.pl
-NOERROR	host110-84.fis.agh.edu.pl
-NOERROR	xbl4.ics.agh.edu.pl
-NOERROR	kmg-korytarz.imir.agh.edu.pl
-NOERROR	www.kngk.agh.edu.pl
-NOERROR	k-320-2.imir.agh.edu.pl
-NOERROR	magnesite.agh.edu.pl
-NOERROR	nafta.agh.edu.pl
-NOERROR	zts54.ia.agh.edu.pl
-NOERROR	aniup117e.keiaspe.agh.edu.pl
-NOERROR	www.fcb.fis.agh.edu.pl
-NOERROR	dhcp0122.kt.agh.edu.pl
-NOERROR	p3lbzpe.zfcs.agh.edu.pl
-NOERROR	mops092.uci.agh.edu.pl
-NOERROR	kmiw-3.wibro.agh.edu.pl
-NOERROR	wggiis.dznet.agh.edu.pl
-NOERROR	www.mediacje.zarz.agh.edu.pl
-NOERROR	kap-25.imir.agh.edu.pl
-NOERROR	spacesystems-vm.agh.edu.pl
-NOERROR	www.knmwf.agh.edu.pl
-NOERROR	student.iisg.agh.edu.pl
-NOERROR	hp2600np419-dr.zarz.agh.edu.pl
-NOERROR	aq19.ia.agh.edu.pl
-NOERROR	www.kierunkizamawiane.agh.edu.pl
-NOERROR	kanchen.ia.agh.edu.pl
-NOERROR	oen.agh.edu.pl
-NOERROR	ankorbel.mn.agh.edu.pl
-NOERROR	brama.adm.agh.edu.pl
-NOERROR	cb6-222.ceramika.agh.edu.pl
-NOERROR	amorph.ket.agh.edu.pl
-NOERROR	kkio2005.agh.edu.pl
-NOERROR	nat.ds12.agh.edu.pl
-NOERROR	tulipan.metal.agh.edu.pl
-NOERROR	dhcp211.kt.agh.edu.pl
-NOERROR	walach.gorn.agh.edu.pl
-NOERROR	laur.samorzad.agh.edu.pl
-NOERROR	lm3.ia.agh.edu.pl
-NOERROR	samorzad.agh.edu.pl
-NOERROR	www.zrnt.zarz.agh.edu.pl
-NOERROR	wydawnictwo1.wydagh.agh.edu.pl
-NOERROR	test142.kt.agh.edu.pl
-NOERROR	odlewnictwo.agh.edu.pl
-NOERROR	detres-mail.kt.agh.edu.pl
-NOERROR	mops183.uci.agh.edu.pl
-NOERROR	mops140.uci.agh.edu.pl
-NOERROR	wsus.geod.agh.edu.pl
-NOERROR	k-209-03.imir.agh.edu.pl
-NOERROR	jtduda-pc.zarz.agh.edu.pl
-NOERROR	wibro-115.imir.agh.edu.pl
-NXDOMAIN	fox.ics.agh.edu.pl
-NOERROR	www.bozon.fis.agh.edu.pl
-NXDOMAIN	b2-radio-06.imir.agh.edu.pl
-NOERROR	www.pi.zarz.agh.edu.pl
-NOERROR	kb15.ceramika.agh.edu.pl
-NOERROR	wiet.dznet.agh.edu.pl
-NOERROR	dhcp179.kt.agh.edu.pl
-NOERROR	ca0-011.ceramika.agh.edu.pl
-NOERROR	neruonchip.ia.agh.edu.pl
-NOERROR	pc12.geol.agh.edu.pl
-NOERROR	zmb26.ceramika.agh.edu.pl
-NOERROR	host110-192.fis.agh.edu.pl
-NOERROR	kawiory13.wpie.agh.edu.pl
-NOERROR	wfitj204e.ftj.agh.edu.pl
-NOERROR	www.plywacy.agh.edu.pl
-NOERROR	fluidp.wpie.agh.edu.pl
-NOERROR	d17-c2-caribou.infra.iisg.agh.edu.pl
-NOERROR	algor.imir.agh.edu.pl
-NOERROR	kerma.fis.agh.edu.pl
-NOERROR	mops039.uci.agh.edu.pl
-NOERROR	orion.elektro.agh.edu.pl
-NOERROR	scalak.elektro.agh.edu.pl
-NOERROR	rob.wibro.agh.edu.pl
-NOERROR	pascal.fis.agh.edu.pl
-NXDOMAIN	olimp200.imir.agh.edu.pl
-NOERROR	netarc.cri.agh.edu.pl
-NOERROR	rejestracja100.wordpress.agh.edu.pl
-NOERROR	msd2013.ceramika.agh.edu.pl
-NOERROR	ie8.ket.agh.edu.pl
-NOERROR	bocian.geod.agh.edu.pl
-NOERROR	www.doktoranckie.agh.edu.pl
-NOERROR	www.halas.agh.edu.pl
-NOERROR	toshiba.geod.agh.edu.pl
-NOERROR	dhcp158.kt.agh.edu.pl
-NOERROR	wo22.odlew.agh.edu.pl
-NOERROR	desorp.wpie.agh.edu.pl
-NOERROR	hansel.imir.agh.edu.pl
-NOERROR	wpie5.wpie.agh.edu.pl
-NOERROR	mts880.mn.agh.edu.pl
-NOERROR	sw.agh.edu.pl
-NOERROR	stud215.fis.agh.edu.pl
-NOERROR	cioch.wibro.agh.edu.pl
-NOERROR	dhcp079.kt.agh.edu.pl
-NOERROR	borylo.kt.agh.edu.pl
-NOERROR	stud103.fis.agh.edu.pl
-NOERROR	www.kppe.agh.edu.pl
-NOERROR	szczepan.metal.agh.edu.pl
-NOERROR	krbsrv2.fis.agh.edu.pl
-NOERROR	www.psims.agh.edu.pl
-NOERROR	eja.geod.agh.edu.pl
-NOERROR	iopscience.iop.org.ickguh4q2ea5.wbg2.bg.agh.edu.pl
-NOERROR	l18.gorn.agh.edu.pl
-NOERROR	www.samorzad.agh.edu.pl
-NOERROR	lisowski-pc.zarz.agh.edu.pl
-NOERROR	host110-175.fis.agh.edu.pl
-NOERROR	mrowka.ia.agh.edu.pl
-NOERROR	kct9.ceramika.agh.edu.pl
-NOERROR	student.uci.agh.edu.pl
-NOERROR	b3-2.mn.agh.edu.pl
-NOERROR	dzndemo.agh.edu.pl
-NOERROR	rekrut1.ins.agh.edu.pl
-NOERROR	kawiory9.wpie.agh.edu.pl
-NOERROR	pbz.kt.agh.edu.pl
-NXDOMAIN	oen.dydaktyka.agh.edu.pl
-NOERROR	stronczek-pc.zarz.agh.edu.pl
-NOERROR	rokitom.imir.agh.edu.pl
-NOERROR	luke.icsr.agh.edu.pl
-NOERROR	jan.geod.agh.edu.pl
-NOERROR	www.galaxy.agh.edu.pl
-NOERROR	bi4.eaiib.agh.edu.pl
-NOERROR	upsp3.odlew.agh.edu.pl
-NOERROR	host110-60.fis.agh.edu.pl
-NOERROR	nowak.metal.agh.edu.pl
-NOERROR	d17-c1-prx-1.infra.iisg.agh.edu.pl
-NOERROR	www.kej.agh.edu.pl
-NOERROR	mops099.uci.agh.edu.pl
-NOERROR	pc70.zfcs.agh.edu.pl
-NOERROR	host110-167.fis.agh.edu.pl
-NOERROR	ca0-058.ceramika.agh.edu.pl
-NOERROR	host110-182.fis.agh.edu.pl
-NOERROR	dhcp0117.kt.agh.edu.pl
-NOERROR	lab404j.ia.agh.edu.pl
-NOERROR	yukonb.uci.agh.edu.pl
-NOERROR	wmsg36.gorn.agh.edu.pl
-NOERROR	uno.kt.agh.edu.pl
-NOERROR	onion.metal.agh.edu.pl
-NOERROR	b2-21-1.imir.agh.edu.pl
-NOERROR	knapczyk.imir.agh.edu.pl
-NOERROR	jola.metal.agh.edu.pl
-NOERROR	kap-125.imir.agh.edu.pl
-NOERROR	host110-224.fis.agh.edu.pl
-NOERROR	cmat43.mat.agh.edu.pl
-NOERROR	cmat52.mat.agh.edu.pl
-NOERROR	www.ms2010.agh.edu.pl
-NOERROR	nat-vl58.agh.edu.pl
-NOERROR	wzorzecubuntu.uci.agh.edu.pl
-NOERROR	wo34.odlew.agh.edu.pl
-NOERROR	mg.metal.agh.edu.pl
-NOERROR	kca19.ceramika.agh.edu.pl
-NOERROR	mx1.fotogrametria.agh.edu.pl
-NOERROR	www.junior.agh.edu.pl
-NOERROR	www.skt.agh.edu.pl
-NOERROR	sprp.agh.edu.pl
-NOERROR	stud171.fis.agh.edu.pl
-NOERROR	dhcp190.kt.agh.edu.pl
-NOERROR	konica.zarz.agh.edu.pl
-NOERROR	kamerabudowa.eaiib.agh.edu.pl
-NOERROR	wo3.odlew.agh.edu.pl
-NOERROR	mops131.uci.agh.edu.pl
-NOERROR	teklan.ia.agh.edu.pl
-NOERROR	lucyfer.imir.agh.edu.pl
-NOERROR	sso.ki.agh.edu.pl
-NOERROR	stud165.fis.agh.edu.pl
-NOERROR	agumula.metal.agh.edu.pl
-NOERROR	cb6-202.ceramika.agh.edu.pl
-NOERROR	cmat25.mat.agh.edu.pl
-NOERROR	ktipm11.ktipm.agh.edu.pl
-NOERROR	kawiory11.wpie.agh.edu.pl
-NOERROR	downloads-1hindawi-1com-1000032dr0411.wbg2.bg.agh.edu.pl
-NOERROR	mat241.mat.agh.edu.pl
-NOERROR	www.100lat.agh.edu.pl
-NOERROR	www.kliwent.agh.edu.pl
-NOERROR	kamerau2-1.adm.agh.edu.pl
-NOERROR	mops114.uci.agh.edu.pl
-NOERROR	nalepkaa.imir.agh.edu.pl
-NOERROR	nat.eaiib.agh.edu.pl
-NOERROR	weip-d4-55.weip.agh.edu.pl
-NOERROR	chmielek.gorn.agh.edu.pl
-NOERROR	wachol-pc.zarz.agh.edu.pl
-NOERROR	test149.kt.agh.edu.pl
-NOERROR	api.agh.edu.pl
-NOERROR	host110-39.fis.agh.edu.pl
-NOERROR	lukas.geod.agh.edu.pl
-NOERROR	zts41.ia.agh.edu.pl
-NOERROR	www.tos.agh.edu.pl
-NOERROR	nat-adm10.agh.edu.pl
-NOERROR	pag7.gorn.agh.edu.pl
-NOERROR	mops170.uci.agh.edu.pl
-NOERROR	supel2.imir.agh.edu.pl
-NOERROR	magdzia.mn.agh.edu.pl
-NOERROR	kap-63.imir.agh.edu.pl
-NOERROR	www.rewitalizacja.agh.edu.pl
-NOERROR	dhcp-pc189.elektro.agh.edu.pl
-NOERROR	host110-161.fis.agh.edu.pl
-NOERROR	dns.oen.agh.edu.pl
-NOERROR	cb6-229.ceramika.agh.edu.pl
-NOERROR	st19.gorn.agh.edu.pl
-NOERROR	kap-17.imir.agh.edu.pl
-NOERROR	wlodek.imir.agh.edu.pl
-NOERROR	ania.mn.agh.edu.pl
-NOERROR	cmat51.mat.agh.edu.pl
-NOERROR	mdp09a.elektro.agh.edu.pl
-NOERROR	mat153.mat.agh.edu.pl
-NOERROR	wfitj218e.ftj.agh.edu.pl
-NOERROR	d8-806-tomek.ket.agh.edu.pl
-NOERROR	cb6-223.ceramika.agh.edu.pl
-NOERROR	epom.uci.agh.edu.pl
-NOERROR	agni.geod.agh.edu.pl
-NOERROR	magdad.imir.agh.edu.pl
-NOERROR	kawiory32.wpie.agh.edu.pl
-NOERROR	host110-181.fis.agh.edu.pl
-NOERROR	s68.bg.agh.edu.pl
-NOERROR	kmiw-2.wibro.agh.edu.pl
-NOERROR	mat246.mat.agh.edu.pl
-NOERROR	ziam.metal.agh.edu.pl
-NOERROR	cb6-194.ceramika.agh.edu.pl
-NOERROR	lab401.elektro.agh.edu.pl
-NOERROR	test177.kt.agh.edu.pl
-NOERROR	www.miasteczko.agh.edu.pl
-NOERROR	p404.elektro.agh.edu.pl
-NOERROR	hp5m.kt.agh.edu.pl
-NOERROR	aq11.ia.agh.edu.pl
-NOERROR	opc1.kt.agh.edu.pl
-NOERROR	redmine.cel.agh.edu.pl
-NOERROR	nt1.geol.agh.edu.pl
-NOERROR	www.poczta.regent.agh.edu.pl
-NOERROR	kolo225.kt.agh.edu.pl
-NOERROR	mat230.mat.agh.edu.pl
-NOERROR	odkr1.gorn.agh.edu.pl
-NOERROR	www.wakacje.agh.edu.pl
-NOERROR	cb6-150.ceramika.agh.edu.pl
-NOERROR	wo151.odlew.agh.edu.pl
-NOERROR	ca0-078.ceramika.agh.edu.pl
-NOERROR	cb6-129.ceramika.agh.edu.pl
-NOERROR	wfitj69e.ftj.agh.edu.pl
-NXDOMAIN	catalyst2.fis.agh.edu.pl
-NOERROR	host110-54.fis.agh.edu.pl
-NOERROR	www.cr.agh.edu.pl
-NOERROR	mat210.mat.agh.edu.pl
-NOERROR	wo18.odlew.agh.edu.pl
-NOERROR	survey.e-capacit8.cel.agh.edu.pl
-NOERROR	host110-147.fis.agh.edu.pl
-NOERROR	geomatyka12.geod.agh.edu.pl
-NOERROR	dhcp0102.kt.agh.edu.pl
-NOERROR	psw.agh.edu.pl
-NOERROR	wpie19.wpie.agh.edu.pl
-NOERROR	mat249.mat.agh.edu.pl
-NOERROR	www.csci.agh.edu.pl
-NOERROR	ziuta2.imir.agh.edu.pl
-NOERROR	dhcp220.kt.agh.edu.pl
-NOERROR	admin2.fis.agh.edu.pl
-NOERROR	studium13.sjo.agh.edu.pl
-NOERROR	olimp30.imir.agh.edu.pl
-NOERROR	asystent5.wpie.agh.edu.pl
-NOERROR	automatyka.agh.edu.pl
-NOERROR	u2-2.adm.agh.edu.pl
-NOERROR	nt2.geol.agh.edu.pl
-NOERROR	acoustic.wibro.agh.edu.pl
-NOERROR	solga.imir.agh.edu.pl
-NOERROR	mops091.uci.agh.edu.pl
-NOERROR	krokus148.imir.agh.edu.pl
-NOERROR	hercules.wibro.agh.edu.pl
-NOERROR	cb6-142.ceramika.agh.edu.pl
-NOERROR	feliksrtr.imir.agh.edu.pl
-NOERROR	xfiles.elektro.agh.edu.pl
-NOERROR	luna.imir.agh.edu.pl
-NOERROR	lat-gw.wibro.agh.edu.pl
-NOERROR	studium25.sjo.agh.edu.pl
-NOERROR	kb9.ceramika.agh.edu.pl
-NOERROR	stopy-mn.mn.agh.edu.pl
-NOERROR	mops060.uci.agh.edu.pl
-NOERROR	pc-ad.kt.agh.edu.pl
-NOERROR	pracumowa.bg.agh.edu.pl
-NOERROR	host110-237.fis.agh.edu.pl
-NOERROR	dhcp39.zee.agh.edu.pl
-NOERROR	kap-06.imir.agh.edu.pl
-NOERROR	wozny.gorn.agh.edu.pl
-NOERROR	cmat57.mat.agh.edu.pl
-NXDOMAIN	www.osa.agh.edu.pl
-NOERROR	wfitj219e.ftj.agh.edu.pl
-NOERROR	ktl-s2.imir.agh.edu.pl
-NOERROR	sdts.agh.edu.pl
-NOERROR	wmsg12.gorn.agh.edu.pl
-NOERROR	intomcam.kt.agh.edu.pl
-NOERROR	twoje.agh.edu.pl
-NOERROR	tomecka.geol.agh.edu.pl
-NOERROR	www.wnig.agh.edu.pl
-NXDOMAIN	szimows.imir.agh.edu.pl
-NOERROR	altair.keiaspe.agh.edu.pl
-NOERROR	pc97.zfcs.agh.edu.pl
-NOERROR	work.cri.agh.edu.pl
-NOERROR	www.sokol.agh.edu.pl
-NOERROR	szef.elektro.agh.edu.pl
-NOERROR	misio.ftj.agh.edu.pl
-NOERROR	dhcp5.zet.agh.edu.pl
-NOERROR	kmg-158.imir.agh.edu.pl
-NOERROR	maglay.agh.edu.pl
-NOERROR	libra.imir.agh.edu.pl
-NOERROR	sekula.metal.agh.edu.pl
-NOERROR	vpn237.kt.agh.edu.pl
-NOERROR	test202.kt.agh.edu.pl
-NOERROR	samstu3.imir.agh.edu.pl
-NOERROR	www.conaslaczy.agh.edu.pl
-NOERROR	zarz.agh.edu.pl
-NOERROR	ninao.imir.agh.edu.pl
-NOERROR	st-w.imir.agh.edu.pl
-NOERROR	www.bis.agh.edu.pl
-NOERROR	www.ptf.agh.edu.pl
-NOERROR	kap-32.imir.agh.edu.pl
-NOERROR	uranus.elektro.agh.edu.pl
-NOERROR	neuro.agh.edu.pl
-NOERROR	dhcp038.kt.agh.edu.pl
-NOERROR	energet3.metal.agh.edu.pl
-NOERROR	niemiecpc.kt.agh.edu.pl
-NOERROR	zse13.geol.agh.edu.pl
-NOERROR	www.oze.agh.edu.pl
-NOERROR	wnssp207.ins.agh.edu.pl
-NOERROR	zenworks-110.fis.agh.edu.pl
-NOERROR	www.cybersecurity.agh.edu.pl
-NOERROR	mops046.uci.agh.edu.pl
-NOERROR	pc143.kme.agh.edu.pl
-NXDOMAIN	www.wiw.agh.edu.pl
-NOERROR	azur.mn.agh.edu.pl
-NOERROR	biblioteka.elektro.agh.edu.pl
-NOERROR	bb.gorn.agh.edu.pl
-NOERROR	pc38.zfcs.agh.edu.pl
-NOERROR	mops058.uci.agh.edu.pl
-NOERROR	piec.metal.agh.edu.pl
-NOERROR	kakadu.bg.agh.edu.pl
-NOERROR	dhcp215.kt.agh.edu.pl
-NOERROR	ds16.agh.edu.pl
-NOERROR	kca4.ceramika.agh.edu.pl
-NOERROR	wlc-stud.kt.agh.edu.pl
-NOERROR	samstu2.imir.agh.edu.pl
-NOERROR	krokus185.imir.agh.edu.pl
-NOERROR	dziekanat-gw.agh.edu.pl
-NOERROR	rranosz.gorn.agh.edu.pl
-NOERROR	szlaban.odlew.agh.edu.pl
-NOERROR	kajtoch.metal.agh.edu.pl
-NOERROR	netten.uci.agh.edu.pl
-NOERROR	pomiar1.wpie.agh.edu.pl
-NOERROR	pr-inf1.wibro.agh.edu.pl
-NOERROR	www.intelli-net.agh.edu.pl
-NOERROR	journals-1aps-1org-1000032to0ad2.wbg2.bg.agh.edu.pl
-NOERROR	flotacja.gorn.agh.edu.pl
-NOERROR	b2-215.imir.agh.edu.pl
-NOERROR	cuba.cel.agh.edu.pl
-NOERROR	okon.metal.agh.edu.pl
-NOERROR	pc72.bg.agh.edu.pl
-NOERROR	ca0-075.ceramika.agh.edu.pl
-NOERROR	asic.elektro.agh.edu.pl
-NOERROR	journals-1bg-1agh-1edu-1pl-1ftlf1r4g0eaf.wbg2.bg.agh.edu.pl
-NOERROR	uav.agh.edu.pl
-NOERROR	citcep.fis.agh.edu.pl
-NOERROR	monika.mn.agh.edu.pl
-NOERROR	mops171.uci.agh.edu.pl
-NOERROR	ktipm25.ktipm.agh.edu.pl
-NXDOMAIN	data.uci.agh.edu.pl
-NOERROR	dev.uci.agh.edu.pl
-NOERROR	basia.geol.agh.edu.pl
-NOERROR	test236.kt.agh.edu.pl
-NOERROR	kbanas.metal.agh.edu.pl
-NOERROR	dziekanat.wnaft.agh.edu.pl
-NOERROR	mat207.mat.agh.edu.pl
-NOERROR	vpn.agh.edu.pl
-NOERROR	gd.weip.agh.edu.pl
-NOERROR	zse.geol.agh.edu.pl
-NOERROR	wfitj104e.ftj.agh.edu.pl
-NOERROR	snake.ics.agh.edu.pl
-NOERROR	dss.agh.edu.pl
-NOERROR	www.fundicion.agh.edu.pl
-NOERROR	host110-148.fis.agh.edu.pl
-NOERROR	nokialab.kt.agh.edu.pl
-NOERROR	www.klaster.agh.edu.pl
-NOERROR	lacoste.metal.agh.edu.pl
-NOERROR	fd.portacc.cr.agh.edu.pl
-NOERROR	b3-16.mn.agh.edu.pl
-NOERROR	turnia13.metal.agh.edu.pl
-NOERROR	aq68.ia.agh.edu.pl
-NOERROR	host110-129.fis.agh.edu.pl
-NOERROR	mops033.uci.agh.edu.pl
-NOERROR	test2.isa.agh.edu.pl
-NOERROR	wfitj57e.ftj.agh.edu.pl
-NOERROR	lst.kt.agh.edu.pl
-NOERROR	obrony.zarz.agh.edu.pl
-NOERROR	gospodarczyk2.imir.agh.edu.pl
-NOERROR	cb6-133.ceramika.agh.edu.pl
-NOERROR	zorychta.gorn.agh.edu.pl
-NOERROR	www-1sciencedirect-1com-1atoz.wbg2.bg.agh.edu.pl
-NOERROR	pc181.kme.agh.edu.pl
-NOERROR	mask.cri.agh.edu.pl
-NOERROR	opmonit.kt.agh.edu.pl
-NOERROR	mops045.uci.agh.edu.pl
-NOERROR	euro03.ia.agh.edu.pl
-NOERROR	nat-weaiib12.agh.edu.pl
-NOERROR	vpn243.kt.agh.edu.pl
-NOERROR	lubon.metal.agh.edu.pl
-NOERROR	ewat.geol.agh.edu.pl
-NOERROR	krokus2-9.imir.agh.edu.pl
-NOERROR	dhcp0119.kt.agh.edu.pl
-NOERROR	kazek.elektro.agh.edu.pl
-NOERROR	indectpc.kt.agh.edu.pl
-NOERROR	warmech.wpie.agh.edu.pl
-NOERROR	andrzej.wpie.agh.edu.pl
-NOERROR	mailman.iisg.agh.edu.pl
-NOERROR	dbc1.cel.agh.edu.pl
-NOERROR	wo141.odlew.agh.edu.pl
-NOERROR	www.zaco.agh.edu.pl
-NOERROR	wo154.odlew.agh.edu.pl
-NOERROR	limba6.metal.agh.edu.pl
-NOERROR	dev-um.cel.agh.edu.pl
-NOERROR	wfitj142e.ftj.agh.edu.pl
-NOERROR	mat164.mat.agh.edu.pl
-NXDOMAIN	www2.agh.edu.pl
-NOERROR	pcc218.ia.agh.edu.pl
-NXDOMAIN	debian.uci.agh.edu.pl
-NOERROR	bloch.mn.agh.edu.pl
-NOERROR	wfitj201e.ftj.agh.edu.pl
-NOERROR	www.ne.zarz.agh.edu.pl
-NOERROR	wo15.odlew.agh.edu.pl
-NOERROR	ovpn.agh.edu.pl
-NOERROR	www.krim.agh.edu.pl
-NOERROR	host110-99.fis.agh.edu.pl
-NOERROR	la4.ia.agh.edu.pl
-NOERROR	pc178.kme.agh.edu.pl
-NOERROR	mops035.uci.agh.edu.pl
-NOERROR	cierniak-pc.zarz.agh.edu.pl
-NXDOMAIN	host110-18.fis.agh.edu.pl
-NOERROR	pc179.kme.agh.edu.pl
-NOERROR	hieronim.imir.agh.edu.pl
-NOERROR	enviree.agh.edu.pl
-NOERROR	www.ogonki.agh.edu.pl
-NOERROR	www.okibedu.agh.edu.pl
-NOERROR	laser.dsnet.agh.edu.pl
-NOERROR	www.qa.agh.edu.pl
-NOERROR	gumula.imir.agh.edu.pl
-NOERROR	journals.agh.edu.pl
-NOERROR	pc57.zfcs.agh.edu.pl
-NOERROR	matrix.kt.agh.edu.pl
-NOERROR	wo41.odlew.agh.edu.pl
-NOERROR	zm195.zmet.agh.edu.pl
-NOERROR	www.ke.agh.edu.pl
-NOERROR	zm208.zmet.agh.edu.pl
-NOERROR	clusterpm3.ket.agh.edu.pl
-NOERROR	pirowski.gorn.agh.edu.pl
-NOERROR	www-1imim-1pl-1atoz.wbg2.bg.agh.edu.pl
-NXDOMAIN	dev.open.agh.edu.pl
-NXDOMAIN	host110-10.fis.agh.edu.pl
-NOERROR	krokus2-8.imir.agh.edu.pl
-NOERROR	wifi-events.agh.edu.pl
-NOERROR	charon4.fis.agh.edu.pl
-NOERROR	http.student.agh.edu.pl
-NOERROR	jupiter.elektro.agh.edu.pl
-NOERROR	dt7.adm.agh.edu.pl
-NOERROR	witch.mn.agh.edu.pl
-NOERROR	aq9.ia.agh.edu.pl
-NOERROR	teneta5.ia.agh.edu.pl
-NOERROR	mapserver.kis.agh.edu.pl
-NOERROR	lab08.gorn.agh.edu.pl
-NOERROR	la6.ia.agh.edu.pl
-NOERROR	www.metal.agh.edu.pl
-NOERROR	host110-220.fis.agh.edu.pl
-NOERROR	pc235.geol.agh.edu.pl
-NOERROR	wslusar.wibro.agh.edu.pl
-NOERROR	olimp25.imir.agh.edu.pl
-NOERROR	www-old.ki.agh.edu.pl
-NOERROR	wo53.odlew.agh.edu.pl
-NOERROR	mat186.mat.agh.edu.pl
-NOERROR	marekb.geod.agh.edu.pl
-NOERROR	august.ia.agh.edu.pl
-NOERROR	digestorium.ket.agh.edu.pl
-NOERROR	www.hip.agh.edu.pl
-NOERROR	wifi-01.wnaft.agh.edu.pl
-NOERROR	kseiuos.agh.edu.pl
-NOERROR	active2.elektro.agh.edu.pl
-NOERROR	wfitj141e.ftj.agh.edu.pl
-NOERROR	ubpo2.agh.edu.pl
-NOERROR	www.opuscula.agh.edu.pl
-NOERROR	zts46.ia.agh.edu.pl
-NOERROR	pm-lab01.ket.agh.edu.pl
-NOERROR	labnat.zet.agh.edu.pl
-NOERROR	pc73.bg.agh.edu.pl
-NOERROR	www.cee-set.agh.edu.pl
-NOERROR	lists.ki.agh.edu.pl
-NOERROR	peter.geod.agh.edu.pl
-NOERROR	spectrum.elektro.agh.edu.pl
-NOERROR	michalski-pc.zarz.agh.edu.pl
-NXDOMAIN	zachara2.imir.agh.edu.pl
-NXDOMAIN	cernvm.fis.agh.edu.pl
-NXDOMAIN	wpress.eaiib.agh.edu.pl
-NOERROR	stud110.fis.agh.edu.pl
-NOERROR	grabowski-pc.zarz.agh.edu.pl
-NOERROR	www.ekonometryk.zarz.agh.edu.pl
-NOERROR	mars.geod.agh.edu.pl
-NOERROR	elektrownia.zarz.agh.edu.pl
-NOERROR	cam-219.imir.agh.edu.pl
-NOERROR	sk-lab.odlew.agh.edu.pl
-NOERROR	astrid.elektro.agh.edu.pl
-NOERROR	tslomka.geol.agh.edu.pl
-NOERROR	nalewa.imir.agh.edu.pl
-NOERROR	terra.wibro.agh.edu.pl
-NOERROR	ubpo-data3.agh.edu.pl
-NOERROR	mops115.uci.agh.edu.pl
-NOERROR	b3-komp2.zet.agh.edu.pl
-NOERROR	portacc.cr.agh.edu.pl
-NOERROR	ie26.ket.agh.edu.pl
-NOERROR	k-210-07.imir.agh.edu.pl
-NOERROR	stud250.fis.agh.edu.pl
-NOERROR	b2-kor1-1.imir.agh.edu.pl
-NOERROR	pc234.geol.agh.edu.pl
-NOERROR	wo124.odlew.agh.edu.pl
-NOERROR	krokus2-2.imir.agh.edu.pl
-NOERROR	pcmiue13.imir.agh.edu.pl
-NOERROR	nat-adm14.agh.edu.pl
-NOERROR	ds9.agh.edu.pl
-NOERROR	nat-weaiib40.agh.edu.pl
-NOERROR	zmb18.ceramika.agh.edu.pl
-NOERROR	vpn226.kt.agh.edu.pl
-NOERROR	dhcp094.kt.agh.edu.pl
-NOERROR	bahus.wibro.agh.edu.pl
-NOERROR	lr5.ia.agh.edu.pl
-NOERROR	n3.zee.agh.edu.pl
-NOERROR	ca0-039.ceramika.agh.edu.pl
-NOERROR	kolo229.kt.agh.edu.pl
-NOERROR	teneta4.ia.agh.edu.pl
-NOERROR	kcs24.ceramika.agh.edu.pl
-NOERROR	everest.ia.agh.edu.pl
-NOERROR	barwicz.geol.agh.edu.pl
-NOERROR	wimir-001.imir.agh.edu.pl
-NXDOMAIN	darek2.imir.agh.edu.pl
-NOERROR	mops139.uci.agh.edu.pl
-NOERROR	krak.geod.agh.edu.pl
-NOERROR	kap-129.imir.agh.edu.pl
-NOERROR	umcs.icsr.agh.edu.pl
-NOERROR	kawiory23.wpie.agh.edu.pl
-NOERROR	slowfox.ia.agh.edu.pl
-NOERROR	mops047.uci.agh.edu.pl
-NOERROR	www.dereme.agh.edu.pl
-NOERROR	mczuj.geol.agh.edu.pl
-NOERROR	mops009.uci.agh.edu.pl
-NOERROR	aq26.ia.agh.edu.pl
-NOERROR	sem.mn.agh.edu.pl
-NOERROR	host110-117.fis.agh.edu.pl
-NOERROR	vmw8.ftj.agh.edu.pl
-NOERROR	cb6-173.ceramika.agh.edu.pl
-NOERROR	wnssczyt8.ins.agh.edu.pl
-NOERROR	kisips.agh.edu.pl
-NOERROR	sushi.ics.agh.edu.pl
-NOERROR	kap-117.imir.agh.edu.pl
-NOERROR	pc241.geol.agh.edu.pl
-NOERROR	labppm.metal.agh.edu.pl
-NXDOMAIN	apro-100.imir.agh.edu.pl
-NOERROR	test164.kt.agh.edu.pl
-NOERROR	deenes.cri.agh.edu.pl
-NOERROR	obrozek.gorn.agh.edu.pl
-NOERROR	rekrut3.zarz.agh.edu.pl
-NOERROR	vmw5.ftj.agh.edu.pl
-NOERROR	spinup.agh.edu.pl
-NOERROR	pks5.gorn.agh.edu.pl
-NOERROR	wo69.odlew.agh.edu.pl
-NOERROR	biblioteka.ptmin.agh.edu.pl
-NOERROR	admin1.ftj.agh.edu.pl
-NOERROR	apps-1webofknowledge-1com-10000294q2dd9.wbg2.bg.agh.edu.pl
-NOERROR	wmsg9.gorn.agh.edu.pl
-NOERROR	weip-d4-44.weip.agh.edu.pl
-NOERROR	nat-dsrg.ki.agh.edu.pl
-NOERROR	jurkwasn.imir.agh.edu.pl
-NOERROR	tsunami.keiaspe.agh.edu.pl
-NOERROR	wimir-002.imir.agh.edu.pl
-NOERROR	rejestracja.kstit2015.kt.agh.edu.pl
-NOERROR	lsr04.ia.agh.edu.pl
-NOERROR	wfitj46e.ftj.agh.edu.pl
-NOERROR	wo94.odlew.agh.edu.pl
-NOERROR	b1rtr.bg.agh.edu.pl
-NOERROR	arp.metal.agh.edu.pl
-NOERROR	studium18.sjo.agh.edu.pl
-NOERROR	proj07.gorn.agh.edu.pl
-NOERROR	odlew.agh.edu.pl
-NOERROR	www.zielonepodhale.agh.edu.pl
-NOERROR	remac.geod.agh.edu.pl
-NOERROR	ds21.unifi.dsnet.agh.edu.pl
-NOERROR	notebookmb.keiaspe.agh.edu.pl
-NOERROR	test211.kt.agh.edu.pl
-NOERROR	weip-d4-34.weip.agh.edu.pl
-NOERROR	host110-185.fis.agh.edu.pl
-NOERROR	www-1sciencedirect-1com-1000032ex0e87.wbg2.bg.agh.edu.pl
-NOERROR	kp.agh.edu.pl
-NOERROR	host110-233.fis.agh.edu.pl
-NOERROR	arups.zfcs.agh.edu.pl
-NOERROR	openlon1.ia.agh.edu.pl
-NOERROR	maqett.uci.agh.edu.pl
-NOERROR	turnia7.metal.agh.edu.pl
-NOERROR	stanley.mat.agh.edu.pl
-NOERROR	www.eaiiib.agh.edu.pl
-NXDOMAIN	cas.uci.agh.edu.pl
-NOERROR	kse10.ceramika.agh.edu.pl
-NOERROR	rekrut-10.gorn.agh.edu.pl
-NOERROR	kfs.ftj.agh.edu.pl
-NOERROR	router-lan110.fis.agh.edu.pl
-NOERROR	www.epqu.agh.edu.pl
-NXDOMAIN	b2-ro-1b.imir.agh.edu.pl
-NOERROR	nat-a2s.ki.agh.edu.pl
-NOERROR	dhcp153.kt.agh.edu.pl
-NOERROR	mori.wibro.agh.edu.pl
-NOERROR	layer.ket.agh.edu.pl
-NOERROR	mobil.elektro.agh.edu.pl
-NOERROR	extrusion.mn.agh.edu.pl
-NOERROR	cmat39.mat.agh.edu.pl
-NOERROR	bhp.dznet.agh.edu.pl
-NOERROR	ajakubow.metal.agh.edu.pl
-NOERROR	ctt.agh.edu.pl
-NOERROR	www.stn.agh.edu.pl
-NOERROR	kasia.metal.agh.edu.pl
-NOERROR	ktipm13.ktipm.agh.edu.pl
-NOERROR	cb6-145.ceramika.agh.edu.pl
-NOERROR	wsn.ket.agh.edu.pl
-NOERROR	www.iccc.agh.edu.pl
-NOERROR	www.laiwd.agh.edu.pl
-NOERROR	kusiak.metal.agh.edu.pl
-NOERROR	elena.geod.agh.edu.pl
-NOERROR	stmet06.metal.agh.edu.pl
-NOERROR	dhcp51.kt.agh.edu.pl
-NOERROR	jura.metal.agh.edu.pl
-NOERROR	aster.imir.agh.edu.pl
-NOERROR	go.ia.agh.edu.pl
-NOERROR	kot.metal.agh.edu.pl
-NOERROR	cmat29.mat.agh.edu.pl
-NOERROR	upel3.cel.agh.edu.pl
-NOERROR	zjazd100.agh.edu.pl
-NOERROR	obrzud-pc.zarz.agh.edu.pl
-NOERROR	kania.geol.agh.edu.pl
-NOERROR	zenworks.fis.agh.edu.pl
-NOERROR	labstud01.wpie.agh.edu.pl
-NOERROR	kap-135.imir.agh.edu.pl
-NOERROR	wo46.odlew.agh.edu.pl
-NOERROR	wimir.dznet.agh.edu.pl
-NOERROR	mops088.uci.agh.edu.pl
-NOERROR	surowiec-pc.zarz.agh.edu.pl
-NOERROR	dflaga.imir.agh.edu.pl
-NOERROR	vmw16.ftj.agh.edu.pl
-NOERROR	ipx1.gorn.agh.edu.pl
-NOERROR	agh-rdi.map.infra.ki.agh.edu.pl
-NOERROR	smoc.ics.agh.edu.pl
-NOERROR	akson.ia.agh.edu.pl
-NOERROR	kap-01.imir.agh.edu.pl
-NOERROR	mis.mn.agh.edu.pl
-NOERROR	test173.kt.agh.edu.pl
-NOERROR	lena.mn.agh.edu.pl
-NOERROR	test245.kt.agh.edu.pl
-NOERROR	mech.wo.agh.edu.pl
-NOERROR	wfitj221e.ftj.agh.edu.pl
-NOERROR	tm110.imir.agh.edu.pl
-NOERROR	stefan.gorn.agh.edu.pl
-NOERROR	cmat36.mat.agh.edu.pl
-NOERROR	opc2.kt.agh.edu.pl
-NOERROR	cb6-156.ceramika.agh.edu.pl
-NOERROR	studium20.sjo.agh.edu.pl
-NOERROR	dhcp33.zee.agh.edu.pl
-NOERROR	www.lkn.zarz.agh.edu.pl
-NOERROR	pr-inf8.wibro.agh.edu.pl
-NOERROR	toudi.mn.agh.edu.pl
-NOERROR	test157.kt.agh.edu.pl
-NOERROR	www.best.agh.edu.pl
-NOERROR	pc120.zfcs.agh.edu.pl
-NOERROR	sps.geol.agh.edu.pl
-NOERROR	cp.agh.edu.pl
-NOERROR	www.geofizyka.agh.edu.pl
-NOERROR	www-1afe-1polsl-1pl-1000032sv015b.wbg2.bg.agh.edu.pl
-NOERROR	lm6.ia.agh.edu.pl
-NOERROR	wycisk.mn.agh.edu.pl
-NOERROR	nat-vl120.agh.edu.pl
-NOERROR	mes3.mn.agh.edu.pl
-NOERROR	patalita.imir.agh.edu.pl
-NOERROR	nat-vm.ki.agh.edu.pl
-NOERROR	kepler2.ftj.agh.edu.pl
-NOERROR	switch3.wnaft.agh.edu.pl
-NOERROR	f202.kt.agh.edu.pl
-NOERROR	krzystanek.kt.agh.edu.pl
-NOERROR	chewbacca.ia.agh.edu.pl
-NOERROR	michlowi2.imir.agh.edu.pl
-NOERROR	pcg-srv.uci.agh.edu.pl
-NOERROR	snieznik.metal.agh.edu.pl
-NOERROR	cmat4.mat.agh.edu.pl
-NOERROR	enigma.metal.agh.edu.pl
-NOERROR	wfitj74e.ftj.agh.edu.pl
-NXDOMAIN	p2.b1.agh.edu.pl
-NOERROR	wo57.odlew.agh.edu.pl
-NOERROR	host109-93.fis.agh.edu.pl
-NOERROR	mdp04b.elektro.agh.edu.pl
-NOERROR	cad.wibro.agh.edu.pl
-NOERROR	nat-weaiib1.agh.edu.pl
-NOERROR	b3-5.mn.agh.edu.pl
-NOERROR	zm215.zmet.agh.edu.pl
-NOERROR	b2-kor0-4.imir.agh.edu.pl
-NOERROR	htrpl.agh.edu.pl
-NOERROR	wmsg21.gorn.agh.edu.pl
-NOERROR	sosna.metal.agh.edu.pl
-NOERROR	ciezak.metal.agh.edu.pl
-NOERROR	host110-218.fis.agh.edu.pl
-NOERROR	limba7.metal.agh.edu.pl
-NOERROR	pcmiue6.imir.agh.edu.pl
-NOERROR	urbanski-pc.zarz.agh.edu.pl
-NOERROR	nat-wggios11.agh.edu.pl
-NOERROR	biuro3.wpie.agh.edu.pl
-NOERROR	web.imir.agh.edu.pl
-NOERROR	magalhaes2017.agh.edu.pl
-NOERROR	sofiab.imir.agh.edu.pl
-NOERROR	grazcia.zee.agh.edu.pl
-NOERROR	long.geod.agh.edu.pl
-NOERROR	wpie12.wpie.agh.edu.pl
-NOERROR	mops048.uci.agh.edu.pl
-NOERROR	pcc205.ia.agh.edu.pl
-NOERROR	www.ppm.agh.edu.pl
-NOERROR	aux.uci.agh.edu.pl
-NOERROR	ktipm24.ktipm.agh.edu.pl
-NOERROR	kaplan-pc.zarz.agh.edu.pl
-NOERROR	limba12.metal.agh.edu.pl
-NOERROR	bastion-nat.d17.iisg.agh.edu.pl
-NOERROR	tbedn.imir.agh.edu.pl
-NOERROR	foszcz.gorn.agh.edu.pl
-NOERROR	maciek.wpie.agh.edu.pl
-NOERROR	mat135.mat.agh.edu.pl
-NOERROR	szpytko.imir.agh.edu.pl
-NOERROR	qcw2021.agh.edu.pl
-NOERROR	pcjaga.kt.agh.edu.pl
-NOERROR	dhcp37.zee.agh.edu.pl
-NOERROR	kap-05.imir.agh.edu.pl
-NOERROR	ca0-050.ceramika.agh.edu.pl
-NOERROR	krokus170.imir.agh.edu.pl
-NOERROR	mobile.metal.agh.edu.pl
-NOERROR	www.ochrsrod.agh.edu.pl
-NOERROR	test145.kt.agh.edu.pl
-NOERROR	stud142.fis.agh.edu.pl
-NOERROR	weip-d4-41.weip.agh.edu.pl
-NOERROR	amx-pc.gorn.agh.edu.pl
-NOERROR	p115-2.mn.agh.edu.pl
-NOERROR	quantum.keiaspe.agh.edu.pl
-NOERROR	cadiff.ceramika.agh.edu.pl
-NOERROR	zgg50.geod.agh.edu.pl
-NOERROR	januszek.metal.agh.edu.pl
-NOERROR	wnss-3c4200.ins.agh.edu.pl
-NOERROR	fiszer.imir.agh.edu.pl
-NOERROR	wnssp107.ins.agh.edu.pl
-NOERROR	rpress10.imir.agh.edu.pl
-NOERROR	kgg1.gorn.agh.edu.pl
-NOERROR	nat-wimip2.agh.edu.pl
-NOERROR	www.komitetlegnica.agh.edu.pl
-NOERROR	pc26.zfcs.agh.edu.pl
-NOERROR	stud203.fis.agh.edu.pl
-NOERROR	vmw3.ftj.agh.edu.pl
-NOERROR	dhcp216.kt.agh.edu.pl
-NOERROR	api.bpp.agh.edu.pl
-NOERROR	www.festiwalnauki.agh.edu.pl
-NOERROR	stass11.gorn.agh.edu.pl
-NOERROR	mops121.uci.agh.edu.pl
-NOERROR	wo240.odlew.agh.edu.pl
-NOERROR	ftjnas.cri.agh.edu.pl
-NOERROR	nbl1.ics.agh.edu.pl
-NOERROR	turczyn.metal.agh.edu.pl
-NOERROR	www.east.agh.edu.pl
-NOERROR	stmet13.metal.agh.edu.pl
-NOERROR	nanospin.agh.edu.pl
-NOERROR	kom1.mn.agh.edu.pl
-NOERROR	mdp03a.elektro.agh.edu.pl
-NOERROR	mops061.uci.agh.edu.pl
-NOERROR	cmat33.mat.agh.edu.pl
-NOERROR	host110-51.fis.agh.edu.pl
-NOERROR	test200.kt.agh.edu.pl
-NOERROR	kandydat.wordpress.agh.edu.pl
-NOERROR	wpierekrut2.wpie.agh.edu.pl
-NOERROR	power.3.5.wh.agh.edu.pl
-NOERROR	tereska.ket.agh.edu.pl
-NOERROR	fortiweb2.uci.agh.edu.pl
-NOERROR	diament.geod.agh.edu.pl
-NOERROR	test179.kt.agh.edu.pl
-NOERROR	host110-234.fis.agh.edu.pl
-NOERROR	porzucek.geol.agh.edu.pl
-NOERROR	kierzamtch.ceramika.agh.edu.pl
-NOERROR	zm235.zmet.agh.edu.pl
-NOERROR	instron2.mn.agh.edu.pl
-NOERROR	wfitj45e.ftj.agh.edu.pl
-NOERROR	dbexam.cel.agh.edu.pl
-NOERROR	mat194.mat.agh.edu.pl
-NOERROR	urbanska.wibro.agh.edu.pl
-NOERROR	www.zug.agh.edu.pl
-NOERROR	dhcp0105.kt.agh.edu.pl
-NOERROR	kawiory26.wpie.agh.edu.pl
-NOERROR	lab11.gorn.agh.edu.pl
-NOERROR	ajoniec.geol.agh.edu.pl
-NOERROR	goldeneye.gorn.agh.edu.pl
-NOERROR	kpasierb.geol.agh.edu.pl
-NOERROR	pldlab8.elektro.agh.edu.pl
-NOERROR	wo65.odlew.agh.edu.pl
-NOERROR	chmura.pti.agh.edu.pl
-NOERROR	manaslu.ia.agh.edu.pl
+host109-90.fis.agh.edu.pl
+moscicki.geol.agh.edu.pl
+kap-109.imir.agh.edu.pl
+www.ergonomia.agh.edu.pl
+mops011.uci.agh.edu.pl
+it.podyplomowe.agh.edu.pl
+www.eti.agh.edu.pl
+gdc.kt.agh.edu.pl
+zxspectrum.wibro.agh.edu.pl
+pag5.gorn.agh.edu.pl
+dhcp064.kt.agh.edu.pl
+skarbek1.gorn.agh.edu.pl
+regent2.uci.agh.edu.pl
+studium5.sjo.agh.edu.pl
+iopscience-1iop-1org-1ickguhjl0de5.wbg2.bg.agh.edu.pl
+kirk.kis.agh.edu.pl
+lm5.ia.agh.edu.pl
+weip-d4-26.weip.agh.edu.pl
+aq7.ia.agh.edu.pl
+emisja.radio17.agh.edu.pl
+fog.ins.agh.edu.pl
+cmat58.mat.agh.edu.pl
+www.ki.agh.edu.pl
+ken.zee.agh.edu.pl
+rekrut3.wnaft.agh.edu.pl
+mik.wibro.agh.edu.pl
+maja.geol.agh.edu.pl
+pc108.zfcs.agh.edu.pl
+ds5.unifi.dsnet.agh.edu.pl
+poczta-kopia.zarz.agh.edu.pl
+wfitj19e.ftj.agh.edu.pl
+pks6.gorn.agh.edu.pl
+zkc6.ceramika.agh.edu.pl
+labsol.ia.agh.edu.pl
+demo4.ftj.agh.edu.pl
+dixi.kt.agh.edu.pl
+olimp23.imir.agh.edu.pl
+aster-0a.imir.agh.edu.pl
+kcs30.ceramika.agh.edu.pl
+studium28.sjo.agh.edu.pl
+publ.dc1-prx-a.infra.ki.agh.edu.pl
+gisday.agh.edu.pl
+hp.zee.agh.edu.pl
+pt.wpie.agh.edu.pl
+wiki.ms.agh.edu.pl
+www.wydawnictwo.agh.edu.pl
+mim.agh.edu.pl
+ajan.imir.agh.edu.pl
+ibl5.ics.agh.edu.pl
+rotor.kme.agh.edu.pl
+wo4.odlew.agh.edu.pl
+czajka-pc.zarz.agh.edu.pl
+dhcp059.kt.agh.edu.pl
+test196.kt.agh.edu.pl
+nat.ds3.agh.edu.pl
+fsia1.adm.agh.edu.pl
+cb6-155.ceramika.agh.edu.pl
+onlinelibrary-1wiley-1com-1atoz.wbg2.bg.agh.edu.pl
+gagat.geol.agh.edu.pl
+www.kkio2005.agh.edu.pl
+host110-235.fis.agh.edu.pl
+analit.agh.edu.pl
+pg.b1.agh.edu.pl
+pszwed.kis.agh.edu.pl
+foto.agh.edu.pl
+lab02.mn.agh.edu.pl
+nat-vl116.agh.edu.pl
+aga.mn.agh.edu.pl
+olimp195.imir.agh.edu.pl
+kse2.ceramika.agh.edu.pl
+grazyna-f.geod.agh.edu.pl
+kiosk.b1.agh.edu.pl
+wmsg35.gorn.agh.edu.pl
+kap-24.imir.agh.edu.pl
+www.ncisc.agh.edu.pl
+nat-wggios1.agh.edu.pl
+nano.mn.agh.edu.pl
+wpie22.wpie.agh.edu.pl
+lab1.ket.agh.edu.pl
+www.gorn.agh.edu.pl
+www.ftj.agh.edu.pl
+mdp03b.elektro.agh.edu.pl
+kca17.ceramika.agh.edu.pl
+www.ce4reg.zarz.agh.edu.pl
+ogonki.agh.edu.pl
+ctt-patenty.adm.agh.edu.pl
+biolog.geod.agh.edu.pl
+cc.cel.agh.edu.pl
+www.xrd.ceramika.agh.edu.pl
+proj11.gorn.agh.edu.pl
+przystas.geol.agh.edu.pl
+dhcp172.kt.agh.edu.pl
+jedrusik-pc.zarz.agh.edu.pl
+jokaba.mn.agh.edu.pl
+chacha.ia.agh.edu.pl
+dhcp198.kt.agh.edu.pl
+wo116.odlew.agh.edu.pl
+pogon.kt.agh.edu.pl
+hrbusinesspartner.agh.edu.pl
+wms.mat.agh.edu.pl
+www.ctk.agh.edu.pl
+www.drgania.agh.edu.pl
+wmsg22.gorn.agh.edu.pl
+test197.kt.agh.edu.pl
+tensor.elektro.agh.edu.pl
+wfitj139e.ftj.agh.edu.pl
+kct32.ceramika.agh.edu.pl
+wfitj99e.ftj.agh.edu.pl
+pc54.zfcs.agh.edu.pl
+tomlata.imir.agh.edu.pl
+dawid.ket.agh.edu.pl
+host110-36.fis.agh.edu.pl
+kcs47.ceramika.agh.edu.pl
+test201.kt.agh.edu.pl
+mariusz.wpie.agh.edu.pl
+agpeszko-pc.zarz.agh.edu.pl
+prj1.kis.agh.edu.pl
+nat-adm22.agh.edu.pl
+www.mechanics.agh.edu.pl
+gfe.agh.edu.pl
+xrd.weip.agh.edu.pl
+wfitj101e.ftj.agh.edu.pl
+www.ptp.agh.edu.pl
+pcc211.ia.agh.edu.pl
+www.senster.agh.edu.pl
+wwww.wimir.agh.edu.pl
+kap-47.imir.agh.edu.pl
+dhcp049.kt.agh.edu.pl
+http2.geod.agh.edu.pl
+zawrat.metal.agh.edu.pl
+geomechanika2.gorn.agh.edu.pl
+p219.mn.agh.edu.pl
+test2.uci.agh.edu.pl
+www.pamiatki.agh.edu.pl
+kmg-151.imir.agh.edu.pl
+https.student.agh.edu.pl
+kwas.mn.agh.edu.pl
+mwjw.kt.agh.edu.pl
+www.1odlewnictwo.agh.edu.pl
+upel2.cel.agh.edu.pl
+nt4.geol.agh.edu.pl
+nat-wwnig4.agh.edu.pl
+lech.metal.agh.edu.pl
+stud143.fis.agh.edu.pl
+machedu2.fis.agh.edu.pl
+dwz.agh.edu.pl
+pc140.ket.agh.edu.pl
+comptest.agh.edu.pl
+wfitj138e.ftj.agh.edu.pl
+aniup117a.keiaspe.agh.edu.pl
+wo75.odlew.agh.edu.pl
+wifi-02.wnaft.agh.edu.pl
+laplace.ia.agh.edu.pl
+gorniczy.gorn.agh.edu.pl
+www.dopm.agh.edu.pl
+www2.international.agh.edu.pl
+www.wimir100lat.agh.edu.pl
+wfitj68e.ftj.agh.edu.pl
+pc47.zfcs.agh.edu.pl
+best-biuro.adm.agh.edu.pl
+www-1sciencedirect-1com-1000032e9110e.wbg2.bg.agh.edu.pl
+rpress4.imir.agh.edu.pl
+xbl2.ics.agh.edu.pl
+mat191.mat.agh.edu.pl
+fluid.wpie.agh.edu.pl
+test242.kt.agh.edu.pl
+host110-149.fis.agh.edu.pl
+olek.geod.agh.edu.pl
+www.kgo.agh.edu.pl
+wfitj127e.ftj.agh.edu.pl
+mkwiet.imir.agh.edu.pl
+bon.agh.edu.pl
+cyberbezpieczenstwo.podyplomowe.agh.edu.pl
+insigma.kt.agh.edu.pl
+kmirek.geol.agh.edu.pl
+dhcp161.kt.agh.edu.pl
+zasus.zet.agh.edu.pl
+mta-1.ki.agh.edu.pl
+tomek.metal.agh.edu.pl
+wfitj168e.ftj.agh.edu.pl
+panel.agh.edu.pl
+www.rotmed.agh.edu.pl
+labodiag.wibro.agh.edu.pl
+pc16.geol.agh.edu.pl
+zmb5.ceramika.agh.edu.pl
+dydaktycos.zarz.agh.edu.pl
+labatm1.kt.agh.edu.pl
+brzoza.elektro.agh.edu.pl
+mgadamer.ia.agh.edu.pl
+kct28.ceramika.agh.edu.pl
+mat240.mat.agh.edu.pl
+kap-112.imir.agh.edu.pl
+nat-wggiis3.agh.edu.pl
+lab.geol.agh.edu.pl
+pc15.geol.agh.edu.pl
+ftjrtr.agh.edu.pl
+machedu3bis.fis.agh.edu.pl
+stud107.fis.agh.edu.pl
+pent3.mn.agh.edu.pl
+wfitj179e.ftj.agh.edu.pl
+sing10.agh.edu.pl
+lsr03.ia.agh.edu.pl
+sala101.mn.agh.edu.pl
+stopyra.gorn.agh.edu.pl
+poczta.regent.agh.edu.pl
+ds7.agh.edu.pl
+www.msdnaa.mn.agh.edu.pl
+ca0-025.ceramika.agh.edu.pl
+kct26.ceramika.agh.edu.pl
+tumida.mn.agh.edu.pl
+zmb3.ceramika.agh.edu.pl
+kawiory12.wpie.agh.edu.pl
+vpn244.kt.agh.edu.pl
+samba.dwz.agh.edu.pl
+sosna2.metal.agh.edu.pl
+detres.kt.agh.edu.pl
+vyatta-router.kis.agh.edu.pl
+zdproj.gorn.agh.edu.pl
+studzagr.agh.edu.pl
+wfitj109e.ftj.agh.edu.pl
+phanus.geod.agh.edu.pl
+syllabus3.uci.agh.edu.pl
+pc156.kme.agh.edu.pl
+www.miekinia.agh.edu.pl
+dhcp-pc185.elektro.agh.edu.pl
+congress.eestec.agh.edu.pl
+kiosk.eaiib.agh.edu.pl
+kee.agh.edu.pl
+host110-83.fis.agh.edu.pl
+nat-wggios3.agh.edu.pl
+test154.kt.agh.edu.pl
+kcs4.ceramika.agh.edu.pl
+www.ionmed.agh.edu.pl
+stud231.fis.agh.edu.pl
+ca0-010.ceramika.agh.edu.pl
+korozja2011.agh.edu.pl
+allibys.iisg.agh.edu.pl
+yukona.uci.agh.edu.pl
+pag6.gorn.agh.edu.pl
+wnss16i.ins.agh.edu.pl
+mops071.uci.agh.edu.pl
+zm223.zmet.agh.edu.pl
+dns.imir.agh.edu.pl
+www.sigma.agh.edu.pl
+senster.agh.edu.pl
+www.zzl.zarz.agh.edu.pl
+zmb10.ceramika.agh.edu.pl
+dhcp041.kt.agh.edu.pl
+kap-57.imir.agh.edu.pl
+cb6-183.ceramika.agh.edu.pl
+krokus135.imir.agh.edu.pl
+otto.mn.agh.edu.pl
+kap-33.imir.agh.edu.pl
+journals-1bg-1agh-1edu-1pl-1000032dr10cc.wbg2.bg.agh.edu.pl
+wpedziek5.wpie.agh.edu.pl
+k-209-08.imir.agh.edu.pl
+d8-626-jan.ket.agh.edu.pl
+bbor.mn.agh.edu.pl
+wfitj92e.ftj.agh.edu.pl
+dhcp0106.kt.agh.edu.pl
+iopscience-1iop-1org-1atoz.wbg2.bg.agh.edu.pl
+august.gorn.agh.edu.pl
+wo93.odlew.agh.edu.pl
+tarkowski.geol.agh.edu.pl
+ka69.ia.agh.edu.pl
+kap-136.imir.agh.edu.pl
+pldlab2.elektro.agh.edu.pl
+euro01.ia.agh.edu.pl
+kgg2.gorn.agh.edu.pl
+ankiety.agh.edu.pl
+krochmal-pc.wnaft.agh.edu.pl
+hp210chf.mn.agh.edu.pl
+sg1.adm.agh.edu.pl
+mops176.uci.agh.edu.pl
+cttserver.mn.agh.edu.pl
+web.usos.agh.edu.pl
+dhcp34.zee.agh.edu.pl
+admin.skos.agh.edu.pl
+cb6-200.ceramika.agh.edu.pl
+www.skm.agh.edu.pl
+bfnagh1.geol.agh.edu.pl
+ps180.bg.agh.edu.pl
+urbanski-nb.zarz.agh.edu.pl
+ds13.agh.edu.pl
+nat.b1.agh.edu.pl
+ruter-15h.keiaspe.agh.edu.pl
+frog.geol.agh.edu.pl
+andrusik.gorn.agh.edu.pl
+kct31.ceramika.agh.edu.pl
+kkio2012.agh.edu.pl
+dhcp177.kt.agh.edu.pl
+gpsg.geod.agh.edu.pl
+ilon5.ia.agh.edu.pl
+stalow2.metal.agh.edu.pl
+newsletter.bg.agh.edu.pl
+quickstep.ia.agh.edu.pl
+wfitj37e.ftj.agh.edu.pl
+www.infoceram.agh.edu.pl
+kilian.gorn.agh.edu.pl
+cmat40.mat.agh.edu.pl
+vpn253.kt.agh.edu.pl
+www-1jamris-1org-1000032bj1dda.wbg2.bg.agh.edu.pl
+pc121.zfcs.agh.edu.pl
+sobole.imir.agh.edu.pl
+zmb12.ceramika.agh.edu.pl
+diuczek.elektro.agh.edu.pl
+dhcp212.kt.agh.edu.pl
+jagular.d17.iisg.agh.edu.pl
+woda.metal.agh.edu.pl
+biomat.agh.edu.pl
+czysteniebo.agh.edu.pl
+dmz-agh.agh.edu.pl
+www.kzre.agh.edu.pl
+www.endline.agh.edu.pl
+kama583.mn.agh.edu.pl
+test234.kt.agh.edu.pl
+d17-c2-prx-1.infra.iisg.agh.edu.pl
+stud212.fis.agh.edu.pl
+kap-137.imir.agh.edu.pl
+home.ki.agh.edu.pl
+www.keja.agh.edu.pl
+elas.imir.agh.edu.pl
+dhcp187.kt.agh.edu.pl
+szczurek.ket.agh.edu.pl
+kcs37.ceramika.agh.edu.pl
+host110-34.fis.agh.edu.pl
+syllabusnowy1.uci.agh.edu.pl
+qa.agh.edu.pl
+wo97.odlew.agh.edu.pl
+wfitj163e.ftj.agh.edu.pl
+mat174.mat.agh.edu.pl
+wo14.odlew.agh.edu.pl
+jack.metal.agh.edu.pl
+wnssp4.ins.agh.edu.pl
+bigzbig.geol.agh.edu.pl
+mat129.mat.agh.edu.pl
+dziekanat-fg2.agh.edu.pl
+msm.keiaspe.agh.edu.pl
+puchacz.bg.agh.edu.pl
+nat-wwnig3.agh.edu.pl
+dhcp026.kt.agh.edu.pl
+www.mkm2016.agh.edu.pl
+wo16.odlew.agh.edu.pl
+tomek.elektro.agh.edu.pl
+host110-163.fis.agh.edu.pl
+b1rtr192.imir.agh.edu.pl
+landinfo.geod.agh.edu.pl
+cmat56.mat.agh.edu.pl
+cb6-135.ceramika.agh.edu.pl
+lr3.ia.agh.edu.pl
+www.kzft.fis.agh.edu.pl
+kppe.agh.edu.pl
+wfitj128e.ftj.agh.edu.pl
+dorota.wpie.agh.edu.pl
+www.kiwon.agh.edu.pl
+kordek.gorn.agh.edu.pl
+moodle.ki.agh.edu.pl
+diogenes.gorn.agh.edu.pl
+aq62.ia.agh.edu.pl
+iwaszczuk-pc.zarz.agh.edu.pl
+duda-pc.wnaft.agh.edu.pl
+pks1.gorn.agh.edu.pl
+ab.geod.agh.edu.pl
+sintiara.geod.agh.edu.pl
+wo71.odlew.agh.edu.pl
+mops180.uci.agh.edu.pl
+krokus147.imir.agh.edu.pl
+p020-b1.keiaspe.agh.edu.pl
+wifi-eduroam.agh.edu.pl
+cacti.geod.agh.edu.pl
+sentry.dev.uci.agh.edu.pl
+zmb8.ceramika.agh.edu.pl
+rid.agh.edu.pl
+cmat17.mat.agh.edu.pl
+kiosk.portacc.cr.agh.edu.pl
+mitsu.kt.agh.edu.pl
+test186.kt.agh.edu.pl
+rescue-website.kt.agh.edu.pl
+grzybek.wpie.agh.edu.pl
+bala.geol.agh.edu.pl
+mwilk.metal.agh.edu.pl
+shrek.ia.agh.edu.pl
+patenty.bg.agh.edu.pl
+cb6-205.ceramika.agh.edu.pl
+dante.wibro.agh.edu.pl
+k-209-04.imir.agh.edu.pl
+www.cbctia.ki.agh.edu.pl
+amx-ap.gorn.agh.edu.pl
+wmsg33.gorn.agh.edu.pl
+pcmiue3.imir.agh.edu.pl
+pc23.zfcs.agh.edu.pl
+ka90.ia.agh.edu.pl
+lr4.ia.agh.edu.pl
+baszta.mn.agh.edu.pl
+kpb-054.imir.agh.edu.pl
+drillpack.wnaft.agh.edu.pl
+host110-125.fis.agh.edu.pl
+ener144.weip.agh.edu.pl
+apollo.geod.agh.edu.pl
+zgg56.geod.agh.edu.pl
+www-1degruyter-1com-1atoz.wbg2.bg.agh.edu.pl
+d8-626-router.ket.agh.edu.pl
+wnss16n.ins.agh.edu.pl
+kubinski-pc.zarz.agh.edu.pl
+ariane.imir.agh.edu.pl
+kanlab9.keiaspe.agh.edu.pl
+pc3.ins.agh.edu.pl
+kap-13.imir.agh.edu.pl
+ubezpieczenia.agh.edu.pl
+kirk.ia.agh.edu.pl
+la1.ia.agh.edu.pl
+mail.eaiib.agh.edu.pl
+isz.agh.edu.pl
+elam.imir.agh.edu.pl
+www.zgazowaniewegla.agh.edu.pl
+nat-other3.agh.edu.pl
+konfiguracja.dwz.agh.edu.pl
+ktipm55.ktipm.agh.edu.pl
+dyplom.ki.agh.edu.pl
+dhcp35.zee.agh.edu.pl
+ixs5.cel.agh.edu.pl
+jarjan.mn.agh.edu.pl
+sztymar-pc.wnaft.agh.edu.pl
+jot13.mn.agh.edu.pl
+ca0-074.ceramika.agh.edu.pl
+wfitj41e.ftj.agh.edu.pl
+power2.uci.agh.edu.pl
+labstud06.wpie.agh.edu.pl
+bonikowski.imir.agh.edu.pl
+einstein.zee.agh.edu.pl
+scorpius.elektro.agh.edu.pl
+krokus133.imir.agh.edu.pl
+gorniak.geol.agh.edu.pl
+trac.rescue.kt.agh.edu.pl
+marzena.metal.agh.edu.pl
+planzajec.eaiib.agh.edu.pl
+wo12.odlew.agh.edu.pl
+demo2.ftj.agh.edu.pl
+zszydlo2.imir.agh.edu.pl
+ktipm15.ktipm.agh.edu.pl
+zm251.zmet.agh.edu.pl
+wfitj73e.ftj.agh.edu.pl
+hector.kt.agh.edu.pl
+dhcp084.kt.agh.edu.pl
+pc240.geol.agh.edu.pl
+cmat44.mat.agh.edu.pl
+pustka-12.imir.agh.edu.pl
+ldell.ket.agh.edu.pl
+host110-79.fis.agh.edu.pl
+kcs43.ceramika.agh.edu.pl
+p113a2.mn.agh.edu.pl
+dhcp0118.kt.agh.edu.pl
+kiot-1.geod.agh.edu.pl
+downloads.hindawi.com.atoz.wbg2.bg.agh.edu.pl
+stmet02.metal.agh.edu.pl
+mat211.mat.agh.edu.pl
+mat231.mat.agh.edu.pl
+www.ekrany.agh.edu.pl
+msia.agh.edu.pl
+witchking.metal.agh.edu.pl
+kawiory2.wpie.agh.edu.pl
+dhcp217.kt.agh.edu.pl
+fd.cytryna.uci.agh.edu.pl
+jeduda-pc.zarz.agh.edu.pl
+haduch.imir.agh.edu.pl
+robercik.mn.agh.edu.pl
+mat227.mat.agh.edu.pl
+wnsp25-2.ins.agh.edu.pl
+ka85.ia.agh.edu.pl
+dhcp099.kt.agh.edu.pl
+wnss16g.ins.agh.edu.pl
+marketinginternetowy.agh.edu.pl
+kpb-060.imir.agh.edu.pl
+dhcp40.zee.agh.edu.pl
+lab15h2-b1.keiaspe.agh.edu.pl
+natka.metal.agh.edu.pl
+weip-d4-61.weip.agh.edu.pl
+reserved73.eaiib.agh.edu.pl
+rumin1-pc.zarz.agh.edu.pl
+kcs31.ceramika.agh.edu.pl
+zsn.agh.edu.pl
+hp4700.kt.agh.edu.pl
+annaprzewie.geod.agh.edu.pl
+ops.dc1-prx-a.infra.ki.agh.edu.pl
+talyn.ia.agh.edu.pl
+n3.kis.agh.edu.pl
+nessie.mn.agh.edu.pl
+onderka.gorn.agh.edu.pl
+mops185.uci.agh.edu.pl
+osuch.mn.agh.edu.pl
+smtp.ki.agh.edu.pl
+mat218.mat.agh.edu.pl
+plan2.agh.edu.pl
+www.poczta.adm.agh.edu.pl
+origin.ftj.agh.edu.pl
+ukr1tmp.agh.edu.pl
+zm232.zmet.agh.edu.pl
+asx.kt.agh.edu.pl
+dhcp-pc210.elektro.agh.edu.pl
+wfitj238e.ftj.agh.edu.pl
+host110-189.fis.agh.edu.pl
+ssr.ia.agh.edu.pl
+nikodem.gorn.agh.edu.pl
+ptychol.gorn.agh.edu.pl
+wwww.imir.agh.edu.pl
+herman.iisg.agh.edu.pl
+www.znp.agh.edu.pl
+wnssp124.ins.agh.edu.pl
+www.agh.edu.pl
+ca0-056.ceramika.agh.edu.pl
+banaszew2.imir.agh.edu.pl
+zm211.zmet.agh.edu.pl
+www.hefajstos.agh.edu.pl
+jagular.iisg.agh.edu.pl
+wo5.odlew.agh.edu.pl
+www.uo.agh.edu.pl
+robus.ia.agh.edu.pl
+k-322-14.imir.agh.edu.pl
+www.zdpb.agh.edu.pl
+wo108.odlew.agh.edu.pl
+wo36.odlew.agh.edu.pl
+student.ki.agh.edu.pl
+www.azs.agh.edu.pl
+www.chemicke-listy.cz.atoz.wbg2.bg.agh.edu.pl
+pr-inf5.wibro.agh.edu.pl
+vz.dsnet.agh.edu.pl
+pyrlik.gorn.agh.edu.pl
+repo.agh.edu.pl
+cb6-221.ceramika.agh.edu.pl
+dhcp098.kt.agh.edu.pl
+mat214.mat.agh.edu.pl
+kkrrit2016.kt.agh.edu.pl
+olajossy.gorn.agh.edu.pl
+pol-jap2017.agh.edu.pl
+cb6-153.ceramika.agh.edu.pl
+www.legiaakademicka.agh.edu.pl
+mops098.uci.agh.edu.pl
+www.kiz.zarz.agh.edu.pl
+jburkiew.imir.agh.edu.pl
+cmat5.mat.agh.edu.pl
+d4.agh.edu.pl
+tango.ia.agh.edu.pl
+a3-05.gorn.agh.edu.pl
+asystent1.wpie.agh.edu.pl
+hmc.fis.agh.edu.pl
+lapjad.kt.agh.edu.pl
+con.agh.edu.pl
+szafran-pc.wnaft.agh.edu.pl
+mdp01b.elektro.agh.edu.pl
+nat-wggios7.agh.edu.pl
+student2.zee.agh.edu.pl
+centaur.fis.agh.edu.pl
+dhcp183.kt.agh.edu.pl
+nat-weaiib20.agh.edu.pl
+lab.dc1-prx-a.infra.ki.agh.edu.pl
+kuba.wibro.agh.edu.pl
+kw4.kwestura.agh.edu.pl
+mops077.uci.agh.edu.pl
+link-1springer-1com-1nyztljjl0222.wbg2.bg.agh.edu.pl
+pc247.geol.agh.edu.pl
+clusterpwm.ket.agh.edu.pl
+kasin1.geol.agh.edu.pl
+agh-ke-www.map.infra.ki.agh.edu.pl
+okibedu.agh.edu.pl
+mat223.mat.agh.edu.pl
+ksemiekinia.geol.agh.edu.pl
+nat-other2.agh.edu.pl
+stefan.imir.agh.edu.pl
+nat-vl62.agh.edu.pl
+ixs4.cel.agh.edu.pl
+inka-f.geod.agh.edu.pl
+mayday.metal.agh.edu.pl
+kca15.ceramika.agh.edu.pl
+cerber.ftj.agh.edu.pl
+smoku.mn.agh.edu.pl
+pcmiue8.imir.agh.edu.pl
+pc124.ia.agh.edu.pl
+lab06-5.mn.agh.edu.pl
+prazeodym.zfcs.agh.edu.pl
+ktipm17.ktipm.agh.edu.pl
+tze.agh.edu.pl
+turnia4.metal.agh.edu.pl
+www.kkmu.agh.edu.pl
+dhcp3.zet.agh.edu.pl
+seminar14.metal.agh.edu.pl
+dhcp55.zee.agh.edu.pl
+ieeexplore-1ieee-1org-1000047n402a1.wbg2.bg.agh.edu.pl
+vpl-jail-01.cel.agh.edu.pl
+kb13.ceramika.agh.edu.pl
+zgg9.geod.agh.edu.pl
+wdm2.kt.agh.edu.pl
+kandydat.zarz.agh.edu.pl
+mops132.uci.agh.edu.pl
+mops078.uci.agh.edu.pl
+feniks-109.fis.agh.edu.pl
+www.kair.agh.edu.pl
+host-gw.ki.agh.edu.pl
+puma.metal.agh.edu.pl
+ziuzia.ktipm.agh.edu.pl
+nimfa.bg.agh.edu.pl
+pc98.zfcs.agh.edu.pl
+swpdm.imir.agh.edu.pl
+tel2556.zfcs.agh.edu.pl
+zgg8.geod.agh.edu.pl
+dhcp060.kt.agh.edu.pl
+weliza.wpie.agh.edu.pl
+foxtrot.ia.agh.edu.pl
+b2-kor1-2.imir.agh.edu.pl
+st17.gorn.agh.edu.pl
+beta.mn.agh.edu.pl
+cb6-207.ceramika.agh.edu.pl
+wimir-006.imir.agh.edu.pl
+www.alchemist.agh.edu.pl
+cmat3.mat.agh.edu.pl
+mortimer.geol.agh.edu.pl
+kserohall-pc.zarz.agh.edu.pl
+wyprawabari.agh.edu.pl
+krzys.ia.agh.edu.pl
+mat167.mat.agh.edu.pl
+kap-101.imir.agh.edu.pl
+www.sat08.agh.edu.pl
+k-320-1.imir.agh.edu.pl
+wfitj82e.ftj.agh.edu.pl
+de-drukarka.ceramika.agh.edu.pl
+pliki.cri.agh.edu.pl
+zmb31.ceramika.agh.edu.pl
+dhcp-pc196.elektro.agh.edu.pl
+wo118.odlew.agh.edu.pl
+lab308.elektro.agh.edu.pl
+blu.mn.agh.edu.pl
+kcs36.ceramika.agh.edu.pl
+ewider.dsnet.agh.edu.pl
+ziamol.metal.agh.edu.pl
+hermes.imir.agh.edu.pl
+szkola.imir.agh.edu.pl
+mgmt.cytryna.uci.agh.edu.pl
+stud210.fis.agh.edu.pl
+beta.elektro.agh.edu.pl
+b2-21-4.imir.agh.edu.pl
+ofss.agh.edu.pl
+cb6-191.ceramika.agh.edu.pl
+kct15.ceramika.agh.edu.pl
+neuron.gorn.agh.edu.pl
+mat188.mat.agh.edu.pl
+olimp191.imir.agh.edu.pl
+pc106.zfcs.agh.edu.pl
+apokalipsa.testament9.uci.agh.edu.pl
+krokus172.imir.agh.edu.pl
+mops167.uci.agh.edu.pl
+agh4test4.agh.edu.pl
+reksio.eaiib.agh.edu.pl
+wifi-03.wnaft.agh.edu.pl
+michalec.gorn.agh.edu.pl
+host110-27.fis.agh.edu.pl
+www.semk.agh.edu.pl
+www.sakwa.agh.edu.pl
+krim.agh.edu.pl
+kulula.geol.agh.edu.pl
+www.lab.zarz.agh.edu.pl
+pc11.zfcs.agh.edu.pl
+wo38.odlew.agh.edu.pl
+wrd.zet.agh.edu.pl
+dziek.mn.agh.edu.pl
+slizien.gorn.agh.edu.pl
+wfitj58e.ftj.agh.edu.pl
+bauer.geol.agh.edu.pl
+zmb28.ceramika.agh.edu.pl
+ns.ki.agh.edu.pl
+kwiecinska.geol.agh.edu.pl
+nat-vl123.agh.edu.pl
+pc141.kme.agh.edu.pl
+wpie4.wpie.agh.edu.pl
+dhcp-pc204.elektro.agh.edu.pl
+dhcp-pc206.elektro.agh.edu.pl
+urss8.urss.agh.edu.pl
+wlppot.kt.agh.edu.pl
+www.sitg.agh.edu.pl
+labrs.ia.agh.edu.pl
+sonata.agh.edu.pl
+mes7.mn.agh.edu.pl
+suliga-pc.zarz.agh.edu.pl
+wfitj51e.ftj.agh.edu.pl
+kustra.gorn.agh.edu.pl
+dalnia.gorn.agh.edu.pl
+kap-58.imir.agh.edu.pl
+rozdzielnia1-u11.adm.agh.edu.pl
+ce.agh.edu.pl
+studium17.sjo.agh.edu.pl
+test.wordpress.agh.edu.pl
+host110-213.fis.agh.edu.pl
+www.msia.agh.edu.pl
+mdp07b.elektro.agh.edu.pl
+in.fslab.agh.edu.pl
+ws.uci.agh.edu.pl
+www.cos.agh.edu.pl
+www.greenenergy.agh.edu.pl
+sala-pc.zarz.agh.edu.pl
+mzieciak.keiaspe.agh.edu.pl
+zabbix.zarz.agh.edu.pl
+kct11.ceramika.agh.edu.pl
+wfitj197e.ftj.agh.edu.pl
+academica.agh.edu.pl
+wfitj211e.ftj.agh.edu.pl
+wo156.odlew.agh.edu.pl
+muszynski.geol.agh.edu.pl
+nat.ds18.agh.edu.pl
+limba8.metal.agh.edu.pl
+voice.elektro.agh.edu.pl
+raporty.agh.edu.pl
+ppnb1.kt.agh.edu.pl
+mat181.mat.agh.edu.pl
+fis.agh.edu.pl
+host110-174.fis.agh.edu.pl
+labes4.ket.agh.edu.pl
+wms.agh.edu.pl
+trix.geod.agh.edu.pl
+www.wgig.agh.edu.pl
+wiki.kt.agh.edu.pl
+ilon8.ia.agh.edu.pl
+kka2017.kaib.agh.edu.pl
+pc239.geol.agh.edu.pl
+lrajchel.geol.agh.edu.pl
+www.iab2018.agh.edu.pl
+www.summer-courses.agh.edu.pl
+b2-kor1-4.imir.agh.edu.pl
+katel2.elektro.agh.edu.pl
+www.spis.agh.edu.pl
+host110-222.fis.agh.edu.pl
+grobler2.ia.agh.edu.pl
+szpytko2.imir.agh.edu.pl
+epom.dgn.agh.edu.pl
+cynk2.mn.agh.edu.pl
+www.basen.agh.edu.pl
+fslab.agh.edu.pl
+lola.geod.agh.edu.pl
+pc13.zfcs.agh.edu.pl
+wpie26.wpie.agh.edu.pl
+mops181.uci.agh.edu.pl
+dhcp0114.kt.agh.edu.pl
+saturn.elektro.agh.edu.pl
+www.csr.agh.edu.pl
+ksero-pc.zarz.agh.edu.pl
+mta.ki.agh.edu.pl
+skowron.gorn.agh.edu.pl
+dec.geol.agh.edu.pl
+cb6-177.ceramika.agh.edu.pl
+wfitj87e.ftj.agh.edu.pl
+b3-komp6.zet.agh.edu.pl
+wnss16s.ins.agh.edu.pl
+elektronika.agh.edu.pl
+wpw.agh.edu.pl
+k-210-13.imir.agh.edu.pl
+bbb.ki.agh.edu.pl
+omnivista.uci.agh.edu.pl
+rpress3.imir.agh.edu.pl
+aq23.ia.agh.edu.pl
+milab2.wibro.agh.edu.pl
+dhcp-pc188.elektro.agh.edu.pl
+host110-191.fis.agh.edu.pl
+users.dsnet.agh.edu.pl
+www.ceramika.agh.edu.pl
+dt2.adm.agh.edu.pl
+bg.agh.edu.pl
+janw.metal.agh.edu.pl
+lse15.zee.agh.edu.pl
+smerf.elektro.agh.edu.pl
+wnssp3.ins.agh.edu.pl
+nat-wggios5.agh.edu.pl
+cmat61.mat.agh.edu.pl
+wfitj53e.ftj.agh.edu.pl
+machniak.gorn.agh.edu.pl
+krokus184.imir.agh.edu.pl
+www.wms.agh.edu.pl
+krol.geol.agh.edu.pl
+ka72.ia.agh.edu.pl
+dell-r900.fis.agh.edu.pl
+host110-230.fis.agh.edu.pl
+smtp.iisg.agh.edu.pl
+laut-1.keiaspe.agh.edu.pl
+zm206.zmet.agh.edu.pl
+host110-30.fis.agh.edu.pl
+preweda.geod.agh.edu.pl
+jasra.geod.agh.edu.pl
+wrss-pc.zarz.agh.edu.pl
+kap-111.imir.agh.edu.pl
+hubert.wibro.agh.edu.pl
+www.eko-energia.agh.edu.pl
+pc35.zfcs.agh.edu.pl
+sap315.zarz.agh.edu.pl
+aq21.ia.agh.edu.pl
+nat-wggios14.agh.edu.pl
+nat3.kt.agh.edu.pl
+b2-21-3.imir.agh.edu.pl
+zm221.zmet.agh.edu.pl
+wwwmail.zet.agh.edu.pl
+nat-wggios15.agh.edu.pl
+wfitj167e.ftj.agh.edu.pl
+lab404e.ia.agh.edu.pl
+walkor.gorn.agh.edu.pl
+www.ppim.agh.edu.pl
+b3-217.imir.agh.edu.pl
+phoenix.ia.agh.edu.pl
+studium12.sjo.agh.edu.pl
+koszyk.imir.agh.edu.pl
+agh-rdi-www.map.infra.ki.agh.edu.pl
+dziekan.metal.agh.edu.pl
+dhcp146.kt.agh.edu.pl
+www.kkio2012.agh.edu.pl
+swop.kt.agh.edu.pl
+bobble.wibro.agh.edu.pl
+zmiue-serv.imir.agh.edu.pl
+kozi.mn.agh.edu.pl
+paivi.wibro.agh.edu.pl
+ptpo.agh.edu.pl
+ka71.ia.agh.edu.pl
+mops178.uci.agh.edu.pl
+cho-oyu.ia.agh.edu.pl
+gosia.mn.agh.edu.pl
+vega.kis.agh.edu.pl
+zm219.zmet.agh.edu.pl
+vpn240.kt.agh.edu.pl
+cm.agh.edu.pl
+wfitj231e.ftj.agh.edu.pl
+kumpel.mn.agh.edu.pl
+www.szc2008.agh.edu.pl
+jcdesktopa115.weip.agh.edu.pl
+ktipm47.ktipm.agh.edu.pl
+nat-wggios2.agh.edu.pl
+marvin.cri.agh.edu.pl
+ricoh.zet.agh.edu.pl
+p115-3.zet.agh.edu.pl
+isim.agh.edu.pl
+host110-223.fis.agh.edu.pl
+wo152.odlew.agh.edu.pl
+mops144.uci.agh.edu.pl
+www.dsdfe.agh.edu.pl
+www.cada.agh.edu.pl
+ms.agh.edu.pl
+hp5m309.kt.agh.edu.pl
+stalow4.metal.agh.edu.pl
+rdi.agh.edu.pl
+r04.gorn.agh.edu.pl
+cb6-165.ceramika.agh.edu.pl
+gps1.geod.agh.edu.pl
+www.volt.agh.edu.pl
+www.siec.zarz.agh.edu.pl
+mario.wibro.agh.edu.pl
+pietreus.metal.agh.edu.pl
+kgg5.gorn.agh.edu.pl
+pc5.ins.agh.edu.pl
+termosorp.wpie.agh.edu.pl
+stud233.fis.agh.edu.pl
+cam-226.imir.agh.edu.pl
+cmat42.mat.agh.edu.pl
+enviro.geod.agh.edu.pl
+esa2.agh.edu.pl
+apro-106.imir.agh.edu.pl
+sknos.agh.edu.pl
+wfitj185e.ftj.agh.edu.pl
+acminacademy.agh.edu.pl
+blum.imir.agh.edu.pl
+www.open.agh.edu.pl
+ls.bg.agh.edu.pl
+polka.ia.agh.edu.pl
+kgg4.gorn.agh.edu.pl
+mat140.mat.agh.edu.pl
+stud106.fis.agh.edu.pl
+convert.cel.agh.edu.pl
+bystrze.urss.agh.edu.pl
+wnss125.ins.agh.edu.pl
+openlon3.ia.agh.edu.pl
+rec.wibro.agh.edu.pl
+chulist.gorn.agh.edu.pl
+studium11.sjo.agh.edu.pl
+wnssczyt7.ins.agh.edu.pl
+www.iaeste.agh.edu.pl
+lab513-pc3.elektro.agh.edu.pl
+test205.kt.agh.edu.pl
+host110-43.fis.agh.edu.pl
+www.kbib.agh.edu.pl
+slug.keiaspe.agh.edu.pl
+omega.ics.agh.edu.pl
+kap-34.imir.agh.edu.pl
+pc07.zfcs.agh.edu.pl
+mops161.uci.agh.edu.pl
+pix-dziekanat.geol.agh.edu.pl
+bugajski.geol.agh.edu.pl
+ca0-023.ceramika.agh.edu.pl
+moose.agh.edu.pl
+blackhole-nat.iisg.agh.edu.pl
+zachara3.imir.agh.edu.pl
+iono.elektro.agh.edu.pl
+mops159.uci.agh.edu.pl
+mops007.uci.agh.edu.pl
+wrt54gl.elektro.agh.edu.pl
+backup2.kt.agh.edu.pl
+kap-28.imir.agh.edu.pl
+pompon.cri.agh.edu.pl
+media.fis.agh.edu.pl
+st4.gorn.agh.edu.pl
+www.iab2013.agh.edu.pl
+kcs42.ceramika.agh.edu.pl
+radomin.geol.agh.edu.pl
+cam-218.imir.agh.edu.pl
+host110-122.fis.agh.edu.pl
+lds-2.keiaspe.agh.edu.pl
+fraczek.wibro.agh.edu.pl
+cam-212.imir.agh.edu.pl
+demeter-dhcp.zarz.agh.edu.pl
+pssi.agh.edu.pl
+proj14.gorn.agh.edu.pl
+epqu2020.agh.edu.pl
+wpie18.wpie.agh.edu.pl
+wfitj122e.ftj.agh.edu.pl
+www.smoluchowski.fis.agh.edu.pl
+plan3.uci.agh.edu.pl
+test146.kt.agh.edu.pl
+catalyst.ftj.agh.edu.pl
+hyperlo.ia.agh.edu.pl
+host110-216.fis.agh.edu.pl
+kuras.geod.agh.edu.pl
+layer.uci.agh.edu.pl
+www.dmms.agh.edu.pl
+www.psg.agh.edu.pl
+test161.kt.agh.edu.pl
+wo87.odlew.agh.edu.pl
+test1.isa.agh.edu.pl
+pc14.zfcs.agh.edu.pl
+jkudrys.geod.agh.edu.pl
+www.kisiko.agh.edu.pl
+cd.agh.edu.pl
+energy01.wpie.agh.edu.pl
+mops014.uci.agh.edu.pl
+aq12.ia.agh.edu.pl
+intcourses.agh.edu.pl
+www.swfis.agh.edu.pl
+pcmiue11.imir.agh.edu.pl
+kolo231.kt.agh.edu.pl
+staszowska.geol.agh.edu.pl
+pc67.zfcs.agh.edu.pl
+steniab.imir.agh.edu.pl
+cb6-176.ceramika.agh.edu.pl
+ltm10.ia.agh.edu.pl
+nat-vl130.agh.edu.pl
+nat-vl200.agh.edu.pl
+wmsg27.gorn.agh.edu.pl
+totek.mn.agh.edu.pl
+wo101.odlew.agh.edu.pl
+apisek.elektro.agh.edu.pl
+www.urss.agh.edu.pl
+www.ptmin.agh.edu.pl
+dhcp062.kt.agh.edu.pl
+www.tur.agh.edu.pl
+aq24.ia.agh.edu.pl
+pc145.kme.agh.edu.pl
+stud159.fis.agh.edu.pl
+kct2.ceramika.agh.edu.pl
+wfitj29e.ftj.agh.edu.pl
+dhcp036.kt.agh.edu.pl
+pc92.zfcs.agh.edu.pl
+n-ferro.mn.agh.edu.pl
+pc123.ia.agh.edu.pl
+powermac2.elektro.agh.edu.pl
+kfcsr810.fis.agh.edu.pl
+pcmiue15.imir.agh.edu.pl
+rosa.geod.agh.edu.pl
+urss4.urss.agh.edu.pl
+zm212.zmet.agh.edu.pl
+majta2.metal.agh.edu.pl
+tomaszew.gorn.agh.edu.pl
+umbreon.metal.agh.edu.pl
+jsc.elektro.agh.edu.pl
+cinc.agh.edu.pl
+www.spin.miekinia.agh.edu.pl
+apro-102.imir.agh.edu.pl
+ekrapiec.geol.agh.edu.pl
+osa2.agh.edu.pl
+fundacjams.agh.edu.pl
+www.kmpig.geol.agh.edu.pl
+www.kyc.agh.edu.pl
+www.lider.agh.edu.pl
+adrian2.metal.agh.edu.pl
+bbl.agh.edu.pl
+vpn248.kt.agh.edu.pl
+b6rtr.agh.edu.pl
+iworid2017.fis.agh.edu.pl
+wozniak.geol.agh.edu.pl
+www.xiiidm.agh.edu.pl
+typo3dev2.uci.agh.edu.pl
+dhcp185.kt.agh.edu.pl
+nb-jrzasa.kt.agh.edu.pl
+mat176.mat.agh.edu.pl
+pcwydrych.kt.agh.edu.pl
+kse13.ceramika.agh.edu.pl
+wnss114.ins.agh.edu.pl
+jameson.metal.agh.edu.pl
+luksza.metal.agh.edu.pl
+euro07.ia.agh.edu.pl
+zm218.zmet.agh.edu.pl
+krk.agh.edu.pl
+nbleszczuk.kt.agh.edu.pl
+lab09.gorn.agh.edu.pl
+forum.eestec.agh.edu.pl
+ctt-crm.adm.agh.edu.pl
+ds10.agh.edu.pl
+hpm402dnp218-dr.zarz.agh.edu.pl
+dou3.adm.agh.edu.pl
+ca0-033.ceramika.agh.edu.pl
+kusiak.cel.agh.edu.pl
+mm.mn.agh.edu.pl
+pansy.ics.agh.edu.pl
+jurek.keiaspe.agh.edu.pl
+mops156.uci.agh.edu.pl
+wfitj60a.ftj.agh.edu.pl
+mat222.mat.agh.edu.pl
+wfitj123e.ftj.agh.edu.pl
+jnocon.metal.agh.edu.pl
+k-322-6.imir.agh.edu.pl
+paw.agh.edu.pl
+weip-d4-40.weip.agh.edu.pl
+ns.eaiib.agh.edu.pl
+cb6-146.ceramika.agh.edu.pl
+host110-131.fis.agh.edu.pl
+www.witness.zarz.agh.edu.pl
+matlab3.uci.agh.edu.pl
+solar1.ia.agh.edu.pl
+saramak.gorn.agh.edu.pl
+fmn2010.kt.agh.edu.pl
+portiernia.weip.agh.edu.pl
+gradk.imir.agh.edu.pl
+kej.agh.edu.pl
+lab-409-4.wibro.agh.edu.pl
+csci.agh.edu.pl
+vmw4.ftj.agh.edu.pl
+mops023.uci.agh.edu.pl
+host110-75.fis.agh.edu.pl
+wfitj49e.ftj.agh.edu.pl
+borg.kis.agh.edu.pl
+centrala.adm.agh.edu.pl
+nebula.ftj.agh.edu.pl
+gitara.uci.agh.edu.pl
+wfitj169e.ftj.agh.edu.pl
+baloo.ket.agh.edu.pl
+valkiria.geol.agh.edu.pl
+crt.ftj.agh.edu.pl
+stmet01.metal.agh.edu.pl
+docs.iisg.agh.edu.pl
+lx3.geol.agh.edu.pl
+krokus2-10.imir.agh.edu.pl
+dhcp194.kt.agh.edu.pl
+bigbang.elektro.agh.edu.pl
+wnssp15.ins.agh.edu.pl
+makalu.ia.agh.edu.pl
+kola.agh.edu.pl
+mops103.uci.agh.edu.pl
+www-1tandfonline-1com-1sciencecitationindex.wbg2.bg.agh.edu.pl
+agh4dev8.agh.edu.pl
+cmat11.mat.agh.edu.pl
+zm249.zmet.agh.edu.pl
+forum.ms.agh.edu.pl
+pc246.geol.agh.edu.pl
+licz-b4.adm.agh.edu.pl
+bogdan.gorn.agh.edu.pl
+vps.zarz.agh.edu.pl
+kap-118.imir.agh.edu.pl
+cmat14.mat.agh.edu.pl
+dhcp159.kt.agh.edu.pl
+podroze.agh.edu.pl
+nat-wwnig6.agh.edu.pl
+wfitj228e.ftj.agh.edu.pl
+kap-108.imir.agh.edu.pl
+www.scr.agh.edu.pl
+dziek3.ceramika.agh.edu.pl
+kosala.wibro.agh.edu.pl
+host110-215.fis.agh.edu.pl
+nat-vl115.agh.edu.pl
+pc41.zfcs.agh.edu.pl
+turnia12.metal.agh.edu.pl
+stmet03.metal.agh.edu.pl
+klis.gorn.agh.edu.pl
+prodziek2.weip.agh.edu.pl
+labor.geol.agh.edu.pl
+pluton.kt.agh.edu.pl
+revistes-1ub-1edu-1atoz.wbg2.bg.agh.edu.pl
+amber.zarz.agh.edu.pl
+kobra.uci.agh.edu.pl
+mdp06b.elektro.agh.edu.pl
+stud168.fis.agh.edu.pl
+joanna.imir.agh.edu.pl
+lan.cel.agh.edu.pl
+szafir.imir.agh.edu.pl
+www.hpua.agh.edu.pl
+stud153.fis.agh.edu.pl
+www.sga.agh.edu.pl
+wfitj184e.ftj.agh.edu.pl
+dhcp160.kt.agh.edu.pl
+rawa.imir.agh.edu.pl
+host110-136.fis.agh.edu.pl
+cb6-178.ceramika.agh.edu.pl
+sioux.kt.agh.edu.pl
+journals-1bg-1agh-1edu-1pl-1000032i30050.wbg2.bg.agh.edu.pl
+host110-183.fis.agh.edu.pl
+vircan.kt.agh.edu.pl
+pc125.ia.agh.edu.pl
+b3-13.mn.agh.edu.pl
+hp2015-dr.zarz.agh.edu.pl
+p316-2.ket.agh.edu.pl
+rekrut-3.gorn.agh.edu.pl
+hp1320np419-dr.zarz.agh.edu.pl
+suliga.metal.agh.edu.pl
+www.ekospirit.agh.edu.pl
+agh-pc.geod.agh.edu.pl
+draco.elektro.agh.edu.pl
+giro.geod.agh.edu.pl
+www.kwestura.agh.edu.pl
+hl5250dn.zet.agh.edu.pl
+pc44.zfcs.agh.edu.pl
+nf.kt.agh.edu.pl
+test153.kt.agh.edu.pl
+om.cel.agh.edu.pl
+kap-45.imir.agh.edu.pl
+herman.d17.iisg.agh.edu.pl
+www.wakeup.agh.edu.pl
+dhcp072.kt.agh.edu.pl
+wfitj134e.ftj.agh.edu.pl
+incr2.kt.agh.edu.pl
+pc73.zfcs.agh.edu.pl
+wfitj64e.ftj.agh.edu.pl
+nas4free.zarz.agh.edu.pl
+smtp.agh.edu.pl
+helios.zarz.agh.edu.pl
+ka78.ia.agh.edu.pl
+milab1.wibro.agh.edu.pl
+p115-1.mn.agh.edu.pl
+netten2.cri.agh.edu.pl
+ticoo.metal.agh.edu.pl
+dolik.geol.agh.edu.pl
+www-1cambridge-1org-1ysv0kvjl0fcf.wbg2.bg.agh.edu.pl
+upsp1.odlew.agh.edu.pl
+cb6-212.ceramika.agh.edu.pl
+fa2014.agh.edu.pl
+mops179.uci.agh.edu.pl
+distalo.mn.agh.edu.pl
+zaneta.geol.agh.edu.pl
+kawiory8.wpie.agh.edu.pl
+klubabsolwentow.agh.edu.pl
+mat173.mat.agh.edu.pl
+fortigate-out2.uci.agh.edu.pl
+robeko.geod.agh.edu.pl
+wifi-guest.agh.edu.pl
+k-322-15.imir.agh.edu.pl
+nat-weaiib10.agh.edu.pl
+kap-132.imir.agh.edu.pl
+ca0-038.ceramika.agh.edu.pl
+www.uaue.zarz.agh.edu.pl
+brutus.zarz.agh.edu.pl
+wpie23.wpie.agh.edu.pl
+ktipm42.ktipm.agh.edu.pl
+weip-d4-42.weip.agh.edu.pl
+ka75.ia.agh.edu.pl
+ca0-057.ceramika.agh.edu.pl
+sso.agh.edu.pl
+zts36.ia.agh.edu.pl
+cbmos.agh.edu.pl
+waga.imir.agh.edu.pl
+wfitj226e.ftj.agh.edu.pl
+pcmiue10.imir.agh.edu.pl
+szyndler.metal.agh.edu.pl
+age.agh.edu.pl
+aq63.ia.agh.edu.pl
+pc9.wibro.agh.edu.pl
+mat193.mat.agh.edu.pl
+lsr01.ia.agh.edu.pl
+stud241.fis.agh.edu.pl
+necronomicon.ia.agh.edu.pl
+www.kezp.agh.edu.pl
+gorc.metal.agh.edu.pl
+nat.dsv.agh.edu.pl
+wrss.metal.agh.edu.pl
+tango.geol.agh.edu.pl
+wpie37.wpie.agh.edu.pl
+trac.icsr.agh.edu.pl
+kowalski.gorn.agh.edu.pl
+wo62.odlew.agh.edu.pl
+nat-wggios8.agh.edu.pl
+akademik.agh.edu.pl
+cmms.agh.edu.pl
+hpcad2.fis.agh.edu.pl
+zmb13.ceramika.agh.edu.pl
+host110-159.fis.agh.edu.pl
+kse18.ceramika.agh.edu.pl
+wfitj223e.ftj.agh.edu.pl
+cb6-152.ceramika.agh.edu.pl
+urss6.urss.agh.edu.pl
+vpn245.kt.agh.edu.pl
+pc22.geol.agh.edu.pl
+www.chemia.odlew.agh.edu.pl
+ds2.unifi.dsnet.agh.edu.pl
+wfitj100e.ftj.agh.edu.pl
+wldixi.kt.agh.edu.pl
+pc4.wibro.agh.edu.pl
+cb6-164.ceramika.agh.edu.pl
+mat199.mat.agh.edu.pl
+ns1.a2s.agh.edu.pl
+moodle.agh.edu.pl
+rubin.wibro.agh.edu.pl
+dhcp-pc192.elektro.agh.edu.pl
+athena.ia.agh.edu.pl
+lrob.ia.agh.edu.pl
+fas0svmtmp.kt.agh.edu.pl
+pc133.kme.agh.edu.pl
+krokus139.imir.agh.edu.pl
+www.iab2011.agh.edu.pl
+cloud.eaiib.agh.edu.pl
+nat-gst1.agh.edu.pl
+michal.metal.agh.edu.pl
+cider.kt.agh.edu.pl
+ie25.ket.agh.edu.pl
+mika.mn.agh.edu.pl
+wnssczyt6.ins.agh.edu.pl
+krokus2-5.imir.agh.edu.pl
+dhcp050.kt.agh.edu.pl
+wo59.odlew.agh.edu.pl
+bator.gorn.agh.edu.pl
+mops101.uci.agh.edu.pl
+hadrian.metal.agh.edu.pl
+apro-105.imir.agh.edu.pl
+wmsgl.gorn.agh.edu.pl
+d8-626-hp-cp2025.ket.agh.edu.pl
+ds5.agh.edu.pl
+zts39.ia.agh.edu.pl
+cmat8.mat.agh.edu.pl
+dhcp192.kt.agh.edu.pl
+knm2.imir.agh.edu.pl
+lonlab2.elektro.agh.edu.pl
+labstud03.wpie.agh.edu.pl
+ocs.zarz.agh.edu.pl
+seismic.geol.agh.edu.pl
+stass6.gorn.agh.edu.pl
+help.eaiib.agh.edu.pl
+jednacz.gorn.agh.edu.pl
+fuego.wibro.agh.edu.pl
+tytko.imir.agh.edu.pl
+lab513-pc4.elektro.agh.edu.pl
+www.ucte2011.agh.edu.pl
+host110-206.fis.agh.edu.pl
+kawiory15.wpie.agh.edu.pl
+www.rekrutacja.agh.edu.pl
+macaira.gorn.agh.edu.pl
+www.dzn.agh.edu.pl
+naworyta.gorn.agh.edu.pl
+pc102.zfcs.agh.edu.pl
+ca0-035.ceramika.agh.edu.pl
+www.tf.agh.edu.pl
+kw7.kwestura.agh.edu.pl
+cb6-216.ceramika.agh.edu.pl
+olimp33.imir.agh.edu.pl
+spider2.ki.agh.edu.pl
+www.yic2019.agh.edu.pl
+barbara.keiaspe.agh.edu.pl
+pc17.zfcs.agh.edu.pl
+ca0-014.ceramika.agh.edu.pl
+host110-69.fis.agh.edu.pl
+p016-b1.keiaspe.agh.edu.pl
+krol.gorn.agh.edu.pl
+dhcp039.kt.agh.edu.pl
+nat.ds17.agh.edu.pl
+kulik.gorn.agh.edu.pl
+www.eurotherm2016.agh.edu.pl
+intramat.mat.agh.edu.pl
+icon.imir.agh.edu.pl
+pc109.zfcs.agh.edu.pl
+wo20.odlew.agh.edu.pl
+paloalto.ia.agh.edu.pl
+weip-d4-46.weip.agh.edu.pl
+cmat20.mat.agh.edu.pl
+buba.geod.agh.edu.pl
+pcc212.ia.agh.edu.pl
+dhcp0.zet.agh.edu.pl
+kap-126.imir.agh.edu.pl
+test150.kt.agh.edu.pl
+krysiap.imir.agh.edu.pl
+linux.ia.agh.edu.pl
+edytka.metal.agh.edu.pl
+prac.bg.agh.edu.pl
+wo99.odlew.agh.edu.pl
+host110-135.fis.agh.edu.pl
+zm231.zmet.agh.edu.pl
+mops160.uci.agh.edu.pl
+laboratoriumhp-nb.zarz.agh.edu.pl
+mops020.uci.agh.edu.pl
+teneta-rtr.ia.agh.edu.pl
+dou10.adm.agh.edu.pl
+wojbach.zee.agh.edu.pl
+weip-d4-53.weip.agh.edu.pl
+international.agh.edu.pl
+www.racing.agh.edu.pl
+lab404l.ia.agh.edu.pl
+bplaptop.metal.agh.edu.pl
+ca0-060.ceramika.agh.edu.pl
+wfitj130e.ftj.agh.edu.pl
+dhcp162.kt.agh.edu.pl
+rekrutacja.cr.agh.edu.pl
+hostel.test.dsnet.agh.edu.pl
+mops032.uci.agh.edu.pl
+www.samorzad.imir.agh.edu.pl
+www.kap.agh.edu.pl
+lukaszw.metal.agh.edu.pl
+jump.kt.agh.edu.pl
+jarmutka.metal.agh.edu.pl
+wo39.odlew.agh.edu.pl
+3c4500.wnaft.agh.edu.pl
+szafir.mn.agh.edu.pl
+stud116.fis.agh.edu.pl
+www.zftik.agh.edu.pl
+masus.zet.agh.edu.pl
+hipekv6.zarz.agh.edu.pl
+dhcp096.kt.agh.edu.pl
+mops120.uci.agh.edu.pl
+goblin.wibro.agh.edu.pl
+kcs10.ceramika.agh.edu.pl
+nat-adm15.agh.edu.pl
+dell.ia.agh.edu.pl
+cmat6.mat.agh.edu.pl
+zm207.zmet.agh.edu.pl
+kawecki.imir.agh.edu.pl
+krawente.elektro.agh.edu.pl
+host110-80.fis.agh.edu.pl
+mat224.mat.agh.edu.pl
+test194.kt.agh.edu.pl
+test248.kt.agh.edu.pl
+a3-03.gorn.agh.edu.pl
+weip-d4-52.weip.agh.edu.pl
+test159.kt.agh.edu.pl
+mon-1.d8.iisg.agh.edu.pl
+wesoly.imir.agh.edu.pl
+allchemia.agh.edu.pl
+vpn.kis.agh.edu.pl
+dominik.metal.agh.edu.pl
+wnssp119.ins.agh.edu.pl
+gut.metal.agh.edu.pl
+makuch.zee.agh.edu.pl
+www.masstrans.agh.edu.pl
+emi.wibro.agh.edu.pl
+pokoj109.ins.agh.edu.pl
+wfitj48e.ftj.agh.edu.pl
+piekrz.mn.agh.edu.pl
+jakub-dell.elektro.agh.edu.pl
+solar2.ia.agh.edu.pl
+www.cc.agh.edu.pl
+mops053.uci.agh.edu.pl
+jpiotrow.wibro.agh.edu.pl
+bim.agh.edu.pl
+kalliope.zarz.agh.edu.pl
+zacharak.imir.agh.edu.pl
+dhcp144.kt.agh.edu.pl
+aghdev.agh.edu.pl
+www.wrss.iet.agh.edu.pl
+xs4.cel.agh.edu.pl
+kap-02.imir.agh.edu.pl
+clifford.kt.agh.edu.pl
+marysia.elektro.agh.edu.pl
+wpie30.wpie.agh.edu.pl
+test172.kt.agh.edu.pl
+karkula-pc.zarz.agh.edu.pl
+muzeum.agh.edu.pl
+journals-1bg-1agh-1edu-1pl-1ftlf1rvi0abc.wbg2.bg.agh.edu.pl
+power2nas.zarz.agh.edu.pl
+przemeks.imir.agh.edu.pl
+tbartus.geol.agh.edu.pl
+kiot417.geod.agh.edu.pl
+kotg1.geod.agh.edu.pl
+kzft.fis.agh.edu.pl
+patola.gorn.agh.edu.pl
+alu-lab1.mn.agh.edu.pl
+nbkorus.kt.agh.edu.pl
+www.spacetech.agh.edu.pl
+p115-4.mn.agh.edu.pl
+ai.ia.agh.edu.pl
+biuro.wpie.agh.edu.pl
+hplab.zet.agh.edu.pl
+cb6-245.ceramika.agh.edu.pl
+www.pcbbe.agh.edu.pl
+host110-113.fis.agh.edu.pl
+arizona.elektro.agh.edu.pl
+gps13.geod.agh.edu.pl
+hanzel.keiaspe.agh.edu.pl
+legiaakademicka.agh.edu.pl
+www.keios.agh.edu.pl
+kca7.ceramika.agh.edu.pl
+gbl.mn.agh.edu.pl
+kap-56.imir.agh.edu.pl
+huragan.ia.agh.edu.pl
+dhcp-pc190.elektro.agh.edu.pl
+ise.kis.agh.edu.pl
+vpn247.kt.agh.edu.pl
+www.kzp.zarz.agh.edu.pl
+www.omn.agh.edu.pl
+cb6-147.ceramika.agh.edu.pl
+labog02.wpie.agh.edu.pl
+chameleon.bg.agh.edu.pl
+krokusnt.imir.agh.edu.pl
+mogolan.wibro.agh.edu.pl
+www.czysteniebo.agh.edu.pl
+rzutnik.ia.agh.edu.pl
+mikos.imir.agh.edu.pl
+kgg26.gorn.agh.edu.pl
+elenergrtr.zee.agh.edu.pl
+pc131.kme.agh.edu.pl
+dzk.ceramika.agh.edu.pl
+pasodoble.ia.agh.edu.pl
+piestrzynski.geol.agh.edu.pl
+b2sw.agh.edu.pl
+agh-bziolko.ket.agh.edu.pl
+rose.ics.agh.edu.pl
+shalom2.kt.agh.edu.pl
+mat254.mat.agh.edu.pl
+iris.ics.agh.edu.pl
+host110-58.fis.agh.edu.pl
+ak.geod.agh.edu.pl
+baran.wpie.agh.edu.pl
+insigma2.kt.agh.edu.pl
+www.igrzyska.agh.edu.pl
+testoracle.adm.agh.edu.pl
+ka-93.ia.agh.edu.pl
+pc39.zfcs.agh.edu.pl
+koziol.gorn.agh.edu.pl
+mat201.mat.agh.edu.pl
+fractal.zet.agh.edu.pl
+www.sodas.agh.edu.pl
+acmin.agh.edu.pl
+junior.agh.edu.pl
+p222-1.mn.agh.edu.pl
+agnes.metal.agh.edu.pl
+syllabus4.uci.agh.edu.pl
+kap-43.imir.agh.edu.pl
+jalta.metal.agh.edu.pl
+pc124.zfcs.agh.edu.pl
+mat208.mat.agh.edu.pl
+hera.zarz.agh.edu.pl
+www.maglay.agh.edu.pl
+konrad.zfcs.agh.edu.pl
+wnioski.dwz.agh.edu.pl
+pc59.zfcs.agh.edu.pl
+kmg-159.imir.agh.edu.pl
+sail504.wpie.agh.edu.pl
+dzp.agh.edu.pl
+geomatyka.agh.edu.pl
+l20.gorn.agh.edu.pl
+w-wiesiek.wibro.agh.edu.pl
+s106.geod.agh.edu.pl
+robot.wibro.agh.edu.pl
+jm.gorn.agh.edu.pl
+nat.ds13.agh.edu.pl
+pc10.geol.agh.edu.pl
+elektro.mn.agh.edu.pl
+solinski.gorn.agh.edu.pl
+rejsm.agh.edu.pl
+www.kne.agh.edu.pl
+poldek.ia.agh.edu.pl
+www.isi.agh.edu.pl
+mops135.uci.agh.edu.pl
+proj06.gorn.agh.edu.pl
+ktipm16.ktipm.agh.edu.pl
+amilopro.geod.agh.edu.pl
+vpn250.kt.agh.edu.pl
+davical.kis.agh.edu.pl
+zefir.elektro.agh.edu.pl
+nest.agh.edu.pl
+monika.metal.agh.edu.pl
+wo209.odlew.agh.edu.pl
+www.cekomat.agh.edu.pl
+www.ukod.zarz.agh.edu.pl
+studium8.sjo.agh.edu.pl
+wpie31.wpie.agh.edu.pl
+dhcp143.kt.agh.edu.pl
+host110-115.fis.agh.edu.pl
+stolowka2.adm.agh.edu.pl
+agh-pdpl-informatyka.map.infra.ki.agh.edu.pl
+kb5.ceramika.agh.edu.pl
+mat220.mat.agh.edu.pl
+basista.geod.agh.edu.pl
+cam-221.imir.agh.edu.pl
+pantek.mn.agh.edu.pl
+borek.wibro.agh.edu.pl
+dudakekus-pc.zarz.agh.edu.pl
+dtk1.elektro.agh.edu.pl
+wrss.geod.agh.edu.pl
+gip316d.geod.agh.edu.pl
+neoawa.mat.agh.edu.pl
+gopr.cel.agh.edu.pl
+dhcp165.kt.agh.edu.pl
+er.agh.edu.pl
+nat.ds15.agh.edu.pl
+nat-wggiis2.agh.edu.pl
+wlodek.zee.agh.edu.pl
+notebook-s3.wnaft.agh.edu.pl
+rekrut-1.gorn.agh.edu.pl
+sstwpie.wpie.agh.edu.pl
+wiki.icsr.agh.edu.pl
+zkc7.ceramika.agh.edu.pl
+test1.geod.agh.edu.pl
+fpga.elektro.agh.edu.pl
+host110-128.fis.agh.edu.pl
+cmat10.mat.agh.edu.pl
+pc08.zfcs.agh.edu.pl
+wpie2.wpie.agh.edu.pl
+automatics.agh.edu.pl
+brasil.cel.agh.edu.pl
+rtg-307.mn.agh.edu.pl
+medon.geol.agh.edu.pl
+pc6.geol.agh.edu.pl
+stud221.fis.agh.edu.pl
+pwojnaro.metal.agh.edu.pl
+nobby.cel.agh.edu.pl
+aq15.ia.agh.edu.pl
+www.kandydaci.agh.edu.pl
+term.bg.agh.edu.pl
+jacek-nb.kt.agh.edu.pl
+b3-9.mn.agh.edu.pl
+wimir-005.imir.agh.edu.pl
+data.cri.agh.edu.pl
+milo.cel.agh.edu.pl
+ktipm38.ktipm.agh.edu.pl
+jacek.wpie.agh.edu.pl
+grzyb.wpie.agh.edu.pl
+nat-adm2.agh.edu.pl
+las.metal.agh.edu.pl
+casper.elektro.agh.edu.pl
+mat200.mat.agh.edu.pl
+wnssp15-2.ins.agh.edu.pl
+www.glider.agh.edu.pl
+tomgord.imir.agh.edu.pl
+wnss16d.ins.agh.edu.pl
+dell2.geol.agh.edu.pl
+automatyka.wo.agh.edu.pl
+cb6-159.ceramika.agh.edu.pl
+ama.metal.agh.edu.pl
+nat.ds14.agh.edu.pl
+ksw.imir.agh.edu.pl
+apro-103.imir.agh.edu.pl
+teledsp.kt.agh.edu.pl
+pc236.geol.agh.edu.pl
+krokus2-13.imir.agh.edu.pl
+milab3.wibro.agh.edu.pl
+ktipm41.ktipm.agh.edu.pl
+st14.gorn.agh.edu.pl
+host110-96.fis.agh.edu.pl
+mat195.mat.agh.edu.pl
+mnich.metal.agh.edu.pl
+se.kis.agh.edu.pl
+ogrodnik.gorn.agh.edu.pl
+fog.zarz.agh.edu.pl
+ktipm52.ktipm.agh.edu.pl
+stud161.fis.agh.edu.pl
+kad-94.ia.agh.edu.pl
+l06.gorn.agh.edu.pl
+accounts.ki.agh.edu.pl
+kap-120.imir.agh.edu.pl
+wo86.odlew.agh.edu.pl
+www.8ccgt.agh.edu.pl
+nat-adm13.agh.edu.pl
+mops079.uci.agh.edu.pl
+jerzak.metal.agh.edu.pl
+www.intstudies.agh.edu.pl
+skoda.imir.agh.edu.pl
+www.sag.agh.edu.pl
+host110-42.fis.agh.edu.pl
+mops030.uci.agh.edu.pl
+celeron.wibro.agh.edu.pl
+cb6-219.ceramika.agh.edu.pl
+ozon.geod.agh.edu.pl
+wo8.odlew.agh.edu.pl
+test213.kt.agh.edu.pl
+fotos.fotogrametria.agh.edu.pl
+sunum.kt.agh.edu.pl
+weip-d4-29.weip.agh.edu.pl
+olesiak.gorn.agh.edu.pl
+kap-107.imir.agh.edu.pl
+kap-46.imir.agh.edu.pl
+kotlownia.agh.edu.pl
+varna.metal.agh.edu.pl
+haproxy.cel.agh.edu.pl
+wfitj173e.ftj.agh.edu.pl
+cb6-136.ceramika.agh.edu.pl
+ewider.test.dsnet.agh.edu.pl
+pmeibf.metal.agh.edu.pl
+acri2014.agh.edu.pl
+di.adm.agh.edu.pl
+kap-41.imir.agh.edu.pl
+aq16.ia.agh.edu.pl
+www.igsm2006.agh.edu.pl
+nsiut.kt.agh.edu.pl
+host110-219.fis.agh.edu.pl
+avdiushchenko-pc.zarz.agh.edu.pl
+p118a-1-b1.keiaspe.agh.edu.pl
+kowal-pc.zarz.agh.edu.pl
+wimir-252.imir.agh.edu.pl
+wfitj79e.ftj.agh.edu.pl
+wo88.odlew.agh.edu.pl
+www.rejsm.agh.edu.pl
+test206.kt.agh.edu.pl
+host110-77.fis.agh.edu.pl
+raporty.cop.agh.edu.pl
+hermes.wydagh.agh.edu.pl
+cmat28.mat.agh.edu.pl
+dziekanat.agh.edu.pl
+ksmd.gorn.agh.edu.pl
+agh-pdpl-cyberbezpieczenstwo.map.infra.ki.agh.edu.pl
+www.wsn.agh.edu.pl
+wfitj84e.ftj.agh.edu.pl
+platforma.kis.agh.edu.pl
+pcania.zet.agh.edu.pl
+packo.metal.agh.edu.pl
+nat-vl53.agh.edu.pl
+pkgrant1.wibro.agh.edu.pl
+dhcp189.kt.agh.edu.pl
+lab400b5.metal.agh.edu.pl
+journals-1plos-1org-1atoz.wbg2.bg.agh.edu.pl
+iopscience-1iop-1org-1000032ym0046.wbg2.bg.agh.edu.pl
+a3-09.gorn.agh.edu.pl
+toshiba.wibro.agh.edu.pl
+cb6-182.ceramika.agh.edu.pl
+kap-11.imir.agh.edu.pl
+www.bfn.agh.edu.pl
+wfitj86e.ftj.agh.edu.pl
+wibro-110.imir.agh.edu.pl
+kpb-050.imir.agh.edu.pl
+romulus.ia.agh.edu.pl
+synology.zarz.agh.edu.pl
+michalw.kt.agh.edu.pl
+wfitj172e.ftj.agh.edu.pl
+kfaryj.metal.agh.edu.pl
+czubak.wibro.agh.edu.pl
+bd.metal.agh.edu.pl
+kcs25.ceramika.agh.edu.pl
+ksero.zarz.agh.edu.pl
+cmat22.mat.agh.edu.pl
+miki-dell.zet.agh.edu.pl
+krokus178.imir.agh.edu.pl
+panel.ka.agh.edu.pl
+mts01.gorn.agh.edu.pl
+gargamel.kt.agh.edu.pl
+sirius.kis.agh.edu.pl
+www.ltpmn.agh.edu.pl
+rejestracja.akademiajunior.agh.edu.pl
+www.tlm.agh.edu.pl
+host110-204.fis.agh.edu.pl
+pks4.gorn.agh.edu.pl
+kct4.ceramika.agh.edu.pl
+kca3.ceramika.agh.edu.pl
+ds6.agh.edu.pl
+host110-221.fis.agh.edu.pl
+lab11h2-b1.keiaspe.agh.edu.pl
+test188.kt.agh.edu.pl
+biomat.ceramika.agh.edu.pl
+www-1fibtex-1lodz-1pl-1atoz.wbg2.bg.agh.edu.pl
+vpn.zarz.agh.edu.pl
+cb6-137.ceramika.agh.edu.pl
+bobik.geod.agh.edu.pl
+test141.kt.agh.edu.pl
+kap-27.imir.agh.edu.pl
+zmb29.ceramika.agh.edu.pl
+pc8.geol.agh.edu.pl
+mops065.uci.agh.edu.pl
+vpn235.kt.agh.edu.pl
+dhcp0120.kt.agh.edu.pl
+wnssp104.ins.agh.edu.pl
+cb6-186.ceramika.agh.edu.pl
+nat-weaiib19.agh.edu.pl
+ds7.unifi.dsnet.agh.edu.pl
+weip-d4-59.weip.agh.edu.pl
+hebda.gorn.agh.edu.pl
+amidala.ia.agh.edu.pl
+korek.uci.agh.edu.pl
+pc30.zfcs.agh.edu.pl
+guca-pc.zarz.agh.edu.pl
+dmzvpn.agh.edu.pl
+typo3dev1.uci.agh.edu.pl
+wo122.odlew.agh.edu.pl
+la2.ia.agh.edu.pl
+www.skalnik.agh.edu.pl
+pc11.geol.agh.edu.pl
+eslomka.geol.agh.edu.pl
+www.dzienhutnika.agh.edu.pl
+wiesiek2.kt.agh.edu.pl
+dgn.adm.agh.edu.pl
+pc28.zfcs.agh.edu.pl
+bj.geod.agh.edu.pl
+ktipm32.ktipm.agh.edu.pl
+mat198.mat.agh.edu.pl
+vega.geod.agh.edu.pl
+www.studzagr.agh.edu.pl
+studium2.sjo.agh.edu.pl
+www.pta-krakow.agh.edu.pl
+koi2.fis.agh.edu.pl
+cam-222.imir.agh.edu.pl
+stud223.fis.agh.edu.pl
+kulma.geol.agh.edu.pl
+dhcp070.kt.agh.edu.pl
+zm213.zmet.agh.edu.pl
+pomoc-it.agh.edu.pl
+k-210-05.imir.agh.edu.pl
+k-210-03.imir.agh.edu.pl
+test143.kt.agh.edu.pl
+wkrlaptop.weip.agh.edu.pl
+stud222.fis.agh.edu.pl
+nbl0.ics.agh.edu.pl
+dhcp213.kt.agh.edu.pl
+slartibartfast.kis.agh.edu.pl
+aq22.ia.agh.edu.pl
+kad-95.ia.agh.edu.pl
+dziekanat-fg3.agh.edu.pl
+forest.elektro.agh.edu.pl
+wfitj32e.ftj.agh.edu.pl
+wfitj10e.ftj.agh.edu.pl
+asior.ia.agh.edu.pl
+dziek5.ceramika.agh.edu.pl
+kse23.ceramika.agh.edu.pl
+ilon10.ia.agh.edu.pl
+mops029.uci.agh.edu.pl
+rd50.agh.edu.pl
+www.zse.agh.edu.pl
+super2-pc.zarz.agh.edu.pl
+hpsim.metal.agh.edu.pl
+wnss16e.ins.agh.edu.pl
+wimir-238.imir.agh.edu.pl
+twinning.iaeste.agh.edu.pl
+www.isdm2013.agh.edu.pl
+yoda.icsr.agh.edu.pl
+nat-wwnig5.agh.edu.pl
+zts50.ia.agh.edu.pl
+www.klubabsolwentow.agh.edu.pl
+www.iwkwkis.zarz.agh.edu.pl
+slack0.darwin.cri.agh.edu.pl
+ie10.ket.agh.edu.pl
+test195.kt.agh.edu.pl
+dhcp168.kt.agh.edu.pl
+dhcp2.zet.agh.edu.pl
+apro-111.imir.agh.edu.pl
+straz4.adm.agh.edu.pl
+memento.wibro.agh.edu.pl
+www.mi.wh.agh.edu.pl
+apro-104.imir.agh.edu.pl
+twardowski-pc.wnaft.agh.edu.pl
+filipow.imir.agh.edu.pl
+rajd100.agh.edu.pl
+kap-03.imir.agh.edu.pl
+ca0-062.ceramika.agh.edu.pl
+rozdzielnia-u11.adm.agh.edu.pl
+wo74.odlew.agh.edu.pl
+p021-b1.keiaspe.agh.edu.pl
+tplinkp122.zarz.agh.edu.pl
+wloch.gorn.agh.edu.pl
+indico.fis.agh.edu.pl
+rpress1.imir.agh.edu.pl
+byrska.metal.agh.edu.pl
+zm236.zmet.agh.edu.pl
+labog03.wpie.agh.edu.pl
+dhcp0127.kt.agh.edu.pl
+www-1afe-1polsl-1pl-1atoz.wbg2.bg.agh.edu.pl
+weip-d4-24.weip.agh.edu.pl
+test233.kt.agh.edu.pl
+vigil.kis.agh.edu.pl
+www.ccs.agh.edu.pl
+patryk.ia.agh.edu.pl
+mops174.uci.agh.edu.pl
+tomekd.metal.agh.edu.pl
+daq.elektro.agh.edu.pl
+telejko.metal.agh.edu.pl
+www.fgp13.agh.edu.pl
+dhcp040.kt.agh.edu.pl
+kw2.kwestura.agh.edu.pl
+pc115.ia.agh.edu.pl
+mdp02b.elektro.agh.edu.pl
+pixi.kt.agh.edu.pl
+mops128.uci.agh.edu.pl
+koi4.fis.agh.edu.pl
+ck.uci.agh.edu.pl
+dhcp147.kt.agh.edu.pl
+mazur.gorn.agh.edu.pl
+beata.mn.agh.edu.pl
+iris.wibro.agh.edu.pl
+jesion.geod.agh.edu.pl
+nat-adm5.agh.edu.pl
+kap-26.imir.agh.edu.pl
+dhcp222.kt.agh.edu.pl
+posejdon.zarz.agh.edu.pl
+tad.wibro.agh.edu.pl
+kotwica2.imir.agh.edu.pl
+www-1sciencedirect-1com-1000032q000c4.wbg2.bg.agh.edu.pl
+chfie.agh.edu.pl
+grzeslo.gorn.agh.edu.pl
+b2-kor0-5.imir.agh.edu.pl
+skotnicz.keiaspe.agh.edu.pl
+styx.wibro.agh.edu.pl
+wfitj210e.ftj.agh.edu.pl
+stud243.fis.agh.edu.pl
+karol.metal.agh.edu.pl
+www.mentor.zarz.agh.edu.pl
+mops075.uci.agh.edu.pl
+kap-39.imir.agh.edu.pl
+wfitj88e.ftj.agh.edu.pl
+pc146.kme.agh.edu.pl
+dosin.metal.agh.edu.pl
+3forum.ptm.agh.edu.pl
+fd.pti.agh.edu.pl
+aq4.ia.agh.edu.pl
+neptun.zee.agh.edu.pl
+kgg15.gorn.agh.edu.pl
+wydawnictwo2.wydagh.agh.edu.pl
+ca0-017.ceramika.agh.edu.pl
+stud101.fis.agh.edu.pl
+olam.wpie.agh.edu.pl
+dhcp171.kt.agh.edu.pl
+fortigate-out1.uci.agh.edu.pl
+dhcp150.kt.agh.edu.pl
+visu.elektro.agh.edu.pl
+www.giswis.agh.edu.pl
+nat.ds5.agh.edu.pl
+karkula-ps.zarz.agh.edu.pl
+glogowska.geol.agh.edu.pl
+krokus177.imir.agh.edu.pl
+tm112.imir.agh.edu.pl
+pc153.kme.agh.edu.pl
+walker.ia.agh.edu.pl
+akot.zee.agh.edu.pl
+host110-53.fis.agh.edu.pl
+zmb30.ceramika.agh.edu.pl
+www.akademik.agh.edu.pl
+wocy.gorn.agh.edu.pl
+doktoranckie.agh.edu.pl
+mops154.uci.agh.edu.pl
+zmb16.ceramika.agh.edu.pl
+k-210-15.imir.agh.edu.pl
+pckantor.kt.agh.edu.pl
+mdp03c.elektro.agh.edu.pl
+www.kb.ceramika.agh.edu.pl
+kaina.metal.agh.edu.pl
+www.juwenalia.agh.edu.pl
+wnssp208.ins.agh.edu.pl
+wo17.odlew.agh.edu.pl
+aga.geod.agh.edu.pl
+zeus.imir.agh.edu.pl
+www.welcome.agh.edu.pl
+dc1-mta-out-a.infra.ki.agh.edu.pl
+host110-225.fis.agh.edu.pl
+arkana.elektro.agh.edu.pl
+wibro-112.imir.agh.edu.pl
+www.bon.agh.edu.pl
+cmmc19.wms.agh.edu.pl
+ktipm48.ktipm.agh.edu.pl
+lds-4.keiaspe.agh.edu.pl
+www.student.agh.edu.pl
+kmg-prac1.imir.agh.edu.pl
+hyper.ia.agh.edu.pl
+proffs.imir.agh.edu.pl
+samstu4.imir.agh.edu.pl
+www.modfem.agh.edu.pl
+adam.metal.agh.edu.pl
+lbsh5.ia.agh.edu.pl
+zts32.ia.agh.edu.pl
+ds14.unifi.dsnet.agh.edu.pl
+biolab.ia.agh.edu.pl
+pundit.kt.agh.edu.pl
+krokus189.imir.agh.edu.pl
+lr13.ia.agh.edu.pl
+kamerabudowa.b1.agh.edu.pl
+zm246.zmet.agh.edu.pl
+ds18.agh.edu.pl
+portier.test.dsnet.agh.edu.pl
+xbl1.ics.agh.edu.pl
+l00.gorn.agh.edu.pl
+backuptest.kt.agh.edu.pl
+wfitj133e.ftj.agh.edu.pl
+www.kotlownia.agh.edu.pl
+wfitj200e.ftj.agh.edu.pl
+lbmbic.agh.edu.pl
+b2-kor0-2.imir.agh.edu.pl
+proj02.gorn.agh.edu.pl
+xs5.cel.agh.edu.pl
+grant.metal.agh.edu.pl
+wo40.odlew.agh.edu.pl
+www.dmms.zarz.agh.edu.pl
+host110-165.fis.agh.edu.pl
+test137.kt.agh.edu.pl
+syllabus.agh.edu.pl
+kca10.ceramika.agh.edu.pl
+whankiew.imir.agh.edu.pl
+dhcp164.kt.agh.edu.pl
+www.knss.agh.edu.pl
+dziekanat.test.dsnet.agh.edu.pl
+ktipm34.ktipm.agh.edu.pl
+www.sysinf.agh.edu.pl
+ieeexplore-1ieee-1org-10000471y0098.wbg2.bg.agh.edu.pl
+nat-wggios13.agh.edu.pl
+mes0.mn.agh.edu.pl
+stalow5.metal.agh.edu.pl
+test152.kt.agh.edu.pl
+studium6.sjo.agh.edu.pl
+dsp.agh.edu.pl
+jerzy.ia.agh.edu.pl
+host110-187.fis.agh.edu.pl
+stud236.fis.agh.edu.pl
+mes2.imir.agh.edu.pl
+onlinelibrary-1wiley-1com-1r3ntz4pp0153.wbg2.bg.agh.edu.pl
+ubpo3.agh.edu.pl
+host110-73.fis.agh.edu.pl
+p319.ket.agh.edu.pl
+wpedziek4.wpie.agh.edu.pl
+kap-61.imir.agh.edu.pl
+wo29.odlew.agh.edu.pl
+rescue.kt.agh.edu.pl
+www.esa.agh.edu.pl
+ilon3.ia.agh.edu.pl
+ds1.unifi.dsnet.agh.edu.pl
+www.tp.agh.edu.pl
+kameraz2-3.adm.agh.edu.pl
+neo4j.fis.agh.edu.pl
+kap-143.imir.agh.edu.pl
+nat.d17-c2-prx-1.infra.iisg.agh.edu.pl
+d17-c1-lab.infra.iisg.agh.edu.pl
+linksyswap54g-ap.zarz.agh.edu.pl
+stud205.fis.agh.edu.pl
+aziewiec.metal.agh.edu.pl
+squid.ktipm.agh.edu.pl
+mysql.agh.edu.pl
+administrator.zee.agh.edu.pl
+test214.kt.agh.edu.pl
+ns1.kt.agh.edu.pl
+kca18.ceramika.agh.edu.pl
+biblio2.ceramika.agh.edu.pl
+termik.keiaspe.agh.edu.pl
+piesek.metal.agh.edu.pl
+morfeusz.zarz.agh.edu.pl
+www.cmms.agh.edu.pl
+pcc219.ia.agh.edu.pl
+dhcp0126.kt.agh.edu.pl
+kcs23.ceramika.agh.edu.pl
+vmw17.ftj.agh.edu.pl
+samsungm2825p413-dr.zarz.agh.edu.pl
+labog01.wpie.agh.edu.pl
+b3-6.mn.agh.edu.pl
+ns1.geod.agh.edu.pl
+dhcp157.kt.agh.edu.pl
+raft.metal.agh.edu.pl
+megi.agh.edu.pl
+krokus182.imir.agh.edu.pl
+test174.kt.agh.edu.pl
+opila-pc.zarz.agh.edu.pl
+www.tais.agh.edu.pl
+kap-21.imir.agh.edu.pl
+wnaft-sw-srv-01.wnaft.agh.edu.pl
+www-1sciencedirect-1com-10000321800b5.wbg2.bg.agh.edu.pl
+kanlab8.keiaspe.agh.edu.pl
+www.ctt.agh.edu.pl
+proj15.gorn.agh.edu.pl
+zwmik.imir.agh.edu.pl
+kap-122.imir.agh.edu.pl
+wpie9.wpie.agh.edu.pl
+chudzik.wpie.agh.edu.pl
+mambo.ia.agh.edu.pl
+wodnik.zee.agh.edu.pl
+spatyk.imir.agh.edu.pl
+kwestura.agh.edu.pl
+aq64.ia.agh.edu.pl
+host110-74.fis.agh.edu.pl
+andrzej.metal.agh.edu.pl
+host110-169.fis.agh.edu.pl
+babajaga.wibro.agh.edu.pl
+p3zpe.zfcs.agh.edu.pl
+www.fpga.agh.edu.pl
+skalna-pc.zarz.agh.edu.pl
+test144.kt.agh.edu.pl
+vm4.uci.agh.edu.pl
+wmsg14.gorn.agh.edu.pl
+host110-196.fis.agh.edu.pl
+weip.agh.edu.pl
+urban.gorn.agh.edu.pl
+sek.gorn.agh.edu.pl
+wnssp10.ins.agh.edu.pl
+zmac.metal.agh.edu.pl
+ca0-031.ceramika.agh.edu.pl
+krokus174.imir.agh.edu.pl
+ca0-043.ceramika.agh.edu.pl
+sylabus-test.phd.agh.edu.pl
+test167.kt.agh.edu.pl
+mops076.uci.agh.edu.pl
+dsv.agh.edu.pl
+a3-04.gorn.agh.edu.pl
+mat185.mat.agh.edu.pl
+mosfet.zmet.agh.edu.pl
+cb6-213.ceramika.agh.edu.pl
+dt5.adm.agh.edu.pl
+pc138.kme.agh.edu.pl
+stud145.fis.agh.edu.pl
+k-320-6.imir.agh.edu.pl
+dt8.adm.agh.edu.pl
+www.era-inzyniera.agh.edu.pl
+dlasrodowiska.agh.edu.pl
+pc142.ket.agh.edu.pl
+www.informatyka.podyplomowe.agh.edu.pl
+new.kt.agh.edu.pl
+www.justbridge.agh.edu.pl
+krokus2-1.imir.agh.edu.pl
+stmet04.metal.agh.edu.pl
+janstrz.zee.agh.edu.pl
+plan.agh.edu.pl
+venus.elektro.agh.edu.pl
+wnaft-sw-r-01.wnaft.agh.edu.pl
+www.kng.agh.edu.pl
+host110-47.fis.agh.edu.pl
+cb6-141.ceramika.agh.edu.pl
+www.moodle.agh.edu.pl
+krk.wpie.agh.edu.pl
+slack0.marvin.cri.agh.edu.pl
+adamczyk.wibro.agh.edu.pl
+kaczka.zee.agh.edu.pl
+dhcp092.kt.agh.edu.pl
+plan2.uci.agh.edu.pl
+basia.wpie.agh.edu.pl
+weip-d4-50.weip.agh.edu.pl
+astawowy-pc.zarz.agh.edu.pl
+ds20.agh.edu.pl
+dziadhp.mn.agh.edu.pl
+dephos.geod.agh.edu.pl
+www.do.agh.edu.pl
+gdlaptop.weip.agh.edu.pl
+p36.geod.agh.edu.pl
+ca0-067.ceramika.agh.edu.pl
+dhcp046.kt.agh.edu.pl
+dhcp0125.kt.agh.edu.pl
+www.iet.agh.edu.pl
+cb6-192.ceramika.agh.edu.pl
+p107.mn.agh.edu.pl
+dhcp055.kt.agh.edu.pl
+wo49.odlew.agh.edu.pl
+www.mkg.agh.edu.pl
+host110-46.fis.agh.edu.pl
+aggr1.detres.kt.agh.edu.pl
+kcs41.ceramika.agh.edu.pl
+pc65.bg.agh.edu.pl
+journals-1aps-1org-1atoz.wbg2.bg.agh.edu.pl
+nat-adm11.agh.edu.pl
+ania.metal.agh.edu.pl
+machina.wibro.agh.edu.pl
+kct14.ceramika.agh.edu.pl
+mops116.uci.agh.edu.pl
+www.kppimmn.agh.edu.pl
+cb6-140.ceramika.agh.edu.pl
+lbsh1.ia.agh.edu.pl
+smol-agh.elektro.agh.edu.pl
+stud112.fis.agh.edu.pl
+sikor.kt.agh.edu.pl
+ca0-021.ceramika.agh.edu.pl
+tobiko.ics.agh.edu.pl
+kap-121.imir.agh.edu.pl
+ricoh.kt.agh.edu.pl
+wpie8.wpie.agh.edu.pl
+b3-komp13.zet.agh.edu.pl
+kse3.ceramika.agh.edu.pl
+kaski-pc.mn.agh.edu.pl
+mops002.uci.agh.edu.pl
+ktipm51.ktipm.agh.edu.pl
+vq.kt.agh.edu.pl
+iris.ki.agh.edu.pl
+wpie29.wpie.agh.edu.pl
+kap-30.imir.agh.edu.pl
+kap-115.imir.agh.edu.pl
+mops110.uci.agh.edu.pl
+www.kee.agh.edu.pl
+yukon.uci.agh.edu.pl
+p120-b1.keiaspe.agh.edu.pl
+ics.agh.edu.pl
+www.produkt.zarz.agh.edu.pl
+submarine.kt.agh.edu.pl
+www.kig.wnaft.agh.edu.pl
+wpie3.wpie.agh.edu.pl
+tera.acmin.agh.edu.pl
+cb6-238.ceramika.agh.edu.pl
+wnss16r.ins.agh.edu.pl
+cytrus.bg.agh.edu.pl
+test251.kt.agh.edu.pl
+mdp10a.elektro.agh.edu.pl
+gawel.geol.agh.edu.pl
+weip-d4-54.weip.agh.edu.pl
+vector.kwestura.agh.edu.pl
+zm216.zmet.agh.edu.pl
+wordpress.uci.agh.edu.pl
+gitlab.kt.agh.edu.pl
+cmat27.mat.agh.edu.pl
+wfitj55e.ftj.agh.edu.pl
+sam.ceramika.agh.edu.pl
+wo33.odlew.agh.edu.pl
+helios.dsnet.agh.edu.pl
+pc96.zfcs.agh.edu.pl
+ldap.uci.agh.edu.pl
+www.ck.agh.edu.pl
+bogdan.agh.edu.pl
+kawiory7.wpie.agh.edu.pl
+test158.kt.agh.edu.pl
+zeus.ics.agh.edu.pl
+maja.mn.agh.edu.pl
+kowalik-pc.zarz.agh.edu.pl
+turnia11.metal.agh.edu.pl
+cmat46.mat.agh.edu.pl
+wfitj213e.ftj.agh.edu.pl
+kap-134.imir.agh.edu.pl
+boruta.imir.agh.edu.pl
+ken1.zee.agh.edu.pl
+upsp2.odlew.agh.edu.pl
+d17-herman.infra.iisg.agh.edu.pl
+lhotse.ia.agh.edu.pl
+pacyna.metal.agh.edu.pl
+www.ztcios.agh.edu.pl
+b3-7.mn.agh.edu.pl
+bogusz.geol.agh.edu.pl
+chemfiz2.mn.agh.edu.pl
+www.samorzad.ceramika.agh.edu.pl
+xorp-109.ftj.agh.edu.pl
+www.dea.agh.edu.pl
+trabant.keiaspe.agh.edu.pl
+kb1.ceramika.agh.edu.pl
+sentry.dsnet.agh.edu.pl
+limba3.metal.agh.edu.pl
+kawon.mn.agh.edu.pl
+sylabus.agh.edu.pl
+wimir-239.imir.agh.edu.pl
+radio17.agh.edu.pl
+dou5.adm.agh.edu.pl
+rekrut-9.gorn.agh.edu.pl
+ipguru.metal.agh.edu.pl
+kap-103.imir.agh.edu.pl
+eit.kt.agh.edu.pl
+drusie.wibro.agh.edu.pl
+host110-37.fis.agh.edu.pl
+stwolny.imir.agh.edu.pl
+pc168.kme.agh.edu.pl
+kandydat.wnaft.agh.edu.pl
+testowyplan2.agh.edu.pl
+kcs16.ceramika.agh.edu.pl
+stud114.fis.agh.edu.pl
+korzeniowski.gorn.agh.edu.pl
+www.euee.agh.edu.pl
+guru.metal.agh.edu.pl
+pracfiz2.ftj.agh.edu.pl
+pss.agh.edu.pl
+www.tlm.zarz.agh.edu.pl
+cybersecurity.agh.edu.pl
+vpn230.kt.agh.edu.pl
+slide.kt.agh.edu.pl
+u2-1.adm.agh.edu.pl
+dhcp091.kt.agh.edu.pl
+zts37.ia.agh.edu.pl
+mops105.uci.agh.edu.pl
+krokus143.imir.agh.edu.pl
+cmat7.mat.agh.edu.pl
+ovirt-console.fis.agh.edu.pl
+intomdb.kt.agh.edu.pl
+lab001.elektro.agh.edu.pl
+kwien.metal.agh.edu.pl
+notatki.cel.agh.edu.pl
+link-1springer-1com-1atoz.wbg2.bg.agh.edu.pl
+a3-12.gorn.agh.edu.pl
+www.er.agh.edu.pl
+eis.agh.edu.pl
+vpn242.kt.agh.edu.pl
+test166.kt.agh.edu.pl
+kb6.ceramika.agh.edu.pl
+ppnb2.kt.agh.edu.pl
+mail.agh.edu.pl
+stach-pc.zarz.agh.edu.pl
+kcs27.ceramika.agh.edu.pl
+www.iworid2017.fis.agh.edu.pl
+pc29.zfcs.agh.edu.pl
+www.scalamas.agh.edu.pl
+dhcp-pc202.elektro.agh.edu.pl
+cichon-pc.zarz.agh.edu.pl
+krokus137.imir.agh.edu.pl
+2-p118a-b1.keiaspe.agh.edu.pl
+vmw14.ftj.agh.edu.pl
+tad2.wibro.agh.edu.pl
+szef.metal.agh.edu.pl
+wavelet.elektro.agh.edu.pl
+rejestr4.adm.agh.edu.pl
+mops173.uci.agh.edu.pl
+wmsg19.gorn.agh.edu.pl
+wnssp24.ins.agh.edu.pl
+erportal-www.map.infra.ki.agh.edu.pl
+www.kkmp2014.agh.edu.pl
+live.uci.agh.edu.pl
+www.eportfolio.agh.edu.pl
+upsp4.odlew.agh.edu.pl
+e-pracownik.ki.agh.edu.pl
+mcss2013.kt.agh.edu.pl
+www.tvaula.zarz.agh.edu.pl
+pc122.zfcs.agh.edu.pl
+agnes.mn.agh.edu.pl
+lic-srv-6.wnaft.agh.edu.pl
+test.vm7.uci.agh.edu.pl
+www.dofp.agh.edu.pl
+vmw13.ftj.agh.edu.pl
+www.creative.agh.edu.pl
+co.ia.agh.edu.pl
+host110-210.fis.agh.edu.pl
+a3-08.gorn.agh.edu.pl
+cb6-171.ceramika.agh.edu.pl
+szafir.geol.agh.edu.pl
+waszkielewicz-pc.zarz.agh.edu.pl
+lab223.mn.agh.edu.pl
+wfitj80e.ftj.agh.edu.pl
+b3-komp7.zet.agh.edu.pl
+vpn246.kt.agh.edu.pl
+saturn.geod.agh.edu.pl
+prx-1.d17.iisg.agh.edu.pl
+www.kompetencje.agh.edu.pl
+dt12.adm.agh.edu.pl
+lab204.imir.agh.edu.pl
+bieda-pc.zarz.agh.edu.pl
+ca0-032.ceramika.agh.edu.pl
+intomer.kt.agh.edu.pl
+kawiory29.wpie.agh.edu.pl
+www.ct2tte.agh.edu.pl
+reksio.ftj.agh.edu.pl
+libra.geod.agh.edu.pl
+test189.kt.agh.edu.pl
+apc.ftj.agh.edu.pl
+www.profuturo.agh.edu.pl
+sucheta.gorn.agh.edu.pl
+ca0-002.ceramika.agh.edu.pl
+b2-kor1-3.imir.agh.edu.pl
+pentium3.mn.agh.edu.pl
+zm204.zmet.agh.edu.pl
+www-1biomat-1krakow-1pl-1000032160fce.wbg2.bg.agh.edu.pl
+admeip.weip.agh.edu.pl
+power3.5.fis.agh.edu.pl
+host110-214.fis.agh.edu.pl
+niezgoda-nb.ins.agh.edu.pl
+pc1.gorn.agh.edu.pl
+krokus131.imir.agh.edu.pl
+swd.bg.agh.edu.pl
+ca0-019.ceramika.agh.edu.pl
+www.jee.agh.edu.pl
+wentyl.gorn.agh.edu.pl
+www.esn.agh.edu.pl
+vega.kt.agh.edu.pl
+100lat.fis.agh.edu.pl
+mops044.uci.agh.edu.pl
+wo106.odlew.agh.edu.pl
+www.cjee.agh.edu.pl
+host110-138.fis.agh.edu.pl
+cam-214.imir.agh.edu.pl
+www.polviet.agh.edu.pl
+wnaft-0001-e2.wnaft.agh.edu.pl
+kct16.ceramika.agh.edu.pl
+kap-133.imir.agh.edu.pl
+vpn233.kt.agh.edu.pl
+stud240.fis.agh.edu.pl
+agh-er-www.map.infra.ki.agh.edu.pl
+polscyniepelnosprawni.agh.edu.pl
+pbanasik.geod.agh.edu.pl
+pc89.zfcs.agh.edu.pl
+wfitj232e.ftj.agh.edu.pl
+lsr06.ia.agh.edu.pl
+sanocki.geol.agh.edu.pl
+gryglik.gorn.agh.edu.pl
+www.wggios.agh.edu.pl
+quest.ktipm.agh.edu.pl
+blabel.agh.edu.pl
+wmn.dznet.agh.edu.pl
+lab110-nat.ia.agh.edu.pl
+nat-weaiib5.agh.edu.pl
+kap-147.imir.agh.edu.pl
+cb6-132.ceramika.agh.edu.pl
+studium10.sjo.agh.edu.pl
+kwig.wnaft.agh.edu.pl
+piotr.mn.agh.edu.pl
+iwkwkis.zarz.agh.edu.pl
+gamma.keiaspe.agh.edu.pl
+host110-195.fis.agh.edu.pl
+kcs5.ceramika.agh.edu.pl
+wo60.odlew.agh.edu.pl
+patyczak.wibro.agh.edu.pl
+otwartanauka.cel.agh.edu.pl
+orlik.gorn.agh.edu.pl
+olimp197.imir.agh.edu.pl
+asic.ftj.agh.edu.pl
+aethra.kt.agh.edu.pl
+evmgm.agh.edu.pl
+alpha.zarz.agh.edu.pl
+as.wgig.agh.edu.pl
+dt6.adm.agh.edu.pl
+stud213.fis.agh.edu.pl
+www.ecart.agh.edu.pl
+benus.geod.agh.edu.pl
+labstud02.wpie.agh.edu.pl
+kcs3.ceramika.agh.edu.pl
+dhcp053.kt.agh.edu.pl
+kis.agh.edu.pl
+pc245.geol.agh.edu.pl
+jurasz-pc.zarz.agh.edu.pl
+rekrut-8.gorn.agh.edu.pl
+cmat37.mat.agh.edu.pl
+servis3.mn.agh.edu.pl
+host110-40.fis.agh.edu.pl
+dziek1.ceramika.agh.edu.pl
+dudraf2.imir.agh.edu.pl
+kundelek.metal.agh.edu.pl
+medic.kt.agh.edu.pl
+www.kgos.agh.edu.pl
+mosix.kt.agh.edu.pl
+proj01.gorn.agh.edu.pl
+dhcp-pc203.elektro.agh.edu.pl
+www.nsgeo.agh.edu.pl
+visioner.uci.agh.edu.pl
+wfitj136e.ftj.agh.edu.pl
+kezp.gorn.agh.edu.pl
+agata.mn.agh.edu.pl
+cumulus.geod.agh.edu.pl
+czepiec.geol.agh.edu.pl
+wfitj237e.ftj.agh.edu.pl
+host110-157.fis.agh.edu.pl
+stalow1.metal.agh.edu.pl
+posejdon.kt.agh.edu.pl
+www.kp.agh.edu.pl
+neptune.elektro.agh.edu.pl
+hiszpan.kt.agh.edu.pl
+pcc201.ia.agh.edu.pl
+termia.keiaspe.agh.edu.pl
+mat146.mat.agh.edu.pl
+eds-1a-1ebscohost-1com-1atoz.wbg2.bg.agh.edu.pl
+www.lbs.agh.edu.pl
+mat177.mat.agh.edu.pl
+nat-weaiib8.agh.edu.pl
+ieeexplore.ieee.org.ieee-xplore.wbg2.bg.agh.edu.pl
+max32x.mn.agh.edu.pl
+okic5200np217-dr.zarz.agh.edu.pl
+pawnik-pc.zarz.agh.edu.pl
+nat4.kt.agh.edu.pl
+prgzsp.fis.agh.edu.pl
+ca0-048.ceramika.agh.edu.pl
+schab.imir.agh.edu.pl
+www.uci.agh.edu.pl
+fg-lan.agh.edu.pl
+pcc204.ia.agh.edu.pl
+kinasz.gorn.agh.edu.pl
+cmat60.mat.agh.edu.pl
+mdick.kt.agh.edu.pl
+typo3dev4.uci.agh.edu.pl
+kap-36.imir.agh.edu.pl
+www.bean.agh.edu.pl
+krokus2-6.imir.agh.edu.pl
+wo121.odlew.agh.edu.pl
+los.geol.agh.edu.pl
+samba.uci.agh.edu.pl
+ca0-045.ceramika.agh.edu.pl
+wo42.odlew.agh.edu.pl
+nat-wggios10.agh.edu.pl
+twoje-dev.uci.agh.edu.pl
+test182.kt.agh.edu.pl
+dhcp186.kt.agh.edu.pl
+journals.bg.agh.edu.pl
+ola.geod.agh.edu.pl
+idec.gorn.agh.edu.pl
+wfitj191e.ftj.agh.edu.pl
+node12.kt.agh.edu.pl
+lochan1.gorn.agh.edu.pl
+wnssp6.ins.agh.edu.pl
+link-1springer-1com-1nyztljd20073.wbg2.bg.agh.edu.pl
+kw3.kwestura.agh.edu.pl
+http.galaxy.agh.edu.pl
+wgig.dznet.agh.edu.pl
+ftp.agh.edu.pl
+p316.ket.agh.edu.pl
+pc134.kme.agh.edu.pl
+pc6.wibro.agh.edu.pl
+tango.metal.agh.edu.pl
+welcome.agh.edu.pl
+kmpig.geol.agh.edu.pl
+oleksy.imir.agh.edu.pl
+migacz.ia.agh.edu.pl
+imir.agh.edu.pl
+ca0-061.ceramika.agh.edu.pl
+mat166.mat.agh.edu.pl
+lumifun.ftj.agh.edu.pl
+www.kckizw.ceramika.agh.edu.pl
+ca0-077.ceramika.agh.edu.pl
+doblak.wpie.agh.edu.pl
+www.iisg.agh.edu.pl
+dsnet.agh.edu.pl
+wnssp9.ins.agh.edu.pl
+www.kotg.agh.edu.pl
+lab07.gorn.agh.edu.pl
+www.dimat2004.agh.edu.pl
+www-1ingentaconnect-1com-1atoz.wbg2.bg.agh.edu.pl
+ca0-051.ceramika.agh.edu.pl
+dt0.adm.agh.edu.pl
+enos.agh.edu.pl
+www.ofss.agh.edu.pl
+ds18.unifi.dsnet.agh.edu.pl
+sendzimir.metal.agh.edu.pl
+mat172.mat.agh.edu.pl
+a3-02.gorn.agh.edu.pl
+cb6-180.ceramika.agh.edu.pl
+test199.kt.agh.edu.pl
+kawon2.mn.agh.edu.pl
+labes1.ket.agh.edu.pl
+mops043.uci.agh.edu.pl
+k-320-15.imir.agh.edu.pl
+lmsdemo.wibro.agh.edu.pl
+tadwoj.zee.agh.edu.pl
+host109-94.fis.agh.edu.pl
+ka110.ia.agh.edu.pl
+wo98.odlew.agh.edu.pl
+lm10.ia.agh.edu.pl
+wdsku.lab.ki.agh.edu.pl
+kct30.ceramika.agh.edu.pl
+iza.geod.agh.edu.pl
+antek.metal.agh.edu.pl
+lidia.ia.agh.edu.pl
+taler.imir.agh.edu.pl
+ca0-046.ceramika.agh.edu.pl
+idub.agh.edu.pl
+www.acri2014.agh.edu.pl
+bogus.mn.agh.edu.pl
+www.eh.agh.edu.pl
+atlantis.geod.agh.edu.pl
+www.gfe.agh.edu.pl
+wo70.odlew.agh.edu.pl
+prx-1.ki.agh.edu.pl
+jwojcie.imir.agh.edu.pl
+mops012.uci.agh.edu.pl
+dhcp223.kt.agh.edu.pl
+otto.ket.agh.edu.pl
+mops018.uci.agh.edu.pl
+cb6-195.ceramika.agh.edu.pl
+nat-weaiib18.agh.edu.pl
+mops169.uci.agh.edu.pl
+www-1sciencedirect-1com-18w7w47mp0517.wbg2.bg.agh.edu.pl
+pc20.geol.agh.edu.pl
+isi.agh.edu.pl
+pcc207.ia.agh.edu.pl
+dhcp042.kt.agh.edu.pl
+proj08.gorn.agh.edu.pl
+aq60.ia.agh.edu.pl
+proj05.gorn.agh.edu.pl
+mat247.mat.agh.edu.pl
+biblioteka-3.mn.agh.edu.pl
+krzyzano.metal.agh.edu.pl
+syllabusnowy2.uci.agh.edu.pl
+sklepik.agh.edu.pl
+kap-62.imir.agh.edu.pl
+b3-12.mn.agh.edu.pl
+cloud.cop.agh.edu.pl
+wo28.odlew.agh.edu.pl
+stawiarz.gorn.agh.edu.pl
+zkc8.ceramika.agh.edu.pl
+furgal.zee.agh.edu.pl
+mes2.mn.agh.edu.pl
+aq25.ia.agh.edu.pl
+kawiory19.wpie.agh.edu.pl
+weklicz.gorn.agh.edu.pl
+wo144.odlew.agh.edu.pl
+www.iday.agh.edu.pl
+alsite1.geol.agh.edu.pl
+www.metalforming.agh.edu.pl
+student1.ceramika.agh.edu.pl
+beam.elektro.agh.edu.pl
+konserwa.cri.agh.edu.pl
+zm241.zmet.agh.edu.pl
+ns.bg.agh.edu.pl
+www.dt.agh.edu.pl
+platan.geod.agh.edu.pl
+cb6-214.ceramika.agh.edu.pl
+sso.pti.agh.edu.pl
+poczta.icsr.agh.edu.pl
+kgg9.gorn.agh.edu.pl
+ogw.kt.agh.edu.pl
+dhcp-pc207.elektro.agh.edu.pl
+www-1degruyter-1com-1000032to090a.wbg2.bg.agh.edu.pl
+powder2.metal.agh.edu.pl
+adamiec.geol.agh.edu.pl
+nat.ds7.agh.edu.pl
+zmb33.ceramika.agh.edu.pl
+www.forti-units.agh.edu.pl
+nowy.weip.agh.edu.pl
+nalepkab.imir.agh.edu.pl
+akrawczyk.geol.agh.edu.pl
+elekt.eaiib.agh.edu.pl
+lsr07.ia.agh.edu.pl
+mn.kt.agh.edu.pl
+kawiory22.wpie.agh.edu.pl
+grodowska.gorn.agh.edu.pl
+ztcios.metal.agh.edu.pl
+asystent4.wpie.agh.edu.pl
+zgg7.geod.agh.edu.pl
+jive.ia.agh.edu.pl
+megastorage.geod.agh.edu.pl
+workvpn.cri.agh.edu.pl
+biblio.ceramika.agh.edu.pl
+opal.geod.agh.edu.pl
+www.ifip2007.agh.edu.pl
+wo85.odlew.agh.edu.pl
+wfitj14e.ftj.agh.edu.pl
+irena.kt.agh.edu.pl
+zmb25.ceramika.agh.edu.pl
+herezy.gorn.agh.edu.pl
+l12.gorn.agh.edu.pl
+kawecki.mn.agh.edu.pl
+tem.mn.agh.edu.pl
+eostrow.imir.agh.edu.pl
+wpie1.wpie.agh.edu.pl
+czyt1.bg.agh.edu.pl
+www.decybel.agh.edu.pl
+www.fis.agh.edu.pl
+sun.imir.agh.edu.pl
+www.wimir.agh.edu.pl
+kap-106.imir.agh.edu.pl
+danol.wpie.agh.edu.pl
+lwm3.imir.agh.edu.pl
+gps3.geod.agh.edu.pl
+mops189.uci.agh.edu.pl
+mat216.mat.agh.edu.pl
+cyklon.ia.agh.edu.pl
+limba16.metal.agh.edu.pl
+ds14.agh.edu.pl
+www.dofs.agh.edu.pl
+dhcp037.kt.agh.edu.pl
+unix386.ktipm.agh.edu.pl
+goscinski.geol.agh.edu.pl
+majewski.geol.agh.edu.pl
+kew.agh.edu.pl
+zaphod.kis.agh.edu.pl
+host110-116.fis.agh.edu.pl
+wfitj239e.ftj.agh.edu.pl
+lagan.geol.agh.edu.pl
+labkan7.ket.agh.edu.pl
+l14.gorn.agh.edu.pl
+www-1cmms-1agh-1edu-1pl-1atoz.wbg2.bg.agh.edu.pl
+cb6-226.ceramika.agh.edu.pl
+viking.metal.agh.edu.pl
+kaja.imir.agh.edu.pl
+kawiory30.wpie.agh.edu.pl
+zalucki.gorn.agh.edu.pl
+dziekanat4-pc.wnaft.agh.edu.pl
+kap-123.imir.agh.edu.pl
+wfitj48a.ftj.agh.edu.pl
+pasimi2.imir.agh.edu.pl
+mops182.uci.agh.edu.pl
+klepta.imir.agh.edu.pl
+p-116-1.keiaspe.agh.edu.pl
+test215.kt.agh.edu.pl
+d17-c2-fslab-vpn.infra.iisg.agh.edu.pl
+stud172.fis.agh.edu.pl
+catalyst2.ftj.agh.edu.pl
+rotunda.wibro.agh.edu.pl
+ps.b1.agh.edu.pl
+s214.gorn.agh.edu.pl
+iudicium6.geod.agh.edu.pl
+etze.agh.edu.pl
+r01.gorn.agh.edu.pl
+saturn.kt.agh.edu.pl
+vpn234.kt.agh.edu.pl
+www.gig.agh.edu.pl
+host109-92.fis.agh.edu.pl
+db2.cel.agh.edu.pl
+stud224.fis.agh.edu.pl
+troll.wibro.agh.edu.pl
+tomgoral.imir.agh.edu.pl
+www.zpk.agh.edu.pl
+kseiuos.imir.agh.edu.pl
+matlab4.uci.agh.edu.pl
+traple-pc.wnaft.agh.edu.pl
+summer-courses.agh.edu.pl
+p119-b1.keiaspe.agh.edu.pl
+www.knmj.zarz.agh.edu.pl
+wpie17.wpie.agh.edu.pl
+www.praca.ck.agh.edu.pl
+stass5.gorn.agh.edu.pl
+dt.kt.agh.edu.pl
+wnss-3c4400.ins.agh.edu.pl
+wnss103.ins.agh.edu.pl
+motorola.ia.agh.edu.pl
+rkrzyzek.geod.agh.edu.pl
+eds-1a-1ebscohost-1com-1s4pnp9fh00bd.wbg2.bg.agh.edu.pl
+wibro-119.imir.agh.edu.pl
+mdp08b.elektro.agh.edu.pl
+krokus179.imir.agh.edu.pl
+seed.agh.edu.pl
+wpie32.wpie.agh.edu.pl
+postaw.geol.agh.edu.pl
+acf.metal.agh.edu.pl
+stud225.fis.agh.edu.pl
+link-1springer-1com-1000032u30418.wbg2.bg.agh.edu.pl
+abakan.geod.agh.edu.pl
+budek.geol.agh.edu.pl
+weip-d4-23.weip.agh.edu.pl
+surfer.geod.agh.edu.pl
+goska.wpie.agh.edu.pl
+mat205.mat.agh.edu.pl
+dhcp36.zee.agh.edu.pl
+krokus145.imir.agh.edu.pl
+iet.agh.edu.pl
+dhcp203.kt.agh.edu.pl
+pcmiue2.imir.agh.edu.pl
+cb6-241.ceramika.agh.edu.pl
+k-322-11.imir.agh.edu.pl
+legal.wibro.agh.edu.pl
+bbb.zarz.agh.edu.pl
+andrzejs.kt.agh.edu.pl
+teneta.b1.agh.edu.pl
+pc6.ins.agh.edu.pl
+ktipm36.ktipm.agh.edu.pl
+mops166.uci.agh.edu.pl
+wfitj209e.ftj.agh.edu.pl
+nat-v1.agh.edu.pl
+straz6.adm.agh.edu.pl
+newton2.ftj.agh.edu.pl
+s301.geod.agh.edu.pl
+jamat.geol.agh.edu.pl
+oragh.agh.edu.pl
+storm.metal.agh.edu.pl
+host110-158.fis.agh.edu.pl
+max.gorn.agh.edu.pl
+l08.gorn.agh.edu.pl
+ds6.unifi.dsnet.agh.edu.pl
+cb6-201.ceramika.agh.edu.pl
+stud155.fis.agh.edu.pl
+zawisza-pc.wnaft.agh.edu.pl
+beata.metal.agh.edu.pl
+mops089.uci.agh.edu.pl
+gpr.geod.agh.edu.pl
+pc144.kme.agh.edu.pl
+dhcp193.kt.agh.edu.pl
+kcs32.ceramika.agh.edu.pl
+nat-vl56.agh.edu.pl
+wfitj94e.ftj.agh.edu.pl
+kgps.gorn.agh.edu.pl
+wfitj49a.ftj.agh.edu.pl
+marylka.geod.agh.edu.pl
+urss3.urss.agh.edu.pl
+krokus2-3.imir.agh.edu.pl
+matlab2.uci.agh.edu.pl
+minitower.elektro.agh.edu.pl
+host110-82.fis.agh.edu.pl
+stass10.gorn.agh.edu.pl
+autocad.fundacja.agh.edu.pl
+wfitj31e.ftj.agh.edu.pl
+wfitj229e.ftj.agh.edu.pl
+csci.iisg.agh.edu.pl
+mops031.uci.agh.edu.pl
+ola.gorn.agh.edu.pl
+ciesla.metal.agh.edu.pl
+bbiel.gorn.agh.edu.pl
+www.em2014.agh.edu.pl
+drukarka.elektro.agh.edu.pl
+zm214.zmet.agh.edu.pl
+virt.kt.agh.edu.pl
+ceo.eportfolio.agh.edu.pl
+kw5.kwestura.agh.edu.pl
+zgg6.geod.agh.edu.pl
+wo51.odlew.agh.edu.pl
+turnia15.metal.agh.edu.pl
+zts47.ia.agh.edu.pl
+swagh.geol.agh.edu.pl
+stud209.fis.agh.edu.pl
+edi.gorn.agh.edu.pl
+res.imir.agh.edu.pl
+wimir-253.imir.agh.edu.pl
+ns1.ki.agh.edu.pl
+cyborg.ia.agh.edu.pl
+sor.doktoranci.agh.edu.pl
+nat-vl61.agh.edu.pl
+www.cp.agh.edu.pl
+lab01.gorn.agh.edu.pl
+aku-bio-rp.wibro.agh.edu.pl
+kap-146.imir.agh.edu.pl
+legal2.wibro.agh.edu.pl
+hp4600.zet.agh.edu.pl
+olimp13.imir.agh.edu.pl
+pc2.ins.agh.edu.pl
+guru-mob.metal.agh.edu.pl
+erydan.fis.agh.edu.pl
+zts56.ia.agh.edu.pl
+autodiscover.agh.edu.pl
+www.swietadzieciom.agh.edu.pl
+dhcp086.kt.agh.edu.pl
+halas.agh.edu.pl
+fatkitten.fis.agh.edu.pl
+kosmo.zarz.agh.edu.pl
+obrzut-pc.zarz.agh.edu.pl
+stud216.fis.agh.edu.pl
+kier.mn.agh.edu.pl
+kozarkiewicz-pc.zarz.agh.edu.pl
+stud245.fis.agh.edu.pl
+cheo.elektro.agh.edu.pl
+scanning.mn.agh.edu.pl
+zgg52.geod.agh.edu.pl
+cieplin.gorn.agh.edu.pl
+feniks.zarz.agh.edu.pl
+mops037.uci.agh.edu.pl
+wfitj78e.ftj.agh.edu.pl
+docs.icsr.agh.edu.pl
+zmb4.ceramika.agh.edu.pl
+www.hs.zarz.agh.edu.pl
+wpie13.wpie.agh.edu.pl
+sfero.odlew.agh.edu.pl
+ca0-024.ceramika.agh.edu.pl
+wfitj224e.ftj.agh.edu.pl
+cynk.mn.agh.edu.pl
+zmb22.ceramika.agh.edu.pl
+gip316a.geod.agh.edu.pl
+www.cd.agh.edu.pl
+proj.dc1-prx-a.infra.ki.agh.edu.pl
+cb6-240.ceramika.agh.edu.pl
+power1.uci.agh.edu.pl
+rez192122.imir.agh.edu.pl
+nat-adm8.agh.edu.pl
+mat189.mat.agh.edu.pl
+hacknarok.eestec.agh.edu.pl
+serwis.ce.agh.edu.pl
+czapkiewicz-pc.zarz.agh.edu.pl
+kgg3.gorn.agh.edu.pl
+tsunami.kaniup.agh.edu.pl
+p-309-1.mn.agh.edu.pl
+fsia3.adm.agh.edu.pl
+ozs.bg.agh.edu.pl
+mat179.mat.agh.edu.pl
+vpn231.kt.agh.edu.pl
+smok.imir.agh.edu.pl
+pcrzasa.kt.agh.edu.pl
+wo103.odlew.agh.edu.pl
+host110-150.fis.agh.edu.pl
+repo.age.agh.edu.pl
+brozyna-pc.zarz.agh.edu.pl
+pc173.kme.agh.edu.pl
+dhcp083.kt.agh.edu.pl
+giacomo.zee.agh.edu.pl
+sudermarcin-pc.zarz.agh.edu.pl
+puszczyk.bg.agh.edu.pl
+andromeda.elektro.agh.edu.pl
+tajchman.gorn.agh.edu.pl
+orion.fis.agh.edu.pl
+www.kse.agh.edu.pl
+www.ze.zarz.agh.edu.pl
+www.skng.agh.edu.pl
+host110-127.fis.agh.edu.pl
+moje.agh.edu.pl
+cmat41.mat.agh.edu.pl
+gandalf.zfcs.agh.edu.pl
+samorzad.ftj.agh.edu.pl
+hobbit.wibro.agh.edu.pl
+weip-d4-21.weip.agh.edu.pl
+weip-d4-60.weip.agh.edu.pl
+galas.geol.agh.edu.pl
+ca0-042.ceramika.agh.edu.pl
+piotr.wibro.agh.edu.pl
+wo43.odlew.agh.edu.pl
+ca0-036.ceramika.agh.edu.pl
+mrowka.zmet.agh.edu.pl
+es.agh.edu.pl
+ktipm27.ktipm.agh.edu.pl
+milab4.wibro.agh.edu.pl
+www.ksaf.agh.edu.pl
+ncisc.agh.edu.pl
+lic-srv-2.wnaft.agh.edu.pl
+majka.metal.agh.edu.pl
+zm243.zmet.agh.edu.pl
+ricohp112.zarz.agh.edu.pl
+wpie6.wpie.agh.edu.pl
+simdb.odlew.agh.edu.pl
+sylwia.gorn.agh.edu.pl
+journals-1bg-1agh-1edu-1pl-100003218020d.wbg2.bg.agh.edu.pl
+cicha.geol.agh.edu.pl
+krokus187.imir.agh.edu.pl
+cb6-174.ceramika.agh.edu.pl
+pc143.ket.agh.edu.pl
+www.mtm.agh.edu.pl
+szafir.wibro.agh.edu.pl
+karbon.wpie.agh.edu.pl
+pc202.bg.agh.edu.pl
+dhcp151.kt.agh.edu.pl
+gemini-1.fis.agh.edu.pl
+frodo.wibro.agh.edu.pl
+telesfor.ftj.agh.edu.pl
+stud164.fis.agh.edu.pl
+servis2.mn.agh.edu.pl
+krokus190.imir.agh.edu.pl
+mat251.mat.agh.edu.pl
+zm227.zmet.agh.edu.pl
+herzig.geol.agh.edu.pl
+lab.d17.iisg.agh.edu.pl
+habdank.ket.agh.edu.pl
+mail.bg.agh.edu.pl
+kca16.ceramika.agh.edu.pl
+bojdys.geol.agh.edu.pl
+test207.kt.agh.edu.pl
+wpie38.wpie.agh.edu.pl
+www.managerial.zarz.agh.edu.pl
+dhcp0113.kt.agh.edu.pl
+host110-180.fis.agh.edu.pl
+krokosz.geol.agh.edu.pl
+dt1-voip.adm.agh.edu.pl
+studium24.sjo.agh.edu.pl
+bromowicz.geol.agh.edu.pl
+black.mn.agh.edu.pl
+slonce3.ket.agh.edu.pl
+adm-ms.agh.edu.pl
+kpwpl.mn.agh.edu.pl
+www.oksgeo.agh.edu.pl
+zmb21.ceramika.agh.edu.pl
+wmsg15.gorn.agh.edu.pl
+biggulip.elektro.agh.edu.pl
+ksiazkie.elektro.agh.edu.pl
+autel.metal.agh.edu.pl
+wo55.odlew.agh.edu.pl
+kowalik.geod.agh.edu.pl
+netsrv.kt.agh.edu.pl
+wnss16u.ins.agh.edu.pl
+majer.zet.agh.edu.pl
+nb-jkd.kt.agh.edu.pl
+zts35.ia.agh.edu.pl
+ie5.ket.agh.edu.pl
+kap-131.imir.agh.edu.pl
+wimir-236.imir.agh.edu.pl
+host110-141.fis.agh.edu.pl
+zegar.zet.agh.edu.pl
+www.biuletyn.agh.edu.pl
+ptfit-1sgp-1geodezja-1org-1pl-1atoz.wbg2.bg.agh.edu.pl
+rexrtr.ia.agh.edu.pl
+hp4350parter.kt.agh.edu.pl
+moon.ia.agh.edu.pl
+szary.mn.agh.edu.pl
+kawiory33.wpie.agh.edu.pl
+herkules.fis.agh.edu.pl
+stud239.fis.agh.edu.pl
+wo35.odlew.agh.edu.pl
+cirrus.elektro.agh.edu.pl
+wfitj16e.ftj.agh.edu.pl
+rekrutacja.ins.agh.edu.pl
+snopko.gorn.agh.edu.pl
+lpa-ka.metal.agh.edu.pl
+webhd.agh.edu.pl
+nat-sjo3.agh.edu.pl
+dyplom.kt.agh.edu.pl
+host110-124.fis.agh.edu.pl
+cyklop.ia.agh.edu.pl
+wkr1.weip.agh.edu.pl
+wo50.odlew.agh.edu.pl
+kuleczka.imir.agh.edu.pl
+dhcp-pc186.elektro.agh.edu.pl
+wfitj102e.ftj.agh.edu.pl
+iepiwn0.ket.agh.edu.pl
+wfitj113e.ftj.agh.edu.pl
+walex.geol.agh.edu.pl
+kl.kt.agh.edu.pl
+ubpo.agh.edu.pl
+l17.gorn.agh.edu.pl
+kse15.ceramika.agh.edu.pl
+malgosia.wpie.agh.edu.pl
+cb6-168.ceramika.agh.edu.pl
+lj2100.cri.agh.edu.pl
+nat-wggios9.agh.edu.pl
+www.solarboat.agh.edu.pl
+d17-proxy.iisg.agh.edu.pl
+lontalk.ia.agh.edu.pl
+wfitj165e.ftj.agh.edu.pl
+www.wpw.agh.edu.pl
+wfitj143e.ftj.agh.edu.pl
+basiam.metal.agh.edu.pl
+tchrobak.geod.agh.edu.pl
+kamila.metal.agh.edu.pl
+polisy.dwz.agh.edu.pl
+kse16.ceramika.agh.edu.pl
+kazan.metal.agh.edu.pl
+mint.fis.agh.edu.pl
+monolit.metal.agh.edu.pl
+web.icsr.agh.edu.pl
+dtphost.mn.agh.edu.pl
+wnssczyt1.ins.agh.edu.pl
+wo120.odlew.agh.edu.pl
+mops022.uci.agh.edu.pl
+lx1.geol.agh.edu.pl
+labstud05.wpie.agh.edu.pl
+host109-95.fis.agh.edu.pl
+mops111.uci.agh.edu.pl
+jczaja.geod.agh.edu.pl
+lasocki.geol.agh.edu.pl
+www-1sciencedirect-1com-18w7w47jl1084.wbg2.bg.agh.edu.pl
+wmsg8.gorn.agh.edu.pl
+wfitj120e.ftj.agh.edu.pl
+wfitj36e.ftj.agh.edu.pl
+dhcp-pc205.elektro.agh.edu.pl
+blog.iaeste.agh.edu.pl
+zurek.geol.agh.edu.pl
+wfitj129e.ftj.agh.edu.pl
+admin1.fis.agh.edu.pl
+ktipm18.ktipm.agh.edu.pl
+pcc221.ia.agh.edu.pl
+poczta.regent.uci.agh.edu.pl
+p117-b1.keiaspe.agh.edu.pl
+stratus.geod.agh.edu.pl
+test247.kt.agh.edu.pl
+backup.kt.agh.edu.pl
+www.poczta.regent.uci.agh.edu.pl
+proj12.gorn.agh.edu.pl
+weip-d4-47.weip.agh.edu.pl
+www-1sciencedirect-1com-1000032i3035b.wbg2.bg.agh.edu.pl
+rentgen.geol.agh.edu.pl
+adrian.metal.agh.edu.pl
+energet1.metal.agh.edu.pl
+test176.kt.agh.edu.pl
+mops124.uci.agh.edu.pl
+lab13h2-b1.keiaspe.agh.edu.pl
+kfurman.imir.agh.edu.pl
+jkons2.metal.agh.edu.pl
+cnap.ki.agh.edu.pl
+nat-vl106.agh.edu.pl
+host109-99.fis.agh.edu.pl
+journals-1ametsoc-1org-1wos.wbg2.bg.agh.edu.pl
+ibl6.ics.agh.edu.pl
+pcc213.ia.agh.edu.pl
+mobil2.geod.agh.edu.pl
+ka73.ia.agh.edu.pl
+kcs35.ceramika.agh.edu.pl
+sdts.ia.agh.edu.pl
+ceenes.cri.agh.edu.pl
+jmk.gorn.agh.edu.pl
+vpn228.kt.agh.edu.pl
+rejestracje.usos.agh.edu.pl
+bis.agh.edu.pl
+pliker.dsnet.agh.edu.pl
+wmsg18.gorn.agh.edu.pl
+ds8.agh.edu.pl
+szydlo-pc.zarz.agh.edu.pl
+cb6-190.ceramika.agh.edu.pl
+kap-113.imir.agh.edu.pl
+www.zkk.agh.edu.pl
+kingeli.wpie.agh.edu.pl
+ca0-072.ceramika.agh.edu.pl
+weip-d4-25.weip.agh.edu.pl
+new.keiaspe.agh.edu.pl
+mops165.uci.agh.edu.pl
+zmb11.ceramika.agh.edu.pl
+bosman.zet.agh.edu.pl
+k-322-9.imir.agh.edu.pl
+rogozik-pc.zarz.agh.edu.pl
+wfitj47e.ftj.agh.edu.pl
+wfitj146e.ftj.agh.edu.pl
+regulski.metal.agh.edu.pl
+cb6-154.ceramika.agh.edu.pl
+mops069.uci.agh.edu.pl
+wmsg30.gorn.agh.edu.pl
+zm226.zmet.agh.edu.pl
+kppmmn1.mn.agh.edu.pl
+applelab.kis.agh.edu.pl
+kmg-155.imir.agh.edu.pl
+electra.elektro.agh.edu.pl
+przewoz.wibro.agh.edu.pl
+conaslaczy.agh.edu.pl
+arch.cr.agh.edu.pl
+emix.cri.agh.edu.pl
+aq14.ia.agh.edu.pl
+mops084.uci.agh.edu.pl
+dsdfe.agh.edu.pl
+doc2.mn.agh.edu.pl
+stass12.gorn.agh.edu.pl
+kap-09.imir.agh.edu.pl
+host110-90.fis.agh.edu.pl
+kruk.geod.agh.edu.pl
+tniedoba.gorn.agh.edu.pl
+kap-08.imir.agh.edu.pl
+mops006.uci.agh.edu.pl
+wmsg32.gorn.agh.edu.pl
+wfitj117e.ftj.agh.edu.pl
+cmat30.mat.agh.edu.pl
+ciember.metal.agh.edu.pl
+dou2.adm.agh.edu.pl
+jakub.mn.agh.edu.pl
+pc37.zfcs.agh.edu.pl
+mat202.mat.agh.edu.pl
+ggios.geol.agh.edu.pl
+elpe.zee.agh.edu.pl
+lab513-pc2.elektro.agh.edu.pl
+pc2.geol.agh.edu.pl
+nat-glk.ki.agh.edu.pl
+wo142.odlew.agh.edu.pl
+zo.kt.agh.edu.pl
+pw.agh.edu.pl
+www.neuromet.agh.edu.pl
+mops081.uci.agh.edu.pl
+www.zis.agh.edu.pl
+nat-vl194.agh.edu.pl
+hal.geod.agh.edu.pl
+proj10.gorn.agh.edu.pl
+p686zpe.zfcs.agh.edu.pl
+wfitj205e.ftj.agh.edu.pl
+feniks.fis.agh.edu.pl
+www.kpk.agh.edu.pl
+wmsg38.gorn.agh.edu.pl
+www.wgi2016.agh.edu.pl
+pracfiz3.ftj.agh.edu.pl
+vpn251.kt.agh.edu.pl
+dou11.adm.agh.edu.pl
+host110-212.fis.agh.edu.pl
+proj03.gorn.agh.edu.pl
+mops087.uci.agh.edu.pl
+kulinow2.imir.agh.edu.pl
+zfcscatalyst.zfcs.agh.edu.pl
+stud113.fis.agh.edu.pl
+zgg57.geod.agh.edu.pl
+unitime.agh.edu.pl
+nat-weaiib15.agh.edu.pl
+pw.ket.agh.edu.pl
+ultra1.geol.agh.edu.pl
+kernel.agh.edu.pl
+deja.gorn.agh.edu.pl
+pijar.mn.agh.edu.pl
+labkostek2.ket.agh.edu.pl
+mops063.uci.agh.edu.pl
+aq2.ia.agh.edu.pl
+kap-105.imir.agh.edu.pl
+test160.kt.agh.edu.pl
+mts.wibro.agh.edu.pl
+wfitj230e.ftj.agh.edu.pl
+pcmaderska.kt.agh.edu.pl
+sura.gorn.agh.edu.pl
+wfitj81e.ftj.agh.edu.pl
+wo143.odlew.agh.edu.pl
+jowisz.imir.agh.edu.pl
+b4.sdb.agh.edu.pl
+teleinformatyka.kt.agh.edu.pl
+www.dni-hoborskiego.agh.edu.pl
+pc70.bg.agh.edu.pl
+kolano1.imir.agh.edu.pl
+wnss16t.ins.agh.edu.pl
+ktipm14.ktipm.agh.edu.pl
+www.iwogl2016.agh.edu.pl
+cb6-163.ceramika.agh.edu.pl
+crimson.kt.agh.edu.pl
+wfitj175e.ftj.agh.edu.pl
+www.hindawi.com.atoz.wbg2.bg.agh.edu.pl
+demo5.ftj.agh.edu.pl
+pc176.kme.agh.edu.pl
+wimiip.dznet.agh.edu.pl
+www.icses2016.agh.edu.pl
+weip-d4-38.weip.agh.edu.pl
+zanzibar.geod.agh.edu.pl
+kap.agh.edu.pl
+poczta.geod.agh.edu.pl
+kca8.ceramika.agh.edu.pl
+pc116.zfcs.agh.edu.pl
+dhcp156.kt.agh.edu.pl
+lata.imir.agh.edu.pl
+mat190.mat.agh.edu.pl
+typo3dev3.uci.agh.edu.pl
+vpn225.kt.agh.edu.pl
+donelek.metal.agh.edu.pl
+vtls.bg.agh.edu.pl
+tlen.geod.agh.edu.pl
+pcminer.geol.agh.edu.pl
+jaskow.gorn.agh.edu.pl
+delta.keiaspe.agh.edu.pl
+dou7.adm.agh.edu.pl
+www.mine.agh.edu.pl
+catalyst.fis.agh.edu.pl
+www.zpr.zarz.agh.edu.pl
+meteo.ftj.agh.edu.pl
+chemia.odlew.agh.edu.pl
+wnssp11.ins.agh.edu.pl
+raczka.gorn.agh.edu.pl
+www.heat2014.agh.edu.pl
+bw.imir.agh.edu.pl
+mops177.uci.agh.edu.pl
+ds11.unifi.dsnet.agh.edu.pl
+link.springer.com.atoz.wbg2.bg.agh.edu.pl
+edyta.imir.agh.edu.pl
+www.bibt.agh.edu.pl
+lab.bg.agh.edu.pl
+k-322-3.imir.agh.edu.pl
+kostek308.ket.agh.edu.pl
+olimp31.imir.agh.edu.pl
+jkbmobile.mn.agh.edu.pl
+alumina1.mn.agh.edu.pl
+stud247.fis.agh.edu.pl
+ada.mn.agh.edu.pl
+zm200.zmet.agh.edu.pl
+zm205.zmet.agh.edu.pl
+mops155.uci.agh.edu.pl
+mat226.mat.agh.edu.pl
+ksp.elektro.agh.edu.pl
+jacek.gorn.agh.edu.pl
+wnss16b.ins.agh.edu.pl
+nat.ds2.agh.edu.pl
+pc163.kme.agh.edu.pl
+www.es.agh.edu.pl
+vm5.uci.agh.edu.pl
+kt.agh.edu.pl
+mops175.uci.agh.edu.pl
+www.wdev.cel.agh.edu.pl
+www.isz.agh.edu.pl
+olimp190.imir.agh.edu.pl
+olimp39.imir.agh.edu.pl
+rekrut1.wnaft.agh.edu.pl
+kap-59.imir.agh.edu.pl
+stud238.fis.agh.edu.pl
+bsoa.ics.agh.edu.pl
+vpn2.zarz.agh.edu.pl
+pcaj.kt.agh.edu.pl
+cam-211.imir.agh.edu.pl
+wfitj208e.ftj.agh.edu.pl
+cb6-230.ceramika.agh.edu.pl
+wo66.odlew.agh.edu.pl
+ktipm20.ktipm.agh.edu.pl
+wmsg7.gorn.agh.edu.pl
+kca2.ceramika.agh.edu.pl
+jszybka.imir.agh.edu.pl
+www.sienkiewiczowka.agh.edu.pl
+test232.kt.agh.edu.pl
+test156.kt.agh.edu.pl
+cmat19.mat.agh.edu.pl
+matrix.zarz.agh.edu.pl
+auth.e-capacit8.cel.agh.edu.pl
+drk217.mn.agh.edu.pl
+crm.ctt.agh.edu.pl
+krokus180.imir.agh.edu.pl
+solinski2.gorn.agh.edu.pl
+mops036.uci.agh.edu.pl
+biuroadm1.weip.agh.edu.pl
+heavy.metal.agh.edu.pl
+www.6ccgt.agh.edu.pl
+kmg-160.imir.agh.edu.pl
+ostrega.gorn.agh.edu.pl
+www.biomat.agh.edu.pl
+karp.gorn.agh.edu.pl
+www.zgloszenie-covid.agh.edu.pl
+host110-200.fis.agh.edu.pl
+cb6-157.ceramika.agh.edu.pl
+mat134.mat.agh.edu.pl
+gawel-pc.zarz.agh.edu.pl
+dhcp-pc200.elektro.agh.edu.pl
+p3nbzpe.zfcs.agh.edu.pl
+lgo.geod.agh.edu.pl
+klapyta.geol.agh.edu.pl
+marcak.geol.agh.edu.pl
+dhcp081.kt.agh.edu.pl
+wimir-004.imir.agh.edu.pl
+kb20.ceramika.agh.edu.pl
+nat.ds11.agh.edu.pl
+test.uci.agh.edu.pl
+lab-1.wibro.agh.edu.pl
+lab-13.mn.agh.edu.pl
+wolak-pc.zarz.agh.edu.pl
+abl3.ics.agh.edu.pl
+discover.bg.agh.edu.pl
+ridus.geod.agh.edu.pl
+dhcp209.kt.agh.edu.pl
+monitoring.test.dsnet.agh.edu.pl
+cmat12.mat.agh.edu.pl
+rout208.mn.agh.edu.pl
+www.zobaczycmatematyke.agh.edu.pl
+mops113.uci.agh.edu.pl
+wfiis.dznet.agh.edu.pl
+wojtowicz-pc.zarz.agh.edu.pl
+unesco.agh.edu.pl
+icsr.agh.edu.pl
+test155.kt.agh.edu.pl
+biocyb.ia.agh.edu.pl
+www.kt.agh.edu.pl
+wo21.odlew.agh.edu.pl
+wfitj189e.ftj.agh.edu.pl
+zm242.zmet.agh.edu.pl
+faisrv.fis.agh.edu.pl
+mat228.mat.agh.edu.pl
+wo63.odlew.agh.edu.pl
+www.rury-wmn.agh.edu.pl
+www.oska2016.agh.edu.pl
+host110-88.fis.agh.edu.pl
+agh-rditt-www.map.infra.ki.agh.edu.pl
+stud167.fis.agh.edu.pl
+www.ce.agh.edu.pl
+kpb-056.imir.agh.edu.pl
+www.odlewnictwo.agh.edu.pl
+wfitj59e.ftj.agh.edu.pl
+wfitj52e.ftj.agh.edu.pl
+monika.elektro.agh.edu.pl
+kamerah24.b1.agh.edu.pl
+krawiec.imir.agh.edu.pl
+pegaz.fis.agh.edu.pl
+pustka-11.imir.agh.edu.pl
+www.ia.agh.edu.pl
+wolkowska-pc.wnaft.agh.edu.pl
+p386zpe.zfcs.agh.edu.pl
+b3-komp12.zet.agh.edu.pl
+ktrtr.kt.agh.edu.pl
+ca0-030.ceramika.agh.edu.pl
+journals.uci.agh.edu.pl
+falcon.ket.agh.edu.pl
+pracfiz1.ftj.agh.edu.pl
+lr6.ia.agh.edu.pl
+cmat13.mat.agh.edu.pl
+rainbow.ftj.agh.edu.pl
+ns1.agh.edu.pl
+mondan.wpie.agh.edu.pl
+eaiib.agh.edu.pl
+dhcp148.kt.agh.edu.pl
+kawon3.mn.agh.edu.pl
+cam-220.imir.agh.edu.pl
+active3.elektro.agh.edu.pl
+rigaku.mn.agh.edu.pl
+blues.ia.agh.edu.pl
+wpie39.wpie.agh.edu.pl
+maciol-pc.zarz.agh.edu.pl
+supel.imir.agh.edu.pl
+ds9.unifi.dsnet.agh.edu.pl
+host110-85.fis.agh.edu.pl
+cb6-242.ceramika.agh.edu.pl
+aq20.ia.agh.edu.pl
+wfitj148e.ftj.agh.edu.pl
+lwm1.imir.agh.edu.pl
+l04.gorn.agh.edu.pl
+tofik.ket.agh.edu.pl
+www.ics.agh.edu.pl
+nat-adm7.agh.edu.pl
+bahranowski.geol.agh.edu.pl
+host110-146.fis.agh.edu.pl
+thebe.keiaspe.agh.edu.pl
+cb6-130.ceramika.agh.edu.pl
+akademik.test.dsnet.agh.edu.pl
+kca12.ceramika.agh.edu.pl
+www.dss.agh.edu.pl
+b3biuro2.wpie.agh.edu.pl
+zm203.zmet.agh.edu.pl
+www.klub.zarz.agh.edu.pl
+pokoj4.mn.agh.edu.pl
+studium16.sjo.agh.edu.pl
+www.elte2007.agh.edu.pl
+pldlab5.elektro.agh.edu.pl
+olimp.metal.agh.edu.pl
+lic-srv-1.wnaft.agh.edu.pl
+www.sibud.zarz.agh.edu.pl
+wfitj196e.ftj.agh.edu.pl
+zasoby1.open.agh.edu.pl
+mdp05b.elektro.agh.edu.pl
+jaszczur.imir.agh.edu.pl
+ka.mailing.agh.edu.pl
+wnss16j.ins.agh.edu.pl
+www.cyfra.zarz.agh.edu.pl
+halat.gorn.agh.edu.pl
+wo148.odlew.agh.edu.pl
+wpie20.wpie.agh.edu.pl
+krokus169.imir.agh.edu.pl
+www.wgigpower35.agh.edu.pl
+ipsk.geod.agh.edu.pl
+tulip.ki.agh.edu.pl
+s102.geod.agh.edu.pl
+weip-d4-33.weip.agh.edu.pl
+cmat24.mat.agh.edu.pl
+olimp193.imir.agh.edu.pl
+mops024.uci.agh.edu.pl
+historiatest.uci.agh.edu.pl
+kap-64.imir.agh.edu.pl
+wfitj76e.ftj.agh.edu.pl
+dhcp196.kt.agh.edu.pl
+mjg.wibro.agh.edu.pl
+kca20.ceramika.agh.edu.pl
+cb6-246.ceramika.agh.edu.pl
+weip-d4-51.weip.agh.edu.pl
+dhcp-pc194.elektro.agh.edu.pl
+mops003.uci.agh.edu.pl
+zm247.zmet.agh.edu.pl
+alvis.kis.agh.edu.pl
+www.miag.agh.edu.pl
+pclason.kt.agh.edu.pl
+abeben.imir.agh.edu.pl
+viking.wibro.agh.edu.pl
+pc95.zfcs.agh.edu.pl
+mat130.mat.agh.edu.pl
+www.esm2018.agh.edu.pl
+hp2100.ftj.agh.edu.pl
+wpedziek6.wpie.agh.edu.pl
+krokus138.imir.agh.edu.pl
+kmiw.imir.agh.edu.pl
+dhcp051.kt.agh.edu.pl
+zg-nt.wnaft.agh.edu.pl
+stmet07.metal.agh.edu.pl
+cirrus.geod.agh.edu.pl
+charon.kis.agh.edu.pl
+energet2.metal.agh.edu.pl
+turnia3.metal.agh.edu.pl
+sdr.kt.agh.edu.pl
+kb4.ceramika.agh.edu.pl
+ec8.cel.agh.edu.pl
+pomost.fis.agh.edu.pl
+wimic.dznet.agh.edu.pl
+mops001.uci.agh.edu.pl
+vm.pti.agh.edu.pl
+mich106.metal.agh.edu.pl
+mops034.uci.agh.edu.pl
+geotermia.agh.edu.pl
+nautilus.ia.agh.edu.pl
+brukselka.elektro.agh.edu.pl
+dhcp207.kt.agh.edu.pl
+pc32.zfcs.agh.edu.pl
+kmcip.agh.edu.pl
+witek.wibro.agh.edu.pl
+nat-adm4.agh.edu.pl
+link.springer.com.springer.wbg2.bg.agh.edu.pl
+ca0-069.ceramika.agh.edu.pl
+zm201.zmet.agh.edu.pl
+host110-144.fis.agh.edu.pl
+dou9.adm.agh.edu.pl
+dhcp090.kt.agh.edu.pl
+tplink.metal.agh.edu.pl
+age.iisg.agh.edu.pl
+www.podroze.agh.edu.pl
+halny.ia.agh.edu.pl
+saruman.wibro.agh.edu.pl
+support.fslab.agh.edu.pl
+projekt.ipbk.agh.edu.pl
+pc144.ket.agh.edu.pl
+wo9.odlew.agh.edu.pl
+idm-apps-lb.ki.agh.edu.pl
+diament.agh.edu.pl
+volt.zet.agh.edu.pl
+boss.geod.agh.edu.pl
+ola.mn.agh.edu.pl
+5-p118b-b1.keiaspe.agh.edu.pl
+mops147.uci.agh.edu.pl
+cb6-196.ceramika.agh.edu.pl
+mat160.mat.agh.edu.pl
+rafi.kt.agh.edu.pl
+irys.kwestura.agh.edu.pl
+k-210-09.imir.agh.edu.pl
+ag.metal.agh.edu.pl
+mops104.uci.agh.edu.pl
+www.zsbpo.zarz.agh.edu.pl
+lbpr2.mn.agh.edu.pl
+pc56.zfcs.agh.edu.pl
+mes8.mn.agh.edu.pl
+www.zj.zarz.agh.edu.pl
+kmpm.agh.edu.pl
+dhcp0100.kt.agh.edu.pl
+cb6-203.ceramika.agh.edu.pl
+cmat38.mat.agh.edu.pl
+www-1pgi-1gov-1pl-1000032tb1031.wbg2.bg.agh.edu.pl
+labkan8.ket.agh.edu.pl
+mat139.mat.agh.edu.pl
+henryk.mn.agh.edu.pl
+mops052.uci.agh.edu.pl
+wfitj178e.ftj.agh.edu.pl
+test.usos.agh.edu.pl
+stmet10.metal.agh.edu.pl
+moodle.cel.agh.edu.pl
+www.sylabuskrk.agh.edu.pl
+ka77.ia.agh.edu.pl
+www.gaee.agh.edu.pl
+kct7.ceramika.agh.edu.pl
+agh-rditt.map.infra.ki.agh.edu.pl
+cb6-228.ceramika.agh.edu.pl
+www.syllabuskrk.agh.edu.pl
+ca.elp.agh.edu.pl
+nimbus.geod.agh.edu.pl
+victor.gorn.agh.edu.pl
+netten.cri.agh.edu.pl
+wpie7.wpie.agh.edu.pl
+wdm1.kt.agh.edu.pl
+pc06.zfcs.agh.edu.pl
+wum.uci.agh.edu.pl
+wpie34.wpie.agh.edu.pl
+dyduch-pc.zarz.agh.edu.pl
+www.con.agh.edu.pl
+a3-11.gorn.agh.edu.pl
+dhcp0115.kt.agh.edu.pl
+krokus2-15.imir.agh.edu.pl
+nok.ia.agh.edu.pl
+babel.cel.agh.edu.pl
+wo145.odlew.agh.edu.pl
+molski.imir.agh.edu.pl
+www.wozpi.agh.edu.pl
+mat155.mat.agh.edu.pl
+krokus168.imir.agh.edu.pl
+asystent3.wpie.agh.edu.pl
+necronomiconlo.ia.agh.edu.pl
+cam-223.imir.agh.edu.pl
+www2.geod.agh.edu.pl
+b3-komp11.zet.agh.edu.pl
+ca0-027.ceramika.agh.edu.pl
+pc7.wibro.agh.edu.pl
+www.ibm.agh.edu.pl
+wpie14.wpie.agh.edu.pl
+endline.agh.edu.pl
+hprtr.imir.agh.edu.pl
+lux.uci.agh.edu.pl
+krput.uci.agh.edu.pl
+msdn.wnaft.agh.edu.pl
+banas.gorn.agh.edu.pl
+zts49.ia.agh.edu.pl
+stud149.fis.agh.edu.pl
+lab404i.ia.agh.edu.pl
+wms.dznet.agh.edu.pl
+szewczyk.geol.agh.edu.pl
+host110-64.fis.agh.edu.pl
+mkrapiec.geol.agh.edu.pl
+linard.wibro.agh.edu.pl
+pc110.zfcs.agh.edu.pl
+ica110-a0.agh.edu.pl
+szlaban-b4.adm.agh.edu.pl
+k-320-4.imir.agh.edu.pl
+dhcp7.zet.agh.edu.pl
+lab.iisg.agh.edu.pl
+wladek.gorn.agh.edu.pl
+nat-vl57.agh.edu.pl
+pcmiue14.imir.agh.edu.pl
+mat192.mat.agh.edu.pl
+sites.dsnet.agh.edu.pl
+wo146.odlew.agh.edu.pl
+slc1.geol.agh.edu.pl
+ktipm44.ktipm.agh.edu.pl
+stats.upel.agh.edu.pl
+pc-jkd.kt.agh.edu.pl
+mops038.uci.agh.edu.pl
+calibrate.kt.agh.edu.pl
+rez192124.imir.agh.edu.pl
+kse6.ceramika.agh.edu.pl
+fenix.wibro.agh.edu.pl
+krokus2-12.imir.agh.edu.pl
+ela.geod.agh.edu.pl
+kcs46.ceramika.agh.edu.pl
+wmastej.geol.agh.edu.pl
+test140.kt.agh.edu.pl
+wfitj215e.ftj.agh.edu.pl
+mat163.mat.agh.edu.pl
+mapped.cel.agh.edu.pl
+ilon4.ia.agh.edu.pl
+samstu1.imir.agh.edu.pl
+mat229.mat.agh.edu.pl
+orion-109.fis.agh.edu.pl
+studium21.sjo.agh.edu.pl
+kasia.geod.agh.edu.pl
+p3g.b1.agh.edu.pl
+dhcp061.kt.agh.edu.pl
+wfitj75e.ftj.agh.edu.pl
+vpn.fslab.agh.edu.pl
+zabierz.geod.agh.edu.pl
+mat149.mat.agh.edu.pl
+wibro-114.imir.agh.edu.pl
+mobile.ceramika.agh.edu.pl
+dhcp206.kt.agh.edu.pl
+weip-d4-57.weip.agh.edu.pl
+basiura-pc.zarz.agh.edu.pl
+bon.dznet.agh.edu.pl
+mercury.geod.agh.edu.pl
+prymon-pc.zarz.agh.edu.pl
+www.kadra.zarz.agh.edu.pl
+webmail.bg.agh.edu.pl
+dhcp-pc197.elektro.agh.edu.pl
+labserv.kt.agh.edu.pl
+wpie36.wpie.agh.edu.pl
+alumina2.mn.agh.edu.pl
+ionserwer2.adm.agh.edu.pl
+stud141.fis.agh.edu.pl
+d17-jagular.infra.iisg.agh.edu.pl
+www.wrss.eaiib.agh.edu.pl
+mops016.uci.agh.edu.pl
+wo73.odlew.agh.edu.pl
+psv-serw.mn.agh.edu.pl
+apd.usos.agh.edu.pl
+nat-wggios6.agh.edu.pl
+zin1.geol.agh.edu.pl
+cb6-248.ceramika.agh.edu.pl
+jvc-1sagepub-1com-1atoz.wbg2.bg.agh.edu.pl
+wibro-117.imir.agh.edu.pl
+gip311c.geod.agh.edu.pl
+ca0-005.ceramika.agh.edu.pl
+ecctd03.zet.agh.edu.pl
+iwaniec.wibro.agh.edu.pl
+ewaru.mn.agh.edu.pl
+pc171.ket.agh.edu.pl
+host110-62.fis.agh.edu.pl
+iac3gate.ia.agh.edu.pl
+www.edi.agh.edu.pl
+wakacje.agh.edu.pl
+www.wszechswiat.agh.edu.pl
+wfitj13e.ftj.agh.edu.pl
+ftjrtr.fis.agh.edu.pl
+marian2.gorn.agh.edu.pl
+kap-07.imir.agh.edu.pl
+wfitj118e.ftj.agh.edu.pl
+transportgazu.agh.edu.pl
+amonit.kt.agh.edu.pl
+st7.gorn.agh.edu.pl
+host110-177.fis.agh.edu.pl
+www.e-control.agh.edu.pl
+www.icses2008.agh.edu.pl
+stud226.fis.agh.edu.pl
+www.tem.agh.edu.pl
+pc-oper1.geol.agh.edu.pl
+ktipm39.ktipm.agh.edu.pl
+gpib.ket.agh.edu.pl
+adsorp.wpie.agh.edu.pl
+ka82.ia.agh.edu.pl
+luczak.gorn.agh.edu.pl
+pc193.keiaspe.agh.edu.pl
+bpawlow.metal.agh.edu.pl
+jarzyna.geol.agh.edu.pl
+ksaf.agh.edu.pl
+laboratoria.agh.edu.pl
+zcop.agh.edu.pl
+nat-wiet2.agh.edu.pl
+cieplo-b5.adm.agh.edu.pl
+wfitj111e.ftj.agh.edu.pl
+pracfiz9.ftj.agh.edu.pl
+hp3005-kffs.ftj.agh.edu.pl
+www.eeagrants.agh.edu.pl
+www.agsh.agh.edu.pl
+ca0-052.ceramika.agh.edu.pl
+piechota.gorn.agh.edu.pl
+test151.kt.agh.edu.pl
+staff.kis.agh.edu.pl
+b2-kor0-1.imir.agh.edu.pl
+vm3.uci.agh.edu.pl
+anna.mn.agh.edu.pl
+scholar-1google-1com-1000032d700c5.wbg2.bg.agh.edu.pl
+epreweda.geod.agh.edu.pl
+wo159.odlew.agh.edu.pl
+a1400.metal.agh.edu.pl
+pc8.ins.agh.edu.pl
+potter.ceramika.agh.edu.pl
+adam.elektro.agh.edu.pl
+vpn.ki.agh.edu.pl
+www.nucleus.agh.edu.pl
+lab308-2.elektro.agh.edu.pl
+dhcp-pc199.elektro.agh.edu.pl
+pc7.geol.agh.edu.pl
+ns.wrss.eaiib.agh.edu.pl
+studium7.sjo.agh.edu.pl
+cb6-162.ceramika.agh.edu.pl
+stud148.fis.agh.edu.pl
+klimkiewicz-pc.zarz.agh.edu.pl
+ftjrtr.ftj.agh.edu.pl
+pc24.zfcs.agh.edu.pl
+mobile.ia.agh.edu.pl
+rejestr3.adm.agh.edu.pl
+bona.geod.agh.edu.pl
+ww-h15.keiaspe.agh.edu.pl
+host110-162.fis.agh.edu.pl
+www.kaniup.agh.edu.pl
+host110-91.fis.agh.edu.pl
+krokus129.imir.agh.edu.pl
+lsr08.ia.agh.edu.pl
+voce.imir.agh.edu.pl
+gcegla.wpie.agh.edu.pl
+wmsg31.gorn.agh.edu.pl
+eportfolio.agh.edu.pl
+gospodarczyk.imir.agh.edu.pl
+porterniac4.geod.agh.edu.pl
+gerall.metal.agh.edu.pl
+dhcp208.kt.agh.edu.pl
+stud154.fis.agh.edu.pl
+lab404a.ia.agh.edu.pl
+aristo.keiaspe.agh.edu.pl
+zsro-druk.elektro.agh.edu.pl
+kap-22.imir.agh.edu.pl
+wisla.imir.agh.edu.pl
+kap-49.imir.agh.edu.pl
+nat-weaiib11.agh.edu.pl
+confluence.iisg.agh.edu.pl
+b3-14.mn.agh.edu.pl
+beck-pc.zarz.agh.edu.pl
+marvin.kis.agh.edu.pl
+www.skpan.agh.edu.pl
+cmat50.mat.agh.edu.pl
+kct12.ceramika.agh.edu.pl
+zm194.zmet.agh.edu.pl
+eestec.agh.edu.pl
+brozek.gorn.agh.edu.pl
+ca0-080.ceramika.agh.edu.pl
+kaskomp.metal.agh.edu.pl
+host110-94.fis.agh.edu.pl
+zabierow.wpie.agh.edu.pl
+lr10.ia.agh.edu.pl
+pc117.ia.agh.edu.pl
+spacetech.agh.edu.pl
+stadnik.metal.agh.edu.pl
+stud207.fis.agh.edu.pl
+cb6-199.ceramika.agh.edu.pl
+rejest-kamer.zarz.agh.edu.pl
+misio.fis.agh.edu.pl
+bg251.bg.agh.edu.pl
+antoniuk.geol.agh.edu.pl
+pc244.geol.agh.edu.pl
+mat212.mat.agh.edu.pl
+wbg2.bg.agh.edu.pl
+www.epqu2020.agh.edu.pl
+pc34.zfcs.agh.edu.pl
+krysia.geod.agh.edu.pl
+usdir.agh.edu.pl
+hp2015dnp217-dr.zarz.agh.edu.pl
+kpb-058.imir.agh.edu.pl
+mat161.mat.agh.edu.pl
+labes2.ket.agh.edu.pl
+turnia1.metal.agh.edu.pl
+amx-ni3100.gorn.agh.edu.pl
+wa214.wibro.agh.edu.pl
+evolutus.icsr.agh.edu.pl
+lr11.ia.agh.edu.pl
+ka83.ia.agh.edu.pl
+intr.icsr.agh.edu.pl
+cb6-231.ceramika.agh.edu.pl
+http.forti-units.agh.edu.pl
+mk.ia.agh.edu.pl
+lab06.gorn.agh.edu.pl
+publ.dc1-prx-b.infra.ki.agh.edu.pl
+kckizw.ceramika.agh.edu.pl
+fsia2.adm.agh.edu.pl
+www-1biomat-1krakow-1pl-1nd8ak8wr0133.wbg2.bg.agh.edu.pl
+servis0.mn.agh.edu.pl
+host110-227.fis.agh.edu.pl
+dragon.imir.agh.edu.pl
+p106-a2.mn.agh.edu.pl
+jarkan.ket.agh.edu.pl
+isolib.cri.agh.edu.pl
+matrix.keiaspe.agh.edu.pl
+ca0-028.ceramika.agh.edu.pl
+pc42.zfcs.agh.edu.pl
+wpiewmech.wpie.agh.edu.pl
+bbb.fotogrametria.agh.edu.pl
+dep4test.agh.edu.pl
+stud237.fis.agh.edu.pl
+wnssczyt5.ins.agh.edu.pl
+wfitj35e.ftj.agh.edu.pl
+test235.kt.agh.edu.pl
+koi3.fis.agh.edu.pl
+host110-59.fis.agh.edu.pl
+kolaczko.metal.agh.edu.pl
+zeus.kt.agh.edu.pl
+wibro-118.imir.agh.edu.pl
+centurion.zarz.agh.edu.pl
+pc45.zfcs.agh.edu.pl
+test204.kt.agh.edu.pl
+soltys.gorn.agh.edu.pl
+mops027.uci.agh.edu.pl
+mops112.uci.agh.edu.pl
+wfitj161e.ftj.agh.edu.pl
+wardas.geol.agh.edu.pl
+abl2.ics.agh.edu.pl
+zeus.zarz.agh.edu.pl
+dt11.adm.agh.edu.pl
+pc136.kme.agh.edu.pl
+marcin.elektro.agh.edu.pl
+filipowicz-pc.zarz.agh.edu.pl
+wmsg23.gorn.agh.edu.pl
+a1.geod.agh.edu.pl
+galaxy.ftj.agh.edu.pl
+stass2.gorn.agh.edu.pl
+dhcp142.kt.agh.edu.pl
+aga.wibro.agh.edu.pl
+regent.uci.agh.edu.pl
+powietrze.agh.edu.pl
+kasia.gorn.agh.edu.pl
+wfitj251e.ftj.agh.edu.pl
+p216-1.mn.agh.edu.pl
+dziek2.ceramika.agh.edu.pl
+wfitj149e.ftj.agh.edu.pl
+rejestr1.adm.agh.edu.pl
+nat-weaiib14.agh.edu.pl
+pc121.ia.agh.edu.pl
+prymus.metal.agh.edu.pl
+kcs28.ceramika.agh.edu.pl
+nemezis.metal.agh.edu.pl
+snet.geol.agh.edu.pl
+henr.zet.agh.edu.pl
+cb6-251.ceramika.agh.edu.pl
+mat239.mat.agh.edu.pl
+dbc2.cel.agh.edu.pl
+p1g.b1.agh.edu.pl
+hpcp352np217-dr.zarz.agh.edu.pl
+wfitj34e.ftj.agh.edu.pl
+ktipm21.ktipm.agh.edu.pl
+www.dominium.zarz.agh.edu.pl
+host110-152.fis.agh.edu.pl
+www.ua.agh.edu.pl
+wo117.odlew.agh.edu.pl
+cmat49.mat.agh.edu.pl
+studium1.sjo.agh.edu.pl
+www.bg.agh.edu.pl
+www.unesco.agh.edu.pl
+wydawnictwo.agh.edu.pl
+mforest.elektro.agh.edu.pl
+winid-pc.wnaft.agh.edu.pl
+echelon.ia.agh.edu.pl
+janrus.geod.agh.edu.pl
+magiera.geol.agh.edu.pl
+minolta.wpie.agh.edu.pl
+k-210-06.imir.agh.edu.pl
+lbsh8.ia.agh.edu.pl
+sloty-proxy.bpp.agh.edu.pl
+woman.ktipm.agh.edu.pl
+zaljan.wibro.agh.edu.pl
+stud208.fis.agh.edu.pl
+lachowicz.gramatyka7.agh.edu.pl
+kap-139.imir.agh.edu.pl
+kpput.agh.edu.pl
+cam-217.imir.agh.edu.pl
+k-322-4.imir.agh.edu.pl
+acer.geod.agh.edu.pl
+host110-170.fis.agh.edu.pl
+russian.elektro.agh.edu.pl
+lsise-notebook.zee.agh.edu.pl
+wfitj12e.ftj.agh.edu.pl
+wfitj46a.ftj.agh.edu.pl
+kurcz.metal.agh.edu.pl
+rs.keiaspe.agh.edu.pl
+kb12.ceramika.agh.edu.pl
+limba10.metal.agh.edu.pl
+zts58.ia.agh.edu.pl
+xnn.ics.agh.edu.pl
+viola.metal.agh.edu.pl
+lab-09.mn.agh.edu.pl
+dtest.uci.agh.edu.pl
+mops149.uci.agh.edu.pl
+yoda.ia.agh.edu.pl
+www.zkios.agh.edu.pl
+git.age.agh.edu.pl
+a3-01.gorn.agh.edu.pl
+wfitj198e.ftj.agh.edu.pl
+turnia10.metal.agh.edu.pl
+host110-211.fis.agh.edu.pl
+teczke-pc.zarz.agh.edu.pl
+kawiory18.wpie.agh.edu.pl
+cmat1.mat.agh.edu.pl
+prosecco.agh.edu.pl
+dhcp078.kt.agh.edu.pl
+wmsg25.gorn.agh.edu.pl
+wnssp115.ins.agh.edu.pl
+dt9.adm.agh.edu.pl
+tornado.ia.agh.edu.pl
+www.ldap.agh.edu.pl
+ktrtr.agh.edu.pl
+newton.fis.agh.edu.pl
+igf.wggios.agh.edu.pl
+mdp01a.elektro.agh.edu.pl
+matlab1.uci.agh.edu.pl
+wojtek-komputer.elektro.agh.edu.pl
+aq29.ia.agh.edu.pl
+host110-202.fis.agh.edu.pl
+milenin.metal.agh.edu.pl
+justyna.geod.agh.edu.pl
+k-320-10.imir.agh.edu.pl
+pc71.zfcs.agh.edu.pl
+aq8.ia.agh.edu.pl
+wfitj50e.ftj.agh.edu.pl
+kameraz2-2.adm.agh.edu.pl
+amach.keiaspe.agh.edu.pl
+wrss.eaiib.agh.edu.pl
+vpn232.kt.agh.edu.pl
+dpilch.imir.agh.edu.pl
+ca0-055.ceramika.agh.edu.pl
+pc55.zfcs.agh.edu.pl
+gurgul-pc.zarz.agh.edu.pl
+fotogrametria.agh.edu.pl
+zm233.zmet.agh.edu.pl
+pc165.kme.agh.edu.pl
+symsel.agh.edu.pl
+testowyplan4.agh.edu.pl
+basen.agh.edu.pl
+vmw7.ftj.agh.edu.pl
+indra.metal.agh.edu.pl
+lbws03.gorn.agh.edu.pl
+mdp07a.elektro.agh.edu.pl
+crystal.ket.agh.edu.pl
+sparrow.keiaspe.agh.edu.pl
+www.shader.agh.edu.pl
+ckagh4.adm.agh.edu.pl
+weip-d4-30.weip.agh.edu.pl
+limba13.metal.agh.edu.pl
+kct27.ceramika.agh.edu.pl
+wo44.odlew.agh.edu.pl
+weip-d4-22.weip.agh.edu.pl
+gafcio.imir.agh.edu.pl
+dhcp38.zee.agh.edu.pl
+weip-d4-56.weip.agh.edu.pl
+karwat.imir.agh.edu.pl
+fm.kis.agh.edu.pl
+lbsh2.ia.agh.edu.pl
+cam-215.imir.agh.edu.pl
+dedal.zarz.agh.edu.pl
+ivta.icsr.agh.edu.pl
+lab404f.ia.agh.edu.pl
+bibl-geol.geol.agh.edu.pl
+mat168.mat.agh.edu.pl
+ctt.mn.agh.edu.pl
+mdaszcz.zee.agh.edu.pl
+tosia.mn.agh.edu.pl
+sala3-pc.wnaft.agh.edu.pl
+pomykala.gorn.agh.edu.pl
+zasoby.open.agh.edu.pl
+wmctest.agh.edu.pl
+aragorn.wibro.agh.edu.pl
+l03.gorn.agh.edu.pl
+wfitj26e.ftj.agh.edu.pl
+zm230.zmet.agh.edu.pl
+www.caloria.agh.edu.pl
+basiak.metal.agh.edu.pl
+nat-wwnig7.agh.edu.pl
+fg2.adm.agh.edu.pl
+www.detonator.agh.edu.pl
+pldlab4.elektro.agh.edu.pl
+odziewa.imir.agh.edu.pl
+krokus175.imir.agh.edu.pl
+zmb20.ceramika.agh.edu.pl
+www.econgeol.agh.edu.pl
+virtweb.zarz.agh.edu.pl
+warsztat.eaiib.agh.edu.pl
+ipnet.agh.edu.pl
+stalow7.metal.agh.edu.pl
+pcc222.ia.agh.edu.pl
+wkr2.weip.agh.edu.pl
+cs2018.fis.agh.edu.pl
+mat233.mat.agh.edu.pl
+pp2.geod.agh.edu.pl
+jarek.metal.agh.edu.pl
+zm202.zmet.agh.edu.pl
+stud248.fis.agh.edu.pl
+labog05.wpie.agh.edu.pl
+pk217d.mn.agh.edu.pl
+ckagh5.adm.agh.edu.pl
+cb6-151.ceramika.agh.edu.pl
+ca0-047.ceramika.agh.edu.pl
+kktz.imir.agh.edu.pl
+hp3005-kffs.fis.agh.edu.pl
+evet2edu.cel.agh.edu.pl
+www.pelab.agh.edu.pl
+dhcp063.kt.agh.edu.pl
+zts55.ia.agh.edu.pl
+kamera-a1.gorn.agh.edu.pl
+tom.mn.agh.edu.pl
+vsm.ket.agh.edu.pl
+tyka.imir.agh.edu.pl
+kocanda.elektro.agh.edu.pl
+dhcp56.zee.agh.edu.pl
+dt10.adm.agh.edu.pl
+kcs39.ceramika.agh.edu.pl
+pracfiz4.ftj.agh.edu.pl
+dhcp221.kt.agh.edu.pl
+dhcp182.kt.agh.edu.pl
+nat-sjo2.agh.edu.pl
+mops066.uci.agh.edu.pl
+lankosz.imir.agh.edu.pl
+www-1mdpi-1com-1000032ex11e6.wbg2.bg.agh.edu.pl
+dziekanat5-pc.wnaft.agh.edu.pl
+dhcp89.eaiib.agh.edu.pl
+grant1.metal.agh.edu.pl
+mops062.uci.agh.edu.pl
+wfitj177e.ftj.agh.edu.pl
+mailhog.test.dsnet.agh.edu.pl
+sala201.gorn.agh.edu.pl
+milab5.wibro.agh.edu.pl
+www.it-architecture.agh.edu.pl
+host110-240.fis.agh.edu.pl
+pc90.zfcs.agh.edu.pl
+isset2013.agh.edu.pl
+aq13.ia.agh.edu.pl
+east.agh.edu.pl
+wmsnet.mat.agh.edu.pl
+gamma.ics.agh.edu.pl
+hpkel.elektro.agh.edu.pl
+mops090.uci.agh.edu.pl
+mat143.mat.agh.edu.pl
+tvaula.zarz.agh.edu.pl
+galaxy.uci.agh.edu.pl
+preisner-pc.zarz.agh.edu.pl
+boks1.metal.agh.edu.pl
+xorp-110.fis.agh.edu.pl
+ns2.ki.agh.edu.pl
+host110-201.fis.agh.edu.pl
+poczta.adm.agh.edu.pl
+mszm.ia.agh.edu.pl
+upel.agh.edu.pl
+host110-134.fis.agh.edu.pl
+www.zcop.agh.edu.pl
+rejestracja.ka.agh.edu.pl
+www.kmopw.agh.edu.pl
+krokus166.imir.agh.edu.pl
+asia.elektro.agh.edu.pl
+www.cok.agh.edu.pl
+zts44.ia.agh.edu.pl
+ca0-053.ceramika.agh.edu.pl
+sp.keiaspe.agh.edu.pl
+krimnorth.wibro.agh.edu.pl
+p012.ia.agh.edu.pl
+wfitj124e.ftj.agh.edu.pl
+ds12.agh.edu.pl
+homnibus.kt.agh.edu.pl
+walery.imir.agh.edu.pl
+www.studiahumanistyczne.agh.edu.pl
+trafo.kt.agh.edu.pl
+ltx.metal.agh.edu.pl
+rejestracja.agh.edu.pl
+potiopa-pc.zarz.agh.edu.pl
+cb6-218.ceramika.agh.edu.pl
+ds17.agh.edu.pl
+kcs7.ceramika.agh.edu.pl
+wfitj62e.ftj.agh.edu.pl
+wpie10.wpie.agh.edu.pl
+c3sw1.ia.agh.edu.pl
+dhcp0123.kt.agh.edu.pl
+nat-wimip4.agh.edu.pl
+cb6-233.ceramika.agh.edu.pl
+jira.kis.agh.edu.pl
+skolysz.metal.agh.edu.pl
+d1c2950.agh.edu.pl
+zts51.ia.agh.edu.pl
+git.iisg.agh.edu.pl
+d1sw.agh.edu.pl
+pc20.zfcs.agh.edu.pl
+kap-38.imir.agh.edu.pl
+nat-vl202.agh.edu.pl
+chopin.zet.agh.edu.pl
+pc61.zfcs.agh.edu.pl
+host110-76.fis.agh.edu.pl
+pc192.keiaspe.agh.edu.pl
+wfitj77e.ftj.agh.edu.pl
+dhcp4.zet.agh.edu.pl
+kap-10.imir.agh.edu.pl
+zgg5.geod.agh.edu.pl
+test169.kt.agh.edu.pl
+teresam.gorn.agh.edu.pl
+labesx.kt.agh.edu.pl
+diuna.zet.agh.edu.pl
+sylabuskrk.agh.edu.pl
+mops129.uci.agh.edu.pl
+pldlab6.elektro.agh.edu.pl
+host110-19.fis.agh.edu.pl
+dhcp097.kt.agh.edu.pl
+awing.kis.agh.edu.pl
+wenus.wibro.agh.edu.pl
+www.radio17.agh.edu.pl
+wo158.odlew.agh.edu.pl
+krokus134.imir.agh.edu.pl
+lbws04.gorn.agh.edu.pl
+mat204.mat.agh.edu.pl
+mops021.uci.agh.edu.pl
+wo102.odlew.agh.edu.pl
+mops080.uci.agh.edu.pl
+dziekanat-fg1.agh.edu.pl
+mdp05c.elektro.agh.edu.pl
+siudek.metal.agh.edu.pl
+akad.elektro.agh.edu.pl
+mdp10b.elektro.agh.edu.pl
+stud211.fis.agh.edu.pl
+st15.gorn.agh.edu.pl
+podyplomowe.kt.agh.edu.pl
+cd16.adm.agh.edu.pl
+jgalka.ket.agh.edu.pl
+lab513-pc0.elektro.agh.edu.pl
+pc72.zfcs.agh.edu.pl
+hades.wibro.agh.edu.pl
+ds1.agh.edu.pl
+www.kosz.agh.edu.pl
+studium29.sjo.agh.edu.pl
+host110-123.fis.agh.edu.pl
+pawlus.gorn.agh.edu.pl
+rekrut2.wnaft.agh.edu.pl
+zin3.geol.agh.edu.pl
+nat-wwnig2.agh.edu.pl
+wiki.ki.agh.edu.pl
+ops.usos.agh.edu.pl
+test190.kt.agh.edu.pl
+aq28.ia.agh.edu.pl
+wo23.odlew.agh.edu.pl
+szafran.imir.agh.edu.pl
+k-320-9.imir.agh.edu.pl
+k-210-01.imir.agh.edu.pl
+dune.zet.agh.edu.pl
+k-209-09.imir.agh.edu.pl
+mops010.uci.agh.edu.pl
+www.ptmi.agh.edu.pl
+www.bhp.agh.edu.pl
+kap-14.imir.agh.edu.pl
+kme.agh.edu.pl
+gerlach.metal.agh.edu.pl
+sas-pc.zarz.agh.edu.pl
+finanse.zee.agh.edu.pl
+kap-142.imir.agh.edu.pl
+k-320-7.imir.agh.edu.pl
+wentylatornia.zarz.agh.edu.pl
+b3-komp5.zet.agh.edu.pl
+www.kiwon.geol.agh.edu.pl
+pieczka.geol.agh.edu.pl
+proj.dc1-prx-b.infra.ki.agh.edu.pl
+wo31.odlew.agh.edu.pl
+hp5035parter.kt.agh.edu.pl
+ilon1.ia.agh.edu.pl
+www.cop.agh.edu.pl
+podstawy.imir.agh.edu.pl
+wfitj91e.ftj.agh.edu.pl
+xps.kt.agh.edu.pl
+wpie27.wpie.agh.edu.pl
+cb6-166.ceramika.agh.edu.pl
+www.isimiip.agh.edu.pl
+rekrut-4.gorn.agh.edu.pl
+mieszan.gorn.agh.edu.pl
+dhcp048.kt.agh.edu.pl
+mri.ia.agh.edu.pl
+waclawski.gorn.agh.edu.pl
+krokus130.imir.agh.edu.pl
+debian.cri.agh.edu.pl
+usos-prx.ki.agh.edu.pl
+dhcp0124.kt.agh.edu.pl
+zm210.zmet.agh.edu.pl
+st3.gorn.agh.edu.pl
+zgloszenie-covid.agh.edu.pl
+mat175.mat.agh.edu.pl
+lobster.ktipm.agh.edu.pl
+hycner.geod.agh.edu.pl
+krywan.metal.agh.edu.pl
+stefan2.imir.agh.edu.pl
+wfitj186e.ftj.agh.edu.pl
+zhn.kt.agh.edu.pl
+wmsg4.gorn.agh.edu.pl
+kpw75vmr.mn.agh.edu.pl
+ticket.fis.agh.edu.pl
+mziemian.gorn.agh.edu.pl
+www.dok.agh.edu.pl
+dhcp58.zee.agh.edu.pl
+pczh.kt.agh.edu.pl
+www.kkiem.agh.edu.pl
+cala1.gorn.agh.edu.pl
+tarczydlo-pc.zarz.agh.edu.pl
+kcs18.ceramika.agh.edu.pl
+zgg10.geod.agh.edu.pl
+mailgraph.bg.agh.edu.pl
+mat169.mat.agh.edu.pl
+zm240.zmet.agh.edu.pl
+host110-171.fis.agh.edu.pl
+sorp1.wpie.agh.edu.pl
+p-12b.metal.agh.edu.pl
+wnss16o.ins.agh.edu.pl
+syriusz.elektro.agh.edu.pl
+vena.mn.agh.edu.pl
+rpress2.imir.agh.edu.pl
+www.dziekanat.geod.agh.edu.pl
+pc175.kme.agh.edu.pl
+pysiek.metal.agh.edu.pl
+yic2019.agh.edu.pl
+mops138.uci.agh.edu.pl
+baw19.agh.edu.pl
+pcmiue9.imir.agh.edu.pl
+pasimi3.imir.agh.edu.pl
+cb6-209.ceramika.agh.edu.pl
+dhcp199.kt.agh.edu.pl
+ktipm30.ktipm.agh.edu.pl
+cb6-211.ceramika.agh.edu.pl
+smoczek.imir.agh.edu.pl
+www.it-phd-studies.agh.edu.pl
+turkus.geod.agh.edu.pl
+pxi-8196.wibro.agh.edu.pl
+dhcp219.kt.agh.edu.pl
+rezerwa.agh.edu.pl
+biuletynpig-1publisherspanel-1com-1000032s90190.wbg2.bg.agh.edu.pl
+mops.uci.agh.edu.pl
+giewont.metal.agh.edu.pl
+mops054.uci.agh.edu.pl
+mat182.mat.agh.edu.pl
+mariola.gorn.agh.edu.pl
+i460t.wnaft.agh.edu.pl
+stud204.fis.agh.edu.pl
+host110-81.fis.agh.edu.pl
+klaster.agh.edu.pl
+mat236.mat.agh.edu.pl
+kawiory1.wpie.agh.edu.pl
+zm234.zmet.agh.edu.pl
+st2.gorn.agh.edu.pl
+bobulski.geol.agh.edu.pl
+wmsg11.gorn.agh.edu.pl
+fiz-chem.metal.agh.edu.pl
+fut.samorzad.agh.edu.pl
+test209.kt.agh.edu.pl
+regent.agh.edu.pl
+ewa2.imir.agh.edu.pl
+wfitj235e.ftj.agh.edu.pl
+bi2.eaiib.agh.edu.pl
+wpierekrut1.wpie.agh.edu.pl
+wfitj106e.ftj.agh.edu.pl
+nat-weaiib38.agh.edu.pl
+nat-gst2.agh.edu.pl
+dhcp97.kt.agh.edu.pl
+active4.elektro.agh.edu.pl
+skwirek.imir.agh.edu.pl
+aq87.ia.agh.edu.pl
+overko.geod.agh.edu.pl
+weip-d4-20.weip.agh.edu.pl
+pcc210.ia.agh.edu.pl
+mat215.mat.agh.edu.pl
+dt15.adm.agh.edu.pl
+krokus140.imir.agh.edu.pl
+grupanet.agh.edu.pl
+chris.metal.agh.edu.pl
+pasimi0.wibro.agh.edu.pl
+www.mj.zarz.agh.edu.pl
+szajding.metal.agh.edu.pl
+planr.agh.edu.pl
+olgas.geod.agh.edu.pl
+ca0-066.ceramika.agh.edu.pl
+st1.gorn.agh.edu.pl
+dhcp201.kt.agh.edu.pl
+lab106.metal.agh.edu.pl
+krbsrv1.fis.agh.edu.pl
+mops000.uci.agh.edu.pl
+lidis.imir.agh.edu.pl
+b2-302.imir.agh.edu.pl
+kszydlow.geol.agh.edu.pl
+www.geoinf.agh.edu.pl
+10latels.agh.edu.pl
+www.kipo.agh.edu.pl
+mes.imir.agh.edu.pl
+wfitj61e.ftj.agh.edu.pl
+pr-inf6.wibro.agh.edu.pl
+mops095.uci.agh.edu.pl
+xcp.kt.agh.edu.pl
+wmsg28.gorn.agh.edu.pl
+feliks-pc.zarz.agh.edu.pl
+www.wh.agh.edu.pl
+journals-1aps-1org-1000032sv01fa.wbg2.bg.agh.edu.pl
+winntbg.bg.agh.edu.pl
+euro04.ia.agh.edu.pl
+chivas.metal.agh.edu.pl
+marek.metal.agh.edu.pl
+www.wimiip-poig.agh.edu.pl
+solinski3.gorn.agh.edu.pl
+rekrut23.fis.agh.edu.pl
+kca6.ceramika.agh.edu.pl
+vm2.uci.agh.edu.pl
+www.prmr2013.agh.edu.pl
+pcc203.ia.agh.edu.pl
+rysy.metal.agh.edu.pl
+jolap.imir.agh.edu.pl
+capo.iisg.agh.edu.pl
+wnssczyt3.ins.agh.edu.pl
+lipsk210-pc3.zarz.agh.edu.pl
+media-1proquest-1com-1000032to0023.wbg2.bg.agh.edu.pl
+mes1.mn.agh.edu.pl
+pc123.zfcs.agh.edu.pl
+stud170.fis.agh.edu.pl
+wo54.odlew.agh.edu.pl
+wfitj227e.ftj.agh.edu.pl
+www.dsoc.agh.edu.pl
+mops102.uci.agh.edu.pl
+wmsg16.gorn.agh.edu.pl
+techstart.agh.edu.pl
+vsphere83.geod.agh.edu.pl
+wfitj174e.ftj.agh.edu.pl
+tora.gorn.agh.edu.pl
+marszalek.geol.agh.edu.pl
+www.kzfm.fis.agh.edu.pl
+live.cri.agh.edu.pl
+ppd.b1.agh.edu.pl
+winzer.gorn.agh.edu.pl
+kawiory31.wpie.agh.edu.pl
+ceramika.agh.edu.pl
+pc117.zfcs.agh.edu.pl
+taurus.fis.agh.edu.pl
+blackhole.kis.agh.edu.pl
+dhcp-pc183.elektro.agh.edu.pl
+weip-d4-32.weip.agh.edu.pl
+centurion.kt.agh.edu.pl
+hermes.wibro.agh.edu.pl
+majwojna.imir.agh.edu.pl
+warey.ia.agh.edu.pl
+krokus171.imir.agh.edu.pl
+lbws02.gorn.agh.edu.pl
+maternowska-pc.zarz.agh.edu.pl
+www.mse.agh.edu.pl
+acf1.metal.agh.edu.pl
+biblioteka-okr.zarz.agh.edu.pl
+powermac.elektro.agh.edu.pl
+ca0-059.ceramika.agh.edu.pl
+nat-vl103.agh.edu.pl
+smoluchowski.fis.agh.edu.pl
+firek.gorn.agh.edu.pl
+www.wrss.zarz.agh.edu.pl
+cri.typo3dev2.uci.agh.edu.pl
+mat225.mat.agh.edu.pl
+www.zsg.agh.edu.pl
+asiwik.zee.agh.edu.pl
+a2s.agh.edu.pl
+gulipin.imir.agh.edu.pl
+stroj.zee.agh.edu.pl
+stefan.ia.agh.edu.pl
+majta.metal.agh.edu.pl
+ca0-083.ceramika.agh.edu.pl
+waclaw.gorn.agh.edu.pl
+tomek.mn.agh.edu.pl
+lsise-notebook2.zee.agh.edu.pl
+mentor.zarz.agh.edu.pl
+pc15.zfcs.agh.edu.pl
+cb6-236.ceramika.agh.edu.pl
+ipa.kt.agh.edu.pl
+stalow6.metal.agh.edu.pl
+kap-145.imir.agh.edu.pl
+asa121.bg.agh.edu.pl
+cmat2.mat.agh.edu.pl
+mops107.uci.agh.edu.pl
+pc31.zfcs.agh.edu.pl
+stud147.fis.agh.edu.pl
+gdowska-pc.zarz.agh.edu.pl
+iopscience-1iop-1org-1000032bl0491.wbg2.bg.agh.edu.pl
+jason.kis.agh.edu.pl
+k-322-2.imir.agh.edu.pl
+wnssp408.ins.agh.edu.pl
+woli.wibro.agh.edu.pl
+mat213.mat.agh.edu.pl
+cmat34.mat.agh.edu.pl
+k-322-5.imir.agh.edu.pl
+maciek.geod.agh.edu.pl
+e-przetargi.agh.edu.pl
+ka91.ia.agh.edu.pl
+lmk24.geol.agh.edu.pl
+kpb-062.imir.agh.edu.pl
+linksys.b1.agh.edu.pl
+pc183.kme.agh.edu.pl
+anko.mat.agh.edu.pl
+kajot.geol.agh.edu.pl
+dhcp082.kt.agh.edu.pl
+vm10.uci.agh.edu.pl
+debowski.gorn.agh.edu.pl
+pelech-pc.zarz.agh.edu.pl
+weip-d4-36.weip.agh.edu.pl
+vpn236.kt.agh.edu.pl
+www.focus.agh.edu.pl
+dziekanat.odlew.agh.edu.pl
+przemek.geod.agh.edu.pl
+lr7.ia.agh.edu.pl
+buczek.metal.agh.edu.pl
+mops051.uci.agh.edu.pl
+odp.icsr.agh.edu.pl
+wycisk2.mn.agh.edu.pl
+kse7.ceramika.agh.edu.pl
+wezel-mpec-agh.zarz.agh.edu.pl
+cytryna.uci.agh.edu.pl
+mops108.uci.agh.edu.pl
+wfitj11e.ftj.agh.edu.pl
+malem.geol.agh.edu.pl
+wfitj15e.ftj.agh.edu.pl
+wmsg39.gorn.agh.edu.pl
+host110-239.fis.agh.edu.pl
+aq10.ia.agh.edu.pl
+samorzad.fis.agh.edu.pl
+leko.metal.agh.edu.pl
+ca0-068.ceramika.agh.edu.pl
+mat183.mat.agh.edu.pl
+www.tuo.agh.edu.pl
+stud108.fis.agh.edu.pl
+charon1.fis.agh.edu.pl
+host110-166.fis.agh.edu.pl
+c2-420-router.elektro.agh.edu.pl
+bkowal.gorn.agh.edu.pl
+kb19.ceramika.agh.edu.pl
+ie3.ket.agh.edu.pl
+stass9.gorn.agh.edu.pl
+saluga-pc.zarz.agh.edu.pl
+dev-kaib.agh.edu.pl
+jabcon-pc.zarz.agh.edu.pl
+cerber.fis.agh.edu.pl
+naukaitradycje.agh.edu.pl
+www.otwartanauka.cel.agh.edu.pl
+ns2.geod.agh.edu.pl
+zm225.zmet.agh.edu.pl
+kanlab13.keiaspe.agh.edu.pl
+fuksa.gorn.agh.edu.pl
+krokus132.imir.agh.edu.pl
+kielbasa.imir.agh.edu.pl
+nat-wggios12.agh.edu.pl
+dhcp176.kt.agh.edu.pl
+wfitj47a.ftj.agh.edu.pl
+wo186.odlew.agh.edu.pl
+nat-vl121.agh.edu.pl
+geoturystyka.agh.edu.pl
+i-lon2.elektro.agh.edu.pl
+host110-142.fis.agh.edu.pl
+wo25.odlew.agh.edu.pl
+rekrutacja.agh.edu.pl
+cumulus.elektro.agh.edu.pl
+jkulcz.zee.agh.edu.pl
+pr-inf4.wibro.agh.edu.pl
+cirus.zet.agh.edu.pl
+bpb.ceramika.agh.edu.pl
+www.szbi.zarz.agh.edu.pl
+kusmierek.geol.agh.edu.pl
+koi1.fis.agh.edu.pl
+hp2025d5.kt.agh.edu.pl
+lhojna.keiaspe.agh.edu.pl
+st5.gorn.agh.edu.pl
+lab111.metal.agh.edu.pl
+pc172.kme.agh.edu.pl
+ziuta1.imir.agh.edu.pl
+www.erasmusplus.agh.edu.pl
+stud115.fis.agh.edu.pl
+ktipm59.ktipm.agh.edu.pl
+l10.gorn.agh.edu.pl
+aq.ia.agh.edu.pl
+p3s.b1.agh.edu.pl
+marian1.gorn.agh.edu.pl
+rydlew.gorn.agh.edu.pl
+szef-kmg.imir.agh.edu.pl
+rtr109.ftj.agh.edu.pl
+www.zarzadca.zarz.agh.edu.pl
+promocja.agh.edu.pl
+pc13.geol.agh.edu.pl
+www.kis2.zarz.agh.edu.pl
+kamerau2-2.adm.agh.edu.pl
+zts30.ia.agh.edu.pl
+kmg-153.imir.agh.edu.pl
+nimbus.elektro.agh.edu.pl
+szlaban-s2.adm.agh.edu.pl
+ops.dc1-prx-b.infra.ki.agh.edu.pl
+www.dwag.agh.edu.pl
+mat133.mat.agh.edu.pl
+rekrut-5.gorn.agh.edu.pl
+www.nmitb.agh.edu.pl
+nas.ia.agh.edu.pl
+pawul.gorn.agh.edu.pl
+ka89.ia.agh.edu.pl
+rateeat.icsr.agh.edu.pl
+wfitj39e.ftj.agh.edu.pl
+turnia6.metal.agh.edu.pl
+erp.ki.agh.edu.pl
+wfitj212e.ftj.agh.edu.pl
+margo.ia.agh.edu.pl
+servis5.mn.agh.edu.pl
+wo92.odlew.agh.edu.pl
+qoe.kt.agh.edu.pl
+cb6-149.ceramika.agh.edu.pl
+cmat32.mat.agh.edu.pl
+c5p106-pd1-3-14.keiaspe.agh.edu.pl
+www.budownictwo.agh.edu.pl
+nc.ftj.agh.edu.pl
+bb.metal.agh.edu.pl
+krimlab.wibro.agh.edu.pl
+mdp06c.elektro.agh.edu.pl
+fundacja.agh.edu.pl
+aniup117c.keiaspe.agh.edu.pl
+pldlab1.elektro.agh.edu.pl
+alfa.elektro.agh.edu.pl
+wojcik.imir.agh.edu.pl
+klimek.metal.agh.edu.pl
+wfitj90e.ftj.agh.edu.pl
+kb11.ceramika.agh.edu.pl
+jacek.imir.agh.edu.pl
+dhcp202.kt.agh.edu.pl
+nzs.agh.edu.pl
+szyndle.metal.agh.edu.pl
+nat-vl122.agh.edu.pl
+host110-137.fis.agh.edu.pl
+k-209-12.imir.agh.edu.pl
+www.dydaktyka.agh.edu.pl
+phg.b1.agh.edu.pl
+www.kmpan.agh.edu.pl
+lbpr5.mn.agh.edu.pl
+rpress6.imir.agh.edu.pl
+mops117.uci.agh.edu.pl
+iopscience.iop.org.iop-science.wbg2.bg.agh.edu.pl
+zm252.zmet.agh.edu.pl
+machedu3.fis.agh.edu.pl
+vpn241.kt.agh.edu.pl
+adamk.metal.agh.edu.pl
+best.zarz.agh.edu.pl
+wbg4.bg.agh.edu.pl
+wnioski.idub.agh.edu.pl
+1-p118a-b1.keiaspe.agh.edu.pl
+wfitj216e.ftj.agh.edu.pl
+ludka.metal.agh.edu.pl
+syllabus5.uci.agh.edu.pl
+agile.fis.agh.edu.pl
+host110-71.fis.agh.edu.pl
+zts34.ia.agh.edu.pl
+soa.uci.agh.edu.pl
+host110-89.fis.agh.edu.pl
+ns2.agh.edu.pl
+ktipm49.ktipm.agh.edu.pl
+test.wnig.agh.edu.pl
+max.mn.agh.edu.pl
+kwiatek.elektro.agh.edu.pl
+pojdzka.bg.agh.edu.pl
+www.cri.agh.edu.pl
+geoepom.dgn.agh.edu.pl
+sony-pcs.zarz.agh.edu.pl
+k-210-14.imir.agh.edu.pl
+nat-weaiib16.agh.edu.pl
+mops119.uci.agh.edu.pl
+www.trend.zarz.agh.edu.pl
+zm217.zmet.agh.edu.pl
+crm.kt.agh.edu.pl
+dhcp0103.kt.agh.edu.pl
+kap-110.imir.agh.edu.pl
+stud246.fis.agh.edu.pl
+ka81.ia.agh.edu.pl
+zbiegien-pc.zarz.agh.edu.pl
+repo.uci.agh.edu.pl
+pc49.zfcs.agh.edu.pl
+ozana.gorn.agh.edu.pl
+etee.agh.edu.pl
+kap-16.imir.agh.edu.pl
+krokus167.imir.agh.edu.pl
+gnom.wibro.agh.edu.pl
+kap-148.imir.agh.edu.pl
+kawiory6.wpie.agh.edu.pl
+b2-211.imir.agh.edu.pl
+co.bg.agh.edu.pl
+cmat21.mat.agh.edu.pl
+sloty.testament9.uci.agh.edu.pl
+ktipm37.ktipm.agh.edu.pl
+stalow14.metal.agh.edu.pl
+nat.zmet.agh.edu.pl
+neuro-rtr.ceramika.agh.edu.pl
+pc103.zfcs.agh.edu.pl
+ds19.unifi.dsnet.agh.edu.pl
+apps.usos.agh.edu.pl
+mayer.geol.agh.edu.pl
+bip.agh.edu.pl
+www.weip.agh.edu.pl
+ktipm22.ktipm.agh.edu.pl
+ktl-xxx.imir.agh.edu.pl
+vm7.uci.agh.edu.pl
+image-f.geod.agh.edu.pl
+wfitj166e.ftj.agh.edu.pl
+www.chor.agh.edu.pl
+ktipm35.ktipm.agh.edu.pl
+zimowski.imir.agh.edu.pl
+stfortun.imir.agh.edu.pl
+sunny.elektro.agh.edu.pl
+student3.zee.agh.edu.pl
+kolo228.kt.agh.edu.pl
+wojna-pc.wnaft.agh.edu.pl
+wfitj182e.ftj.agh.edu.pl
+engel.wibro.agh.edu.pl
+quark.ket.agh.edu.pl
+pc75.zfcs.agh.edu.pl
+cam-224.imir.agh.edu.pl
+grazyna.elektro.agh.edu.pl
+www.dynamix.agh.edu.pl
+dhcp50.kt.agh.edu.pl
+kalendarz.samorzad.agh.edu.pl
+sigma.gorn.agh.edu.pl
+szyba-pc.zarz.agh.edu.pl
+wpelib.wpie.agh.edu.pl
+pcmiue1.imir.agh.edu.pl
+pc8.wibro.agh.edu.pl
+st13.gorn.agh.edu.pl
+www.mathplay.agh.edu.pl
+lab404g.ia.agh.edu.pl
+nat-vl39.agh.edu.pl
+profil.test.dsnet.agh.edu.pl
+www.dev-cpps.agh.edu.pl
+www.knmss.agh.edu.pl
+zm245.zmet.agh.edu.pl
+pc16.zfcs.agh.edu.pl
+cam-225.imir.agh.edu.pl
+mdp11a.elektro.agh.edu.pl
+adapter.agh.edu.pl
+l02.gorn.agh.edu.pl
+urss1.urss.agh.edu.pl
+gemini.geod.agh.edu.pl
+zubrzycki-pc.wnaft.agh.edu.pl
+host110-160.fis.agh.edu.pl
+pluto.elektro.agh.edu.pl
+test198.kt.agh.edu.pl
+www.sciencedirect.com.atoz.wbg2.bg.agh.edu.pl
+dea.agh.edu.pl
+zgg59.geod.agh.edu.pl
+dhcp214.kt.agh.edu.pl
+mes5.mn.agh.edu.pl
+studium26.sjo.agh.edu.pl
+pcw.imir.agh.edu.pl
+smartenit-y3review.kt.agh.edu.pl
+pc139.kme.agh.edu.pl
+praktyki.zarz.agh.edu.pl
+rumin-pc.zarz.agh.edu.pl
+pc248.geol.agh.edu.pl
+kca22.ceramika.agh.edu.pl
+kct3.ceramika.agh.edu.pl
+samsungp401b-dr.zarz.agh.edu.pl
+balboa.ia.agh.edu.pl
+progress3.ket.agh.edu.pl
+wfitj40e.ftj.agh.edu.pl
+bemol.wibro.agh.edu.pl
+rjablonski.imir.agh.edu.pl
+wfitj190e.ftj.agh.edu.pl
+pegaz.wibro.agh.edu.pl
+kolo227.kt.agh.edu.pl
+wfitj222e.ftj.agh.edu.pl
+kin.wnaft.agh.edu.pl
+pcc200.ia.agh.edu.pl
+cb6-181.ceramika.agh.edu.pl
+datemp.wpie.agh.edu.pl
+ds12.unifi.dsnet.agh.edu.pl
+p415.wpie.agh.edu.pl
+w160548.geod.agh.edu.pl
+kse.agh.edu.pl
+layer-lab.ket.agh.edu.pl
+www.rdi.agh.edu.pl
+stud166.fis.agh.edu.pl
+test187.kt.agh.edu.pl
+foto.ia.agh.edu.pl
+nat-other1.agh.edu.pl
+irc.agh.edu.pl
+www.7ccgt.agh.edu.pl
+baca.ia.agh.edu.pl
+rheo.metal.agh.edu.pl
+www.intcourses.agh.edu.pl
+kl2.geod.agh.edu.pl
+lab404d.ia.agh.edu.pl
+www.oze-day.agh.edu.pl
+ktsipa.ceramika.agh.edu.pl
+sodas1.imir.agh.edu.pl
+lonlab3.elektro.agh.edu.pl
+kb17.ceramika.agh.edu.pl
+olimp32.imir.agh.edu.pl
+testament9.uci.agh.edu.pl
+ifip2007.agh.edu.pl
+dwz.dznet.agh.edu.pl
+kgg13.gorn.agh.edu.pl
+stass3.gorn.agh.edu.pl
+ad.mn.agh.edu.pl
+b3-120.imir.agh.edu.pl
+ostachowski.mn.agh.edu.pl
+limba2.metal.agh.edu.pl
+mops133.uci.agh.edu.pl
+api.uci.agh.edu.pl
+svn.asic.fis.agh.edu.pl
+wpelib2.wpie.agh.edu.pl
+wnssp25.ins.agh.edu.pl
+rekrut-6.gorn.agh.edu.pl
+ds2.agh.edu.pl
+testowyplan.agh.edu.pl
+marzena.mn.agh.edu.pl
+dhcp067.kt.agh.edu.pl
+test208.kt.agh.edu.pl
+nat-wggios4.agh.edu.pl
+stud249.fis.agh.edu.pl
+weip-d4-37.weip.agh.edu.pl
+dhcp068.kt.agh.edu.pl
+journals-1bg-1agh-1edu-1pl-1atoz.wbg2.bg.agh.edu.pl
+dhcp-pc191.elektro.agh.edu.pl
+miasteczko.agh.edu.pl
+kap-150.imir.agh.edu.pl
+pc155.kme.agh.edu.pl
+cel.dysk.agh.edu.pl
+wfitj220e.ftj.agh.edu.pl
+pc94.zfcs.agh.edu.pl
+isp.zarz.agh.edu.pl
+wo147.odlew.agh.edu.pl
+bimloq.ia.agh.edu.pl
+cracovia.elektro.agh.edu.pl
+www.powierzchnia.agh.edu.pl
+w10a.cri.agh.edu.pl
+ktipm45.ktipm.agh.edu.pl
+zts45.ia.agh.edu.pl
+usos.agh.edu.pl
+buba.ia.agh.edu.pl
+pami.agh.edu.pl
+www.kis.zarz.agh.edu.pl
+kisiel.gorn.agh.edu.pl
+asp.geod.agh.edu.pl
+wifi.agh.edu.pl
+kajtek17.gorn.agh.edu.pl
+www.sklep.agh.edu.pl
+wierchy.metal.agh.edu.pl
+krokus186.imir.agh.edu.pl
+bib.mn.agh.edu.pl
+www.tsgb.agh.edu.pl
+zdgpodz.gorn.agh.edu.pl
+term-f.bg.agh.edu.pl
+dhcp191.kt.agh.edu.pl
+dhcp076.kt.agh.edu.pl
+wimir.agh.edu.pl
+srtr.kt.agh.edu.pl
+raporty.bpp.agh.edu.pl
+ctk.agh.edu.pl
+aq3.ia.agh.edu.pl
+host110-38.fis.agh.edu.pl
+mops150.uci.agh.edu.pl
+krokus176.imir.agh.edu.pl
+ieeexplore-1ieee-1org-1atoz.wbg2.bg.agh.edu.pl
+sgulip.elektro.agh.edu.pl
+pracfiz5.ftj.agh.edu.pl
+manfred.geod.agh.edu.pl
+epuniach.geod.agh.edu.pl
+host110-199.fis.agh.edu.pl
+www.embs.agh.edu.pl
+dt14.adm.agh.edu.pl
+dhcp210.kt.agh.edu.pl
+archiwum.plan.agh.edu.pl
+ka79.ia.agh.edu.pl
+la3.ia.agh.edu.pl
+warsztatygi.agh.edu.pl
+fg3.adm.agh.edu.pl
+zmb17.ceramika.agh.edu.pl
+www.bip.agh.edu.pl
+plan1.uci.agh.edu.pl
+www.spdbhp.agh.edu.pl
+cdmaserv.kt.agh.edu.pl
+e-capacit8.cel.agh.edu.pl
+www.ftwtp.fis.agh.edu.pl
+www.szkola.gorn.agh.edu.pl
+host110-57.fis.agh.edu.pl
+www-1biomat-1krakow-1pl-1atoz.wbg2.bg.agh.edu.pl
+lupus.elektro.agh.edu.pl
+host110-133.fis.agh.edu.pl
+link.iisg.agh.edu.pl
+xcm.ics.agh.edu.pl
+www.zet.agh.edu.pl
+rekrut2.zarz.agh.edu.pl
+urss7.urss.agh.edu.pl
+gandalf.zet.agh.edu.pl
+stock.agh.edu.pl
+pszm.ia.agh.edu.pl
+kobo.mn.agh.edu.pl
+krzyszt.gorn.agh.edu.pl
+krokus183.imir.agh.edu.pl
+www.closer.agh.edu.pl
+nbzielin.kt.agh.edu.pl
+slalek.metal.agh.edu.pl
+cmat18.mat.agh.edu.pl
+s303.gorn.agh.edu.pl
+vpn1.zarz.agh.edu.pl
+inzynier.geol.agh.edu.pl
+mat137.mat.agh.edu.pl
+zfcscatalystb.zfcs.agh.edu.pl
+wfitj183e.ftj.agh.edu.pl
+limba9.metal.agh.edu.pl
+dou8.adm.agh.edu.pl
+stud229.fis.agh.edu.pl
+demo1.ftj.agh.edu.pl
+s02baran.imir.agh.edu.pl
+host110-151.fis.agh.edu.pl
+ca0-016.ceramika.agh.edu.pl
+www.warsztatygi.agh.edu.pl
+wfitj176e.ftj.agh.edu.pl
+wfitj195e.ftj.agh.edu.pl
+mts03.gorn.agh.edu.pl
+nat-uci8.agh.edu.pl
+dybiec.mn.agh.edu.pl
+dhcp204.kt.agh.edu.pl
+wfitj194e.ftj.agh.edu.pl
+lonmanager.ia.agh.edu.pl
+www.ieee.agh.edu.pl
+dhcp86.eaiib.agh.edu.pl
+weip-d4-35.weip.agh.edu.pl
+www.sciencedirect.com.ebsco-eds.wbg2.bg.agh.edu.pl
+weip.dznet.agh.edu.pl
+kamila.elektro.agh.edu.pl
+kawalec.gorn.agh.edu.pl
+wnssp18.ins.agh.edu.pl
+active1.elektro.agh.edu.pl
+wimir-251.imir.agh.edu.pl
+host110-92.fis.agh.edu.pl
+fundacjams2.agh.edu.pl
+ca0-013.ceramika.agh.edu.pl
+www.cm.agh.edu.pl
+www.bpp.agh.edu.pl
+www.ubezpieczenia.agh.edu.pl
+xs3.cel.agh.edu.pl
+view.fis.agh.edu.pl
+mts02.gorn.agh.edu.pl
+kanlab7.keiaspe.agh.edu.pl
+bolek.mn.agh.edu.pl
+wfitj27e.ftj.agh.edu.pl
+ehr.geol.agh.edu.pl
+ipm2.agh.edu.pl
+poczta2.agh.edu.pl
+www.doktoranci.agh.edu.pl
+mat234.mat.agh.edu.pl
+bziolko.ket.agh.edu.pl
+codogni-pc.zarz.agh.edu.pl
+dudzic.gorn.agh.edu.pl
+kolo224.kt.agh.edu.pl
+stud206.fis.agh.edu.pl
+edd.ia.agh.edu.pl
+korozja.mn.agh.edu.pl
+pc177.kme.agh.edu.pl
+www.marketing.zarz.agh.edu.pl
+host110-114.fis.agh.edu.pl
+kap-119.imir.agh.edu.pl
+ktl-p1.imir.agh.edu.pl
+host110-194.fis.agh.edu.pl
+wmsg13.gorn.agh.edu.pl
+mielec.agh.edu.pl
+wicher.ia.agh.edu.pl
+dhcp6.zet.agh.edu.pl
+host110-78.fis.agh.edu.pl
+wfitj30e.ftj.agh.edu.pl
+bpp.testament10.uci.agh.edu.pl
+ci.cel.agh.edu.pl
+wfitj20e.ftj.agh.edu.pl
+www.kolarstwo.agh.edu.pl
+mops187.uci.agh.edu.pl
+pc116.ia.agh.edu.pl
+merlin.wibro.agh.edu.pl
+ca0-070.ceramika.agh.edu.pl
+icsadl.agh.edu.pl
+fntg.gorn.agh.edu.pl
+ca0-006.ceramika.agh.edu.pl
+www.usos.agh.edu.pl
+mat152.mat.agh.edu.pl
+p3d.b1.agh.edu.pl
+www.cms.agh.edu.pl
+mtrela-pc.zarz.agh.edu.pl
+www.transnarodowosc.agh.edu.pl
+host109-80.fis.agh.edu.pl
+wnss133b.ins.agh.edu.pl
+kpb-061.imir.agh.edu.pl
+xorp-110.ftj.agh.edu.pl
+news.agh.edu.pl
+limba4.metal.agh.edu.pl
+sylabusy.agh.edu.pl
+dt13.adm.agh.edu.pl
+dhcp-pc209.elektro.agh.edu.pl
+stud169.fis.agh.edu.pl
+host110-208.fis.agh.edu.pl
+wfitj98e.ftj.agh.edu.pl
+manecki.geol.agh.edu.pl
+ie4.ket.agh.edu.pl
+witek-pc.zarz.agh.edu.pl
+piorun.zee.agh.edu.pl
+wolny.metal.agh.edu.pl
+rk.keiaspe.agh.edu.pl
+pc74.zfcs.agh.edu.pl
+intstudies.agh.edu.pl
+cb6-249.ceramika.agh.edu.pl
+www.wpie.agh.edu.pl
+miag.agh.edu.pl
+router-lan109.fis.agh.edu.pl
+host110-238.fis.agh.edu.pl
+wo45.odlew.agh.edu.pl
+kawiory27.wpie.agh.edu.pl
+smartcity.ki.agh.edu.pl
+1-p118b-b1.keiaspe.agh.edu.pl
+arivald.metal.agh.edu.pl
+test175.kt.agh.edu.pl
+www.coemem.agh.edu.pl
+ca0-004.ceramika.agh.edu.pl
+ck.agh.edu.pl
+kse.geol.agh.edu.pl
+power2.agh.edu.pl
+mateusz.metal.agh.edu.pl
+www.sklepik.agh.edu.pl
+test171.kt.agh.edu.pl
+asterix.geod.agh.edu.pl
+kap-138.imir.agh.edu.pl
+www.sing10.zarz.agh.edu.pl
+ssa.eestec.agh.edu.pl
+nat-vl102.agh.edu.pl
+st11.gorn.agh.edu.pl
+ca0-009.ceramika.agh.edu.pl
+adyduch-pc.zarz.agh.edu.pl
+i5os2.fis.agh.edu.pl
+bi3.eaiib.agh.edu.pl
+test.gorn.agh.edu.pl
+wfitj110e.ftj.agh.edu.pl
+aoliinyk-router.wnaft.agh.edu.pl
+golab.metal.agh.edu.pl
+instron.mn.agh.edu.pl
+ktipm19.ktipm.agh.edu.pl
+siwek2.weip.agh.edu.pl
+lab03.gorn.agh.edu.pl
+lgc.kt.agh.edu.pl
+kcs20.ceramika.agh.edu.pl
+ktipm23.ktipm.agh.edu.pl
+dziekanat.geod.agh.edu.pl
+n-ferro2.mn.agh.edu.pl
+lochan2.gorn.agh.edu.pl
+www.grupawzs.agh.edu.pl
+tkargul.metal.agh.edu.pl
+kcs21.ceramika.agh.edu.pl
+monitor.kt.agh.edu.pl
+uo.agh.edu.pl
+www.marka.zarz.agh.edu.pl
+pc167.kme.agh.edu.pl
+www.asisemi.agh.edu.pl
+wibro-111.imir.agh.edu.pl
+wykowska.wibro.agh.edu.pl
+lonworks.ia.agh.edu.pl
+sphinx.ia.agh.edu.pl
+host109-86.fis.agh.edu.pl
+jozszew.geod.agh.edu.pl
+wnssp106a.ins.agh.edu.pl
+beta.ia.agh.edu.pl
+lm4.ia.agh.edu.pl
+aw.metal.agh.edu.pl
+rumian.wpie.agh.edu.pl
+miki.geod.agh.edu.pl
+bartnik.gorn.agh.edu.pl
+mikolaj.zet.agh.edu.pl
+dhcp047.kt.agh.edu.pl
+soundplan.wibro.agh.edu.pl
+ds4.unifi.dsnet.agh.edu.pl
+ergonom.wibro.agh.edu.pl
+dhcp069.kt.agh.edu.pl
+ceramrtr.ceramika.agh.edu.pl
+krawczyk.gorn.agh.edu.pl
+kawiory25.wpie.agh.edu.pl
+pc126.ia.agh.edu.pl
+ca0-079.ceramika.agh.edu.pl
+marek.mn.agh.edu.pl
+kap-127.imir.agh.edu.pl
+pcmiue7.imir.agh.edu.pl
+awa.mat.agh.edu.pl
+djedrzej.metal.agh.edu.pl
+dhcp88.kt.agh.edu.pl
+ftwtp.fis.agh.edu.pl
+witczak.geol.agh.edu.pl
+www.bogdan.agh.edu.pl
+kmg-152.imir.agh.edu.pl
+dudek-pc.zarz.agh.edu.pl
+cb6-167.ceramika.agh.edu.pl
+rejestracja.diament.agh.edu.pl
+dziekanat3-pc.wnaft.agh.edu.pl
+zaoczmn.mn.agh.edu.pl
+bach.elektro.agh.edu.pl
+faisrv.ftj.agh.edu.pl
+rtsg.elektro.agh.edu.pl
+host110-35.fis.agh.edu.pl
+wfitj93e.ftj.agh.edu.pl
+minolta.zet.agh.edu.pl
+serwer.keiaspe.agh.edu.pl
+walec.mn.agh.edu.pl
+cam.wibro.agh.edu.pl
+mat252.mat.agh.edu.pl
+ca0-065.ceramika.agh.edu.pl
+lab10.gorn.agh.edu.pl
+wmsg10.gorn.agh.edu.pl
+mowglie.ket.agh.edu.pl
+mczapkie.ket.agh.edu.pl
+labes3.ket.agh.edu.pl
+stud160.fis.agh.edu.pl
+ha-203.mn.agh.edu.pl
+rekrut24.fis.agh.edu.pl
+gorum.wpie.agh.edu.pl
+old.kt.agh.edu.pl
+dknez.wnaft.agh.edu.pl
+kct8.ceramika.agh.edu.pl
+pingwin.geod.agh.edu.pl
+kair.agh.edu.pl
+proj04.gorn.agh.edu.pl
+pc50.zfcs.agh.edu.pl
+www.kis.agh.edu.pl
+pc113.zfcs.agh.edu.pl
+lr8.ia.agh.edu.pl
+fg-agh.agh.edu.pl
+pasimi1.imir.agh.edu.pl
+przyrbwn-1icm-1edu-1pl-1atoz.wbg2.bg.agh.edu.pl
+host110-179.fis.agh.edu.pl
+historia.agh.edu.pl
+lab404k.ia.agh.edu.pl
+ppm.metal.agh.edu.pl
+host110-203.fis.agh.edu.pl
+krysia.kt.agh.edu.pl
+pks3.gorn.agh.edu.pl
+upsp0.odlew.agh.edu.pl
+krimsouth.wibro.agh.edu.pl
+mat157.mat.agh.edu.pl
+klimkowski.wnaft.agh.edu.pl
+open.agh.edu.pl
+szklarski.ket.agh.edu.pl
+ca0-034.ceramika.agh.edu.pl
+ursus.geol.agh.edu.pl
+www.cn.agh.edu.pl
+wmsg17.gorn.agh.edu.pl
+kcs38.ceramika.agh.edu.pl
+aggr2.detres.kt.agh.edu.pl
+kap-128.imir.agh.edu.pl
+wggios.dznet.agh.edu.pl
+www.skos.agh.edu.pl
+test239.kt.agh.edu.pl
+masz.zee.agh.edu.pl
+wpie11.wpie.agh.edu.pl
+zm196.zmet.agh.edu.pl
+feniks.imir.agh.edu.pl
+ostoja.mn.agh.edu.pl
+nat-adm1.agh.edu.pl
+mops148.uci.agh.edu.pl
+mops049.uci.agh.edu.pl
+czyz-pc.zarz.agh.edu.pl
+login.usos.agh.edu.pl
+metalforming.agh.edu.pl
+dhcp065.kt.agh.edu.pl
+lab404c.ia.agh.edu.pl
+zm229.zmet.agh.edu.pl
+wibrolab.wibro.agh.edu.pl
+mops136.uci.agh.edu.pl
+fluentgambit.gorn.agh.edu.pl
+pcstoch.kt.agh.edu.pl
+mdp06a.elektro.agh.edu.pl
+natanek.gorn.agh.edu.pl
+www.rditt.agh.edu.pl
+ux.agh.edu.pl
+cb6-210.ceramika.agh.edu.pl
+stud151.fis.agh.edu.pl
+www-1mdpi-1com-12vzsevgt05c9.wbg2.bg.agh.edu.pl
+cn.agh.edu.pl
+pubs-1rsc-1org-1000032to0b4d.wbg2.bg.agh.edu.pl
+pbogacz.gorn.agh.edu.pl
+dun.agh.edu.pl
+meteo2.ftj.agh.edu.pl
+kmyczkow.metal.agh.edu.pl
+www.keiaspe.agh.edu.pl
+tkam.wibro.agh.edu.pl
+jarekj.imir.agh.edu.pl
+agentday.agh.edu.pl
+kap-141.imir.agh.edu.pl
+www.demonstracje.agh.edu.pl
+team.kis.agh.edu.pl
+msass.geol.agh.edu.pl
+dell1.geol.agh.edu.pl
+sii.imir.agh.edu.pl
+wnssp10-2.ins.agh.edu.pl
+sorbenty2015.agh.edu.pl
+szeryf.ket.agh.edu.pl
+orlinska-pc.zarz.agh.edu.pl
+b2-307.imir.agh.edu.pl
+grupawzs.agh.edu.pl
+pracfiz0.ftj.agh.edu.pl
+boltzman.ia.agh.edu.pl
+ktipm58.ktipm.agh.edu.pl
+www.etee.agh.edu.pl
+pc118.zfcs.agh.edu.pl
+dziekanat-fg4.agh.edu.pl
+wfitj162e.ftj.agh.edu.pl
+b2gate.imir.agh.edu.pl
+k-320-5.imir.agh.edu.pl
+panel.dsnet.agh.edu.pl
+dhcp195.kt.agh.edu.pl
+mat165.mat.agh.edu.pl
+lab513-pc1.elektro.agh.edu.pl
+www.transportgazu.agh.edu.pl
+msdn.wgig.agh.edu.pl
+drv.kwestura.agh.edu.pl
+skarpeta.best.agh.edu.pl
+pc114.zfcs.agh.edu.pl
+pc77.zfcs.agh.edu.pl
+moteco.kt.agh.edu.pl
+mops059.uci.agh.edu.pl
+wo150.odlew.agh.edu.pl
+la5.ia.agh.edu.pl
+cb6-243.ceramika.agh.edu.pl
+sakwa.agh.edu.pl
+smyrak.mn.agh.edu.pl
+www.firn.agh.edu.pl
+syriusz.imir.agh.edu.pl
+mops064.uci.agh.edu.pl
+lab08-1.mn.agh.edu.pl
+www.eee.agh.edu.pl
+dhcp8.zet.agh.edu.pl
+mat151.mat.agh.edu.pl
+test178.kt.agh.edu.pl
+oleksy.gorn.agh.edu.pl
+nat-weaiib6.agh.edu.pl
+bstawowy-pc.zarz.agh.edu.pl
+pc76.zfcs.agh.edu.pl
+stud152.fis.agh.edu.pl
+matrtr.agh.edu.pl
+chodacki.imir.agh.edu.pl
+www.mafe.agh.edu.pl
+dtk-p3.ia.agh.edu.pl
+tslaptop.ket.agh.edu.pl
+www.rach.zarz.agh.edu.pl
+zmb6.ceramika.agh.edu.pl
+wo131.odlew.agh.edu.pl
+energet4.metal.agh.edu.pl
+uran.kt.agh.edu.pl
+host110-41.fis.agh.edu.pl
+vpn254.kt.agh.edu.pl
+teneta1.ia.agh.edu.pl
+noga.uci.agh.edu.pl
+pcc215.ia.agh.edu.pl
+lex.kwestura.agh.edu.pl
+kameraz2-4.adm.agh.edu.pl
+wnaft-sw-r-02.wnaft.agh.edu.pl
+lab06-4.mn.agh.edu.pl
+zts52.ia.agh.edu.pl
+lm1.ia.agh.edu.pl
+host109-89.fis.agh.edu.pl
+jkonstanty.metal.agh.edu.pl
+cb6-184.ceramika.agh.edu.pl
+www.dwz.agh.edu.pl
+hp4.agh.edu.pl
+dc1-idm-prx.infra.ki.agh.edu.pl
+studium14.sjo.agh.edu.pl
+gemini.elektro.agh.edu.pl
+wfitj199e.ftj.agh.edu.pl
+grant.geod.agh.edu.pl
+wo26.odlew.agh.edu.pl
+pcdomzal.kt.agh.edu.pl
+pc107.zfcs.agh.edu.pl
+szkolenia.informatyka.agh.edu.pl
+stalow8.metal.agh.edu.pl
+microrelay.uci.agh.edu.pl
+pokoj321-dr.zarz.agh.edu.pl
+debosz.imir.agh.edu.pl
+studium9.sjo.agh.edu.pl
+isd.fis.agh.edu.pl
+skarbek.gorn.agh.edu.pl
+kap-54.imir.agh.edu.pl
+brudnik.ket.agh.edu.pl
+universeh.agh.edu.pl
+cmat23.mat.agh.edu.pl
+wnss16h.ins.agh.edu.pl
+uno.gorn.agh.edu.pl
+zgg58.geod.agh.edu.pl
+nowinska-pc.zarz.agh.edu.pl
+pc19.zfcs.agh.edu.pl
+maxwell.elektro.agh.edu.pl
+mklenovo.weip.agh.edu.pl
+emoos.agh.edu.pl
+xeon.ia.agh.edu.pl
+orion.kis.agh.edu.pl
+zk.gorn.agh.edu.pl
+www.embio.agh.edu.pl
+dtyrala.metal.agh.edu.pl
+jeta.imir.agh.edu.pl
+akademiki.agh.edu.pl
+ca0-073.ceramika.agh.edu.pl
+krzys.zarz.agh.edu.pl
+www.icil.zarz.agh.edu.pl
+parnas.ia.agh.edu.pl
+gps4.geod.agh.edu.pl
+machedu1.fis.agh.edu.pl
+zfchpm.metal.agh.edu.pl
+b2-kor1-5.imir.agh.edu.pl
+wfitj214e.ftj.agh.edu.pl
+rybicki.geol.agh.edu.pl
+cjee.agh.edu.pl
+host110-198.fis.agh.edu.pl
+pc174.kme.agh.edu.pl
+wo72.odlew.agh.edu.pl
+dhcp0111.kt.agh.edu.pl
+www.wmiim.agh.edu.pl
+kb16.ceramika.agh.edu.pl
+wmsg24.gorn.agh.edu.pl
+oborg.kis.agh.edu.pl
+tomasz.geol.agh.edu.pl
+kcs1.ceramika.agh.edu.pl
+test203.kt.agh.edu.pl
+mops042.uci.agh.edu.pl
+pc154.kme.agh.edu.pl
+machno-pc.zarz.agh.edu.pl
+jachim-f.geod.agh.edu.pl
+kct10.ceramika.agh.edu.pl
+pc105.zfcs.agh.edu.pl
+ucirtr.agh.edu.pl
+pc164.kme.agh.edu.pl
+d8-806-sambo.ket.agh.edu.pl
+atrynka.wpie.agh.edu.pl
+deathstar.kt.agh.edu.pl
+nt3.geol.agh.edu.pl
+checkmk.iisg.agh.edu.pl
+zetrtr.zet.agh.edu.pl
+krokus173.imir.agh.edu.pl
+samsungm2825p311-dr.zarz.agh.edu.pl
+biblioteka-1.mn.agh.edu.pl
+lab-linux.zee.agh.edu.pl
+lbpr1.mn.agh.edu.pl
+mops163.uci.agh.edu.pl
+serwer7.ktipm.agh.edu.pl
+pc137.kme.agh.edu.pl
+gorski-pc.zarz.agh.edu.pl
+olimp192.imir.agh.edu.pl
+vpn.kt.agh.edu.pl
+stud232.fis.agh.edu.pl
+www.ltpmn-poig.agh.edu.pl
+test192.kt.agh.edu.pl
+mdp05a.elektro.agh.edu.pl
+www.fut.samorzad.agh.edu.pl
+iopscience-1iop-1org-1000032xr063e.wbg2.bg.agh.edu.pl
+nat.ds9.agh.edu.pl
+mdp12b.elektro.agh.edu.pl
+zgg55.geod.agh.edu.pl
+bazyli.imir.agh.edu.pl
+www.qcw2020.agh.edu.pl
+kw1.kwestura.agh.edu.pl
+wyt1.imir.agh.edu.pl
+skos.agh.edu.pl
+nat-vl37.agh.edu.pl
+pc99.zfcs.agh.edu.pl
+nat-vl118.agh.edu.pl
+mercury.elektro.agh.edu.pl
+kap-37.imir.agh.edu.pl
+geofizyk.geol.agh.edu.pl
+www.zp.zarz.agh.edu.pl
+www-1tandfonline-1com-1atoz.wbg2.bg.agh.edu.pl
+www.msad.zarz.agh.edu.pl
+gemini-2.fis.agh.edu.pl
+cb6-198.ceramika.agh.edu.pl
+cb6-247.ceramika.agh.edu.pl
+alfa.keiaspe.agh.edu.pl
+host110-205.fis.agh.edu.pl
+www.doktoraty.iet.agh.edu.pl
+switch4.wnaft.agh.edu.pl
+www-1scientific-1net-1000032e90f79.wbg2.bg.agh.edu.pl
+pc74.bg.agh.edu.pl
+wo58.odlew.agh.edu.pl
+nat-wggiis4.agh.edu.pl
+kap-52.imir.agh.edu.pl
+ktipm53.ktipm.agh.edu.pl
+zin2.geol.agh.edu.pl
+wmsg37.gorn.agh.edu.pl
+lbsh3.ia.agh.edu.pl
+www.difrea08.agh.edu.pl
+molenda.geol.agh.edu.pl
+pedro.zee.agh.edu.pl
+kap-19.imir.agh.edu.pl
+ikar.zarz.agh.edu.pl
+www.cs.agh.edu.pl
+kap-31.imir.agh.edu.pl
+kalukiewicz-pc.zarz.agh.edu.pl
+nat-vl108.agh.edu.pl
+kct13.ceramika.agh.edu.pl
+www.nit.agh.edu.pl
+journals.bg.agh.edu.pl.atoz.wbg2.bg.agh.edu.pl
+wo48.odlew.agh.edu.pl
+lipsk210-pc4.zarz.agh.edu.pl
+speech.ia.agh.edu.pl
+ca0-003.ceramika.agh.edu.pl
+www.sylabus.agh.edu.pl
+aeroteam.agh.edu.pl
+test183.kt.agh.edu.pl
+dydaktyka.iisg.agh.edu.pl
+pracme1.mn.agh.edu.pl
+twwm.imir.agh.edu.pl
+kgg11.gorn.agh.edu.pl
+ca0-064.ceramika.agh.edu.pl
+piechowi.wibro.agh.edu.pl
+cast.iisg.agh.edu.pl
+mat242.mat.agh.edu.pl
+oowee.agh.edu.pl
+stud201.fis.agh.edu.pl
+www.dgn.agh.edu.pl
+zm239.zmet.agh.edu.pl
+labog04.wpie.agh.edu.pl
+dhcp057.kt.agh.edu.pl
+mops130.uci.agh.edu.pl
+mops142.uci.agh.edu.pl
+apollo.dsnet.agh.edu.pl
+www.zsn.agh.edu.pl
+ubpo-data2.agh.edu.pl
+www.d4.agh.edu.pl
+pldml-1icm-1edu-1pl-1atoz.wbg2.bg.agh.edu.pl
+www.mpd.agh.edu.pl
+www.zfcs.agh.edu.pl
+www.kigbp.agh.edu.pl
+ka76.ia.agh.edu.pl
+dhcp073.kt.agh.edu.pl
+www.cpv.agh.edu.pl
+grobler.ia.agh.edu.pl
+l19.gorn.agh.edu.pl
+mops025.uci.agh.edu.pl
+jh.mn.agh.edu.pl
+bystrze1.adm.agh.edu.pl
+tommadej.imir.agh.edu.pl
+wpie35.wpie.agh.edu.pl
+weip-d4-49.weip.agh.edu.pl
+sunum4.kt.agh.edu.pl
+wpie21.wpie.agh.edu.pl
+kobiety.elektro.agh.edu.pl
+kostolow.metal.agh.edu.pl
+weip-d4-31.weip.agh.edu.pl
+lmdm.agh.edu.pl
+switch2.wnaft.agh.edu.pl
+nat.ds8.agh.edu.pl
+kap-124.imir.agh.edu.pl
+www.knmimn.agh.edu.pl
+jetlan7.ia.agh.edu.pl
+www.bieg.agh.edu.pl
+www.knnobel.agh.edu.pl
+wnssp117.ins.agh.edu.pl
+bbl0.ics.agh.edu.pl
+k-322-7.imir.agh.edu.pl
+link-1springer-1com-1000032sv00ef.wbg2.bg.agh.edu.pl
+spdbhp.agh.edu.pl
+joter.wpie.agh.edu.pl
+cuprum.mn.agh.edu.pl
+pldlab3.elektro.agh.edu.pl
+host110-63.fis.agh.edu.pl
+wo79.odlew.agh.edu.pl
+wimir-254.imir.agh.edu.pl
+nawa.metal.agh.edu.pl
+wo47.odlew.agh.edu.pl
+k-210-10.imir.agh.edu.pl
+wnss16c.ins.agh.edu.pl
+klinik.wpie.agh.edu.pl
+rebit.zarz.agh.edu.pl
+labkostek1.ket.agh.edu.pl
+rekrut-7.gorn.agh.edu.pl
+www-1meeri-1pl-1atoz.wbg2.bg.agh.edu.pl
+iisg.agh.edu.pl
+pc243.geol.agh.edu.pl
+sock.esa.agh.edu.pl
+egzamin.zarz.agh.edu.pl
+kobialka.imir.agh.edu.pl
+powder1.metal.agh.edu.pl
+mdp10c.elektro.agh.edu.pl
+kcs15.ceramika.agh.edu.pl
+fus-pc.zarz.agh.edu.pl
+p-218.mn.agh.edu.pl
+kamel.kme.agh.edu.pl
+caribou.iisg.agh.edu.pl
+ukr2tmp.agh.edu.pl
+dhcp0104.kt.agh.edu.pl
+mops152.uci.agh.edu.pl
+www.isc.agh.edu.pl
+biuro4.wpie.agh.edu.pl
+paperless.uci.agh.edu.pl
+kct29.ceramika.agh.edu.pl
+turnia2.metal.agh.edu.pl
+wfitj67e.ftj.agh.edu.pl
+www.barborka.agh.edu.pl
+www.knmg.agh.edu.pl
+informatyka.agh.edu.pl
+studium19.sjo.agh.edu.pl
+koala.metal.agh.edu.pl
+www.syllabus.agh.edu.pl
+e-rejestr.cri.agh.edu.pl
+zagnes.wpie.agh.edu.pl
+ivserv.ia.agh.edu.pl
+yacek.cri.agh.edu.pl
+misiek.metal.agh.edu.pl
+sorp2.wpie.agh.edu.pl
+studium27.sjo.agh.edu.pl
+wfitj43e.ftj.agh.edu.pl
+wmsg3.gorn.agh.edu.pl
+host110-178.fis.agh.edu.pl
+host109-96.fis.agh.edu.pl
+pc161.kme.agh.edu.pl
+tytus.kt.agh.edu.pl
+pracedyplomowe.eaiib.agh.edu.pl
+larix.metal.agh.edu.pl
+kca11.ceramika.agh.edu.pl
+wsn.elektro.agh.edu.pl
+stock-test.agh.edu.pl
+ds3.agh.edu.pl
+annapurna.ia.agh.edu.pl
+ktipm31.ktipm.agh.edu.pl
+k-210-12.imir.agh.edu.pl
+www.cel.agh.edu.pl
+dhcp-pc201.elektro.agh.edu.pl
+nat-vl117.agh.edu.pl
+dhcp035.kt.agh.edu.pl
+techspo.agh.edu.pl
+mosix2.kt.agh.edu.pl
+kcs45.ceramika.agh.edu.pl
+cb6-134.ceramika.agh.edu.pl
+link-1springer-1com-1000032i308ce.wbg2.bg.agh.edu.pl
+www.kmcip.agh.edu.pl
+rys-pc.zarz.agh.edu.pl
+host110-229.fis.agh.edu.pl
+wo32.odlew.agh.edu.pl
+zm250.zmet.agh.edu.pl
+willow.metal.agh.edu.pl
+mops109.uci.agh.edu.pl
+joduda-pc.zarz.agh.edu.pl
+www.kchwnos.agh.edu.pl
+wnaft-file-01.wnaft.agh.edu.pl
+lwm4.imir.agh.edu.pl
+kgg14.gorn.agh.edu.pl
+karo.mn.agh.edu.pl
+kcs29.ceramika.agh.edu.pl
+pc62.zfcs.agh.edu.pl
+mdp08a.elektro.agh.edu.pl
+olejnicz.gorn.agh.edu.pl
+scotty.kis.agh.edu.pl
+aip.agh.edu.pl
+wfitj112e.ftj.agh.edu.pl
+ksero.ia.agh.edu.pl
+turnia14.metal.agh.edu.pl
+pc151.kme.agh.edu.pl
+dziekanat6-pc.wnaft.agh.edu.pl
+test168.kt.agh.edu.pl
+www.controlling.zarz.agh.edu.pl
+cb6-224.ceramika.agh.edu.pl
+www.icq12.fis.agh.edu.pl
+wo11.odlew.agh.edu.pl
+mczaja.gorn.agh.edu.pl
+cb6-237.ceramika.agh.edu.pl
+www.ursstv.agh.edu.pl
+bigtower.elektro.agh.edu.pl
+dhcp218.kt.agh.edu.pl
+pindor-pc.zarz.agh.edu.pl
+ds17.unifi.dsnet.agh.edu.pl
+mops151.uci.agh.edu.pl
+www.chfie.agh.edu.pl
+wifi-wpa.agh.edu.pl
+lab02.gorn.agh.edu.pl
+a3-10.gorn.agh.edu.pl
+stud109.fis.agh.edu.pl
+syllabus0.uci.agh.edu.pl
+nat-weaiib13.agh.edu.pl
+vmw18.ftj.agh.edu.pl
+mops172.uci.agh.edu.pl
+wfitj25e.ftj.agh.edu.pl
+bogdanes.wpie.agh.edu.pl
+www.elektronika.agh.edu.pl
+marpers.gorn.agh.edu.pl
+lab713.metal.agh.edu.pl
+www.wrss-met.agh.edu.pl
+nbph.elektro.agh.edu.pl
+dhcp-pc184.elektro.agh.edu.pl
+kw6.kwestura.agh.edu.pl
+bsl.agh.edu.pl
+mops168.uci.agh.edu.pl
+zkedzier.metal.agh.edu.pl
+k-320-12.imir.agh.edu.pl
+student.agh.edu.pl
+pwitako.gorn.agh.edu.pl
+icmfs2015.agh.edu.pl
+ghandi.wibro.agh.edu.pl
+nat-adm23.agh.edu.pl
+kap-23.imir.agh.edu.pl
+zgg53.geod.agh.edu.pl
+dzn.agh.edu.pl
+bartek.metal.agh.edu.pl
+urss0.urss.agh.edu.pl
+gucio.metal.agh.edu.pl
+dziurzyn.gorn.agh.edu.pl
+mops040.uci.agh.edu.pl
+i-lon1.elektro.agh.edu.pl
+servis4.mn.agh.edu.pl
+fem.zet.agh.edu.pl
+kig.wnaft.agh.edu.pl
+antares.wydagh.agh.edu.pl
+lds-3.keiaspe.agh.edu.pl
+rtr1.kt.agh.edu.pl
+cam-216.imir.agh.edu.pl
+dhcp173.kt.agh.edu.pl
+dhcp149.kt.agh.edu.pl
+www-1sciencedirect-1com-1000032bj2218.wbg2.bg.agh.edu.pl
+pc27.zfcs.agh.edu.pl
+dura-pc.zarz.agh.edu.pl
+www.rdisgie.agh.edu.pl
+justbridge.agh.edu.pl
+www.personel.zarz.agh.edu.pl
+papytko.imir.agh.edu.pl
+mat196.mat.agh.edu.pl
+k-320-3.imir.agh.edu.pl
+70lat.wggios.agh.edu.pl
+morawa.gorn.agh.edu.pl
+mops153.uci.agh.edu.pl
+mops026.uci.agh.edu.pl
+dhcp052.kt.agh.edu.pl
+oska2016.agh.edu.pl
+epomdb.uci.agh.edu.pl
+wo52.odlew.agh.edu.pl
+tribos2.imir.agh.edu.pl
+zm209.zmet.agh.edu.pl
+mat180.mat.agh.edu.pl
+playwithurss.samorzad.agh.edu.pl
+wnssp209.ins.agh.edu.pl
+oldlabserv.kt.agh.edu.pl
+elektro.agh.edu.pl
+rekrutacja.eestec.agh.edu.pl
+nat-tech4.agh.edu.pl
+b2-323.imir.agh.edu.pl
+kap-29.imir.agh.edu.pl
+arva.geod.agh.edu.pl
+50lat.wnig.agh.edu.pl
+lic-srv-5.wnaft.agh.edu.pl
+zorba.ia.agh.edu.pl
+wfitj187e.ftj.agh.edu.pl
+kse12.ceramika.agh.edu.pl
+kusa-brother.zarz.agh.edu.pl
+rainbow.fis.agh.edu.pl
+krasp2020.agh.edu.pl
+cerber-2.fis.agh.edu.pl
+nomad.zet.agh.edu.pl
+pnor.mn.agh.edu.pl
+mops184.uci.agh.edu.pl
+nat-wimip3.agh.edu.pl
+ekrany.agh.edu.pl
+probc.zarz.agh.edu.pl
+zm222.zmet.agh.edu.pl
+mat232.mat.agh.edu.pl
+cmat55.mat.agh.edu.pl
+kmg-166.imir.agh.edu.pl
+p112.mn.agh.edu.pl
+td200-f.geod.agh.edu.pl
+wo2.odlew.agh.edu.pl
+www.khgi.agh.edu.pl
+apc2.ftj.agh.edu.pl
+vm.zet.agh.edu.pl
+muszka.metal.agh.edu.pl
+wydzlab.agh.edu.pl
+rpress9.imir.agh.edu.pl
+www.icsr.agh.edu.pl
+www.laboratoria.agh.edu.pl
+pcmiue5.imir.agh.edu.pl
+www.knia.agh.edu.pl
+sroka.geod.agh.edu.pl
+journals-1bg-1agh-1edu-1pl-1000032kf048d.wbg2.bg.agh.edu.pl
+china.agh.edu.pl
+nat-vl111.agh.edu.pl
+wpie40.wpie.agh.edu.pl
+pcorzech.kt.agh.edu.pl
+www.spinlab.agh.edu.pl
+www.inbioks.agh.edu.pl
+pc51.zfcs.agh.edu.pl
+p4.metal.agh.edu.pl
+zmb15.ceramika.agh.edu.pl
+ziam1.metal.agh.edu.pl
+www.bazy.agh.edu.pl
+www.power3.5.agh.edu.pl
+aq61.ia.agh.edu.pl
+stefansz.metal.agh.edu.pl
+wojtek.elektro.agh.edu.pl
+jedyneczka.geod.agh.edu.pl
+wnssp22.ins.agh.edu.pl
+dhcp76.kt.agh.edu.pl
+kap-15.imir.agh.edu.pl
+man.ktipm.agh.edu.pl
+www.forumkrakow.geol.agh.edu.pl
+host110-197.fis.agh.edu.pl
+pc91.zfcs.agh.edu.pl
+stepin.metal.agh.edu.pl
+dareklesniak.mn.agh.edu.pl
+wyklad.elektro.agh.edu.pl
+kawiory5.wpie.agh.edu.pl
+host110-140.fis.agh.edu.pl
+host110-50.fis.agh.edu.pl
+test185.kt.agh.edu.pl
+www.kngf.geol.agh.edu.pl
+pkcomp.elektro.agh.edu.pl
+ca0-040.ceramika.agh.edu.pl
+host110-72.fis.agh.edu.pl
+agh4dev2.agh.edu.pl
+vmw1.ftj.agh.edu.pl
+spectro.ket.agh.edu.pl
+doktor2.gorn.agh.edu.pl
+demeter-adm.zarz.agh.edu.pl
+www.koliba.agh.edu.pl
+loki.ia.agh.edu.pl
+md.mn.agh.edu.pl
+ka84.ia.agh.edu.pl
+leszekop.geod.agh.edu.pl
+kgg10.gorn.agh.edu.pl
+wimir100lat.agh.edu.pl
+lbsh6.ia.agh.edu.pl
+pccholda.kt.agh.edu.pl
+d1zpe.zfcs.agh.edu.pl
+dsp-hp5m.elektro.agh.edu.pl
+demeter-bms.zarz.agh.edu.pl
+hajdo-pc.zarz.agh.edu.pl
+mine.agh.edu.pl
+apro-107.imir.agh.edu.pl
+mops050.uci.agh.edu.pl
+x-pomiary.elektro.agh.edu.pl
+st18.gorn.agh.edu.pl
+pc05.zfcs.agh.edu.pl
+mops086.uci.agh.edu.pl
+kse21.ceramika.agh.edu.pl
+ultra.wibro.agh.edu.pl
+wo155.odlew.agh.edu.pl
+wfitj234e.ftj.agh.edu.pl
+gip316.geod.agh.edu.pl
+mailman.agh.edu.pl
+mops145.uci.agh.edu.pl
+daniel.imir.agh.edu.pl
+kcs34.ceramika.agh.edu.pl
+wfitj107e.ftj.agh.edu.pl
+mszczerba.mn.agh.edu.pl
+host110-209.fis.agh.edu.pl
+majcher.gorn.agh.edu.pl
+telephoners.agh.edu.pl
+belzebub.imir.agh.edu.pl
+korcyl-pc.zarz.agh.edu.pl
+palinski-pc.zarz.agh.edu.pl
+kap-48.imir.agh.edu.pl
+ca0-049.ceramika.agh.edu.pl
+targi.agh.edu.pl
+cmat9.mat.agh.edu.pl
+mops070.uci.agh.edu.pl
+hestia.zarz.agh.edu.pl
+sodas.imir.agh.edu.pl
+kawiory20.wpie.agh.edu.pl
+vote.agh.edu.pl
+www-1sciencedirect-1com-18w7w476n3b8b.wbg2.bg.agh.edu.pl
+wfitj188e.ftj.agh.edu.pl
+ggrid.ics.agh.edu.pl
+www.notatki.cel.agh.edu.pl
+wnssp5.ins.agh.edu.pl
+www.geol.agh.edu.pl
+vsphere130.geod.agh.edu.pl
+dymek.metal.agh.edu.pl
+pc119.ia.agh.edu.pl
+iopscience-1iop-1org-10000320000e7.wbg2.bg.agh.edu.pl
+rychter.gorn.agh.edu.pl
+ca0-041.ceramika.agh.edu.pl
+auriga.fis.agh.edu.pl
+ef-conference.agh.edu.pl
+noc.cri.agh.edu.pl
+mat162.mat.agh.edu.pl
+hpcad2.ftj.agh.edu.pl
+www.kmasz.odlew.agh.edu.pl
+kaut.agh.edu.pl
+kb7.ceramika.agh.edu.pl
+pc33.zfcs.agh.edu.pl
+dhcp167.kt.agh.edu.pl
+cubryna.metal.agh.edu.pl
+hp5035pietro.kt.agh.edu.pl
+cerber.icsr.agh.edu.pl
+pc3.wibro.agh.edu.pl
+st10.gorn.agh.edu.pl
+nat-empl.ki.agh.edu.pl
+wojcik.geod.agh.edu.pl
+hp5100.zet.agh.edu.pl
+itracs.uci.agh.edu.pl
+sklep.agh.edu.pl
+geos.geol.agh.edu.pl
+kzfm.fis.agh.edu.pl
+kb8.ceramika.agh.edu.pl
+mirra.imir.agh.edu.pl
+agh1.geol.agh.edu.pl
+tsgb.agh.edu.pl
+netzsch.metal.agh.edu.pl
+wkr1.ceramika.agh.edu.pl
+aula.geol.agh.edu.pl
+hp-4250.imir.agh.edu.pl
+kca9.ceramika.agh.edu.pl
+franco.metal.agh.edu.pl
+kcs14.ceramika.agh.edu.pl
+www.foto.agh.edu.pl
+laszczka.imir.agh.edu.pl
+host110-97.fis.agh.edu.pl
+dhcp0101.kt.agh.edu.pl
+ktipm29.ktipm.agh.edu.pl
+janosik.mn.agh.edu.pl
+zgg54.geod.agh.edu.pl
+kb10.ceramika.agh.edu.pl
+stud157.fis.agh.edu.pl
+p41.geod.agh.edu.pl
+k-210-04.imir.agh.edu.pl
+www.geoinformatica.agh.edu.pl
+cb6-139.ceramika.agh.edu.pl
+ipsl.geod.agh.edu.pl
+komplastech.agh.edu.pl
+jkarcz.geol.agh.edu.pl
+yeti.ia.agh.edu.pl
+lfa222.ket.agh.edu.pl
+kse1.ceramika.agh.edu.pl
+www.icpmat2014.agh.edu.pl
+lab08-2.mn.agh.edu.pl
+wo1.odlew.agh.edu.pl
+stud202.fis.agh.edu.pl
+nat-wiet1.agh.edu.pl
+perseusz.mn.agh.edu.pl
+lsr05.ia.agh.edu.pl
+host110-121.fis.agh.edu.pl
+emix.uci.agh.edu.pl
+pc93.zfcs.agh.edu.pl
+pcmiue4.imir.agh.edu.pl
+paulo.geol.agh.edu.pl
+weip-d4-27.weip.agh.edu.pl
+wnss16m.ins.agh.edu.pl
+grazas.imir.agh.edu.pl
+ca0-007.ceramika.agh.edu.pl
+sprawdz.plan.agh.edu.pl
+bardo.metal.agh.edu.pl
+stud227.fis.agh.edu.pl
+mars.elektro.agh.edu.pl
+pcwojcik.kt.agh.edu.pl
+krokus2-7.imir.agh.edu.pl
+hk.gorn.agh.edu.pl
+riv.geod.agh.edu.pl
+aciesla.zet.agh.edu.pl
+terra.imir.agh.edu.pl
+ilon7.ia.agh.edu.pl
+stud111.fis.agh.edu.pl
+charon.ftj.agh.edu.pl
+wfitj233e.ftj.agh.edu.pl
+nat-weaiib9.agh.edu.pl
+mops005.uci.agh.edu.pl
+kipczak.imir.agh.edu.pl
+rozdzielnia2-u11.adm.agh.edu.pl
+mat206.mat.agh.edu.pl
+eos.fis.agh.edu.pl
+pawelw.wibro.agh.edu.pl
+cmat31.mat.agh.edu.pl
+lm9.ia.agh.edu.pl
+tjadczyk.elektro.agh.edu.pl
+dhcp163.kt.agh.edu.pl
+zm237.zmet.agh.edu.pl
+kca13.ceramika.agh.edu.pl
+pk217f.mn.agh.edu.pl
+krokus188.imir.agh.edu.pl
+canon2.mn.agh.edu.pl
+testament10.uci.agh.edu.pl
+sor.cr.agh.edu.pl
+www.geotermia.agh.edu.pl
+wo30.odlew.agh.edu.pl
+intranet.kt.agh.edu.pl
+wnig.agh.edu.pl
+panel.test.dsnet.agh.edu.pl
+klobuk.gorn.agh.edu.pl
+vm6.uci.agh.edu.pl
+biuletynpig-1publisherspanel-1com-10000326y0907.wbg2.bg.agh.edu.pl
+ladecki.imir.agh.edu.pl
+aga.metal.agh.edu.pl
+kap-35.imir.agh.edu.pl
+smart.keiaspe.agh.edu.pl
+host110-217.fis.agh.edu.pl
+lichota-pc.zarz.agh.edu.pl
+nat-vl101.agh.edu.pl
+clusterups.ket.agh.edu.pl
+mdp11c.elektro.agh.edu.pl
+mat221.mat.agh.edu.pl
+dhcp0107.kt.agh.edu.pl
+weip-d4-39.weip.agh.edu.pl
+vpn238.kt.agh.edu.pl
+www.odlew.agh.edu.pl
+wfitj217e.ftj.agh.edu.pl
+jadwigat.wibro.agh.edu.pl
+doctor.mn.agh.edu.pl
+ca0-029.ceramika.agh.edu.pl
+studium4.sjo.agh.edu.pl
+www.ki-pokl.agh.edu.pl
+olimp21.imir.agh.edu.pl
+kese.ia.agh.edu.pl
+ktipm.ktipm.agh.edu.pl
+linksys.eaiib.agh.edu.pl
+koala.geod.agh.edu.pl
+comm.dc1-prx-a.infra.ki.agh.edu.pl
+k-320-11.imir.agh.edu.pl
+msdn.zarz.agh.edu.pl
+cmat26.mat.agh.edu.pl
+wo56.odlew.agh.edu.pl
+mta.iisg.agh.edu.pl
+zm198.zmet.agh.edu.pl
+ka70.ia.agh.edu.pl
+d8-806-hp-cp2025.ket.agh.edu.pl
+www.mpwp2016.agh.edu.pl
+agnieszka.metal.agh.edu.pl
+host110-184.fis.agh.edu.pl
+skankser.imir.agh.edu.pl
+fortiweb3.uci.agh.edu.pl
+atomscript.agh.edu.pl
+wfitj44e.ftj.agh.edu.pl
+nat.ds10.agh.edu.pl
+bem.zet.agh.edu.pl
+wnaft-rpc.wnaft.agh.edu.pl
+twin.mn.agh.edu.pl
+www.fit.agh.edu.pl
+host109-82.fis.agh.edu.pl
+apro-108.imir.agh.edu.pl
+ca0-015.ceramika.agh.edu.pl
+b3-11.mn.agh.edu.pl
+cesar.imir.agh.edu.pl
+www.dzp.agh.edu.pl
+charon3.fis.agh.edu.pl
+isci18.fis.agh.edu.pl
+lwm2.imir.agh.edu.pl
+ldap.agh.edu.pl
+mlynarska.gorn.agh.edu.pl
+poczta.zarz.agh.edu.pl
+mrychter.gorn.agh.edu.pl
+sylwia.geod.agh.edu.pl
+bluzy.agh.edu.pl
+krysia.ket.agh.edu.pl
+kcs8.ceramika.agh.edu.pl
+chemfiz1.mn.agh.edu.pl
+stamal.mn.agh.edu.pl
+anna.geod.agh.edu.pl
+vpn229.kt.agh.edu.pl
+waclawik-pc.zarz.agh.edu.pl
+lemuel.ket.agh.edu.pl
+dhcp181.kt.agh.edu.pl
+gw62.bg.agh.edu.pl
+urss2.urss.agh.edu.pl
+kcs17.ceramika.agh.edu.pl
+dhcp200.kt.agh.edu.pl
+mops074.uci.agh.edu.pl
+jankowski-pc.zarz.agh.edu.pl
+kgib.geod.agh.edu.pl
+www.kolanaukowe.agh.edu.pl
+www-1sciencedirect-1com-1000032to090a.wbg2.bg.agh.edu.pl
+kap-20.imir.agh.edu.pl
+boron.elektro.agh.edu.pl
+dhcp080.kt.agh.edu.pl
+www.oowee.agh.edu.pl
+pc40.zfcs.agh.edu.pl
+turnas.wgig.agh.edu.pl
+szt-agh.metal.agh.edu.pl
+amx-modero.gorn.agh.edu.pl
+szyszka.geod.agh.edu.pl
+lbws01.gorn.agh.edu.pl
+host110-52.fis.agh.edu.pl
+wnaft-0001-e4.wnaft.agh.edu.pl
+www.posrednik.zarz.agh.edu.pl
+lwm6.imir.agh.edu.pl
+wdev.cel.agh.edu.pl
+www.sp-is.agh.edu.pl
+kse4.ceramika.agh.edu.pl
+pc115.zfcs.agh.edu.pl
+wh.uci.agh.edu.pl
+stud-dok.metal.agh.edu.pl
+ca0-076.ceramika.agh.edu.pl
+cbk.geod.agh.edu.pl
+ts.ftj.agh.edu.pl
+zm228.zmet.agh.edu.pl
+wpie24.wpie.agh.edu.pl
+plachno.imir.agh.edu.pl
+lily.ics.agh.edu.pl
+geotermia.geod.agh.edu.pl
+labstud04.wpie.agh.edu.pl
+odkurzacz.geod.agh.edu.pl
+zts59.ia.agh.edu.pl
+marcinkowska-pc.zarz.agh.edu.pl
+kezp.agh.edu.pl
+kawiory10.wpie.agh.edu.pl
+mops015.uci.agh.edu.pl
+mops041.uci.agh.edu.pl
+5sg-es.agh.edu.pl
+www.icmfs2015.agh.edu.pl
+pcromaniak.kt.agh.edu.pl
+vpn252.kt.agh.edu.pl
+emiter.radio17.agh.edu.pl
+ajedrzej.metal.agh.edu.pl
+krobicki.geol.agh.edu.pl
+ca0-044.ceramika.agh.edu.pl
+host110-207.fis.agh.edu.pl
+zts43.ia.agh.edu.pl
+www.ksw.agh.edu.pl
+nowakows.metal.agh.edu.pl
+mops019.uci.agh.edu.pl
+wnss16k.ins.agh.edu.pl
+wkr2.ceramika.agh.edu.pl
+vlsi.elektro.agh.edu.pl
+storage.acmin.agh.edu.pl
+pc12.zfcs.agh.edu.pl
+duna.keiaspe.agh.edu.pl
+basia.ket.agh.edu.pl
+cmat53.mat.agh.edu.pl
+ewakom.wpie.agh.edu.pl
+www.5sg-es.agh.edu.pl
+www.diament.agh.edu.pl
+vote.eaiib.agh.edu.pl
+wrss.iet.agh.edu.pl
+slosar.gorn.agh.edu.pl
+kotmarc.imir.agh.edu.pl
+rumba.ia.agh.edu.pl
+chrzastek.geol.agh.edu.pl
+mgmt.sso.pti.agh.edu.pl
+killer.wibro.agh.edu.pl
+www.geowiert.wnaft.agh.edu.pl
+mongo.icsr.agh.edu.pl
+geist.agh.edu.pl
+www.aip.agh.edu.pl
+kcs33.ceramika.agh.edu.pl
+nat.ds4.agh.edu.pl
+test223.kt.agh.edu.pl
+wo90.odlew.agh.edu.pl
+www.sjo.agh.edu.pl
+rozdzielnia1-u12.adm.agh.edu.pl
+cb6-193.ceramika.agh.edu.pl
+cmat15.mat.agh.edu.pl
+brama2.adm.agh.edu.pl
+vpn239.kt.agh.edu.pl
+progress.geod.agh.edu.pl
+ie24.ket.agh.edu.pl
+dt4.adm.agh.edu.pl
+cttrouter.adm.agh.edu.pl
+www.kandydat.agh.edu.pl
+adam.imir.agh.edu.pl
+host110-93.fis.agh.edu.pl
+vpn224.kt.agh.edu.pl
+pcc214.ia.agh.edu.pl
+mat245.mat.agh.edu.pl
+mat203.mat.agh.edu.pl
+minus.ds14.agh.edu.pl
+pr-inf2.wibro.agh.edu.pl
+alto-status.elektro.agh.edu.pl
+mops008.uci.agh.edu.pl
+www.moodle.cel.agh.edu.pl
+pc249.geol.agh.edu.pl
+mikilaptop.zet.agh.edu.pl
+mops162.uci.agh.edu.pl
+fg1.adm.agh.edu.pl
+gwh.cri.agh.edu.pl
+brzeczyk.ket.agh.edu.pl
+www.cmmc19.wms.agh.edu.pl
+www.knaa.agh.edu.pl
+www3.zarz.agh.edu.pl
+ktl.imir.agh.edu.pl
+kap-114.imir.agh.edu.pl
+mops004.uci.agh.edu.pl
+stud244.fis.agh.edu.pl
+bett.agh.edu.pl
+tv.zarz.agh.edu.pl
+doktor1.gorn.agh.edu.pl
+wfitj145e.ftj.agh.edu.pl
+www.knbig.wgig.agh.edu.pl
+www.biomed.agh.edu.pl
+www.foundry.agh.edu.pl
+afej.agh.edu.pl
+delta.metal.agh.edu.pl
+www.kniop.agh.edu.pl
+pc135.kme.agh.edu.pl
+fizykadlamedyka.agh.edu.pl
+lk.geod.agh.edu.pl
+szmaragd.geod.agh.edu.pl
+dominik.wibro.agh.edu.pl
+ci.ics.agh.edu.pl
+siemens.geod.agh.edu.pl
+e-cop.agh.edu.pl
+test210.kt.agh.edu.pl
+wfitj96e.ftj.agh.edu.pl
+kap-51.imir.agh.edu.pl
+stud104.fis.agh.edu.pl
+mat250.mat.agh.edu.pl
+serwer2.ktipm.agh.edu.pl
+www.misp.agh.edu.pl
+kb18.ceramika.agh.edu.pl
+opal.wibro.agh.edu.pl
+mops055.uci.agh.edu.pl
+ktipm40.ktipm.agh.edu.pl
+cb6-161.ceramika.agh.edu.pl
+www.universeh.agh.edu.pl
+l05.gorn.agh.edu.pl
+cetus.imir.agh.edu.pl
+www.dsp.agh.edu.pl
+leszek.kis.agh.edu.pl
+wnaft-0001-ilo.wnaft.agh.edu.pl
+sonata.kt.agh.edu.pl
+jw.ket.agh.edu.pl
+mpec.zarz.agh.edu.pl
+turnia9.metal.agh.edu.pl
+pc142.kme.agh.edu.pl
+brasil.oen.agh.edu.pl
+www.artmag.agh.edu.pl
+c3sw2.ia.agh.edu.pl
+www.spinwork.agh.edu.pl
+krokus2-11.imir.agh.edu.pl
+syllabus1.uci.agh.edu.pl
+krab.agh.edu.pl
+lab317-99.ia.agh.edu.pl
+cb6-208.ceramika.agh.edu.pl
+host110-98.fis.agh.edu.pl
+kap-149.imir.agh.edu.pl
+allibys.d17.iisg.agh.edu.pl
+www.kisips.agh.edu.pl
+altera.wibro.agh.edu.pl
+majewska.geol.agh.edu.pl
+host110-86.fis.agh.edu.pl
+dhcp045.kt.agh.edu.pl
+lds-1.keiaspe.agh.edu.pl
+www.ea.agh.edu.pl
+pcc.imir.agh.edu.pl
+mops057.uci.agh.edu.pl
+zm248.zmet.agh.edu.pl
+pergamon.wydagh.agh.edu.pl
+www.siatka.agh.edu.pl
+docs.age.agh.edu.pl
+ieeexplore.ieee.org.atoz.wbg2.bg.agh.edu.pl
+knmd.agh.edu.pl
+gandalf.kt.agh.edu.pl
+vpn249.kt.agh.edu.pl
+stud105.fis.agh.edu.pl
+ca0-026.ceramika.agh.edu.pl
+snauk.ket.agh.edu.pl
+jaga.wibro.agh.edu.pl
+kronos.zarz.agh.edu.pl
+polak.icsr.agh.edu.pl
+wfitj97e.ftj.agh.edu.pl
+nowak.gorn.agh.edu.pl
+ubpo-data1.agh.edu.pl
+sienkiewiczowka.agh.edu.pl
+www.icps.agh.edu.pl
+nat.keiaspe.agh.edu.pl
+b3-15.mn.agh.edu.pl
+www.ru.agh.edu.pl
+k-322-13.imir.agh.edu.pl
+host110-173.fis.agh.edu.pl
+dhcp093.kt.agh.edu.pl
+pompon.wydagh.agh.edu.pl
+sauron.wibro.agh.edu.pl
+siaka.kt.agh.edu.pl
+mcss2015.kt.agh.edu.pl
+ka88.ia.agh.edu.pl
+sniezka.metal.agh.edu.pl
+dhcp1.zet.agh.edu.pl
+zmimp5.metal.agh.edu.pl
+dhcp075.kt.agh.edu.pl
+dhcp175.kt.agh.edu.pl
+ktipm57.ktipm.agh.edu.pl
+traf0.kme.agh.edu.pl
+kolano2.imir.agh.edu.pl
+rofteam.agh.edu.pl
+www.socjonetka.agh.edu.pl
+kchudyba.zee.agh.edu.pl
+jakczak.geol.agh.edu.pl
+b2-310.imir.agh.edu.pl
+eeagrants.agh.edu.pl
+atena.imir.agh.edu.pl
+rembie.gorn.agh.edu.pl
+stud162.fis.agh.edu.pl
+dt3-voip.adm.agh.edu.pl
+lab.dc1-prx-b.infra.ki.agh.edu.pl
+kusa-pc.zarz.agh.edu.pl
+kct5.ceramika.agh.edu.pl
+greebo.cel.agh.edu.pl
+ktipm46.ktipm.agh.edu.pl
+batko.wibro.agh.edu.pl
+www.ignis.agh.edu.pl
+lupus.metal.agh.edu.pl
+wpie25.wpie.agh.edu.pl
+mops017.uci.agh.edu.pl
+pc04.zfcs.agh.edu.pl
+dhcp044.kt.agh.edu.pl
+ka80.ia.agh.edu.pl
+bastion.ki.agh.edu.pl
+kaniup.agh.edu.pl
+ipm.agh.edu.pl
+wnssp113.ins.agh.edu.pl
+k-209-05.imir.agh.edu.pl
+aq5.ia.agh.edu.pl
+gartek.zet.agh.edu.pl
+syrius.mn.agh.edu.pl
+www.90lat.agh.edu.pl
+3dpath.wnaft.agh.edu.pl
+kgg7.gorn.agh.edu.pl
+rychlicki-pc.wnaft.agh.edu.pl
+nat-adm3.agh.edu.pl
+host110-126.fis.agh.edu.pl
+www.mp.zarz.agh.edu.pl
+l13.gorn.agh.edu.pl
+openlon2.ia.agh.edu.pl
+kamil.geod.agh.edu.pl
+ca0-008.ceramika.agh.edu.pl
+forms.typo3.agh.edu.pl
+ossowski.geol.agh.edu.pl
+stalow9.metal.agh.edu.pl
+dziek.zee.agh.edu.pl
+cb6-215.ceramika.agh.edu.pl
+dhcp57.zee.agh.edu.pl
+mat253.mat.agh.edu.pl
+hp2100-2.ftj.agh.edu.pl
+p486zpe.zfcs.agh.edu.pl
+dev-build.cel.agh.edu.pl
+rdziurka.metal.agh.edu.pl
+cb6-160.ceramika.agh.edu.pl
+kap-55.imir.agh.edu.pl
+cb6-175.ceramika.agh.edu.pl
+tiki-proactive.kt.agh.edu.pl
+chelabor.wpie.agh.edu.pl
+pc101.zfcs.agh.edu.pl
+ckagh9.adm.agh.edu.pl
+mops188.uci.agh.edu.pl
+biuro2.wpie.agh.edu.pl
+ucte2011.agh.edu.pl
+www.sp-sab.agh.edu.pl
+kawiory35.wpie.agh.edu.pl
+wo61.odlew.agh.edu.pl
+limba14.metal.agh.edu.pl
+michlowi1.imir.agh.edu.pl
+dhcp08.kt.agh.edu.pl
+wz.dznet.agh.edu.pl
+host110-120.fis.agh.edu.pl
+wo160.odlew.agh.edu.pl
+dns.dsnet.agh.edu.pl
+l01.gorn.agh.edu.pl
+kap-53.imir.agh.edu.pl
+wmsg2.gorn.agh.edu.pl
+pcg-service.uci.agh.edu.pl
+kse5.ceramika.agh.edu.pl
+szlaban-s1.adm.agh.edu.pl
+do.agh.edu.pl
+galop.metal.agh.edu.pl
+chogori.ia.agh.edu.pl
+amper.zet.agh.edu.pl
+rekrutacja1.mn.agh.edu.pl
+mailing.agh.edu.pl
+glados.kis.agh.edu.pl
+wo27.odlew.agh.edu.pl
+nat2.kt.agh.edu.pl
+nat-vl112.agh.edu.pl
+pcgrega.kt.agh.edu.pl
+euro02.ia.agh.edu.pl
+kap-60.imir.agh.edu.pl
+www.automatics.agh.edu.pl
+kse19.ceramika.agh.edu.pl
+chmura.gorn.agh.edu.pl
+hkusiak.metal.agh.edu.pl
+lhotse.metal.agh.edu.pl
+cb6-234.ceramika.agh.edu.pl
+stud234.fis.agh.edu.pl
+twist.ia.agh.edu.pl
+in.ki.agh.edu.pl
+lr1.ia.agh.edu.pl
+www.forti-agh.agh.edu.pl
+zas104.mn.agh.edu.pl
+www.makler.zarz.agh.edu.pl
+fortiweb.uci.agh.edu.pl
+stalow3.metal.agh.edu.pl
+mat178.mat.agh.edu.pl
+marta.geod.agh.edu.pl
+cm-nat.agh.edu.pl
+ds8.unifi.dsnet.agh.edu.pl
+wojtek.geol.agh.edu.pl
+multisite.wh.agh.edu.pl
+ziam2.metal.agh.edu.pl
+www.desire.agh.edu.pl
+www.dopk.agh.edu.pl
+wimir-003.imir.agh.edu.pl
+pc166.kme.agh.edu.pl
+nat-tech5.agh.edu.pl
+integra.uci.agh.edu.pl
+ds15.unifi.dsnet.agh.edu.pl
+rychlicki-nb.wnaft.agh.edu.pl
+testowyplan5.agh.edu.pl
+wfitj140e.ftj.agh.edu.pl
+b3-10.mn.agh.edu.pl
+b3-komp4.zet.agh.edu.pl
+100lat.agh.edu.pl
+foster.ics.agh.edu.pl
+vpn.acmin.agh.edu.pl
+rhea.imir.agh.edu.pl
+kawiory4.wpie.agh.edu.pl
+anowak.gorn.agh.edu.pl
+mops106.uci.agh.edu.pl
+www2.wggios.agh.edu.pl
+www.neuro.agh.edu.pl
+kurczak.zee.agh.edu.pl
+dawna.ki.agh.edu.pl
+dhcp043.kt.agh.edu.pl
+iet.uci.agh.edu.pl
+sliwka.gorn.agh.edu.pl
+ripley.geol.agh.edu.pl
+www.targi.agh.edu.pl
+host109-85.fis.agh.edu.pl
+r02.gorn.agh.edu.pl
+www.nanospin.agh.edu.pl
+chaos.zet.agh.edu.pl
+ziolkowski-pc.zarz.agh.edu.pl
+ds16.unifi.dsnet.agh.edu.pl
+krokus181.imir.agh.edu.pl
+zmora.kis.agh.edu.pl
+kameraz2-1.adm.agh.edu.pl
+watt.zet.agh.edu.pl
+wojcik.gorn.agh.edu.pl
+wojtek1.imir.agh.edu.pl
+admin.zee.agh.edu.pl
+weaiiib.dznet.agh.edu.pl
+pc104.zfcs.agh.edu.pl
+jpietrzyk.mn.agh.edu.pl
+st9.gorn.agh.edu.pl
+wo140.odlew.agh.edu.pl
+mat136.mat.agh.edu.pl
+gawin.geol.agh.edu.pl
+konopka.gorn.agh.edu.pl
+xbl5.ics.agh.edu.pl
+wszpyra.zee.agh.edu.pl
+hp2300dtn.ftj.agh.edu.pl
+eit.agh.edu.pl
+asic.fis.agh.edu.pl
+cam-213.imir.agh.edu.pl
+stud242.fis.agh.edu.pl
+uci.agh.edu.pl
+xandy.elektro.agh.edu.pl
+cogito.elektro.agh.edu.pl
+dell-buiro1.weip.agh.edu.pl
+cb6-239.ceramika.agh.edu.pl
+planck.ftj.agh.edu.pl
+host110-139.fis.agh.edu.pl
+stanco.ket.agh.edu.pl
+fatcat.ftj.agh.edu.pl
+power1b.uci.agh.edu.pl
+tymon.geod.agh.edu.pl
+www.exhft-7.agh.edu.pl
+www.tze.agh.edu.pl
+abb1.eaiib.agh.edu.pl
+franik2.gorn.agh.edu.pl
+host110-190.fis.agh.edu.pl
+rdisgie.agh.edu.pl
+www.dlasrodowiska.agh.edu.pl
+jawien.gorn.agh.edu.pl
+mint1.icsr.agh.edu.pl
+ttokarz.imir.agh.edu.pl
+titanv.metal.agh.edu.pl
+pcleszczuk.kt.agh.edu.pl
+batko.gorn.agh.edu.pl
+pc171.kme.agh.edu.pl
+www.firma.agh.edu.pl
+krokus2-4.imir.agh.edu.pl
+kct1.ceramika.agh.edu.pl
+www.zarz.agh.edu.pl
+bskorupa.geod.agh.edu.pl
+mops158.uci.agh.edu.pl
+utrata.gorn.agh.edu.pl
+opuscula.agh.edu.pl
+stan-f.geod.agh.edu.pl
+k-320-13.imir.agh.edu.pl
+la7.ia.agh.edu.pl
+drozdz-pc.zarz.agh.edu.pl
+wfitj105e.ftj.agh.edu.pl
+wfitj150e.ftj.agh.edu.pl
+ktipm43.ktipm.agh.edu.pl
+blecharz.imir.agh.edu.pl
+archmet.metal.agh.edu.pl
+studium22.sjo.agh.edu.pl
+dar1.mn.agh.edu.pl
+wo19.odlew.agh.edu.pl
+wwnig.dznet.agh.edu.pl
+lab05.gorn.agh.edu.pl
+wfitj121e.ftj.agh.edu.pl
+wfitj17e.ftj.agh.edu.pl
+wbg.bg.agh.edu.pl
+wibro-116.imir.agh.edu.pl
+yogi.metal.agh.edu.pl
+caribou.d8.iisg.agh.edu.pl
+hila.geod.agh.edu.pl
+checkmk.eaiib.agh.edu.pl
+pc25.zfcs.agh.edu.pl
+trip.metal.agh.edu.pl
+d8-806.ket.agh.edu.pl
+darwin.cri.agh.edu.pl
+p1d.b1.agh.edu.pl
+prtr.kt.agh.edu.pl
+urss5.urss.agh.edu.pl
+zsp.agh.edu.pl
+nat.ds1.agh.edu.pl
+sekr-rtr.keiaspe.agh.edu.pl
+zkc9.ceramika.agh.edu.pl
+host110-132.fis.agh.edu.pl
+mat217.mat.agh.edu.pl
+galeria.geod.agh.edu.pl
+kawiory34.wpie.agh.edu.pl
+nat-vl104.agh.edu.pl
+kets.ket.agh.edu.pl
+aq27.ia.agh.edu.pl
+stud150.fis.agh.edu.pl
+powder3.metal.agh.edu.pl
+zfcs-printer.zfcs.agh.edu.pl
+test162.kt.agh.edu.pl
+host110-49.fis.agh.edu.pl
+www-1infona-1pl-1atoz.wbg2.bg.agh.edu.pl
+dhcp52.zee.agh.edu.pl
+fiona.gorn.agh.edu.pl
+deepthought.kis.agh.edu.pl
+qwev.keiaspe.agh.edu.pl
+tango.gorn.agh.edu.pl
+kerrmz.ket.agh.edu.pl
+www.kmimp.agh.edu.pl
+cok.agh.edu.pl
+bda.geod.agh.edu.pl
+pcmiue12.imir.agh.edu.pl
+speechsamples.agh.edu.pl
+mat142.mat.agh.edu.pl
+somar.zet.agh.edu.pl
+kkios.geod.agh.edu.pl
+mat235.mat.agh.edu.pl
+p221-3.mn.agh.edu.pl
+vertigo.elektro.agh.edu.pl
+oska2017.agh.edu.pl
+hades.zarz.agh.edu.pl
+ematerialy.cel.agh.edu.pl
+cmat35.mat.agh.edu.pl
+egzaminy.cel.agh.edu.pl
+test240.kt.agh.edu.pl
+wnss16a.ins.agh.edu.pl
+www.zs.zarz.agh.edu.pl
+wfitj71a.ftj.agh.edu.pl
+kasiacze.wpie.agh.edu.pl
+mops164.uci.agh.edu.pl
+szaniec.agh.edu.pl
+host109-91.fis.agh.edu.pl
+rditt.agh.edu.pl
+poczta.agh.edu.pl
+krokusb2.imir.agh.edu.pl
+wfitj203e.ftj.agh.edu.pl
+weip-d4-43.weip.agh.edu.pl
+daimos.kt.agh.edu.pl
+lab404m.ia.agh.edu.pl
+www.international.agh.edu.pl
+wfitj181e.ftj.agh.edu.pl
+wnss16f.ins.agh.edu.pl
+mat243.mat.agh.edu.pl
+wo89.odlew.agh.edu.pl
+wozniak-pc.zarz.agh.edu.pl
+metal.metal.agh.edu.pl
+sofa.uci.agh.edu.pl
+chem44a4.wpie.agh.edu.pl
+aver.geol.agh.edu.pl
+rpress7.imir.agh.edu.pl
+stud163.fis.agh.edu.pl
+wg.ia.agh.edu.pl
+wnss16l.ins.agh.edu.pl
+zobaczycmatematyke.agh.edu.pl
+kb2.ceramika.agh.edu.pl
+cb6-131.ceramika.agh.edu.pl
+mops122.uci.agh.edu.pl
+cb6-144.ceramika.agh.edu.pl
+dhcp9.zet.agh.edu.pl
+msc-lm.wibro.agh.edu.pl
+cb6-225.ceramika.agh.edu.pl
+wo104.odlew.agh.edu.pl
+fitzn.mn.agh.edu.pl
+ds19.agh.edu.pl
+otrs.iisg.agh.edu.pl
+kanlab10.keiaspe.agh.edu.pl
+karol.geod.agh.edu.pl
+cisi.agh.edu.pl
+pcpolak.kt.agh.edu.pl
+bi1.eaiib.agh.edu.pl
+mr.metal.agh.edu.pl
+www.techno.agh.edu.pl
+xbl3.ics.agh.edu.pl
+sajuasus.weip.agh.edu.pl
+student1.zee.agh.edu.pl
+pc141.ket.agh.edu.pl
+mdp11b.elektro.agh.edu.pl
+wmsg34.gorn.agh.edu.pl
+mops056.uci.agh.edu.pl
+h5400.ics.agh.edu.pl
+www.muzeum.agh.edu.pl
+nat-weaiib17.agh.edu.pl
+www.spider2.ki.agh.edu.pl
+mcss2017.kt.agh.edu.pl
+pv-tracker.ia.agh.edu.pl
+wo10.odlew.agh.edu.pl
+podyplomowe.agh.edu.pl
+www.konferencja-eip.agh.edu.pl
+wnss-hp2015.ins.agh.edu.pl
+stass7.gorn.agh.edu.pl
+studium15.sjo.agh.edu.pl
+kawiory3.wpie.agh.edu.pl
+www.gew.agh.edu.pl
+wfitj63e.ftj.agh.edu.pl
+wfitj144e.ftj.agh.edu.pl
+ca0-063.ceramika.agh.edu.pl
+sock.ubpo.agh.edu.pl
+ds10.unifi.dsnet.agh.edu.pl
+comm.dc1-prx-b.infra.ki.agh.edu.pl
+www.iab2016.agh.edu.pl
+mikro.mn.agh.edu.pl
+www.zip.agh.edu.pl
+p104-b1.keiaspe.agh.edu.pl
+kcs44.ceramika.agh.edu.pl
+k-320-8.imir.agh.edu.pl
+mat219.mat.agh.edu.pl
+hp5035d6.kt.agh.edu.pl
+www.audytor.zarz.agh.edu.pl
+cb6-252.ceramika.agh.edu.pl
+cieplo.metal.agh.edu.pl
+twszolek.wibro.agh.edu.pl
+cs.agh.edu.pl
+kse11.ceramika.agh.edu.pl
+blister.mn.agh.edu.pl
+cb6-244.ceramika.agh.edu.pl
+dhcp145.kt.agh.edu.pl
+www.age.agh.edu.pl
+mackalo.gorn.agh.edu.pl
+grafika.kis.agh.edu.pl
+copter.wibro.agh.edu.pl
+e-risk.agh.edu.pl
+test184.kt.agh.edu.pl
+zmb9.ceramika.agh.edu.pl
+pmk.metal.agh.edu.pl
+host110-193.fis.agh.edu.pl
+pldlab7.elektro.agh.edu.pl
+ua.agh.edu.pl
+bukowski.geol.agh.edu.pl
+lester.ket.agh.edu.pl
+link-1springer-1com-1sciencecitationindex.wbg2.bg.agh.edu.pl
+mat187.mat.agh.edu.pl
+karkoszka.gorn.agh.edu.pl
+kap-104.imir.agh.edu.pl
+wo68.odlew.agh.edu.pl
+mdp09b.elektro.agh.edu.pl
+st6.gorn.agh.edu.pl
+cloud.portacc.cr.agh.edu.pl
+www.knbiomed.agh.edu.pl
+sjo.dznet.agh.edu.pl
+erydan-109.fis.agh.edu.pl
+host110-172.fis.agh.edu.pl
+leners.keiaspe.agh.edu.pl
+lm7.ia.agh.edu.pl
+dhcp152.kt.agh.edu.pl
+rejestr5.adm.agh.edu.pl
+fizykadlamedyka.fis.agh.edu.pl
+studium3.sjo.agh.edu.pl
+urss9.urss.agh.edu.pl
+violin.ia.agh.edu.pl
+dziek4.ceramika.agh.edu.pl
+jitter.elektro.agh.edu.pl
+host110-100.fis.agh.edu.pl
+serwer4.ktipm.agh.edu.pl
+pc88.zfcs.agh.edu.pl
+red.mn.agh.edu.pl
+ki.agh.edu.pl
+kpm.gorn.agh.edu.pl
+nat-adm.ki.agh.edu.pl
+galaxy.agh.edu.pl
+www.wph2007.agh.edu.pl
+rekrut-2.gorn.agh.edu.pl
+wiesiek.kt.agh.edu.pl
+kcs13.ceramika.agh.edu.pl
+atos.wydagh.agh.edu.pl
+fafara-pc.wnaft.agh.edu.pl
+ricoh-dziekanat.ftj.agh.edu.pl
+ke.agh.edu.pl
+www-1sciencedirect-1com-1000027az0188.wbg2.bg.agh.edu.pl
+kgg8.gorn.agh.edu.pl
+kuligowska.gorn.agh.edu.pl
+l11.gorn.agh.edu.pl
+fit.agh.edu.pl
+nat-wwnig8.agh.edu.pl
+poczta.bg.agh.edu.pl
+nat.ds16.agh.edu.pl
+roszkow.gorn.agh.edu.pl
+wojtek2.imir.agh.edu.pl
+pcdukat.kt.agh.edu.pl
+michalin.gorn.agh.edu.pl
+pc203.bg.agh.edu.pl
+lewicka-pc.zarz.agh.edu.pl
+kap-40.imir.agh.edu.pl
+listopad.mn.agh.edu.pl
+lm8.ia.agh.edu.pl
+aac-1asm-1org-1atoz.wbg2.bg.agh.edu.pl
+kmg-157.imir.agh.edu.pl
+test180.kt.agh.edu.pl
+www.blabel.agh.edu.pl
+www.upel.agh.edu.pl
+kudlacik.gorn.agh.edu.pl
+rpress8.imir.agh.edu.pl
+dhcp205.kt.agh.edu.pl
+mikro2.mn.agh.edu.pl
+ilon6.ia.agh.edu.pl
+ca0-082.ceramika.agh.edu.pl
+ca0-018.ceramika.agh.edu.pl
+wfitj240e.ftj.agh.edu.pl
+termia2.keiaspe.agh.edu.pl
+max.zee.agh.edu.pl
+ops.ki.agh.edu.pl
+syllabus-2019.uci.agh.edu.pl
+dhcp188.kt.agh.edu.pl
+wozpi.agh.edu.pl
+aq17.ia.agh.edu.pl
+procast.metal.agh.edu.pl
+kulczycka-pc.zarz.agh.edu.pl
+archiwum.agh.edu.pl
+wmsg29.gorn.agh.edu.pl
+pr-inf3.wibro.agh.edu.pl
+old.wh.agh.edu.pl
+wnssp18-2.ins.agh.edu.pl
+clustersrv.ket.agh.edu.pl
+www.isim.agh.edu.pl
+www.embedded.agh.edu.pl
+wo91.odlew.agh.edu.pl
+kocierz.geod.agh.edu.pl
+projektor.wpie.agh.edu.pl
+kesek.gorn.agh.edu.pl
+zts33.ia.agh.edu.pl
+www.krk.agh.edu.pl
+vpn227.kt.agh.edu.pl
+hpcad3.ftj.agh.edu.pl
+kawiory21.wpie.agh.edu.pl
+dhcp087.kt.agh.edu.pl
+irezaj.imir.agh.edu.pl
+www.geod.agh.edu.pl
+www.b2b.zarz.agh.edu.pl
+pc21.zfcs.agh.edu.pl
+misiek.wibro.agh.edu.pl
+mops125.uci.agh.edu.pl
+st16.gorn.agh.edu.pl
+wfitj72e.ftj.agh.edu.pl
+test128.kt.agh.edu.pl
+stats.dsnet.agh.edu.pl
+virtual.zarz.agh.edu.pl
+dhcp-pc193.elektro.agh.edu.pl
+nuta.gorn.agh.edu.pl
+b3-3.mn.agh.edu.pl
+itsrcp18.fis.agh.edu.pl
+marta.wpie.agh.edu.pl
+informatyka.podyplomowe.agh.edu.pl
+pkm.imir.agh.edu.pl
+mops146.uci.agh.edu.pl
+klys.gorn.agh.edu.pl
+dyplomy.gorn.agh.edu.pl
+pin.bg.agh.edu.pl
+b1-104.keiaspe.agh.edu.pl
+laser.kme.agh.edu.pl
+model.metal.agh.edu.pl
+ktipm50.ktipm.agh.edu.pl
+zm224.zmet.agh.edu.pl
+nat-adm9.agh.edu.pl
+sieradzki.gorn.agh.edu.pl
+mops097.uci.agh.edu.pl
+wsuwala.weip.agh.edu.pl
+zefirek.ia.agh.edu.pl
+mops068.uci.agh.edu.pl
+sylabusy-test.agh.edu.pl
+bip-2.geol.agh.edu.pl
+kiosk.bg.agh.edu.pl
+pajak.imir.agh.edu.pl
+mozart.elektro.agh.edu.pl
+tribos1.imir.agh.edu.pl
+zmb32.ceramika.agh.edu.pl
+lucz.zee.agh.edu.pl
+pc238.geol.agh.edu.pl
+zgaga.geod.agh.edu.pl
+www.knpg.agh.edu.pl
+lpw.agh.edu.pl
+ixs3.cel.agh.edu.pl
+host110-228.fis.agh.edu.pl
+maver.elektro.agh.edu.pl
+mdp04c.elektro.agh.edu.pl
+krokus2-14.imir.agh.edu.pl
+aska.geod.agh.edu.pl
+mdp12a.elektro.agh.edu.pl
+labservn.kt.agh.edu.pl
+bukowski-pc.zarz.agh.edu.pl
+ns2.kt.agh.edu.pl
+zts57.ia.agh.edu.pl
+mops082.uci.agh.edu.pl
+cyrnek.gorn.agh.edu.pl
+mat244.mat.agh.edu.pl
+kostek.ket.agh.edu.pl
+vela.wpie.agh.edu.pl
+mikulik-pc.zarz.agh.edu.pl
+owlet.kis.agh.edu.pl
+mat209.mat.agh.edu.pl
+jmd.wpie.agh.edu.pl
+kasina.geol.agh.edu.pl
+nb-al.kt.agh.edu.pl
+lipsk210-pc2.zarz.agh.edu.pl
+cb6-197.ceramika.agh.edu.pl
+gandalf.icsr.agh.edu.pl
+moon.kt.agh.edu.pl
+kaz.metal.agh.edu.pl
+wnssp105.ins.agh.edu.pl
+elzbieta.wpie.agh.edu.pl
+www.kgp.agh.edu.pl
+mj.zarz.agh.edu.pl
+mms.ftj.agh.edu.pl
+www.acmin.agh.edu.pl
+zubel.geol.agh.edu.pl
+chomik.metal.agh.edu.pl
+kz.eaiib.agh.edu.pl
+art.mn.agh.edu.pl
+johny.metal.agh.edu.pl
+host110-168.fis.agh.edu.pl
+host109-97.fis.agh.edu.pl
+123gate.imir.agh.edu.pl
+rada-wg.gorn.agh.edu.pl
+test237.kt.agh.edu.pl
+p111.zet.agh.edu.pl
+mdp07c.elektro.agh.edu.pl
+host110-164.fis.agh.edu.pl
+lab12.gorn.agh.edu.pl
+micro.metal.agh.edu.pl
+test139.kt.agh.edu.pl
+aux.testament10.uci.agh.edu.pl
+ca0-037.ceramika.agh.edu.pl
+mat238.mat.agh.edu.pl
+mdp04a.elektro.agh.edu.pl
+cmat48.mat.agh.edu.pl
+pp.geod.agh.edu.pl
+pc1.geol.agh.edu.pl
+cb6-179.ceramika.agh.edu.pl
+kopec.gorn.agh.edu.pl
+kokpit-dev.uci.agh.edu.pl
+kcs2.ceramika.agh.edu.pl
+wagner.geol.agh.edu.pl
+lewicki.gorn.agh.edu.pl
+studium23.sjo.agh.edu.pl
+wifip321dlink.zarz.agh.edu.pl
+wgig.agh.edu.pl
+aneta.metal.agh.edu.pl
+home.agh.edu.pl
+wo13.odlew.agh.edu.pl
+jurek-p.wibro.agh.edu.pl
+host110-145.fis.agh.edu.pl
+www.pami.agh.edu.pl
+julia.gorn.agh.edu.pl
+jamroz-pc.zarz.agh.edu.pl
+wfitj236e.ftj.agh.edu.pl
+proj09.gorn.agh.edu.pl
+kca23.ceramika.agh.edu.pl
+wnssp106.ins.agh.edu.pl
+dziekanz-pc.zarz.agh.edu.pl
+wfitj83e.ftj.agh.edu.pl
+zasmob.mn.agh.edu.pl
+prezes.zet.agh.edu.pl
+swfis.dznet.agh.edu.pl
+ilona.mn.agh.edu.pl
+fil.mn.agh.edu.pl
+dynamix.agh.edu.pl
+calendar.kis.agh.edu.pl
+ozs-czyt.bg.agh.edu.pl
+b2-kor0-3.imir.agh.edu.pl
+host110-20.fis.agh.edu.pl
+mat237.mat.agh.edu.pl
+vumix.uci.agh.edu.pl
+zts53.ia.agh.edu.pl
+wilk.geol.agh.edu.pl
+starccm.wibro.agh.edu.pl
+wh.agh.edu.pl
+aq6.ia.agh.edu.pl
+host109-81.fis.agh.edu.pl
+pc69.bg.agh.edu.pl
+kstaszek.elektro.agh.edu.pl
+tem.agh.edu.pl
+i5os1.fis.agh.edu.pl
+wloziak.keiaspe.agh.edu.pl
+ccs.agh.edu.pl
+grafika.geod.agh.edu.pl
+stud214.fis.agh.edu.pl
+p221-2.mn.agh.edu.pl
+admiet.uci.agh.edu.pl
+zm238.zmet.agh.edu.pl
+stud146.fis.agh.edu.pl
+elproma.kt.agh.edu.pl
+kb.ceramika.agh.edu.pl
+beskid.metal.agh.edu.pl
+wo100.odlew.agh.edu.pl
+pc169.kme.agh.edu.pl
+www.lat.agh.edu.pl
+if3.zfcs.agh.edu.pl
+www.rid.agh.edu.pl
+kap-130.imir.agh.edu.pl
+kristo.mn.agh.edu.pl
+pracme2.mn.agh.edu.pl
+musti.zet.agh.edu.pl
+www.mecc08.agh.edu.pl
+teneta.eaiib.agh.edu.pl
+www.eestec.agh.edu.pl
+www.biometr.agh.edu.pl
+wojcik-2.imir.agh.edu.pl
+weip-d4-48.weip.agh.edu.pl
+alibel.geod.agh.edu.pl
+teneta2.ia.agh.edu.pl
+luk15.metal.agh.edu.pl
+weip-d4-19.weip.agh.edu.pl
+http1.geod.agh.edu.pl
+weip-d4-28.weip.agh.edu.pl
+test163.kt.agh.edu.pl
+wnaft-0001-e1.wnaft.agh.edu.pl
+wfitj108e.ftj.agh.edu.pl
+zts31.ia.agh.edu.pl
+www.obrony.zarz.agh.edu.pl
+test193.kt.agh.edu.pl
+www.krab.agh.edu.pl
+ie6.ket.agh.edu.pl
+switch5.wnaft.agh.edu.pl
+ni2s3.kt.agh.edu.pl
+www.techstart.agh.edu.pl
+kisworkstation.zarz.agh.edu.pl
+talgo.keiaspe.agh.edu.pl
+zurek.metal.agh.edu.pl
+www.promocja.agh.edu.pl
+klon.geod.agh.edu.pl
+bdc.geod.agh.edu.pl
+asg.metal.agh.edu.pl
+agh.edu.pl
+kmertr.kme.agh.edu.pl
+www.giigs.agh.edu.pl
+pc65.zfcs.agh.edu.pl
+zm244.zmet.agh.edu.pl
+lab404b.ia.agh.edu.pl
+a3-06.gorn.agh.edu.pl
+servis1.mn.agh.edu.pl
+podyplomowe.fis.agh.edu.pl
+konik.metal.agh.edu.pl
+ktipm54.ktipm.agh.edu.pl
+bd.geod.agh.edu.pl
+abrzeziak.metal.agh.edu.pl
+otuc.agh.edu.pl
+webadm.zarz.agh.edu.pl
+anubis.metal.agh.edu.pl
+alsite.geol.agh.edu.pl
+host110-226.fis.agh.edu.pl
+limba11.metal.agh.edu.pl
+wmsg1.gorn.agh.edu.pl
+host110-55.fis.agh.edu.pl
+tokarz.imir.agh.edu.pl
+karw.geol.agh.edu.pl
+kcs9.ceramika.agh.edu.pl
+gielzeck.metal.agh.edu.pl
+mops141.uci.agh.edu.pl
+robik.mn.agh.edu.pl
+shalom.kt.agh.edu.pl
+mat154.mat.agh.edu.pl
+nat-wggiis1.agh.edu.pl
+4-p118b-b1.keiaspe.agh.edu.pl
+ds11.agh.edu.pl
+wo157.odlew.agh.edu.pl
+throne.keiaspe.agh.edu.pl
+ftj.agh.edu.pl
+sekret2.zet.agh.edu.pl
+ov.kis.agh.edu.pl
+krzysio.ia.agh.edu.pl
+wordpress.agh.edu.pl
+vmw6.ftj.agh.edu.pl
+wmsg20.gorn.agh.edu.pl
+wutest.agh.edu.pl
+weip-d4-45.weip.agh.edu.pl
+pc237.geol.agh.edu.pl
+www.adapter.agh.edu.pl
+ca0-012.ceramika.agh.edu.pl
+wfitj42e.ftj.agh.edu.pl
+pc119.zfcs.agh.edu.pl
+dhcp0121.kt.agh.edu.pl
+labkan9.ket.agh.edu.pl
+cmat59.mat.agh.edu.pl
+www.kseiuos.agh.edu.pl
+kap-144.imir.agh.edu.pl
+solmet.ia.agh.edu.pl
+kawiory17.wpie.agh.edu.pl
+ktl-s1.imir.agh.edu.pl
+cb6-185.ceramika.agh.edu.pl
+metody.metal.agh.edu.pl
+zgg51.geod.agh.edu.pl
+mops143.uci.agh.edu.pl
+sanak.gorn.agh.edu.pl
+mi.wh.agh.edu.pl
+test181.kt.agh.edu.pl
+ie23.ket.agh.edu.pl
+pc60.zfcs.agh.edu.pl
+nat-adm20.agh.edu.pl
+webmail.kt.agh.edu.pl
+adam.wpie.agh.edu.pl
+wfitj193e.ftj.agh.edu.pl
+www.vivat.agh.edu.pl
+cb6-148.ceramika.agh.edu.pl
+zgg4.geod.agh.edu.pl
+wnaft-0001-e3.wnaft.agh.edu.pl
+ppg.b1.agh.edu.pl
+kalukiewicz.imir.agh.edu.pl
+www.spdgp.agh.edu.pl
+wfitj131e.ftj.agh.edu.pl
+licz-b5.adm.agh.edu.pl
+www.pomost.fis.agh.edu.pl
+t-w.wibro.agh.edu.pl
+pc43.zfcs.agh.edu.pl
+dysk.agh.edu.pl
+ds3.unifi.dsnet.agh.edu.pl
+dlugi.geol.agh.edu.pl
+k-210-08.imir.agh.edu.pl
+www.sing10.agh.edu.pl
+build.fslab.agh.edu.pl
+https.forti-units.agh.edu.pl
+rutkowski.geol.agh.edu.pl
+ebatko2.metal.agh.edu.pl
+kcs22.ceramika.agh.edu.pl
+kanlab12.keiaspe.agh.edu.pl
+wo119.odlew.agh.edu.pl
+dhcp178.kt.agh.edu.pl
+pszwed.ia.agh.edu.pl
+sekret.elektro.agh.edu.pl
+krokus150.imir.agh.edu.pl
+magicyola.uci.agh.edu.pl
+barbakan.kwestura.agh.edu.pl
+wo95.odlew.agh.edu.pl
+demo3.ftj.agh.edu.pl
+ptetis.agh.edu.pl
+krokus136.imir.agh.edu.pl
+amir413.elektro.agh.edu.pl
+ala.gorn.agh.edu.pl
+dhcp0110.kt.agh.edu.pl
+dhcp0108.kt.agh.edu.pl
+ktipm26.ktipm.agh.edu.pl
+dhcp184.kt.agh.edu.pl
+aq18.ia.agh.edu.pl
+izwa.ia.agh.edu.pl
+db3.cel.agh.edu.pl
+wfitj170e.ftj.agh.edu.pl
+everest.uci.agh.edu.pl
+kap-140.imir.agh.edu.pl
+st8.gorn.agh.edu.pl
+sinczak.metal.agh.edu.pl
+www.klient.zarz.agh.edu.pl
+wo96.odlew.agh.edu.pl
+syllabuskrk.agh.edu.pl
+cb6-220.ceramika.agh.edu.pl
+skylab.geod.agh.edu.pl
+stass1.gorn.agh.edu.pl
+jgalka-i7.ket.agh.edu.pl
+icses2016.agh.edu.pl
+ka74.ia.agh.edu.pl
+katel.elektro.agh.edu.pl
+szczep.metal.agh.edu.pl
+madzia.mn.agh.edu.pl
+lm2.ia.agh.edu.pl
+kraszan.zet.agh.edu.pl
+www.kucie.agh.edu.pl
+asystent2.wpie.agh.edu.pl
+rafi2.kt.agh.edu.pl
+kcs40.ceramika.agh.edu.pl
+dhcp180.kt.agh.edu.pl
+www.kaut.agh.edu.pl
+lysy.wibro.agh.edu.pl
+balancer.uci.agh.edu.pl
+host110-87.fis.agh.edu.pl
+pc386.ia.agh.edu.pl
+lukasz.metal.agh.edu.pl
+pckulak.kt.agh.edu.pl
+kis.zarz.agh.edu.pl
+mech.fis.agh.edu.pl
+sekretariat-kmg.imir.agh.edu.pl
+franik.gorn.agh.edu.pl
+nat-vl107.agh.edu.pl
+magda.gorn.agh.edu.pl
+icq12.fis.agh.edu.pl
+host109-98.fis.agh.edu.pl
+hpmini.geod.agh.edu.pl
+benek.wibro.agh.edu.pl
+www.kmg.agh.edu.pl
+sylabus.phd.agh.edu.pl
+wo109.odlew.agh.edu.pl
+kap-18.imir.agh.edu.pl
+danusia.mn.agh.edu.pl
+wfitj164e.ftj.agh.edu.pl
+confreg.auth.kt.agh.edu.pl
+www.ketg.agh.edu.pl
+nanga.ia.agh.edu.pl
+ict2021.agh.edu.pl
+muweis-pc.zarz.agh.edu.pl
+kap-12.imir.agh.edu.pl
+galas.gorn.agh.edu.pl
+ds13.unifi.dsnet.agh.edu.pl
+jabba.icsr.agh.edu.pl
+ares.gorn.agh.edu.pl
+www.smartgrid.agh.edu.pl
+pcc208.ia.agh.edu.pl
+www.ct2tee.agh.edu.pl
+archive.kt.agh.edu.pl
+nowaksen.gorn.agh.edu.pl
+pc162.kme.agh.edu.pl
+gandawa.imir.agh.edu.pl
+nat-sjo1.agh.edu.pl
+kse9.ceramika.agh.edu.pl
+dinomkop.metal.agh.edu.pl
+www.eaiib.agh.edu.pl
+rakowski.imir.agh.edu.pl
+wpie33.wpie.agh.edu.pl
+www.geoturystyka.agh.edu.pl
+strzelska.geol.agh.edu.pl
+ldm.agh.edu.pl
+apro-109.imir.agh.edu.pl
+aq65.ia.agh.edu.pl
+fafara-nb.wnaft.agh.edu.pl
+lab14h2-b1.keiaspe.agh.edu.pl
+ds4.agh.edu.pl
+nat.ds19.agh.edu.pl
+l09.gorn.agh.edu.pl
+pc36.zfcs.agh.edu.pl
+laser.keiaspe.agh.edu.pl
+wfitj135e.ftj.agh.edu.pl
+journals-1bg-1agh-1edu-1pl-1000032d903a0.wbg2.bg.agh.edu.pl
+kandydaci.agh.edu.pl
+wpie41.wpie.agh.edu.pl
+dhcp088.kt.agh.edu.pl
+nat-weaiib39.agh.edu.pl
+marta.metal.agh.edu.pl
+phobos.kt.agh.edu.pl
+geolog.geol.agh.edu.pl
+host110-143.fis.agh.edu.pl
+glodzik.gorn.agh.edu.pl
+dzienhutnika.agh.edu.pl
+test147.kt.agh.edu.pl
+gpsf.geod.agh.edu.pl
+zibi.wibro.agh.edu.pl
+samba.ia.agh.edu.pl
+mitis.kt.agh.edu.pl
+ktipm33.ktipm.agh.edu.pl
+nat-csg.ki.agh.edu.pl
+wo37.odlew.agh.edu.pl
+test212.kt.agh.edu.pl
+turnia5.metal.agh.edu.pl
+kca21.ceramika.agh.edu.pl
+neon.mn.agh.edu.pl
+dhcp085.kt.agh.edu.pl
+dhcp058.kt.agh.edu.pl
+wggios.agh.edu.pl
+vmw2.ftj.agh.edu.pl
+rez192113.imir.agh.edu.pl
+wfitj116e.ftj.agh.edu.pl
+wf.agh.edu.pl
+kawiory16.wpie.agh.edu.pl
+jupyter.sp-class.agh.edu.pl
+p115-3.mn.agh.edu.pl
+siemens.ia.agh.edu.pl
+mes6.mn.agh.edu.pl
+solinski-pc.zarz.agh.edu.pl
+sd.dznet.agh.edu.pl
+kawiory28.wpie.agh.edu.pl
+pc86.zfcs.agh.edu.pl
+geod.agh.edu.pl
+kawiory24.wpie.agh.edu.pl
+host110-118.fis.agh.edu.pl
+mnoga.keiaspe.agh.edu.pl
+gustaw.wpie.agh.edu.pl
+zmetrtr.zmet.agh.edu.pl
+wnssp23.ins.agh.edu.pl
+apollo.ia.agh.edu.pl
+dhcp095.kt.agh.edu.pl
+cb6-170.ceramika.agh.edu.pl
+www.msm.agh.edu.pl
+nebula.fis.agh.edu.pl
+josef.imir.agh.edu.pl
+usos.demo.ki.agh.edu.pl
+doktoraty.iet.agh.edu.pl
+www.iab2019.agh.edu.pl
+integra-01-open.cel.agh.edu.pl
+stud144.fis.agh.edu.pl
+ca0-022.ceramika.agh.edu.pl
+ph.elektro.agh.edu.pl
+kcs12.ceramika.agh.edu.pl
+indectnode.kt.agh.edu.pl
+zubek.wibro.agh.edu.pl
+turnia8.metal.agh.edu.pl
+ela.mn.agh.edu.pl
+aurlab.agh.edu.pl
+gandalf.wibro.agh.edu.pl
+olek.elektro.agh.edu.pl
+elog.kt.agh.edu.pl
+plichta.kt.agh.edu.pl
+mpawlik.geol.agh.edu.pl
+krokus141.imir.agh.edu.pl
+semyrka.geol.agh.edu.pl
+zts40.ia.agh.edu.pl
+zmb24.ceramika.agh.edu.pl
+jakobczak.geol.agh.edu.pl
+kompilatory.agh.edu.pl
+bpp.agh.edu.pl
+roscisz.gorn.agh.edu.pl
+machowska-pc.zarz.agh.edu.pl
+mops067.uci.agh.edu.pl
+dhcp071.kt.agh.edu.pl
+fermi.ftj.agh.edu.pl
+host110-44.fis.agh.edu.pl
+www-1scientific-1net-1atoz.wbg2.bg.agh.edu.pl
+atlas.imir.agh.edu.pl
+mdp12c.elektro.agh.edu.pl
+kcs26.ceramika.agh.edu.pl
+lumifun.fis.agh.edu.pl
+kania.geod.agh.edu.pl
+www-1degruyter-1com-1xh51ewjl3aef.wbg2.bg.agh.edu.pl
+ops.iisg.agh.edu.pl
+dhcp0112.kt.agh.edu.pl
+kp.metal.agh.edu.pl
+sith.icsr.agh.edu.pl
+csr.agh.edu.pl
+nowakows.mn.agh.edu.pl
+a3-07.gorn.agh.edu.pl
+wo.dznet.agh.edu.pl
+stmet09.metal.agh.edu.pl
+somlenska.geol.agh.edu.pl
+zw.metal.agh.edu.pl
+nat-uci1.agh.edu.pl
+host109-88.fis.agh.edu.pl
+www.bigdata.agh.edu.pl
+pcc220.ia.agh.edu.pl
+wpie16.wpie.agh.edu.pl
+www.dsnet.agh.edu.pl
+iaeste.agh.edu.pl
+posejdon.zee.agh.edu.pl
+lbpr4.mn.agh.edu.pl
+wibro-113.imir.agh.edu.pl
+esa.agh.edu.pl
+chludek.gorn.agh.edu.pl
+mops127.uci.agh.edu.pl
+n98.kis.agh.edu.pl
+grzesiak.metal.agh.edu.pl
+janmar.imir.agh.edu.pl
+wolowiec.metal.agh.edu.pl
+hp5000.kt.agh.edu.pl
+olimp22.imir.agh.edu.pl
+dev3.cel.agh.edu.pl
+ktipm28.ktipm.agh.edu.pl
+www.pssi.agh.edu.pl
+spin-up.agh.edu.pl
+kse17.ceramika.agh.edu.pl
+stud102.fis.agh.edu.pl
+kamerah24.eaiib.agh.edu.pl
+www.paraphrase.agh.edu.pl
+mops118.uci.agh.edu.pl
+wfitj192e.ftj.agh.edu.pl
+pcc206.ia.agh.edu.pl
+b3-4.mn.agh.edu.pl
+cmat47.mat.agh.edu.pl
+host110-231.fis.agh.edu.pl
+p306.ket.agh.edu.pl
+mat138.mat.agh.edu.pl
+nat-weaiib7.agh.edu.pl
+www.kpput.agh.edu.pl
+bastion.d17.iisg.agh.edu.pl
+przenosiny.elektro.agh.edu.pl
+wfitj171e.ftj.agh.edu.pl
+fcb.fis.agh.edu.pl
+spinlab.agh.edu.pl
+optyme.kt.agh.edu.pl
+usterki.test.dsnet.agh.edu.pl
+kmg-prac0.imir.agh.edu.pl
+kokpit.uci.agh.edu.pl
+dragon.wibro.agh.edu.pl
+kse8.ceramika.agh.edu.pl
+basen-router.adm.agh.edu.pl
+amon.metal.agh.edu.pl
+orawiak.geod.agh.edu.pl
+broda.gorn.agh.edu.pl
+dabrowska.geol.agh.edu.pl
+stratus.elektro.agh.edu.pl
+www.oragh.agh.edu.pl
+7ccgt.agh.edu.pl
+typo3dev.uci.agh.edu.pl
+ursstv.agh.edu.pl
+lsr02.ia.agh.edu.pl
+k-322-12.imir.agh.edu.pl
+prodziek1.weip.agh.edu.pl
+ad.elektro.agh.edu.pl
+b3-komp3.zet.agh.edu.pl
+zts48.ia.agh.edu.pl
+lab08-3.mn.agh.edu.pl
+journals-1bg-1agh-1edu-1pl-1000032tb0add.wbg2.bg.agh.edu.pl
+ru.agh.edu.pl
+eds-1b-1ebscohost-1com-1atoz.wbg2.bg.agh.edu.pl
+test148.kt.agh.edu.pl
+felisiak.geol.agh.edu.pl
+azs.agh.edu.pl
+agh-cop-raporty.map.infra.ki.agh.edu.pl
+kap-116.imir.agh.edu.pl
+mat248.mat.agh.edu.pl
+justyna.mn.agh.edu.pl
+pc87.zfcs.agh.edu.pl
+dhcp089.kt.agh.edu.pl
+www.projekty.krim.agh.edu.pl
+tecra.kt.agh.edu.pl
+pubs-1rsc-1org-1wu2bf66n3846.wbg2.bg.agh.edu.pl
+aryniew.imir.agh.edu.pl
+wfitj202e.ftj.agh.edu.pl
+s4f.agh.edu.pl
+wz.zarz.agh.edu.pl
+www.ptkat.agh.edu.pl
+oserv1.kt.agh.edu.pl
+pcpolaczyk.kt.agh.edu.pl
+mops100.uci.agh.edu.pl
+vivat.agh.edu.pl
+k-322-10.imir.agh.edu.pl
+www.pzme.zarz.agh.edu.pl
+tempus.metal.agh.edu.pl
+wfitj180e.ftj.agh.edu.pl
+facedev.kt.agh.edu.pl
+wfitj225e.ftj.agh.edu.pl
+cel.agh.edu.pl
+usos.ki.agh.edu.pl
+dhcp066.kt.agh.edu.pl
+www.mielec.agh.edu.pl
+galileo.imir.agh.edu.pl
+www.sorbenty2017.agh.edu.pl
+zagajnik.wibro.agh.edu.pl
+rpress5.imir.agh.edu.pl
+limba5.metal.agh.edu.pl
+www.kusiak.cel.agh.edu.pl
+lx2.geol.agh.edu.pl
+mat131.mat.agh.edu.pl
+portage.kt.agh.edu.pl
+iza.elektro.agh.edu.pl
+gollum.zfcs.agh.edu.pl
+hydra.elektro.agh.edu.pl
+host110-61.fis.agh.edu.pl
+wnssp23-2.ins.agh.edu.pl
+nat-wwnig1.agh.edu.pl
+walec2.mn.agh.edu.pl
+geomatyka.geod.agh.edu.pl
+b3-8.mn.agh.edu.pl
+l16.gorn.agh.edu.pl
+dni-hoborskiego.agh.edu.pl
+turbacz.metal.agh.edu.pl
+wo107.odlew.agh.edu.pl
+wo105.odlew.agh.edu.pl
+jk.gorn.agh.edu.pl
+stud235.fis.agh.edu.pl
+ka.agh.edu.pl
+rusek.imir.agh.edu.pl
+www-1sciencedirect-1com-1000027uj0050.wbg2.bg.agh.edu.pl
+rek1.mn.agh.edu.pl
+mops083.uci.agh.edu.pl
+krokus142.imir.agh.edu.pl
+phd.b1.agh.edu.pl
+host110-130.fis.agh.edu.pl
+www.ms.agh.edu.pl
+krokus146.imir.agh.edu.pl
+www.scalak.elektro.agh.edu.pl
+ns25.elektro.agh.edu.pl
+kawiory14.wpie.agh.edu.pl
+power1a.uci.agh.edu.pl
+login.wbg2.bg.agh.edu.pl
+nyquist.ia.agh.edu.pl
+dbc3.cel.agh.edu.pl
+cmat54.mat.agh.edu.pl
+lc1.labcisco.agh.edu.pl
+wumtest.uci.agh.edu.pl
+nat-adm21.agh.edu.pl
+if22.zfcs.agh.edu.pl
+www-1sciencedirect-1com-1000027eh02cb.wbg2.bg.agh.edu.pl
+cb6-172.ceramika.agh.edu.pl
+pc21.geol.agh.edu.pl
+hp4350pietro.kt.agh.edu.pl
+mszczerba2.mn.agh.edu.pl
+laska.geol.agh.edu.pl
+lrmz.ia.agh.edu.pl
+www.afej.agh.edu.pl
+zkc5.ceramika.agh.edu.pl
+www.wnss.agh.edu.pl
+www.kgbig.agh.edu.pl
+feliks.imir.agh.edu.pl
+kse14.ceramika.agh.edu.pl
+rejestr2.adm.agh.edu.pl
+wfitj115e.ftj.agh.edu.pl
+hawking.ia.agh.edu.pl
+host110-188.fis.agh.edu.pl
+pc5.geol.agh.edu.pl
+dou4.adm.agh.edu.pl
+vcs-e.ki.agh.edu.pl
+wnssp112.ins.agh.edu.pl
+pc.ia.agh.edu.pl
+www.decyzje.agh.edu.pl
+www.ka.agh.edu.pl
+www.gazety.agh.edu.pl
+poseidon.uci.agh.edu.pl
+proszowska-pc.zarz.agh.edu.pl
+aq67.ia.agh.edu.pl
+wo67.odlew.agh.edu.pl
+cb6-169.ceramika.agh.edu.pl
+host110-186.fis.agh.edu.pl
+host110-48.fis.agh.edu.pl
+lab-12.mn.agh.edu.pl
+www.komplastech.agh.edu.pl
+tak.uci.agh.edu.pl
+nato.geol.agh.edu.pl
+keios.agh.edu.pl
+kca5.ceramika.agh.edu.pl
+in.iisg.agh.edu.pl
+dflisiak.gorn.agh.edu.pl
+b3-1.mn.agh.edu.pl
+papiernik.geol.agh.edu.pl
+joki.zee.agh.edu.pl
+proactive.kt.agh.edu.pl
+basia.elektro.agh.edu.pl
+dhcp-pc208.elektro.agh.edu.pl
+wo123.odlew.agh.edu.pl
+zts38.ia.agh.edu.pl
+pc512.elektro.agh.edu.pl
+zjazd.ceramika.agh.edu.pl
+wfitj132e.ftj.agh.edu.pl
+dhcp0116.kt.agh.edu.pl
+jtrela.mn.agh.edu.pl
+tsokol.geol.agh.edu.pl
+host110-236.fis.agh.edu.pl
+wfitj207e.ftj.agh.edu.pl
+ilon9.ia.agh.edu.pl
+wpie28.wpie.agh.edu.pl
+biblio.kt.agh.edu.pl
+mops126.uci.agh.edu.pl
+wmsg.gorn.agh.edu.pl
+nat.ds20.agh.edu.pl
+www.kngpan.agh.edu.pl
+stamak.keiaspe.agh.edu.pl
+wfitj114e.ftj.agh.edu.pl
+knm1.imir.agh.edu.pl
+kb14.ceramika.agh.edu.pl
+switch1.wnaft.agh.edu.pl
+trash.metal.agh.edu.pl
+l15.gorn.agh.edu.pl
+l07.gorn.agh.edu.pl
+lic-srv-3.wnaft.agh.edu.pl
+kaib.agh.edu.pl
+sonata.wibro.agh.edu.pl
+st12.gorn.agh.edu.pl
+redmine.kis.agh.edu.pl
+olimp194.imir.agh.edu.pl
+netback.uci.agh.edu.pl
+mambroz.metal.agh.edu.pl
+lwm5.imir.agh.edu.pl
+czopek.gorn.agh.edu.pl
+dhcp0109.kt.agh.edu.pl
+pc18.zfcs.agh.edu.pl
+mat171.mat.agh.edu.pl
+sikora.wibro.agh.edu.pl
+omnivista2.adm.agh.edu.pl
+stud156.fis.agh.edu.pl
+dhcp170.kt.agh.edu.pl
+mat184.mat.agh.edu.pl
+pc152.kme.agh.edu.pl
+dok.agh.edu.pl
+tyflos.uci.agh.edu.pl
+ww1.cel.agh.edu.pl
+kastor.ics.agh.edu.pl
+www.kezp.gorn.agh.edu.pl
+www.sim.agh.edu.pl
+2-p118b-b1.keiaspe.agh.edu.pl
+anka.metal.agh.edu.pl
+kernel.fis.agh.edu.pl
+host110-95.fis.agh.edu.pl
+grantyds.iet.agh.edu.pl
+webhd.cri.agh.edu.pl
+ky4300parter.kt.agh.edu.pl
+nutech-2017.agh.edu.pl
+pc64.zfcs.agh.edu.pl
+twiki.fotogrametria.agh.edu.pl
+fg4.adm.agh.edu.pl
+kerrjw.ket.agh.edu.pl
+mfcs.ki.agh.edu.pl
+www.pinbio.agh.edu.pl
+www.or.zarz.agh.edu.pl
+dhcp197.kt.agh.edu.pl
+pendel.geod.agh.edu.pl
+komplex.geod.agh.edu.pl
+clusterpm2.ket.agh.edu.pl
+pr-pom.imir.agh.edu.pl
+glowniak.geol.agh.edu.pl
+kse22.ceramika.agh.edu.pl
+rajchel.geol.agh.edu.pl
+mops073.uci.agh.edu.pl
+kandydat.agh.edu.pl
+optas.elektro.agh.edu.pl
+hydra.fis.agh.edu.pl
+www.pomoc-it.agh.edu.pl
+nat-vl222.agh.edu.pl
+bekgaik-pc.zarz.agh.edu.pl
+kca14.ceramika.agh.edu.pl
+wfitj18e.ftj.agh.edu.pl
+www.ict2021.agh.edu.pl
+tobola.geol.agh.edu.pl
+iris.cs.agh.edu.pl
+nat-wiet3.agh.edu.pl
+ns.icsr.agh.edu.pl
+nb-kw.kt.agh.edu.pl
+zmb27.ceramika.agh.edu.pl
+voodoo.elektro.agh.edu.pl
+orion.geod.agh.edu.pl
+kusto.mn.agh.edu.pl
+host110-232.fis.agh.edu.pl
+ktipm12.ktipm.agh.edu.pl
+phoneme.dsp.agh.edu.pl
+wfitj206e.ftj.agh.edu.pl
+figa2.kwestura.agh.edu.pl
+pc5.wibro.agh.edu.pl
+lwm7.imir.agh.edu.pl
+mat148.mat.agh.edu.pl
+wlodek.ia.agh.edu.pl
+stud228.fis.agh.edu.pl
+wfitj126e.ftj.agh.edu.pl
+felis.wibro.agh.edu.pl
+zgg2.geod.agh.edu.pl
+www.fi.agh.edu.pl
+joz.wibro.agh.edu.pl
+mops072.uci.agh.edu.pl
+k-322-8.imir.agh.edu.pl
+cmat16.mat.agh.edu.pl
+jblachut-pc.zarz.agh.edu.pl
+jarjar.icsr.agh.edu.pl
+midas.geod.agh.edu.pl
+pyra.gorn.agh.edu.pl
+kfimp.ceramika.agh.edu.pl
+mat150.mat.agh.edu.pl
+dgn.agh.edu.pl
+wfitj147e.ftj.agh.edu.pl
+www.sknos.agh.edu.pl
+dima.metal.agh.edu.pl
+callmgr.kt.agh.edu.pl
+nat.ds6.agh.edu.pl
+tuo.agh.edu.pl
+tomek310.geod.agh.edu.pl
+dhcp074.kt.agh.edu.pl
+fgp13.agh.edu.pl
+dou6.adm.agh.edu.pl
+pc09.zfcs.agh.edu.pl
+peszko.gorn.agh.edu.pl
+www.dialog.agh.edu.pl
+rekrutacja.doktoranci.agh.edu.pl
+www.kaskgg.agh.edu.pl
+super3-pc.zarz.agh.edu.pl
+kap-102.imir.agh.edu.pl
+zm197.zmet.agh.edu.pl
+nela.wibro.agh.edu.pl
+cb6-232.ceramika.agh.edu.pl
+skrzypko.gorn.agh.edu.pl
+kap-44.imir.agh.edu.pl
+opc3.kt.agh.edu.pl
+mdp01c.elektro.agh.edu.pl
+proszek.metal.agh.edu.pl
+journals-1sagepub-1com-1000032oq0e2d.wbg2.bg.agh.edu.pl
+stud230.fis.agh.edu.pl
+pks2.gorn.agh.edu.pl
+zmb14.ceramika.agh.edu.pl
+rank.bpp2020.agh.edu.pl
+wo149.odlew.agh.edu.pl
+forum-et.agh.edu.pl
+wo115.odlew.agh.edu.pl
+test165.kt.agh.edu.pl
+www.komb.agh.edu.pl
+ktipm56.ktipm.agh.edu.pl
+wfitj137e.ftj.agh.edu.pl
+stolowka1.adm.agh.edu.pl
+www.puchar.agh.edu.pl
+procjon.imir.agh.edu.pl
+wo64.odlew.agh.edu.pl
+lbsh7.ia.agh.edu.pl
+miles.metal.agh.edu.pl
+portal.ki.agh.edu.pl
+wfitj71e.ftj.agh.edu.pl
+host109-84.fis.agh.edu.pl
+larix.geod.agh.edu.pl
+autoconfig.agh.edu.pl
+mops137.uci.agh.edu.pl
+www.kmet.agh.edu.pl
+www.sat10.agh.edu.pl
+kcs11.ceramika.agh.edu.pl
+jim.metal.agh.edu.pl
+brygada.geol.agh.edu.pl
+svn-proactive.kt.agh.edu.pl
+www.kwig.wnaft.agh.edu.pl
+pc242.geol.agh.edu.pl
+chem45a4.wpie.agh.edu.pl
+lr9.ia.agh.edu.pl
+stmet05.metal.agh.edu.pl
+https.galaxy.agh.edu.pl
+nat-adm12.agh.edu.pl
+mgoly.metal.agh.edu.pl
+nbkant.kt.agh.edu.pl
+k-210-11.imir.agh.edu.pl
+mops094.uci.agh.edu.pl
+gruszcz.metal.agh.edu.pl
+pcdanda.kt.agh.edu.pl
+picasso.geod.agh.edu.pl
+pc182.kme.agh.edu.pl
+dhcp166.kt.agh.edu.pl
+dev2.cel.agh.edu.pl
+kct6.ceramika.agh.edu.pl
+mat170.mat.agh.edu.pl
+krajewski.geol.agh.edu.pl
+dhcp54.zee.agh.edu.pl
+www.podyplomowe.agh.edu.pl
+delegat.mat.agh.edu.pl
+praca.ck.agh.edu.pl
+d8-805-router.ket.agh.edu.pl
+www.akg.agh.edu.pl
+olimp196.imir.agh.edu.pl
+kanlab11.keiaspe.agh.edu.pl
+kmiw.wibro.agh.edu.pl
+ds15.agh.edu.pl
+jlezansk.metal.agh.edu.pl
+dzn-router.adm.agh.edu.pl
+pc111.zfcs.agh.edu.pl
+nat-adm6.agh.edu.pl
+d17-allibys.infra.iisg.agh.edu.pl
+zts42.ia.agh.edu.pl
+syllabus2.uci.agh.edu.pl
+wdm3.kt.agh.edu.pl
+tumidaj.gorn.agh.edu.pl
+pmaj.ket.agh.edu.pl
+mops028.uci.agh.edu.pl
+b2-214b.imir.agh.edu.pl
+iccc.agh.edu.pl
+linksysap1.ins.agh.edu.pl
+cb6-158.ceramika.agh.edu.pl
+wmaczka.gorn.agh.edu.pl
+wnssp103.ins.agh.edu.pl
+ieeexplore-1ieee-1org-10000477v0049.wbg2.bg.agh.edu.pl
+mops123.uci.agh.edu.pl
+selene.mn.agh.edu.pl
+test170.kt.agh.edu.pl
+mat141.mat.agh.edu.pl
+kridm.imir.agh.edu.pl
+pcc202.ia.agh.edu.pl
+r03.gorn.agh.edu.pl
+p019-b1.keiaspe.agh.edu.pl
+mgulip.elektro.agh.edu.pl
+hp2025.kt.agh.edu.pl
+ca0-054.ceramika.agh.edu.pl
+miekinia.agh.edu.pl
+www.pacs.agh.edu.pl
+fsia4.adm.agh.edu.pl
+wimir-235.imir.agh.edu.pl
+newton.ftj.agh.edu.pl
+stud158.fis.agh.edu.pl
+pijar2.mn.agh.edu.pl
+dhcp056.kt.agh.edu.pl
+tremb.gorn.agh.edu.pl
+monitoring.fslab.agh.edu.pl
+cb6-204.ceramika.agh.edu.pl
+p315mobil.mn.agh.edu.pl
+nat-vl207.agh.edu.pl
+pr-inf7.wibro.agh.edu.pl
+keiaspe.agh.edu.pl
+dhcp077.kt.agh.edu.pl
+wo24.odlew.agh.edu.pl
+kamera-eaiie.ftj.agh.edu.pl
+wfitj85e.ftj.agh.edu.pl
+aq86.ia.agh.edu.pl
+kolo226.kt.agh.edu.pl
+pomiar2.wpie.agh.edu.pl
+k-322-1.imir.agh.edu.pl
+host110-119.fis.agh.edu.pl
+www.geomatyka.agh.edu.pl
+sp-is.agh.edu.pl
+cb6-217.ceramika.agh.edu.pl
+dhcp174.kt.agh.edu.pl
+herkules-109.fis.agh.edu.pl
+ie16.ket.agh.edu.pl
+nt.ia.agh.edu.pl
+laptop-arp.kt.agh.edu.pl
+bgagh.bg.agh.edu.pl
+magda2.gorn.agh.edu.pl
+wfitj125e.ftj.agh.edu.pl
+wlctl.cri.agh.edu.pl
+www.kmo.agh.edu.pl
+xoa.cel.agh.edu.pl
+wo153.odlew.agh.edu.pl
+cmat45.mat.agh.edu.pl
+kstit2015.kt.agh.edu.pl
+d2zpe.zfcs.agh.edu.pl
+test191.kt.agh.edu.pl
+lhotse.wibro.agh.edu.pl
+pc100.zfcs.agh.edu.pl
+stasica.gorn.agh.edu.pl
+tulip.ics.agh.edu.pl
+www.fundacja.agh.edu.pl
+lab04.gorn.agh.edu.pl
+rezerwacje.iet.agh.edu.pl
+kap-42.imir.agh.edu.pl
+kap-50.imir.agh.edu.pl
+pc132.kme.agh.edu.pl
+batman.metal.agh.edu.pl
+ww4.zarz.agh.edu.pl
+zielinsk.metal.agh.edu.pl
+www.sgo.agh.edu.pl
+kca1.ceramika.agh.edu.pl
+mops093.uci.agh.edu.pl
+dt3.adm.agh.edu.pl
+host110-176.fis.agh.edu.pl
+zm220.zmet.agh.edu.pl
+www.power2.agh.edu.pl
+ca0-071.ceramika.agh.edu.pl
+kwant.kt.agh.edu.pl
+dc1-mta-out-b.infra.ki.agh.edu.pl
+www.icms.agh.edu.pl
+dt1.adm.agh.edu.pl
+mza-p3.ia.agh.edu.pl
+demeter.zarz.agh.edu.pl
+host109-83.fis.agh.edu.pl
+ca0-081.ceramika.agh.edu.pl
+zmb19.ceramika.agh.edu.pl
+mat197.mat.agh.edu.pl
+rsagh.adm.agh.edu.pl
+phe.b1.agh.edu.pl
+ekran.bg.agh.edu.pl
+dt2-voip.adm.agh.edu.pl
+podyplomowe.informatyka.agh.edu.pl
+teresa.geol.agh.edu.pl
+www.mackn.agh.edu.pl
+charon2.fis.agh.edu.pl
+kongresy.fundacja.agh.edu.pl
+www.integra.agh.edu.pl
+dl.icsr.agh.edu.pl
+cb6-206.ceramika.agh.edu.pl
+kuzminsk.metal.agh.edu.pl
+nat-uci2.agh.edu.pl
+plus.ds14.agh.edu.pl
+www.mapped.cel.agh.edu.pl
+apache.kt.agh.edu.pl
+weip-d4-58.weip.agh.edu.pl
+c5.agh.edu.pl
+hp5225.kt.agh.edu.pl
+wfitj28e.ftj.agh.edu.pl
+mat132.mat.agh.edu.pl
+test.detres.kt.agh.edu.pl
+mops.cri.agh.edu.pl
+wmn-pip.agh.edu.pl
+wpie15.wpie.agh.edu.pl
+dhaulagiri.ia.agh.edu.pl
+beta.keiaspe.agh.edu.pl
+lektor.metal.agh.edu.pl
+tytan.imir.agh.edu.pl
+andy.kt.agh.edu.pl
+wmsg26.gorn.agh.edu.pl
+motyl.mn.agh.edu.pl
+teneta3.ia.agh.edu.pl
+zmb23.ceramika.agh.edu.pl
+www.informatyka.agh.edu.pl
+wfitj95e.ftj.agh.edu.pl
+jbroz.zee.agh.edu.pl
+epodreczniki.open.agh.edu.pl
+www.unitime.agh.edu.pl
+czaja.gorn.agh.edu.pl
+drucik.metal.agh.edu.pl
+zm253.zmet.agh.edu.pl
+dhcp054.kt.agh.edu.pl
+stass8.gorn.agh.edu.pl
+www.elte2016.agh.edu.pl
+server-f.geod.agh.edu.pl
+biblioteka-2.mn.agh.edu.pl
+p2d.b1.agh.edu.pl
+kim2.geod.agh.edu.pl
+zmb7.ceramika.agh.edu.pl
+burtan.gorn.agh.edu.pl
+zam-sz.wibro.agh.edu.pl
+fiutow.gorn.agh.edu.pl
+www.imir.agh.edu.pl
+pcc216.ia.agh.edu.pl
+cc.agh.edu.pl
+kgg6.gorn.agh.edu.pl
+kcs19.ceramika.agh.edu.pl
+ca0-020.ceramika.agh.edu.pl
+dsc.mn.agh.edu.pl
+jaro.ia.agh.edu.pl
+limba1.metal.agh.edu.pl
+arax.uci.agh.edu.pl
+iza.metal.agh.edu.pl
+ca3-80.ceramika.agh.edu.pl
+pc66.zfcs.agh.edu.pl
+wood.agh.edu.pl
+netarc.uci.agh.edu.pl
+kpb-055.imir.agh.edu.pl
+www.tmpm.agh.edu.pl
+zdpb.agh.edu.pl
+wnssp7.ins.agh.edu.pl
+kuczynsk.gorn.agh.edu.pl
+janusz01.geod.agh.edu.pl
+cb6-143.ceramika.agh.edu.pl
+link-1springer-1com-1000032to181d.wbg2.bg.agh.edu.pl
+kompozyt.metal.agh.edu.pl
+k-320-14.imir.agh.edu.pl
+www.fccm.agh.edu.pl
+wfitj60e.ftj.agh.edu.pl
+b1rtr.agh.edu.pl
+ktipm61.ktipm.agh.edu.pl
+wh.dznet.agh.edu.pl
+www.wmn.agh.edu.pl
+pc53.zfcs.agh.edu.pl
+piogr2.imir.agh.edu.pl
+garfield.gorn.agh.edu.pl
+ktipm60.ktipm.agh.edu.pl
+pc58.zfcs.agh.edu.pl
+mops085.uci.agh.edu.pl
+f201.kt.agh.edu.pl
+iksraj.metal.agh.edu.pl
+b3gate.imir.agh.edu.pl
+mops186.uci.agh.edu.pl
+test138.kt.agh.edu.pl
+wwszolek.wibro.agh.edu.pl
+sawicka-pc.zarz.agh.edu.pl
+home.iisg.agh.edu.pl
+ppim.agh.edu.pl
+madej.metal.agh.edu.pl
+www.isd.fis.agh.edu.pl
+pelech-druk.zarz.agh.edu.pl
+pcc217.ia.agh.edu.pl
+ergo-lab.wibro.agh.edu.pl
+www-1sciencedirect-1com-1000032pc000d.wbg2.bg.agh.edu.pl
+ad.bg.agh.edu.pl
+andrzejb.gorn.agh.edu.pl
+nat-iisg.ki.agh.edu.pl
+sokol.wibro.agh.edu.pl
+hekate.ia.agh.edu.pl
+mops134.uci.agh.edu.pl
+wlodek.mn.agh.edu.pl
+lr12.ia.agh.edu.pl
+mdp02a.elektro.agh.edu.pl
+ie27.ket.agh.edu.pl
+lab404h.ia.agh.edu.pl
+ct2tee.agh.edu.pl
+proms2000.kt.agh.edu.pl
+proj13.gorn.agh.edu.pl
+www.fslab.agh.edu.pl
+host109-87.fis.agh.edu.pl
+dziekan3.wpie.agh.edu.pl
+p34.geod.agh.edu.pl
+wmsg6.gorn.agh.edu.pl
+limba15.metal.agh.edu.pl
+warlock.metal.agh.edu.pl
+pc10.zfcs.agh.edu.pl
+kms.ins.agh.edu.pl
+kb3.ceramika.agh.edu.pl
+bh.metal.agh.edu.pl
+kpb-057.imir.agh.edu.pl
+kct25.ceramika.agh.edu.pl
+krokus144.imir.agh.edu.pl
+www.space.agh.edu.pl
+zmb34.ceramika.agh.edu.pl
+mops096.uci.agh.edu.pl
+ksero.zet.agh.edu.pl
+lonlab1.elektro.agh.edu.pl
+pc184.kme.agh.edu.pl
+host110-45.fis.agh.edu.pl
+arrow.uci.agh.edu.pl
+host110-84.fis.agh.edu.pl
+xbl4.ics.agh.edu.pl
+kmg-korytarz.imir.agh.edu.pl
+www.kngk.agh.edu.pl
+k-320-2.imir.agh.edu.pl
+magnesite.agh.edu.pl
+nafta.agh.edu.pl
+zts54.ia.agh.edu.pl
+aniup117e.keiaspe.agh.edu.pl
+www.fcb.fis.agh.edu.pl
+dhcp0122.kt.agh.edu.pl
+p3lbzpe.zfcs.agh.edu.pl
+mops092.uci.agh.edu.pl
+kmiw-3.wibro.agh.edu.pl
+wggiis.dznet.agh.edu.pl
+www.mediacje.zarz.agh.edu.pl
+kap-25.imir.agh.edu.pl
+spacesystems-vm.agh.edu.pl
+www.knmwf.agh.edu.pl
+student.iisg.agh.edu.pl
+hp2600np419-dr.zarz.agh.edu.pl
+aq19.ia.agh.edu.pl
+www.kierunkizamawiane.agh.edu.pl
+kanchen.ia.agh.edu.pl
+oen.agh.edu.pl
+ankorbel.mn.agh.edu.pl
+brama.adm.agh.edu.pl
+cb6-222.ceramika.agh.edu.pl
+amorph.ket.agh.edu.pl
+kkio2005.agh.edu.pl
+nat.ds12.agh.edu.pl
+tulipan.metal.agh.edu.pl
+dhcp211.kt.agh.edu.pl
+walach.gorn.agh.edu.pl
+laur.samorzad.agh.edu.pl
+lm3.ia.agh.edu.pl
+samorzad.agh.edu.pl
+www.zrnt.zarz.agh.edu.pl
+wydawnictwo1.wydagh.agh.edu.pl
+test142.kt.agh.edu.pl
+odlewnictwo.agh.edu.pl
+detres-mail.kt.agh.edu.pl
+mops183.uci.agh.edu.pl
+mops140.uci.agh.edu.pl
+wsus.geod.agh.edu.pl
+k-209-03.imir.agh.edu.pl
+jtduda-pc.zarz.agh.edu.pl
+wibro-115.imir.agh.edu.pl
+www.bozon.fis.agh.edu.pl
+www.pi.zarz.agh.edu.pl
+kb15.ceramika.agh.edu.pl
+wiet.dznet.agh.edu.pl
+dhcp179.kt.agh.edu.pl
+ca0-011.ceramika.agh.edu.pl
+neruonchip.ia.agh.edu.pl
+pc12.geol.agh.edu.pl
+zmb26.ceramika.agh.edu.pl
+host110-192.fis.agh.edu.pl
+kawiory13.wpie.agh.edu.pl
+wfitj204e.ftj.agh.edu.pl
+www.plywacy.agh.edu.pl
+fluidp.wpie.agh.edu.pl
+d17-c2-caribou.infra.iisg.agh.edu.pl
+algor.imir.agh.edu.pl
+kerma.fis.agh.edu.pl
+mops039.uci.agh.edu.pl
+orion.elektro.agh.edu.pl
+scalak.elektro.agh.edu.pl
+rob.wibro.agh.edu.pl
+pascal.fis.agh.edu.pl
+netarc.cri.agh.edu.pl
+rejestracja100.wordpress.agh.edu.pl
+msd2013.ceramika.agh.edu.pl
+ie8.ket.agh.edu.pl
+bocian.geod.agh.edu.pl
+www.doktoranckie.agh.edu.pl
+www.halas.agh.edu.pl
+toshiba.geod.agh.edu.pl
+dhcp158.kt.agh.edu.pl
+wo22.odlew.agh.edu.pl
+desorp.wpie.agh.edu.pl
+hansel.imir.agh.edu.pl
+wpie5.wpie.agh.edu.pl
+mts880.mn.agh.edu.pl
+sw.agh.edu.pl
+stud215.fis.agh.edu.pl
+cioch.wibro.agh.edu.pl
+dhcp079.kt.agh.edu.pl
+borylo.kt.agh.edu.pl
+stud103.fis.agh.edu.pl
+www.kppe.agh.edu.pl
+szczepan.metal.agh.edu.pl
+krbsrv2.fis.agh.edu.pl
+www.psims.agh.edu.pl
+eja.geod.agh.edu.pl
+iopscience.iop.org.ickguh4q2ea5.wbg2.bg.agh.edu.pl
+l18.gorn.agh.edu.pl
+www.samorzad.agh.edu.pl
+lisowski-pc.zarz.agh.edu.pl
+host110-175.fis.agh.edu.pl
+mrowka.ia.agh.edu.pl
+kct9.ceramika.agh.edu.pl
+student.uci.agh.edu.pl
+b3-2.mn.agh.edu.pl
+dzndemo.agh.edu.pl
+rekrut1.ins.agh.edu.pl
+kawiory9.wpie.agh.edu.pl
+pbz.kt.agh.edu.pl
+stronczek-pc.zarz.agh.edu.pl
+rokitom.imir.agh.edu.pl
+luke.icsr.agh.edu.pl
+jan.geod.agh.edu.pl
+www.galaxy.agh.edu.pl
+bi4.eaiib.agh.edu.pl
+upsp3.odlew.agh.edu.pl
+host110-60.fis.agh.edu.pl
+nowak.metal.agh.edu.pl
+d17-c1-prx-1.infra.iisg.agh.edu.pl
+www.kej.agh.edu.pl
+mops099.uci.agh.edu.pl
+pc70.zfcs.agh.edu.pl
+host110-167.fis.agh.edu.pl
+ca0-058.ceramika.agh.edu.pl
+host110-182.fis.agh.edu.pl
+dhcp0117.kt.agh.edu.pl
+lab404j.ia.agh.edu.pl
+yukonb.uci.agh.edu.pl
+wmsg36.gorn.agh.edu.pl
+uno.kt.agh.edu.pl
+onion.metal.agh.edu.pl
+b2-21-1.imir.agh.edu.pl
+knapczyk.imir.agh.edu.pl
+jola.metal.agh.edu.pl
+kap-125.imir.agh.edu.pl
+host110-224.fis.agh.edu.pl
+cmat43.mat.agh.edu.pl
+cmat52.mat.agh.edu.pl
+www.ms2010.agh.edu.pl
+nat-vl58.agh.edu.pl
+wzorzecubuntu.uci.agh.edu.pl
+wo34.odlew.agh.edu.pl
+mg.metal.agh.edu.pl
+kca19.ceramika.agh.edu.pl
+mx1.fotogrametria.agh.edu.pl
+www.junior.agh.edu.pl
+www.skt.agh.edu.pl
+sprp.agh.edu.pl
+stud171.fis.agh.edu.pl
+dhcp190.kt.agh.edu.pl
+konica.zarz.agh.edu.pl
+kamerabudowa.eaiib.agh.edu.pl
+wo3.odlew.agh.edu.pl
+mops131.uci.agh.edu.pl
+teklan.ia.agh.edu.pl
+lucyfer.imir.agh.edu.pl
+sso.ki.agh.edu.pl
+stud165.fis.agh.edu.pl
+agumula.metal.agh.edu.pl
+cb6-202.ceramika.agh.edu.pl
+cmat25.mat.agh.edu.pl
+ktipm11.ktipm.agh.edu.pl
+kawiory11.wpie.agh.edu.pl
+downloads-1hindawi-1com-1000032dr0411.wbg2.bg.agh.edu.pl
+mat241.mat.agh.edu.pl
+www.100lat.agh.edu.pl
+www.kliwent.agh.edu.pl
+kamerau2-1.adm.agh.edu.pl
+mops114.uci.agh.edu.pl
+nalepkaa.imir.agh.edu.pl
+nat.eaiib.agh.edu.pl
+weip-d4-55.weip.agh.edu.pl
+chmielek.gorn.agh.edu.pl
+wachol-pc.zarz.agh.edu.pl
+test149.kt.agh.edu.pl
+api.agh.edu.pl
+host110-39.fis.agh.edu.pl
+lukas.geod.agh.edu.pl
+zts41.ia.agh.edu.pl
+www.tos.agh.edu.pl
+nat-adm10.agh.edu.pl
+pag7.gorn.agh.edu.pl
+mops170.uci.agh.edu.pl
+supel2.imir.agh.edu.pl
+magdzia.mn.agh.edu.pl
+kap-63.imir.agh.edu.pl
+www.rewitalizacja.agh.edu.pl
+dhcp-pc189.elektro.agh.edu.pl
+host110-161.fis.agh.edu.pl
+dns.oen.agh.edu.pl
+cb6-229.ceramika.agh.edu.pl
+st19.gorn.agh.edu.pl
+kap-17.imir.agh.edu.pl
+wlodek.imir.agh.edu.pl
+ania.mn.agh.edu.pl
+cmat51.mat.agh.edu.pl
+mdp09a.elektro.agh.edu.pl
+mat153.mat.agh.edu.pl
+wfitj218e.ftj.agh.edu.pl
+d8-806-tomek.ket.agh.edu.pl
+cb6-223.ceramika.agh.edu.pl
+epom.uci.agh.edu.pl
+agni.geod.agh.edu.pl
+magdad.imir.agh.edu.pl
+kawiory32.wpie.agh.edu.pl
+host110-181.fis.agh.edu.pl
+s68.bg.agh.edu.pl
+kmiw-2.wibro.agh.edu.pl
+mat246.mat.agh.edu.pl
+ziam.metal.agh.edu.pl
+cb6-194.ceramika.agh.edu.pl
+lab401.elektro.agh.edu.pl
+test177.kt.agh.edu.pl
+www.miasteczko.agh.edu.pl
+p404.elektro.agh.edu.pl
+hp5m.kt.agh.edu.pl
+aq11.ia.agh.edu.pl
+opc1.kt.agh.edu.pl
+redmine.cel.agh.edu.pl
+nt1.geol.agh.edu.pl
+www.poczta.regent.agh.edu.pl
+kolo225.kt.agh.edu.pl
+mat230.mat.agh.edu.pl
+odkr1.gorn.agh.edu.pl
+www.wakacje.agh.edu.pl
+cb6-150.ceramika.agh.edu.pl
+wo151.odlew.agh.edu.pl
+ca0-078.ceramika.agh.edu.pl
+cb6-129.ceramika.agh.edu.pl
+wfitj69e.ftj.agh.edu.pl
+host110-54.fis.agh.edu.pl
+www.cr.agh.edu.pl
+mat210.mat.agh.edu.pl
+wo18.odlew.agh.edu.pl
+survey.e-capacit8.cel.agh.edu.pl
+host110-147.fis.agh.edu.pl
+geomatyka12.geod.agh.edu.pl
+dhcp0102.kt.agh.edu.pl
+psw.agh.edu.pl
+wpie19.wpie.agh.edu.pl
+mat249.mat.agh.edu.pl
+www.csci.agh.edu.pl
+ziuta2.imir.agh.edu.pl
+dhcp220.kt.agh.edu.pl
+admin2.fis.agh.edu.pl
+studium13.sjo.agh.edu.pl
+olimp30.imir.agh.edu.pl
+asystent5.wpie.agh.edu.pl
+automatyka.agh.edu.pl
+u2-2.adm.agh.edu.pl
+nt2.geol.agh.edu.pl
+acoustic.wibro.agh.edu.pl
+solga.imir.agh.edu.pl
+mops091.uci.agh.edu.pl
+krokus148.imir.agh.edu.pl
+hercules.wibro.agh.edu.pl
+cb6-142.ceramika.agh.edu.pl
+feliksrtr.imir.agh.edu.pl
+xfiles.elektro.agh.edu.pl
+luna.imir.agh.edu.pl
+lat-gw.wibro.agh.edu.pl
+studium25.sjo.agh.edu.pl
+kb9.ceramika.agh.edu.pl
+stopy-mn.mn.agh.edu.pl
+mops060.uci.agh.edu.pl
+pc-ad.kt.agh.edu.pl
+pracumowa.bg.agh.edu.pl
+host110-237.fis.agh.edu.pl
+dhcp39.zee.agh.edu.pl
+kap-06.imir.agh.edu.pl
+wozny.gorn.agh.edu.pl
+cmat57.mat.agh.edu.pl
+wfitj219e.ftj.agh.edu.pl
+ktl-s2.imir.agh.edu.pl
+sdts.agh.edu.pl
+wmsg12.gorn.agh.edu.pl
+intomcam.kt.agh.edu.pl
+twoje.agh.edu.pl
+tomecka.geol.agh.edu.pl
+www.wnig.agh.edu.pl
+altair.keiaspe.agh.edu.pl
+pc97.zfcs.agh.edu.pl
+work.cri.agh.edu.pl
+www.sokol.agh.edu.pl
+szef.elektro.agh.edu.pl
+misio.ftj.agh.edu.pl
+dhcp5.zet.agh.edu.pl
+kmg-158.imir.agh.edu.pl
+maglay.agh.edu.pl
+libra.imir.agh.edu.pl
+sekula.metal.agh.edu.pl
+vpn237.kt.agh.edu.pl
+test202.kt.agh.edu.pl
+samstu3.imir.agh.edu.pl
+www.conaslaczy.agh.edu.pl
+zarz.agh.edu.pl
+ninao.imir.agh.edu.pl
+st-w.imir.agh.edu.pl
+www.bis.agh.edu.pl
+www.ptf.agh.edu.pl
+kap-32.imir.agh.edu.pl
+uranus.elektro.agh.edu.pl
+neuro.agh.edu.pl
+dhcp038.kt.agh.edu.pl
+energet3.metal.agh.edu.pl
+niemiecpc.kt.agh.edu.pl
+zse13.geol.agh.edu.pl
+www.oze.agh.edu.pl
+wnssp207.ins.agh.edu.pl
+zenworks-110.fis.agh.edu.pl
+www.cybersecurity.agh.edu.pl
+mops046.uci.agh.edu.pl
+pc143.kme.agh.edu.pl
+azur.mn.agh.edu.pl
+biblioteka.elektro.agh.edu.pl
+bb.gorn.agh.edu.pl
+pc38.zfcs.agh.edu.pl
+mops058.uci.agh.edu.pl
+piec.metal.agh.edu.pl
+kakadu.bg.agh.edu.pl
+dhcp215.kt.agh.edu.pl
+ds16.agh.edu.pl
+kca4.ceramika.agh.edu.pl
+wlc-stud.kt.agh.edu.pl
+samstu2.imir.agh.edu.pl
+krokus185.imir.agh.edu.pl
+dziekanat-gw.agh.edu.pl
+rranosz.gorn.agh.edu.pl
+szlaban.odlew.agh.edu.pl
+kajtoch.metal.agh.edu.pl
+netten.uci.agh.edu.pl
+pomiar1.wpie.agh.edu.pl
+pr-inf1.wibro.agh.edu.pl
+www.intelli-net.agh.edu.pl
+journals-1aps-1org-1000032to0ad2.wbg2.bg.agh.edu.pl
+flotacja.gorn.agh.edu.pl
+b2-215.imir.agh.edu.pl
+cuba.cel.agh.edu.pl
+okon.metal.agh.edu.pl
+pc72.bg.agh.edu.pl
+ca0-075.ceramika.agh.edu.pl
+asic.elektro.agh.edu.pl
+journals-1bg-1agh-1edu-1pl-1ftlf1r4g0eaf.wbg2.bg.agh.edu.pl
+uav.agh.edu.pl
+citcep.fis.agh.edu.pl
+monika.mn.agh.edu.pl
+mops171.uci.agh.edu.pl
+ktipm25.ktipm.agh.edu.pl
+dev.uci.agh.edu.pl
+basia.geol.agh.edu.pl
+test236.kt.agh.edu.pl
+kbanas.metal.agh.edu.pl
+dziekanat.wnaft.agh.edu.pl
+mat207.mat.agh.edu.pl
+vpn.agh.edu.pl
+gd.weip.agh.edu.pl
+zse.geol.agh.edu.pl
+wfitj104e.ftj.agh.edu.pl
+snake.ics.agh.edu.pl
+dss.agh.edu.pl
+www.fundicion.agh.edu.pl
+host110-148.fis.agh.edu.pl
+nokialab.kt.agh.edu.pl
+www.klaster.agh.edu.pl
+lacoste.metal.agh.edu.pl
+fd.portacc.cr.agh.edu.pl
+b3-16.mn.agh.edu.pl
+turnia13.metal.agh.edu.pl
+aq68.ia.agh.edu.pl
+host110-129.fis.agh.edu.pl
+mops033.uci.agh.edu.pl
+test2.isa.agh.edu.pl
+wfitj57e.ftj.agh.edu.pl
+lst.kt.agh.edu.pl
+obrony.zarz.agh.edu.pl
+gospodarczyk2.imir.agh.edu.pl
+cb6-133.ceramika.agh.edu.pl
+zorychta.gorn.agh.edu.pl
+www-1sciencedirect-1com-1atoz.wbg2.bg.agh.edu.pl
+pc181.kme.agh.edu.pl
+mask.cri.agh.edu.pl
+opmonit.kt.agh.edu.pl
+mops045.uci.agh.edu.pl
+euro03.ia.agh.edu.pl
+nat-weaiib12.agh.edu.pl
+vpn243.kt.agh.edu.pl
+lubon.metal.agh.edu.pl
+ewat.geol.agh.edu.pl
+krokus2-9.imir.agh.edu.pl
+dhcp0119.kt.agh.edu.pl
+kazek.elektro.agh.edu.pl
+indectpc.kt.agh.edu.pl
+warmech.wpie.agh.edu.pl
+andrzej.wpie.agh.edu.pl
+mailman.iisg.agh.edu.pl
+dbc1.cel.agh.edu.pl
+wo141.odlew.agh.edu.pl
+www.zaco.agh.edu.pl
+wo154.odlew.agh.edu.pl
+limba6.metal.agh.edu.pl
+dev-um.cel.agh.edu.pl
+wfitj142e.ftj.agh.edu.pl
+mat164.mat.agh.edu.pl
+pcc218.ia.agh.edu.pl
+bloch.mn.agh.edu.pl
+wfitj201e.ftj.agh.edu.pl
+www.ne.zarz.agh.edu.pl
+wo15.odlew.agh.edu.pl
+ovpn.agh.edu.pl
+www.krim.agh.edu.pl
+host110-99.fis.agh.edu.pl
+la4.ia.agh.edu.pl
+pc178.kme.agh.edu.pl
+mops035.uci.agh.edu.pl
+cierniak-pc.zarz.agh.edu.pl
+pc179.kme.agh.edu.pl
+hieronim.imir.agh.edu.pl
+enviree.agh.edu.pl
+www.ogonki.agh.edu.pl
+www.okibedu.agh.edu.pl
+laser.dsnet.agh.edu.pl
+www.qa.agh.edu.pl
+gumula.imir.agh.edu.pl
+journals.agh.edu.pl
+pc57.zfcs.agh.edu.pl
+matrix.kt.agh.edu.pl
+wo41.odlew.agh.edu.pl
+zm195.zmet.agh.edu.pl
+www.ke.agh.edu.pl
+zm208.zmet.agh.edu.pl
+clusterpm3.ket.agh.edu.pl
+pirowski.gorn.agh.edu.pl
+www-1imim-1pl-1atoz.wbg2.bg.agh.edu.pl
+krokus2-8.imir.agh.edu.pl
+wifi-events.agh.edu.pl
+charon4.fis.agh.edu.pl
+http.student.agh.edu.pl
+jupiter.elektro.agh.edu.pl
+dt7.adm.agh.edu.pl
+witch.mn.agh.edu.pl
+aq9.ia.agh.edu.pl
+teneta5.ia.agh.edu.pl
+mapserver.kis.agh.edu.pl
+lab08.gorn.agh.edu.pl
+la6.ia.agh.edu.pl
+www.metal.agh.edu.pl
+host110-220.fis.agh.edu.pl
+pc235.geol.agh.edu.pl
+wslusar.wibro.agh.edu.pl
+olimp25.imir.agh.edu.pl
+www-old.ki.agh.edu.pl
+wo53.odlew.agh.edu.pl
+mat186.mat.agh.edu.pl
+marekb.geod.agh.edu.pl
+august.ia.agh.edu.pl
+digestorium.ket.agh.edu.pl
+www.hip.agh.edu.pl
+wifi-01.wnaft.agh.edu.pl
+kseiuos.agh.edu.pl
+active2.elektro.agh.edu.pl
+wfitj141e.ftj.agh.edu.pl
+ubpo2.agh.edu.pl
+www.opuscula.agh.edu.pl
+zts46.ia.agh.edu.pl
+pm-lab01.ket.agh.edu.pl
+labnat.zet.agh.edu.pl
+pc73.bg.agh.edu.pl
+www.cee-set.agh.edu.pl
+lists.ki.agh.edu.pl
+peter.geod.agh.edu.pl
+spectrum.elektro.agh.edu.pl
+michalski-pc.zarz.agh.edu.pl
+stud110.fis.agh.edu.pl
+grabowski-pc.zarz.agh.edu.pl
+www.ekonometryk.zarz.agh.edu.pl
+mars.geod.agh.edu.pl
+elektrownia.zarz.agh.edu.pl
+cam-219.imir.agh.edu.pl
+sk-lab.odlew.agh.edu.pl
+astrid.elektro.agh.edu.pl
+tslomka.geol.agh.edu.pl
+nalewa.imir.agh.edu.pl
+terra.wibro.agh.edu.pl
+ubpo-data3.agh.edu.pl
+mops115.uci.agh.edu.pl
+b3-komp2.zet.agh.edu.pl
+portacc.cr.agh.edu.pl
+ie26.ket.agh.edu.pl
+k-210-07.imir.agh.edu.pl
+stud250.fis.agh.edu.pl
+b2-kor1-1.imir.agh.edu.pl
+pc234.geol.agh.edu.pl
+wo124.odlew.agh.edu.pl
+krokus2-2.imir.agh.edu.pl
+pcmiue13.imir.agh.edu.pl
+nat-adm14.agh.edu.pl
+ds9.agh.edu.pl
+nat-weaiib40.agh.edu.pl
+zmb18.ceramika.agh.edu.pl
+vpn226.kt.agh.edu.pl
+dhcp094.kt.agh.edu.pl
+bahus.wibro.agh.edu.pl
+lr5.ia.agh.edu.pl
+n3.zee.agh.edu.pl
+ca0-039.ceramika.agh.edu.pl
+kolo229.kt.agh.edu.pl
+teneta4.ia.agh.edu.pl
+kcs24.ceramika.agh.edu.pl
+everest.ia.agh.edu.pl
+barwicz.geol.agh.edu.pl
+wimir-001.imir.agh.edu.pl
+mops139.uci.agh.edu.pl
+krak.geod.agh.edu.pl
+kap-129.imir.agh.edu.pl
+umcs.icsr.agh.edu.pl
+kawiory23.wpie.agh.edu.pl
+slowfox.ia.agh.edu.pl
+mops047.uci.agh.edu.pl
+www.dereme.agh.edu.pl
+mczuj.geol.agh.edu.pl
+mops009.uci.agh.edu.pl
+aq26.ia.agh.edu.pl
+sem.mn.agh.edu.pl
+host110-117.fis.agh.edu.pl
+vmw8.ftj.agh.edu.pl
+cb6-173.ceramika.agh.edu.pl
+wnssczyt8.ins.agh.edu.pl
+kisips.agh.edu.pl
+sushi.ics.agh.edu.pl
+kap-117.imir.agh.edu.pl
+pc241.geol.agh.edu.pl
+labppm.metal.agh.edu.pl
+test164.kt.agh.edu.pl
+deenes.cri.agh.edu.pl
+obrozek.gorn.agh.edu.pl
+rekrut3.zarz.agh.edu.pl
+vmw5.ftj.agh.edu.pl
+spinup.agh.edu.pl
+pks5.gorn.agh.edu.pl
+wo69.odlew.agh.edu.pl
+biblioteka.ptmin.agh.edu.pl
+admin1.ftj.agh.edu.pl
+apps-1webofknowledge-1com-10000294q2dd9.wbg2.bg.agh.edu.pl
+wmsg9.gorn.agh.edu.pl
+weip-d4-44.weip.agh.edu.pl
+nat-dsrg.ki.agh.edu.pl
+jurkwasn.imir.agh.edu.pl
+tsunami.keiaspe.agh.edu.pl
+wimir-002.imir.agh.edu.pl
+rejestracja.kstit2015.kt.agh.edu.pl
+lsr04.ia.agh.edu.pl
+wfitj46e.ftj.agh.edu.pl
+wo94.odlew.agh.edu.pl
+b1rtr.bg.agh.edu.pl
+arp.metal.agh.edu.pl
+studium18.sjo.agh.edu.pl
+proj07.gorn.agh.edu.pl
+odlew.agh.edu.pl
+www.zielonepodhale.agh.edu.pl
+remac.geod.agh.edu.pl
+ds21.unifi.dsnet.agh.edu.pl
+notebookmb.keiaspe.agh.edu.pl
+test211.kt.agh.edu.pl
+weip-d4-34.weip.agh.edu.pl
+host110-185.fis.agh.edu.pl
+www-1sciencedirect-1com-1000032ex0e87.wbg2.bg.agh.edu.pl
+kp.agh.edu.pl
+host110-233.fis.agh.edu.pl
+arups.zfcs.agh.edu.pl
+openlon1.ia.agh.edu.pl
+maqett.uci.agh.edu.pl
+turnia7.metal.agh.edu.pl
+stanley.mat.agh.edu.pl
+www.eaiiib.agh.edu.pl
+kse10.ceramika.agh.edu.pl
+rekrut-10.gorn.agh.edu.pl
+kfs.ftj.agh.edu.pl
+router-lan110.fis.agh.edu.pl
+www.epqu.agh.edu.pl
+nat-a2s.ki.agh.edu.pl
+dhcp153.kt.agh.edu.pl
+mori.wibro.agh.edu.pl
+layer.ket.agh.edu.pl
+mobil.elektro.agh.edu.pl
+extrusion.mn.agh.edu.pl
+cmat39.mat.agh.edu.pl
+bhp.dznet.agh.edu.pl
+ajakubow.metal.agh.edu.pl
+ctt.agh.edu.pl
+www.stn.agh.edu.pl
+kasia.metal.agh.edu.pl
+ktipm13.ktipm.agh.edu.pl
+cb6-145.ceramika.agh.edu.pl
+wsn.ket.agh.edu.pl
+www.iccc.agh.edu.pl
+www.laiwd.agh.edu.pl
+kusiak.metal.agh.edu.pl
+elena.geod.agh.edu.pl
+stmet06.metal.agh.edu.pl
+dhcp51.kt.agh.edu.pl
+jura.metal.agh.edu.pl
+aster.imir.agh.edu.pl
+go.ia.agh.edu.pl
+kot.metal.agh.edu.pl
+cmat29.mat.agh.edu.pl
+upel3.cel.agh.edu.pl
+zjazd100.agh.edu.pl
+obrzud-pc.zarz.agh.edu.pl
+kania.geol.agh.edu.pl
+zenworks.fis.agh.edu.pl
+labstud01.wpie.agh.edu.pl
+kap-135.imir.agh.edu.pl
+wo46.odlew.agh.edu.pl
+wimir.dznet.agh.edu.pl
+mops088.uci.agh.edu.pl
+surowiec-pc.zarz.agh.edu.pl
+dflaga.imir.agh.edu.pl
+vmw16.ftj.agh.edu.pl
+ipx1.gorn.agh.edu.pl
+agh-rdi.map.infra.ki.agh.edu.pl
+smoc.ics.agh.edu.pl
+akson.ia.agh.edu.pl
+kap-01.imir.agh.edu.pl
+mis.mn.agh.edu.pl
+test173.kt.agh.edu.pl
+lena.mn.agh.edu.pl
+test245.kt.agh.edu.pl
+mech.wo.agh.edu.pl
+wfitj221e.ftj.agh.edu.pl
+tm110.imir.agh.edu.pl
+stefan.gorn.agh.edu.pl
+cmat36.mat.agh.edu.pl
+opc2.kt.agh.edu.pl
+cb6-156.ceramika.agh.edu.pl
+studium20.sjo.agh.edu.pl
+dhcp33.zee.agh.edu.pl
+www.lkn.zarz.agh.edu.pl
+pr-inf8.wibro.agh.edu.pl
+toudi.mn.agh.edu.pl
+test157.kt.agh.edu.pl
+www.best.agh.edu.pl
+pc120.zfcs.agh.edu.pl
+sps.geol.agh.edu.pl
+cp.agh.edu.pl
+www.geofizyka.agh.edu.pl
+www-1afe-1polsl-1pl-1000032sv015b.wbg2.bg.agh.edu.pl
+lm6.ia.agh.edu.pl
+wycisk.mn.agh.edu.pl
+nat-vl120.agh.edu.pl
+mes3.mn.agh.edu.pl
+patalita.imir.agh.edu.pl
+nat-vm.ki.agh.edu.pl
+kepler2.ftj.agh.edu.pl
+switch3.wnaft.agh.edu.pl
+f202.kt.agh.edu.pl
+krzystanek.kt.agh.edu.pl
+chewbacca.ia.agh.edu.pl
+michlowi2.imir.agh.edu.pl
+pcg-srv.uci.agh.edu.pl
+snieznik.metal.agh.edu.pl
+cmat4.mat.agh.edu.pl
+enigma.metal.agh.edu.pl
+wfitj74e.ftj.agh.edu.pl
+wo57.odlew.agh.edu.pl
+host109-93.fis.agh.edu.pl
+mdp04b.elektro.agh.edu.pl
+cad.wibro.agh.edu.pl
+nat-weaiib1.agh.edu.pl
+b3-5.mn.agh.edu.pl
+zm215.zmet.agh.edu.pl
+b2-kor0-4.imir.agh.edu.pl
+htrpl.agh.edu.pl
+wmsg21.gorn.agh.edu.pl
+sosna.metal.agh.edu.pl
+ciezak.metal.agh.edu.pl
+host110-218.fis.agh.edu.pl
+limba7.metal.agh.edu.pl
+pcmiue6.imir.agh.edu.pl
+urbanski-pc.zarz.agh.edu.pl
+nat-wggios11.agh.edu.pl
+biuro3.wpie.agh.edu.pl
+web.imir.agh.edu.pl
+magalhaes2017.agh.edu.pl
+sofiab.imir.agh.edu.pl
+grazcia.zee.agh.edu.pl
+long.geod.agh.edu.pl
+wpie12.wpie.agh.edu.pl
+mops048.uci.agh.edu.pl
+pcc205.ia.agh.edu.pl
+www.ppm.agh.edu.pl
+aux.uci.agh.edu.pl
+ktipm24.ktipm.agh.edu.pl
+kaplan-pc.zarz.agh.edu.pl
+limba12.metal.agh.edu.pl
+bastion-nat.d17.iisg.agh.edu.pl
+tbedn.imir.agh.edu.pl
+foszcz.gorn.agh.edu.pl
+maciek.wpie.agh.edu.pl
+mat135.mat.agh.edu.pl
+szpytko.imir.agh.edu.pl
+qcw2021.agh.edu.pl
+pcjaga.kt.agh.edu.pl
+dhcp37.zee.agh.edu.pl
+kap-05.imir.agh.edu.pl
+ca0-050.ceramika.agh.edu.pl
+krokus170.imir.agh.edu.pl
+mobile.metal.agh.edu.pl
+www.ochrsrod.agh.edu.pl
+test145.kt.agh.edu.pl
+stud142.fis.agh.edu.pl
+weip-d4-41.weip.agh.edu.pl
+amx-pc.gorn.agh.edu.pl
+p115-2.mn.agh.edu.pl
+quantum.keiaspe.agh.edu.pl
+cadiff.ceramika.agh.edu.pl
+zgg50.geod.agh.edu.pl
+januszek.metal.agh.edu.pl
+wnss-3c4200.ins.agh.edu.pl
+fiszer.imir.agh.edu.pl
+wnssp107.ins.agh.edu.pl
+rpress10.imir.agh.edu.pl
+kgg1.gorn.agh.edu.pl
+nat-wimip2.agh.edu.pl
+www.komitetlegnica.agh.edu.pl
+pc26.zfcs.agh.edu.pl
+stud203.fis.agh.edu.pl
+vmw3.ftj.agh.edu.pl
+dhcp216.kt.agh.edu.pl
+api.bpp.agh.edu.pl
+www.festiwalnauki.agh.edu.pl
+stass11.gorn.agh.edu.pl
+mops121.uci.agh.edu.pl
+wo240.odlew.agh.edu.pl
+ftjnas.cri.agh.edu.pl
+nbl1.ics.agh.edu.pl
+turczyn.metal.agh.edu.pl
+www.east.agh.edu.pl
+stmet13.metal.agh.edu.pl
+nanospin.agh.edu.pl
+kom1.mn.agh.edu.pl
+mdp03a.elektro.agh.edu.pl
+mops061.uci.agh.edu.pl
+cmat33.mat.agh.edu.pl
+host110-51.fis.agh.edu.pl
+test200.kt.agh.edu.pl
+kandydat.wordpress.agh.edu.pl
+wpierekrut2.wpie.agh.edu.pl
+power.3.5.wh.agh.edu.pl
+tereska.ket.agh.edu.pl
+fortiweb2.uci.agh.edu.pl
+diament.geod.agh.edu.pl
+test179.kt.agh.edu.pl
+host110-234.fis.agh.edu.pl
+porzucek.geol.agh.edu.pl
+kierzamtch.ceramika.agh.edu.pl
+zm235.zmet.agh.edu.pl
+instron2.mn.agh.edu.pl
+wfitj45e.ftj.agh.edu.pl
+dbexam.cel.agh.edu.pl
+mat194.mat.agh.edu.pl
+urbanska.wibro.agh.edu.pl
+www.zug.agh.edu.pl
+dhcp0105.kt.agh.edu.pl
+kawiory26.wpie.agh.edu.pl
+lab11.gorn.agh.edu.pl
+ajoniec.geol.agh.edu.pl
+goldeneye.gorn.agh.edu.pl
+kpasierb.geol.agh.edu.pl
+pldlab8.elektro.agh.edu.pl
+wo65.odlew.agh.edu.pl
+chmura.pti.agh.edu.pl
+manaslu.ia.agh.edu.pl

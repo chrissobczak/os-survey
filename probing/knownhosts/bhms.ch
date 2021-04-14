@@ -1,77 +1,76 @@
-NOERROR	asia.bhms.ch
-NOERROR	north-asia.bhms.ch
-NOERROR	lt.bhms.ch
-NOERROR	alumni.bhms.ch
-NOERROR	it.bhms.ch
-NOERROR	ro.bhms.ch
-NOERROR	es.bhms.ch
-NOERROR	kr.bhms.ch
-NOERROR	academy.bhms.ch
-NOERROR	www.webmail.bhms.ch
-NOERROR	anglo-benelux.bhms.ch
-NOERROR	www.bhms.ch
-NOERROR	ecampus-filebrowser32.bhms.ch
-NOERROR	ecampus-filebrowser310.bhms.ch
-NOERROR	configuratordev.bhms.ch
-NOERROR	counseling.bhms.ch
-NOERROR	dev2017.bhms.ch
-NOERROR	m.bhms.ch
-NOERROR	autodiscover.bhms.ch
-NOERROR	africa-middle-east.bhms.ch
-NOERROR	www.vn.bhms.ch
-NOERROR	openday.bhms.ch
-NOERROR	ee.bhms.ch
-NOERROR	www.configuratordev.bhms.ch
-NOERROR	pt.bhms.ch
-NOERROR	payments.bhms.ch
-NOERROR	bg.bhms.ch
-NOERROR	th.bhms.ch
-NOERROR	www.asia.bhms.ch
-NOERROR	kz.bhms.ch
-NOERROR	www.fr.bhms.ch
-NOERROR	in.bhms.ch
-NOERROR	info.bhms.ch
-NOERROR	webmail.bhms.ch
-NOERROR	www.in.bhms.ch
-NOERROR	bhms.ch
-NOERROR	ua.bhms.ch
-NOERROR	ecampus.bhms.ch
-NOERROR	tw.bhms.ch
-NOERROR	kn.bhms.ch
-NOERROR	kontakt.bhms.ch
-NOERROR	mb.bhms.ch
-NOERROR	south-europe.bhms.ch
-NOERROR	www.dev.bhms.ch
-NOERROR	vn.bhms.ch
-NOERROR	www.dev2017.bhms.ch
-NOERROR	download.bhms.ch
-NXDOMAIN	www.m.bhms.ch
-NOERROR	hu.bhms.ch
-NOERROR	lv.bhms.ch
-NOERROR	www.config.bhms.ch
-NOERROR	www.it.bhms.ch
-NOERROR	ww.bhms.ch
-NOERROR	filebrowser.bhms.ch
-NOERROR	cn.bhms.ch
-NOERROR	remote.bhms.ch
-NOERROR	asean.bhms.ch
-NOERROR	config.bhms.ch
-NOERROR	rs.bhms.ch
-NOERROR	testing2.bhms.ch
-NOERROR	apply.bhms.ch
-NOERROR	he.bhms.ch
-NOERROR	mobile.bhms.ch
-NOERROR	de.bhms.ch
-NOERROR	ecampus-old.bhms.ch
-NOERROR	jp.bhms.ch
-NOERROR	fr.bhms.ch
-NOERROR	hk.bhms.ch
-NOERROR	south-asia.bhms.ch
-NOERROR	dev.bhms.ch
-NOERROR	gr.bhms.ch
-NOERROR	ecampus-new39.bhms.ch
-NOERROR	application.bhms.ch
-NOERROR	www.de.bhms.ch
-NOERROR	ar.bhms.ch
-NOERROR	north-europe.bhms.ch
-NOERROR	www.pt.bhms.ch
+asia.bhms.ch
+north-asia.bhms.ch
+lt.bhms.ch
+alumni.bhms.ch
+it.bhms.ch
+ro.bhms.ch
+es.bhms.ch
+kr.bhms.ch
+academy.bhms.ch
+www.webmail.bhms.ch
+anglo-benelux.bhms.ch
+www.bhms.ch
+ecampus-filebrowser32.bhms.ch
+ecampus-filebrowser310.bhms.ch
+configuratordev.bhms.ch
+counseling.bhms.ch
+dev2017.bhms.ch
+m.bhms.ch
+autodiscover.bhms.ch
+africa-middle-east.bhms.ch
+www.vn.bhms.ch
+openday.bhms.ch
+ee.bhms.ch
+www.configuratordev.bhms.ch
+pt.bhms.ch
+payments.bhms.ch
+bg.bhms.ch
+th.bhms.ch
+www.asia.bhms.ch
+kz.bhms.ch
+www.fr.bhms.ch
+in.bhms.ch
+info.bhms.ch
+webmail.bhms.ch
+www.in.bhms.ch
+bhms.ch
+ua.bhms.ch
+ecampus.bhms.ch
+tw.bhms.ch
+kn.bhms.ch
+kontakt.bhms.ch
+mb.bhms.ch
+south-europe.bhms.ch
+www.dev.bhms.ch
+vn.bhms.ch
+www.dev2017.bhms.ch
+download.bhms.ch
+hu.bhms.ch
+lv.bhms.ch
+www.config.bhms.ch
+www.it.bhms.ch
+ww.bhms.ch
+filebrowser.bhms.ch
+cn.bhms.ch
+remote.bhms.ch
+asean.bhms.ch
+config.bhms.ch
+rs.bhms.ch
+testing2.bhms.ch
+apply.bhms.ch
+he.bhms.ch
+mobile.bhms.ch
+de.bhms.ch
+ecampus-old.bhms.ch
+jp.bhms.ch
+fr.bhms.ch
+hk.bhms.ch
+south-asia.bhms.ch
+dev.bhms.ch
+gr.bhms.ch
+ecampus-new39.bhms.ch
+application.bhms.ch
+www.de.bhms.ch
+ar.bhms.ch
+north-europe.bhms.ch
+www.pt.bhms.ch

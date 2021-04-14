@@ -1,184 +1,152 @@
-NOERROR	doga.isc.senshu-u.ac.jp
-NXDOMAIN	vpn.isc.senshu-u.ac.jp
-NOERROR	cgi.isc.senshu-u.ac.jp
-NXDOMAIN	wm.isc.senshu-u.ac.jp
-NOERROR	xen.isc.senshu-u.ac.jp
-NOERROR	ic.ss.senshu-u.ac.jp
-NOERROR	opac-low.lib.senshu-u.ac.jp
-NOERROR	db.ne.senshu-u.ac.jp
-NOERROR	proxy.ikuta.senshu-u.ac.jp
-NOERROR	st6.ne.senshu-u.ac.jp
-NOERROR	cam.isc.senshu-u.ac.jp
-NOERROR	st2.ne.senshu-u.ac.jp
-NXDOMAIN	opan-ikuta.lib.senshu-u.ac.jp
-NOERROR	renanditest.ss.senshu-u.ac.jp
-NOERROR	ntp4.cs.senshu-u.ac.jp
-NOERROR	dnsri01.acc.senshu-u.ac.jp
-NOERROR	js-ikuta.lib.senshu-u.ac.jp
-NOERROR	fs.ne.senshu-u.ac.jp
-NXDOMAIN	moba.ne.senshu-u.ac.jp
-NOERROR	www.isc.senshu-u.ac.jp
-NOERROR	is-net.acc.senshu-u.ac.jp
-NXDOMAIN	wcgw.sec.senshu-u.ac.jp
-NOERROR	icis.ss.senshu-u.ac.jp
-NXDOMAIN	apsvi1.win.acc.senshu-u.ac.jp
-NOERROR	edu.fm.senshu-u.ac.jp
-NOERROR	kjs.acc.senshu-u.ac.jp
-NOERROR	xen.acc.senshu-u.ac.jp
-NXDOMAIN	vca01.swin.isc.senshu-u.ac.jp
-NOERROR	sps.acc.senshu-u.ac.jp
-NOERROR	ext.psy.senshu-u.ac.jp
-NOERROR	www.sni.ne.senshu-u.ac.jp
-NOERROR	netac.tw.senshu-u.ac.jp
-NOERROR	websv.acc.senshu-u.ac.jp
-NOERROR	ns4.cc.senshu-u.ac.jp
-NOERROR	www.ne.senshu-u.ac.jp
-NOERROR	s01.fm.senshu-u.ac.jp
-NOERROR	ntp1.cs.senshu-u.ac.jp
-NOERROR	dpml.isc.senshu-u.ac.jp
-NOERROR	albatross.fm.senshu-u.ac.jp
-NOERROR	www.psy.senshu-u.ac.jp
-NOERROR	kmhr.fm.senshu-u.ac.jp
-NXDOMAIN	edrd.sec.senshu-u.ac.jp
-NOERROR	www.senshu-u.ac.jp
-NXDOMAIN	hiyoshi-sinet.gw.senshu-u.ac.jp
-NOERROR	info.acc.senshu-u.ac.jp
-NOERROR	ni.ne.senshu-u.ac.jp
-SERVFAIL	snc.fss.senshu-u.ac.jp
-NOERROR	sun.cc.senshu-u.ac.jp
-NOERROR	wundt.psy.senshu-u.ac.jp
-NOERROR	lsb.fm.senshu-u.ac.jp
-NOERROR	ns1.acc.senshu-u.ac.jp
-NOERROR	sns.fm.senshu-u.ac.jp
-NXDOMAIN	aswk10.sec.senshu-u.ac.jp
-NOERROR	mxs02.acc.senshu-u.ac.jp
-NOERROR	na2.tw.senshu-u.ac.jp
-NOERROR	cp.ss.senshu-u.ac.jp
-NOERROR	mail.psy.senshu-u.ac.jp
-NOERROR	acc.senshu-u.ac.jp
-SERVFAIL	www1.shushoku.senshu-u.ac.jp
-SERVFAIL	ns.epi.fm.senshu-u.ac.jp
-NOERROR	cgis.isc.senshu-u.ac.jp
-NOERROR	naiw.isc.senshu-u.ac.jp
-NOERROR	wcgw.senshu-u.ac.jp
-NOERROR	st11.ne.senshu-u.ac.jp
-NOERROR	kujira.psy.senshu-u.ac.jp
-NOERROR	prof.isc.senshu-u.ac.jp
-NOERROR	romanee.fm.senshu-u.ac.jp
-NOERROR	chgpw.acc.senshu-u.ac.jp
-NOERROR	nsr02.isc.senshu-u.ac.jp
-NOERROR	ipp.isc.senshu-u.ac.jp
-NXDOMAIN	ms.psy.senshu-u.ac.jp
-NOERROR	support.acc.senshu-u.ac.jp
-NOERROR	pc.fm.senshu-u.ac.jp
-NOERROR	domingo.fm.senshu-u.ac.jp
-NOERROR	js-sv.lib.senshu-u.ac.jp
-NOERROR	kws.acc.senshu-u.ac.jp
-NOERROR	summer.cc.senshu-u.ac.jp
-NOERROR	dmsweb.acc.senshu-u.ac.jp
-NOERROR	ns2.cc.senshu-u.ac.jp
-NXDOMAIN	mits.isc.senshu-u.ac.jp
-NOERROR	js-main.lib.senshu-u.ac.jp
-NOERROR	opac-kanda.lib.senshu-u.ac.jp
-NOERROR	psy-gw.psy.senshu-u.ac.jp
-NOERROR	st9.ne.senshu-u.ac.jp
-NOERROR	www2.ne.senshu-u.ac.jp
-NOERROR	actml.acc.senshu-u.ac.jp
-NOERROR	r01dnsl01.cc.senshu-u.ac.jp
-NOERROR	dprsv01.isc.senshu-u.ac.jp
-NOERROR	cv.isc.senshu-u.ac.jp
-NOERROR	dusv.cix.cc.senshu-u.ac.jp
-NXDOMAIN	socio.senshu-u.ac.jp
-NXDOMAIN	green.fm.senshu-u.ac.jp
-NOERROR	project.fm.senshu-u.ac.jp
-NOERROR	sragw2.acc.senshu-u.ac.jp
-NOERROR	m-opac.acc.senshu-u.ac.jp
-NXDOMAIN	senshu-sinet.gw.senshu-u.ac.jp
-NOERROR	hml.fm.senshu-u.ac.jp
-NOERROR	air.acc.senshu-u.ac.jp
-NOERROR	rgm.acc.senshu-u.ac.jp
-NOERROR	www2.acc.senshu-u.ac.jp
-NOERROR	vpn.psy.senshu-u.ac.jp
-NXDOMAIN	webfs.acc.senshu-u.ac.jp
-NOERROR	www1.isc.senshu-u.ac.jp
-NOERROR	s-net.acc.senshu-u.ac.jp
-NOERROR	idp.senshu-u.ac.jp
-NOERROR	js-low.lib.senshu-u.ac.jp
-NXDOMAIN	rdsg.sec.senshu-u.ac.jp
-NOERROR	manaba.senshu-u.ac.jp
-NOERROR	sun.six.cc.senshu-u.ac.jp
-NOERROR	isyllabus.acc.senshu-u.ac.jp
-NOERROR	opac.acc.senshu-u.ac.jp
-NOERROR	ntp2.cs.senshu-u.ac.jp
-NOERROR	gico.psy.senshu-u.ac.jp
-NXDOMAIN	dmwsvi1.acc.senshu-u.ac.jp
-NOERROR	acedrctr2.senshu-u.ac.jp
-NOERROR	syllabus.acc.senshu-u.ac.jp
-NOERROR	edwww.isc.senshu-u.ac.jp
-NOERROR	ns1.cc.senshu-u.ac.jp
-SERVFAIL	www.shushoku.senshu-u.ac.jp
-NOERROR	libgw.lib.senshu-u.ac.jp
-NOERROR	moi.fm.senshu-u.ac.jp
-NOERROR	rad.sv.senshu-u.ac.jp
-NOERROR	st5.ne.senshu-u.ac.jp
-NOERROR	st12.ne.senshu-u.ac.jp
-NOERROR	cvr01.isc.senshu-u.ac.jp
-NOERROR	ldap1.ne.senshu-u.ac.jp
-NOERROR	mxs01.acc.senshu-u.ac.jp
-SERVFAIL	epi.fm.senshu-u.ac.jp
-NOERROR	st10.ne.senshu-u.ac.jp
-NOERROR	st8.ne.senshu-u.ac.jp
-NOERROR	files.acc.senshu-u.ac.jp
-NOERROR	st13.ne.senshu-u.ac.jp
-NXDOMAIN	aswk.sec.senshu-u.ac.jp
-NOERROR	st1.ne.senshu-u.ac.jp
-NXDOMAIN	r01ntpl01.cs.senshu-u.ac.jp
-NOERROR	alcn.tw.senshu-u.ac.jp
-NOERROR	opac-main.lib.senshu-u.ac.jp
-NOERROR	renandi.ss.senshu-u.ac.jp
-NOERROR	barolo.fm.senshu-u.ac.jp
-NOERROR	reach.acc.senshu-u.ac.jp
-NOERROR	wnn.senshu-u.ac.jp
-NOERROR	www3.psy.senshu-u.ac.jp
-NOERROR	koyu.senshu-u.ac.jp
-NOERROR	svpn.isc.senshu-u.ac.jp
-NXDOMAIN	nakapara.fm.senshu-u.ac.jp
-NOERROR	ns3.nz.senshu-u.ac.jp
-NOERROR	ir.acc.senshu-u.ac.jp
-NOERROR	sato.fm.senshu-u.ac.jp
-NOERROR	vrw11.isc.senshu-u.ac.jp
-NXDOMAIN	ww2.acc.senshu-u.ac.jp
-NOERROR	webgw.acc.senshu-u.ac.jp
-NXDOMAIN	susv.isc.senshu-u.ac.jp
-NOERROR	minwadata.fm.senshu-u.ac.jp
-NOERROR	netprime.ne.senshu-u.ac.jp
-NOERROR	nsr01.isc.senshu-u.ac.jp
-NOERROR	st3.ne.senshu-u.ac.jp
-NOERROR	respon.senshu-u.ac.jp
-NOERROR	ntp3.cs.senshu-u.ac.jp
-NOERROR	pb.fm.senshu-u.ac.jp
-NOERROR	gaiw.isc.senshu-u.ac.jp
-NXDOMAIN	cms.acc.senshu-u.ac.jp
-NOERROR	cc.fm.senshu-u.ac.jp
-NOERROR	dprsv02.isc.senshu-u.ac.jp
-NOERROR	r01dnsl02.cc.senshu-u.ac.jp
-NOERROR	uktk.isc.senshu-u.ac.jp
-NOERROR	gmpw.isc.senshu-u.ac.jp
-NOERROR	js-kanda.lib.senshu-u.ac.jp
-NXDOMAIN	r01dnsl03.cc.senshu-u.ac.jp
-NXDOMAIN	aswi.sec.senshu-u.ac.jp
-NOERROR	sassicaia.fm.senshu-u.ac.jp
-NOERROR	vpngw.acc.senshu-u.ac.jp
-NOERROR	vpn.ne.senshu-u.ac.jp
-NOERROR	ns2.acc.senshu-u.ac.jp
-NOERROR	sns.ne.senshu-u.ac.jp
-NXDOMAIN	anglo.fm.senshu-u.ac.jp
-NOERROR	st4.ne.senshu-u.ac.jp
-NOERROR	pluto.psy.senshu-u.ac.jp
-NOERROR	dnsri02.acc.senshu-u.ac.jp
-NOERROR	st7.ne.senshu-u.ac.jp
-NOERROR	ris.acc.senshu-u.ac.jp
-NOERROR	design.fm.senshu-u.ac.jp
-NOERROR	go.senshu-u.ac.jp
-NOERROR	ldap2.ne.senshu-u.ac.jp
-NOERROR	sragw.acc.senshu-u.ac.jp
+doga.isc.senshu-u.ac.jp
+cgi.isc.senshu-u.ac.jp
+xen.isc.senshu-u.ac.jp
+ic.ss.senshu-u.ac.jp
+opac-low.lib.senshu-u.ac.jp
+db.ne.senshu-u.ac.jp
+proxy.ikuta.senshu-u.ac.jp
+st6.ne.senshu-u.ac.jp
+cam.isc.senshu-u.ac.jp
+st2.ne.senshu-u.ac.jp
+renanditest.ss.senshu-u.ac.jp
+ntp4.cs.senshu-u.ac.jp
+dnsri01.acc.senshu-u.ac.jp
+js-ikuta.lib.senshu-u.ac.jp
+fs.ne.senshu-u.ac.jp
+www.isc.senshu-u.ac.jp
+is-net.acc.senshu-u.ac.jp
+icis.ss.senshu-u.ac.jp
+edu.fm.senshu-u.ac.jp
+kjs.acc.senshu-u.ac.jp
+xen.acc.senshu-u.ac.jp
+sps.acc.senshu-u.ac.jp
+ext.psy.senshu-u.ac.jp
+www.sni.ne.senshu-u.ac.jp
+netac.tw.senshu-u.ac.jp
+websv.acc.senshu-u.ac.jp
+ns4.cc.senshu-u.ac.jp
+www.ne.senshu-u.ac.jp
+s01.fm.senshu-u.ac.jp
+ntp1.cs.senshu-u.ac.jp
+dpml.isc.senshu-u.ac.jp
+albatross.fm.senshu-u.ac.jp
+www.psy.senshu-u.ac.jp
+kmhr.fm.senshu-u.ac.jp
+www.senshu-u.ac.jp
+info.acc.senshu-u.ac.jp
+ni.ne.senshu-u.ac.jp
+sun.cc.senshu-u.ac.jp
+wundt.psy.senshu-u.ac.jp
+lsb.fm.senshu-u.ac.jp
+ns1.acc.senshu-u.ac.jp
+sns.fm.senshu-u.ac.jp
+mxs02.acc.senshu-u.ac.jp
+na2.tw.senshu-u.ac.jp
+cp.ss.senshu-u.ac.jp
+mail.psy.senshu-u.ac.jp
+acc.senshu-u.ac.jp
+cgis.isc.senshu-u.ac.jp
+naiw.isc.senshu-u.ac.jp
+wcgw.senshu-u.ac.jp
+st11.ne.senshu-u.ac.jp
+kujira.psy.senshu-u.ac.jp
+prof.isc.senshu-u.ac.jp
+romanee.fm.senshu-u.ac.jp
+chgpw.acc.senshu-u.ac.jp
+nsr02.isc.senshu-u.ac.jp
+ipp.isc.senshu-u.ac.jp
+support.acc.senshu-u.ac.jp
+pc.fm.senshu-u.ac.jp
+domingo.fm.senshu-u.ac.jp
+js-sv.lib.senshu-u.ac.jp
+kws.acc.senshu-u.ac.jp
+summer.cc.senshu-u.ac.jp
+dmsweb.acc.senshu-u.ac.jp
+ns2.cc.senshu-u.ac.jp
+js-main.lib.senshu-u.ac.jp
+opac-kanda.lib.senshu-u.ac.jp
+psy-gw.psy.senshu-u.ac.jp
+st9.ne.senshu-u.ac.jp
+www2.ne.senshu-u.ac.jp
+actml.acc.senshu-u.ac.jp
+r01dnsl01.cc.senshu-u.ac.jp
+dprsv01.isc.senshu-u.ac.jp
+cv.isc.senshu-u.ac.jp
+dusv.cix.cc.senshu-u.ac.jp
+project.fm.senshu-u.ac.jp
+sragw2.acc.senshu-u.ac.jp
+m-opac.acc.senshu-u.ac.jp
+hml.fm.senshu-u.ac.jp
+air.acc.senshu-u.ac.jp
+rgm.acc.senshu-u.ac.jp
+www2.acc.senshu-u.ac.jp
+vpn.psy.senshu-u.ac.jp
+www1.isc.senshu-u.ac.jp
+s-net.acc.senshu-u.ac.jp
+idp.senshu-u.ac.jp
+js-low.lib.senshu-u.ac.jp
+manaba.senshu-u.ac.jp
+sun.six.cc.senshu-u.ac.jp
+isyllabus.acc.senshu-u.ac.jp
+opac.acc.senshu-u.ac.jp
+ntp2.cs.senshu-u.ac.jp
+gico.psy.senshu-u.ac.jp
+acedrctr2.senshu-u.ac.jp
+syllabus.acc.senshu-u.ac.jp
+edwww.isc.senshu-u.ac.jp
+ns1.cc.senshu-u.ac.jp
+libgw.lib.senshu-u.ac.jp
+moi.fm.senshu-u.ac.jp
+rad.sv.senshu-u.ac.jp
+st5.ne.senshu-u.ac.jp
+st12.ne.senshu-u.ac.jp
+cvr01.isc.senshu-u.ac.jp
+ldap1.ne.senshu-u.ac.jp
+mxs01.acc.senshu-u.ac.jp
+st10.ne.senshu-u.ac.jp
+st8.ne.senshu-u.ac.jp
+files.acc.senshu-u.ac.jp
+st13.ne.senshu-u.ac.jp
+st1.ne.senshu-u.ac.jp
+alcn.tw.senshu-u.ac.jp
+opac-main.lib.senshu-u.ac.jp
+renandi.ss.senshu-u.ac.jp
+barolo.fm.senshu-u.ac.jp
+reach.acc.senshu-u.ac.jp
+wnn.senshu-u.ac.jp
+www3.psy.senshu-u.ac.jp
+koyu.senshu-u.ac.jp
+svpn.isc.senshu-u.ac.jp
+ns3.nz.senshu-u.ac.jp
+ir.acc.senshu-u.ac.jp
+sato.fm.senshu-u.ac.jp
+vrw11.isc.senshu-u.ac.jp
+webgw.acc.senshu-u.ac.jp
+minwadata.fm.senshu-u.ac.jp
+netprime.ne.senshu-u.ac.jp
+nsr01.isc.senshu-u.ac.jp
+st3.ne.senshu-u.ac.jp
+respon.senshu-u.ac.jp
+ntp3.cs.senshu-u.ac.jp
+pb.fm.senshu-u.ac.jp
+gaiw.isc.senshu-u.ac.jp
+cc.fm.senshu-u.ac.jp
+dprsv02.isc.senshu-u.ac.jp
+r01dnsl02.cc.senshu-u.ac.jp
+uktk.isc.senshu-u.ac.jp
+gmpw.isc.senshu-u.ac.jp
+js-kanda.lib.senshu-u.ac.jp
+sassicaia.fm.senshu-u.ac.jp
+vpngw.acc.senshu-u.ac.jp
+vpn.ne.senshu-u.ac.jp
+ns2.acc.senshu-u.ac.jp
+sns.ne.senshu-u.ac.jp
+st4.ne.senshu-u.ac.jp
+pluto.psy.senshu-u.ac.jp
+dnsri02.acc.senshu-u.ac.jp
+st7.ne.senshu-u.ac.jp
+ris.acc.senshu-u.ac.jp
+design.fm.senshu-u.ac.jp
+go.senshu-u.ac.jp
+ldap2.ne.senshu-u.ac.jp
+sragw.acc.senshu-u.ac.jp

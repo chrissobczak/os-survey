@@ -1,4 +1,3 @@
-NOERROR	mail.oradeauniversity.com
-NXDOMAIN	ww.oradeauniversity.com
-NOERROR	www.oradeauniversity.com
-NOERROR	oradeauniversity.com
+mail.oradeauniversity.com
+www.oradeauniversity.com
+oradeauniversity.com

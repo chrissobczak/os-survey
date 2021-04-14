@@ -1,54 +1,18 @@
-NXDOMAIN	www.eventos.uab.edu.bo
-NOERROR	web.uab.edu.bo
-NXDOMAIN	www.virtual.uab.edu.bo
-NXDOMAIN	ingenieria.uab.edu.bo
-NOERROR	iglesia.uab.edu.bo
-NOERROR	musica.uab.edu.bo
-NOERROR	pagina.uab.edu.bo
-NXDOMAIN	www.investigacion.uab.edu.bo
-SERVFAIL	virtual.uab.edu.bo
-NOERROR	eventos.uab.edu.bo
-SERVFAIL	www.postgrado.uab.edu.bo
-NOERROR	postgrado.uab.edu.bo
-NXDOMAIN	ciat.uab.edu.bo
-NXDOMAIN	www.iglesia.uab.edu.bo
-NOERROR	bibliotecabuscador.uab.edu.bo
-NXDOMAIN	www.gth.uab.edu.bo
-NXDOMAIN	www.bibliotecabuscador.uab.edu.bo
-NOERROR	gth.uab.edu.bo
-NXDOMAIN	www.web.uab.edu.bo
-NXDOMAIN	gthv2.uab.edu.bo
-NOERROR	investigacion.uab.edu.bo
-NXDOMAIN	www.pagina.uab.edu.bo
-NXDOMAIN	www.bvsk.uab.edu.bo
-NXDOMAIN	centrowhite.uab.edu.bo
-NOERROR	bibliotecadmin.uab.edu.bo
-NXDOMAIN	bienestar.uab.edu.bo
-NXDOMAIN	www.gthv2.uab.edu.bo
-NOERROR	linuab2.uab.edu.bo
-NXDOMAIN	webmail.uab.edu.bo
-NXDOMAIN	www.prueba.uab.edu.bo
-NXDOMAIN	idiomas.uab.edu.bo
-NXDOMAIN	www.uvirtual.uab.edu.bo
-NOERROR	www.uab.edu.bo
-NOERROR	finanzas.uab.edu.bo
-NOERROR	revistas.uab.edu.bo
-NXDOMAIN	www.musica.uab.edu.bo
-NOERROR	uabwp.uab.edu.bo
-NXDOMAIN	www.uabmarketing.uab.edu.bo
-NOERROR	bvsk.uab.edu.bo
-NXDOMAIN	pag.uab.edu.bo
-NXDOMAIN	adems.uab.edu.bo
-NXDOMAIN	www.revistas.uab.edu.bo
-SERVFAIL	www.uabwp.uab.edu.bo
-NXDOMAIN	academico.uab.edu.bo
-NOERROR	uvirtual.uab.edu.bo
-NXDOMAIN	mailuab.uab.edu.bo
-NXDOMAIN	ja.uab.edu.bo
-NXDOMAIN	linuab.uab.edu.bo
-NXDOMAIN	prueba.uab.edu.bo
-NOERROR	uabmarketing.uab.edu.bo
-NXDOMAIN	correo.uab.edu.bo
-NXDOMAIN	www.bibliotecadmin.uab.edu.bo
-NXDOMAIN	diplomado.uab.edu.bo
-NXDOMAIN	www.pag.uab.edu.bo
+web.uab.edu.bo
+iglesia.uab.edu.bo
+musica.uab.edu.bo
+pagina.uab.edu.bo
+eventos.uab.edu.bo
+postgrado.uab.edu.bo
+bibliotecabuscador.uab.edu.bo
+gth.uab.edu.bo
+investigacion.uab.edu.bo
+bibliotecadmin.uab.edu.bo
+linuab2.uab.edu.bo
+www.uab.edu.bo
+finanzas.uab.edu.bo
+revistas.uab.edu.bo
+uabwp.uab.edu.bo
+bvsk.uab.edu.bo
+uvirtual.uab.edu.bo
+uabmarketing.uab.edu.bo

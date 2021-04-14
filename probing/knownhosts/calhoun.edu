@@ -1,89 +1,62 @@
-NOERROR	hsvpan2.calhoun.edu
-NXDOMAIN	nssb.calhoun.edu
-NOERROR	portal.calhoun.edu
-NXDOMAIN	oak@fc.calhoun.edu
-NOERROR	remote.calhoun.edu
-NOERROR	pp-dwapp1.calhoun.edu
-NOERROR	goose.calhoun.edu
-NOERROR	ss1.calhoun.edu
-NOERROR	vpn.calhoun.edu
-NOERROR	sourceone.calhoun.edu
-NOERROR	exchange.calhoun.edu
-NXDOMAIN	fcsync.calhoun.edu
-NOERROR	autodiscover.calhoun.edu
-NOERROR	mobileiron.calhoun.edu
-NXDOMAIN	bookstore.calhoun.edu
-NXDOMAIN	beavis.calhoun.edu
-NXDOMAIN	tegrity.calhoun.edu
-NOERROR	bdms.calhoun.edu
-NOERROR	hawk2.calhoun.edu
-NOERROR	www.calhoun.edu
-NOERROR	ss1-wms.calhoun.edu
-NOERROR	xeadmin2-prod.calhoun.edu
-NOERROR	risc.calhoun.edu
-NOERROR	calhounlb1.calhoun.edu
-NOERROR	speede.calhoun.edu
-NXDOMAIN	ark.calhoun.edu
-NOERROR	calhounlb2.calhoun.edu
-NOERROR	hsvpan1.calhoun.edu
-NXDOMAIN	webctbu.calhoun.edu
-NXDOMAIN	netlab3.calhoun.edu
-NOERROR	lib.calhoun.edu
-NOERROR	dec-nac-01.calhoun.edu
-NOERROR	cccpan1.calhoun.edu
-NXDOMAIN	blackboard9.calhoun.edu
-NXDOMAIN	bomgar.calhoun.edu
-NXDOMAIN	mycas.calhoun.edu
-NXDOMAIN	tegrity7video.calhoun.edu
-NOERROR	dwapp1.calhoun.edu
-NOERROR	eis-prod.calhoun.edu
-NXDOMAIN	w.calhoun.edu
-NXDOMAIN	www.speede.calhoun.edu
-NOERROR	portal-test.calhoun.edu
-NOERROR	xeadmin1-prod.calhoun.edu
-NOERROR	xess1-prod.calhoun.edu
-NOERROR	cccpan2.calhoun.edu
-NOERROR	u8middleware.calhoun.edu
-NOERROR	ss2.calhoun.edu
-NXDOMAIN	hip.calhoun.edu
-NXDOMAIN	arcadia.calhoun.edu
-NOERROR	banssb.calhoun.edu
-NOERROR	webnt.calhoun.edu
-NOERROR	cccpan3.calhoun.edu
-NOERROR	catia.calhoun.edu
-NOERROR	calhoun.edu
-NXDOMAIN	webadvisor.calhoun.edu
-NXDOMAIN	it.calhoun.edu
-NOERROR	kryptos.calhoun.edu
-NOERROR	mc.calhoun.edu
-NXDOMAIN	tegrity7.calhoun.edu
-NXDOMAIN	video.calhoun.edu
-NOERROR	hsv-nac-01.calhoun.edu
-NOERROR	banneradmin-prod.calhoun.edu
-NXDOMAIN	webct.calhoun.edu
-NOERROR	smtp.calhoun.edu
-NOERROR	warhawknews.calhoun.edu
-NOERROR	plex.calhoun.edu
-NOERROR	prtg.calhoun.edu
-NOERROR	dfapan1.calhoun.edu
-NOERROR	xess2-prod.calhoun.edu
-NXDOMAIN	webct6.calhoun.edu
-NOERROR	auction.calhoun.edu
-NOERROR	hawk.calhoun.edu
-NOERROR	pp-ban-ssb.calhoun.edu
-NXDOMAIN	cisfp.calhoun.edu
-NOERROR	netlab.calhoun.edu
-NOERROR	redirect.calhoun.edu
-NOERROR	fcarchived.calhoun.edu
-NOERROR	hybrid.calhoun.edu
-NOERROR	trackit.calhoun.edu
-NOERROR	fc.calhoun.edu
-NXDOMAIN	tegrity7qt.calhoun.edu
-NXDOMAIN	immersive.calhoun.edu
-NOERROR	catalog.calhoun.edu
-NOERROR	xeadmin1-test.calhoun.edu
-NXDOMAIN	cdserver.calhoun.edu
-NOERROR	webmail.calhoun.edu
-NOERROR	mcserv.calhoun.edu
-NOERROR	kryptos-banner.calhoun.edu
-NOERROR	blackboard.calhoun.edu
+hsvpan2.calhoun.edu
+portal.calhoun.edu
+remote.calhoun.edu
+pp-dwapp1.calhoun.edu
+goose.calhoun.edu
+ss1.calhoun.edu
+vpn.calhoun.edu
+sourceone.calhoun.edu
+exchange.calhoun.edu
+autodiscover.calhoun.edu
+mobileiron.calhoun.edu
+bdms.calhoun.edu
+hawk2.calhoun.edu
+www.calhoun.edu
+ss1-wms.calhoun.edu
+xeadmin2-prod.calhoun.edu
+risc.calhoun.edu
+calhounlb1.calhoun.edu
+speede.calhoun.edu
+calhounlb2.calhoun.edu
+hsvpan1.calhoun.edu
+lib.calhoun.edu
+dec-nac-01.calhoun.edu
+cccpan1.calhoun.edu
+dwapp1.calhoun.edu
+eis-prod.calhoun.edu
+portal-test.calhoun.edu
+xeadmin1-prod.calhoun.edu
+xess1-prod.calhoun.edu
+cccpan2.calhoun.edu
+u8middleware.calhoun.edu
+ss2.calhoun.edu
+banssb.calhoun.edu
+webnt.calhoun.edu
+cccpan3.calhoun.edu
+catia.calhoun.edu
+calhoun.edu
+kryptos.calhoun.edu
+mc.calhoun.edu
+hsv-nac-01.calhoun.edu
+banneradmin-prod.calhoun.edu
+smtp.calhoun.edu
+warhawknews.calhoun.edu
+plex.calhoun.edu
+prtg.calhoun.edu
+dfapan1.calhoun.edu
+xess2-prod.calhoun.edu
+auction.calhoun.edu
+hawk.calhoun.edu
+pp-ban-ssb.calhoun.edu
+netlab.calhoun.edu
+redirect.calhoun.edu
+fcarchived.calhoun.edu
+hybrid.calhoun.edu
+trackit.calhoun.edu
+fc.calhoun.edu
+catalog.calhoun.edu
+xeadmin1-test.calhoun.edu
+webmail.calhoun.edu
+mcserv.calhoun.edu
+kryptos-banner.calhoun.edu
+blackboard.calhoun.edu

@@ -1,67 +1,48 @@
-NOERROR	polytech-lille.fr
-NOERROR	faqportal.polytech-lille.fr
-NOERROR	www.polytech-lille.fr
-NXDOMAIN	gestages.polytech-lille.fr
-NOERROR	pop.polytech-lille.fr
-NXDOMAIN	moodleportal.polytech-lille.fr
-NOERROR	cloud.polytech-lille.fr
-NOERROR	ressources.polytech-lille.fr
-NOERROR	qualiteportal.polytech-lille.fr
-NOERROR	fabricarium.polytech-lille.fr
-NXDOMAIN	twiki-tools.polytech-lille.fr
-NOERROR	debian.polytech-lille.fr
-NOERROR	webmail-roundcube.polytech-lille.fr
-NOERROR	mantisportal.polytech-lille.fr
-NOERROR	cloudportal.polytech-lille.fr
-NOERROR	fabricarium-old.polytech-lille.fr
-NOERROR	services-alpha.polytech-lille.fr
-NXDOMAIN	twiki.polytech-lille.fr
-NOERROR	applications.polytech-lille.fr
-NXDOMAIN	grem-lille.polytech-lille.fr
-NOERROR	apprentissage.polytech-lille.fr
-NXDOMAIN	webgames.polytech-lille.fr
-NXDOMAIN	http.www.polytech-lille.fr
-NOERROR	ftp.polytech-lille.fr
-NOERROR	stage.polytech-lille.fr
-NXDOMAIN	geo-beyrouth2004.polytech-lille.fr
-NOERROR	bigportal.polytech-lille.fr
-NXDOMAIN	mantis.polytech-lille.fr
-NXDOMAIN	booking.polytech-lille.fr
-NOERROR	masteres-specialises.polytech-lille.fr
-NXDOMAIN	services-beta.polytech-lille.fr
-NOERROR	annuaire.polytech-lille.fr
-NOERROR	moodle.polytech-lille.fr
-NOERROR	ca.polytech-lille.fr
-NOERROR	cours.polytech-lille.fr
-NOERROR	limeportal.polytech-lille.fr
-NOERROR	portail.polytech-lille.fr
-NOERROR	bde.polytech-lille.fr
-NXDOMAIN	www-twiki.polytech-lille.fr
-NOERROR	gedportal.polytech-lille.fr
-NXDOMAIN	jngg-lille2004.polytech-lille.fr
-NXDOMAIN	webmail-horde.polytech-lille.fr
-NOERROR	newsletter.polytech-lille.fr
-NOERROR	listportal.polytech-lille.fr
-NOERROR	webmail.polytech-lille.fr
-NOERROR	intranet.polytech-lille.fr
-NOERROR	appliportal.polytech-lille.fr
-NXDOMAIN	sitedb.polytech-lille.fr
-NOERROR	fichform.polytech-lille.fr
-NOERROR	webmailportal3.polytech-lille.fr
-NOERROR	systeme-qualite.polytech-lille.fr
-NOERROR	wikiportal.polytech-lille.fr
-NOERROR	webmailportal.polytech-lille.fr
-NOERROR	imap.polytech-lille.fr
-NXDOMAIN	geocitynet-2005.polytech-lille.fr
-NOERROR	reservationportal.polytech-lille.fr
-NOERROR	sos-salle.polytech-lille.fr
-NXDOMAIN	tc17-prague2003.polytech-lille.fr
-NOERROR	listetudiants.polytech-lille.fr
-NXDOMAIN	forum.polytech-lille.fr
-NOERROR	projets.polytech-lille.fr
-NOERROR	proxy.polytech-lille.fr
-NOERROR	mail.polytech-lille.fr
-NOERROR	twikiportal.polytech-lille.fr
-NOERROR	cti.polytech-lille.fr
-NXDOMAIN	ue-lille2005.polytech-lille.fr
-NOERROR	webmailportal2.polytech-lille.fr
+polytech-lille.fr
+faqportal.polytech-lille.fr
+www.polytech-lille.fr
+pop.polytech-lille.fr
+cloud.polytech-lille.fr
+ressources.polytech-lille.fr
+qualiteportal.polytech-lille.fr
+fabricarium.polytech-lille.fr
+debian.polytech-lille.fr
+webmail-roundcube.polytech-lille.fr
+mantisportal.polytech-lille.fr
+cloudportal.polytech-lille.fr
+fabricarium-old.polytech-lille.fr
+services-alpha.polytech-lille.fr
+applications.polytech-lille.fr
+apprentissage.polytech-lille.fr
+ftp.polytech-lille.fr
+stage.polytech-lille.fr
+bigportal.polytech-lille.fr
+masteres-specialises.polytech-lille.fr
+annuaire.polytech-lille.fr
+moodle.polytech-lille.fr
+ca.polytech-lille.fr
+cours.polytech-lille.fr
+limeportal.polytech-lille.fr
+portail.polytech-lille.fr
+bde.polytech-lille.fr
+gedportal.polytech-lille.fr
+newsletter.polytech-lille.fr
+listportal.polytech-lille.fr
+webmail.polytech-lille.fr
+intranet.polytech-lille.fr
+appliportal.polytech-lille.fr
+fichform.polytech-lille.fr
+webmailportal3.polytech-lille.fr
+systeme-qualite.polytech-lille.fr
+wikiportal.polytech-lille.fr
+webmailportal.polytech-lille.fr
+imap.polytech-lille.fr
+reservationportal.polytech-lille.fr
+sos-salle.polytech-lille.fr
+listetudiants.polytech-lille.fr
+projets.polytech-lille.fr
+proxy.polytech-lille.fr
+mail.polytech-lille.fr
+twikiportal.polytech-lille.fr
+cti.polytech-lille.fr
+webmailportal2.polytech-lille.fr

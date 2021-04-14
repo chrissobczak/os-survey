@@ -1,37 +1,25 @@
-NOERROR	amc.unicaribe.edu.do
-NOERROR	soporte.unicaribe.edu.do
-NXDOMAIN	mail.bbrep.unicaribe.edu.do
-NOERROR	biblioteca.unicaribe.edu.do
-NOERROR	bb-test.unicaribe.edu.do
-NXDOMAIN	webdisk.bbrep.unicaribe.edu.do
-NOERROR	login-prod.unicaribe.edu.do
-NXDOMAIN	guias.unicaribe.edu.do
-NOERROR	inscripcion_de_asignaturas-prod.unicaribe.edu.do
-NOERROR	login.unicaribe.edu.do
-NOERROR	correo.unicaribe.edu.do
-NOERROR	conecta.unicaribe.edu.do
-NXDOMAIN	www.intranet.unicaribe.edu.do
-NOERROR	aulavirtual.unicaribe.edu.do
-NXDOMAIN	cpanel.bbrep.unicaribe.edu.do
-NOERROR	test.unicaribe.edu.do
-NXDOMAIN	www.virtualeduca.unicaribe.edu.do
-NXDOMAIN	learn.unicaribe.edu.do
-NOERROR	conectaxe-prod.unicaribe.edu.do
-NOERROR	maps-prod.unicaribe.edu.do
-NOERROR	unicaribe.edu.do
-NOERROR	koha-test.unicaribe.edu.do
-NXDOMAIN	webmail.bbrep.unicaribe.edu.do
-NOERROR	bbrep.unicaribe.edu.do
-NOERROR	www.unicaribe.edu.do
-NXDOMAIN	www.bbrep.unicaribe.edu.do
-NOERROR	college.unicaribe.edu.do
-NOERROR	inscripcion_de_asignaturas.unicaribe.edu.do
-NOERROR	blackboard.unicaribe.edu.do
-NXDOMAIN	ns1.unicaribe.edu.do
-NOERROR	www.aulavirtual.unicaribe.edu.do
-NOERROR	lista_de_asistencia.unicaribe.edu.do
-NXDOMAIN	www.procesos.unicaribe.edu.do
-NOERROR	maps-dev.unicaribe.edu.do
-SERVFAIL	mobile-dev.unicaribe.edu.do
-NOERROR	conectaxe.unicaribe.edu.do
-NOERROR	conecta-prod.unicaribe.edu.do
+amc.unicaribe.edu.do
+soporte.unicaribe.edu.do
+biblioteca.unicaribe.edu.do
+bb-test.unicaribe.edu.do
+login-prod.unicaribe.edu.do
+inscripcion_de_asignaturas-prod.unicaribe.edu.do
+login.unicaribe.edu.do
+correo.unicaribe.edu.do
+conecta.unicaribe.edu.do
+aulavirtual.unicaribe.edu.do
+test.unicaribe.edu.do
+conectaxe-prod.unicaribe.edu.do
+maps-prod.unicaribe.edu.do
+unicaribe.edu.do
+koha-test.unicaribe.edu.do
+bbrep.unicaribe.edu.do
+www.unicaribe.edu.do
+college.unicaribe.edu.do
+inscripcion_de_asignaturas.unicaribe.edu.do
+blackboard.unicaribe.edu.do
+www.aulavirtual.unicaribe.edu.do
+lista_de_asistencia.unicaribe.edu.do
+maps-dev.unicaribe.edu.do
+conectaxe.unicaribe.edu.do
+conecta-prod.unicaribe.edu.do

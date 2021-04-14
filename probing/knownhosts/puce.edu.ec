@@ -1,110 +1,89 @@
-NOERROR	puceae_a.puce.edu.ec
-NOERROR	coopuce.puce.edu.ec
-NOERROR	puceftp.puce.edu.ec
-NOERROR	owa.puce.edu.ec
-NOERROR	pucessoweb.puce.edu.ec
-NOERROR	pucewsd_a.puce.edu.ec
-NOERROR	pucenet.puce.edu.ec
-NXDOMAIN	pucevirtual.puce.edu.ec
-NOERROR	moodletest.puce.edu.ec
-NOERROR	evaonline.puce.edu.ec
-NOERROR	bnbdservicios.puce.edu.ec
-NXDOMAIN	stuio2.puce.edu.ec
-NXDOMAIN	puceuio.puce.edu.ec
-NOERROR	puce.edu.ec
-NOERROR	rlysmtp.puceinfo.puce.edu.ec
-NOERROR	jornadasbiologia2017.puce.edu.ec
-NOERROR	smtpout.puce.edu.ec
-NOERROR	puceciei.puce.edu.ec
-NOERROR	o3.ip.puce.edu.ec
-NXDOMAIN	vx9000-bcbf5e.puce.edu.ec
-NOERROR	pucesccm.puce.edu.ec
-NOERROR	appuce.puce.edu.ec
-NOERROR	pucemx.puce.edu.ec
-NOERROR	webpuce1c.puce.edu.ec
-NOERROR	ssoserver.puce.edu.ec
-NOERROR	asocop.puce.edu.ec
-NOERROR	www.biologia.puce.edu.ec
-NOERROR	cerbero.puce.edu.ec
-NOERROR	pucedspace_a.puce.edu.ec
-NOERROR	pucespwd.puce.edu.ec
-NOERROR	smpt_out.puce.edu.ec
-NXDOMAIN	stuio1.puce.edu.ec
-NOERROR	webpuce1.puce.edu.ec
-NOERROR	investigaciones.puce.edu.ec
-NOERROR	aulasvirtuales.puce.edu.ec
-NXDOMAIN	cooperativa.puce.edu.ec
-NXDOMAIN	linux.puce.edu.ec
-NOERROR	webpuce2.puce.edu.ec
-NOERROR	auth-eva.puce.edu.ec
-NXDOMAIN	puceias.puce.edu.ec
-NOERROR	atpuce.puce.edu.ec
-NOERROR	evaluacion.puce.edu.ec
-NOERROR	owa2010.puce.edu.ec
-NXDOMAIN	sso.puce.edu.ec
-NOERROR	webpru2.puce.edu.ec
-NOERROR	egal19.puce.edu.ec
-NOERROR	dga.puce.edu.ec
-NOERROR	smptout.puce.edu.ec
-NOERROR	repositorio.puce.edu.ec
-NXDOMAIN	uxxi.puce.edu.ec
-NOERROR	webpucec.puce.edu.ec
-NOERROR	comciencia.puce.edu.ec
-NXDOMAIN	www.webpucelc.puce.edu.ec
-NOERROR	puceweb.puce.edu.ec
-NOERROR	bnautoservicioe.puce.edu.ec
-NOERROR	eva-historico.puce.edu.ec
-NXDOMAIN	pucecas1.puce.edu.ec
-NOERROR	webpucelc.puce.edu.ec
-NOERROR	autodiscover.puce.edu.ec
-NOERROR	trabajos.puce.edu.ec
-NXDOMAIN	webpru3.puce.edu.ec
-NOERROR	pucedf.puce.edu.ec
-NOERROR	pucebnssb8.puce.edu.ec
-NOERROR	evades.puce.edu.ec
-NOERROR	pucedspace.puce.edu.ec
-NXDOMAIN	pucesapfr.puce.edu.ec
-NXDOMAIN	virtual.puce.edu.ec
-NOERROR	pucebnbdmsx.puce.edu.ec
-NOERROR	pucemoodle.puce.edu.ec
-NOERROR	aulabase.puce.edu.ec
-NOERROR	formacionespecializada.puce.edu.ec
-NOERROR	bibliotecavirtual.puce.edu.ec
-NOERROR	coopbv.puce.edu.ec
-NOERROR	rdserv.puce.edu.ec
-NOERROR	www.puce.edu.ec
-NOERROR	www2.puce.edu.ec
-NOERROR	pucebnssb8d1.puce.edu.ec
-NOERROR	educacioncontinua.puce.edu.ec
-NOERROR	pucebnblnc1.puce.edu.ec
-NOERROR	puceqca.puce.edu.ec
-NXDOMAIN	dynamic.puce.edu.ec
-NOERROR	pucewsd.puce.edu.ec
-NXDOMAIN	pucecas2.puce.edu.ec
-NOERROR	claquito2017.puce.edu.ec
-NOERROR	pucebnbdmsxd1.puce.edu.ec
-NOERROR	puceae.puce.edu.ec
-NXDOMAIN	pucecas01.puce.edu.ec
-NOERROR	webpuce.puce.edu.ec
-NOERROR	ftp.puce.edu.ec
-NOERROR	puceias1.puce.edu.ec
-NOERROR	evasemi.puce.edu.ec
-NOERROR	webpuce2c.puce.edu.ec
-NXDOMAIN	pucecas02.puce.edu.ec
-NOERROR	silabo.puce.edu.ec
-NOERROR	ssoserver2.puce.edu.ec
-NOERROR	coisint.puce.edu.ec
-NOERROR	eva.puce.edu.ec
-NOERROR	pucesapwd.puce.edu.ec
-NOERROR	puceedge.puce.edu.ec
-NOERROR	apps.puce.edu.ec
-NXDOMAIN	pucecas0.puce.edu.ec
-NOERROR	puceapex.puce.edu.ec
-NOERROR	repositorio_a.puce.edu.ec
-NOERROR	vpn.puce.edu.ec
-NOERROR	pucebnbdmi.puce.edu.ec
-NXDOMAIN	asi.puce.edu.ec
-NOERROR	zoologia.puce.edu.ec
-NOERROR	bnautentica.puce.edu.ec
-NOERROR	correo.puce.edu.ec
-NOERROR	bioweb.puce.edu.ec
+puceae_a.puce.edu.ec
+coopuce.puce.edu.ec
+puceftp.puce.edu.ec
+owa.puce.edu.ec
+pucessoweb.puce.edu.ec
+pucewsd_a.puce.edu.ec
+pucenet.puce.edu.ec
+moodletest.puce.edu.ec
+evaonline.puce.edu.ec
+bnbdservicios.puce.edu.ec
+puce.edu.ec
+rlysmtp.puceinfo.puce.edu.ec
+jornadasbiologia2017.puce.edu.ec
+smtpout.puce.edu.ec
+puceciei.puce.edu.ec
+o3.ip.puce.edu.ec
+pucesccm.puce.edu.ec
+appuce.puce.edu.ec
+pucemx.puce.edu.ec
+webpuce1c.puce.edu.ec
+ssoserver.puce.edu.ec
+asocop.puce.edu.ec
+www.biologia.puce.edu.ec
+cerbero.puce.edu.ec
+pucedspace_a.puce.edu.ec
+pucespwd.puce.edu.ec
+smpt_out.puce.edu.ec
+webpuce1.puce.edu.ec
+investigaciones.puce.edu.ec
+aulasvirtuales.puce.edu.ec
+webpuce2.puce.edu.ec
+auth-eva.puce.edu.ec
+atpuce.puce.edu.ec
+evaluacion.puce.edu.ec
+owa2010.puce.edu.ec
+webpru2.puce.edu.ec
+egal19.puce.edu.ec
+dga.puce.edu.ec
+smptout.puce.edu.ec
+repositorio.puce.edu.ec
+webpucec.puce.edu.ec
+comciencia.puce.edu.ec
+puceweb.puce.edu.ec
+bnautoservicioe.puce.edu.ec
+eva-historico.puce.edu.ec
+webpucelc.puce.edu.ec
+autodiscover.puce.edu.ec
+trabajos.puce.edu.ec
+pucedf.puce.edu.ec
+pucebnssb8.puce.edu.ec
+evades.puce.edu.ec
+pucedspace.puce.edu.ec
+pucebnbdmsx.puce.edu.ec
+pucemoodle.puce.edu.ec
+aulabase.puce.edu.ec
+formacionespecializada.puce.edu.ec
+bibliotecavirtual.puce.edu.ec
+coopbv.puce.edu.ec
+rdserv.puce.edu.ec
+www.puce.edu.ec
+www2.puce.edu.ec
+pucebnssb8d1.puce.edu.ec
+educacioncontinua.puce.edu.ec
+pucebnblnc1.puce.edu.ec
+puceqca.puce.edu.ec
+pucewsd.puce.edu.ec
+claquito2017.puce.edu.ec
+pucebnbdmsxd1.puce.edu.ec
+puceae.puce.edu.ec
+webpuce.puce.edu.ec
+ftp.puce.edu.ec
+puceias1.puce.edu.ec
+evasemi.puce.edu.ec
+webpuce2c.puce.edu.ec
+silabo.puce.edu.ec
+ssoserver2.puce.edu.ec
+coisint.puce.edu.ec
+eva.puce.edu.ec
+pucesapwd.puce.edu.ec
+puceedge.puce.edu.ec
+apps.puce.edu.ec
+puceapex.puce.edu.ec
+repositorio_a.puce.edu.ec
+vpn.puce.edu.ec
+pucebnbdmi.puce.edu.ec
+zoologia.puce.edu.ec
+bnautentica.puce.edu.ec
+correo.puce.edu.ec
+bioweb.puce.edu.ec

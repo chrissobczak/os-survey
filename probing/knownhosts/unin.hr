@@ -1,96 +1,68 @@
-NOERROR	videoteka.unin.hr
-NOERROR	sz.unin.hr
-NOERROR	eradio-za-drugu-sansu.unin.hr
-NOERROR	uninvps.unin.hr
-NOERROR	testweb.unin.hr
-NXDOMAIN	www.pfsense-djelatnici.unin.hr
-NOERROR	portal.unin.hr
-NOERROR	www2.unin.hr
-NOERROR	medcom.unin.hr
-NOERROR	uninvps3.unin.hr
-NXDOMAIN	www.medcom.unin.hr
-NOERROR	msl.unin.hr
-NXDOMAIN	www.owncloud.unin.hr
-NOERROR	deimos.unin.hr
-NOERROR	arwen.unin.hr
-NXDOMAIN	forum.unin.hr
-NOERROR	sites.unin.hr
-NOERROR	wiki.unin.hr
-NOERROR	tehnickiglasnik.unin.hr
-NOERROR	ldap.unin.hr
-NOERROR	gimli.unin.hr
-NXDOMAIN	liste.unin.hr
-NOERROR	anor.unin.hr
-NOERROR	3d.unin.hr
-NOERROR	uninvps2.unin.hr
-NOERROR	mail.unin.hr
-NOERROR	moodle2.unin.hr
-NOERROR	unin.hr
-NXDOMAIN	www.testweb.unin.hr
-NOERROR	sarmalink.unin.hr
-NOERROR	moodle.vz.unin.hr
-NOERROR	docs.unin.hr
-NOERROR	oleh.unin.hr
-NOERROR	matrib.unin.hr
-NOERROR	webtest.unin.hr
-NOERROR	moodle3.vz.unin.hr
-NOERROR	moodle2.vz.unin.hr
-NOERROR	moodle.kc.unin.hr
-NXDOMAIN	moodle3.unin.hr
-NOERROR	matrix.unin.hr
-NOERROR	legen.unin.hr
-NXDOMAIN	www.velvrac.unin.hr
-NXDOMAIN	www.matrib.unin.hr
-NOERROR	connect.unin.hr
-NOERROR	camt.unin.hr
-NXDOMAIN	sgsma2021.unin.hr
-NXDOMAIN	www.claroline.kc.unin.hr
-NOERROR	pressedan.unin.hr
-NOERROR	aai2msdnaa.unin.hr
-NOERROR	odin.unin.hr
-NXDOMAIN	www.mail.unin.hr
-NOERROR	medijskidizajn.unin.hr
-NXDOMAIN	moodle.unin.hr
-NOERROR	www3.unin.hr
-NXDOMAIN	www.ldap.unin.hr
-NOERROR	owncloud.unin.hr
-NXDOMAIN	www.claroline.unin.hr
-NOERROR	egroupware.unin.hr
-NOERROR	gmail.unin.hr
-NOERROR	shop.unin.hr
-NOERROR	sport.unin.hr
-NOERROR	lts.unin.hr
-NOERROR	claroline.vz.unin.hr
-NOERROR	svarog.unin.hr
-NOERROR	webmail.unin.hr
-NXDOMAIN	www.strojarstvo.unin.hr
-NOERROR	kaltura.unin.hr
-NXDOMAIN	www.moodle.kc.unin.hr
-NOERROR	claroline.unin.hr
-NXDOMAIN	velvrac.unin.hr
-NXDOMAIN	www.moodle.vz.unin.hr
-NXDOMAIN	www.pfsense.unin.hr
-NOERROR	karijere.unin.hr
-NOERROR	stribor.unin.hr
-NOERROR	pfsense.unin.hr
-NOERROR	ares.unin.hr
-NOERROR	podrska.unin.hr
-NOERROR	calendar.unin.hr
-NOERROR	www4.unin.hr
-NOERROR	repozitorij.unin.hr
-NOERROR	strojarstvo.unin.hr
-NXDOMAIN	www.podrska.unin.hr
-NXDOMAIN	www.repozitorij.unin.hr
-NOERROR	www.unin.hr
-NOERROR	sugar.unin.hr
-NXDOMAIN	pfsense-studenti.unin.hr
-NOERROR	design.unin.hr
-NXDOMAIN	www.eradio-za-drugu-sansu.unin.hr
-NOERROR	career.unin.hr
-NXDOMAIN	www.connect.unin.hr
-NXDOMAIN	www.pfsense-studenti.unin.hr
-NXDOMAIN	pfsense-djelatnici.unin.hr
-NOERROR	claroline.kc.unin.hr
-NOERROR	aai2msdnaa2.unin.hr
-NOERROR	fedena.unin.hr
-NXDOMAIN	www.tehnickiglasnik.unin.hr
+videoteka.unin.hr
+sz.unin.hr
+eradio-za-drugu-sansu.unin.hr
+uninvps.unin.hr
+testweb.unin.hr
+portal.unin.hr
+www2.unin.hr
+medcom.unin.hr
+uninvps3.unin.hr
+msl.unin.hr
+deimos.unin.hr
+arwen.unin.hr
+sites.unin.hr
+wiki.unin.hr
+tehnickiglasnik.unin.hr
+ldap.unin.hr
+gimli.unin.hr
+anor.unin.hr
+3d.unin.hr
+uninvps2.unin.hr
+mail.unin.hr
+moodle2.unin.hr
+unin.hr
+sarmalink.unin.hr
+moodle.vz.unin.hr
+docs.unin.hr
+oleh.unin.hr
+matrib.unin.hr
+webtest.unin.hr
+moodle3.vz.unin.hr
+moodle2.vz.unin.hr
+moodle.kc.unin.hr
+matrix.unin.hr
+legen.unin.hr
+connect.unin.hr
+camt.unin.hr
+pressedan.unin.hr
+aai2msdnaa.unin.hr
+odin.unin.hr
+medijskidizajn.unin.hr
+www3.unin.hr
+owncloud.unin.hr
+egroupware.unin.hr
+gmail.unin.hr
+shop.unin.hr
+sport.unin.hr
+lts.unin.hr
+claroline.vz.unin.hr
+svarog.unin.hr
+webmail.unin.hr
+kaltura.unin.hr
+claroline.unin.hr
+karijere.unin.hr
+stribor.unin.hr
+pfsense.unin.hr
+ares.unin.hr
+podrska.unin.hr
+calendar.unin.hr
+www4.unin.hr
+repozitorij.unin.hr
+strojarstvo.unin.hr
+www.unin.hr
+sugar.unin.hr
+design.unin.hr
+career.unin.hr
+claroline.kc.unin.hr
+aai2msdnaa2.unin.hr
+fedena.unin.hr

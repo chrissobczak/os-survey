@@ -1,117 +1,95 @@
-NOERROR	mvcc-video.mvcc.edu
-NOERROR	askmvcclibrary.mvcc.edu
-NOERROR	banapp06.mvcc.edu
-NOERROR	exchange.mvcc.edu
-NOERROR	prodcodetree.mvcc.edu
-NOERROR	codetree.mvcc.edu
-NOERROR	web3.infotrac.galegroup.com.ezproxy.mvcc.edu
-NOERROR	intranet.mvcc.edu
-NOERROR	wiki.mvcc.edu
-NOERROR	www.chronicle.com.ezproxy.mvcc.edu
-NOERROR	find.galegroup.com.ezproxy.mvcc.edu
-NOERROR	saml.mvcc.edu
-NOERROR	www.easybib.com.ezproxy.mvcc.edu
-NXDOMAIN	www.mvcc-argos.mvcc.edu
-NOERROR	mvcc-argos.mvcc.edu
-NOERROR	atoz.ebsco.com.ezproxy.mvcc.edu
-NOERROR	mvcesm.mvcc.edu
-NOERROR	www.springerlink.com.ezproxy.mvcc.edu
-NXDOMAIN	linux.mvcc.edu
-NOERROR	mvcc-pdc.mvcc.edu
-NOERROR	studentmail2.mvcc.edu
-NXDOMAIN	www.banner.mvcc.edu
-NOERROR	www2.mvcc.edu
-NOERROR	www4.mvcc.edu
-NXDOMAIN	www.trucred.mvcc.edu
-NOERROR	banapp08.mvcc.edu
-NOERROR	mvcc-stream.mvcc.edu
-NOERROR	mvcam.mvcc.edu
-NOERROR	mvcc.kanopystreaming.com.ezproxy.mvcc.edu
-NOERROR	bannerweb.mvcc.edu
-NOERROR	library.cqpress.com.ezproxy.mvcc.edu
-NOERROR	trucredut.mvcc.edu
-NOERROR	proxmox2.mvcc.edu
-NOERROR	mvccexpwaye.mvcc.edu
-NOERROR	mvcc-dualcredit.mvcc.edu
-NOERROR	search.ebscohost.com.ezproxy.mvcc.edu
-NOERROR	login.ezproxy.mvcc.edu
-NOERROR	prodrdbms.mvcc.edu
-NXDOMAIN	trucred.mvcc.edu
-NOERROR	www.sciencedirect.com.ezproxy.mvcc.edu
-NOERROR	banapp04.mvcc.edu
-NOERROR	resnet.mvcc.edu
-NOERROR	autodiscover.mvcc.edu
-NXDOMAIN	www.bannerpprd.mvcc.edu
-NOERROR	oartrack.mvcc.edu
-NOERROR	pprdrdbms.mvcc.edu
-NXDOMAIN	testarea.mvcc.edu
-NOERROR	xvp.mvcc.edu
-NXDOMAIN	www.trucredut.mvcc.edu
-NXDOMAIN	2facts.comezproxy.mvcc.edu
-NOERROR	auth.go.galegroup.com.ezproxy.mvcc.edu
-NXDOMAIN	www.banmobile.mvcc.edu
-NOERROR	proxmox.mvcc.edu
-NOERROR	www.ezproxy.mvcc.edu
-NOERROR	rt.mvcc.edu
-NOERROR	student-serv.mvcc.edu
-NOERROR	galenet.galegroup.com.ezproxy.mvcc.edu
-NOERROR	banapp09.mvcc.edu
-NXDOMAIN	www.cced-reg.mvcc.edu
-NOERROR	romecam.mvcc.edu
-NOERROR	ezproxy.mvcc.edu
-NOERROR	csshell.mvcc.edu
-NXDOMAIN	www.caslogin.mvcc.edu
-NOERROR	dev.mvcc.edu
-NOERROR	banapp07.mvcc.edu
-NOERROR	faculty.mvcc.edu
-NOERROR	mvcc.edu
-NOERROR	fml.mvcc.edu
-NOERROR	fod.infobase.com.ezproxy.mvcc.edu
-NOERROR	sharepoint.mvcc.edu
-NOERROR	infotrac.galegroup.com.ezproxy.mvcc.edu
-NOERROR	email.mvcc.edu
-NOERROR	banmobile.mvcc.edu
-NXDOMAIN	w2.mvcc.edu
-NOERROR	stmail.mvcc.edu
-NOERROR	halloffame.mvcc.edu
-NOERROR	mvccgw2.mvcc.edu
-NOERROR	cced-reg.mvcc.edu
-NOERROR	go.galegroup.com.ezproxy.mvcc.edu
-NOERROR	banpprd.mvcc.edu
-NXDOMAIN	mvcnt01.mvcc.edu
-NOERROR	bantest.mvcc.edu
-NOERROR	www.jstor.org.ezproxy.mvcc.edu
-NOERROR	bannerpprd.mvcc.edu
-NOERROR	board.mvcc.edu
-NOERROR	banprod.mvcc.edu
-NXDOMAIN	d4f66mb1.mvcc.edu
-NOERROR	web2.infotrac.galegroup.com.ezproxy.mvcc.edu
-NXDOMAIN	www.catalog.mvcc.edu
-NXDOMAIN	www.mvcc-pdc.mvcc.edu
-NOERROR	www.mvcc.edu
-NOERROR	degreeapp.mvcc.edu
-NOERROR	caslogin.mvcc.edu
-NOERROR	onbase.mvcc.edu
-NOERROR	linksource.ebsco.com.ezproxy.mvcc.edu
-NOERROR	cmap.mvcc.edu
-NXDOMAIN	w.mvcc.edu
-NOERROR	catalog.mvcc.edu
-NOERROR	dwdevl.mvcc.edu
-NOERROR	ic.galegroup.com.ezproxy.mvcc.edu
-NOERROR	emergency.mvcc.edu
-NOERROR	firstsearch.oclc.org.ezproxy.mvcc.edu
-NXDOMAIN	www.dev.mvcc.edu
-NOERROR	banapp05.mvcc.edu
-NOERROR	banapp03.mvcc.edu
-NXDOMAIN	2.mvcc.edu
-NXDOMAIN	jessica.mvcc.edu
-NOERROR	tutoring.mvcc.edu
-NXDOMAIN	citrix.mvcc.edu
-NOERROR	ovmmgr.mvcc.edu
-NOERROR	mvcc-term.mvcc.edu
-NOERROR	calendar.mvcc.edu
-NOERROR	dropbox.mvcc.edu
-NOERROR	studentmail.mvcc.edu
-NOERROR	pprdcodetree.mvcc.edu
-NOERROR	www.board.mvcc.edu
-NOERROR	banner.mvcc.edu
+mvcc-video.mvcc.edu
+askmvcclibrary.mvcc.edu
+banapp06.mvcc.edu
+exchange.mvcc.edu
+prodcodetree.mvcc.edu
+codetree.mvcc.edu
+web3.infotrac.galegroup.com.ezproxy.mvcc.edu
+intranet.mvcc.edu
+wiki.mvcc.edu
+www.chronicle.com.ezproxy.mvcc.edu
+find.galegroup.com.ezproxy.mvcc.edu
+saml.mvcc.edu
+www.easybib.com.ezproxy.mvcc.edu
+mvcc-argos.mvcc.edu
+atoz.ebsco.com.ezproxy.mvcc.edu
+mvcesm.mvcc.edu
+www.springerlink.com.ezproxy.mvcc.edu
+mvcc-pdc.mvcc.edu
+studentmail2.mvcc.edu
+www2.mvcc.edu
+www4.mvcc.edu
+banapp08.mvcc.edu
+mvcc-stream.mvcc.edu
+mvcam.mvcc.edu
+mvcc.kanopystreaming.com.ezproxy.mvcc.edu
+bannerweb.mvcc.edu
+library.cqpress.com.ezproxy.mvcc.edu
+trucredut.mvcc.edu
+proxmox2.mvcc.edu
+mvccexpwaye.mvcc.edu
+mvcc-dualcredit.mvcc.edu
+search.ebscohost.com.ezproxy.mvcc.edu
+login.ezproxy.mvcc.edu
+prodrdbms.mvcc.edu
+www.sciencedirect.com.ezproxy.mvcc.edu
+banapp04.mvcc.edu
+resnet.mvcc.edu
+autodiscover.mvcc.edu
+oartrack.mvcc.edu
+pprdrdbms.mvcc.edu
+xvp.mvcc.edu
+auth.go.galegroup.com.ezproxy.mvcc.edu
+proxmox.mvcc.edu
+www.ezproxy.mvcc.edu
+rt.mvcc.edu
+student-serv.mvcc.edu
+galenet.galegroup.com.ezproxy.mvcc.edu
+banapp09.mvcc.edu
+romecam.mvcc.edu
+ezproxy.mvcc.edu
+csshell.mvcc.edu
+dev.mvcc.edu
+banapp07.mvcc.edu
+faculty.mvcc.edu
+mvcc.edu
+fml.mvcc.edu
+fod.infobase.com.ezproxy.mvcc.edu
+sharepoint.mvcc.edu
+infotrac.galegroup.com.ezproxy.mvcc.edu
+email.mvcc.edu
+banmobile.mvcc.edu
+stmail.mvcc.edu
+halloffame.mvcc.edu
+mvccgw2.mvcc.edu
+cced-reg.mvcc.edu
+go.galegroup.com.ezproxy.mvcc.edu
+banpprd.mvcc.edu
+bantest.mvcc.edu
+www.jstor.org.ezproxy.mvcc.edu
+bannerpprd.mvcc.edu
+board.mvcc.edu
+banprod.mvcc.edu
+web2.infotrac.galegroup.com.ezproxy.mvcc.edu
+www.mvcc.edu
+degreeapp.mvcc.edu
+caslogin.mvcc.edu
+onbase.mvcc.edu
+linksource.ebsco.com.ezproxy.mvcc.edu
+cmap.mvcc.edu
+catalog.mvcc.edu
+dwdevl.mvcc.edu
+ic.galegroup.com.ezproxy.mvcc.edu
+emergency.mvcc.edu
+firstsearch.oclc.org.ezproxy.mvcc.edu
+banapp05.mvcc.edu
+banapp03.mvcc.edu
+tutoring.mvcc.edu
+ovmmgr.mvcc.edu
+mvcc-term.mvcc.edu
+calendar.mvcc.edu
+dropbox.mvcc.edu
+studentmail.mvcc.edu
+pprdcodetree.mvcc.edu
+www.board.mvcc.edu
+banner.mvcc.edu

@@ -1,33 +1,28 @@
-NOERROR	ban-batch-test.drakestate.edu
-NOERROR	adfs.drakestate.edu
-NXDOMAIN	ban-ind-test.drakestate.edu
-NOERROR	autodiscover.drakestate.edu
-NOERROR	lms2.drakestate.edu
-NOERROR	helpdesk.drakestate.edu
-NOERROR	dw-java-test.drakestate.edu
-NOERROR	drakestate.edu
-NOERROR	ban-web.drakestate.edu
-NOERROR	ban-db-test.drakestate.edu
-NOERROR	dw-app.drakestate.edu
-NOERROR	airwatch-seg.drakestate.edu
-NOERROR	mail.drakestate.edu
-NOERROR	info.drakestate.edu
-NXDOMAIN	www.j.f.drakestate.edu
-NOERROR	exchange10.drakestate.edu
-NOERROR	blackboard.drakestate.edu
-NOERROR	www.drakestate.edu
-NOERROR	ban-app.drakestate.edu
-NOERROR	sites.drakestate.edu
-NOERROR	exchange13.drakestate.edu
-NOERROR	ban-db.drakestate.edu
-NOERROR	dw-app-test.drakestate.edu
-NXDOMAIN	owa.drakestate.edu
-NOERROR	sharepoint.drakestate.edu
-NOERROR	dw-web-test.drakestate.edu
-NXDOMAIN	athena.drakestate.edu
-NOERROR	faculty.drakestate.edu
-NOERROR	bb13prod.drakestate.edu
-NXDOMAIN	drake.drakestate.edu
-NOERROR	ban-batch.drakestate.edu
-NOERROR	airwatch.drakestate.edu
-NOERROR	ban-ssb-test.drakestate.edu
+ban-batch-test.drakestate.edu
+adfs.drakestate.edu
+autodiscover.drakestate.edu
+lms2.drakestate.edu
+helpdesk.drakestate.edu
+dw-java-test.drakestate.edu
+drakestate.edu
+ban-web.drakestate.edu
+ban-db-test.drakestate.edu
+dw-app.drakestate.edu
+airwatch-seg.drakestate.edu
+mail.drakestate.edu
+info.drakestate.edu
+exchange10.drakestate.edu
+blackboard.drakestate.edu
+www.drakestate.edu
+ban-app.drakestate.edu
+sites.drakestate.edu
+exchange13.drakestate.edu
+ban-db.drakestate.edu
+dw-app-test.drakestate.edu
+sharepoint.drakestate.edu
+dw-web-test.drakestate.edu
+faculty.drakestate.edu
+bb13prod.drakestate.edu
+ban-batch.drakestate.edu
+airwatch.drakestate.edu
+ban-ssb-test.drakestate.edu

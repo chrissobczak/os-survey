@@ -1,143 +1,75 @@
-NXDOMAIN	atp.ulatina.ac.cr
-NOERROR	registros.ulatina.ac.cr
-NXDOMAIN	tic.ulatina.ac.cr
-NXDOMAIN	www.a.ulatina.ac.cr
-NXDOMAIN	correo.ulatina.ac.cr
-NOERROR	smtpl.ulatina.ac.cr
-NXDOMAIN	tuopinion.ulatina.ac.cr
-NOERROR	estudiantiles.ulatina.ac.cr
-NOERROR	lintec.ulatina.ac.cr
-NXDOMAIN	cep.ulatina.ac.cr
-NXDOMAIN	consulta.ulatina.ac.cr
-NXDOMAIN	congreso.ulatina.ac.cr
-NOERROR	conectados.ulatina.ac.cr
-NOERROR	aleph2015.ulatina.ac.cr
-NOERROR	testmoodle.ulatina.ac.cr
-NOERROR	uvirtual.ulatina.ac.cr
-NOERROR	ingenieriayarquitectura.ulatina.ac.cr
-NOERROR	ulatina.ac.cr
-NXDOMAIN	clinica.ulatina.ac.cr
-NOERROR	notas.ulatina.ac.cr
-NOERROR	top5posgrados.ulatina.ac.cr
-NXDOMAIN	odontologia.ulatina.ac.cr
-NOERROR	clie.ulatina.ac.cr
-NXDOMAIN	abacaxi.ulatina.ac.cr
-NOERROR	dns1.ulatina.ac.cr
-NOERROR	calculatucolegiatura.ulatina.ac.cr
-NOERROR	bibliotecadigital.ulatina.ac.cr
-NOERROR	central.ulatina.ac.cr
-NXDOMAIN	cap.ulatina.ac.cr
-NXDOMAIN	sunsite.ulatina.ac.cr
-NOERROR	wp.ulatina.ac.cr
-NOERROR	apoyoestudiantil.ulatina.ac.cr
-NXDOMAIN	rpt.ulatina.ac.cr
-NOERROR	repositorio.ulatina.ac.cr
-NXDOMAIN	mail.ulatina.ac.cr
-NOERROR	ccp.ulatina.ac.cr
-NXDOMAIN	kiwi.ulatina.ac.cr
-NOERROR	thinkcampus.ulatina.ac.cr
-NOERROR	centrodeservicios.ulatina.ac.cr
-NOERROR	encuestas.ulatina.ac.cr
-NOERROR	centralt.ulatina.ac.cr
-NOERROR	agora.ulatina.ac.cr
-NXDOMAIN	computo.ulatina.ac.cr
-NXDOMAIN	manuales.ulatina.ac.cr
-NXDOMAIN	custer.ulatina.ac.cr
-NXDOMAIN	ns.ulatina.ac.cr
-NOERROR	becaslatina.ulatina.ac.cr
-NOERROR	dns4.ulatina.ac.cr
-NXDOMAIN	pie.ulatina.ac.cr
-NXDOMAIN	desarrollo.ulatina.ac.cr
-NXDOMAIN	civil.ulatina.ac.cr
-NOERROR	extensionacademica.ulatina.ac.cr
-NXDOMAIN	fragola.ulatina.ac.cr
-NXDOMAIN	portal.ulatina.ac.cr
-NOERROR	cyf.ulatina.ac.cr
-NXDOMAIN	periodismoeninternet.ulatina.ac.cr
-NXDOMAIN	pastel.ulatina.ac.cr
-NOERROR	primeringreso.ulatina.ac.cr
-NXDOMAIN	info.ulatina.ac.cr
-NOERROR	brand.ulatina.ac.cr
-NXDOMAIN	suffle.ulatina.ac.cr
-NOERROR	campuscreativo.ulatina.ac.cr
-NOERROR	cienciasempresariales.ulatina.ac.cr
-NOERROR	tcu.ulatina.ac.cr
-NOERROR	wscampus.ulatina.ac.cr
-NXDOMAIN	correadmin.ulatina.ac.cr
-NXDOMAIN	anguria.ulatina.ac.cr
-NXDOMAIN	php.ulatina.ac.cr
-NOERROR	campus-test.ulatina.ac.cr
-NOERROR	international.ulatina.ac.cr
-NOERROR	mbaonline.ulatina.ac.cr
-NXDOMAIN	morpheo.ulatina.ac.cr
-NXDOMAIN	correoadmin.ulatina.ac.cr
-NXDOMAIN	fuerzag.ulatina.ac.cr
-NOERROR	revistas.ulatina.ac.cr
-NXDOMAIN	test1234.ulatina.ac.cr
-NOERROR	campus.ulatina.ac.cr
-NXDOMAIN	mx3.ulatina.ac.cr
-NXDOMAIN	congresobioingenieria.ulatina.ac.cr
-NOERROR	regresaalau.ulatina.ac.cr
-NXDOMAIN	mate.ulatina.ac.cr
-NOERROR	aleph.ulatina.ac.cr
-NXDOMAIN	museos.ulatina.ac.cr
-NXDOMAIN	phonos.ulatina.ac.cr
-NOERROR	becasposgrado.ulatina.ac.cr
-NOERROR	test.ulatina.ac.cr
-NOERROR	dns3.ulatina.ac.cr
-NXDOMAIN	ftp.ulatina.ac.cr
-NOERROR	lacnem2011.ulatina.ac.cr
-NOERROR	mac.ulatina.ac.cr
-NXDOMAIN	cuentas.ulatina.ac.cr
-NOERROR	semanadenegocios.ulatina.ac.cr
-NOERROR	uipcontratos.ulatina.ac.cr
-NXDOMAIN	revista.ulatina.ac.cr
-NOERROR	mddesa.ulatina.ac.cr
-NOERROR	i.ulatina.ac.cr
-NXDOMAIN	xfree.ulatina.ac.cr
-NXDOMAIN	ns.isi.ulatina.ac.cr
-NXDOMAIN	matricula.ulatina.ac.cr
-NOERROR	cienciasdelasalud.ulatina.ac.cr
-NXDOMAIN	mantra.ulatina.ac.cr
-NXDOMAIN	mcjd.ulatina.ac.cr
-NOERROR	corporativa.ulatina.ac.cr
-NOERROR	tecnologias.ulatina.ac.cr
-NOERROR	a.ulatina.ac.cr
-NXDOMAIN	clinicaodontologia.ulatina.ac.cr
-NOERROR	tecnologiasdelainformacion.ulatina.ac.cr
-NXDOMAIN	ulcheer.ulatina.ac.cr
-NXDOMAIN	perspectivas.ulatina.ac.cr
-NXDOMAIN	ulsports.ulatina.ac.cr
-NOERROR	descubriquiensos.ulatina.ac.cr
-NXDOMAIN	conferencias.ulatina.ac.cr
-NXDOMAIN	biblioteca.ulatina.ac.cr
-NOERROR	prematricula.ulatina.ac.cr
-NOERROR	industrial.ulatina.ac.cr
-NOERROR	contador.ulatina.ac.cr
-NOERROR	contratos.ulatina.ac.cr
-NOERROR	helpcenter.ulatina.ac.cr
-NOERROR	www.ulatina.ac.cr
-NXDOMAIN	odontologia-vital.ulatina.ac.cr
-NOERROR	cienciassociales.ulatina.ac.cr
-NOERROR	inite.ulatina.ac.cr
-NXDOMAIN	mx1.ulatina.ac.cr
-NXDOMAIN	foroelectoral.ulatina.ac.cr
-NXDOMAIN	alpha.ulatina.ac.cr
-NOERROR	hospitalidad.ulatina.ac.cr
-NOERROR	e.ulatina.ac.cr
-NOERROR	campusbeta.ulatina.ac.cr
-NOERROR	dns2.ulatina.ac.cr
-NXDOMAIN	mitch.ulatina.ac.cr
-NXDOMAIN	labosrv.ulatina.ac.cr
-NOERROR	forms.ulatina.ac.cr
-NOERROR	desarrollodocente.ulatina.ac.cr
-NXDOMAIN	postgres.ulatina.ac.cr
-NOERROR	top100.ulatina.ac.cr
-NXDOMAIN	censo_uam.ulatina.ac.cr
-NXDOMAIN	censo.ulatina.ac.cr
-NXDOMAIN	cisco.ulatina.ac.cr
-NXDOMAIN	bitacora.ulatina.ac.cr
-NXDOMAIN	nemesis.ulatina.ac.cr
-NOERROR	ciadd.ulatina.ac.cr
-NOERROR	aula.ulatina.ac.cr
-NXDOMAIN	icd.ulatina.ac.cr
+registros.ulatina.ac.cr
+smtpl.ulatina.ac.cr
+estudiantiles.ulatina.ac.cr
+lintec.ulatina.ac.cr
+conectados.ulatina.ac.cr
+aleph2015.ulatina.ac.cr
+testmoodle.ulatina.ac.cr
+uvirtual.ulatina.ac.cr
+ingenieriayarquitectura.ulatina.ac.cr
+ulatina.ac.cr
+notas.ulatina.ac.cr
+top5posgrados.ulatina.ac.cr
+clie.ulatina.ac.cr
+dns1.ulatina.ac.cr
+calculatucolegiatura.ulatina.ac.cr
+bibliotecadigital.ulatina.ac.cr
+central.ulatina.ac.cr
+wp.ulatina.ac.cr
+apoyoestudiantil.ulatina.ac.cr
+repositorio.ulatina.ac.cr
+ccp.ulatina.ac.cr
+thinkcampus.ulatina.ac.cr
+centrodeservicios.ulatina.ac.cr
+encuestas.ulatina.ac.cr
+centralt.ulatina.ac.cr
+agora.ulatina.ac.cr
+becaslatina.ulatina.ac.cr
+dns4.ulatina.ac.cr
+extensionacademica.ulatina.ac.cr
+cyf.ulatina.ac.cr
+primeringreso.ulatina.ac.cr
+brand.ulatina.ac.cr
+campuscreativo.ulatina.ac.cr
+cienciasempresariales.ulatina.ac.cr
+tcu.ulatina.ac.cr
+wscampus.ulatina.ac.cr
+campus-test.ulatina.ac.cr
+international.ulatina.ac.cr
+mbaonline.ulatina.ac.cr
+revistas.ulatina.ac.cr
+campus.ulatina.ac.cr
+regresaalau.ulatina.ac.cr
+aleph.ulatina.ac.cr
+becasposgrado.ulatina.ac.cr
+test.ulatina.ac.cr
+dns3.ulatina.ac.cr
+lacnem2011.ulatina.ac.cr
+mac.ulatina.ac.cr
+semanadenegocios.ulatina.ac.cr
+uipcontratos.ulatina.ac.cr
+mddesa.ulatina.ac.cr
+i.ulatina.ac.cr
+cienciasdelasalud.ulatina.ac.cr
+corporativa.ulatina.ac.cr
+tecnologias.ulatina.ac.cr
+a.ulatina.ac.cr
+tecnologiasdelainformacion.ulatina.ac.cr
+descubriquiensos.ulatina.ac.cr
+prematricula.ulatina.ac.cr
+industrial.ulatina.ac.cr
+contador.ulatina.ac.cr
+contratos.ulatina.ac.cr
+helpcenter.ulatina.ac.cr
+www.ulatina.ac.cr
+cienciassociales.ulatina.ac.cr
+inite.ulatina.ac.cr
+hospitalidad.ulatina.ac.cr
+e.ulatina.ac.cr
+campusbeta.ulatina.ac.cr
+dns2.ulatina.ac.cr
+forms.ulatina.ac.cr
+desarrollodocente.ulatina.ac.cr
+top100.ulatina.ac.cr
+ciadd.ulatina.ac.cr
+aula.ulatina.ac.cr

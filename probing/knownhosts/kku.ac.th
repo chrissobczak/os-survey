@@ -1,1621 +1,1475 @@
-NOERROR	sipacct2.kku.ac.th
-NOERROR	fortigate.kku.ac.th
-NOERROR	isned.kku.ac.th
-NOERROR	xtox.kku.ac.th
-NXDOMAIN	pbxgw.kku.ac.th
-NOERROR	eoffice.kku.ac.th
-NOERROR	project.kku.ac.th
-NOERROR	arch.kku.ac.th
-NOERROR	nac14.kku.ac.th
-NOERROR	gapps.kku.ac.th
-NXDOMAIN	dhcp-248.en.kku.ac.th
-NOERROR	sspmis.sc.kku.ac.th
-NOERROR	www.crme.kku.ac.th
-NOERROR	service.gs.kku.ac.th
-NOERROR	vcenter-acad.kku.ac.th
-NOERROR	filewave.kku.ac.th
-NOERROR	nacelib.kku.ac.th
-NOERROR	manet.en.kku.ac.th
-NOERROR	qa.md.kku.ac.th
-NOERROR	sulu10.kku.ac.th
-NOERROR	wrei.kku.ac.th
-NOERROR	bookit.kku.ac.th
-NOERROR	kap1.kku.ac.th
-NXDOMAIN	cache112.kku.ac.th
-NOERROR	learningsmart.kku.ac.th
-NXDOMAIN	library7.en.kku.ac.th
-NOERROR	stroke.kku.ac.th
-NOERROR	res-publish.kku.ac.th
-NOERROR	mboard.kku.ac.th
-NOERROR	fire8.kku.ac.th
-NOERROR	cache111.kku.ac.th
-NOERROR	procurement.kku.ac.th
-NOERROR	ent.md.kku.ac.th
-NOERROR	mis-devel.en.kku.ac.th
-NOERROR	sac.kku.ac.th
-NOERROR	nano.kku.ac.th
-NOERROR	damasac.kku.ac.th
-NXDOMAIN	cane.kku.ac.th
-NOERROR	wbi.kku.ac.th
-NOERROR	redcap.kku.ac.th
-NOERROR	helmet.kku.ac.th
-NOERROR	u-staff.kku.ac.th
-NOERROR	agsg1.kku.ac.th
-NOERROR	comlab33.en.kku.ac.th
-NOERROR	esanwisdom.kku.ac.th
-NOERROR	industrial11.en.kku.ac.th
-NOERROR	ns3.kku.ac.th
-NXDOMAIN	blog.kku.ac.th
-NOERROR	se-proj.en.kku.ac.th
-NOERROR	nac18.kku.ac.th
-NOERROR	picasso.en.kku.ac.th
-NOERROR	pharmmis.kku.ac.th
-NXDOMAIN	www.agecon.kku.ac.th
-NOERROR	faq.kku.ac.th
-NOERROR	opcx05.kku.ac.th
-NOERROR	sciencepark.kku.ac.th
-NOERROR	cache117.kku.ac.th
-NOERROR	chem14.en.kku.ac.th
-NOERROR	opcx04.kku.ac.th
-NOERROR	market.kku.ac.th
-NOERROR	jet02.kku.ac.th
-NOERROR	aculearn.kku.ac.th
-NOERROR	pharmedu.kku.ac.th
-NOERROR	cgdnet.kku.ac.th
-NOERROR	svpn.kku.ac.th
-NXDOMAIN	www.ae.kku.ac.th
-NOERROR	med.md.kku.ac.th
-NOERROR	drph.kku.ac.th
-NOERROR	office.kku.ac.th
-NOERROR	davinci.en.kku.ac.th
-NOERROR	ilti.kku.ac.th
-NOERROR	secondary.kku.ac.th
-NOERROR	intra20.kku.ac.th
-NOERROR	raffael.en.kku.ac.th
-NOERROR	vetsurgery.kku.ac.th
-NOERROR	cac.kku.ac.th
-NOERROR	senior.kku.ac.th
-NOERROR	staff12.en.kku.ac.th
-NOERROR	nats.queue.enit.kku.ac.th
-NOERROR	intra11.kku.ac.th
-NOERROR	ag2.kku.ac.th
-NOERROR	bit.kku.ac.th
-NOERROR	www.nrt.kku.ac.th
-NOERROR	oripgis.kku.ac.th
-NOERROR	www.dentistry.kku.ac.th
-NXDOMAIN	library1.en.kku.ac.th
-NOERROR	plurality.kku.ac.th
-NOERROR	chem12.en.kku.ac.th
-NOERROR	staff3.en.kku.ac.th
-NOERROR	vpn2.kku.ac.th
-NOERROR	envi9.en.kku.ac.th
-NXDOMAIN	dhcp-221.en.kku.ac.th
-NOERROR	tracking.kku.ac.th
-NOERROR	cvrg.kku.ac.th
-NOERROR	champa.kku.ac.th
-NOERROR	paloalto.kku.ac.th
-NOERROR	cnvr.kku.ac.th
-NOERROR	api.fix.enit.kku.ac.th
-NOERROR	zabbix.kku.ac.th
-NOERROR	aruba02.kku.ac.th
-NOERROR	inter.gs.kku.ac.th
-NXDOMAIN	admission.kku.ac.th
-NOERROR	sulu9.kku.ac.th
-NOERROR	bbhs.kku.ac.th
-NOERROR	docweb.kku.ac.th
-NOERROR	database.kku.ac.th
-NOERROR	dentist.kku.ac.th
-NOERROR	gear.kku.ac.th
-NOERROR	lib238.kku.ac.th
-NXDOMAIN	softdesign.kku.ac.th
-NOERROR	intra22.kku.ac.th
-NOERROR	rac1.kku.ac.th
-NOERROR	www.pulinet.kku.ac.th
-NOERROR	herbal.kku.ac.th
-NOERROR	cassatt.en.kku.ac.th
-NOERROR	tech3.en.kku.ac.th
-NOERROR	dcmskku.kku.ac.th
-NXDOMAIN	test2.enit.kku.ac.th
-NOERROR	smartcity.kku.ac.th
-NOERROR	ph.kku.ac.th
-NOERROR	iceman.kku.ac.th
-NOERROR	cactiwifi.kku.ac.th
-NOERROR	iconc2015.kku.ac.th
-NOERROR	kkusci2.kku.ac.th
-NOERROR	ethics.kku.ac.th
-NOERROR	urp.kku.ac.th
-NOERROR	cache120.kku.ac.th
-NOERROR	kkbs.kku.ac.th
-NOERROR	lib29.kku.ac.th
-NOERROR	pharmtech.kku.ac.th
-NOERROR	gate202.kku.ac.th
-NOERROR	husodeptservice.kku.ac.th
-NOERROR	archkku-eng.kku.ac.th
-NOERROR	gate.en.kku.ac.th
-NOERROR	webcontest.cs.kku.ac.th
-NOERROR	payment-hub.kku.ac.th
-NXDOMAIN	www.app.enit.kku.ac.th
-NOERROR	scst9.kku.ac.th
-NOERROR	nestnet.kku.ac.th
-NOERROR	smart.nkc.kku.ac.th
-NOERROR	chem4.en.kku.ac.th
-NXDOMAIN	r.sc.kku.ac.th
-NOERROR	ns2.nkc.kku.ac.th
-NOERROR	fire10.kku.ac.th
-NOERROR	mech8.en.kku.ac.th
-NOERROR	libroom.kku.ac.th
-NXDOMAIN	www.sciweb.kku.ac.th
-NOERROR	events.kku.ac.th
-NOERROR	alumni.kku.ac.th
-NOERROR	dhcp-238.en.kku.ac.th
-NOERROR	www.hstv.kku.ac.th
-NOERROR	web4.md.kku.ac.th
-NOERROR	kkuic.kku.ac.th
-NOERROR	packagist.kku.ac.th
-NOERROR	srithan.kku.ac.th
-NOERROR	www.sasc.kku.ac.th
-NOERROR	rsgis.kku.ac.th
-NOERROR	cacti-sw.kku.ac.th
-NOERROR	www.ora.kku.ac.th
-NOERROR	scc1.kku.ac.th
-NOERROR	ilticast.kku.ac.th
-NXDOMAIN	pbx.kku.ac.th
-NOERROR	kap3.kku.ac.th
-NOERROR	nac00.kku.ac.th
-NOERROR	mcux02.kku.ac.th
-NOERROR	scst2.kku.ac.th
-NOERROR	apps.kku.ac.th
-NOERROR	cache119.kku.ac.th
-NOERROR	quotadb2.kku.ac.th
-NOERROR	voicegw.kku.ac.th
-NOERROR	gsmis.gs.kku.ac.th
-NOERROR	mailrelay.md.kku.ac.th
-NXDOMAIN	dhcp-253.en.kku.ac.th
-NOERROR	intra14.kku.ac.th
-NOERROR	eecon37.kku.ac.th
-NOERROR	finance.md.kku.ac.th
-NOERROR	student-affairs.sc.kku.ac.th
-NOERROR	npme2015.md.kku.ac.th
-NXDOMAIN	ird.kku.ac.th
-NOERROR	sc.kku.ac.th
-NOERROR	sulu7.kku.ac.th
-NOERROR	thend.kku.ac.th
-NOERROR	kkim.kku.ac.th
-NOERROR	cache124.kku.ac.th
-NOERROR	ee5.en.kku.ac.th
-NOERROR	classroom.en.kku.ac.th
-NXDOMAIN	campus.kku.ac.th
-NOERROR	hslibsql.kku.ac.th
-NOERROR	pulinet2015.kku.ac.th
-NOERROR	adult-infect.kku.ac.th
-NOERROR	server-r2.en.kku.ac.th
-NOERROR	health.kku.ac.th
-NOERROR	ar.library.kku.ac.th
-NOERROR	www.nkc.kku.ac.th
-NOERROR	it.nkc.kku.ac.th
-NOERROR	lib24.kku.ac.th
-NOERROR	mseguide.kku.ac.th
-NOERROR	vpn-portal.kku.ac.th
-NOERROR	secretary.kku.ac.th
-NOERROR	ilp.kku.ac.th
-NOERROR	intra25.kku.ac.th
-NOERROR	burirum.kku.ac.th
-NOERROR	tqf.kku.ac.th
-NOERROR	intra17.kku.ac.th
-NOERROR	lib03.kku.ac.th
-NOERROR	one-search.kku.ac.th
-NOERROR	civil9.en.kku.ac.th
-NOERROR	mis-pr.kku.ac.th
-NOERROR	vm.library.kku.ac.th
-NOERROR	digital.kku.ac.th
-NOERROR	gis95.kku.ac.th
-NOERROR	www-database.kku.ac.th
-NOERROR	civil7.en.kku.ac.th
-NOERROR	www.ic.kku.ac.th
-NOERROR	www.misora.kku.ac.th
-NOERROR	opac.kku.ac.th
-NOERROR	www-new1.kku.ac.th
-NOERROR	mech3.en.kku.ac.th
-NOERROR	mech2.en.kku.ac.th
-NOERROR	chem15.en.kku.ac.th
-NOERROR	ant.cs.kku.ac.th
-NOERROR	www.smd.kku.ac.th
-NOERROR	mekongjournal.kku.ac.th
-NXDOMAIN	gwrc.kku.ac.th
-NOERROR	timetable.kku.ac.th
-NOERROR	ipv6.en.kku.ac.th
-NOERROR	forenmed.md.kku.ac.th
-NXDOMAIN	e-learningv19.kku.ac.th
-NOERROR	nac13.kku.ac.th
-NXDOMAIN	www.30ams.kku.ac.th
-NOERROR	scm1.kku.ac.th
-NOERROR	api.kku.ac.th
-NOERROR	agsg4.kku.ac.th
-NOERROR	md.kku.ac.th
-NOERROR	smtp.kku.ac.th
-NOERROR	www.moredindang.kku.ac.th
-NOERROR	meeting.kku.ac.th
-NOERROR	aapd2018.kku.ac.th
-NOERROR	hs.kku.ac.th
-NOERROR	faa.kku.ac.th
-NXDOMAIN	rdi.kku.ac.th
-NOERROR	industrial6.en.kku.ac.th
-NOERROR	fm103.kku.ac.th
-NOERROR	mslib.kku.ac.th
-NOERROR	fire4.kku.ac.th
-NOERROR	meet.kku.ac.th
-NOERROR	cvs.enit.kku.ac.th
-NOERROR	www.srinagarind-hph.kku.ac.th
-NOERROR	www.cs.kku.ac.th
-NOERROR	heart.kku.ac.th
-NOERROR	vimut.kku.ac.th
-NXDOMAIN	elearning.md.kku.ac.th
-NOERROR	regulation.gs.kku.ac.th
-NOERROR	git.kku.ac.th
-NOERROR	pt.kku.ac.th
-NOERROR	ilearn.kku.ac.th
-NXDOMAIN	reg8.kku.ac.th
-NOERROR	bdr.kku.ac.th
-NOERROR	sso-admin.kku.ac.th
-NOERROR	phlib.kku.ac.th
-NOERROR	kkuweblogic.kku.ac.th
-NOERROR	reg-mirror.kku.ac.th
-NOERROR	fupsw01.kku.ac.th
-NOERROR	chemistry.kku.ac.th
-NOERROR	ncsapc10.kku.ac.th
-NOERROR	mech5.en.kku.ac.th
-NOERROR	nat.en.kku.ac.th
-NOERROR	ldaps.kku.ac.th
-NOERROR	www.kkusu.kku.ac.th
-NOERROR	hsdb.kku.ac.th
-NOERROR	social-ed.kku.ac.th
-NOERROR	lib16.kku.ac.th
-NOERROR	login99.kku.ac.th
-NOERROR	dp-diskstation.kku.ac.th
-NOERROR	libpharm.kku.ac.th
-NOERROR	shop.kku.ac.th
-NOERROR	hselearning.kku.ac.th
-NOERROR	www.rt.kku.ac.th
-NOERROR	archive.kku.ac.th
-NOERROR	lfcrc.kku.ac.th
-NXDOMAIN	oop.kku.ac.th
-NOERROR	dev.enit.kku.ac.th
-NOERROR	napa.kku.ac.th
-NOERROR	hrnetwork.kku.ac.th
-NXDOMAIN	commed.kku.ac.th
-NOERROR	comlab19.en.kku.ac.th
-NOERROR	pharmsap.kku.ac.th
-NOERROR	nac08.kku.ac.th
-NOERROR	aasp.kku.ac.th
-NOERROR	mcux05.kku.ac.th
-NOERROR	opcx01.kku.ac.th
-NOERROR	ricoh-service.kku.ac.th
-NOERROR	ee9.en.kku.ac.th
-NOERROR	gold.kku.ac.th
-NOERROR	kvac.kku.ac.th
-NXDOMAIN	cged.kku.ac.th
-NOERROR	cache.kku.ac.th
-NOERROR	mech12.en.kku.ac.th
-NOERROR	sierra-db.kku.ac.th
-NXDOMAIN	lib11.kku.ac.th
-NOERROR	erth10.kku.ac.th
-NOERROR	ems2011.kku.ac.th
-NOERROR	agscg0.kku.ac.th
-NOERROR	bioinfo.kku.ac.th
-NOERROR	ikku-api.kku.ac.th
-NOERROR	civil13.en.kku.ac.th
-NOERROR	eestud.kku.ac.th
-NOERROR	ns0.kku.ac.th
-NOERROR	cache125.kku.ac.th
-NOERROR	zap8.kku.ac.th
-NOERROR	fupsw02.kku.ac.th
-NOERROR	eng.kku.ac.th
-NOERROR	demo.kku.ac.th
-NOERROR	kku-uni11903.kku.ac.th
-NOERROR	ageconoffice.kku.ac.th
-NOERROR	resmd.kku.ac.th
-NOERROR	smdpd.kku.ac.th
-NOERROR	gisstar.kku.ac.th
-NOERROR	ithesis.kku.ac.th
-NOERROR	res.en.kku.ac.th
-NXDOMAIN	www.arbp.kku.ac.th
-NOERROR	ortho.kku.ac.th
-NOERROR	admin.student-clubs.kku.ac.th
-NOERROR	ns3.nkc.kku.ac.th
-NOERROR	ems.kku.ac.th
-NOERROR	fix.enit.kku.ac.th
-NOERROR	sulu4.kku.ac.th
-NOERROR	www.nucleus.kku.ac.th
-NOERROR	webmail3.kku.ac.th
-NOERROR	vcenter-cc2.kku.ac.th
-NOERROR	scc4.kku.ac.th
-NOERROR	teenet.kku.ac.th
-NOERROR	sulu1.kku.ac.th
-NOERROR	intra13.kku.ac.th
-NXDOMAIN	library2.en.kku.ac.th
-NXDOMAIN	dhcp-219.en.kku.ac.th
-NOERROR	www.en.kku.ac.th
-NOERROR	lib248.kku.ac.th
-NOERROR	stud-serv.kku.ac.th
-NOERROR	envi12.en.kku.ac.th
-NOERROR	cis.kku.ac.th
-NXDOMAIN	lib05.kku.ac.th
-NOERROR	plandata.kku.ac.th
-NOERROR	loginqt.kku.ac.th
-NOERROR	blockip.kku.ac.th
-NOERROR	nac17.kku.ac.th
-NOERROR	qms.kku.ac.th
-NOERROR	vet2.kku.ac.th
-NOERROR	crdch.kku.ac.th
-NOERROR	micro.md.kku.ac.th
-NOERROR	www.sec.satit.kku.ac.th
-NOERROR	www.li.kku.ac.th
-NOERROR	pcux03.kku.ac.th
-NOERROR	mstc23.kku.ac.th
-NOERROR	bookish.kku.ac.th
-NOERROR	mafy.kku.ac.th
-NOERROR	agri8.en.kku.ac.th
-NOERROR	kmmed.kku.ac.th
-NOERROR	amsclinic.kku.ac.th
-NOERROR	envi8.en.kku.ac.th
-NOERROR	etc.kku.ac.th
-NOERROR	mcux01.kku.ac.th
-NOERROR	ckd.kku.ac.th
-NOERROR	phgis.kku.ac.th
-NXDOMAIN	e-learning2.kku.ac.th
-NOERROR	hacc.kku.ac.th
-NOERROR	stdvet.kku.ac.th
-NOERROR	fews.kku.ac.th
-NOERROR	mozart.en.kku.ac.th
-NOERROR	physics.kku.ac.th
-NXDOMAIN	www.ansci.kku.ac.th
-NOERROR	bloodbank.md.kku.ac.th
-NOERROR	res.kku.ac.th
-NOERROR	irdtpforasean.kku.ac.th
-NOERROR	embed.kku.ac.th
-NOERROR	ciu.kku.ac.th
-NOERROR	staff2.en.kku.ac.th
-NOERROR	nt-pci.kku.ac.th
-NOERROR	envi5.en.kku.ac.th
-NOERROR	pharmacog.kku.ac.th
-NOERROR	www.mdbiosafety.kku.ac.th
-NXDOMAIN	library6.en.kku.ac.th
-NOERROR	nrct-ne.kku.ac.th
-NOERROR	ped1.md.kku.ac.th
-NOERROR	agri4.en.kku.ac.th
-NXDOMAIN	product.kku.ac.th
-NOERROR	coop.kku.ac.th
-NOERROR	atad.kku.ac.th
-NOERROR	kknt.kku.ac.th
-NOERROR	law.kku.ac.th
-NOERROR	studentloan.kku.ac.th
-NOERROR	science.kku.ac.th
-NOERROR	atomgame.sc.kku.ac.th
-NOERROR	kkucommed.kku.ac.th
-NOERROR	staff8.en.kku.ac.th
-NOERROR	dcc-node.kku.ac.th
-NOERROR	oc.kku.ac.th
-NOERROR	biochem-med.md.kku.ac.th
-NOERROR	log.en.kku.ac.th
-NOERROR	gad-dev.kku.ac.th
-NOERROR	laoslibrary.kku.ac.th
-NOERROR	obgyn1.md.kku.ac.th
-NOERROR	adultnursing.kku.ac.th
-NXDOMAIN	agserver.kku.ac.th
-NOERROR	rtt.kku.ac.th
-NOERROR	network.kku.ac.th
-NXDOMAIN	fipeap.kku.ac.th
-NOERROR	reg9.kku.ac.th
-NOERROR	www.md.kku.ac.th
-NOERROR	comlab16.en.kku.ac.th
-NOERROR	fire2.kku.ac.th
-NOERROR	misora.kku.ac.th
-NOERROR	lib242.kku.ac.th
-NOERROR	bee.kku.ac.th
-NOERROR	chem1.en.kku.ac.th
-NOERROR	igad.kku.ac.th
-NOERROR	comlab7.en.kku.ac.th
-NXDOMAIN	dhcp-222.en.kku.ac.th
-NOERROR	kkurecycle.kku.ac.th
-NXDOMAIN	ams2003.kku.ac.th
-NOERROR	newmail.exp.kku.ac.th
-NOERROR	pptp.kku.ac.th
-NOERROR	agvcs.kku.ac.th
-NOERROR	nac07.kku.ac.th
-NOERROR	www.nano.kku.ac.th
-NOERROR	bio_bank.kku.ac.th
-NOERROR	amsalumni.kku.ac.th
-NOERROR	service.en.kku.ac.th
-NOERROR	smile.kku.ac.th
-NOERROR	lts1.kku.ac.th
-NOERROR	bwquota1.kku.ac.th
-NOERROR	rac-scan.kku.ac.th
-NXDOMAIN	renior1.en.kku.ac.th
-NOERROR	www.ip.kku.ac.th
-NOERROR	bnojph.kku.ac.th
-NOERROR	std-acct.kku.ac.th
-NOERROR	scc6.kku.ac.th
-NOERROR	acep.kku.ac.th
-NOERROR	kkuline.kku.ac.th
-NXDOMAIN	classnet.kku.ac.th
-NOERROR	sulu5.kku.ac.th
-NOERROR	cache114.kku.ac.th
-NOERROR	cache118.kku.ac.th
-NOERROR	socant.kku.ac.th
-NOERROR	mdkkustudent.kku.ac.th
-NXDOMAIN	library3.en.kku.ac.th
-NOERROR	researchsci.kku.ac.th
-NXDOMAIN	nac19.kku.ac.th
-NOERROR	eckku.kku.ac.th
-NOERROR	mba.kku.ac.th
-NOERROR	com.md.kku.ac.th
-NOERROR	lib23.kku.ac.th
-NOERROR	software.kku.ac.th
-NOERROR	staff6.en.kku.ac.th
-NOERROR	kkbsaol.kku.ac.th
-NXDOMAIN	www.polsci.kku.ac.th
-NOERROR	envi02.envi.en.kku.ac.th
-NOERROR	www.genedu.kku.ac.th
-NOERROR	erth5.kku.ac.th
-NOERROR	nettool.kku.ac.th
-NOERROR	bach.en.kku.ac.th
-NOERROR	ccswrm.kku.ac.th
-NOERROR	reg-api01.kku.ac.th
-NOERROR	turn.en.kku.ac.th
-NXDOMAIN	qshc.kku.ac.th
-NXDOMAIN	dhcp-245.en.kku.ac.th
-NOERROR	wheel.kku.ac.th
-NOERROR	vclass.kku.ac.th
-NOERROR	ldaprep.kku.ac.th
-NOERROR	ci.kku.ac.th
-NOERROR	www.nurse.kku.ac.th
-NOERROR	comlab34.en.kku.ac.th
-NOERROR	uac.kku.ac.th
-NOERROR	geocs.kku.ac.th
-NOERROR	envi10.en.kku.ac.th
-NOERROR	intra30.kku.ac.th
-NOERROR	dms-dev.kku.ac.th
-NOERROR	reg1.kku.ac.th
-NOERROR	grafana-ext.kku.ac.th
-NOERROR	anatomy.md.kku.ac.th
-NOERROR	nucleus.kku.ac.th
-NXDOMAIN	nac20.kku.ac.th
-NOERROR	student.en.kku.ac.th
-NXDOMAIN	nu-elearning.kku.ac.th
-NOERROR	www.computer.kku.ac.th
-NOERROR	mino7.kku.ac.th
-NOERROR	sulu8.kku.ac.th
-NOERROR	ehsm.en.kku.ac.th
-NOERROR	ncab.kku.ac.th
-NOERROR	pcux04.kku.ac.th
-NXDOMAIN	dhcp-246.en.kku.ac.th
-NOERROR	pep.kku.ac.th
-NOERROR	icead.kku.ac.th
-NOERROR	ldap3.kku.ac.th
-NOERROR	dev-checkin.enit.kku.ac.th
-NOERROR	dbm.student-clubs.kku.ac.th
-NOERROR	office.sc.kku.ac.th
-NOERROR	e.sc.kku.ac.th
-NOERROR	puc.en.kku.ac.th
-NOERROR	ns.nkc.kku.ac.th
-NOERROR	ns2.en.kku.ac.th
-NOERROR	ict-ilti.kku.ac.th
-NOERROR	dorm.kku.ac.th
-NOERROR	radio.kku.ac.th
-NOERROR	apec-lessonstudy.kku.ac.th
-NOERROR	sciweb.kku.ac.th
-NOERROR	mis.kku.ac.th
-NOERROR	intra21.kku.ac.th
-NOERROR	hr.kku.ac.th
-NOERROR	kkulib.kku.ac.th
-NOERROR	accounts.kku.ac.th
-NOERROR	comlab3.en.kku.ac.th
-NOERROR	mscan.kku.ac.th
-NOERROR	mara.kku.ac.th
-NXDOMAIN	www.agalumni.kku.ac.th
-NOERROR	speedtest.kku.ac.th
-NOERROR	iskku.kku.ac.th
-NOERROR	airmax.kku.ac.th
-NOERROR	fb.kku.ac.th
-NXDOMAIN	freshy.kku.ac.th
-NOERROR	ebijnbs.kku.ac.th
-NXDOMAIN	intra27.kku.ac.th
-NOERROR	alc.kku.ac.th
-NOERROR	hospitalvet.kku.ac.th
-NOERROR	queue.enit.kku.ac.th
-NOERROR	res-journal.kku.ac.th
-NOERROR	wind6.kku.ac.th
-NOERROR	app.enit.kku.ac.th
-NOERROR	guff6.kku.ac.th
-NOERROR	registrar-api.kku.ac.th
-NOERROR	scc5.kku.ac.th
-NOERROR	bwquota2.kku.ac.th
-NOERROR	sipgw.kku.ac.th
-NOERROR	sip.kku.ac.th
-NOERROR	civil10.en.kku.ac.th
-NOERROR	app-reserve.kku.ac.th
-NOERROR	nac09.kku.ac.th
-NOERROR	agri3.en.kku.ac.th
-NOERROR	comlab6.en.kku.ac.th
-NOERROR	intra18.kku.ac.th
-NOERROR	adminis.md.kku.ac.th
-NOERROR	degas.en.kku.ac.th
-NOERROR	www.intermed.kku.ac.th
-NOERROR	comlab25.en.kku.ac.th
-NOERROR	wind3.kku.ac.th
-NOERROR	comlab27.en.kku.ac.th
-NOERROR	www-lb2.kku.ac.th
-NOERROR	admissions.kku.ac.th
-NOERROR	scholar.kku.ac.th
-NOERROR	industrial14.en.kku.ac.th
-NOERROR	kkuaelt.kku.ac.th
-NOERROR	envi15.en.kku.ac.th
-NOERROR	library.en.kku.ac.th
-NOERROR	pharmchem.kku.ac.th
-NOERROR	iad.kku.ac.th
-NOERROR	eleave.library.kku.ac.th
-NOERROR	inforcenter.kku.ac.th
-NOERROR	industrial10.en.kku.ac.th
-NOERROR	rspg.kku.ac.th
-NOERROR	biotech.kku.ac.th
-NXDOMAIN	captor.kku.ac.th
-NOERROR	chem6.en.kku.ac.th
-NOERROR	vpn.kku.ac.th
-NXDOMAIN	www.student.en.kku.ac.th
-NOERROR	comlab20.en.kku.ac.th
-NOERROR	stdce.en.kku.ac.th
-NOERROR	cache123.kku.ac.th
-NOERROR	elec.en.kku.ac.th
-NOERROR	mech6.en.kku.ac.th
-NOERROR	kku-uni119254.kku.ac.th
-NOERROR	building2.kku.ac.th
-NXDOMAIN	www.alumni.sc.kku.ac.th
-NOERROR	inv-shop.enit.kku.ac.th
-NOERROR	information.kku.ac.th
-NOERROR	ns4.kku.ac.th
-NXDOMAIN	opensource1.kku.ac.th
-NOERROR	graylog.kku.ac.th
-NOERROR	idr.kku.ac.th
-NOERROR	journals.kku.ac.th
-NOERROR	www.bsasahat.kku.ac.th
-NOERROR	thai.kku.ac.th
-NOERROR	award.enit.kku.ac.th
-NOERROR	apply.kku.ac.th
-NOERROR	iris.kku.ac.th
-NOERROR	classonline.kku.ac.th
-NOERROR	mcux04.kku.ac.th
-NOERROR	dns2.kku.ac.th
-NOERROR	login1.kku.ac.th
-NXDOMAIN	comsc3.kku.ac.th
-NOERROR	ns0.en.kku.ac.th
-NOERROR	tao13.sc.kku.ac.th
-NOERROR	legal.kku.ac.th
-NOERROR	judo.kku.ac.th
-NXDOMAIN	dhcp-251.en.kku.ac.th
-NOERROR	qa.kku.ac.th
-NOERROR	nac03.kku.ac.th
-NOERROR	ent.kku.ac.th
-NOERROR	db.enit.kku.ac.th
-NOERROR	vet.kku.ac.th
-NOERROR	agri7.en.kku.ac.th
-NOERROR	kku.ac.th
-NOERROR	envi3.en.kku.ac.th
-NXDOMAIN	rv.sc.kku.ac.th
-NOERROR	kook.kku.ac.th
-NOERROR	psychi.md.kku.ac.th
-NOERROR	eestud.en.kku.ac.th
-NOERROR	toeic.kku.ac.th
-NOERROR	comlab22.en.kku.ac.th
-NOERROR	mehsri.kku.ac.th
-NOERROR	jet07.kku.ac.th
-NOERROR	ns1.sc.kku.ac.th
-NOERROR	rtcm.kku.ac.th
-NOERROR	smd-s.kku.ac.th
-NOERROR	chem16.en.kku.ac.th
-NOERROR	agri11.en.kku.ac.th
-NXDOMAIN	library5.en.kku.ac.th
-NOERROR	trms.kku.ac.th
-NOERROR	nac16.kku.ac.th
-NOERROR	baadleave.kku.ac.th
-NOERROR	ns1.kku.ac.th
-NOERROR	plan.ph.kku.ac.th
-NOERROR	smcgis.kku.ac.th
-NXDOMAIN	bnojp.kku.ac.th
-NOERROR	acis.kku.ac.th
-NOERROR	registrar.kku.ac.th
-NOERROR	www.icam.kku.ac.th
-NOERROR	netphone.kku.ac.th
-NOERROR	ns.kku.ac.th
-NOERROR	satitlib.kku.ac.th
-NOERROR	building.kku.ac.th
-NXDOMAIN	ec-mis.kku.ac.th
-NOERROR	archive.sc.kku.ac.th
-NOERROR	sciapps.kku.ac.th
-NOERROR	www.bonphysique.kku.ac.th
-NXDOMAIN	iltired5.kku.ac.th
-NOERROR	medlib2.kku.ac.th
-NOERROR	www.resjournal.kku.ac.th
-NOERROR	acad.md.kku.ac.th
-NOERROR	chem11.en.kku.ac.th
-NOERROR	lawlibrary.kku.ac.th
-NOERROR	www.asset.kku.ac.th
-NOERROR	dhcp-235.en.kku.ac.th
-NOERROR	admismd.kku.ac.th
-NOERROR	docker.kku.ac.th
-NOERROR	sc4.kku.ac.th
-NOERROR	industrial7.en.kku.ac.th
-NOERROR	airtime.kku.ac.th
-NOERROR	mhealth.kku.ac.th
-NOERROR	comlab13.en.kku.ac.th
-NOERROR	kkucomoc.kku.ac.th
-NOERROR	e-sar.kku.ac.th
-NOERROR	zap9.kku.ac.th
-NOERROR	ansci.kku.ac.th
-NOERROR	tazai.kku.ac.th
-NOERROR	kap2.kku.ac.th
-NOERROR	industrial3.en.kku.ac.th
-NOERROR	staff13.en.kku.ac.th
-NOERROR	agri10.en.kku.ac.th
-NOERROR	jet05.kku.ac.th
-NOERROR	bbmis.kku.ac.th
-NOERROR	patooa.kku.ac.th
-NOERROR	eduroam.kku.ac.th
-NOERROR	angelo.en.kku.ac.th
-NOERROR	www.ms.kku.ac.th
-NXDOMAIN	redirect.kku.ac.th
-NOERROR	civil8.en.kku.ac.th
-NOERROR	kku-kk.kku.ac.th
-NOERROR	obgyn.md.kku.ac.th
-NOERROR	www.hpnn.kku.ac.th
-NOERROR	cacti-pm.kku.ac.th
-NOERROR	radiostreaming.kku.ac.th
-NOERROR	em.kku.ac.th
-NOERROR	services.kku.ac.th
-NXDOMAIN	test1.enit.kku.ac.th
-NOERROR	rev-proxy.kku.ac.th
-NOERROR	lib245.kku.ac.th
-NOERROR	imm.kku.ac.th
-NOERROR	www.interacad.md.kku.ac.th
-NOERROR	hotmath.project.kku.ac.th
-NOERROR	www-archive.kku.ac.th
-NOERROR	comlab10.en.kku.ac.th
-NOERROR	officialmail.kku.ac.th
-NOERROR	rdttc.kku.ac.th
-NOERROR	math.kku.ac.th
-NOERROR	cad.kku.ac.th
-NOERROR	market-dev.kku.ac.th
-NOERROR	vcenter-cc.kku.ac.th
-NOERROR	alumni-affairs.kku.ac.th
-NOERROR	app.gs.kku.ac.th
-NOERROR	res-ejournal.kku.ac.th
-NOERROR	regpms.kku.ac.th
-NOERROR	munch.en.kku.ac.th
-NOERROR	ns1.en.kku.ac.th
-NOERROR	apps.sc.kku.ac.th
-NOERROR	mydispense.kku.ac.th
-NOERROR	crtgwh.kku.ac.th
-NOERROR	quotadb1.kku.ac.th
-NOERROR	chem10.en.kku.ac.th
-NOERROR	lib241.kku.ac.th
-NOERROR	vajaapi.cs.kku.ac.th
-NXDOMAIN	eportfolio.kku.ac.th
-NOERROR	lib251.kku.ac.th
-NOERROR	fervaap.kku.ac.th
-NOERROR	fire9.kku.ac.th
-NOERROR	staff1.en.kku.ac.th
-NXDOMAIN	nu-media.kku.ac.th
-NOERROR	sky10.kku.ac.th
-NOERROR	ccrip.kku.ac.th
-NOERROR	kku1.kku.ac.th
-NOERROR	cdms.kku.ac.th
-NXDOMAIN	rev-proxy-x.kku.ac.th
-NOERROR	wind2.kku.ac.th
-NOERROR	nbs.kku.ac.th
-NOERROR	nac06.kku.ac.th
-NOERROR	gis1.kku.ac.th
-NOERROR	industrial8.en.kku.ac.th
-NOERROR	conference.kku.ac.th
-NOERROR	laos.kku.ac.th
-NOERROR	intra24.kku.ac.th
-NOERROR	comlab5.en.kku.ac.th
-NOERROR	chem8.en.kku.ac.th
-NOERROR	negistda.kku.ac.th
-NOERROR	lib07.kku.ac.th
-NOERROR	tmkku.kku.ac.th
-NOERROR	boonsup.kku.ac.th
-NOERROR	envi6.en.kku.ac.th
-NOERROR	www.labmis.kku.ac.th
-NOERROR	meded.kku.ac.th
-NXDOMAIN	dhcp-218.en.kku.ac.th
-NOERROR	cacti.kku.ac.th
-NOERROR	ac.kku.ac.th
-NOERROR	www.parasite.md.kku.ac.th
-NXDOMAIN	www2.enit.kku.ac.th
-NOERROR	aerd.kku.ac.th
-NOERROR	booking.kku.ac.th
-NOERROR	gazette.kku.ac.th
-NOERROR	irj.kku.ac.th
-NOERROR	industrial16.en.kku.ac.th
-NOERROR	vet3.kku.ac.th
-NOERROR	uacinfo.kku.ac.th
-NOERROR	chem3.en.kku.ac.th
-NOERROR	ns2.kku.ac.th
-NOERROR	bio.kku.ac.th
-NOERROR	nersgic2.kku.ac.th
-NOERROR	sritran.kku.ac.th
-NXDOMAIN	www.usave.kku.ac.th
-NOERROR	cspp.kku.ac.th
-NOERROR	mis.en.kku.ac.th
-NOERROR	biofile.kku.ac.th
-NOERROR	henet.kku.ac.th
-NOERROR	www-lb1.kku.ac.th
-NOERROR	green.kku.ac.th
-NOERROR	ebudget.kku.ac.th
-NOERROR	e-learning.kku.ac.th
-NOERROR	www.hrd.kku.ac.th
-NOERROR	plara.kku.ac.th
-NOERROR	finance.kku.ac.th
-NXDOMAIN	cdromonline.kku.ac.th
-NOERROR	rev-proxy-c.kku.ac.th
-NOERROR	industrial13.en.kku.ac.th
-NOERROR	feat.kku.ac.th
-NOERROR	www.epidsrinagarind.md.kku.ac.th
-NOERROR	timetrack-dev.kku.ac.th
-NOERROR	case.kku.ac.th
-NOERROR	intra10.kku.ac.th
-NOERROR	www.srinagarind.md.kku.ac.th
-NOERROR	nkc.kku.ac.th
-NOERROR	npu.en.kku.ac.th
-NXDOMAIN	old-storage.kku.ac.th
-NOERROR	docker-images.kku.ac.th
-NOERROR	civil11.en.kku.ac.th
-NOERROR	www.asa.kku.ac.th
-NOERROR	zap5.kku.ac.th
-NOERROR	www.anuban.satit.kku.ac.th
-NOERROR	ae.kku.ac.th
-NOERROR	www2.en.kku.ac.th
-NOERROR	industrial.kku.ac.th
-NOERROR	acutest.kku.ac.th
-NOERROR	qm.kku.ac.th
-NOERROR	rad01.kku.ac.th
-NOERROR	nac05.kku.ac.th
-NOERROR	fadb.kku.ac.th
-NOERROR	pissarro.en.kku.ac.th
-NOERROR	lib28.kku.ac.th
-NOERROR	journal.gs.kku.ac.th
-NOERROR	mech14.en.kku.ac.th
-NOERROR	gwri.kku.ac.th
-NOERROR	fire1.kku.ac.th
-NOERROR	www.gs.kku.ac.th
-NXDOMAIN	journalkku.kku.ac.th
-NOERROR	portal.kku.ac.th
-NOERROR	pul-grp.kku.ac.th
-NOERROR	foodtech.kku.ac.th
-NOERROR	bazille.en.kku.ac.th
-NXDOMAIN	ad.kku.ac.th
-NOERROR	ensan.kku.ac.th
-NOERROR	radio1.md.kku.ac.th
-NOERROR	ora3.kku.ac.th
-NOERROR	e-learning.en.kku.ac.th
-NOERROR	aruba01.kku.ac.th
-NOERROR	gisnt.kku.ac.th
-NOERROR	yakoo.kku.ac.th
-NOERROR	planning.md.kku.ac.th
-NOERROR	civil5.en.kku.ac.th
-NOERROR	tdr.kku.ac.th
-NOERROR	cckm.kku.ac.th
-NOERROR	chem2.en.kku.ac.th
-NOERROR	accp2015.kku.ac.th
-NOERROR	morlum.kku.ac.th
-NOERROR	scc9.kku.ac.th
-NOERROR	misrad.kku.ac.th
-NOERROR	e-library.en.kku.ac.th
-NOERROR	seedtechpp.kku.ac.th
-NOERROR	web3.md.kku.ac.th
-NOERROR	libcheckin.kku.ac.th
-NOERROR	lib10.kku.ac.th
-NOERROR	staff9.en.kku.ac.th
-NOERROR	mgate.kku.ac.th
-NOERROR	lib06.kku.ac.th
-NOERROR	comlab18.en.kku.ac.th
-NOERROR	pharmclinic.kku.ac.th
-NOERROR	microbio.md.kku.ac.th
-NOERROR	hosting.kku.ac.th
-NOERROR	phone.kku.ac.th
-NOERROR	econoffice.kku.ac.th
-NOERROR	senate.kku.ac.th
-NOERROR	intranet.gs.kku.ac.th
-NOERROR	ar-gis.arch.kku.ac.th
-NOERROR	ns2.sc.kku.ac.th
-NOERROR	surgery.md.kku.ac.th
-NOERROR	guidance.kku.ac.th
-NOERROR	sda.kku.ac.th
-NOERROR	neurosci.kku.ac.th
-NOERROR	uptime.kku.ac.th
-NOERROR	dh.kku.ac.th
-NOERROR	cactimtik.kku.ac.th
-NOERROR	edoffice.kku.ac.th
-NOERROR	ee2.en.kku.ac.th
-NOERROR	chem13.en.kku.ac.th
-NOERROR	patho.md.kku.ac.th
-NOERROR	www.sc.kku.ac.th
-NOERROR	mech7.en.kku.ac.th
-NOERROR	sciportal.kku.ac.th
-NOERROR	scioffice.kku.ac.th
-NOERROR	timetabledb.kku.ac.th
-NOERROR	lib243.kku.ac.th
-NOERROR	www.kkusc.kku.ac.th
-NOERROR	library1.kku.ac.th
-NXDOMAIN	edurad.kku.ac.th
-NOERROR	dsv900.kku.ac.th
-NOERROR	office1.en.kku.ac.th
-NOERROR	ee1.en.kku.ac.th
-NXDOMAIN	coop.sc.kku.ac.th
-NOERROR	anuban.satit.kku.ac.th
-NOERROR	www.heart.kku.ac.th
-NOERROR	agmis.kku.ac.th
-NOERROR	comlab17.en.kku.ac.th
-NOERROR	kkuprinting.kku.ac.th
-NOERROR	gauguin.en.kku.ac.th
-NOERROR	sisley.en.kku.ac.th
-NOERROR	kpg40.kku.ac.th
-NOERROR	mech16.en.kku.ac.th
-NOERROR	rehab.md.kku.ac.th
-NOERROR	sky6.kku.ac.th
-NOERROR	research.md.kku.ac.th
-NOERROR	commed1.md.kku.ac.th
-NOERROR	www.cola.kku.ac.th
-NOERROR	libmeeting.kku.ac.th
-NOERROR	unicad.kku.ac.th
-NOERROR	sulu2.kku.ac.th
-NOERROR	stdmail.kku.ac.th
-NOERROR	projects.kku.ac.th
-NOERROR	intrabit.kku.ac.th
-NOERROR	m.kku.ac.th
-NOERROR	eclassnet.kku.ac.th
-NOERROR	orip.kku.ac.th
-NOERROR	pharmoffice.kku.ac.th
-NOERROR	nrdg.kku.ac.th
-NOERROR	vlmcs2.kku.ac.th
-NOERROR	dairy.kku.ac.th
-NOERROR	irc.kku.ac.th
-NOERROR	tisd.en.kku.ac.th
-NOERROR	e-doc.kku.ac.th
-NOERROR	ltic.kku.ac.th
-NOERROR	expert.kku.ac.th
-NOERROR	aetech.en.kku.ac.th
-NOERROR	lib09.kku.ac.th
-NOERROR	ldap.kku.ac.th
-NOERROR	www.aist.kku.ac.th
-NOERROR	comlab21.en.kku.ac.th
-NOERROR	comlab4.en.kku.ac.th
-NOERROR	kkcr.kku.ac.th
-NOERROR	lab.en.kku.ac.th
-NOERROR	elec.kku.ac.th
-NOERROR	opac-book-cover.kku.ac.th
-NXDOMAIN	wind8.kku.ac.th
-NOERROR	mech.en.kku.ac.th
-NOERROR	surgery1.md.kku.ac.th
-NOERROR	scst5.kku.ac.th
-NOERROR	lib239.kku.ac.th
-NOERROR	comlab14.en.kku.ac.th
-NOERROR	cs.kku.ac.th
-NOERROR	english.li.kku.ac.th
-NOERROR	mech4.en.kku.ac.th
-NOERROR	donation.kku.ac.th
-NOERROR	pbrcsa.kku.ac.th
-NOERROR	private.kku.ac.th
-NXDOMAIN	personal.md.kku.ac.th
-NOERROR	comlab36.en.kku.ac.th
-NOERROR	nas.enit.kku.ac.th
-NOERROR	staff5.en.kku.ac.th
-NOERROR	ednet.kku.ac.th
-NOERROR	recmert.kku.ac.th
-NOERROR	www.stt29.kku.ac.th
-NOERROR	www.mdresearch-ir.kku.ac.th
-NOERROR	www.srinagarindexcellencelab.kku.ac.th
-NOERROR	guff7.kku.ac.th
-NXDOMAIN	libregulation.kku.ac.th
-NOERROR	uat-ikku-backend.kku.ac.th
-NOERROR	sky3.kku.ac.th
-NOERROR	pmshs.kku.ac.th
-NOERROR	comlab30.en.kku.ac.th
-NOERROR	security.kku.ac.th
-NOERROR	primary.satit.kku.ac.th
-NOERROR	sc3.kku.ac.th
-NOERROR	sky5.kku.ac.th
-NOERROR	phupan.kku.ac.th
-NOERROR	hno.kku.ac.th
-NOERROR	staff16.en.kku.ac.th
-NOERROR	webapp.kku.ac.th
-NOERROR	comlab9.en.kku.ac.th
-NOERROR	industrial1.en.kku.ac.th
-NOERROR	arbp.kku.ac.th
-NOERROR	poy.kku.ac.th
-NOERROR	enit.kku.ac.th
-NOERROR	weather.kku.ac.th
-NOERROR	www.hrnetwork.kku.ac.th
-NOERROR	scst1.kku.ac.th
-NOERROR	hsintern-dev.kku.ac.th
-NOERROR	ikku-auth.kku.ac.th
-NOERROR	lib27.kku.ac.th
-NOERROR	gsbooks.gs.kku.ac.th
-NOERROR	key.kku.ac.th
-NOERROR	api.queue.enit.kku.ac.th
-NOERROR	envi16.en.kku.ac.th
-NOERROR	erth8.kku.ac.th
-NOERROR	ee6.en.kku.ac.th
-NOERROR	intra29.kku.ac.th
-NOERROR	procci.kku.ac.th
-NOERROR	biochem.md.kku.ac.th
-NOERROR	comlab31.en.kku.ac.th
-NOERROR	comlab35.en.kku.ac.th
-NOERROR	smdreg.kku.ac.th
-NOERROR	db4.en.kku.ac.th
-NOERROR	webmail.nkc.kku.ac.th
-NOERROR	wind7.kku.ac.th
-NOERROR	infection-control.kku.ac.th
-NOERROR	erth9.kku.ac.th
-NOERROR	e-md.kku.ac.th
-NXDOMAIN	www.sc5.kku.ac.th
-NXDOMAIN	www.alumni.kku.ac.th
-NOERROR	fmis.kku.ac.th
-NOERROR	gear17.en.kku.ac.th
-NOERROR	www.radiology.kku.ac.th
-NOERROR	kku-uni119115.kku.ac.th
-NOERROR	comlab23.en.kku.ac.th
-NOERROR	scst7.kku.ac.th
-NOERROR	www.pbrcsa.kku.ac.th
-NOERROR	phou.kku.ac.th
-NOERROR	dtkku2019.kku.ac.th
-NXDOMAIN	dhcp-224.en.kku.ac.th
-NOERROR	agri14.en.kku.ac.th
-NOERROR	english.kku.ac.th
-NOERROR	satitnkc.kku.ac.th
-NOERROR	ceclub.kku.ac.th
-NOERROR	lib.kku.ac.th
-NOERROR	password.kku.ac.th
-NOERROR	dms.kku.ac.th
-NOERROR	media.en.kku.ac.th
-NOERROR	planinfo.kku.ac.th
-NOERROR	nagios.kku.ac.th
-NOERROR	civil12.en.kku.ac.th
-NOERROR	dc1500.kku.ac.th
-NOERROR	phonedirectory.kku.ac.th
-NOERROR	www.ac.kku.ac.th
-NOERROR	agri2.en.kku.ac.th
-NOERROR	scc3.kku.ac.th
-NOERROR	fund.enit.kku.ac.th
-NOERROR	edtech.kku.ac.th
-NOERROR	lms.en.kku.ac.th
-NOERROR	www.physics.kku.ac.th
-NOERROR	adfs.kku.ac.th
-NOERROR	jaders.kku.ac.th
-NOERROR	it.kku.ac.th
-NOERROR	checkin.enit.kku.ac.th
-NOERROR	industrial12.en.kku.ac.th
-NOERROR	sci-scholar.kku.ac.th
-NOERROR	qnap-12tb.kku.ac.th
-NOERROR	scc2.kku.ac.th
-NOERROR	libdev2.kku.ac.th
-NOERROR	libkm.kku.ac.th
-NOERROR	emerging.kku.ac.th
-NOERROR	chemalumni.kku.ac.th
-NOERROR	la.kku.ac.th
-NOERROR	autodiscover.kku.ac.th
-NOERROR	ag.kku.ac.th
-NOERROR	ejournal.kku.ac.th
-NOERROR	researchph.kku.ac.th
-NOERROR	hi-md.kku.ac.th
-NOERROR	biology.kku.ac.th
-NOERROR	agecon.kku.ac.th
-NOERROR	mirror.kku.ac.th
-NOERROR	personweb.kku.ac.th
-NOERROR	opcx06.kku.ac.th
-NOERROR	ortho1.md.kku.ac.th
-NOERROR	cmis.kku.ac.th
-NOERROR	digiclass-lms.kku.ac.th
-NOERROR	ams2.kku.ac.th
-NOERROR	app.en.kku.ac.th
-NOERROR	netusage.kku.ac.th
-NXDOMAIN	canvas-lms.kku.ac.th
-NOERROR	envi4.en.kku.ac.th
-NOERROR	marathon.kku.ac.th
-NXDOMAIN	infocs.kku.ac.th
-NOERROR	profile.kku.ac.th
-NOERROR	portal2.kku.ac.th
-NOERROR	ie.en.kku.ac.th
-NXDOMAIN	lib19.kku.ac.th
-NOERROR	coeservice.en.kku.ac.th
-NOERROR	dpa-dev.kku.ac.th
-NOERROR	tech2.en.kku.ac.th
-NOERROR	36ams.kku.ac.th
-NOERROR	radfup.kku.ac.th
-NOERROR	aidskku.kku.ac.th
-NOERROR	anaes.md.kku.ac.th
-NXDOMAIN	www.kkuinter.kku.ac.th
-NOERROR	kst.kku.ac.th
-NOERROR	campus.en.kku.ac.th
-NOERROR	ee7.en.kku.ac.th
-NOERROR	fup.kku.ac.th
-NOERROR	noc.kku.ac.th
-NOERROR	guff5.kku.ac.th
-NOERROR	cogtech.kku.ac.th
-NOERROR	intra19.kku.ac.th
-NOERROR	ironport.kku.ac.th
-NOERROR	industrial4.en.kku.ac.th
-NOERROR	nac12.kku.ac.th
-NOERROR	civil16.en.kku.ac.th
-NOERROR	mis-dev.kku.ac.th
-NOERROR	rev-proxy-b.kku.ac.th
-NOERROR	proverty.kku.ac.th
-NOERROR	tung.kku.ac.th
-NXDOMAIN	openvpn.kku.ac.th
-NOERROR	chatter.en.kku.ac.th
-NOERROR	scc10.kku.ac.th
-NOERROR	staff7.en.kku.ac.th
-NOERROR	mino5.kku.ac.th
-NOERROR	esap.kku.ac.th
-NOERROR	www.medicalrecords.kku.ac.th
-NOERROR	home.kku.ac.th
-NOERROR	dhcp-236.en.kku.ac.th
-NOERROR	www.learning.smd.kku.ac.th
-NXDOMAIN	dhcp-223.en.kku.ac.th
-NXDOMAIN	erth3.kku.ac.th
-NXDOMAIN	www.cged.kku.ac.th
-NOERROR	cscd.kku.ac.th
-NXDOMAIN	dock-02.enit.kku.ac.th
-NOERROR	res-scholar.kku.ac.th
-NOERROR	bwquota.kku.ac.th
-NOERROR	civil14.en.kku.ac.th
-NOERROR	std.kku.ac.th
-NOERROR	illustrat.md.kku.ac.th
-NOERROR	lib17.kku.ac.th
-NOERROR	eap.kku.ac.th
-NOERROR	cache100.kku.ac.th
-NOERROR	degas.com.en.kku.ac.th
-NOERROR	hpc.en.kku.ac.th
-NOERROR	kkumedx.md.kku.ac.th
-NOERROR	isanshow.kku.ac.th
-NOERROR	fews2014.kku.ac.th
-NOERROR	backend.kku.ac.th
-NOERROR	mdi.kku.ac.th
-NOERROR	staff18.en.kku.ac.th
-NOERROR	entv.en.kku.ac.th
-NOERROR	huso.kku.ac.th
-NOERROR	zap10.kku.ac.th
-NOERROR	ams-academic.kku.ac.th
-NOERROR	nu-mis.kku.ac.th
-NXDOMAIN	dhcp-220.en.kku.ac.th
-NOERROR	sulu3.kku.ac.th
-NOERROR	industrial15.en.kku.ac.th
-NXDOMAIN	dhcp-247.en.kku.ac.th
-NOERROR	aene.kku.ac.th
-NOERROR	alumni.gs.kku.ac.th
-NOERROR	peep.kku.ac.th
-NOERROR	dfct2019.kku.ac.th
-NOERROR	nac10.kku.ac.th
-NOERROR	mrdm.gs.kku.ac.th
-NOERROR	postgrad.md.kku.ac.th
-NOERROR	amsapplication.kku.ac.th
-NOERROR	englishservices.kku.ac.th
-NOERROR	dlibed.kku.ac.th
-NOERROR	fire7.kku.ac.th
-NOERROR	plan.kku.ac.th
-NOERROR	guff10.kku.ac.th
-NOERROR	sga.kku.ac.th
-NOERROR	anaes1.md.kku.ac.th
-NOERROR	staff11.en.kku.ac.th
-NXDOMAIN	iweb.nkc.kku.ac.th
-NOERROR	wind10.kku.ac.th
-NOERROR	rnd.kku.ac.th
-NOERROR	parasit.md.kku.ac.th
-NOERROR	uat-ikku-api.kku.ac.th
-NOERROR	sec.satit.kku.ac.th
-NXDOMAIN	dhcp-244.en.kku.ac.th
-NOERROR	autisticsatit.kku.ac.th
-NOERROR	mail.en.kku.ac.th
-NOERROR	amsservice.kku.ac.th
-NOERROR	lts-lib.kku.ac.th
-NXDOMAIN	ilti-portal.kku.ac.th
-NOERROR	sulu6.kku.ac.th
-NOERROR	www.sciencepark.kku.ac.th
-NOERROR	vcenter-bit.kku.ac.th
-NOERROR	ams.kku.ac.th
-NOERROR	unifi.kku.ac.th
-NOERROR	cezanne.en.kku.ac.th
-NOERROR	www.hsdb.kku.ac.th
-NOERROR	websis.md.kku.ac.th
-NOERROR	dhcp1.kku.ac.th
-NOERROR	manop.kku.ac.th
-NOERROR	ora2.kku.ac.th
-NXDOMAIN	hslearning.kku.ac.th
-NOERROR	aggie.kku.ac.th
-NOERROR	kkuclub.kku.ac.th
-NOERROR	testapp.gs.kku.ac.th
-NXDOMAIN	cache113.kku.ac.th
-NOERROR	cmdl.kku.ac.th
-NOERROR	icsec2014.cs.kku.ac.th
-NOERROR	eservice.kku.ac.th
-NOERROR	sat.en.kku.ac.th
-NOERROR	selena.en.kku.ac.th
-NXDOMAIN	lib234.kku.ac.th
-NOERROR	imm-170.kku.ac.th
-NOERROR	genome.kku.ac.th
-NOERROR	eye.kku.ac.th
-NOERROR	ae.md.kku.ac.th
-NXDOMAIN	drive.enit.kku.ac.th
-NOERROR	epilepsy.kku.ac.th
-NOERROR	rev-proxy-a.kku.ac.th
-NXDOMAIN	dhcp-250.en.kku.ac.th
-NXDOMAIN	agkm.kku.ac.th
-NOERROR	isan.kku.ac.th
-NOERROR	van-gogh.en.kku.ac.th
-NOERROR	incbaa.kku.ac.th
-NXDOMAIN	botany.kku.ac.th
-NOERROR	mscooe.kku.ac.th
-NOERROR	buffers.kku.ac.th
-NOERROR	mdeportfolio.kku.ac.th
-NXDOMAIN	www.neratt.kku.ac.th
-NXDOMAIN	vmacademic.kku.ac.th
-NOERROR	cache115.kku.ac.th
-NOERROR	kku-uni11944.kku.ac.th
-NOERROR	docker-dev.kku.ac.th
-NOERROR	ase.kku.ac.th
-NOERROR	astro.kku.ac.th
-NOERROR	computer.kku.ac.th
-NOERROR	loginqt2.kku.ac.th
-NOERROR	neroc.kku.ac.th
-NOERROR	www.localtextile.kku.ac.th
-NOERROR	sipacct.kku.ac.th
-NOERROR	libapps.kku.ac.th
-NOERROR	gecnet.kku.ac.th
-NOERROR	comlab24.en.kku.ac.th
-NXDOMAIN	www.apply.kku.ac.th
-NOERROR	lib240.kku.ac.th
-NOERROR	ee4.en.kku.ac.th
-NOERROR	gis.kku.ac.th
-NOERROR	erth7.kku.ac.th
-NOERROR	www.primary.satit.kku.ac.th
-NXDOMAIN	radq.kku.ac.th
-NOERROR	e-learningex.kku.ac.th
-NXDOMAIN	lopburi.kku.ac.th
-NOERROR	homeunit.md.kku.ac.th
-NOERROR	trainuac.kku.ac.th
-NOERROR	mflow.kku.ac.th
-NOERROR	rsdi.kku.ac.th
-NOERROR	oer.kku.ac.th
-NOERROR	geo-nt.kku.ac.th
-NOERROR	hscm.kku.ac.th
-NOERROR	msblog.kku.ac.th
-NOERROR	erth6.kku.ac.th
-NOERROR	envi1.en.kku.ac.th
-NOERROR	zap1.kku.ac.th
-NOERROR	staff14.en.kku.ac.th
-NOERROR	reqw.kku.ac.th
-NOERROR	bms.kku.ac.th
-NOERROR	mech9.en.kku.ac.th
-NOERROR	learning.smd.kku.ac.th
-NOERROR	civil6.en.kku.ac.th
-NOERROR	pin.kku.ac.th
-NOERROR	asms.kku.ac.th
-NOERROR	kku-uni119216.kku.ac.th
-NXDOMAIN	mooc.kku.ac.th
-NOERROR	pme44.kku.ac.th
-NOERROR	scius.kku.ac.th
-NOERROR	thailitstudy.kku.ac.th
-NOERROR	ns2.enit.kku.ac.th
-NOERROR	busdec.kku.ac.th
-NOERROR	infojournal.kku.ac.th
-NOERROR	pub.en.kku.ac.th
-NOERROR	rac2.kku.ac.th
-NOERROR	lib252.kku.ac.th
-NOERROR	bayasita.kku.ac.th
-NOERROR	etraining.kku.ac.th
-NOERROR	agri15.en.kku.ac.th
-NOERROR	dme.en.kku.ac.th
-NOERROR	lib233.kku.ac.th
-NOERROR	civil4.en.kku.ac.th
-NOERROR	vmj.kku.ac.th
-NOERROR	isc.kku.ac.th
-NOERROR	adofnet.kku.ac.th
-NOERROR	comlab1.en.kku.ac.th
-NOERROR	i.kku.ac.th
-NOERROR	auto_university.kku.ac.th
-NOERROR	agri9.en.kku.ac.th
-NOERROR	home2.kku.ac.th
-NOERROR	commu.md.kku.ac.th
-NOERROR	comlab26.en.kku.ac.th
-NOERROR	intra28.kku.ac.th
-NOERROR	nac02.kku.ac.th
-NOERROR	class.en.kku.ac.th
-NOERROR	chem7.en.kku.ac.th
-NOERROR	erth1.kku.ac.th
-NOERROR	vcenter-coe.kku.ac.th
-NOERROR	pptps.kku.ac.th
-NOERROR	dorm-dev.kku.ac.th
-NOERROR	scst3.kku.ac.th
-NOERROR	o365.kku.ac.th
-NXDOMAIN	www.ccrip.kku.ac.th
-NOERROR	biochem-med.kku.ac.th
-NOERROR	csnm.kku.ac.th
-NOERROR	reg7.kku.ac.th
-NOERROR	kkulib2.kku.ac.th
-NOERROR	servermon.kku.ac.th
-NOERROR	architservice.kku.ac.th
-NOERROR	activerecruit.kku.ac.th
-NOERROR	hpc-b.kku.ac.th
-NXDOMAIN	miscs.kku.ac.th
-NOERROR	ppp.kku.ac.th
-NXDOMAIN	www.bookcenter.kku.ac.th
-NOERROR	amsoffice.kku.ac.th
-NOERROR	mdresearch.kku.ac.th
-NOERROR	intra16.kku.ac.th
-NOERROR	training.kku.ac.th
-NOERROR	somoo.kku.ac.th
-NOERROR	kkusports.kku.ac.th
-NOERROR	powerapp.kku.ac.th
-NOERROR	sacplan.kku.ac.th
-NOERROR	boss.kku.ac.th
-NOERROR	guestmgr.kku.ac.th
-NOERROR	confucius.kku.ac.th
-NOERROR	fa.kku.ac.th
-NOERROR	www.fc.kku.ac.th
-NOERROR	staff4.en.kku.ac.th
-NOERROR	ihrd.kku.ac.th
-NOERROR	gs.kku.ac.th
-NOERROR	digiclass.kku.ac.th
-NOERROR	zap4.kku.ac.th
-NOERROR	sisley.com.en.kku.ac.th
-NOERROR	researchams.kku.ac.th
-NOERROR	ipmo.kku.ac.th
-NOERROR	pe.kku.ac.th
-NOERROR	webmail.kku.ac.th
-NOERROR	foodtechqa.kku.ac.th
-NOERROR	nuresearch.kku.ac.th
-NXDOMAIN	www.cad.kku.ac.th
-NOERROR	aichhc2017.kku.ac.th
-NOERROR	kku-nt.kku.ac.th
-NOERROR	sotl.kku.ac.th
-NOERROR	intra23.kku.ac.th
-NOERROR	drive.kku.ac.th
-NOERROR	tasks.kku.ac.th
-NOERROR	pharmacology.md.kku.ac.th
-NOERROR	amspro.kku.ac.th
-NOERROR	patho1.md.kku.ac.th
-NOERROR	acro.kku.ac.th
-NOERROR	intra26.kku.ac.th
-NOERROR	cache116.kku.ac.th
-NXDOMAIN	dhcp-252.en.kku.ac.th
-NOERROR	hpc-a.kku.ac.th
-NOERROR	reg6.kku.ac.th
-NOERROR	msel.kku.ac.th
-NOERROR	psychi1.md.kku.ac.th
-NOERROR	chem5.en.kku.ac.th
-NOERROR	rannet.kku.ac.th
-NOERROR	scst10.kku.ac.th
-NOERROR	www.library.kku.ac.th
-NOERROR	arpap.kku.ac.th
-NOERROR	www.satitmo.kku.ac.th
-NOERROR	ns.enit.kku.ac.th
-NOERROR	www.dtoffice.kku.ac.th
-NOERROR	mms6.kku.ac.th
-NOERROR	sky7.kku.ac.th
-NOERROR	comlab11.en.kku.ac.th
-NOERROR	comlab32.en.kku.ac.th
-NOERROR	agri12.en.kku.ac.th
-NOERROR	lord.kku.ac.th
-NOERROR	mis-pd.kku.ac.th
-NOERROR	nac04.kku.ac.th
-NOERROR	ags.kku.ac.th
-NOERROR	mail.kku.ac.th
-NOERROR	personnel.md.kku.ac.th
-NOERROR	office2.en.kku.ac.th
-NOERROR	councilkku.kku.ac.th
-NOERROR	monitor.kku.ac.th
-NOERROR	libtimetable.kku.ac.th
-NOERROR	avs.kku.ac.th
-NOERROR	cascap.kku.ac.th
-NOERROR	aca.kku.ac.th
-NOERROR	print.kku.ac.th
-NOERROR	industrial2.en.kku.ac.th
-NOERROR	lib02.kku.ac.th
-NXDOMAIN	www.huso.kku.ac.th
-NXDOMAIN	reynolds.kku.ac.th
-NOERROR	kku-uni11902.kku.ac.th
-NOERROR	envi02.en.kku.ac.th
-NOERROR	inv.enit.kku.ac.th
-NOERROR	chart.library.kku.ac.th
-NOERROR	ikku-backend.kku.ac.th
-NOERROR	libtraining.kku.ac.th
-NOERROR	physio.md.kku.ac.th
-NXDOMAIN	dhcp-239.en.kku.ac.th
-NOERROR	kaenkun.kku.ac.th
-NOERROR	phperson.kku.ac.th
-NOERROR	satitmo.kku.ac.th
-NOERROR	chna.kku.ac.th
-NOERROR	tqf-demo.kku.ac.th
-NOERROR	phir.kku.ac.th
-NXDOMAIN	msscoring.kku.ac.th
-NOERROR	zap6.kku.ac.th
-NOERROR	chem9.en.kku.ac.th
-NOERROR	dirsync.kku.ac.th
-NOERROR	ee8.en.kku.ac.th
-NOERROR	crimson.en.kku.ac.th
-NXDOMAIN	kkuchannel.kku.ac.th
-NOERROR	uat-ikku-auth.kku.ac.th
-NOERROR	ccm.enit.kku.ac.th
-NOERROR	www.kkunews.kku.ac.th
-NOERROR	fire6.kku.ac.th
-NOERROR	scijournal.kku.ac.th
-NOERROR	ienetwork2016.kku.ac.th
-NOERROR	chd.kku.ac.th
-NOERROR	www.cas.kku.ac.th
-NOERROR	www.satit.kku.ac.th
-NOERROR	www.cde.kku.ac.th
-NOERROR	3l-une.kku.ac.th
-NOERROR	far.kku.ac.th
-NOERROR	iqamba.kku.ac.th
-NOERROR	comlab12.en.kku.ac.th
-NOERROR	denthospital.kku.ac.th
-NOERROR	forensicsc.kku.ac.th
-NOERROR	cheqa.kku.ac.th
-NOERROR	ftp.kku.ac.th
-NOERROR	webmail2.kku.ac.th
-NOERROR	x.kku.ac.th
-NOERROR	envi14.en.kku.ac.th
-NOERROR	lib20.kku.ac.th
-NOERROR	web.kku.ac.th
-NOERROR	ee3.en.kku.ac.th
-NOERROR	cache122.kku.ac.th
-NOERROR	ceu.md.kku.ac.th
-NOERROR	loginqt1.kku.ac.th
-NOERROR	cscd2015.kku.ac.th
-NOERROR	ae-alumni.enit.kku.ac.th
-NOERROR	storage.kku.ac.th
-NOERROR	mech10.en.kku.ac.th
-NOERROR	rain.kku.ac.th
-NOERROR	kkugolfclub.kku.ac.th
-NOERROR	lib2.kku.ac.th
-NOERROR	www.lfcrc.kku.ac.th
-NXDOMAIN	vrfriends.kku.ac.th
-NOERROR	comlab29.en.kku.ac.th
-NOERROR	www.champa.kku.ac.th
-NOERROR	kkulib3.kku.ac.th
-NOERROR	my.kku.ac.th
-NOERROR	kkuccbm.kku.ac.th
-NOERROR	nualumni.kku.ac.th
-NOERROR	co-op.kku.ac.th
-NOERROR	library.md.kku.ac.th
-NOERROR	student-clubs.kku.ac.th
-NOERROR	huen-haus.kku.ac.th
-NOERROR	biobank.kku.ac.th
-NOERROR	alumni.cs.kku.ac.th
-NOERROR	scied.kku.ac.th
-NOERROR	www.enit.kku.ac.th
-NOERROR	ped-infect.kku.ac.th
-NOERROR	www.ilearn.kku.ac.th
-NOERROR	daycare.kku.ac.th
-NOERROR	icm.kku.ac.th
-NOERROR	vimut3.kku.ac.th
-NOERROR	congratulations.kku.ac.th
-NOERROR	wifis.kku.ac.th
-NOERROR	chemsci.kku.ac.th
-NOERROR	monet.en.kku.ac.th
-NOERROR	coe.en.kku.ac.th
-NOERROR	web2.md.kku.ac.th
-NOERROR	kkutube.kku.ac.th
-NOERROR	dhcp2.kku.ac.th
-NOERROR	earcome6.kku.ac.th
-NOERROR	husoenglish.kku.ac.th
-NOERROR	cache121.kku.ac.th
-NOERROR	enit-nas-02.enit.kku.ac.th
-NOERROR	meeting-dev.kku.ac.th
-NXDOMAIN	app3.enit.kku.ac.th
-NOERROR	phonebook.kku.ac.th
-NOERROR	mech11.en.kku.ac.th
-NOERROR	phasor.en.kku.ac.th
-NOERROR	nelac.kku.ac.th
-NOERROR	kkueoffice.kku.ac.th
-NOERROR	www2.kku.ac.th
-NOERROR	renoir.en.kku.ac.th
-NOERROR	intra15.kku.ac.th
-NOERROR	physio1.md.kku.ac.th
-NOERROR	comlab2.en.kku.ac.th
-NOERROR	agbiotec.kku.ac.th
-NOERROR	strategy.kku.ac.th
-NOERROR	erth4.kku.ac.th
-NXDOMAIN	lib18.kku.ac.th
-NOERROR	studio.kku.ac.th
-NOERROR	kkucc1.kku.ac.th
-NOERROR	fortianalyzer.kku.ac.th
-NOERROR	gradlive.kku.ac.th
-NOERROR	olympiad.kku.ac.th
-NOERROR	autolab.en.kku.ac.th
-NOERROR	scst8.kku.ac.th
-NXDOMAIN	coenix.en.kku.ac.th
-NOERROR	sky4.kku.ac.th
-NOERROR	sky8.kku.ac.th
-NOERROR	alumni.sc.kku.ac.th
-NOERROR	nampong.kku.ac.th
-NOERROR	civil.kku.ac.th
-NOERROR	shaper.kku.ac.th
-NOERROR	mech.kku.ac.th
-NOERROR	envi13.en.kku.ac.th
-NOERROR	nu.kku.ac.th
-NOERROR	technoresearch.kku.ac.th
-NOERROR	erth2.kku.ac.th
-NOERROR	fire5.kku.ac.th
-NOERROR	reg4.kku.ac.th
-NXDOMAIN	scaleup.kku.ac.th
-NOERROR	modindang.kku.ac.th
-NOERROR	necs.kku.ac.th
-NOERROR	gradhuso.kku.ac.th
-NOERROR	kkucleft.kku.ac.th
-NOERROR	rsd50th.kku.ac.th
-NOERROR	eestaff.en.kku.ac.th
-NOERROR	regiscs.kku.ac.th
-NOERROR	smdstudent.kku.ac.th
-NOERROR	fastdd.kku.ac.th
-NOERROR	academic.kku.ac.th
-NOERROR	eye.md.kku.ac.th
-NOERROR	sc5.kku.ac.th
-NOERROR	pharm.kku.ac.th
-NOERROR	ienc.en.kku.ac.th
-NXDOMAIN	agile.kku.ac.th
-NOERROR	amslib.kku.ac.th
-NOERROR	reg2.kku.ac.th
-NOERROR	inter.en.kku.ac.th
-NXDOMAIN	lib3.kku.ac.th
-NOERROR	mdstudent.kku.ac.th
-NXDOMAIN	nis.kku.ac.th
-NOERROR	csperson.kku.ac.th
-NOERROR	library14.en.kku.ac.th
-NOERROR	dns.kku.ac.th
-NOERROR	forms.gs.kku.ac.th
-NOERROR	www.esrg.kku.ac.th
-NOERROR	scst6.kku.ac.th
-NOERROR	tise2015.kku.ac.th
-NOERROR	sarcs.kku.ac.th
-NOERROR	dev-tqf.kku.ac.th
-NOERROR	hospital.md.kku.ac.th
-NOERROR	jet06.kku.ac.th
-NOERROR	club.gs.kku.ac.th
-NOERROR	eestaff.kku.ac.th
-NXDOMAIN	rg_nurse.kku.ac.th
-NOERROR	fest.kku.ac.th
-NOERROR	students.md.kku.ac.th
-NOERROR	wwwsc.kku.ac.th
-NOERROR	mis.gs.kku.ac.th
-NXDOMAIN	dhcp-249.en.kku.ac.th
-NOERROR	rs.kpg40.kku.ac.th
-NOERROR	www.kku.ac.th
-NOERROR	intania.kku.ac.th
-NOERROR	pms.library.kku.ac.th
-NOERROR	uptime-critical.kku.ac.th
-NOERROR	acrfa.kku.ac.th
-NXDOMAIN	canvas.kku.ac.th
-NOERROR	blynk.kku.ac.th
-NOERROR	lib22.kku.ac.th
-NOERROR	nodered.kku.ac.th
-NOERROR	dashboard.kku.ac.th
-NOERROR	ric.kku.ac.th
-NOERROR	ip.kku.ac.th
-NOERROR	vimut2.kku.ac.th
-NOERROR	mis.cola.kku.ac.th
-NOERROR	parasit1.md.kku.ac.th
-NOERROR	resjournal.kku.ac.th
-NOERROR	www.mech.kku.ac.th
-NOERROR	opcx07.kku.ac.th
-NOERROR	dhcp-229.en.kku.ac.th
-NOERROR	mdir.kku.ac.th
-NOERROR	agri6.en.kku.ac.th
-NOERROR	iro.kku.ac.th
-NOERROR	agri16.en.kku.ac.th
-NXDOMAIN	library4.en.kku.ac.th
-NOERROR	envi11.en.kku.ac.th
-NOERROR	monet.com.en.kku.ac.th
-NOERROR	www.ncmc.kku.ac.th
-NOERROR	comlab28.en.kku.ac.th
-NXDOMAIN	sci.kku.ac.th
-NOERROR	areastudies.kku.ac.th
-NOERROR	booking.enit.kku.ac.th
-NOERROR	gateway.en.kku.ac.th
-NOERROR	saml.kku.ac.th
-NOERROR	foss.en.kku.ac.th
-NOERROR	envi1.envi.en.kku.ac.th
-NOERROR	wind4.kku.ac.th
-NOERROR	hsintern.kku.ac.th
-NOERROR	guff4.kku.ac.th
-NOERROR	genedu.kku.ac.th
-NOERROR	technology.kku.ac.th
-NOERROR	mech15.en.kku.ac.th
-NOERROR	mail.enit.kku.ac.th
-NOERROR	portal.gs.kku.ac.th
-NOERROR	econalumni.kku.ac.th
-NOERROR	oldcache.kku.ac.th
-NOERROR	nac01.kku.ac.th
-NOERROR	www.sc3.kku.ac.th
-NOERROR	agsg2.kku.ac.th
-NXDOMAIN	www.eduroam.kku.ac.th
-NOERROR	fire3.kku.ac.th
-NOERROR	ms.kku.ac.th
-NOERROR	timetrack.kku.ac.th
-NOERROR	intermed.kku.ac.th
-NOERROR	nac15.kku.ac.th
-NOERROR	comlab15.en.kku.ac.th
-NOERROR	mech13.en.kku.ac.th
-NOERROR	wug.kku.ac.th
-NOERROR	dent360.kku.ac.th
-NOERROR	li.kku.ac.th
-NOERROR	cola.kku.ac.th
-NXDOMAIN	lib249.kku.ac.th
-NOERROR	books.kku.ac.th
-NOERROR	intra12.kku.ac.th
-NOERROR	ole.kku.ac.th
-NOERROR	www.nedsi.kku.ac.th
-NOERROR	research.kku.ac.th
-NOERROR	library.kku.ac.th
-NOERROR	scst4.kku.ac.th
-NXDOMAIN	staff19.en.kku.ac.th
-NOERROR	civil.en.kku.ac.th
-NXDOMAIN	dhcp-234.en.kku.ac.th
-NOERROR	kta.kku.ac.th
-NOERROR	nhc13.kku.ac.th
-NOERROR	paccon2014.kku.ac.th
-NOERROR	shuttlebus.kku.ac.th
-NOERROR	industrial9.en.kku.ac.th
-NXDOMAIN	projectcs.kku.ac.th
-NXDOMAIN	aeg.kku.ac.th
-NOERROR	kkufess.kku.ac.th
-NOERROR	www.biology.kku.ac.th
-NOERROR	agri5.en.kku.ac.th
-NOERROR	physics.sc.kku.ac.th
-NOERROR	phdph.kku.ac.th
-NOERROR	agri13.en.kku.ac.th
-NOERROR	specialdent.kku.ac.th
-NOERROR	sc2.kku.ac.th
-NOERROR	comlab8.en.kku.ac.th
-NOERROR	nac11.kku.ac.th
-NOERROR	gitlab.en.kku.ac.th
-NOERROR	clickonce.kku.ac.th
-NOERROR	mino9.kku.ac.th
-NOERROR	gad.kku.ac.th
-NXDOMAIN	www.livercare.kku.ac.th
-NOERROR	staff10.en.kku.ac.th
-NOERROR	envi7.en.kku.ac.th
-NOERROR	ora.kku.ac.th
-NOERROR	satit.kku.ac.th
-NOERROR	sso.kku.ac.th
-NOERROR	sky9.kku.ac.th
-NOERROR	vultr-01.kku.ac.th
-NOERROR	nims3.kku.ac.th
-NOERROR	pharmacology.kku.ac.th
-NOERROR	econ.kku.ac.th
-NOERROR	royalmobile-dent.kku.ac.th
-NOERROR	mrtg.kku.ac.th
-NOERROR	programevaluation.kku.ac.th
-NOERROR	civil15.en.kku.ac.th
-NOERROR	www.cme.kku.ac.th
-NOERROR	agri1.en.kku.ac.th
-NOERROR	ns1.md.kku.ac.th
-NOERROR	kku780.kku.ac.th
-NOERROR	reg-api02.kku.ac.th
-NOERROR	reg-smd.kku.ac.th
-NOERROR	reg.kku.ac.th
-NOERROR	tech1.en.kku.ac.th
-NOERROR	dcc.kku.ac.th
-NOERROR	eddb.kku.ac.th
-NOERROR	shee.kku.ac.th
-NOERROR	openproject.kku.ac.th
-NOERROR	th.kku.ac.th
-NOERROR	it-nurse.kku.ac.th
-NOERROR	ntp.kku.ac.th
-NXDOMAIN	www.archive.kku.ac.th
-NOERROR	mcux03.kku.ac.th
-NOERROR	staff17.en.kku.ac.th
-NXDOMAIN	dev.kku.ac.th
-NOERROR	dcert.kku.ac.th
-NXDOMAIN	www.sspmis.sc.kku.ac.th
-NOERROR	wind5.kku.ac.th
-NOERROR	ilti-portal1.kku.ac.th
+sipacct2.kku.ac.th
+fortigate.kku.ac.th
+isned.kku.ac.th
+xtox.kku.ac.th
+eoffice.kku.ac.th
+project.kku.ac.th
+arch.kku.ac.th
+nac14.kku.ac.th
+gapps.kku.ac.th
+sspmis.sc.kku.ac.th
+www.crme.kku.ac.th
+service.gs.kku.ac.th
+vcenter-acad.kku.ac.th
+filewave.kku.ac.th
+nacelib.kku.ac.th
+manet.en.kku.ac.th
+qa.md.kku.ac.th
+sulu10.kku.ac.th
+wrei.kku.ac.th
+bookit.kku.ac.th
+kap1.kku.ac.th
+learningsmart.kku.ac.th
+stroke.kku.ac.th
+res-publish.kku.ac.th
+mboard.kku.ac.th
+fire8.kku.ac.th
+cache111.kku.ac.th
+procurement.kku.ac.th
+ent.md.kku.ac.th
+mis-devel.en.kku.ac.th
+sac.kku.ac.th
+nano.kku.ac.th
+damasac.kku.ac.th
+wbi.kku.ac.th
+redcap.kku.ac.th
+helmet.kku.ac.th
+u-staff.kku.ac.th
+agsg1.kku.ac.th
+comlab33.en.kku.ac.th
+esanwisdom.kku.ac.th
+industrial11.en.kku.ac.th
+ns3.kku.ac.th
+se-proj.en.kku.ac.th
+nac18.kku.ac.th
+picasso.en.kku.ac.th
+pharmmis.kku.ac.th
+faq.kku.ac.th
+opcx05.kku.ac.th
+sciencepark.kku.ac.th
+cache117.kku.ac.th
+chem14.en.kku.ac.th
+opcx04.kku.ac.th
+market.kku.ac.th
+jet02.kku.ac.th
+aculearn.kku.ac.th
+pharmedu.kku.ac.th
+cgdnet.kku.ac.th
+svpn.kku.ac.th
+med.md.kku.ac.th
+drph.kku.ac.th
+office.kku.ac.th
+davinci.en.kku.ac.th
+ilti.kku.ac.th
+secondary.kku.ac.th
+intra20.kku.ac.th
+raffael.en.kku.ac.th
+vetsurgery.kku.ac.th
+cac.kku.ac.th
+senior.kku.ac.th
+staff12.en.kku.ac.th
+nats.queue.enit.kku.ac.th
+intra11.kku.ac.th
+ag2.kku.ac.th
+bit.kku.ac.th
+www.nrt.kku.ac.th
+oripgis.kku.ac.th
+www.dentistry.kku.ac.th
+plurality.kku.ac.th
+chem12.en.kku.ac.th
+staff3.en.kku.ac.th
+vpn2.kku.ac.th
+envi9.en.kku.ac.th
+tracking.kku.ac.th
+cvrg.kku.ac.th
+champa.kku.ac.th
+paloalto.kku.ac.th
+cnvr.kku.ac.th
+api.fix.enit.kku.ac.th
+zabbix.kku.ac.th
+aruba02.kku.ac.th
+inter.gs.kku.ac.th
+sulu9.kku.ac.th
+bbhs.kku.ac.th
+docweb.kku.ac.th
+database.kku.ac.th
+dentist.kku.ac.th
+gear.kku.ac.th
+lib238.kku.ac.th
+intra22.kku.ac.th
+rac1.kku.ac.th
+www.pulinet.kku.ac.th
+herbal.kku.ac.th
+cassatt.en.kku.ac.th
+tech3.en.kku.ac.th
+dcmskku.kku.ac.th
+smartcity.kku.ac.th
+ph.kku.ac.th
+iceman.kku.ac.th
+cactiwifi.kku.ac.th
+iconc2015.kku.ac.th
+kkusci2.kku.ac.th
+ethics.kku.ac.th
+urp.kku.ac.th
+cache120.kku.ac.th
+kkbs.kku.ac.th
+lib29.kku.ac.th
+pharmtech.kku.ac.th
+gate202.kku.ac.th
+husodeptservice.kku.ac.th
+archkku-eng.kku.ac.th
+gate.en.kku.ac.th
+webcontest.cs.kku.ac.th
+payment-hub.kku.ac.th
+scst9.kku.ac.th
+nestnet.kku.ac.th
+smart.nkc.kku.ac.th
+chem4.en.kku.ac.th
+ns2.nkc.kku.ac.th
+fire10.kku.ac.th
+mech8.en.kku.ac.th
+libroom.kku.ac.th
+events.kku.ac.th
+alumni.kku.ac.th
+dhcp-238.en.kku.ac.th
+www.hstv.kku.ac.th
+web4.md.kku.ac.th
+kkuic.kku.ac.th
+packagist.kku.ac.th
+srithan.kku.ac.th
+www.sasc.kku.ac.th
+rsgis.kku.ac.th
+cacti-sw.kku.ac.th
+www.ora.kku.ac.th
+scc1.kku.ac.th
+ilticast.kku.ac.th
+kap3.kku.ac.th
+nac00.kku.ac.th
+mcux02.kku.ac.th
+scst2.kku.ac.th
+apps.kku.ac.th
+cache119.kku.ac.th
+quotadb2.kku.ac.th
+voicegw.kku.ac.th
+gsmis.gs.kku.ac.th
+mailrelay.md.kku.ac.th
+intra14.kku.ac.th
+eecon37.kku.ac.th
+finance.md.kku.ac.th
+student-affairs.sc.kku.ac.th
+npme2015.md.kku.ac.th
+sc.kku.ac.th
+sulu7.kku.ac.th
+thend.kku.ac.th
+kkim.kku.ac.th
+cache124.kku.ac.th
+ee5.en.kku.ac.th
+classroom.en.kku.ac.th
+hslibsql.kku.ac.th
+pulinet2015.kku.ac.th
+adult-infect.kku.ac.th
+server-r2.en.kku.ac.th
+health.kku.ac.th
+ar.library.kku.ac.th
+www.nkc.kku.ac.th
+it.nkc.kku.ac.th
+lib24.kku.ac.th
+mseguide.kku.ac.th
+vpn-portal.kku.ac.th
+secretary.kku.ac.th
+ilp.kku.ac.th
+intra25.kku.ac.th
+burirum.kku.ac.th
+tqf.kku.ac.th
+intra17.kku.ac.th
+lib03.kku.ac.th
+one-search.kku.ac.th
+civil9.en.kku.ac.th
+mis-pr.kku.ac.th
+vm.library.kku.ac.th
+digital.kku.ac.th
+gis95.kku.ac.th
+www-database.kku.ac.th
+civil7.en.kku.ac.th
+www.ic.kku.ac.th
+www.misora.kku.ac.th
+opac.kku.ac.th
+www-new1.kku.ac.th
+mech3.en.kku.ac.th
+mech2.en.kku.ac.th
+chem15.en.kku.ac.th
+ant.cs.kku.ac.th
+www.smd.kku.ac.th
+mekongjournal.kku.ac.th
+timetable.kku.ac.th
+ipv6.en.kku.ac.th
+forenmed.md.kku.ac.th
+nac13.kku.ac.th
+scm1.kku.ac.th
+api.kku.ac.th
+agsg4.kku.ac.th
+md.kku.ac.th
+smtp.kku.ac.th
+www.moredindang.kku.ac.th
+meeting.kku.ac.th
+aapd2018.kku.ac.th
+hs.kku.ac.th
+faa.kku.ac.th
+industrial6.en.kku.ac.th
+fm103.kku.ac.th
+mslib.kku.ac.th
+fire4.kku.ac.th
+meet.kku.ac.th
+cvs.enit.kku.ac.th
+www.srinagarind-hph.kku.ac.th
+www.cs.kku.ac.th
+heart.kku.ac.th
+vimut.kku.ac.th
+regulation.gs.kku.ac.th
+git.kku.ac.th
+pt.kku.ac.th
+ilearn.kku.ac.th
+bdr.kku.ac.th
+sso-admin.kku.ac.th
+phlib.kku.ac.th
+kkuweblogic.kku.ac.th
+reg-mirror.kku.ac.th
+fupsw01.kku.ac.th
+chemistry.kku.ac.th
+ncsapc10.kku.ac.th
+mech5.en.kku.ac.th
+nat.en.kku.ac.th
+ldaps.kku.ac.th
+www.kkusu.kku.ac.th
+hsdb.kku.ac.th
+social-ed.kku.ac.th
+lib16.kku.ac.th
+login99.kku.ac.th
+dp-diskstation.kku.ac.th
+libpharm.kku.ac.th
+shop.kku.ac.th
+hselearning.kku.ac.th
+www.rt.kku.ac.th
+archive.kku.ac.th
+lfcrc.kku.ac.th
+dev.enit.kku.ac.th
+napa.kku.ac.th
+hrnetwork.kku.ac.th
+comlab19.en.kku.ac.th
+pharmsap.kku.ac.th
+nac08.kku.ac.th
+aasp.kku.ac.th
+mcux05.kku.ac.th
+opcx01.kku.ac.th
+ricoh-service.kku.ac.th
+ee9.en.kku.ac.th
+gold.kku.ac.th
+kvac.kku.ac.th
+cache.kku.ac.th
+mech12.en.kku.ac.th
+sierra-db.kku.ac.th
+erth10.kku.ac.th
+ems2011.kku.ac.th
+agscg0.kku.ac.th
+bioinfo.kku.ac.th
+ikku-api.kku.ac.th
+civil13.en.kku.ac.th
+eestud.kku.ac.th
+ns0.kku.ac.th
+cache125.kku.ac.th
+zap8.kku.ac.th
+fupsw02.kku.ac.th
+eng.kku.ac.th
+demo.kku.ac.th
+kku-uni11903.kku.ac.th
+ageconoffice.kku.ac.th
+resmd.kku.ac.th
+smdpd.kku.ac.th
+gisstar.kku.ac.th
+ithesis.kku.ac.th
+res.en.kku.ac.th
+ortho.kku.ac.th
+admin.student-clubs.kku.ac.th
+ns3.nkc.kku.ac.th
+ems.kku.ac.th
+fix.enit.kku.ac.th
+sulu4.kku.ac.th
+www.nucleus.kku.ac.th
+webmail3.kku.ac.th
+vcenter-cc2.kku.ac.th
+scc4.kku.ac.th
+teenet.kku.ac.th
+sulu1.kku.ac.th
+intra13.kku.ac.th
+www.en.kku.ac.th
+lib248.kku.ac.th
+stud-serv.kku.ac.th
+envi12.en.kku.ac.th
+cis.kku.ac.th
+plandata.kku.ac.th
+loginqt.kku.ac.th
+blockip.kku.ac.th
+nac17.kku.ac.th
+qms.kku.ac.th
+vet2.kku.ac.th
+crdch.kku.ac.th
+micro.md.kku.ac.th
+www.sec.satit.kku.ac.th
+www.li.kku.ac.th
+pcux03.kku.ac.th
+mstc23.kku.ac.th
+bookish.kku.ac.th
+mafy.kku.ac.th
+agri8.en.kku.ac.th
+kmmed.kku.ac.th
+amsclinic.kku.ac.th
+envi8.en.kku.ac.th
+etc.kku.ac.th
+mcux01.kku.ac.th
+ckd.kku.ac.th
+phgis.kku.ac.th
+hacc.kku.ac.th
+stdvet.kku.ac.th
+fews.kku.ac.th
+mozart.en.kku.ac.th
+physics.kku.ac.th
+bloodbank.md.kku.ac.th
+res.kku.ac.th
+irdtpforasean.kku.ac.th
+embed.kku.ac.th
+ciu.kku.ac.th
+staff2.en.kku.ac.th
+nt-pci.kku.ac.th
+envi5.en.kku.ac.th
+pharmacog.kku.ac.th
+www.mdbiosafety.kku.ac.th
+nrct-ne.kku.ac.th
+ped1.md.kku.ac.th
+agri4.en.kku.ac.th
+coop.kku.ac.th
+atad.kku.ac.th
+kknt.kku.ac.th
+law.kku.ac.th
+studentloan.kku.ac.th
+science.kku.ac.th
+atomgame.sc.kku.ac.th
+kkucommed.kku.ac.th
+staff8.en.kku.ac.th
+dcc-node.kku.ac.th
+oc.kku.ac.th
+biochem-med.md.kku.ac.th
+log.en.kku.ac.th
+gad-dev.kku.ac.th
+laoslibrary.kku.ac.th
+obgyn1.md.kku.ac.th
+adultnursing.kku.ac.th
+rtt.kku.ac.th
+network.kku.ac.th
+reg9.kku.ac.th
+www.md.kku.ac.th
+comlab16.en.kku.ac.th
+fire2.kku.ac.th
+misora.kku.ac.th
+lib242.kku.ac.th
+bee.kku.ac.th
+chem1.en.kku.ac.th
+igad.kku.ac.th
+comlab7.en.kku.ac.th
+kkurecycle.kku.ac.th
+newmail.exp.kku.ac.th
+pptp.kku.ac.th
+agvcs.kku.ac.th
+nac07.kku.ac.th
+www.nano.kku.ac.th
+bio_bank.kku.ac.th
+amsalumni.kku.ac.th
+service.en.kku.ac.th
+smile.kku.ac.th
+lts1.kku.ac.th
+bwquota1.kku.ac.th
+rac-scan.kku.ac.th
+www.ip.kku.ac.th
+bnojph.kku.ac.th
+std-acct.kku.ac.th
+scc6.kku.ac.th
+acep.kku.ac.th
+kkuline.kku.ac.th
+sulu5.kku.ac.th
+cache114.kku.ac.th
+cache118.kku.ac.th
+socant.kku.ac.th
+mdkkustudent.kku.ac.th
+researchsci.kku.ac.th
+eckku.kku.ac.th
+mba.kku.ac.th
+com.md.kku.ac.th
+lib23.kku.ac.th
+software.kku.ac.th
+staff6.en.kku.ac.th
+kkbsaol.kku.ac.th
+envi02.envi.en.kku.ac.th
+www.genedu.kku.ac.th
+erth5.kku.ac.th
+nettool.kku.ac.th
+bach.en.kku.ac.th
+ccswrm.kku.ac.th
+reg-api01.kku.ac.th
+turn.en.kku.ac.th
+wheel.kku.ac.th
+vclass.kku.ac.th
+ldaprep.kku.ac.th
+ci.kku.ac.th
+www.nurse.kku.ac.th
+comlab34.en.kku.ac.th
+uac.kku.ac.th
+geocs.kku.ac.th
+envi10.en.kku.ac.th
+intra30.kku.ac.th
+dms-dev.kku.ac.th
+reg1.kku.ac.th
+grafana-ext.kku.ac.th
+anatomy.md.kku.ac.th
+nucleus.kku.ac.th
+student.en.kku.ac.th
+www.computer.kku.ac.th
+mino7.kku.ac.th
+sulu8.kku.ac.th
+ehsm.en.kku.ac.th
+ncab.kku.ac.th
+pcux04.kku.ac.th
+pep.kku.ac.th
+icead.kku.ac.th
+ldap3.kku.ac.th
+dev-checkin.enit.kku.ac.th
+dbm.student-clubs.kku.ac.th
+office.sc.kku.ac.th
+e.sc.kku.ac.th
+puc.en.kku.ac.th
+ns.nkc.kku.ac.th
+ns2.en.kku.ac.th
+ict-ilti.kku.ac.th
+dorm.kku.ac.th
+radio.kku.ac.th
+apec-lessonstudy.kku.ac.th
+sciweb.kku.ac.th
+mis.kku.ac.th
+intra21.kku.ac.th
+hr.kku.ac.th
+kkulib.kku.ac.th
+accounts.kku.ac.th
+comlab3.en.kku.ac.th
+mscan.kku.ac.th
+mara.kku.ac.th
+speedtest.kku.ac.th
+iskku.kku.ac.th
+airmax.kku.ac.th
+fb.kku.ac.th
+ebijnbs.kku.ac.th
+alc.kku.ac.th
+hospitalvet.kku.ac.th
+queue.enit.kku.ac.th
+res-journal.kku.ac.th
+wind6.kku.ac.th
+app.enit.kku.ac.th
+guff6.kku.ac.th
+registrar-api.kku.ac.th
+scc5.kku.ac.th
+bwquota2.kku.ac.th
+sipgw.kku.ac.th
+sip.kku.ac.th
+civil10.en.kku.ac.th
+app-reserve.kku.ac.th
+nac09.kku.ac.th
+agri3.en.kku.ac.th
+comlab6.en.kku.ac.th
+intra18.kku.ac.th
+adminis.md.kku.ac.th
+degas.en.kku.ac.th
+www.intermed.kku.ac.th
+comlab25.en.kku.ac.th
+wind3.kku.ac.th
+comlab27.en.kku.ac.th
+www-lb2.kku.ac.th
+admissions.kku.ac.th
+scholar.kku.ac.th
+industrial14.en.kku.ac.th
+kkuaelt.kku.ac.th
+envi15.en.kku.ac.th
+library.en.kku.ac.th
+pharmchem.kku.ac.th
+iad.kku.ac.th
+eleave.library.kku.ac.th
+inforcenter.kku.ac.th
+industrial10.en.kku.ac.th
+rspg.kku.ac.th
+biotech.kku.ac.th
+chem6.en.kku.ac.th
+vpn.kku.ac.th
+comlab20.en.kku.ac.th
+stdce.en.kku.ac.th
+cache123.kku.ac.th
+elec.en.kku.ac.th
+mech6.en.kku.ac.th
+kku-uni119254.kku.ac.th
+building2.kku.ac.th
+inv-shop.enit.kku.ac.th
+information.kku.ac.th
+ns4.kku.ac.th
+graylog.kku.ac.th
+idr.kku.ac.th
+journals.kku.ac.th
+www.bsasahat.kku.ac.th
+thai.kku.ac.th
+award.enit.kku.ac.th
+apply.kku.ac.th
+iris.kku.ac.th
+classonline.kku.ac.th
+mcux04.kku.ac.th
+dns2.kku.ac.th
+login1.kku.ac.th
+ns0.en.kku.ac.th
+tao13.sc.kku.ac.th
+legal.kku.ac.th
+judo.kku.ac.th
+qa.kku.ac.th
+nac03.kku.ac.th
+ent.kku.ac.th
+db.enit.kku.ac.th
+vet.kku.ac.th
+agri7.en.kku.ac.th
+kku.ac.th
+envi3.en.kku.ac.th
+kook.kku.ac.th
+psychi.md.kku.ac.th
+eestud.en.kku.ac.th
+toeic.kku.ac.th
+comlab22.en.kku.ac.th
+mehsri.kku.ac.th
+jet07.kku.ac.th
+ns1.sc.kku.ac.th
+rtcm.kku.ac.th
+smd-s.kku.ac.th
+chem16.en.kku.ac.th
+agri11.en.kku.ac.th
+trms.kku.ac.th
+nac16.kku.ac.th
+baadleave.kku.ac.th
+ns1.kku.ac.th
+plan.ph.kku.ac.th
+smcgis.kku.ac.th
+acis.kku.ac.th
+registrar.kku.ac.th
+www.icam.kku.ac.th
+netphone.kku.ac.th
+ns.kku.ac.th
+satitlib.kku.ac.th
+building.kku.ac.th
+archive.sc.kku.ac.th
+sciapps.kku.ac.th
+www.bonphysique.kku.ac.th
+medlib2.kku.ac.th
+www.resjournal.kku.ac.th
+acad.md.kku.ac.th
+chem11.en.kku.ac.th
+lawlibrary.kku.ac.th
+www.asset.kku.ac.th
+dhcp-235.en.kku.ac.th
+admismd.kku.ac.th
+docker.kku.ac.th
+sc4.kku.ac.th
+industrial7.en.kku.ac.th
+airtime.kku.ac.th
+mhealth.kku.ac.th
+comlab13.en.kku.ac.th
+kkucomoc.kku.ac.th
+e-sar.kku.ac.th
+zap9.kku.ac.th
+ansci.kku.ac.th
+tazai.kku.ac.th
+kap2.kku.ac.th
+industrial3.en.kku.ac.th
+staff13.en.kku.ac.th
+agri10.en.kku.ac.th
+jet05.kku.ac.th
+bbmis.kku.ac.th
+patooa.kku.ac.th
+eduroam.kku.ac.th
+angelo.en.kku.ac.th
+www.ms.kku.ac.th
+civil8.en.kku.ac.th
+kku-kk.kku.ac.th
+obgyn.md.kku.ac.th
+www.hpnn.kku.ac.th
+cacti-pm.kku.ac.th
+radiostreaming.kku.ac.th
+em.kku.ac.th
+services.kku.ac.th
+rev-proxy.kku.ac.th
+lib245.kku.ac.th
+imm.kku.ac.th
+www.interacad.md.kku.ac.th
+hotmath.project.kku.ac.th
+www-archive.kku.ac.th
+comlab10.en.kku.ac.th
+officialmail.kku.ac.th
+rdttc.kku.ac.th
+math.kku.ac.th
+cad.kku.ac.th
+market-dev.kku.ac.th
+vcenter-cc.kku.ac.th
+alumni-affairs.kku.ac.th
+app.gs.kku.ac.th
+res-ejournal.kku.ac.th
+regpms.kku.ac.th
+munch.en.kku.ac.th
+ns1.en.kku.ac.th
+apps.sc.kku.ac.th
+mydispense.kku.ac.th
+crtgwh.kku.ac.th
+quotadb1.kku.ac.th
+chem10.en.kku.ac.th
+lib241.kku.ac.th
+vajaapi.cs.kku.ac.th
+lib251.kku.ac.th
+fervaap.kku.ac.th
+fire9.kku.ac.th
+staff1.en.kku.ac.th
+sky10.kku.ac.th
+ccrip.kku.ac.th
+kku1.kku.ac.th
+cdms.kku.ac.th
+wind2.kku.ac.th
+nbs.kku.ac.th
+nac06.kku.ac.th
+gis1.kku.ac.th
+industrial8.en.kku.ac.th
+conference.kku.ac.th
+laos.kku.ac.th
+intra24.kku.ac.th
+comlab5.en.kku.ac.th
+chem8.en.kku.ac.th
+negistda.kku.ac.th
+lib07.kku.ac.th
+tmkku.kku.ac.th
+boonsup.kku.ac.th
+envi6.en.kku.ac.th
+www.labmis.kku.ac.th
+meded.kku.ac.th
+cacti.kku.ac.th
+ac.kku.ac.th
+www.parasite.md.kku.ac.th
+aerd.kku.ac.th
+booking.kku.ac.th
+gazette.kku.ac.th
+irj.kku.ac.th
+industrial16.en.kku.ac.th
+vet3.kku.ac.th
+uacinfo.kku.ac.th
+chem3.en.kku.ac.th
+ns2.kku.ac.th
+bio.kku.ac.th
+nersgic2.kku.ac.th
+sritran.kku.ac.th
+cspp.kku.ac.th
+mis.en.kku.ac.th
+biofile.kku.ac.th
+henet.kku.ac.th
+www-lb1.kku.ac.th
+green.kku.ac.th
+ebudget.kku.ac.th
+e-learning.kku.ac.th
+www.hrd.kku.ac.th
+plara.kku.ac.th
+finance.kku.ac.th
+rev-proxy-c.kku.ac.th
+industrial13.en.kku.ac.th
+feat.kku.ac.th
+www.epidsrinagarind.md.kku.ac.th
+timetrack-dev.kku.ac.th
+case.kku.ac.th
+intra10.kku.ac.th
+www.srinagarind.md.kku.ac.th
+nkc.kku.ac.th
+npu.en.kku.ac.th
+docker-images.kku.ac.th
+civil11.en.kku.ac.th
+www.asa.kku.ac.th
+zap5.kku.ac.th
+www.anuban.satit.kku.ac.th
+ae.kku.ac.th
+www2.en.kku.ac.th
+industrial.kku.ac.th
+acutest.kku.ac.th
+qm.kku.ac.th
+rad01.kku.ac.th
+nac05.kku.ac.th
+fadb.kku.ac.th
+pissarro.en.kku.ac.th
+lib28.kku.ac.th
+journal.gs.kku.ac.th
+mech14.en.kku.ac.th
+gwri.kku.ac.th
+fire1.kku.ac.th
+www.gs.kku.ac.th
+portal.kku.ac.th
+pul-grp.kku.ac.th
+foodtech.kku.ac.th
+bazille.en.kku.ac.th
+ensan.kku.ac.th
+radio1.md.kku.ac.th
+ora3.kku.ac.th
+e-learning.en.kku.ac.th
+aruba01.kku.ac.th
+gisnt.kku.ac.th
+yakoo.kku.ac.th
+planning.md.kku.ac.th
+civil5.en.kku.ac.th
+tdr.kku.ac.th
+cckm.kku.ac.th
+chem2.en.kku.ac.th
+accp2015.kku.ac.th
+morlum.kku.ac.th
+scc9.kku.ac.th
+misrad.kku.ac.th
+e-library.en.kku.ac.th
+seedtechpp.kku.ac.th
+web3.md.kku.ac.th
+libcheckin.kku.ac.th
+lib10.kku.ac.th
+staff9.en.kku.ac.th
+mgate.kku.ac.th
+lib06.kku.ac.th
+comlab18.en.kku.ac.th
+pharmclinic.kku.ac.th
+microbio.md.kku.ac.th
+hosting.kku.ac.th
+phone.kku.ac.th
+econoffice.kku.ac.th
+senate.kku.ac.th
+intranet.gs.kku.ac.th
+ar-gis.arch.kku.ac.th
+ns2.sc.kku.ac.th
+surgery.md.kku.ac.th
+guidance.kku.ac.th
+sda.kku.ac.th
+neurosci.kku.ac.th
+uptime.kku.ac.th
+dh.kku.ac.th
+cactimtik.kku.ac.th
+edoffice.kku.ac.th
+ee2.en.kku.ac.th
+chem13.en.kku.ac.th
+patho.md.kku.ac.th
+www.sc.kku.ac.th
+mech7.en.kku.ac.th
+sciportal.kku.ac.th
+scioffice.kku.ac.th
+timetabledb.kku.ac.th
+lib243.kku.ac.th
+www.kkusc.kku.ac.th
+library1.kku.ac.th
+dsv900.kku.ac.th
+office1.en.kku.ac.th
+ee1.en.kku.ac.th
+anuban.satit.kku.ac.th
+www.heart.kku.ac.th
+agmis.kku.ac.th
+comlab17.en.kku.ac.th
+kkuprinting.kku.ac.th
+gauguin.en.kku.ac.th
+sisley.en.kku.ac.th
+kpg40.kku.ac.th
+mech16.en.kku.ac.th
+rehab.md.kku.ac.th
+sky6.kku.ac.th
+research.md.kku.ac.th
+commed1.md.kku.ac.th
+www.cola.kku.ac.th
+libmeeting.kku.ac.th
+unicad.kku.ac.th
+sulu2.kku.ac.th
+stdmail.kku.ac.th
+projects.kku.ac.th
+intrabit.kku.ac.th
+m.kku.ac.th
+eclassnet.kku.ac.th
+orip.kku.ac.th
+pharmoffice.kku.ac.th
+nrdg.kku.ac.th
+vlmcs2.kku.ac.th
+dairy.kku.ac.th
+irc.kku.ac.th
+tisd.en.kku.ac.th
+e-doc.kku.ac.th
+ltic.kku.ac.th
+expert.kku.ac.th
+aetech.en.kku.ac.th
+lib09.kku.ac.th
+ldap.kku.ac.th
+www.aist.kku.ac.th
+comlab21.en.kku.ac.th
+comlab4.en.kku.ac.th
+kkcr.kku.ac.th
+lab.en.kku.ac.th
+elec.kku.ac.th
+opac-book-cover.kku.ac.th
+mech.en.kku.ac.th
+surgery1.md.kku.ac.th
+scst5.kku.ac.th
+lib239.kku.ac.th
+comlab14.en.kku.ac.th
+cs.kku.ac.th
+english.li.kku.ac.th
+mech4.en.kku.ac.th
+donation.kku.ac.th
+pbrcsa.kku.ac.th
+private.kku.ac.th
+comlab36.en.kku.ac.th
+nas.enit.kku.ac.th
+staff5.en.kku.ac.th
+ednet.kku.ac.th
+recmert.kku.ac.th
+www.stt29.kku.ac.th
+www.mdresearch-ir.kku.ac.th
+www.srinagarindexcellencelab.kku.ac.th
+guff7.kku.ac.th
+uat-ikku-backend.kku.ac.th
+sky3.kku.ac.th
+pmshs.kku.ac.th
+comlab30.en.kku.ac.th
+security.kku.ac.th
+primary.satit.kku.ac.th
+sc3.kku.ac.th
+sky5.kku.ac.th
+phupan.kku.ac.th
+hno.kku.ac.th
+staff16.en.kku.ac.th
+webapp.kku.ac.th
+comlab9.en.kku.ac.th
+industrial1.en.kku.ac.th
+arbp.kku.ac.th
+poy.kku.ac.th
+enit.kku.ac.th
+weather.kku.ac.th
+www.hrnetwork.kku.ac.th
+scst1.kku.ac.th
+hsintern-dev.kku.ac.th
+ikku-auth.kku.ac.th
+lib27.kku.ac.th
+gsbooks.gs.kku.ac.th
+key.kku.ac.th
+api.queue.enit.kku.ac.th
+envi16.en.kku.ac.th
+erth8.kku.ac.th
+ee6.en.kku.ac.th
+intra29.kku.ac.th
+procci.kku.ac.th
+biochem.md.kku.ac.th
+comlab31.en.kku.ac.th
+comlab35.en.kku.ac.th
+smdreg.kku.ac.th
+db4.en.kku.ac.th
+webmail.nkc.kku.ac.th
+wind7.kku.ac.th
+infection-control.kku.ac.th
+erth9.kku.ac.th
+e-md.kku.ac.th
+fmis.kku.ac.th
+gear17.en.kku.ac.th
+www.radiology.kku.ac.th
+kku-uni119115.kku.ac.th
+comlab23.en.kku.ac.th
+scst7.kku.ac.th
+www.pbrcsa.kku.ac.th
+phou.kku.ac.th
+dtkku2019.kku.ac.th
+agri14.en.kku.ac.th
+english.kku.ac.th
+satitnkc.kku.ac.th
+ceclub.kku.ac.th
+lib.kku.ac.th
+password.kku.ac.th
+dms.kku.ac.th
+media.en.kku.ac.th
+planinfo.kku.ac.th
+nagios.kku.ac.th
+civil12.en.kku.ac.th
+dc1500.kku.ac.th
+phonedirectory.kku.ac.th
+www.ac.kku.ac.th
+agri2.en.kku.ac.th
+scc3.kku.ac.th
+fund.enit.kku.ac.th
+edtech.kku.ac.th
+lms.en.kku.ac.th
+www.physics.kku.ac.th
+adfs.kku.ac.th
+jaders.kku.ac.th
+it.kku.ac.th
+checkin.enit.kku.ac.th
+industrial12.en.kku.ac.th
+sci-scholar.kku.ac.th
+qnap-12tb.kku.ac.th
+scc2.kku.ac.th
+libdev2.kku.ac.th
+libkm.kku.ac.th
+emerging.kku.ac.th
+chemalumni.kku.ac.th
+la.kku.ac.th
+autodiscover.kku.ac.th
+ag.kku.ac.th
+ejournal.kku.ac.th
+researchph.kku.ac.th
+hi-md.kku.ac.th
+biology.kku.ac.th
+agecon.kku.ac.th
+mirror.kku.ac.th
+personweb.kku.ac.th
+opcx06.kku.ac.th
+ortho1.md.kku.ac.th
+cmis.kku.ac.th
+digiclass-lms.kku.ac.th
+ams2.kku.ac.th
+app.en.kku.ac.th
+netusage.kku.ac.th
+envi4.en.kku.ac.th
+marathon.kku.ac.th
+profile.kku.ac.th
+portal2.kku.ac.th
+ie.en.kku.ac.th
+coeservice.en.kku.ac.th
+dpa-dev.kku.ac.th
+tech2.en.kku.ac.th
+36ams.kku.ac.th
+radfup.kku.ac.th
+aidskku.kku.ac.th
+anaes.md.kku.ac.th
+kst.kku.ac.th
+campus.en.kku.ac.th
+ee7.en.kku.ac.th
+fup.kku.ac.th
+noc.kku.ac.th
+guff5.kku.ac.th
+cogtech.kku.ac.th
+intra19.kku.ac.th
+ironport.kku.ac.th
+industrial4.en.kku.ac.th
+nac12.kku.ac.th
+civil16.en.kku.ac.th
+mis-dev.kku.ac.th
+rev-proxy-b.kku.ac.th
+proverty.kku.ac.th
+tung.kku.ac.th
+chatter.en.kku.ac.th
+scc10.kku.ac.th
+staff7.en.kku.ac.th
+mino5.kku.ac.th
+esap.kku.ac.th
+www.medicalrecords.kku.ac.th
+home.kku.ac.th
+dhcp-236.en.kku.ac.th
+www.learning.smd.kku.ac.th
+cscd.kku.ac.th
+res-scholar.kku.ac.th
+bwquota.kku.ac.th
+civil14.en.kku.ac.th
+std.kku.ac.th
+illustrat.md.kku.ac.th
+lib17.kku.ac.th
+eap.kku.ac.th
+cache100.kku.ac.th
+degas.com.en.kku.ac.th
+hpc.en.kku.ac.th
+kkumedx.md.kku.ac.th
+isanshow.kku.ac.th
+fews2014.kku.ac.th
+backend.kku.ac.th
+mdi.kku.ac.th
+staff18.en.kku.ac.th
+entv.en.kku.ac.th
+huso.kku.ac.th
+zap10.kku.ac.th
+ams-academic.kku.ac.th
+nu-mis.kku.ac.th
+sulu3.kku.ac.th
+industrial15.en.kku.ac.th
+aene.kku.ac.th
+alumni.gs.kku.ac.th
+peep.kku.ac.th
+dfct2019.kku.ac.th
+nac10.kku.ac.th
+mrdm.gs.kku.ac.th
+postgrad.md.kku.ac.th
+amsapplication.kku.ac.th
+englishservices.kku.ac.th
+dlibed.kku.ac.th
+fire7.kku.ac.th
+plan.kku.ac.th
+guff10.kku.ac.th
+sga.kku.ac.th
+anaes1.md.kku.ac.th
+staff11.en.kku.ac.th
+wind10.kku.ac.th
+rnd.kku.ac.th
+parasit.md.kku.ac.th
+uat-ikku-api.kku.ac.th
+sec.satit.kku.ac.th
+autisticsatit.kku.ac.th
+mail.en.kku.ac.th
+amsservice.kku.ac.th
+lts-lib.kku.ac.th
+sulu6.kku.ac.th
+www.sciencepark.kku.ac.th
+vcenter-bit.kku.ac.th
+ams.kku.ac.th
+unifi.kku.ac.th
+cezanne.en.kku.ac.th
+www.hsdb.kku.ac.th
+websis.md.kku.ac.th
+dhcp1.kku.ac.th
+manop.kku.ac.th
+ora2.kku.ac.th
+aggie.kku.ac.th
+kkuclub.kku.ac.th
+testapp.gs.kku.ac.th
+cmdl.kku.ac.th
+icsec2014.cs.kku.ac.th
+eservice.kku.ac.th
+sat.en.kku.ac.th
+selena.en.kku.ac.th
+imm-170.kku.ac.th
+genome.kku.ac.th
+eye.kku.ac.th
+ae.md.kku.ac.th
+epilepsy.kku.ac.th
+rev-proxy-a.kku.ac.th
+isan.kku.ac.th
+van-gogh.en.kku.ac.th
+incbaa.kku.ac.th
+mscooe.kku.ac.th
+buffers.kku.ac.th
+mdeportfolio.kku.ac.th
+cache115.kku.ac.th
+kku-uni11944.kku.ac.th
+docker-dev.kku.ac.th
+ase.kku.ac.th
+astro.kku.ac.th
+computer.kku.ac.th
+loginqt2.kku.ac.th
+neroc.kku.ac.th
+www.localtextile.kku.ac.th
+sipacct.kku.ac.th
+libapps.kku.ac.th
+gecnet.kku.ac.th
+comlab24.en.kku.ac.th
+lib240.kku.ac.th
+ee4.en.kku.ac.th
+gis.kku.ac.th
+erth7.kku.ac.th
+www.primary.satit.kku.ac.th
+e-learningex.kku.ac.th
+homeunit.md.kku.ac.th
+trainuac.kku.ac.th
+mflow.kku.ac.th
+rsdi.kku.ac.th
+oer.kku.ac.th
+geo-nt.kku.ac.th
+hscm.kku.ac.th
+msblog.kku.ac.th
+erth6.kku.ac.th
+envi1.en.kku.ac.th
+zap1.kku.ac.th
+staff14.en.kku.ac.th
+reqw.kku.ac.th
+bms.kku.ac.th
+mech9.en.kku.ac.th
+learning.smd.kku.ac.th
+civil6.en.kku.ac.th
+pin.kku.ac.th
+asms.kku.ac.th
+kku-uni119216.kku.ac.th
+pme44.kku.ac.th
+scius.kku.ac.th
+thailitstudy.kku.ac.th
+ns2.enit.kku.ac.th
+busdec.kku.ac.th
+infojournal.kku.ac.th
+pub.en.kku.ac.th
+rac2.kku.ac.th
+lib252.kku.ac.th
+bayasita.kku.ac.th
+etraining.kku.ac.th
+agri15.en.kku.ac.th
+dme.en.kku.ac.th
+lib233.kku.ac.th
+civil4.en.kku.ac.th
+vmj.kku.ac.th
+isc.kku.ac.th
+adofnet.kku.ac.th
+comlab1.en.kku.ac.th
+i.kku.ac.th
+auto_university.kku.ac.th
+agri9.en.kku.ac.th
+home2.kku.ac.th
+commu.md.kku.ac.th
+comlab26.en.kku.ac.th
+intra28.kku.ac.th
+nac02.kku.ac.th
+class.en.kku.ac.th
+chem7.en.kku.ac.th
+erth1.kku.ac.th
+vcenter-coe.kku.ac.th
+pptps.kku.ac.th
+dorm-dev.kku.ac.th
+scst3.kku.ac.th
+o365.kku.ac.th
+biochem-med.kku.ac.th
+csnm.kku.ac.th
+reg7.kku.ac.th
+kkulib2.kku.ac.th
+servermon.kku.ac.th
+architservice.kku.ac.th
+activerecruit.kku.ac.th
+hpc-b.kku.ac.th
+ppp.kku.ac.th
+amsoffice.kku.ac.th
+mdresearch.kku.ac.th
+intra16.kku.ac.th
+training.kku.ac.th
+somoo.kku.ac.th
+kkusports.kku.ac.th
+powerapp.kku.ac.th
+sacplan.kku.ac.th
+boss.kku.ac.th
+guestmgr.kku.ac.th
+confucius.kku.ac.th
+fa.kku.ac.th
+www.fc.kku.ac.th
+staff4.en.kku.ac.th
+ihrd.kku.ac.th
+gs.kku.ac.th
+digiclass.kku.ac.th
+zap4.kku.ac.th
+sisley.com.en.kku.ac.th
+researchams.kku.ac.th
+ipmo.kku.ac.th
+pe.kku.ac.th
+webmail.kku.ac.th
+foodtechqa.kku.ac.th
+nuresearch.kku.ac.th
+aichhc2017.kku.ac.th
+kku-nt.kku.ac.th
+sotl.kku.ac.th
+intra23.kku.ac.th
+drive.kku.ac.th
+tasks.kku.ac.th
+pharmacology.md.kku.ac.th
+amspro.kku.ac.th
+patho1.md.kku.ac.th
+acro.kku.ac.th
+intra26.kku.ac.th
+cache116.kku.ac.th
+hpc-a.kku.ac.th
+reg6.kku.ac.th
+msel.kku.ac.th
+psychi1.md.kku.ac.th
+chem5.en.kku.ac.th
+rannet.kku.ac.th
+scst10.kku.ac.th
+www.library.kku.ac.th
+arpap.kku.ac.th
+www.satitmo.kku.ac.th
+ns.enit.kku.ac.th
+www.dtoffice.kku.ac.th
+mms6.kku.ac.th
+sky7.kku.ac.th
+comlab11.en.kku.ac.th
+comlab32.en.kku.ac.th
+agri12.en.kku.ac.th
+lord.kku.ac.th
+mis-pd.kku.ac.th
+nac04.kku.ac.th
+ags.kku.ac.th
+mail.kku.ac.th
+personnel.md.kku.ac.th
+office2.en.kku.ac.th
+councilkku.kku.ac.th
+monitor.kku.ac.th
+libtimetable.kku.ac.th
+avs.kku.ac.th
+cascap.kku.ac.th
+aca.kku.ac.th
+print.kku.ac.th
+industrial2.en.kku.ac.th
+lib02.kku.ac.th
+kku-uni11902.kku.ac.th
+envi02.en.kku.ac.th
+inv.enit.kku.ac.th
+chart.library.kku.ac.th
+ikku-backend.kku.ac.th
+libtraining.kku.ac.th
+physio.md.kku.ac.th
+kaenkun.kku.ac.th
+phperson.kku.ac.th
+satitmo.kku.ac.th
+chna.kku.ac.th
+tqf-demo.kku.ac.th
+phir.kku.ac.th
+zap6.kku.ac.th
+chem9.en.kku.ac.th
+dirsync.kku.ac.th
+ee8.en.kku.ac.th
+crimson.en.kku.ac.th
+uat-ikku-auth.kku.ac.th
+ccm.enit.kku.ac.th
+www.kkunews.kku.ac.th
+fire6.kku.ac.th
+scijournal.kku.ac.th
+ienetwork2016.kku.ac.th
+chd.kku.ac.th
+www.cas.kku.ac.th
+www.satit.kku.ac.th
+www.cde.kku.ac.th
+3l-une.kku.ac.th
+far.kku.ac.th
+iqamba.kku.ac.th
+comlab12.en.kku.ac.th
+denthospital.kku.ac.th
+forensicsc.kku.ac.th
+cheqa.kku.ac.th
+ftp.kku.ac.th
+webmail2.kku.ac.th
+x.kku.ac.th
+envi14.en.kku.ac.th
+lib20.kku.ac.th
+web.kku.ac.th
+ee3.en.kku.ac.th
+cache122.kku.ac.th
+ceu.md.kku.ac.th
+loginqt1.kku.ac.th
+cscd2015.kku.ac.th
+ae-alumni.enit.kku.ac.th
+storage.kku.ac.th
+mech10.en.kku.ac.th
+rain.kku.ac.th
+kkugolfclub.kku.ac.th
+lib2.kku.ac.th
+www.lfcrc.kku.ac.th
+comlab29.en.kku.ac.th
+www.champa.kku.ac.th
+kkulib3.kku.ac.th
+my.kku.ac.th
+kkuccbm.kku.ac.th
+nualumni.kku.ac.th
+co-op.kku.ac.th
+library.md.kku.ac.th
+student-clubs.kku.ac.th
+huen-haus.kku.ac.th
+biobank.kku.ac.th
+alumni.cs.kku.ac.th
+scied.kku.ac.th
+www.enit.kku.ac.th
+ped-infect.kku.ac.th
+www.ilearn.kku.ac.th
+daycare.kku.ac.th
+icm.kku.ac.th
+vimut3.kku.ac.th
+congratulations.kku.ac.th
+wifis.kku.ac.th
+chemsci.kku.ac.th
+monet.en.kku.ac.th
+coe.en.kku.ac.th
+web2.md.kku.ac.th
+kkutube.kku.ac.th
+dhcp2.kku.ac.th
+earcome6.kku.ac.th
+husoenglish.kku.ac.th
+cache121.kku.ac.th
+enit-nas-02.enit.kku.ac.th
+meeting-dev.kku.ac.th
+phonebook.kku.ac.th
+mech11.en.kku.ac.th
+phasor.en.kku.ac.th
+nelac.kku.ac.th
+kkueoffice.kku.ac.th
+www2.kku.ac.th
+renoir.en.kku.ac.th
+intra15.kku.ac.th
+physio1.md.kku.ac.th
+comlab2.en.kku.ac.th
+agbiotec.kku.ac.th
+strategy.kku.ac.th
+erth4.kku.ac.th
+studio.kku.ac.th
+kkucc1.kku.ac.th
+fortianalyzer.kku.ac.th
+gradlive.kku.ac.th
+olympiad.kku.ac.th
+autolab.en.kku.ac.th
+scst8.kku.ac.th
+sky4.kku.ac.th
+sky8.kku.ac.th
+alumni.sc.kku.ac.th
+nampong.kku.ac.th
+civil.kku.ac.th
+shaper.kku.ac.th
+mech.kku.ac.th
+envi13.en.kku.ac.th
+nu.kku.ac.th
+technoresearch.kku.ac.th
+erth2.kku.ac.th
+fire5.kku.ac.th
+reg4.kku.ac.th
+modindang.kku.ac.th
+necs.kku.ac.th
+gradhuso.kku.ac.th
+kkucleft.kku.ac.th
+rsd50th.kku.ac.th
+eestaff.en.kku.ac.th
+regiscs.kku.ac.th
+smdstudent.kku.ac.th
+fastdd.kku.ac.th
+academic.kku.ac.th
+eye.md.kku.ac.th
+sc5.kku.ac.th
+pharm.kku.ac.th
+ienc.en.kku.ac.th
+amslib.kku.ac.th
+reg2.kku.ac.th
+inter.en.kku.ac.th
+mdstudent.kku.ac.th
+csperson.kku.ac.th
+library14.en.kku.ac.th
+dns.kku.ac.th
+forms.gs.kku.ac.th
+www.esrg.kku.ac.th
+scst6.kku.ac.th
+tise2015.kku.ac.th
+sarcs.kku.ac.th
+dev-tqf.kku.ac.th
+hospital.md.kku.ac.th
+jet06.kku.ac.th
+club.gs.kku.ac.th
+eestaff.kku.ac.th
+fest.kku.ac.th
+students.md.kku.ac.th
+wwwsc.kku.ac.th
+mis.gs.kku.ac.th
+rs.kpg40.kku.ac.th
+www.kku.ac.th
+intania.kku.ac.th
+pms.library.kku.ac.th
+uptime-critical.kku.ac.th
+acrfa.kku.ac.th
+blynk.kku.ac.th
+lib22.kku.ac.th
+nodered.kku.ac.th
+dashboard.kku.ac.th
+ric.kku.ac.th
+ip.kku.ac.th
+vimut2.kku.ac.th
+mis.cola.kku.ac.th
+parasit1.md.kku.ac.th
+resjournal.kku.ac.th
+www.mech.kku.ac.th
+opcx07.kku.ac.th
+dhcp-229.en.kku.ac.th
+mdir.kku.ac.th
+agri6.en.kku.ac.th
+iro.kku.ac.th
+agri16.en.kku.ac.th
+envi11.en.kku.ac.th
+monet.com.en.kku.ac.th
+www.ncmc.kku.ac.th
+comlab28.en.kku.ac.th
+areastudies.kku.ac.th
+booking.enit.kku.ac.th
+gateway.en.kku.ac.th
+saml.kku.ac.th
+foss.en.kku.ac.th
+envi1.envi.en.kku.ac.th
+wind4.kku.ac.th
+hsintern.kku.ac.th
+guff4.kku.ac.th
+genedu.kku.ac.th
+technology.kku.ac.th
+mech15.en.kku.ac.th
+mail.enit.kku.ac.th
+portal.gs.kku.ac.th
+econalumni.kku.ac.th
+oldcache.kku.ac.th
+nac01.kku.ac.th
+www.sc3.kku.ac.th
+agsg2.kku.ac.th
+fire3.kku.ac.th
+ms.kku.ac.th
+timetrack.kku.ac.th
+intermed.kku.ac.th
+nac15.kku.ac.th
+comlab15.en.kku.ac.th
+mech13.en.kku.ac.th
+wug.kku.ac.th
+dent360.kku.ac.th
+li.kku.ac.th
+cola.kku.ac.th
+books.kku.ac.th
+intra12.kku.ac.th
+ole.kku.ac.th
+www.nedsi.kku.ac.th
+research.kku.ac.th
+library.kku.ac.th
+scst4.kku.ac.th
+civil.en.kku.ac.th
+kta.kku.ac.th
+nhc13.kku.ac.th
+paccon2014.kku.ac.th
+shuttlebus.kku.ac.th
+industrial9.en.kku.ac.th
+kkufess.kku.ac.th
+www.biology.kku.ac.th
+agri5.en.kku.ac.th
+physics.sc.kku.ac.th
+phdph.kku.ac.th
+agri13.en.kku.ac.th
+specialdent.kku.ac.th
+sc2.kku.ac.th
+comlab8.en.kku.ac.th
+nac11.kku.ac.th
+gitlab.en.kku.ac.th
+clickonce.kku.ac.th
+mino9.kku.ac.th
+gad.kku.ac.th
+staff10.en.kku.ac.th
+envi7.en.kku.ac.th
+ora.kku.ac.th
+satit.kku.ac.th
+sso.kku.ac.th
+sky9.kku.ac.th
+vultr-01.kku.ac.th
+nims3.kku.ac.th
+pharmacology.kku.ac.th
+econ.kku.ac.th
+royalmobile-dent.kku.ac.th
+mrtg.kku.ac.th
+programevaluation.kku.ac.th
+civil15.en.kku.ac.th
+www.cme.kku.ac.th
+agri1.en.kku.ac.th
+ns1.md.kku.ac.th
+kku780.kku.ac.th
+reg-api02.kku.ac.th
+reg-smd.kku.ac.th
+reg.kku.ac.th
+tech1.en.kku.ac.th
+dcc.kku.ac.th
+eddb.kku.ac.th
+shee.kku.ac.th
+openproject.kku.ac.th
+th.kku.ac.th
+it-nurse.kku.ac.th
+ntp.kku.ac.th
+mcux03.kku.ac.th
+staff17.en.kku.ac.th
+dcert.kku.ac.th
+wind5.kku.ac.th
+ilti-portal1.kku.ac.th

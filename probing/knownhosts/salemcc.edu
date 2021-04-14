@@ -1,32 +1,10 @@
-NXDOMAIN	sccsrv-exc04.salemcc.edu
-NOERROR	webmail.salemcc.edu
-NXDOMAIN	chp.salemcc.edu
-NXDOMAIN	vpa.salemcc.edu
-NOERROR	www.salemcc.edu
-NXDOMAIN	www.sso.salemcc.edu
-NXDOMAIN	myscc.salemcc.edu
-NXDOMAIN	sccpwreg.salemcc.edu
-NOERROR	self-service.salemcc.edu
-NXDOMAIN	www.webmail.salemcc.edu
-NXDOMAIN	www.helpdesk.salemcc.edu
-NXDOMAIN	www.self-service.salemcc.edu
-NOERROR	pwreset.salemcc.edu
-NXDOMAIN	www.fs.salemcc.edu
-NOERROR	mail.salemcc.edu
-NXDOMAIN	helpdesk.salemcc.edu
-NXDOMAIN	www.chp.salemcc.edu
-NXDOMAIN	ns1.salemcc.edu
-NOERROR	email.students.salemcc.edu
-NXDOMAIN	www.sccpwreg.salemcc.edu
-NXDOMAIN	pwportal.salemcc.edu
-NXDOMAIN	email01.salemcc.edu
-NOERROR	ww2.salemcc.edu
-NXDOMAIN	legacy.salemcc.edu
-NOERROR	salemcc.edu
-NXDOMAIN	www.pwreset.salemcc.edu
-NOERROR	autodiscover.salemcc.edu
-NXDOMAIN	fs.salemcc.edu
-NXDOMAIN	webct.salemcc.edu
-NXDOMAIN	w.salemcc.edu
-NOERROR	sso.salemcc.edu
-NXDOMAIN	testweb.salemcc.edu
+webmail.salemcc.edu
+www.salemcc.edu
+self-service.salemcc.edu
+pwreset.salemcc.edu
+mail.salemcc.edu
+email.students.salemcc.edu
+ww2.salemcc.edu
+salemcc.edu
+autodiscover.salemcc.edu
+sso.salemcc.edu

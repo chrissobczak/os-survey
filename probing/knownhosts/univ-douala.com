@@ -1,9 +1,9 @@
-NOERROR	www.univ-douala.com
-NOERROR	cpcalendars.univ-douala.com
-NOERROR	univ-douala.com
-NOERROR	cpanel.univ-douala.com
-NOERROR	autodiscover.univ-douala.com
-NOERROR	cpcontacts.univ-douala.com
-NOERROR	webdisk.univ-douala.com
-NOERROR	mail.univ-douala.com
-NOERROR	webmail.univ-douala.com
+www.univ-douala.com
+cpcalendars.univ-douala.com
+univ-douala.com
+cpanel.univ-douala.com
+autodiscover.univ-douala.com
+cpcontacts.univ-douala.com
+webdisk.univ-douala.com
+mail.univ-douala.com
+webmail.univ-douala.com

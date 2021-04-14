@@ -1,5 +1,5 @@
-NOERROR	prom.sapanet.ru
-NOERROR	mail.sapanet.ru
-NOERROR	promdz.sapanet.ru
-NOERROR	www.sapanet.ru
-NOERROR	sapanet.ru
+prom.sapanet.ru
+mail.sapanet.ru
+promdz.sapanet.ru
+www.sapanet.ru
+sapanet.ru

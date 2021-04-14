@@ -1,41 +1,37 @@
-NOERROR	student.aabu.edu.jo
-NOERROR	exam4.aabu.edu.jo
-NOERROR	exam2.aabu.edu.jo
-NXDOMAIN	www.student.aabu.edu.jo
-NOERROR	git.aabu.edu.jo
-NXDOMAIN	www.web2.aabu.edu.jo
-NXDOMAIN	azure.aabu.edu.jo
-NOERROR	learning.aabu.edu.jo
-NOERROR	repository.aabu.edu.jo
-NOERROR	aabu.edu.jo
-NOERROR	mail2.aabu.edu.jo
-NOERROR	media.aabu.edu.jo
-NOERROR	proxy.aabu.edu.jo
-NOERROR	test.aabu.edu.jo
-NOERROR	800.aabu.edu.jo
-NOERROR	alalbayt.aabu.edu.jo
-NOERROR	repristary.aabu.edu.jo
-NOERROR	demo.aabu.edu.jo
-NOERROR	w.w.w.aabu.edu.jo
-NOERROR	mail.aabu.edu.jo
-NOERROR	elearn.aabu.edu.jo
-NOERROR	reprository.aabu.edu.jo
-NOERROR	student2.aabu.edu.jo
-NOERROR	itlearning.aabu.edu.jo
-NOERROR	www2.aabu.edu.jo
-SERVFAIL	it.aabu.edu.jo
-NOERROR	web2.aabu.edu.jo
-NOERROR	exam3.aabu.edu.jo
-NOERROR	exam.aabu.edu.jo
-NOERROR	albayt1.aabu.edu.jo
-NOERROR	vpn.aabu.edu.jo
-NOERROR	www.aabu.edu.jo
-NOERROR	elearning.aabu.edu.jo
-NOERROR	studentsmarks.aabu.edu.jo
-NOERROR	lbayt1.aabu.edu.jo
-NOERROR	demo2.aabu.edu.jo
-NOERROR	mail.stdemails.aabu.edu.jo
-NOERROR	mail.developers.aabu.edu.jo
-NOERROR	www.aabu.aabu.edu.jo
-NOERROR	demo2019.aabu.edu.jo
-NOERROR	aabufm.aabu.edu.jo
+student.aabu.edu.jo
+exam4.aabu.edu.jo
+exam2.aabu.edu.jo
+git.aabu.edu.jo
+learning.aabu.edu.jo
+repository.aabu.edu.jo
+aabu.edu.jo
+mail2.aabu.edu.jo
+media.aabu.edu.jo
+proxy.aabu.edu.jo
+test.aabu.edu.jo
+800.aabu.edu.jo
+alalbayt.aabu.edu.jo
+repristary.aabu.edu.jo
+demo.aabu.edu.jo
+w.w.w.aabu.edu.jo
+mail.aabu.edu.jo
+elearn.aabu.edu.jo
+reprository.aabu.edu.jo
+student2.aabu.edu.jo
+itlearning.aabu.edu.jo
+www2.aabu.edu.jo
+web2.aabu.edu.jo
+exam3.aabu.edu.jo
+exam.aabu.edu.jo
+albayt1.aabu.edu.jo
+vpn.aabu.edu.jo
+www.aabu.edu.jo
+elearning.aabu.edu.jo
+studentsmarks.aabu.edu.jo
+lbayt1.aabu.edu.jo
+demo2.aabu.edu.jo
+mail.stdemails.aabu.edu.jo
+mail.developers.aabu.edu.jo
+www.aabu.aabu.edu.jo
+demo2019.aabu.edu.jo
+aabufm.aabu.edu.jo

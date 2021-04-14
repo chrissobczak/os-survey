@@ -1,232 +1,125 @@
-NXDOMAIN	livesso.uwic.ac.uk
-NOERROR	www.jstor.org.ezproxy.uwic.ac.uk
-NXDOMAIN	ecimis.uwic.ac.uk
-NOERROR	adeweb.uwic.ac.uk
-NXDOMAIN	theses.uwic.ac.uk
-NXDOMAIN	humankinetics.uwic.ac.uk
-NOERROR	agressotest.uwic.ac.uk
-NOERROR	libweb.uwic.ac.uk
-NOERROR	download.springer.com.ezproxy.uwic.ac.uk
-NOERROR	cqx.sagepub.com.ezproxy.uwic.ac.uk
-NOERROR	www.palgrave-journals.com.ezproxy.uwic.ac.uk
-NXDOMAIN	uwicsws.uwic.ac.uk
-NXDOMAIN	nielsenbookdata.uwic.ac.uk
-NOERROR	timetabling.uwic.ac.uk
-SERVFAIL	vmliverds4.internal.uwic.ac.uk
-NOERROR	search.uwic.ac.uk
-NXDOMAIN	mailserv2.uwic.ac.uk
-NOERROR	jir.sagepub.com.ezproxy.uwic.ac.uk
-SERVFAIL	pfguestcy01.internal.uwic.ac.uk
-NOERROR	www.keynote.co.uk.ezproxy.uwic.ac.uk
-NXDOMAIN	uwicnet.uwic.ac.uk
-NOERROR	mcs.sagepub.com.ezproxy.uwic.ac.uk
-SERVFAIL	mailcy01.internal.uwic.ac.uk
-NOERROR	www.webandprintskills.uwic.ac.uk
-NXDOMAIN	uctalis.uwic.ac.uk
-NOERROR	vls.uwic.ac.uk
-NOERROR	onlinelibrary.wiley.com.ezproxy.uwic.ac.uk
-NOERROR	sw.oxfordjournals.org.ezproxy.uwic.ac.uk
-NOERROR	web.uwic.ac.uk
-NOERROR	tempus.uwic.ac.uk
-NOERROR	www.swetswise.com.ezproxy.uwic.ac.uk
-SERVFAIL	cisliveapp.internal.uwic.ac.uk
-NOERROR	openurl.ebscohost.com.ezproxy.uwic.ac.uk
-NOERROR	www.tandfonline.com.ezproxy.uwic.ac.uk
-NOERROR	www.emeraldinsight.com.ezproxy.uwic.ac.uk
-NOERROR	finearts-research.uwic.ac.uk
-NOERROR	email.uwic.ac.uk
-SERVFAIL	adfs03.internal.uwic.ac.uk
-NOERROR	teamsites.uwic.ac.uk
-NXDOMAIN	greg95.uwic.ac.uk
-NOERROR	www.sciencedirect.com.ezproxy.uwic.ac.uk
-NXDOMAIN	bbdev.uwic.ac.uk
-NOERROR	llex02.uwic.ac.uk
-NOERROR	hallsnet.uwic.ac.uk
-NOERROR	imap.uwic.ac.uk
-NOERROR	www.citethemrightonline.com.ezproxy.uwic.ac.uk
-NOERROR	eltj.oxfordjournals.org.ezproxy.uwic.ac.uk
-NXDOMAIN	netman.uwic.ac.uk
-NXDOMAIN	www.t12.uwic.ac.uk
-NXDOMAIN	vle1.uwic.ac.uk
-SERVFAIL	pfguestdev.internal.uwic.ac.uk
-SERVFAIL	pfguest.internal.uwic.ac.uk
-NXDOMAIN	checkbox.uwic.ac.uk
-SERVFAIL	adfs02.internal.uwic.ac.uk
-NOERROR	research.uwic.ac.uk
-NXDOMAIN	autodiscover.uwic.ac.uk
-NOERROR	login.ezproxy.uwic.ac.uk
-SERVFAIL	pfeducy01.internal.uwic.ac.uk
-NXDOMAIN	locate.uwic.ac.uk
-NOERROR	academic.mintel.com.ezproxy.uwic.ac.uk
-NOERROR	ezproxy.uwic.ac.uk
-NOERROR	eaq.sagepub.com.ezproxy.uwic.ac.uk
-SERVFAIL	vmliverds1.internal.uwic.ac.uk
-NXDOMAIN	whoweb.uwic.ac.uk
-NOERROR	wes.sagepub.com.ezproxy.uwic.ac.uk
-NXDOMAIN	edsweb.uwic.ac.uk
-NOERROR	web.a.ebscohost.com.ezproxy.uwic.ac.uk
-NXDOMAIN	mailserv2tmp.uwic.ac.uk
-SERVFAIL	cisdevapp.internal.uwic.ac.uk
-NXDOMAIN	anywhere.uwic.ac.uk
-NXDOMAIN	bopcris.uwic.ac.uk
-SERVFAIL	automation.internal.uwic.ac.uk
-NOERROR	lion.chadwyck.co.uk.ezproxy.uwic.ac.uk
-NOERROR	bjsw.oxfordjournals.org.ezproxy.uwic.ac.uk
-NXDOMAIN	fundingoppscos.uwic.ac.uk
-NXDOMAIN	mysites.staff.dev.uwic.ac.uk
-NOERROR	www.uwic.ac.uk
-NXDOMAIN	co2041.uwic.ac.uk
-NOERROR	staffportal.uwic.ac.uk
-NOERROR	business.uwic.ac.uk
-NOERROR	web.ebscohost.com.ezproxy.uwic.ac.uk
-NOERROR	artwales.uwic.ac.uk
-NOERROR	dl.acm.org.ezproxy.uwic.ac.uk
-NOERROR	vle.uwic.ac.uk
-NOERROR	ns2.uwic.ac.uk
-NOERROR	portal.uwic.ac.uk
-NOERROR	psr.sagepub.com.ezproxy.uwic.ac.uk
-NOERROR	blfweb.uwic.ac.uk
-NOERROR	studentportal.uwic.ac.uk
-NOERROR	adobeconnect.uwic.ac.uk
-NXDOMAIN	chsweb.uwic.ac.uk
-NOERROR	vle2.uwic.ac.uk
-NOERROR	extwww.uwic.ac.uk
-NOERROR	mysites.staff.uwic.ac.uk
-NXDOMAIN	idp.uwic.ac.uk
-NOERROR	gdainty.uwic.ac.uk
-NOERROR	www.uwicarchers.uwic.ac.uk
-NOERROR	studentselfservice.uwic.ac.uk
-NOERROR	journals.cambridge.org.ezproxy.uwic.ac.uk
-NOERROR	isdweb.uwic.ac.uk
-SERVFAIL	autodiscover.internal.uwic.ac.uk
-SERVFAIL	pv-cy-mbx-01.internal.uwic.ac.uk
-NOERROR	mx1.uwic.ac.uk
-NOERROR	ijlit.oxfordjournals.org.ezproxy.uwic.ac.uk
-NXDOMAIN	lines0.uwic.ac.uk
-NXDOMAIN	www.dfim.uwic.ac.uk
-SERVFAIL	pv-ll-mbx-01.internal.uwic.ac.uk
-NOERROR	search.proquest.com.ezproxy.uwic.ac.uk
-NXDOMAIN	ftp.uwic.ac.uk
-SERVFAIL	e2k10cas2.internal.uwic.ac.uk
-NOERROR	tsr.uwic.ac.uk
-NOERROR	mysites.student.uwic.ac.uk
-NOERROR	staffemail.uwic.ac.uk
-NOERROR	webandprintskills.uwic.ac.uk
-NOERROR	www.chse.uwic.ac.uk
-NOERROR	webpayments.uwic.ac.uk
-SERVFAIL	pfedull02.internal.uwic.ac.uk
-SERVFAIL	e2k10fe.internal.uwic.ac.uk
-SERVFAIL	pfguestll01.internal.uwic.ac.uk
-SERVFAIL	e2k1602.internal.uwic.ac.uk
-NOERROR	llex01.uwic.ac.uk
-NOERROR	studentemail.uwic.ac.uk
-NOERROR	ovidsp.tx.ovid.com.ezproxy.uwic.ac.uk
-NXDOMAIN	learn.uwic.ac.uk
-NOERROR	jvm.sagepub.com.ezproxy.uwic.ac.uk
-NXDOMAIN	ltdweb.uwic.ac.uk
-NOERROR	mahara.uwic.ac.uk
-NOERROR	www.csad.uwic.ac.uk
-NXDOMAIN	interaction.uwic.ac.uk
-NOERROR	ilj.oxfordjournals.org.ezproxy.uwic.ac.uk
-NXDOMAIN	coursediscoveronline.uwic.ac.uk
-NXDOMAIN	student.dev.uwic.ac.uk
-NOERROR	timebased.uwic.ac.uk
-NOERROR	student.uwic.ac.uk
-NXDOMAIN	mailserv1.uwic.ac.uk
-NOERROR	web.b.ebscohost.com.ezproxy.uwic.ac.uk
-SERVFAIL	cisdevweb.internal.uwic.ac.uk
-NOERROR	intwww.uwic.ac.uk
-NOERROR	news.uwic.ac.uk
-NXDOMAIN	blackboard.uwic.ac.uk
-NOERROR	mobile.uwic.ac.uk
-NXDOMAIN	lisweb.uwic.ac.uk
-NXDOMAIN	survey.uwic.ac.uk
-NOERROR	vlsupload.uwic.ac.uk
-NOERROR	ns1.uwic.ac.uk
-NXDOMAIN	external.uwic.ac.uk
-NOERROR	www.tempus.uwic.ac.uk
-NXDOMAIN	tl4.uwic.ac.uk
-NOERROR	isa12.uwic.ac.uk
-NXDOMAIN	tl2.uwic.ac.uk
-NXDOMAIN	idptest.uwic.ac.uk
-NXDOMAIN	www.natfocus.uwic.ac.uk
-SERVFAIL	pfence03.internal.uwic.ac.uk
-NXDOMAIN	mailserv.uwic.ac.uk
-NOERROR	preprodself.uwic.ac.uk
-SERVFAIL	e2k10cas1.internal.uwic.ac.uk
-NOERROR	dx.doi.org.ezproxy.uwic.ac.uk
-NOERROR	csad.uwic.ac.uk
-NOERROR	go.galegroup.com.ezproxy.uwic.ac.uk
-SERVFAIL	adfs01.internal.uwic.ac.uk
-SERVFAIL	pfedull01.internal.uwic.ac.uk
-NXDOMAIN	studprodwebservices.uwic.ac.uk
-NOERROR	staffpwp.uwic.ac.uk
-NOERROR	cpa.uwic.ac.uk
-NXDOMAIN	linmono.uwic.ac.uk
-NOERROR	outlook.uwic.ac.uk
-NOERROR	stuprodwebservices.uwic.ac.uk
-NXDOMAIN	mysites.student.dev.uwic.ac.uk
-NXDOMAIN	3.uwic.ac.uk
-NOERROR	www.ihsti.com.ezproxy.uwic.ac.uk
-NOERROR	ajs.sagepub.com.ezproxy.uwic.ac.uk
-NOERROR	smtp1.uwic.ac.uk
-NXDOMAIN	isa.uwic.ac.uk
-NOERROR	ns4.uwic.ac.uk
-NXDOMAIN	studentpreprod.uwic.ac.uk
-SERVFAIL	pfeducy02.internal.uwic.ac.uk
-NOERROR	helix.uwic.ac.uk
-NXDOMAIN	businet.uwic.ac.uk
-SERVFAIL	e2k1601.internal.uwic.ac.uk
-NXDOMAIN	tl6.uwic.ac.uk
-NXDOMAIN	idplogos.uwic.ac.uk
-SERVFAIL	vmliverds3.internal.uwic.ac.uk
-NXDOMAIN	arcserv01.uwic.ac.uk
-NXDOMAIN	lines.uwic.ac.uk
-NOERROR	moodle.uwic.ac.uk
-NOERROR	repository.uwic.ac.uk
-NXDOMAIN	lisportal.uwic.ac.uk
-NXDOMAIN	www.mail.uwic.ac.uk
-SERVFAIL	vmliverds2.internal.uwic.ac.uk
-NOERROR	www.su.uwic.ac.uk
-NOERROR	mx2.uwic.ac.uk
-NOERROR	cardiffceramics.uwic.ac.uk
-NOERROR	link.springer.com.ezproxy.uwic.ac.uk
-NOERROR	www-scopus-com.ezproxy.uwic.ac.uk
-NOERROR	www.cardiffceramics.uwic.ac.uk
-NOERROR	bjsm.bmj.com.ezproxy.uwic.ac.uk
-NXDOMAIN	athensda.uwic.ac.uk
-NOERROR	jstor.org.ezproxy.uwic.ac.uk
-NXDOMAIN	staffportal.dev.uwic.ac.uk
-NOERROR	openftp.uwic.ac.uk
-NXDOMAIN	www3.uwic.ac.uk
-NXDOMAIN	preprodweb.uwic.ac.uk
-NXDOMAIN	collab.uwic.ac.uk
-NXDOMAIN	www2.uwic.ac.uk
-NXDOMAIN	ulrichsweb.uwic.ac.uk
-NXDOMAIN	cabdirect.uwic.ac.uk
-NOERROR	pdn.sciencedirect.com.ezproxy.uwic.ac.uk
-NOERROR	uwicarchers.uwic.ac.uk
-NXDOMAIN	www.healthchem.uwic.ac.uk
-NOERROR	jama.jamanetwork.com.ezproxy.uwic.ac.uk
-NXDOMAIN	mailserv3.uwic.ac.uk
-SERVFAIL	pfence.internal.uwic.ac.uk
-NOERROR	ns3.uwic.ac.uk
-NXDOMAIN	bb.uwic.ac.uk
-NXDOMAIN	checkboxext.uwic.ac.uk
-NOERROR	site.ebrary.com.ezproxy.uwic.ac.uk
-NXDOMAIN	aphrodite.uwic.ac.uk
-NOERROR	rsh.sagepub.com.ezproxy.uwic.ac.uk
-NOERROR	jht.sagepub.com.ezproxy.uwic.ac.uk
-NOERROR	staff.uwic.ac.uk
-NOERROR	infoweb.newsbank.com.ezproxy.uwic.ac.uk
-SERVFAIL	adfs04.internal.uwic.ac.uk
-NXDOMAIN	cbtweb.uwic.ac.uk
-NOERROR	f17653.uwic.ac.uk
-NXDOMAIN	hybrid.uwic.ac.uk
-NXDOMAIN	wwwnew.uwic.ac.uk
-NXDOMAIN	antivirus.uwic.ac.uk
-NOERROR	rac.sagepub.com.ezproxy.uwic.ac.uk
-NOERROR	isb.sagepub.com.ezproxy.uwic.ac.uk
-NXDOMAIN	itservices.uwic.ac.uk
-NOERROR	fl6ce2au8w.search.serialssolutions.com.ezproxy.uwic.ac.uk
-NOERROR	uwic.ac.uk
+www.jstor.org.ezproxy.uwic.ac.uk
+adeweb.uwic.ac.uk
+agressotest.uwic.ac.uk
+libweb.uwic.ac.uk
+download.springer.com.ezproxy.uwic.ac.uk
+cqx.sagepub.com.ezproxy.uwic.ac.uk
+www.palgrave-journals.com.ezproxy.uwic.ac.uk
+timetabling.uwic.ac.uk
+search.uwic.ac.uk
+jir.sagepub.com.ezproxy.uwic.ac.uk
+www.keynote.co.uk.ezproxy.uwic.ac.uk
+mcs.sagepub.com.ezproxy.uwic.ac.uk
+www.webandprintskills.uwic.ac.uk
+vls.uwic.ac.uk
+onlinelibrary.wiley.com.ezproxy.uwic.ac.uk
+sw.oxfordjournals.org.ezproxy.uwic.ac.uk
+web.uwic.ac.uk
+tempus.uwic.ac.uk
+www.swetswise.com.ezproxy.uwic.ac.uk
+openurl.ebscohost.com.ezproxy.uwic.ac.uk
+www.tandfonline.com.ezproxy.uwic.ac.uk
+www.emeraldinsight.com.ezproxy.uwic.ac.uk
+finearts-research.uwic.ac.uk
+email.uwic.ac.uk
+teamsites.uwic.ac.uk
+www.sciencedirect.com.ezproxy.uwic.ac.uk
+llex02.uwic.ac.uk
+hallsnet.uwic.ac.uk
+imap.uwic.ac.uk
+www.citethemrightonline.com.ezproxy.uwic.ac.uk
+eltj.oxfordjournals.org.ezproxy.uwic.ac.uk
+research.uwic.ac.uk
+login.ezproxy.uwic.ac.uk
+academic.mintel.com.ezproxy.uwic.ac.uk
+ezproxy.uwic.ac.uk
+eaq.sagepub.com.ezproxy.uwic.ac.uk
+wes.sagepub.com.ezproxy.uwic.ac.uk
+web.a.ebscohost.com.ezproxy.uwic.ac.uk
+lion.chadwyck.co.uk.ezproxy.uwic.ac.uk
+bjsw.oxfordjournals.org.ezproxy.uwic.ac.uk
+www.uwic.ac.uk
+staffportal.uwic.ac.uk
+business.uwic.ac.uk
+web.ebscohost.com.ezproxy.uwic.ac.uk
+artwales.uwic.ac.uk
+dl.acm.org.ezproxy.uwic.ac.uk
+vle.uwic.ac.uk
+ns2.uwic.ac.uk
+portal.uwic.ac.uk
+psr.sagepub.com.ezproxy.uwic.ac.uk
+blfweb.uwic.ac.uk
+studentportal.uwic.ac.uk
+adobeconnect.uwic.ac.uk
+vle2.uwic.ac.uk
+extwww.uwic.ac.uk
+mysites.staff.uwic.ac.uk
+gdainty.uwic.ac.uk
+www.uwicarchers.uwic.ac.uk
+studentselfservice.uwic.ac.uk
+journals.cambridge.org.ezproxy.uwic.ac.uk
+isdweb.uwic.ac.uk
+mx1.uwic.ac.uk
+ijlit.oxfordjournals.org.ezproxy.uwic.ac.uk
+search.proquest.com.ezproxy.uwic.ac.uk
+tsr.uwic.ac.uk
+mysites.student.uwic.ac.uk
+staffemail.uwic.ac.uk
+webandprintskills.uwic.ac.uk
+www.chse.uwic.ac.uk
+webpayments.uwic.ac.uk
+llex01.uwic.ac.uk
+studentemail.uwic.ac.uk
+ovidsp.tx.ovid.com.ezproxy.uwic.ac.uk
+jvm.sagepub.com.ezproxy.uwic.ac.uk
+mahara.uwic.ac.uk
+www.csad.uwic.ac.uk
+ilj.oxfordjournals.org.ezproxy.uwic.ac.uk
+timebased.uwic.ac.uk
+student.uwic.ac.uk
+web.b.ebscohost.com.ezproxy.uwic.ac.uk
+intwww.uwic.ac.uk
+news.uwic.ac.uk
+mobile.uwic.ac.uk
+vlsupload.uwic.ac.uk
+ns1.uwic.ac.uk
+www.tempus.uwic.ac.uk
+isa12.uwic.ac.uk
+preprodself.uwic.ac.uk
+dx.doi.org.ezproxy.uwic.ac.uk
+csad.uwic.ac.uk
+go.galegroup.com.ezproxy.uwic.ac.uk
+staffpwp.uwic.ac.uk
+cpa.uwic.ac.uk
+outlook.uwic.ac.uk
+stuprodwebservices.uwic.ac.uk
+www.ihsti.com.ezproxy.uwic.ac.uk
+ajs.sagepub.com.ezproxy.uwic.ac.uk
+smtp1.uwic.ac.uk
+ns4.uwic.ac.uk
+helix.uwic.ac.uk
+moodle.uwic.ac.uk
+repository.uwic.ac.uk
+www.su.uwic.ac.uk
+mx2.uwic.ac.uk
+cardiffceramics.uwic.ac.uk
+link.springer.com.ezproxy.uwic.ac.uk
+www-scopus-com.ezproxy.uwic.ac.uk
+www.cardiffceramics.uwic.ac.uk
+bjsm.bmj.com.ezproxy.uwic.ac.uk
+jstor.org.ezproxy.uwic.ac.uk
+openftp.uwic.ac.uk
+pdn.sciencedirect.com.ezproxy.uwic.ac.uk
+uwicarchers.uwic.ac.uk
+jama.jamanetwork.com.ezproxy.uwic.ac.uk
+ns3.uwic.ac.uk
+site.ebrary.com.ezproxy.uwic.ac.uk
+rsh.sagepub.com.ezproxy.uwic.ac.uk
+jht.sagepub.com.ezproxy.uwic.ac.uk
+staff.uwic.ac.uk
+infoweb.newsbank.com.ezproxy.uwic.ac.uk
+f17653.uwic.ac.uk
+rac.sagepub.com.ezproxy.uwic.ac.uk
+isb.sagepub.com.ezproxy.uwic.ac.uk
+fl6ce2au8w.search.serialssolutions.com.ezproxy.uwic.ac.uk
+uwic.ac.uk

@@ -1,338 +1,303 @@
-NOERROR	pizarro.fll.urv.es
-NOERROR	qa-19.urv.es
-NOERROR	qa-3.urv.es
-NOERROR	taz.etse.urv.es
-NOERROR	wtmp201.urv.es
-NOERROR	ftp.etse.urv.es
-NOERROR	pec-dpedago.urv.es
-NOERROR	vsph2-sc2.urv.es
-NOERROR	www.ice.urv.es
-NOERROR	secdbioq.fq.urv.es
-NOERROR	sysdb.urv.es
-NOERROR	carboni.fq.urv.es
-NOERROR	zeta.fll.urv.es
-NOERROR	pometa.urv.es
-NOERROR	planck.urv.es
-NOERROR	hostjoan05.urv.es
-NOERROR	ninsus.fll.urv.es
-NOERROR	climatic.fll.urv.es
-NOERROR	wtmp207.urv.es
-NXDOMAIN	lw-qf.urv.es
-NOERROR	glorieta.fcep.urv.es
-NXDOMAIN	cs.urv.es
-NOERROR	qa-30.fq.urv.es
-NOERROR	wwwa.urv.es
-NOERROR	dns4.urv.es
-NXDOMAIN	xterm-a4.urv.es
-NXDOMAIN	auleslliureacces.urv.es
-NOERROR	jocapqua.urv.es
-NOERROR	urv-gw.urv.es
-NOERROR	dns.urv.es
-NOERROR	hostjoan13.urv.es
-NOERROR	wtmp243.urv.es
-NXDOMAIN	www.ework.urv.es
-NOERROR	srect.urv.es
-NOERROR	wis.urv.es
-NOERROR	dafits.urv.es
-NOERROR	vsph3.urv.es
-NOERROR	mta04.urv.es
-NOERROR	poma2.urv.es
-NOERROR	qo-5.urv.es
-NOERROR	adfcat.fll.urv.es
-NOERROR	wtmp200.urv.es
-NOERROR	cinz.fll.urv.es
-NOERROR	qa-20.urv.es
-NOERROR	aaform.urv.es
-NOERROR	sesport.urv.es
-NOERROR	vsph5-vmk.urv.es
-NOERROR	ftp.urv.es
-NOERROR	macatala03.urv.es
-NOERROR	gwa.urv.es
-NOERROR	bohr.urv.es
-NOERROR	webgrec.urv.es
-NOERROR	gate-sc.urv.es
-NOERROR	develop.urv.es
-NOERROR	ast-deim.urv.es
-NOERROR	neptu3.urv.es
-NOERROR	secdfag.fll.urv.es
-NOERROR	hostjoan08.urv.es
-NOERROR	pixie.etse.urv.es
-NOERROR	sauron.etse.urv.es
-NOERROR	hostjoan14.urv.es
-NOERROR	mercuri6.urv.es
-NOERROR	dwhmicro.urv.es
-NOERROR	medcat.urv.es
-NOERROR	wc.urv.es
-NOERROR	seleni.urv.es
-NOERROR	dixie1.urv.es
-NOERROR	etse.urv.es
-NOERROR	neptu4.urv.es
-NOERROR	accremot02.urv.es
-NOERROR	agora-ice.urv.es
-NOERROR	qa-14.urv.es
-NOERROR	buski.urv.es
-NXDOMAIN	www.sred01.serveis.intranet.urv.es
-NOERROR	romario.fll.urv.es
-NOERROR	folk.fll.urv.es
-NXDOMAIN	www.iochem-bd.urv.es
-NOERROR	www.fcee.urv.es
-NOERROR	urv.es
-NXDOMAIN	arxiu.fll.urv.es
-NOERROR	gwb.urv.es
-NOERROR	mta02.urv.es
-NOERROR	genomes.urv.es
-NOERROR	pedagogia.fcep.urv.es
-NOERROR	rdeeea50.etse.urv.es
-NOERROR	cris22.urv.es
-NOERROR	chiki.urv.es
-NOERROR	calag.fll.urv.es
-NOERROR	sim2.urv.es
-NOERROR	get.fcep.urv.es
-NOERROR	hostjoan17.urv.es
-NOERROR	poma3.urv.es
-NXDOMAIN	win32hd.urv.es
-NOERROR	neptu5.urv.es
-NOERROR	crises.etse.urv.es
-NOERROR	pupitre.urv.es
-NXDOMAIN	apqua.astor.urv.es
-NXDOMAIN	sred10.serveis.intranet.urv.es
-NOERROR	wtmp199.urv.es
-NOERROR	iochem-bd.urv.es
-NOERROR	secret.src.urv.es
-NOERROR	etseq.urv.es
-NOERROR	hostjoan10.urv.es
-NOERROR	webgrecdev.urv.es
-NXDOMAIN	bioserver.urv.es
-NOERROR	romani.iua.urv.es
-NOERROR	fundacio.urv.es
-NOERROR	quimic01.fq.urv.es
-NOERROR	www.etseq.urv.es
-NOERROR	sdgh.fll.urv.es
-NOERROR	hostjoan19.urv.es
-NXDOMAIN	xterm-a3.urv.es
-NOERROR	estudiants.urv.es
-NOERROR	pcasoc.urv.es
-NOERROR	qa-13.urv.es
-NOERROR	lan-sic.urv.es
-NOERROR	fa-1.urv.es
-NOERROR	qo-1.urv.es
-NOERROR	qo-3.urv.es
-NOERROR	www.eui.urv.es
-NOERROR	ast2-deim.urv.es
-NOERROR	mta.urv.es
-NOERROR	gmao.urv.es
-NOERROR	accremot01.urv.es
-NOERROR	deeea.urv.es
-NOERROR	filo.fll.urv.es
-NOERROR	qa-4.urv.es
-NOERROR	grusma2.etse.urv.es
-NXDOMAIN	imperial-gw.urv.es
-NOERROR	vsph4-vmk.urv.es
-NOERROR	wis.si.urv.es
-NOERROR	isg.urv.es
-NOERROR	rodi.urv.es
-NOERROR	www.fundacio.urv.es
-NXDOMAIN	sred01.serveis.intranet.urv.es
-NOERROR	vsph3-sc2.urv.es
-NOERROR	argo.urv.es
-NOERROR	lletre04.fll.urv.es
-NOERROR	macblanc.urv.es
-NXDOMAIN	xterm-a5.urv.es
-NOERROR	polymers.urv.es
-NOERROR	mercuri2.urv.es
-NOERROR	qi-1.urv.es
-NOERROR	hostjoan01.urv.es
-NOERROR	www.quimica.urv.es
-NOERROR	hostjoan18.urv.es
-NOERROR	dbs3.urv.es
-NOERROR	qa-16.urv.es
-NOERROR	fenix.urv.es
-NOERROR	ateum.fll.urv.es
-NOERROR	www.sgr.urv.es
-NOERROR	gamma.fll.urv.es
-NOERROR	www.fmcs.urv.es
-NOERROR	docencia.urv.es
-NOERROR	www.crever.urv.es
-NOERROR	vsph1-sc2.urv.es
-NOERROR	sgew.urv.es
-NOERROR	vsph3-vmk.urv.es
-NOERROR	qo-4.urv.es
-NXDOMAIN	neo.urv.es
-NOERROR	crever.urv.es
-NOERROR	macnegre3.urv.es
-NOERROR	vsph2.urv.es
-NOERROR	qa-7.urv.es
-NOERROR	ws.urv.es
-NXDOMAIN	switchcen.fq.urv.es
-NOERROR	prehistoria.urv.es
-NOERROR	hostjoan20.urv.es
-NOERROR	cicely.etseq.urv.es
-NOERROR	hostjoan03.urv.es
-NOERROR	simulacio.urv.es
-NOERROR	planet.urv.es
-NOERROR	qi-4.urv.es
-NOERROR	mercuri0.urv.es
-NOERROR	vsph5.urv.es
-NOERROR	qa-18.urv.es
-NOERROR	hostjoan04.urv.es
-NOERROR	semhisp2.fll.urv.es
-NOERROR	wtmp245.urv.es
-NXDOMAIN	vcfsre.urv.es
-NOERROR	hostjoan02.urv.es
-NOERROR	sun2.fcep.urv.es
-NOERROR	www.linguistic.urv.es
-NOERROR	accremot.urv.es
-NOERROR	tronk.urv.es
-NOERROR	rectorat.urv.es
-NXDOMAIN	campus.urv.es
-NOERROR	vcenter0.urv.es
-NOERROR	qa-2.urv.es
-NXDOMAIN	sred33.serveis.intranet.urv.es
-NOERROR	www.srct.urv.es
-NOERROR	sysdbdmz1.urv.es
-NOERROR	www.etse.urv.es
-NXDOMAIN	win32app.urv.es
-NOERROR	narnal.urv.es
-NXDOMAIN	electro.fq.urv.es
-NOERROR	wtmp203.urv.es
-NOERROR	vsph4.urv.es
-NOERROR	bibsescelades.urv.es
-NOERROR	qa-28.fq.urv.es
-NOERROR	poma1.urv.es
-NOERROR	grusma.etse.urv.es
-NOERROR	vsph0.urv.es
-NOERROR	qa-8.urv.es
-NOERROR	cabibses.urv.es
-NOERROR	www.fcj.urv.es
-NOERROR	correu.urv.es
-NXDOMAIN	bioquimica.urv.es
-NOERROR	banzai.etse.urv.es
-NOERROR	poma0.urv.es
-NOERROR	vsph0-sc2.urv.es
-NOERROR	qi-3.urv.es
-NOERROR	riutord.fll.urv.es
-NOERROR	laue.urv.es
-NOERROR	neptu2.urv.es
-NOERROR	ldap0.urv.es
-NOERROR	qi-2.urv.es
-NOERROR	hostjoan12.urv.es
-NOERROR	mercuri1.urv.es
-NOERROR	mjo.fll.urv.es
-NOERROR	secdfr.fll.urv.es
-NOERROR	mta01.urv.es
-NOERROR	rocom.fll.urv.es
-NOERROR	picentral.urv.es
-NOERROR	www.dge.urv.es
-NOERROR	wtmp204.urv.es
-NOERROR	backup1.urv.es
-NOERROR	vsph1-vmk.urv.es
-NOERROR	vsph2-vmk.urv.es
-NOERROR	simpple01.urv.es
-NOERROR	vneumann.etse.urv.es
-NOERROR	qa-6.urv.es
-NOERROR	wtmp202.urv.es
-NOERROR	mercuri3.urv.es
-NOERROR	cris27.urv.es
-NOERROR	hostjoan11.urv.es
-NOERROR	semhisp.fll.urv.es
-NOERROR	lletre02.urv.es
-NOERROR	mercuri5.urv.es
-NOERROR	redotri.urv.es
-NOERROR	sim1.urv.es
-NOERROR	www.fee.urv.es
-NOERROR	pixie.etseq.urv.es
-NXDOMAIN	astor.urv.es
-NOERROR	vsph5-sc2.urv.es
-NOERROR	vsph1.urv.es
-NXDOMAIN	seeslab-deq.urv.es
-NOERROR	www.fcep.urv.es
-NXDOMAIN	appserv.urv.es
-NOERROR	sim0.urv.es
-NOERROR	late-dpedago.urv.es
-NXDOMAIN	xterm-a2.urv.es
-NOERROR	ecommfit.urv.es
-NOERROR	hostjoan15.urv.es
-NOERROR	galileo.urv.es
-NOERROR	qa-12.urv.es
-NOERROR	www.sre.urv.es
-NOERROR	beta.fll.urv.es
-NOERROR	cde05.etse.urv.es
-NOERROR	qa-11.urv.es
-NOERROR	qa-29.fq.urv.es
-NOERROR	vsph0-vmk.urv.es
-NOERROR	sic.urv.es
-NOERROR	qa-21.urv.es
-NOERROR	nougrec.urv.es
-NOERROR	www.urv.es
-NOERROR	alfa.fll.urv.es
-NXDOMAIN	assjur.urv.es
-NXDOMAIN	laplaciana.urv.es
-NOERROR	hostjoan09.urv.es
-NOERROR	qa-9.urv.es
-NOERROR	dwh.urv.es
-NOERROR	deasrv04.urv.es
-NOERROR	neptu1.urv.es
-NOERROR	macsl.fll.urv.es
-NOERROR	banzai-deim.urv.es
-NOERROR	secdpantro.fll.urv.es
-NOERROR	fa25.urv.es
-NOERROR	maccapbib.urv.es
-NOERROR	antropologia.urv.es
-NOERROR	wtmp205.urv.es
-NOERROR	deim.urv.es
-NOERROR	reloj.urv.es
-NXDOMAIN	heli.urv.es
-NOERROR	deasrv03.urv.es
-NOERROR	gw0.urv.es
-NOERROR	qo-2.urv.es
-NOERROR	japon.fll.urv.es
-NOERROR	hostjoan07.urv.es
-NOERROR	ants.etse.urv.es
-NOERROR	matrix.etseq.urv.es
-NOERROR	cvp.urv.es
-NOERROR	jcast.src.urv.es
-NOERROR	aliga.urv.es
-NOERROR	www0.urv.es
-NOERROR	gandalf.fcee.urv.es
-NXDOMAIN	lavoisier.urv.es
-NOERROR	vsph4-sc2.urv.es
-NOERROR	www.antropologia.urv.es
-NOERROR	qa-1.urv.es
-NOERROR	cliesab.urv.es
-NOERROR	hostjoan16.urv.es
-NOERROR	dbs5.urv.es
-NOERROR	qa-15.urv.es
-NOERROR	edustance.urv.es
-NOERROR	noguera.fcep.urv.es
-NOERROR	qa-17.urv.es
-NOERROR	ebre.fcep.urv.es
-NOERROR	deasrv02.urv.es
-NXDOMAIN	bib.urv.es
-NOERROR	cris26.urv.es
-NOERROR	wtmp244.urv.es
-NOERROR	pcpi.urv.es
-NOERROR	secdq.urv.es
-NOERROR	teledoc.urv.es
-NOERROR	power0.urv.es
-NOERROR	biblq.urv.es
-NOERROR	ra.etse.urv.es
-NOERROR	psico.fcep.urv.es
-NOERROR	hostjoan21.urv.es
-NOERROR	gaseus.fll.urv.es
-NOERROR	lagta.fll.urv.es
-NOERROR	qa-10.urv.es
-NOERROR	hostjoan06.urv.es
-NOERROR	ework.urv.es
-NOERROR	wtmp206.urv.es
-NOERROR	lvs1.urv.es
-NOERROR	lvs0.urv.es
-NOERROR	qa-5.urv.es
-NOERROR	wtmp242.urv.es
-NOERROR	mta03.urv.es
-NOERROR	www.fll.urv.es
-NXDOMAIN	brom.urv.es
-NOERROR	crackir.fll.urv.es
-NXDOMAIN	pcqf-3.urv.es
-NOERROR	ldap1.urv.es
-NOERROR	biblioteca.urv.es
-NOERROR	macnegre1.urv.es
+pizarro.fll.urv.es
+qa-19.urv.es
+qa-3.urv.es
+taz.etse.urv.es
+wtmp201.urv.es
+ftp.etse.urv.es
+pec-dpedago.urv.es
+vsph2-sc2.urv.es
+www.ice.urv.es
+secdbioq.fq.urv.es
+sysdb.urv.es
+carboni.fq.urv.es
+zeta.fll.urv.es
+pometa.urv.es
+planck.urv.es
+hostjoan05.urv.es
+ninsus.fll.urv.es
+climatic.fll.urv.es
+wtmp207.urv.es
+glorieta.fcep.urv.es
+qa-30.fq.urv.es
+wwwa.urv.es
+dns4.urv.es
+jocapqua.urv.es
+urv-gw.urv.es
+dns.urv.es
+hostjoan13.urv.es
+wtmp243.urv.es
+srect.urv.es
+wis.urv.es
+dafits.urv.es
+vsph3.urv.es
+mta04.urv.es
+poma2.urv.es
+qo-5.urv.es
+adfcat.fll.urv.es
+wtmp200.urv.es
+cinz.fll.urv.es
+qa-20.urv.es
+aaform.urv.es
+sesport.urv.es
+vsph5-vmk.urv.es
+ftp.urv.es
+macatala03.urv.es
+gwa.urv.es
+bohr.urv.es
+webgrec.urv.es
+gate-sc.urv.es
+develop.urv.es
+ast-deim.urv.es
+neptu3.urv.es
+secdfag.fll.urv.es
+hostjoan08.urv.es
+pixie.etse.urv.es
+sauron.etse.urv.es
+hostjoan14.urv.es
+mercuri6.urv.es
+dwhmicro.urv.es
+medcat.urv.es
+wc.urv.es
+seleni.urv.es
+dixie1.urv.es
+etse.urv.es
+neptu4.urv.es
+accremot02.urv.es
+agora-ice.urv.es
+qa-14.urv.es
+buski.urv.es
+romario.fll.urv.es
+folk.fll.urv.es
+www.fcee.urv.es
+urv.es
+gwb.urv.es
+mta02.urv.es
+genomes.urv.es
+pedagogia.fcep.urv.es
+rdeeea50.etse.urv.es
+cris22.urv.es
+chiki.urv.es
+calag.fll.urv.es
+sim2.urv.es
+get.fcep.urv.es
+hostjoan17.urv.es
+poma3.urv.es
+neptu5.urv.es
+crises.etse.urv.es
+pupitre.urv.es
+wtmp199.urv.es
+iochem-bd.urv.es
+secret.src.urv.es
+etseq.urv.es
+hostjoan10.urv.es
+webgrecdev.urv.es
+romani.iua.urv.es
+fundacio.urv.es
+quimic01.fq.urv.es
+www.etseq.urv.es
+sdgh.fll.urv.es
+hostjoan19.urv.es
+estudiants.urv.es
+pcasoc.urv.es
+qa-13.urv.es
+lan-sic.urv.es
+fa-1.urv.es
+qo-1.urv.es
+qo-3.urv.es
+www.eui.urv.es
+ast2-deim.urv.es
+mta.urv.es
+gmao.urv.es
+accremot01.urv.es
+deeea.urv.es
+filo.fll.urv.es
+qa-4.urv.es
+grusma2.etse.urv.es
+vsph4-vmk.urv.es
+wis.si.urv.es
+isg.urv.es
+rodi.urv.es
+www.fundacio.urv.es
+vsph3-sc2.urv.es
+argo.urv.es
+lletre04.fll.urv.es
+macblanc.urv.es
+polymers.urv.es
+mercuri2.urv.es
+qi-1.urv.es
+hostjoan01.urv.es
+www.quimica.urv.es
+hostjoan18.urv.es
+dbs3.urv.es
+qa-16.urv.es
+fenix.urv.es
+ateum.fll.urv.es
+www.sgr.urv.es
+gamma.fll.urv.es
+www.fmcs.urv.es
+docencia.urv.es
+www.crever.urv.es
+vsph1-sc2.urv.es
+sgew.urv.es
+vsph3-vmk.urv.es
+qo-4.urv.es
+crever.urv.es
+macnegre3.urv.es
+vsph2.urv.es
+qa-7.urv.es
+ws.urv.es
+prehistoria.urv.es
+hostjoan20.urv.es
+cicely.etseq.urv.es
+hostjoan03.urv.es
+simulacio.urv.es
+planet.urv.es
+qi-4.urv.es
+mercuri0.urv.es
+vsph5.urv.es
+qa-18.urv.es
+hostjoan04.urv.es
+semhisp2.fll.urv.es
+wtmp245.urv.es
+hostjoan02.urv.es
+sun2.fcep.urv.es
+www.linguistic.urv.es
+accremot.urv.es
+tronk.urv.es
+rectorat.urv.es
+vcenter0.urv.es
+qa-2.urv.es
+www.srct.urv.es
+sysdbdmz1.urv.es
+www.etse.urv.es
+narnal.urv.es
+wtmp203.urv.es
+vsph4.urv.es
+bibsescelades.urv.es
+qa-28.fq.urv.es
+poma1.urv.es
+grusma.etse.urv.es
+vsph0.urv.es
+qa-8.urv.es
+cabibses.urv.es
+www.fcj.urv.es
+correu.urv.es
+banzai.etse.urv.es
+poma0.urv.es
+vsph0-sc2.urv.es
+qi-3.urv.es
+riutord.fll.urv.es
+laue.urv.es
+neptu2.urv.es
+ldap0.urv.es
+qi-2.urv.es
+hostjoan12.urv.es
+mercuri1.urv.es
+mjo.fll.urv.es
+secdfr.fll.urv.es
+mta01.urv.es
+rocom.fll.urv.es
+picentral.urv.es
+www.dge.urv.es
+wtmp204.urv.es
+backup1.urv.es
+vsph1-vmk.urv.es
+vsph2-vmk.urv.es
+simpple01.urv.es
+vneumann.etse.urv.es
+qa-6.urv.es
+wtmp202.urv.es
+mercuri3.urv.es
+cris27.urv.es
+hostjoan11.urv.es
+semhisp.fll.urv.es
+lletre02.urv.es
+mercuri5.urv.es
+redotri.urv.es
+sim1.urv.es
+www.fee.urv.es
+pixie.etseq.urv.es
+vsph5-sc2.urv.es
+vsph1.urv.es
+www.fcep.urv.es
+sim0.urv.es
+late-dpedago.urv.es
+ecommfit.urv.es
+hostjoan15.urv.es
+galileo.urv.es
+qa-12.urv.es
+www.sre.urv.es
+beta.fll.urv.es
+cde05.etse.urv.es
+qa-11.urv.es
+qa-29.fq.urv.es
+vsph0-vmk.urv.es
+sic.urv.es
+qa-21.urv.es
+nougrec.urv.es
+www.urv.es
+alfa.fll.urv.es
+hostjoan09.urv.es
+qa-9.urv.es
+dwh.urv.es
+deasrv04.urv.es
+neptu1.urv.es
+macsl.fll.urv.es
+banzai-deim.urv.es
+secdpantro.fll.urv.es
+fa25.urv.es
+maccapbib.urv.es
+antropologia.urv.es
+wtmp205.urv.es
+deim.urv.es
+reloj.urv.es
+deasrv03.urv.es
+gw0.urv.es
+qo-2.urv.es
+japon.fll.urv.es
+hostjoan07.urv.es
+ants.etse.urv.es
+matrix.etseq.urv.es
+cvp.urv.es
+jcast.src.urv.es
+aliga.urv.es
+www0.urv.es
+gandalf.fcee.urv.es
+vsph4-sc2.urv.es
+www.antropologia.urv.es
+qa-1.urv.es
+cliesab.urv.es
+hostjoan16.urv.es
+dbs5.urv.es
+qa-15.urv.es
+edustance.urv.es
+noguera.fcep.urv.es
+qa-17.urv.es
+ebre.fcep.urv.es
+deasrv02.urv.es
+cris26.urv.es
+wtmp244.urv.es
+pcpi.urv.es
+secdq.urv.es
+teledoc.urv.es
+power0.urv.es
+biblq.urv.es
+ra.etse.urv.es
+psico.fcep.urv.es
+hostjoan21.urv.es
+gaseus.fll.urv.es
+lagta.fll.urv.es
+qa-10.urv.es
+hostjoan06.urv.es
+ework.urv.es
+wtmp206.urv.es
+lvs1.urv.es
+lvs0.urv.es
+qa-5.urv.es
+wtmp242.urv.es
+mta03.urv.es
+www.fll.urv.es
+crackir.fll.urv.es
+ldap1.urv.es
+biblioteca.urv.es
+macnegre1.urv.es

@@ -1,120 +1,66 @@
-NOERROR	webdisk.dtr.usm.edu.ph
-NXDOMAIN	www.ictagri.usm.edu.ph
-NOERROR	elec.usm.edu.ph
-NXDOMAIN	onlinejournal.usm.edu.ph
-NXDOMAIN	webdisk.cts.usm.edu.ph
-NXDOMAIN	caarrdec.usm.edu.ph
-NOERROR	mail.bor.usm.edu.ph
-NXDOMAIN	ict.usm.edu.ph
-NOERROR	webdisk.sis.usm.edu.ph
-NOERROR	yamangtao.usm.edu.ph
-NOERROR	marka.usm.edu.ph
-NXDOMAIN	cpcontacts.cts.usm.edu.ph
-NXDOMAIN	cpanel.accnt.usm.edu.ph
-NOERROR	sis.usm.edu.ph
-NOERROR	webmail.dtr.usm.edu.ph
-NOERROR	cpanel.siskcc.usm.edu.ph
-NXDOMAIN	www.libraryportal.usm.edu.ph
-NXDOMAIN	mis.usm.edu.ph
-NOERROR	mail.accnt.usm.edu.ph
-NXDOMAIN	www.mis.usm.edu.ph
-NOERROR	cpcalendars.siskcc.usm.edu.ph
-NXDOMAIN	cpcalendars.virtual-u.usm.edu.ph
-NXDOMAIN	cpcontacts.virtual-u.usm.edu.ph
-NXDOMAIN	webdisk.virtual-u.usm.edu.ph
-NOERROR	webmail.usm.edu.ph
-NOERROR	webmail.siskcc.usm.edu.ph
-NXDOMAIN	scancts.usm.edu.ph
-NOERROR	fpes.usm.edu.ph
-NOERROR	cts2.usm.edu.ph
-NXDOMAIN	www.arise.usm.edu.ph
-NXDOMAIN	www.onlinejournal.usm.edu.ph
-NXDOMAIN	vlestaging.usm.edu.ph
-NOERROR	www.usm.edu.ph
-NXDOMAIN	www.testserver.usm.edu.ph
-NXDOMAIN	arta.usm.edu.ph
-NXDOMAIN	cts.usm.edu.ph
-NOERROR	appointment.usm.edu.ph
-NXDOMAIN	www.caarrdec.usm.edu.ph
-NOERROR	jardet.usm.edu.ph
-NOERROR	www.bor.usm.edu.ph
-NOERROR	vle.usm.edu.ph
-NOERROR	www.siskcc.usm.edu.ph
-NOERROR	siskcc.usm.edu.ph
-NOERROR	webmail.sis.usm.edu.ph
-NOERROR	mail.sis.usm.edu.ph
-NXDOMAIN	webdisk.accnt.usm.edu.ph
-NXDOMAIN	www.carrdec.usm.edu.ph
-NXDOMAIN	cpcontacts.accnt.usm.edu.ph
-NXDOMAIN	webmail.virtual-u.usm.edu.ph
-NXDOMAIN	cpcalendars.cts.usm.edu.ph
-NOERROR	rdeis.usm.edu.ph
-NOERROR	bor.usm.edu.ph
-NXDOMAIN	www.mrtg.usm.edu.ph
-NXDOMAIN	vle.uls.usm.edu.ph
-NOERROR	www.jardet.usm.edu.ph
-NOERROR	cpanel.usm.edu.ph
-NXDOMAIN	webmail.accnt.usm.edu.ph
-NOERROR	cpanel.ecp.usm.edu.ph
-NXDOMAIN	mail.cts.usm.edu.ph
-NOERROR	webmail.ecp.usm.edu.ph
-NOERROR	cee.usm.edu.ph
-NOERROR	usm.edu.ph
-NOERROR	cpcalendars.ecp.usm.edu.ph
-NOERROR	vle2.usm.edu.ph
-NOERROR	webdisk.bor.usm.edu.ph
-NOERROR	cpanel.bor.usm.edu.ph
-NOERROR	webdisk.ecp.usm.edu.ph
-NOERROR	cpanel.sis.usm.edu.ph
-NOERROR	mail.usm.edu.ph
-NOERROR	helpdesk.usm.edu.ph
-NXDOMAIN	uicto.usm.edu.ph
-NXDOMAIN	cpanel.virtual-u.usm.edu.ph
-NOERROR	fpeskcc.usm.edu.ph
-NXDOMAIN	www.cts.usm.edu.ph
-NOERROR	mail.siskcc.usm.edu.ph
-NXDOMAIN	www.virtual-u.usm.edu.ph
-NOERROR	econfirmation.usm.edu.ph
-NOERROR	libraryportal.usm.edu.ph
-NXDOMAIN	testserver.usm.edu.ph
-NOERROR	cpcontacts.siskcc.usm.edu.ph
-NXDOMAIN	www.vlestaging.usm.edu.ph
-NXDOMAIN	cpanel.cts.usm.edu.ph
-NXDOMAIN	virtual-u.usm.edu.ph
-NXDOMAIN	www.dtr.usm.edu.ph
-NOERROR	webmail.bor.usm.edu.ph
-NOERROR	www.staging.usm.edu.ph
-NOERROR	cpcalendars.usm.edu.ph
-NOERROR	webdisk.siskcc.usm.edu.ph
-NOERROR	cpcontacts.bor.usm.edu.ph
-NXDOMAIN	alumni.usm.edu.ph
-NXDOMAIN	www.accnt.usm.edu.ph
-NOERROR	www.ecp.usm.edu.ph
-NOERROR	cpcalendars.dtr.usm.edu.ph
-NOERROR	cpcalendars.bor.usm.edu.ph
-NXDOMAIN	mrtg.usm.edu.ph
-NXDOMAIN	www.cencom.usm.edu.ph
-NOERROR	accnt.usm.edu.ph
-NOERROR	ecp.usm.edu.ph
-NOERROR	cpcalendars.sis.usm.edu.ph
-NOERROR	cpcontacts.dtr.usm.edu.ph
-NXDOMAIN	arise.usm.edu.ph
-NOERROR	cpcontacts.sis.usm.edu.ph
-NXDOMAIN	cpcalendars.accnt.usm.edu.ph
-NXDOMAIN	www.ole.usm.edu.ph
-NXDOMAIN	hdrmo.usm.edu.ph
-NXDOMAIN	ictagri.usm.edu.ph
-NOERROR	staging.usm.edu.ph
-NOERROR	cpanel.dtr.usm.edu.ph
-NOERROR	webdisk.usm.edu.ph
-NXDOMAIN	mail.virtual-u.usm.edu.ph
-NXDOMAIN	www.sis.usm.edu.ph
-NOERROR	studentportal.usm.edu.ph
-NOERROR	mail.ecp.usm.edu.ph
-NOERROR	mail.dtr.usm.edu.ph
-NXDOMAIN	ole.usm.edu.ph
-NOERROR	dtr.usm.edu.ph
-NXDOMAIN	webmail.cts.usm.edu.ph
-NXDOMAIN	elearning.usm.edu.ph
-NOERROR	cpcontacts.ecp.usm.edu.ph
-NXDOMAIN	cpcontacts.usm.edu.ph
+webdisk.dtr.usm.edu.ph
+elec.usm.edu.ph
+mail.bor.usm.edu.ph
+webdisk.sis.usm.edu.ph
+yamangtao.usm.edu.ph
+marka.usm.edu.ph
+sis.usm.edu.ph
+webmail.dtr.usm.edu.ph
+cpanel.siskcc.usm.edu.ph
+mail.accnt.usm.edu.ph
+cpcalendars.siskcc.usm.edu.ph
+webmail.usm.edu.ph
+webmail.siskcc.usm.edu.ph
+fpes.usm.edu.ph
+cts2.usm.edu.ph
+www.usm.edu.ph
+appointment.usm.edu.ph
+jardet.usm.edu.ph
+www.bor.usm.edu.ph
+vle.usm.edu.ph
+www.siskcc.usm.edu.ph
+siskcc.usm.edu.ph
+webmail.sis.usm.edu.ph
+mail.sis.usm.edu.ph
+rdeis.usm.edu.ph
+bor.usm.edu.ph
+www.jardet.usm.edu.ph
+cpanel.usm.edu.ph
+cpanel.ecp.usm.edu.ph
+webmail.ecp.usm.edu.ph
+cee.usm.edu.ph
+usm.edu.ph
+cpcalendars.ecp.usm.edu.ph
+vle2.usm.edu.ph
+webdisk.bor.usm.edu.ph
+cpanel.bor.usm.edu.ph
+webdisk.ecp.usm.edu.ph
+cpanel.sis.usm.edu.ph
+mail.usm.edu.ph
+helpdesk.usm.edu.ph
+fpeskcc.usm.edu.ph
+mail.siskcc.usm.edu.ph
+econfirmation.usm.edu.ph
+libraryportal.usm.edu.ph
+cpcontacts.siskcc.usm.edu.ph
+webmail.bor.usm.edu.ph
+www.staging.usm.edu.ph
+cpcalendars.usm.edu.ph
+webdisk.siskcc.usm.edu.ph
+cpcontacts.bor.usm.edu.ph
+www.ecp.usm.edu.ph
+cpcalendars.dtr.usm.edu.ph
+cpcalendars.bor.usm.edu.ph
+accnt.usm.edu.ph
+ecp.usm.edu.ph
+cpcalendars.sis.usm.edu.ph
+cpcontacts.dtr.usm.edu.ph
+cpcontacts.sis.usm.edu.ph
+staging.usm.edu.ph
+cpanel.dtr.usm.edu.ph
+webdisk.usm.edu.ph
+studentportal.usm.edu.ph
+mail.ecp.usm.edu.ph
+mail.dtr.usm.edu.ph
+dtr.usm.edu.ph
+cpcontacts.ecp.usm.edu.ph

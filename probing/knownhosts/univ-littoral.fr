@@ -1,734 +1,588 @@
-NOERROR	www.conpere-web.univ-littoral.fr
-NOERROR	jcmm2016.univ-littoral.fr
-NXDOMAIN	apoastest.univ-littoral.fr
-NOERROR	pcbubg3.univ-littoral.fr
-NXDOMAIN	dessms4.univ-littoral.fr
-NOERROR	conferences.univ-littoral.fr
-NOERROR	cd-serveur.univ-littoral.fr
-NOERROR	eilco-edt.univ-littoral.fr
-NOERROR	easyid.univ-littoral.fr
-NOERROR	sharelatex.univ-littoral.fr
-NOERROR	fcu.handicap-travail.univ-littoral.fr
-NOERROR	iupc1108.univ-littoral.fr
-NOERROR	cip.univ-littoral.fr
-NOERROR	iupc1113.univ-littoral.fr
-NOERROR	mbengoue.univ-littoral.fr
-NOERROR	lisic.univ-littoral.fr
-NOERROR	rrien.univ-littoral.fr
-NOERROR	ftpsgbm.univ-littoral.fr
-NOERROR	riien.univ-littoral.fr
-NOERROR	wp9.univ-littoral.fr
-NOERROR	mdedk.univ-littoral.fr
-NOERROR	infos.univ-littoral.fr
-NOERROR	pedago.univ-littoral.fr
-NOERROR	master-rim.univ-littoral.fr
-NXDOMAIN	dessms3.univ-littoral.fr
-NOERROR	pc132.univ-littoral.fr
-NOERROR	pcbubg5.univ-littoral.fr
-NXDOMAIN	formations.univ-littoral.fr
-NOERROR	cerise.univ-littoral.fr
-NOERROR	pcce6.univ-littoral.fr
-NOERROR	bu6.univ-littoral.fr
-NXDOMAIN	glpi.univ-littoral.fr
-NOERROR	mcu.univ-littoral.fr
-NOERROR	oae-test.univ-littoral.fr
-NOERROR	document.univ-littoral.fr
-NOERROR	h-s.univ-littoral.fr
-NOERROR	gta.univ-littoral.fr
-NOERROR	www.universalis-edu.com.ezproxy.univ-littoral.fr
-NOERROR	tandaimons.univ-littoral.fr
-NOERROR	bu1.univ-littoral.fr
-NXDOMAIN	shuttle9.univ-littoral.fr
-NOERROR	bu2.univ-littoral.fr
-NXDOMAIN	sacha.univ-littoral.fr
-NOERROR	journals.aps.org.ezproxy.univ-littoral.fr
-NXDOMAIN	smw35.univ-littoral.fr
-NXDOMAIN	www.bbb3.univ-littoral.fr
-NOERROR	topaze.univ-littoral.fr
-NOERROR	cel.univ-littoral.fr
-NXDOMAIN	coordination-ulco.univ-littoral.fr
-NXDOMAIN	apotest.univ-littoral.fr
-NOERROR	www.lmpa.univ-littoral.fr
-NOERROR	sajama.univ-littoral.fr
-NXDOMAIN	loalit.univ-littoral.fr
-NOERROR	estouest2019.univ-littoral.fr
-NXDOMAIN	www.e-vacataires.univ-littoral.fr
-NOERROR	formulaire.extranet.univ-littoral.fr
-NXDOMAIN	imap-lmpa.univ-littoral.fr
-NOERROR	muguet.univ-littoral.fr
-NOERROR	vanille.univ-littoral.fr
-NXDOMAIN	lmac.univ-littoral.fr
-NXDOMAIN	assifacpprod.univ-littoral.fr
-NOERROR	live9.univ-littoral.fr
-NXDOMAIN	international.univ-littoral.fr
-NOERROR	mod-fictionnel.univ-littoral.fr
-NXDOMAIN	iesp2a.univ-littoral.fr
-NXDOMAIN	smw45.univ-littoral.fr
-NOERROR	www-lmpa-int.univ-littoral.fr
-NOERROR	abylasrv.univ-littoral.fr
-NOERROR	www.lexisnexis.com.ezproxy.univ-littoral.fr
-NOERROR	pcbubg10.univ-littoral.fr
-NOERROR	tsi.univ-littoral.fr
-NXDOMAIN	shuttle12.univ-littoral.fr
-NOERROR	deust-tml.univ-littoral.fr
-NOERROR	covoiturage.univ-littoral.fr
-NOERROR	cao.univ-littoral.fr
-NOERROR	mren173.univ-littoral.fr
-NOERROR	scitation.aip.org.ezproxy.univ-littoral.fr
-NOERROR	lyell.univ-littoral.fr
-NOERROR	capcbu4.univ-littoral.fr
-NXDOMAIN	lemcel.univ-littoral.fr
-NOERROR	www.rii.univ-littoral.fr
-NOERROR	pc120.univ-littoral.fr
-NOERROR	www.conpere-web-gestion.univ-littoral.fr
-NXDOMAIN	www.jobox.univ-littoral.fr
-NOERROR	pivoine.univ-littoral.fr
-NOERROR	jfm2018.univ-littoral.fr
-NOERROR	scosi.univ-littoral.fr
-NOERROR	suaps.univ-littoral.fr
-NXDOMAIN	smw53.univ-littoral.fr
-NOERROR	udsmm.univ-littoral.fr
-NOERROR	scpc18.univ-littoral.fr
-NXDOMAIN	antivir-pjweb.univ-littoral.fr
-NOERROR	presidence-ip35.univ-littoral.fr
-NOERROR	fresia.univ-littoral.fr
-NOERROR	www.univ-littoral.fr
-NOERROR	passerelle-cs.univ-littoral.fr
-NXDOMAIN	dessms11.univ-littoral.fr
-NOERROR	wp4.univ-littoral.fr
-NOERROR	foruminnov21.univ-littoral.fr
-NOERROR	micollab.univ-littoral.fr
-NXDOMAIN	plan-enseignant.univ-littoral.fr
-NOERROR	urus.univ-littoral.fr
-NXDOMAIN	smw51.univ-littoral.fr
-NOERROR	master-accie.univ-littoral.fr
-NOERROR	pcce3.univ-littoral.fr
-NXDOMAIN	lma.univ-littoral.fr
-NOERROR	iutcb-intranet.univ-littoral.fr
-NOERROR	www.conpere-webpprod-gestion.univ-littoral.fr
-NOERROR	www-heb.univ-littoral.fr
-NOERROR	pcbubg12.univ-littoral.fr
-NOERROR	bbb6.univ-littoral.fr
-NXDOMAIN	shuttle3.univ-littoral.fr
-NXDOMAIN	smw44.univ-littoral.fr
-NOERROR	hubert.univ-littoral.fr
-NOERROR	odesse-srv.univ-littoral.fr
-NOERROR	paget.univ-littoral.fr
-NOERROR	cafe.univ-littoral.fr
-NOERROR	bulito.univ-littoral.fr
-NOERROR	wp5.univ-littoral.fr
-NOERROR	fcu.univ-littoral.fr
-NOERROR	eds.b.ebscohost.com.ezproxy.univ-littoral.fr
-NOERROR	geiicalais.univ-littoral.fr
-NOERROR	zmta1.univ-littoral.fr
-NXDOMAIN	smw55.univ-littoral.fr
-NOERROR	web.b.ebscohost.com.ezproxy.univ-littoral.fr
-NOERROR	eilco-ocs.univ-littoral.fr
-NOERROR	listes.etu.univ-littoral.fr
-NOERROR	efpp12sfp10.univ-littoral.fr
-NOERROR	iupc1235.univ-littoral.fr
-NOERROR	pcbubg11.univ-littoral.fr
-NOERROR	pcbubg6.univ-littoral.fr
-NXDOMAIN	smw48.univ-littoral.fr
-NXDOMAIN	http.cueep.univ-littoral.fr
-NOERROR	rdv-ri.extranet.univ-littoral.fr
-NOERROR	cal1.univ-littoral.fr
-NOERROR	scpc2.univ-littoral.fr
-NOERROR	www.conpere-webpprod.univ-littoral.fr
-NOERROR	iupc1109.univ-littoral.fr
-NOERROR	plaid.univ-littoral.fr
-NOERROR	rose.univ-littoral.fr
-NOERROR	bu7.univ-littoral.fr
-NOERROR	select-etudiants.extranet.univ-littoral.fr
-NOERROR	mastermefmaths.univ-littoral.fr
-NXDOMAIN	shuttle8.univ-littoral.fr
-NOERROR	multimedia-fcu.univ-littoral.fr
-NOERROR	prorp.univ-littoral.fr
-NOERROR	slow.univ-littoral.fr
-NXDOMAIN	wmail-lmpa.univ-littoral.fr
-NXDOMAIN	smw60.univ-littoral.fr
-NOERROR	arum.univ-littoral.fr
-NOERROR	calcium-web.univ-littoral.fr
-NOERROR	saturne.univ-littoral.fr
-NOERROR	www.bpe.europresse.com.ezproxy.univ-littoral.fr
-NOERROR	support.iut.univ-littoral.fr
-NOERROR	testblog.univ-littoral.fr
-NOERROR	ezproxy.univ-littoral.fr
-NOERROR	maya.univ-littoral.fr
-NOERROR	saxo.univ-littoral.fr
-NXDOMAIN	win-pbi.univ-littoral.fr
-NOERROR	cpc1000.univ-littoral.fr
-NXDOMAIN	dessms8.univ-littoral.fr
-NOERROR	carrefour-fc.univ-littoral.fr
-NOERROR	overleaf.univ-littoral.fr
-NOERROR	mokekou.univ-littoral.fr
-NOERROR	mren139.univ-littoral.fr
-NXDOMAIN	masterphysique.univ-littoral.fr
-NOERROR	jupiter.univ-littoral.fr
-NOERROR	visiopod.univ-littoral.fr
-NOERROR	eds.a.ebscohost.com.ezproxy.univ-littoral.fr
-NOERROR	han-solo.univ-littoral.fr
-NXDOMAIN	www.portail.bulco.univ-littoral.fr
-NOERROR	demandeve.extranet.univ-littoral.fr
-NOERROR	rii.univ-littoral.fr
-NOERROR	steven.univ-littoral.fr
-NOERROR	tictac.univ-littoral.fr
-NOERROR	wifi-personnels-bg.univ-littoral.fr
-NOERROR	www.opale.univ-littoral.fr
-NXDOMAIN	smw59.univ-littoral.fr
-NOERROR	monitoring-ipm.univ-littoral.fr
-NOERROR	petunia.univ-littoral.fr
-NOERROR	secureidpga.dalloz.fr.ezproxy.univ-littoral.fr
-NOERROR	iupc1227.univ-littoral.fr
-NOERROR	univ-littoral.fr
-NOERROR	bbb8.univ-littoral.fr
-NOERROR	www.cairn.info.ezproxy.univ-littoral.fr
-NOERROR	smtps.univ-littoral.fr
-NOERROR	siteiupb.univ-littoral.fr
-NOERROR	laforge.iut.univ-littoral.fr
-NXDOMAIN	sinchro.univ-littoral.fr
-NXDOMAIN	dessms9.univ-littoral.fr
-NOERROR	uceiv.univ-littoral.fr
-NOERROR	mren.univ-littoral.fr
-NOERROR	pcasi.univ-littoral.fr
-NOERROR	iupc2004.univ-littoral.fr
-NOERROR	login.ezproxy.univ-littoral.fr
-NOERROR	calao.univ-littoral.fr
-NOERROR	cal3.univ-littoral.fr
-NXDOMAIN	cueep.univ-littoral.fr
-NOERROR	colloqueplaisance-boulogne.univ-littoral.fr
-NOERROR	www.dalloz.fr.ezproxy.univ-littoral.fr
-NXDOMAIN	dessms10.univ-littoral.fr
-NOERROR	jpo2021.univ-littoral.fr
-NOERROR	listes.univ-littoral.fr
-NXDOMAIN	smw56.univ-littoral.fr
-NOERROR	pcbul3.univ-littoral.fr
-NXDOMAIN	mondrian.univ-littoral.fr
-NOERROR	ldap.univ-littoral.fr
-NOERROR	iris.univ-littoral.fr
-NOERROR	capcbu2.univ-littoral.fr
-NOERROR	turn.univ-littoral.fr
-NOERROR	ces.univ-littoral.fr
-NXDOMAIN	mutudil.univ-littoral.fr
-NXDOMAIN	conpere-gestiontest.univ-littoral.fr
-NOERROR	pcbubg9.univ-littoral.fr
-NOERROR	suivis-enseignants.extranet.univ-littoral.fr
-NOERROR	archibl.univ-littoral.fr
-NOERROR	fushia.univ-littoral.fr
-NOERROR	gte.univ-littoral.fr
-NXDOMAIN	smw39.univ-littoral.fr
-NOERROR	live1.univ-littoral.fr
-NOERROR	iup-qpah.univ-littoral.fr
-NOERROR	pciutgb1.univ-littoral.fr
-NOERROR	form.univ-littoral.fr
-NOERROR	rrifr.univ-littoral.fr
-NXDOMAIN	www-scoltest.univ-littoral.fr
-NOERROR	bbb3.univ-littoral.fr
-NXDOMAIN	www.www-calculco.univ-littoral.fr
-NOERROR	eduspot.univ-littoral.fr
-NOERROR	passerelle-lmpa.univ-littoral.fr
-NOERROR	portail-wifi-mren.univ-littoral.fr
-NOERROR	wifi-personnels-dk.univ-littoral.fr
-NOERROR	lpca-ws.univ-littoral.fr
-NOERROR	iut.univ-littoral.fr
-NXDOMAIN	www.zpreauth.univ-littoral.fr
-NOERROR	bmlc.univ-littoral.fr
-NOERROR	iupcalais.univ-littoral.fr
-NOERROR	scpcinfo.univ-littoral.fr
-NOERROR	mren172.univ-littoral.fr
-NXDOMAIN	fs.univ-littoral.fr
-NOERROR	cd2010.univ-littoral.fr
-NOERROR	uceivfr.univ-littoral.fr
-NOERROR	lifou.univ-littoral.fr
-NOERROR	logiciels.univ-littoral.fr
-NOERROR	mrw006.univ-littoral.fr
-NOERROR	pcbubg8.univ-littoral.fr
-NOERROR	idp.univ-littoral.fr
-NOERROR	sis2018.univ-littoral.fr
-NOERROR	usic.univ-littoral.fr
-NOERROR	mren3.univ-littoral.fr
-NOERROR	apogee.univ-littoral.fr
-NOERROR	iupc1026.univ-littoral.fr
-NOERROR	cooper.univ-littoral.fr
-NOERROR	univ.scholarvox.com.ezproxy.univ-littoral.fr
-NXDOMAIN	courspix.univ-littoral.fr
-NOERROR	calypso.univ-littoral.fr
-NOERROR	acuite.univ-littoral.fr
-NOERROR	passerelle-udsmm.univ-littoral.fr
-NOERROR	prerp.univ-littoral.fr
-NOERROR	webmail.univ-littoral.fr
-NOERROR	yushan.univ-littoral.fr
-NOERROR	uvc.univ-littoral.fr
-NOERROR	experimentation.univ-littoral.fr
-NOERROR	mren179.univ-littoral.fr
-NOERROR	maya2.univ-littoral.fr
-NOERROR	mren169.univ-littoral.fr
-NOERROR	pc130-02.univ-littoral.fr
-NOERROR	www.generalis-indexpresse.com.ezproxy.univ-littoral.fr
-NOERROR	iupc1010.univ-littoral.fr
-NOERROR	bu11.univ-littoral.fr
-NOERROR	aps.univ-littoral.fr
-NOERROR	pcfc1.univ-littoral.fr
-NXDOMAIN	shuttle7.univ-littoral.fr
-NXDOMAIN	apogeeas2.univ-littoral.fr
-NOERROR	ulovul2.univ-littoral.fr
-NOERROR	berlioz.univ-littoral.fr
-NOERROR	stages.univ-littoral.fr
-NOERROR	dess-icc.univ-littoral.fr
-NOERROR	archicl.univ-littoral.fr
-NOERROR	portail.univ-littoral.fr
-NXDOMAIN	apoastest2.univ-littoral.fr
-NOERROR	www.lextenso.fr.ezproxy.univ-littoral.fr
-NOERROR	pcbul7.univ-littoral.fr
-NXDOMAIN	webtest.conpere-web.univ-littoral.fr
-NOERROR	mecs.univ-littoral.fr
-NXDOMAIN	lil.univ-littoral.fr
-NXDOMAIN	assifacprod.univ-littoral.fr
-NOERROR	logiciels-fcu.univ-littoral.fr
-NOERROR	vador.univ-littoral.fr
-NOERROR	crb.univ-littoral.fr
-NOERROR	live2.univ-littoral.fr
-NOERROR	licencebio.univ-littoral.fr
-NOERROR	bbb7.univ-littoral.fr
-NOERROR	netlab.iut.univ-littoral.fr
-NOERROR	napo.univ-littoral.fr
-NOERROR	secureidp.dalloz.fr.ezproxy.univ-littoral.fr
-NOERROR	www.nature.com.ezproxy.univ-littoral.fr
-NXDOMAIN	www.extra.univ-littoral.fr
-NXDOMAIN	smw61.univ-littoral.fr
-NOERROR	master-egedd.univ-littoral.fr
-NOERROR	ontake.univ-littoral.fr
-NOERROR	evrp.univ-littoral.fr
-NXDOMAIN	www.wap.univ-littoral.fr
-NOERROR	cripbls1.univ-littoral.fr
-NOERROR	visio.univ-littoral.fr
-NOERROR	impression.univ-littoral.fr
-NOERROR	iupc1236.univ-littoral.fr
-NOERROR	dana.univ-littoral.fr
-NOERROR	webconf.univ-littoral.fr
-NOERROR	portaildev.univ-littoral.fr
-NXDOMAIN	gromit.univ-littoral.fr
-NOERROR	oae-demo.univ-littoral.fr
-NOERROR	masterculture.univ-littoral.fr
-NOERROR	bbb5.univ-littoral.fr
-NOERROR	tulipe.univ-littoral.fr
-NOERROR	webconferences.univ-littoral.fr
-NOERROR	mastersciencesdelamer.univ-littoral.fr
-NOERROR	karuta-portfolio.univ-littoral.fr
-NOERROR	cal2.univ-littoral.fr
-NOERROR	marco.univ-littoral.fr
-NXDOMAIN	licencepro-gth.univ-littoral.fr
-NOERROR	espacelitteraire.univ-littoral.fr
-NOERROR	radius.univ-littoral.fr
-NOERROR	www-sciencedirect-com.ezproxy.univ-littoral.fr
-NOERROR	pjweb-scol.univ-littoral.fr
-NOERROR	irene.univ-littoral.fr
-NOERROR	iupc1031.univ-littoral.fr
-NOERROR	absysnet.univ-littoral.fr
-NXDOMAIN	jobactiv.univ-littoral.fr
-NOERROR	kiwi.univ-littoral.fr
-NOERROR	qcmc2i.univ-littoral.fr
-NOERROR	pcalex.univ-littoral.fr
-NOERROR	mawenzi.univ-littoral.fr
-NXDOMAIN	9th-thz-days.univ-littoral.fr
-NOERROR	riifr.univ-littoral.fr
-NOERROR	www.doctrinal.fr.ezproxy.univ-littoral.fr
-NOERROR	www-lisic.univ-littoral.fr
-NOERROR	atelierculture.univ-littoral.fr
-NOERROR	budemod.univ-littoral.fr
-NXDOMAIN	www.ip-tmc2.univ-littoral.fr
-NOERROR	log.univ-littoral.fr
-NXDOMAIN	smw47.univ-littoral.fr
-NXDOMAIN	dessms5.univ-littoral.fr
-NOERROR	dpt-info.univ-littoral.fr
-NOERROR	hlli.univ-littoral.fr
-NXDOMAIN	dessms6.univ-littoral.fr
-NOERROR	grizzly.univ-littoral.fr
-NXDOMAIN	bve.univ-littoral.fr
-NOERROR	209hpe60.univ-littoral.fr
-NOERROR	chimie2.univ-littoral.fr
-NOERROR	mren171.univ-littoral.fr
-NOERROR	phyteo.univ-littoral.fr
-NOERROR	eebo.chadwyck.com.ezproxy.univ-littoral.fr
-NOERROR	live3.univ-littoral.fr
-NOERROR	tasman.univ-littoral.fr
-NOERROR	pcbubg13.univ-littoral.fr
-NOERROR	liste.univ-littoral.fr
-NOERROR	netlab.univ-littoral.fr
-NOERROR	master-ei.univ-littoral.fr
-NOERROR	sites.univ-littoral.fr
-NXDOMAIN	uebmen.univ-littoral.fr
-NOERROR	bu10.univ-littoral.fr
-NOERROR	jobox.univ-littoral.fr
-NXDOMAIN	shuttle11.univ-littoral.fr
-NOERROR	opale.univ-littoral.fr
-NOERROR	dunk-ip181202.univ-littoral.fr
-NOERROR	egalite.univ-littoral.fr
-NOERROR	www.techniques-ingenieur.fr.ezproxy.univ-littoral.fr
-NOERROR	infos-pedago.univ-littoral.fr
-NOERROR	enlpca.univ-littoral.fr
-NOERROR	www.iut.univ-littoral.fr
-NOERROR	crhael.univ-littoral.fr
-NOERROR	biennalesdutourisme.univ-littoral.fr
-NOERROR	bulco.univ-littoral.fr
-NOERROR	iscid.univ-littoral.fr
-NOERROR	podcast.univ-littoral.fr
-NOERROR	licencee4i.univ-littoral.fr
-NOERROR	mren177.univ-littoral.fr
-NXDOMAIN	ebulco.univ-littoral.fr
-NXDOMAIN	www.overleaf.univ-littoral.fr
-NOERROR	mrw001.univ-littoral.fr
-NOERROR	www-scol.univ-littoral.fr
-NOERROR	visiocast.univ-littoral.fr
-NXDOMAIN	apogee2.univ-littoral.fr
-NXDOMAIN	smw34.univ-littoral.fr
-NOERROR	bbb4.univ-littoral.fr
-NOERROR	lilas.univ-littoral.fr
-NOERROR	snesup.univ-littoral.fr
-NOERROR	pmoi.univ-littoral.fr
-NXDOMAIN	boltz.univ-littoral.fr
-NOERROR	sage.univ-littoral.fr
-NOERROR	catalogue.suaio.univ-littoral.fr
-NOERROR	www.jstor.org.ezproxy.univ-littoral.fr
-NOERROR	intranet-geiicalais.univ-littoral.fr
-NOERROR	extranet.univ-littoral.fr
-NOERROR	pc122.univ-littoral.fr
-NOERROR	wallace.univ-littoral.fr
-NOERROR	stats.univ-littoral.fr
-NXDOMAIN	dugizc.univ-littoral.fr
-NOERROR	icv.univ-littoral.fr
-NOERROR	oae.univ-littoral.fr
-NOERROR	ararat.univ-littoral.fr
-NOERROR	cosaco.univ-littoral.fr
-NOERROR	floyd.univ-littoral.fr
-NXDOMAIN	shuttle1.univ-littoral.fr
-NOERROR	portail-wifi-capecure.univ-littoral.fr
-NOERROR	scpc1.univ-littoral.fr
-NOERROR	uhuru.univ-littoral.fr
-NOERROR	pcbul2.univ-littoral.fr
-NXDOMAIN	zabbix-uad.univ-littoral.fr
-NXDOMAIN	shuttle4.univ-littoral.fr
-NOERROR	minkong.univ-littoral.fr
-NOERROR	says.univ-littoral.fr
-NOERROR	suaps.extranet.univ-littoral.fr
-NOERROR	prise3d.univ-littoral.fr
-NOERROR	ip.doctrinalplus.fr.ezproxy.univ-littoral.fr
-NXDOMAIN	o365.univ-littoral.fr
-NOERROR	pc123.univ-littoral.fr
-NOERROR	neo.univ-littoral.fr
-NOERROR	master-intel.univ-littoral.fr
-NOERROR	c3po.univ-littoral.fr
-NOERROR	mren150.univ-littoral.fr
-NOERROR	eco-gestion.univ-littoral.fr
-NOERROR	residence-boulogne.univ-littoral.fr
-NOERROR	cao-btp.univ-littoral.fr
-NOERROR	cisco-dk-eth1.univ-littoral.fr
-NOERROR	bali.univ-littoral.fr
-NOERROR	pcsoe2.univ-littoral.fr
-NOERROR	mooc-c2i.univ-littoral.fr
-NXDOMAIN	www.maya2.univ-littoral.fr
-NOERROR	rri.univ-littoral.fr
-NOERROR	wims.univ-littoral.fr
-NOERROR	portail-wifi-mrsh.univ-littoral.fr
-NOERROR	ccm.univ-littoral.fr
-NOERROR	transferts.extranet.univ-littoral.fr
-NOERROR	elico.univ-littoral.fr
-NOERROR	purple.univ-littoral.fr
-NXDOMAIN	master-ete.univ-littoral.fr
-NOERROR	certiflangues.univ-littoral.fr
-NOERROR	bbb.univ-littoral.fr
-NOERROR	widgets.ebscohost.com.ezproxy.univ-littoral.fr
-NOERROR	patrice.univ-littoral.fr
-NOERROR	cpc1002.univ-littoral.fr
-NOERROR	gw-geiicalais.univ-littoral.fr
-NOERROR	paul.univ-littoral.fr
-NOERROR	mren168.univ-littoral.fr
-NOERROR	seeten.univ-littoral.fr
-NOERROR	karuta.univ-littoral.fr
-NOERROR	diran.univ-littoral.fr
-NXDOMAIN	masterfogem.univ-littoral.fr
-NOERROR	iupc1232.univ-littoral.fr
-NOERROR	linkinghub.elsevier.com.ezproxy.univ-littoral.fr
-NXDOMAIN	dessms7.univ-littoral.fr
-NXDOMAIN	fs.o365.univ-littoral.fr
-NOERROR	www4.lexbase.fr.ezproxy.univ-littoral.fr
-NXDOMAIN	evrp-as.univ-littoral.fr
-NOERROR	cornet.univ-littoral.fr
-NOERROR	ulcop21.univ-littoral.fr
-NOERROR	proxy-cs.univ-littoral.fr
-NOERROR	capcbu3.univ-littoral.fr
-NOERROR	pcbubg2.univ-littoral.fr
-NOERROR	select-etudiants.univ-littoral.fr
-NOERROR	mabcam.univ-littoral.fr
-NOERROR	venus.univ-littoral.fr
-NOERROR	tolima.univ-littoral.fr
-NOERROR	ent.univ-littoral.fr
-NOERROR	portail-wifi-lamartine.univ-littoral.fr
-NXDOMAIN	www.pc123.univ-littoral.fr
-NOERROR	documents.univ-littoral.fr
-NOERROR	www-lmpa.univ-littoral.fr
-NOERROR	rhum.univ-littoral.fr
-NOERROR	innovation.univ-littoral.fr
-NXDOMAIN	www.fs.o365.univ-littoral.fr
-NOERROR	turing.univ-littoral.fr
-NOERROR	deust-bcmm.univ-littoral.fr
-NOERROR	www-calculco.univ-littoral.fr
-NXDOMAIN	www.calcium-webtest.univ-littoral.fr
-NOERROR	iupc1112.univ-littoral.fr
-NOERROR	cel-hubhouse.univ-littoral.fr
-NOERROR	sylane.univ-littoral.fr
-NXDOMAIN	jcf2007.univ-littoral.fr
-NXDOMAIN	genie.univ-littoral.fr
-NOERROR	iupc2001.univ-littoral.fr
-NOERROR	mimosa.univ-littoral.fr
-NOERROR	juncal.univ-littoral.fr
-NOERROR	edt.univ-littoral.fr
-NOERROR	staps.univ-littoral.fr
-NOERROR	sg1.univ-littoral.fr
-NXDOMAIN	dessms12.univ-littoral.fr
-NOERROR	sakai.univ-littoral.fr
-NOERROR	mren176.univ-littoral.fr
-NOERROR	pcce2.univ-littoral.fr
-NOERROR	enerulco.univ-littoral.fr
-NOERROR	max.univ-littoral.fr
-NXDOMAIN	shuttle10.univ-littoral.fr
-NOERROR	deplangues.univ-littoral.fr
-NOERROR	pca3.univ-littoral.fr
-NOERROR	www.bulco.univ-littoral.fr
-NXDOMAIN	smw62.univ-littoral.fr
-NXDOMAIN	shuttle13.univ-littoral.fr
-NXDOMAIN	graylog.univ-littoral.fr
-NOERROR	pcfc3.univ-littoral.fr
-NOERROR	pcbubg7.univ-littoral.fr
-NOERROR	licencegeo.univ-littoral.fr
-NOERROR	flute.univ-littoral.fr
-NOERROR	iboudji.univ-littoral.fr
-NOERROR	lys.univ-littoral.fr
-NXDOMAIN	ip-tmc2.univ-littoral.fr
-NOERROR	reprp.univ-littoral.fr
-NOERROR	mel-etu.univ-littoral.fr
-NXDOMAIN	www.nomade.univ-littoral.fr
-NXDOMAIN	wap.univ-littoral.fr
-NOERROR	wp-master.univ-littoral.fr
-NOERROR	cisco-dk.univ-littoral.fr
-NOERROR	rc2009.bvdep.com.ezproxy.univ-littoral.fr
-NOERROR	mren2.univ-littoral.fr
-NOERROR	www.lexbase.fr.ezproxy.univ-littoral.fr
-NOERROR	ulco-candidat.univ-littoral.fr
-NOERROR	journeesimmersion.univ-littoral.fr
-NOERROR	iupc1027.univ-littoral.fr
-NOERROR	anis.univ-littoral.fr
-NOERROR	wifi-personnels-cl.univ-littoral.fr
-NOERROR	nouveau-europresse-com.ezproxy.univ-littoral.fr
-NOERROR	dpt-maths.univ-littoral.fr
-NOERROR	plan-iatoss.univ-littoral.fr
-NOERROR	recrutements-etudiants.extranet.univ-littoral.fr
-NOERROR	ulovul1.univ-littoral.fr
-NOERROR	zmta2.univ-littoral.fr
-NOERROR	belingua.univ-littoral.fr
-NXDOMAIN	shuttle5.univ-littoral.fr
-NOERROR	annuaire.univ-littoral.fr
-NOERROR	techno-info.univ-littoral.fr
-NOERROR	baru.univ-littoral.fr
-NOERROR	ballado.univ-littoral.fr
-NXDOMAIN	ipvcr.univ-littoral.fr
-NOERROR	live4.univ-littoral.fr
-NOERROR	bu5.univ-littoral.fr
-NOERROR	iupc1034.univ-littoral.fr
-NOERROR	ub1.univ-littoral.fr
-NOERROR	master-tourisme.univ-littoral.fr
-NXDOMAIN	immersion.univ-littoral.fr
-NXDOMAIN	cdem-projects.univ-littoral.fr
-NOERROR	iupc1001.univ-littoral.fr
-NOERROR	search.ebscohost.com.ezproxy.univ-littoral.fr
-NOERROR	innovoptique.univ-littoral.fr
-NXDOMAIN	"www.univ-littoral.fr
-NOERROR	enquetes.univ-littoral.fr
-NOERROR	iic0e.univ-littoral.fr
-NOERROR	drums.univ-littoral.fr
-NOERROR	portail-wifi-dk.univ-littoral.fr
-NOERROR	bbb11.univ-littoral.fr
-NOERROR	pcbubg4.univ-littoral.fr
-NOERROR	masterenvironnement-ete.univ-littoral.fr
-NOERROR	bu4.univ-littoral.fr
-NXDOMAIN	www.liste.univ-littoral.fr
-NOERROR	lysica.univ-littoral.fr
-NOERROR	cgr-calais1.univ-littoral.fr
-NOERROR	lpca3.univ-littoral.fr
-NOERROR	ulinfo1.univ-littoral.fr
-NOERROR	jade.univ-littoral.fr
-NXDOMAIN	www.zabbix-uad.univ-littoral.fr
-NOERROR	residence-longuenesse.univ-littoral.fr
-NOERROR	bbb10.univ-littoral.fr
-NOERROR	yangra.univ-littoral.fr
-NXDOMAIN	uebmfr.univ-littoral.fr
-NXDOMAIN	www.eval-info.univ-littoral.fr
-NXDOMAIN	apogeeas.univ-littoral.fr
-NOERROR	cisco-iupcalais.univ-littoral.fr
-NOERROR	wp10.univ-littoral.fr
-NOERROR	infos-etu.univ-littoral.fr
-NOERROR	misti.univ-littoral.fr
-NXDOMAIN	www.calcium-web.univ-littoral.fr
-NOERROR	calcium-rdv.univ-littoral.fr
-NOERROR	pcbul6.univ-littoral.fr
-NOERROR	iutgeniebio.univ-littoral.fr
-NXDOMAIN	smw38.univ-littoral.fr
-NOERROR	recrutements-enseignants.extranet.univ-littoral.fr
-NOERROR	pciupb6.univ-littoral.fr
-NOERROR	compta-fcu.univ-littoral.fr
-NXDOMAIN	ip-tmc1.univ-littoral.fr
-NOERROR	zmsmtp.univ-littoral.fr
-NOERROR	mreid.univ-littoral.fr
-NOERROR	e-vacataires.univ-littoral.fr
-NXDOMAIN	www.ip-tmc1.univ-littoral.fr
-NOERROR	iup-hipa.univ-littoral.fr
-NXDOMAIN	apogee-login.univ-littoral.fr
-NOERROR	iupc1103.univ-littoral.fr
-NOERROR	service-fcu.univ-littoral.fr
-NOERROR	ambre.univ-littoral.fr
-NOERROR	pcfc2.univ-littoral.fr
-NOERROR	eval-info.univ-littoral.fr
-NOERROR	master-fle.univ-littoral.fr
-NOERROR	live7.univ-littoral.fr
-NOERROR	histoire.univ-littoral.fr
-NOERROR	live5.univ-littoral.fr
-NOERROR	laforge.univ-littoral.fr
-NXDOMAIN	www.adds1.univ-littoral.fr
-NOERROR	bleuet.univ-littoral.fr
-NOERROR	2caps.univ-littoral.fr
-NXDOMAIN	shuttle2.univ-littoral.fr
-NXDOMAIN	smw57.univ-littoral.fr
-NOERROR	mren133.univ-littoral.fr
-NOERROR	lamyline.lamy.fr.ezproxy.univ-littoral.fr
-NXDOMAIN	smw36.univ-littoral.fr
-NOERROR	www.eilco.univ-littoral.fr
-NOERROR	blancnez.univ-littoral.fr
-NXDOMAIN	imap-lisic.univ-littoral.fr
-NOERROR	lpca.univ-littoral.fr
-NOERROR	portail-wifi-cl.univ-littoral.fr
-NOERROR	koda.univ-littoral.fr
-NOERROR	bu.dalloz.fr.ezproxy.univ-littoral.fr
-NOERROR	escalles.univ-littoral.fr
-NOERROR	napoleon.univ-littoral.fr
-NOERROR	crl.univ-littoral.fr
-NXDOMAIN	conpere-gestion.univ-littoral.fr
-NOERROR	kenai.univ-littoral.fr
-NOERROR	cripcls2.univ-littoral.fr
-NOERROR	live8.univ-littoral.fr
-NOERROR	moore.univ-littoral.fr
-NXDOMAIN	smw37.univ-littoral.fr
-NOERROR	ikoundou.univ-littoral.fr
-NXDOMAIN	www.ipweb-scol.univ-littoral.fr
-NOERROR	aktru.univ-littoral.fr
-NXDOMAIN	www.uvc.univ-littoral.fr
-NOERROR	conpere-web.univ-littoral.fr
-NOERROR	c2i.univ-littoral.fr
-NOERROR	makala.univ-littoral.fr
-NOERROR	larj.univ-littoral.fr
-NOERROR	station1.univ-littoral.fr
-NOERROR	pcbul1.univ-littoral.fr
-NOERROR	biennale-afraps.univ-littoral.fr
-NOERROR	auth.univ-littoral.fr
-NOERROR	jasmin.univ-littoral.fr
-NOERROR	pcce5.univ-littoral.fr
-NOERROR	zpreauth.univ-littoral.fr
-NOERROR	iupc1102.univ-littoral.fr
-NOERROR	mikeno.univ-littoral.fr
-NXDOMAIN	www.calypso.univ-littoral.fr
-NOERROR	masterqpah.univ-littoral.fr
-NXDOMAIN	smw52.univ-littoral.fr
-NOERROR	suaio.univ-littoral.fr
-NXDOMAIN	shuttle6.univ-littoral.fr
-NOERROR	bu8.univ-littoral.fr
-NOERROR	allen.univ-littoral.fr
-NOERROR	nomade.univ-littoral.fr
-NOERROR	www.lexis360.fr.ezproxy.univ-littoral.fr
-NXDOMAIN	uceiveng.univ-littoral.fr
-NOERROR	iupc1234.univ-littoral.fr
-NOERROR	www.eni-training.com.ezproxy.univ-littoral.fr
-NOERROR	santecampus.univ-littoral.fr
-NOERROR	mrshdk.univ-littoral.fr
-NXDOMAIN	master-marketing-commerce.univ-littoral.fr
-NXDOMAIN	ipweb-scol.univ-littoral.fr
-NOERROR	pc120b.univ-littoral.fr
-NOERROR	blogs-mediapart-fr.ezproxy.univ-littoral.fr
-NOERROR	pcbubg1.univ-littoral.fr
-NOERROR	iupc1025.univ-littoral.fr
-NOERROR	live6.univ-littoral.fr
-NOERROR	pc134a-11.univ-littoral.fr
-NOERROR	www.sciencedirect.com.ezproxy.univ-littoral.fr
-NOERROR	portail-wifi-musee.univ-littoral.fr
-NOERROR	evoxel.univ-littoral.fr
-NOERROR	lmpa.univ-littoral.fr
-NOERROR	townend.univ-littoral.fr
-NOERROR	minkebe.univ-littoral.fr
-NOERROR	zmmta1.univ-littoral.fr
-NOERROR	basson.univ-littoral.fr
-NOERROR	outice.univ-littoral.fr
-NOERROR	passerelle-lisic.univ-littoral.fr
-NOERROR	latham.univ-littoral.fr
-NOERROR	buzz.univ-littoral.fr
-NXDOMAIN	iut-sodk.univ-littoral.fr
-NOERROR	inrent.univ-littoral.fr
-NOERROR	bu14.univ-littoral.fr
-NOERROR	arvon.univ-littoral.fr
-NOERROR	iupc1024.univ-littoral.fr
-NOERROR	iupc1114.univ-littoral.fr
-NOERROR	gogs.univ-littoral.fr
-NOERROR	zmproxy1.univ-littoral.fr
-NOERROR	iupc1030.univ-littoral.fr
-NOERROR	ntp.univ-littoral.fr
-NXDOMAIN	www.fs.univ-littoral.fr
-NXDOMAIN	dessms2.univ-littoral.fr
-NOERROR	pcsbox.univ-littoral.fr
-NOERROR	bbb9.univ-littoral.fr
-NOERROR	m2a19.univ-littoral.fr
-NOERROR	pcce7.univ-littoral.fr
-NOERROR	m2cs.univ-littoral.fr
-NOERROR	piccolo.univ-littoral.fr
-NOERROR	pcce8.univ-littoral.fr
-NOERROR	mren178.univ-littoral.fr
-NOERROR	dess-isidis.univ-littoral.fr
-NOERROR	etu.univ-littoral.fr
-NOERROR	mren166.univ-littoral.fr
-NXDOMAIN	calcium-webtest.univ-littoral.fr
-NXDOMAIN	imn.univ-littoral.fr
-NOERROR	pcce1.univ-littoral.fr
-NOERROR	zmmta2.univ-littoral.fr
-NOERROR	iupc1035.univ-littoral.fr
-NOERROR	pcce4.univ-littoral.fr
-NOERROR	mren154.univ-littoral.fr
-NXDOMAIN	www.www-lisic.univ-littoral.fr
-NXDOMAIN	licencenotariat.univ-littoral.fr
-NOERROR	bu9.univ-littoral.fr
-NOERROR	imprimer.univ-littoral.fr
-NOERROR	stage-latex-gte.univ-littoral.fr
-NXDOMAIN	iutsodk.univ-littoral.fr
-NXDOMAIN	www-bulco.univ-littoral.fr
-NOERROR	cpc1001.univ-littoral.fr
-NOERROR	ins3i.univ-littoral.fr
-NXDOMAIN	adds1.univ-littoral.fr
-NOERROR	si.univ-littoral.fr
-NOERROR	assistance.univ-littoral.fr
-NOERROR	iutcalais.univ-littoral.fr
-NOERROR	biwa.univ-littoral.fr
-NOERROR	nouveau.europresse.com.ezproxy.univ-littoral.fr
-NOERROR	extra.univ-littoral.fr
-NOERROR	pc132-01.univ-littoral.fr
-NOERROR	catalogue-stages.univ-littoral.fr
-NXDOMAIN	dessms1.univ-littoral.fr
-NOERROR	www-snesup.univ-littoral.fr
-NOERROR	portail-wifi-descartes.univ-littoral.fr
-NOERROR	mren155.univ-littoral.fr
-NOERROR	gea-calais.univ-littoral.fr
-NOERROR	portail-wifi-bg.univ-littoral.fr
-NXDOMAIN	calcium-rdvtest.univ-littoral.fr
-NOERROR	bu3.univ-littoral.fr
-NOERROR	droit.univ-littoral.fr
-NOERROR	www-scol1.univ-littoral.fr
-NOERROR	ssu.univ-littoral.fr
-NOERROR	iupc1023.univ-littoral.fr
-NOERROR	ori-oai.univ-littoral.fr
-NOERROR	gw.univ-littoral.fr
-NOERROR	portailsi.univ-littoral.fr
-NOERROR	langues.univ-littoral.fr
+www.conpere-web.univ-littoral.fr
+jcmm2016.univ-littoral.fr
+pcbubg3.univ-littoral.fr
+conferences.univ-littoral.fr
+cd-serveur.univ-littoral.fr
+eilco-edt.univ-littoral.fr
+easyid.univ-littoral.fr
+sharelatex.univ-littoral.fr
+fcu.handicap-travail.univ-littoral.fr
+iupc1108.univ-littoral.fr
+cip.univ-littoral.fr
+iupc1113.univ-littoral.fr
+mbengoue.univ-littoral.fr
+lisic.univ-littoral.fr
+rrien.univ-littoral.fr
+ftpsgbm.univ-littoral.fr
+riien.univ-littoral.fr
+wp9.univ-littoral.fr
+mdedk.univ-littoral.fr
+infos.univ-littoral.fr
+pedago.univ-littoral.fr
+master-rim.univ-littoral.fr
+pc132.univ-littoral.fr
+pcbubg5.univ-littoral.fr
+cerise.univ-littoral.fr
+pcce6.univ-littoral.fr
+bu6.univ-littoral.fr
+mcu.univ-littoral.fr
+oae-test.univ-littoral.fr
+document.univ-littoral.fr
+h-s.univ-littoral.fr
+gta.univ-littoral.fr
+www.universalis-edu.com.ezproxy.univ-littoral.fr
+tandaimons.univ-littoral.fr
+bu1.univ-littoral.fr
+bu2.univ-littoral.fr
+journals.aps.org.ezproxy.univ-littoral.fr
+topaze.univ-littoral.fr
+cel.univ-littoral.fr
+www.lmpa.univ-littoral.fr
+sajama.univ-littoral.fr
+estouest2019.univ-littoral.fr
+formulaire.extranet.univ-littoral.fr
+muguet.univ-littoral.fr
+vanille.univ-littoral.fr
+live9.univ-littoral.fr
+mod-fictionnel.univ-littoral.fr
+www-lmpa-int.univ-littoral.fr
+abylasrv.univ-littoral.fr
+www.lexisnexis.com.ezproxy.univ-littoral.fr
+pcbubg10.univ-littoral.fr
+tsi.univ-littoral.fr
+deust-tml.univ-littoral.fr
+covoiturage.univ-littoral.fr
+cao.univ-littoral.fr
+mren173.univ-littoral.fr
+scitation.aip.org.ezproxy.univ-littoral.fr
+lyell.univ-littoral.fr
+capcbu4.univ-littoral.fr
+www.rii.univ-littoral.fr
+pc120.univ-littoral.fr
+www.conpere-web-gestion.univ-littoral.fr
+pivoine.univ-littoral.fr
+jfm2018.univ-littoral.fr
+scosi.univ-littoral.fr
+suaps.univ-littoral.fr
+udsmm.univ-littoral.fr
+scpc18.univ-littoral.fr
+presidence-ip35.univ-littoral.fr
+fresia.univ-littoral.fr
+www.univ-littoral.fr
+passerelle-cs.univ-littoral.fr
+wp4.univ-littoral.fr
+foruminnov21.univ-littoral.fr
+micollab.univ-littoral.fr
+urus.univ-littoral.fr
+master-accie.univ-littoral.fr
+pcce3.univ-littoral.fr
+iutcb-intranet.univ-littoral.fr
+www.conpere-webpprod-gestion.univ-littoral.fr
+www-heb.univ-littoral.fr
+pcbubg12.univ-littoral.fr
+bbb6.univ-littoral.fr
+hubert.univ-littoral.fr
+odesse-srv.univ-littoral.fr
+paget.univ-littoral.fr
+cafe.univ-littoral.fr
+bulito.univ-littoral.fr
+wp5.univ-littoral.fr
+fcu.univ-littoral.fr
+eds.b.ebscohost.com.ezproxy.univ-littoral.fr
+geiicalais.univ-littoral.fr
+zmta1.univ-littoral.fr
+web.b.ebscohost.com.ezproxy.univ-littoral.fr
+eilco-ocs.univ-littoral.fr
+listes.etu.univ-littoral.fr
+efpp12sfp10.univ-littoral.fr
+iupc1235.univ-littoral.fr
+pcbubg11.univ-littoral.fr
+pcbubg6.univ-littoral.fr
+rdv-ri.extranet.univ-littoral.fr
+cal1.univ-littoral.fr
+scpc2.univ-littoral.fr
+www.conpere-webpprod.univ-littoral.fr
+iupc1109.univ-littoral.fr
+plaid.univ-littoral.fr
+rose.univ-littoral.fr
+bu7.univ-littoral.fr
+select-etudiants.extranet.univ-littoral.fr
+mastermefmaths.univ-littoral.fr
+multimedia-fcu.univ-littoral.fr
+prorp.univ-littoral.fr
+slow.univ-littoral.fr
+arum.univ-littoral.fr
+calcium-web.univ-littoral.fr
+saturne.univ-littoral.fr
+www.bpe.europresse.com.ezproxy.univ-littoral.fr
+support.iut.univ-littoral.fr
+testblog.univ-littoral.fr
+ezproxy.univ-littoral.fr
+maya.univ-littoral.fr
+saxo.univ-littoral.fr
+cpc1000.univ-littoral.fr
+carrefour-fc.univ-littoral.fr
+overleaf.univ-littoral.fr
+mokekou.univ-littoral.fr
+mren139.univ-littoral.fr
+jupiter.univ-littoral.fr
+visiopod.univ-littoral.fr
+eds.a.ebscohost.com.ezproxy.univ-littoral.fr
+han-solo.univ-littoral.fr
+demandeve.extranet.univ-littoral.fr
+rii.univ-littoral.fr
+steven.univ-littoral.fr
+tictac.univ-littoral.fr
+wifi-personnels-bg.univ-littoral.fr
+www.opale.univ-littoral.fr
+monitoring-ipm.univ-littoral.fr
+petunia.univ-littoral.fr
+secureidpga.dalloz.fr.ezproxy.univ-littoral.fr
+iupc1227.univ-littoral.fr
+univ-littoral.fr
+bbb8.univ-littoral.fr
+www.cairn.info.ezproxy.univ-littoral.fr
+smtps.univ-littoral.fr
+siteiupb.univ-littoral.fr
+laforge.iut.univ-littoral.fr
+uceiv.univ-littoral.fr
+mren.univ-littoral.fr
+pcasi.univ-littoral.fr
+iupc2004.univ-littoral.fr
+login.ezproxy.univ-littoral.fr
+calao.univ-littoral.fr
+cal3.univ-littoral.fr
+colloqueplaisance-boulogne.univ-littoral.fr
+www.dalloz.fr.ezproxy.univ-littoral.fr
+jpo2021.univ-littoral.fr
+listes.univ-littoral.fr
+pcbul3.univ-littoral.fr
+ldap.univ-littoral.fr
+iris.univ-littoral.fr
+capcbu2.univ-littoral.fr
+turn.univ-littoral.fr
+ces.univ-littoral.fr
+pcbubg9.univ-littoral.fr
+suivis-enseignants.extranet.univ-littoral.fr
+archibl.univ-littoral.fr
+fushia.univ-littoral.fr
+gte.univ-littoral.fr
+live1.univ-littoral.fr
+iup-qpah.univ-littoral.fr
+pciutgb1.univ-littoral.fr
+form.univ-littoral.fr
+rrifr.univ-littoral.fr
+bbb3.univ-littoral.fr
+eduspot.univ-littoral.fr
+passerelle-lmpa.univ-littoral.fr
+portail-wifi-mren.univ-littoral.fr
+wifi-personnels-dk.univ-littoral.fr
+lpca-ws.univ-littoral.fr
+iut.univ-littoral.fr
+bmlc.univ-littoral.fr
+iupcalais.univ-littoral.fr
+scpcinfo.univ-littoral.fr
+mren172.univ-littoral.fr
+cd2010.univ-littoral.fr
+uceivfr.univ-littoral.fr
+lifou.univ-littoral.fr
+logiciels.univ-littoral.fr
+mrw006.univ-littoral.fr
+pcbubg8.univ-littoral.fr
+idp.univ-littoral.fr
+sis2018.univ-littoral.fr
+usic.univ-littoral.fr
+mren3.univ-littoral.fr
+apogee.univ-littoral.fr
+iupc1026.univ-littoral.fr
+cooper.univ-littoral.fr
+univ.scholarvox.com.ezproxy.univ-littoral.fr
+calypso.univ-littoral.fr
+acuite.univ-littoral.fr
+passerelle-udsmm.univ-littoral.fr
+prerp.univ-littoral.fr
+webmail.univ-littoral.fr
+yushan.univ-littoral.fr
+uvc.univ-littoral.fr
+experimentation.univ-littoral.fr
+mren179.univ-littoral.fr
+maya2.univ-littoral.fr
+mren169.univ-littoral.fr
+pc130-02.univ-littoral.fr
+www.generalis-indexpresse.com.ezproxy.univ-littoral.fr
+iupc1010.univ-littoral.fr
+bu11.univ-littoral.fr
+aps.univ-littoral.fr
+pcfc1.univ-littoral.fr
+ulovul2.univ-littoral.fr
+berlioz.univ-littoral.fr
+stages.univ-littoral.fr
+dess-icc.univ-littoral.fr
+archicl.univ-littoral.fr
+portail.univ-littoral.fr
+www.lextenso.fr.ezproxy.univ-littoral.fr
+pcbul7.univ-littoral.fr
+mecs.univ-littoral.fr
+logiciels-fcu.univ-littoral.fr
+vador.univ-littoral.fr
+crb.univ-littoral.fr
+live2.univ-littoral.fr
+licencebio.univ-littoral.fr
+bbb7.univ-littoral.fr
+netlab.iut.univ-littoral.fr
+napo.univ-littoral.fr
+secureidp.dalloz.fr.ezproxy.univ-littoral.fr
+www.nature.com.ezproxy.univ-littoral.fr
+master-egedd.univ-littoral.fr
+ontake.univ-littoral.fr
+evrp.univ-littoral.fr
+cripbls1.univ-littoral.fr
+visio.univ-littoral.fr
+impression.univ-littoral.fr
+iupc1236.univ-littoral.fr
+dana.univ-littoral.fr
+webconf.univ-littoral.fr
+portaildev.univ-littoral.fr
+oae-demo.univ-littoral.fr
+masterculture.univ-littoral.fr
+bbb5.univ-littoral.fr
+tulipe.univ-littoral.fr
+webconferences.univ-littoral.fr
+mastersciencesdelamer.univ-littoral.fr
+karuta-portfolio.univ-littoral.fr
+cal2.univ-littoral.fr
+marco.univ-littoral.fr
+espacelitteraire.univ-littoral.fr
+radius.univ-littoral.fr
+www-sciencedirect-com.ezproxy.univ-littoral.fr
+pjweb-scol.univ-littoral.fr
+irene.univ-littoral.fr
+iupc1031.univ-littoral.fr
+absysnet.univ-littoral.fr
+kiwi.univ-littoral.fr
+qcmc2i.univ-littoral.fr
+pcalex.univ-littoral.fr
+mawenzi.univ-littoral.fr
+riifr.univ-littoral.fr
+www.doctrinal.fr.ezproxy.univ-littoral.fr
+www-lisic.univ-littoral.fr
+atelierculture.univ-littoral.fr
+budemod.univ-littoral.fr
+log.univ-littoral.fr
+dpt-info.univ-littoral.fr
+hlli.univ-littoral.fr
+grizzly.univ-littoral.fr
+209hpe60.univ-littoral.fr
+chimie2.univ-littoral.fr
+mren171.univ-littoral.fr
+phyteo.univ-littoral.fr
+eebo.chadwyck.com.ezproxy.univ-littoral.fr
+live3.univ-littoral.fr
+tasman.univ-littoral.fr
+pcbubg13.univ-littoral.fr
+liste.univ-littoral.fr
+netlab.univ-littoral.fr
+master-ei.univ-littoral.fr
+sites.univ-littoral.fr
+bu10.univ-littoral.fr
+jobox.univ-littoral.fr
+opale.univ-littoral.fr
+dunk-ip181202.univ-littoral.fr
+egalite.univ-littoral.fr
+www.techniques-ingenieur.fr.ezproxy.univ-littoral.fr
+infos-pedago.univ-littoral.fr
+enlpca.univ-littoral.fr
+www.iut.univ-littoral.fr
+crhael.univ-littoral.fr
+biennalesdutourisme.univ-littoral.fr
+bulco.univ-littoral.fr
+iscid.univ-littoral.fr
+podcast.univ-littoral.fr
+licencee4i.univ-littoral.fr
+mren177.univ-littoral.fr
+mrw001.univ-littoral.fr
+www-scol.univ-littoral.fr
+visiocast.univ-littoral.fr
+bbb4.univ-littoral.fr
+lilas.univ-littoral.fr
+snesup.univ-littoral.fr
+pmoi.univ-littoral.fr
+sage.univ-littoral.fr
+catalogue.suaio.univ-littoral.fr
+www.jstor.org.ezproxy.univ-littoral.fr
+intranet-geiicalais.univ-littoral.fr
+extranet.univ-littoral.fr
+pc122.univ-littoral.fr
+wallace.univ-littoral.fr
+stats.univ-littoral.fr
+icv.univ-littoral.fr
+oae.univ-littoral.fr
+ararat.univ-littoral.fr
+cosaco.univ-littoral.fr
+floyd.univ-littoral.fr
+portail-wifi-capecure.univ-littoral.fr
+scpc1.univ-littoral.fr
+uhuru.univ-littoral.fr
+pcbul2.univ-littoral.fr
+minkong.univ-littoral.fr
+says.univ-littoral.fr
+suaps.extranet.univ-littoral.fr
+prise3d.univ-littoral.fr
+ip.doctrinalplus.fr.ezproxy.univ-littoral.fr
+pc123.univ-littoral.fr
+neo.univ-littoral.fr
+master-intel.univ-littoral.fr
+c3po.univ-littoral.fr
+mren150.univ-littoral.fr
+eco-gestion.univ-littoral.fr
+residence-boulogne.univ-littoral.fr
+cao-btp.univ-littoral.fr
+cisco-dk-eth1.univ-littoral.fr
+bali.univ-littoral.fr
+pcsoe2.univ-littoral.fr
+mooc-c2i.univ-littoral.fr
+rri.univ-littoral.fr
+wims.univ-littoral.fr
+portail-wifi-mrsh.univ-littoral.fr
+ccm.univ-littoral.fr
+transferts.extranet.univ-littoral.fr
+elico.univ-littoral.fr
+purple.univ-littoral.fr
+certiflangues.univ-littoral.fr
+bbb.univ-littoral.fr
+widgets.ebscohost.com.ezproxy.univ-littoral.fr
+patrice.univ-littoral.fr
+cpc1002.univ-littoral.fr
+gw-geiicalais.univ-littoral.fr
+paul.univ-littoral.fr
+mren168.univ-littoral.fr
+seeten.univ-littoral.fr
+karuta.univ-littoral.fr
+diran.univ-littoral.fr
+iupc1232.univ-littoral.fr
+linkinghub.elsevier.com.ezproxy.univ-littoral.fr
+www4.lexbase.fr.ezproxy.univ-littoral.fr
+cornet.univ-littoral.fr
+ulcop21.univ-littoral.fr
+proxy-cs.univ-littoral.fr
+capcbu3.univ-littoral.fr
+pcbubg2.univ-littoral.fr
+select-etudiants.univ-littoral.fr
+mabcam.univ-littoral.fr
+venus.univ-littoral.fr
+tolima.univ-littoral.fr
+ent.univ-littoral.fr
+portail-wifi-lamartine.univ-littoral.fr
+documents.univ-littoral.fr
+www-lmpa.univ-littoral.fr
+rhum.univ-littoral.fr
+innovation.univ-littoral.fr
+turing.univ-littoral.fr
+deust-bcmm.univ-littoral.fr
+www-calculco.univ-littoral.fr
+iupc1112.univ-littoral.fr
+cel-hubhouse.univ-littoral.fr
+sylane.univ-littoral.fr
+iupc2001.univ-littoral.fr
+mimosa.univ-littoral.fr
+juncal.univ-littoral.fr
+edt.univ-littoral.fr
+staps.univ-littoral.fr
+sg1.univ-littoral.fr
+sakai.univ-littoral.fr
+mren176.univ-littoral.fr
+pcce2.univ-littoral.fr
+enerulco.univ-littoral.fr
+max.univ-littoral.fr
+deplangues.univ-littoral.fr
+pca3.univ-littoral.fr
+www.bulco.univ-littoral.fr
+pcfc3.univ-littoral.fr
+pcbubg7.univ-littoral.fr
+licencegeo.univ-littoral.fr
+flute.univ-littoral.fr
+iboudji.univ-littoral.fr
+lys.univ-littoral.fr
+reprp.univ-littoral.fr
+mel-etu.univ-littoral.fr
+wp-master.univ-littoral.fr
+cisco-dk.univ-littoral.fr
+rc2009.bvdep.com.ezproxy.univ-littoral.fr
+mren2.univ-littoral.fr
+www.lexbase.fr.ezproxy.univ-littoral.fr
+ulco-candidat.univ-littoral.fr
+journeesimmersion.univ-littoral.fr
+iupc1027.univ-littoral.fr
+anis.univ-littoral.fr
+wifi-personnels-cl.univ-littoral.fr
+nouveau-europresse-com.ezproxy.univ-littoral.fr
+dpt-maths.univ-littoral.fr
+plan-iatoss.univ-littoral.fr
+recrutements-etudiants.extranet.univ-littoral.fr
+ulovul1.univ-littoral.fr
+zmta2.univ-littoral.fr
+belingua.univ-littoral.fr
+annuaire.univ-littoral.fr
+techno-info.univ-littoral.fr
+baru.univ-littoral.fr
+ballado.univ-littoral.fr
+live4.univ-littoral.fr
+bu5.univ-littoral.fr
+iupc1034.univ-littoral.fr
+ub1.univ-littoral.fr
+master-tourisme.univ-littoral.fr
+iupc1001.univ-littoral.fr
+search.ebscohost.com.ezproxy.univ-littoral.fr
+innovoptique.univ-littoral.fr
+enquetes.univ-littoral.fr
+iic0e.univ-littoral.fr
+drums.univ-littoral.fr
+portail-wifi-dk.univ-littoral.fr
+bbb11.univ-littoral.fr
+pcbubg4.univ-littoral.fr
+masterenvironnement-ete.univ-littoral.fr
+bu4.univ-littoral.fr
+lysica.univ-littoral.fr
+cgr-calais1.univ-littoral.fr
+lpca3.univ-littoral.fr
+ulinfo1.univ-littoral.fr
+jade.univ-littoral.fr
+residence-longuenesse.univ-littoral.fr
+bbb10.univ-littoral.fr
+yangra.univ-littoral.fr
+cisco-iupcalais.univ-littoral.fr
+wp10.univ-littoral.fr
+infos-etu.univ-littoral.fr
+misti.univ-littoral.fr
+calcium-rdv.univ-littoral.fr
+pcbul6.univ-littoral.fr
+iutgeniebio.univ-littoral.fr
+recrutements-enseignants.extranet.univ-littoral.fr
+pciupb6.univ-littoral.fr
+compta-fcu.univ-littoral.fr
+zmsmtp.univ-littoral.fr
+mreid.univ-littoral.fr
+e-vacataires.univ-littoral.fr
+iup-hipa.univ-littoral.fr
+iupc1103.univ-littoral.fr
+service-fcu.univ-littoral.fr
+ambre.univ-littoral.fr
+pcfc2.univ-littoral.fr
+eval-info.univ-littoral.fr
+master-fle.univ-littoral.fr
+live7.univ-littoral.fr
+histoire.univ-littoral.fr
+live5.univ-littoral.fr
+laforge.univ-littoral.fr
+bleuet.univ-littoral.fr
+2caps.univ-littoral.fr
+mren133.univ-littoral.fr
+lamyline.lamy.fr.ezproxy.univ-littoral.fr
+www.eilco.univ-littoral.fr
+blancnez.univ-littoral.fr
+lpca.univ-littoral.fr
+portail-wifi-cl.univ-littoral.fr
+koda.univ-littoral.fr
+bu.dalloz.fr.ezproxy.univ-littoral.fr
+escalles.univ-littoral.fr
+napoleon.univ-littoral.fr
+crl.univ-littoral.fr
+kenai.univ-littoral.fr
+cripcls2.univ-littoral.fr
+live8.univ-littoral.fr
+moore.univ-littoral.fr
+ikoundou.univ-littoral.fr
+aktru.univ-littoral.fr
+conpere-web.univ-littoral.fr
+c2i.univ-littoral.fr
+makala.univ-littoral.fr
+larj.univ-littoral.fr
+station1.univ-littoral.fr
+pcbul1.univ-littoral.fr
+biennale-afraps.univ-littoral.fr
+auth.univ-littoral.fr
+jasmin.univ-littoral.fr
+pcce5.univ-littoral.fr
+zpreauth.univ-littoral.fr
+iupc1102.univ-littoral.fr
+mikeno.univ-littoral.fr
+masterqpah.univ-littoral.fr
+suaio.univ-littoral.fr
+bu8.univ-littoral.fr
+allen.univ-littoral.fr
+nomade.univ-littoral.fr
+www.lexis360.fr.ezproxy.univ-littoral.fr
+iupc1234.univ-littoral.fr
+www.eni-training.com.ezproxy.univ-littoral.fr
+santecampus.univ-littoral.fr
+mrshdk.univ-littoral.fr
+pc120b.univ-littoral.fr
+blogs-mediapart-fr.ezproxy.univ-littoral.fr
+pcbubg1.univ-littoral.fr
+iupc1025.univ-littoral.fr
+live6.univ-littoral.fr
+pc134a-11.univ-littoral.fr
+www.sciencedirect.com.ezproxy.univ-littoral.fr
+portail-wifi-musee.univ-littoral.fr
+evoxel.univ-littoral.fr
+lmpa.univ-littoral.fr
+townend.univ-littoral.fr
+minkebe.univ-littoral.fr
+zmmta1.univ-littoral.fr
+basson.univ-littoral.fr
+outice.univ-littoral.fr
+passerelle-lisic.univ-littoral.fr
+latham.univ-littoral.fr
+buzz.univ-littoral.fr
+inrent.univ-littoral.fr
+bu14.univ-littoral.fr
+arvon.univ-littoral.fr
+iupc1024.univ-littoral.fr
+iupc1114.univ-littoral.fr
+gogs.univ-littoral.fr
+zmproxy1.univ-littoral.fr
+iupc1030.univ-littoral.fr
+ntp.univ-littoral.fr
+pcsbox.univ-littoral.fr
+bbb9.univ-littoral.fr
+m2a19.univ-littoral.fr
+pcce7.univ-littoral.fr
+m2cs.univ-littoral.fr
+piccolo.univ-littoral.fr
+pcce8.univ-littoral.fr
+mren178.univ-littoral.fr
+dess-isidis.univ-littoral.fr
+etu.univ-littoral.fr
+mren166.univ-littoral.fr
+pcce1.univ-littoral.fr
+zmmta2.univ-littoral.fr
+iupc1035.univ-littoral.fr
+pcce4.univ-littoral.fr
+mren154.univ-littoral.fr
+bu9.univ-littoral.fr
+imprimer.univ-littoral.fr
+stage-latex-gte.univ-littoral.fr
+cpc1001.univ-littoral.fr
+ins3i.univ-littoral.fr
+si.univ-littoral.fr
+assistance.univ-littoral.fr
+iutcalais.univ-littoral.fr
+biwa.univ-littoral.fr
+nouveau.europresse.com.ezproxy.univ-littoral.fr
+extra.univ-littoral.fr
+pc132-01.univ-littoral.fr
+catalogue-stages.univ-littoral.fr
+www-snesup.univ-littoral.fr
+portail-wifi-descartes.univ-littoral.fr
+mren155.univ-littoral.fr
+gea-calais.univ-littoral.fr
+portail-wifi-bg.univ-littoral.fr
+bu3.univ-littoral.fr
+droit.univ-littoral.fr
+www-scol1.univ-littoral.fr
+ssu.univ-littoral.fr
+iupc1023.univ-littoral.fr
+ori-oai.univ-littoral.fr
+gw.univ-littoral.fr
+portailsi.univ-littoral.fr
+langues.univ-littoral.fr

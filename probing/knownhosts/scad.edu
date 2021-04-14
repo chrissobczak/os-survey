@@ -1,340 +1,266 @@
-NOERROR	imap.scad.edu
-NOERROR	ns2.scad.edu
-NOERROR	atl-sciquest-hk.scad.edu
-NOERROR	did.scad.edu
-NOERROR	homepage.scad.edu
-NOERROR	elearning.scad.edu
-NOERROR	bb9-app.scad.edu
-NXDOMAIN	www.mdm.scad.edu
-NOERROR	blog.scad.edu
-NOERROR	0-www.emeraldinsight.com.library.scad.edu
-NOERROR	mail-gw1.scad.edu
-NXDOMAIN	www.studentstore.scad.edu
-NOERROR	0-static2.statista.com.library.scad.edu
-NOERROR	0-www.materialconnexion.com.library.scad.edu
-NOERROR	atl-webcheck.scad.edu
-NOERROR	0-screen.oxfordjournals.org.library.scad.edu
-NOERROR	0-signin.lexisnexis.com.library.scad.edu
-NXDOMAIN	stumail.scad.edu
-NXDOMAIN	www.myscad.scad.edu
-NXDOMAIN	www.stumail.scad.edu
-NOERROR	oci-app-ui.scad.edu
-NOERROR	0-dx.doi.org.library.scad.edu
-NXDOMAIN	www.wiki.scad.edu
-NOERROR	welcome.scad.edu
-NOERROR	0-www.aes.org.library.scad.edu
-NOERROR	nat-gd.scad.edu
-NOERROR	0-search.ebscohost.com.library.scad.edu
-NOERROR	click.et.scad.edu
-NOERROR	em-mailer.scad.edu
-NOERROR	0-content.ebscohost.com.library.scad.edu
-NOERROR	0-static1.statista.com.library.scad.edu
-NOERROR	techsupport.scad.edu
-NOERROR	0-web.a.ebscohost.com.library.scad.edu
-NOERROR	you.scad.edu
-NXDOMAIN	hk-cp-dat-1.scad.edu
-NOERROR	0-search.proquest.com.library.scad.edu
-NOERROR	0-cdn3.statista.com.library.scad.edu
-NOERROR	lum15-lb.scad.edu
-NXDOMAIN	www.sav-aruba-b.scad.edu
-NOERROR	tem-relay.scad.edu
-NOERROR	lum15-lb-tst.scad.edu
-NOERROR	studentstore.scad.edu
-NOERROR	www.library.scad.edu
-NOERROR	0-www.varietyinsight.com.library.scad.edu
-NOERROR	fashwknd.scad.edu
-NOERROR	nat-ca.scad.edu
-NOERROR	netid.scad.edu
-NOERROR	0-www.andlookup.com.library.scad.edu
-NXDOMAIN	atl-cp-mgr-2.scad.edu
-NOERROR	0-oaj.oxfordjournals.org.library.scad.edu
-NXDOMAIN	hk-aruba-1.scad.edu
-NXDOMAIN	hk-cp-mgr-1.scad.edu
-NOERROR	atl-mail.scad.edu
-NOERROR	sevenlessons.scad.edu
-NOERROR	depts.scad.edu
-NOERROR	0-login.chicagomanualofstyle.org.library.scad.edu
-NOERROR	0-www.oed.com.library.scad.edu
-NOERROR	deptsstg.scad.edu
-NOERROR	render.scad.edu
-NOERROR	0-cdn4.statista.com.library.scad.edu
-NOERROR	ftp.scad.edu
-NOERROR	employeepages.scad.edu
-NOERROR	sav-lic-gateway-1.scad.edu
-NOERROR	atl-sciquest-dev.scad.edu
-NXDOMAIN	sfdm.ca.scad.edu
-NOERROR	admission.scad.edu
-NXDOMAIN	cms5-drupal.scad.edu
-NOERROR	0-global-assets.panjiva.com.library.scad.edu
-NOERROR	0-www.wgsn.com.library.scad.edu
-NOERROR	atl-sciquest-fm-hk.scad.edu
-NXDOMAIN	facebook.scad.edu
-NOERROR	sav-macman.scad.edu
-NOERROR	0-web.b.ebscohost.com.library.scad.edu
-NXDOMAIN	www.hk-aruba-2.scad.edu
-NOERROR	dbtest.scad.edu
-NOERROR	test-scadatlantaradio.scad.edu
-NOERROR	mailserv.scad.edu
-NOERROR	building-status.scad.edu
-NXDOMAIN	www.isso.scad.edu
-NOERROR	majorsfair.scad.edu
-NOERROR	mta.et.scad.edu
-NOERROR	0-static4.statista.com.library.scad.edu
-NXDOMAIN	www.sav-aruba-a.scad.edu
-NOERROR	commencement.scad.edu
-NOERROR	filmfestdev.scad.edu
-NOERROR	sav-transact-rp.scad.edu
-NOERROR	myprint.scad.edu
-NOERROR	0-www.warc.com.library.scad.edu
-NXDOMAIN	atl-cp-dat-2.scad.edu
-NOERROR	0-www.tandfonline.com.library.scad.edu
-NOERROR	sav-radio-a.scad.edu
-NOERROR	asc.scad.edu
-NOERROR	sfdm.scad.edu
-NOERROR	scad.edu
-NOERROR	atl-radio-a.scad.edu
-NOERROR	nat1.scad.edu
-NOERROR	portal-tst.scad.edu
-NOERROR	ecollections.scad.edu
-NXDOMAIN	www.elearning.scad.edu
-NOERROR	sso.scad.edu
-NOERROR	0-www.lexisnexis.com.library.scad.edu
-NOERROR	0-advance.lexis.com.library.scad.edu
-NOERROR	0-www.philanthropy.com.library.scad.edu
-NXDOMAIN	www.web-ssl-1.scad.edu
-NOERROR	auth.scad.edu
-NOERROR	mail.scad.edu
-NOERROR	0-jdh.oxfordjournals.org.library.scad.edu
-NOERROR	0-es.panjiva.com.library.scad.edu
-NOERROR	deptsdev.scad.edu
-NXDOMAIN	www.cfweb.scad.edu
-NOERROR	scadapp.scad.edu
-NXDOMAIN	www.sav-aruba-a-84.scad.edu
-NOERROR	isso.scad.edu
-NXDOMAIN	wiki.scad.edu
-NOERROR	0-www.csa.com.library.scad.edu
-NOERROR	cms-pub.scad.edu
-NOERROR	myscad.scad.edu
-NOERROR	interactive.scad.edu
-NOERROR	webcheck-sdm.scad.edu
-NXDOMAIN	www.web-ssl-3.scad.edu
-NOERROR	0-media.proquest.com.library.scad.edu
-NOERROR	ssl-vpn01.scad.edu
-NXDOMAIN	www.appserv.scad.edu
-NXDOMAIN	www.techhelp.scad.edu
-NXDOMAIN	www.web.scad.edu
-NOERROR	0-www.adorninsight.com.library.scad.edu
-NOERROR	cfweb.scad.edu
-NOERROR	collaborate.scad.edu
-NOERROR	0-uls.wwd.com.library.scad.edu
-NXDOMAIN	lt102scan.scad.edu
-NXDOMAIN	web-ssl-3.scad.edu
-NXDOMAIN	www.hk-aruba-1.scad.edu
-NOERROR	webmail.scad.edu
-NOERROR	0-www.sciencedirect.com.library.scad.edu
-NOERROR	0-www.materialconnexion.online.library.scad.edu
-NOERROR	connect.scad.edu
-NOERROR	0-firstsearch.oclc.org.library.scad.edu
-NOERROR	sav-cp-dat.scad.edu
-NOERROR	nat-sba.scad.edu
-NOERROR	0-academic.eb.com.library.scad.edu
-NOERROR	web.scad.edu
-NOERROR	0-sourcingjournal.com.library.scad.edu
-NXDOMAIN	cmpa.ca.scad.edu
-NOERROR	0-www.bloomsburyfashioncentral.com.library.scad.edu
-NOERROR	mail-gw3.scad.edu
-NOERROR	mymedia.scad.edu
-NXDOMAIN	www.transact-tst.scad.edu
-NOERROR	mailtest.scad.edu
-NOERROR	www.fashion-in-frame.scad.edu
-NOERROR	bannerweb.scad.edu
-NXDOMAIN	www.web-ssl-2.scad.edu
-NOERROR	0-static5.statista.com.library.scad.edu
-NOERROR	0-www.euppublishing.com.library.scad.edu
-NOERROR	0-www.windowswear.com.library.scad.edu
-NOERROR	sav-aruba-b.scad.edu
-NOERROR	0-jsah.ucpress.edu.library.scad.edu
-NOERROR	0-www.oxfordartonline.com.library.scad.edu
-NXDOMAIN	atl-cp-dat-1.scad.edu
-NOERROR	em.scad.edu
-NOERROR	sav-aruba-a.scad.edu
-NOERROR	fashstg.scad.edu
-NOERROR	wsus.scad.edu
-NXDOMAIN	facweb.scad.edu
-NOERROR	0-www.emerald.com.library.scad.edu
-NOERROR	0-logon.onesource.com.library.scad.edu
-NOERROR	sav-myfile.scad.edu
-NOERROR	savdc-2.scad.edu
-NOERROR	0-www.ingentaconnect.com.library.scad.edu
-NXDOMAIN	hk-aruba-2.scad.edu
-NOERROR	trace.scad.edu
-NOERROR	0-www.peclersplus.com.library.scad.edu
-NOERROR	savannahsecession.scad.edu
-NOERROR	0-www.referenceusa.com.library.scad.edu
-NOERROR	www2.scad.edu
-NOERROR	0-cdn5.statista.com.library.scad.edu
-NOERROR	fashdev.scad.edu
-NXDOMAIN	www.atl-webcheck.scad.edu
-NXDOMAIN	guardian.scad.edu
-NOERROR	portfolios.scad.edu
-NOERROR	0-www.cambridge.org.library.scad.edu
-NXDOMAIN	www.myfile.scad.edu
-NOERROR	sav-cp-mgr.scad.edu
-NXDOMAIN	www.student.scad.edu
-NXDOMAIN	webcheck-hm-14.scad.edu
-NOERROR	0-read.dukeupress.edu.library.scad.edu
-NOERROR	test-scaddistrict.scad.edu
-NOERROR	0-library.cqpress.com.library.scad.edu
-NOERROR	www.scad.edu
-NOERROR	0-windowswear.com.library.scad.edu
-NOERROR	0-cdn.warc.com.library.scad.edu
-NOERROR	0-www.scmp.com.library.scad.edu
-NOERROR	techhelp.scad.edu
-NXDOMAIN	fr-cp-mgr-1.scad.edu
-NOERROR	shopscad.scad.edu
-NXDOMAIN	websurvey.scad.edu
-NOERROR	0-www.redbooks.com.library.scad.edu
-NOERROR	fashion-in-frame.scad.edu
-NOERROR	0-fconline.foundationcenter.org.library.scad.edu
-NOERROR	lum16-lb-tst.scad.edu
-NOERROR	filmfest.scad.edu
-NXDOMAIN	atl-webcheck-gen-15.scad.edu
-NOERROR	wsso.scad.edu
-NOERROR	edge1.scad.edu
-NOERROR	myscadtv.scad.edu
-NOERROR	0-cn.panjiva.com.library.scad.edu
-NOERROR	0-uls.sourcingjournal.com.library.scad.edu
-NOERROR	0-ebookcentral.proquest.com.library.scad.edu
-NOERROR	sav-aruba-b-84.scad.edu
-NXDOMAIN	hk-webcheck.scad.edu
-NOERROR	0-www.journals.uchicago.edu.library.scad.edu
-NXDOMAIN	www.mailtest.scad.edu
-NOERROR	web-ssl-2.scad.edu
-NOERROR	scadappdev.scad.edu
-NOERROR	student.scad.edu
-NOERROR	scadjobs.scad.edu
-NOERROR	atl-sciquest-fm-dev.scad.edu
-NOERROR	0web.b.ebscohost.com.library.scad.edu
-NOERROR	smtp.scad.edu
-NOERROR	0-www.digitaltheatreplus.com.library.scad.edu
-NOERROR	go.scad.edu
-NXDOMAIN	www.transact.scad.edu
-NOERROR	sidewalkarts2020.scad.edu
-NOERROR	0-cdn1.statista.com.library.scad.edu
-NXDOMAIN	scadconnect.scad.edu
-NOERROR	render.sfdm.scad.edu
-NXDOMAIN	www.web-ssl-4.scad.edu
-NOERROR	0-s3-eu-west-1.amazonaws.com.library.scad.edu
-NOERROR	sav-aruba-a-84.scad.edu
-NXDOMAIN	nat-res.scad.edu
-NOERROR	mail-gw2.scad.edu
-NXDOMAIN	faculty.scad.edu
-NOERROR	autodiscover.scad.edu
-NOERROR	mdm.scad.edu
-NOERROR	html.scad.edu
-NOERROR	m.scadjobs.scad.edu
-NOERROR	ssb.scad.edu
-NOERROR	facultypages.scad.edu
-NOERROR	sav-trend.scad.edu
-NXDOMAIN	sav-cp-dat-2.scad.edu
-NOERROR	nat-lib.scad.edu
-NOERROR	myevents.scad.edu
-NOERROR	webserv.scad.edu
-NOERROR	my.scad.edu
-NOERROR	0-onlinelibrary.wiley.com.library.scad.edu
-NXDOMAIN	sav-cp-mgr-2.scad.edu
-NOERROR	edge2.scad.edu
-NOERROR	0-bjaesthetics.oxfordjournals.org.library.scad.edu
-NOERROR	sav-mta-1.scad.edu
-NOERROR	0-www.mitpressjournals.org.library.scad.edu
-NOERROR	watch.scad.edu
-NOERROR	myfile.scad.edu
-NOERROR	0-scholar.google.com.library.scad.edu
-NOERROR	webauth.scad.edu
-NOERROR	orientation.scad.edu
-NOERROR	transact.scad.edu
-NOERROR	0-online.salempress.com.library.scad.edu
-NOERROR	0-www.chicagomanualofstyle.org.library.scad.edu
-NXDOMAIN	www.admission.scad.edu
-NOERROR	0-panjiva.com.library.scad.edu
-NOERROR	0-wordpress.panjiva.com.library.scad.edu
-NXDOMAIN	www.em.scad.edu
-NOERROR	0-img.windowswear.com.library.scad.edu
-NOERROR	filmfeststg.scad.edu
-NOERROR	0-www.jstor.org.library.scad.edu
-NOERROR	0-comx.alexanderstreet.com.library.scad.edu
-NXDOMAIN	www.blog.scad.edu
-NOERROR	0-www.nexisuni.com.library.scad.edu
-NOERROR	clearpass.scad.edu
-NOERROR	myvisitor.scad.edu
-NOERROR	0-wwd.com.library.scad.edu
-NOERROR	atl-myfile.scad.edu
-NOERROR	0-library.artstor.org.library.scad.edu
-NOERROR	0-proquest.safaribooksonline.com.library.scad.edu
-NOERROR	0-academic.oup.com.library.scad.edu
-NOERROR	appserv.scad.edu
-NOERROR	atl-sciquest-hk-dev.scad.edu
-NOERROR	scadappstg.scad.edu
-NXDOMAIN	hive.scad.edu
-NOERROR	library.scad.edu
-NOERROR	atl-fm-wflow.scad.edu
-NOERROR	0-infotrac.galegroup.com.library.scad.edu
-NOERROR	0-www.intellectbooks.co.uk.library.scad.edu
-NOERROR	sav-dlp.scad.edu
-NOERROR	nat-vid.scad.edu
-NOERROR	mail-gw4.scad.edu
-NOERROR	elearning-tst.scad.edu
-NOERROR	sdm.scad.edu
-NXDOMAIN	web-ssl-4.scad.edu
-NOERROR	trendadmin.scad.edu
-NOERROR	0-cdn.alexanderstreet.com.library.scad.edu
-NOERROR	0-search.alexanderstreet.com.library.scad.edu
-NXDOMAIN	www.webcheck-sdm.scad.edu
-NOERROR	studentpages.scad.edu
-NXDOMAIN	web-ssl-1.scad.edu
-NXDOMAIN	atl-cp-mgr-1.scad.edu
-NOERROR	0-sourcingjournalonline.com.library.scad.edu
-NOERROR	image.et.scad.edu
-NOERROR	el-myfile.scad.edu
-NOERROR	atl-em-fm.scad.edu
-NOERROR	vnet.scad.edu
-NOERROR	app.scad.edu
-NOERROR	0-dl.acm.org.library.scad.edu
-NXDOMAIN	cscadforms.scad.edu
-NOERROR	alfresco.scad.edu
-NXDOMAIN	trusteestheater.scad.edu
-NOERROR	remote.scad.edu
-NOERROR	0-journals.sagepub.com.library.scad.edu
-NOERROR	0-www.ebscohost.com.library.scad.edu
-NXDOMAIN	fr-cp-dat-1.scad.edu
-NXDOMAIN	www.hk-webcheck.scad.edu
-NXDOMAIN	www.sav-aruba-b-84.scad.edu
-NOERROR	0-pro.windowswear.com.library.scad.edu
-NOERROR	dailytours.scad.edu
-NXDOMAIN	scadconnect-tst.scad.edu
-NXDOMAIN	cms5-pub.scad.edu
-NOERROR	0-cdn2.statista.com.library.scad.edu
-NOERROR	0-www.buildinggreen.com.library.scad.edu
-NOERROR	atl-app-ui.scad.edu
-NXDOMAIN	www.ssl-vpn01.scad.edu
-NOERROR	dgw.scad.edu
-NOERROR	scadcareers.scad.edu
-NOERROR	0-www.statista.com.library.scad.edu
-NOERROR	lum16-lb.scad.edu
-NXDOMAIN	www.mymedia.scad.edu
-NOERROR	outlook.scad.edu
-NOERROR	transact-tst.scad.edu
-NOERROR	www.sfdm.scad.edu
-NOERROR	vsav.scad.edu
-NOERROR	webvpn.scad.edu
-NOERROR	atl-stu-mta.scad.edu
-NXDOMAIN	www.shopscad.scad.edu
-NOERROR	ns1.scad.edu
-NXDOMAIN	as.scad.edu
-NOERROR	0-us.sagepub.com.library.scad.edu
-NOERROR	hk-myfile.scad.edu
-NOERROR	atl-sciquest-fm-hk-dev.scad.edu
-NXDOMAIN	www.mailserv.scad.edu
-NOERROR	0-static3.statista.com.library.scad.edu
-NOERROR	student.scad.edu
-NXDOMAIN	www.student.scad.edu
+imap.scad.edu
+ns2.scad.edu
+atl-sciquest-hk.scad.edu
+did.scad.edu
+homepage.scad.edu
+elearning.scad.edu
+bb9-app.scad.edu
+blog.scad.edu
+0-www.emeraldinsight.com.library.scad.edu
+mail-gw1.scad.edu
+0-static2.statista.com.library.scad.edu
+0-www.materialconnexion.com.library.scad.edu
+atl-webcheck.scad.edu
+0-screen.oxfordjournals.org.library.scad.edu
+0-signin.lexisnexis.com.library.scad.edu
+oci-app-ui.scad.edu
+0-dx.doi.org.library.scad.edu
+welcome.scad.edu
+0-www.aes.org.library.scad.edu
+nat-gd.scad.edu
+0-search.ebscohost.com.library.scad.edu
+click.et.scad.edu
+em-mailer.scad.edu
+0-content.ebscohost.com.library.scad.edu
+0-static1.statista.com.library.scad.edu
+techsupport.scad.edu
+0-web.a.ebscohost.com.library.scad.edu
+you.scad.edu
+0-search.proquest.com.library.scad.edu
+0-cdn3.statista.com.library.scad.edu
+lum15-lb.scad.edu
+tem-relay.scad.edu
+lum15-lb-tst.scad.edu
+studentstore.scad.edu
+www.library.scad.edu
+0-www.varietyinsight.com.library.scad.edu
+fashwknd.scad.edu
+nat-ca.scad.edu
+netid.scad.edu
+0-www.andlookup.com.library.scad.edu
+0-oaj.oxfordjournals.org.library.scad.edu
+atl-mail.scad.edu
+sevenlessons.scad.edu
+depts.scad.edu
+0-login.chicagomanualofstyle.org.library.scad.edu
+0-www.oed.com.library.scad.edu
+deptsstg.scad.edu
+render.scad.edu
+0-cdn4.statista.com.library.scad.edu
+ftp.scad.edu
+employeepages.scad.edu
+sav-lic-gateway-1.scad.edu
+atl-sciquest-dev.scad.edu
+admission.scad.edu
+0-global-assets.panjiva.com.library.scad.edu
+0-www.wgsn.com.library.scad.edu
+atl-sciquest-fm-hk.scad.edu
+sav-macman.scad.edu
+0-web.b.ebscohost.com.library.scad.edu
+dbtest.scad.edu
+test-scadatlantaradio.scad.edu
+mailserv.scad.edu
+building-status.scad.edu
+majorsfair.scad.edu
+mta.et.scad.edu
+0-static4.statista.com.library.scad.edu
+commencement.scad.edu
+filmfestdev.scad.edu
+sav-transact-rp.scad.edu
+myprint.scad.edu
+0-www.warc.com.library.scad.edu
+0-www.tandfonline.com.library.scad.edu
+sav-radio-a.scad.edu
+asc.scad.edu
+sfdm.scad.edu
+scad.edu
+atl-radio-a.scad.edu
+nat1.scad.edu
+portal-tst.scad.edu
+ecollections.scad.edu
+sso.scad.edu
+0-www.lexisnexis.com.library.scad.edu
+0-advance.lexis.com.library.scad.edu
+0-www.philanthropy.com.library.scad.edu
+auth.scad.edu
+mail.scad.edu
+0-jdh.oxfordjournals.org.library.scad.edu
+0-es.panjiva.com.library.scad.edu
+deptsdev.scad.edu
+scadapp.scad.edu
+isso.scad.edu
+0-www.csa.com.library.scad.edu
+cms-pub.scad.edu
+myscad.scad.edu
+interactive.scad.edu
+webcheck-sdm.scad.edu
+0-media.proquest.com.library.scad.edu
+ssl-vpn01.scad.edu
+0-www.adorninsight.com.library.scad.edu
+cfweb.scad.edu
+collaborate.scad.edu
+0-uls.wwd.com.library.scad.edu
+webmail.scad.edu
+0-www.sciencedirect.com.library.scad.edu
+0-www.materialconnexion.online.library.scad.edu
+connect.scad.edu
+0-firstsearch.oclc.org.library.scad.edu
+sav-cp-dat.scad.edu
+nat-sba.scad.edu
+0-academic.eb.com.library.scad.edu
+web.scad.edu
+0-sourcingjournal.com.library.scad.edu
+0-www.bloomsburyfashioncentral.com.library.scad.edu
+mail-gw3.scad.edu
+mymedia.scad.edu
+mailtest.scad.edu
+www.fashion-in-frame.scad.edu
+bannerweb.scad.edu
+0-static5.statista.com.library.scad.edu
+0-www.euppublishing.com.library.scad.edu
+0-www.windowswear.com.library.scad.edu
+sav-aruba-b.scad.edu
+0-jsah.ucpress.edu.library.scad.edu
+0-www.oxfordartonline.com.library.scad.edu
+em.scad.edu
+sav-aruba-a.scad.edu
+fashstg.scad.edu
+wsus.scad.edu
+0-www.emerald.com.library.scad.edu
+0-logon.onesource.com.library.scad.edu
+sav-myfile.scad.edu
+savdc-2.scad.edu
+0-www.ingentaconnect.com.library.scad.edu
+trace.scad.edu
+0-www.peclersplus.com.library.scad.edu
+savannahsecession.scad.edu
+0-www.referenceusa.com.library.scad.edu
+www2.scad.edu
+0-cdn5.statista.com.library.scad.edu
+fashdev.scad.edu
+portfolios.scad.edu
+0-www.cambridge.org.library.scad.edu
+sav-cp-mgr.scad.edu
+0-read.dukeupress.edu.library.scad.edu
+test-scaddistrict.scad.edu
+0-library.cqpress.com.library.scad.edu
+www.scad.edu
+0-windowswear.com.library.scad.edu
+0-cdn.warc.com.library.scad.edu
+0-www.scmp.com.library.scad.edu
+techhelp.scad.edu
+shopscad.scad.edu
+0-www.redbooks.com.library.scad.edu
+fashion-in-frame.scad.edu
+0-fconline.foundationcenter.org.library.scad.edu
+lum16-lb-tst.scad.edu
+filmfest.scad.edu
+wsso.scad.edu
+edge1.scad.edu
+myscadtv.scad.edu
+0-cn.panjiva.com.library.scad.edu
+0-uls.sourcingjournal.com.library.scad.edu
+0-ebookcentral.proquest.com.library.scad.edu
+sav-aruba-b-84.scad.edu
+0-www.journals.uchicago.edu.library.scad.edu
+web-ssl-2.scad.edu
+scadappdev.scad.edu
+student.scad.edu
+scadjobs.scad.edu
+atl-sciquest-fm-dev.scad.edu
+0web.b.ebscohost.com.library.scad.edu
+smtp.scad.edu
+0-www.digitaltheatreplus.com.library.scad.edu
+go.scad.edu
+sidewalkarts2020.scad.edu
+0-cdn1.statista.com.library.scad.edu
+render.sfdm.scad.edu
+0-s3-eu-west-1.amazonaws.com.library.scad.edu
+sav-aruba-a-84.scad.edu
+mail-gw2.scad.edu
+autodiscover.scad.edu
+mdm.scad.edu
+html.scad.edu
+m.scadjobs.scad.edu
+ssb.scad.edu
+facultypages.scad.edu
+sav-trend.scad.edu
+nat-lib.scad.edu
+myevents.scad.edu
+webserv.scad.edu
+my.scad.edu
+0-onlinelibrary.wiley.com.library.scad.edu
+edge2.scad.edu
+0-bjaesthetics.oxfordjournals.org.library.scad.edu
+sav-mta-1.scad.edu
+0-www.mitpressjournals.org.library.scad.edu
+watch.scad.edu
+myfile.scad.edu
+0-scholar.google.com.library.scad.edu
+webauth.scad.edu
+orientation.scad.edu
+transact.scad.edu
+0-online.salempress.com.library.scad.edu
+0-www.chicagomanualofstyle.org.library.scad.edu
+0-panjiva.com.library.scad.edu
+0-wordpress.panjiva.com.library.scad.edu
+0-img.windowswear.com.library.scad.edu
+filmfeststg.scad.edu
+0-www.jstor.org.library.scad.edu
+0-comx.alexanderstreet.com.library.scad.edu
+0-www.nexisuni.com.library.scad.edu
+clearpass.scad.edu
+myvisitor.scad.edu
+0-wwd.com.library.scad.edu
+atl-myfile.scad.edu
+0-library.artstor.org.library.scad.edu
+0-proquest.safaribooksonline.com.library.scad.edu
+0-academic.oup.com.library.scad.edu
+appserv.scad.edu
+atl-sciquest-hk-dev.scad.edu
+scadappstg.scad.edu
+library.scad.edu
+atl-fm-wflow.scad.edu
+0-infotrac.galegroup.com.library.scad.edu
+0-www.intellectbooks.co.uk.library.scad.edu
+sav-dlp.scad.edu
+nat-vid.scad.edu
+mail-gw4.scad.edu
+elearning-tst.scad.edu
+sdm.scad.edu
+trendadmin.scad.edu
+0-cdn.alexanderstreet.com.library.scad.edu
+0-search.alexanderstreet.com.library.scad.edu
+studentpages.scad.edu
+0-sourcingjournalonline.com.library.scad.edu
+image.et.scad.edu
+el-myfile.scad.edu
+atl-em-fm.scad.edu
+vnet.scad.edu
+app.scad.edu
+0-dl.acm.org.library.scad.edu
+alfresco.scad.edu
+remote.scad.edu
+0-journals.sagepub.com.library.scad.edu
+0-www.ebscohost.com.library.scad.edu
+0-pro.windowswear.com.library.scad.edu
+dailytours.scad.edu
+0-cdn2.statista.com.library.scad.edu
+0-www.buildinggreen.com.library.scad.edu
+atl-app-ui.scad.edu
+dgw.scad.edu
+scadcareers.scad.edu
+0-www.statista.com.library.scad.edu
+lum16-lb.scad.edu
+outlook.scad.edu
+transact-tst.scad.edu
+www.sfdm.scad.edu
+vsav.scad.edu
+webvpn.scad.edu
+atl-stu-mta.scad.edu
+ns1.scad.edu
+0-us.sagepub.com.library.scad.edu
+hk-myfile.scad.edu
+atl-sciquest-fm-hk-dev.scad.edu
+0-static3.statista.com.library.scad.edu
+student.scad.edu

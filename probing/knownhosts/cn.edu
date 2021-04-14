@@ -1,111 +1,78 @@
-NOERROR	library.cn.edu
-NOERROR	cnvedc01.cn.edu
-NOERROR	bb.cn.edu
-NOERROR	eagles.cn.edu
-NOERROR	cnveacp03.cn.edu
-NOERROR	bgwsiptrunks.cn.edu
-NOERROR	selfservice.cn.edu
-NOERROR	cn.edu
-NXDOMAIN	cpcalendars.online.cn.edu
-NOERROR	cnadfs.cn.edu
-NXDOMAIN	www.cas.cn.edu
-NXDOMAIN	www.bbtest.cn.edu
-NOERROR	etcentral.cn.edu
-NXDOMAIN	autodiscover.online.cn.edu
-NXDOMAIN	cncccf01.cn.edu
-NOERROR	test.cn.edu
-NOERROR	education.cn.edu
-NOERROR	bbtest.cn.edu
-NOERROR	cnportal.cn.edu
-NOERROR	cnlist.cn.edu
-NOERROR	online.cn.edu
-NOERROR	webmail.cn.edu
-NOERROR	www.onlinenursing.cn.edu
-NOERROR	ithelpdesk.cn.edu
-NOERROR	cndns1.cn.edu
-NOERROR	admanager.cn.edu
-NOERROR	pg_production.cn.edu
-NXDOMAIN	news.cn.edu
-NXDOMAIN	admin.cn.edu
-NXDOMAIN	cup8.infu.com.cn.edu
-NOERROR	religion.cn.edu
-NXDOMAIN	webmail.online.cn.edu
-NOERROR	cnvpn.cn.edu
-NOERROR	autodiscover.cn.edu
-NOERROR	connect.cn.edu
-NOERROR	cncfw.cn.edu
-NXDOMAIN	webdisk.online.cn.edu
-NOERROR	cnccpg01.cn.edu
-NOERROR	cndns2.cn.edu
-NOERROR	cnfadc02.cn.edu
-NXDOMAIN	www.eagles.cn.edu
-NOERROR	webmaster.cn.edu
-NOERROR	logging.cn.edu
-NOERROR	mivb.cn.edu
-NOERROR	colleagueapi.cn.edu
-NOERROR	printing.cn.edu
-NOERROR	pg_test.cn.edu
-NOERROR	cnonline.cn.edu
-NOERROR	stats.cn.edu
-NOERROR	cncentral.cn.edu
-NOERROR	cnweb.cn.edu
-NXDOMAIN	soar.cn.edu
-NXDOMAIN	cpanel.online.cn.edu
-NOERROR	pg_live.cn.edu
-NXDOMAIN	library2.cn.edu
-NOERROR	enet.cn.edu
-NOERROR	cnverews01.cn.edu
-NOERROR	clearpass.cn.edu
-NOERROR	onlinenursing.cn.edu
-NOERROR	cnportalnew.cn.edu
-NOERROR	cnccsso01.cn.edu
-NXDOMAIN	www.clearpass.cn.edu
-NXDOMAIN	webadv.cn.edu
-NOERROR	office365.cn.edu
-NOERROR	etsts.cn.edu
-NOERROR	cnccsh01.cn.edu
-NOERROR	cnccma02.cn.edu
-NOERROR	keyscan.cn.edu
-NXDOMAIN	cpcontacts.online.cn.edu
-NOERROR	cnbookstore.cn.edu
-NXDOMAIN	cnmail.cn.edu
-NOERROR	explore.cn.edu
-NOERROR	cn-connect.cn.edu
-NOERROR	cnvedns02.cn.edu
-NOERROR	legacy.cn.edu
-NOERROR	cnvepg01.cn.edu
-NOERROR	secure.cn.edu
-NOERROR	cnveacp01.cn.edu
-NXDOMAIN	webct.cn.edu
-NOERROR	colleague.cn.edu
-NOERROR	web.cn.edu
-NXDOMAIN	xjtu.cn.edu
-NXDOMAIN	w.cn.edu
-NXDOMAIN	wev.cn.edu
-NOERROR	micollab.cn.edu
-NOERROR	business.cn.edu
-NOERROR	slate.cn.edu
-NXDOMAIN	cisweb.cn.edu
-NOERROR	guest.cn.edu
-NXDOMAIN	turing.cn.edu
-NXDOMAIN	cas.cn.edu
-NOERROR	www.cn.edu
-NXDOMAIN	burton.cn.edu
-NOERROR	reweb.cn.edu
-NOERROR	eaglenet.cn.edu
-NOERROR	admissions.cn.edu
-NOERROR	powerbi.cn.edu
-NOERROR	cnveacp02.cn.edu
-NOERROR	community.cn.edu
-NOERROR	wwww.cn.edu
-NXDOMAIN	www.bb.cn.edu
-NOERROR	cngw.cn.edu
-NOERROR	cnvesb01.cn.edu
-NOERROR	mycn.cn.edu
-NXDOMAIN	mail.online.cn.edu
-NOERROR	oldwebmail.cn.edu
-NXDOMAIN	mail.cn.edu
-NXDOMAIN	fjjj.gov.cn.edu
-NXDOMAIN	www.webmail.cn.edu
-NXDOMAIN	cam.cn.edu
-NXDOMAIN	www.online.cn.edu
+library.cn.edu
+cnvedc01.cn.edu
+bb.cn.edu
+eagles.cn.edu
+cnveacp03.cn.edu
+bgwsiptrunks.cn.edu
+selfservice.cn.edu
+cn.edu
+cnadfs.cn.edu
+etcentral.cn.edu
+test.cn.edu
+education.cn.edu
+bbtest.cn.edu
+cnportal.cn.edu
+cnlist.cn.edu
+online.cn.edu
+webmail.cn.edu
+www.onlinenursing.cn.edu
+ithelpdesk.cn.edu
+cndns1.cn.edu
+admanager.cn.edu
+pg_production.cn.edu
+religion.cn.edu
+cnvpn.cn.edu
+autodiscover.cn.edu
+connect.cn.edu
+cncfw.cn.edu
+cnccpg01.cn.edu
+cndns2.cn.edu
+cnfadc02.cn.edu
+webmaster.cn.edu
+logging.cn.edu
+mivb.cn.edu
+colleagueapi.cn.edu
+printing.cn.edu
+pg_test.cn.edu
+cnonline.cn.edu
+stats.cn.edu
+cncentral.cn.edu
+cnweb.cn.edu
+pg_live.cn.edu
+enet.cn.edu
+cnverews01.cn.edu
+clearpass.cn.edu
+onlinenursing.cn.edu
+cnportalnew.cn.edu
+cnccsso01.cn.edu
+office365.cn.edu
+etsts.cn.edu
+cnccsh01.cn.edu
+cnccma02.cn.edu
+keyscan.cn.edu
+cnbookstore.cn.edu
+explore.cn.edu
+cn-connect.cn.edu
+cnvedns02.cn.edu
+legacy.cn.edu
+cnvepg01.cn.edu
+secure.cn.edu
+cnveacp01.cn.edu
+colleague.cn.edu
+web.cn.edu
+micollab.cn.edu
+business.cn.edu
+slate.cn.edu
+guest.cn.edu
+www.cn.edu
+reweb.cn.edu
+eaglenet.cn.edu
+admissions.cn.edu
+powerbi.cn.edu
+cnveacp02.cn.edu
+community.cn.edu
+wwww.cn.edu
+cngw.cn.edu
+cnvesb01.cn.edu
+mycn.cn.edu
+oldwebmail.cn.edu

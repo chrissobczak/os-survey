@@ -1,136 +1,126 @@
-NXDOMAIN	ns.chinju-e.ac.kr
-NXDOMAIN	web.chinju-e.ac.kr
-NXDOMAIN	inter.chinju-e.ac.kr
-NXDOMAIN	www.chinju-e.ac.kr
-NXDOMAIN	chinju-e.ac.kr
-NXDOMAIN	cjlibcdnet.chinju-e.ac.kr
-NXDOMAIN	lib.chinju-e.ac.kr
-NOERROR	science.cue.ac.kr
-NOERROR	leejh.cue.ac.kr
-NOERROR	sjlee.cue.ac.kr
-NOERROR	ytkong.cue.ac.kr
-NOERROR	camp.cue.ac.kr
-NOERROR	pass.cue.ac.kr
-NOERROR	gh.cue.ac.kr
-NOERROR	web.cue.ac.kr
-NOERROR	gwlee.cue.ac.kr
-NOERROR	practicalartsedu.cue.ac.kr
-NOERROR	apps.cue.ac.kr
-NOERROR	hkwon.cue.ac.kr
-NOERROR	parkjs.cue.ac.kr
-NOERROR	oscha.cue.ac.kr
-NOERROR	vod.cue.ac.kr
-NOERROR	download.cue.ac.kr
-NOERROR	cms.cue.ac.kr
-NOERROR	edu.cue.ac.kr
-NOERROR	grad.cue.ac.kr
-NOERROR	home.cue.ac.kr
-NXDOMAIN	cjlibcdnet.cue.ac.kr
-NOERROR	ysku.cue.ac.kr
-NOERROR	esjeong.cue.ac.kr
-NOERROR	twww.cue.ac.kr
-NOERROR	idc.cue.ac.kr
-NOERROR	yhong.cue.ac.kr
-NOERROR	archive.cue.ac.kr
-NOERROR	smartm.cue.ac.kr
-NOERROR	mce.cue.ac.kr
-NOERROR	dsjeong.cue.ac.kr
-NOERROR	usjoeng.cue.ac.kr
-NOERROR	sjseo.cue.ac.kr
-NOERROR	ls2.cue.ac.kr
-NOERROR	dorm.cue.ac.kr
-NOERROR	school.cue.ac.kr
-NOERROR	cuece.cue.ac.kr
-NOERROR	parkkdp.cue.ac.kr
-NOERROR	skt860.cue.ac.kr
-NOERROR	sse.cue.ac.kr
-NOERROR	moed.cue.ac.kr
-NOERROR	gmpark.cue.ac.kr
-NOERROR	ybkim.cue.ac.kr
-NOERROR	ls3.cue.ac.kr
-NOERROR	admnarc.cue.ac.kr
-NOERROR	pumasi.cue.ac.kr
-NOERROR	shhong.cue.ac.kr
-NOERROR	sso.cue.ac.kr
-NOERROR	compedu.cue.ac.kr
-NOERROR	dbs.cue.ac.kr
-NOERROR	cue.ac.kr
-NOERROR	webs.cue.ac.kr
-NOERROR	webmail.cue.ac.kr
-NOERROR	lib.cue.ac.kr
-NOERROR	ebook.cue.ac.kr
-NOERROR	spam.cue.ac.kr
-NOERROR	ymlee.cue.ac.kr
-NOERROR	mathxp.cue.ac.kr
-NOERROR	comedu.cue.ac.kr
-NOERROR	able.cue.ac.kr
-NXDOMAIN	ns2.cue.ac.kr
-NOERROR	research.cue.ac.kr
-NOERROR	news.cue.ac.kr
-NOERROR	eerc.cue.ac.kr
-NOERROR	artedu.cue.ac.kr
-NOERROR	cis.cue.ac.kr
-NOERROR	ctl.cue.ac.kr
-NOERROR	jelimpe.cue.ac.kr
-NOERROR	koredu.cue.ac.kr
-NOERROR	wany.cue.ac.kr
-NOERROR	fund.cue.ac.kr
-NOERROR	enter1.cue.ac.kr
-NOERROR	chp.cue.ac.kr
-NOERROR	hjkim.cue.ac.kr
-NOERROR	netf.cue.ac.kr
-NOERROR	cuete.cue.ac.kr
-NOERROR	artpower.cue.ac.kr
-NOERROR	smartmt.cue.ac.kr
-NOERROR	inter.cue.ac.kr
-NOERROR	ls1.cue.ac.kr
-NOERROR	mgseol.cue.ac.kr
-NOERROR	oda.cue.ac.kr
-NOERROR	sukang.cue.ac.kr
-NOERROR	skkim.cue.ac.kr
-NOERROR	www0.cue.ac.kr
-NOERROR	sukang3.cue.ac.kr
-NOERROR	vdi.cue.ac.kr
-NOERROR	access.cue.ac.kr
-NOERROR	support.cue.ac.kr
-NOERROR	www.cue.ac.kr
-NOERROR	report.cue.ac.kr
-NOERROR	mail.cue.ac.kr
-NOERROR	iapp.cue.ac.kr
-NOERROR	hdkang2k.cue.ac.kr
-NOERROR	wf.cue.ac.kr
-NOERROR	m.cue.ac.kr
-NOERROR	kwontuk.cue.ac.kr
-NOERROR	ngback.cue.ac.kr
-NOERROR	ns.cue.ac.kr
-NOERROR	vportal.cue.ac.kr
-NOERROR	sukang1.cue.ac.kr
-NOERROR	raehan.cue.ac.kr
-NOERROR	streaming.cue.ac.kr
-NOERROR	gw.cue.ac.kr
-NOERROR	engedu.cue.ac.kr
-NOERROR	ns1.cue.ac.kr
-NOERROR	chogije.cue.ac.kr
-NOERROR	cheonghb.cue.ac.kr
-NOERROR	ghyoo.cue.ac.kr
-NOERROR	inno.cue.ac.kr
-NOERROR	council.cue.ac.kr
-NOERROR	parkke.cue.ac.kr
-NOERROR	mowon.cue.ac.kr
-NOERROR	pyjyhs.cue.ac.kr
-NOERROR	thjo.cue.ac.kr
-NOERROR	jinjuerp.cue.ac.kr
-NOERROR	sykim.cue.ac.kr
-NOERROR	music.cue.ac.kr
-NOERROR	portal.cue.ac.kr
-NOERROR	ebooklib.cue.ac.kr
-NOERROR	kimms.cue.ac.kr
-NOERROR	jungbo.cue.ac.kr
-NOERROR	public.cue.ac.kr
-NOERROR	physi.cue.ac.kr
-NOERROR	cyber.cue.ac.kr
-NOERROR	sgryu.cue.ac.kr
-NXDOMAIN	libcdnet.cue.ac.kr
-NOERROR	eeri.cue.ac.kr
-NOERROR	enter.cue.ac.kr
-NOERROR	ehroh.cue.ac.kr
+science.cue.ac.kr
+leejh.cue.ac.kr
+sjlee.cue.ac.kr
+ytkong.cue.ac.kr
+camp.cue.ac.kr
+pass.cue.ac.kr
+gh.cue.ac.kr
+web.cue.ac.kr
+gwlee.cue.ac.kr
+practicalartsedu.cue.ac.kr
+apps.cue.ac.kr
+hkwon.cue.ac.kr
+parkjs.cue.ac.kr
+oscha.cue.ac.kr
+vod.cue.ac.kr
+download.cue.ac.kr
+cms.cue.ac.kr
+edu.cue.ac.kr
+grad.cue.ac.kr
+home.cue.ac.kr
+ysku.cue.ac.kr
+esjeong.cue.ac.kr
+twww.cue.ac.kr
+idc.cue.ac.kr
+yhong.cue.ac.kr
+archive.cue.ac.kr
+smartm.cue.ac.kr
+mce.cue.ac.kr
+dsjeong.cue.ac.kr
+usjoeng.cue.ac.kr
+sjseo.cue.ac.kr
+ls2.cue.ac.kr
+dorm.cue.ac.kr
+school.cue.ac.kr
+cuece.cue.ac.kr
+parkkdp.cue.ac.kr
+skt860.cue.ac.kr
+sse.cue.ac.kr
+moed.cue.ac.kr
+gmpark.cue.ac.kr
+ybkim.cue.ac.kr
+ls3.cue.ac.kr
+admnarc.cue.ac.kr
+pumasi.cue.ac.kr
+shhong.cue.ac.kr
+sso.cue.ac.kr
+compedu.cue.ac.kr
+dbs.cue.ac.kr
+cue.ac.kr
+webs.cue.ac.kr
+webmail.cue.ac.kr
+lib.cue.ac.kr
+ebook.cue.ac.kr
+spam.cue.ac.kr
+ymlee.cue.ac.kr
+mathxp.cue.ac.kr
+comedu.cue.ac.kr
+able.cue.ac.kr
+research.cue.ac.kr
+news.cue.ac.kr
+eerc.cue.ac.kr
+artedu.cue.ac.kr
+cis.cue.ac.kr
+ctl.cue.ac.kr
+jelimpe.cue.ac.kr
+koredu.cue.ac.kr
+wany.cue.ac.kr
+fund.cue.ac.kr
+enter1.cue.ac.kr
+chp.cue.ac.kr
+hjkim.cue.ac.kr
+netf.cue.ac.kr
+cuete.cue.ac.kr
+artpower.cue.ac.kr
+smartmt.cue.ac.kr
+inter.cue.ac.kr
+ls1.cue.ac.kr
+mgseol.cue.ac.kr
+oda.cue.ac.kr
+sukang.cue.ac.kr
+skkim.cue.ac.kr
+www0.cue.ac.kr
+sukang3.cue.ac.kr
+vdi.cue.ac.kr
+access.cue.ac.kr
+support.cue.ac.kr
+www.cue.ac.kr
+report.cue.ac.kr
+mail.cue.ac.kr
+iapp.cue.ac.kr
+hdkang2k.cue.ac.kr
+wf.cue.ac.kr
+m.cue.ac.kr
+kwontuk.cue.ac.kr
+ngback.cue.ac.kr
+ns.cue.ac.kr
+vportal.cue.ac.kr
+sukang1.cue.ac.kr
+raehan.cue.ac.kr
+streaming.cue.ac.kr
+gw.cue.ac.kr
+engedu.cue.ac.kr
+ns1.cue.ac.kr
+chogije.cue.ac.kr
+cheonghb.cue.ac.kr
+ghyoo.cue.ac.kr
+inno.cue.ac.kr
+council.cue.ac.kr
+parkke.cue.ac.kr
+mowon.cue.ac.kr
+pyjyhs.cue.ac.kr
+thjo.cue.ac.kr
+jinjuerp.cue.ac.kr
+sykim.cue.ac.kr
+music.cue.ac.kr
+portal.cue.ac.kr
+ebooklib.cue.ac.kr
+kimms.cue.ac.kr
+jungbo.cue.ac.kr
+public.cue.ac.kr
+physi.cue.ac.kr
+cyber.cue.ac.kr
+sgryu.cue.ac.kr
+eeri.cue.ac.kr
+enter.cue.ac.kr
+ehroh.cue.ac.kr

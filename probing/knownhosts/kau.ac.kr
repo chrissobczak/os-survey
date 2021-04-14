@@ -1,160 +1,145 @@
-NOERROR	nisl.kau.ac.kr
-NOERROR	libproxy.kau.ac.kr
-NOERROR	snl.kau.ac.kr
-NOERROR	science.kau.ac.kr
-NOERROR	mclab.kau.ac.kr
-NOERROR	atmcl.kau.ac.kr
-NOERROR	college.kau.ac.kr
-NXDOMAIN	life.kau.ac.kr
-NOERROR	locker.kau.ac.kr
-NOERROR	aerc.kau.ac.kr
-NXDOMAIN	lab.kau.ac.kr
-NOERROR	shml.kau.ac.kr
-NOERROR	cms.kau.ac.kr
-NOERROR	fund.kau.ac.kr
-NOERROR	spacl.kau.ac.kr
-NOERROR	su.kau.ac.kr
-NOERROR	club.kau.ac.kr
-NOERROR	data-mining.kau.ac.kr
-NOERROR	webhard.kau.ac.kr
-NOERROR	hfcl.kau.ac.kr
-NOERROR	gsl.kau.ac.kr
-NOERROR	mslab.kau.ac.kr
-NOERROR	rsplab.kau.ac.kr
-NOERROR	tikwon.ti.kau.ac.kr
-NXDOMAIN	www.career.kau.ac.kr
-NOERROR	ebooks.kau.ac.kr
-NOERROR	drone.kau.ac.kr
-NOERROR	webfilter.kau.ac.kr
-NOERROR	sme.kau.ac.kr
-NOERROR	cyber.kau.ac.kr
-NOERROR	baroon.kau.ac.kr
-NOERROR	recruit.kau.ac.kr
-NOERROR	kau-esxi03.kau.ac.kr
-NOERROR	abeek.kau.ac.kr
-NOERROR	dns1.kau.ac.kr
-NXDOMAIN	irc.kau.ac.kr
-NOERROR	nslab.kau.ac.kr
-NOERROR	minitp.kau.ac.kr
-NXDOMAIN	lyncdiscoverinternal.kau.ac.kr
-NOERROR	tp.kau.ac.kr
-NOERROR	klec.kau.ac.kr
-NOERROR	aerospace2.kau.ac.kr
-NOERROR	esc.cl.kau.ac.kr
-NOERROR	kps.kau.ac.kr
-NOERROR	rml.kau.ac.kr
-NXDOMAIN	www.talk.kau.ac.kr
-NOERROR	oldmail.kau.ac.kr
-NOERROR	utac.kau.ac.kr
-NOERROR	rc.kau.ac.kr
-NOERROR	lib.kau.ac.kr
-NOERROR	research.kau.ac.kr
-NOERROR	abrc.kau.ac.kr
-NOERROR	esc.kau.ac.kr
-NOERROR	bi.kau.ac.kr
-NXDOMAIN	sfbpool.kau.ac.kr
-NXDOMAIN	w.kau.ac.kr
-NOERROR	samc.kau.ac.kr
-NOERROR	ram.kau.ac.kr
-NOERROR	scm.kau.ac.kr
-NOERROR	smero.kau.ac.kr
-NOERROR	lps3.onlinelibrary.wiley.com.libproxy.kau.ac.kr
-NOERROR	mail.kau.ac.kr
-NOERROR	m.kau.ac.kr
-NOERROR	www.dbpia.co.kr.libproxy.kau.ac.kr
-NOERROR	islab.kau.ac.kr
-NOERROR	anrlab.kau.ac.kr
-NOERROR	gmail.kau.ac.kr
-NOERROR	ccrlab.kau.ac.kr
-NOERROR	dns2.kau.ac.kr
-NOERROR	ocw.kau.ac.kr
-NOERROR	kulav.kau.ac.kr
-NOERROR	rfmwlab.kau.ac.kr
-NXDOMAIN	www.intra.kau.ac.kr
-NOERROR	aos.kau.ac.kr
-NOERROR	ctl.kau.ac.kr
-NOERROR	atsol.kau.ac.kr
-NOERROR	informal.kau.ac.kr
-NOERROR	office.kau.ac.kr
-NOERROR	wess.kau.ac.kr
-NOERROR	ems.kau.ac.kr
-NOERROR	linuxcamp.kau.ac.kr
-NOERROR	asl.kau.ac.kr
-NOERROR	grrc.kau.ac.kr
-NOERROR	ecamp.kau.ac.kr
-NOERROR	bk21plus.kau.ac.kr
-NOERROR	neslab.kau.ac.kr
-NOERROR	kau-esxi01.kau.ac.kr
-NOERROR	lps3.www.ieee.org.libproxy.kau.ac.kr
-NOERROR	fm.kau.ac.kr
-NOERROR	ucampus.kau.ac.kr
-NXDOMAIN	comnet.kau.ac.kr
-NOERROR	kaum.kau.ac.kr
-NOERROR	specs4.ihserc.com.libproxy.kau.ac.kr
-NOERROR	rotc.kau.ac.kr
-NOERROR	mcl.kau.ac.kr
-NOERROR	macs.kau.ac.kr
-NOERROR	grad.kau.ac.kr
-NOERROR	portal.kau.ac.kr
-NOERROR	lyncdiscover.kau.ac.kr
-NOERROR	lps3.www.aiaa.org.libproxy.kau.ac.kr
-NOERROR	viscom.kau.ac.kr
-NOERROR	control.kau.ac.kr
-NOERROR	educationservice.kau.ac.kr
-NOERROR	pom.kau.ac.kr
-NXDOMAIN	it.kau.ac.kr
-NOERROR	gradbus.kau.ac.kr
-NOERROR	mnhlab.kau.ac.kr
-NOERROR	mems.kau.ac.kr
-NOERROR	kid.kau.ac.kr
-NXDOMAIN	meet.kau.ac.kr
-NOERROR	dblab.kau.ac.kr
-NOERROR	his2.kau.ac.kr
-NOERROR	cas.kau.ac.kr
-NOERROR	special.kau.ac.kr
-NOERROR	hpc.kau.ac.kr
-NOERROR	lps3.link.springer.com.libproxy.kau.ac.kr
-NOERROR	career.kau.ac.kr
-NOERROR	kau60th.kau.ac.kr
-NOERROR	intra.kau.ac.kr
-NOERROR	nportal.kau.ac.kr
-NOERROR	kau.ac.kr
-NOERROR	gpu.kau.ac.kr
-NOERROR	lms.kau.ac.kr
-NOERROR	formal.kau.ac.kr
-NOERROR	insight.dbpia.co.kr.libproxy.kau.ac.kr
-NOERROR	dns3.kau.ac.kr
-NOERROR	ibhak.kau.ac.kr
-NOERROR	kau-vcenter.kau.ac.kr
-NOERROR	bigdata.kau.ac.kr
-NOERROR	att.kau.ac.kr
-NOERROR	mav.kau.ac.kr
-NOERROR	retmacbk21.kau.ac.kr
-NOERROR	cpu.kau.ac.kr
-NXDOMAIN	www.scm.kau.ac.kr
-NXDOMAIN	ngn.kau.ac.kr
-NOERROR	www.kau.ac.kr
-NOERROR	talk.kau.ac.kr
-NOERROR	aerocamp.kau.ac.kr
-NOERROR	lps3.innovate.ieee.org.libproxy.kau.ac.kr
-NOERROR	iiac.kau.ac.kr
-NOERROR	fsc.kau.ac.kr
-NOERROR	international.kau.ac.kr
-NOERROR	soc.kau.ac.kr
-NOERROR	satecslab.kau.ac.kr
-NOERROR	www.ndsl.kr.libproxy.kau.ac.kr
-NOERROR	sslab.kau.ac.kr
-NXDOMAIN	sae.kau.ac.kr
-NOERROR	www.aerocamp.kau.ac.kr
-NOERROR	nc.kau.ac.kr
-NOERROR	sw.kau.ac.kr
-NOERROR	nalda.kau.ac.kr
-NOERROR	hanway.kau.ac.kr
-NOERROR	mercury.kau.ac.kr
-NOERROR	kau-esxi02.kau.ac.kr
-NOERROR	oldspam.kau.ac.kr
-NOERROR	vasrc.kau.ac.kr
-NOERROR	multimedia.kau.ac.kr
-NOERROR	oldlms.kau.ac.kr
-NOERROR	embedded.kau.ac.kr
-NOERROR	ebook.kau.ac.kr
+nisl.kau.ac.kr
+libproxy.kau.ac.kr
+snl.kau.ac.kr
+science.kau.ac.kr
+mclab.kau.ac.kr
+atmcl.kau.ac.kr
+college.kau.ac.kr
+locker.kau.ac.kr
+aerc.kau.ac.kr
+shml.kau.ac.kr
+cms.kau.ac.kr
+fund.kau.ac.kr
+spacl.kau.ac.kr
+su.kau.ac.kr
+club.kau.ac.kr
+data-mining.kau.ac.kr
+webhard.kau.ac.kr
+hfcl.kau.ac.kr
+gsl.kau.ac.kr
+mslab.kau.ac.kr
+rsplab.kau.ac.kr
+tikwon.ti.kau.ac.kr
+ebooks.kau.ac.kr
+drone.kau.ac.kr
+webfilter.kau.ac.kr
+sme.kau.ac.kr
+cyber.kau.ac.kr
+baroon.kau.ac.kr
+recruit.kau.ac.kr
+kau-esxi03.kau.ac.kr
+abeek.kau.ac.kr
+dns1.kau.ac.kr
+nslab.kau.ac.kr
+minitp.kau.ac.kr
+tp.kau.ac.kr
+klec.kau.ac.kr
+aerospace2.kau.ac.kr
+esc.cl.kau.ac.kr
+kps.kau.ac.kr
+rml.kau.ac.kr
+oldmail.kau.ac.kr
+utac.kau.ac.kr
+rc.kau.ac.kr
+lib.kau.ac.kr
+research.kau.ac.kr
+abrc.kau.ac.kr
+esc.kau.ac.kr
+bi.kau.ac.kr
+samc.kau.ac.kr
+ram.kau.ac.kr
+scm.kau.ac.kr
+smero.kau.ac.kr
+lps3.onlinelibrary.wiley.com.libproxy.kau.ac.kr
+mail.kau.ac.kr
+m.kau.ac.kr
+www.dbpia.co.kr.libproxy.kau.ac.kr
+islab.kau.ac.kr
+anrlab.kau.ac.kr
+gmail.kau.ac.kr
+ccrlab.kau.ac.kr
+dns2.kau.ac.kr
+ocw.kau.ac.kr
+kulav.kau.ac.kr
+rfmwlab.kau.ac.kr
+aos.kau.ac.kr
+ctl.kau.ac.kr
+atsol.kau.ac.kr
+informal.kau.ac.kr
+office.kau.ac.kr
+wess.kau.ac.kr
+ems.kau.ac.kr
+linuxcamp.kau.ac.kr
+asl.kau.ac.kr
+grrc.kau.ac.kr
+ecamp.kau.ac.kr
+bk21plus.kau.ac.kr
+neslab.kau.ac.kr
+kau-esxi01.kau.ac.kr
+lps3.www.ieee.org.libproxy.kau.ac.kr
+fm.kau.ac.kr
+ucampus.kau.ac.kr
+kaum.kau.ac.kr
+specs4.ihserc.com.libproxy.kau.ac.kr
+rotc.kau.ac.kr
+mcl.kau.ac.kr
+macs.kau.ac.kr
+grad.kau.ac.kr
+portal.kau.ac.kr
+lyncdiscover.kau.ac.kr
+lps3.www.aiaa.org.libproxy.kau.ac.kr
+viscom.kau.ac.kr
+control.kau.ac.kr
+educationservice.kau.ac.kr
+pom.kau.ac.kr
+gradbus.kau.ac.kr
+mnhlab.kau.ac.kr
+mems.kau.ac.kr
+kid.kau.ac.kr
+dblab.kau.ac.kr
+his2.kau.ac.kr
+cas.kau.ac.kr
+special.kau.ac.kr
+hpc.kau.ac.kr
+lps3.link.springer.com.libproxy.kau.ac.kr
+career.kau.ac.kr
+kau60th.kau.ac.kr
+intra.kau.ac.kr
+nportal.kau.ac.kr
+kau.ac.kr
+gpu.kau.ac.kr
+lms.kau.ac.kr
+formal.kau.ac.kr
+insight.dbpia.co.kr.libproxy.kau.ac.kr
+dns3.kau.ac.kr
+ibhak.kau.ac.kr
+kau-vcenter.kau.ac.kr
+bigdata.kau.ac.kr
+att.kau.ac.kr
+mav.kau.ac.kr
+retmacbk21.kau.ac.kr
+cpu.kau.ac.kr
+www.kau.ac.kr
+talk.kau.ac.kr
+aerocamp.kau.ac.kr
+lps3.innovate.ieee.org.libproxy.kau.ac.kr
+iiac.kau.ac.kr
+fsc.kau.ac.kr
+international.kau.ac.kr
+soc.kau.ac.kr
+satecslab.kau.ac.kr
+www.ndsl.kr.libproxy.kau.ac.kr
+sslab.kau.ac.kr
+www.aerocamp.kau.ac.kr
+nc.kau.ac.kr
+sw.kau.ac.kr
+nalda.kau.ac.kr
+hanway.kau.ac.kr
+mercury.kau.ac.kr
+kau-esxi02.kau.ac.kr
+oldspam.kau.ac.kr
+vasrc.kau.ac.kr
+multimedia.kau.ac.kr
+oldlms.kau.ac.kr
+embedded.kau.ac.kr
+ebook.kau.ac.kr

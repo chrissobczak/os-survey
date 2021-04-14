@@ -1,114 +1,77 @@
-NOERROR	mailfilter2.dbq.edu
-NOERROR	cp2.dbq.edu
-NOERROR	vpn.dbq.edu
-NXDOMAIN	www.ldap.dbq.edu
-NXDOMAIN	www.udonline.dbq.edu
-NOERROR	pac2.dbq.edu
-NXDOMAIN	www.digitalud-cp.dbq.edu
-NXDOMAIN	webdisk.digitalud.dbq.edu
-NOERROR	people.dbq.edu
-NXDOMAIN	dev.dbq.edu
-NXDOMAIN	udclearpass.dbq.edu
-NXDOMAIN	cpcalendars.digitalud-dev.dbq.edu
-NOERROR	t4.dbq.edu
-NOERROR	webhost.dbq.edu
-NOERROR	fedora.dbq.edu
-NXDOMAIN	webmail.digitalud.dbq.edu
-NXDOMAIN	cpcalendars.digitalud.dbq.edu
-NOERROR	maxient.dbq.edu
-NXDOMAIN	www.digitalud.dbq.edu
-NOERROR	pac1.dbq.edu
-NOERROR	rw.dbq.edu
-NOERROR	lifetempe.dbq.edu
-NXDOMAIN	mailhost.dbq.edu
-NOERROR	application5.dbq.edu
-NXDOMAIN	cpanel.digitalud-dev.dbq.edu
-NOERROR	intranet.dbq.edu
-NOERROR	lifeaheadcr.dbq.edu
-NXDOMAIN	webdisk.digitalud-cp.dbq.edu
-NOERROR	adc.dbq.edu
-NOERROR	lifeahead.dbq.edu
-NXDOMAIN	cpcontacts.digitalud-cp.dbq.edu
-NOERROR	application3.dbq.edu
-NOERROR	alumni.dbq.edu
-NOERROR	pfaids.dbq.edu
-NOERROR	ns1.dbq.edu
-NOERROR	udgoldmine.dbq.edu
-NXDOMAIN	digitalud-dev.digitalud.dbq.edu
-NOERROR	lifemeridian.dbq.edu
-NOERROR	bookstore.dbq.edu
-NXDOMAIN	classroom.dbq.edu
-NOERROR	cmedia.dbq.edu
-NXDOMAIN	www.webhost.dbq.edu
-NOERROR	udts.dbq.edu
-NOERROR	my.dbq.edu
-NOERROR	application2.dbq.edu
-NXDOMAIN	webdisk.digitalud-dev.dbq.edu
-NXDOMAIN	www.cp2.dbq.edu
-NOERROR	moodle.dbq.edu
-NOERROR	discover.gradschool.dbq.edu
-NOERROR	application1.dbq.edu
-NXDOMAIN	cpanel.digitalud-cp.dbq.edu
-NXDOMAIN	mail.digitalud-cp.dbq.edu
-NOERROR	ensuringthefuture.dbq.edu
-NOERROR	gallery.dbq.edu
-NXDOMAIN	www.cpanel.dbq.edu
-NXDOMAIN	cpanel.digitalud.dbq.edu
-NXDOMAIN	webmail.digitalud-dev.dbq.edu
-NOERROR	wendt.dbq.edu
-NOERROR	www.tempe.dbq.edu
-NOERROR	mycampus.dbq.edu
-NXDOMAIN	www.cmedia.dbq.edu
-NOERROR	digitalud.dbq.edu
-NOERROR	app2.dbq.edu
-NXDOMAIN	cpcontacts.digitalud.dbq.edu
-NOERROR	lifedubuque.dbq.edu
-NOERROR	tempe.dbq.edu
-NOERROR	application6.dbq.edu
-NXDOMAIN	cpcalendars.digitalud-cp.dbq.edu
-NOERROR	mobile.dbq.edu
-NOERROR	www.ezproxy.dbq.edu
-NOERROR	hlc.dbq.edu
-NOERROR	firewall.dbq.edu
-NOERROR	media.dbq.edu
-NOERROR	ldap.dbq.edu
-NXDOMAIN	www.udclearpass.dbq.edu
-NOERROR	uddata.dbq.edu
-NXDOMAIN	www.mobile.dbq.edu
-NOERROR	application4.dbq.edu
-NOERROR	smtp2.dbq.edu
-NOERROR	udonline.dbq.edu
-NOERROR	lyncdiscover.dbq.edu
-NOERROR	email.dbq.edu
-NXDOMAIN	webmail.digitalud-cp.dbq.edu
-NXDOMAIN	cpcontacts.digitalud-dev.dbq.edu
-NXDOMAIN	courses.dbq.edu
-NOERROR	digitalud-dev.dbq.edu
-NXDOMAIN	www.ensuringthefuture.dbq.edu
-NOERROR	digitalud-cp.dbq.edu
-NOERROR	mpulse.dbq.edu
-NOERROR	ats.dbq.edu
-NOERROR	cis.dbq.edu
-NOERROR	app3.dbq.edu
-NOERROR	scan.dbq.edu
-NOERROR	app1.dbq.edu
-NOERROR	cpanel.dbq.edu
-NOERROR	libguides.dbq.edu
-NXDOMAIN	www.digitalud-dev.digitalud.dbq.edu
-NOERROR	pages.dbq.edu
-NOERROR	www.dbq.edu
-NOERROR	mailfilter.dbq.edu
-NOERROR	cgim.dbq.edu
-NOERROR	data.dbq.edu
-NXDOMAIN	mail.digitalud-dev.dbq.edu
-NOERROR	video.dbq.edu
-NOERROR	lifecedarrapids.dbq.edu
-NOERROR	dart.dbq.edu
-NOERROR	pop3.dbq.edu
-NOERROR	library.dbq.edu
-NOERROR	ezproxy.dbq.edu
-NXDOMAIN	www.digitalud-dev.dbq.edu
-NOERROR	gve.dbq.edu
-NOERROR	login.ezproxy.dbq.edu
-NOERROR	dbq.edu
-NXDOMAIN	mail.digitalud.dbq.edu
+mailfilter2.dbq.edu
+cp2.dbq.edu
+vpn.dbq.edu
+pac2.dbq.edu
+people.dbq.edu
+t4.dbq.edu
+webhost.dbq.edu
+fedora.dbq.edu
+maxient.dbq.edu
+pac1.dbq.edu
+rw.dbq.edu
+lifetempe.dbq.edu
+application5.dbq.edu
+intranet.dbq.edu
+lifeaheadcr.dbq.edu
+adc.dbq.edu
+lifeahead.dbq.edu
+application3.dbq.edu
+alumni.dbq.edu
+pfaids.dbq.edu
+ns1.dbq.edu
+udgoldmine.dbq.edu
+lifemeridian.dbq.edu
+bookstore.dbq.edu
+cmedia.dbq.edu
+udts.dbq.edu
+my.dbq.edu
+application2.dbq.edu
+moodle.dbq.edu
+discover.gradschool.dbq.edu
+application1.dbq.edu
+ensuringthefuture.dbq.edu
+gallery.dbq.edu
+wendt.dbq.edu
+www.tempe.dbq.edu
+mycampus.dbq.edu
+digitalud.dbq.edu
+app2.dbq.edu
+lifedubuque.dbq.edu
+tempe.dbq.edu
+application6.dbq.edu
+mobile.dbq.edu
+www.ezproxy.dbq.edu
+hlc.dbq.edu
+firewall.dbq.edu
+media.dbq.edu
+ldap.dbq.edu
+uddata.dbq.edu
+application4.dbq.edu
+smtp2.dbq.edu
+udonline.dbq.edu
+lyncdiscover.dbq.edu
+email.dbq.edu
+digitalud-dev.dbq.edu
+digitalud-cp.dbq.edu
+mpulse.dbq.edu
+ats.dbq.edu
+cis.dbq.edu
+app3.dbq.edu
+scan.dbq.edu
+app1.dbq.edu
+cpanel.dbq.edu
+libguides.dbq.edu
+pages.dbq.edu
+www.dbq.edu
+mailfilter.dbq.edu
+cgim.dbq.edu
+data.dbq.edu
+video.dbq.edu
+lifecedarrapids.dbq.edu
+dart.dbq.edu
+pop3.dbq.edu
+library.dbq.edu
+ezproxy.dbq.edu
+gve.dbq.edu
+login.ezproxy.dbq.edu
+dbq.edu

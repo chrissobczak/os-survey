@@ -1,61 +1,26 @@
-NXDOMAIN	www.ostrow.wsfiz.edu.pl
-NXDOMAIN	www2.wsfiz.edu.pl
-NXDOMAIN	poczta.wsfiz.edu.pl
-NOERROR	ns1.wsfiz.edu.pl
-NOERROR	estudent.wsfiz.edu.pl
-NXDOMAIN	www.nowaeuropa.wsfiz.edu.pl
-NXDOMAIN	www.samorzadelk.wsfiz.edu.pl
-NXDOMAIN	private.wsfiz.edu.pl
-NOERROR	els.wsfiz.edu.pl
-NOERROR	student.wsfiz.edu.pl
-NOERROR	projekt.wsfiz.edu.pl
-NXDOMAIN	capitol.wsfiz.edu.pl
-NXDOMAIN	szkolenie.wsfiz.edu.pl
-NXDOMAIN	kadrymsp.wsfiz.edu.pl
-NXDOMAIN	sg.wsfiz.edu.pl
-NXDOMAIN	gis.wsfiz.edu.pl
-NXDOMAIN	fnti.wsfiz.edu.pl
-NOERROR	estudia.wsfiz.edu.pl
-NXDOMAIN	www.kadryoswiaty.wsfiz.edu.pl
-NXDOMAIN	www.ckp.wsfiz.edu.pl
-NOERROR	www.wsfiz.edu.pl
-NXDOMAIN	samorzadelk.wsfiz.edu.pl
-NOERROR	www.projekt.wsfiz.edu.pl
-NOERROR	festiwal.wsfiz.edu.pl
-NXDOMAIN	nowaeuropa.wsfiz.edu.pl
-NOERROR	konferencje.wsfiz.edu.pl
-NXDOMAIN	cnt.wsfiz.edu.pl
-NXDOMAIN	private1.wsfiz.edu.pl
-NXDOMAIN	www.pif.wsfiz.edu.pl
-NOERROR	www.festiwal.wsfiz.edu.pl
-NOERROR	biblioteka.wsfiz.edu.pl
-NOERROR	recto.wsfiz.edu.pl
-NXDOMAIN	samorzad.wsfiz.edu.pl
-NOERROR	rekrutacja.wsfiz.edu.pl
-NOERROR	chmurka.wsfiz.edu.pl
-NXDOMAIN	kurs.wsfiz.edu.pl
-NOERROR	mak.wsfiz.edu.pl
-NXDOMAIN	euczen.wsfiz.edu.pl
-NXDOMAIN	www.wig.wsfiz.edu.pl
-NOERROR	ns2.wsfiz.edu.pl
-NXDOMAIN	www.gis.wsfiz.edu.pl
-NXDOMAIN	wig.wsfiz.edu.pl
-NOERROR	pif.wsfiz.edu.pl
-NXDOMAIN	italia.wsfiz.edu.pl
-NXDOMAIN	mba.wsfiz.edu.pl
-NXDOMAIN	cpi.wsfiz.edu.pl
-NOERROR	elk.wsfiz.edu.pl
-NOERROR	ckp.wsfiz.edu.pl
-NOERROR	pracowniksocjalny.wsfiz.edu.pl
-NOERROR	e-studia.wsfiz.edu.pl
-NXDOMAIN	www.cpi.wsfiz.edu.pl
-NXDOMAIN	www.kadrymsp.wsfiz.edu.pl
-NOERROR	galeria.wsfiz.edu.pl
-NXDOMAIN	ostrow.wsfiz.edu.pl
-NOERROR	wsfiz.edu.pl
-NXDOMAIN	www.samorzad.wsfiz.edu.pl
-NXDOMAIN	www.szkolenie.wsfiz.edu.pl
-NOERROR	ca.wsfiz.edu.pl
-NOERROR	mail.wsfiz.edu.pl
-NXDOMAIN	sklep.wsfiz.edu.pl
-NXDOMAIN	liceum.wsfiz.edu.pl
+ns1.wsfiz.edu.pl
+estudent.wsfiz.edu.pl
+els.wsfiz.edu.pl
+student.wsfiz.edu.pl
+projekt.wsfiz.edu.pl
+estudia.wsfiz.edu.pl
+www.wsfiz.edu.pl
+www.projekt.wsfiz.edu.pl
+festiwal.wsfiz.edu.pl
+konferencje.wsfiz.edu.pl
+www.festiwal.wsfiz.edu.pl
+biblioteka.wsfiz.edu.pl
+recto.wsfiz.edu.pl
+rekrutacja.wsfiz.edu.pl
+chmurka.wsfiz.edu.pl
+mak.wsfiz.edu.pl
+ns2.wsfiz.edu.pl
+pif.wsfiz.edu.pl
+elk.wsfiz.edu.pl
+ckp.wsfiz.edu.pl
+pracowniksocjalny.wsfiz.edu.pl
+e-studia.wsfiz.edu.pl
+galeria.wsfiz.edu.pl
+wsfiz.edu.pl
+ca.wsfiz.edu.pl
+mail.wsfiz.edu.pl

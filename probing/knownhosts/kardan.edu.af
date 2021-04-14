@@ -1,15 +1,13 @@
-NOERROR	mail.kardan.edu.af
-NXDOMAIN	new.kardan.edu.af
-NOERROR	jobs.kardan.edu.af
-NOERROR	www.kardan.edu.af
-NOERROR	ns.kardan.edu.af
-NOERROR	email.kardan.edu.af
-NXDOMAIN	my.kardan.edu.af
-NOERROR	mssql.kardan.edu.af
-NOERROR	mail.portal.kardan.edu.af
-NOERROR	ftp.kardan.edu.af
-NOERROR	kardan.edu.af
-NOERROR	webmail.kardan.edu.af
-NOERROR	portal.kardan.edu.af
-NOERROR	blog.kardan.edu.af
-NOERROR	dari.kardan.edu.af
+mail.kardan.edu.af
+jobs.kardan.edu.af
+www.kardan.edu.af
+ns.kardan.edu.af
+email.kardan.edu.af
+mssql.kardan.edu.af
+mail.portal.kardan.edu.af
+ftp.kardan.edu.af
+kardan.edu.af
+webmail.kardan.edu.af
+portal.kardan.edu.af
+blog.kardan.edu.af
+dari.kardan.edu.af

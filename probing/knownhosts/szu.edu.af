@@ -1,24 +1,4 @@
-NXDOMAIN	www.kums.szu.edu.af
-NXDOMAIN	kums.szu.edu.af
-NXDOMAIN	ba.szu.edu.af
-NOERROR	szu.edu.af
-NXDOMAIN	www.kdru.szu.edu.af
-NXDOMAIN	www.kpu.szu.edu.af
-NXDOMAIN	www.hu.szu.edu.af
-NOERROR	www.szu.edu.af
-NXDOMAIN	www.ba.szu.edu.af
-NXDOMAIN	www.ju.szu.edu.af
-NOERROR	webmail.szu.edu.af
-NXDOMAIN	kdru.szu.edu.af
-NXDOMAIN	kpu.szu.edu.af
-NXDOMAIN	nu.szu.edu.af
-NXDOMAIN	sreu.szu.edu.af
-NXDOMAIN	www.nu.szu.edu.af
-NXDOMAIN	kundoz.szu.edu.af
-NXDOMAIN	www.sreu.szu.edu.af
-NXDOMAIN	webdisk.szu.edu.af
-NOERROR	mail.szu.edu.af
-NXDOMAIN	hu.szu.edu.af
-NXDOMAIN	www.kundoz.szu.edu.af
-NXDOMAIN	cpanel.szu.edu.af
-NXDOMAIN	ju.szu.edu.af
+szu.edu.af
+www.szu.edu.af
+webmail.szu.edu.af
+mail.szu.edu.af

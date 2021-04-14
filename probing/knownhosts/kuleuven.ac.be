@@ -1,265 +1,157 @@
-NXDOMAIN	www.econecoomdb1.econ.kuleuven.ac.be
-NOERROR	sandbox.econ.kuleuven.ac.be
-NOERROR	pc-md.ini.kuleuven.ac.be
-NOERROR	groffils.ini.kuleuven.ac.be
-NXDOMAIN	electhesis.econ.kuleuven.ac.be
-NOERROR	bib.kuleuven.ac.be
-NXDOMAIN	mirc-intern.uz.kuleuven.ac.be
-NXDOMAIN	ns2.esat.kuleuven.ac.be
-NOERROR	amicus2.libis.kuleuven.ac.be
-NOERROR	febmgr1.econ.kuleuven.ac.be
-NXDOMAIN	m3kp.uz.kuleuven.ac.be
-NOERROR	existenz.theo.kuleuven.ac.be
-NOERROR	www.mech.kuleuven.ac.be
-NXDOMAIN	wts2016.uz.kuleuven.ac.be
-NXDOMAIN	wts2016rds007.uz.kuleuven.ac.be
-NOERROR	econdns1.econ.kuleuven.ac.be
-NOERROR	adhemar.uz.kuleuven.ac.be
-NXDOMAIN	wgs.esat.kuleuven.ac.be
-NOERROR	www.wis.kuleuven.ac.be
-NOERROR	econweb2012s.econ.kuleuven.ac.be
-NOERROR	quantchem.kuleuven.ac.be
-NOERROR	lambik13.cc.kuleuven.ac.be
-NXDOMAIN	econwebtststatic.econ.kuleuven.ac.be
-NOERROR	econsrvv.econ.kuleuven.ac.be
-NOERROR	abel.arts.kuleuven.ac.be
-NXDOMAIN	www.bios.student.kuleuven.ac.be
-NOERROR	secr2.ini.kuleuven.ac.be
-NOERROR	hiw.kuleuven.ac.be
-NXDOMAIN	babylon.student.kuleuven.ac.be
-NXDOMAIN	wts2016rds010.uz.kuleuven.ac.be
-NXDOMAIN	m3ktest.uz.kuleuven.ac.be
-NXDOMAIN	wts2016rds011.uz.kuleuven.ac.be
-NXDOMAIN	pcssms7.uz.kuleuven.ac.be
-NOERROR	www.pharm.kuleuven.ac.be
-NOERROR	ns2.kulnet.kuleuven.ac.be
-NOERROR	urc1-dmz.cc.kuleuven.ac.be
-NXDOMAIN	medchem.rega.kuleuven.ac.be
-NOERROR	prosptol.arts.kuleuven.ac.be
-NOERROR	www.arts.kuleuven.ac.be
-NOERROR	www.esat.kuleuven.ac.be
-NXDOMAIN	econshp1.econ.kuleuven.ac.be
-NOERROR	econecoom1.econ.kuleuven.ac.be
-NXDOMAIN	wts2016rds020.uz.kuleuven.ac.be
-NXDOMAIN	wts2018.uz.kuleuven.ac.be
-NOERROR	pricie.ccl.kuleuven.ac.be
-NOERROR	econwebtst.econ.kuleuven.ac.be
-NXDOMAIN	jenkins.uz.kuleuven.ac.be
-NOERROR	labo1.ini.kuleuven.ac.be
-NXDOMAIN	cisco-cmx-2019.uz.kuleuven.ac.be
-NXDOMAIN	wts2016clu14.uz.kuleuven.ac.be
-NXDOMAIN	wts2016rds018.uz.kuleuven.ac.be
-NOERROR	appel.chem.kuleuven.ac.be
-NXDOMAIN	wts2016clu02.uz.kuleuven.ac.be
-NOERROR	lyncedgepool.uz.kuleuven.ac.be
-NXDOMAIN	wts2016clu08.uz.kuleuven.ac.be
-NOERROR	michotte.psy.kuleuven.ac.be
-NOERROR	intra.sadl.kuleuven.ac.be
-NXDOMAIN	wts2016clu05.uz.kuleuven.ac.be
-NOERROR	mermaid.econ.kuleuven.ac.be
-NOERROR	law.kuleuven.ac.be
-NXDOMAIN	artifacts.uz.kuleuven.ac.be
-NOERROR	www.cs.kuleuven.ac.be
-NOERROR	ftp.kulnet.kuleuven.ac.be
-SERVFAIL	ghumweb2.ghum.kuleuven.ac.be
-NOERROR	chem.kuleuven.ac.be
-NXDOMAIN	www.veto.student.kuleuven.ac.be
-NXDOMAIN	econflemosi1.econ.kuleuven.ac.be
-NOERROR	lyncdiscover.uz.kuleuven.ac.be
-NXDOMAIN	mail.mech.kuleuven.ac.be
-NOERROR	listserv.cc.kuleuven.ac.be
-NOERROR	ns1.kulnet.kuleuven.ac.be
-NOERROR	econ.kuleuven.ac.be
-NOERROR	ftp.cc.kuleuven.ac.be
-NOERROR	ster.kuleuven.ac.be
-NXDOMAIN	firmawts.uz.kuleuven.ac.be
-NXDOMAIN	wts2016rds013.uz.kuleuven.ac.be
-NOERROR	febstudentts03.econ.kuleuven.ac.be
-NOERROR	kulnet.kuleuven.ac.be
-NOERROR	lsedge02.uz.kuleuven.ac.be
-NOERROR	perswww.kuleuven.ac.be
-NOERROR	limbak.cc.kuleuven.ac.be
-NXDOMAIN	ns.ulyssis.student.kuleuven.ac.be
-NOERROR	rna.rega.kuleuven.ac.be
-NXDOMAIN	wts2016rds009.uz.kuleuven.ac.be
-NXDOMAIN	wts2016rds012.uz.kuleuven.ac.be
-NOERROR	www.student.kuleuven.ac.be
-NOERROR	www.fys.kuleuven.ac.be
-NOERROR	securewww.esat.kuleuven.ac.be
-NOERROR	esat.kuleuven.ac.be
-NXDOMAIN	wts2016rds001.uz.kuleuven.ac.be
-NXDOMAIN	wbhda.econ.kuleuven.ac.be
-NOERROR	www.psy.kuleuven.ac.be
-NOERROR	pc18.libis.kuleuven.ac.be
-NOERROR	locutus.arts.kuleuven.ac.be
-NXDOMAIN	wts2016clu06.uz.kuleuven.ac.be
-NXDOMAIN	wts2016rds016.uz.kuleuven.ac.be
-NOERROR	sinologie.arts.kuleuven.ac.be
-NOERROR	ftp.ccl.kuleuven.ac.be
-NOERROR	www.ludit.kuleuven.ac.be
-NXDOMAIN	svc.uz.kuleuven.ac.be
-NOERROR	perswww.cc.kuleuven.ac.be
-NXDOMAIN	www.aeroclub.student.kuleuven.ac.be
-NOERROR	fayum.arts.kuleuven.ac.be
-NOERROR	net-printer.ini.kuleuven.ac.be
-NOERROR	lhpc.arts.kuleuven.ac.be
-NXDOMAIN	febict.econ.kuleuven.ac.be
-NOERROR	med-srv-12.med.kuleuven.ac.be
-NOERROR	cit.kuleuven.ac.be
-NOERROR	merode.econ.kuleuven.ac.be
-NOERROR	priciedc.ccl.kuleuven.ac.be
-NOERROR	www.med.kuleuven.ac.be
-NOERROR	sadl.kuleuven.ac.be
-NOERROR	libis.kuleuven.ac.be
-NXDOMAIN	autodiscover.uz.kuleuven.ac.be
-NOERROR	sws.ster.kuleuven.ac.be
-NOERROR	ldab.arts.kuleuven.ac.be
-NOERROR	wis.kuleuven.ac.be
-NXDOMAIN	www.pcssms7.uz.kuleuven.ac.be
-NXDOMAIN	econmgr4.econ.kuleuven.ac.be
-NXDOMAIN	nfk.student.kuleuven.ac.be
-NXDOMAIN	wts2016rds017.uz.kuleuven.ac.be
-NOERROR	cwisdb.cc.kuleuven.ac.be
-NXDOMAIN	git.uz.kuleuven.ac.be
-NOERROR	pci-52.alma.kuleuven.ac.be
-NOERROR	urc1.cc.kuleuven.ac.be
-NXDOMAIN	alfa.student.kuleuven.ac.be
-NXDOMAIN	imap.student.kuleuven.ac.be
-NOERROR	tobias17.cc.kuleuven.ac.be
-NOERROR	uz.kuleuven.ac.be
-NXDOMAIN	www.law.kuleuven.ac.be
-NOERROR	theo.kuleuven.ac.be
-NOERROR	akira.arts.kuleuven.ac.be
-NXDOMAIN	wts2016rds004.uz.kuleuven.ac.be
-NOERROR	www.ster.kuleuven.ac.be
-SERVFAIL	intranet.ghum.kuleuven.ac.be
-NXDOMAIN	econweb5s.econ.kuleuven.ac.be
-NOERROR	econclus7b.econ.kuleuven.ac.be
-NOERROR	www.theo.kuleuven.ac.be
-NXDOMAIN	people.mech.kuleuven.ac.be
-NOERROR	noord.quantchem.kuleuven.ac.be
-NOERROR	econweb2012static.econ.kuleuven.ac.be
-NXDOMAIN	wts2016clu03.uz.kuleuven.ac.be
-NXDOMAIN	printaccounting.econ.kuleuven.ac.be
-SERVFAIL	www.ghum.kuleuven.ac.be
-NOERROR	lsedge01.uz.kuleuven.ac.be
-NXDOMAIN	m3ka.uz.kuleuven.ac.be
-NXDOMAIN	bart.dedobbelaer@uz.kuleuven.ac.be
-NOERROR	fys.kuleuven.ac.be
-NXDOMAIN	econprt1.econ.kuleuven.ac.be
-NOERROR	homes.esat.kuleuven.ac.be
-NOERROR	seminaries.avl.kuleuven.ac.be
-NXDOMAIN	lists.mech.kuleuven.ac.be
-NOERROR	pci-53.alma.kuleuven.ac.be
-NOERROR	pharm.kuleuven.ac.be
-NXDOMAIN	www.hist.student.kuleuven.ac.be
-NOERROR	arts.kuleuven.ac.be
-NXDOMAIN	wts2016clu15.uz.kuleuven.ac.be
-NOERROR	febdc2.econ.kuleuven.ac.be
-NOERROR	ftp.esat.kuleuven.ac.be
-NXDOMAIN	wts2016clu04.uz.kuleuven.ac.be
-NOERROR	dnsrv.agr.kuleuven.ac.be
-NXDOMAIN	hist.student.kuleuven.ac.be
-NOERROR	pci-54.alma.kuleuven.ac.be
-NXDOMAIN	wts2016clu01.uz.kuleuven.ac.be
-NOERROR	econdns2.econ.kuleuven.ac.be
-NOERROR	mailserv.cc.kuleuven.ac.be
-NOERROR	econecoomdb1.econ.kuleuven.ac.be
-NXDOMAIN	feb.kuleuven.ac.be
-NOERROR	oort.ster.kuleuven.ac.be
-NOERROR	flok.kuleuven.ac.be
-NXDOMAIN	ns1.esat.kuleuven.ac.be
-NXDOMAIN	web2012.econ.kuleuven.ac.be
-NOERROR	millennium.arts.kuleuven.ac.be
-NOERROR	cmp.arts.kuleuven.ac.be
-NOERROR	sinology.arts.kuleuven.ac.be
-NOERROR	elise.arts.kuleuven.ac.be
-NXDOMAIN	wts2016rds003.uz.kuleuven.ac.be
-NOERROR	med.kuleuven.ac.be
-NOERROR	workplace.cc.kuleuven.ac.be
-NOERROR	pacs.ster.kuleuven.ac.be
-NOERROR	student.kuleuven.ac.be
-NOERROR	www.alma.kuleuven.ac.be
-NOERROR	bwk.kuleuven.ac.be
-NOERROR	www.ccl.kuleuven.ac.be
-NOERROR	meet.uz.kuleuven.ac.be
-NXDOMAIN	wts2016clu07.uz.kuleuven.ac.be
-NOERROR	ftw.kuleuven.ac.be
-NXDOMAIN	wts2016clu13.uz.kuleuven.ac.be
-NOERROR	www.farm.kuleuven.ac.be
-NXDOMAIN	econgespage1.econ.kuleuven.ac.be
-NXDOMAIN	wts2016rds015.uz.kuleuven.ac.be
-NOERROR	ftp.ster.kuleuven.ac.be
-NXDOMAIN	wibra.econ.kuleuven.ac.be
-NXDOMAIN	xeroprod.uz.kuleuven.ac.be
-NOERROR	neuroserv.med.kuleuven.ac.be
-NXDOMAIN	c6509-mer1-core-01.uz.kuleuven.ac.be
-NOERROR	www.ftw.kuleuven.ac.be
-NOERROR	www.ilt.kuleuven.ac.be
-NXDOMAIN	www.chemika.student.kuleuven.ac.be
-NOERROR	www.hiw.kuleuven.ac.be
-SERVFAIL	rds-srv-02.med.ad10.intern.kuleuven.ac.be
-NOERROR	econweb2012.econ.kuleuven.ac.be
-NXDOMAIN	wts2016rds005.uz.kuleuven.ac.be
-NXDOMAIN	wts2016rds002.uz.kuleuven.ac.be
-NXDOMAIN	www.econ.kuleuven.ac.be
-NOERROR	secr1.ini.kuleuven.ac.be
-NXDOMAIN	veto.student.kuleuven.ac.be
-NXDOMAIN	econweb3.econ.kuleuven.ac.be
-NXDOMAIN	wts2016clu11.uz.kuleuven.ac.be
-NOERROR	dns2.kulnet.kuleuven.ac.be
-NOERROR	www.wet.kuleuven.ac.be
-NOERROR	tobias13.cc.kuleuven.ac.be
-NOERROR	kromsin.cc.kuleuven.ac.be
-NOERROR	cpp.arts.kuleuven.ac.be
-NOERROR	febdc1.econ.kuleuven.ac.be
-NOERROR	ini-server.ini.kuleuven.ac.be
-NXDOMAIN	www.xeroprod.uz.kuleuven.ac.be
-NOERROR	alma.kuleuven.ac.be
-NOERROR	www.soc.kuleuven.ac.be
-NXDOMAIN	jsatest.uz.kuleuven.ac.be
-NXDOMAIN	osclu-multidc.uz.kuleuven.ac.be
-NOERROR	www.kuleuven.ac.be
-NXDOMAIN	wts2016rds014.uz.kuleuven.ac.be
-NOERROR	www.wbib.kuleuven.ac.be
-NOERROR	dns.esat.kuleuven.ac.be
-NXDOMAIN	listserv.kuleuven.ac.be
-NOERROR	access.libis.kuleuven.ac.be
-NXDOMAIN	econweb.econ.kuleuven.ac.be
-NXDOMAIN	aeroclub.student.kuleuven.ac.be
-NOERROR	bio.kuleuven.ac.be
-NOERROR	soc.kuleuven.ac.be
-NOERROR	farm.kuleuven.ac.be
-NXDOMAIN	helpdesk.econ.kuleuven.ac.be
-NXDOMAIN	wts2016clu12.uz.kuleuven.ac.be
-NOERROR	ls.kuleuven.ac.be
-NOERROR	dns1.kulnet.kuleuven.ac.be
-NOERROR	mill.arts.kuleuven.ac.be
-NXDOMAIN	wts2016rds019.uz.kuleuven.ac.be
-NXDOMAIN	www.m3ktest.uz.kuleuven.ac.be
-NXDOMAIN	lyncdiscoverinternal.uz.kuleuven.ac.be
-NOERROR	ftpserv.cc.kuleuven.ac.be
-NXDOMAIN	mail.uz.kuleuven.ac.be
-NOERROR	cwisap.cc.kuleuven.ac.be
-NOERROR	h2o.cc.kuleuven.ac.be
-NOERROR	www.uz.kuleuven.ac.be
-NXDOMAIN	ns2.ulyssis.student.kuleuven.ac.be
-NOERROR	econts3.econ.kuleuven.ac.be
-NOERROR	wet.kuleuven.ac.be
-NOERROR	bach.arts.kuleuven.ac.be
-NOERROR	despallier.psy.kuleuven.ac.be
-NXDOMAIN	thomas.noppe@uz.kuleuven.ac.be
-NOERROR	fuzzy.arts.kuleuven.ac.be
-NOERROR	kuleuven.ac.be
-NXDOMAIN	its.econ.kuleuven.ac.be
-NXDOMAIN	www.agr.kuleuven.ac.be
-NOERROR	freggle.cc.kuleuven.ac.be
-NOERROR	wwwling.arts.kuleuven.ac.be
-NXDOMAIN	wts2016rds008.uz.kuleuven.ac.be
-NXDOMAIN	wts2016rds006.uz.kuleuven.ac.be
-NOERROR	luypaert.ini.kuleuven.ac.be
-NOERROR	psy.kuleuven.ac.be
-NOERROR	www.czv.kuleuven.ac.be
-NXDOMAIN	wts2016clu09.uz.kuleuven.ac.be
-NXDOMAIN	wts2016clu10.uz.kuleuven.ac.be
-NOERROR	tobias25.cc.kuleuven.ac.be
+sandbox.econ.kuleuven.ac.be
+pc-md.ini.kuleuven.ac.be
+groffils.ini.kuleuven.ac.be
+bib.kuleuven.ac.be
+amicus2.libis.kuleuven.ac.be
+febmgr1.econ.kuleuven.ac.be
+existenz.theo.kuleuven.ac.be
+www.mech.kuleuven.ac.be
+econdns1.econ.kuleuven.ac.be
+adhemar.uz.kuleuven.ac.be
+www.wis.kuleuven.ac.be
+econweb2012s.econ.kuleuven.ac.be
+quantchem.kuleuven.ac.be
+lambik13.cc.kuleuven.ac.be
+econsrvv.econ.kuleuven.ac.be
+abel.arts.kuleuven.ac.be
+secr2.ini.kuleuven.ac.be
+hiw.kuleuven.ac.be
+www.pharm.kuleuven.ac.be
+ns2.kulnet.kuleuven.ac.be
+urc1-dmz.cc.kuleuven.ac.be
+prosptol.arts.kuleuven.ac.be
+www.arts.kuleuven.ac.be
+www.esat.kuleuven.ac.be
+econecoom1.econ.kuleuven.ac.be
+pricie.ccl.kuleuven.ac.be
+econwebtst.econ.kuleuven.ac.be
+labo1.ini.kuleuven.ac.be
+appel.chem.kuleuven.ac.be
+lyncedgepool.uz.kuleuven.ac.be
+michotte.psy.kuleuven.ac.be
+intra.sadl.kuleuven.ac.be
+mermaid.econ.kuleuven.ac.be
+law.kuleuven.ac.be
+www.cs.kuleuven.ac.be
+ftp.kulnet.kuleuven.ac.be
+chem.kuleuven.ac.be
+lyncdiscover.uz.kuleuven.ac.be
+listserv.cc.kuleuven.ac.be
+ns1.kulnet.kuleuven.ac.be
+econ.kuleuven.ac.be
+ftp.cc.kuleuven.ac.be
+ster.kuleuven.ac.be
+febstudentts03.econ.kuleuven.ac.be
+kulnet.kuleuven.ac.be
+lsedge02.uz.kuleuven.ac.be
+perswww.kuleuven.ac.be
+limbak.cc.kuleuven.ac.be
+rna.rega.kuleuven.ac.be
+www.student.kuleuven.ac.be
+www.fys.kuleuven.ac.be
+securewww.esat.kuleuven.ac.be
+esat.kuleuven.ac.be
+www.psy.kuleuven.ac.be
+pc18.libis.kuleuven.ac.be
+locutus.arts.kuleuven.ac.be
+sinologie.arts.kuleuven.ac.be
+ftp.ccl.kuleuven.ac.be
+www.ludit.kuleuven.ac.be
+perswww.cc.kuleuven.ac.be
+fayum.arts.kuleuven.ac.be
+net-printer.ini.kuleuven.ac.be
+lhpc.arts.kuleuven.ac.be
+med-srv-12.med.kuleuven.ac.be
+cit.kuleuven.ac.be
+merode.econ.kuleuven.ac.be
+priciedc.ccl.kuleuven.ac.be
+www.med.kuleuven.ac.be
+sadl.kuleuven.ac.be
+libis.kuleuven.ac.be
+sws.ster.kuleuven.ac.be
+ldab.arts.kuleuven.ac.be
+wis.kuleuven.ac.be
+cwisdb.cc.kuleuven.ac.be
+pci-52.alma.kuleuven.ac.be
+urc1.cc.kuleuven.ac.be
+tobias17.cc.kuleuven.ac.be
+uz.kuleuven.ac.be
+theo.kuleuven.ac.be
+akira.arts.kuleuven.ac.be
+www.ster.kuleuven.ac.be
+econclus7b.econ.kuleuven.ac.be
+www.theo.kuleuven.ac.be
+noord.quantchem.kuleuven.ac.be
+econweb2012static.econ.kuleuven.ac.be
+lsedge01.uz.kuleuven.ac.be
+fys.kuleuven.ac.be
+homes.esat.kuleuven.ac.be
+seminaries.avl.kuleuven.ac.be
+pci-53.alma.kuleuven.ac.be
+pharm.kuleuven.ac.be
+arts.kuleuven.ac.be
+febdc2.econ.kuleuven.ac.be
+ftp.esat.kuleuven.ac.be
+dnsrv.agr.kuleuven.ac.be
+pci-54.alma.kuleuven.ac.be
+econdns2.econ.kuleuven.ac.be
+mailserv.cc.kuleuven.ac.be
+econecoomdb1.econ.kuleuven.ac.be
+oort.ster.kuleuven.ac.be
+flok.kuleuven.ac.be
+millennium.arts.kuleuven.ac.be
+cmp.arts.kuleuven.ac.be
+sinology.arts.kuleuven.ac.be
+elise.arts.kuleuven.ac.be
+med.kuleuven.ac.be
+workplace.cc.kuleuven.ac.be
+pacs.ster.kuleuven.ac.be
+student.kuleuven.ac.be
+www.alma.kuleuven.ac.be
+bwk.kuleuven.ac.be
+www.ccl.kuleuven.ac.be
+meet.uz.kuleuven.ac.be
+ftw.kuleuven.ac.be
+www.farm.kuleuven.ac.be
+ftp.ster.kuleuven.ac.be
+neuroserv.med.kuleuven.ac.be
+www.ftw.kuleuven.ac.be
+www.ilt.kuleuven.ac.be
+www.hiw.kuleuven.ac.be
+econweb2012.econ.kuleuven.ac.be
+secr1.ini.kuleuven.ac.be
+dns2.kulnet.kuleuven.ac.be
+www.wet.kuleuven.ac.be
+tobias13.cc.kuleuven.ac.be
+kromsin.cc.kuleuven.ac.be
+cpp.arts.kuleuven.ac.be
+febdc1.econ.kuleuven.ac.be
+ini-server.ini.kuleuven.ac.be
+alma.kuleuven.ac.be
+www.soc.kuleuven.ac.be
+www.kuleuven.ac.be
+www.wbib.kuleuven.ac.be
+dns.esat.kuleuven.ac.be
+access.libis.kuleuven.ac.be
+bio.kuleuven.ac.be
+soc.kuleuven.ac.be
+farm.kuleuven.ac.be
+ls.kuleuven.ac.be
+dns1.kulnet.kuleuven.ac.be
+mill.arts.kuleuven.ac.be
+ftpserv.cc.kuleuven.ac.be
+cwisap.cc.kuleuven.ac.be
+h2o.cc.kuleuven.ac.be
+www.uz.kuleuven.ac.be
+econts3.econ.kuleuven.ac.be
+wet.kuleuven.ac.be
+bach.arts.kuleuven.ac.be
+despallier.psy.kuleuven.ac.be
+fuzzy.arts.kuleuven.ac.be
+kuleuven.ac.be
+freggle.cc.kuleuven.ac.be
+wwwling.arts.kuleuven.ac.be
+luypaert.ini.kuleuven.ac.be
+psy.kuleuven.ac.be
+www.czv.kuleuven.ac.be
+tobias25.cc.kuleuven.ac.be

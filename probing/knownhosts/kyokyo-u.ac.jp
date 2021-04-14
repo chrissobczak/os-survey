@@ -1,142 +1,71 @@
-NXDOMAIN	ldap1.kyokyo-u.ac.jp
-NXDOMAIN	maillist.kyokyo-u.ac.jp
-NXDOMAIN	zaimu.kyokyo-u.ac.jp
-NXDOMAIN	officehp.kyokyo-u.ac.jp
-NXDOMAIN	fprt.ipcwin.kyokyo-u.ac.jp
-NOERROR	bunsyo.kyokyo-u.ac.jp
-NOERROR	tpro2.kyokyo-u.ac.jp
-NOERROR	vpn-cc.kyokyo-u.ac.jp
-NOERROR	dnsz.kyokyo-u.ac.jp
-NOERROR	nyushi.kyokyo-u.ac.jp
-NOERROR	tpro1.kyokyo-u.ac.jp
-NOERROR	kenkyusuishin.kyokyo-u.ac.jp
-NXDOMAIN	librarygakunai.kyokyo-u.ac.jp
-NXDOMAIN	hwww.kyokyo-u.ac.jp
-NOERROR	ns.kyokyo-u.ac.jp
-NOERROR	smtpz1.kyokyo-u.ac.jp
-NXDOMAIN	kyoinjoho.kyokyo-u.ac.jp
-NOERROR	kyoumu.kyokyo-u.ac.jp
-NXDOMAIN	josui.kyokyo-u.ac.jp
-NXDOMAIN	jikotenken.kyokyo-u.ac.jp
-NXDOMAIN	cece-lms.kyokyo-u.ac.jp
-NXDOMAIN	kyomu-web.kyokyo-u.ac.jp
-NOERROR	fpro2.kyokyo-u.ac.jp
-NOERROR	youdo.kyokyo-u.ac.jp
-NOERROR	vpn-ipc.kyokyo-u.ac.jp
-NOERROR	kkuatx.hep.kyokyo-u.ac.jp
-NOERROR	tnszc1.kyokyo-u.ac.jp
-NOERROR	fpro4.kyokyo-u.ac.jp
-NXDOMAIN	kankyou.kyokyo-u.ac.jp
-NOERROR	atx11.hep.kyokyo-u.ac.jp
-NXDOMAIN	ldap2.kyokyo-u.ac.jp
-NOERROR	kyoiku.kyokyo-u.ac.jp
-NXDOMAIN	kuewifi.kyokyo-u.ac.jp
-NOERROR	bbr.hep.kyokyo-u.ac.jp
-NOERROR	websv.kyokyo-u.ac.jp
-NXDOMAIN	pop.kyokyo-u.ac.jp
-NXDOMAIN	kasei.kyokyo-u.ac.jp
-NXDOMAIN	vpngw.kyokyo-u.ac.jp
-NOERROR	waf.kyokyo-u.ac.jp
-NOERROR	vspro2.kyokyo-u.ac.jp
-NXDOMAIN	atx8.hep.kyokyo-u.ac.jp
-NXDOMAIN	pass.kyokyo-u.ac.jp
-NXDOMAIN	ongaku.kyokyo-u.ac.jp
-NXDOMAIN	sangi.kyokyo-u.ac.jp
-NXDOMAIN	eduroam.kyokyo-u.ac.jp
-NOERROR	odsps.kyokyo-u.ac.jp
-NOERROR	kyokyopolycom.kyokyo-u.ac.jp
-NOERROR	iodata.hep.kyokyo-u.ac.jp
-NOERROR	www.kyokyo-u.ac.jp
-NOERROR	ipc.kyokyo-u.ac.jp
-NXDOMAIN	lend.kyokyo-u.ac.jp
-NOERROR	fpro3.kyokyo-u.ac.jp
-NXDOMAIN	czmomochu.kyokyo-u.ac.jp
-NXDOMAIN	ldap.kyokyo-u.ac.jp
-NXDOMAIN	jimuhp.kyokyo-u.ac.jp
-NOERROR	lib1.kyokyo-u.ac.jp
-NOERROR	fnszc1.kyokyo-u.ac.jp
-NOERROR	kyoushien.kyokyo-u.ac.jp
-NXDOMAIN	hijyokin.kyokyo-u.ac.jp
-NXDOMAIN	zaikai.kyokyo-u.ac.jp
-NOERROR	account.kyokyo-u.ac.jp
-NOERROR	global-fujyugyou.kyokyo-u.ac.jp
-NOERROR	math.kyokyo-u.ac.jp
-NOERROR	manabinomori.kyokyo-u.ac.jp
-NXDOMAIN	ipc-in.kyokyo-u.ac.jp
-NXDOMAIN	kyoinjohoapdb.kyokyo-u.ac.jp
-NOERROR	psychology.kyokyo-u.ac.jp
-NOERROR	spamz2.kyokyo-u.ac.jp
-NOERROR	tosho2.kyokyo-u.ac.jp
-NXDOMAIN	kuenet.kyokyo-u.ac.jp
-NOERROR	koukou.kyokyo-u.ac.jp
-NXDOMAIN	tad1.ipcwin.kyokyo-u.ac.jp
-NXDOMAIN	dssrv.kyokyo-u.ac.jp
-NOERROR	cloud.kyokyo-u.ac.jp
-NOERROR	hayabusa.hep.kyokyo-u.ac.jp
-NXDOMAIN	myno.kyokyo-u.ac.jp
-NXDOMAIN	nas2.kyokyo-u.ac.jp
-NOERROR	renjissen.kyokyo-u.ac.jp
-NXDOMAIN	imap.kyokyo-u.ac.jp
-NOERROR	sspro.kyokyo-u.ac.jp
-NXDOMAIN	syusyoku-web.kyokyo-u.ac.jp
-NXDOMAIN	superschool.kyokyo-u.ac.jp
-NOERROR	tnszc2.kyokyo-u.ac.jp
-NOERROR	ns1.hep.kyokyo-u.ac.jp
-NXDOMAIN	whisv.kyokyo-u.ac.jp
-NXDOMAIN	web-mgr.kyokyo-u.ac.jp
-NOERROR	rinshou.kyokyo-u.ac.jp
-NXDOMAIN	tosho002.kyokyo-u.ac.jp
-NOERROR	smtpz2.kyokyo-u.ac.jp
-NXDOMAIN	seikyo.kyokyo-u.ac.jp
-NXDOMAIN	kyosho.kyokyo-u.ac.jp
-NXDOMAIN	nas1.kyokyo-u.ac.jp
-NXDOMAIN	sotsugyodb.kyokyo-u.ac.jp
-NOERROR	survey.kyokyo-u.ac.jp
-NXDOMAIN	gakusei.kyokyo-u.ac.jp
-NOERROR	livecampus.kyokyo-u.ac.jp
-NOERROR	bbr2.hep.kyokyo-u.ac.jp
-NXDOMAIN	whi-mgr.kyokyo-u.ac.jp
-NOERROR	ir.kyokyo-u.ac.jp
-NOERROR	spamz1.kyokyo-u.ac.jp
-NOERROR	fpro1.kyokyo-u.ac.jp
-NOERROR	natsci.kyokyo-u.ac.jp
-NXDOMAIN	ikkatsu.kyokyo-u.ac.jp
-NOERROR	hep.kyokyo-u.ac.jp
-NXDOMAIN	kkusg1.hep.kyokyo-u.ac.jp
-NOERROR	fnszc2.kyokyo-u.ac.jp
-NXDOMAIN	career.kyokyo-u.ac.jp
-NXDOMAIN	apgate.kyokyo-u.ac.jp
-NXDOMAIN	hepsg1.kyokyo-u.ac.jp
-NXDOMAIN	wcm.kyokyo-u.ac.jp
-NOERROR	www2-vip.kyokyo-u.ac.jp
-NXDOMAIN	annaiyaku.kyokyo-u.ac.jp
-NOERROR	kyoinjohoweb.kyokyo-u.ac.jp
-NXDOMAIN	groupware.kyokyo-u.ac.jp
-NXDOMAIN	tosho02.kyokyo-u.ac.jp
-NXDOMAIN	jdc1.kyojimu.kyokyo-u.ac.jp
-NOERROR	buffalo.hep.kyokyo-u.ac.jp
-NXDOMAIN	kkuatx.kyokyo-u.ac.jp
-NOERROR	wmz-vip.kyokyo-u.ac.jp
-NOERROR	teched.kyokyo-u.ac.jp
-NOERROR	executive.kyokyo-u.ac.jp
-NOERROR	ilearn.kyokyo-u.ac.jp
-NXDOMAIN	kyoshien.kyokyo-u.ac.jp
-NXDOMAIN	movable.kyokyo-u.ac.jp
-NOERROR	atx13.hep.kyokyo-u.ac.jp
-NXDOMAIN	nyu.kyokyo-u.ac.jp
-NXDOMAIN	cert.kyokyo-u.ac.jp
-NXDOMAIN	sport.kyokyo-u.ac.jp
-NXDOMAIN	wsweb.kyokyo-u.ac.jp
-NXDOMAIN	kyousien.kyokyo-u.ac.jp
-NOERROR	kuemail.kyokyo-u.ac.jp
-NXDOMAIN	webshare.kyokyo-u.ac.jp
-NXDOMAIN	smtp.kyokyo-u.ac.jp
-NXDOMAIN	music.kyokyo-u.ac.jp
-NOERROR	idp1.kyokyo-u.ac.jp
-NOERROR	kokugo.kyokyo-u.ac.jp
-NXDOMAIN	wsyobi.kyokyo-u.ac.jp
-NXDOMAIN	wsgr.kyokyo-u.ac.jp
-NOERROR	spamk.kyokyo-u.ac.jp
-NOERROR	vspro1.kyokyo-u.ac.jp
-NOERROR	natscitv.kyokyo-u.ac.jp
-NOERROR	momochutv.kyokyo-u.ac.jp
+bunsyo.kyokyo-u.ac.jp
+tpro2.kyokyo-u.ac.jp
+vpn-cc.kyokyo-u.ac.jp
+dnsz.kyokyo-u.ac.jp
+nyushi.kyokyo-u.ac.jp
+tpro1.kyokyo-u.ac.jp
+kenkyusuishin.kyokyo-u.ac.jp
+ns.kyokyo-u.ac.jp
+smtpz1.kyokyo-u.ac.jp
+kyoumu.kyokyo-u.ac.jp
+fpro2.kyokyo-u.ac.jp
+youdo.kyokyo-u.ac.jp
+vpn-ipc.kyokyo-u.ac.jp
+kkuatx.hep.kyokyo-u.ac.jp
+tnszc1.kyokyo-u.ac.jp
+fpro4.kyokyo-u.ac.jp
+atx11.hep.kyokyo-u.ac.jp
+kyoiku.kyokyo-u.ac.jp
+bbr.hep.kyokyo-u.ac.jp
+websv.kyokyo-u.ac.jp
+waf.kyokyo-u.ac.jp
+vspro2.kyokyo-u.ac.jp
+odsps.kyokyo-u.ac.jp
+kyokyopolycom.kyokyo-u.ac.jp
+iodata.hep.kyokyo-u.ac.jp
+www.kyokyo-u.ac.jp
+ipc.kyokyo-u.ac.jp
+fpro3.kyokyo-u.ac.jp
+lib1.kyokyo-u.ac.jp
+fnszc1.kyokyo-u.ac.jp
+kyoushien.kyokyo-u.ac.jp
+account.kyokyo-u.ac.jp
+global-fujyugyou.kyokyo-u.ac.jp
+math.kyokyo-u.ac.jp
+manabinomori.kyokyo-u.ac.jp
+psychology.kyokyo-u.ac.jp
+spamz2.kyokyo-u.ac.jp
+tosho2.kyokyo-u.ac.jp
+koukou.kyokyo-u.ac.jp
+cloud.kyokyo-u.ac.jp
+hayabusa.hep.kyokyo-u.ac.jp
+renjissen.kyokyo-u.ac.jp
+sspro.kyokyo-u.ac.jp
+tnszc2.kyokyo-u.ac.jp
+ns1.hep.kyokyo-u.ac.jp
+rinshou.kyokyo-u.ac.jp
+smtpz2.kyokyo-u.ac.jp
+survey.kyokyo-u.ac.jp
+livecampus.kyokyo-u.ac.jp
+bbr2.hep.kyokyo-u.ac.jp
+ir.kyokyo-u.ac.jp
+spamz1.kyokyo-u.ac.jp
+fpro1.kyokyo-u.ac.jp
+natsci.kyokyo-u.ac.jp
+hep.kyokyo-u.ac.jp
+fnszc2.kyokyo-u.ac.jp
+www2-vip.kyokyo-u.ac.jp
+kyoinjohoweb.kyokyo-u.ac.jp
+buffalo.hep.kyokyo-u.ac.jp
+wmz-vip.kyokyo-u.ac.jp
+teched.kyokyo-u.ac.jp
+executive.kyokyo-u.ac.jp
+ilearn.kyokyo-u.ac.jp
+atx13.hep.kyokyo-u.ac.jp
+kuemail.kyokyo-u.ac.jp
+idp1.kyokyo-u.ac.jp
+kokugo.kyokyo-u.ac.jp
+spamk.kyokyo-u.ac.jp
+vspro1.kyokyo-u.ac.jp
+natscitv.kyokyo-u.ac.jp
+momochutv.kyokyo-u.ac.jp

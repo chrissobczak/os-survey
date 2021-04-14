@@ -1,41 +1,40 @@
-NOERROR	most.gov.mm
-NOERROR	tutgi.most.gov.mm
-NOERROR	tuhbi.most.gov.mm
-NOERROR	tubanmaw.most.gov.mm
-NOERROR	cukly.most.gov.mm
-NOERROR	tuyamethin.most.gov.mm
-NOERROR	cupkku.most.gov.mm
-NOERROR	mail.most.gov.mm
-NOERROR	mtu.most.gov.mm
-NOERROR	staff.most.gov.mm
-NOERROR	library.most.gov.mm
-NOERROR	cutaungoo.most.gov.mm
-NOERROR	icse.most.gov.mm
-NOERROR	tumka.most.gov.mm
-NOERROR	cuktg.most.gov.mm
-NOERROR	tulso.most.gov.mm
-NOERROR	tutl.most.gov.mm
-NXDOMAIN	icse2009.most.gov.mm
-NOERROR	cumandalay.most.gov.mm
-NOERROR	ptu.most.gov.mm
-NOERROR	cutgi.most.gov.mm
-NOERROR	dtpc.most.gov.mm
-NOERROR	cupyay.most.gov.mm
-NOERROR	bmsrd.most.gov.mm
-NOERROR	cvs.most.gov.mm
-NOERROR	dri.most.gov.mm
-NOERROR	custy.most.gov.mm
-NOERROR	cuptn.most.gov.mm
-NOERROR	wytu.most.gov.mm
-NOERROR	utycc.most.gov.mm
-NOERROR	tutoungoo.most.gov.mm
-NOERROR	www.most.gov.mm
-NOERROR	cuhtd.most.gov.mm
-NOERROR	cudwi.most.gov.mm
-NOERROR	tumgy.most.gov.mm
-NOERROR	cumtla.most.gov.mm
-NOERROR	dae.most.gov.mm
-NOERROR	ems.most.gov.mm
-NOERROR	pridns.most.gov.mm
-NOERROR	tumdy.most.gov.mm
-NOERROR	dtve.most.gov.mm
+most.gov.mm
+tutgi.most.gov.mm
+tuhbi.most.gov.mm
+tubanmaw.most.gov.mm
+cukly.most.gov.mm
+tuyamethin.most.gov.mm
+cupkku.most.gov.mm
+mail.most.gov.mm
+mtu.most.gov.mm
+staff.most.gov.mm
+library.most.gov.mm
+cutaungoo.most.gov.mm
+icse.most.gov.mm
+tumka.most.gov.mm
+cuktg.most.gov.mm
+tulso.most.gov.mm
+tutl.most.gov.mm
+cumandalay.most.gov.mm
+ptu.most.gov.mm
+cutgi.most.gov.mm
+dtpc.most.gov.mm
+cupyay.most.gov.mm
+bmsrd.most.gov.mm
+cvs.most.gov.mm
+dri.most.gov.mm
+custy.most.gov.mm
+cuptn.most.gov.mm
+wytu.most.gov.mm
+utycc.most.gov.mm
+tutoungoo.most.gov.mm
+www.most.gov.mm
+cuhtd.most.gov.mm
+cudwi.most.gov.mm
+tumgy.most.gov.mm
+cumtla.most.gov.mm
+dae.most.gov.mm
+ems.most.gov.mm
+pridns.most.gov.mm
+tumdy.most.gov.mm
+dtve.most.gov.mm

@@ -1,64 +1,54 @@
-NOERROR	isupport.hartnell.edu
-NXDOMAIN	collui.hartnell.edu
-NOERROR	www.hartnell.edu
-NOERROR	webcam.hartnell.edu
-NOERROR	xvp.hartnell.edu
-NXDOMAIN	occmail.hartnell.edu
-NOERROR	give.hartnell.edu
-NOERROR	csin3.hartnell.edu
-NXDOMAIN	appvolmgr1.hartnell.edu
-NOERROR	catcard.hartnell.edu
-NOERROR	hartnellapp.hartnell.edu
-NOERROR	paws.hartnell.edu
-NOERROR	olw.hartnell.edu
-NXDOMAIN	flexit.hartnell.edu
-NOERROR	pgw.hartnell.edu
-NOERROR	ezproxy.hartnell.edu
-NOERROR	dev-www.hartnell.edu
-NOERROR	cccgate.hartnell.edu
-NOERROR	panther.hartnell.edu
-NOERROR	drupal-www.hartnell.edu
-NXDOMAIN	vdiconnect.hartnell.edu
-NOERROR	esars.hartnell.edu
-NOERROR	incommon1.hartnell.edu
-NOERROR	wapp1.hartnell.edu
-NOERROR	web-ftp.hartnell.edu
-NOERROR	library.cqpress.com.ezproxy.hartnell.edu
-NOERROR	webcam2.hartnell.edu
-NOERROR	remotesupport.hartnell.edu
-NXDOMAIN	vcentervdt.hartnell.edu
-NOERROR	ns2.hartnell.edu
-NOERROR	jachin.hartnell.edu
-NOERROR	hartnell.edu
-NOERROR	csitin3.hartnell.edu
-NXDOMAIN	viewconnecta.hartnell.edu
-NOERROR	gwm.hartnell.edu
-NOERROR	stmobrtr.hartnell.edu
-NXDOMAIN	ccg.hartnell.edu
-NOERROR	mailer.hartnell.edu
-NOERROR	fedgate.hartnell.edu
-NOERROR	collwa.hartnell.edu
-NOERROR	ocmail.hartnell.edu
-NOERROR	web.b.ebscohost.com.ezproxy.hartnell.edu
-NOERROR	opw.hartnell.edu
-NOERROR	elumen.hartnell.edu
-NOERROR	old-www.hartnell.edu
-NOERROR	docs.student.hartnell.edu
-NOERROR	einstein.hartnell.edu
-NOERROR	stedgegwy.hartnell.edu
-NOERROR	xmail.hartnell.edu
-NOERROR	uag1.hartnell.edu
-NOERROR	sg-1.hartnell.edu
-NOERROR	clconnect.hartnell.edu
-NOERROR	sites.student.hartnell.edu
-NOERROR	mail.student.hartnell.edu
-NXDOMAIN	ampsrv1.hartnell.edu
-NXDOMAIN	w.hartnell.edu
-NOERROR	calendar.student.hartnell.edu
-NOERROR	atk.hartnell.edu
-NOERROR	student.hartnell.edu
-NOERROR	stuserv.hartnell.edu
-NOERROR	listserv.hartnell.edu
-NOERROR	login.ezproxy.hartnell.edu
-NOERROR	web.a.ebscohost.com.ezproxy.hartnell.edu
-NOERROR	papercut.hartnell.edu
+isupport.hartnell.edu
+www.hartnell.edu
+webcam.hartnell.edu
+xvp.hartnell.edu
+give.hartnell.edu
+csin3.hartnell.edu
+catcard.hartnell.edu
+hartnellapp.hartnell.edu
+paws.hartnell.edu
+olw.hartnell.edu
+pgw.hartnell.edu
+ezproxy.hartnell.edu
+dev-www.hartnell.edu
+cccgate.hartnell.edu
+panther.hartnell.edu
+drupal-www.hartnell.edu
+esars.hartnell.edu
+incommon1.hartnell.edu
+wapp1.hartnell.edu
+web-ftp.hartnell.edu
+library.cqpress.com.ezproxy.hartnell.edu
+webcam2.hartnell.edu
+remotesupport.hartnell.edu
+ns2.hartnell.edu
+jachin.hartnell.edu
+hartnell.edu
+csitin3.hartnell.edu
+gwm.hartnell.edu
+stmobrtr.hartnell.edu
+mailer.hartnell.edu
+fedgate.hartnell.edu
+collwa.hartnell.edu
+ocmail.hartnell.edu
+web.b.ebscohost.com.ezproxy.hartnell.edu
+opw.hartnell.edu
+elumen.hartnell.edu
+old-www.hartnell.edu
+docs.student.hartnell.edu
+einstein.hartnell.edu
+stedgegwy.hartnell.edu
+xmail.hartnell.edu
+uag1.hartnell.edu
+sg-1.hartnell.edu
+clconnect.hartnell.edu
+sites.student.hartnell.edu
+mail.student.hartnell.edu
+calendar.student.hartnell.edu
+atk.hartnell.edu
+student.hartnell.edu
+stuserv.hartnell.edu
+listserv.hartnell.edu
+login.ezproxy.hartnell.edu
+web.a.ebscohost.com.ezproxy.hartnell.edu
+papercut.hartnell.edu

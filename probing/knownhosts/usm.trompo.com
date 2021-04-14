@@ -1,1 +1,0 @@
-NXDOMAIN	usm.trompo.com

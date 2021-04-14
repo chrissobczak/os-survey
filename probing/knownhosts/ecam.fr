@@ -1,478 +1,143 @@
-NOERROR	bw.ecam.fr
-NXDOMAIN	ip36.ecam.fr
-NXDOMAIN	ip206.ecam.fr
-NXDOMAIN	ip223.ecam.fr
-NXDOMAIN	ip104.ecam.fr
-NOERROR	challenge.ecam.fr
-NXDOMAIN	promo2002.ecam.fr
-NXDOMAIN	ip163.ecam.fr
-NOERROR	ip25.ecam.fr
-NOERROR	ip30.ecam.fr
-NXDOMAIN	ip78.ecam.fr
-NXDOMAIN	ip58.ecam.fr
-NXDOMAIN	ip187.ecam.fr
-NOERROR	sky.ecam.fr
-NXDOMAIN	ip249.ecam.fr
-NXDOMAIN	ip196.ecam.fr
-NXDOMAIN	ip215.ecam.fr
-NXDOMAIN	ip84.ecam.fr
-NXDOMAIN	ip32.ecam.fr
-NOERROR	ip16.ecam.fr
-NXDOMAIN	marathonshell.ecam.fr
-NXDOMAIN	dune.ecam.fr
-NXDOMAIN	ip147.ecam.fr
-NXDOMAIN	ip241.ecam.fr
-NXDOMAIN	ip141.ecam.fr
-NOERROR	gitarero.ecam.fr
-NXDOMAIN	mmail.ecam.fr
-NXDOMAIN	www.imap.ecam.fr
-NOERROR	ammt.ecam.fr
-NOERROR	cursus.ecam.fr
-NXDOMAIN	ip172.ecam.fr
-NXDOMAIN	aie.ecam.fr
-NOERROR	support.ecam.fr
-NXDOMAIN	ip185.ecam.fr
-NXDOMAIN	www.dashboard.ecam.fr
-NOERROR	ip26.ecam.fr
-NOERROR	smtp.ecam.fr
-NXDOMAIN	ip222.ecam.fr
-NXDOMAIN	ip7.ecam.fr
-NOERROR	eudonetdev.ecam.fr
-NXDOMAIN	ip178.ecam.fr
-NXDOMAIN	biblio2.ecam.fr
-NXDOMAIN	ip107.ecam.fr
-NXDOMAIN	don-studiovideo.ecam.fr
-NXDOMAIN	www.biblio2.ecam.fr
-NOERROR	parking.ecam.fr
-NOERROR	affectation.ecam.fr
-NOERROR	ip13.ecam.fr
-NXDOMAIN	rddgala.ecam.fr
-NXDOMAIN	dcic.ecam.fr
-NOERROR	dossierenligne.ecam.fr
-NOERROR	ip22.ecam.fr
-NOERROR	followme.ecam.fr
-NXDOMAIN	ip209.ecam.fr
-NXDOMAIN	ip9.ecam.fr
-NXDOMAIN	ip63.ecam.fr
-NOERROR	pop.ecam.fr
-NOERROR	froxlor.ecam.fr
-NXDOMAIN	lean.ecam.fr
-NXDOMAIN	ip242.ecam.fr
-NXDOMAIN	ip240.ecam.fr
-NOERROR	tpbddecam3.ecam.fr
-NXDOMAIN	ip176.ecam.fr
-NOERROR	gitea.ecam.fr
-NOERROR	chat.ecam.fr
-NXDOMAIN	ip6.ecam.fr
-NXDOMAIN	ip34.ecam.fr
-NXDOMAIN	ip148.ecam.fr
-NXDOMAIN	ip94.ecam.fr
-NXDOMAIN	ip70.ecam.fr
-NOERROR	lezinzin.ecam.fr
-NXDOMAIN	ip190.ecam.fr
-NOERROR	pop2020.ecam.fr
-NXDOMAIN	ip160.ecam.fr
-NXDOMAIN	promo2006.ecam.fr
-NXDOMAIN	ip182.ecam.fr
-NOERROR	git.ecam.fr
-NXDOMAIN	ip186.ecam.fr
-NXDOMAIN	ip88.ecam.fr
-NXDOMAIN	ip142.ecam.fr
-NXDOMAIN	ldap.ecam.fr
-NXDOMAIN	ip118.ecam.fr
-NXDOMAIN	portailwifiinvite.ecam.fr
-NOERROR	clubrobotique.ecam.fr
-NXDOMAIN	ip150.ecam.fr
-NXDOMAIN	ip127.ecam.fr
-NXDOMAIN	ip152.ecam.fr
-NOERROR	imap.ecam.fr
-NXDOMAIN	ip126.ecam.fr
-NXDOMAIN	ip73.ecam.fr
-NXDOMAIN	ip111.ecam.fr
-NOERROR	fab-lab.ecam.fr
-NXDOMAIN	synergiciel.ecam.fr
-NXDOMAIN	ip229.ecam.fr
-NXDOMAIN	ip252.ecam.fr
-NXDOMAIN	codeweb.ecam.fr
-NOERROR	email.ecam.fr
-NOERROR	phoenix.ecam.fr
-NOERROR	sondage.ecam.fr
-NXDOMAIN	ip37.ecam.fr
-NOERROR	moodledev.ecam.fr
-NXDOMAIN	ip208.ecam.fr
-NXDOMAIN	pia.ecam.fr
-NXDOMAIN	ip192.ecam.fr
-NOERROR	wam-didacticiel.ecam.fr
-NOERROR	redmine.ecam.fr
-NXDOMAIN	ip239.ecam.fr
-NXDOMAIN	cas2.ecam.fr
-NOERROR	tpbdd.ecam.fr
-NXDOMAIN	ip139.ecam.fr
-NOERROR	ip21.ecam.fr
-NXDOMAIN	jappix.ecam.fr
-NOERROR	ip100.ecam.fr
-NOERROR	mail.ecam.fr
-NOERROR	intranet.ecam.fr
-NXDOMAIN	ip133.ecam.fr
-NXDOMAIN	ip183.ecam.fr
-NXDOMAIN	www.dune.ecam.fr
-NXDOMAIN	ip31.ecam.fr
-NXDOMAIN	tomcat02.ecam.fr
-NXDOMAIN	ip232.ecam.fr
-NXDOMAIN	ip245.ecam.fr
-NXDOMAIN	phoenix01dev.ecam.fr
-NXDOMAIN	ip200.ecam.fr
-NOERROR	matex.ecam.fr
-NOERROR	ip09.ecam.fr
-NXDOMAIN	ip143.ecam.fr
-NXDOMAIN	projet.ecam.fr
-NXDOMAIN	ip181.ecam.fr
-NXDOMAIN	ip47.ecam.fr
-NXDOMAIN	limesurvey.ecam.fr
-NXDOMAIN	ip49.ecam.fr
-NXDOMAIN	ip90.ecam.fr
-NOERROR	espacemaintenance.ecam.fr
-NXDOMAIN	ip131.ecam.fr
-NXDOMAIN	www.cas.ecam.fr
-NXDOMAIN	ip201.ecam.fr
-NOERROR	ip06.ecam.fr
-NXDOMAIN	ip171.ecam.fr
-NOERROR	drive.ecam.fr
-NOERROR	comicstrip.ecam.fr
-NXDOMAIN	ip132.ecam.fr
-NXDOMAIN	ip221.ecam.fr
-NOERROR	ip05.ecam.fr
-NXDOMAIN	ip191.ecam.fr
-NOERROR	ip19.ecam.fr
-NXDOMAIN	claroline.ecam.fr
-NXDOMAIN	ip238.ecam.fr
-NXDOMAIN	ip59.ecam.fr
-NOERROR	dns.ecam.fr
-NXDOMAIN	www.windchill.ecam.fr
-NXDOMAIN	ip237.ecam.fr
-NXDOMAIN	ip72.ecam.fr
-NXDOMAIN	bourgwifi.ecam.fr
-NOERROR	exchange2016.ecam.fr
-NOERROR	routeurlyres.ecam.fr
-NOERROR	ip44.ecam.fr
-NXDOMAIN	www.espace.ecam.fr
-NOERROR	tomcat01.ecam.fr
-NXDOMAIN	www.mail.ecam.fr
-NOERROR	ip17.ecam.fr
-NXDOMAIN	ip254.ecam.fr
-NXDOMAIN	www.idp3.ecam.fr
-NXDOMAIN	ip109.ecam.fr
-NXDOMAIN	ip159.ecam.fr
-NXDOMAIN	ip45.ecam.fr
-NOERROR	monitor.ecam.fr
-NOERROR	serverwindchill.ecam.fr
-NOERROR	sac.ecam.fr
-NXDOMAIN	roundcube.ecam.fr
-NXDOMAIN	ip55.ecam.fr
-NXDOMAIN	ip124.ecam.fr
-NXDOMAIN	ip99.ecam.fr
-NXDOMAIN	ip202.ecam.fr
-NOERROR	ip23.ecam.fr
-NXDOMAIN	ip134.ecam.fr
-NXDOMAIN	zoll.ecam.fr
-NOERROR	cas.ecam.fr
-NXDOMAIN	ip103.ecam.fr
-NXDOMAIN	ip217.ecam.fr
-NOERROR	pegase.ecam.fr
-NXDOMAIN	www.centenaire.ecam.fr
-NXDOMAIN	ip48.ecam.fr
-NOERROR	shibbolethidp.ecam.fr
-NXDOMAIN	wildflydev.ecam.fr
-NXDOMAIN	ip174.ecam.fr
-NXDOMAIN	ip80.ecam.fr
-NXDOMAIN	ip155.ecam.fr
-NXDOMAIN	ip170.ecam.fr
-NXDOMAIN	ip235.ecam.fr
-NXDOMAIN	ip125.ecam.fr
-NXDOMAIN	portailwifi.ecam.fr
-NXDOMAIN	ip135.ecam.fr
-NOERROR	phoenixrct.ecam.fr
-NXDOMAIN	ip40.ecam.fr
-NOERROR	ip29.ecam.fr
-NOERROR	ip12.ecam.fr
-NXDOMAIN	www.clubrobotique.ecam.fr
-NXDOMAIN	ip81.ecam.fr
-NXDOMAIN	ip56.ecam.fr
-NXDOMAIN	biblio.ecam.fr
-NXDOMAIN	ip220.ecam.fr
-NOERROR	tatest.ecam.fr
-NXDOMAIN	ip197.ecam.fr
-NOERROR	store.ecam.fr
-NXDOMAIN	ip108.ecam.fr
-NXDOMAIN	ip35.ecam.fr
-NXDOMAIN	ip168.ecam.fr
-NXDOMAIN	africedu.ecam.fr
-NXDOMAIN	ip167.ecam.fr
-NXDOMAIN	ip8.ecam.fr
-NXDOMAIN	ip194.ecam.fr
-NXDOMAIN	bar.ecam.fr
-NOERROR	idp3.ecam.fr
-NOERROR	housing.ecam.fr
-NOERROR	ip27.ecam.fr
-NXDOMAIN	serv1.ecam.fr
-NXDOMAIN	code.ecam.fr
-NXDOMAIN	ip224.ecam.fr
-NOERROR	ta.ecam.fr
-NXDOMAIN	ip62.ecam.fr
-NXDOMAIN	www.dcic.ecam.fr
-NXDOMAIN	ip207.ecam.fr
-NXDOMAIN	portailevent.ecam.fr
-NXDOMAIN	ip226.ecam.fr
-NXDOMAIN	ldap04.ecam.fr
-NXDOMAIN	ip128.ecam.fr
-NXDOMAIN	ip166.ecam.fr
-NXDOMAIN	ip51.ecam.fr
-NXDOMAIN	ip77.ecam.fr
-NOERROR	bibliotheque.ecam.fr
-NXDOMAIN	ip227.ecam.fr
-NOERROR	www.ecam.fr
-NXDOMAIN	eudonet.ecam.fr
-NXDOMAIN	phoenix01.ecam.fr
-NOERROR	learn.ecam.fr
-NXDOMAIN	lampdev2.ecam.fr
-NOERROR	www.ta.ecam.fr
-NXDOMAIN	etl01.ecam.fr
-NXDOMAIN	papercut.ecam.fr
-NOERROR	evento.ecam.fr
-NXDOMAIN	ip66.ecam.fr
-NOERROR	tpsiecam4.ecam.fr
-NOERROR	remote.ecam.fr
-NXDOMAIN	ip119.ecam.fr
-NOERROR	shibboleth.ecam.fr
-NXDOMAIN	paiementenligne.ecam.fr
-NXDOMAIN	ip144.ecam.fr
-NXDOMAIN	ip158.ecam.fr
-NXDOMAIN	promo1999.ecam.fr
-NXDOMAIN	promo2003.ecam.fr
-NXDOMAIN	ip189.ecam.fr
-NXDOMAIN	ldap03.ecam.fr
-NXDOMAIN	www.wildflydev.ecam.fr
-NXDOMAIN	ip180.ecam.fr
-NXDOMAIN	ip82.ecam.fr
-NXDOMAIN	www.asso.ecam.fr
-NXDOMAIN	ip248.ecam.fr
-NOERROR	lamp01.ecam.fr
-NXDOMAIN	ip86.ecam.fr
-NXDOMAIN	ip38.ecam.fr
-NOERROR	ip18.ecam.fr
-NXDOMAIN	www.ldap03.ecam.fr
-NOERROR	appel.ecam.fr
-NXDOMAIN	ip253.ecam.fr
-NXDOMAIN	ip83.ecam.fr
-NXDOMAIN	ip205.ecam.fr
-NOERROR	ip15.ecam.fr
-NXDOMAIN	ip210.ecam.fr
-NXDOMAIN	ip43.ecam.fr
-NOERROR	dossierendev.ecam.fr
-NXDOMAIN	ip140.ecam.fr
-NOERROR	exchange.ecam.fr
-NOERROR	idp.ecam.fr
-NXDOMAIN	ip244.ecam.fr
-NXDOMAIN	ip79.ecam.fr
-NOERROR	ip04.ecam.fr
-NXDOMAIN	ip164.ecam.fr
-NXDOMAIN	ip228.ecam.fr
-NXDOMAIN	ip157.ecam.fr
-NXDOMAIN	ip198.ecam.fr
-NXDOMAIN	ip33.ecam.fr
-NOERROR	mail2020.ecam.fr
-NXDOMAIN	ip85.ecam.fr
-NXDOMAIN	ip116.ecam.fr
-NXDOMAIN	ip173.ecam.fr
-NXDOMAIN	ip97.ecam.fr
-NXDOMAIN	ip52.ecam.fr
-NOERROR	sso.ecam.fr
-NXDOMAIN	ip138.ecam.fr
-NOERROR	talk.ecam.fr
-NXDOMAIN	ip130.ecam.fr
-NOERROR	wekan.ecam.fr
-NXDOMAIN	ip219.ecam.fr
-NXDOMAIN	ip60.ecam.fr
-NOERROR	bibliotheque2.ecam.fr
-NXDOMAIN	ip122.ecam.fr
-NXDOMAIN	phoenixdev.ecam.fr
-NXDOMAIN	ip74.ecam.fr
-NOERROR	cacti.ecam.fr
-NOERROR	ip07.ecam.fr
-NXDOMAIN	ip136.ecam.fr
-NXDOMAIN	idargos.ecam.fr
-NXDOMAIN	croisiere-groupe.ecam.fr
-NXDOMAIN	ip105.ecam.fr
-NXDOMAIN	ip247.ecam.fr
-NOERROR	newglpi.ecam.fr
-NXDOMAIN	bbb.ecam.fr
-NOERROR	ecam.fr
-NXDOMAIN	ip233.ecam.fr
-NXDOMAIN	mspace.ecam.fr
-NOERROR	imap2020.ecam.fr
-NXDOMAIN	bourginvite.ecam.fr
-NXDOMAIN	ip1.ecam.fr
-NOERROR	projets.ecam.fr
-NXDOMAIN	kibana.ecam.fr
-NXDOMAIN	ip123.ecam.fr
-NXDOMAIN	ip57.ecam.fr
-NOERROR	cerbere.ecam.fr
-NXDOMAIN	ip71.ecam.fr
-NXDOMAIN	ip184.ecam.fr
-NOERROR	admission.ecam.fr
-NXDOMAIN	ip120.ecam.fr
-NXDOMAIN	rechop.ecam.fr
-NXDOMAIN	ip65.ecam.fr
-NOERROR	windchill.ecam.fr
-NXDOMAIN	testlsa.ecam.fr
-NXDOMAIN	ip188.ecam.fr
-NXDOMAIN	promo2000.ecam.fr
-NXDOMAIN	ip75.ecam.fr
-NXDOMAIN	ip212.ecam.fr
-NOERROR	ontheroad.ecam.fr
-NXDOMAIN	ip175.ecam.fr
-NXDOMAIN	ip177.ecam.fr
-NXDOMAIN	ip151.ecam.fr
-NXDOMAIN	promo2008.ecam.fr
-NXDOMAIN	ip46.ecam.fr
-NOERROR	ip03.ecam.fr
-NXDOMAIN	ip199.ecam.fr
-NXDOMAIN	uranus.ecam.fr
-NXDOMAIN	relais.ecam.fr
-NOERROR	filesender.ecam.fr
-NXDOMAIN	www.robotique.ecam.fr
-NXDOMAIN	ip42.ecam.fr
-NXDOMAIN	mantis.ecam.fr
-NXDOMAIN	ip112.ecam.fr
-NXDOMAIN	ip2.ecam.fr
-NOERROR	cloud.ecam.fr
-NXDOMAIN	c2i.ecam.fr
-NXDOMAIN	aei.ecam.fr
-NOERROR	ip20.ecam.fr
-NXDOMAIN	ip110.ecam.fr
-NOERROR	autodiscover.ecam.fr
-NXDOMAIN	residence.ecam.fr
-NXDOMAIN	ip231.ecam.fr
-NXDOMAIN	ip50.ecam.fr
-NXDOMAIN	ip204.ecam.fr
-NXDOMAIN	ip61.ecam.fr
-NXDOMAIN	ip54.ecam.fr
-NXDOMAIN	ip156.ecam.fr
-NOERROR	chamilo.ecam.fr
-NXDOMAIN	www.challengececam.ecam.fr
-NOERROR	mbed.ecam.fr
-NOERROR	moodle.ecam.fr
-NXDOMAIN	4ltrophy.ecam.fr
-NOERROR	ip01.ecam.fr
-NXDOMAIN	ip251.ecam.fr
-NXDOMAIN	ip68.ecam.fr
-NOERROR	ip10.ecam.fr
-NXDOMAIN	ww.ecam.fr
-NXDOMAIN	ip218.ecam.fr
-NOERROR	reports.ecam.fr
-NXDOMAIN	ip115.ecam.fr
-NXDOMAIN	www.ldap01.ecam.fr
-NOERROR	application.ecam.fr
-NOERROR	ip24.ecam.fr
-NXDOMAIN	ip39.ecam.fr
-NXDOMAIN	www.lean.ecam.fr
-NOERROR	onlyoffice.ecam.fr
-NXDOMAIN	ip87.ecam.fr
-NXDOMAIN	ip225.ecam.fr
-NXDOMAIN	ip89.ecam.fr
-NXDOMAIN	ip169.ecam.fr
-NXDOMAIN	ip106.ecam.fr
-NXDOMAIN	piaback.ecam.fr
-NXDOMAIN	secure.ecam.fr
-NXDOMAIN	ip76.ecam.fr
-NOERROR	nagios.ecam.fr
-NXDOMAIN	gala.ecam.fr
-NXDOMAIN	ip230.ecam.fr
-NXDOMAIN	ip93.ecam.fr
-NXDOMAIN	ip179.ecam.fr
-NXDOMAIN	nuit.ecam.fr
-NXDOMAIN	ip214.ecam.fr
-NXDOMAIN	ip250.ecam.fr
-NXDOMAIN	ip64.ecam.fr
-NXDOMAIN	ip165.ecam.fr
-NOERROR	dashboard.ecam.fr
-NXDOMAIN	ip101.ecam.fr
-NXDOMAIN	ip5.ecam.fr
-NOERROR	glpi.ecam.fr
-NXDOMAIN	ip91.ecam.fr
-NXDOMAIN	ip92.ecam.fr
-NXDOMAIN	offreform.ecam.fr
-NOERROR	webmail.ecam.fr
-NXDOMAIN	4l-ectrons.ecam.fr
-NXDOMAIN	ip153.ecam.fr
-NOERROR	fablab.ecam.fr
-NOERROR	espace.ecam.fr
-NOERROR	rocketchat.ecam.fr
-NXDOMAIN	ip41.ecam.fr
-NXDOMAIN	portailru.ecam.fr
-NOERROR	ip11.ecam.fr
-NXDOMAIN	ip146.ecam.fr
-NXDOMAIN	ip121.ecam.fr
-NXDOMAIN	ip117.ecam.fr
-NXDOMAIN	ip149.ecam.fr
-NOERROR	lamp05.ecam.fr
-NOERROR	mobilite.ecam.fr
-NXDOMAIN	ip69.ecam.fr
-NXDOMAIN	ip3.ecam.fr
-NOERROR	webserverprotect.ecam.fr
-NOERROR	ip14.ecam.fr
-NXDOMAIN	ip98.ecam.fr
-NXDOMAIN	ip67.ecam.fr
-NXDOMAIN	www.pop.ecam.fr
-NXDOMAIN	ip203.ecam.fr
-NOERROR	nconf.ecam.fr
-NOERROR	ip28.ecam.fr
-NXDOMAIN	ldap01.ecam.fr
-NXDOMAIN	ip102.ecam.fr
-NXDOMAIN	ip162.ecam.fr
-NOERROR	ocs.ecam.fr
-NXDOMAIN	ip236.ecam.fr
-NXDOMAIN	ip53.ecam.fr
-NXDOMAIN	ip4.ecam.fr
-NOERROR	calendar.ecam.fr
-NXDOMAIN	espacedev.ecam.fr
-NXDOMAIN	crm.ecam.fr
-NXDOMAIN	ip113.ecam.fr
-NXDOMAIN	ip95.ecam.fr
-NXDOMAIN	promo1979.ecam.fr
-NXDOMAIN	survey.ecam.fr
-NOERROR	acra.ecam.fr
-NOERROR	don.ecam.fr
-NOERROR	ip08.ecam.fr
-NOERROR	funtech-makers.ecam.fr
-NXDOMAIN	ip243.ecam.fr
-NOERROR	shibbolethsp.ecam.fr
-NOERROR	ip02.ecam.fr
-NXDOMAIN	ip213.ecam.fr
-NXDOMAIN	clarolinedev.ecam.fr
-NXDOMAIN	www.etl01.ecam.fr
-NXDOMAIN	ip145.ecam.fr
-NXDOMAIN	ip234.ecam.fr
-NXDOMAIN	ip211.ecam.fr
-NXDOMAIN	nextcloud.ecam.fr
-NXDOMAIN	gandhi.ecam.fr
-NXDOMAIN	ip195.ecam.fr
-NXDOMAIN	ip137.ecam.fr
-NXDOMAIN	materiaux2a.ecam.fr
-NOERROR	moodleprd.ecam.fr
-NXDOMAIN	promo2005.ecam.fr
-NXDOMAIN	icamalumni.ecam.fr
-NXDOMAIN	ip193.ecam.fr
-NOERROR	utm.ecam.fr
-NOERROR	ecole-ingenieur.ecam.fr
-NXDOMAIN	ip216.ecam.fr
-NOERROR	materiaux.ecam.fr
-NXDOMAIN	challenge-tpe.ecam.fr
-NXDOMAIN	ip129.ecam.fr
-NXDOMAIN	ip154.ecam.fr
-NXDOMAIN	ip96.ecam.fr
-NXDOMAIN	ip246.ecam.fr
-NXDOMAIN	itiimateriaux.ecam.fr
-NOERROR	flexgaz.ecam.fr
-NXDOMAIN	ip114.ecam.fr
-NXDOMAIN	iam.ecam.fr
+bw.ecam.fr
+challenge.ecam.fr
+ip25.ecam.fr
+ip30.ecam.fr
+sky.ecam.fr
+ip16.ecam.fr
+gitarero.ecam.fr
+ammt.ecam.fr
+cursus.ecam.fr
+support.ecam.fr
+ip26.ecam.fr
+smtp.ecam.fr
+eudonetdev.ecam.fr
+parking.ecam.fr
+affectation.ecam.fr
+ip13.ecam.fr
+dossierenligne.ecam.fr
+ip22.ecam.fr
+followme.ecam.fr
+pop.ecam.fr
+froxlor.ecam.fr
+tpbddecam3.ecam.fr
+gitea.ecam.fr
+chat.ecam.fr
+lezinzin.ecam.fr
+pop2020.ecam.fr
+git.ecam.fr
+clubrobotique.ecam.fr
+imap.ecam.fr
+fab-lab.ecam.fr
+email.ecam.fr
+phoenix.ecam.fr
+sondage.ecam.fr
+moodledev.ecam.fr
+wam-didacticiel.ecam.fr
+redmine.ecam.fr
+tpbdd.ecam.fr
+ip21.ecam.fr
+ip100.ecam.fr
+mail.ecam.fr
+intranet.ecam.fr
+matex.ecam.fr
+ip09.ecam.fr
+espacemaintenance.ecam.fr
+ip06.ecam.fr
+drive.ecam.fr
+comicstrip.ecam.fr
+ip05.ecam.fr
+ip19.ecam.fr
+dns.ecam.fr
+exchange2016.ecam.fr
+routeurlyres.ecam.fr
+ip44.ecam.fr
+tomcat01.ecam.fr
+ip17.ecam.fr
+monitor.ecam.fr
+serverwindchill.ecam.fr
+sac.ecam.fr
+ip23.ecam.fr
+cas.ecam.fr
+pegase.ecam.fr
+shibbolethidp.ecam.fr
+phoenixrct.ecam.fr
+ip29.ecam.fr
+ip12.ecam.fr
+tatest.ecam.fr
+store.ecam.fr
+idp3.ecam.fr
+housing.ecam.fr
+ip27.ecam.fr
+ta.ecam.fr
+bibliotheque.ecam.fr
+www.ecam.fr
+learn.ecam.fr
+www.ta.ecam.fr
+evento.ecam.fr
+tpsiecam4.ecam.fr
+remote.ecam.fr
+shibboleth.ecam.fr
+lamp01.ecam.fr
+ip18.ecam.fr
+appel.ecam.fr
+ip15.ecam.fr
+dossierendev.ecam.fr
+exchange.ecam.fr
+idp.ecam.fr
+ip04.ecam.fr
+mail2020.ecam.fr
+sso.ecam.fr
+talk.ecam.fr
+wekan.ecam.fr
+bibliotheque2.ecam.fr
+cacti.ecam.fr
+ip07.ecam.fr
+newglpi.ecam.fr
+ecam.fr
+imap2020.ecam.fr
+projets.ecam.fr
+cerbere.ecam.fr
+admission.ecam.fr
+windchill.ecam.fr
+ontheroad.ecam.fr
+ip03.ecam.fr
+filesender.ecam.fr
+cloud.ecam.fr
+ip20.ecam.fr
+autodiscover.ecam.fr
+chamilo.ecam.fr
+mbed.ecam.fr
+moodle.ecam.fr
+ip01.ecam.fr
+ip10.ecam.fr
+reports.ecam.fr
+application.ecam.fr
+ip24.ecam.fr
+onlyoffice.ecam.fr
+nagios.ecam.fr
+dashboard.ecam.fr
+glpi.ecam.fr
+webmail.ecam.fr
+fablab.ecam.fr
+espace.ecam.fr
+rocketchat.ecam.fr
+ip11.ecam.fr
+lamp05.ecam.fr
+mobilite.ecam.fr
+webserverprotect.ecam.fr
+ip14.ecam.fr
+nconf.ecam.fr
+ip28.ecam.fr
+ocs.ecam.fr
+calendar.ecam.fr
+acra.ecam.fr
+don.ecam.fr
+ip08.ecam.fr
+funtech-makers.ecam.fr
+shibbolethsp.ecam.fr
+ip02.ecam.fr
+moodleprd.ecam.fr
+utm.ecam.fr
+ecole-ingenieur.ecam.fr
+materiaux.ecam.fr
+flexgaz.ecam.fr

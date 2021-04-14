@@ -1,13 +1,12 @@
-NOERROR	ns2.siu.ac.jp
-NOERROR	lms.siu.ac.jp
-NOERROR	ns1.siu.ac.jp
-NOERROR	www.siu.ac.jp
-NOERROR	mail2.siu.ac.jp
-NOERROR	iopac.siu.ac.jp
-NOERROR	siu.ac.jp
-NXDOMAIN	ssl.siu.ac.jp
-NOERROR	opac.siu.ac.jp
-NOERROR	sfw.siu.ac.jp
-NOERROR	www2.siu.ac.jp
-NOERROR	mail.siu.ac.jp
-NOERROR	officesiu.siu.ac.jp
+ns2.siu.ac.jp
+lms.siu.ac.jp
+ns1.siu.ac.jp
+www.siu.ac.jp
+mail2.siu.ac.jp
+iopac.siu.ac.jp
+siu.ac.jp
+opac.siu.ac.jp
+sfw.siu.ac.jp
+www2.siu.ac.jp
+mail.siu.ac.jp
+officesiu.siu.ac.jp

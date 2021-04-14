@@ -1,85 +1,61 @@
-NXDOMAIN	alphaserver800.central.edu
-NOERROR	news.central.edu
-NOERROR	lillyfellows.central.edu
-NOERROR	blackboard.central.edu
-NOERROR	ads01-01.central.edu
-NOERROR	office365.central.edu
-NOERROR	calendar.central.edu
-NOERROR	ac.central.edu
-NXDOMAIN	auth.central.edu
-NOERROR	bulletin.central.edu
-NOERROR	ignite.central.edu
-NOERROR	my.central.edu
-NXDOMAIN	apps1.central.edu
-NOERROR	mail.central.edu
-NOERROR	password.central.edu
-NOERROR	logon.central.edu
-NXDOMAIN	www3.central.edu
-NXDOMAIN	gpi.central.edu
-NOERROR	autodiscover.central.edu
-NOERROR	login.proxy.central.edu
-NOERROR	smtp.central.edu
-NOERROR	www.central.edu
-NOERROR	ww2.central.edu
-NOERROR	admit.central.edu
-NXDOMAIN	acad4.central.edu
-NOERROR	departments.central.edu
-NOERROR	selfservice.central.edu
-NXDOMAIN	lib.central.edu
-NXDOMAIN	auth3.central.edu
-NXDOMAIN	auth5.central.edu
-NOERROR	student.central.edu
-NXDOMAIN	visitorauth.central.edu
-NXDOMAIN	auth2.central.edu
-NOERROR	eval.central.edu
-NOERROR	legacy.central.edu
-NOERROR	google.central.edu
-NXDOMAIN	blackboard4.central.edu
-NOERROR	guides.central.edu
-NOERROR	search.central.edu
-NXDOMAIN	auth1.central.edu
-NXDOMAIN	outlook.central.edu
-NOERROR	webapps.central.edu
-NOERROR	apply.central.edu
-NXDOMAIN	relay.central.edu
-NOERROR	c2ap.central.edu
-NOERROR	go.central.edu
-NXDOMAIN	apps.central.edu
-NXDOMAIN	adfs2.central.edu
-NOERROR	events.central.edu
-NOERROR	proxy.central.edu
-NOERROR	mobile.central.edu
-NXDOMAIN	appserver.central.edu
-NOERROR	civitas.central.edu
-NOERROR	athletics.central.edu
-NXDOMAIN	auth6.central.edu
-NOERROR	brand.central.edu
-NOERROR	vpn.central.edu
-NOERROR	forever.central.edu
-NOERROR	fpm.central.edu
-NOERROR	energy.central.edu
-NOERROR	webadvisor.central.edu
-NOERROR	hoorah.central.edu
-NOERROR	pop.central.edu
-NXDOMAIN	imap.central.edu
-NXDOMAIN	adfs1.central.edu
-NOERROR	print.central.edu
-NOERROR	owa.central.edu
-NOERROR	img.central.edu
-NOERROR	central.edu
-NXDOMAIN	www2.central.edu
-NOERROR	blogs.central.edu
-NOERROR	activesync.central.edu
-NOERROR	portal.central.edu
-NOERROR	adfs.central.edu
-NOERROR	itshelp.central.edu
-NOERROR	libanswers.central.edu
-NOERROR	coursecapture.central.edu
-NOERROR	adminlinux1.central.edu
-NXDOMAIN	sophos1.central.edu
-NOERROR	espanol.central.edu
-NOERROR	president.central.edu
-NOERROR	plannedgiving.central.edu
-NOERROR	m.central.edu
-NXDOMAIN	pages.central.edu
-NOERROR	web.central.edu
+news.central.edu
+lillyfellows.central.edu
+blackboard.central.edu
+ads01-01.central.edu
+office365.central.edu
+calendar.central.edu
+ac.central.edu
+bulletin.central.edu
+ignite.central.edu
+my.central.edu
+mail.central.edu
+password.central.edu
+logon.central.edu
+autodiscover.central.edu
+login.proxy.central.edu
+smtp.central.edu
+www.central.edu
+ww2.central.edu
+admit.central.edu
+departments.central.edu
+selfservice.central.edu
+student.central.edu
+eval.central.edu
+legacy.central.edu
+google.central.edu
+guides.central.edu
+search.central.edu
+webapps.central.edu
+apply.central.edu
+c2ap.central.edu
+go.central.edu
+events.central.edu
+proxy.central.edu
+mobile.central.edu
+civitas.central.edu
+athletics.central.edu
+brand.central.edu
+vpn.central.edu
+forever.central.edu
+fpm.central.edu
+energy.central.edu
+webadvisor.central.edu
+hoorah.central.edu
+pop.central.edu
+print.central.edu
+owa.central.edu
+img.central.edu
+central.edu
+blogs.central.edu
+activesync.central.edu
+portal.central.edu
+adfs.central.edu
+itshelp.central.edu
+libanswers.central.edu
+coursecapture.central.edu
+adminlinux1.central.edu
+espanol.central.edu
+president.central.edu
+plannedgiving.central.edu
+m.central.edu
+web.central.edu

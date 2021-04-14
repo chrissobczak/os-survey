@@ -1,6 +1,5 @@
-NOERROR	imap.bothocollege.ac.bw
-NOERROR	bothocollege.ac.bw
-NOERROR	mail.bothocollege.ac.bw
-NOERROR	www.bothocollege.ac.bw
-NXDOMAIN	library.bothocollege.ac.bw
-NOERROR	smtp.bothocollege.ac.bw
+imap.bothocollege.ac.bw
+bothocollege.ac.bw
+mail.bothocollege.ac.bw
+www.bothocollege.ac.bw
+smtp.bothocollege.ac.bw

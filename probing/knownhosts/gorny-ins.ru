@@ -1,2 +1,2 @@
-NOERROR	gorny-ins.ru
-NOERROR	www.gorny-ins.ru
+gorny-ins.ru
+www.gorny-ins.ru

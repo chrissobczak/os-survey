@@ -1,168 +1,159 @@
-NOERROR	shooter.ukma.kiev.ua
-NOERROR	vcrc.ukma.kiev.ua
-NOERROR	www.div.ukma.kiev.ua
-NOERROR	www.finance.ukma.kiev.ua
-NOERROR	podcast.ukma.kiev.ua
-NOERROR	razom.ukma.kiev.ua
-NOERROR	sk.ukma.kiev.ua
-NOERROR	biblio.ukma.kiev.ua
-NOERROR	alice.ukma.kiev.ua
-NOERROR	www.biblio.ukma.kiev.ua
-NOERROR	www.librarv.ukma.kiev.ua
-NOERROR	www.distedu.ukma.kiev.ua
-NOERROR	www.biologia.ukma.kiev.ua
-NOERROR	bio.ukma.kiev.ua
-NOERROR	sbt.ukma.kiev.ua
-NOERROR	dcss.ukma.kiev.ua
-NOERROR	ecology.ukma.kiev.ua
-NOERROR	ui.ovz.grid.ukma.kiev.ua
-NOERROR	dpms.fns.ukma.kiev.ua
-NOERROR	ekmair.ukma.kiev.ua
-NOERROR	centesima.ukma.kiev.ua
-NOERROR	jmce.ukma.kiev.ua
-NOERROR	www.tam.ukma.kiev.ua
-NOERROR	snark.ukma.kiev.ua
-NOERROR	distedu.ukma.kiev.ua
-NOERROR	elib.ukma.kiev.ua
-NOERROR	infopulse.ukma.kiev.ua
-NOERROR	usic.ukma.kiev.ua
-NOERROR	www.summerschool.ukma.kiev.ua
-NOERROR	www.dmms.ukma.kiev.ua
-NOERROR	ce.ovz.grid.ukma.kiev.ua
-NOERROR	radio-kvit.ukma.kiev.ua
-NOERROR	ca.ovz.grid.ukma.kiev.ua
-NOERROR	kvit.ukma.kiev.ua
-NOERROR	dfc.ukma.kiev.ua
-NOERROR	www.cs.ukma.kiev.ua
-NOERROR	937.ukma.kiev.ua
-NOERROR	mailgw.ukma.kiev.ua
-NOERROR	www.ukma.kiev.ua
-NOERROR	web.ukma.kiev.ua
-NOERROR	www.alumni-fen.ukma.kiev.ua
-NOERROR	www.sport.ukma.kiev.ua
-NOERROR	digger.ukma.kiev.ua
-NOERROR	mail.usic.ukma.kiev.ua
-NOERROR	proxy.ukma.kiev.ua
-NOERROR	asp2phd.ukma.kiev.ua
-NOERROR	grid.ukma.kiev.ua
-NOERROR	dev.ukma.kiev.ua
-NOERROR	voms.grid.ukma.kiev.ua
-NOERROR	se.grid.ukma.kiev.ua
-NOERROR	gradschool.ukma.kiev.ua
-NOERROR	pika.dcss.ukma.kiev.ua
-NOERROR	bcc.ukma.kiev.ua
-NOERROR	se.ovz.grid.ukma.kiev.ua
-NOERROR	cs.ukma.kiev.ua
-NXDOMAIN	mail.finance.ukma.kiev.ua
-NOERROR	vcr.ukma.kiev.ua
-NOERROR	icc.ukma.kiev.ua
-NOERROR	wms.ovz.grid.ukma.kiev.ua
-NOERROR	www.taapsd.ukma.kiev.ua
-NOERROR	div.ukma.kiev.ua
-NOERROR	hyper.fcss.ukma.kiev.ua
-NOERROR	grid.usic.ukma.kiev.ua
-NOERROR	papers.distedu.ukma.kiev.ua
-NXDOMAIN	www.germes.ukma.kiev.ua
-NOERROR	www.asp2phd.ukma.kiev.ua
-NOERROR	alumni-fen.ukma.kiev.ua
-NOERROR	wwwportal.ukma.kiev.ua
-NOERROR	www.eerc.ukma.kiev.ua
-NOERROR	vid.fcss.ukma.kiev.ua
-NOERROR	labbms.ukma.kiev.ua
-NOERROR	spscg.ukma.kiev.ua
-NOERROR	sport.ukma.kiev.ua
-NOERROR	www.dpms.ukma.kiev.ua
-NOERROR	library.div.ukma.kiev.ua
-NOERROR	www.destidu.ukma.kiev.ua
-NOERROR	dicc.ukma.kiev.ua
-NOERROR	www.dfc.ukma.kiev.ua
-NOERROR	infolab.ukma.kiev.ua
-NOERROR	gate.usic.ukma.kiev.ua
-NOERROR	economics.ukma.kiev.ua
-NOERROR	germes.ukma.kiev.ua
-NOERROR	lfc.grid.ukma.kiev.ua
-NOERROR	scholaris.ukma.kiev.ua
-NOERROR	www.ssw.ukma.kiev.ua
-NOERROR	www.ecology.ukma.kiev.ua
-NOERROR	ukma.kiev.ua
-NOERROR	telenor.ukma.kiev.ua
-NOERROR	ssw.ukma.kiev.ua
-NOERROR	xen.grid.ukma.kiev.ua
-NOERROR	alumni.ukma.kiev.ua
-NOERROR	mathconf.ukma.kiev.ua
-NOERROR	www.sph.ukma.kiev.ua
-NOERROR	marketing.ukma.kiev.ua
-NOERROR	root.ukma.kiev.ua
-NOERROR	fcss.ukma.kiev.ua
-NOERROR	jcc.ukma.kiev.ua
-NOERROR	tpcommunications.ukma.kiev.ua
-NXDOMAIN	deadbeef.fcss.ukma.kiev.ua
-NOERROR	library.ukma.kiev.ua
-NOERROR	fund.ukma.kiev.ua
-NOERROR	voms.ovz.grid.ukma.kiev.ua
-NOERROR	www.xn--greenffice-ivi.ukma.kiev.ua
-NOERROR	www.library.ukma.kiev.ua
-NOERROR	www.economics.ukma.kiev.ua
-NOERROR	moodles.ukma.kiev.ua
-NOERROR	km-academia.ukma.kiev.ua
-NOERROR	www.marketing.ukma.kiev.ua
-NXDOMAIN	mail.marketing.ukma.kiev.ua
-NOERROR	summerschool.ukma.kiev.ua
-NOERROR	prostir.ukma.kiev.ua
-NOERROR	www.ekmair.ukma.kiev.ua
-NOERROR	www.journal.ukma.kiev.ua
-NOERROR	www.razom.ukma.kiev.ua
-NOERROR	wms.grid.ukma.kiev.ua
-NXDOMAIN	www.fcss.ukma.kiev.ua
-NOERROR	www.diestedu.ukma.kiev.ua
-NOERROR	www.elib.ukma.kiev.ua
-NOERROR	www.conflict.ukma.kiev.ua
-NOERROR	journal.ukma.kiev.ua
-NOERROR	trainer.ukma.kiev.ua
-NOERROR	ktm.ukma.kiev.ua
-NOERROR	skill.ukma.kiev.ua
-NOERROR	www.fund.ukma.kiev.ua
-NOERROR	ce.grid.ukma.kiev.ua
-NOERROR	www.spilka.ukma.kiev.ua
-NOERROR	sph.ukma.kiev.ua
-NOERROR	moodle.ukma.kiev.ua
-NOERROR	summerschools.ukma.kiev.ua
-NOERROR	itc.div.ukma.kiev.ua
-NOERROR	ui.grid.ukma.kiev.ua
-NOERROR	mathpartner.ukma.kiev.ua
-NOERROR	star.ukma.kiev.ua
-NOERROR	spa.ukma.kiev.ua
-NXDOMAIN	mail.economics.ukma.kiev.ua
-NOERROR	www.alumni.ukma.kiev.ua
-NXDOMAIN	mail.alumni-fen.ukma.kiev.ua
-NOERROR	enigma.ukma.kiev.ua
-NOERROR	www.greenoffice.ukma.kiev.ua
-NXDOMAIN	cna.fcss.ukma.kiev.ua
-NOERROR	roller.ukma.kiev.ua
-NOERROR	al.ukma.kiev.ua
-NXDOMAIN	ccna.fcss.ukma.kiev.ua
-NOERROR	ediploma.ukma.kiev.ua
-NOERROR	elefant.ukma.kiev.ua
-NOERROR	gw.usic.ukma.kiev.ua
-NOERROR	tam.ukma.kiev.ua
-NOERROR	www.bcc.ukma.kiev.ua
-NOERROR	press.ukma.kiev.ua
-NOERROR	acad.ukma.kiev.ua
-NOERROR	proxy.usic.ukma.kiev.ua
-NOERROR	www.spa.ukma.kiev.ua
-NOERROR	ovz.grid.ukma.kiev.ua
-NOERROR	student.ukma.kiev.ua
-NOERROR	finance.ukma.kiev.ua
-NOERROR	wn.ovz.grid.ukma.kiev.ua
-NOERROR	restoration.ukma.kiev.ua
-NOERROR	www.jcc.ukma.kiev.ua
-NOERROR	itschool.ukma.kiev.ua
-NOERROR	history.ukma.kiev.ua
-NOERROR	greenoffice.ukma.kiev.ua
-NOERROR	aleph.ukma.kiev.ua
-NOERROR	www.km-academia.ukma.kiev.ua
-NOERROR	consultant.ukma.kiev.ua
-NOERROR	www.ktm.ukma.kiev.ua
-NOERROR	www.gradschool.ukma.kiev.ua
-NOERROR	cast.usic.ukma.kiev.ua
-NOERROR	emerecu.ukma.kiev.ua
+shooter.ukma.kiev.ua
+vcrc.ukma.kiev.ua
+www.div.ukma.kiev.ua
+www.finance.ukma.kiev.ua
+podcast.ukma.kiev.ua
+razom.ukma.kiev.ua
+sk.ukma.kiev.ua
+biblio.ukma.kiev.ua
+alice.ukma.kiev.ua
+www.biblio.ukma.kiev.ua
+www.librarv.ukma.kiev.ua
+www.distedu.ukma.kiev.ua
+www.biologia.ukma.kiev.ua
+bio.ukma.kiev.ua
+sbt.ukma.kiev.ua
+dcss.ukma.kiev.ua
+ecology.ukma.kiev.ua
+ui.ovz.grid.ukma.kiev.ua
+dpms.fns.ukma.kiev.ua
+ekmair.ukma.kiev.ua
+centesima.ukma.kiev.ua
+jmce.ukma.kiev.ua
+www.tam.ukma.kiev.ua
+snark.ukma.kiev.ua
+distedu.ukma.kiev.ua
+elib.ukma.kiev.ua
+infopulse.ukma.kiev.ua
+usic.ukma.kiev.ua
+www.summerschool.ukma.kiev.ua
+www.dmms.ukma.kiev.ua
+ce.ovz.grid.ukma.kiev.ua
+radio-kvit.ukma.kiev.ua
+ca.ovz.grid.ukma.kiev.ua
+kvit.ukma.kiev.ua
+dfc.ukma.kiev.ua
+www.cs.ukma.kiev.ua
+937.ukma.kiev.ua
+mailgw.ukma.kiev.ua
+www.ukma.kiev.ua
+web.ukma.kiev.ua
+www.alumni-fen.ukma.kiev.ua
+www.sport.ukma.kiev.ua
+digger.ukma.kiev.ua
+mail.usic.ukma.kiev.ua
+proxy.ukma.kiev.ua
+asp2phd.ukma.kiev.ua
+grid.ukma.kiev.ua
+dev.ukma.kiev.ua
+voms.grid.ukma.kiev.ua
+se.grid.ukma.kiev.ua
+gradschool.ukma.kiev.ua
+pika.dcss.ukma.kiev.ua
+bcc.ukma.kiev.ua
+se.ovz.grid.ukma.kiev.ua
+cs.ukma.kiev.ua
+vcr.ukma.kiev.ua
+icc.ukma.kiev.ua
+wms.ovz.grid.ukma.kiev.ua
+www.taapsd.ukma.kiev.ua
+div.ukma.kiev.ua
+hyper.fcss.ukma.kiev.ua
+grid.usic.ukma.kiev.ua
+papers.distedu.ukma.kiev.ua
+www.asp2phd.ukma.kiev.ua
+alumni-fen.ukma.kiev.ua
+wwwportal.ukma.kiev.ua
+www.eerc.ukma.kiev.ua
+vid.fcss.ukma.kiev.ua
+labbms.ukma.kiev.ua
+spscg.ukma.kiev.ua
+sport.ukma.kiev.ua
+www.dpms.ukma.kiev.ua
+library.div.ukma.kiev.ua
+www.destidu.ukma.kiev.ua
+dicc.ukma.kiev.ua
+www.dfc.ukma.kiev.ua
+infolab.ukma.kiev.ua
+gate.usic.ukma.kiev.ua
+economics.ukma.kiev.ua
+germes.ukma.kiev.ua
+lfc.grid.ukma.kiev.ua
+scholaris.ukma.kiev.ua
+www.ssw.ukma.kiev.ua
+www.ecology.ukma.kiev.ua
+ukma.kiev.ua
+telenor.ukma.kiev.ua
+ssw.ukma.kiev.ua
+xen.grid.ukma.kiev.ua
+alumni.ukma.kiev.ua
+mathconf.ukma.kiev.ua
+www.sph.ukma.kiev.ua
+marketing.ukma.kiev.ua
+root.ukma.kiev.ua
+fcss.ukma.kiev.ua
+jcc.ukma.kiev.ua
+tpcommunications.ukma.kiev.ua
+library.ukma.kiev.ua
+fund.ukma.kiev.ua
+voms.ovz.grid.ukma.kiev.ua
+www.xn--greenffice-ivi.ukma.kiev.ua
+www.library.ukma.kiev.ua
+www.economics.ukma.kiev.ua
+moodles.ukma.kiev.ua
+km-academia.ukma.kiev.ua
+www.marketing.ukma.kiev.ua
+summerschool.ukma.kiev.ua
+prostir.ukma.kiev.ua
+www.ekmair.ukma.kiev.ua
+www.journal.ukma.kiev.ua
+www.razom.ukma.kiev.ua
+wms.grid.ukma.kiev.ua
+www.diestedu.ukma.kiev.ua
+www.elib.ukma.kiev.ua
+www.conflict.ukma.kiev.ua
+journal.ukma.kiev.ua
+trainer.ukma.kiev.ua
+ktm.ukma.kiev.ua
+skill.ukma.kiev.ua
+www.fund.ukma.kiev.ua
+ce.grid.ukma.kiev.ua
+www.spilka.ukma.kiev.ua
+sph.ukma.kiev.ua
+moodle.ukma.kiev.ua
+summerschools.ukma.kiev.ua
+itc.div.ukma.kiev.ua
+ui.grid.ukma.kiev.ua
+mathpartner.ukma.kiev.ua
+star.ukma.kiev.ua
+spa.ukma.kiev.ua
+www.alumni.ukma.kiev.ua
+enigma.ukma.kiev.ua
+www.greenoffice.ukma.kiev.ua
+roller.ukma.kiev.ua
+al.ukma.kiev.ua
+ediploma.ukma.kiev.ua
+elefant.ukma.kiev.ua
+gw.usic.ukma.kiev.ua
+tam.ukma.kiev.ua
+www.bcc.ukma.kiev.ua
+press.ukma.kiev.ua
+acad.ukma.kiev.ua
+proxy.usic.ukma.kiev.ua
+www.spa.ukma.kiev.ua
+ovz.grid.ukma.kiev.ua
+student.ukma.kiev.ua
+finance.ukma.kiev.ua
+wn.ovz.grid.ukma.kiev.ua
+restoration.ukma.kiev.ua
+www.jcc.ukma.kiev.ua
+itschool.ukma.kiev.ua
+history.ukma.kiev.ua
+greenoffice.ukma.kiev.ua
+aleph.ukma.kiev.ua
+www.km-academia.ukma.kiev.ua
+consultant.ukma.kiev.ua
+www.ktm.ukma.kiev.ua
+www.gradschool.ukma.kiev.ua
+cast.usic.ukma.kiev.ua
+emerecu.ukma.kiev.ua

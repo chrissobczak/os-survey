@@ -1,306 +1,244 @@
-NXDOMAIN	www.moodle.lll.unic.ac.cy
-NOERROR	register.unic.ac.cy
-NXDOMAIN	www.dl.unic.ac.cy
-NOERROR	exgw.unic.ac.cy
-NOERROR	hydra.unic.ac.cy
-NOERROR	status.unic.ac.cy
-NOERROR	www.tourism-online.unic.ac.cy
-NOERROR	lteval.unic.ac.cy
-NOERROR	btnode.unic.ac.cy
-NOERROR	teachex.unic.ac.cy
-NOERROR	dlitblog.unic.ac.cy
-NOERROR	www.student10.mis.unic.ac.cy
-NOERROR	www.student14.mis.unic.ac.cy
-NXDOMAIN	www.anpr.unic.ac.cy
-NOERROR	o3.sg2.unic.ac.cy
-NOERROR	rpd.unic.ac.cy
-NXDOMAIN	www.nepton.unic.ac.cy
-NOERROR	dnn.students.unic.ac.cy
-NOERROR	fw1.unic.ac.cy
-NOERROR	mrout.unic.ac.cy
-NXDOMAIN	www.idp.unic.ac.cy
-NOERROR	stylianou-vasso.unic.ac.cy
-NOERROR	exchange.unic.ac.cy
-NOERROR	www.cost-ic0603.unic.ac.cy
-NOERROR	christospaisiou.ktoridou.unic.ac.cy
-NOERROR	call.unic.ac.cy
-NOERROR	prerelease.unic.ac.cy
-NOERROR	www.orama.unic.ac.cy
-NOERROR	studentintranet.unic.ac.cy
-NOERROR	financewptest.unic.ac.cy
-NXDOMAIN	www.petros.mba.unic.ac.cy
-NOERROR	unicglobal.unic.ac.cy
-NOERROR	btc-gw.unic.ac.cy
-NOERROR	ccm4300.wiki.unic.ac.cy
-NXDOMAIN	avu.unic.ac.cy
-NOERROR	support.unic.ac.cy
-NXDOMAIN	www.mynotes.unic.ac.cy
-NOERROR	www.bridges.unic.ac.cy
-NOERROR	texthelp.unic.ac.cy
-NXDOMAIN	www.vpnssl.unic.ac.cy
-NOERROR	businesswiki.unic.ac.cy
-NXDOMAIN	dirsync.live.unic.ac.cy
-NOERROR	hrm.unic.ac.cy
-NXDOMAIN	www.pay.unic.ac.cy
-NOERROR	www.it-support.unic.ac.cy
-NOERROR	www.deloittecass.unic.ac.cy
-NXDOMAIN	alephdb.unic.ac.cy
-NXDOMAIN	crp.unic.ac.cy
-NOERROR	www.eumof.unic.ac.cy
-NXDOMAIN	www.apply.unic.ac.cy
-NOERROR	ideas.unic.ac.cy
-NOERROR	survey.unic.ac.cy
-NOERROR	borderware.unic.ac.cy
-NXDOMAIN	www.vacancies.unic.ac.cy
-NOERROR	quark2.unic.ac.cy
-NOERROR	www.dev.unic.ac.cy
-NOERROR	estreaming.unic.ac.cy
-NOERROR	docs.ouranos.unic.ac.cy
-NOERROR	cscience.unic.ac.cy
-NXDOMAIN	www.courses.dcurr.unic.ac.cy
-NOERROR	anpr.unic.ac.cy
-NOERROR	proxy.unic.ac.cy
-NOERROR	www.student3.mis.unic.ac.cy
-NOERROR	mynotes.unic.ac.cy
-NOERROR	isl.unic.ac.cy
-NOERROR	www.student11.mis.unic.ac.cy
-NOERROR	metalib.unic.ac.cy
-NOERROR	www.mosys.unic.ac.cy
-NOERROR	evaluation.online.unic.ac.cy
-NOERROR	www.despo.mba.unic.ac.cy
-NOERROR	honeycygit.unic.ac.cy
-NXDOMAIN	eduradius1.unic.ac.cy
-NOERROR	evolve-staging.portal.unic.ac.cy
-NXDOMAIN	www.evolve-storage.unic.ac.cy
-NOERROR	apply.unic.ac.cy
-NOERROR	www.ieeesb.unic.ac.cy
-NOERROR	w2k3web.unic.ac.cy
-NXDOMAIN	www.nicos.mba.unic.ac.cy
-NOERROR	www.elearning.unic.ac.cy
-NOERROR	www.icwel.unic.ac.cy
-NOERROR	idp.unic.ac.cy
-NXDOMAIN	eumof.unic.ac.cy
-NOERROR	sports.unic.ac.cy
-NOERROR	rihanna.unic.ac.cy
-NOERROR	ace.unic.ac.cy
-NOERROR	residences.unic.ac.cy
-NOERROR	smtp.unic.ac.cy
-NXDOMAIN	www.cceia-old.unic.ac.cy
-NOERROR	www.intranet.unic.ac.cy
-NOERROR	arc.unic.ac.cy
-NOERROR	smtp1.unic.ac.cy
-NOERROR	dev.chatbot.unic.ac.cy
-NOERROR	autodiscover.unic.ac.cy
-NXDOMAIN	fb.unic.ac.cy
-NOERROR	alephweb2.unic.ac.cy
-NOERROR	recplusdb.unic.ac.cy
-NOERROR	vacancies.unic.ac.cy
-NOERROR	www.old.unic.ac.cy
-NOERROR	spserver.unic.ac.cy
-NOERROR	webhost.unic.ac.cy
-NXDOMAIN	new.unic.ac.cy
-NXDOMAIN	www.dlexams.unic.ac.cy
-NOERROR	www.student16.mis.unic.ac.cy
-NXDOMAIN	www.sslvpn.unic.ac.cy
-NOERROR	www.online.unic.ac.cy
-NOERROR	gtcontent.unic.ac.cy
-NOERROR	www.backoffice.unic.ac.cy
-NOERROR	www.register.unic.ac.cy
-NOERROR	phantom.unic.ac.cy
-NOERROR	www.studentintranet.unic.ac.cy
-NXDOMAIN	testwp.unic.ac.cy
-NOERROR	alephweb.unic.ac.cy
-NOERROR	www.cgd.unic.ac.cy
-NOERROR	www.emgr.unic.ac.cy
-NOERROR	education-online.unic.ac.cy
-NOERROR	www.mba.unic.ac.cy
-NOERROR	www.ideas.unic.ac.cy
-NOERROR	www.mcompetitions.unic.ac.cy
-NOERROR	moodle.lll.unic.ac.cy
-NXDOMAIN	www.exelixis.unic.ac.cy
-NOERROR	dev.nicky.unic.ac.cy
-NOERROR	www.survey.unic.ac.cy
-NOERROR	r.unic.ac.cy
-NOERROR	new.facultyintranet.unic.ac.cy
-NXDOMAIN	www.mediazone.unic.ac.cy
-NXDOMAIN	eduradius2.unic.ac.cy
-NOERROR	m4.unic.ac.cy
-NOERROR	rptool.unic.ac.cy
-NOERROR	embed.chatbot.unic.ac.cy
-NOERROR	pmss.unic.ac.cy
-NXDOMAIN	storage.unic.ac.cy
-NOERROR	www.mofc.unic.ac.cy
-NOERROR	d1.unic.ac.cy
-NOERROR	vasso.unic.ac.cy
-NOERROR	ca.unic.ac.cy
-NOERROR	staging.portal.unic.ac.cy
-NOERROR	www.student1.mis.unic.ac.cy
-NOERROR	da.unic.ac.cy
-NOERROR	www.med.unic.ac.cy
-NOERROR	web.unic.ac.cy
-NXDOMAIN	backoffice.unic.ac.cy
-NOERROR	pay.unic.ac.cy
-NXDOMAIN	moodle.intranet.unic.ac.cy
-NXDOMAIN	www.dcmes.unic.ac.cy
-NOERROR	www.emsi.unic.ac.cy
-NOERROR	ps.unic.ac.cy
-NOERROR	cs.studentportal.unic.ac.cy
-NOERROR	www.marketing-dev.webdevteam.unic.ac.cy
-NOERROR	proxy1.unic.ac.cy
-NOERROR	edihas.unic.ac.cy
-NOERROR	www.hrm.unic.ac.cy
-NOERROR	old.unic.ac.cy
-NOERROR	book-ordering.unic.ac.cy
-NOERROR	ns2.unic.ac.cy
-NOERROR	techcamp.unic.ac.cy
-NOERROR	www.pro.unic.ac.cy
-NXDOMAIN	www.storage.unic.ac.cy
-NOERROR	www.esir.unic.ac.cy
-NOERROR	unic.ac.cy
-NOERROR	verify.unic.ac.cy
-NXDOMAIN	www.jointdegrees.unic.ac.cy
-NOERROR	uresidenceportal.unic.ac.cy
-NXDOMAIN	www.dlt4all.mooc.unic.ac.cy
-NOERROR	intconfwoenpr2016.unic.ac.cy
-NOERROR	law.unic.ac.cy
-NOERROR	webmail.unic.ac.cy
-NXDOMAIN	www.fed.unic.ac.cy
-NXDOMAIN	gtmoodledev.unic.ac.cy
-NOERROR	saturn.unic.ac.cy
-NOERROR	oasys.unic.ac.cy
-NOERROR	dev.unic.ac.cy
-NOERROR	www.ece.unic.ac.cy
-NXDOMAIN	www.circleconference2008.unic.ac.cy
-NXDOMAIN	www.metalib.unic.ac.cy
-NOERROR	www.unic.ac.cy
-NOERROR	mdl.webdevteam.unic.ac.cy
-NOERROR	www.courses.unic.ac.cy
-NOERROR	mail.unic.ac.cy
-NOERROR	www.studentlinux.unic.ac.cy
-NOERROR	facultyintranet.unic.ac.cy
-NOERROR	paybitcoin.unic.ac.cy
-NOERROR	listserv.unic.ac.cy
-NOERROR	james.leigh.unic.ac.cy
-NOERROR	courses.dcurr.unic.ac.cy
-NOERROR	repository.unic.ac.cy
-NOERROR	dlweb.unic.ac.cy
-NOERROR	crmgw.unic.ac.cy
-NOERROR	deloittecass.unic.ac.cy
-NOERROR	www.embed.chatbot.unic.ac.cy
-NOERROR	glpi.unic.ac.cy
-NXDOMAIN	www.uresidenceportal.unic.ac.cy
-NOERROR	www.techcamp.unic.ac.cy
-NXDOMAIN	www.idp-students.unic.ac.cy
-NOERROR	cymun.unic.ac.cy
-NOERROR	ilms.unic.ac.cy
-NOERROR	cceia.unic.ac.cy
-NOERROR	www.mywebsite.unic.ac.cy
-NXDOMAIN	dev.dlexams.unic.ac.cy
-NOERROR	www.comp412.spring12.unic.ac.cy
-NOERROR	docuwiki.unic.ac.cy
-NOERROR	imme.unic.ac.cy
-NOERROR	honeycy.unic.ac.cy
-NOERROR	international.unic.ac.cy
-NOERROR	www.mba-online.unic.ac.cy
-NOERROR	project.cc.unic.ac.cy
-NOERROR	csfs.unic.ac.cy
-NOERROR	mcompetitions.unic.ac.cy
-NOERROR	web2008.student.unic.ac.cy
-NOERROR	ns1.unic.ac.cy
-NOERROR	nicky.unic.ac.cy
-NOERROR	studentaffairs.unic.ac.cy
-NOERROR	www.digitalcurrency.unic.ac.cy
-NXDOMAIN	lamstest.unic.ac.cy
-NOERROR	dlexams.unic.ac.cy
-NOERROR	evolve-storage.unic.ac.cy
-NOERROR	old.facultyintranet.unic.ac.cy
-NOERROR	www.edus-501.wiki.unic.ac.cy
-NXDOMAIN	www.new.unic.ac.cy
-NOERROR	speedtest.unic.ac.cy
-NOERROR	www.equal.unic.ac.cy
-NOERROR	dev1.mis.unic.ac.cy
-NOERROR	dev.courses.unic.ac.cy
-NOERROR	idp-students.unic.ac.cy
-NXDOMAIN	www.salih.mba.unic.ac.cy
-NOERROR	api.unic.ac.cy
-NOERROR	edc.library.unic.ac.cy
-NOERROR	germany.unic.ac.cy
-NOERROR	registration.unic.ac.cy
-NOERROR	www-proxy.unic.ac.cy
-NOERROR	www.distancelearning.unic.ac.cy
-NXDOMAIN	moodle1.unic.ac.cy
-NXDOMAIN	m.unic.ac.cy
-NOERROR	exelixis.unic.ac.cy
-NOERROR	www.family.med.unic.ac.cy
-NOERROR	www.rtelab.unic.ac.cy
-NOERROR	sql64.unic.ac.cy
-NOERROR	ailab.unic.ac.cy
-NOERROR	dl.unic.ac.cy
-NOERROR	axinite.unic.ac.cy
-NOERROR	inventory.unic.ac.cy
-NOERROR	mofc.unic.ac.cy
-NOERROR	nepton.unic.ac.cy
-NOERROR	www.cceia.unic.ac.cy
-NOERROR	chatbot.unic.ac.cy
-NOERROR	libguides.med.unic.ac.cy
-NOERROR	www.iss.unic.ac.cy
-NXDOMAIN	myadmin.moodle.unic.ac.cy
-NOERROR	www.international.unic.ac.cy
-NOERROR	newsis.unic.ac.cy
-NXDOMAIN	moodle.unic.ac.cy
-NOERROR	jointdegrees.unic.ac.cy
-NOERROR	www.student13.mis.unic.ac.cy
-NXDOMAIN	api-dev.unic.ac.cy
-NOERROR	wptest.unic.ac.cy
-NOERROR	www.m4.unic.ac.cy
-NOERROR	barracuda.unic.ac.cy
-NOERROR	legacy.unic.ac.cy
-NOERROR	libguides.unic.ac.cy
-NOERROR	www.computercenter.unic.ac.cy
-NOERROR	fed.unic.ac.cy
-NOERROR	www.library.unic.ac.cy
-NXDOMAIN	server.unic.ac.cy
-NOERROR	www.arc.unic.ac.cy
-NOERROR	sslvpn.unic.ac.cy
-NOERROR	med.unic.ac.cy
-NOERROR	mz.unic.ac.cy
-NXDOMAIN	www.m.unic.ac.cy
-NOERROR	lams.unic.ac.cy
-NOERROR	oldstudentintranet.unic.ac.cy
-NOERROR	stserver.unic.ac.cy
-NOERROR	dc.m.unic.ac.cy
-NOERROR	rp.unic.ac.cy
-NXDOMAIN	www.amirreza.mba.unic.ac.cy
-NOERROR	www.da.unic.ac.cy
-NXDOMAIN	test.unic.ac.cy
-NOERROR	wifi.unic.ac.cy
-NOERROR	app.unic.ac.cy
-NOERROR	time1.unic.ac.cy
-NOERROR	vpnssl.unic.ac.cy
-NOERROR	forum.eumof.unic.ac.cy
-NXDOMAIN	mediazone.unic.ac.cy
-NXDOMAIN	www.housing.unic.ac.cy
-NOERROR	mba-online.unic.ac.cy
-NOERROR	dlt4all.mooc.unic.ac.cy
-NOERROR	estream.unic.ac.cy
-NXDOMAIN	ccna.unic.ac.cy
-NOERROR	fortigate.unic.ac.cy
-NOERROR	iss.unic.ac.cy
-SERVFAIL	www.studentguide.unic.ac.cy
-NOERROR	www.facultyintranet.unic.ac.cy
-SERVFAIL	studentguide.unic.ac.cy
-NOERROR	www.cs.unic.ac.cy
-NOERROR	digitalcurrency.unic.ac.cy
-NOERROR	vpn.unic.ac.cy
-NOERROR	courses.unic.ac.cy
-NOERROR	sap.unic.ac.cy
-NOERROR	keet.unic.ac.cy
-NOERROR	dlsupport.unic.ac.cy
-NXDOMAIN	www.dev.courses.unic.ac.cy
-NOERROR	online.unic.ac.cy
-NXDOMAIN	wordpress5.unic.ac.cy
-NOERROR	testlb.unic.ac.cy
-NOERROR	family.med.unic.ac.cy
-NOERROR	pure.unic.ac.cy
-NOERROR	portal.unic.ac.cy
-NOERROR	xrp.unic.ac.cy
+register.unic.ac.cy
+exgw.unic.ac.cy
+hydra.unic.ac.cy
+status.unic.ac.cy
+www.tourism-online.unic.ac.cy
+lteval.unic.ac.cy
+btnode.unic.ac.cy
+teachex.unic.ac.cy
+dlitblog.unic.ac.cy
+www.student10.mis.unic.ac.cy
+www.student14.mis.unic.ac.cy
+o3.sg2.unic.ac.cy
+rpd.unic.ac.cy
+dnn.students.unic.ac.cy
+fw1.unic.ac.cy
+mrout.unic.ac.cy
+stylianou-vasso.unic.ac.cy
+exchange.unic.ac.cy
+www.cost-ic0603.unic.ac.cy
+christospaisiou.ktoridou.unic.ac.cy
+call.unic.ac.cy
+prerelease.unic.ac.cy
+www.orama.unic.ac.cy
+studentintranet.unic.ac.cy
+financewptest.unic.ac.cy
+unicglobal.unic.ac.cy
+btc-gw.unic.ac.cy
+ccm4300.wiki.unic.ac.cy
+support.unic.ac.cy
+www.bridges.unic.ac.cy
+texthelp.unic.ac.cy
+businesswiki.unic.ac.cy
+hrm.unic.ac.cy
+www.it-support.unic.ac.cy
+www.deloittecass.unic.ac.cy
+www.eumof.unic.ac.cy
+ideas.unic.ac.cy
+survey.unic.ac.cy
+borderware.unic.ac.cy
+quark2.unic.ac.cy
+www.dev.unic.ac.cy
+estreaming.unic.ac.cy
+docs.ouranos.unic.ac.cy
+cscience.unic.ac.cy
+anpr.unic.ac.cy
+proxy.unic.ac.cy
+www.student3.mis.unic.ac.cy
+mynotes.unic.ac.cy
+isl.unic.ac.cy
+www.student11.mis.unic.ac.cy
+metalib.unic.ac.cy
+www.mosys.unic.ac.cy
+evaluation.online.unic.ac.cy
+www.despo.mba.unic.ac.cy
+honeycygit.unic.ac.cy
+evolve-staging.portal.unic.ac.cy
+apply.unic.ac.cy
+www.ieeesb.unic.ac.cy
+w2k3web.unic.ac.cy
+www.elearning.unic.ac.cy
+www.icwel.unic.ac.cy
+idp.unic.ac.cy
+sports.unic.ac.cy
+rihanna.unic.ac.cy
+ace.unic.ac.cy
+residences.unic.ac.cy
+smtp.unic.ac.cy
+www.intranet.unic.ac.cy
+arc.unic.ac.cy
+smtp1.unic.ac.cy
+dev.chatbot.unic.ac.cy
+autodiscover.unic.ac.cy
+alephweb2.unic.ac.cy
+recplusdb.unic.ac.cy
+vacancies.unic.ac.cy
+www.old.unic.ac.cy
+spserver.unic.ac.cy
+webhost.unic.ac.cy
+www.student16.mis.unic.ac.cy
+www.online.unic.ac.cy
+gtcontent.unic.ac.cy
+www.backoffice.unic.ac.cy
+www.register.unic.ac.cy
+phantom.unic.ac.cy
+www.studentintranet.unic.ac.cy
+alephweb.unic.ac.cy
+www.cgd.unic.ac.cy
+www.emgr.unic.ac.cy
+education-online.unic.ac.cy
+www.mba.unic.ac.cy
+www.ideas.unic.ac.cy
+www.mcompetitions.unic.ac.cy
+moodle.lll.unic.ac.cy
+dev.nicky.unic.ac.cy
+www.survey.unic.ac.cy
+r.unic.ac.cy
+new.facultyintranet.unic.ac.cy
+m4.unic.ac.cy
+rptool.unic.ac.cy
+embed.chatbot.unic.ac.cy
+pmss.unic.ac.cy
+www.mofc.unic.ac.cy
+d1.unic.ac.cy
+vasso.unic.ac.cy
+ca.unic.ac.cy
+staging.portal.unic.ac.cy
+www.student1.mis.unic.ac.cy
+da.unic.ac.cy
+www.med.unic.ac.cy
+web.unic.ac.cy
+pay.unic.ac.cy
+www.emsi.unic.ac.cy
+ps.unic.ac.cy
+cs.studentportal.unic.ac.cy
+www.marketing-dev.webdevteam.unic.ac.cy
+proxy1.unic.ac.cy
+edihas.unic.ac.cy
+www.hrm.unic.ac.cy
+old.unic.ac.cy
+book-ordering.unic.ac.cy
+ns2.unic.ac.cy
+techcamp.unic.ac.cy
+www.pro.unic.ac.cy
+www.esir.unic.ac.cy
+unic.ac.cy
+verify.unic.ac.cy
+uresidenceportal.unic.ac.cy
+intconfwoenpr2016.unic.ac.cy
+law.unic.ac.cy
+webmail.unic.ac.cy
+saturn.unic.ac.cy
+oasys.unic.ac.cy
+dev.unic.ac.cy
+www.ece.unic.ac.cy
+www.unic.ac.cy
+mdl.webdevteam.unic.ac.cy
+www.courses.unic.ac.cy
+mail.unic.ac.cy
+www.studentlinux.unic.ac.cy
+facultyintranet.unic.ac.cy
+paybitcoin.unic.ac.cy
+listserv.unic.ac.cy
+james.leigh.unic.ac.cy
+courses.dcurr.unic.ac.cy
+repository.unic.ac.cy
+dlweb.unic.ac.cy
+crmgw.unic.ac.cy
+deloittecass.unic.ac.cy
+www.embed.chatbot.unic.ac.cy
+glpi.unic.ac.cy
+www.techcamp.unic.ac.cy
+cymun.unic.ac.cy
+ilms.unic.ac.cy
+cceia.unic.ac.cy
+www.mywebsite.unic.ac.cy
+www.comp412.spring12.unic.ac.cy
+docuwiki.unic.ac.cy
+imme.unic.ac.cy
+honeycy.unic.ac.cy
+international.unic.ac.cy
+www.mba-online.unic.ac.cy
+project.cc.unic.ac.cy
+csfs.unic.ac.cy
+mcompetitions.unic.ac.cy
+web2008.student.unic.ac.cy
+ns1.unic.ac.cy
+nicky.unic.ac.cy
+studentaffairs.unic.ac.cy
+www.digitalcurrency.unic.ac.cy
+dlexams.unic.ac.cy
+evolve-storage.unic.ac.cy
+old.facultyintranet.unic.ac.cy
+www.edus-501.wiki.unic.ac.cy
+speedtest.unic.ac.cy
+www.equal.unic.ac.cy
+dev1.mis.unic.ac.cy
+dev.courses.unic.ac.cy
+idp-students.unic.ac.cy
+api.unic.ac.cy
+edc.library.unic.ac.cy
+germany.unic.ac.cy
+registration.unic.ac.cy
+www-proxy.unic.ac.cy
+www.distancelearning.unic.ac.cy
+exelixis.unic.ac.cy
+www.family.med.unic.ac.cy
+www.rtelab.unic.ac.cy
+sql64.unic.ac.cy
+ailab.unic.ac.cy
+dl.unic.ac.cy
+axinite.unic.ac.cy
+inventory.unic.ac.cy
+mofc.unic.ac.cy
+nepton.unic.ac.cy
+www.cceia.unic.ac.cy
+chatbot.unic.ac.cy
+libguides.med.unic.ac.cy
+www.iss.unic.ac.cy
+www.international.unic.ac.cy
+newsis.unic.ac.cy
+jointdegrees.unic.ac.cy
+www.student13.mis.unic.ac.cy
+wptest.unic.ac.cy
+www.m4.unic.ac.cy
+barracuda.unic.ac.cy
+legacy.unic.ac.cy
+libguides.unic.ac.cy
+www.computercenter.unic.ac.cy
+fed.unic.ac.cy
+www.library.unic.ac.cy
+www.arc.unic.ac.cy
+sslvpn.unic.ac.cy
+med.unic.ac.cy
+mz.unic.ac.cy
+lams.unic.ac.cy
+oldstudentintranet.unic.ac.cy
+stserver.unic.ac.cy
+dc.m.unic.ac.cy
+rp.unic.ac.cy
+www.da.unic.ac.cy
+wifi.unic.ac.cy
+app.unic.ac.cy
+time1.unic.ac.cy
+vpnssl.unic.ac.cy
+forum.eumof.unic.ac.cy
+mba-online.unic.ac.cy
+dlt4all.mooc.unic.ac.cy
+estream.unic.ac.cy
+fortigate.unic.ac.cy
+iss.unic.ac.cy
+www.facultyintranet.unic.ac.cy
+www.cs.unic.ac.cy
+digitalcurrency.unic.ac.cy
+vpn.unic.ac.cy
+courses.unic.ac.cy
+sap.unic.ac.cy
+keet.unic.ac.cy
+dlsupport.unic.ac.cy
+online.unic.ac.cy
+testlb.unic.ac.cy
+family.med.unic.ac.cy
+pure.unic.ac.cy
+portal.unic.ac.cy
+xrp.unic.ac.cy

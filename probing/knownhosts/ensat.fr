@@ -1,269 +1,247 @@
-NXDOMAIN	moustache.ensat.fr
-NOERROR	bagel.ensat.fr
-NOERROR	quinn.ensat.fr
-NOERROR	nsatb-dumont.ensat.fr
-NOERROR	routeur-a.ensat.fr
-NOERROR	haricho.ensat.fr
-NOERROR	nsatb-gbf-invite.ensat.fr
-NOERROR	ensat.fr
-NOERROR	mackey.ensat.fr
-NOERROR	tls-agir0044.ensat.fr
-NOERROR	concerto-client.ensat.fr
-NOERROR	nsatb-ecolab-si.ensat.fr
-NOERROR	craig.ensat.fr
-NOERROR	dev.bde.ensat.fr
-NOERROR	nsatb-dell4500.ensat.fr
-NOERROR	viki.ensat.fr
-NOERROR	matricehdmi.ensat.fr
-NOERROR	crockelpaf.ensat.fr
-NOERROR	nsatb-nouvet.ensat.fr
-NOERROR	moodle-ensat.ensat.fr
-NOERROR	syrena.ensat.fr
-NOERROR	bacon.ensat.fr
-NOERROR	nsat-fw-nat-wifi.ensat.fr
-NOERROR	lyra-dockb.ensat.fr
-NOERROR	nsatb-jpirrell.ensat.fr
-NOERROR	gbf.ensat.fr
-NOERROR	sabatier.ensat.fr
-NOERROR	nsatb-legendre.ensat.fr
-NOERROR	nsat-visio.ensat.fr
-NXDOMAIN	www.galactica.ensat.fr
-NXDOMAIN	theo.ensat.fr
-NOERROR	atlantis.ensat.fr
-NOERROR	temp-pvesupp1.ensat.fr
-NOERROR	pc-mestries2.ensat.fr
-NOERROR	syrfid.ensat.fr
-NOERROR	batb-data.ensat.fr
-NOERROR	webmail.ensat.fr
-NOERROR	nsat-bioinfo-p2.ensat.fr
-NOERROR	automate-serre2.ensat.fr
-NOERROR	nsat-laptop-cedric.ensat.fr
-NOERROR	boreale.ensat.fr
-NOERROR	nsatb-chervin-p1.ensat.fr
-NOERROR	nsatb-lemonnier.ensat.fr
-NOERROR	pandore.ensat.fr
-NOERROR	nsat-ecolab-nomad.ensat.fr
-NXDOMAIN	nsatb-12-u5.ensat.fr
-NOERROR	adler.ensat.fr
-NOERROR	frappe.bde.ensat.fr
-NOERROR	goufrever.ensat.fr
-NXDOMAIN	www.cloud.ensat.fr
-NOERROR	pydiotest.ensat.fr
-NOERROR	scapula.ensat.fr
-NOERROR	kvm3.ensat.fr
-NOERROR	bleriot.ensat.fr
-NOERROR	imp-apogee.ensat.fr
-NOERROR	beta.bde.ensat.fr
-NOERROR	nsatb-maza.ensat.fr
-NXDOMAIN	prepaconcoursb.ensat.fr
-NOERROR	prince.ensat.fr
-NOERROR	octopus.ensat.fr
-NOERROR	heimdall-old.ensat.fr
-NOERROR	tls-agir0012nc.ensat.fr
-NOERROR	srv-madonna.ensat.fr
-NOERROR	messua.ensat.fr
-NOERROR	nsatb-vdr.ensat.fr
-NOERROR	nsatb-maury.ensat.fr
-NOERROR	getanetb.ensat.fr
-NOERROR	levasseur.ensat.fr
-NXDOMAIN	www.getanet.ensat.fr
-NOERROR	tweek.ensat.fr
-NOERROR	nsat-control-acces.ensat.fr
-NOERROR	sation-maury.ensat.fr
-NOERROR	mac-bioinfo.ensat.fr
-NOERROR	hostmaster.bde.ensat.fr
-NOERROR	nsatb-doct-u1.ensat.fr
-NOERROR	nsat-tosh-batb.ensat.fr
-NOERROR	agir-com-stg012.ensat.fr
-NOERROR	nsatb-112-u1.ensat.fr
-NOERROR	pc-cesbio.ensat.fr
-NOERROR	tempus.ensat.fr
-NOERROR	hermes.ensat.fr
-NOERROR	master.dev.bde.ensat.fr
-NOERROR	stan.ensat.fr
-NOERROR	tls-agir0021nc.ensat.fr
-NOERROR	formations.ensat.fr
-NXDOMAIN	bap.ensat.fr
-NOERROR	servietsky.ensat.fr
-NOERROR	intranet-ensat.ensat.fr
-NOERROR	maxi.ensat.fr
-NOERROR	test-machine.ensat.fr
-NOERROR	victoria.ensat.fr
-NOERROR	nsat-standard-pc2.ensat.fr
-NOERROR	minerva.ensat.fr
-NOERROR	azalee.ensat.fr
-NOERROR	bibliotheque-resa.ensat.fr
-NOERROR	sonny.ensat.fr
-NOERROR	nsatb-112-u.ensat.fr
-NOERROR	galilee.ensat.fr
-NOERROR	ftp.clubs.bde.ensat.fr
-NXDOMAIN	damien.ensat.fr
-NOERROR	nsatb-gbf-spare.ensat.fr
-NOERROR	nsatb-ecolab-dynabio.ensat.fr
-NOERROR	ensat-fwme.ensat.fr
-NOERROR	kvm.ensat.fr
-NOERROR	jimbo.ensat.fr
-NOERROR	phoebe.ensat.fr
-NOERROR	ensat-1.ensat.fr
-NOERROR	flora.ensat.fr
-NOERROR	nsat-repro-a3.ensat.fr
-NXDOMAIN	bapgenome.ensat.fr
-NOERROR	randy.ensat.fr
-NOERROR	longani.ensat.fr
-NOERROR	atc.ensat.fr
-NOERROR	fibula.ensat.fr
-NOERROR	groot.ensat.fr
-NOERROR	pve-test.ensat.fr
-NOERROR	sigma.ensat.fr
-NOERROR	kyle.ensat.fr
-NOERROR	www.bde.ensat.fr
-NOERROR	nsatb-b22-u1.ensat.fr
-NOERROR	gpvpnb.ensat.fr
-NOERROR	nsat-ecolab-fw0.ensat.fr
-NOERROR	kvm1.ensat.fr
-NOERROR	tina.ensat.fr
-NOERROR	rmail.ensat.fr
-NOERROR	nsat-regie.ensat.fr
-NXDOMAIN	heimdall-int.ensat.fr
-NOERROR	kenny.ensat.fr
-NOERROR	mail.ensat.fr
-NOERROR	mephisto.ensat.fr
-NOERROR	barbrady.ensat.fr
-NOERROR	potimarron.ensat.fr
-NOERROR	hyperion.ensat.fr
-NOERROR	decade.ensat.fr
-NXDOMAIN	aliat.ensat.fr
-NOERROR	nsatb-imager.ensat.fr
-NXDOMAIN	ensat163.ensat.fr
-NOERROR	neila.ensat.fr
-NXDOMAIN	www.gaia.ensat.fr
-NOERROR	nsatb-125-u2.ensat.fr
-NOERROR	stages.ensat.fr
-NOERROR	salt.ensat.fr
-NXDOMAIN	nsat-b12-u1.ensat.fr
-NOERROR	athena.ensat.fr
-NOERROR	prunet.ensat.fr
-NOERROR	ensat-visio702a.ensat.fr
-NOERROR	veronica.ensat.fr
-NOERROR	cloud.ensat.fr
-NOERROR	pc-pascal.ensat.fr
-NOERROR	jimmy.ensat.fr
-NOERROR	nsatb-accueil.ensat.fr
-NOERROR	nsatb-ecolab-srvimp.ensat.fr
-NOERROR	nsat-carte-1.ensat.fr
-NOERROR	automate-serre.ensat.fr
-NOERROR	rev2.ensat.fr
-NOERROR	nsat-laptop-sil.ensat.fr
-NOERROR	nsat-fw-nat-perso.ensat.fr
-NOERROR	pc-audran.ensat.fr
-NOERROR	nsat-slim-p.ensat.fr
-NXDOMAIN	nsatb-doctorants.ensat.fr
-NOERROR	nsatb-sama.ensat.fr
-NOERROR	hankey.ensat.fr
-NOERROR	gaia.ensat.fr
-NOERROR	artichaut.ensat.fr
-NOERROR	drixenol.ensat.fr
-NOERROR	galactica.ensat.fr
-NOERROR	butters.ensat.fr
-NOERROR	gimaco.ensat.fr
-NOERROR	automateregie.ensat.fr
-NOERROR	nsatb-doct-u2.ensat.fr
-NOERROR	nsat-dayoub.ensat.fr
-NOERROR	orion.ensat.fr
-NOERROR	webinp.ensat.fr
-NOERROR	nsatb-zouine-p2.ensat.fr
-NOERROR	ensat-visio702b.ensat.fr
-NOERROR	webmail.etu.ensat.fr
-NOERROR	heimdall.ensat.fr
-NOERROR	nsatb-chervin-station.ensat.fr
-NOERROR	diane.ensat.fr
-NOERROR	c-chaud-la-vie.ensat.fr
-NOERROR	aurore-old.ensat.fr
-NXDOMAIN	pole079.ensat.fr
-NOERROR	cartman.ensat.fr
-NOERROR	tls-agir0022nc.ensat.fr
-NOERROR	ns.bde.ensat.fr
-NOERROR	nsatb-frasse.ensat.fr
-NOERROR	coton.ensat.fr
-NOERROR	apollo.ensat.fr
-NOERROR	wendy.ensat.fr
-NOERROR	ensatb-ike-gw.ensat.fr
-NOERROR	nsat-routeur-b.ensat.fr
-NOERROR	gpvpn.ensat.fr
-NOERROR	mailman.bde.ensat.fr
-NOERROR	puibleu.ensat.fr
-NOERROR	nsatb-maza2.ensat.fr
-NOERROR	nebula.ensat.fr
-NOERROR	qu16.ensat.fr
-NOERROR	nsat-inscriptions.ensat.fr
-NOERROR	nsat-bioinfo2.ensat.fr
-NOERROR	nsat-slim-p1.ensat.fr
-NOERROR	intranet.ensat.fr
-NOERROR	ares.bde.ensat.fr
-NOERROR	antivirus-b.ensat.fr
-NOERROR	clyde.ensat.fr
-NOERROR	nsatb-pirrello.ensat.fr
-NOERROR	wendy-rescue.ensat.fr
-NOERROR	temp-pvesupp2.ensat.fr
-NXDOMAIN	nsatb-mondher-pc.ensat.fr
-NOERROR	ensat-radius.ensat.fr
-NOERROR	herbert.ensat.fr
-NOERROR	kvm2.ensat.fr
-NOERROR	kevin.ensat.fr
-NOERROR	rezolog.ensat.fr
-NXDOMAIN	bibensat.ensat.fr
-NOERROR	mistigri.ensat.fr
-NOERROR	nsat-fwme-cardmanager.ensat.fr
-NOERROR	nsatb-112-u2.ensat.fr
-NOERROR	lueur.ensat.fr
-NOERROR	station-dayoub.ensat.fr
-NOERROR	nsat-carte-2.ensat.fr
-NOERROR	aurore.ensat.fr
-NOERROR	machinetemplatedeb10.ensat.fr
-NOERROR	tls-agir0031nc.ensat.fr
-NOERROR	medicagomap.ensat.fr
-NOERROR	nsatb-chervinb.ensat.fr
-NOERROR	antivirus.ensat.fr
-NXDOMAIN	nsatb-secretariat.ensat.fr
-NOERROR	chimera.ensat.fr
-NOERROR	nsat-edarnige.ensat.fr
-NOERROR	nsat-ups-tel.ensat.fr
-NOERROR	instanciation-pve.ensat.fr
-NOERROR	www.ensat.fr
-NOERROR	webprogression.ensat.fr
-NOERROR	getanet.ensat.fr
-NOERROR	nemesis.ensat.fr
-NOERROR	nsatb-bio2.ensat.fr
-NOERROR	citrouille.ensat.fr
-NXDOMAIN	leila.ensat.fr
-NOERROR	chou-fleur.ensat.fr
-NOERROR	scott.ensat.fr
-NOERROR	obiwan.ensat.fr
-NOERROR	hades.ensat.fr
-NOERROR	hydre.ensat.fr
-NOERROR	ensat-gbf-imp180.ensat.fr
-NOERROR	nsatb-zouine.ensat.fr
-NOERROR	rocket.ensat.fr
-NOERROR	surface-mondher.ensat.fr
-NOERROR	australe.ensat.fr
-NOERROR	inra-quinquiry.ensat.fr
-NOERROR	nsat-cedric-test.ensat.fr
-NOERROR	avatar.ensat.fr
-NOERROR	pc-marage.ensat.fr
-NOERROR	bebe.ensat.fr
-NOERROR	w.bde.ensat.fr
-NOERROR	nsatb-dell390.ensat.fr
-NOERROR	nsatb-26-u2.ensat.fr
-NOERROR	tamarin.ensat.fr
-NOERROR	nsatb-bio1.ensat.fr
-NOERROR	salsifis.ensat.fr
-NOERROR	nsatsql.ensat.fr
-NOERROR	ike.ensat.fr
-NOERROR	polaire.ensat.fr
-NOERROR	nsatb-ecolab-fw.ensat.fr
-NOERROR	listes-diff.ensat.fr
-NOERROR	bde.ensat.fr
-NOERROR	nsatb-gbf-maza.ensat.fr
-NOERROR	pepper.ensat.fr
-NXDOMAIN	pbmain.ensat.fr
-NOERROR	intranet2-old.ensat.fr
+bagel.ensat.fr
+quinn.ensat.fr
+nsatb-dumont.ensat.fr
+routeur-a.ensat.fr
+haricho.ensat.fr
+nsatb-gbf-invite.ensat.fr
+ensat.fr
+mackey.ensat.fr
+tls-agir0044.ensat.fr
+concerto-client.ensat.fr
+nsatb-ecolab-si.ensat.fr
+craig.ensat.fr
+dev.bde.ensat.fr
+nsatb-dell4500.ensat.fr
+viki.ensat.fr
+matricehdmi.ensat.fr
+crockelpaf.ensat.fr
+nsatb-nouvet.ensat.fr
+moodle-ensat.ensat.fr
+syrena.ensat.fr
+bacon.ensat.fr
+nsat-fw-nat-wifi.ensat.fr
+lyra-dockb.ensat.fr
+nsatb-jpirrell.ensat.fr
+gbf.ensat.fr
+sabatier.ensat.fr
+nsatb-legendre.ensat.fr
+nsat-visio.ensat.fr
+atlantis.ensat.fr
+temp-pvesupp1.ensat.fr
+pc-mestries2.ensat.fr
+syrfid.ensat.fr
+batb-data.ensat.fr
+webmail.ensat.fr
+nsat-bioinfo-p2.ensat.fr
+automate-serre2.ensat.fr
+nsat-laptop-cedric.ensat.fr
+boreale.ensat.fr
+nsatb-chervin-p1.ensat.fr
+nsatb-lemonnier.ensat.fr
+pandore.ensat.fr
+nsat-ecolab-nomad.ensat.fr
+adler.ensat.fr
+frappe.bde.ensat.fr
+goufrever.ensat.fr
+pydiotest.ensat.fr
+scapula.ensat.fr
+kvm3.ensat.fr
+bleriot.ensat.fr
+imp-apogee.ensat.fr
+beta.bde.ensat.fr
+nsatb-maza.ensat.fr
+prince.ensat.fr
+octopus.ensat.fr
+heimdall-old.ensat.fr
+tls-agir0012nc.ensat.fr
+srv-madonna.ensat.fr
+messua.ensat.fr
+nsatb-vdr.ensat.fr
+nsatb-maury.ensat.fr
+getanetb.ensat.fr
+levasseur.ensat.fr
+tweek.ensat.fr
+nsat-control-acces.ensat.fr
+sation-maury.ensat.fr
+mac-bioinfo.ensat.fr
+hostmaster.bde.ensat.fr
+nsatb-doct-u1.ensat.fr
+nsat-tosh-batb.ensat.fr
+agir-com-stg012.ensat.fr
+nsatb-112-u1.ensat.fr
+pc-cesbio.ensat.fr
+tempus.ensat.fr
+hermes.ensat.fr
+master.dev.bde.ensat.fr
+stan.ensat.fr
+tls-agir0021nc.ensat.fr
+formations.ensat.fr
+servietsky.ensat.fr
+intranet-ensat.ensat.fr
+maxi.ensat.fr
+test-machine.ensat.fr
+victoria.ensat.fr
+nsat-standard-pc2.ensat.fr
+minerva.ensat.fr
+azalee.ensat.fr
+bibliotheque-resa.ensat.fr
+sonny.ensat.fr
+nsatb-112-u.ensat.fr
+galilee.ensat.fr
+ftp.clubs.bde.ensat.fr
+nsatb-gbf-spare.ensat.fr
+nsatb-ecolab-dynabio.ensat.fr
+ensat-fwme.ensat.fr
+kvm.ensat.fr
+jimbo.ensat.fr
+phoebe.ensat.fr
+ensat-1.ensat.fr
+flora.ensat.fr
+nsat-repro-a3.ensat.fr
+randy.ensat.fr
+longani.ensat.fr
+atc.ensat.fr
+fibula.ensat.fr
+groot.ensat.fr
+pve-test.ensat.fr
+sigma.ensat.fr
+kyle.ensat.fr
+www.bde.ensat.fr
+nsatb-b22-u1.ensat.fr
+gpvpnb.ensat.fr
+nsat-ecolab-fw0.ensat.fr
+kvm1.ensat.fr
+tina.ensat.fr
+rmail.ensat.fr
+nsat-regie.ensat.fr
+kenny.ensat.fr
+mail.ensat.fr
+mephisto.ensat.fr
+barbrady.ensat.fr
+potimarron.ensat.fr
+hyperion.ensat.fr
+decade.ensat.fr
+nsatb-imager.ensat.fr
+neila.ensat.fr
+nsatb-125-u2.ensat.fr
+stages.ensat.fr
+salt.ensat.fr
+athena.ensat.fr
+prunet.ensat.fr
+ensat-visio702a.ensat.fr
+veronica.ensat.fr
+cloud.ensat.fr
+pc-pascal.ensat.fr
+jimmy.ensat.fr
+nsatb-accueil.ensat.fr
+nsatb-ecolab-srvimp.ensat.fr
+nsat-carte-1.ensat.fr
+automate-serre.ensat.fr
+rev2.ensat.fr
+nsat-laptop-sil.ensat.fr
+nsat-fw-nat-perso.ensat.fr
+pc-audran.ensat.fr
+nsat-slim-p.ensat.fr
+nsatb-sama.ensat.fr
+hankey.ensat.fr
+gaia.ensat.fr
+artichaut.ensat.fr
+drixenol.ensat.fr
+galactica.ensat.fr
+butters.ensat.fr
+gimaco.ensat.fr
+automateregie.ensat.fr
+nsatb-doct-u2.ensat.fr
+nsat-dayoub.ensat.fr
+orion.ensat.fr
+webinp.ensat.fr
+nsatb-zouine-p2.ensat.fr
+ensat-visio702b.ensat.fr
+webmail.etu.ensat.fr
+heimdall.ensat.fr
+nsatb-chervin-station.ensat.fr
+diane.ensat.fr
+c-chaud-la-vie.ensat.fr
+aurore-old.ensat.fr
+cartman.ensat.fr
+tls-agir0022nc.ensat.fr
+ns.bde.ensat.fr
+nsatb-frasse.ensat.fr
+coton.ensat.fr
+apollo.ensat.fr
+wendy.ensat.fr
+ensatb-ike-gw.ensat.fr
+nsat-routeur-b.ensat.fr
+gpvpn.ensat.fr
+mailman.bde.ensat.fr
+puibleu.ensat.fr
+nsatb-maza2.ensat.fr
+nebula.ensat.fr
+qu16.ensat.fr
+nsat-inscriptions.ensat.fr
+nsat-bioinfo2.ensat.fr
+nsat-slim-p1.ensat.fr
+intranet.ensat.fr
+ares.bde.ensat.fr
+antivirus-b.ensat.fr
+clyde.ensat.fr
+nsatb-pirrello.ensat.fr
+wendy-rescue.ensat.fr
+temp-pvesupp2.ensat.fr
+ensat-radius.ensat.fr
+herbert.ensat.fr
+kvm2.ensat.fr
+kevin.ensat.fr
+rezolog.ensat.fr
+mistigri.ensat.fr
+nsat-fwme-cardmanager.ensat.fr
+nsatb-112-u2.ensat.fr
+lueur.ensat.fr
+station-dayoub.ensat.fr
+nsat-carte-2.ensat.fr
+aurore.ensat.fr
+machinetemplatedeb10.ensat.fr
+tls-agir0031nc.ensat.fr
+medicagomap.ensat.fr
+nsatb-chervinb.ensat.fr
+antivirus.ensat.fr
+chimera.ensat.fr
+nsat-edarnige.ensat.fr
+nsat-ups-tel.ensat.fr
+instanciation-pve.ensat.fr
+www.ensat.fr
+webprogression.ensat.fr
+getanet.ensat.fr
+nemesis.ensat.fr
+nsatb-bio2.ensat.fr
+citrouille.ensat.fr
+chou-fleur.ensat.fr
+scott.ensat.fr
+obiwan.ensat.fr
+hades.ensat.fr
+hydre.ensat.fr
+ensat-gbf-imp180.ensat.fr
+nsatb-zouine.ensat.fr
+rocket.ensat.fr
+surface-mondher.ensat.fr
+australe.ensat.fr
+inra-quinquiry.ensat.fr
+nsat-cedric-test.ensat.fr
+avatar.ensat.fr
+pc-marage.ensat.fr
+bebe.ensat.fr
+w.bde.ensat.fr
+nsatb-dell390.ensat.fr
+nsatb-26-u2.ensat.fr
+tamarin.ensat.fr
+nsatb-bio1.ensat.fr
+salsifis.ensat.fr
+nsatsql.ensat.fr
+ike.ensat.fr
+polaire.ensat.fr
+nsatb-ecolab-fw.ensat.fr
+listes-diff.ensat.fr
+bde.ensat.fr
+nsatb-gbf-maza.ensat.fr
+pepper.ensat.fr
+intranet2-old.ensat.fr

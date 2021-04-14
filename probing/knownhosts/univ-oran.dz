@@ -1,10 +1,5 @@
-SERVFAIL	mail.univ-oran.dz
-NXDOMAIN	mail.edu.univ-oran.dz
-NXDOMAIN	labos.univ-oran.dz
-NOERROR	univ-oran.dz
-NOERROR	www.univ-oran.dz
-NXDOMAIN	www.mail.univ-oran.dz
-NOERROR	elearn.univ-oran.dz
-NXDOMAIN	info.univ-oran.dz
-NOERROR	dns.univ-oran.dz
-NOERROR	traitement.univ-oran.dz
+univ-oran.dz
+www.univ-oran.dz
+elearn.univ-oran.dz
+dns.univ-oran.dz
+traitement.univ-oran.dz

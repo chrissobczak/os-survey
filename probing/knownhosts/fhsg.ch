@@ -1,143 +1,83 @@
-NOERROR	styx.fhsg.ch
-NOERROR	fzfw01.fhsg.ch
-NXDOMAIN	frigg.fhsg.ch
-NXDOMAIN	morpheus.fhsg.ch
-NOERROR	ephesos.fhsg.ch
-NOERROR	elearning.fhsg.ch
-NXDOMAIN	polyxo.fhsg.ch
-NOERROR	academ-staging.fhsg.ch
-NOERROR	collab.fhsg.ch
-NOERROR	ost.fhsg.ch
-NXDOMAIN	nextcloud.fhsg.ch
-NOERROR	vdiss.fhsg.ch
-NOERROR	academ.fhsg.ch
-NXDOMAIN	taranis.fhsg.ch
-NXDOMAIN	homer.fhsg.ch
-NXDOMAIN	ino.fhsg.ch
-NXDOMAIN	polypurse.fhsg.ch
-NXDOMAIN	limos.fhsg.ch
-NOERROR	heimdall.fhsg.ch
-NXDOMAIN	poros.fhsg.ch
-NOERROR	openvpn2.fhsg.ch
-NXDOMAIN	vdics.fhsg.ch
-NXDOMAIN	pluto.fhsg.ch
-NOERROR	prozess.fhsg.ch
-NOERROR	iam.fhsg.ch
-NXDOMAIN	chabo.fhsg.ch
-NXDOMAIN	aai-logon.fhsg.ch
-NOERROR	fernwartung.fhsg.ch
-NXDOMAIN	iris.fhsg.ch
-NOERROR	romulus.fhsg.ch
-NOERROR	venus.fhsg.ch
-NXDOMAIN	radius.fhsg.ch
-NOERROR	aquarius.fhsg.ch
-NXDOMAIN	git.fhsg.ch
-NXDOMAIN	1.fhsg.ch
-NOERROR	taras-staging.fhsg.ch
-NXDOMAIN	itportal.fhsg.ch
-NOERROR	servicedesk.fhsg.ch
-NOERROR	evasys.fhsg.ch
-NXDOMAIN	datawarehouse.fhsg.ch
-NOERROR	weiterbildung.fhsg.ch
-NXDOMAIN	quickr.fhsg.ch
-NOERROR	stundenplan.fhsg.ch
-NOERROR	ragnar.fhsg.ch
-NXDOMAIN	www3.fhsg.ch
-NOERROR	maintenance.fhsg.ch
-NXDOMAIN	keto.fhsg.ch
-NOERROR	taras.fhsg.ch
-NOERROR	raumreservation.fhsg.ch
-NOERROR	sozialearbeit.fhsg.ch
-NXDOMAIN	wlan.fhsg.ch
-NOERROR	evento.fhsg.ch
-NOERROR	flipbook.fhsg.ch
-NOERROR	mx2.fhsg.ch
-NOERROR	picustest.fhsg.ch
-NXDOMAIN	melchior.fhsg.ch
-NOERROR	ephesostest.fhsg.ch
-NOERROR	varuna.fhsg.ch
-NOERROR	cashless.fhsg.ch
-NXDOMAIN	aai-login.fhsg.ch
-NXDOMAIN	remus.fhsg.ch
-NXDOMAIN	archiv.fhsg.ch
-NOERROR	news.fhsg.ch
-NOERROR	confluence.fhsg.ch
-NXDOMAIN	www.sozialearbeit.fhsg.ch
-NXDOMAIN	sandan.fhsg.ch
-NOERROR	typhon.fhsg.ch
-NOERROR	helpdesk.fhsg.ch
-NOERROR	leukosia.fhsg.ch
-NOERROR	sharepoint.fhsg.ch
-NXDOMAIN	melampus.fhsg.ch
-NOERROR	dns1.fhsg.ch
-NOERROR	mail.fhsg.ch
-NXDOMAIN	pollux.fhsg.ch
-NOERROR	merkur.fhsg.ch
-NOERROR	intranet.fhsg.ch
-NXDOMAIN	blog.fhsg.ch
-NOERROR	monitor2.fhsg.ch
-NXDOMAIN	zelos.fhsg.ch
-NXDOMAIN	www.taras.fhsg.ch
-NXDOMAIN	tlfw01.fhsg.ch
-NXDOMAIN	traveler.fhsg.ch
-NXDOMAIN	tlfw02.fhsg.ch
-NXDOMAIN	tlfw03.fhsg.ch
-NOERROR	leukothea.fhsg.ch
-NOERROR	sbc1.fhsg.ch
-NOERROR	rhea.fhsg.ch
-NXDOMAIN	www2.fhsg.ch
-NOERROR	vdi.fhsg.ch
-NXDOMAIN	moodle.fhsg.ch
-NOERROR	wiki.fhsg.ch
-NXDOMAIN	ocp.fhsg.ch
-NXDOMAIN	www.elearning.fhsg.ch
-NXDOMAIN	gitlab.fhsg.ch
-NXDOMAIN	quickr1.fhsg.ch
-NXDOMAIN	www.weiterbildung.fhsg.ch
-NXDOMAIN	www.wirtschaft.fhsg.ch
-NXDOMAIN	babo.fhsg.ch
-NOERROR	substanz.fhsg.ch
-NOERROR	vpn.fhsg.ch
-NOERROR	wirtschaft.fhsg.ch
-NOERROR	mx1.fhsg.ch
-NOERROR	terra.fhsg.ch
-NXDOMAIN	testephesos.fhsg.ch
-NOERROR	sbc2.fhsg.ch
-NXDOMAIN	wotan.fhsg.ch
-NXDOMAIN	fhs-42357.fhsg.ch
-NOERROR	freya.fhsg.ch
-NOERROR	picus.fhsg.ch
-NOERROR	sametime.fhsg.ch
-NOERROR	openvpn.fhsg.ch
-NOERROR	alumni.fhsg.ch
-NXDOMAIN	babbel.fhsg.ch
-NOERROR	jira.fhsg.ch
-NOERROR	portal.fhsg.ch
-NOERROR	www1.fhsg.ch
-NOERROR	mitra.fhsg.ch
-NOERROR	monitor1.fhsg.ch
-NOERROR	evento-spielwiese.fhsg.ch
-NXDOMAIN	herkules.fhsg.ch
-NXDOMAIN	ogmios.fhsg.ch
-NXDOMAIN	www.gesundheit.fhsg.ch
-NOERROR	dns2.fhsg.ch
-NXDOMAIN	fasolt.fhsg.ch
-NOERROR	alter.fhsg.ch
-NOERROR	i3l.fhsg.ch
-NXDOMAIN	moodle1.fhsg.ch
-NOERROR	www.fhsg.ch
-NOERROR	fhsg.ch
-NOERROR	evention.fhsg.ch
-NXDOMAIN	obelix.fhsg.ch
-NOERROR	europa.fhsg.ch
-NOERROR	hilfe.fhsg.ch
-NOERROR	asia.fhsg.ch
-NOERROR	saturn.fhsg.ch
-NOERROR	m.fhsg.ch
-NOERROR	mailarchiv.fhsg.ch
-NOERROR	students.fhsg.ch
-NXDOMAIN	fzwlc01.fhsg.ch
-NXDOMAIN	proitos.fhsg.ch
-NOERROR	gesundheit.fhsg.ch
-NOERROR	nginx-ha.fhsg.ch
-NOERROR	bitbucket.fhsg.ch
+styx.fhsg.ch
+fzfw01.fhsg.ch
+ephesos.fhsg.ch
+elearning.fhsg.ch
+academ-staging.fhsg.ch
+collab.fhsg.ch
+ost.fhsg.ch
+vdiss.fhsg.ch
+academ.fhsg.ch
+heimdall.fhsg.ch
+openvpn2.fhsg.ch
+prozess.fhsg.ch
+iam.fhsg.ch
+fernwartung.fhsg.ch
+romulus.fhsg.ch
+venus.fhsg.ch
+aquarius.fhsg.ch
+taras-staging.fhsg.ch
+servicedesk.fhsg.ch
+evasys.fhsg.ch
+weiterbildung.fhsg.ch
+stundenplan.fhsg.ch
+ragnar.fhsg.ch
+maintenance.fhsg.ch
+taras.fhsg.ch
+raumreservation.fhsg.ch
+sozialearbeit.fhsg.ch
+evento.fhsg.ch
+flipbook.fhsg.ch
+mx2.fhsg.ch
+picustest.fhsg.ch
+ephesostest.fhsg.ch
+varuna.fhsg.ch
+cashless.fhsg.ch
+news.fhsg.ch
+confluence.fhsg.ch
+typhon.fhsg.ch
+helpdesk.fhsg.ch
+leukosia.fhsg.ch
+sharepoint.fhsg.ch
+dns1.fhsg.ch
+mail.fhsg.ch
+merkur.fhsg.ch
+intranet.fhsg.ch
+monitor2.fhsg.ch
+leukothea.fhsg.ch
+sbc1.fhsg.ch
+rhea.fhsg.ch
+vdi.fhsg.ch
+wiki.fhsg.ch
+substanz.fhsg.ch
+vpn.fhsg.ch
+wirtschaft.fhsg.ch
+mx1.fhsg.ch
+terra.fhsg.ch
+sbc2.fhsg.ch
+freya.fhsg.ch
+picus.fhsg.ch
+sametime.fhsg.ch
+openvpn.fhsg.ch
+alumni.fhsg.ch
+jira.fhsg.ch
+portal.fhsg.ch
+www1.fhsg.ch
+mitra.fhsg.ch
+monitor1.fhsg.ch
+evento-spielwiese.fhsg.ch
+dns2.fhsg.ch
+alter.fhsg.ch
+i3l.fhsg.ch
+www.fhsg.ch
+fhsg.ch
+evention.fhsg.ch
+europa.fhsg.ch
+hilfe.fhsg.ch
+asia.fhsg.ch
+saturn.fhsg.ch
+m.fhsg.ch
+mailarchiv.fhsg.ch
+students.fhsg.ch
+gesundheit.fhsg.ch
+nginx-ha.fhsg.ch
+bitbucket.fhsg.ch

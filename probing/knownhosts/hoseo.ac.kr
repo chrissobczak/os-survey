@@ -1,132 +1,28 @@
-NOERROR	mcando.hoseo.ac.kr
-NOERROR	english.hoseo.ac.kr
-NOERROR	platform.hoseo.ac.kr
-NOERROR	www.hoseo.ac.kr
-NOERROR	research.hoseo.ac.kr
-NOERROR	nursing.hoseo.ac.kr
-NOERROR	ipsi.hoseo.ac.kr
-NOERROR	curation.hoseo.ac.kr
-NOERROR	food.hoseo.ac.kr
-NOERROR	glp.hoseo.ac.kr
-NOERROR	economics.hoseo.ac.kr
-NOERROR	culturekorea.hoseo.ac.kr
-NOERROR	mech2.hoseo.ac.kr
-NOERROR	entre.hoseo.ac.kr
-NXDOMAIN	post-bk21.hoseo.ac.kr
-SERVFAIL	biz.hoseo.ac.kr
-SERVFAIL	mintranet.hoseo.ac.kr
-SERVFAIL	theatre.hoseo.ac.kr
-SERVFAIL	pms.hoseo.ac.kr
-SERVFAIL	volunteering.hoseo.ac.kr
-SERVFAIL	islab.hoseo.ac.kr
-NOERROR	db.koreascholar.com.libproxy.hoseo.ac.kr
-NOERROR	literacy.hoseo.ac.kr
-NOERROR	infotel.hoseo.ac.kr
-NOERROR	envi.hoseo.ac.kr
-NOERROR	ckiopsy.hoseo.ac.kr
-NOERROR	grad.hoseo.ac.kr
-NOERROR	korea.hoseo.ac.kr
-NXDOMAIN	chemistry.hoseo.ac.kr
-NOERROR	gsvle.hoseo.ac.kr
-NOERROR	auto.hoseo.ac.kr
-NOERROR	chapel.hoseo.ac.kr
-NOERROR	www.dbpia.co.kr.libproxy.hoseo.ac.kr
-NOERROR	fund.hoseo.ac.kr
-NOERROR	math2.hoseo.ac.kr
-NOERROR	eng.hoseo.ac.kr
-SERVFAIL	dogsuri.hoseo.ac.kr
-SERVFAIL	music.hoseo.ac.kr
-SERVFAIL	fashion.hoseo.ac.kr
-SERVFAIL	www.earticle.net.libproxy.hoseo.ac.kr
-SERVFAIL	gsv.hoseo.ac.kr
-SERVFAIL	mot.hoseo.ac.kr
-SERVFAIL	rotc.hoseo.ac.kr
-SERVFAIL	game2.hoseo.ac.kr
-SERVFAIL	hoseo.ac.kr
-SERVFAIL	iacf.hoseo.ac.kr
-SERVFAIL	oversea.hoseo.ac.kr
-SERVFAIL	wwwmain.hoseo.ac.kr
-SERVFAIL	fire.hoseo.ac.kr
-SERVFAIL	infosec.hoseo.ac.kr
-SERVFAIL	agingwelfare.hoseo.ac.kr
-SERVFAIL	itmanage.hoseo.ac.kr
-SERVFAIL	electronics.hoseo.ac.kr
-SERVFAIL	stat.hoseo.ac.kr
-SERVFAIL	iilab.hoseo.ac.kr
-SERVFAIL	cert.hoseo.ac.kr
-SERVFAIL	deep.hoseo.ac.kr
-SERVFAIL	intranet.hoseo.ac.kr
-SERVFAIL	gradgate.hoseo.ac.kr
-SERVFAIL	artspacek.hoseo.ac.kr
-SERVFAIL	office.hoseo.ac.kr
-SERVFAIL	fb.hoseo.ac.kr
-SERVFAIL	health.hoseo.ac.kr
-SERVFAIL	promusic.hoseo.ac.kr
-SERVFAIL	divinity.hoseo.ac.kr
-SERVFAIL	kiss.kstudy.com.libproxy.hoseo.ac.kr
-SERVFAIL	serc.hoseo.ac.kr
-SERVFAIL	sun.hoseo.ac.kr
-SERVFAIL	www.riss.kr.libproxy.hoseo.ac.kr
-SERVFAIL	securelogin.hoseo.ac.kr
-SERVFAIL	ckbio.hoseo.ac.kr
-SERVFAIL	electric.hoseo.ac.kr
-SERVFAIL	golf.hoseo.ac.kr
-SERVFAIL	ns.hoseo.ac.kr
-SERVFAIL	le.hoseo.ac.kr
-SERVFAIL	culturegrad.hoseo.ac.kr
-SERVFAIL	startup.hoseo.ac.kr
-SERVFAIL	epeak.hoseo.ac.kr
-SERVFAIL	material.hoseo.ac.kr
-SERVFAIL	china.hoseo.ac.kr
-SERVFAIL	robotics.hoseo.ac.kr
-SERVFAIL	news.hoseo.ac.kr
-SERVFAIL	iopsy.hoseo.ac.kr
-SERVFAIL	lawpolice.hoseo.ac.kr
-SERVFAIL	sportscience.hoseo.ac.kr
-SERVFAIL	archi.hoseo.ac.kr
-SERVFAIL	chi.hoseo.ac.kr
-SERVFAIL	insight.dbpia.co.kr.libproxy.hoseo.ac.kr
-SERVFAIL	gse.hoseo.ac.kr
-SERVFAIL	counseling.hoseo.ac.kr
-SERVFAIL	oceanic-ict.hoseo.ac.kr
-SERVFAIL	slv.news.hoseo.ac.kr
-SERVFAIL	manage.hoseo.ac.kr
-SERVFAIL	arch.hoseo.ac.kr
-SERVFAIL	school.hoseo.ac.kr
-SERVFAIL	interior.hoseo.ac.kr
-SERVFAIL	chemeng.hoseo.ac.kr
-SERVFAIL	cando.hoseo.ac.kr
-SERVFAIL	e.hoseo.ac.kr
-SERVFAIL	safety.hoseo.ac.kr
-SERVFAIL	ctl.hoseo.ac.kr
-SERVFAIL	hoseoin.hoseo.ac.kr
-SERVFAIL	language.hoseo.ac.kr
-SERVFAIL	padmin.hoseo.ac.kr
-SERVFAIL	bios.hoseo.ac.kr
-SERVFAIL	foodbio.hoseo.ac.kr
-SERVFAIL	act.hoseo.ac.kr
-SERVFAIL	libproxy.hoseo.ac.kr
-SERVFAIL	design.hoseo.ac.kr
-SERVFAIL	hass.hoseo.ac.kr
-SERVFAIL	display.hoseo.ac.kr
-SERVFAIL	irb.hoseo.ac.kr
-SERVFAIL	google.hoseo.ac.kr
-SERVFAIL	snspd.hoseo.ac.kr
-SERVFAIL	biotech.hoseo.ac.kr
-SERVFAIL	m.hoseo.ac.kr
-SERVFAIL	min.hoseo.ac.kr
-SERVFAIL	leader.hoseo.ac.kr
-SERVFAIL	hicee.hoseo.ac.kr
-SERVFAIL	alsd.hoseo.ac.kr
-SERVFAIL	dlibrary.hoseo.ac.kr
-SERVFAIL	pharm.hoseo.ac.kr
-SERVFAIL	cultureplan.hoseo.ac.kr
-SERVFAIL	ck1.hoseo.ac.kr
-SERVFAIL	library.hoseo.ac.kr
-SERVFAIL	linc.hoseo.ac.kr
-SERVFAIL	sports.hoseo.ac.kr
-SERVFAIL	ebook.hoseo.ac.kr
-SERVFAIL	ocean.hoseo.ac.kr
-SERVFAIL	silab.hoseo.ac.kr
-SERVFAIL	cms.news.hoseo.ac.kr
-SERVFAIL	cdn.news.hoseo.ac.kr
+mcando.hoseo.ac.kr
+english.hoseo.ac.kr
+platform.hoseo.ac.kr
+www.hoseo.ac.kr
+research.hoseo.ac.kr
+nursing.hoseo.ac.kr
+ipsi.hoseo.ac.kr
+curation.hoseo.ac.kr
+food.hoseo.ac.kr
+glp.hoseo.ac.kr
+economics.hoseo.ac.kr
+culturekorea.hoseo.ac.kr
+mech2.hoseo.ac.kr
+entre.hoseo.ac.kr
+db.koreascholar.com.libproxy.hoseo.ac.kr
+literacy.hoseo.ac.kr
+infotel.hoseo.ac.kr
+envi.hoseo.ac.kr
+ckiopsy.hoseo.ac.kr
+grad.hoseo.ac.kr
+korea.hoseo.ac.kr
+gsvle.hoseo.ac.kr
+auto.hoseo.ac.kr
+chapel.hoseo.ac.kr
+www.dbpia.co.kr.libproxy.hoseo.ac.kr
+fund.hoseo.ac.kr
+math2.hoseo.ac.kr
+eng.hoseo.ac.kr

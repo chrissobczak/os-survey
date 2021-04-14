@@ -1,9 +1,8 @@
-NOERROR	webmail.pa.edu.az
-NOERROR	cpanel.pa.edu.az
-NOERROR	cpcalendars.pa.edu.az
-NOERROR	pa.edu.az
-NOERROR	webdisk.pa.edu.az
-NXDOMAIN	regionalcrimeconf.pa.edu.az
-NOERROR	www.pa.edu.az
-NOERROR	cpcontacts.pa.edu.az
-NOERROR	mail.pa.edu.az
+webmail.pa.edu.az
+cpanel.pa.edu.az
+cpcalendars.pa.edu.az
+pa.edu.az
+webdisk.pa.edu.az
+www.pa.edu.az
+cpcontacts.pa.edu.az
+mail.pa.edu.az

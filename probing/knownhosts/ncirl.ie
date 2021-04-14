@@ -1,111 +1,64 @@
-NOERROR	oracleweb.ncirl.ie
-NOERROR	info.ncirl.ie
-NOERROR	citrixviab.ncirl.ie
-NOERROR	crilt.ncirl.ie
-NOERROR	uatnci360.ncirl.ie
-NOERROR	diva.ncirl.ie
-NXDOMAIN	webpac.ncirl.ie
-NXDOMAIN	idp2.ncirl.ie
-NXDOMAIN	moodle2011.ncirl.ie
-NOERROR	myncistaff.ncirl.ie
-NOERROR	staffmail.ncirl.ie
-NXDOMAIN	moodle2015.ncirl.ie
-NOERROR	coursetest.ncirl.ie
-NXDOMAIN	forums.ncirl.ie
-NXDOMAIN	ebooks.ncirl.ie
-NOERROR	lib.ncirl.ie
-NOERROR	studentprint.ncirl.ie
-NOERROR	sis.ncirl.ie
-NOERROR	adfs.ncirl.ie
-NOERROR	itsupport.ncirl.ie
-NOERROR	password.ncirl.ie
-NOERROR	timetable.ncirl.ie
-NOERROR	mail1.ncirl.ie
-NXDOMAIN	www.azure.ncirl.ie
-NOERROR	autodiscover.student.ncirl.ie
-NOERROR	mail2.ncirl.ie
-NOERROR	dmzweb.ncirl.ie
-NXDOMAIN	moodle2009.ncirl.ie
-NXDOMAIN	drupal.ncirl.ie
-NOERROR	exampapers.ncirl.ie
-NXDOMAIN	www.archive.ncirl.ie
-NXDOMAIN	databases.ncirl.ie
-NXDOMAIN	staffdc10.ncirl.ie
-NOERROR	cpdold.ncirl.ie
-NXDOMAIN	nciwifi.ncirl.ie
-NOERROR	moodle.ncirl.ie
-NOERROR	jupiter.ncirl.ie
-NOERROR	cloud.ncirl.ie
-NOERROR	alumni.ncirl.ie
-NXDOMAIN	moodle2010.ncirl.ie
-NXDOMAIN	idp3.ncirl.ie
-NOERROR	ezproxy.ncirl.ie
-NOERROR	citrixvdi.ncirl.ie
-NXDOMAIN	cpd.ncirl.ie
-NXDOMAIN	mailsweeper2.ncirl.ie
-NXDOMAIN	devmoodle.ncirl.ie
-NXDOMAIN	idp1.ncirl.ie
-NOERROR	libguides.ncirl.ie
-NXDOMAIN	libraryapps.ncirl.ie
-NOERROR	portal.ncirl.ie
-NOERROR	integrationserverwsuat.ncirl.ie
-NOERROR	hresources.ncirl.ie
-NXDOMAIN	www.library.ncirl.ie
-NXDOMAIN	myncistudent.ncirl.ie
-NXDOMAIN	moodle2017.ncirl.ie
-NXDOMAIN	idp4.ncirl.ie
-NOERROR	webmail.ncirl.ie
-NXDOMAIN	www.mahara.ncirl.ie
-NOERROR	gateway_v2.ncirl.ie
-NXDOMAIN	login.library.ncirl.ie
-NXDOMAIN	www.horacio.ncirl.ie
-NOERROR	moodle2018.ncirl.ie
-NOERROR	mars.ncirl.ie
-NOERROR	showcase.ncirl.ie
-NXDOMAIN	www.wifi.ncirl.ie
-NXDOMAIN	web.ncirl.ie
-NOERROR	mymoodle.ncirl.ie
-NOERROR	idp.ncirl.ie
-NXDOMAIN	moodle2012.ncirl.ie
-NOERROR	qplus.ncirl.ie
-NXDOMAIN	federation.ncirl.ie
-NOERROR	xenapp-secgate.ncirl.ie
-NOERROR	mathstest.ncirl.ie
-NXDOMAIN	integrationserverws.ncirl.ie
-NOERROR	ipac.ncirl.ie
-NXDOMAIN	horacio.ncirl.ie
-NXDOMAIN	apps.ncirl.ie
-NXDOMAIN	staffdc12.ncirl.ie
-NOERROR	sip.ncirl.ie
-NOERROR	autodiscover.ncirl.ie
-NXDOMAIN	epost.ncirl.ie
-NOERROR	www.ncirl.ie
-NXDOMAIN	moodle2016.ncirl.ie
-NOERROR	mahara.ncirl.ie
-NXDOMAIN	mentorlogin.ncirl.ie
-NXDOMAIN	azure.ncirl.ie
-NOERROR	vdi.ncirl.ie
-NXDOMAIN	wifi.ncirl.ie
-NXDOMAIN	moodle2013.ncirl.ie
-NOERROR	nciresidences.ncirl.ie
-NXDOMAIN	www.mymoodel.ncirl.ie
-NXDOMAIN	moodle2014.ncirl.ie
-NOERROR	sso.ncirl.ie
-NOERROR	xenappsecgate.ncirl.ie
-NXDOMAIN	www.showcase.ncirl.ie
-NOERROR	blog.ncirl.ie
-NOERROR	archive.ncirl.ie
-NXDOMAIN	journals.ncirl.ie
-NOERROR	courses.ncirl.ie
-NOERROR	pbl.ncirl.ie
-NOERROR	norma.ncirl.ie
-NOERROR	nci360.ncirl.ie
-NXDOMAIN	staffdc11.ncirl.ie
-NOERROR	library.ncirl.ie
-NOERROR	iceltmail.ncirl.ie
-NOERROR	trap.ncirl.ie
-NOERROR	quercusweb.ncirl.ie
-NOERROR	ncirl.ie
-NOERROR	forgotyourpassword.ncirl.ie
-NOERROR	evasys.ncirl.ie
-NXDOMAIN	vmoodle.ncirl.ie
+oracleweb.ncirl.ie
+info.ncirl.ie
+citrixviab.ncirl.ie
+crilt.ncirl.ie
+uatnci360.ncirl.ie
+diva.ncirl.ie
+myncistaff.ncirl.ie
+staffmail.ncirl.ie
+coursetest.ncirl.ie
+lib.ncirl.ie
+studentprint.ncirl.ie
+sis.ncirl.ie
+adfs.ncirl.ie
+itsupport.ncirl.ie
+password.ncirl.ie
+timetable.ncirl.ie
+mail1.ncirl.ie
+autodiscover.student.ncirl.ie
+mail2.ncirl.ie
+dmzweb.ncirl.ie
+exampapers.ncirl.ie
+cpdold.ncirl.ie
+moodle.ncirl.ie
+jupiter.ncirl.ie
+cloud.ncirl.ie
+alumni.ncirl.ie
+ezproxy.ncirl.ie
+citrixvdi.ncirl.ie
+libguides.ncirl.ie
+portal.ncirl.ie
+integrationserverwsuat.ncirl.ie
+hresources.ncirl.ie
+webmail.ncirl.ie
+gateway_v2.ncirl.ie
+moodle2018.ncirl.ie
+mars.ncirl.ie
+showcase.ncirl.ie
+mymoodle.ncirl.ie
+idp.ncirl.ie
+qplus.ncirl.ie
+xenapp-secgate.ncirl.ie
+mathstest.ncirl.ie
+ipac.ncirl.ie
+sip.ncirl.ie
+autodiscover.ncirl.ie
+www.ncirl.ie
+mahara.ncirl.ie
+vdi.ncirl.ie
+nciresidences.ncirl.ie
+sso.ncirl.ie
+xenappsecgate.ncirl.ie
+blog.ncirl.ie
+archive.ncirl.ie
+courses.ncirl.ie
+pbl.ncirl.ie
+norma.ncirl.ie
+nci360.ncirl.ie
+library.ncirl.ie
+iceltmail.ncirl.ie
+trap.ncirl.ie
+quercusweb.ncirl.ie
+ncirl.ie
+forgotyourpassword.ncirl.ie
+evasys.ncirl.ie

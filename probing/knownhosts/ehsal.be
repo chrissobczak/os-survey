@@ -1,35 +1,28 @@
-NOERROR	ehsal.be
-NOERROR	eer.ehsal.be
-NOERROR	homer.ehsal.be
-NOERROR	forum.ehsal.be
-NXDOMAIN	gwmail.ehsal.be
-NXDOMAIN	sy2004.ehsal.be
-NOERROR	ns.ehsal.be
-NOERROR	www.ehsal.be
-NXDOMAIN	athena.ehsal.be
-NOERROR	studentenraad.ehsal.be
-NOERROR	intranet.ehsal.be
-NOERROR	idp.ehsal.be
-NOERROR	mediatheek.ehsal.be
-NXDOMAIN	student.ehsal.be
-NOERROR	dev.ehsal.be
-NOERROR	proxy.ehsal.be
-NOERROR	bloedserieus.ehsal.be
-NOERROR	turquest.ehsal.be
-NXDOMAIN	press.ehsal.be
-NOERROR	vlarc.ehsal.be
-NOERROR	aidteam.ehsal.be
-NOERROR	aiesec.ehsal.be
-NOERROR	studie.ehsal.be
-NOERROR	aloisiana.ehsal.be
-NOERROR	bib.ehsal.be
-NOERROR	webmail.plesk.ehsal.be
-NXDOMAIN	webmail.ehsal.be
-NOERROR	hyke.ehsal.be
-NOERROR	alumni.ehsal.be
-NOERROR	dho.ehsal.be
-NOERROR	ictlab.ehsal.be
-NXDOMAIN	ntserver.ehsal.be
-NOERROR	mercator.ehsal.be
-NOERROR	docent.ehsal.be
-NOERROR	deboog.ehsal.be
+ehsal.be
+eer.ehsal.be
+homer.ehsal.be
+forum.ehsal.be
+ns.ehsal.be
+www.ehsal.be
+studentenraad.ehsal.be
+intranet.ehsal.be
+idp.ehsal.be
+mediatheek.ehsal.be
+dev.ehsal.be
+proxy.ehsal.be
+bloedserieus.ehsal.be
+turquest.ehsal.be
+vlarc.ehsal.be
+aidteam.ehsal.be
+aiesec.ehsal.be
+studie.ehsal.be
+aloisiana.ehsal.be
+bib.ehsal.be
+webmail.plesk.ehsal.be
+hyke.ehsal.be
+alumni.ehsal.be
+dho.ehsal.be
+ictlab.ehsal.be
+mercator.ehsal.be
+docent.ehsal.be
+deboog.ehsal.be

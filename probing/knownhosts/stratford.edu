@@ -1,85 +1,48 @@
-NOERROR	landingpage.stratford.edu
-NXDOMAIN	eqexmb02.stratford.edu
-NXDOMAIN	www.my.stratford.edu
-NXDOMAIN	eqexmb05.stratford.edu
-NOERROR	libcatalog.stratford.edu
-NXDOMAIN	w.w.w.stratford.edu
-NOERROR	rdweb.stratford.edu
-NXDOMAIN	fcocs01.stratford.edu
-NOERROR	learn.stratford.edu
-NXDOMAIN	imap.stratford.edu
-NOERROR	cybersecurity.stratford.edu
-NOERROR	l.stratford.edu
-NXDOMAIN	eqexmb04.stratford.edu
-NXDOMAIN	www.mail.stratford.edu
-NOERROR	vpn.stratford.edu
-NOERROR	agentportal.stratford.edu
-NOERROR	portal.stratford.edu
-NXDOMAIN	fcocs02.stratford.edu
-NOERROR	www.stratford.edu
-NOERROR	vidyo.stratford.edu
-NXDOMAIN	eqexmb07.stratford.edu
-NOERROR	autodiscover.iq.stratford.edu
-NOERROR	mx1-test.stratford.edu
-NOERROR	connect.stratford.edu
-NOERROR	m.stratford.edu
-NOERROR	iq.stratford.edu
-NOERROR	my.stratford.edu
-NOERROR	secure.stratford.edu
-NXDOMAIN	www.eqdcsu01.stratford.edu
-NXDOMAIN	oldev.stratford.edu
-NXDOMAIN	fcocs.stratford.edu
-NOERROR	stratford.edu
-NXDOMAIN	www.sspm.stratford.edu
-NOERROR	syllabus.stratford.edu
-NXDOMAIN	eqdcsu01.stratford.edu
-NOERROR	online.stratford.edu
-NOERROR	legacy.stratford.edu
-NOERROR	workflow.stratford.edu
-NOERROR	click.stratford.edu
-NXDOMAIN	moodle.stratford.edu
-NXDOMAIN	fcexca.stratford.edu
-NXDOMAIN	w.stratford.edu
-NOERROR	curious.stratford.edu
-NXDOMAIN	delhi.stratford.edu
-NOERROR	nursing.stratford.edu
-NOERROR	its.stratford.edu
-NOERROR	guides.stratford.edu
-NXDOMAIN	eqexmb03.stratford.edu
-NXDOMAIN	www.student.stratford.edu
-NOERROR	student.stratford.edu
-NXDOMAIN	www.vidyo.stratford.edu
-NOERROR	autodiscover.stratford.edu
-NXDOMAIN	www.vpn.stratford.edu
-NOERROR	intranet.stratford.edu
-NOERROR	dptest.stratford.edu
-NXDOMAIN	google.stratford.edu
-NOERROR	openhouse.stratford.edu
-NXDOMAIN	eqexmb08.stratford.edu
-NXDOMAIN	delhidev.stratford.edu
-NOERROR	techtalk.stratford.edu
-NOERROR	fcdcsu01.stratford.edu
-NOERROR	mx2-test.stratford.edu
-NOERROR	mx1.stratford.edu
-NXDOMAIN	www.fcdcsu01.stratford.edu
-NXDOMAIN	portfolios.stratford.edu
-NXDOMAIN	fcexca02.stratford.edu
-NOERROR	adfs.stratford.edu
-NXDOMAIN	fcexca01.stratford.edu
-NOERROR	test.stratford.edu
-NXDOMAIN	sip.stratford.edu
-NOERROR	you-can.stratford.edu
-NOERROR	lp.stratford.edu
-NOERROR	chat.stratford.edu
-NOERROR	studentmx.stratford.edu
-NOERROR	mx2.stratford.edu
-NXDOMAIN	eqexmb06.stratford.edu
-NOERROR	mail.stratford.edu
-NOERROR	libstaff.stratford.edu
-NOERROR	forms.stratford.edu
-NXDOMAIN	ww.stratford.edu
-NXDOMAIN	sspm.stratford.edu
-NXDOMAIN	oldonline.stratford.edu
-NXDOMAIN	www.portal.stratford.edu
-NXDOMAIN	eqexmb01.stratford.edu
-NOERROR	support.stratford.edu
+landingpage.stratford.edu
+libcatalog.stratford.edu
+rdweb.stratford.edu
+learn.stratford.edu
+cybersecurity.stratford.edu
+l.stratford.edu
+vpn.stratford.edu
+agentportal.stratford.edu
+portal.stratford.edu
+www.stratford.edu
+vidyo.stratford.edu
+autodiscover.iq.stratford.edu
+mx1-test.stratford.edu
+connect.stratford.edu
+m.stratford.edu
+iq.stratford.edu
+my.stratford.edu
+secure.stratford.edu
+stratford.edu
+syllabus.stratford.edu
+online.stratford.edu
+legacy.stratford.edu
+workflow.stratford.edu
+click.stratford.edu
+curious.stratford.edu
+nursing.stratford.edu
+its.stratford.edu
+guides.stratford.edu
+student.stratford.edu
+autodiscover.stratford.edu
+intranet.stratford.edu
+dptest.stratford.edu
+openhouse.stratford.edu
+techtalk.stratford.edu
+fcdcsu01.stratford.edu
+mx2-test.stratford.edu
+mx1.stratford.edu
+adfs.stratford.edu
+test.stratford.edu
+you-can.stratford.edu
+lp.stratford.edu
+chat.stratford.edu
+studentmx.stratford.edu
+mx2.stratford.edu
+mail.stratford.edu
+libstaff.stratford.edu
+forms.stratford.edu
+support.stratford.edu

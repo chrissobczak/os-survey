@@ -1,1483 +1,1059 @@
-NOERROR	servicio.facyt.uc.edu.ve
-SERVFAIL	lenovomkmk.diucp.uc.edu.ve
-NOERROR	www.sabi.bc.uc.edu.ve
-NOERROR	dae.postgrado.face.uc.edu.ve
-NOERROR	proxy-p-1-2.uc.edu.ve
-NOERROR	hydra-lab3.facyt.uc.edu.ve
-NOERROR	proxy-b-77-246.uc.edu.ve
-NOERROR	www.pasantias.facyt.uc.edu.ve
-NXDOMAIN	teceduc.fcs.uc.edu.ve
-NOERROR	inventario.bc.uc.edu.ve
-NOERROR	conauc.uc.edu.ve
-NOERROR	www.sagapg.fcjp.uc.edu.ve
-SERVFAIL	vrac-00rg.diucp.uc.edu.ve
-NOERROR	www.dimetel.uc.edu.ve
-NOERROR	pia.faces.uc.edu.ve
-NOERROR	entornovirtual.facyt.uc.edu.ve
-NOERROR	mercurio.dta.uc.edu.ve
-NOERROR	lab-doc2-2.facyt.uc.edu.ve
-NOERROR	web-p-5.dimetel.uc.edu.ve
-SERVFAIL	cul-07wq.diucp.uc.edu.ve
-NOERROR	sice1.facyt.uc.edu.ve
-NOERROR	vpn-b-1.dimetel.uc.edu.ve
-NOERROR	priov.uc.edu.ve
-NOERROR	fileserver1.dimetel.uc.edu.ve
-NOERROR	www.digaes.uc.edu.ve
-NXDOMAIN	www.odontologia.cid.uc.edu.ve
-NOERROR	vl-1110-ing-deporte-gw.net.dimetel.uc.edu.ve
-SERVFAIL	diuc-wc1.diucp.uc.edu.ve
-NOERROR	diuc-1.net.dimetel.uc.edu.ve
-NOERROR	vl-182-rediuc-2.net.dimetel.uc.edu.ve
-NOERROR	vl-144-faces-1.net.dimetel.uc.edu.ve
-NOERROR	itmon-p-3.dimetel.uc.edu.ve
-NOERROR	lab-doc2-16.facyt.uc.edu.ve
-NOERROR	time1.uc.edu.ve
-NXDOMAIN	produccion-uc.cid.uc.edu.ve
-NOERROR	mecanicauc.ing.uc.edu.ve
-NXDOMAIN	www.fcsmorita.cid.uc.edu.ve
-NOERROR	i3-elearning4.facyt.uc.edu.ve
-SERVFAIL	p-df0da04335f64.diucp.uc.edu.ve
-NOERROR	fe-0-0-filuc-2.net.dimetel.uc.edu.ve
-SERVFAIL	hcm-kpw600.diucp.uc.edu.ve
-NOERROR	vl-180-barb-2.net.dimetel.uc.edu.ve
-NOERROR	almamater.face.uc.edu.ve
-NOERROR	www.xicoloquio.bc.uc.edu.ve
-NOERROR	vl-1202-fcs-histologia-gw.net.dimetel.uc.edu.ve
-NOERROR	proxy-p-1-7.uc.edu.ve
-NOERROR	rect-secretaria-1-wl.wifi.uc.edu.ve
-NOERROR	salasdecine.uc.edu.ve
-NOERROR	www.coddeciuc.uc.edu.ve
-NOERROR	ariel.facyt.uc.edu.ve
-SERVFAIL	prensatv3.lan.dimetel.uc.edu.ve
-NOERROR	ag1.dta.uc.edu.ve
-NOERROR	comisionaduriana.uc.edu.ve
-NOERROR	f.correo.uc.edu.ve
-NOERROR	m.sitea.faces.uc.edu.ve
-NOERROR	viceacademico.uc.edu.ve
-SERVFAIL	uami-dr.diucp.uc.edu.ve
-SERVFAIL	cultura-0812.diucp.uc.edu.ve
-NOERROR	vl-2530-fcs-postgrado-gw.net.dimetel.uc.edu.ve
-SERVFAIL	derecho-2560.diucp.uc.edu.ve
-SERVFAIL	mxd4-info.diucp.uc.edu.ve
-NOERROR	vpn.dimetel.uc.edu.ve
-NOERROR	tools.facyt.uc.edu.ve
-NOERROR	tesis.facyt.uc.edu.ve
-NOERROR	admin-hydra.facyt.uc.edu.ve
-SERVFAIL	uami-ec49.diucp.uc.edu.ve
-SERVFAIL	dpf-b169.diucp.uc.edu.ve
-NOERROR	proxy-a-94-62.uc.edu.ve
-NOERROR	ruben.uc.edu.ve
-NOERROR	www.catrauc.uc.edu.ve
-NOERROR	frontend-play.facyt.uc.edu.ve
-NOERROR	gateway2.facyt.uc.edu.ve
-NOERROR	www.face.uc.edu.ve
-NOERROR	prebo-dimetel-2-wl.wifi.uc.edu.ve
-NOERROR	play1.facyt.uc.edu.ve
-NOERROR	www.capellania.uc.edu.ve
-NOERROR	lab-doc2-9.facyt.uc.edu.ve
-NOERROR	proxy-b-77-242.uc.edu.ve
-NOERROR	grid.dta.uc.edu.ve
-NOERROR	www.lapredim.ing.uc.edu.ve
-SERVFAIL	uami-02rz.diucp.uc.edu.ve
-NOERROR	www.cultura.uc.edu.ve
-NXDOMAIN	mail.cid.uc.edu.ve
-SERVFAIL	dta-admon-01.diucp.uc.edu.ve
-NOERROR	gutenberg.bc.uc.edu.ve
-SERVFAIL	lenovo-r8xh.diucp.uc.edu.ve
-SERVFAIL	rrhh-267.diucp.uc.edu.ve
-NOERROR	lab-doc2-11.facyt.uc.edu.ve
-NOERROR	vl-2130-derecho-admin-norte-p2-gw.net.dimetel.uc.edu.ve
-NOERROR	prebo-uctv-1-wl.wifi.uc.edu.ve
-NOERROR	hydra-lab1.facyt.uc.edu.ve
-NOERROR	vl-2075-face-aulas-norte-serv-gw.net.dimetel.uc.edu.ve
-NOERROR	vl-280-fundauc-gw.net.dimetel.uc.edu.ve
-NOERROR	lab-doc2-8.facyt.uc.edu.ve
-SERVFAIL	medi-9020.diucp.uc.edu.ve
-NOERROR	www.correo.uc.edu.ve
-NOERROR	laberintodepapel.uc.edu.ve
-NOERROR	facevirtual.dta.uc.edu.ve
-NOERROR	dta.vconf.uc.edu.ve
-NOERROR	vl-2041-face-adm-sur-p1-gw.net.dimetel.uc.edu.ve
-NOERROR	www.aragua.fcs.uc.edu.ve
-NOERROR	beta2.uc.edu.ve
-SERVFAIL	diuc-fd5.diucp.uc.edu.ve
-NOERROR	vpn-p-3.dimetel.uc.edu.ve
-SERVFAIL	cultura-068n.diucp.uc.edu.ve
-NXDOMAIN	stream1.dimetel.uc.edu.ve
-SERVFAIL	desco-tw1.diucp.uc.edu.ve
-SERVFAIL	wsus.lan.dimetel.uc.edu.ve
-NOERROR	sigebi.bc.uc.edu.ve
-SERVFAIL	conta-1qmg.diucp.uc.edu.ve
-SERVFAIL	pres-80x.diucp.uc.edu.ve
-SERVFAIL	diuc-5391.diucp.uc.edu.ve
-NOERROR	smtp-out-3.mx.uc.edu.ve
-NOERROR	proxy-a-94-49.uc.edu.ve
-SERVFAIL	uc-3fac671cca26.diucp.uc.edu.ve
-SERVFAIL	libfaces.diucp.uc.edu.ve
-NOERROR	smtp3.mx.uc.edu.ve
-NOERROR	higgs.cid.uc.edu.ve
-NOERROR	ezra.ing.uc.edu.ve
-NXDOMAIN	d.imap.uc.edu.ve
-NOERROR	vl-2042-face-adm-sur-p2-gw.net.dimetel.uc.edu.ve
-NOERROR	ceticea.fcs.uc.edu.ve
-NOERROR	ing-biblioteca-pb-1-wl.wifi.uc.edu.ve
-NOERROR	cdch.uc.edu.ve
-NOERROR	pop.uc.edu.ve
-SERVFAIL	cultura-14bp.diucp.uc.edu.ve
-SERVFAIL	inter-7c27.diucp.uc.edu.ve
-NXDOMAIN	devel2.dimetel.uc.edu.ve
-NOERROR	labmultimedia3.facyt.uc.edu.ve
-NOERROR	www.sertalento.uc.edu.ve
-SERVFAIL	producciontv1.lan.dimetel.uc.edu.ve
-NOERROR	web-b-1.dimetel.uc.edu.ve
-SERVFAIL	visor-cor.lan.dimetel.uc.edu.ve
-NOERROR	mangosta.facyt.uc.edu.ve
-SERVFAIL	jurigene-4499.diucp.uc.edu.ve
-NOERROR	vl-2555-odontologia11-gw.net.dimetel.uc.edu.ve
-SERVFAIL	dir-gen-v9z.diucp.uc.edu.ve
-SERVFAIL	lenovo-a9.diucp.uc.edu.ve
-NOERROR	www.ag.dta.uc.edu.ve
-NOERROR	higgs.bc.uc.edu.ve
-NOERROR	desarrollo-web.facyt.uc.edu.ve
-SERVFAIL	win-p14nhp1d0vu.diucp.uc.edu.ve
-NOERROR	cadmun.bc.uc.edu.ve
-NOERROR	inscripciones.odontologia.uc.edu.ve
-NOERROR	vl-282-diseno-curricular-gw.net.dimetel.uc.edu.ve
-NOERROR	postgrado.uc.edu.ve
-NOERROR	intranet.odontologia.uc.edu.ve
-NOERROR	www.tiempo.uc.edu.ve
-NOERROR	vl-3551-invesnut-gw.net.dimetel.uc.edu.ve
-NOERROR	ustpro-01.facyt.uc.edu.ve
-NOERROR	vl-2155-derecho-adm-sur-p3-gw.net.dimetel.uc.edu.ve
-NOERROR	vl-1136-ing-basica-gw.net.dimetel.uc.edu.ve
-NOERROR	proxy-b-77-253.uc.edu.ve
-SERVFAIL	uami_0k4.diucp.uc.edu.ve
-NOERROR	jupenauc.uc.edu.ve
-NOERROR	inscripciones.facyt.uc.edu.ve
-SERVFAIL	medios-34g.diucp.uc.edu.ve
-SERVFAIL	vanadio.diucp.uc.edu.ve
-NOERROR	admision.face.uc.edu.ve
-SERVFAIL	deploy2.lan.dimetel.uc.edu.ve
-SERVFAIL	cabina.lan.dimetel.uc.edu.ve
-NOERROR	lasbrujasyzuzon.uc.edu.ve
-SERVFAIL	desktop-81l0cb5.lan.dimetel.uc.edu.ve
-NOERROR	derecho.uc.edu.ve
-NOERROR	test.reduc.uc.edu.ve
-NOERROR	sertalento.uc.edu.ve
-NOERROR	cemvicc.facyt.uc.edu.ve
-NOERROR	salus-online.fcs.uc.edu.ve
-NOERROR	proxy-p-1-4.uc.edu.ve
-NOERROR	ing.uc.edu.ve
-NOERROR	proxy-p-1-3.uc.edu.ve
-NOERROR	bc.uc.edu.ve
-NXDOMAIN	www2.educacion.cid.uc.edu.ve
-NXDOMAIN	www.iicibided.cid.uc.edu.ve
-NOERROR	www.intranet3.facyt.uc.edu.ve
-NOERROR	builder.dimetel.uc.edu.ve
-NOERROR	deploy3.dimetel.uc.edu.ve
-NOERROR	sivuc.uc.edu.ve
-NXDOMAIN	observatoriolaboral.uc.edu.ve
-SERVFAIL	desarrollo3.lan.dimetel.uc.edu.ve
-NOERROR	vl-2535-odontologia9-gw.net.dimetel.uc.edu.ve
-NOERROR	vl-1109-ing-matematica-gw.net.dimetel.uc.edu.ve
-NOERROR	lab-doc2-23.facyt.uc.edu.ve
-SERVFAIL	lenovo-mz9.diucp.uc.edu.ve
-NOERROR	itmon-p-1.dimetel.uc.edu.ve
-NOERROR	rect-rrhh-comtec-1-wl.wifi.uc.edu.ve
-SERVFAIL	desktop-vq0j8ad.lan.dimetel.uc.edu.ve
-NOERROR	dae.odontologia.uc.edu.ve
-NXDOMAIN	investigacion.fcs.uc.edu.ve
-NOERROR	vl-220-cdch-gw.net.dimetel.uc.edu.ve
-NOERROR	lab-doc2-26.facyt.uc.edu.ve
-NOERROR	vrad.uc.edu.ve
-NOERROR	allinone2-elearning.facyt.uc.edu.ve
-NOERROR	proxy-p-1-8.uc.edu.ve
-SERVFAIL	soporte-99f.diucp.uc.edu.ve
-NOERROR	dta.uc.edu.ve
-NOERROR	vl-201-dimetel-gw.net.dimetel.uc.edu.ve
-NOERROR	digaes.uc.edu.ve
-NOERROR	www.salus-online.fcs.uc.edu.ve
-SERVFAIL	diuc-fh50.diucp.uc.edu.ve
-NOERROR	eth-0-152-prebo-10.net.dimetel.uc.edu.ve
-NOERROR	www.desco.uc.edu.ve
-NOERROR	radio.dta.uc.edu.ve
-SERVFAIL	corinfo.lan.dimetel.uc.edu.ve
-NOERROR	time2.dimetel.uc.edu.ve
-NOERROR	labredes5.facyt.uc.edu.ve
-NOERROR	vl-3555-pipsuc-gw.net.dimetel.uc.edu.ve
-NOERROR	impresora-hcm-vina-1.servicios.uc.edu.ve
-SERVFAIL	uami-d00.diucp.uc.edu.ve
-SERVFAIL	compra-0r5.diucp.uc.edu.ve
-NOERROR	diuc.uc.edu.ve
-NOERROR	vl-2251-facyt-labredes-gw.net.dimetel.uc.edu.ve
-NOERROR	face-bib-1-wl.wifi.uc.edu.ve
-NOERROR	www.daiuc.uc.edu.ve
-NOERROR	estudiantes.faces.uc.edu.ve
-NOERROR	www.cnm.uc.edu.ve
-NOERROR	protocolo.uc.edu.ve
-NOERROR	www.fcs.uc.edu.ve
-SERVFAIL	contab-xy58.diucp.uc.edu.ve
-NOERROR	practica.facyt.uc.edu.ve
-NOERROR	vl-1275-cultura-gw.net.dimetel.uc.edu.ve
-NOERROR	proxy-p-1.uc.edu.ve
-SERVFAIL	admon-b223.diucp.uc.edu.ve
-SERVFAIL	hcm-0lj.diucp.uc.edu.ve
-NOERROR	dimetel.uc.edu.ve
-SERVFAIL	rrhh-a716.diucp.uc.edu.ve
-NOERROR	plat.dta.uc.edu.ve
-NOERROR	revista.ing.uc.edu.ve
-NOERROR	stream5a.dimetel.uc.edu.ve
-NOERROR	sitea.faces.uc.edu.ve
-NOERROR	netsvc-p-8.dimetel.uc.edu.ve
-NOERROR	aulavirtual.fcjp.uc.edu.ve
-NOERROR	itmon1.dimetel.uc.edu.ve
-NOERROR	proxy-a-94-63.uc.edu.ve
-NOERROR	www.egreamigos.uc.edu.ve
-NOERROR	proxy-b-77-251.uc.edu.ve
-NOERROR	facyt-matematica-2-wl.wifi.uc.edu.ve
-NOERROR	lab-doc2-28.facyt.uc.edu.ve
-NOERROR	prestamo.bc.uc.edu.ve
-SERVFAIL	transport-krd9.diucp.uc.edu.ve
-NOERROR	laboratorios.facyt.uc.edu.ve
-NOERROR	vl-296-desco-gw.net.dimetel.uc.edu.ve
-NOERROR	fundacid.bc.uc.edu.ve
-NOERROR	odontologia-p7-1-wl.wifi.uc.edu.ve
-SERVFAIL	derecho-3633.diucp.uc.edu.ve
-SERVFAIL	uc-3zb.diucp.uc.edu.ve
-SERVFAIL	astato.dpf.uc.edu.ve
-SERVFAIL	lenovo-xy44.diucp.uc.edu.ve
-SERVFAIL	uami-0d00.diucp.uc.edu.ve
-NOERROR	ing-ele-potencia-1-wl.wifi.uc.edu.ve
-NOERROR	saga3.fcjp.uc.edu.ve
-SERVFAIL	ingenieria5.lan.dimetel.uc.edu.ve
-NOERROR	munin.uc.edu.ve
-SERVFAIL	diuc-0192.diucp.uc.edu.ve
-NOERROR	www.inscripciones.uc.edu.ve
-NOERROR	facyt-comp-opsu-1-wl.wifi.uc.edu.ve
-NOERROR	ge-5-2-170-prebo-2.net.dimetel.uc.edu.ve
-NOERROR	itmon-p-6.dimetel.uc.edu.ve
-NOERROR	dde.uc.edu.ve
-NOERROR	gubs.uc.edu.ve
-SERVFAIL	com-ele-nf9.diucp.uc.edu.ve
-NOERROR	www.apucitovirtual.uc.edu.ve
-NOERROR	bioanalisis-postgrado-1-wl.wifi.uc.edu.ve
-NOERROR	vl-186-prebo-4.net.dimetel.uc.edu.ve
-NOERROR	beta.dimetel.uc.edu.ve
-NOERROR	lab-doc2-18.facyt.uc.edu.ve
-SERVFAIL	dir-cult-ny4.diucp.uc.edu.ve
-SERVFAIL	desarrollo5.lan.dimetel.uc.edu.ve
-SERVFAIL	derecho-2039.diucp.uc.edu.ve
-SERVFAIL	graduacion03.diucp.uc.edu.ve
-SERVFAIL	cultu-rg5.diucp.uc.edu.ve
-SERVFAIL	animacion5.lan.dimetel.uc.edu.ve
-NOERROR	asistencia.dimetel.uc.edu.ve
-NXDOMAIN	m.cor.dimetel.uc.edu.ve
-NOERROR	hoder.uc.edu.ve
-NOERROR	www.anabisai.bc.uc.edu.ve
-SERVFAIL	pntfsc-b279.diucp.uc.edu.ve
-NOERROR	admision.fcs.uc.edu.ve
-NOERROR	gsites.dimetel.uc.edu.ve
-NOERROR	labredes7.facyt.uc.edu.ve
-NOERROR	dptodibujo.ing.uc.edu.ve
-NOERROR	proxy-a-32-6.uc.edu.ve
-NOERROR	lab-doc2-19.facyt.uc.edu.ve
-NOERROR	vl-1238-fcs-microbiologia-gw.net.dimetel.uc.edu.ve
-SERVFAIL	uami-7199.diucp.uc.edu.ve
-NOERROR	aulas-3com.facyt.uc.edu.ve
-NOERROR	cinearte-1-wl.wifi.uc.edu.ve
-NOERROR	www.ipapedi.uc.edu.ve
-NOERROR	deploy-p-3.dimetel.uc.edu.ve
-NOERROR	server1.mirror.uc.edu.ve
-SERVFAIL	uami-mkfl.diucp.uc.edu.ve
-NOERROR	listas.uc.edu.ve
-SERVFAIL	medios-publi-cl.diucp.uc.edu.ve
-NOERROR	cpi.ing.uc.edu.ve
-NOERROR	vl-430-dta-gw.net.dimetel.uc.edu.ve
-NOERROR	vl-180-face-1.net.dimetel.uc.edu.ve
-NOERROR	wifi-computacion1.facyt.uc.edu.ve
-SERVFAIL	hcm-03lj.diucp.uc.edu.ve
-SERVFAIL	idea-cg8.diucp.uc.edu.ve
-NOERROR	correo.uc.edu.ve
-NOERROR	admin-hydra-lab2.facyt.uc.edu.ve
-NOERROR	fundabiomed.fcs.uc.edu.ve
-NXDOMAIN	mx.uc.edu.ve
-SERVFAIL	diuc-03bz.diucp.uc.edu.ve
-NOERROR	netsvc-b-3.dimetel.uc.edu.ve
-NOERROR	siragon-ag.facyt.uc.edu.ve
-SERVFAIL	desco-22q.diucp.uc.edu.ve
-SERVFAIL	usuarios-3c3b15.diucp.uc.edu.ve
-NOERROR	vrac.uc.edu.ve
-NOERROR	vl-2120-derecho-admin-norte-pb-gw.net.dimetel.uc.edu.ve
-SERVFAIL	hcwmucxii-0021.diucp.uc.edu.ve
-NOERROR	civil.ing.uc.edu.ve
-NOERROR	vl-188-prebo-5.net.dimetel.uc.edu.ve
-NOERROR	vl-171-prebo-5.net.dimetel.uc.edu.ve
-NOERROR	www.caa.uc.edu.ve
-NOERROR	alfa2.uc.edu.ve
-SERVFAIL	prensauctv3.lan.dimetel.uc.edu.ve
-SERVFAIL	odont-clon-0.diucp.uc.edu.ve
-NOERROR	proxy-b-77-244.uc.edu.ve
-NOERROR	ciadana.fcs.uc.edu.ve
-NXDOMAIN	gamma.uc.edu.ve
-NOERROR	postgrado.fcjp.uc.edu.ve
-NOERROR	prouc.bc.uc.edu.ve
-NOERROR	ipapedi.uc.edu.ve
-NOERROR	lab-doc2-25.facyt.uc.edu.ve
-NOERROR	www.admision.uc.edu.ve
-SERVFAIL	hp-2k4.diucp.uc.edu.ve
-NOERROR	locatel.uc.edu.ve
-NOERROR	control.ing.uc.edu.ve
-NOERROR	odovirtual.dta.uc.edu.ve
-NOERROR	lapredim.ing.uc.edu.ve
-NXDOMAIN	ingenieria.cid.uc.edu.ve
-NOERROR	lab-doc2-7.facyt.uc.edu.ve
-NOERROR	bioquimica-1-wl.wifi.uc.edu.ve
-NOERROR	fcs-mental-1-wl.wifi.uc.edu.ve
-NOERROR	vl-178-psiquiatrico-2.net.dimetel.uc.edu.ve
-NOERROR	proxy-a-94-54.uc.edu.ve
-SERVFAIL	lib-face-clon.diucp.uc.edu.ve
-NOERROR	vl-1102-datacenter-gw.net.dimetel.uc.edu.ve
-NOERROR	atenas.dimetel.uc.edu.ve
-NOERROR	sice2.facyt.uc.edu.ve
-NOERROR	intranet2.facyt.uc.edu.ve
-NOERROR	facyt-biolobia-2-wl.wifi.uc.edu.ve
-NOERROR	vl-188-cmrco-1.net.dimetel.uc.edu.ve
-NOERROR	vl-1137-ing-decanato-gw.net.dimetel.uc.edu.ve
-NOERROR	m.postgrado.fcs.uc.edu.ve
-NOERROR	facytvirtual.uc.edu.ve
-NOERROR	saga2.fcjp.uc.edu.ve
-SERVFAIL	diuc-z.diucp.uc.edu.ve
-NOERROR	face.uc.edu.ve
-SERVFAIL	lan.dimetel.uc.edu.ve
-NOERROR	facyt-biologia-1-wl.wifi.uc.edu.ve
-NOERROR	uami.uc.edu.ve
-NOERROR	www.octiuc.cdch.uc.edu.ve
-NOERROR	vl-1101-rediuc-gw.net.dimetel.uc.edu.ve
-NOERROR	rect-dicae-2-wl.wifi.uc.edu.ve
-NOERROR	cochrane.fcs.uc.edu.ve
-NOERROR	labcom.ing.uc.edu.ve
-NOERROR	ils.facyt.uc.edu.ve
-NOERROR	proxy-b-77-243.uc.edu.ve
-NXDOMAIN	a.smtp.uc.edu.ve
-NOERROR	fileserver-p-1.dimetel.uc.edu.ve
-SERVFAIL	produccion3.lan.dimetel.uc.edu.ve
-NOERROR	www.directorio.uc.edu.ve
-NOERROR	lab-doc2-17.facyt.uc.edu.ve
-NOERROR	postgrado.faces.uc.edu.ve
-SERVFAIL	stl-prebo2.lan.dimetel.uc.edu.ve
-NOERROR	entornovirtual2.facyt.uc.edu.ve
-SERVFAIL	uc-b340.diucp.uc.edu.ve
-NXDOMAIN	www.corpocentro.cid.uc.edu.ve
-NOERROR	entorno.facyt.uc.edu.ve
-NOERROR	bor.uc.edu.ve
-NOERROR	www.poesia.uc.edu.ve
-NOERROR	itmon-p-4.dimetel.uc.edu.ve
-NOERROR	mail.facyt.uc.edu.ve
-NOERROR	aulavirtual.ing.uc.edu.ve
-NOERROR	poesia.uc.edu.ve
-NOERROR	idemat.facyt.uc.edu.ve
-NOERROR	vpn2.dimetel.uc.edu.ve
-SERVFAIL	hp-04ql.diucp.uc.edu.ve
-SERVFAIL	rrhh_4207.diucp.uc.edu.ve
-NOERROR	smtp4.mx.uc.edu.ve
-SERVFAIL	usuarios-4d889.diucp.uc.edu.ve
-NOERROR	vl-1132-ing-comp-gw.net.dimetel.uc.edu.ve
-NOERROR	reduc-1-wl.wifi.uc.edu.ve
-SERVFAIL	uc-z3zb.diucp.uc.edu.ve
-SERVFAIL	desarrollo4.lan.dimetel.uc.edu.ve
-NXDOMAIN	builder4.dimetel.uc.edu.ve
-NXDOMAIN	correo.cid.uc.edu.ve
-NOERROR	multimedia.facyt.uc.edu.ve
-NOERROR	facyt-consejo-1.wifi.uc.edu.ve
-NOERROR	vl-1125-ing-quimica-basica-gw.net.dimetel.uc.edu.ve
-NOERROR	facyt-comp-1-wl.wifi.uc.edu.ve
-SERVFAIL	wsus2.lan.dimetel.uc.edu.ve
-SERVFAIL	secret-94270.diucp.uc.edu.ve
-SERVFAIL	filuc-1.diucp.uc.edu.ve
-NOERROR	aulas.aragua.fcs.uc.edu.ve
-NOERROR	gateway.bc.uc.edu.ve
-NOERROR	prebo-14.net.dimetel.uc.edu.ve
-NOERROR	www.apuc.uc.edu.ve
-SERVFAIL	lenovo-pl4.diucp.uc.edu.ve
-NOERROR	maraton.facyt.uc.edu.ve
-NOERROR	www.galeria.uc.edu.ve
-NXDOMAIN	www.csdelavida.bc.uc.edu.ve
-NOERROR	ambiental.ing.uc.edu.ve
-NXDOMAIN	www2.facesmorita.cid.uc.edu.ve
-NOERROR	directorio.uc.edu.ve
-NOERROR	intranet.uc.edu.ve
-NOERROR	www.bioanalisis.fcs.uc.edu.ve
-NOERROR	cee.uc.edu.ve
-NOERROR	www.idemat.facyt.uc.edu.ve
-NOERROR	cei.uc.edu.ve
-NOERROR	boletin.bc.uc.edu.ve
-NOERROR	inscripcion.uc.edu.ve
-NOERROR	mu.uc.edu.ve
-SERVFAIL	hp-8yg.diucp.uc.edu.ve
-NOERROR	vl-1276-facyt-biologia-gw.net.dimetel.uc.edu.ve
-SERVFAIL	disiuc-7724.diucp.uc.edu.ve
-NOERROR	labmultimedia6.facyt.uc.edu.ve
-NOERROR	gieco.uc.edu.ve
-NOERROR	www.viceacademico.uc.edu.ve
-NOERROR	vl-522e-biomedica-p1-este-gw.net.dimetel.uc.edu.ve
-NOERROR	mailservices.uc.edu.ve
-NOERROR	babilonia.facyt.uc.edu.ve
-NOERROR	e.correo.uc.edu.ve
-SERVFAIL	hp-03l.diucp.uc.edu.ve
-NOERROR	www.cor.dimetel.uc.edu.ve
-SERVFAIL	ingenieria4.lan.dimetel.uc.edu.ve
-NOERROR	tyr.uc.edu.ve
-NOERROR	dinet.uc.edu.ve
-NOERROR	deploy.dimetel.uc.edu.ve
-NOERROR	lab-doc2-14.facyt.uc.edu.ve
-NXDOMAIN	pi.uc.edu.ve
-NOERROR	saludmental.uc.edu.ve
-SERVFAIL	codec-tv2.lan.dimetel.uc.edu.ve
-NOERROR	vl-174-faces-1.net.dimetel.uc.edu.ve
-NXDOMAIN	interbanco.cid.uc.edu.ve
-NOERROR	apuc.uc.edu.ve
-NOERROR	vl-524e-biomedica-p2-este-gw.net.dimetel.uc.edu.ve
-NOERROR	vl-2110-derecho-aulas-norte-p2-gw.net.dimetel.uc.edu.ve
-NOERROR	www.intranet.uc.edu.ve
-NOERROR	eth0-104-prebo-10.net.dimetel.uc.edu.ve
-SERVFAIL	prensauctv4.lan.dimetel.uc.edu.ve
-NOERROR	private-gw.net.dimetel.uc.edu.ve
-NOERROR	face-ce-1-ot.wifi.uc.edu.ve
-SERVFAIL	cul-4025.diucp.uc.edu.ve
-NOERROR	facyt-comp-1-ot.wifi.uc.edu.ve
-NOERROR	inscripcion.odontologia.uc.edu.ve
-NOERROR	vl-2024-face-adm-norte-p3-gw.net.dimetel.uc.edu.ve
-NOERROR	www.sldae.fcs.uc.edu.ve
-NOERROR	mirror.uc.edu.ve
-NOERROR	ceate.faces.uc.edu.ve
-NXDOMAIN	moodle.faces.uc.edu.ve
-NOERROR	www.postgrado.uc.edu.ve
-NOERROR	proxy-a-94-51.uc.edu.ve
-SERVFAIL	rel-int-5591.diucp.uc.edu.ve
-NOERROR	rect-seconsj-2-inv.wifi.uc.edu.ve
-NOERROR	bioanalisis-1.net.dimetel.uc.edu.ve
-NOERROR	cursos.facyt.uc.edu.ve
-NXDOMAIN	lainet.uc.edu.ve
-NOERROR	faces.bc.uc.edu.ve
-SERVFAIL	mediosfilu1.diucp.uc.edu.ve
-NOERROR	netsvc-p-3.dimetel.uc.edu.ve
-NOERROR	ge-2-1-prebo-2.net.dimetel.uc.edu.ve
-SERVFAIL	comp-07fj.diucp.uc.edu.ve
-NOERROR	ing-conciencia-1-wl.wifi.uc.edu.ve
-NOERROR	oauth.uc.edu.ve
-SERVFAIL	uami-d744.diucp.uc.edu.ve
-NOERROR	vl-2510-bioanalisis-gw.net.dimetel.uc.edu.ve
-NOERROR	microbiologia-1-wl.wifi.uc.edu.ve
-SERVFAIL	platino.dpf.uc.edu.ve
-SERVFAIL	compa-340.diucp.uc.edu.ve
-NOERROR	anfiteatro-1-wl.wifi.uc.edu.ve
-NXDOMAIN	inventario.cid.uc.edu.ve
-NOERROR	time2.uc.edu.ve
-NOERROR	riuc.bc.uc.edu.ve
-NOERROR	i3-elearning3.facyt.uc.edu.ve
-SERVFAIL	vit-0139.diucp.uc.edu.ve
-NOERROR	sb-18-64.dimetel.uc.edu.ve
-NXDOMAIN	alfa.uc.edu.ve
-NXDOMAIN	www.exp-fcjp.bc.uc.edu.ve
-SERVFAIL	lenovo-ac966.diucp.uc.edu.ve
-NOERROR	vpn-p-2.dimetel.uc.edu.ve
-NOERROR	inscripciones.uc.edu.ve
-NOERROR	prebo-fmuc-1-wl.wifi.uc.edu.ve
-NOERROR	www.facyt.uc.edu.ve
-NOERROR	www.intranet.dimetel.uc.edu.ve
-NXDOMAIN	infovirtual.cid.uc.edu.ve
-NOERROR	fm.uc.edu.ve
-NOERROR	intranet.dimetel.uc.edu.ve
-NOERROR	facyt-quimica-1-wl.wifi.uc.edu.ve
-NOERROR	vl-525e-biomedica-p2-sur-gw.net.dimetel.uc.edu.ve
-NOERROR	cdch-1-wl.wifi.uc.edu.ve
-NOERROR	ciset.uc.edu.ve
-SERVFAIL	lenovo-fc8.diucp.uc.edu.ve
-NOERROR	cor.dimetel.uc.edu.ve
-NOERROR	rect-digoi-1-wl.wifi.uc.edu.ve
-SERVFAIL	adies-08vs.diucp.uc.edu.ve
-NOERROR	webserver1.diuc.uc.edu.ve
-NOERROR	vl-112-prebo-5.net.dimetel.uc.edu.ve
-SERVFAIL	hp-0h50.diucp.uc.edu.ve
-NOERROR	snotra.uc.edu.ve
-NOERROR	ag4.dta.uc.edu.ve
-NOERROR	vpn-r-1.dimetel.uc.edu.ve
-NOERROR	pki1.uc.edu.ve
-NOERROR	labmultimedia5.facyt.uc.edu.ve
-SERVFAIL	lenovo-mabp.diucp.uc.edu.ve
-NOERROR	recepcion-doc.facyt.uc.edu.ve
-NOERROR	s02.uc.edu.ve
-SERVFAIL	lenovo-350.diucp.uc.edu.ve
-NXDOMAIN	www2.derecho.cid.uc.edu.ve
-NOERROR	cineartepatiotrigal.uc.edu.ve
-NOERROR	www.bc.uc.edu.ve
-NOERROR	produccion.dta.uc.edu.ve
-NOERROR	dimai.uc.edu.ve
-SERVFAIL	ingenieria2.lan.dimetel.uc.edu.ve
-NOERROR	www.sucai.facyt.uc.edu.ve
-NOERROR	loki.uc.edu.ve
-NOERROR	sel.fcjp.uc.edu.ve
-NOERROR	xi.uc.edu.ve
-NOERROR	www.sicedev.facyt.uc.edu.ve
-SERVFAIL	impu-ec15.diucp.uc.edu.ve
-NOERROR	labredes1.facyt.uc.edu.ve
-NOERROR	mat.facyt.uc.edu.ve
-NOERROR	dae.faces.uc.edu.ve
-NOERROR	mailhub.uc.edu.ve
-NOERROR	nsmtp.uc.edu.ve
-NXDOMAIN	ciscolab.cid.uc.edu.ve
-NXDOMAIN	www.derecho.bc.uc.edu.ve
-NOERROR	vl-521e-biomedica-pb-sur-gw.net.dimetel.uc.edu.ve
-NOERROR	vl-2062-face-aulas-norte-p2-gw.net.dimetel.uc.edu.ve
-NOERROR	proxy-a-94-61.uc.edu.ve
-SERVFAIL	electoral_b302.diucp.uc.edu.ve
-NOERROR	odontologia-p11-oc-1-wl.wifi.uc.edu.ve
-NOERROR	www.ceate.faces.uc.edu.ve
-NOERROR	liveupdate.facyt.uc.edu.ve
-NXDOMAIN	www.inventario.dimetel.uc.edu.ve
-SERVFAIL	uc-2sms.diucp.uc.edu.ve
-NOERROR	vl-2022-face-adm-norte-p2-gw.net.dimetel.uc.edu.ve
-NOERROR	hydra.facyt.uc.edu.ve
-NOERROR	netsvc-b-5.dimetel.uc.edu.ve
-NOERROR	lofn.uc.edu.ve
-SERVFAIL	rrhh1.lan.dimetel.uc.edu.ve
-SERVFAIL	odon-59.diucp.uc.edu.ve
-NOERROR	www.cadmun.bc.uc.edu.ve
-NOERROR	automatizacion.ing.uc.edu.ve
-NOERROR	www.uc.edu.ve
-NXDOMAIN	www.fcjp.bc.uc.edu.ve
-NOERROR	sice.facyt.uc.edu.ve
-NOERROR	webserver3.dimetel.uc.edu.ve
-NOERROR	camara-dlink.facyt.uc.edu.ve
-NOERROR	videos.dta.uc.edu.ve
-NOERROR	pregrado.aragua.fcs.uc.edu.ve
-NXDOMAIN	cisco.cid.uc.edu.ve
-NOERROR	admision.uc.edu.ve
-NOERROR	ing-cest-1-wl.wifi.uc.edu.ve
-NOERROR	proxy-b-77-245.uc.edu.ve
-NOERROR	cid.uc.edu.ve
-SERVFAIL	disiuc-800.diucp.uc.edu.ve
-NOERROR	prebo-uctv-2-wl.wifi.uc.edu.ve
-NOERROR	juvines.uc.edu.ve
-SERVFAIL	editortvprueba.lan.dimetel.uc.edu.ve
-NOERROR	rediuc-1.net.dimetel.uc.edu.ve
-NXDOMAIN	www.jornadacreativa.cid.uc.edu.ve
-SERVFAIL	vit-6905.diucp.uc.edu.ve
-NOERROR	www.saga2.fcjp.uc.edu.ve
-NOERROR	www2.bc.uc.edu.ve
-NOERROR	itmon3.dimetel.uc.edu.ve
-NOERROR	hawking.bc.uc.edu.ve
-NOERROR	vl-500-dpf-gw.net.dimetel.uc.edu.ve
-NOERROR	nitrogeno.dta.uc.edu.ve
-NOERROR	octiuc.cdch.uc.edu.ve
-NOERROR	vl-2145-derecho-adm-sur-p1-gw.net.dimetel.uc.edu.ve
-SERVFAIL	rrhh-zaz.diucp.uc.edu.ve
-NOERROR	www.fcjp.uc.edu.ve
-NOERROR	prebo-dimetel-1-wl.wifi.uc.edu.ve
-NOERROR	criminalistica.uc.edu.ve
-NOERROR	correo.facyt.uc.edu.ve
-NOERROR	cloud02.fcjp.uc.edu.ve
-NOERROR	web-p-10.dimetel.uc.edu.ve
-NXDOMAIN	delta.uc.edu.ve
-NOERROR	vl-410-dde-gw.net.dimetel.uc.edu.ve
-NOERROR	sicedev.facyt.uc.edu.ve
-SERVFAIL	cultura-clon-01.diucp.uc.edu.ve
-NOERROR	labredes9.facyt.uc.edu.ve
-SERVFAIL	duic_6d.diucp.uc.edu.ve
-NOERROR	vl-2125-derecho-admin-norte-p1-gw.net.dimetel.uc.edu.ve
-NOERROR	dvr-decanato.facyt.uc.edu.ve
-NOERROR	vl-1226-fcs-fisiopatologia-gw.net.dimetel.uc.edu.ve
-NOERROR	play2.facyt.uc.edu.ve
-SERVFAIL	lenovo-rc88.diucp.uc.edu.ve
-NOERROR	computacion-3com.facyt.uc.edu.ve
-NOERROR	vl-264-disiuc-gw.net.dimetel.uc.edu.ve
-NOERROR	rect-consjurd-1-wl.wifi.uc.edu.ve
-NOERROR	www.criminalistica.uc.edu.ve
-SERVFAIL	hcm-cam3.diucp.uc.edu.ve
-NOERROR	hydra-lab4.facyt.uc.edu.ve
-SERVFAIL	rrhh2.lan.dimetel.uc.edu.ve
-NOERROR	i3-elearning2.facyt.uc.edu.ve
-NOERROR	rect-despacho-2-wl.wifi.uc.edu.ve
-NOERROR	ing-admserv-1-wl.wifi.uc.edu.ve
-SERVFAIL	disiuc-53y.diucp.uc.edu.ve
-NOERROR	pipsuc.uc.edu.ve
-NOERROR	vl-1130-ing-fisica-gw.net.dimetel.uc.edu.ve
-SERVFAIL	odon-591.diucp.uc.edu.ve
-NOERROR	fcs-pab17-1-wl.wifi.uc.edu.ve
-NOERROR	prebo-rediuc-2-wl.wifi.uc.edu.ve
-NOERROR	ldapmaster.uc.edu.ve
-NOERROR	center-computacion.facyt.uc.edu.ve
-SERVFAIL	diuc-9849.diucp.uc.edu.ve
-NOERROR	catra.uc.edu.ve
-NOERROR	sucai.facyt.uc.edu.ve
-NXDOMAIN	heimdall.dimetel.uc.edu.ve
-NOERROR	cheetah.ing.uc.edu.ve
-SERVFAIL	hp-0hrj.diucp.uc.edu.ve
-SERVFAIL	soporte.diucp.uc.edu.ve
-NOERROR	paifaces.uc.edu.ve
-SERVFAIL	uc-059875-pc.diucp.uc.edu.ve
-NOERROR	www.multimedia.facyt.uc.edu.ve
-NOERROR	web-barb-1.dimetel.uc.edu.ve
-NOERROR	movil.sitea.faces.uc.edu.ve
-NOERROR	rediuc-barb-1-wl.wifi.uc.edu.ve
-NOERROR	fundaceate-1-ex.wifi.uc.edu.ve
-SERVFAIL	impresion2.lan.dimetel.uc.edu.ve
-NOERROR	codec-fm.dimetel.uc.edu.ve
-SERVFAIL	adiestr-clon-51.diucp.uc.edu.ve
-NXDOMAIN	www2.postgrado.cid.uc.edu.ve
-NOERROR	bitacora.face.uc.edu.ve
-NOERROR	proxy-a-94-57.uc.edu.ve
-NOERROR	www.facesvirtual.uc.edu.ve
-NOERROR	web-p-7.dimetel.uc.edu.ve
-NOERROR	vl-520e-biomedica-pb-este-gw.net.dimetel.uc.edu.ve
-NOERROR	vl-178-barb-2.net.dimetel.uc.edu.ve
-NOERROR	ing-prodefain-1-wl.wifi.uc.edu.ve
-NOERROR	vl-402-idu-mez2-gw.net.dimetel.uc.edu.ve
-SERVFAIL	rel-int-cb9.diucp.uc.edu.ve
-NOERROR	gateway.cid.uc.edu.ve
-NOERROR	center-barbula.facyt.uc.edu.ve
-SERVFAIL	cultura-afd9.diucp.uc.edu.ve
-NOERROR	boletin.uc.edu.ve
-NOERROR	vl-2080-face-aulas-sur-pb-gw.net.dimetel.uc.edu.ve
-SERVFAIL	asuntos-oonk.diucp.uc.edu.ve
-SERVFAIL	cultura-0814.diucp.uc.edu.ve
-NOERROR	smtp-out-2.mx.uc.edu.ve
-NOERROR	www.odontologia.uc.edu.ve
-NOERROR	idiomas.face.uc.edu.ve
-NXDOMAIN	faces.cid.uc.edu.ve
-SERVFAIL	hp-nc.diucp.uc.edu.ve
-NOERROR	lab-doc2-21.facyt.uc.edu.ve
-NOERROR	infovirtual.bc.uc.edu.ve
-NOERROR	faces-1.net.dimetel.uc.edu.ve
-NOERROR	ing-lab-promat-1-wl.wifi.uc.edu.ve
-NOERROR	ptolomeo.ing.uc.edu.ve
-SERVFAIL	proyectos2.diucp.uc.edu.ve
-NOERROR	bioanalisis-pb-1-wl.wifi.uc.edu.ve
-NXDOMAIN	saludpublica.fcs.uc.edu.ve
-NOERROR	i3-elearning1.facyt.uc.edu.ve
-NOERROR	web-p-1.dimetel.uc.edu.ve
-NOERROR	www.fundabiomed.fcs.uc.edu.ve
-SERVFAIL	rrhh_786.diucp.uc.edu.ve
-SERVFAIL	diuc-pw1.diucp.uc.edu.ve
-NOERROR	www.radio.uc.edu.ve
-NXDOMAIN	www2.fcsmorita.cid.uc.edu.ve
-SERVFAIL	prensa4-fm.lan.dimetel.uc.edu.ve
-NXDOMAIN	www.facesmorita.bc.uc.edu.ve
-NOERROR	backup-p-1.dimetel.uc.edu.ve
-NOERROR	facesvirtual.uc.edu.ve
-NOERROR	prebo-egreamigos-1-wl.wifi.uc.edu.ve
-NOERROR	vl-989-prebo-5.net.dimetel.uc.edu.ve
-NOERROR	impresora-disiuc-1.servicios.uc.edu.ve
-SERVFAIL	diuc-xy69.diucp.uc.edu.ve
-NOERROR	bd1.facyt.uc.edu.ve
-NXDOMAIN	logserver1.dimetel.uc.edu.ve
-NOERROR	egresados.uc.edu.ve
-NOERROR	apc5000.facyt.uc.edu.ve
-NOERROR	www.dde.uc.edu.ve
-NOERROR	vl-989-lavina-1.net.dimetel.uc.edu.ve
-NOERROR	facyt-decanato-1-wl.wifi.uc.edu.ve
-NOERROR	ing-decanato-1-wl.wifi.uc.edu.ve
-NOERROR	www.entornodev.facyt.uc.edu.ve
-NOERROR	contabilidad.ing.uc.edu.ve
-NOERROR	cert.uc.edu.ve
-NOERROR	secretaria.uc.edu.ve
-NOERROR	encuesta.bc.uc.edu.ve
-NOERROR	seluc.uc.edu.ve
-SERVFAIL	dirg-0hh1.diucp.uc.edu.ve
-NOERROR	comitevivienda.uc.edu.ve
-NOERROR	dns.facyt.uc.edu.ve
-NOERROR	vl-176-prebo-4.net.dimetel.uc.edu.ve
-SERVFAIL	dig-xwj.diucp.uc.edu.ve
-NOERROR	smtp-out.mx.uc.edu.ve
-NXDOMAIN	beta.uc.edu.ve
-NOERROR	sicebarbula.facyt.uc.edu.ve
-SERVFAIL	derecho-1633.diucp.uc.edu.ve
-NOERROR	administrativo.facyt.uc.edu.ve
-NOERROR	siii.uc.edu.ve
-NOERROR	vl-2081-face-aulas-sur-p1-gw.net.dimetel.uc.edu.ve
-NOERROR	cadenas.radio.uc.edu.ve
-NOERROR	deploy-p-1.dimetel.uc.edu.ve
-NXDOMAIN	www2.fcs.cid.uc.edu.ve
-SERVFAIL	uami-wci.diucp.uc.edu.ve
-NOERROR	vl-1127-ing-biblioteca-gw.net.dimetel.uc.edu.ve
-NOERROR	face-auditorio-2-wl.wifi.uc.edu.ve
-SERVFAIL	lenovo-mkhp.diucp.uc.edu.ve
-SERVFAIL	promocion.lan.dimetel.uc.edu.ve
-SERVFAIL	euler.lan.dimetel.uc.edu.ve
-NXDOMAIN	www.fcs.cid.uc.edu.ve
-NOERROR	bach.face.uc.edu.ve
-NOERROR	virtual.facyt.uc.edu.ve
-NOERROR	webserver4.dimetel.uc.edu.ve
-SERVFAIL	invent-0718.diucp.uc.edu.ve
-SERVFAIL	hcm-camo-636.diucp.uc.edu.ve
-NOERROR	dticing.ing.uc.edu.ve
-SERVFAIL	compaq-40ct.diucp.uc.edu.ve
-NOERROR	labredes3.facyt.uc.edu.ve
-NOERROR	facyt-matematica-1-wl.wifi.uc.edu.ve
-NOERROR	odontologia-p7-2-wl.wifi.uc.edu.ve
-NOERROR	bioanalisis-p1-1-wl.wifi.uc.edu.ve
-SERVFAIL	vrad-mxl851.diucp.uc.edu.ve
-NOERROR	gateway.facyt.uc.edu.ve
-SERVFAIL	cult-4025.diucp.uc.edu.ve
-NOERROR	asovac.uc.edu.ve
-NOERROR	asistente-doc2.facyt.uc.edu.ve
-NOERROR	rect-dicae-3-wl.wifi.uc.edu.ve
-NOERROR	prebo-12.net.dimetel.uc.edu.ve
-SERVFAIL	lenovo-pz9.diucp.uc.edu.ve
-NOERROR	vl-3501-ina-externo-gw.net.dimetel.uc.edu.ve
-NOERROR	admin-hydra-lab4.facyt.uc.edu.ve
-NXDOMAIN	www.semfcjp.bc.uc.edu.ve
-NOERROR	alcatel-ipphone-00809f55d939.ext.teleuc.dimetel.uc.edu.ve
-NOERROR	vl-2105-derecho-aulas-norte-p1-gw.net.dimetel.uc.edu.ve
-NOERROR	vl-2020-face-adm-norte-pb-gw.net.dimetel.uc.edu.ve
-NOERROR	ing-quimica-p1-1-wl.wifi.uc.edu.ve
-SERVFAIL	uami-gqq.diucp.uc.edu.ve
-NOERROR	solicitudes.cuentas.uc.edu.ve
-SERVFAIL	len-vxnf.diucp.uc.edu.ve
-NOERROR	vl-1106-ing-imyca-gw.net.dimetel.uc.edu.ve
-SERVFAIL	forestdnszones.diucp.uc.edu.ve
-NOERROR	www.sa.ing.uc.edu.ve
-NOERROR	fisica-1.net.dimetel.uc.edu.ve
-NOERROR	play3.facyt.uc.edu.ve
-NOERROR	facyt-comp-2-wl.wifi.uc.edu.ve
-NXDOMAIN	ciscoins.cid.uc.edu.ve
-NXDOMAIN	smtp6.uc.edu.ve
-SERVFAIL	uc-2015596360ac.diucp.uc.edu.ve
-NOERROR	www.socrates.faces.uc.edu.ve
-NOERROR	iforma.bc.uc.edu.ve
-NOERROR	dptocomp.ing.uc.edu.ve
-NOERROR	www.inscripcion.uc.edu.ve
-NOERROR	hospitaldigital.uc.edu.ve
-SERVFAIL	fcpj-0571.diucp.uc.edu.ve
-SERVFAIL	uami-9845.diucp.uc.edu.ve
-SERVFAIL	win-rect.diucp.uc.edu.ve
-NOERROR	orapro.diuc.uc.edu.ve
-NOERROR	lab-doc2-12.facyt.uc.edu.ve
-NOERROR	www.cert.uc.edu.ve
-NOERROR	smtp3.uc.edu.ve
-SERVFAIL	stl-prebo.lan.dimetel.uc.edu.ve
-NXDOMAIN	cajigal.ing.uc.edu.ve
-SERVFAIL	domaindnszones.lan.dimetel.uc.edu.ve
-NOERROR	vl-200-rediuc-prebo-gw.net.dimetel.uc.edu.ve
-NOERROR	otlet.cid.uc.edu.ve
-SERVFAIL	audit-jk4.diucp.uc.edu.ve
-SERVFAIL	hc200l.diucp.uc.edu.ve
-NOERROR	servicios.dimetel.uc.edu.ve
-NOERROR	pandora.ing.uc.edu.ve
-NOERROR	ing-biblioteca-p2-1-wl.wifi.uc.edu.ve
-NOERROR	labredes2.facyt.uc.edu.ve
-SERVFAIL	grabacionzara.lan.dimetel.uc.edu.ve
-SERVFAIL	disiuc-0217.diucp.uc.edu.ve
-SERVFAIL	dir-cult-7r2.diucp.uc.edu.ve
-NOERROR	time1x.uc.edu.ve
-NOERROR	dae.ing.uc.edu.ve
-SERVFAIL	recepcion-1.lan.dimetel.uc.edu.ve
-NOERROR	smtp5.mx.uc.edu.ve
-SERVFAIL	disiuc-6756.diucp.uc.edu.ve
-NXDOMAIN	webserver9.dimetel.uc.edu.ve
-SERVFAIL	proyectos1.lan.dimetel.uc.edu.ve
-NXDOMAIN	www.faces.cid.uc.edu.ve
-NOERROR	ag2.dta.uc.edu.ve
-NOERROR	vl-1131-ing-dibujo-gw.net.dimetel.uc.edu.ve
-NOERROR	www.gsites.dimetel.uc.edu.ve
-NOERROR	vl-2575-bibcsvida-gw.net.dimetel.uc.edu.ve
-NOERROR	vl-260-hcm-vina-gw.net.dimetel.uc.edu.ve
-NOERROR	intranet3.facyt.uc.edu.ve
-NOERROR	rect-mediosypublic-1-wl.wifi.uc.edu.ve
-NOERROR	citas.digaes.uc.edu.ve
-NXDOMAIN	www.educacion.cid.uc.edu.ve
-SERVFAIL	diucn.diucp.uc.edu.ve
-NOERROR	vl-1305-faces-pregrado-p1-gw.net.dimetel.uc.edu.ve
-NOERROR	lab-doc2-4.facyt.uc.edu.ve
-NOERROR	rediuc-2.net.dimetel.uc.edu.ve
-NOERROR	webserver1.dimetel.uc.edu.ve
-NOERROR	fcjpvirtual.dta.uc.edu.ve
-NOERROR	server.bc.uc.edu.ve
-SERVFAIL	hp-4mk.diucp.uc.edu.ve
-NOERROR	vl-2115-derecho-aulas-norte-p3-gw.net.dimetel.uc.edu.ve
-NXDOMAIN	asistbiblio.cid.uc.edu.ve
-NXDOMAIN	builder1.dimetel.uc.edu.ve
-NOERROR	fcs-bibvida-1-wl.wifi.uc.edu.ve
-SERVFAIL	prensatv4.lan.dimetel.uc.edu.ve
-NOERROR	vl-2220-facyt-quimica-gw.net.dimetel.uc.edu.ve
-SERVFAIL	diuc-5491.diucp.uc.edu.ve
-NOERROR	vl-1134-ing-mecanica-gw.net.dimetel.uc.edu.ve
-NOERROR	preinscripciones.apucito.uc.edu.ve
-SERVFAIL	hcm-ad03.diucp.uc.edu.ve
-NOERROR	rect-mant-1-wl.wifi.uc.edu.ve
-NOERROR	vl-186-diuc-1.net.dimetel.uc.edu.ve
-NOERROR	secure.wifi.uc.edu.ve
-NXDOMAIN	www.cuentas.uc.edu.ve
-NXDOMAIN	ingreso1.faces.uc.edu.ve
-NOERROR	dermatologiachet.uc.edu.ve
-SERVFAIL	desarrollo7.lan.dimetel.uc.edu.ve
-NOERROR	pipsuc-1-wl.wifi.uc.edu.ve
-NOERROR	ldap.uc.edu.ve
-NOERROR	ingevirtual.uc.edu.ve
-NOERROR	jornadacreativa.bc.uc.edu.ve
-NOERROR	ing-ele-sisauto-1-wl.wifi.uc.edu.ve
-NOERROR	www.reduc.uc.edu.ve
-NOERROR	rediuc-3.net.dimetel.uc.edu.ve
-SERVFAIL	disiuc-00133.diucp.uc.edu.ve
-NOERROR	labredes6.facyt.uc.edu.ve
-NOERROR	vl-2500-dices-gw.net.dimetel.uc.edu.ve
-SERVFAIL	uami-07kv.diucp.uc.edu.ve
-NOERROR	vl-1231-fcs-anatomia-gw.net.dimetel.uc.edu.ve
-NOERROR	time3.uc.edu.ve
-NOERROR	catrauc.uc.edu.ve
-SERVFAIL	rrhh3.lan.dimetel.uc.edu.ve
-SERVFAIL	hcm_531.diucp.uc.edu.ve
-NOERROR	facyt-comp-2-ot.wifi.uc.edu.ve
-NXDOMAIN	alpha2.dimetel.uc.edu.ve
-NOERROR	rect-rrhh-1-wl.wifi.uc.edu.ve
-SERVFAIL	compa-b084.diucp.uc.edu.ve
-NOERROR	dtic.faces.uc.edu.ve
-SERVFAIL	uc9785.diucp.uc.edu.ve
-SERVFAIL	hcm-2004c.diucp.uc.edu.ve
-NOERROR	vl-2540-saludpublica-gw.net.dimetel.uc.edu.ve
-NXDOMAIN	www.evalores.cid.uc.edu.ve
-SERVFAIL	uami-3269.diucp.uc.edu.ve
-NOERROR	www.sitea.faces.uc.edu.ve
-NOERROR	labmultimedia2.facyt.uc.edu.ve
-NOERROR	rect-presupuesto-1-wl.wifi.uc.edu.ve
-NOERROR	rect-dicae-1-wl.wifi.uc.edu.ve
-SERVFAIL	rrhh-zb509.diucp.uc.edu.ve
-NOERROR	vl-1128-ing-industrial-gw.net.dimetel.uc.edu.ve
-NOERROR	pai.faces.uc.edu.ve
-NOERROR	reliability.ing.uc.edu.ve
-NOERROR	fundacid.cid.uc.edu.ve
-NOERROR	ag.dta.uc.edu.ve
-NOERROR	lab-doc2-6.facyt.uc.edu.ve
-SERVFAIL	desktop-eq951et.lan.dimetel.uc.edu.ve
-NXDOMAIN	ciscoest.cid.uc.edu.ve
-NOERROR	intranet.facyt.uc.edu.ve
-NOERROR	vl-2043-face-adm-sur-p3-gw.net.dimetel.uc.edu.ve
-NOERROR	ag2.facyt.uc.edu.ve
-SERVFAIL	hp-7nq.diucp.uc.edu.ve
-NOERROR	vl-2061-face-aulas-norte-p1-gw.net.dimetel.uc.edu.ve
-NOERROR	vl-1232-fcs-farmacologia-gw.net.dimetel.uc.edu.ve
-NXDOMAIN	www.bdn-uc.cid.uc.edu.ve
-NOERROR	admin-laboratorios2.facyt.uc.edu.ve
-NOERROR	vl-2746-rect-rrhh-comtec-gw.net.dimetel.uc.edu.ve
-NOERROR	facevirtual.uc.edu.ve
-NOERROR	lab-doc2-15.facyt.uc.edu.ve
-NOERROR	archivos.dta.uc.edu.ve
-NOERROR	ing-basica-1-wl.wifi.uc.edu.ve
-NOERROR	face-tic-1-wl.wifi.uc.edu.ve
-SERVFAIL	dir-dep-939.diucp.uc.edu.ve
-NOERROR	faces-pre-1.net.dimetel.uc.edu.ve
-SERVFAIL	culpat-rk5.diucp.uc.edu.ve
-SERVFAIL	hp-gh.diucp.uc.edu.ve
-SERVFAIL	produccion-uctv.lan.dimetel.uc.edu.ve
-NOERROR	prebo-2.net.dimetel.uc.edu.ve
-NOERROR	facyt-comp-3-ot.wifi.uc.edu.ve
-NOERROR	vl-226-consj-apelaciones-gw.net.dimetel.uc.edu.ve
-NXDOMAIN	www.celsius.bc.uc.edu.ve
-NXDOMAIN	i.correo.uc.edu.ve
-SERVFAIL	lenovo-nn3.diucp.uc.edu.ve
-NOERROR	proxy-a-94-52.uc.edu.ve
-NOERROR	lab-doc2-3.facyt.uc.edu.ve
-NOERROR	beta.asistencia.dimetel.uc.edu.ve
-NOERROR	concordia.facyt.uc.edu.ve
-NOERROR	ingresopostgradofouc.uc.edu.ve
-NXDOMAIN	www.face.cid.uc.edu.ve
-SERVFAIL	vit-7262.diucp.uc.edu.ve
-NOERROR	vl-2140-derecho-adm-sur-pb-gw.net.dimetel.uc.edu.ve
-NXDOMAIN	pdgbc.bc.uc.edu.ve
-NOERROR	seaduc.uc.edu.ve
-NOERROR	vl-1133-ing-civil-gw.net.dimetel.uc.edu.ve
-NOERROR	bioanalisis-p1-2-wl.wifi.uc.edu.ve
-SERVFAIL	hcm-0139.diucp.uc.edu.ve
-NOERROR	www.diuc.uc.edu.ve
-NOERROR	ing-mecanica-2-wl.wifi.uc.edu.ve
-SERVFAIL	dde-0247.diucp.uc.edu.ve
-NOERROR	vl-1245-ing-telecom-gw.net.dimetel.uc.edu.ve
-NOERROR	fcs-mental-2-wl.wifi.uc.edu.ve
-NOERROR	prebo-rediuc-1-wl.wifi.uc.edu.ve
-NOERROR	ing-industrial-bib-1-wl.wifi.uc.edu.ve
-SERVFAIL	prueba.lan.dimetel.uc.edu.ve
-NOERROR	admin-hydra-lab3.facyt.uc.edu.ve
-NOERROR	cuentas.aragua.fcs.uc.edu.ve
-NOERROR	faces-pre-p2-1-wl.wifi.uc.edu.ve
-NOERROR	vl-152-prebo-5.net.dimetel.uc.edu.ve
-NOERROR	intranet.dta.uc.edu.ve
-NOERROR	vl-251-sedesur-gw.net.dimetel.uc.edu.ve
-NOERROR	netsvc-p-4.dimetel.uc.edu.ve
-NOERROR	octi.uc.edu.ve
-NOERROR	www.boletin.bc.uc.edu.ve
-NOERROR	final.facyt.uc.edu.ve
-NOERROR	fundauc-nat.net.dimetel.uc.edu.ve
-NOERROR	faces.uc.edu.ve
-NOERROR	postgrado.ing.uc.edu.ve
-NOERROR	www.faces.uc.edu.ve
-NOERROR	www.saga1.fcjp.uc.edu.ve
-NXDOMAIN	dei.cid.uc.edu.ve
-NOERROR	ag3.facyt.uc.edu.ve
-NOERROR	vl-2082-face-aulas-sur-p2-gw.net.dimetel.uc.edu.ve
-SERVFAIL	hcmcam-0971.diucp.uc.edu.ve
-NOERROR	faces-tic-1-wl.wifi.uc.edu.ve
-NOERROR	inscripcion.facyt.uc.edu.ve
-NOERROR	camoruco.ing.uc.edu.ve
-NOERROR	reduc.uc.edu.ve
-NOERROR	allinone1-elearning.facyt.uc.edu.ve
-NOERROR	www.eventos.bc.uc.edu.ve
-NOERROR	vl-1135-ing-epromocion-gw.net.dimetel.uc.edu.ve
-NOERROR	pasantias.facyt.uc.edu.ve
-NOERROR	graficos.cor.dimetel.uc.edu.ve
-NOERROR	dta2.vconf.uc.edu.ve
-NOERROR	s03.uc.edu.ve
-NOERROR	proxy-p-1-1.uc.edu.ve
-NOERROR	www.sice1.facyt.uc.edu.ve
-NOERROR	fileserver2.dimetel.uc.edu.ve
-NOERROR	vl-176-barb-2.net.dimetel.uc.edu.ve
-NOERROR	vl-1310-faces-pregrado-p2-gw.net.dimetel.uc.edu.ve
-NOERROR	nimap.uc.edu.ve
-NOERROR	web-b-2.dimetel.uc.edu.ve
-SERVFAIL	hp-8nd.diucp.uc.edu.ve
-NOERROR	www.apucito.uc.edu.ve
-NOERROR	labmultimedia4.facyt.uc.edu.ve
-NOERROR	www.cdch.uc.edu.ve
-SERVFAIL	lenovo-lzzw.diucp.uc.edu.ve
-NOERROR	wifi.uc.edu.ve
-NXDOMAIN	alpha3.dimetel.uc.edu.ve
-NOERROR	lab-doc2-13.facyt.uc.edu.ve
-NOERROR	vl-1250-ing-cpi-gw.net.dimetel.uc.edu.ve
-NOERROR	ing-mecanica-1-wl.wifi.uc.edu.ve
-NOERROR	desarrollo.faces.uc.edu.ve
-NOERROR	vl-224-audit-academica-gw.net.dimetel.uc.edu.ve
-NOERROR	g.correo.uc.edu.ve
-NOERROR	proxy-b-77-240.uc.edu.ve
-NOERROR	vl-281-dir-postgrado-gw.net.dimetel.uc.edu.ve
-NOERROR	ns2.ing.uc.edu.ve
-NXDOMAIN	www.prestamo.cid.uc.edu.ve
-NOERROR	ml350.facyt.uc.edu.ve
-NOERROR	vl-1320-faces-pregrado-p4p5-gw.net.dimetel.uc.edu.ve
-NOERROR	uranio.dta.uc.edu.ve
-NOERROR	vl-400-idu-mez1-gw.net.dimetel.uc.edu.ve
-NOERROR	facyt-comp-1-local.net.dimetel.uc.edu.ve
-SERVFAIL	lenovo_lzcn.diucp.uc.edu.ve
-NOERROR	fundaucvirtual.uc.edu.ve
-NOERROR	atenas-ipv4.dimetel.uc.edu.ve
-SERVFAIL	diuc_99.diucp.uc.edu.ve
-NOERROR	ing-imyca-1-wl.wifi.uc.edu.ve
-NOERROR	sociedadastronomica.uc.edu.ve
-NXDOMAIN	fcs.bc.uc.edu.ve
-NOERROR	inscripciones.derecho.uc.edu.ve
-SERVFAIL	deporte-66.diucp.uc.edu.ve
-NOERROR	hydra-lab2.facyt.uc.edu.ve
-NOERROR	odontologia-p7-3-wl.wifi.uc.edu.ve
-SERVFAIL	viceadm-0vb4.diucp.uc.edu.ve
-NOERROR	www.inscripcion.facyt.uc.edu.ve
-NOERROR	face-auditorio-1-wl.wifi.uc.edu.ve
-NOERROR	i7server-elearning.facyt.uc.edu.ve
-NOERROR	webserver5.dimetel.uc.edu.ve
-NXDOMAIN	www.facesmorita.cid.uc.edu.ve
-NOERROR	aeuc.uc.edu.ve
-NOERROR	ge-5-1-171-prebo-2.net.dimetel.uc.edu.ve
-NOERROR	faces-pre-p4-1-wl.wifi.uc.edu.ve
-NOERROR	odontologia-p7-4-wl.wifi.uc.edu.ve
-NOERROR	ucmun.uc.edu.ve
-NOERROR	vl-1108-ing-mantenimiento-gw.net.dimetel.uc.edu.ve
-NOERROR	www.virtual.facyt.uc.edu.ve
-NOERROR	soporte-tic.ing.uc.edu.ve
-NOERROR	apucitovirtual.uc.edu.ve
-NOERROR	rect-compras-1-wl.wifi.uc.edu.ve
-SERVFAIL	disiuc-00.diucp.uc.edu.ve
-NOERROR	owl.ing.uc.edu.ve
-NOERROR	ingevirtual.dta.uc.edu.ve
-SERVFAIL	oac-0361.diucp.uc.edu.ve
-NOERROR	asist-telematica.facyt.uc.edu.ve
-NOERROR	vl-1315-faces-pregrado-p3-gw.net.dimetel.uc.edu.ve
-NOERROR	www.seminario.bc.uc.edu.ve
-NOERROR	robot.facyt.uc.edu.ve
-NOERROR	face-bioquim-1-wl.wifi.uc.edu.ve
-NOERROR	eth-5-diuc-gw.net.dimetel.uc.edu.ve
-NOERROR	odontologia-p11-pa-1-wl.wifi.uc.edu.ve
-NXDOMAIN	smtp7.uc.edu.ve
-NOERROR	vpn-p-1.dimetel.uc.edu.ve
-NOERROR	gi-5-2-154-prebo-2.net.dimetel.uc.edu.ve
-NOERROR	coddeciuc.uc.edu.ve
-NOERROR	prebo-10.net.dimetel.uc.edu.ve
-NOERROR	cidtct.uc.edu.ve
-NOERROR	web-p-2.dimetel.uc.edu.ve
-NOERROR	www.juvines.uc.edu.ve
-NXDOMAIN	biblioteca.fcs.uc.edu.ve
-NXDOMAIN	www.educacion.bc.uc.edu.ve
-NOERROR	admin-hydra-server5.facyt.uc.edu.ve
-NXDOMAIN	ingreso3.faces.uc.edu.ve
-NOERROR	cloud01.fcjp.uc.edu.ve
-NOERROR	labredes4.facyt.uc.edu.ve
-NOERROR	server.decanato.facyt.uc.edu.ve
-NOERROR	vl-112-prebo-4.net.dimetel.uc.edu.ve
-NOERROR	play4.facyt.uc.edu.ve
-NOERROR	vl-504-anfiteatro-gw.net.dimetel.uc.edu.ve
-NOERROR	vl-1100-rediuc-servidores-gw.net.dimetel.uc.edu.ve
-NOERROR	seminario.bc.uc.edu.ve
-NOERROR	vl-1129-ing-ctrl-est-gw.net.dimetel.uc.edu.ve
-SERVFAIL	ingenieria3.lan.dimetel.uc.edu.ve
-NOERROR	theta.uc.edu.ve
-NXDOMAIN	www.carnetizacion.uc.edu.ve
-SERVFAIL	diuc-rm300.diucp.uc.edu.ve
-NOERROR	bioanalisis.fcs.uc.edu.ve
-NOERROR	vl-2250-facyt-matematica-gw.net.dimetel.uc.edu.ve
-NOERROR	rect-viceacad-1-wl.wifi.uc.edu.ve
-NOERROR	eth-0-154-prebo-10.net.dimetel.uc.edu.ve
-SERVFAIL	diuc-9377.diucp.uc.edu.ve
-SERVFAIL	uc-z4cl.diucp.uc.edu.ve
-NOERROR	dices-1-sweth.net.dimetel.uc.edu.ve
-NOERROR	fcs-post-1-wl.wifi.uc.edu.ve
-NOERROR	server4.mirror.uc.edu.ve
-NOERROR	webcam2.dta.uc.edu.ve
-NOERROR	sunrayserver7.facyt.uc.edu.ve
-SERVFAIL	diuc-z1.diucp.uc.edu.ve
-NOERROR	matematicas.facyt.uc.edu.ve
-NOERROR	bibcentral.bc.uc.edu.ve
-NOERROR	acme-ssl.uc.edu.ve
-NOERROR	www.filuc.uc.edu.ve
-NOERROR	webcam3.dta.uc.edu.ve
-SERVFAIL	desarrollo2.lan.dimetel.uc.edu.ve
-SERVFAIL	uami-808.diucp.uc.edu.ve
-SERVFAIL	diger-1v9z.diucp.uc.edu.ve
-SERVFAIL	clon-976.diucp.uc.edu.ve
-NOERROR	rect-seconsj-1-inv.wifi.uc.edu.ve
-NOERROR	vl-432-bc-gw.net.dimetel.uc.edu.ve
-NOERROR	backup-b-1.dimetel.uc.edu.ve
-NOERROR	www.pipsuc.uc.edu.ve
-NOERROR	odontologia.uc.edu.ve
-NOERROR	ustpro-03.facyt.uc.edu.ve
-NOERROR	time.uc.edu.ve
-NOERROR	cieruc.fcs.uc.edu.ve
-NOERROR	facesvirtual.dta.uc.edu.ve
-NOERROR	laboratorios2.facyt.uc.edu.ve
-NOERROR	vps.faces.uc.edu.ve
-NOERROR	kiosko.uc.edu.ve
-NOERROR	www.postgradofcs.uc.edu.ve
-NOERROR	www.mriuc.bc.uc.edu.ve
-SERVFAIL	diuc-0010.diucp.uc.edu.ve
-NOERROR	cimbuc-1-wl.wifi.uc.edu.ve
-NOERROR	industrial.ing.uc.edu.ve
-NOERROR	bioanalisis_na.fcs.uc.edu.ve
-NXDOMAIN	kappa.uc.edu.ve
-NOERROR	itmon-p-2.dimetel.uc.edu.ve
-SERVFAIL	disiuc-2d3.diucp.uc.edu.ve
-NOERROR	dqeb.ing.uc.edu.ve
-NOERROR	proxy-b-77-249.uc.edu.ve
-NOERROR	www.dta.uc.edu.ve
-NOERROR	lab-doc2-22.facyt.uc.edu.ve
-NXDOMAIN	www.ixsimposiopolitica.cid.uc.edu.ve
-SERVFAIL	hcm-sl410yxm.diucp.uc.edu.ve
-NOERROR	facyt-comp-1.net.dimetel.uc.edu.ve
-NOERROR	platon.facyt.uc.edu.ve
-NXDOMAIN	php.cid.uc.edu.ve
-NOERROR	dvr-aulas.facyt.uc.edu.ve
-NOERROR	ustpro-04.facyt.uc.edu.ve
-NOERROR	vl-144-prebo-5.net.dimetel.uc.edu.ve
-NOERROR	congreso.cdch.uc.edu.ve
-SERVFAIL	diuc-ltna.diucp.uc.edu.ve
-NOERROR	telecom.ing.uc.edu.ve
-NXDOMAIN	builder6.dimetel.uc.edu.ve
-NOERROR	webserver7.dimetel.uc.edu.ve
-NOERROR	admin-hydra-lab1.facyt.uc.edu.ve
-NOERROR	caa.uc.edu.ve
-NOERROR	labredes10.facyt.uc.edu.ve
-NOERROR	omega.facyt.uc.edu.ve
-NXDOMAIN	bestla.uc.edu.ve
-NXDOMAIN	epsilon.uc.edu.ve
-NOERROR	www.desarrollo-web.facyt.uc.edu.ve
-SERVFAIL	trans-cb55.diucp.uc.edu.ve
-NXDOMAIN	www.postgrado.cid.uc.edu.ve
-NOERROR	pki2.uc.edu.ve
-SERVFAIL	cultu-knx6.diucp.uc.edu.ve
-NOERROR	proxy-a-94-56.uc.edu.ve
-SERVFAIL	planta-fisica18.diucp.uc.edu.ve
-NOERROR	smtp2.mx.uc.edu.ve
-NOERROR	lab-doc2-24.facyt.uc.edu.ve
-NXDOMAIN	iota.uc.edu.ve
-NOERROR	web-p-3.dimetel.uc.edu.ve
-NOERROR	smtp.uc.edu.ve
-NOERROR	www.inscripciones.facyt.uc.edu.ve
-NOERROR	navidad.uc.edu.ve
-NOERROR	lab-doc2-27.facyt.uc.edu.ve
-SERVFAIL	patri-07fj.diucp.uc.edu.ve
-NOERROR	codec-fm-2.dimetel.uc.edu.ve
-NOERROR	labmultimedia1.facyt.uc.edu.ve
-NOERROR	www.entornovirtual.facyt.uc.edu.ve
-NOERROR	dvr-biblioteca.facyt.uc.edu.ve
-NOERROR	www.secretaria.uc.edu.ve
-NOERROR	desco.uc.edu.ve
-SERVFAIL	hcm_568.diucp.uc.edu.ve
-SERVFAIL	produccion2.lan.dimetel.uc.edu.ve
-SERVFAIL	impues-604rw.diucp.uc.edu.ve
-SERVFAIL	hpuctc03.diucp.uc.edu.ve
-SERVFAIL	hcm-camo-z94.diucp.uc.edu.ve
-NXDOMAIN	www.prestamouc.cid.uc.edu.ve
-SERVFAIL	secre2416.diucp.uc.edu.ve
-SERVFAIL	soporte-ak5.diucp.uc.edu.ve
-NOERROR	www.arje.bc.uc.edu.ve
-NOERROR	sldae.fcs.uc.edu.ve
-NOERROR	facyt-quimica-2-wl.wifi.uc.edu.ve
-NOERROR	bell2.dimetel.uc.edu.ve
-NOERROR	vl-1230-fcs-parasitologia-gw.net.dimetel.uc.edu.ve
-NOERROR	www.navidad.uc.edu.ve
-NOERROR	monitor.cor.dimetel.uc.edu.ve
-NOERROR	npop.uc.edu.ve
-SERVFAIL	uc-144d919c69f4.diucp.uc.edu.ve
-NOERROR	proxy-p-1-6.uc.edu.ve
-SERVFAIL	lenovo-9636.diucp.uc.edu.ve
-NOERROR	sw2-docencia.facyt.uc.edu.ve
-NOERROR	ag1.facyt.uc.edu.ve
-NOERROR	sitea.odontologia.uc.edu.ve
-NOERROR	mp3.radio.uc.edu.ve
-NXDOMAIN	webserver6.dimetel.uc.edu.ve
-SERVFAIL	laboratorio2.lan.dimetel.uc.edu.ve
-SERVFAIL	lenovo-vxnf.diucp.uc.edu.ve
-NOERROR	cest.uc.edu.ve
-NOERROR	mg.facyt.uc.edu.ve
-NOERROR	labredes8.facyt.uc.edu.ve
-SERVFAIL	pascal.lan.dimetel.uc.edu.ve
-NOERROR	www.prestamo.bc.uc.edu.ve
-NOERROR	web-b-3.dimetel.uc.edu.ve
-NOERROR	titanio.dta.uc.edu.ve
-NOERROR	hospitalweb.uc.edu.ve
-NOERROR	alfa.facyt.uc.edu.ve
-NOERROR	smtp2.uc.edu.ve
-NOERROR	fcjp.uc.edu.ve
-NOERROR	vl-182-barb-2.net.dimetel.uc.edu.ve
-NOERROR	netsvc-p-1.dimetel.uc.edu.ve
-NOERROR	www.asovac.uc.edu.ve
-NOERROR	inscripcion.fcs.uc.edu.ve
-NOERROR	vl-502-centro-historico-gw.net.dimetel.uc.edu.ve
-NOERROR	mecanica.ing.uc.edu.ve
-NOERROR	zeus.ing.uc.edu.ve
-NOERROR	redes.facyt.uc.edu.ve
-NXDOMAIN	www.csdelavida.cid.uc.edu.ve
-NOERROR	d.correo.uc.edu.ve
-NOERROR	programas.aragua.fcs.uc.edu.ve
-NOERROR	admin-laboratorios.facyt.uc.edu.ve
-SERVFAIL	lenovo-455.diucp.uc.edu.ve
-NOERROR	vl-2021-face-adm-norte-p1-gw.net.dimetel.uc.edu.ve
-SERVFAIL	dell-947.diucp.uc.edu.ve
-NOERROR	admin-storage.facyt.uc.edu.ve
-NXDOMAIN	h.correo.uc.edu.ve
-NOERROR	www.rectorado.uc.edu.ve
-SERVFAIL	disiuc-zcn.diucp.uc.edu.ve
-NOERROR	diracademica.ing.uc.edu.ve
-NXDOMAIN	pipsuc.bc.uc.edu.ve
-NXDOMAIN	lourtec.cid.uc.edu.ve
-SERVFAIL	asist-adm.diucp.uc.edu.ve
-SERVFAIL	lenovo-lzxx.diucp.uc.edu.ve
-SERVFAIL	prensa4.lan.dimetel.uc.edu.ve
-NOERROR	asistente-doc1.facyt.uc.edu.ve
-SERVFAIL	hcm-0959.diucp.uc.edu.ve
-SERVFAIL	derecho.diucp.uc.edu.ve
-NOERROR	ni.uc.edu.ve
-NOERROR	smtp-out-1.mx.uc.edu.ve
-NOERROR	svn.dta.uc.edu.ve
-SERVFAIL	recepcion-uctv.lan.dimetel.uc.edu.ve
-NOERROR	proxy-a-94-58.uc.edu.ve
-NOERROR	vl-2150-derecho-adm-sur-p2-gw.net.dimetel.uc.edu.ve
-NOERROR	solicitudes.facyt.uc.edu.ve
-NOERROR	bell.dimetel.uc.edu.ve
-NOERROR	smtp5.uc.edu.ve
-NOERROR	vl-1126-ing-electrica-gw.net.dimetel.uc.edu.ve
-NOERROR	web-p-3d.dimetel.uc.edu.ve
-NOERROR	uctv.uc.edu.ve
-NOERROR	proxy-p-1-9.uc.edu.ve
-SERVFAIL	rrhh-a791.diucp.uc.edu.ve
-NXDOMAIN	builder2.dimetel.uc.edu.ve
-NOERROR	desarrollo.ing.uc.edu.ve
-SERVFAIL	editortv1.lan.dimetel.uc.edu.ve
-NOERROR	ing-asuntos-prof-1-wl.wifi.uc.edu.ve
-NXDOMAIN	www.lourtec.cid.uc.edu.ve
-NOERROR	lab-doc2-5.facyt.uc.edu.ve
-NOERROR	ge-1-0-voipgw-1.net.dimetel.uc.edu.ve
-SERVFAIL	diucd-0491.diucp.uc.edu.ve
-NOERROR	www.priov.uc.edu.ve
-SERVFAIL	inf-krb8.diucp.uc.edu.ve
-NOERROR	lab-doc2-10.facyt.uc.edu.ve
-NOERROR	postgrado.face.uc.edu.ve
-NOERROR	bomberos.uc.edu.ve
-NOERROR	vl-170-prebo-4.net.dimetel.uc.edu.ve
-SERVFAIL	ingenieria1.lan.dimetel.uc.edu.ve
-NOERROR	www.faces.bc.uc.edu.ve
-NOERROR	siteaadmin.faces.uc.edu.ve
-NXDOMAIN	www.pipsuc.bc.uc.edu.ve
-NOERROR	postgradofcs.uc.edu.ve
-SERVFAIL	ingenieria7.lan.dimetel.uc.edu.ve
-NOERROR	sw-reproduccion.facyt.uc.edu.ve
-NOERROR	vl-996-h-prince-lara-gw.net.dimetel.uc.edu.ve
-NOERROR	labmultimedia7.facyt.uc.edu.ve
-SERVFAIL	hcm-rfo.diucp.uc.edu.ve
-NOERROR	jupena.uc.edu.ve
-NOERROR	proxy-p-1-5.uc.edu.ve
-NXDOMAIN	zeta.uc.edu.ve
-SERVFAIL	diuc-9838.diucp.uc.edu.ve
-NOERROR	vl-1014-lacruz-2.net.dimetel.uc.edu.ve
-NOERROR	ing-telecom-1-wl.wifi.uc.edu.ve
-NOERROR	ing-consejo-1-wl.wifi.uc.edu.ve
-NOERROR	cisco.ing.uc.edu.ve
-NOERROR	web-barb-2.dimetel.uc.edu.ve
-NOERROR	netsvc-p-7.dimetel.uc.edu.ve
-NOERROR	fuenteradio.dta.uc.edu.ve
-NOERROR	server-biblioteca.facyt.uc.edu.ve
-NXDOMAIN	pipsuc.cid.uc.edu.ve
-NOERROR	asist-labcomp.facyt.uc.edu.ve
-NOERROR	cpi.uc.edu.ve
-NOERROR	vl-1300-faces-pregrado-pb-gw.net.dimetel.uc.edu.ve
-SERVFAIL	hcm-7np.diucp.uc.edu.ve
-NOERROR	b.correo.uc.edu.ve
-NOERROR	arje.bc.uc.edu.ve
-NXDOMAIN	www.pn.cid.uc.edu.ve
-NOERROR	www.codeigniter313.facyt.uc.edu.ve
-NOERROR	www.cpi.ing.uc.edu.ve
-SERVFAIL	uami-ec.diucp.uc.edu.ve
-SERVFAIL	cronista-0sx3.diucp.uc.edu.ve
-NOERROR	netsvc-p-5.dimetel.uc.edu.ve
-NOERROR	entornoprueba.facyt.uc.edu.ve
-SERVFAIL	prensafm2.lan.dimetel.uc.edu.ve
-NOERROR	hydra-server5.facyt.uc.edu.ve
-NOERROR	vl-213-derecho-comparado-gw.net.dimetel.uc.edu.ve
-NOERROR	curriculum.uc.edu.ve
-SERVFAIL	adm-pkv.diucp.uc.edu.ve
-NOERROR	dae.fcjp.uc.edu.ve
-NOERROR	vl-404-idu-sqr-gw.net.dimetel.uc.edu.ve
-NOERROR	vl-174-psiquiatrico-2.net.dimetel.uc.edu.ve
-SERVFAIL	cult-rg5.diucp.uc.edu.ve
-SERVFAIL	lenov-ma8fr.diucp.uc.edu.ve
-NOERROR	proxy-b-77-247.uc.edu.ve
-NOERROR	admision.fcjp.uc.edu.ve
-NOERROR	www.aeuc.uc.edu.ve
-NXDOMAIN	www.cisco-cursos.cid.uc.edu.ve
-NXDOMAIN	exp-fcjp.bc.uc.edu.ve
-SERVFAIL	secretaria-1928.diucp.uc.edu.ve
-NOERROR	www.sigma.facyt.uc.edu.ve
-NOERROR	dae.face.uc.edu.ve
-NOERROR	ticlamorita.faces.uc.edu.ve
-NOERROR	vl-1227-fcs-fisiologia-gw.net.dimetel.uc.edu.ve
-NOERROR	odovirtual.uc.edu.ve
-NOERROR	admin-hydra-docentes.facyt.uc.edu.ve
-NOERROR	webcam1.dta.uc.edu.ve
-SERVFAIL	secret-0494.diucp.uc.edu.ve
-SERVFAIL	prensafm1.lan.dimetel.uc.edu.ve
-NOERROR	asist-matematica.facyt.uc.edu.ve
-NOERROR	capellania.uc.edu.ve
-NOERROR	vl-2200-facyt-decanato-gw.net.dimetel.uc.edu.ve
-NOERROR	proxy-a-94-6.uc.edu.ve
-NOERROR	contest.facyt.uc.edu.ve
-NOERROR	fpu.uc.edu.ve
-NOERROR	vl-2550-ceticea-gw.net.dimetel.uc.edu.ve
-SERVFAIL	cultura-nd5.diucp.uc.edu.ve
-SERVFAIL	sec-735.diucp.uc.edu.ve
-SERVFAIL	rrhh_960.diucp.uc.edu.ve
-NXDOMAIN	info.uc.edu.ve
-NOERROR	proxy-a-94-55.uc.edu.ve
-SERVFAIL	secret-427.diucp.uc.edu.ve
-NOERROR	proxy-b-77-2.uc.edu.ve
-NXDOMAIN	www.fcsmorita.bc.uc.edu.ve
-NOERROR	sigma.postgrado.uc.edu.ve
-NXDOMAIN	www2.corpocentro.cid.uc.edu.ve
-NOERROR	vl-222-hcm-camoruco-gw.net.dimetel.uc.edu.ve
-SERVFAIL	adiest-a802.diucp.uc.edu.ve
-SERVFAIL	vit-183.diucp.uc.edu.ve
-NOERROR	vl-1107-ing-humanidades-gw.net.dimetel.uc.edu.ve
-NOERROR	facyt-decanato-admin-1-wl.wifi.uc.edu.ve
-NOERROR	daiuc.uc.edu.ve
-NOERROR	www.cid.uc.edu.ve
-NXDOMAIN	www2.odontologia.cid.uc.edu.ve
-NOERROR	desarrollo.facyt.uc.edu.ve
-NOERROR	inscripcion.derecho.uc.edu.ve
-NOERROR	redouc.ing.uc.edu.ve
-NOERROR	silicio.dta.uc.edu.ve
-NOERROR	proxy-a-94-50.uc.edu.ve
-NOERROR	fcu.uc.edu.ve
-NOERROR	wifi-computacion2.facyt.uc.edu.ve
-NOERROR	cuentas.uc.edu.ve
-SERVFAIL	disiuc-415.diucp.uc.edu.ve
-NOERROR	www.cest.uc.edu.ve
-NOERROR	rect-rrhh-2-wl.wifi.uc.edu.ve
-NOERROR	smtp-out.uc.edu.ve
-NOERROR	servicio.bc.uc.edu.ve
-SERVFAIL	hp-3zg.diucp.uc.edu.ve
-SERVFAIL	vit-1811.diucp.uc.edu.ve
-NOERROR	lab-doc2-20.facyt.uc.edu.ve
-SERVFAIL	uami-zcn.diucp.uc.edu.ve
-NOERROR	dvr-computacion.facyt.uc.edu.ve
-NOERROR	sigma.facyt.uc.edu.ve
-NOERROR	electrica.ing.uc.edu.ve
-NOERROR	odontologia-p11-pb-1-wl.wifi.uc.edu.ve
-SERVFAIL	vit-1937.diucp.uc.edu.ve
-NOERROR	imyca.ing.uc.edu.ve
-SERVFAIL	prensatv1.lan.dimetel.uc.edu.ve
-SERVFAIL	turing2.lan.dimetel.uc.edu.ve
-NOERROR	proxy-a-94-60.uc.edu.ve
-NOERROR	www.capacitacion.uc.edu.ve
-NOERROR	vl-2040-face-adm-sur-pb-gw.net.dimetel.uc.edu.ve
-NOERROR	facyt.uc.edu.ve
-NOERROR	www.seduc.uc.edu.ve
-SERVFAIL	compras-0163.diucp.uc.edu.ve
-NOERROR	ing-mecanica-3-wl.wifi.uc.edu.ve
-NOERROR	ag3.dta.uc.edu.ve
-NOERROR	vl-212-ceproduc-gw.net.dimetel.uc.edu.ve
-NXDOMAIN	infovirtual2.cid.uc.edu.ve
-NOERROR	m.uc.edu.ve
-NOERROR	vl-2135-derecho-admin-norte-p3-gw.net.dimetel.uc.edu.ve
-NOERROR	fileserver-p-2.dimetel.uc.edu.ve
-NXDOMAIN	a.correo.uc.edu.ve
-NOERROR	vl-1201-fcs-bioquimica-gw.net.dimetel.uc.edu.ve
-NOERROR	vl-2100-derecho-aulas-norte-pb-gw.net.dimetel.uc.edu.ve
-NOERROR	lab-doc2-30.facyt.uc.edu.ve
-NOERROR	temporal.facyt.uc.edu.ve
-NOERROR	egreamigos.uc.edu.ve
-NOERROR	face.vconf.uc.edu.ve
-NOERROR	lambda.uc.edu.ve
-NOERROR	schubert.face.uc.edu.ve
-NOERROR	rect-diuc-1-wl.wifi.uc.edu.ve
-NOERROR	dap.ing.uc.edu.ve
-NOERROR	baserver.dimetel.uc.edu.ve
-NOERROR	fileserver-p-3.dimetel.uc.edu.ve
-NOERROR	www.bomberos.uc.edu.ve
-NOERROR	fcsvirtual.uc.edu.ve
-NOERROR	prebo-fmuc-2-wl2.wifi.uc.edu.ve
-NOERROR	smtp.mx.uc.edu.ve
-NOERROR	proxy-b-77-252.uc.edu.ve
-NOERROR	metrica.bc.uc.edu.ve
-NOERROR	socrates.faces.uc.edu.ve
-NOERROR	vps.face.uc.edu.ve
-NOERROR	www.salasdecine.uc.edu.ve
-NOERROR	ptim.bc.uc.edu.ve
-NOERROR	gerenciadeciudad.uc.edu.ve
-SERVFAIL	lenovo-mabt.diucp.uc.edu.ve
-NOERROR	proxy-b-77-241.uc.edu.ve
-NOERROR	proxy-b-77-254.uc.edu.ve
-SERVFAIL	hcm-krz400.diucp.uc.edu.ve
-SERVFAIL	personal.lan.dimetel.uc.edu.ve
-NOERROR	apucito.uc.edu.ve
-NOERROR	vl-3554-cinearte-gw.net.dimetel.uc.edu.ve
-NXDOMAIN	beta2.dimetel.uc.edu.ve
-NOERROR	radius.uc.edu.ve
-NOERROR	rect-viceadmin-1-wl.wifi.uc.edu.ve
-SERVFAIL	consu-azx3.diucp.uc.edu.ve
-NOERROR	www.saga3.fcjp.uc.edu.ve
-NOERROR	si-104-inet-1.net.dimetel.uc.edu.ve
-NOERROR	www.sivuc.uc.edu.ve
-NXDOMAIN	www.derecho.cid.uc.edu.ve
-NOERROR	vl-1217-facyt-bio-lab-gw.net.dimetel.uc.edu.ve
-NOERROR	www.sel.fcjp.uc.edu.ve
-NOERROR	proxy-b-77-248.uc.edu.ve
-NOERROR	vl-1335-faces-vconf-gw.net.dimetel.uc.edu.ve
-NOERROR	webserver3d.dimetel.uc.edu.ve
-SERVFAIL	hcm-ac966.diucp.uc.edu.ve
-SERVFAIL	hp-vs.diucp.uc.edu.ve
-NOERROR	vl-211-ceate-gw.net.dimetel.uc.edu.ve
-SERVFAIL	diuc-rc8.diucp.uc.edu.ve
-NOERROR	codeigniter313.facyt.uc.edu.ve
-NOERROR	quimica.ing.uc.edu.ve
-NOERROR	inscripcion.face.uc.edu.ve
-NXDOMAIN	mimir.uc.edu.ve
-NOERROR	helio.dta.uc.edu.ve
-NOERROR	datos.dta.uc.edu.ve
-NXDOMAIN	ingreso2.faces.uc.edu.ve
-NOERROR	server3.mirror.uc.edu.ve
-SERVFAIL	impu-005.diucp.uc.edu.ve
-NOERROR	itmon2.dimetel.uc.edu.ve
-NOERROR	sa.ing.uc.edu.ve
-NOERROR	mriuc.bc.uc.edu.ve
-NXDOMAIN	prestamo.cid.uc.edu.ve
-NOERROR	c.correo.uc.edu.ve
-NOERROR	vl-523e-biomedica-p1-sur-gw.net.dimetel.uc.edu.ve
-NOERROR	vl-210-egreamigos-gw.net.dimetel.uc.edu.ve
-NOERROR	www.riuc.bc.uc.edu.ve
-NOERROR	vl-1105-ing-quimica-gw.net.dimetel.uc.edu.ve
-SERVFAIL	ceproduc_533.diucp.uc.edu.ve
-NOERROR	rect-despacho-1-wl.wifi.uc.edu.ve
-NOERROR	vl-2210-facyt-computacion-gw.net.dimetel.uc.edu.ve
-NOERROR	vl-112-rediuc-barb-serv-gw.net.dimetel.uc.edu.ve
-NOERROR	vl-2060-face-aulas-norte-pb-gw.net.dimetel.uc.edu.ve
-NOERROR	www.uctv.uc.edu.ve
-NOERROR	wpalmer-comp.facyt.uc.edu.ve
-NOERROR	produccion-uc.bc.uc.edu.ve
-SERVFAIL	hibrido.lan.dimetel.uc.edu.ve
-NOERROR	dhcs.uc.edu.ve
-SERVFAIL	diuc-9659.diucp.uc.edu.ve
-NOERROR	proxy-a-94-59.uc.edu.ve
-NOERROR	vl-1277-facyt-biblioteca-gw.net.dimetel.uc.edu.ve
-NOERROR	smtp4.uc.edu.ve
-NOERROR	webserver2.dimetel.uc.edu.ve
-NOERROR	beta.inventario.dimetel.uc.edu.ve
-NOERROR	fcsvirtual.dta.uc.edu.ve
-NOERROR	administracion.facyt.uc.edu.ve
-SERVFAIL	adm-dimetel.lan.dimetel.uc.edu.ve
-NOERROR	saga1.fcjp.uc.edu.ve
-SERVFAIL	trans-0hc.diucp.uc.edu.ve
-NOERROR	filuc.uc.edu.ve
-SERVFAIL	hcm.diucp.uc.edu.ve
-NOERROR	radio.uc.edu.ve
-NXDOMAIN	www.ingenieria.cid.uc.edu.ve
-NOERROR	eth-5-diuc-gw2.net.dimetel.uc.edu.ve
-NOERROR	entornodev.facyt.uc.edu.ve
-NOERROR	www.sociedadastronomica.uc.edu.ve
-NOERROR	vl-2565-fcs-decanato-gw.net.dimetel.uc.edu.ve
-NOERROR	otlet.bc.uc.edu.ve
-SERVFAIL	diuc-27aad8059b.diucp.uc.edu.ve
-NOERROR	sw1-docencia.facyt.uc.edu.ve
-SERVFAIL	prensa-graba2.lan.dimetel.uc.edu.ve
-NOERROR	vl-1330-faces-postgrado-gw.net.dimetel.uc.edu.ve
-NOERROR	pg.fcjp.uc.edu.ve
-NOERROR	neptuno.facyt.uc.edu.ve
-NOERROR	lab-doc2-1.facyt.uc.edu.ve
-NOERROR	odontologia-p9-1-wl.wifi.uc.edu.ve
-NOERROR	infouc.uc.edu.ve
-NOERROR	www.servicios.dimetel.uc.edu.ve
-NOERROR	lab-doc2-29.facyt.uc.edu.ve
-NOERROR	aragua.fcs.uc.edu.ve
-NOERROR	www.sice.facyt.uc.edu.ve
-NXDOMAIN	devel1.dimetel.uc.edu.ve
-NOERROR	faraute.facyt.uc.edu.ve
-NOERROR	fordocead.dta.uc.edu.ve
-NOERROR	capacitacion.uc.edu.ve
-NOERROR	fcarabobensis.facyt.uc.edu.ve
-NOERROR	postgrado.fcs.uc.edu.ve
-NOERROR	netsvc-p-10.dimetel.uc.edu.ve
-NOERROR	sagapg.fcjp.uc.edu.ve
-SERVFAIL	administracion1.lan.dimetel.uc.edu.ve
-NOERROR	prebo-13.net.dimetel.uc.edu.ve
-SERVFAIL	ediciontv2.lan.dimetel.uc.edu.ve
-NOERROR	seduc.uc.edu.ve
-NOERROR	viejo.reduc.uc.edu.ve
-NOERROR	www.boletin.uc.edu.ve
-NOERROR	cnm.uc.edu.ve
-NOERROR	fcjpvirtual.uc.edu.ve
-SERVFAIL	admnistra2.lan.dimetel.uc.edu.ve
-NOERROR	proxy-a-94-53.uc.edu.ve
-NOERROR	tim.bc.uc.edu.ve
-NXDOMAIN	ceticea-va.fcs.uc.edu.ve
-NOERROR	x2100.facyt.uc.edu.ve
-NOERROR	fcs.uc.edu.ve
-NOERROR	galeria.uc.edu.ve
-SERVFAIL	adm-651.diucp.uc.edu.ve
-NOERROR	biomedica-2.net.dimetel.uc.edu.ve
-NOERROR	www.asistencia.dimetel.uc.edu.ve
-SERVFAIL	hcmxxii-0073ms.diucp.uc.edu.ve
-NOERROR	servimpresion.bc.uc.edu.ve
-NOERROR	faces.vconf.uc.edu.ve
-NOERROR	itmon4.dimetel.uc.edu.ve
-NXDOMAIN	www2.ingenieria.cid.uc.edu.ve
-NOERROR	phd.facyt.uc.edu.ve
-NOERROR	inventario.dimetel.uc.edu.ve
-NOERROR	portal.facyt.uc.edu.ve
-SERVFAIL	comision-0119.diucp.uc.edu.ve
-NOERROR	capellaniauc.uc.edu.ve
-NOERROR	vl-2560-enfermeria-gw.net.dimetel.uc.edu.ve
-NOERROR	deporte.uc.edu.ve
-NOERROR	inscripciones.fcs.uc.edu.ve
-NXDOMAIN	builder5.dimetel.uc.edu.ve
-NOERROR	alpha.dimetel.uc.edu.ve
-SERVFAIL	atciu-b083.diucp.uc.edu.ve
-NOERROR	hpserver-elearning.facyt.uc.edu.ve
-NOERROR	www.ing.uc.edu.ve
-NOERROR	imap.uc.edu.ve
-SERVFAIL	diuc-88920f2a5e.diucp.uc.edu.ve
-SERVFAIL	lenovo-maab.diucp.uc.edu.ve
-NOERROR	www.wifi.uc.edu.ve
-NOERROR	proxy-b-77-250.uc.edu.ve
-NOERROR	eventos.bc.uc.edu.ve
+servicio.facyt.uc.edu.ve
+www.sabi.bc.uc.edu.ve
+dae.postgrado.face.uc.edu.ve
+proxy-p-1-2.uc.edu.ve
+hydra-lab3.facyt.uc.edu.ve
+proxy-b-77-246.uc.edu.ve
+www.pasantias.facyt.uc.edu.ve
+inventario.bc.uc.edu.ve
+conauc.uc.edu.ve
+www.sagapg.fcjp.uc.edu.ve
+www.dimetel.uc.edu.ve
+pia.faces.uc.edu.ve
+entornovirtual.facyt.uc.edu.ve
+mercurio.dta.uc.edu.ve
+lab-doc2-2.facyt.uc.edu.ve
+web-p-5.dimetel.uc.edu.ve
+sice1.facyt.uc.edu.ve
+vpn-b-1.dimetel.uc.edu.ve
+priov.uc.edu.ve
+fileserver1.dimetel.uc.edu.ve
+www.digaes.uc.edu.ve
+vl-1110-ing-deporte-gw.net.dimetel.uc.edu.ve
+diuc-1.net.dimetel.uc.edu.ve
+vl-182-rediuc-2.net.dimetel.uc.edu.ve
+vl-144-faces-1.net.dimetel.uc.edu.ve
+itmon-p-3.dimetel.uc.edu.ve
+lab-doc2-16.facyt.uc.edu.ve
+time1.uc.edu.ve
+mecanicauc.ing.uc.edu.ve
+i3-elearning4.facyt.uc.edu.ve
+fe-0-0-filuc-2.net.dimetel.uc.edu.ve
+vl-180-barb-2.net.dimetel.uc.edu.ve
+almamater.face.uc.edu.ve
+www.xicoloquio.bc.uc.edu.ve
+vl-1202-fcs-histologia-gw.net.dimetel.uc.edu.ve
+proxy-p-1-7.uc.edu.ve
+rect-secretaria-1-wl.wifi.uc.edu.ve
+salasdecine.uc.edu.ve
+www.coddeciuc.uc.edu.ve
+ariel.facyt.uc.edu.ve
+ag1.dta.uc.edu.ve
+comisionaduriana.uc.edu.ve
+f.correo.uc.edu.ve
+m.sitea.faces.uc.edu.ve
+viceacademico.uc.edu.ve
+vl-2530-fcs-postgrado-gw.net.dimetel.uc.edu.ve
+vpn.dimetel.uc.edu.ve
+tools.facyt.uc.edu.ve
+tesis.facyt.uc.edu.ve
+admin-hydra.facyt.uc.edu.ve
+proxy-a-94-62.uc.edu.ve
+ruben.uc.edu.ve
+www.catrauc.uc.edu.ve
+frontend-play.facyt.uc.edu.ve
+gateway2.facyt.uc.edu.ve
+www.face.uc.edu.ve
+prebo-dimetel-2-wl.wifi.uc.edu.ve
+play1.facyt.uc.edu.ve
+www.capellania.uc.edu.ve
+lab-doc2-9.facyt.uc.edu.ve
+proxy-b-77-242.uc.edu.ve
+grid.dta.uc.edu.ve
+www.lapredim.ing.uc.edu.ve
+www.cultura.uc.edu.ve
+gutenberg.bc.uc.edu.ve
+lab-doc2-11.facyt.uc.edu.ve
+vl-2130-derecho-admin-norte-p2-gw.net.dimetel.uc.edu.ve
+prebo-uctv-1-wl.wifi.uc.edu.ve
+hydra-lab1.facyt.uc.edu.ve
+vl-2075-face-aulas-norte-serv-gw.net.dimetel.uc.edu.ve
+vl-280-fundauc-gw.net.dimetel.uc.edu.ve
+lab-doc2-8.facyt.uc.edu.ve
+www.correo.uc.edu.ve
+laberintodepapel.uc.edu.ve
+facevirtual.dta.uc.edu.ve
+dta.vconf.uc.edu.ve
+vl-2041-face-adm-sur-p1-gw.net.dimetel.uc.edu.ve
+www.aragua.fcs.uc.edu.ve
+beta2.uc.edu.ve
+vpn-p-3.dimetel.uc.edu.ve
+sigebi.bc.uc.edu.ve
+smtp-out-3.mx.uc.edu.ve
+proxy-a-94-49.uc.edu.ve
+smtp3.mx.uc.edu.ve
+higgs.cid.uc.edu.ve
+ezra.ing.uc.edu.ve
+vl-2042-face-adm-sur-p2-gw.net.dimetel.uc.edu.ve
+ceticea.fcs.uc.edu.ve
+ing-biblioteca-pb-1-wl.wifi.uc.edu.ve
+cdch.uc.edu.ve
+pop.uc.edu.ve
+labmultimedia3.facyt.uc.edu.ve
+www.sertalento.uc.edu.ve
+web-b-1.dimetel.uc.edu.ve
+mangosta.facyt.uc.edu.ve
+vl-2555-odontologia11-gw.net.dimetel.uc.edu.ve
+www.ag.dta.uc.edu.ve
+higgs.bc.uc.edu.ve
+desarrollo-web.facyt.uc.edu.ve
+cadmun.bc.uc.edu.ve
+inscripciones.odontologia.uc.edu.ve
+vl-282-diseno-curricular-gw.net.dimetel.uc.edu.ve
+postgrado.uc.edu.ve
+intranet.odontologia.uc.edu.ve
+www.tiempo.uc.edu.ve
+vl-3551-invesnut-gw.net.dimetel.uc.edu.ve
+ustpro-01.facyt.uc.edu.ve
+vl-2155-derecho-adm-sur-p3-gw.net.dimetel.uc.edu.ve
+vl-1136-ing-basica-gw.net.dimetel.uc.edu.ve
+proxy-b-77-253.uc.edu.ve
+jupenauc.uc.edu.ve
+inscripciones.facyt.uc.edu.ve
+admision.face.uc.edu.ve
+lasbrujasyzuzon.uc.edu.ve
+derecho.uc.edu.ve
+test.reduc.uc.edu.ve
+sertalento.uc.edu.ve
+cemvicc.facyt.uc.edu.ve
+salus-online.fcs.uc.edu.ve
+proxy-p-1-4.uc.edu.ve
+ing.uc.edu.ve
+proxy-p-1-3.uc.edu.ve
+bc.uc.edu.ve
+www.intranet3.facyt.uc.edu.ve
+builder.dimetel.uc.edu.ve
+deploy3.dimetel.uc.edu.ve
+sivuc.uc.edu.ve
+vl-2535-odontologia9-gw.net.dimetel.uc.edu.ve
+vl-1109-ing-matematica-gw.net.dimetel.uc.edu.ve
+lab-doc2-23.facyt.uc.edu.ve
+itmon-p-1.dimetel.uc.edu.ve
+rect-rrhh-comtec-1-wl.wifi.uc.edu.ve
+dae.odontologia.uc.edu.ve
+vl-220-cdch-gw.net.dimetel.uc.edu.ve
+lab-doc2-26.facyt.uc.edu.ve
+vrad.uc.edu.ve
+allinone2-elearning.facyt.uc.edu.ve
+proxy-p-1-8.uc.edu.ve
+dta.uc.edu.ve
+vl-201-dimetel-gw.net.dimetel.uc.edu.ve
+digaes.uc.edu.ve
+www.salus-online.fcs.uc.edu.ve
+eth-0-152-prebo-10.net.dimetel.uc.edu.ve
+www.desco.uc.edu.ve
+radio.dta.uc.edu.ve
+time2.dimetel.uc.edu.ve
+labredes5.facyt.uc.edu.ve
+vl-3555-pipsuc-gw.net.dimetel.uc.edu.ve
+impresora-hcm-vina-1.servicios.uc.edu.ve
+diuc.uc.edu.ve
+vl-2251-facyt-labredes-gw.net.dimetel.uc.edu.ve
+face-bib-1-wl.wifi.uc.edu.ve
+www.daiuc.uc.edu.ve
+estudiantes.faces.uc.edu.ve
+www.cnm.uc.edu.ve
+protocolo.uc.edu.ve
+www.fcs.uc.edu.ve
+practica.facyt.uc.edu.ve
+vl-1275-cultura-gw.net.dimetel.uc.edu.ve
+proxy-p-1.uc.edu.ve
+dimetel.uc.edu.ve
+plat.dta.uc.edu.ve
+revista.ing.uc.edu.ve
+stream5a.dimetel.uc.edu.ve
+sitea.faces.uc.edu.ve
+netsvc-p-8.dimetel.uc.edu.ve
+aulavirtual.fcjp.uc.edu.ve
+itmon1.dimetel.uc.edu.ve
+proxy-a-94-63.uc.edu.ve
+www.egreamigos.uc.edu.ve
+proxy-b-77-251.uc.edu.ve
+facyt-matematica-2-wl.wifi.uc.edu.ve
+lab-doc2-28.facyt.uc.edu.ve
+prestamo.bc.uc.edu.ve
+laboratorios.facyt.uc.edu.ve
+vl-296-desco-gw.net.dimetel.uc.edu.ve
+fundacid.bc.uc.edu.ve
+odontologia-p7-1-wl.wifi.uc.edu.ve
+ing-ele-potencia-1-wl.wifi.uc.edu.ve
+saga3.fcjp.uc.edu.ve
+munin.uc.edu.ve
+www.inscripciones.uc.edu.ve
+facyt-comp-opsu-1-wl.wifi.uc.edu.ve
+ge-5-2-170-prebo-2.net.dimetel.uc.edu.ve
+itmon-p-6.dimetel.uc.edu.ve
+dde.uc.edu.ve
+gubs.uc.edu.ve
+www.apucitovirtual.uc.edu.ve
+bioanalisis-postgrado-1-wl.wifi.uc.edu.ve
+vl-186-prebo-4.net.dimetel.uc.edu.ve
+beta.dimetel.uc.edu.ve
+lab-doc2-18.facyt.uc.edu.ve
+asistencia.dimetel.uc.edu.ve
+hoder.uc.edu.ve
+www.anabisai.bc.uc.edu.ve
+admision.fcs.uc.edu.ve
+gsites.dimetel.uc.edu.ve
+labredes7.facyt.uc.edu.ve
+dptodibujo.ing.uc.edu.ve
+proxy-a-32-6.uc.edu.ve
+lab-doc2-19.facyt.uc.edu.ve
+vl-1238-fcs-microbiologia-gw.net.dimetel.uc.edu.ve
+aulas-3com.facyt.uc.edu.ve
+cinearte-1-wl.wifi.uc.edu.ve
+www.ipapedi.uc.edu.ve
+deploy-p-3.dimetel.uc.edu.ve
+server1.mirror.uc.edu.ve
+listas.uc.edu.ve
+cpi.ing.uc.edu.ve
+vl-430-dta-gw.net.dimetel.uc.edu.ve
+vl-180-face-1.net.dimetel.uc.edu.ve
+wifi-computacion1.facyt.uc.edu.ve
+correo.uc.edu.ve
+admin-hydra-lab2.facyt.uc.edu.ve
+fundabiomed.fcs.uc.edu.ve
+netsvc-b-3.dimetel.uc.edu.ve
+siragon-ag.facyt.uc.edu.ve
+vrac.uc.edu.ve
+vl-2120-derecho-admin-norte-pb-gw.net.dimetel.uc.edu.ve
+civil.ing.uc.edu.ve
+vl-188-prebo-5.net.dimetel.uc.edu.ve
+vl-171-prebo-5.net.dimetel.uc.edu.ve
+www.caa.uc.edu.ve
+alfa2.uc.edu.ve
+proxy-b-77-244.uc.edu.ve
+ciadana.fcs.uc.edu.ve
+postgrado.fcjp.uc.edu.ve
+prouc.bc.uc.edu.ve
+ipapedi.uc.edu.ve
+lab-doc2-25.facyt.uc.edu.ve
+www.admision.uc.edu.ve
+locatel.uc.edu.ve
+control.ing.uc.edu.ve
+odovirtual.dta.uc.edu.ve
+lapredim.ing.uc.edu.ve
+lab-doc2-7.facyt.uc.edu.ve
+bioquimica-1-wl.wifi.uc.edu.ve
+fcs-mental-1-wl.wifi.uc.edu.ve
+vl-178-psiquiatrico-2.net.dimetel.uc.edu.ve
+proxy-a-94-54.uc.edu.ve
+vl-1102-datacenter-gw.net.dimetel.uc.edu.ve
+atenas.dimetel.uc.edu.ve
+sice2.facyt.uc.edu.ve
+intranet2.facyt.uc.edu.ve
+facyt-biolobia-2-wl.wifi.uc.edu.ve
+vl-188-cmrco-1.net.dimetel.uc.edu.ve
+vl-1137-ing-decanato-gw.net.dimetel.uc.edu.ve
+m.postgrado.fcs.uc.edu.ve
+facytvirtual.uc.edu.ve
+saga2.fcjp.uc.edu.ve
+face.uc.edu.ve
+facyt-biologia-1-wl.wifi.uc.edu.ve
+uami.uc.edu.ve
+www.octiuc.cdch.uc.edu.ve
+vl-1101-rediuc-gw.net.dimetel.uc.edu.ve
+rect-dicae-2-wl.wifi.uc.edu.ve
+cochrane.fcs.uc.edu.ve
+labcom.ing.uc.edu.ve
+ils.facyt.uc.edu.ve
+proxy-b-77-243.uc.edu.ve
+fileserver-p-1.dimetel.uc.edu.ve
+www.directorio.uc.edu.ve
+lab-doc2-17.facyt.uc.edu.ve
+postgrado.faces.uc.edu.ve
+entornovirtual2.facyt.uc.edu.ve
+entorno.facyt.uc.edu.ve
+bor.uc.edu.ve
+www.poesia.uc.edu.ve
+itmon-p-4.dimetel.uc.edu.ve
+mail.facyt.uc.edu.ve
+aulavirtual.ing.uc.edu.ve
+poesia.uc.edu.ve
+idemat.facyt.uc.edu.ve
+vpn2.dimetel.uc.edu.ve
+smtp4.mx.uc.edu.ve
+vl-1132-ing-comp-gw.net.dimetel.uc.edu.ve
+reduc-1-wl.wifi.uc.edu.ve
+multimedia.facyt.uc.edu.ve
+facyt-consejo-1.wifi.uc.edu.ve
+vl-1125-ing-quimica-basica-gw.net.dimetel.uc.edu.ve
+facyt-comp-1-wl.wifi.uc.edu.ve
+aulas.aragua.fcs.uc.edu.ve
+gateway.bc.uc.edu.ve
+prebo-14.net.dimetel.uc.edu.ve
+www.apuc.uc.edu.ve
+maraton.facyt.uc.edu.ve
+www.galeria.uc.edu.ve
+ambiental.ing.uc.edu.ve
+directorio.uc.edu.ve
+intranet.uc.edu.ve
+www.bioanalisis.fcs.uc.edu.ve
+cee.uc.edu.ve
+www.idemat.facyt.uc.edu.ve
+cei.uc.edu.ve
+boletin.bc.uc.edu.ve
+inscripcion.uc.edu.ve
+mu.uc.edu.ve
+vl-1276-facyt-biologia-gw.net.dimetel.uc.edu.ve
+labmultimedia6.facyt.uc.edu.ve
+gieco.uc.edu.ve
+www.viceacademico.uc.edu.ve
+vl-522e-biomedica-p1-este-gw.net.dimetel.uc.edu.ve
+mailservices.uc.edu.ve
+babilonia.facyt.uc.edu.ve
+e.correo.uc.edu.ve
+www.cor.dimetel.uc.edu.ve
+tyr.uc.edu.ve
+dinet.uc.edu.ve
+deploy.dimetel.uc.edu.ve
+lab-doc2-14.facyt.uc.edu.ve
+saludmental.uc.edu.ve
+vl-174-faces-1.net.dimetel.uc.edu.ve
+apuc.uc.edu.ve
+vl-524e-biomedica-p2-este-gw.net.dimetel.uc.edu.ve
+vl-2110-derecho-aulas-norte-p2-gw.net.dimetel.uc.edu.ve
+www.intranet.uc.edu.ve
+eth0-104-prebo-10.net.dimetel.uc.edu.ve
+private-gw.net.dimetel.uc.edu.ve
+face-ce-1-ot.wifi.uc.edu.ve
+facyt-comp-1-ot.wifi.uc.edu.ve
+inscripcion.odontologia.uc.edu.ve
+vl-2024-face-adm-norte-p3-gw.net.dimetel.uc.edu.ve
+www.sldae.fcs.uc.edu.ve
+mirror.uc.edu.ve
+ceate.faces.uc.edu.ve
+www.postgrado.uc.edu.ve
+proxy-a-94-51.uc.edu.ve
+rect-seconsj-2-inv.wifi.uc.edu.ve
+bioanalisis-1.net.dimetel.uc.edu.ve
+cursos.facyt.uc.edu.ve
+faces.bc.uc.edu.ve
+netsvc-p-3.dimetel.uc.edu.ve
+ge-2-1-prebo-2.net.dimetel.uc.edu.ve
+ing-conciencia-1-wl.wifi.uc.edu.ve
+oauth.uc.edu.ve
+vl-2510-bioanalisis-gw.net.dimetel.uc.edu.ve
+microbiologia-1-wl.wifi.uc.edu.ve
+anfiteatro-1-wl.wifi.uc.edu.ve
+time2.uc.edu.ve
+riuc.bc.uc.edu.ve
+i3-elearning3.facyt.uc.edu.ve
+sb-18-64.dimetel.uc.edu.ve
+vpn-p-2.dimetel.uc.edu.ve
+inscripciones.uc.edu.ve
+prebo-fmuc-1-wl.wifi.uc.edu.ve
+www.facyt.uc.edu.ve
+www.intranet.dimetel.uc.edu.ve
+fm.uc.edu.ve
+intranet.dimetel.uc.edu.ve
+facyt-quimica-1-wl.wifi.uc.edu.ve
+vl-525e-biomedica-p2-sur-gw.net.dimetel.uc.edu.ve
+cdch-1-wl.wifi.uc.edu.ve
+ciset.uc.edu.ve
+cor.dimetel.uc.edu.ve
+rect-digoi-1-wl.wifi.uc.edu.ve
+webserver1.diuc.uc.edu.ve
+vl-112-prebo-5.net.dimetel.uc.edu.ve
+snotra.uc.edu.ve
+ag4.dta.uc.edu.ve
+vpn-r-1.dimetel.uc.edu.ve
+pki1.uc.edu.ve
+labmultimedia5.facyt.uc.edu.ve
+recepcion-doc.facyt.uc.edu.ve
+s02.uc.edu.ve
+cineartepatiotrigal.uc.edu.ve
+www.bc.uc.edu.ve
+produccion.dta.uc.edu.ve
+dimai.uc.edu.ve
+www.sucai.facyt.uc.edu.ve
+loki.uc.edu.ve
+sel.fcjp.uc.edu.ve
+xi.uc.edu.ve
+www.sicedev.facyt.uc.edu.ve
+labredes1.facyt.uc.edu.ve
+mat.facyt.uc.edu.ve
+dae.faces.uc.edu.ve
+mailhub.uc.edu.ve
+nsmtp.uc.edu.ve
+vl-521e-biomedica-pb-sur-gw.net.dimetel.uc.edu.ve
+vl-2062-face-aulas-norte-p2-gw.net.dimetel.uc.edu.ve
+proxy-a-94-61.uc.edu.ve
+odontologia-p11-oc-1-wl.wifi.uc.edu.ve
+www.ceate.faces.uc.edu.ve
+liveupdate.facyt.uc.edu.ve
+vl-2022-face-adm-norte-p2-gw.net.dimetel.uc.edu.ve
+hydra.facyt.uc.edu.ve
+netsvc-b-5.dimetel.uc.edu.ve
+lofn.uc.edu.ve
+www.cadmun.bc.uc.edu.ve
+automatizacion.ing.uc.edu.ve
+www.uc.edu.ve
+sice.facyt.uc.edu.ve
+webserver3.dimetel.uc.edu.ve
+camara-dlink.facyt.uc.edu.ve
+videos.dta.uc.edu.ve
+pregrado.aragua.fcs.uc.edu.ve
+admision.uc.edu.ve
+ing-cest-1-wl.wifi.uc.edu.ve
+proxy-b-77-245.uc.edu.ve
+cid.uc.edu.ve
+prebo-uctv-2-wl.wifi.uc.edu.ve
+juvines.uc.edu.ve
+rediuc-1.net.dimetel.uc.edu.ve
+www.saga2.fcjp.uc.edu.ve
+www2.bc.uc.edu.ve
+itmon3.dimetel.uc.edu.ve
+hawking.bc.uc.edu.ve
+vl-500-dpf-gw.net.dimetel.uc.edu.ve
+nitrogeno.dta.uc.edu.ve
+octiuc.cdch.uc.edu.ve
+vl-2145-derecho-adm-sur-p1-gw.net.dimetel.uc.edu.ve
+www.fcjp.uc.edu.ve
+prebo-dimetel-1-wl.wifi.uc.edu.ve
+criminalistica.uc.edu.ve
+correo.facyt.uc.edu.ve
+cloud02.fcjp.uc.edu.ve
+web-p-10.dimetel.uc.edu.ve
+vl-410-dde-gw.net.dimetel.uc.edu.ve
+sicedev.facyt.uc.edu.ve
+labredes9.facyt.uc.edu.ve
+vl-2125-derecho-admin-norte-p1-gw.net.dimetel.uc.edu.ve
+dvr-decanato.facyt.uc.edu.ve
+vl-1226-fcs-fisiopatologia-gw.net.dimetel.uc.edu.ve
+play2.facyt.uc.edu.ve
+computacion-3com.facyt.uc.edu.ve
+vl-264-disiuc-gw.net.dimetel.uc.edu.ve
+rect-consjurd-1-wl.wifi.uc.edu.ve
+www.criminalistica.uc.edu.ve
+hydra-lab4.facyt.uc.edu.ve
+i3-elearning2.facyt.uc.edu.ve
+rect-despacho-2-wl.wifi.uc.edu.ve
+ing-admserv-1-wl.wifi.uc.edu.ve
+pipsuc.uc.edu.ve
+vl-1130-ing-fisica-gw.net.dimetel.uc.edu.ve
+fcs-pab17-1-wl.wifi.uc.edu.ve
+prebo-rediuc-2-wl.wifi.uc.edu.ve
+ldapmaster.uc.edu.ve
+center-computacion.facyt.uc.edu.ve
+catra.uc.edu.ve
+sucai.facyt.uc.edu.ve
+cheetah.ing.uc.edu.ve
+paifaces.uc.edu.ve
+www.multimedia.facyt.uc.edu.ve
+web-barb-1.dimetel.uc.edu.ve
+movil.sitea.faces.uc.edu.ve
+rediuc-barb-1-wl.wifi.uc.edu.ve
+fundaceate-1-ex.wifi.uc.edu.ve
+codec-fm.dimetel.uc.edu.ve
+bitacora.face.uc.edu.ve
+proxy-a-94-57.uc.edu.ve
+www.facesvirtual.uc.edu.ve
+web-p-7.dimetel.uc.edu.ve
+vl-520e-biomedica-pb-este-gw.net.dimetel.uc.edu.ve
+vl-178-barb-2.net.dimetel.uc.edu.ve
+ing-prodefain-1-wl.wifi.uc.edu.ve
+vl-402-idu-mez2-gw.net.dimetel.uc.edu.ve
+gateway.cid.uc.edu.ve
+center-barbula.facyt.uc.edu.ve
+boletin.uc.edu.ve
+vl-2080-face-aulas-sur-pb-gw.net.dimetel.uc.edu.ve
+smtp-out-2.mx.uc.edu.ve
+www.odontologia.uc.edu.ve
+idiomas.face.uc.edu.ve
+lab-doc2-21.facyt.uc.edu.ve
+infovirtual.bc.uc.edu.ve
+faces-1.net.dimetel.uc.edu.ve
+ing-lab-promat-1-wl.wifi.uc.edu.ve
+ptolomeo.ing.uc.edu.ve
+bioanalisis-pb-1-wl.wifi.uc.edu.ve
+i3-elearning1.facyt.uc.edu.ve
+web-p-1.dimetel.uc.edu.ve
+www.fundabiomed.fcs.uc.edu.ve
+www.radio.uc.edu.ve
+backup-p-1.dimetel.uc.edu.ve
+facesvirtual.uc.edu.ve
+prebo-egreamigos-1-wl.wifi.uc.edu.ve
+vl-989-prebo-5.net.dimetel.uc.edu.ve
+impresora-disiuc-1.servicios.uc.edu.ve
+bd1.facyt.uc.edu.ve
+egresados.uc.edu.ve
+apc5000.facyt.uc.edu.ve
+www.dde.uc.edu.ve
+vl-989-lavina-1.net.dimetel.uc.edu.ve
+facyt-decanato-1-wl.wifi.uc.edu.ve
+ing-decanato-1-wl.wifi.uc.edu.ve
+www.entornodev.facyt.uc.edu.ve
+contabilidad.ing.uc.edu.ve
+cert.uc.edu.ve
+secretaria.uc.edu.ve
+encuesta.bc.uc.edu.ve
+seluc.uc.edu.ve
+comitevivienda.uc.edu.ve
+dns.facyt.uc.edu.ve
+vl-176-prebo-4.net.dimetel.uc.edu.ve
+smtp-out.mx.uc.edu.ve
+sicebarbula.facyt.uc.edu.ve
+administrativo.facyt.uc.edu.ve
+siii.uc.edu.ve
+vl-2081-face-aulas-sur-p1-gw.net.dimetel.uc.edu.ve
+cadenas.radio.uc.edu.ve
+deploy-p-1.dimetel.uc.edu.ve
+vl-1127-ing-biblioteca-gw.net.dimetel.uc.edu.ve
+face-auditorio-2-wl.wifi.uc.edu.ve
+bach.face.uc.edu.ve
+virtual.facyt.uc.edu.ve
+webserver4.dimetel.uc.edu.ve
+dticing.ing.uc.edu.ve
+labredes3.facyt.uc.edu.ve
+facyt-matematica-1-wl.wifi.uc.edu.ve
+odontologia-p7-2-wl.wifi.uc.edu.ve
+bioanalisis-p1-1-wl.wifi.uc.edu.ve
+gateway.facyt.uc.edu.ve
+asovac.uc.edu.ve
+asistente-doc2.facyt.uc.edu.ve
+rect-dicae-3-wl.wifi.uc.edu.ve
+prebo-12.net.dimetel.uc.edu.ve
+vl-3501-ina-externo-gw.net.dimetel.uc.edu.ve
+admin-hydra-lab4.facyt.uc.edu.ve
+alcatel-ipphone-00809f55d939.ext.teleuc.dimetel.uc.edu.ve
+vl-2105-derecho-aulas-norte-p1-gw.net.dimetel.uc.edu.ve
+vl-2020-face-adm-norte-pb-gw.net.dimetel.uc.edu.ve
+ing-quimica-p1-1-wl.wifi.uc.edu.ve
+solicitudes.cuentas.uc.edu.ve
+vl-1106-ing-imyca-gw.net.dimetel.uc.edu.ve
+www.sa.ing.uc.edu.ve
+fisica-1.net.dimetel.uc.edu.ve
+play3.facyt.uc.edu.ve
+facyt-comp-2-wl.wifi.uc.edu.ve
+www.socrates.faces.uc.edu.ve
+iforma.bc.uc.edu.ve
+dptocomp.ing.uc.edu.ve
+www.inscripcion.uc.edu.ve
+hospitaldigital.uc.edu.ve
+orapro.diuc.uc.edu.ve
+lab-doc2-12.facyt.uc.edu.ve
+www.cert.uc.edu.ve
+smtp3.uc.edu.ve
+vl-200-rediuc-prebo-gw.net.dimetel.uc.edu.ve
+otlet.cid.uc.edu.ve
+servicios.dimetel.uc.edu.ve
+pandora.ing.uc.edu.ve
+ing-biblioteca-p2-1-wl.wifi.uc.edu.ve
+labredes2.facyt.uc.edu.ve
+time1x.uc.edu.ve
+dae.ing.uc.edu.ve
+smtp5.mx.uc.edu.ve
+ag2.dta.uc.edu.ve
+vl-1131-ing-dibujo-gw.net.dimetel.uc.edu.ve
+www.gsites.dimetel.uc.edu.ve
+vl-2575-bibcsvida-gw.net.dimetel.uc.edu.ve
+vl-260-hcm-vina-gw.net.dimetel.uc.edu.ve
+intranet3.facyt.uc.edu.ve
+rect-mediosypublic-1-wl.wifi.uc.edu.ve
+citas.digaes.uc.edu.ve
+vl-1305-faces-pregrado-p1-gw.net.dimetel.uc.edu.ve
+lab-doc2-4.facyt.uc.edu.ve
+rediuc-2.net.dimetel.uc.edu.ve
+webserver1.dimetel.uc.edu.ve
+fcjpvirtual.dta.uc.edu.ve
+server.bc.uc.edu.ve
+vl-2115-derecho-aulas-norte-p3-gw.net.dimetel.uc.edu.ve
+fcs-bibvida-1-wl.wifi.uc.edu.ve
+vl-2220-facyt-quimica-gw.net.dimetel.uc.edu.ve
+vl-1134-ing-mecanica-gw.net.dimetel.uc.edu.ve
+preinscripciones.apucito.uc.edu.ve
+rect-mant-1-wl.wifi.uc.edu.ve
+vl-186-diuc-1.net.dimetel.uc.edu.ve
+secure.wifi.uc.edu.ve
+dermatologiachet.uc.edu.ve
+pipsuc-1-wl.wifi.uc.edu.ve
+ldap.uc.edu.ve
+ingevirtual.uc.edu.ve
+jornadacreativa.bc.uc.edu.ve
+ing-ele-sisauto-1-wl.wifi.uc.edu.ve
+www.reduc.uc.edu.ve
+rediuc-3.net.dimetel.uc.edu.ve
+labredes6.facyt.uc.edu.ve
+vl-2500-dices-gw.net.dimetel.uc.edu.ve
+vl-1231-fcs-anatomia-gw.net.dimetel.uc.edu.ve
+time3.uc.edu.ve
+catrauc.uc.edu.ve
+facyt-comp-2-ot.wifi.uc.edu.ve
+rect-rrhh-1-wl.wifi.uc.edu.ve
+dtic.faces.uc.edu.ve
+vl-2540-saludpublica-gw.net.dimetel.uc.edu.ve
+www.sitea.faces.uc.edu.ve
+labmultimedia2.facyt.uc.edu.ve
+rect-presupuesto-1-wl.wifi.uc.edu.ve
+rect-dicae-1-wl.wifi.uc.edu.ve
+vl-1128-ing-industrial-gw.net.dimetel.uc.edu.ve
+pai.faces.uc.edu.ve
+reliability.ing.uc.edu.ve
+fundacid.cid.uc.edu.ve
+ag.dta.uc.edu.ve
+lab-doc2-6.facyt.uc.edu.ve
+intranet.facyt.uc.edu.ve
+vl-2043-face-adm-sur-p3-gw.net.dimetel.uc.edu.ve
+ag2.facyt.uc.edu.ve
+vl-2061-face-aulas-norte-p1-gw.net.dimetel.uc.edu.ve
+vl-1232-fcs-farmacologia-gw.net.dimetel.uc.edu.ve
+admin-laboratorios2.facyt.uc.edu.ve
+vl-2746-rect-rrhh-comtec-gw.net.dimetel.uc.edu.ve
+facevirtual.uc.edu.ve
+lab-doc2-15.facyt.uc.edu.ve
+archivos.dta.uc.edu.ve
+ing-basica-1-wl.wifi.uc.edu.ve
+face-tic-1-wl.wifi.uc.edu.ve
+faces-pre-1.net.dimetel.uc.edu.ve
+prebo-2.net.dimetel.uc.edu.ve
+facyt-comp-3-ot.wifi.uc.edu.ve
+vl-226-consj-apelaciones-gw.net.dimetel.uc.edu.ve
+proxy-a-94-52.uc.edu.ve
+lab-doc2-3.facyt.uc.edu.ve
+beta.asistencia.dimetel.uc.edu.ve
+concordia.facyt.uc.edu.ve
+ingresopostgradofouc.uc.edu.ve
+vl-2140-derecho-adm-sur-pb-gw.net.dimetel.uc.edu.ve
+seaduc.uc.edu.ve
+vl-1133-ing-civil-gw.net.dimetel.uc.edu.ve
+bioanalisis-p1-2-wl.wifi.uc.edu.ve
+www.diuc.uc.edu.ve
+ing-mecanica-2-wl.wifi.uc.edu.ve
+vl-1245-ing-telecom-gw.net.dimetel.uc.edu.ve
+fcs-mental-2-wl.wifi.uc.edu.ve
+prebo-rediuc-1-wl.wifi.uc.edu.ve
+ing-industrial-bib-1-wl.wifi.uc.edu.ve
+admin-hydra-lab3.facyt.uc.edu.ve
+cuentas.aragua.fcs.uc.edu.ve
+faces-pre-p2-1-wl.wifi.uc.edu.ve
+vl-152-prebo-5.net.dimetel.uc.edu.ve
+intranet.dta.uc.edu.ve
+vl-251-sedesur-gw.net.dimetel.uc.edu.ve
+netsvc-p-4.dimetel.uc.edu.ve
+octi.uc.edu.ve
+www.boletin.bc.uc.edu.ve
+final.facyt.uc.edu.ve
+fundauc-nat.net.dimetel.uc.edu.ve
+faces.uc.edu.ve
+postgrado.ing.uc.edu.ve
+www.faces.uc.edu.ve
+www.saga1.fcjp.uc.edu.ve
+ag3.facyt.uc.edu.ve
+vl-2082-face-aulas-sur-p2-gw.net.dimetel.uc.edu.ve
+faces-tic-1-wl.wifi.uc.edu.ve
+inscripcion.facyt.uc.edu.ve
+camoruco.ing.uc.edu.ve
+reduc.uc.edu.ve
+allinone1-elearning.facyt.uc.edu.ve
+www.eventos.bc.uc.edu.ve
+vl-1135-ing-epromocion-gw.net.dimetel.uc.edu.ve
+pasantias.facyt.uc.edu.ve
+graficos.cor.dimetel.uc.edu.ve
+dta2.vconf.uc.edu.ve
+s03.uc.edu.ve
+proxy-p-1-1.uc.edu.ve
+www.sice1.facyt.uc.edu.ve
+fileserver2.dimetel.uc.edu.ve
+vl-176-barb-2.net.dimetel.uc.edu.ve
+vl-1310-faces-pregrado-p2-gw.net.dimetel.uc.edu.ve
+nimap.uc.edu.ve
+web-b-2.dimetel.uc.edu.ve
+www.apucito.uc.edu.ve
+labmultimedia4.facyt.uc.edu.ve
+www.cdch.uc.edu.ve
+wifi.uc.edu.ve
+lab-doc2-13.facyt.uc.edu.ve
+vl-1250-ing-cpi-gw.net.dimetel.uc.edu.ve
+ing-mecanica-1-wl.wifi.uc.edu.ve
+desarrollo.faces.uc.edu.ve
+vl-224-audit-academica-gw.net.dimetel.uc.edu.ve
+g.correo.uc.edu.ve
+proxy-b-77-240.uc.edu.ve
+vl-281-dir-postgrado-gw.net.dimetel.uc.edu.ve
+ns2.ing.uc.edu.ve
+ml350.facyt.uc.edu.ve
+vl-1320-faces-pregrado-p4p5-gw.net.dimetel.uc.edu.ve
+uranio.dta.uc.edu.ve
+vl-400-idu-mez1-gw.net.dimetel.uc.edu.ve
+facyt-comp-1-local.net.dimetel.uc.edu.ve
+fundaucvirtual.uc.edu.ve
+atenas-ipv4.dimetel.uc.edu.ve
+ing-imyca-1-wl.wifi.uc.edu.ve
+sociedadastronomica.uc.edu.ve
+inscripciones.derecho.uc.edu.ve
+hydra-lab2.facyt.uc.edu.ve
+odontologia-p7-3-wl.wifi.uc.edu.ve
+www.inscripcion.facyt.uc.edu.ve
+face-auditorio-1-wl.wifi.uc.edu.ve
+i7server-elearning.facyt.uc.edu.ve
+webserver5.dimetel.uc.edu.ve
+aeuc.uc.edu.ve
+ge-5-1-171-prebo-2.net.dimetel.uc.edu.ve
+faces-pre-p4-1-wl.wifi.uc.edu.ve
+odontologia-p7-4-wl.wifi.uc.edu.ve
+ucmun.uc.edu.ve
+vl-1108-ing-mantenimiento-gw.net.dimetel.uc.edu.ve
+www.virtual.facyt.uc.edu.ve
+soporte-tic.ing.uc.edu.ve
+apucitovirtual.uc.edu.ve
+rect-compras-1-wl.wifi.uc.edu.ve
+owl.ing.uc.edu.ve
+ingevirtual.dta.uc.edu.ve
+asist-telematica.facyt.uc.edu.ve
+vl-1315-faces-pregrado-p3-gw.net.dimetel.uc.edu.ve
+www.seminario.bc.uc.edu.ve
+robot.facyt.uc.edu.ve
+face-bioquim-1-wl.wifi.uc.edu.ve
+eth-5-diuc-gw.net.dimetel.uc.edu.ve
+odontologia-p11-pa-1-wl.wifi.uc.edu.ve
+vpn-p-1.dimetel.uc.edu.ve
+gi-5-2-154-prebo-2.net.dimetel.uc.edu.ve
+coddeciuc.uc.edu.ve
+prebo-10.net.dimetel.uc.edu.ve
+cidtct.uc.edu.ve
+web-p-2.dimetel.uc.edu.ve
+www.juvines.uc.edu.ve
+admin-hydra-server5.facyt.uc.edu.ve
+cloud01.fcjp.uc.edu.ve
+labredes4.facyt.uc.edu.ve
+server.decanato.facyt.uc.edu.ve
+vl-112-prebo-4.net.dimetel.uc.edu.ve
+play4.facyt.uc.edu.ve
+vl-504-anfiteatro-gw.net.dimetel.uc.edu.ve
+vl-1100-rediuc-servidores-gw.net.dimetel.uc.edu.ve
+seminario.bc.uc.edu.ve
+vl-1129-ing-ctrl-est-gw.net.dimetel.uc.edu.ve
+theta.uc.edu.ve
+bioanalisis.fcs.uc.edu.ve
+vl-2250-facyt-matematica-gw.net.dimetel.uc.edu.ve
+rect-viceacad-1-wl.wifi.uc.edu.ve
+eth-0-154-prebo-10.net.dimetel.uc.edu.ve
+dices-1-sweth.net.dimetel.uc.edu.ve
+fcs-post-1-wl.wifi.uc.edu.ve
+server4.mirror.uc.edu.ve
+webcam2.dta.uc.edu.ve
+sunrayserver7.facyt.uc.edu.ve
+matematicas.facyt.uc.edu.ve
+bibcentral.bc.uc.edu.ve
+acme-ssl.uc.edu.ve
+www.filuc.uc.edu.ve
+webcam3.dta.uc.edu.ve
+rect-seconsj-1-inv.wifi.uc.edu.ve
+vl-432-bc-gw.net.dimetel.uc.edu.ve
+backup-b-1.dimetel.uc.edu.ve
+www.pipsuc.uc.edu.ve
+odontologia.uc.edu.ve
+ustpro-03.facyt.uc.edu.ve
+time.uc.edu.ve
+cieruc.fcs.uc.edu.ve
+facesvirtual.dta.uc.edu.ve
+laboratorios2.facyt.uc.edu.ve
+vps.faces.uc.edu.ve
+kiosko.uc.edu.ve
+www.postgradofcs.uc.edu.ve
+www.mriuc.bc.uc.edu.ve
+cimbuc-1-wl.wifi.uc.edu.ve
+industrial.ing.uc.edu.ve
+bioanalisis_na.fcs.uc.edu.ve
+itmon-p-2.dimetel.uc.edu.ve
+dqeb.ing.uc.edu.ve
+proxy-b-77-249.uc.edu.ve
+www.dta.uc.edu.ve
+lab-doc2-22.facyt.uc.edu.ve
+facyt-comp-1.net.dimetel.uc.edu.ve
+platon.facyt.uc.edu.ve
+dvr-aulas.facyt.uc.edu.ve
+ustpro-04.facyt.uc.edu.ve
+vl-144-prebo-5.net.dimetel.uc.edu.ve
+congreso.cdch.uc.edu.ve
+telecom.ing.uc.edu.ve
+webserver7.dimetel.uc.edu.ve
+admin-hydra-lab1.facyt.uc.edu.ve
+caa.uc.edu.ve
+labredes10.facyt.uc.edu.ve
+omega.facyt.uc.edu.ve
+www.desarrollo-web.facyt.uc.edu.ve
+pki2.uc.edu.ve
+proxy-a-94-56.uc.edu.ve
+smtp2.mx.uc.edu.ve
+lab-doc2-24.facyt.uc.edu.ve
+web-p-3.dimetel.uc.edu.ve
+smtp.uc.edu.ve
+www.inscripciones.facyt.uc.edu.ve
+navidad.uc.edu.ve
+lab-doc2-27.facyt.uc.edu.ve
+codec-fm-2.dimetel.uc.edu.ve
+labmultimedia1.facyt.uc.edu.ve
+www.entornovirtual.facyt.uc.edu.ve
+dvr-biblioteca.facyt.uc.edu.ve
+www.secretaria.uc.edu.ve
+desco.uc.edu.ve
+www.arje.bc.uc.edu.ve
+sldae.fcs.uc.edu.ve
+facyt-quimica-2-wl.wifi.uc.edu.ve
+bell2.dimetel.uc.edu.ve
+vl-1230-fcs-parasitologia-gw.net.dimetel.uc.edu.ve
+www.navidad.uc.edu.ve
+monitor.cor.dimetel.uc.edu.ve
+npop.uc.edu.ve
+proxy-p-1-6.uc.edu.ve
+sw2-docencia.facyt.uc.edu.ve
+ag1.facyt.uc.edu.ve
+sitea.odontologia.uc.edu.ve
+mp3.radio.uc.edu.ve
+cest.uc.edu.ve
+mg.facyt.uc.edu.ve
+labredes8.facyt.uc.edu.ve
+www.prestamo.bc.uc.edu.ve
+web-b-3.dimetel.uc.edu.ve
+titanio.dta.uc.edu.ve
+hospitalweb.uc.edu.ve
+alfa.facyt.uc.edu.ve
+smtp2.uc.edu.ve
+fcjp.uc.edu.ve
+vl-182-barb-2.net.dimetel.uc.edu.ve
+netsvc-p-1.dimetel.uc.edu.ve
+www.asovac.uc.edu.ve
+inscripcion.fcs.uc.edu.ve
+vl-502-centro-historico-gw.net.dimetel.uc.edu.ve
+mecanica.ing.uc.edu.ve
+zeus.ing.uc.edu.ve
+redes.facyt.uc.edu.ve
+d.correo.uc.edu.ve
+programas.aragua.fcs.uc.edu.ve
+admin-laboratorios.facyt.uc.edu.ve
+vl-2021-face-adm-norte-p1-gw.net.dimetel.uc.edu.ve
+admin-storage.facyt.uc.edu.ve
+www.rectorado.uc.edu.ve
+diracademica.ing.uc.edu.ve
+asistente-doc1.facyt.uc.edu.ve
+ni.uc.edu.ve
+smtp-out-1.mx.uc.edu.ve
+svn.dta.uc.edu.ve
+proxy-a-94-58.uc.edu.ve
+vl-2150-derecho-adm-sur-p2-gw.net.dimetel.uc.edu.ve
+solicitudes.facyt.uc.edu.ve
+bell.dimetel.uc.edu.ve
+smtp5.uc.edu.ve
+vl-1126-ing-electrica-gw.net.dimetel.uc.edu.ve
+web-p-3d.dimetel.uc.edu.ve
+uctv.uc.edu.ve
+proxy-p-1-9.uc.edu.ve
+desarrollo.ing.uc.edu.ve
+ing-asuntos-prof-1-wl.wifi.uc.edu.ve
+lab-doc2-5.facyt.uc.edu.ve
+ge-1-0-voipgw-1.net.dimetel.uc.edu.ve
+www.priov.uc.edu.ve
+lab-doc2-10.facyt.uc.edu.ve
+postgrado.face.uc.edu.ve
+bomberos.uc.edu.ve
+vl-170-prebo-4.net.dimetel.uc.edu.ve
+www.faces.bc.uc.edu.ve
+siteaadmin.faces.uc.edu.ve
+postgradofcs.uc.edu.ve
+sw-reproduccion.facyt.uc.edu.ve
+vl-996-h-prince-lara-gw.net.dimetel.uc.edu.ve
+labmultimedia7.facyt.uc.edu.ve
+jupena.uc.edu.ve
+proxy-p-1-5.uc.edu.ve
+vl-1014-lacruz-2.net.dimetel.uc.edu.ve
+ing-telecom-1-wl.wifi.uc.edu.ve
+ing-consejo-1-wl.wifi.uc.edu.ve
+cisco.ing.uc.edu.ve
+web-barb-2.dimetel.uc.edu.ve
+netsvc-p-7.dimetel.uc.edu.ve
+fuenteradio.dta.uc.edu.ve
+server-biblioteca.facyt.uc.edu.ve
+asist-labcomp.facyt.uc.edu.ve
+cpi.uc.edu.ve
+vl-1300-faces-pregrado-pb-gw.net.dimetel.uc.edu.ve
+b.correo.uc.edu.ve
+arje.bc.uc.edu.ve
+www.codeigniter313.facyt.uc.edu.ve
+www.cpi.ing.uc.edu.ve
+netsvc-p-5.dimetel.uc.edu.ve
+entornoprueba.facyt.uc.edu.ve
+hydra-server5.facyt.uc.edu.ve
+vl-213-derecho-comparado-gw.net.dimetel.uc.edu.ve
+curriculum.uc.edu.ve
+dae.fcjp.uc.edu.ve
+vl-404-idu-sqr-gw.net.dimetel.uc.edu.ve
+vl-174-psiquiatrico-2.net.dimetel.uc.edu.ve
+proxy-b-77-247.uc.edu.ve
+admision.fcjp.uc.edu.ve
+www.aeuc.uc.edu.ve
+www.sigma.facyt.uc.edu.ve
+dae.face.uc.edu.ve
+ticlamorita.faces.uc.edu.ve
+vl-1227-fcs-fisiologia-gw.net.dimetel.uc.edu.ve
+odovirtual.uc.edu.ve
+admin-hydra-docentes.facyt.uc.edu.ve
+webcam1.dta.uc.edu.ve
+asist-matematica.facyt.uc.edu.ve
+capellania.uc.edu.ve
+vl-2200-facyt-decanato-gw.net.dimetel.uc.edu.ve
+proxy-a-94-6.uc.edu.ve
+contest.facyt.uc.edu.ve
+fpu.uc.edu.ve
+vl-2550-ceticea-gw.net.dimetel.uc.edu.ve
+proxy-a-94-55.uc.edu.ve
+proxy-b-77-2.uc.edu.ve
+sigma.postgrado.uc.edu.ve
+vl-222-hcm-camoruco-gw.net.dimetel.uc.edu.ve
+vl-1107-ing-humanidades-gw.net.dimetel.uc.edu.ve
+facyt-decanato-admin-1-wl.wifi.uc.edu.ve
+daiuc.uc.edu.ve
+www.cid.uc.edu.ve
+desarrollo.facyt.uc.edu.ve
+inscripcion.derecho.uc.edu.ve
+redouc.ing.uc.edu.ve
+silicio.dta.uc.edu.ve
+proxy-a-94-50.uc.edu.ve
+fcu.uc.edu.ve
+wifi-computacion2.facyt.uc.edu.ve
+cuentas.uc.edu.ve
+www.cest.uc.edu.ve
+rect-rrhh-2-wl.wifi.uc.edu.ve
+smtp-out.uc.edu.ve
+servicio.bc.uc.edu.ve
+lab-doc2-20.facyt.uc.edu.ve
+dvr-computacion.facyt.uc.edu.ve
+sigma.facyt.uc.edu.ve
+electrica.ing.uc.edu.ve
+odontologia-p11-pb-1-wl.wifi.uc.edu.ve
+imyca.ing.uc.edu.ve
+proxy-a-94-60.uc.edu.ve
+www.capacitacion.uc.edu.ve
+vl-2040-face-adm-sur-pb-gw.net.dimetel.uc.edu.ve
+facyt.uc.edu.ve
+www.seduc.uc.edu.ve
+ing-mecanica-3-wl.wifi.uc.edu.ve
+ag3.dta.uc.edu.ve
+vl-212-ceproduc-gw.net.dimetel.uc.edu.ve
+m.uc.edu.ve
+vl-2135-derecho-admin-norte-p3-gw.net.dimetel.uc.edu.ve
+fileserver-p-2.dimetel.uc.edu.ve
+vl-1201-fcs-bioquimica-gw.net.dimetel.uc.edu.ve
+vl-2100-derecho-aulas-norte-pb-gw.net.dimetel.uc.edu.ve
+lab-doc2-30.facyt.uc.edu.ve
+temporal.facyt.uc.edu.ve
+egreamigos.uc.edu.ve
+face.vconf.uc.edu.ve
+lambda.uc.edu.ve
+schubert.face.uc.edu.ve
+rect-diuc-1-wl.wifi.uc.edu.ve
+dap.ing.uc.edu.ve
+baserver.dimetel.uc.edu.ve
+fileserver-p-3.dimetel.uc.edu.ve
+www.bomberos.uc.edu.ve
+fcsvirtual.uc.edu.ve
+prebo-fmuc-2-wl2.wifi.uc.edu.ve
+smtp.mx.uc.edu.ve
+proxy-b-77-252.uc.edu.ve
+metrica.bc.uc.edu.ve
+socrates.faces.uc.edu.ve
+vps.face.uc.edu.ve
+www.salasdecine.uc.edu.ve
+ptim.bc.uc.edu.ve
+gerenciadeciudad.uc.edu.ve
+proxy-b-77-241.uc.edu.ve
+proxy-b-77-254.uc.edu.ve
+apucito.uc.edu.ve
+vl-3554-cinearte-gw.net.dimetel.uc.edu.ve
+radius.uc.edu.ve
+rect-viceadmin-1-wl.wifi.uc.edu.ve
+www.saga3.fcjp.uc.edu.ve
+si-104-inet-1.net.dimetel.uc.edu.ve
+www.sivuc.uc.edu.ve
+vl-1217-facyt-bio-lab-gw.net.dimetel.uc.edu.ve
+www.sel.fcjp.uc.edu.ve
+proxy-b-77-248.uc.edu.ve
+vl-1335-faces-vconf-gw.net.dimetel.uc.edu.ve
+webserver3d.dimetel.uc.edu.ve
+vl-211-ceate-gw.net.dimetel.uc.edu.ve
+codeigniter313.facyt.uc.edu.ve
+quimica.ing.uc.edu.ve
+inscripcion.face.uc.edu.ve
+helio.dta.uc.edu.ve
+datos.dta.uc.edu.ve
+server3.mirror.uc.edu.ve
+itmon2.dimetel.uc.edu.ve
+sa.ing.uc.edu.ve
+mriuc.bc.uc.edu.ve
+c.correo.uc.edu.ve
+vl-523e-biomedica-p1-sur-gw.net.dimetel.uc.edu.ve
+vl-210-egreamigos-gw.net.dimetel.uc.edu.ve
+www.riuc.bc.uc.edu.ve
+vl-1105-ing-quimica-gw.net.dimetel.uc.edu.ve
+rect-despacho-1-wl.wifi.uc.edu.ve
+vl-2210-facyt-computacion-gw.net.dimetel.uc.edu.ve
+vl-112-rediuc-barb-serv-gw.net.dimetel.uc.edu.ve
+vl-2060-face-aulas-norte-pb-gw.net.dimetel.uc.edu.ve
+www.uctv.uc.edu.ve
+wpalmer-comp.facyt.uc.edu.ve
+produccion-uc.bc.uc.edu.ve
+dhcs.uc.edu.ve
+proxy-a-94-59.uc.edu.ve
+vl-1277-facyt-biblioteca-gw.net.dimetel.uc.edu.ve
+smtp4.uc.edu.ve
+webserver2.dimetel.uc.edu.ve
+beta.inventario.dimetel.uc.edu.ve
+fcsvirtual.dta.uc.edu.ve
+administracion.facyt.uc.edu.ve
+saga1.fcjp.uc.edu.ve
+filuc.uc.edu.ve
+radio.uc.edu.ve
+eth-5-diuc-gw2.net.dimetel.uc.edu.ve
+entornodev.facyt.uc.edu.ve
+www.sociedadastronomica.uc.edu.ve
+vl-2565-fcs-decanato-gw.net.dimetel.uc.edu.ve
+otlet.bc.uc.edu.ve
+sw1-docencia.facyt.uc.edu.ve
+vl-1330-faces-postgrado-gw.net.dimetel.uc.edu.ve
+pg.fcjp.uc.edu.ve
+neptuno.facyt.uc.edu.ve
+lab-doc2-1.facyt.uc.edu.ve
+odontologia-p9-1-wl.wifi.uc.edu.ve
+infouc.uc.edu.ve
+www.servicios.dimetel.uc.edu.ve
+lab-doc2-29.facyt.uc.edu.ve
+aragua.fcs.uc.edu.ve
+www.sice.facyt.uc.edu.ve
+faraute.facyt.uc.edu.ve
+fordocead.dta.uc.edu.ve
+capacitacion.uc.edu.ve
+fcarabobensis.facyt.uc.edu.ve
+postgrado.fcs.uc.edu.ve
+netsvc-p-10.dimetel.uc.edu.ve
+sagapg.fcjp.uc.edu.ve
+prebo-13.net.dimetel.uc.edu.ve
+seduc.uc.edu.ve
+viejo.reduc.uc.edu.ve
+www.boletin.uc.edu.ve
+cnm.uc.edu.ve
+fcjpvirtual.uc.edu.ve
+proxy-a-94-53.uc.edu.ve
+tim.bc.uc.edu.ve
+x2100.facyt.uc.edu.ve
+fcs.uc.edu.ve
+galeria.uc.edu.ve
+biomedica-2.net.dimetel.uc.edu.ve
+www.asistencia.dimetel.uc.edu.ve
+servimpresion.bc.uc.edu.ve
+faces.vconf.uc.edu.ve
+itmon4.dimetel.uc.edu.ve
+phd.facyt.uc.edu.ve
+inventario.dimetel.uc.edu.ve
+portal.facyt.uc.edu.ve
+capellaniauc.uc.edu.ve
+vl-2560-enfermeria-gw.net.dimetel.uc.edu.ve
+deporte.uc.edu.ve
+inscripciones.fcs.uc.edu.ve
+alpha.dimetel.uc.edu.ve
+hpserver-elearning.facyt.uc.edu.ve
+www.ing.uc.edu.ve
+imap.uc.edu.ve
+www.wifi.uc.edu.ve
+proxy-b-77-250.uc.edu.ve
+eventos.bc.uc.edu.ve

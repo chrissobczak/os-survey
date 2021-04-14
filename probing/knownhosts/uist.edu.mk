@@ -1,66 +1,47 @@
-NXDOMAIN	www.nastani.uist.edu.mk
-NXDOMAIN	sandbox.uist.edu.mk
-NOERROR	cpanel.uist.edu.mk
-NOERROR	mail.uist.edu.mk
-NOERROR	uist.edu.mk
-NOERROR	www.upisi.uist.edu.mk
-NOERROR	www.ipp.uist.edu.mk
-NOERROR	cns.uist.edu.mk
-NOERROR	www.mihajlov.uist.edu.mk
-NXDOMAIN	www.rkju.uist.edu.mk
-NOERROR	cpcalendars.uist.edu.mk
-NOERROR	www.ejist.uist.edu.mk
-NOERROR	www.ciptt.uist.edu.mk
-NOERROR	www.uist.edu.mk
-NXDOMAIN	itsoc.uist.edu.mk
-NXDOMAIN	accomodation.uist.edu.mk
-NOERROR	mir.uist.edu.mk
-NXDOMAIN	www.metalstilinzinering.uist.edu.mk
-NOERROR	ami.uist.edu.mk
-NOERROR	bioengineering.uist.edu.mk
-NXDOMAIN	www.itsoc.uist.edu.mk
-NOERROR	www.va-plast.uist.edu.mk
-NOERROR	cse.uist.edu.mk
-NOERROR	webmail.uist.edu.mk
-NOERROR	ita.uist.edu.mk
-NXDOMAIN	1000ideizapodobarohrid.uist.edu.mk
-NXDOMAIN	www.msl.uist.edu.mk
-NXDOMAIN	balkancrypt.uist.edu.mk
-NXDOMAIN	cf.uist.edu.mk
-NOERROR	www.ita.uist.edu.mk
-NOERROR	upisi.uist.edu.mk
-NXDOMAIN	gp.uist.edu.mk
-NOERROR	ciptt.uist.edu.mk
-NOERROR	act.uist.edu.mk
-NOERROR	www.isvma.uist.edu.mk
-NOERROR	cpcontacts.uist.edu.mk
-NOERROR	www.mir.uist.edu.mk
-NXDOMAIN	www.proba.uist.edu.mk
-NOERROR	klibo.uist.edu.mk
-NOERROR	webdisk.uist.edu.mk
-NOERROR	www.ami.uist.edu.mk
-NOERROR	tac.uist.edu.mk
-NXDOMAIN	rkju.uist.edu.mk
-NOERROR	isvma.uist.edu.mk
-NOERROR	www.cns.uist.edu.mk
-NOERROR	www.mmll.uist.edu.mk
-NOERROR	moodle.uist.edu.mk
-NOERROR	mmll.uist.edu.mk
-NOERROR	mihajlov.uist.edu.mk
-NXDOMAIN	proba.uist.edu.mk
-NOERROR	autodiscover.uist.edu.mk
-NOERROR	www.klibo.uist.edu.mk
-NXDOMAIN	nastani.uist.edu.mk
-NOERROR	www.upis.uist.edu.mk
-NOERROR	upis.uist.edu.mk
-NOERROR	ejist.uist.edu.mk
-NOERROR	www.act.uist.edu.mk
-NXDOMAIN	visitohrid.uist.edu.mk
-NOERROR	va-plast.uist.edu.mk
-NOERROR	www.bioengineering.uist.edu.mk
-NOERROR	www.tac.uist.edu.mk
-NOERROR	www.moodle.uist.edu.mk
-NOERROR	ipp.uist.edu.mk
-NXDOMAIN	metalstilinzinering.uist.edu.mk
-NXDOMAIN	www.sandbox.uist.edu.mk
-NOERROR	www.cse.uist.edu.mk
+cpanel.uist.edu.mk
+mail.uist.edu.mk
+uist.edu.mk
+www.upisi.uist.edu.mk
+www.ipp.uist.edu.mk
+cns.uist.edu.mk
+www.mihajlov.uist.edu.mk
+cpcalendars.uist.edu.mk
+www.ejist.uist.edu.mk
+www.ciptt.uist.edu.mk
+www.uist.edu.mk
+mir.uist.edu.mk
+ami.uist.edu.mk
+bioengineering.uist.edu.mk
+www.va-plast.uist.edu.mk
+cse.uist.edu.mk
+webmail.uist.edu.mk
+ita.uist.edu.mk
+www.ita.uist.edu.mk
+upisi.uist.edu.mk
+ciptt.uist.edu.mk
+act.uist.edu.mk
+www.isvma.uist.edu.mk
+cpcontacts.uist.edu.mk
+www.mir.uist.edu.mk
+klibo.uist.edu.mk
+webdisk.uist.edu.mk
+www.ami.uist.edu.mk
+tac.uist.edu.mk
+isvma.uist.edu.mk
+www.cns.uist.edu.mk
+www.mmll.uist.edu.mk
+moodle.uist.edu.mk
+mmll.uist.edu.mk
+mihajlov.uist.edu.mk
+autodiscover.uist.edu.mk
+www.klibo.uist.edu.mk
+www.upis.uist.edu.mk
+upis.uist.edu.mk
+ejist.uist.edu.mk
+www.act.uist.edu.mk
+va-plast.uist.edu.mk
+www.bioengineering.uist.edu.mk
+www.tac.uist.edu.mk
+www.moodle.uist.edu.mk
+ipp.uist.edu.mk
+www.cse.uist.edu.mk

@@ -1,5 +1,0 @@
-NXDOMAIN	www.lucknowuniv.org
-NXDOMAIN	ww12.lucknowuniv.org
-NXDOMAIN	ww2.lucknowuniv.org
-NXDOMAIN	lucknowuniv.org
-NXDOMAIN	ww4.lucknowuniv.org

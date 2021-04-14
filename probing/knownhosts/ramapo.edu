@@ -1,202 +1,136 @@
-NOERROR	guide.ramapo.edu
-NOERROR	its3.ramapo.edu
-NOERROR	pages.ramapo.edu
-NXDOMAIN	www.bit2.ramapo.edu
-NOERROR	mx-3.mx.ramapo.edu
-NXDOMAIN	www.my.ramapo.edu
-NXDOMAIN	mail.dh-wordpress.ramapo.edu
-NOERROR	mail.ramapo.edu
-NXDOMAIN	cpanel.dh-wordpress.ramapo.edu
-NOERROR	its10.ramapo.edu
-NOERROR	bit.ramapo.edu
-NXDOMAIN	voip-cuc1-ms.ramapo.edu
-NOERROR	ethos-1.ramapo.edu
-NOERROR	lp.ramapo.edu
-NOERROR	library.ramapo.edu
-NOERROR	mx-1.mx.ramapo.edu
-NOERROR	resnet.ramapo.edu
-NOERROR	search.proquest.com.library2.ramapo.edu
-NXDOMAIN	www.mail.ramapo.edu
-NOERROR	ssoa.ramapo.edu
-NOERROR	web.ramapo.edu
-NXDOMAIN	evisions.ramapo.edu
-NOERROR	sftpsrv.ramapo.edu
-NOERROR	smtp-1.ramapo.edu
-NXDOMAIN	www.video.ramapo.edu
-NOERROR	internal-ns3.ramapo.edu
-NOERROR	smtp-2.ramapo.edu
-NOERROR	repairs.ramapo.edu
-NOERROR	oed.com.library.ramapo.edu
-NXDOMAIN	voip-cuc1.ramapo.edu
-NXDOMAIN	www.voip-exp-edge1.ramapo.edu
-NOERROR	idp.ramapo.edu
-NOERROR	sites.ramapo.edu
-NOERROR	ldap.ramapo.edu
-NOERROR	starrez.ramapo.edu
-NOERROR	www.digital.janeaddams.ramapo.edu
-NXDOMAIN	www.ww2.ramapo.edu
-NOERROR	web-1.ramapo.edu
-NOERROR	itssrv1.ramapo.edu
-NXDOMAIN	www.ad-dc3.winads.ramapo.edu
-NOERROR	lam.ramapo.edu
-NXDOMAIN	www.libguides.ramapo.edu
-NOERROR	mylegacy.ramapo.edu
-NXDOMAIN	voip-cucm1-ms.ramapo.edu
-NOERROR	selfserve.ramapo.edu
-NOERROR	internal-ns1.ramapo.edu
-NOERROR	its.ramapo.edu
-NOERROR	my.ramapo.edu
-NOERROR	cache2.ramapo.edu
-NXDOMAIN	voip-cucmip2.ramapo.edu
-NOERROR	solarwinds.ramapo.edu
-NOERROR	webmail.ramapo.edu
-NOERROR	quadruplex.ramapo.edu
-NOERROR	internal-ns2.ramapo.edu
-NXDOMAIN	www.evisions.ramapo.edu
-NOERROR	web-internal.ramapo.edu
-NOERROR	gaps-2.ramapo.edu
-NOERROR	janeaddams.ramapo.edu
-NOERROR	nehhudson.ramapo.edu
-NOERROR	cal.ramapo.edu
-NOERROR	bit2.ramapo.edu
-NOERROR	www.ramapo.edu
-NOERROR	webdisk.digital.janeaddams.ramapo.edu
-NOERROR	opac.ramapo.edu
-NXDOMAIN	moodle.ramapo.edu
-NOERROR	ldap-2.ldap.ramapo.edu
-NOERROR	print.ramapo.edu
-NXDOMAIN	ad-dc2.winads.ramapo.edu
-NOERROR	video.ramapo.edu
-NOERROR	gtest.ramapo.edu
-NXDOMAIN	ww2.ramapo.edu
-NOERROR	dh-wordpress.ramapo.edu
-NOERROR	helpdesk.ramapo.edu
-NOERROR	ssb-1.ramapo.edu
-NOERROR	rh-proxy.ramapo.edu
-NOERROR	ssbprod4.ramapo.edu
-NOERROR	dh-omekas.ramapo.edu
-NOERROR	epay.ramapo.edu
-NOERROR	mx-2.mx.ramapo.edu
-NXDOMAIN	mail.jaddamscollection.ramapo.edu
-NOERROR	myssb.ramapo.edu
-NOERROR	ssbprod2.ramapo.edu
-NOERROR	smtp-3.ramapo.edu
-NOERROR	rhds-1.ldap.ramapo.edu
-NOERROR	slice.ramapo.edu
-NOERROR	ted.ramapo.edu
-NXDOMAIN	voip-cuc2.ramapo.edu
-NOERROR	rhds-2.ldap.ramapo.edu
-NXDOMAIN	www.ldap-1.ldap.ramapo.edu
-NXDOMAIN	www.starrez.ramapo.edu
-NOERROR	phonebook.ramapo.edu
-NXDOMAIN	voip-exp-core1.ramapo.edu
-NXDOMAIN	www.dh-omekac.ramapo.edu
-NOERROR	webmail.digital.janeaddams.ramapo.edu
-NXDOMAIN	www.ssb.ramapo.edu
-NOERROR	rms.ramapo.edu
-NOERROR	apply.ramapo.edu
-NOERROR	its2.ramapo.edu
-NOERROR	voip-exp-edge1.ramapo.edu
-NOERROR	dh-omekac.ramapo.edu
-NOERROR	cpcontacts.sures.ramapo.edu
-NOERROR	ssb.ramapo.edu
-NOERROR	mx.ramapo.edu
-NOERROR	bioinformatics.ramapo.edu
-NOERROR	ssbprod3.ramapo.edu
-NXDOMAIN	cpanel.dh-omekac.ramapo.edu
-NXDOMAIN	www.ad-dc1.winads.ramapo.edu
-NOERROR	webmail.sures.ramapo.edu
-NOERROR	ssbprod1.ramapo.edu
-NOERROR	mail.sures.ramapo.edu
-NOERROR	ssba.ramapo.edu
-NOERROR	gapps.ramapo.edu
-NOERROR	gmail.ramapo.edu
-NOERROR	cpanel.sures.ramapo.edu
-NOERROR	ssb-prod1.ramapo.edu
-NXDOMAIN	www.moodle.ramapo.edu
-NOERROR	cpanel.digital.janeaddams.ramapo.edu
-NOERROR	login.library2.ramapo.edu
-NXDOMAIN	webdisk.dh-omekac.ramapo.edu
-NXDOMAIN	rc-dc2.rcnj-ads.ramapo.edu
-NOERROR	sso.ramapo.edu
-NOERROR	rhds.ldap.ramapo.edu
-NOERROR	archway.ramapo.edu
-NOERROR	libguides.ramapo.edu
-NOERROR	ns1.ramapo.edu
-NOERROR	webdisk.sures.ramapo.edu
-NXDOMAIN	ad-dc3.winads.ramapo.edu
-NOERROR	pwreset.ramapo.edu
-NOERROR	monex.ramapo.edu
-NOERROR	phobos.ramapo.edu
-NXDOMAIN	www.jaddamscollection.ramapo.edu
-NOERROR	qdb.ramapo.edu
-NXDOMAIN	webdisk.dh-wordpress.ramapo.edu
-NOERROR	ldap-1.ldap.ramapo.edu
-NXDOMAIN	voip-cucm3.ramapo.edu
-NXDOMAIN	webmail.dh-wordpress.ramapo.edu
-NXDOMAIN	mail.dh-omekac.ramapo.edu
-NXDOMAIN	cpanel.jaddamscollection.ramapo.edu
-NXDOMAIN	www.sures.jaddamscollection.ramapo.edu
-NOERROR	cache1.ramapo.edu
-NXDOMAIN	www.rc-dc2.rcnj-ads.ramapo.edu
-NXDOMAIN	webmail.jaddamscollection.ramapo.edu
-NOERROR	g.ramapo.edu
-NOERROR	ramapo.edu
-NXDOMAIN	www.dh-wordpress.ramapo.edu
-NOERROR	jaddamscollection.ramapo.edu
-NXDOMAIN	webmail.dh-omekac.ramapo.edu
-NXDOMAIN	www.uachieve.ramapo.edu
-NXDOMAIN	ad-dc1.winads.ramapo.edu
-NOERROR	gaps.ramapo.edu
-NOERROR	web-2.ramapo.edu
-NOERROR	rhproxyglobal.ramapo.edu
-NOERROR	ns2.ramapo.edu
-NOERROR	mx-5.mx.ramapo.edu
-NOERROR	pcmp.ramapo.edu
-NXDOMAIN	sures.jaddamscollection.ramapo.edu
-NXDOMAIN	www.epay.ramapo.edu
-NXDOMAIN	advisortrac.ramapo.edu
-NOERROR	voip-exp-edge2.ramapo.edu
-NOERROR	localhost.ramapo.edu
-NXDOMAIN	moodle2.ramapo.edu
-NOERROR	tutoring.ramapo.edu
-NXDOMAIN	www.advisortrac.ramapo.edu
-NOERROR	alertus.ramapo.edu
-NXDOMAIN	webdisk.jaddamscollection.ramapo.edu
-NOERROR	digital.janeaddams.ramapo.edu
-NOERROR	training.ramapo.edu
-NOERROR	cpcalendars.sures.ramapo.edu
-NXDOMAIN	banner.ramapo.edu
-NOERROR	rcnj-cms-apps.ramapo.edu
-NOERROR	www.sures.ramapo.edu
-NXDOMAIN	vpn.ramapo.edu
-NOERROR	ethosprod1.ramapo.edu
-NOERROR	docs.ramapo.edu
-NOERROR	sures.ramapo.edu
-NXDOMAIN	www.smtp.ramapo.edu
-NOERROR	muse.jhu.edu.library2.ramapo.edu
-NOERROR	crsmod.ramapo.edu
-NXDOMAIN	test.ldap.ramapo.edu
-NXDOMAIN	www.ad-dc2.winads.ramapo.edu
-NOERROR	edu.library2.ramapo.edu
-NOERROR	libstaff.ramapo.edu
-NOERROR	itssrv2.ramapo.edu
-NXDOMAIN	www.ldap-2.ldap.ramapo.edu
-NXDOMAIN	voip-cucm2.ramapo.edu
-NXDOMAIN	voip-cucmip1.ramapo.edu
-NOERROR	nospam.ramapo.edu
-NOERROR	ldap-3.ldap.ramapo.edu
-NXDOMAIN	www.idp.ramapo.edu
-NOERROR	titaniumweb.ramapo.edu
-NXDOMAIN	www.its2.ramapo.edu
-NOERROR	library2.ramapo.edu
-NOERROR	mx-4.mx.ramapo.edu
-NXDOMAIN	rc-dc1.rcnj-ads.ramapo.edu
-NOERROR	mail.digital.janeaddams.ramapo.edu
-NOERROR	uachieve.ramapo.edu
-NOERROR	berrieawards.ramapo.edu
-NXDOMAIN	www.rc-dc1.rcnj-ads.ramapo.edu
-NXDOMAIN	www.vpn.ramapo.edu
-NXDOMAIN	voip-cucm1.ramapo.edu
-NOERROR	smtp.ramapo.edu
-NXDOMAIN	www.ssb-1.ramapo.edu
+guide.ramapo.edu
+its3.ramapo.edu
+pages.ramapo.edu
+mx-3.mx.ramapo.edu
+mail.ramapo.edu
+its10.ramapo.edu
+bit.ramapo.edu
+ethos-1.ramapo.edu
+lp.ramapo.edu
+library.ramapo.edu
+mx-1.mx.ramapo.edu
+resnet.ramapo.edu
+search.proquest.com.library2.ramapo.edu
+ssoa.ramapo.edu
+web.ramapo.edu
+sftpsrv.ramapo.edu
+smtp-1.ramapo.edu
+internal-ns3.ramapo.edu
+smtp-2.ramapo.edu
+repairs.ramapo.edu
+oed.com.library.ramapo.edu
+idp.ramapo.edu
+sites.ramapo.edu
+ldap.ramapo.edu
+starrez.ramapo.edu
+www.digital.janeaddams.ramapo.edu
+web-1.ramapo.edu
+itssrv1.ramapo.edu
+lam.ramapo.edu
+mylegacy.ramapo.edu
+selfserve.ramapo.edu
+internal-ns1.ramapo.edu
+its.ramapo.edu
+my.ramapo.edu
+cache2.ramapo.edu
+solarwinds.ramapo.edu
+webmail.ramapo.edu
+quadruplex.ramapo.edu
+internal-ns2.ramapo.edu
+web-internal.ramapo.edu
+gaps-2.ramapo.edu
+janeaddams.ramapo.edu
+nehhudson.ramapo.edu
+cal.ramapo.edu
+bit2.ramapo.edu
+www.ramapo.edu
+webdisk.digital.janeaddams.ramapo.edu
+opac.ramapo.edu
+ldap-2.ldap.ramapo.edu
+print.ramapo.edu
+video.ramapo.edu
+gtest.ramapo.edu
+dh-wordpress.ramapo.edu
+helpdesk.ramapo.edu
+ssb-1.ramapo.edu
+rh-proxy.ramapo.edu
+ssbprod4.ramapo.edu
+dh-omekas.ramapo.edu
+epay.ramapo.edu
+mx-2.mx.ramapo.edu
+myssb.ramapo.edu
+ssbprod2.ramapo.edu
+smtp-3.ramapo.edu
+rhds-1.ldap.ramapo.edu
+slice.ramapo.edu
+ted.ramapo.edu
+rhds-2.ldap.ramapo.edu
+phonebook.ramapo.edu
+webmail.digital.janeaddams.ramapo.edu
+rms.ramapo.edu
+apply.ramapo.edu
+its2.ramapo.edu
+voip-exp-edge1.ramapo.edu
+dh-omekac.ramapo.edu
+cpcontacts.sures.ramapo.edu
+ssb.ramapo.edu
+mx.ramapo.edu
+bioinformatics.ramapo.edu
+ssbprod3.ramapo.edu
+webmail.sures.ramapo.edu
+ssbprod1.ramapo.edu
+mail.sures.ramapo.edu
+ssba.ramapo.edu
+gapps.ramapo.edu
+gmail.ramapo.edu
+cpanel.sures.ramapo.edu
+ssb-prod1.ramapo.edu
+cpanel.digital.janeaddams.ramapo.edu
+login.library2.ramapo.edu
+sso.ramapo.edu
+rhds.ldap.ramapo.edu
+archway.ramapo.edu
+libguides.ramapo.edu
+ns1.ramapo.edu
+webdisk.sures.ramapo.edu
+pwreset.ramapo.edu
+monex.ramapo.edu
+phobos.ramapo.edu
+qdb.ramapo.edu
+ldap-1.ldap.ramapo.edu
+cache1.ramapo.edu
+g.ramapo.edu
+ramapo.edu
+jaddamscollection.ramapo.edu
+gaps.ramapo.edu
+web-2.ramapo.edu
+rhproxyglobal.ramapo.edu
+ns2.ramapo.edu
+mx-5.mx.ramapo.edu
+pcmp.ramapo.edu
+voip-exp-edge2.ramapo.edu
+localhost.ramapo.edu
+tutoring.ramapo.edu
+alertus.ramapo.edu
+digital.janeaddams.ramapo.edu
+training.ramapo.edu
+cpcalendars.sures.ramapo.edu
+rcnj-cms-apps.ramapo.edu
+www.sures.ramapo.edu
+ethosprod1.ramapo.edu
+docs.ramapo.edu
+sures.ramapo.edu
+muse.jhu.edu.library2.ramapo.edu
+crsmod.ramapo.edu
+edu.library2.ramapo.edu
+libstaff.ramapo.edu
+itssrv2.ramapo.edu
+nospam.ramapo.edu
+ldap-3.ldap.ramapo.edu
+titaniumweb.ramapo.edu
+library2.ramapo.edu
+mx-4.mx.ramapo.edu
+mail.digital.janeaddams.ramapo.edu
+uachieve.ramapo.edu
+berrieawards.ramapo.edu
+smtp.ramapo.edu

@@ -1,89 +1,79 @@
-NOERROR	grants.must.ac.ug
-NOERROR	www.its4a.must.ac.ug
-NOERROR	hepi-tuitah.must.ac.ug
-NOERROR	innovation.must.ac.ug
-NOERROR	www.wpvivid.must.ac.ug
-NOERROR	forum.must.ac.ug
-NOERROR	library.must.ac.ug
-NOERROR	www.bbb.must.ac.ug
-NOERROR	webmail.must.ac.ug
-NOERROR	staff.library.must.ac.ug
-NOERROR	fast.must.ac.ug
-NOERROR	admissions.must.ac.ug
-NOERROR	alumni.must.ac.ug
-NOERROR	guild.must.ac.ug
-NOERROR	mustssda.must.ac.ug
-NOERROR	fcis.must.ac.ug
-NXDOMAIN	www.itfc.must.ac.ug
-NOERROR	stlukes.must.ac.ug
-NXDOMAIN	www.mail.must.ac.ug
-NOERROR	med.must.ac.ug
-NOERROR	www.bmeic.must.ac.ug
-NOERROR	www.mnchi.must.ac.ug
-NOERROR	icsresearch.must.ac.ug
-NOERROR	bmeic.must.ac.ug
-NOERROR	cs.must.ac.ug
-NOERROR	www.stlukes.must.ac.ug
-NOERROR	applications.must.ac.ug
-NOERROR	lms.must.ac.ug
-NOERROR	iitr.must.ac.ug
-NOERROR	staff.must.ac.ug
-NOERROR	mpp.must.ac.ug
-NOERROR	www.id.must.ac.ug
-NOERROR	www.assets.must.ac.ug
-NOERROR	cobers.must.ac.ug
-NOERROR	id.must.ac.ug
-NXDOMAIN	www.cobers.must.ac.ug
-NOERROR	www.timetable.must.ac.ug
-NOERROR	corpus.must.ac.ug
-NOERROR	hr.must.ac.ug
-NXDOMAIN	www.innovation.must.ac.ug
-NXDOMAIN	www.med.must.ac.ug
-NOERROR	www.onlinestudy.must.ac.ug
-NOERROR	assets.must.ac.ug
-NOERROR	itfc.must.ac.ug
-NOERROR	student.must.ac.ug
-NOERROR	icsawards.must.ac.ug
-NOERROR	mureep.must.ac.ug
-NOERROR	timetable.must.ac.ug
-NXDOMAIN	www.ora.must.ac.ug
-NOERROR	mustuatcom01.must.ac.ug
-NOERROR	www.pharmbiotrac.must.ac.ug
-NOERROR	pharmbiotrac.must.ac.ug
-NOERROR	mnchi.must.ac.ug
-NOERROR	science.must.ac.ug
-NXDOMAIN	www.cs.must.ac.ug
-NOERROR	registrar.must.ac.ug
-NOERROR	mustprodcom01.must.ac.ug
-NOERROR	www.must.ac.ug
-NOERROR	its4a.must.ac.ug
-NOERROR	www.corpus.must.ac.ug
-NXDOMAIN	www.fast.must.ac.ug
-NOERROR	ir.must.ac.ug
-NOERROR	fciawards.must.ac.ug
-NOERROR	cisco.must.ac.ug
-NOERROR	www.mureep.must.ac.ug
-NOERROR	www.fciawards.must.ac.ug
-NOERROR	timetables.must.ac.ug
-NOERROR	mucosa.must.ac.ug
-NOERROR	www.fci.must.ac.ug
-NOERROR	ics.must.ac.ug
-NOERROR	www.medicine.must.ac.ug
-NXDOMAIN	www.grants.must.ac.ug
-NOERROR	must.ac.ug
-NOERROR	payments.must.ac.ug
-NOERROR	camtech.must.ac.ug
-NOERROR	portal.must.ac.ug
-NOERROR	fci.must.ac.ug
-NOERROR	www.videoc.must.ac.ug
-NOERROR	medicine.must.ac.ug
-NOERROR	videoc.must.ac.ug
-NOERROR	ora.must.ac.ug
-NOERROR	fis.must.ac.ug
-NOERROR	onlinestudy.must.ac.ug
-NOERROR	wpvivid.must.ac.ug
-NOERROR	mail.must.ac.ug
-NXDOMAIN	www.camtech.must.ac.ug
-NOERROR	www.fis.must.ac.ug
-NOERROR	bbb.must.ac.ug
-NOERROR	www.hepi-tuitah.must.ac.ug
+grants.must.ac.ug
+www.its4a.must.ac.ug
+hepi-tuitah.must.ac.ug
+innovation.must.ac.ug
+www.wpvivid.must.ac.ug
+forum.must.ac.ug
+library.must.ac.ug
+www.bbb.must.ac.ug
+webmail.must.ac.ug
+staff.library.must.ac.ug
+fast.must.ac.ug
+admissions.must.ac.ug
+alumni.must.ac.ug
+guild.must.ac.ug
+mustssda.must.ac.ug
+fcis.must.ac.ug
+stlukes.must.ac.ug
+med.must.ac.ug
+www.bmeic.must.ac.ug
+www.mnchi.must.ac.ug
+icsresearch.must.ac.ug
+bmeic.must.ac.ug
+cs.must.ac.ug
+www.stlukes.must.ac.ug
+applications.must.ac.ug
+lms.must.ac.ug
+iitr.must.ac.ug
+staff.must.ac.ug
+mpp.must.ac.ug
+www.id.must.ac.ug
+www.assets.must.ac.ug
+cobers.must.ac.ug
+id.must.ac.ug
+www.timetable.must.ac.ug
+corpus.must.ac.ug
+hr.must.ac.ug
+www.onlinestudy.must.ac.ug
+assets.must.ac.ug
+itfc.must.ac.ug
+student.must.ac.ug
+icsawards.must.ac.ug
+mureep.must.ac.ug
+timetable.must.ac.ug
+mustuatcom01.must.ac.ug
+www.pharmbiotrac.must.ac.ug
+pharmbiotrac.must.ac.ug
+mnchi.must.ac.ug
+science.must.ac.ug
+registrar.must.ac.ug
+mustprodcom01.must.ac.ug
+www.must.ac.ug
+its4a.must.ac.ug
+www.corpus.must.ac.ug
+ir.must.ac.ug
+fciawards.must.ac.ug
+cisco.must.ac.ug
+www.mureep.must.ac.ug
+www.fciawards.must.ac.ug
+timetables.must.ac.ug
+mucosa.must.ac.ug
+www.fci.must.ac.ug
+ics.must.ac.ug
+www.medicine.must.ac.ug
+must.ac.ug
+payments.must.ac.ug
+camtech.must.ac.ug
+portal.must.ac.ug
+fci.must.ac.ug
+www.videoc.must.ac.ug
+medicine.must.ac.ug
+videoc.must.ac.ug
+ora.must.ac.ug
+fis.must.ac.ug
+onlinestudy.must.ac.ug
+wpvivid.must.ac.ug
+mail.must.ac.ug
+www.fis.must.ac.ug
+bbb.must.ac.ug
+www.hepi-tuitah.must.ac.ug

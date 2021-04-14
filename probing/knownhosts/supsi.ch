@@ -1,775 +1,611 @@
-NOERROR	dynamat.dacd.supsi.ch
-NXDOMAIN	www.jobbank-orientamento.supsi.ch
-NOERROR	plurilinguismo2018.supsi.ch
-NOERROR	iopscience.iop.org.proxy2.biblio.supsi.ch
-NOERROR	www3.supsi.ch
-NOERROR	www.jobbank.app.supsi.ch
-NOERROR	web.a.ebscohost.com.proxy2.biblio.supsi.ch
-NOERROR	tandfonline.com.proxy2.biblio.supsi.ch
-NOERROR	oneframemovie.www2.dfa.supsi.ch
-NOERROR	didattica-italiano.www2.dfa.supsi.ch
-NOERROR	lingue.app.supsi.ch
-NOERROR	dump1.dti.supsi.ch
-NXDOMAIN	www.consiglio.supsi.ch
-NOERROR	about.jstor.org.proxy2.biblio.supsi.ch
-NXDOMAIN	a.die.supsi.ch
-NOERROR	s2gvm.supsi.ch
-NOERROR	onlinelibrary-wiley-com.proxy2.biblio.supsi.ch
-NOERROR	www.dsas.supsi.ch
-NOERROR	host-78-180.net.supsi.ch
-NXDOMAIN	internet-server.de.supsi.ch
-NOERROR	fc.supsi.ch
-NXDOMAIN	protect2011.supsi.ch
-NOERROR	supsilite.supsi.ch
-NOERROR	host-78-83.net.supsi.ch
-NOERROR	host-78-74.net.supsi.ch
-NOERROR	bane3.supsi.ch
-NOERROR	dti-cim-intel2-idrac.dti.supsi.ch
-NOERROR	oxfordreference.com.proxy2.biblio.supsi.ch
-NXDOMAIN	ar.supsi.ch
-NOERROR	plsm.dti.supsi.ch
-NXDOMAIN	cr.supsi.ch
-NOERROR	app.isaac.supsi.ch
-NOERROR	videoconf.supsi.ch
-NOERROR	auth.cms.supsi.ch
-NOERROR	www.form-imc.app.supsi.ch
-NOERROR	eduroam.supsi.ch
-NOERROR	linux1.dti.supsi.ch
-NOERROR	vms1.dti.supsi.ch
-NOERROR	sh2o.supsi.ch
-NOERROR	wsdriftdispatcher.staging.supsi.ch
-NOERROR	ebooks.cambridge.org.proxy2.biblio.supsi.ch
-NOERROR	lutezio.supsi.ch
-NOERROR	www.sport.supsi.ch
-NOERROR	www.ep.supsi.ch
-NOERROR	titanio.supsi.ch
-NOERROR	www.dfa-intranet.supsi.ch
-NOERROR	storiascuola.supsi.ch
-NOERROR	node16.dti.supsi.ch
-NXDOMAIN	pcm2028.die.supsi.ch
-NOERROR	progettiricerca.app.supsi.ch
-NOERROR	rexx.supsi.ch
-NXDOMAIN	www2.clir.supsi.ch
-NOERROR	mdc-netlab.dti.supsi.ch
-NOERROR	dc01.supsi.ch
-NOERROR	form-gen.app.supsi.ch
-NXDOMAIN	www.gallery.cv.supsi.ch
-NOERROR	accint.app.supsi.ch
-NOERROR	www.clir.supsi.ch
-NOERROR	web.ebscohost.com.proxy2.biblio.supsi.ch
-NOERROR	netlab-server.supsi.ch
-NXDOMAIN	dotnet.icimsi.supsi.ch
-NOERROR	lydia.ist.supsi.ch
-NOERROR	ad.supsi.ch
-NOERROR	secure.supsi.ch
-NOERROR	web.b.ebscohost.com.proxy2.biblio.supsi.ch
-NOERROR	www.serviziwebsupsi.app.supsi.ch
-NOERROR	saniwiki.app.supsi.ch
-NOERROR	printserv1.supsi.ch
-NOERROR	host-78-164.net.supsi.ch
-NOERROR	wiki.supsi.ch
-NOERROR	gpu01.dti.supsi.ch
-NXDOMAIN	igip.dti.supsi.ch
-NOERROR	exchange02.supsi.ch
-NOERROR	www.springer.com.proxy2.biblio.supsi.ch
-NOERROR	pub-campus.supsi.ch
-NOERROR	www.form-gen.app.supsi.ch
-NOERROR	www.form-fc.app.supsi.ch
-NOERROR	linkinghub-elsevier-com.proxy2.biblio.supsi.ch
-NOERROR	loadbalancer2.supsi.ch
-NOERROR	novitafiscali.supsi.ch
-NOERROR	www.password.supsi.ch
-NOERROR	people.dti.supsi.ch
-NOERROR	adfs2.supsi.ch
-NOERROR	login2.supsi.ch
-NOERROR	www.thecochranelibrary.com.proxy2.biblio.supsi.ch
-NOERROR	imaging-group.supsi.ch
-NXDOMAIN	www.commissione-gestionegovernance.supsi.ch
-NOERROR	loadbalancer1.supsi.ch
-NOERROR	www.domoml.supsi.ch
-NXDOMAIN	kfh-dc.supsi.ch
-NXDOMAIN	mars.die.supsi.ch
-NOERROR	istgis.ist.supsi.ch
-NOERROR	fc-catalogo.supsi.ch
-NOERROR	www.tac-web.supsi.ch
-NOERROR	www.torrossa.it.proxy2.biblio.supsi.ch
-NOERROR	www.iscrizioni.app.supsi.ch
-NOERROR	istgeo.ist.supsi.ch
-NXDOMAIN	hcm.issi.dti.supsi.ch
-NOERROR	search.ebscohost.com.proxy2.biblio.supsi.ch
-NOERROR	oneframemovie.supsi.ch
-NOERROR	atd-bw-conta.supsi.ch
-NOERROR	fosforo.dir.supsi.ch
-NOERROR	torio.supsi.ch
-NOERROR	dl.acm.org.proxy2.biblio.supsi.ch
-NOERROR	recherche.nebis.ch.proxy2.biblio.supsi.ch
-NOERROR	startupgarage.dti.supsi.ch
-NXDOMAIN	www.itech.supsi.ch
-NOERROR	iside.supsi.ch
-NOERROR	www.campus.supsi.ch
-NOERROR	redmine-isin.dti.supsi.ch
-NXDOMAIN	ssre2013.dfa.supsi.ch
-NXDOMAIN	2.isaac.supsi.ch
-NXDOMAIN	form-dsascom.app.supsi.ch
-NOERROR	wygwyg.supsi.ch
-NOERROR	www.biodendrimer2014.supsi.ch
-NOERROR	ci-isin.dti.supsi.ch
-NOERROR	www.ist.supsi.ch
-NOERROR	idoc.supsi.ch
-NOERROR	form-orientamento.app.supsi.ch
-NOERROR	www.giscel2020.supsi.ch
-NOERROR	host-78-84.net.supsi.ch
-NOERROR	perseo.dti.supsi.ch
-NOERROR	regdeass006.supsi.ch
-NOERROR	ovidsp.tx.ovid.com.proxy2.biblio.supsi.ch
-NOERROR	vpn-dfa.supsi.ch
-NXDOMAIN	www.idlab.supsi.ch
-NOERROR	meeting.supsi.ch
-NOERROR	www.dti.supsi.ch
-NOERROR	netid.supsi.ch
-NXDOMAIN	www.die.supsi.ch
-NXDOMAIN	www.convegno-ricerca.supsi.ch
-NOERROR	isin.dti.supsi.ch
-NOERROR	sport.supsi.ch
-NXDOMAIN	www.macs.supsi.ch
-NOERROR	biblioteca.supsi.ch
-NOERROR	rexx-admin.supsi.ch
-NOERROR	form-logistica.app.supsi.ch
-NOERROR	download.springer.com.proxy2.biblio.supsi.ch
-NOERROR	europio.supsi.ch
-NXDOMAIN	gitlabtest.supsi.ch
-NOERROR	orientamento.supsi.ch
-NOERROR	student.supsi.ch
-NOERROR	dti.supsi.ch
-NOERROR	maind.supsi.ch
-NXDOMAIN	pct5.dct.supsi.ch
-NXDOMAIN	www.itman.supsi.ch
-NOERROR	portalecollaboratori.supsi.ch
-NOERROR	carbonio.supsi.ch
-NOERROR	staging.mooc.supsi.ch
-NOERROR	www.sciencedirect.com.proxy2.biblio.supsi.ch
-NOERROR	isaac-dev03.dacd.supsi.ch
-NOERROR	www.form-deass.app.supsi.ch
-NXDOMAIN	internet.supsi.ch
-NOERROR	sportech.supsi.ch
-NOERROR	gioconda.supsi.ch
-NXDOMAIN	domandaiscrizione.app.supsi.ch
-NXDOMAIN	stswww.die.supsi.ch
-NXDOMAIN	b.die.supsi.ch
-NOERROR	matematicando.supsi.ch
-NOERROR	portalestudenti.supsi.ch
-NOERROR	indio.supsi.ch
-NOERROR	login.proxy2.biblio.supsi.ch
-NOERROR	tm3.dti.supsi.ch
-NOERROR	core-mng.dti.supsi.ch
-NOERROR	jamsection-dev.dti.supsi.ch
-NOERROR	sondaggi.supsi.ch
-NOERROR	www.ra.supsi.ch
-NOERROR	www.shop.supsi.ch
-NOERROR	credo3252.dti.supsi.ch
-NOERROR	slm.supsi.ch
-NXDOMAIN	ntma.die.supsi.ch
-NXDOMAIN	cercapersone.dti.supsi.ch
-NOERROR	host-78-72.net.supsi.ch
-NOERROR	multisite.magento.supsi.ch
-NXDOMAIN	2.dacd.supsi.ch
-NOERROR	www.convegnoitalmatica.supsi.ch
-NOERROR	www.inside.supsi.ch
-NOERROR	www.ricercascuola2020.supsi.ch
-NXDOMAIN	istpcb5.ist.supsi.ch
-NOERROR	cloud-pf.supsi.ch
-NOERROR	laretedeilibri.supsi.ch
-NOERROR	form-dti.app.supsi.ch
-NOERROR	gpubox.dti.supsi.ch
-NXDOMAIN	stsws5.die.supsi.ch
-NOERROR	zolfo.dir.supsi.ch
-NOERROR	laretedeilibri.www2.dfa.supsi.ch
-NOERROR	host-78-120.net.supsi.ch
-NXDOMAIN	www.ricercazione.dsas.supsi.ch
-NOERROR	exchange01.supsi.ch
-NXDOMAIN	www.gallery.ai.supsi.ch
-NXDOMAIN	www.bipv-old.supsi.ch
-NXDOMAIN	idsms.supsi.ch
-NOERROR	atd-mf-rustico.supsi.ch
-NOERROR	www.worldhabitat.supsi.ch
-NOERROR	host-78-179.net.supsi.ch
-NXDOMAIN	www.form-dsan.app.supsi.ch
-NOERROR	www-swissuniversities-ch.proxy2.biblio.supsi.ch
-NOERROR	www.oxfordreference.com.proxy2.biblio.supsi.ch
-NOERROR	proxy.biblio.supsi.ch
-NOERROR	share.supsi.ch
-NXDOMAIN	instory.supsi.ch
-NOERROR	library.dfa.supsi.ch
-NOERROR	www2.supsi.ch
-NOERROR	maintenance.portalecollaboratori.supsi.ch
-NXDOMAIN	preiscrizioni.app.supsi.ch
-NOERROR	rost.dti.supsi.ch
-NXDOMAIN	www.eventdesign.supsi.ch
-NOERROR	dsan.supsi.ch
-NXDOMAIN	igc2.ist.supsi.ch
-NOERROR	www.gdfa.dfa.supsi.ch
-NXDOMAIN	www.cv.supsi.ch
-NOERROR	host-78-68.net.supsi.ch
-NOERROR	careers.supsi.ch
-NOERROR	dynamat.supsi.ch
-NOERROR	form-dacd.app.supsi.ch
-NOERROR	rre.sagepub.com.proxy2.biblio.supsi.ch
-NOERROR	webminore.supsi.ch
-NOERROR	copernicio.idsia.supsi.ch
-NOERROR	prtg01.supsi.ch
-NOERROR	fc-catalogo.app.supsi.ch
-NOERROR	cockpit.finanze.app.supsi.ch
-NOERROR	optisim.supsi.ch
-NOERROR	mobileman.projects.supsi.ch
-NXDOMAIN	gallery.ai.supsi.ch
-NXDOMAIN	istpcb4.ist.supsi.ch
-NOERROR	bachelor.supsi.ch
-NOERROR	host-78-77.net.supsi.ch
-NOERROR	fw-dfa.supsi.ch
-NOERROR	teenformaticamp.supsi.ch
-NOERROR	login.library.ethz.ch.proxy2.biblio.supsi.ch
-NOERROR	www.uptodate.com.proxy2.biblio.supsi.ch
-NOERROR	arneb.supsi.ch
-NXDOMAIN	area-i.die.supsi.ch
-NOERROR	mobility.supsi.ch
-NOERROR	www.staging.mooc.supsi.ch
-NOERROR	www.dacd.supsi.ch
-NOERROR	form-deass.app.supsi.ch
-NOERROR	qualita.supsi.ch
-NOERROR	dti-cim-intel2.dti.supsi.ch
-NXDOMAIN	gallery.cv.supsi.ch
-NOERROR	iscrizioni.app.supsi.ch
-NXDOMAIN	www.ar.supsi.ch
-NXDOMAIN	wproot.dti.supsi.ch
-NOERROR	www.dfa.supsi.ch
-NXDOMAIN	w3.ist.supsi.ch
-NOERROR	venom3.supsi.ch
-NOERROR	login.supsi.ch
-NOERROR	www.placement.supsi.ch
-NXDOMAIN	www2.gender.supsi.ch
-NOERROR	paesaggisonori.www2.dfa.supsi.ch
-NOERROR	swissmosquitonetwork.staging.supsi.ch
-NOERROR	isaac.supsi.ch
-NOERROR	www.slm.supsi.ch
-NOERROR	smt-vpn.dti.supsi.ch
-NOERROR	delivery.acm.org.proxy2.biblio.supsi.ch
-NOERROR	www.jstor.org.proxy2.biblio.supsi.ch
-NOERROR	www.fc.supsi.ch
-NOERROR	planon-access.supsi.ch
-NOERROR	serviziwebsupsi.app.supsi.ch
-NOERROR	apus.supsi.ch
-NOERROR	ricerca.dti.supsi.ch
-NOERROR	dfasim.www2.dfa.supsi.ch
-NXDOMAIN	www.leee.dct.supsi.ch
-NOERROR	istgis.dacd.supsi.ch
-NOERROR	psycap.www2.dfa.supsi.ch
-NOERROR	pub.cms.supsi.ch
-NOERROR	cerio4.supsi.ch
-NOERROR	gauss.dti.supsi.ch
-NXDOMAIN	consiglio.supsi.ch
-NOERROR	ftp.isaac.supsi.ch
-NOERROR	deuterio.supsi.ch
-NOERROR	trevano7.dacd.supsi.ch
-NOERROR	sfx.ethz.ch.proxy2.biblio.supsi.ch
-NOERROR	lgw1.supsi.ch
-NOERROR	www.dynamat.supsi.ch
-NOERROR	www.plurilinguismo2018register.supsi.ch
-NOERROR	giscel2020.www2.dfa.supsi.ch
-NXDOMAIN	its.supsi.ch
-NXDOMAIN	direzione.supsi.ch
-NOERROR	www.preso.supsi.ch
-NOERROR	data.supsi.ch
-NOERROR	recherche-nebis-ch.proxy2.biblio.supsi.ch
-NXDOMAIN	www.masieo.supsi.ch
-NOERROR	dti-cim-intel3.dti.supsi.ch
-NOERROR	host-78-67.net.supsi.ch
-NOERROR	host-78-70.net.supsi.ch
-NOERROR	msdnaa.supsi.ch
-NOERROR	node17.dti.supsi.ch
-NOERROR	www.sanita.supsi.ch
-NOERROR	www.emba.supsi.ch
-NOERROR	form-risorseumane.app.supsi.ch
-NOERROR	www2.dfa.supsi.ch
-NOERROR	www.careers.supsi.ch
-NOERROR	methods.sagepub.com.proxy2.biblio.supsi.ch
-NOERROR	link-springer-com.proxy2.biblio.supsi.ch
-NXDOMAIN	www.mapi.supsi.ch
-NXDOMAIN	www.lme.die.supsi.ch
-NOERROR	www.spacelab.dti.supsi.ch
-NXDOMAIN	pcm41.die.supsi.ch
-NOERROR	bigbluebutton.dti.supsi.ch
-NXDOMAIN	www.gridsense.dti.supsi.ch
-NOERROR	form-fc.app.supsi.ch
-NOERROR	batman.supsi.ch
-NOERROR	host-78-80.net.supsi.ch
-NOERROR	login.webofknowledge.com.proxy2.biblio.supsi.ch
-NXDOMAIN	web.dti.supsi.ch
-NOERROR	gpu04.dti.supsi.ch
-NXDOMAIN	area-e.die.supsi.ch
-NXDOMAIN	quality.supsi.ch
-NOERROR	ax.supsi.ch
-NOERROR	www.lcv.supsi.ch
-NOERROR	winmess.dacd.supsi.ch
-NXDOMAIN	www.starsfactory.supsi.ch
-NOERROR	spdb.supsi.ch
-NXDOMAIN	www.mig.supsi.ch
-NOERROR	mailgw1.supsi.ch
-NOERROR	www2.gdfa.dfa.supsi.ch
-NOERROR	host-78-252.net.supsi.ch
-NXDOMAIN	nunni.die.supsi.ch
-NOERROR	manganese.supsi.ch
-NOERROR	olmio.supsi.ch
-NOERROR	m3.dti.supsi.ch
-NOERROR	corradovaleri.dti.supsi.ch
-NOERROR	apps.webofknowledge.com.proxy2.biblio.supsi.ch
-NOERROR	proxy2.biblio.supsi.ch
-NOERROR	www.isaac.supsi.ch
-NXDOMAIN	www.netid.supsi.ch
-NXDOMAIN	www.cr.supsi.ch
-NOERROR	db.isaac.supsi.ch
-NOERROR	plurilinguismo2018register.supsi.ch
-NOERROR	fw-galleria2.dti.supsi.ch
-NOERROR	pcwt.dti.supsi.ch
-NOERROR	geranio.idsia.supsi.ch
-NXDOMAIN	fw-dsan.supsi.ch
-NXDOMAIN	free-work.supsi.ch
-NXDOMAIN	leee.dct.supsi.ch
-NOERROR	geoservice.ist.supsi.ch
-NOERROR	portalestudenti-dev.supsi.ch
-NOERROR	swisstopo.supsi.ch
-NOERROR	margherita.idsia.supsi.ch
-NOERROR	camelia.idsia.supsi.ch
-NOERROR	ore3.supsi.ch
-NOERROR	ovidsp.ovid.com.proxy2.biblio.supsi.ch
-NOERROR	www.imc.supsi.ch
-NOERROR	atd-server2014.supsi.ch
-NOERROR	www.masterdsan.supsi.ch
-NOERROR	mobility-stg.supsi.ch
-NOERROR	s2g.supsi.ch
-NOERROR	gridsense.dti.supsi.ch
-NOERROR	sy-sups-ch-mnn-nwe-001.supsi.ch
-NOERROR	www.didattica-italiano.supsi.ch
-NOERROR	bierp.supsi.ch
-NOERROR	fondo-gianini.supsi.ch
-NXDOMAIN	fc.dacd.supsi.ch
-NOERROR	cdm.app.supsi.ch
-NOERROR	www.insoch.supsi.ch
-NXDOMAIN	www.ist-en.supsi.ch
-NOERROR	poison3.supsi.ch
-NOERROR	www-ncbi-nlm-nih-gov.proxy2.biblio.supsi.ch
-NXDOMAIN	www.counselling.supsi.ch
-NOERROR	temp.matematicando.supsi.ch
-NOERROR	titanio.dfa.supsi.ch
-NXDOMAIN	gallery.lcv.supsi.ch
-NOERROR	www.webminore.supsi.ch
-NXDOMAIN	commissione-gestionegovernance.supsi.ch
-NOERROR	gallery.dacd.supsi.ch
-NXDOMAIN	www.progettistudio.supsi.ch
-NOERROR	abbonamento.supsi.ch
-NOERROR	www.fablab.supsi.ch
-NXDOMAIN	www.ds.supsi.ch
-NOERROR	www.cct.supsi.ch
-NOERROR	www.casadiprogetto.supsi.ch
-NXDOMAIN	photocatalogue.dti.supsi.ch
-NXDOMAIN	sso.supsi.ch
-NOERROR	aoc2013.dti.supsi.ch
-NOERROR	www.oneframemovie.supsi.ch
-NOERROR	collab-edge.supsi.ch
-NOERROR	dfaprint.supsi.ch
-NXDOMAIN	nuovo.supsi.ch
-NXDOMAIN	www.redmine-isin.dti.supsi.ch
-NOERROR	form-alumni.app.supsi.ch
-NOERROR	yoda.supsi.ch
-NXDOMAIN	itech.supsi.ch
-NOERROR	www.dsan.supsi.ch
-NOERROR	ep.supsi.ch
-NXDOMAIN	www.cm.supsi.ch
-NOERROR	si.supsi.ch
-NXDOMAIN	www.rexx-admin.supsi.ch
-NOERROR	home.supsi.ch
-NOERROR	www.m3.dti.supsi.ch
-NOERROR	form-ru.app.supsi.ch
-NOERROR	www.mobilea2k.supsi.ch
-NOERROR	progettistudio.dti.supsi.ch
-NXDOMAIN	3dmma.projects.supsi.ch
-NOERROR	app.supsi.ch
-NOERROR	ci.dti.supsi.ch
-NOERROR	preso.supsi.ch
-NXDOMAIN	www.vcenter.supsi.ch
-NOERROR	password.student.supsi.ch
-NOERROR	www.storiascuola.supsi.ch
-NOERROR	antimonio.supsi.ch
-NOERROR	www.repository.supsi.ch
-NOERROR	cluster01.supsi.ch
-NOERROR	www.dfa-didattica.supsi.ch
-NOERROR	promezio.supsi.ch
-NXDOMAIN	igc.ist.supsi.ch
-NXDOMAIN	www.dct.supsi.ch
-NOERROR	oracle1.dti.supsi.ch
-NOERROR	www.partner-dsan.supsi.ch
-NOERROR	stakeholder-locarno.supsi.ch
-NOERROR	vmps4.dacd.supsi.ch
-NXDOMAIN	form-dsan.app.supsi.ch
-NOERROR	acrux.supsi.ch
-NOERROR	dev-shop.supsi.ch
-NOERROR	web1.supsi.ch
-NOERROR	isin03.dti.supsi.ch
-NOERROR	pserv.supsi.ch
-NOERROR	dti-cim-intel3-idrac.dti.supsi.ch
-NOERROR	jobbank.app.supsi.ch
-NOERROR	tesi.supsi.ch
-NXDOMAIN	www.geoservice.ist.supsi.ch
-NXDOMAIN	linux3.dti.supsi.ch
-NOERROR	eolo3.dsas.supsi.ch
-NOERROR	resolver1.supsi.ch
-NOERROR	dfa-blog.supsi.ch
-NOERROR	vpn.supsi.ch
-NOERROR	host-78-75.net.supsi.ch
-NOERROR	veeam01.supsi.ch
-NOERROR	host-78-247.net.supsi.ch
-NOERROR	www.teenformaticamp.supsi.ch
-NOERROR	www.mooc.supsi.ch
-NOERROR	istfs.dacd.supsi.ch
-NOERROR	terbio.supsi.ch
-NOERROR	biodendrimer2014.supsi.ch
-NXDOMAIN	e-mobiliti.supsi.ch
-NOERROR	supsi.ch
-NOERROR	percorso-orselina.www2.dfa.supsi.ch
-NOERROR	renio.supsi.ch
-NOERROR	markov.dti.supsi.ch
-NOERROR	inside.supsi.ch
-NOERROR	pvnepal.supsi.ch
-NOERROR	portalestudenti-stg.supsi.ch
-NOERROR	dfa-intranet.supsi.ch
-NOERROR	dms.staging.supsi.ch
-NOERROR	www.dev-shop.supsi.ch
-NOERROR	idsia.pserv.supsi.ch
-NOERROR	host-78-76.net.supsi.ch
-NOERROR	lcv.supsi.ch
-NOERROR	www.dfasim.supsi.ch
-NOERROR	linux4.dti.supsi.ch
-NXDOMAIN	www.dem.supsi.ch
-NOERROR	storiascuola.www2.dfa.supsi.ch
-NOERROR	gpu00.dti.supsi.ch
-NOERROR	myencompass.supsi.ch
-NOERROR	shop.supsi.ch
-NOERROR	rame.supsi.ch
-NOERROR	dms.docs.supsi.ch
-NOERROR	dms.supsi.ch
-NOERROR	www.psycap.supsi.ch
-NOERROR	ocp-mng.supsi.ch
-NXDOMAIN	buzzy.die.supsi.ch
-NXDOMAIN	wsdrift.staging.supsi.ch
-NOERROR	ist.supsi.ch
-NOERROR	osservatorio.isaac.supsi.ch
-NOERROR	preso.www2.dfa.supsi.ch
-NOERROR	copisteria.app.supsi.ch
-NOERROR	dfaxserver.supsi.ch
-NOERROR	ml-camp.supsi.ch
-NOERROR	fisco.supsi.ch
-NOERROR	gacrux.supsi.ch
-NXDOMAIN	www.gallery.lcv.supsi.ch
-NOERROR	esx-lic.dti.supsi.ch
-NXDOMAIN	isin12.dti.supsi.ch
-NXDOMAIN	www.gc.supsi.ch
-NOERROR	www.isin.dti.supsi.ch
-NOERROR	spfe.supsi.ch
-NOERROR	www.hcm.supsi.ch
-NOERROR	isin04.dti.supsi.ch
-NOERROR	isin-planner.supsi.ch
-NOERROR	www.form-ru.app.supsi.ch
-NOERROR	dti-cim-intel1.dti.supsi.ch
-NOERROR	www.pvnepal.supsi.ch
-NOERROR	tac-web.supsi.ch
-NOERROR	virgilio.supsi.ch
-NOERROR	isteps-sps-01.supsi.ch
-NOERROR	formazione.supsi.ch
-NOERROR	www.gender.supsi.ch
-NOERROR	berlino.ist.supsi.ch
-NOERROR	repository.supsi.ch
-NOERROR	pub2.cms.supsi.ch
-NOERROR	mng.promezio.supsi.ch
-NOERROR	atd-mf-biblio.supsi.ch
-NOERROR	www.paesaggisonori.supsi.ch
-NOERROR	middle.supsi.ch
-NOERROR	www.mci.supsi.ch
-NOERROR	www.idw.supsi.ch
-NOERROR	access.ovid.com.proxy2.biblio.supsi.ch
-NOERROR	master.supsi.ch
-NXDOMAIN	www.protect2011.supsi.ch
-NOERROR	jstor.org.proxy2.biblio.supsi.ch
-NOERROR	radon.supsi.ch
-NOERROR	gpu06.dti.supsi.ch
-NXDOMAIN	www.fc.dacd.supsi.ch
-NXDOMAIN	collab-edge.student.supsi.ch
-NXDOMAIN	2.biblioteca.supsi.ch
-NOERROR	eolo2.dsas.supsi.ch
-NXDOMAIN	masieo.supsi.ch
-NXDOMAIN	area-f.die.supsi.ch
-NOERROR	percorso-orselina.supsi.ch
-NOERROR	euler.dti.supsi.ch
-NOERROR	psycap.supsi.ch
-NOERROR	sanita.supsi.ch
-NXDOMAIN	doc-direzione-dti.die.supsi.ch
-NOERROR	esi.incites.thomsonreuters.com.proxy2.biblio.supsi.ch
-NXDOMAIN	www.log.supsi.ch
-NXDOMAIN	webdav.isaac.supsi.ch
-NXDOMAIN	www9.supsi.ch
-NOERROR	adfs.supsi.ch
-NOERROR	www.sportech2019.supsi.ch
-NOERROR	etamin.supsi.ch
-NOERROR	dacd.supsi.ch
-NOERROR	spass.supsi.ch
-NOERROR	bastion.supsi.ch
-NOERROR	isteps-sps.supsi.ch
-NOERROR	www.form-orientamento.app.supsi.ch
-NOERROR	roomsmanager.supsi.ch
-NOERROR	adfs1.supsi.ch
-NOERROR	emba.supsi.ch
-NXDOMAIN	www.idsms.supsi.ch
-NOERROR	www.emeraldinsight.com.proxy2.biblio.supsi.ch
-NOERROR	dca.supsi.ch
-NOERROR	host-78-79.net.supsi.ch
-NOERROR	www.matematicando.supsi.ch
-NOERROR	ocp.supsi.ch
-NXDOMAIN	b.dti.supsi.ch
-NOERROR	www.ml-camp.supsi.ch
-NOERROR	online.sagepub.com.proxy2.biblio.supsi.ch
-NOERROR	didattica-italiano.supsi.ch
-NOERROR	www.leee.supsi.ch
-NOERROR	mooc.supsi.ch
-NOERROR	win1.dti.supsi.ch
-NOERROR	imaging-group.dti.supsi.ch
-NOERROR	www.orientamento.supsi.ch
-NOERROR	serverxs.dti.supsi.ch
-NOERROR	intracim.supsi.ch
-NOERROR	www.idoc.supsi.ch
-NXDOMAIN	www.elezione.supsi.ch
-NOERROR	exchange04.supsi.ch
-NOERROR	host-78-73.net.supsi.ch
-NOERROR	ldap.supsi.ch
-NOERROR	gdfa.dfa.supsi.ch
-NXDOMAIN	www.b-datarisk.supsi.ch
-NXDOMAIN	www.lcvmachform.supsi.ch
-NOERROR	www.form-atd.app.supsi.ch
-NOERROR	www.cdlli.supsi.ch
-NXDOMAIN	progettoscuola.issi.dti.supsi.ch
-NXDOMAIN	www2.dacd.supsi.ch
-NXDOMAIN	www.direzione.supsi.ch
-NXDOMAIN	pcm2019.die.supsi.ch
-NOERROR	form-int.app.supsi.ch
-NOERROR	host-78-82.net.supsi.ch
-NXDOMAIN	itman.supsi.ch
-NOERROR	host-78-81.net.supsi.ch
-NOERROR	placement.supsi.ch
-NXDOMAIN	www2.isaac.supsi.ch
-NOERROR	molibdeno.supsi.ch
-NOERROR	netlab-server.dti.supsi.ch
-NOERROR	autodiscover.supsi.ch
-NOERROR	www.cochranelibrary.com.proxy2.biblio.supsi.ch
-NOERROR	optistore.supsi.ch
-NXDOMAIN	red.daa.supsi.ch
-NOERROR	ieeexplore.ieee.org.proxy2.biblio.supsi.ch
-NOERROR	pascal.dti.supsi.ch
-NXDOMAIN	www.lugano2000.supsi.ch
-NOERROR	www.form-dacd.app.supsi.ch
-NOERROR	www.master.supsi.ch
-NOERROR	redirect.supsi.ch
-NXDOMAIN	cocoon1.dti.supsi.ch
-NOERROR	ns4.supsi.ch
-NXDOMAIN	pcm58.die.supsi.ch
-NXDOMAIN	ulisse.dti.supsi.ch
-NOERROR	tthf.dti.supsi.ch
-NOERROR	sciencemag.org.proxy2.biblio.supsi.ch
-NOERROR	www.journals-dfa.supsi.ch
-NXDOMAIN	skillprofiler.dti.supsi.ch
-NOERROR	host-78-65.net.supsi.ch
-NXDOMAIN	itaca.die.supsi.ch
-NOERROR	www.bachelor.supsi.ch
-NOERROR	fabmanager.supsi.ch
-NOERROR	progettiricerca.supsi.ch
-NOERROR	ricercascuola2020.supsi.ch
-NOERROR	mail.supsi.ch
-NOERROR	science.sciencemag.org.proxy2.biblio.supsi.ch
-NOERROR	parallelstation.dti.supsi.ch
-NXDOMAIN	wsdriftinjurycases.staging.supsi.ch
-NOERROR	becrux.supsi.ch
-NOERROR	geditor.ist.supsi.ch
-NOERROR	convegnoitalmatica.www2.dfa.supsi.ch
-NXDOMAIN	annafoerster.dti.supsi.ch
-NOERROR	link.springer.com.proxy2.biblio.supsi.ch
-NOERROR	sportech2019.supsi.ch
-NOERROR	geoservice2.ist.supsi.ch
-NOERROR	ra.supsi.ch
-NOERROR	www.tandfonline.com.proxy2.biblio.supsi.ch
-NXDOMAIN	www.password.student.supsi.ch
-NOERROR	jamsection.dti.supsi.ch
-NOERROR	pubmed-ncbi-nlm-nih-gov.proxy2.biblio.supsi.ch
-NOERROR	win3.dti.supsi.ch
-NOERROR	www.biblioteca.supsi.ch
-NOERROR	lts.supsi.ch
-NOERROR	mobilitystudies.app.supsi.ch
-NOERROR	www.form-dti.app.supsi.ch
-NOERROR	www2.isin.dti.supsi.ch
-NOERROR	imc.supsi.ch
-NOERROR	form-imc.app.supsi.ch
-NOERROR	masterdsan.supsi.ch
-NOERROR	isteps-sps-02.supsi.ch
-NOERROR	bromo.supsi.ch
-NXDOMAIN	www.lme.dti.supsi.ch
-NOERROR	sodio.dir.supsi.ch
-NOERROR	tnetid.supsi.ch
-NXDOMAIN	www.min.supsi.ch
-NOERROR	www.form-risorseumane.app.supsi.ch
-NOERROR	search.proquest.com.proxy2.biblio.supsi.ch
-NOERROR	atd-server.supsi.ch
-NOERROR	mailgw2.supsi.ch
-NOERROR	temp.novitafiscali.supsi.ch
-NXDOMAIN	host-195-176-54-86.net.supsi.ch
-NOERROR	dcb.supsi.ch
-NOERROR	www.radon.supsi.ch
-NOERROR	www.reteca.supsi.ch
-NOERROR	flerovio.supsi.ch
-NOERROR	vc.supsi.ch
-NXDOMAIN	progettoscuola.dti.supsi.ch
-NOERROR	app1.supsi.ch
-NOERROR	isin02.dti.supsi.ch
-NOERROR	dfasim.supsi.ch
-NXDOMAIN	www.eduroam.supsi.ch
-NOERROR	cairn.info.proxy2.biblio.supsi.ch
-NOERROR	password.supsi.ch
-NXDOMAIN	ww2.die.supsi.ch
-NOERROR	dti-cim-amd1.dti.supsi.ch
-NXDOMAIN	www.rexx.supsi.ch
-NOERROR	leee.supsi.ch
-NOERROR	host-78-71.net.supsi.ch
-NOERROR	linux2.dti.supsi.ch
-NOERROR	linksolver.ovid.com.proxy2.biblio.supsi.ch
-NXDOMAIN	httpd1.dti.supsi.ch
-NOERROR	host-78-66.net.supsi.ch
-NOERROR	www.maind.supsi.ch
-NXDOMAIN	www.roomsmanager.supsi.ch
-NOERROR	trizio.supsi.ch
-NOERROR	partner-dsan.supsi.ch
-NXDOMAIN	www2.serviziocad.supsi.ch
-NOERROR	gpu05.dti.supsi.ch
-NOERROR	www.plurilinguismo2018.supsi.ch
-NXDOMAIN	www.vcs-isin.dti.supsi.ch
-NOERROR	exchange03.supsi.ch
-NXDOMAIN	vcenter.supsi.ch
-NOERROR	pserv.dacd.supsi.ch
-NOERROR	atd-mf-staba.supsi.ch
-NOERROR	idw.supsi.ch
-NXDOMAIN	www.quality.supsi.ch
-NOERROR	mendelevio.supsi.ch
-NXDOMAIN	rost.die.supsi.ch
-NOERROR	prtg.supsi.ch
-NOERROR	webofknowledge.com.proxy2.biblio.supsi.ch
-NOERROR	www-sciencedirect-com.proxy2.biblio.supsi.ch
-NOERROR	samario.supsi.ch
-NOERROR	www.ccalps.supsi.ch
-NOERROR	projerp.supsi.ch
-NOERROR	jcr.incites.thomsonreuters.com.proxy2.biblio.supsi.ch
-NOERROR	pta.dti.supsi.ch
-NOERROR	tlogin.supsi.ch
-NOERROR	lifecycle.promezio.supsi.ch
-NOERROR	www.erasmus.supsi.ch
-NOERROR	portal.isaac.supsi.ch
-NOERROR	stagno.supsi.ch
-NXDOMAIN	supsi.new.dti.supsi.ch
-NOERROR	autoconfig.supsi.ch
-NOERROR	vconf-gall2.supsi.ch
-NOERROR	emeraldinsight.com.proxy2.biblio.supsi.ch
-NOERROR	host-78-165.net.supsi.ch
-NOERROR	www.supsi.ch
-NOERROR	host.mobilityonline.supsi.ch
-NOERROR	form-dfa.app.supsi.ch
-NXDOMAIN	www.lpark.supsi.ch
-NOERROR	host-78-69.net.supsi.ch
-NOERROR	www.fisco.supsi.ch
-NOERROR	giscel2020.supsi.ch
-NOERROR	robertobucher.dti.supsi.ch
-NOERROR	exchange042.supsi.ch
-NXDOMAIN	www.ai.supsi.ch
-NOERROR	www-tandfonline-com.proxy2.biblio.supsi.ch
-NOERROR	ares.dti.supsi.ch
-NOERROR	spacelab.dti.supsi.ch
-NOERROR	www.dfa-blog.supsi.ch
-NOERROR	priv.form-ru.app.supsi.ch
-NOERROR	lcvform.supsi.ch
-NOERROR	ferro.supsi.ch
-NXDOMAIN	www.si.supsi.ch
-NOERROR	fablab.supsi.ch
-NOERROR	sciencedirect.com.proxy2.biblio.supsi.ch
-NOERROR	hydromet.supsi.ch
-NOERROR	credo1.dti.supsi.ch
-NOERROR	www.segreteria-virtuale.supsi.ch
-NOERROR	host-78-11.net.supsi.ch
-NOERROR	plurilinguismo2018.www2.dfa.supsi.ch
-NOERROR	wsus-srv.supsi.ch
-NOERROR	vcs-isin.dti.supsi.ch
-NOERROR	dfa-didattica.supsi.ch
-NOERROR	erasmus.supsi.ch
-NOERROR	isin13.dti.supsi.ch
-NOERROR	wlan-guest.supsi.ch
-NOERROR	www.form-dfa.app.supsi.ch
-NOERROR	nova.supsi.ch
-NOERROR	gender.supsi.ch
-NXDOMAIN	www.dls.supsi.ch
-NOERROR	log.supsi.ch
-NOERROR	dsas.supsi.ch
-NXDOMAIN	netid2.supsi.ch
-NOERROR	gpu02.dti.supsi.ch
-NOERROR	wygwyg-dev.supsi.ch
-NOERROR	cdlli.www2.dfa.supsi.ch
-NOERROR	www.tthf.supsi.ch
-NOERROR	www.percorso-orselina.supsi.ch
-NOERROR	ariel.supsi.ch
-NOERROR	trobertobucher.dti.supsi.ch
-NOERROR	polonio2.supsi.ch
-NXDOMAIN	asilonido-test.supsi.ch
-NOERROR	www.laretedeilibri.supsi.ch
-NXDOMAIN	elezione.supsi.ch
-NOERROR	atd-video.supsi.ch
-NOERROR	radius.supsi.ch
-NOERROR	opac.nebis.ch.proxy2.biblio.supsi.ch
-NOERROR	hcm.supsi.ch
-NOERROR	filmrucksack.supsi.ch
-NOERROR	rttlm.dti.supsi.ch
-NOERROR	v-machina.supsi.ch
-NOERROR	cdlli.supsi.ch
-NOERROR	gespos.ist.supsi.ch
-NOERROR	eutils-ncbi-nlm-nih-gov.proxy2.biblio.supsi.ch
-NOERROR	paesaggisonori.supsi.ch
-NOERROR	www.form-alumni.app.supsi.ch
-NXDOMAIN	aspi.dti.supsi.ch
-NOERROR	www.mpm.supsi.ch
-NOERROR	wellbeing-enroll-dfa.supsi.ch
-NOERROR	ftp.s2g.supsi.ch
-NOERROR	dev-multisite.magento.supsi.ch
-NOERROR	sharelatex.dti.supsi.ch
-NXDOMAIN	ricercazione.dsas.supsi.ch
-NOERROR	journals.cambridge.org.proxy2.biblio.supsi.ch
-NOERROR	dfa.supsi.ch
-NOERROR	contentshub.supsi.ch
-NOERROR	segreteria-virtuale.supsi.ch
-NOERROR	pmdir.supsi.ch
-NOERROR	lpark.supsi.ch
-NOERROR	clir.supsi.ch
-NOERROR	pmlegacy-ncbi-nlm-nih-gov.proxy2.biblio.supsi.ch
-NXDOMAIN	www.masfmt.supsi.ch
-NOERROR	gsr.supsi.ch
-NOERROR	wlc-dfa.supsi.ch
-NXDOMAIN	www.fc-catalogo.app.supsi.ch
-NOERROR	mng.dynamat.dacd.supsi.ch
-NOERROR	wap1.supsi.ch
-NOERROR	onlinelibrary.wiley.com.proxy2.biblio.supsi.ch
-NXDOMAIN	www.convegnodas.dfa.supsi.ch
-NXDOMAIN	supsip.die.supsi.ch
-NOERROR	gliese.dti.supsi.ch
-NOERROR	stop-and-go.supsi.ch
-NOERROR	www.lts.supsi.ch
-NXDOMAIN	tomcat1.dti.supsi.ch
-NOERROR	gpu07.dti.supsi.ch
-NXDOMAIN	www.3dmma.projects.supsi.ch
-NXDOMAIN	mail.dti.supsi.ch
+dynamat.dacd.supsi.ch
+plurilinguismo2018.supsi.ch
+iopscience.iop.org.proxy2.biblio.supsi.ch
+www3.supsi.ch
+www.jobbank.app.supsi.ch
+web.a.ebscohost.com.proxy2.biblio.supsi.ch
+tandfonline.com.proxy2.biblio.supsi.ch
+oneframemovie.www2.dfa.supsi.ch
+didattica-italiano.www2.dfa.supsi.ch
+lingue.app.supsi.ch
+dump1.dti.supsi.ch
+about.jstor.org.proxy2.biblio.supsi.ch
+s2gvm.supsi.ch
+onlinelibrary-wiley-com.proxy2.biblio.supsi.ch
+www.dsas.supsi.ch
+host-78-180.net.supsi.ch
+fc.supsi.ch
+supsilite.supsi.ch
+host-78-83.net.supsi.ch
+host-78-74.net.supsi.ch
+bane3.supsi.ch
+dti-cim-intel2-idrac.dti.supsi.ch
+oxfordreference.com.proxy2.biblio.supsi.ch
+plsm.dti.supsi.ch
+app.isaac.supsi.ch
+videoconf.supsi.ch
+auth.cms.supsi.ch
+www.form-imc.app.supsi.ch
+eduroam.supsi.ch
+linux1.dti.supsi.ch
+vms1.dti.supsi.ch
+sh2o.supsi.ch
+wsdriftdispatcher.staging.supsi.ch
+ebooks.cambridge.org.proxy2.biblio.supsi.ch
+lutezio.supsi.ch
+www.sport.supsi.ch
+www.ep.supsi.ch
+titanio.supsi.ch
+www.dfa-intranet.supsi.ch
+storiascuola.supsi.ch
+node16.dti.supsi.ch
+progettiricerca.app.supsi.ch
+rexx.supsi.ch
+mdc-netlab.dti.supsi.ch
+dc01.supsi.ch
+form-gen.app.supsi.ch
+accint.app.supsi.ch
+www.clir.supsi.ch
+web.ebscohost.com.proxy2.biblio.supsi.ch
+netlab-server.supsi.ch
+lydia.ist.supsi.ch
+ad.supsi.ch
+secure.supsi.ch
+web.b.ebscohost.com.proxy2.biblio.supsi.ch
+www.serviziwebsupsi.app.supsi.ch
+saniwiki.app.supsi.ch
+printserv1.supsi.ch
+host-78-164.net.supsi.ch
+wiki.supsi.ch
+gpu01.dti.supsi.ch
+exchange02.supsi.ch
+www.springer.com.proxy2.biblio.supsi.ch
+pub-campus.supsi.ch
+www.form-gen.app.supsi.ch
+www.form-fc.app.supsi.ch
+linkinghub-elsevier-com.proxy2.biblio.supsi.ch
+loadbalancer2.supsi.ch
+novitafiscali.supsi.ch
+www.password.supsi.ch
+people.dti.supsi.ch
+adfs2.supsi.ch
+login2.supsi.ch
+www.thecochranelibrary.com.proxy2.biblio.supsi.ch
+imaging-group.supsi.ch
+loadbalancer1.supsi.ch
+www.domoml.supsi.ch
+istgis.ist.supsi.ch
+fc-catalogo.supsi.ch
+www.tac-web.supsi.ch
+www.torrossa.it.proxy2.biblio.supsi.ch
+www.iscrizioni.app.supsi.ch
+istgeo.ist.supsi.ch
+search.ebscohost.com.proxy2.biblio.supsi.ch
+oneframemovie.supsi.ch
+atd-bw-conta.supsi.ch
+fosforo.dir.supsi.ch
+torio.supsi.ch
+dl.acm.org.proxy2.biblio.supsi.ch
+recherche.nebis.ch.proxy2.biblio.supsi.ch
+startupgarage.dti.supsi.ch
+iside.supsi.ch
+www.campus.supsi.ch
+redmine-isin.dti.supsi.ch
+wygwyg.supsi.ch
+www.biodendrimer2014.supsi.ch
+ci-isin.dti.supsi.ch
+www.ist.supsi.ch
+idoc.supsi.ch
+form-orientamento.app.supsi.ch
+www.giscel2020.supsi.ch
+host-78-84.net.supsi.ch
+perseo.dti.supsi.ch
+regdeass006.supsi.ch
+ovidsp.tx.ovid.com.proxy2.biblio.supsi.ch
+vpn-dfa.supsi.ch
+meeting.supsi.ch
+www.dti.supsi.ch
+netid.supsi.ch
+isin.dti.supsi.ch
+sport.supsi.ch
+biblioteca.supsi.ch
+rexx-admin.supsi.ch
+form-logistica.app.supsi.ch
+download.springer.com.proxy2.biblio.supsi.ch
+europio.supsi.ch
+orientamento.supsi.ch
+student.supsi.ch
+dti.supsi.ch
+maind.supsi.ch
+portalecollaboratori.supsi.ch
+carbonio.supsi.ch
+staging.mooc.supsi.ch
+www.sciencedirect.com.proxy2.biblio.supsi.ch
+isaac-dev03.dacd.supsi.ch
+www.form-deass.app.supsi.ch
+sportech.supsi.ch
+gioconda.supsi.ch
+matematicando.supsi.ch
+portalestudenti.supsi.ch
+indio.supsi.ch
+login.proxy2.biblio.supsi.ch
+tm3.dti.supsi.ch
+core-mng.dti.supsi.ch
+jamsection-dev.dti.supsi.ch
+sondaggi.supsi.ch
+www.ra.supsi.ch
+www.shop.supsi.ch
+credo3252.dti.supsi.ch
+slm.supsi.ch
+host-78-72.net.supsi.ch
+multisite.magento.supsi.ch
+www.convegnoitalmatica.supsi.ch
+www.inside.supsi.ch
+www.ricercascuola2020.supsi.ch
+cloud-pf.supsi.ch
+laretedeilibri.supsi.ch
+form-dti.app.supsi.ch
+gpubox.dti.supsi.ch
+zolfo.dir.supsi.ch
+laretedeilibri.www2.dfa.supsi.ch
+host-78-120.net.supsi.ch
+exchange01.supsi.ch
+atd-mf-rustico.supsi.ch
+www.worldhabitat.supsi.ch
+host-78-179.net.supsi.ch
+www-swissuniversities-ch.proxy2.biblio.supsi.ch
+www.oxfordreference.com.proxy2.biblio.supsi.ch
+proxy.biblio.supsi.ch
+share.supsi.ch
+library.dfa.supsi.ch
+www2.supsi.ch
+maintenance.portalecollaboratori.supsi.ch
+rost.dti.supsi.ch
+dsan.supsi.ch
+www.gdfa.dfa.supsi.ch
+host-78-68.net.supsi.ch
+careers.supsi.ch
+dynamat.supsi.ch
+form-dacd.app.supsi.ch
+rre.sagepub.com.proxy2.biblio.supsi.ch
+webminore.supsi.ch
+copernicio.idsia.supsi.ch
+prtg01.supsi.ch
+fc-catalogo.app.supsi.ch
+cockpit.finanze.app.supsi.ch
+optisim.supsi.ch
+mobileman.projects.supsi.ch
+bachelor.supsi.ch
+host-78-77.net.supsi.ch
+fw-dfa.supsi.ch
+teenformaticamp.supsi.ch
+login.library.ethz.ch.proxy2.biblio.supsi.ch
+www.uptodate.com.proxy2.biblio.supsi.ch
+arneb.supsi.ch
+mobility.supsi.ch
+www.staging.mooc.supsi.ch
+www.dacd.supsi.ch
+form-deass.app.supsi.ch
+qualita.supsi.ch
+dti-cim-intel2.dti.supsi.ch
+iscrizioni.app.supsi.ch
+www.dfa.supsi.ch
+venom3.supsi.ch
+login.supsi.ch
+www.placement.supsi.ch
+paesaggisonori.www2.dfa.supsi.ch
+swissmosquitonetwork.staging.supsi.ch
+isaac.supsi.ch
+www.slm.supsi.ch
+smt-vpn.dti.supsi.ch
+delivery.acm.org.proxy2.biblio.supsi.ch
+www.jstor.org.proxy2.biblio.supsi.ch
+www.fc.supsi.ch
+planon-access.supsi.ch
+serviziwebsupsi.app.supsi.ch
+apus.supsi.ch
+ricerca.dti.supsi.ch
+dfasim.www2.dfa.supsi.ch
+istgis.dacd.supsi.ch
+psycap.www2.dfa.supsi.ch
+pub.cms.supsi.ch
+cerio4.supsi.ch
+gauss.dti.supsi.ch
+ftp.isaac.supsi.ch
+deuterio.supsi.ch
+trevano7.dacd.supsi.ch
+sfx.ethz.ch.proxy2.biblio.supsi.ch
+lgw1.supsi.ch
+www.dynamat.supsi.ch
+www.plurilinguismo2018register.supsi.ch
+giscel2020.www2.dfa.supsi.ch
+www.preso.supsi.ch
+data.supsi.ch
+recherche-nebis-ch.proxy2.biblio.supsi.ch
+dti-cim-intel3.dti.supsi.ch
+host-78-67.net.supsi.ch
+host-78-70.net.supsi.ch
+msdnaa.supsi.ch
+node17.dti.supsi.ch
+www.sanita.supsi.ch
+www.emba.supsi.ch
+form-risorseumane.app.supsi.ch
+www2.dfa.supsi.ch
+www.careers.supsi.ch
+methods.sagepub.com.proxy2.biblio.supsi.ch
+link-springer-com.proxy2.biblio.supsi.ch
+www.spacelab.dti.supsi.ch
+bigbluebutton.dti.supsi.ch
+form-fc.app.supsi.ch
+batman.supsi.ch
+host-78-80.net.supsi.ch
+login.webofknowledge.com.proxy2.biblio.supsi.ch
+gpu04.dti.supsi.ch
+ax.supsi.ch
+www.lcv.supsi.ch
+winmess.dacd.supsi.ch
+spdb.supsi.ch
+mailgw1.supsi.ch
+www2.gdfa.dfa.supsi.ch
+host-78-252.net.supsi.ch
+manganese.supsi.ch
+olmio.supsi.ch
+m3.dti.supsi.ch
+corradovaleri.dti.supsi.ch
+apps.webofknowledge.com.proxy2.biblio.supsi.ch
+proxy2.biblio.supsi.ch
+www.isaac.supsi.ch
+db.isaac.supsi.ch
+plurilinguismo2018register.supsi.ch
+fw-galleria2.dti.supsi.ch
+pcwt.dti.supsi.ch
+geranio.idsia.supsi.ch
+geoservice.ist.supsi.ch
+portalestudenti-dev.supsi.ch
+swisstopo.supsi.ch
+margherita.idsia.supsi.ch
+camelia.idsia.supsi.ch
+ore3.supsi.ch
+ovidsp.ovid.com.proxy2.biblio.supsi.ch
+www.imc.supsi.ch
+atd-server2014.supsi.ch
+www.masterdsan.supsi.ch
+mobility-stg.supsi.ch
+s2g.supsi.ch
+gridsense.dti.supsi.ch
+sy-sups-ch-mnn-nwe-001.supsi.ch
+www.didattica-italiano.supsi.ch
+bierp.supsi.ch
+fondo-gianini.supsi.ch
+cdm.app.supsi.ch
+www.insoch.supsi.ch
+poison3.supsi.ch
+www-ncbi-nlm-nih-gov.proxy2.biblio.supsi.ch
+temp.matematicando.supsi.ch
+titanio.dfa.supsi.ch
+www.webminore.supsi.ch
+gallery.dacd.supsi.ch
+abbonamento.supsi.ch
+www.fablab.supsi.ch
+www.cct.supsi.ch
+www.casadiprogetto.supsi.ch
+aoc2013.dti.supsi.ch
+www.oneframemovie.supsi.ch
+collab-edge.supsi.ch
+dfaprint.supsi.ch
+form-alumni.app.supsi.ch
+yoda.supsi.ch
+www.dsan.supsi.ch
+ep.supsi.ch
+si.supsi.ch
+home.supsi.ch
+www.m3.dti.supsi.ch
+form-ru.app.supsi.ch
+www.mobilea2k.supsi.ch
+progettistudio.dti.supsi.ch
+app.supsi.ch
+ci.dti.supsi.ch
+preso.supsi.ch
+password.student.supsi.ch
+www.storiascuola.supsi.ch
+antimonio.supsi.ch
+www.repository.supsi.ch
+cluster01.supsi.ch
+www.dfa-didattica.supsi.ch
+promezio.supsi.ch
+oracle1.dti.supsi.ch
+www.partner-dsan.supsi.ch
+stakeholder-locarno.supsi.ch
+vmps4.dacd.supsi.ch
+acrux.supsi.ch
+dev-shop.supsi.ch
+web1.supsi.ch
+isin03.dti.supsi.ch
+pserv.supsi.ch
+dti-cim-intel3-idrac.dti.supsi.ch
+jobbank.app.supsi.ch
+tesi.supsi.ch
+eolo3.dsas.supsi.ch
+resolver1.supsi.ch
+dfa-blog.supsi.ch
+vpn.supsi.ch
+host-78-75.net.supsi.ch
+veeam01.supsi.ch
+host-78-247.net.supsi.ch
+www.teenformaticamp.supsi.ch
+www.mooc.supsi.ch
+istfs.dacd.supsi.ch
+terbio.supsi.ch
+biodendrimer2014.supsi.ch
+supsi.ch
+percorso-orselina.www2.dfa.supsi.ch
+renio.supsi.ch
+markov.dti.supsi.ch
+inside.supsi.ch
+pvnepal.supsi.ch
+portalestudenti-stg.supsi.ch
+dfa-intranet.supsi.ch
+dms.staging.supsi.ch
+www.dev-shop.supsi.ch
+idsia.pserv.supsi.ch
+host-78-76.net.supsi.ch
+lcv.supsi.ch
+www.dfasim.supsi.ch
+linux4.dti.supsi.ch
+storiascuola.www2.dfa.supsi.ch
+gpu00.dti.supsi.ch
+myencompass.supsi.ch
+shop.supsi.ch
+rame.supsi.ch
+dms.docs.supsi.ch
+dms.supsi.ch
+www.psycap.supsi.ch
+ocp-mng.supsi.ch
+ist.supsi.ch
+osservatorio.isaac.supsi.ch
+preso.www2.dfa.supsi.ch
+copisteria.app.supsi.ch
+dfaxserver.supsi.ch
+ml-camp.supsi.ch
+fisco.supsi.ch
+gacrux.supsi.ch
+esx-lic.dti.supsi.ch
+www.isin.dti.supsi.ch
+spfe.supsi.ch
+www.hcm.supsi.ch
+isin04.dti.supsi.ch
+isin-planner.supsi.ch
+www.form-ru.app.supsi.ch
+dti-cim-intel1.dti.supsi.ch
+www.pvnepal.supsi.ch
+tac-web.supsi.ch
+virgilio.supsi.ch
+isteps-sps-01.supsi.ch
+formazione.supsi.ch
+www.gender.supsi.ch
+berlino.ist.supsi.ch
+repository.supsi.ch
+pub2.cms.supsi.ch
+mng.promezio.supsi.ch
+atd-mf-biblio.supsi.ch
+www.paesaggisonori.supsi.ch
+middle.supsi.ch
+www.mci.supsi.ch
+www.idw.supsi.ch
+access.ovid.com.proxy2.biblio.supsi.ch
+master.supsi.ch
+jstor.org.proxy2.biblio.supsi.ch
+radon.supsi.ch
+gpu06.dti.supsi.ch
+eolo2.dsas.supsi.ch
+percorso-orselina.supsi.ch
+euler.dti.supsi.ch
+psycap.supsi.ch
+sanita.supsi.ch
+esi.incites.thomsonreuters.com.proxy2.biblio.supsi.ch
+adfs.supsi.ch
+www.sportech2019.supsi.ch
+etamin.supsi.ch
+dacd.supsi.ch
+spass.supsi.ch
+bastion.supsi.ch
+isteps-sps.supsi.ch
+www.form-orientamento.app.supsi.ch
+roomsmanager.supsi.ch
+adfs1.supsi.ch
+emba.supsi.ch
+www.emeraldinsight.com.proxy2.biblio.supsi.ch
+dca.supsi.ch
+host-78-79.net.supsi.ch
+www.matematicando.supsi.ch
+ocp.supsi.ch
+www.ml-camp.supsi.ch
+online.sagepub.com.proxy2.biblio.supsi.ch
+didattica-italiano.supsi.ch
+www.leee.supsi.ch
+mooc.supsi.ch
+win1.dti.supsi.ch
+imaging-group.dti.supsi.ch
+www.orientamento.supsi.ch
+serverxs.dti.supsi.ch
+intracim.supsi.ch
+www.idoc.supsi.ch
+exchange04.supsi.ch
+host-78-73.net.supsi.ch
+ldap.supsi.ch
+gdfa.dfa.supsi.ch
+www.form-atd.app.supsi.ch
+www.cdlli.supsi.ch
+form-int.app.supsi.ch
+host-78-82.net.supsi.ch
+host-78-81.net.supsi.ch
+placement.supsi.ch
+molibdeno.supsi.ch
+netlab-server.dti.supsi.ch
+autodiscover.supsi.ch
+www.cochranelibrary.com.proxy2.biblio.supsi.ch
+optistore.supsi.ch
+ieeexplore.ieee.org.proxy2.biblio.supsi.ch
+pascal.dti.supsi.ch
+www.form-dacd.app.supsi.ch
+www.master.supsi.ch
+redirect.supsi.ch
+ns4.supsi.ch
+tthf.dti.supsi.ch
+sciencemag.org.proxy2.biblio.supsi.ch
+www.journals-dfa.supsi.ch
+host-78-65.net.supsi.ch
+www.bachelor.supsi.ch
+fabmanager.supsi.ch
+progettiricerca.supsi.ch
+ricercascuola2020.supsi.ch
+mail.supsi.ch
+science.sciencemag.org.proxy2.biblio.supsi.ch
+parallelstation.dti.supsi.ch
+becrux.supsi.ch
+geditor.ist.supsi.ch
+convegnoitalmatica.www2.dfa.supsi.ch
+link.springer.com.proxy2.biblio.supsi.ch
+sportech2019.supsi.ch
+geoservice2.ist.supsi.ch
+ra.supsi.ch
+www.tandfonline.com.proxy2.biblio.supsi.ch
+jamsection.dti.supsi.ch
+pubmed-ncbi-nlm-nih-gov.proxy2.biblio.supsi.ch
+win3.dti.supsi.ch
+www.biblioteca.supsi.ch
+lts.supsi.ch
+mobilitystudies.app.supsi.ch
+www.form-dti.app.supsi.ch
+www2.isin.dti.supsi.ch
+imc.supsi.ch
+form-imc.app.supsi.ch
+masterdsan.supsi.ch
+isteps-sps-02.supsi.ch
+bromo.supsi.ch
+sodio.dir.supsi.ch
+tnetid.supsi.ch
+www.form-risorseumane.app.supsi.ch
+search.proquest.com.proxy2.biblio.supsi.ch
+atd-server.supsi.ch
+mailgw2.supsi.ch
+temp.novitafiscali.supsi.ch
+dcb.supsi.ch
+www.radon.supsi.ch
+www.reteca.supsi.ch
+flerovio.supsi.ch
+vc.supsi.ch
+app1.supsi.ch
+isin02.dti.supsi.ch
+dfasim.supsi.ch
+cairn.info.proxy2.biblio.supsi.ch
+password.supsi.ch
+dti-cim-amd1.dti.supsi.ch
+leee.supsi.ch
+host-78-71.net.supsi.ch
+linux2.dti.supsi.ch
+linksolver.ovid.com.proxy2.biblio.supsi.ch
+host-78-66.net.supsi.ch
+www.maind.supsi.ch
+trizio.supsi.ch
+partner-dsan.supsi.ch
+gpu05.dti.supsi.ch
+www.plurilinguismo2018.supsi.ch
+exchange03.supsi.ch
+pserv.dacd.supsi.ch
+atd-mf-staba.supsi.ch
+idw.supsi.ch
+mendelevio.supsi.ch
+prtg.supsi.ch
+webofknowledge.com.proxy2.biblio.supsi.ch
+www-sciencedirect-com.proxy2.biblio.supsi.ch
+samario.supsi.ch
+www.ccalps.supsi.ch
+projerp.supsi.ch
+jcr.incites.thomsonreuters.com.proxy2.biblio.supsi.ch
+pta.dti.supsi.ch
+tlogin.supsi.ch
+lifecycle.promezio.supsi.ch
+www.erasmus.supsi.ch
+portal.isaac.supsi.ch
+stagno.supsi.ch
+autoconfig.supsi.ch
+vconf-gall2.supsi.ch
+emeraldinsight.com.proxy2.biblio.supsi.ch
+host-78-165.net.supsi.ch
+www.supsi.ch
+host.mobilityonline.supsi.ch
+form-dfa.app.supsi.ch
+host-78-69.net.supsi.ch
+www.fisco.supsi.ch
+giscel2020.supsi.ch
+robertobucher.dti.supsi.ch
+exchange042.supsi.ch
+www-tandfonline-com.proxy2.biblio.supsi.ch
+ares.dti.supsi.ch
+spacelab.dti.supsi.ch
+www.dfa-blog.supsi.ch
+priv.form-ru.app.supsi.ch
+lcvform.supsi.ch
+ferro.supsi.ch
+fablab.supsi.ch
+sciencedirect.com.proxy2.biblio.supsi.ch
+hydromet.supsi.ch
+credo1.dti.supsi.ch
+www.segreteria-virtuale.supsi.ch
+host-78-11.net.supsi.ch
+plurilinguismo2018.www2.dfa.supsi.ch
+wsus-srv.supsi.ch
+vcs-isin.dti.supsi.ch
+dfa-didattica.supsi.ch
+erasmus.supsi.ch
+isin13.dti.supsi.ch
+wlan-guest.supsi.ch
+www.form-dfa.app.supsi.ch
+nova.supsi.ch
+gender.supsi.ch
+log.supsi.ch
+dsas.supsi.ch
+gpu02.dti.supsi.ch
+wygwyg-dev.supsi.ch
+cdlli.www2.dfa.supsi.ch
+www.tthf.supsi.ch
+www.percorso-orselina.supsi.ch
+ariel.supsi.ch
+trobertobucher.dti.supsi.ch
+polonio2.supsi.ch
+www.laretedeilibri.supsi.ch
+atd-video.supsi.ch
+radius.supsi.ch
+opac.nebis.ch.proxy2.biblio.supsi.ch
+hcm.supsi.ch
+filmrucksack.supsi.ch
+rttlm.dti.supsi.ch
+v-machina.supsi.ch
+cdlli.supsi.ch
+gespos.ist.supsi.ch
+eutils-ncbi-nlm-nih-gov.proxy2.biblio.supsi.ch
+paesaggisonori.supsi.ch
+www.form-alumni.app.supsi.ch
+www.mpm.supsi.ch
+wellbeing-enroll-dfa.supsi.ch
+ftp.s2g.supsi.ch
+dev-multisite.magento.supsi.ch
+sharelatex.dti.supsi.ch
+journals.cambridge.org.proxy2.biblio.supsi.ch
+dfa.supsi.ch
+contentshub.supsi.ch
+segreteria-virtuale.supsi.ch
+pmdir.supsi.ch
+lpark.supsi.ch
+clir.supsi.ch
+pmlegacy-ncbi-nlm-nih-gov.proxy2.biblio.supsi.ch
+gsr.supsi.ch
+wlc-dfa.supsi.ch
+mng.dynamat.dacd.supsi.ch
+wap1.supsi.ch
+onlinelibrary.wiley.com.proxy2.biblio.supsi.ch
+gliese.dti.supsi.ch
+stop-and-go.supsi.ch
+www.lts.supsi.ch
+gpu07.dti.supsi.ch

@@ -1,64 +1,55 @@
-NXDOMAIN	acampus21.moreheadstate.edu
-NOERROR	msurecognition.moreheadstate.edu
-NOERROR	twitter.moreheadstate.edu
-NOERROR	eec.moreheadstate.edu
-NOERROR	servicedesk.moreheadstate.edu
-NOERROR	scholarworks.moreheadstate.edu
-NOERROR	webmail.moreheadstate.edu
-NOERROR	staging.moreheadstate.edu
-NXDOMAIN	autodiscover.campus.moreheadstate.edu
-NOERROR	admin.moreheadstate.edu
-NOERROR	msuvpn.moreheadstate.edu
-NXDOMAIN	acampus.moreheadstate.edu
-NOERROR	recreation.moreheadstate.edu
-NOERROR	vpn.moreheadstate.edu
-NOERROR	sreid.moreheadstate.edu
-NOERROR	estage.moreheadstate.edu
-NOERROR	mobile.moreheadstate.edu
-NOERROR	secureweb.moreheadstate.edu
-NOERROR	store.moreheadstate.edu
-NOERROR	events.moreheadstate.edu
-NXDOMAIN	2.moreheadstate.edu
-NOERROR	auth.moreheadstate.edu
-NOERROR	mail.moreheadstate.edu
-NXDOMAIN	w.alumni.moreheadstate.edu
-NOERROR	alumni.moreheadstate.edu
-NOERROR	ftp.moreheadstate.edu
-NOERROR	cva.moreheadstate.edu
-NOERROR	ssc.moreheadstate.edu
-NOERROR	moreheadstate.edu
-NXDOMAIN	www3.moreheadstate.edu
-NXDOMAIN	isepol1.moreheadstate.edu
-NOERROR	www.alumni.moreheadstate.edu
-NOERROR	bookstore.moreheadstate.edu
-NOERROR	askus.research.moreheadstate.edu
-NOERROR	fund.moreheadstate.edu
-NOERROR	autodiscover.moreheadstate.edu
-NOERROR	calendar.library.moreheadstate.edu
-NOERROR	eagletracks.moreheadstate.edu
-NOERROR	webadvisor.moreheadstate.edu
-NOERROR	phonebill.moreheadstate.edu
-NOERROR	cva2.moreheadstate.edu
-NOERROR	tweagle.moreheadstate.edu
-NXDOMAIN	isepol2.moreheadstate.edu
-NOERROR	eac.moreheadstate.edu
-NXDOMAIN	www2.moreheadstate.edu
-NOERROR	smartcatalog.moreheadstate.edu
-NOERROR	research.moreheadstate.edu
-NOERROR	webx.moreheadstate.edu
-NOERROR	my.moreheadstate.edu
-NOERROR	recruiter.moreheadstate.edu
-NOERROR	smtp.moreheadstate.edu
-NOERROR	admission.moreheadstate.edu
-NOERROR	directory.moreheadstate.edu
-NOERROR	www.bookstore.moreheadstate.edu
-NOERROR	rendezvous.moreheadstate.edu
-NOERROR	erp.moreheadstate.edu
-NOERROR	tracweb.moreheadstate.edu
-NOERROR	mysptest.moreheadstate.edu
-NOERROR	people.moreheadstate.edu
-NOERROR	software.moreheadstate.edu
-NOERROR	wireless.moreheadstate.edu
-NOERROR	irapp.moreheadstate.edu
-NOERROR	fs.moreheadstate.edu
-NOERROR	www.moreheadstate.edu
+msurecognition.moreheadstate.edu
+twitter.moreheadstate.edu
+eec.moreheadstate.edu
+servicedesk.moreheadstate.edu
+scholarworks.moreheadstate.edu
+webmail.moreheadstate.edu
+staging.moreheadstate.edu
+admin.moreheadstate.edu
+msuvpn.moreheadstate.edu
+recreation.moreheadstate.edu
+vpn.moreheadstate.edu
+sreid.moreheadstate.edu
+estage.moreheadstate.edu
+mobile.moreheadstate.edu
+secureweb.moreheadstate.edu
+store.moreheadstate.edu
+events.moreheadstate.edu
+auth.moreheadstate.edu
+mail.moreheadstate.edu
+alumni.moreheadstate.edu
+ftp.moreheadstate.edu
+cva.moreheadstate.edu
+ssc.moreheadstate.edu
+moreheadstate.edu
+www.alumni.moreheadstate.edu
+bookstore.moreheadstate.edu
+askus.research.moreheadstate.edu
+fund.moreheadstate.edu
+autodiscover.moreheadstate.edu
+calendar.library.moreheadstate.edu
+eagletracks.moreheadstate.edu
+webadvisor.moreheadstate.edu
+phonebill.moreheadstate.edu
+cva2.moreheadstate.edu
+tweagle.moreheadstate.edu
+eac.moreheadstate.edu
+smartcatalog.moreheadstate.edu
+research.moreheadstate.edu
+webx.moreheadstate.edu
+my.moreheadstate.edu
+recruiter.moreheadstate.edu
+smtp.moreheadstate.edu
+admission.moreheadstate.edu
+directory.moreheadstate.edu
+www.bookstore.moreheadstate.edu
+rendezvous.moreheadstate.edu
+erp.moreheadstate.edu
+tracweb.moreheadstate.edu
+mysptest.moreheadstate.edu
+people.moreheadstate.edu
+software.moreheadstate.edu
+wireless.moreheadstate.edu
+irapp.moreheadstate.edu
+fs.moreheadstate.edu
+www.moreheadstate.edu

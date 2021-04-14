@@ -1,437 +1,344 @@
-NOERROR	ngc247.univ-mulhouse.fr
-NOERROR	chronos.univ-mulhouse.fr
-NOERROR	ngc241.univ-mulhouse.fr
-NOERROR	ngc12.univ-mulhouse.fr
-NOERROR	mt2.univ-mulhouse.fr
-NOERROR	ngc18.univ-mulhouse.fr
-NOERROR	ngc242.univ-mulhouse.fr
-NOERROR	ngc108.univ-mulhouse.fr
-NOERROR	ngc70.univ-mulhouse.fr
-NOERROR	serv-eduroam.univ-mulhouse.fr
-NOERROR	visio-mul.univ-mulhouse.fr
-NXDOMAIN	jonquille.univ-mulhouse.fr
-NOERROR	ngc57.univ-mulhouse.fr
-NOERROR	6bis-chauffage.univ-mulhouse.fr
-NOERROR	ngc246.univ-mulhouse.fr
-NXDOMAIN	trop-silicon.univ-mulhouse.fr
-NOERROR	ngc38.univ-mulhouse.fr
-NOERROR	ngc213.univ-mulhouse.fr
-NOERROR	ngc202.univ-mulhouse.fr
-NXDOMAIN	un-outils-lms.univ-mulhouse.fr
-NXDOMAIN	clam.univ-mulhouse.fr
-NOERROR	web-nef.univ-mulhouse.fr
-NOERROR	ngc198.univ-mulhouse.fr
-NOERROR	serv-eduroam2.univ-mulhouse.fr
-NOERROR	temps.univ-mulhouse.fr
-NOERROR	un-avc.univ-mulhouse.fr
-NXDOMAIN	asterisk01.univ-mulhouse.fr
-NOERROR	ngc109.univ-mulhouse.fr
-NOERROR	ngc33.univ-mulhouse.fr
-NOERROR	ngc94.univ-mulhouse.fr
-NXDOMAIN	orion.univ-mulhouse.fr
-NOERROR	ngc192.univ-mulhouse.fr
-NOERROR	ngc98.univ-mulhouse.fr
-NOERROR	ngc238.univ-mulhouse.fr
-NXDOMAIN	w3s.essaim.univ-mulhouse.fr
-NOERROR	ngc140.univ-mulhouse.fr
-NOERROR	fst18-chauffage1.univ-mulhouse.fr
-NOERROR	ngc240.univ-mulhouse.fr
-NOERROR	ngc189.univ-mulhouse.fr
-NOERROR	ngc212.univ-mulhouse.fr
-NXDOMAIN	mage.univ-mulhouse.fr
-NXDOMAIN	www.lpse.univ-mulhouse.fr
-NOERROR	apo4-ws-dev.univ-mulhouse.fr
-NOERROR	me-chauffage.univ-mulhouse.fr
-NOERROR	cocktail-bdd-dev.univ-mulhouse.fr
-NOERROR	louis.univ-mulhouse.fr
-NOERROR	serv-pmx.univ-mulhouse.fr
-NOERROR	ngc184.univ-mulhouse.fr
-NOERROR	ngc155.univ-mulhouse.fr
-NOERROR	ngc215.univ-mulhouse.fr
-NOERROR	ngc237.univ-mulhouse.fr
-NOERROR	ngc172.univ-mulhouse.fr
-NXDOMAIN	www.iut.univ-mulhouse.fr
-NOERROR	ngc190.univ-mulhouse.fr
-NOERROR	kiwiserver.univ-mulhouse.fr
-NOERROR	serv-pmx2.univ-mulhouse.fr
-NOERROR	ngc134.univ-mulhouse.fr
-NOERROR	ngc53.univ-mulhouse.fr
-NOERROR	ngc232.univ-mulhouse.fr
-NOERROR	w3arum.univ-mulhouse.fr
-NXDOMAIN	www.ensitm.forum.univ-mulhouse.fr
-NOERROR	ngc111.univ-mulhouse.fr
-NOERROR	ngc161.univ-mulhouse.fr
-NXDOMAIN	vpn.univ-mulhouse.fr
-NOERROR	ngc95.univ-mulhouse.fr
-NOERROR	ngc92.univ-mulhouse.fr
-NOERROR	licences-srv.univ-mulhouse.fr
-NOERROR	ngc78.univ-mulhouse.fr
-NOERROR	ngc162.univ-mulhouse.fr
-NOERROR	bose.univ-mulhouse.fr
-NOERROR	ngc193.univ-mulhouse.fr
-NOERROR	webcam.univ-mulhouse.fr
-NXDOMAIN	www.mage.fst.univ-mulhouse.fr
-NOERROR	ngc100.univ-mulhouse.fr
-NOERROR	sirius1.univ-mulhouse.fr
-NOERROR	ngc60.univ-mulhouse.fr
-NOERROR	ngc253.univ-mulhouse.fr
-NOERROR	sauve-pegasus.univ-mulhouse.fr
-NOERROR	sitemeter.univ-mulhouse.fr
-NOERROR	ngc124.univ-mulhouse.fr
-NXDOMAIN	www.mma.fst.univ-mulhouse.fr
-NXDOMAIN	diis-applinfra.univ-mulhouse.fr
-NOERROR	kondo.univ-mulhouse.fr
-NOERROR	ngc74.univ-mulhouse.fr
-NOERROR	comete.univ-mulhouse.fr
-NOERROR	muscade.univ-mulhouse.fr
-NOERROR	ngc45.univ-mulhouse.fr
-NXDOMAIN	nefer.univ-mulhouse.fr
-NOERROR	ngc132.univ-mulhouse.fr
-NXDOMAIN	adarasec.univ-mulhouse.fr
-NOERROR	ngc5.univ-mulhouse.fr
-NOERROR	ldapeppun.univ-mulhouse.fr
-NOERROR	dnum-ext1.univ-mulhouse.fr
-NOERROR	ngc82.univ-mulhouse.fr
-NXDOMAIN	musique.univ-mulhouse.fr
-NXDOMAIN	ldap-dev.univ-mulhouse.fr
-NOERROR	iutmsrvsftp01.univ-mulhouse.fr
-NOERROR	ngc229.univ-mulhouse.fr
-NOERROR	ngc29.univ-mulhouse.fr
-NOERROR	ngc61.univ-mulhouse.fr
-NOERROR	ngc11.univ-mulhouse.fr
-NOERROR	ngc234.univ-mulhouse.fr
-NXDOMAIN	www.inscription.univ-mulhouse.fr
-NOERROR	ngc145.univ-mulhouse.fr
-NOERROR	ngc139.univ-mulhouse.fr
-NOERROR	ngc227.univ-mulhouse.fr
-NOERROR	ngc136.univ-mulhouse.fr
-NXDOMAIN	www.bu.univ-mulhouse.fr
-NOERROR	ngc195.univ-mulhouse.fr
-NOERROR	ngc131.univ-mulhouse.fr
-NOERROR	ngc185.univ-mulhouse.fr
-NOERROR	ngc68.univ-mulhouse.fr
-NOERROR	ngc143.univ-mulhouse.fr
-NOERROR	ngc101.univ-mulhouse.fr
-NOERROR	scd-dev.univ-mulhouse.fr
-NOERROR	ngc19.univ-mulhouse.fr
-NOERROR	6bis-chauffage1.univ-mulhouse.fr
-NOERROR	ngc102.univ-mulhouse.fr
-NOERROR	ngc93.univ-mulhouse.fr
-NOERROR	ngc24.univ-mulhouse.fr
-NOERROR	pcounter-srv.univ-mulhouse.fr
-NOERROR	ngc194.univ-mulhouse.fr
-NXDOMAIN	www.algebre.univ-mulhouse.fr
-NXDOMAIN	www.labochim.univ-mulhouse.fr
-NOERROR	ngc6.univ-mulhouse.fr
-NXDOMAIN	www.apo4-ws-dev.univ-mulhouse.fr
-NOERROR	policyd.univ-mulhouse.fr
-NOERROR	ngc249.univ-mulhouse.fr
-NOERROR	ngc14.univ-mulhouse.fr
-NOERROR	ngc87.univ-mulhouse.fr
-NXDOMAIN	www.fst.univ-mulhouse.fr
-NOERROR	ngc250.univ-mulhouse.fr
-NOERROR	ngc219.univ-mulhouse.fr
-NOERROR	ngc173.univ-mulhouse.fr
-NOERROR	ngc96.univ-mulhouse.fr
-NOERROR	werl.univ-mulhouse.fr
-NOERROR	ngc197.univ-mulhouse.fr
-NOERROR	ngc221.univ-mulhouse.fr
-NOERROR	geficonew.univ-mulhouse.fr
-NOERROR	ngc106.univ-mulhouse.fr
-NOERROR	ngc217.univ-mulhouse.fr
-NXDOMAIN	cobra.essaim.univ-mulhouse.fr
-NOERROR	cisco.univ-mulhouse.fr
-NOERROR	ngc228.univ-mulhouse.fr
-NOERROR	ngc7.univ-mulhouse.fr
-NXDOMAIN	www.commete.univ-mulhouse.fr
-NOERROR	apogee-prod-bdd.univ-mulhouse.fr
-NOERROR	ngc223.univ-mulhouse.fr
-NOERROR	ngc41.univ-mulhouse.fr
-NOERROR	ngc164.univ-mulhouse.fr
-NOERROR	ngc71.univ-mulhouse.fr
-NOERROR	flora3.univ-mulhouse.fr
-NOERROR	ngc176.univ-mulhouse.fr
-NXDOMAIN	www.international.univ-mulhouse.fr
-NXDOMAIN	www.illfurth.univ-mulhouse.fr
-NXDOMAIN	www.suapspa.univ-mulhouse.fr
-NOERROR	ngc182.univ-mulhouse.fr
-NOERROR	ngc91.univ-mulhouse.fr
-NOERROR	ngc54.univ-mulhouse.fr
-NOERROR	testiut.univ-mulhouse.fr
-NOERROR	ngc231.univ-mulhouse.fr
-NOERROR	ngc210.univ-mulhouse.fr
-NXDOMAIN	essaim.univ-mulhouse.fr
-NOERROR	ngc201.univ-mulhouse.fr
-NOERROR	apogee-dev-bdd.univ-mulhouse.fr
-NOERROR	ngc174.univ-mulhouse.fr
-NOERROR	ngc128.univ-mulhouse.fr
-NOERROR	ngc211.univ-mulhouse.fr
-NOERROR	ngc83.univ-mulhouse.fr
-NOERROR	ngc44.univ-mulhouse.fr
-NOERROR	ldap.univ-mulhouse.fr
-NOERROR	ngc67.univ-mulhouse.fr
-NXDOMAIN	www.crel.flsh.univ-mulhouse.fr
-NOERROR	fst18-chauffage3.univ-mulhouse.fr
-NOERROR	mevo.univ-mulhouse.fr
-NXDOMAIN	cas-dev.univ-mulhouse.fr
-NOERROR	ngc152.univ-mulhouse.fr
-NOERROR	mt-proxy.univ-mulhouse.fr
-NOERROR	ngc142.univ-mulhouse.fr
-NOERROR	ngc135.univ-mulhouse.fr
-NOERROR	ngc90.univ-mulhouse.fr
-NOERROR	cancale.univ-mulhouse.fr
-NOERROR	ngc187.univ-mulhouse.fr
-NOERROR	ngc120.univ-mulhouse.fr
-NOERROR	ngc65.univ-mulhouse.fr
-NOERROR	serv-pegasus.univ-mulhouse.fr
-NOERROR	ngc179.univ-mulhouse.fr
-NOERROR	ngc129.univ-mulhouse.fr
-NOERROR	didda-lj.univ-mulhouse.fr
-NOERROR	ngc52.univ-mulhouse.fr
-NOERROR	ngc47.univ-mulhouse.fr
-NOERROR	curry.univ-mulhouse.fr
-NOERROR	openreports-prod.univ-mulhouse.fr
-NXDOMAIN	www.imp.univ-mulhouse.fr
-NXDOMAIN	www.clam.univ-mulhouse.fr
-NOERROR	ngc148.univ-mulhouse.fr
-NOERROR	ngc208.univ-mulhouse.fr
-NOERROR	ngc156.univ-mulhouse.fr
-NOERROR	ngc88.univ-mulhouse.fr
-NOERROR	ngc28.univ-mulhouse.fr
-NOERROR	muliphen.univ-mulhouse.fr
-NOERROR	ngc239.univ-mulhouse.fr
-NOERROR	ngc56.univ-mulhouse.fr
-NOERROR	ngc55.univ-mulhouse.fr
-NXDOMAIN	www.serfa.univ-mulhouse.fr
-NXDOMAIN	www.crel.univ-mulhouse.fr
-NOERROR	ngc107.univ-mulhouse.fr
-NXDOMAIN	www.cresat.univ-mulhouse.fr
-NXDOMAIN	commete.univ-mulhouse.fr
-NXDOMAIN	labochim.univ-mulhouse.fr
-NOERROR	ngc2.univ-mulhouse.fr
-NXDOMAIN	capella.univ-mulhouse.fr
-NXDOMAIN	www.nef-des-sciences.univ-mulhouse.fr
-NOERROR	hordeeppun.univ-mulhouse.fr
-NOERROR	ngc206.univ-mulhouse.fr
-NOERROR	samba.univ-mulhouse.fr
-NOERROR	ngc154.univ-mulhouse.fr
-NOERROR	mt-dashboard.univ-mulhouse.fr
-NXDOMAIN	ldap-hpl.univ-mulhouse.fr
-NOERROR	ever.univ-mulhouse.fr
-NOERROR	ngc171.univ-mulhouse.fr
-NXDOMAIN	commmette.univ-mulhouse.fr
-NOERROR	ngc119.univ-mulhouse.fr
-NOERROR	ngc26.univ-mulhouse.fr
-NOERROR	newton.univ-mulhouse.fr
-NOERROR	fst18-chauffage2.univ-mulhouse.fr
-NOERROR	ngc39.univ-mulhouse.fr
-NOERROR	ngc196.univ-mulhouse.fr
-NOERROR	ngc118.univ-mulhouse.fr
-NOERROR	ngc127.univ-mulhouse.fr
-NOERROR	ngc158.univ-mulhouse.fr
-NOERROR	ngc144.univ-mulhouse.fr
-NOERROR	ngc10.univ-mulhouse.fr
-NXDOMAIN	bart.essaim.univ-mulhouse.fr
-NXDOMAIN	www.iupgm.univ-mulhouse.fr
-NXDOMAIN	www.eps.univ-mulhouse.fr
-NXDOMAIN	www.essain.univ-mulhouse.fr
-NOERROR	ngc35.univ-mulhouse.fr
-NOERROR	ngc157.univ-mulhouse.fr
-NXDOMAIN	www.math.univ-mulhouse.fr
-NOERROR	ngc117.univ-mulhouse.fr
-NOERROR	ngc103.univ-mulhouse.fr
-NXDOMAIN	didda-proxy.univ-mulhouse.fr
-NOERROR	ngc86.univ-mulhouse.fr
-NXDOMAIN	fst-ens-git.univ-mulhouse.fr
-NOERROR	ngc63.univ-mulhouse.fr
-NOERROR	n6al-mips1.univ-mulhouse.fr
-NXDOMAIN	polaris.univ-mulhouse.fr
-NOERROR	sip.univ-mulhouse.fr
-NOERROR	ngc138.univ-mulhouse.fr
-NXDOMAIN	serv-pmx3.univ-mulhouse.fr
-NOERROR	ngc244.univ-mulhouse.fr
-NOERROR	ngc252.univ-mulhouse.fr
-NOERROR	ngc84.univ-mulhouse.fr
-NOERROR	ngc199.univ-mulhouse.fr
-NOERROR	scd.univ-mulhouse.fr
-NOERROR	ngc104.univ-mulhouse.fr
-NOERROR	ngc147.univ-mulhouse.fr
-NOERROR	mt.univ-mulhouse.fr
-NOERROR	ngc64.univ-mulhouse.fr
-NOERROR	ngc225.univ-mulhouse.fr
-NOERROR	ngc151.univ-mulhouse.fr
-NOERROR	ngc27.univ-mulhouse.fr
-NXDOMAIN	papyrus.essaim.univ-mulhouse.fr
-NOERROR	ngc137.univ-mulhouse.fr
-NOERROR	ngc20.univ-mulhouse.fr
-NOERROR	serv-smtp.univ-mulhouse.fr
-NOERROR	ngc76.univ-mulhouse.fr
-NXDOMAIN	un-scenari.univ-mulhouse.fr
-NOERROR	ngc72.univ-mulhouse.fr
-NOERROR	ngc153.univ-mulhouse.fr
-NOERROR	ngc73.univ-mulhouse.fr
-NOERROR	ngc203.univ-mulhouse.fr
-NOERROR	cocktail-bdd-prod.univ-mulhouse.fr
-NOERROR	ngc80.univ-mulhouse.fr
-NOERROR	ngc85.univ-mulhouse.fr
-NOERROR	aar.univ-mulhouse.fr
-NOERROR	ngc69.univ-mulhouse.fr
-NOERROR	sirius.univ-mulhouse.fr
-NOERROR	ngc16.univ-mulhouse.fr
-NXDOMAIN	pop.univ-mulhouse.fr
-NOERROR	cartographie.univ-mulhouse.fr
-NOERROR	ngc112.univ-mulhouse.fr
-NOERROR	ngc233.univ-mulhouse.fr
-NXDOMAIN	www.esup-app-dev.univ-mulhouse.fr
-NOERROR	ngc235.univ-mulhouse.fr
-NOERROR	visio-essaim.univ-mulhouse.fr
-NOERROR	fst4-chauffage.univ-mulhouse.fr
-NOERROR	ngc170.univ-mulhouse.fr
-NXDOMAIN	ucopia.univ-mulhouse.fr
-NOERROR	ngc34.univ-mulhouse.fr
-NXDOMAIN	tahiti.univ-mulhouse.fr
-NOERROR	ngc9.univ-mulhouse.fr
-NOERROR	ngc58.univ-mulhouse.fr
-NOERROR	ngc77.univ-mulhouse.fr
-NOERROR	ngc30.univ-mulhouse.fr
-NXDOMAIN	www.uml.crespim.univ-mulhouse.fr
-NOERROR	ngc4.univ-mulhouse.fr
-NOERROR	ngc205.univ-mulhouse.fr
-NXDOMAIN	www.louis-armand.univ-mulhouse.fr
-NOERROR	mtjazz.univ-mulhouse.fr
-NOERROR	ngc23.univ-mulhouse.fr
-NOERROR	univ-mulhouse.fr
-NXDOMAIN	www.apo4-ws7-prod.univ-mulhouse.fr
-NOERROR	cumin.univ-mulhouse.fr
-NXDOMAIN	www.geometrie.univ-mulhouse.fr
-NOERROR	diis-zproxy10.univ-mulhouse.fr
-NOERROR	ngc245.univ-mulhouse.fr
-NOERROR	ngc122.univ-mulhouse.fr
-NXDOMAIN	fidji.univ-mulhouse.fr
-NXDOMAIN	www.enscmu.univ-mulhouse.fr
-NXDOMAIN	www.esup-app-prod.univ-mulhouse.fr
-NOERROR	canelle.univ-mulhouse.fr
-NOERROR	ngc21.univ-mulhouse.fr
-NOERROR	ngc89.univ-mulhouse.fr
-NOERROR	ngc207.univ-mulhouse.fr
-NOERROR	ngc75.univ-mulhouse.fr
-NOERROR	ngc31.univ-mulhouse.fr
-NOERROR	ngc160.univ-mulhouse.fr
-NOERROR	ngc188.univ-mulhouse.fr
-NXDOMAIN	www.icsi.univ-mulhouse.fr
-NOERROR	agbav.univ-mulhouse.fr
-NOERROR	ngc133.univ-mulhouse.fr
-NOERROR	ngc25.univ-mulhouse.fr
-NOERROR	diis-zproxy11.univ-mulhouse.fr
-NXDOMAIN	esup-app-prod.univ-mulhouse.fr
-NOERROR	visiofsesj.univ-mulhouse.fr
-NOERROR	ngc200.univ-mulhouse.fr
-NOERROR	adara.univ-mulhouse.fr
-NOERROR	ngc222.univ-mulhouse.fr
-NXDOMAIN	www.iupmiage.univ-mulhouse.fr
-NOERROR	ngc22.univ-mulhouse.fr
-NOERROR	ngc8.univ-mulhouse.fr
-NXDOMAIN	www.un-scenari.univ-mulhouse.fr
-NOERROR	dirac.univ-mulhouse.fr
-NXDOMAIN	bu.univ-mulhouse.fr
-NOERROR	ngc116.univ-mulhouse.fr
-NOERROR	ngc15.univ-mulhouse.fr
-NOERROR	chronos2.univ-mulhouse.fr
-NXDOMAIN	esup-app-dev.univ-mulhouse.fr
-NOERROR	ngc150.univ-mulhouse.fr
-NOERROR	ngc230.univ-mulhouse.fr
-NOERROR	ngc66.univ-mulhouse.fr
-NOERROR	ngc178.univ-mulhouse.fr
-NOERROR	visiosg.univ-mulhouse.fr
-NOERROR	ngc126.univ-mulhouse.fr
-NOERROR	ngc17.univ-mulhouse.fr
-NOERROR	proxy-ista.univ-mulhouse.fr
-NOERROR	ngc146.univ-mulhouse.fr
-NOERROR	fst18-chauffage.univ-mulhouse.fr
-NOERROR	ngc169.univ-mulhouse.fr
-NOERROR	flora4.univ-mulhouse.fr
-NOERROR	pres-visio.univ-mulhouse.fr
-NOERROR	arum2.univ-mulhouse.fr
-NOERROR	ngc214.univ-mulhouse.fr
-NXDOMAIN	www.didda-proxy.univ-mulhouse.fr
-NXDOMAIN	www.gre.univ-mulhouse.fr
-NOERROR	ngc125.univ-mulhouse.fr
-NXDOMAIN	flora.univ-mulhouse.fr
-NOERROR	visiouha.univ-mulhouse.fr
-NXDOMAIN	smtps.univ-mulhouse.fr
-NOERROR	ngc37.univ-mulhouse.fr
-NOERROR	ngc209.univ-mulhouse.fr
-NXDOMAIN	s1-admission.univ-mulhouse.fr
-NOERROR	ngc79.univ-mulhouse.fr
-NOERROR	ngc97.univ-mulhouse.fr
-NXDOMAIN	www.ads.univ-mulhouse.fr
-NOERROR	ngc177.univ-mulhouse.fr
-NOERROR	ngc163.univ-mulhouse.fr
-NOERROR	ngc248.univ-mulhouse.fr
-NOERROR	ngc40.univ-mulhouse.fr
-NXDOMAIN	gm.essaim.univ-mulhouse.fr
-NOERROR	ngc175.univ-mulhouse.fr
-NOERROR	ngc167.univ-mulhouse.fr
-NOERROR	ngc159.univ-mulhouse.fr
-NOERROR	ngc191.univ-mulhouse.fr
-NOERROR	ngc115.univ-mulhouse.fr
-NOERROR	ngc43.univ-mulhouse.fr
-NOERROR	ngc166.univ-mulhouse.fr
-NOERROR	ngc149.univ-mulhouse.fr
-NOERROR	ngc13.univ-mulhouse.fr
-NOERROR	ngc1.univ-mulhouse.fr
-NOERROR	ngc113.univ-mulhouse.fr
-NOERROR	ngc180.univ-mulhouse.fr
-NOERROR	ngc62.univ-mulhouse.fr
-NOERROR	ngc49.univ-mulhouse.fr
-NOERROR	coprin.univ-mulhouse.fr
-NOERROR	ngc243.univ-mulhouse.fr
-NXDOMAIN	inscriptions.univ-mulhouse.fr
-NOERROR	ngc123.univ-mulhouse.fr
-NOERROR	ngc236.univ-mulhouse.fr
-NOERROR	ngc114.univ-mulhouse.fr
-NXDOMAIN	www.essaim.univ-mulhouse.fr
-NOERROR	ngc181.univ-mulhouse.fr
-NOERROR	ngc168.univ-mulhouse.fr
-NOERROR	www.univ-mulhouse.fr
-NOERROR	ngc110.univ-mulhouse.fr
-NOERROR	ngc48.univ-mulhouse.fr
-NXDOMAIN	arum.univ-mulhouse.fr
-NOERROR	ngc121.univ-mulhouse.fr
-NOERROR	didda-mh1.univ-mulhouse.fr
-NOERROR	ngc220.univ-mulhouse.fr
-NOERROR	ngc3.univ-mulhouse.fr
-NXDOMAIN	apo4-ws7-prod.univ-mulhouse.fr
-NOERROR	ngc254.univ-mulhouse.fr
-NXDOMAIN	decivision.univ-mulhouse.fr
-NOERROR	ngc59.univ-mulhouse.fr
-NXDOMAIN	www.mage.univ-mulhouse.fr
-NOERROR	ngc165.univ-mulhouse.fr
-NOERROR	ngc81.univ-mulhouse.fr
-NOERROR	ngc50.univ-mulhouse.fr
-NOERROR	ngc226.univ-mulhouse.fr
-NOERROR	ngc32.univ-mulhouse.fr
-NXDOMAIN	w3inscriptions.univ-mulhouse.fr
-NOERROR	ngc46.univ-mulhouse.fr
-NOERROR	ngc51.univ-mulhouse.fr
-NOERROR	ngc42.univ-mulhouse.fr
-NXDOMAIN	www.sgc.univ-mulhouse.fr
-NOERROR	ngc216.univ-mulhouse.fr
-NXDOMAIN	papyrus.univ-mulhouse.fr
-NOERROR	ngc204.univ-mulhouse.fr
-NOERROR	ngc99.univ-mulhouse.fr
-NOERROR	ngc36.univ-mulhouse.fr
-NOERROR	ngc130.univ-mulhouse.fr
-NOERROR	ngc105.univ-mulhouse.fr
-NOERROR	ngc224.univ-mulhouse.fr
-NOERROR	ngc186.univ-mulhouse.fr
-NOERROR	ngc183.univ-mulhouse.fr
-NOERROR	ngc141.univ-mulhouse.fr
-NXDOMAIN	www.ensitm.univ-mulhouse.fr
-NOERROR	ngc218.univ-mulhouse.fr
-NXDOMAIN	www.ldap-hpl.univ-mulhouse.fr
-NOERROR	einstein.univ-mulhouse.fr
-NXDOMAIN	www.trop.univ-mulhouse.fr
-NXDOMAIN	simpson.essaim.univ-mulhouse.fr
-NXDOMAIN	serveur-podcast.univ-mulhouse.fr
-NOERROR	ftp-test.univ-mulhouse.fr
+ngc247.univ-mulhouse.fr
+chronos.univ-mulhouse.fr
+ngc241.univ-mulhouse.fr
+ngc12.univ-mulhouse.fr
+mt2.univ-mulhouse.fr
+ngc18.univ-mulhouse.fr
+ngc242.univ-mulhouse.fr
+ngc108.univ-mulhouse.fr
+ngc70.univ-mulhouse.fr
+serv-eduroam.univ-mulhouse.fr
+visio-mul.univ-mulhouse.fr
+ngc57.univ-mulhouse.fr
+6bis-chauffage.univ-mulhouse.fr
+ngc246.univ-mulhouse.fr
+ngc38.univ-mulhouse.fr
+ngc213.univ-mulhouse.fr
+ngc202.univ-mulhouse.fr
+web-nef.univ-mulhouse.fr
+ngc198.univ-mulhouse.fr
+serv-eduroam2.univ-mulhouse.fr
+temps.univ-mulhouse.fr
+un-avc.univ-mulhouse.fr
+ngc109.univ-mulhouse.fr
+ngc33.univ-mulhouse.fr
+ngc94.univ-mulhouse.fr
+ngc192.univ-mulhouse.fr
+ngc98.univ-mulhouse.fr
+ngc238.univ-mulhouse.fr
+ngc140.univ-mulhouse.fr
+fst18-chauffage1.univ-mulhouse.fr
+ngc240.univ-mulhouse.fr
+ngc189.univ-mulhouse.fr
+ngc212.univ-mulhouse.fr
+apo4-ws-dev.univ-mulhouse.fr
+me-chauffage.univ-mulhouse.fr
+cocktail-bdd-dev.univ-mulhouse.fr
+louis.univ-mulhouse.fr
+serv-pmx.univ-mulhouse.fr
+ngc184.univ-mulhouse.fr
+ngc155.univ-mulhouse.fr
+ngc215.univ-mulhouse.fr
+ngc237.univ-mulhouse.fr
+ngc172.univ-mulhouse.fr
+ngc190.univ-mulhouse.fr
+kiwiserver.univ-mulhouse.fr
+serv-pmx2.univ-mulhouse.fr
+ngc134.univ-mulhouse.fr
+ngc53.univ-mulhouse.fr
+ngc232.univ-mulhouse.fr
+w3arum.univ-mulhouse.fr
+ngc111.univ-mulhouse.fr
+ngc161.univ-mulhouse.fr
+ngc95.univ-mulhouse.fr
+ngc92.univ-mulhouse.fr
+licences-srv.univ-mulhouse.fr
+ngc78.univ-mulhouse.fr
+ngc162.univ-mulhouse.fr
+bose.univ-mulhouse.fr
+ngc193.univ-mulhouse.fr
+webcam.univ-mulhouse.fr
+ngc100.univ-mulhouse.fr
+sirius1.univ-mulhouse.fr
+ngc60.univ-mulhouse.fr
+ngc253.univ-mulhouse.fr
+sauve-pegasus.univ-mulhouse.fr
+sitemeter.univ-mulhouse.fr
+ngc124.univ-mulhouse.fr
+kondo.univ-mulhouse.fr
+ngc74.univ-mulhouse.fr
+comete.univ-mulhouse.fr
+muscade.univ-mulhouse.fr
+ngc45.univ-mulhouse.fr
+ngc132.univ-mulhouse.fr
+ngc5.univ-mulhouse.fr
+ldapeppun.univ-mulhouse.fr
+dnum-ext1.univ-mulhouse.fr
+ngc82.univ-mulhouse.fr
+iutmsrvsftp01.univ-mulhouse.fr
+ngc229.univ-mulhouse.fr
+ngc29.univ-mulhouse.fr
+ngc61.univ-mulhouse.fr
+ngc11.univ-mulhouse.fr
+ngc234.univ-mulhouse.fr
+ngc145.univ-mulhouse.fr
+ngc139.univ-mulhouse.fr
+ngc227.univ-mulhouse.fr
+ngc136.univ-mulhouse.fr
+ngc195.univ-mulhouse.fr
+ngc131.univ-mulhouse.fr
+ngc185.univ-mulhouse.fr
+ngc68.univ-mulhouse.fr
+ngc143.univ-mulhouse.fr
+ngc101.univ-mulhouse.fr
+scd-dev.univ-mulhouse.fr
+ngc19.univ-mulhouse.fr
+6bis-chauffage1.univ-mulhouse.fr
+ngc102.univ-mulhouse.fr
+ngc93.univ-mulhouse.fr
+ngc24.univ-mulhouse.fr
+pcounter-srv.univ-mulhouse.fr
+ngc194.univ-mulhouse.fr
+ngc6.univ-mulhouse.fr
+policyd.univ-mulhouse.fr
+ngc249.univ-mulhouse.fr
+ngc14.univ-mulhouse.fr
+ngc87.univ-mulhouse.fr
+ngc250.univ-mulhouse.fr
+ngc219.univ-mulhouse.fr
+ngc173.univ-mulhouse.fr
+ngc96.univ-mulhouse.fr
+werl.univ-mulhouse.fr
+ngc197.univ-mulhouse.fr
+ngc221.univ-mulhouse.fr
+geficonew.univ-mulhouse.fr
+ngc106.univ-mulhouse.fr
+ngc217.univ-mulhouse.fr
+cisco.univ-mulhouse.fr
+ngc228.univ-mulhouse.fr
+ngc7.univ-mulhouse.fr
+apogee-prod-bdd.univ-mulhouse.fr
+ngc223.univ-mulhouse.fr
+ngc41.univ-mulhouse.fr
+ngc164.univ-mulhouse.fr
+ngc71.univ-mulhouse.fr
+flora3.univ-mulhouse.fr
+ngc176.univ-mulhouse.fr
+ngc182.univ-mulhouse.fr
+ngc91.univ-mulhouse.fr
+ngc54.univ-mulhouse.fr
+testiut.univ-mulhouse.fr
+ngc231.univ-mulhouse.fr
+ngc210.univ-mulhouse.fr
+ngc201.univ-mulhouse.fr
+apogee-dev-bdd.univ-mulhouse.fr
+ngc174.univ-mulhouse.fr
+ngc128.univ-mulhouse.fr
+ngc211.univ-mulhouse.fr
+ngc83.univ-mulhouse.fr
+ngc44.univ-mulhouse.fr
+ldap.univ-mulhouse.fr
+ngc67.univ-mulhouse.fr
+fst18-chauffage3.univ-mulhouse.fr
+mevo.univ-mulhouse.fr
+ngc152.univ-mulhouse.fr
+mt-proxy.univ-mulhouse.fr
+ngc142.univ-mulhouse.fr
+ngc135.univ-mulhouse.fr
+ngc90.univ-mulhouse.fr
+cancale.univ-mulhouse.fr
+ngc187.univ-mulhouse.fr
+ngc120.univ-mulhouse.fr
+ngc65.univ-mulhouse.fr
+serv-pegasus.univ-mulhouse.fr
+ngc179.univ-mulhouse.fr
+ngc129.univ-mulhouse.fr
+didda-lj.univ-mulhouse.fr
+ngc52.univ-mulhouse.fr
+ngc47.univ-mulhouse.fr
+curry.univ-mulhouse.fr
+openreports-prod.univ-mulhouse.fr
+ngc148.univ-mulhouse.fr
+ngc208.univ-mulhouse.fr
+ngc156.univ-mulhouse.fr
+ngc88.univ-mulhouse.fr
+ngc28.univ-mulhouse.fr
+muliphen.univ-mulhouse.fr
+ngc239.univ-mulhouse.fr
+ngc56.univ-mulhouse.fr
+ngc55.univ-mulhouse.fr
+ngc107.univ-mulhouse.fr
+ngc2.univ-mulhouse.fr
+hordeeppun.univ-mulhouse.fr
+ngc206.univ-mulhouse.fr
+samba.univ-mulhouse.fr
+ngc154.univ-mulhouse.fr
+mt-dashboard.univ-mulhouse.fr
+ever.univ-mulhouse.fr
+ngc171.univ-mulhouse.fr
+ngc119.univ-mulhouse.fr
+ngc26.univ-mulhouse.fr
+newton.univ-mulhouse.fr
+fst18-chauffage2.univ-mulhouse.fr
+ngc39.univ-mulhouse.fr
+ngc196.univ-mulhouse.fr
+ngc118.univ-mulhouse.fr
+ngc127.univ-mulhouse.fr
+ngc158.univ-mulhouse.fr
+ngc144.univ-mulhouse.fr
+ngc10.univ-mulhouse.fr
+ngc35.univ-mulhouse.fr
+ngc157.univ-mulhouse.fr
+ngc117.univ-mulhouse.fr
+ngc103.univ-mulhouse.fr
+ngc86.univ-mulhouse.fr
+ngc63.univ-mulhouse.fr
+n6al-mips1.univ-mulhouse.fr
+sip.univ-mulhouse.fr
+ngc138.univ-mulhouse.fr
+ngc244.univ-mulhouse.fr
+ngc252.univ-mulhouse.fr
+ngc84.univ-mulhouse.fr
+ngc199.univ-mulhouse.fr
+scd.univ-mulhouse.fr
+ngc104.univ-mulhouse.fr
+ngc147.univ-mulhouse.fr
+mt.univ-mulhouse.fr
+ngc64.univ-mulhouse.fr
+ngc225.univ-mulhouse.fr
+ngc151.univ-mulhouse.fr
+ngc27.univ-mulhouse.fr
+ngc137.univ-mulhouse.fr
+ngc20.univ-mulhouse.fr
+serv-smtp.univ-mulhouse.fr
+ngc76.univ-mulhouse.fr
+ngc72.univ-mulhouse.fr
+ngc153.univ-mulhouse.fr
+ngc73.univ-mulhouse.fr
+ngc203.univ-mulhouse.fr
+cocktail-bdd-prod.univ-mulhouse.fr
+ngc80.univ-mulhouse.fr
+ngc85.univ-mulhouse.fr
+aar.univ-mulhouse.fr
+ngc69.univ-mulhouse.fr
+sirius.univ-mulhouse.fr
+ngc16.univ-mulhouse.fr
+cartographie.univ-mulhouse.fr
+ngc112.univ-mulhouse.fr
+ngc233.univ-mulhouse.fr
+ngc235.univ-mulhouse.fr
+visio-essaim.univ-mulhouse.fr
+fst4-chauffage.univ-mulhouse.fr
+ngc170.univ-mulhouse.fr
+ngc34.univ-mulhouse.fr
+ngc9.univ-mulhouse.fr
+ngc58.univ-mulhouse.fr
+ngc77.univ-mulhouse.fr
+ngc30.univ-mulhouse.fr
+ngc4.univ-mulhouse.fr
+ngc205.univ-mulhouse.fr
+mtjazz.univ-mulhouse.fr
+ngc23.univ-mulhouse.fr
+univ-mulhouse.fr
+cumin.univ-mulhouse.fr
+diis-zproxy10.univ-mulhouse.fr
+ngc245.univ-mulhouse.fr
+ngc122.univ-mulhouse.fr
+canelle.univ-mulhouse.fr
+ngc21.univ-mulhouse.fr
+ngc89.univ-mulhouse.fr
+ngc207.univ-mulhouse.fr
+ngc75.univ-mulhouse.fr
+ngc31.univ-mulhouse.fr
+ngc160.univ-mulhouse.fr
+ngc188.univ-mulhouse.fr
+agbav.univ-mulhouse.fr
+ngc133.univ-mulhouse.fr
+ngc25.univ-mulhouse.fr
+diis-zproxy11.univ-mulhouse.fr
+visiofsesj.univ-mulhouse.fr
+ngc200.univ-mulhouse.fr
+adara.univ-mulhouse.fr
+ngc222.univ-mulhouse.fr
+ngc22.univ-mulhouse.fr
+ngc8.univ-mulhouse.fr
+dirac.univ-mulhouse.fr
+ngc116.univ-mulhouse.fr
+ngc15.univ-mulhouse.fr
+chronos2.univ-mulhouse.fr
+ngc150.univ-mulhouse.fr
+ngc230.univ-mulhouse.fr
+ngc66.univ-mulhouse.fr
+ngc178.univ-mulhouse.fr
+visiosg.univ-mulhouse.fr
+ngc126.univ-mulhouse.fr
+ngc17.univ-mulhouse.fr
+proxy-ista.univ-mulhouse.fr
+ngc146.univ-mulhouse.fr
+fst18-chauffage.univ-mulhouse.fr
+ngc169.univ-mulhouse.fr
+flora4.univ-mulhouse.fr
+pres-visio.univ-mulhouse.fr
+arum2.univ-mulhouse.fr
+ngc214.univ-mulhouse.fr
+ngc125.univ-mulhouse.fr
+visiouha.univ-mulhouse.fr
+ngc37.univ-mulhouse.fr
+ngc209.univ-mulhouse.fr
+ngc79.univ-mulhouse.fr
+ngc97.univ-mulhouse.fr
+ngc177.univ-mulhouse.fr
+ngc163.univ-mulhouse.fr
+ngc248.univ-mulhouse.fr
+ngc40.univ-mulhouse.fr
+ngc175.univ-mulhouse.fr
+ngc167.univ-mulhouse.fr
+ngc159.univ-mulhouse.fr
+ngc191.univ-mulhouse.fr
+ngc115.univ-mulhouse.fr
+ngc43.univ-mulhouse.fr
+ngc166.univ-mulhouse.fr
+ngc149.univ-mulhouse.fr
+ngc13.univ-mulhouse.fr
+ngc1.univ-mulhouse.fr
+ngc113.univ-mulhouse.fr
+ngc180.univ-mulhouse.fr
+ngc62.univ-mulhouse.fr
+ngc49.univ-mulhouse.fr
+coprin.univ-mulhouse.fr
+ngc243.univ-mulhouse.fr
+ngc123.univ-mulhouse.fr
+ngc236.univ-mulhouse.fr
+ngc114.univ-mulhouse.fr
+ngc181.univ-mulhouse.fr
+ngc168.univ-mulhouse.fr
+www.univ-mulhouse.fr
+ngc110.univ-mulhouse.fr
+ngc48.univ-mulhouse.fr
+ngc121.univ-mulhouse.fr
+didda-mh1.univ-mulhouse.fr
+ngc220.univ-mulhouse.fr
+ngc3.univ-mulhouse.fr
+ngc254.univ-mulhouse.fr
+ngc59.univ-mulhouse.fr
+ngc165.univ-mulhouse.fr
+ngc81.univ-mulhouse.fr
+ngc50.univ-mulhouse.fr
+ngc226.univ-mulhouse.fr
+ngc32.univ-mulhouse.fr
+ngc46.univ-mulhouse.fr
+ngc51.univ-mulhouse.fr
+ngc42.univ-mulhouse.fr
+ngc216.univ-mulhouse.fr
+ngc204.univ-mulhouse.fr
+ngc99.univ-mulhouse.fr
+ngc36.univ-mulhouse.fr
+ngc130.univ-mulhouse.fr
+ngc105.univ-mulhouse.fr
+ngc224.univ-mulhouse.fr
+ngc186.univ-mulhouse.fr
+ngc183.univ-mulhouse.fr
+ngc141.univ-mulhouse.fr
+ngc218.univ-mulhouse.fr
+einstein.univ-mulhouse.fr
+ftp-test.univ-mulhouse.fr

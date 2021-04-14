@@ -1,3 +1,3 @@
-NOERROR	bengaluruuniversity.com
-NOERROR	www.bengaluruuniversity.com
-NOERROR	wwww.bengaluruuniversity.com
+bengaluruuniversity.com
+www.bengaluruuniversity.com
+wwww.bengaluruuniversity.com

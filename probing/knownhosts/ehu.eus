@@ -1,440 +1,360 @@
-NOERROR	ssllabs-probak.ehu.eus
-NOERROR	gestion-integracion-alumnos.ehu.eus
-NXDOMAIN	u110330.ehu.eus
-NOERROR	i2t1.i2t.ehu.eus
-NOERROR	insilico.ehu.eus
-NOERROR	simplatprox.i2t.ehu.eus
-NXDOMAIN	uxxiportal.ehu.eus
-NOERROR	dev.ehu.eus
-NOERROR	u031168.ehu.eus
-NOERROR	lucia.ehu.eus
-NOERROR	smtp1.lg.ehu.eus
-NOERROR	nire.ehu.eus
-NOERROR	ehutb.ehu.eus
-NOERROR	u108776.ehu.eus
-SERVFAIL	buzones3.lgp.ehu.eus
-NOERROR	boletin.hegoa.ehu.eus
-NOERROR	u029931.ehu.eus
-NOERROR	u029896.ehu.eus
-NOERROR	www.oc.lm.ehu.eus
-NOERROR	webposta.ehu.eus
-NOERROR	u026359.ehu.eus
-NOERROR	multimedia.hegoa.ehu.eus
-NOERROR	ldap-prepro.ehu.eus
-SERVFAIL	buzones1.lgp.ehu.eus
-NOERROR	covid19.ehu.eus
-NOERROR	u104317.lc.ehu.eus
-NOERROR	u029923.ehu.eus
-NOERROR	u017633.ehu.eus
-NOERROR	ehubox1.ehu.eus
-NOERROR	ecorec.ehu.eus
-NOERROR	egela-old.ehu.eus
-NOERROR	estudiantes-gp.ehu.eus
-NOERROR	pcr.ehu.eus
-NOERROR	ewsdn-hackathon.i2t.ehu.eus
-NOERROR	outlook.ehu.eus
-NXDOMAIN	uniqual.cv.ehu.eus
-NOERROR	list.ehu.eus
-NOERROR	bokeh.euskalankidetza.hegoa.ehu.eus
-NXDOMAIN	gestion-desarrollo-enplegu.ehu.eus
-NOERROR	gestion-empleado.ehu.eus
-NOERROR	u029917.ehu.eus
-NOERROR	u013849.ehu.eus
-NOERROR	u029919.ehu.eus
-NOERROR	services.i2t.ehu.eus
-NOERROR	i2t2.i2t.ehu.eus
-NOERROR	preview.pregelax.ehu.eus
-NOERROR	posta.ehu.eus
-NXDOMAIN	pregela1819.ehu.eus
-NOERROR	i2t26.i2t.ehu.eus
-NOERROR	nocvpn.ehu.eus
-NOERROR	gestion-alumnos.ehu.eus
-NOERROR	openmeetings.ehu.eus
-NOERROR	u027076.ehu.eus
-NOERROR	u110418.ehu.eus
-NOERROR	www.hegoa.ehu.eus
-NOERROR	biblioteca.hegoa.ehu.eus
-NOERROR	ehutb-strm3-pro.ehu.eus
-NOERROR	interaccion2019.ehu.eus
-NOERROR	egela.ehu.eus
-NXDOMAIN	gestion-integracion-aix.ehu.eus
-NXDOMAIN	dev72.ehu.eus
-NOERROR	gestion-servicios.ehu.eus
-NOERROR	u108793.ehu.eus
-NXDOMAIN	www.u005552.ehu.eus
-NOERROR	p-pmk2-frontend.ehu.eus
-NOERROR	u006372.ehu.eus
-NOERROR	ehudoku.ehu.eus
-NOERROR	int.ehu.eus
-NOERROR	u017435.ehu.eus
-NOERROR	cryst2.ehu.eus
-NOERROR	ixa.ehu.eus
-NOERROR	gestion-enplegu.ehu.eus
-NOERROR	crowdzientzia.ehu.eus
-NOERROR	www.mantenimiento-solicitud.ehu.eus
-NOERROR	sgpi.ehu.eus
-NOERROR	www1.ehu.eus
-NXDOMAIN	www.sarrera.ehu.eus
-NOERROR	u107861.ehu.eus
-NXDOMAIN	pregela2021.ehu.eus
-NOERROR	u029928.ehu.eus
-NOERROR	u029882.ehu.eus
-NOERROR	u109412.ehu.eus
-NOERROR	egelapi.ehu.eus
-NOERROR	bebras.ehu.eus
-NOERROR	u029939.ehu.eus
-NOERROR	u036479.ehu.eus
-NOERROR	u107716.ehu.eus
-NOERROR	ixa2.si.ehu.eus
-NOERROR	www.ehu.eus
-NOERROR	dynpac.i2t.ehu.eus
-NXDOMAIN	u110342.ehu.eus
-NOERROR	u029936.ehu.eus
-NOERROR	www.dicc.hegoa.ehu.eus
-NOERROR	egela1718.ehu.eus
-NOERROR	gp-ldap.ehu.eus
-NXDOMAIN	u104627.ehu.eus
-NOERROR	u110404.ehu.eus
-NOERROR	u029889.ehu.eus
-NOERROR	u018367.ehu.eus
-NOERROR	autodiscover.ehu.eus
-NOERROR	u110336.ehu.eus
-NOERROR	ehutb-pmk3-front-pro.ehu.eus
-NOERROR	u028704.ehu.eus
-NOERROR	www.i2t.ehu.eus
-NOERROR	u029927.ehu.eus
-NOERROR	posta2010-prepro.ehu.eus
-SERVFAIL	buzones2.lgp.ehu.eus
-NXDOMAIN	egela-aurrekoa.ehu.eus
-SERVFAIL	director2.lgp.ehu.eus
-NOERROR	u029935.ehu.eus
-NOERROR	u103796.ehu.eus
-NXDOMAIN	ehuazoka.ehu.eus
-NOERROR	azpidazki.ehu.eus
-NOERROR	app-pre.ehu.eus
-NXDOMAIN	int72new.ehu.eus
-NOERROR	lagun.ehu.eus
-NOERROR	u029916.ehu.eus
-NOERROR	webvpn.ehu.eus
-NOERROR	activesync.ehu.eus
-NOERROR	moodle5.ehu.eus
-NOERROR	u108777.ehu.eus
-NOERROR	u035220.ehu.eus
-NOERROR	dev.nire.ehu.eus
-NOERROR	mantenimiento-solicitud.ehu.eus
-NOERROR	mailin.ehu.eus
-NXDOMAIN	ehuapstore-st1.ehu.eus
-NOERROR	u029897.ehu.eus
-NOERROR	gscompare.ehu.eus
-SERVFAIL	int.esinadura.ehu.eus
-NXDOMAIN	uxxiecpre.ehu.eus
-NOERROR	kubernete3.ehu.eus
-NXDOMAIN	u110334.ehu.eus
-NOERROR	www.i2tv6.ehu.eus
-SERVFAIL	uxxiec.lgp.ehu.eus
-NOERROR	ns.i2t.ehu.eus
-NOERROR	i2t15.i2t.ehu.eus
-NOERROR	gestion-integracion-enplegu.ehu.eus
-NOERROR	w4ref.i2t.ehu.eus
-NOERROR	freeradius.ehu.eus
-NOERROR	ehulku.ehu.eus
-NOERROR	tzos.ehu.eus
-NOERROR	u029906.ehu.eus
-NOERROR	egela1920.ehu.eus
-NOERROR	det.bi.ehu.eus
-NOERROR	jarduera2.ehu.eus
-NXDOMAIN	egela-hurrengoa.ehu.eus
-NOERROR	u013852.ehu.eus
-NXDOMAIN	ehutb-flash3-pro.ehu.eus
-NOERROR	egela1819.ehu.eus
-NXDOMAIN	gestion-economico2.ehu.eus
-NOERROR	u012533.ehu.eus
-NOERROR	b009517.ehu.eus
-NOERROR	u028702.ehu.eus
-NOERROR	ehutb-vod3-pro.ehu.eus
-NOERROR	login.ehu.eus
-NOERROR	mat-apli.ehu.eus
-NOERROR	gestion-integracion.ehu.eus
-NXDOMAIN	gestion-integracion-economico.ehu.eus
-NOERROR	u017810.ehu.eus
-NXDOMAIN	www.araba.ehu.eus
-NOERROR	smtp.lg.ehu.eus
-NOERROR	u101129.ehu.eus
-SERVFAIL	uxxiportal.lgp.ehu.eus
-NOERROR	i2t.ehu.eus
-NOERROR	u029902.ehu.eus
-NOERROR	gp.ehu.eus
-NOERROR	u013848.ehu.eus
-NXDOMAIN	u110333.ehu.eus
-NOERROR	dhls.hegoa.ehu.eus
-NOERROR	u036480.ehu.eus
-NOERROR	egelaxstudio.ehu.eus
-NOERROR	aulavirtual.ehu.eus
-NOERROR	u110655.ehu.eus
-NOERROR	bipt106.bi.ehu.eus
-NOERROR	ehuskaratuak.ehu.eus
-NOERROR	izapide.ehu.eus
-NOERROR	u031864.ehu.eus
-NOERROR	u107903.ehu.eus
-NOERROR	u029898.ehu.eus
-NOERROR	u031878.ehu.eus
-NXDOMAIN	u110331.ehu.eus
-SERVFAIL	appdenda-st1.ehu.eus
-NOERROR	u023891.ehu.eus
-NOERROR	gestioncvb.ehu.eus
-NOERROR	u029881.ehu.eus
-NOERROR	cas-eprest.ehu.eus
-NOERROR	ehutb-flash2-pro.ehu.eus
-NOERROR	u108795.ehu.eus
-NOERROR	u029890.ehu.eus
-NOERROR	sms.ehu.eus
-NOERROR	u029925.ehu.eus
-NXDOMAIN	u110349.ehu.eus
-NOERROR	u107566.ehu.eus
-NXDOMAIN	gestion-economicol.ehu.eus
-NOERROR	u008434.ehu.eus
-NXDOMAIN	ocwold.ehu.eus
-NOERROR	u110345.ehu.eus
-NXDOMAIN	ehuappstore-st2.ehu.eus
-NOERROR	u031185.ehu.eus
-SERVFAIL	kirolak-app.adm.ehu.eus
-NOERROR	share.i2t.ehu.eus
-NOERROR	u028819.ehu.eus
-NOERROR	u032219.ehu.eus
-NOERROR	pregelaxstudio.ehu.eus
-NOERROR	egelaportfolio.ehu.eus
-NOERROR	u029915.ehu.eus
-NOERROR	u029884.ehu.eus
-NOERROR	u036867.ehu.eus
-NXDOMAIN	egela2021.ehu.eus
-NOERROR	u029880.ehu.eus
-NOERROR	u029914.ehu.eus
-NOERROR	u033209.ehu.eus
-NOERROR	u110656.ehu.eus
-NOERROR	ntp.i2t.ehu.eus
-NOERROR	hackathon.i2t.ehu.eus
-NOERROR	ikasmaterialak.ehu.eus
-NOERROR	u029921.ehu.eus
-NOERROR	u029741.ehu.eus
-NXDOMAIN	gestion-mantenimientopreventivo.ehu.eus
-NOERROR	basqueandbeyond.ehu.eus
-NXDOMAIN	www.informatika.ehu.eus
-SERVFAIL	uxxiecpre.lgp.ehu.eus
-NXDOMAIN	appdenda-admin.ehu.eus
-NOERROR	u036478.ehu.eus
-NOERROR	edonon.ehu.eus
-NOERROR	u025723.ehu.eus
-NOERROR	openflow.i2t.ehu.eus
-NOERROR	ipaccess.ehu.eus
-NOERROR	u109585.ehu.eus
-NOERROR	gestion-integracion-servicios.ehu.eus
-NOERROR	wlgaurtest.ehu.eus
-NOERROR	u031831.ehu.eus
-NOERROR	u031214.ehu.eus
-NXDOMAIN	u020736.ehu.eus
-NOERROR	portal-investigacion.ehu.eus
-NOERROR	u029911.ehu.eus
-NXDOMAIN	gestion-economico.ehu.eus
-NOERROR	euskalankidetza.hegoa.ehu.eus
-NOERROR	projects.i2t.ehu.eus
-NOERROR	u029932.ehu.eus
-NOERROR	sci2017.ehu.eus
-NXDOMAIN	pregela1920.ehu.eus
-NXDOMAIN	u110339.ehu.eus
-NXDOMAIN	u110341.ehu.eus
-NOERROR	vpn2.ehu.eus
-NOERROR	esinadura.ehu.eus
-NOERROR	u029930.ehu.eus
-NXDOMAIN	gestion-integracion-empleado-aix.ehu.eus
-NOERROR	egoitza.ehu.eus
-NXDOMAIN	dev.egoitza.ehu.eus
-NOERROR	ehuappstore-admin.ehu.eus
-NOERROR	eprest.ehu.eus
-NOERROR	int.eskabide.ehu.eus
-NOERROR	ctrlaulas.ehu.eus
-NXDOMAIN	egelapiold.ehu.eus
-SERVFAIL	int.ebideragune.ehu.eus
-NOERROR	u029899.ehu.eus
-NOERROR	u029892.ehu.eus
-NOERROR	ojs.ehu.eus
-NOERROR	gestion-matricula.ehu.eus
-NOERROR	u029929.ehu.eus
-NOERROR	go.ehu.eus
-NOERROR	www.uk.ehu.eus
-NOERROR	biostit.ehu.eus
-NXDOMAIN	www.pregelaportfolio.ehu.eus
-NOERROR	u024327.ehu.eus
-NXDOMAIN	gestion-integracion-economicol.ehu.eus
-NOERROR	u110915.ehu.eus
-NOERROR	kirolak.ehu.eus
-NOERROR	u029907.ehu.eus
-NOERROR	u029727.ehu.eus
-NOERROR	u032202.ehu.eus
-NOERROR	dns2.ehu.eus
-NOERROR	u109644.ehu.eus
-NOERROR	preview.egelax.ehu.eus
-NOERROR	u029883.ehu.eus
-NOERROR	u023714.ehu.eus
-SERVFAIL	director1.lgp.ehu.eus
-NOERROR	u029913.ehu.eus
-NOERROR	ocw35.ehu.eus
-NOERROR	dev.izapide.ehu.eus
-NOERROR	egela1516.ehu.eus
-NOERROR	galan.ehu.eus
-NOERROR	sbc.ehu.eus
-NOERROR	u029934.ehu.eus
-NOERROR	u029901.ehu.eus
-NXDOMAIN	gestion-integracion-enplegu-aix.ehu.eus
-NXDOMAIN	u110332.ehu.eus
-NOERROR	u030838.ehu.eus
-NOERROR	u108867.ehu.eus
-NOERROR	u031221.ehu.eus
-NOERROR	lists.i2t.ehu.eus
-NOERROR	hemeroteca.hegoa.ehu.eus
-NOERROR	u109564.ehu.eus
-NOERROR	gestion-integracion-empleado.ehu.eus
-NOERROR	lsi.vc.ehu.eus
-SERVFAIL	uxxiportalpre.lgp.ehu.eus
-NOERROR	www.cryst.ehu.eus
-NOERROR	u014184.bi.ehu.eus
-NOERROR	galan2.ehu.eus
-NOERROR	fi.i2t.ehu.eus
-NXDOMAIN	buzones4.ehu.eus
-NXDOMAIN	u110340.ehu.eus
-NOERROR	u029885.ehu.eus
-NXDOMAIN	v000208.ehu.eus
-NOERROR	cryst.ehu.eus
-NOERROR	vpn.ehu.eus
-NOERROR	ehudokuprepro.ehu.eus
-NOERROR	u108769.ehu.eus
-NOERROR	u029920.ehu.eus
-NXDOMAIN	www.ikasle.ehu.eus
-NOERROR	ehutb-flash1-pro.ehu.eus
-SERVFAIL	ldap-master.ehu.eus
-NOERROR	dev.eskabide.ehu.eus
-NOERROR	u105861.ehu.eus
-NOERROR	posta-prepro.ehu.eus
-NXDOMAIN	www.sareprint.ehu.eus
-NOERROR	gestor.ehu.eus
-NOERROR	gestion-integracion-matricula.ehu.eus
-NXDOMAIN	uxxiec.ehu.eus
-NOERROR	u110343.ehu.eus
-NOERROR	u029887.ehu.eus
-NXDOMAIN	pregela1718.ehu.eus
-NXDOMAIN	u110335.ehu.eus
-NOERROR	egela1415.ehu.eus
-NOERROR	ldap.ehu.eus
-NOERROR	pregelax.ehu.eus
-NXDOMAIN	appdenda.ehu.eus
-NOERROR	erabaki.ehu.eus
-NOERROR	u110338.ehu.eus
-NOERROR	gsc.ehu.eus
-NOERROR	u109411.ehu.eus
-NOERROR	localhost.ehu.eus
-NOERROR	pvol2.ehu.eus
-NOERROR	u018408.ehu.eus
-NOERROR	hitz.ehu.eus
-NOERROR	u029904.ehu.eus
-NOERROR	ikasle.ehu.eus
-NOERROR	u005552.ehu.eus
-NOERROR	u028822.ehu.eus
-NOERROR	u029900.ehu.eus
-NOERROR	jarduera2-app.ehu.eus
-NOERROR	gaika.ehu.eus
-NOERROR	instituto.hegoa.ehu.eus
-NOERROR	u029905.ehu.eus
-NOERROR	u029888.ehu.eus
-NOERROR	files.i2t.ehu.eus
-NOERROR	u028405.ehu.eus
-NOERROR	u029891.ehu.eus
-NXDOMAIN	gestorescvb.ehu.eus
-NOERROR	publicaciones.hegoa.ehu.eus
-NOERROR	gitprojects-ci.i2t.ehu.eus
-NOERROR	www.dhls.hegoa.ehu.eus
-SERVFAIL	appdenda-st2.ehu.eus
-NOERROR	egelax.ehu.eus
-NOERROR	gitprojects.i2t.ehu.eus
-NOERROR	testubiltegia.ehu.eus
-NXDOMAIN	uxxiportalpre.ehu.eus
-NOERROR	u032106.ehu.eus
-NOERROR	u110347.ehu.eus
-NOERROR	ehuappstore.ehu.eus
-NOERROR	u029908.ehu.eus
-NOERROR	u029886.ehu.eus
-NOERROR	u029922.ehu.eus
-NOERROR	dipc.ehu.eus
-NOERROR	smtp.ehu.eus
-NOERROR	u105791.ehu.eus
-NOERROR	u102620.ehu.eus
-NOERROR	u210062.ehu.eus
-NOERROR	u029926.ehu.eus
-NOERROR	u029910.ehu.eus
-NOERROR	ehu.eus
-NXDOMAIN	gestion-integracion-economico2.ehu.eus
-NXDOMAIN	ssldecrypt.ehu.eus
-NOERROR	ehubio.ehu.eus
-NOERROR	pregelaportfolio.ehu.eus
-NOERROR	u029924.ehu.eus
-NXDOMAIN	u110337.ehu.eus
-NOERROR	u029909.ehu.eus
-NOERROR	bioinf.ehu.eus
-NXDOMAIN	u110346.ehu.eus
-NOERROR	u031875.ehu.eus
-NOERROR	int.izapide.ehu.eus
-NOERROR	smtp2.lg.ehu.eus
-NOERROR	u029903.ehu.eus
-NOERROR	ebideragune.ehu.eus
-NOERROR	edonont.ehu.eus
-NOERROR	meta.hegoa.ehu.eus
-NOERROR	web7.ehu.eus
-NOERROR	nano-bio.ehu.eus
-NOERROR	u031865.ehu.eus
-SERVFAIL	int.egoitza.ehu.eus
-NOERROR	u017778.ehu.eus
-NOERROR	academico.ehu.eus
-NOERROR	u111026.ehu.eus
-NOERROR	kubernete2.ehu.eus
-NOERROR	u020739.ehu.eus
-NOERROR	aholab.ehu.eus
-NOERROR	u029938.ehu.eus
-NOERROR	u029894.ehu.eus
-NOERROR	intranet.hegoa.ehu.eus
-NOERROR	ehubox.ehu.eus
-NOERROR	u028674.ehu.eus
-NOERROR	ocw.ehu.eus
-NOERROR	eskabide.ehu.eus
-NOERROR	u029918.ehu.eus
-NOERROR	adimen.si.ehu.eus
-NOERROR	i2tv6.ehu.eus
-NXDOMAIN	legacy.ehu.eus
-NOERROR	u105648.bi.ehu.eus
-NOERROR	smtp.i2t.ehu.eus
-NOERROR	tangram-front.ehu.eus
-NOERROR	lgux61-lsi.ehu.eus
-NOERROR	u211530.ehu.eus
-NOERROR	u029895.ehu.eus
-NOERROR	gestion.ehu.eus
-NXDOMAIN	egelapinew.ehu.eus
-NOERROR	cfm.ehu.eus
-NXDOMAIN	ocwtmp.ehu.eus
-NXDOMAIN	ocwnew.ehu.eus
-NOERROR	mattermost.i2t.ehu.eus
-NOERROR	u032123.ehu.eus
-NOERROR	u110417.ehu.eus
-NOERROR	pregela.ehu.eus
-NOERROR	sareprint.ehu.eus
-NOERROR	egela1617.ehu.eus
-NOERROR	u029912.ehu.eus
-NOERROR	v001385.ehu.eus
-NOERROR	kudeaketacvb.ehu.eus
-NOERROR	u110416.ehu.eus
-NOERROR	app.ehu.eus
-NOERROR	u029933.ehu.eus
-NOERROR	encuesta-etxezain-ageingon.ehu.eus
-NOERROR	addi.ehu.eus
-NOERROR	u018450.ehu.eus
-NOERROR	u028732.ehu.eus
-NOERROR	aintel.bi.ehu.eus
-NOERROR	u029893.ehu.eus
-NOERROR	ixa.si.ehu.eus
-NOERROR	tp.lc.ehu.eus
+ssllabs-probak.ehu.eus
+gestion-integracion-alumnos.ehu.eus
+i2t1.i2t.ehu.eus
+insilico.ehu.eus
+simplatprox.i2t.ehu.eus
+dev.ehu.eus
+u031168.ehu.eus
+lucia.ehu.eus
+smtp1.lg.ehu.eus
+nire.ehu.eus
+ehutb.ehu.eus
+u108776.ehu.eus
+boletin.hegoa.ehu.eus
+u029931.ehu.eus
+u029896.ehu.eus
+www.oc.lm.ehu.eus
+webposta.ehu.eus
+u026359.ehu.eus
+multimedia.hegoa.ehu.eus
+ldap-prepro.ehu.eus
+covid19.ehu.eus
+u104317.lc.ehu.eus
+u029923.ehu.eus
+u017633.ehu.eus
+ehubox1.ehu.eus
+ecorec.ehu.eus
+egela-old.ehu.eus
+estudiantes-gp.ehu.eus
+pcr.ehu.eus
+ewsdn-hackathon.i2t.ehu.eus
+outlook.ehu.eus
+list.ehu.eus
+bokeh.euskalankidetza.hegoa.ehu.eus
+gestion-empleado.ehu.eus
+u029917.ehu.eus
+u013849.ehu.eus
+u029919.ehu.eus
+services.i2t.ehu.eus
+i2t2.i2t.ehu.eus
+preview.pregelax.ehu.eus
+posta.ehu.eus
+i2t26.i2t.ehu.eus
+nocvpn.ehu.eus
+gestion-alumnos.ehu.eus
+openmeetings.ehu.eus
+u027076.ehu.eus
+u110418.ehu.eus
+www.hegoa.ehu.eus
+biblioteca.hegoa.ehu.eus
+ehutb-strm3-pro.ehu.eus
+interaccion2019.ehu.eus
+egela.ehu.eus
+gestion-servicios.ehu.eus
+u108793.ehu.eus
+p-pmk2-frontend.ehu.eus
+u006372.ehu.eus
+ehudoku.ehu.eus
+int.ehu.eus
+u017435.ehu.eus
+cryst2.ehu.eus
+ixa.ehu.eus
+gestion-enplegu.ehu.eus
+crowdzientzia.ehu.eus
+www.mantenimiento-solicitud.ehu.eus
+sgpi.ehu.eus
+www1.ehu.eus
+u107861.ehu.eus
+u029928.ehu.eus
+u029882.ehu.eus
+u109412.ehu.eus
+egelapi.ehu.eus
+bebras.ehu.eus
+u029939.ehu.eus
+u036479.ehu.eus
+u107716.ehu.eus
+ixa2.si.ehu.eus
+www.ehu.eus
+dynpac.i2t.ehu.eus
+u029936.ehu.eus
+www.dicc.hegoa.ehu.eus
+egela1718.ehu.eus
+gp-ldap.ehu.eus
+u110404.ehu.eus
+u029889.ehu.eus
+u018367.ehu.eus
+autodiscover.ehu.eus
+u110336.ehu.eus
+ehutb-pmk3-front-pro.ehu.eus
+u028704.ehu.eus
+www.i2t.ehu.eus
+u029927.ehu.eus
+posta2010-prepro.ehu.eus
+u029935.ehu.eus
+u103796.ehu.eus
+azpidazki.ehu.eus
+app-pre.ehu.eus
+lagun.ehu.eus
+u029916.ehu.eus
+webvpn.ehu.eus
+activesync.ehu.eus
+moodle5.ehu.eus
+u108777.ehu.eus
+u035220.ehu.eus
+dev.nire.ehu.eus
+mantenimiento-solicitud.ehu.eus
+mailin.ehu.eus
+u029897.ehu.eus
+gscompare.ehu.eus
+kubernete3.ehu.eus
+www.i2tv6.ehu.eus
+ns.i2t.ehu.eus
+i2t15.i2t.ehu.eus
+gestion-integracion-enplegu.ehu.eus
+w4ref.i2t.ehu.eus
+freeradius.ehu.eus
+ehulku.ehu.eus
+tzos.ehu.eus
+u029906.ehu.eus
+egela1920.ehu.eus
+det.bi.ehu.eus
+jarduera2.ehu.eus
+u013852.ehu.eus
+egela1819.ehu.eus
+u012533.ehu.eus
+b009517.ehu.eus
+u028702.ehu.eus
+ehutb-vod3-pro.ehu.eus
+login.ehu.eus
+mat-apli.ehu.eus
+gestion-integracion.ehu.eus
+u017810.ehu.eus
+smtp.lg.ehu.eus
+u101129.ehu.eus
+i2t.ehu.eus
+u029902.ehu.eus
+gp.ehu.eus
+u013848.ehu.eus
+dhls.hegoa.ehu.eus
+u036480.ehu.eus
+egelaxstudio.ehu.eus
+aulavirtual.ehu.eus
+u110655.ehu.eus
+bipt106.bi.ehu.eus
+ehuskaratuak.ehu.eus
+izapide.ehu.eus
+u031864.ehu.eus
+u107903.ehu.eus
+u029898.ehu.eus
+u031878.ehu.eus
+u023891.ehu.eus
+gestioncvb.ehu.eus
+u029881.ehu.eus
+cas-eprest.ehu.eus
+ehutb-flash2-pro.ehu.eus
+u108795.ehu.eus
+u029890.ehu.eus
+sms.ehu.eus
+u029925.ehu.eus
+u107566.ehu.eus
+u008434.ehu.eus
+u110345.ehu.eus
+u031185.ehu.eus
+share.i2t.ehu.eus
+u028819.ehu.eus
+u032219.ehu.eus
+pregelaxstudio.ehu.eus
+egelaportfolio.ehu.eus
+u029915.ehu.eus
+u029884.ehu.eus
+u036867.ehu.eus
+u029880.ehu.eus
+u029914.ehu.eus
+u033209.ehu.eus
+u110656.ehu.eus
+ntp.i2t.ehu.eus
+hackathon.i2t.ehu.eus
+ikasmaterialak.ehu.eus
+u029921.ehu.eus
+u029741.ehu.eus
+basqueandbeyond.ehu.eus
+u036478.ehu.eus
+edonon.ehu.eus
+u025723.ehu.eus
+openflow.i2t.ehu.eus
+ipaccess.ehu.eus
+u109585.ehu.eus
+gestion-integracion-servicios.ehu.eus
+wlgaurtest.ehu.eus
+u031831.ehu.eus
+u031214.ehu.eus
+portal-investigacion.ehu.eus
+u029911.ehu.eus
+euskalankidetza.hegoa.ehu.eus
+projects.i2t.ehu.eus
+u029932.ehu.eus
+sci2017.ehu.eus
+vpn2.ehu.eus
+esinadura.ehu.eus
+u029930.ehu.eus
+egoitza.ehu.eus
+ehuappstore-admin.ehu.eus
+eprest.ehu.eus
+int.eskabide.ehu.eus
+ctrlaulas.ehu.eus
+u029899.ehu.eus
+u029892.ehu.eus
+ojs.ehu.eus
+gestion-matricula.ehu.eus
+u029929.ehu.eus
+go.ehu.eus
+www.uk.ehu.eus
+biostit.ehu.eus
+u024327.ehu.eus
+u110915.ehu.eus
+kirolak.ehu.eus
+u029907.ehu.eus
+u029727.ehu.eus
+u032202.ehu.eus
+dns2.ehu.eus
+u109644.ehu.eus
+preview.egelax.ehu.eus
+u029883.ehu.eus
+u023714.ehu.eus
+u029913.ehu.eus
+ocw35.ehu.eus
+dev.izapide.ehu.eus
+egela1516.ehu.eus
+galan.ehu.eus
+sbc.ehu.eus
+u029934.ehu.eus
+u029901.ehu.eus
+u030838.ehu.eus
+u108867.ehu.eus
+u031221.ehu.eus
+lists.i2t.ehu.eus
+hemeroteca.hegoa.ehu.eus
+u109564.ehu.eus
+gestion-integracion-empleado.ehu.eus
+lsi.vc.ehu.eus
+www.cryst.ehu.eus
+u014184.bi.ehu.eus
+galan2.ehu.eus
+fi.i2t.ehu.eus
+u029885.ehu.eus
+cryst.ehu.eus
+vpn.ehu.eus
+ehudokuprepro.ehu.eus
+u108769.ehu.eus
+u029920.ehu.eus
+ehutb-flash1-pro.ehu.eus
+dev.eskabide.ehu.eus
+u105861.ehu.eus
+posta-prepro.ehu.eus
+gestor.ehu.eus
+gestion-integracion-matricula.ehu.eus
+u110343.ehu.eus
+u029887.ehu.eus
+egela1415.ehu.eus
+ldap.ehu.eus
+pregelax.ehu.eus
+erabaki.ehu.eus
+u110338.ehu.eus
+gsc.ehu.eus
+u109411.ehu.eus
+localhost.ehu.eus
+pvol2.ehu.eus
+u018408.ehu.eus
+hitz.ehu.eus
+u029904.ehu.eus
+ikasle.ehu.eus
+u005552.ehu.eus
+u028822.ehu.eus
+u029900.ehu.eus
+jarduera2-app.ehu.eus
+gaika.ehu.eus
+instituto.hegoa.ehu.eus
+u029905.ehu.eus
+u029888.ehu.eus
+files.i2t.ehu.eus
+u028405.ehu.eus
+u029891.ehu.eus
+publicaciones.hegoa.ehu.eus
+gitprojects-ci.i2t.ehu.eus
+www.dhls.hegoa.ehu.eus
+egelax.ehu.eus
+gitprojects.i2t.ehu.eus
+testubiltegia.ehu.eus
+u032106.ehu.eus
+u110347.ehu.eus
+ehuappstore.ehu.eus
+u029908.ehu.eus
+u029886.ehu.eus
+u029922.ehu.eus
+dipc.ehu.eus
+smtp.ehu.eus
+u105791.ehu.eus
+u102620.ehu.eus
+u210062.ehu.eus
+u029926.ehu.eus
+u029910.ehu.eus
+ehu.eus
+ehubio.ehu.eus
+pregelaportfolio.ehu.eus
+u029924.ehu.eus
+u029909.ehu.eus
+bioinf.ehu.eus
+u031875.ehu.eus
+int.izapide.ehu.eus
+smtp2.lg.ehu.eus
+u029903.ehu.eus
+ebideragune.ehu.eus
+edonont.ehu.eus
+meta.hegoa.ehu.eus
+web7.ehu.eus
+nano-bio.ehu.eus
+u031865.ehu.eus
+u017778.ehu.eus
+academico.ehu.eus
+u111026.ehu.eus
+kubernete2.ehu.eus
+u020739.ehu.eus
+aholab.ehu.eus
+u029938.ehu.eus
+u029894.ehu.eus
+intranet.hegoa.ehu.eus
+ehubox.ehu.eus
+u028674.ehu.eus
+ocw.ehu.eus
+eskabide.ehu.eus
+u029918.ehu.eus
+adimen.si.ehu.eus
+i2tv6.ehu.eus
+u105648.bi.ehu.eus
+smtp.i2t.ehu.eus
+tangram-front.ehu.eus
+lgux61-lsi.ehu.eus
+u211530.ehu.eus
+u029895.ehu.eus
+gestion.ehu.eus
+cfm.ehu.eus
+mattermost.i2t.ehu.eus
+u032123.ehu.eus
+u110417.ehu.eus
+pregela.ehu.eus
+sareprint.ehu.eus
+egela1617.ehu.eus
+u029912.ehu.eus
+v001385.ehu.eus
+kudeaketacvb.ehu.eus
+u110416.ehu.eus
+app.ehu.eus
+u029933.ehu.eus
+encuesta-etxezain-ageingon.ehu.eus
+addi.ehu.eus
+u018450.ehu.eus
+u028732.ehu.eus
+aintel.bi.ehu.eus
+u029893.ehu.eus
+ixa.si.ehu.eus
+tp.lc.ehu.eus

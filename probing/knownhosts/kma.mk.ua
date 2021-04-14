@@ -1,26 +1,3 @@
-NOERROR	kma.mk.ua
-NXDOMAIN	ukrlit.kma.mk.ua
-NXDOMAIN	fear.kma.mk.ua
-NXDOMAIN	photo.kma.mk.ua
-NXDOMAIN	vagant.kma.mk.ua
-NXDOMAIN	fordep.kma.mk.ua
-NXDOMAIN	ns.kma.mk.ua
-NXDOMAIN	auu.kma.mk.ua
-NXDOMAIN	science.kma.mk.ua
-NXDOMAIN	vrector.kma.mk.ua
-NOERROR	www.kma.mk.ua
-NXDOMAIN	web.kma.mk.ua
-NXDOMAIN	museum.kma.mk.ua
-NXDOMAIN	math.kma.mk.ua
-NOERROR	mail.kma.mk.ua
-NXDOMAIN	lib.kma.mk.ua
-NXDOMAIN	oldmoodle2.kma.mk.ua
-NXDOMAIN	wiki.kma.mk.ua
-NXDOMAIN	moodle.kma.mk.ua
-NXDOMAIN	oldmoodle.kma.mk.ua
-NXDOMAIN	wat.kma.mk.ua
-NXDOMAIN	bibl.kma.mk.ua
-NXDOMAIN	sitewizard.kma.mk.ua
-NXDOMAIN	forum.kma.mk.ua
-NXDOMAIN	chaos.kma.mk.ua
-NXDOMAIN	students.kma.mk.ua
+kma.mk.ua
+www.kma.mk.ua
+mail.kma.mk.ua

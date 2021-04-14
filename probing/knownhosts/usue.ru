@@ -1,309 +1,244 @@
-NOERROR	wadm.usue.ru
-NOERROR	kafphc.usue.ru
-NOERROR	kpe.usue.ru
-NOERROR	kfm.usue.ru
-NXDOMAIN	avu.usue.ru
-NOERROR	conf-corp.usue.ru
-NOERROR	tp.usue.ru
-NXDOMAIN	www.etr.usue.ru
-NOERROR	gmu.usue.ru
-NOERROR	web01.usue.ru
-NOERROR	de.usue.ru
-NOERROR	docs.usue.ru
-NOERROR	bib.usue.ru
-NXDOMAIN	mailcas01.usue.ru
-NOERROR	cpdo.usue.ru
-NOERROR	e.usue.ru
-NOERROR	kulinar.usue.ru
-NOERROR	inou.usue.ru
-NXDOMAIN	mailcas02.usue.ru
-NOERROR	video03.usue.ru
-NXDOMAIN	ahr.usue.ru
-NOERROR	econline3.usue.ru
-NOERROR	eforum.usue.ru
-NOERROR	sola.usue.ru
-NOERROR	beuc.usue.ru
-NXDOMAIN	maildb02.usue.ru
-NOERROR	www.mag.usue.ru
-NOERROR	iva.usue.ru
-NXDOMAIN	4you.usue.ru
-NOERROR	te.usue.ru
-NOERROR	etr.usue.ru
-NOERROR	www.usue.ru
-NOERROR	profi-rost.usue.ru
-NOERROR	cdo.usue.ru
-NXDOMAIN	igmu.usue.ru
-NXDOMAIN	webex.usue.ru.usue.ru
-NOERROR	conference3.usue.ru
-NXDOMAIN	www.it.usue.ru
-NOERROR	college.usue.ru
-NOERROR	pm.usue.ru
-NXDOMAIN	arenat3.usue.ru
-NXDOMAIN	www.iva.usue.ru
-NOERROR	ok-1c-server-old.usue.ru
-NOERROR	aandreev.usue.ru
-NXDOMAIN	ku.usue.ru
-NOERROR	usue.ru
-NOERROR	eurasia-school.usue.ru
-NOERROR	trueconf.usue.ru
-NOERROR	fdok.usue.ru
-NOERROR	gmf.usue.ru
-NXDOMAIN	www.international.usue.ru
-NOERROR	mx01.usue.ru
-NOERROR	ctig.usue.ru
-NXDOMAIN	maildb01.usue.ru
-NOERROR	ino.usue.ru
-NOERROR	meu.usue.ru
-NOERROR	zh.usue.ru
-NOERROR	zf.usue.ru
-NOERROR	orion.usue.ru
-NXDOMAIN	ttest.usue.ru
-NOERROR	restkaf.usue.ru
-NXDOMAIN	forum.usue.ru
-NOERROR	video02.usue.ru
-NOERROR	idpo.usue.ru
-NOERROR	video-um13a.usue.ru
-NOERROR	web02.usue.ru
-NOERROR	elearning.usue.ru
-NOERROR	works.usue.ru
-NOERROR	t.usue.ru
-NOERROR	et.usue.ru
-NXDOMAIN	kkm.usue.ru
-NOERROR	nirs.usue.ru
-NXDOMAIN	icge.usue.ru
-NOERROR	www2.usue.ru
-NOERROR	faser.usue.ru
-NOERROR	cso.usue.ru
-NOERROR	cde.usue.ru
-NOERROR	en.usue.ru
-NOERROR	slava-virt2.usue.ru
-NXDOMAIN	euz.usue.ru
-NOERROR	wwf.usue.ru
-NXDOMAIN	ftp.usue.ru
-NXDOMAIN	citforum.usue.ru
-NXDOMAIN	gimnaz.usue.ru
-NOERROR	abit.usue.ru
-NOERROR	rasp.usue.ru
-NOERROR	rector-ext.usue.ru
-NXDOMAIN	www.igmu.usue.ru
-NXDOMAIN	fsuit.usue.ru
-NOERROR	www.ino.usue.ru
-NOERROR	books.usue.ru
-NOERROR	umu.usue.ru
-NOERROR	entep.usue.ru
-NOERROR	physics.usue.ru
-NOERROR	sciencelab.usue.ru
-NOERROR	bu1.usue.ru
-NXDOMAIN	www.citforum.usue.ru
-NOERROR	wbstatic.usue.ru
-NOERROR	video04.usue.ru
-NOERROR	uni.usue.ru
-NOERROR	autodiscover.usue.ru
-NXDOMAIN	www.icge.usue.ru
-NXDOMAIN	konkurs.usue.ru
-NOERROR	arena.usue.ru
-NOERROR	www.arena.usue.ru
-NOERROR	indo.usue.ru
-NXDOMAIN	eschool.usue.ru
-NOERROR	rostov-cdo.usue.ru
-NOERROR	ea.usue.ru
-NOERROR	ps.usue.ru
-NXDOMAIN	www.finfac.usue.ru
-NOERROR	egorov.usue.ru
-NXDOMAIN	itos.usue.ru
-NOERROR	etiup.usue.ru
-NOERROR	tabel.usue.ru
-NXDOMAIN	first.usue.ru
-NOERROR	e-learning.usue.ru
-NOERROR	psycenter.usue.ru
-NOERROR	ch.usue.ru
-NOERROR	antitrust.usue.ru
-NOERROR	kafist.usue.ru
-NXDOMAIN	efm.usue.ru
-NOERROR	emlab.usue.ru
-NOERROR	webrd.usue.ru
-NOERROR	do.usue.ru
-NOERROR	webrasp.usue.ru
-NOERROR	kcg.usue.ru
-NOERROR	ussys.usue.ru
-NOERROR	test.ea.usue.ru
-NOERROR	klet.usue.ru
-NOERROR	jne.usue.ru
-NXDOMAIN	abs.usue.ru
-NXDOMAIN	expert.usue.ru
-NOERROR	proxy.usue.ru
-NOERROR	trueconf2.usue.ru
-NOERROR	conference1.usue.ru
-NOERROR	mx02.usue.ru
-NXDOMAIN	job.usue.ru
-NOERROR	post.usue.ru
-NOERROR	ahmetshin-renat.usue.ru
-NOERROR	conference2.usue.ru
-NOERROR	mcu.usue.ru
-NOERROR	sakaisrv.usue.ru
-NOERROR	netxms.usue.ru
-NOERROR	uvc-server.usue.ru
-NOERROR	rem.usue.ru
-NOERROR	mx03.usue.ru
-NOERROR	lib.wbstatic.usue.ru
-NOERROR	web.usue.ru
-NOERROR	drpr.usue.ru
-NOERROR	oldlib.usue.ru
-NOERROR	blc.usue.ru
-NXDOMAIN	www.lib.usue.ru
-NOERROR	ismm.usue.ru
-NXDOMAIN	eurasia2010.usue.ru
-NOERROR	bi.usue.ru
-NOERROR	it.usue.ru
-NXDOMAIN	fltik.usue.ru
-NOERROR	men.usue.ru
-NXDOMAIN	karyera.usue.ru
-NOERROR	jkh.usue.ru
-NOERROR	video-36.usue.ru
-NOERROR	kft.usue.ru
-NOERROR	mvp.usue.ru
-NOERROR	nik.usue.ru
-NOERROR	sposrv.usue.ru
-NXDOMAIN	suit.usue.ru
-NXDOMAIN	sportcomplex.usue.ru
-NOERROR	profkom.usue.ru
-NOERROR	ch1.usue.ru
-NOERROR	sprofkom.usue.ru
-NOERROR	inlingua.usue.ru
-NOERROR	webtest.usue.ru
-NOERROR	manager.usue.ru
-NOERROR	chemistry.usue.ru
-NOERROR	svetlana.usue.ru
-NOERROR	webirbis.usue.ru
-NOERROR	video-um13b.usue.ru
-NOERROR	civilrecht.usue.ru
-NOERROR	fr.usue.ru
-NOERROR	eniich.usue.ru
-NOERROR	et2.usue.ru
-NOERROR	vpn-test.usue.ru
-NOERROR	frbd.usue.ru
-NXDOMAIN	aprold.usue.ru
-NOERROR	eor.usue.ru
-NXDOMAIN	finfac.usue.ru
-NOERROR	elk.usue.ru
-NOERROR	bi-conf.usue.ru
-NOERROR	iac.usue.ru
-NOERROR	cafe.usue.ru
-NOERROR	vn-adm.usue.ru
-NOERROR	delinyaz.usue.ru
-NOERROR	start.usue.ru
-NOERROR	master.usue.ru
-NOERROR	lik.usue.ru
-NOERROR	center.usue.ru
-NXDOMAIN	arenat2.usue.ru
-NXDOMAIN	eco.usue.ru
-NOERROR	live-edu.usue.ru
-NOERROR	eis.usue.ru
-NOERROR	izvestia.usue.ru
-NXDOMAIN	fdp.usue.ru
-NOERROR	courses.usue.ru
-NXDOMAIN	www.idpo.usue.ru
-NXDOMAIN	ais-ural.usue.ru
-NOERROR	rime.usue.ru
-NOERROR	inoaccess.usue.ru
-NOERROR	portfolio.usue.ru
-NOERROR	sei.usue.ru
-NOERROR	bua.usue.ru
-NOERROR	dmag.usue.ru
-NOERROR	international.usue.ru
-NOERROR	z3950.usue.ru
-NOERROR	foodindustry.usue.ru
-NOERROR	vcs.usue.ru
-NOERROR	vmsrv.usue.ru
-NOERROR	portal-new.usue.ru
-NOERROR	vpn.usue.ru
-NOERROR	lib.usue.ru
-NOERROR	unisrv.usue.ru
-NOERROR	conference.usue.ru
-NOERROR	eisproxy.usue.ru
-NOERROR	econline.usue.ru
-NOERROR	bbb.usue.ru
-NOERROR	school.usue.ru
-NOERROR	science.usue.ru
-NOERROR	econline2.usue.ru
-NOERROR	liga.usue.ru
-NXDOMAIN	dent32.usue.ru
-NXDOMAIN	english.usue.ru
-NOERROR	bbb2.usue.ru
-NOERROR	slava.usue.ru
-NOERROR	et3.usue.ru
-NXDOMAIN	arenat.usue.ru
-NXDOMAIN	oshkordin.usue.ru
-NOERROR	vmuag.usue.ru
-NOERROR	www.cdo.usue.ru
-NOERROR	elearn.usue.ru
-NXDOMAIN	tef.usue.ru
-NOERROR	test-msdn.usue.ru
-NOERROR	not2.usue.ru
-NOERROR	sigur.usue.ru
-NOERROR	oldsport.usue.ru
-NXDOMAIN	econom.usue.ru
-NOERROR	log.usue.ru
-NXDOMAIN	fs.lib.usue.ru
-NXDOMAIN	fsp1.usue.ru
-NOERROR	lifter.usue.ru
-NOERROR	cpba.usue.ru
-NOERROR	webex-web.usue.ru
-NXDOMAIN	kfpp.usue.ru
-NXDOMAIN	ise.usue.ru
-NOERROR	fsp.usue.ru
-NOERROR	dtps.usue.ru
-NOERROR	ns2.usue.ru
-NOERROR	bbb3.usue.ru
-NOERROR	upravlenets.usue.ru
-NOERROR	congress.usue.ru
-NOERROR	philosophy.usue.ru
-NOERROR	studcafe.usue.ru
-NOERROR	vshko.usue.ru
-NOERROR	sport.usue.ru
-NOERROR	omega.usue.ru
-NOERROR	mail.usue.ru
-NOERROR	portal.usue.ru
-NOERROR	studweb.usue.ru
-NOERROR	bisgame.usue.ru
-NXDOMAIN	tccman.usue.ru
-NXDOMAIN	test.usue.ru
-NOERROR	vmunix.usue.ru
-NOERROR	ino-online.usue.ru
-NOERROR	www.e-learning.usue.ru
-NOERROR	uroveo.usue.ru
-NOERROR	startfsp.usue.ru
-NXDOMAIN	mip.usue.ru
-NOERROR	ido.usue.ru
-NOERROR	ess.usue.ru
-NOERROR	conf.usue.ru
-NOERROR	vipuskniki.usue.ru
-NOERROR	mvk.usue.ru
-NOERROR	pi.usue.ru
-NOERROR	dmi.usue.ru
-NOERROR	bu2.usue.ru
-NOERROR	www.fsp.usue.ru
-NOERROR	ar.usue.ru
-NOERROR	dfp.usue.ru
-NOERROR	www.globec.usue.ru
-NOERROR	kafedra-vneshtorg.usue.ru
-NXDOMAIN	ittest.usue.ru
-NOERROR	slava-virt.usue.ru
-NOERROR	rdgw.usue.ru
-NOERROR	cdo-rostov.usue.ru
-NXDOMAIN	shos.usue.ru
-NOERROR	uniilo.usue.ru
-NOERROR	ns.usue.ru
-NOERROR	mag.usue.ru
-NOERROR	ibk.usue.ru
-NOERROR	www.cde.usue.ru
-NXDOMAIN	fedorov.usue.ru
-NOERROR	mba.usue.ru
-NOERROR	table.usue.ru
-NOERROR	ukpt.usue.ru
-NOERROR	econopr.usue.ru
-NOERROR	globec.usue.ru
-NOERROR	dit.usue.ru
-NOERROR	publiclaw.usue.ru
-NOERROR	vbbb.usue.ru
-NOERROR	tbig.usue.ru
+wadm.usue.ru
+kafphc.usue.ru
+kpe.usue.ru
+kfm.usue.ru
+conf-corp.usue.ru
+tp.usue.ru
+gmu.usue.ru
+web01.usue.ru
+de.usue.ru
+docs.usue.ru
+bib.usue.ru
+cpdo.usue.ru
+e.usue.ru
+kulinar.usue.ru
+inou.usue.ru
+video03.usue.ru
+econline3.usue.ru
+eforum.usue.ru
+sola.usue.ru
+beuc.usue.ru
+www.mag.usue.ru
+iva.usue.ru
+te.usue.ru
+etr.usue.ru
+www.usue.ru
+profi-rost.usue.ru
+cdo.usue.ru
+conference3.usue.ru
+college.usue.ru
+pm.usue.ru
+ok-1c-server-old.usue.ru
+aandreev.usue.ru
+usue.ru
+eurasia-school.usue.ru
+trueconf.usue.ru
+fdok.usue.ru
+gmf.usue.ru
+mx01.usue.ru
+ctig.usue.ru
+ino.usue.ru
+meu.usue.ru
+zh.usue.ru
+zf.usue.ru
+orion.usue.ru
+restkaf.usue.ru
+video02.usue.ru
+idpo.usue.ru
+video-um13a.usue.ru
+web02.usue.ru
+elearning.usue.ru
+works.usue.ru
+t.usue.ru
+et.usue.ru
+nirs.usue.ru
+www2.usue.ru
+faser.usue.ru
+cso.usue.ru
+cde.usue.ru
+en.usue.ru
+slava-virt2.usue.ru
+wwf.usue.ru
+abit.usue.ru
+rasp.usue.ru
+rector-ext.usue.ru
+www.ino.usue.ru
+books.usue.ru
+umu.usue.ru
+entep.usue.ru
+physics.usue.ru
+sciencelab.usue.ru
+bu1.usue.ru
+wbstatic.usue.ru
+video04.usue.ru
+uni.usue.ru
+autodiscover.usue.ru
+arena.usue.ru
+www.arena.usue.ru
+indo.usue.ru
+rostov-cdo.usue.ru
+ea.usue.ru
+ps.usue.ru
+egorov.usue.ru
+etiup.usue.ru
+tabel.usue.ru
+e-learning.usue.ru
+psycenter.usue.ru
+ch.usue.ru
+antitrust.usue.ru
+kafist.usue.ru
+emlab.usue.ru
+webrd.usue.ru
+do.usue.ru
+webrasp.usue.ru
+kcg.usue.ru
+ussys.usue.ru
+test.ea.usue.ru
+klet.usue.ru
+jne.usue.ru
+proxy.usue.ru
+trueconf2.usue.ru
+conference1.usue.ru
+mx02.usue.ru
+post.usue.ru
+ahmetshin-renat.usue.ru
+conference2.usue.ru
+mcu.usue.ru
+sakaisrv.usue.ru
+netxms.usue.ru
+uvc-server.usue.ru
+rem.usue.ru
+mx03.usue.ru
+lib.wbstatic.usue.ru
+web.usue.ru
+drpr.usue.ru
+oldlib.usue.ru
+blc.usue.ru
+ismm.usue.ru
+bi.usue.ru
+it.usue.ru
+men.usue.ru
+jkh.usue.ru
+video-36.usue.ru
+kft.usue.ru
+mvp.usue.ru
+nik.usue.ru
+sposrv.usue.ru
+profkom.usue.ru
+ch1.usue.ru
+sprofkom.usue.ru
+inlingua.usue.ru
+webtest.usue.ru
+manager.usue.ru
+chemistry.usue.ru
+svetlana.usue.ru
+webirbis.usue.ru
+video-um13b.usue.ru
+civilrecht.usue.ru
+fr.usue.ru
+eniich.usue.ru
+et2.usue.ru
+vpn-test.usue.ru
+frbd.usue.ru
+eor.usue.ru
+elk.usue.ru
+bi-conf.usue.ru
+iac.usue.ru
+cafe.usue.ru
+vn-adm.usue.ru
+delinyaz.usue.ru
+start.usue.ru
+master.usue.ru
+lik.usue.ru
+center.usue.ru
+live-edu.usue.ru
+eis.usue.ru
+izvestia.usue.ru
+courses.usue.ru
+rime.usue.ru
+inoaccess.usue.ru
+portfolio.usue.ru
+sei.usue.ru
+bua.usue.ru
+dmag.usue.ru
+international.usue.ru
+z3950.usue.ru
+foodindustry.usue.ru
+vcs.usue.ru
+vmsrv.usue.ru
+portal-new.usue.ru
+vpn.usue.ru
+lib.usue.ru
+unisrv.usue.ru
+conference.usue.ru
+eisproxy.usue.ru
+econline.usue.ru
+bbb.usue.ru
+school.usue.ru
+science.usue.ru
+econline2.usue.ru
+liga.usue.ru
+bbb2.usue.ru
+slava.usue.ru
+et3.usue.ru
+vmuag.usue.ru
+www.cdo.usue.ru
+elearn.usue.ru
+test-msdn.usue.ru
+not2.usue.ru
+sigur.usue.ru
+oldsport.usue.ru
+log.usue.ru
+lifter.usue.ru
+cpba.usue.ru
+webex-web.usue.ru
+fsp.usue.ru
+dtps.usue.ru
+ns2.usue.ru
+bbb3.usue.ru
+upravlenets.usue.ru
+congress.usue.ru
+philosophy.usue.ru
+studcafe.usue.ru
+vshko.usue.ru
+sport.usue.ru
+omega.usue.ru
+mail.usue.ru
+portal.usue.ru
+studweb.usue.ru
+bisgame.usue.ru
+vmunix.usue.ru
+ino-online.usue.ru
+www.e-learning.usue.ru
+uroveo.usue.ru
+startfsp.usue.ru
+ido.usue.ru
+ess.usue.ru
+conf.usue.ru
+vipuskniki.usue.ru
+mvk.usue.ru
+pi.usue.ru
+dmi.usue.ru
+bu2.usue.ru
+www.fsp.usue.ru
+ar.usue.ru
+dfp.usue.ru
+www.globec.usue.ru
+kafedra-vneshtorg.usue.ru
+slava-virt.usue.ru
+rdgw.usue.ru
+cdo-rostov.usue.ru
+uniilo.usue.ru
+ns.usue.ru
+mag.usue.ru
+ibk.usue.ru
+www.cde.usue.ru
+mba.usue.ru
+table.usue.ru
+ukpt.usue.ru
+econopr.usue.ru
+globec.usue.ru
+dit.usue.ru
+publiclaw.usue.ru
+vbbb.usue.ru
+tbig.usue.ru

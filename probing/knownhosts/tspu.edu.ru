@@ -1,725 +1,217 @@
-NOERROR	nu.tspu.edu.ru
-NXDOMAIN	193-106-132-193.tspu.edu.ru
-NXDOMAIN	193-106-132-207.tspu.edu.ru
-NOERROR	e.lanbook.com.ebs.tspu.edu.ru
-NXDOMAIN	193-106-132-057.tspu.edu.ru
-NOERROR	fpk.tspu.edu.ru
-NXDOMAIN	nat.193-106-135-097.tspu.edu.ru
-NOERROR	inter.tspu.edu.ru
-NXDOMAIN	193-106-132-176.tspu.edu.ru
-NXDOMAIN	nat.193-106-135-240.tspu.edu.ru
-NXDOMAIN	193-106-132-123.tspu.edu.ru
-NXDOMAIN	nat.193-106-135-140.tspu.edu.ru
-NOERROR	praxema.tspu.edu.ru
-NXDOMAIN	nat.193-106-135-178.tspu.edu.ru
-NOERROR	www.fpk.tspu.edu.ru
-NXDOMAIN	193-106-132-104.tspu.edu.ru
-NXDOMAIN	nat.193-106-135-068.tspu.edu.ru
-NOERROR	rastra.tspu.edu.ru
-NXDOMAIN	nat.193-106-135-186.tspu.edu.ru
-NXDOMAIN	nat.193-106-135-019.tspu.edu.ru
-NXDOMAIN	nat.193-106-135-040.tspu.edu.ru
-NXDOMAIN	nat.193-106-135-206.tspu.edu.ru
-NXDOMAIN	193-106-132-181.tspu.edu.ru
-NOERROR	www.mfs.tspu.edu.ru
-NOERROR	www.enactus.tspu.edu.ru
-NXDOMAIN	nat.193-106-135-006.tspu.edu.ru
-NXDOMAIN	193-106-132-120.tspu.edu.ru
-NOERROR	dev.tspu.edu.ru
-NXDOMAIN	193-106-132-125.tspu.edu.ru
-NOERROR	sci-school.tspu.edu.ru
-NXDOMAIN	nat.193-106-135-185.tspu.edu.ru
-NXDOMAIN	nat.193-106-135-014.tspu.edu.ru
-NOERROR	www.pass.tspu.edu.ru
-NXDOMAIN	nat.193-106-135-038.tspu.edu.ru
-NXDOMAIN	nat.193-106-135-121.tspu.edu.ru
-NXDOMAIN	nat.193-106-135-082.tspu.edu.ru
-NXDOMAIN	193-106-132-091.tspu.edu.ru
-NOERROR	library1.tspu.edu.ru
-NXDOMAIN	nat.193-106-135-177.tspu.edu.ru
-NOERROR	ns.tspu.edu.ru
-NOERROR	fstudents.tspu.edu.ru
-NXDOMAIN	nat.193-106-135-128.tspu.edu.ru
-NOERROR	do.tspu.edu.ru
-NOERROR	achkasov.tspu.edu.ru
-NXDOMAIN	nat.193-106-135-066.tspu.edu.ru
-NXDOMAIN	nat.193-106-135-196.tspu.edu.ru
-NXDOMAIN	nat.193-106-135-204.tspu.edu.ru
-NXDOMAIN	nat.193-106-135-047.tspu.edu.ru
-NOERROR	pp.tspu.edu.ru
-NXDOMAIN	nat.193-106-135-057.tspu.edu.ru
-NXDOMAIN	nat.193-106-135-241.tspu.edu.ru
-NXDOMAIN	193-106-132-041.tspu.edu.ru
-NXDOMAIN	193-106-132-098.tspu.edu.ru
-NXDOMAIN	nat.193-106-135-054.tspu.edu.ru
-NXDOMAIN	193-106-132-101.tspu.edu.ru
-NXDOMAIN	nat.193-106-135-090.tspu.edu.ru
-NXDOMAIN	nat.193-106-135-012.tspu.edu.ru
-NXDOMAIN	nat.193-106-135-001.tspu.edu.ru
-NXDOMAIN	nat.193-106-135-155.tspu.edu.ru
-NOERROR	katpo.tspu.edu.ru
-NXDOMAIN	193-106-132-053.tspu.edu.ru
-NXDOMAIN	nat.193-106-135-101.tspu.edu.ru
-NXDOMAIN	nat.193-106-135-159.tspu.edu.ru
-NXDOMAIN	nat.193-106-135-030.tspu.edu.ru
-NOERROR	www.foreign.tspu.edu.ru
-NXDOMAIN	193-106-132-051.tspu.edu.ru
-NXDOMAIN	nat.193-106-135-022.tspu.edu.ru
-NXDOMAIN	193-106-132-162.tspu.edu.ru
-NXDOMAIN	193-106-132-158.tspu.edu.ru
-NXDOMAIN	nat.193-106-135-195.tspu.edu.ru
-NXDOMAIN	nat.193-106-135-122.tspu.edu.ru
-NXDOMAIN	nat.193-106-135-045.tspu.edu.ru
-NXDOMAIN	nat.193-106-135-157.tspu.edu.ru
-NOERROR	www.openlab.tspu.edu.ru
-NXDOMAIN	193-106-132-112.tspu.edu.ru
-NXDOMAIN	nat.193-106-135-151.tspu.edu.ru
-NXDOMAIN	nat.193-106-135-223.tspu.edu.ru
-NOERROR	www.ling-anthro.tspu.edu.ru
-NXDOMAIN	nat.193-106-135-080.tspu.edu.ru
-NOERROR	netlab.tspu.edu.ru
-NOERROR	jobcenter.tspu.edu.ru
-NXDOMAIN	193-106-132-088.tspu.edu.ru
-NOERROR	www.ui.tspu.edu.ru
-NXDOMAIN	193-106-132-065.tspu.edu.ru
-NOERROR	tomskgeo.tspu.edu.ru
-NOERROR	portal.tspu.edu.ru
-NXDOMAIN	193-106-132-049.tspu.edu.ru
-NXDOMAIN	193-106-132-137.tspu.edu.ru
-NXDOMAIN	193-106-132-197.tspu.edu.ru
-NXDOMAIN	193-106-132-196.tspu.edu.ru
-NXDOMAIN	vpn-client-078.tspu.edu.ru
-NXDOMAIN	nat.193-106-135-182.tspu.edu.ru
-NOERROR	www.katpo.tspu.edu.ru
-NXDOMAIN	193-106-132-138.tspu.edu.ru
-NXDOMAIN	nat.193-106-135-214.tspu.edu.ru
-NXDOMAIN	zlf.tspu.edu.ru
-NXDOMAIN	nat.193-106-135-181.tspu.edu.ru
-NXDOMAIN	nat.193-106-135-138.tspu.edu.ru
-NXDOMAIN	es.tspu.edu.ru
-NOERROR	nextcloud.tspu.edu.ru
-NXDOMAIN	193-106-132-246.tspu.edu.ru
-NXDOMAIN	193-106-132-082.tspu.edu.ru
-NOERROR	mooc.tspu.edu.ru
-NOERROR	moment.tspu.edu.ru
-NXDOMAIN	193-106-132-089.tspu.edu.ru
-NXDOMAIN	nat.193-106-135-144.tspu.edu.ru
-NOERROR	bbb4.tspu.edu.ru
-NXDOMAIN	193-106-132-237.tspu.edu.ru
-NXDOMAIN	nat.193-106-135-147.tspu.edu.ru
-NXDOMAIN	193-106-132-026.tspu.edu.ru
-NXDOMAIN	nat.193-106-135-229.tspu.edu.ru
-NXDOMAIN	193-106-132-215.tspu.edu.ru
-NXDOMAIN	nat.193-106-135-026.tspu.edu.ru
-NXDOMAIN	nat.193-106-135-010.tspu.edu.ru
-NXDOMAIN	193-106-132-108.tspu.edu.ru
-NOERROR	labs.tspu.edu.ru
-NXDOMAIN	193-106-132-097.tspu.edu.ru
-NOERROR	kosmos.tspu.edu.ru
-NXDOMAIN	193-106-132-118.tspu.edu.ru
-NOERROR	ssc.tspu.edu.ru
-NXDOMAIN	193-106-132-131.tspu.edu.ru
-NXDOMAIN	193-106-132-014.tspu.edu.ru
-NOERROR	fulltext.tspu.edu.ru
-NOERROR	www.praxema.tspu.edu.ru
-NOERROR	www.robot.tspu.edu.ru
-NXDOMAIN	nat.193-106-135-024.tspu.edu.ru
-NXDOMAIN	193-106-132-040.tspu.edu.ru
-NOERROR	keycloak.tspu.edu.ru
-NOERROR	valeo.tspu.edu.ru
-NOERROR	subtitle.tspu.edu.ru
-NOERROR	ui.tspu.edu.ru
-NXDOMAIN	nat.193-106-135-023.tspu.edu.ru
-NXDOMAIN	193-106-132-121.tspu.edu.ru
-NXDOMAIN	nat.193-106-135-164.tspu.edu.ru
-NXDOMAIN	nat.193-106-135-228.tspu.edu.ru
-NXDOMAIN	nat.193-106-135-197.tspu.edu.ru
-NOERROR	hosting-ng.tspu.edu.ru
-NXDOMAIN	nat.193-106-135-059.tspu.edu.ru
-NOERROR	library8.tspu.edu.ru
-NOERROR	owncloud.tspu.edu.ru
-NXDOMAIN	193-106-132-102.tspu.edu.ru
-NXDOMAIN	193-106-132-172.tspu.edu.ru
-NXDOMAIN	193-106-132-128.tspu.edu.ru
-NXDOMAIN	nat.193-106-135-109.tspu.edu.ru
-NXDOMAIN	193-106-132-226.tspu.edu.ru
-NXDOMAIN	193-106-132-087.tspu.edu.ru
-NXDOMAIN	nat.193-106-135-061.tspu.edu.ru
-NXDOMAIN	nat.193-106-135-205.tspu.edu.ru
-NXDOMAIN	193-106-132-239.tspu.edu.ru
-NOERROR	bbb.tspu.edu.ru
-NXDOMAIN	www.open-school.tspu.edu.ru
-NXDOMAIN	nat.193-106-135-211.tspu.edu.ru
-NXDOMAIN	nat.193-106-135-254.tspu.edu.ru
-NXDOMAIN	nat.193-106-135-203.tspu.edu.ru
-NXDOMAIN	nat.193-106-135-213.tspu.edu.ru
-NXDOMAIN	193-106-132-093.tspu.edu.ru
-NXDOMAIN	193-106-132-255.tspu.edu.ru
-NXDOMAIN	nat.193-106-135-037.tspu.edu.ru
-NOERROR	lk.tspu.edu.ru
-NOERROR	qftg2014.tspu.edu.ru
-NXDOMAIN	nat.193-106-135-052.tspu.edu.ru
-NOERROR	wifi.tspu.edu.ru
-NXDOMAIN	nat.193-106-135-179.tspu.edu.ru
-NXDOMAIN	193-106-132-186.tspu.edu.ru
-NXDOMAIN	193-106-132-147.tspu.edu.ru
-NXDOMAIN	nat.193-106-135-108.tspu.edu.ru
-NOERROR	hosting.tspu.edu.ru
-NXDOMAIN	nat.193-106-135-250.tspu.edu.ru
-NOERROR	qftg2018.tspu.edu.ru
-NOERROR	bbb8.tspu.edu.ru
-NXDOMAIN	nat.193-106-135-154.tspu.edu.ru
-NXDOMAIN	nat.193-106-135-105.tspu.edu.ru
-NXDOMAIN	nat.193-106-135-053.tspu.edu.ru
-NOERROR	proxy-reg.tspu.edu.ru
-NXDOMAIN	nat.193-106-135-139.tspu.edu.ru
-NXDOMAIN	nat.193-106-135-168.tspu.edu.ru
-NXDOMAIN	vpn-client-072.tspu.edu.ru
-NXDOMAIN	nat.193-106-135-021.tspu.edu.ru
-NXDOMAIN	nat.193-106-135-215.tspu.edu.ru
-NXDOMAIN	193-106-132-067.tspu.edu.ru
-NXDOMAIN	193-106-132-048.tspu.edu.ru
-NOERROR	zeus.tspu.edu.ru
-NXDOMAIN	nat.193-106-135-031.tspu.edu.ru
-NXDOMAIN	193-106-132-169.tspu.edu.ru
-NXDOMAIN	nat.193-106-135-011.tspu.edu.ru
-NXDOMAIN	193-106-132-174.tspu.edu.ru
-NOERROR	zgate.tspu.edu.ru
-NOERROR	bbb7.tspu.edu.ru
-NOERROR	www.kosmos.tspu.edu.ru
-NOERROR	it.tspu.edu.ru
-NXDOMAIN	nat.193-106-135-245.tspu.edu.ru
-NXDOMAIN	193-106-132-050.tspu.edu.ru
-NXDOMAIN	nat.193-106-135-099.tspu.edu.ru
-NXDOMAIN	193-106-132-155.tspu.edu.ru
-NXDOMAIN	193-106-132-009.tspu.edu.ru
-NXDOMAIN	nat.193-106-135-049.tspu.edu.ru
-NXDOMAIN	nat.193-106-135-034.tspu.edu.ru
-NXDOMAIN	193-106-132-225.tspu.edu.ru
-NXDOMAIN	nat.193-106-135-015.tspu.edu.ru
-NXDOMAIN	193-106-132-061.tspu.edu.ru
-NXDOMAIN	193-106-132-017.tspu.edu.ru
-NXDOMAIN	nat.193-106-135-145.tspu.edu.ru
-NOERROR	ltorf.tspu.edu.ru
-NXDOMAIN	193-106-132-129.tspu.edu.ru
-NOERROR	ibooks.ru.ebs.tspu.edu.ru
-NXDOMAIN	193-106-132-228.tspu.edu.ru
-NXDOMAIN	193-106-132-150.tspu.edu.ru
-NXDOMAIN	193-106-132-136.tspu.edu.ru
-NXDOMAIN	193-106-132-032.tspu.edu.ru
-NXDOMAIN	193-106-132-167.tspu.edu.ru
-NXDOMAIN	nat.193-106-135-106.tspu.edu.ru
-NXDOMAIN	vpn-client-073.tspu.edu.ru
-NOERROR	new.tspu.edu.ru
-NXDOMAIN	193-106-132-058.tspu.edu.ru
-NXDOMAIN	193-106-132-105.tspu.edu.ru
-NXDOMAIN	nat.193-106-135-134.tspu.edu.ru
-NOERROR	mb1.tspu.edu.ru
-NOERROR	eios.tspu.edu.ru
-NXDOMAIN	193-106-132-066.tspu.edu.ru
-NXDOMAIN	193-106-132-191.tspu.edu.ru
-NXDOMAIN	nat.193-106-135-077.tspu.edu.ru
-NXDOMAIN	193-106-132-109.tspu.edu.ru
-NXDOMAIN	193-106-132-168.tspu.edu.ru
-NXDOMAIN	nat.193-106-135-125.tspu.edu.ru
-NXDOMAIN	hostel.tspu.edu.ru
-NXDOMAIN	193-106-132-142.tspu.edu.ru
-NOERROR	edecanat.tspu.edu.ru
-NXDOMAIN	193-106-132-156.tspu.edu.ru
-NXDOMAIN	nat.193-106-135-175.tspu.edu.ru
-NOERROR	www.webinar.tspu.edu.ru
-NXDOMAIN	nat.193-106-135-126.tspu.edu.ru
-NXDOMAIN	nat.193-106-135-127.tspu.edu.ru
-NOERROR	fmcenter.tspu.edu.ru
-NXDOMAIN	193-106-132-083.tspu.edu.ru
-NXDOMAIN	193-106-132-085.tspu.edu.ru
-NXDOMAIN	nat.193-106-135-058.tspu.edu.ru
-NOERROR	tspu.edu.ru
-NXDOMAIN	nat.193-106-135-000.tspu.edu.ru
-NXDOMAIN	193-106-132-024.tspu.edu.ru
-NXDOMAIN	193-106-132-170.tspu.edu.ru
-NOERROR	libservold.tspu.edu.ru
-NXDOMAIN	nat.193-106-135-207.tspu.edu.ru
-NXDOMAIN	193-106-132-233.tspu.edu.ru
-NOERROR	test.tspu.edu.ru
-NXDOMAIN	nat.193-106-135-187.tspu.edu.ru
-NXDOMAIN	193-106-132-086.tspu.edu.ru
-NXDOMAIN	nat.193-106-135-088.tspu.edu.ru
-NXDOMAIN	193-106-132-165.tspu.edu.ru
-NXDOMAIN	193-106-132-092.tspu.edu.ru
-NXDOMAIN	193-106-132-229.tspu.edu.ru
-NXDOMAIN	wifi-free.tspu.edu.ru
-NXDOMAIN	nat.193-106-135-162.tspu.edu.ru
-NXDOMAIN	nat.193-106-135-183.tspu.edu.ru
-NXDOMAIN	nat.193-106-135-039.tspu.edu.ru
-NXDOMAIN	193-106-132-238.tspu.edu.ru
-NXDOMAIN	193-106-132-188.tspu.edu.ru
-NXDOMAIN	nat.193-106-135-133.tspu.edu.ru
-NXDOMAIN	nat.193-106-135-078.tspu.edu.ru
-NXDOMAIN	nat.193-106-135-035.tspu.edu.ru
-NXDOMAIN	193-106-132-160.tspu.edu.ru
-NXDOMAIN	nat.193-106-135-188.tspu.edu.ru
-NOERROR	proxema.tspu.edu.ru
-NOERROR	ipi.tspu.edu.ru
-NXDOMAIN	193-106-132-208.tspu.edu.ru
-NOERROR	iprbookshop.ru.ebs.tspu.edu.ru
-NOERROR	www.do.tspu.edu.ru
-NXDOMAIN	193-106-132-013.tspu.edu.ru
-NXDOMAIN	193-106-132-043.tspu.edu.ru
-NOERROR	www.test.tspu.edu.ru
-NXDOMAIN	193-106-132-044.tspu.edu.ru
-NOERROR	85kadrov.tspu.edu.ru
-NXDOMAIN	193-106-132-124.tspu.edu.ru
-NOERROR	tutor.tspu.edu.ru
-NXDOMAIN	nat.193-106-135-190.tspu.edu.ru
-NOERROR	ling.tspu.edu.ru
-NOERROR	npo.tspu.edu.ru
-NXDOMAIN	nat.193-106-135-220.tspu.edu.ru
-NOERROR	www.visual.tspu.edu.ru
-NOERROR	bereza.tspu.edu.ru
-NXDOMAIN	nat.193-106-135-248.tspu.edu.ru
-NXDOMAIN	nat.193-106-135-116.tspu.edu.ru
-NXDOMAIN	nat.193-106-135-110.tspu.edu.ru
-NXDOMAIN	193-106-132-111.tspu.edu.ru
-NXDOMAIN	193-106-132-143.tspu.edu.ru
-NXDOMAIN	nat.193-106-135-137.tspu.edu.ru
-NOERROR	qftg07.tspu.edu.ru
-NOERROR	www.portreg.tspu.edu.ru
-NXDOMAIN	193-106-132-218.tspu.edu.ru
-NXDOMAIN	nat.193-106-135-064.tspu.edu.ru
-NXDOMAIN	nat.193-106-135-153.tspu.edu.ru
-NXDOMAIN	new2.tspu.edu.ru
-NXDOMAIN	193-106-132-221.tspu.edu.ru
-NOERROR	bbb9.tspu.edu.ru
-NXDOMAIN	193-106-132-069.tspu.edu.ru
-NXDOMAIN	193-106-132-034.tspu.edu.ru
-NOERROR	iai.tspu.edu.ru
-NOERROR	koi.tspu.edu.ru
-NOERROR	mfs.tspu.edu.ru
-NXDOMAIN	193-106-132-212.tspu.edu.ru
-NXDOMAIN	nat.193-106-135-084.tspu.edu.ru
-NXDOMAIN	193-106-132-163.tspu.edu.ru
-NOERROR	bbb5.tspu.edu.ru
-NXDOMAIN	nat.193-106-135-114.tspu.edu.ru
-NXDOMAIN	193-106-132-248.tspu.edu.ru
-NOERROR	crm.tspu.edu.ru
-NXDOMAIN	193-106-132-236.tspu.edu.ru
-NOERROR	mb4.tspu.edu.ru
-NXDOMAIN	193-106-132-096.tspu.edu.ru
-NXDOMAIN	nat.193-106-135-094.tspu.edu.ru
-NXDOMAIN	nat.193-106-135-079.tspu.edu.ru
-NOERROR	guacamole.tspu.edu.ru
-NXDOMAIN	nat.193-106-135-251.tspu.edu.ru
-NOERROR	www.nadtochiy.tspu.edu.ru
-NXDOMAIN	vpn-client-077.tspu.edu.ru
-NOERROR	enactus.tspu.edu.ru
-NOERROR	router.tspu.edu.ru
-NOERROR	portreg.tspu.edu.ru
-NXDOMAIN	193-106-132-145.tspu.edu.ru
-NXDOMAIN	193-106-132-220.tspu.edu.ru
-NOERROR	mb5.tspu.edu.ru
-NOERROR	alcyoneus.tspu.edu.ru
-NXDOMAIN	nat.193-106-135-180.tspu.edu.ru
-NXDOMAIN	nat.193-106-135-083.tspu.edu.ru
-NXDOMAIN	g.tspu.edu.ru
-NOERROR	sony-cam-k7.tspu.edu.ru
-NXDOMAIN	nat.193-106-135-036.tspu.edu.ru
-NXDOMAIN	193-106-132-133.tspu.edu.ru
-NOERROR	onlyoffice.tspu.edu.ru
-NXDOMAIN	nat.193-106-135-093.tspu.edu.ru
-NXDOMAIN	193-106-132-148.tspu.edu.ru
-NXDOMAIN	193-106-132-039.tspu.edu.ru
-NXDOMAIN	193-106-132-008.tspu.edu.ru
-NXDOMAIN	193-106-132-064.tspu.edu.ru
-NXDOMAIN	193-106-132-063.tspu.edu.ru
-NXDOMAIN	nat.193-106-135-016.tspu.edu.ru
-NXDOMAIN	nat.193-106-135-163.tspu.edu.ru
-NXDOMAIN	193-106-132-244.tspu.edu.ru
-NOERROR	studprofcom.tspu.edu.ru
-NXDOMAIN	nat.193-106-135-218.tspu.edu.ru
-NXDOMAIN	193-106-132-245.tspu.edu.ru
-NOERROR	www.abiturient.tspu.edu.ru
-NXDOMAIN	nat.193-106-135-118.tspu.edu.ru
-NXDOMAIN	193-106-132-202.tspu.edu.ru
-NXDOMAIN	nat.193-106-135-130.tspu.edu.ru
-NXDOMAIN	nat.193-106-135-124.tspu.edu.ru
-NOERROR	openlab.tspu.edu.ru
-NOERROR	open-school.tspu.edu.ru
-NXDOMAIN	nat.193-106-135-120.tspu.edu.ru
-NXDOMAIN	nat.193-106-135-156.tspu.edu.ru
-NXDOMAIN	nat.193-106-135-043.tspu.edu.ru
-NXDOMAIN	nat.193-106-135-150.tspu.edu.ru
-NOERROR	mb.tspu.edu.ru
-NXDOMAIN	nat.193-106-135-129.tspu.edu.ru
-NXDOMAIN	193-106-132-146.tspu.edu.ru
-NXDOMAIN	nat.193-106-135-169.tspu.edu.ru
-NXDOMAIN	193-106-132-152.tspu.edu.ru
-NOERROR	www.subtitle.tspu.edu.ru
-NXDOMAIN	193-106-132-046.tspu.edu.ru
-NXDOMAIN	193-106-132-216.tspu.edu.ru
-NXDOMAIN	nat.193-106-135-060.tspu.edu.ru
-NXDOMAIN	nat.193-106-135-071.tspu.edu.ru
-NXDOMAIN	193-106-132-045.tspu.edu.ru
-NOERROR	ad.tspu.edu.ru
-NOERROR	libserv.tspu.edu.ru
-NOERROR	peace.tspu.edu.ru
-NOERROR	local.tspu.edu.ru
-NXDOMAIN	193-106-132-090.tspu.edu.ru
-NXDOMAIN	rou7201.tspu.edu.ru
-NXDOMAIN	nat.193-106-135-234.tspu.edu.ru
-NXDOMAIN	nat.193-106-135-087.tspu.edu.ru
-NXDOMAIN	nat.193-106-135-166.tspu.edu.ru
-NXDOMAIN	www.jobcenter.tspu.edu.ru
-NXDOMAIN	193-106-132-159.tspu.edu.ru
-NOERROR	peertube.tspu.edu.ru
-NXDOMAIN	193-106-132-007.tspu.edu.ru
-NXDOMAIN	nat.193-106-135-046.tspu.edu.ru
-NXDOMAIN	193-106-132-198.tspu.edu.ru
-NXDOMAIN	nat.193-106-135-063.tspu.edu.ru
-NXDOMAIN	193-106-132-153.tspu.edu.ru
-NOERROR	ling-anthro.tspu.edu.ru
-NXDOMAIN	193-106-132-042.tspu.edu.ru
-NXDOMAIN	bbb-jscc.tspu.edu.ru
-NOERROR	axiology.tspu.edu.ru
-NXDOMAIN	nat.193-106-135-025.tspu.edu.ru
-NXDOMAIN	193-106-132-210.tspu.edu.ru
-NXDOMAIN	nat.193-106-135-033.tspu.edu.ru
-NXDOMAIN	nat.193-106-135-167.tspu.edu.ru
-NOERROR	openstart.tspu.edu.ru
-NXDOMAIN	basket.tspu.edu.ru
-NXDOMAIN	nat.193-106-135-135.tspu.edu.ru
-NOERROR	www.ltorf.tspu.edu.ru
-NXDOMAIN	193-106-132-114.tspu.edu.ru
-NOERROR	bbb6.tspu.edu.ru
-NXDOMAIN	193-106-132-219.tspu.edu.ru
-NOERROR	www.libserv.tspu.edu.ru
-NOERROR	karusel.tspu.edu.ru
-NOERROR	cerk.tspu.edu.ru
-NXDOMAIN	nat.193-106-135-086.tspu.edu.ru
-NXDOMAIN	193-106-132-173.tspu.edu.ru
-NOERROR	master.tspu.edu.ru
-NOERROR	abiturient.tspu.edu.ru
-NXDOMAIN	nat.193-106-135-201.tspu.edu.ru
-NXDOMAIN	193-106-132-194.tspu.edu.ru
-NXDOMAIN	nat.193-106-135-100.tspu.edu.ru
-NXDOMAIN	193-106-132-213.tspu.edu.ru
-NOERROR	qftg2016.tspu.edu.ru
-NOERROR	eng.tspu.edu.ru
-NXDOMAIN	193-106-132-099.tspu.edu.ru
-NXDOMAIN	193-106-132-103.tspu.edu.ru
-NXDOMAIN	aplserv.tspu.edu.ru
-NXDOMAIN	nat.193-106-135-230.tspu.edu.ru
-NXDOMAIN	vpn-client-076.tspu.edu.ru
-NOERROR	siblang.tspu.edu.ru
-NXDOMAIN	193-106-132-127.tspu.edu.ru
-NOERROR	www.karusel.tspu.edu.ru
-NOERROR	www.inter.tspu.edu.ru
-NOERROR	robo.tspu.edu.ru
-NXDOMAIN	193-106-132-055.tspu.edu.ru
-NXDOMAIN	nat.193-106-135-107.tspu.edu.ru
-NXDOMAIN	nat.193-106-135-235.tspu.edu.ru
-NOERROR	sibinedu.tspu.edu.ru
-NOERROR	sibgrav2015.tspu.edu.ru
-NXDOMAIN	nat.193-106-135-055.tspu.edu.ru
-NXDOMAIN	193-106-132-132.tspu.edu.ru
-NXDOMAIN	193-106-132-052.tspu.edu.ru
-NXDOMAIN	nat.193-106-135-236.tspu.edu.ru
-NXDOMAIN	nat.193-106-135-136.tspu.edu.ru
-NXDOMAIN	nat.193-106-135-102.tspu.edu.ru
-NXDOMAIN	193-106-132-200.tspu.edu.ru
-NXDOMAIN	193-106-132-022.tspu.edu.ru
-NXDOMAIN	193-106-132-141.tspu.edu.ru
-NOERROR	webinar.tspu.edu.ru
-NOERROR	www.labs.tspu.edu.ru
-NXDOMAIN	nat.193-106-135-172.tspu.edu.ru
-NOERROR	www.portfolio.tspu.edu.ru
-NXDOMAIN	193-106-132-060.tspu.edu.ru
-NXDOMAIN	nat.193-106-135-210.tspu.edu.ru
-NXDOMAIN	nat.193-106-135-013.tspu.edu.ru
-NXDOMAIN	nat.193-106-135-069.tspu.edu.ru
-NXDOMAIN	nat.193-106-135-193.tspu.edu.ru
-NOERROR	ejudge.tspu.edu.ru
-NXDOMAIN	193-106-132-199.tspu.edu.ru
-NXDOMAIN	nat.193-106-135-191.tspu.edu.ru
-NXDOMAIN	nat.193-106-135-222.tspu.edu.ru
-NOERROR	mb3.tspu.edu.ru
-NOERROR	docs.tspu.edu.ru
-NXDOMAIN	193-106-132-184.tspu.edu.ru
-NXDOMAIN	vpn-client-074.tspu.edu.ru
-NOERROR	www.openstart.tspu.edu.ru
-NXDOMAIN	nat.193-106-135-148.tspu.edu.ru
-NXDOMAIN	nat.193-106-135-117.tspu.edu.ru
-NOERROR	nadtochiy.tspu.edu.ru
-NXDOMAIN	193-106-132-214.tspu.edu.ru
-NXDOMAIN	nat.193-106-135-070.tspu.edu.ru
-NOERROR	www.sibgrav2015.tspu.edu.ru
-NOERROR	ctp.tspu.edu.ru
-NOERROR	www.zeus.tspu.edu.ru
-NXDOMAIN	nat.193-106-135-076.tspu.edu.ru
-NOERROR	www.forumevrazoc.tspu.edu.ru
-NXDOMAIN	193-106-132-094.tspu.edu.ru
-NOERROR	student-danila.tspu.edu.ru
-NOERROR	www.crm.tspu.edu.ru
-NXDOMAIN	nat.193-106-135-194.tspu.edu.ru
-NOERROR	www.axiology.tspu.edu.ru
-NOERROR	pass.tspu.edu.ru
-NOERROR	bbb2.tspu.edu.ru
-NOERROR	gitlab.tspu.edu.ru
-NXDOMAIN	193-106-132-179.tspu.edu.ru
-NXDOMAIN	193-106-132-084.tspu.edu.ru
-NOERROR	noc.tspu.edu.ru
-NXDOMAIN	193-106-132-232.tspu.edu.ru
-NXDOMAIN	nat.193-106-135-244.tspu.edu.ru
-NOERROR	speedtest.tspu.edu.ru
-NXDOMAIN	193-106-132-110.tspu.edu.ru
-NOERROR	qftg2012.tspu.edu.ru
-NOERROR	moodle.tspu.edu.ru
-NXDOMAIN	193-106-132-223.tspu.edu.ru
-NXDOMAIN	nat.193-106-135-255.tspu.edu.ru
-NXDOMAIN	193-106-132-227.tspu.edu.ru
-NXDOMAIN	vpn-client-079.tspu.edu.ru
-NXDOMAIN	nat.193-106-135-200.tspu.edu.ru
-NOERROR	www.koi.tspu.edu.ru
-NXDOMAIN	193-106-132-130.tspu.edu.ru
-NXDOMAIN	193-106-132-230.tspu.edu.ru
-NOERROR	www.cosmos.tspu.edu.ru
-NXDOMAIN	193-106-132-107.tspu.edu.ru
-NXDOMAIN	193-106-132-243.tspu.edu.ru
-NXDOMAIN	tomsksoft.tspu.edu.ru
-NXDOMAIN	nat.193-106-135-051.tspu.edu.ru
-NOERROR	bbb1.tspu.edu.ru
-NOERROR	www.mail.tspu.edu.ru
-NXDOMAIN	nat.193-106-135-219.tspu.edu.ru
-NOERROR	vc.tspu.edu.ru
-NXDOMAIN	nat.193-106-135-074.tspu.edu.ru
-NXDOMAIN	nat.193-106-135-198.tspu.edu.ru
-NXDOMAIN	nat.193-106-135-009.tspu.edu.ru
-NXDOMAIN	nat.193-106-135-123.tspu.edu.ru
-NXDOMAIN	nat.193-106-135-192.tspu.edu.ru
-NOERROR	www.ling.tspu.edu.ru
-NXDOMAIN	193-106-132-018.tspu.edu.ru
-NOERROR	www.npo.tspu.edu.ru
-NOERROR	foreign.tspu.edu.ru
-NOERROR	www.ipi.tspu.edu.ru
-NXDOMAIN	nat.193-106-135-050.tspu.edu.ru
-NXDOMAIN	193-106-132-204.tspu.edu.ru
-NOERROR	backup13.tspu.edu.ru
-NOERROR	sveden.tspu.edu.ru
-NXDOMAIN	193-106-132-056.tspu.edu.ru
-NXDOMAIN	nat.193-106-135-176.tspu.edu.ru
-NOERROR	www.ad.tspu.edu.ru
-NXDOMAIN	nat.193-106-135-202.tspu.edu.ru
-NXDOMAIN	193-106-132-211.tspu.edu.ru
-NXDOMAIN	nat.193-106-135-249.tspu.edu.ru
-NOERROR	pol.new.tspu.edu.ru
-NOERROR	rastra-redirect.tspu.edu.ru
-NXDOMAIN	193-106-132-117.tspu.edu.ru
-NOERROR	www.pp.tspu.edu.ru
-NXDOMAIN	nat.193-106-135-171.tspu.edu.ru
-NXDOMAIN	193-106-132-149.tspu.edu.ru
-NXDOMAIN	nat.193-106-135-212.tspu.edu.ru
-NXDOMAIN	193-106-132-154.tspu.edu.ru
-NXDOMAIN	nat.193-106-135-142.tspu.edu.ru
-NXDOMAIN	nat.193-106-135-161.tspu.edu.ru
-NOERROR	qftg2010.tspu.edu.ru
-NXDOMAIN	193-106-132-217.tspu.edu.ru
-NXDOMAIN	193-106-132-178.tspu.edu.ru
-NXDOMAIN	nat.193-106-135-042.tspu.edu.ru
-NXDOMAIN	nat.193-106-135-112.tspu.edu.ru
-NXDOMAIN	193-106-132-031.tspu.edu.ru
-NXDOMAIN	nat.193-106-135-067.tspu.edu.ru
-NXDOMAIN	nat.193-106-135-237.tspu.edu.ru
-NOERROR	www.planeta.tspu.edu.ru
-NXDOMAIN	nat.193-106-135-227.tspu.edu.ru
-NXDOMAIN	193-106-132-171.tspu.edu.ru
-NXDOMAIN	193-106-132-234.tspu.edu.ru
-NXDOMAIN	193-106-132-106.tspu.edu.ru
-NOERROR	sw3750.tspu.edu.ru
-NXDOMAIN	www.openschool.tspu.edu.ru
-NOERROR	www.it.tspu.edu.ru
-NXDOMAIN	nat.193-106-135-253.tspu.edu.ru
-NXDOMAIN	193-106-132-030.tspu.edu.ru
-NXDOMAIN	193-106-132-134.tspu.edu.ru
-NXDOMAIN	193-106-132-119.tspu.edu.ru
-NXDOMAIN	nat.193-106-135-152.tspu.edu.ru
-NXDOMAIN	193-106-132-189.tspu.edu.ru
-NXDOMAIN	nat.193-106-135-115.tspu.edu.ru
-NOERROR	work.tspu.edu.ru
-NXDOMAIN	nat.193-106-135-246.tspu.edu.ru
-NXDOMAIN	nat.193-106-135-199.tspu.edu.ru
-NXDOMAIN	193-106-132-231.tspu.edu.ru
-NXDOMAIN	193-106-132-054.tspu.edu.ru
-NOERROR	minio-ds.tspu.edu.ru
-NOERROR	student.tspu.edu.ru
-NOERROR	www.proxema.tspu.edu.ru
-NXDOMAIN	nat.193-106-135-056.tspu.edu.ru
-NXDOMAIN	193-106-132-033.tspu.edu.ru
-NOERROR	jitsi.tspu.edu.ru
-NOERROR	robot.tspu.edu.ru
-NXDOMAIN	nat.193-106-135-007.tspu.edu.ru
-NXDOMAIN	nat.193-106-135-020.tspu.edu.ru
-NXDOMAIN	193-106-132-222.tspu.edu.ru
-NXDOMAIN	193-106-132-177.tspu.edu.ru
-NXDOMAIN	193-106-132-203.tspu.edu.ru
-NXDOMAIN	193-106-132-081.tspu.edu.ru
-NXDOMAIN	nat.193-106-135-141.tspu.edu.ru
-NXDOMAIN	193-106-132-122.tspu.edu.ru
-NXDOMAIN	nat.193-106-135-238.tspu.edu.ru
-NXDOMAIN	193-106-132-235.tspu.edu.ru
-NXDOMAIN	nat.193-106-135-131.tspu.edu.ru
-NXDOMAIN	nat.193-106-135-252.tspu.edu.ru
-NXDOMAIN	nat.193-106-135-104.tspu.edu.ru
-NXDOMAIN	nat.193-106-135-008.tspu.edu.ru
-NOERROR	e-learn.tspu.edu.ru
-NOERROR	www.ctp.tspu.edu.ru
-NXDOMAIN	nat.193-106-135-065.tspu.edu.ru
-NOERROR	qftg2020.tspu.edu.ru
-NXDOMAIN	nat.193-106-135-092.tspu.edu.ru
-NXDOMAIN	193-106-132-209.tspu.edu.ru
-NXDOMAIN	193-106-132-190.tspu.edu.ru
-NXDOMAIN	193-106-132-003.tspu.edu.ru
-NXDOMAIN	193-106-132-185.tspu.edu.ru
-NXDOMAIN	mb2.tspu.edu.ru
-NXDOMAIN	nat.193-106-135-027.tspu.edu.ru
-NXDOMAIN	193-106-132-161.tspu.edu.ru
-NXDOMAIN	193-106-132-068.tspu.edu.ru
-NXDOMAIN	193-106-132-095.tspu.edu.ru
-NXDOMAIN	nat.193-106-135-005.tspu.edu.ru
-NXDOMAIN	vpn-client-075.tspu.edu.ru
-NXDOMAIN	nat.193-106-135-091.tspu.edu.ru
-NXDOMAIN	old.tspu.edu.ru
-NOERROR	www.pol.new.tspu.edu.ru
-NXDOMAIN	a1102.tspu.edu.ru
-NOERROR	www.kit-project.tspu.edu.ru
-NXDOMAIN	bbb-jscc3.tspu.edu.ru
-NXDOMAIN	nat.193-106-135-189.tspu.edu.ru
-NOERROR	service-net.tspu.edu.ru
-NXDOMAIN	nat.193-106-135-095.tspu.edu.ru
-NXDOMAIN	193-106-132-144.tspu.edu.ru
-NOERROR	demet.tspu.edu.ru
-NXDOMAIN	193-106-132-164.tspu.edu.ru
-NXDOMAIN	nat.193-106-135-165.tspu.edu.ru
-NXDOMAIN	193-106-132-166.tspu.edu.ru
-NXDOMAIN	nat.193-106-135-073.tspu.edu.ru
-NXDOMAIN	nat.193-106-135-098.tspu.edu.ru
-NXDOMAIN	nat.193-106-135-173.tspu.edu.ru
-NXDOMAIN	nat.193-106-135-184.tspu.edu.ru
-NOERROR	sony-cam-k2.tspu.edu.ru
-NXDOMAIN	www.master.tspu.edu.ru
-NXDOMAIN	nat.193-106-135-149.tspu.edu.ru
-NXDOMAIN	193-106-132-047.tspu.edu.ru
-NOERROR	planeta.tspu.edu.ru
-NXDOMAIN	nat.193-106-135-032.tspu.edu.ru
-NXDOMAIN	vpn-client-070.tspu.edu.ru
-NXDOMAIN	nat.193-106-135-170.tspu.edu.ru
-NOERROR	eduinsib.tspu.edu.ru
-NOERROR	libserv2.tspu.edu.ru
-NXDOMAIN	nat.193-106-135-048.tspu.edu.ru
-NXDOMAIN	193-106-132-240.tspu.edu.ru
-NOERROR	kit-project.tspu.edu.ru
-NXDOMAIN	193-106-132-019.tspu.edu.ru
-NXDOMAIN	193-106-132-180.tspu.edu.ru
-NXDOMAIN	nat.193-106-135-158.tspu.edu.ru
-NOERROR	www.cerk.tspu.edu.ru
-NXDOMAIN	193-106-132-139.tspu.edu.ru
-NXDOMAIN	nat.193-106-135-044.tspu.edu.ru
-NXDOMAIN	nat.193-106-135-242.tspu.edu.ru
-NXDOMAIN	nat.193-106-135-209.tspu.edu.ru
-NXDOMAIN	193-106-132-113.tspu.edu.ru
-NXDOMAIN	nat.193-106-135-075.tspu.edu.ru
-NXDOMAIN	nat.193-106-135-113.tspu.edu.ru
-NXDOMAIN	vpn-client-071.tspu.edu.ru
-NXDOMAIN	ess.tspu.edu.ru
-NOERROR	cosmos.tspu.edu.ru
-NOERROR	bbb3.tspu.edu.ru
-NOERROR	repository.tspu.edu.ru
-NXDOMAIN	nat.193-106-135-132.tspu.edu.ru
-NXDOMAIN	193-106-132-115.tspu.edu.ru
-NXDOMAIN	193-106-132-195.tspu.edu.ru
-NOERROR	netlab2.tspu.edu.ru
-NXDOMAIN	nat.193-106-135-004.tspu.edu.ru
-NXDOMAIN	nat.193-106-135-028.tspu.edu.ru
-NXDOMAIN	nat.193-106-135-233.tspu.edu.ru
-NOERROR	www.eduinsib.tspu.edu.ru
-NXDOMAIN	nat.193-106-135-096.tspu.edu.ru
-NXDOMAIN	193-106-132-175.tspu.edu.ru
-NOERROR	sony-cam-k1.tspu.edu.ru
-NOERROR	pf.tspu.edu.ru
-NOERROR	class.tspu.edu.ru
-NOERROR	gatew.tspu.edu.ru
-NXDOMAIN	nat.193-106-135-216.tspu.edu.ru
-NXDOMAIN	nat.193-106-135-174.tspu.edu.ru
-NOERROR	forumevrazoc.tspu.edu.ru
-NOERROR	www.sibinedu.tspu.edu.ru
-NXDOMAIN	nat.193-106-135-146.tspu.edu.ru
-NOERROR	conf.tspu.edu.ru
-NXDOMAIN	nat.193-106-135-089.tspu.edu.ru
-NXDOMAIN	nat.193-106-135-160.tspu.edu.ru
-NXDOMAIN	nat.193-106-135-224.tspu.edu.ru
-NXDOMAIN	193-106-132-000.tspu.edu.ru
-NXDOMAIN	nat.193-106-135-003.tspu.edu.ru
-NXDOMAIN	193-106-132-224.tspu.edu.ru
-NXDOMAIN	demo.tspu.edu.ru
-NXDOMAIN	193-106-132-135.tspu.edu.ru
-NOERROR	sentry.tspu.edu.ru
-NXDOMAIN	193-106-132-151.tspu.edu.ru
-NOERROR	visual.tspu.edu.ru
-NXDOMAIN	193-106-132-157.tspu.edu.ru
-NXDOMAIN	193-106-132-116.tspu.edu.ru
-NXDOMAIN	193-106-132-249.tspu.edu.ru
-NXDOMAIN	nat.193-106-135-062.tspu.edu.ru
-NXDOMAIN	nat.193-106-135-239.tspu.edu.ru
-NXDOMAIN	nat.193-106-135-018.tspu.edu.ru
-NOERROR	www.tutor.tspu.edu.ru
-NXDOMAIN	nat.193-106-135-017.tspu.edu.ru
-NXDOMAIN	193-106-132-062.tspu.edu.ru
-NOERROR	mirror.tspu.edu.ru
-NOERROR	pk.tspu.edu.ru
-NXDOMAIN	193-106-132-187.tspu.edu.ru
-NXDOMAIN	nat.193-106-135-231.tspu.edu.ru
-NXDOMAIN	nat.193-106-135-217.tspu.edu.ru
-NXDOMAIN	nat.193-106-135-208.tspu.edu.ru
-NXDOMAIN	nat.193-106-135-041.tspu.edu.ru
-NXDOMAIN	193-106-132-140.tspu.edu.ru
-NXDOMAIN	193-106-132-126.tspu.edu.ru
-NXDOMAIN	nat.193-106-135-029.tspu.edu.ru
-NOERROR	antiplagiat.tspu.edu.ru
-NXDOMAIN	193-106-132-206.tspu.edu.ru
-NXDOMAIN	nat.193-106-135-103.tspu.edu.ru
-NXDOMAIN	nat.193-106-135-247.tspu.edu.ru
-NOERROR	bbb0.tspu.edu.ru
-NXDOMAIN	nat.193-106-135-072.tspu.edu.ru
-NXDOMAIN	193-106-132-201.tspu.edu.ru
-NXDOMAIN	193-106-132-100.tspu.edu.ru
-NXDOMAIN	bbb-jscc2.tspu.edu.ru
-NOERROR	sc-bbb.tspu.edu.ru
-NXDOMAIN	nat.193-106-135-111.tspu.edu.ru
-NXDOMAIN	nat.193-106-135-232.tspu.edu.ru
-NXDOMAIN	193-106-132-183.tspu.edu.ru
-NXDOMAIN	nat.193-106-135-225.tspu.edu.ru
-NOERROR	www.85kadrov.tspu.edu.ru
-NOERROR	mail.tspu.edu.ru
-NOERROR	www.tspu.edu.ru
-NXDOMAIN	193-106-132-205.tspu.edu.ru
-NOERROR	biblioclub.ru.ebs.tspu.edu.ru
-NXDOMAIN	nat.193-106-135-002.tspu.edu.ru
-NXDOMAIN	nat.193-106-135-085.tspu.edu.ru
-NXDOMAIN	193-106-132-182.tspu.edu.ru
-NOERROR	ekosoznaniye.tspu.edu.ru
-NXDOMAIN	nat.193-106-135-081.tspu.edu.ru
-NOERROR	www.valeo.tspu.edu.ru
-NOERROR	portfolio.tspu.edu.ru
-NXDOMAIN	nat.193-106-135-226.tspu.edu.ru
-NXDOMAIN	193-106-132-059.tspu.edu.ru
-NXDOMAIN	193-106-132-023.tspu.edu.ru
-NXDOMAIN	www.new.tspu.edu.ru
-NOERROR	www.achkasov.tspu.edu.ru
-NXDOMAIN	nat.193-106-135-143.tspu.edu.ru
-NXDOMAIN	nat.193-106-135-243.tspu.edu.ru
-NXDOMAIN	nat.193-106-135-221.tspu.edu.ru
-NOERROR	vestnik.tspu.edu.ru
-NXDOMAIN	193-106-132-192.tspu.edu.ru
-NXDOMAIN	193-106-132-080.tspu.edu.ru
-NXDOMAIN	193-106-132-025.tspu.edu.ru
-NOERROR	openschool.tspu.edu.ru
-NXDOMAIN	nat.193-106-135-119.tspu.edu.ru
+nu.tspu.edu.ru
+e.lanbook.com.ebs.tspu.edu.ru
+fpk.tspu.edu.ru
+inter.tspu.edu.ru
+praxema.tspu.edu.ru
+www.fpk.tspu.edu.ru
+rastra.tspu.edu.ru
+www.mfs.tspu.edu.ru
+www.enactus.tspu.edu.ru
+dev.tspu.edu.ru
+sci-school.tspu.edu.ru
+www.pass.tspu.edu.ru
+library1.tspu.edu.ru
+ns.tspu.edu.ru
+fstudents.tspu.edu.ru
+do.tspu.edu.ru
+achkasov.tspu.edu.ru
+pp.tspu.edu.ru
+katpo.tspu.edu.ru
+www.foreign.tspu.edu.ru
+www.openlab.tspu.edu.ru
+www.ling-anthro.tspu.edu.ru
+netlab.tspu.edu.ru
+jobcenter.tspu.edu.ru
+www.ui.tspu.edu.ru
+tomskgeo.tspu.edu.ru
+portal.tspu.edu.ru
+www.katpo.tspu.edu.ru
+nextcloud.tspu.edu.ru
+mooc.tspu.edu.ru
+moment.tspu.edu.ru
+bbb4.tspu.edu.ru
+labs.tspu.edu.ru
+kosmos.tspu.edu.ru
+ssc.tspu.edu.ru
+fulltext.tspu.edu.ru
+www.praxema.tspu.edu.ru
+www.robot.tspu.edu.ru
+keycloak.tspu.edu.ru
+valeo.tspu.edu.ru
+subtitle.tspu.edu.ru
+ui.tspu.edu.ru
+hosting-ng.tspu.edu.ru
+library8.tspu.edu.ru
+owncloud.tspu.edu.ru
+bbb.tspu.edu.ru
+lk.tspu.edu.ru
+qftg2014.tspu.edu.ru
+wifi.tspu.edu.ru
+hosting.tspu.edu.ru
+qftg2018.tspu.edu.ru
+bbb8.tspu.edu.ru
+proxy-reg.tspu.edu.ru
+zeus.tspu.edu.ru
+zgate.tspu.edu.ru
+bbb7.tspu.edu.ru
+www.kosmos.tspu.edu.ru
+it.tspu.edu.ru
+ltorf.tspu.edu.ru
+ibooks.ru.ebs.tspu.edu.ru
+new.tspu.edu.ru
+mb1.tspu.edu.ru
+eios.tspu.edu.ru
+edecanat.tspu.edu.ru
+www.webinar.tspu.edu.ru
+fmcenter.tspu.edu.ru
+tspu.edu.ru
+libservold.tspu.edu.ru
+test.tspu.edu.ru
+proxema.tspu.edu.ru
+ipi.tspu.edu.ru
+iprbookshop.ru.ebs.tspu.edu.ru
+www.do.tspu.edu.ru
+www.test.tspu.edu.ru
+85kadrov.tspu.edu.ru
+tutor.tspu.edu.ru
+ling.tspu.edu.ru
+npo.tspu.edu.ru
+www.visual.tspu.edu.ru
+bereza.tspu.edu.ru
+qftg07.tspu.edu.ru
+www.portreg.tspu.edu.ru
+bbb9.tspu.edu.ru
+iai.tspu.edu.ru
+koi.tspu.edu.ru
+mfs.tspu.edu.ru
+bbb5.tspu.edu.ru
+crm.tspu.edu.ru
+mb4.tspu.edu.ru
+guacamole.tspu.edu.ru
+www.nadtochiy.tspu.edu.ru
+enactus.tspu.edu.ru
+router.tspu.edu.ru
+portreg.tspu.edu.ru
+mb5.tspu.edu.ru
+alcyoneus.tspu.edu.ru
+sony-cam-k7.tspu.edu.ru
+onlyoffice.tspu.edu.ru
+studprofcom.tspu.edu.ru
+www.abiturient.tspu.edu.ru
+openlab.tspu.edu.ru
+open-school.tspu.edu.ru
+mb.tspu.edu.ru
+www.subtitle.tspu.edu.ru
+ad.tspu.edu.ru
+libserv.tspu.edu.ru
+peace.tspu.edu.ru
+local.tspu.edu.ru
+peertube.tspu.edu.ru
+ling-anthro.tspu.edu.ru
+axiology.tspu.edu.ru
+openstart.tspu.edu.ru
+www.ltorf.tspu.edu.ru
+bbb6.tspu.edu.ru
+www.libserv.tspu.edu.ru
+karusel.tspu.edu.ru
+cerk.tspu.edu.ru
+master.tspu.edu.ru
+abiturient.tspu.edu.ru
+qftg2016.tspu.edu.ru
+eng.tspu.edu.ru
+siblang.tspu.edu.ru
+www.karusel.tspu.edu.ru
+www.inter.tspu.edu.ru
+robo.tspu.edu.ru
+sibinedu.tspu.edu.ru
+sibgrav2015.tspu.edu.ru
+webinar.tspu.edu.ru
+www.labs.tspu.edu.ru
+www.portfolio.tspu.edu.ru
+ejudge.tspu.edu.ru
+mb3.tspu.edu.ru
+docs.tspu.edu.ru
+www.openstart.tspu.edu.ru
+nadtochiy.tspu.edu.ru
+www.sibgrav2015.tspu.edu.ru
+ctp.tspu.edu.ru
+www.zeus.tspu.edu.ru
+www.forumevrazoc.tspu.edu.ru
+student-danila.tspu.edu.ru
+www.crm.tspu.edu.ru
+www.axiology.tspu.edu.ru
+pass.tspu.edu.ru
+bbb2.tspu.edu.ru
+gitlab.tspu.edu.ru
+noc.tspu.edu.ru
+speedtest.tspu.edu.ru
+qftg2012.tspu.edu.ru
+moodle.tspu.edu.ru
+www.koi.tspu.edu.ru
+www.cosmos.tspu.edu.ru
+bbb1.tspu.edu.ru
+www.mail.tspu.edu.ru
+vc.tspu.edu.ru
+www.ling.tspu.edu.ru
+www.npo.tspu.edu.ru
+foreign.tspu.edu.ru
+www.ipi.tspu.edu.ru
+backup13.tspu.edu.ru
+sveden.tspu.edu.ru
+www.ad.tspu.edu.ru
+pol.new.tspu.edu.ru
+rastra-redirect.tspu.edu.ru
+www.pp.tspu.edu.ru
+qftg2010.tspu.edu.ru
+www.planeta.tspu.edu.ru
+sw3750.tspu.edu.ru
+www.it.tspu.edu.ru
+work.tspu.edu.ru
+minio-ds.tspu.edu.ru
+student.tspu.edu.ru
+www.proxema.tspu.edu.ru
+jitsi.tspu.edu.ru
+robot.tspu.edu.ru
+e-learn.tspu.edu.ru
+www.ctp.tspu.edu.ru
+qftg2020.tspu.edu.ru
+www.pol.new.tspu.edu.ru
+www.kit-project.tspu.edu.ru
+service-net.tspu.edu.ru
+demet.tspu.edu.ru
+sony-cam-k2.tspu.edu.ru
+planeta.tspu.edu.ru
+eduinsib.tspu.edu.ru
+libserv2.tspu.edu.ru
+kit-project.tspu.edu.ru
+www.cerk.tspu.edu.ru
+cosmos.tspu.edu.ru
+bbb3.tspu.edu.ru
+repository.tspu.edu.ru
+netlab2.tspu.edu.ru
+www.eduinsib.tspu.edu.ru
+sony-cam-k1.tspu.edu.ru
+pf.tspu.edu.ru
+class.tspu.edu.ru
+gatew.tspu.edu.ru
+forumevrazoc.tspu.edu.ru
+www.sibinedu.tspu.edu.ru
+conf.tspu.edu.ru
+sentry.tspu.edu.ru
+visual.tspu.edu.ru
+www.tutor.tspu.edu.ru
+mirror.tspu.edu.ru
+pk.tspu.edu.ru
+antiplagiat.tspu.edu.ru
+bbb0.tspu.edu.ru
+sc-bbb.tspu.edu.ru
+www.85kadrov.tspu.edu.ru
+mail.tspu.edu.ru
+www.tspu.edu.ru
+biblioclub.ru.ebs.tspu.edu.ru
+ekosoznaniye.tspu.edu.ru
+www.valeo.tspu.edu.ru
+portfolio.tspu.edu.ru
+www.achkasov.tspu.edu.ru
+vestnik.tspu.edu.ru
+openschool.tspu.edu.ru

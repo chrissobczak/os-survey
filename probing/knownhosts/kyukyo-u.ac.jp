@@ -1,446 +1,273 @@
-NOERROR	wt161.cc.kyukyo-u.ac.jp
-NOERROR	net34-91.cc.kyukyo-u.ac.jp
-SERVFAIL	h117.km.kyukyo-u.ac.jp
-NOERROR	media-conv0.cc.kyukyo-u.ac.jp
-NOERROR	h40-108.kyukyo-u.ac.jp
-NOERROR	gt157.cc.kyukyo-u.ac.jp
-NXDOMAIN	t20814.edu.cc.kyukyo-u.ac.jp
-NXDOMAIN	user01.yshs.kyukyo-u.ac.jp
-NOERROR	h170.cc.kyukyo-u.ac.jp
-NOERROR	t29.edu.cc.kyukyo-u.ac.jp
-NOERROR	hoosier.econ.kyukyo-u.ac.jp
-NOERROR	gt148.cc.kyukyo-u.ac.jp
-NOERROR	gt140.cc.kyukyo-u.ac.jp
-NXDOMAIN	t20833.edu.cc.kyukyo-u.ac.jp
-NXDOMAIN	debug15.edu.cc.kyukyo-u.ac.jp
-NOERROR	wt176.cc.kyukyo-u.ac.jp
-NOERROR	wt166.cc.kyukyo-u.ac.jp
-NOERROR	gt153.cc.kyukyo-u.ac.jp
-NXDOMAIN	kku36net.kyukyo-u.ac.jp
-NOERROR	h174.cc.kyukyo-u.ac.jp
-NXDOMAIN	t20811.edu.cc.kyukyo-u.ac.jp
-NXDOMAIN	hera52.kyukyo-u.ac.jp
-NXDOMAIN	hera34.kyukyo-u.ac.jp
-NXDOMAIN	kku49net.kyukyo-u.ac.jp
-NOERROR	lpdc401.cc.kyukyo-u.ac.jp
-NOERROR	ion.kyukyo-u.ac.jp
-NOERROR	rs-gw1.edu.cc.kyukyo-u.ac.jp
-NXDOMAIN	t20825.edu.cc.kyukyo-u.ac.jp
-NOERROR	morit152.cc.kyukyo-u.ac.jp
-NOERROR	gt164.cc.kyukyo-u.ac.jp
-NOERROR	wt164.cc.kyukyo-u.ac.jp
-NOERROR	enceladus.kyukyo-u.ac.jp
-NOERROR	proteus.kyukyo-u.ac.jp
-NOERROR	rd0.cc.kyukyo-u.ac.jp
-NXDOMAIN	kku37net.kyukyo-u.ac.jp
-NXDOMAIN	kku42net.kyukyo-u.ac.jp
-NXDOMAIN	kyy1.gedu.kyukyo-u.ac.jp
-NOERROR	dr01.edu.cc.kyukyo-u.ac.jp
-NOERROR	morit158.cc.kyukyo-u.ac.jp
-NOERROR	h4.bbiq2.kyukyo-u.ac.jp
-NXDOMAIN	kkuweb.kyukyo-u.ac.jp
-NOERROR	iperi-man0.cc.kyukyo-u.ac.jp
-NOERROR	wwebsv.kyukyo-u.ac.jp
-NOERROR	mach2.mech.kyukyo-u.ac.jp
-NOERROR	notice01.cc.kyukyo-u.ac.jp
-NOERROR	h2.bbiq3.kyukyo-u.ac.jp
-NOERROR	gw.ocnb1.kyukyo-u.ac.jp
-NXDOMAIN	kiwi.kyukyo-u.ac.jp
-NXDOMAIN	debug18.edu.cc.kyukyo-u.ac.jp
-NXDOMAIN	t20801.edu.cc.kyukyo-u.ac.jp
-NOERROR	wt208.cc.kyukyo-u.ac.jp
-NOERROR	wt181.cc.kyukyo-u.ac.jp
-NOERROR	h0.ocnb1.kyukyo-u.ac.jp
-NOERROR	dn1.kyukyo-u.ac.jp
-NXDOMAIN	open29.kku00.edu.cc.kyukyo-u.ac.jp
-NXDOMAIN	t20838.edu.cc.kyukyo-u.ac.jp
-NOERROR	ns3.kyukyo-u.ac.jp
-NOERROR	gt144.cc.kyukyo-u.ac.jp
-NOERROR	mori103.cc.kyukyo-u.ac.jp
-NXDOMAIN	kubota.elec.kyukyo-u.ac.jp
-NOERROR	gt166.cc.kyukyo-u.ac.jp
-NOERROR	lpqms2.cc.kyukyo-u.ac.jp
-NOERROR	ntp0.kyukyo-u.ac.jp
-NOERROR	nyoho.cc.kyukyo-u.ac.jp
-NXDOMAIN	math.gedu.kyukyo-u.ac.jp
-NXDOMAIN	t20819.edu.cc.kyukyo-u.ac.jp
-NOERROR	wt190.cc.kyukyo-u.ac.jp
-NXDOMAIN	t20809.edu.cc.kyukyo-u.ac.jp
-NOERROR	gt165.cc.kyukyo-u.ac.jp
-NOERROR	lanmon0.cc.kyukyo-u.ac.jp
-NOERROR	wt168.cc.kyukyo-u.ac.jp
-NOERROR	ns2.kyukyo-u.ac.jp
-NOERROR	wt189.cc.kyukyo-u.ac.jp
-NXDOMAIN	sv1.elec.kyukyo-u.ac.jp
-SERVFAIL	www.edu.cc.p.kyukyo-u.ac.jp
-NXDOMAIN	lpac0.cc.kyukyo-u.ac.jp
-NOERROR	fukuharalive1.kyukyo-u.ac.jp
-NXDOMAIN	iperi.kyukyo-u.ac.jp
-NXDOMAIN	t20832.edu.cc.kyukyo-u.ac.jp
-NOERROR	wt187.cc.kyukyo-u.ac.jp
-NOERROR	vm0.cc.kyukyo-u.ac.jp
-NXDOMAIN	t20835.edu.cc.kyukyo-u.ac.jp
-NXDOMAIN	kku32net.kyukyo-u.ac.jp
-NXDOMAIN	hera36.kyukyo-u.ac.jp
-NOERROR	morit144.cc.kyukyo-u.ac.jp
-NOERROR	fuyu.kyukyo-u.ac.jp
-NOERROR	h40-103.kyukyo-u.ac.jp
-NOERROR	ees02.office.kyukyo-u.ac.jp
-NOERROR	gt162.cc.kyukyo-u.ac.jp
-NOERROR	gt141.cc.kyukyo-u.ac.jp
-NXDOMAIN	t20812.edu.cc.kyukyo-u.ac.jp
-NXDOMAIN	sparc2.kyukyo-u.ac.jp
-SERVFAIL	lb-1.p.kyukyo-u.ac.jp
-NOERROR	rs-gw0.edu.cc.kyukyo-u.ac.jp
-NOERROR	gt161.cc.kyukyo-u.ac.jp
-NOERROR	wt185.cc.kyukyo-u.ac.jp
-NOERROR	wt188.cc.kyukyo-u.ac.jp
-NOERROR	gt150.cc.kyukyo-u.ac.jp
-NXDOMAIN	t20813.edu.cc.kyukyo-u.ac.jp
-NXDOMAIN	kku50net.kyukyo-u.ac.jp
-NOERROR	morit157.cc.kyukyo-u.ac.jp
-NXDOMAIN	h4.ocnb2.kyukyo-u.ac.jp
-NOERROR	mori101.cc.kyukyo-u.ac.jp
-NOERROR	rsg2-0.cc.kyukyo-u.ac.jp
-NXDOMAIN	kku47net.kyukyo-u.ac.jp
-NXDOMAIN	ohtalabo.gedu.kyukyo-u.ac.jp
-NOERROR	wt180.cc.kyukyo-u.ac.jp
-NXDOMAIN	t20822.edu.cc.kyukyo-u.ac.jp
-NXDOMAIN	t20810.edu.cc.kyukyo-u.ac.jp
-NOERROR	gt147.cc.kyukyo-u.ac.jp
-NOERROR	vm1.cc.kyukyo-u.ac.jp
-NXDOMAIN	anzlabo.elec.kyukyo-u.ac.jp
-NOERROR	net34-94.cc.kyukyo-u.ac.jp
-NXDOMAIN	t20818.edu.cc.kyukyo-u.ac.jp
-NXDOMAIN	open30.kku00.edu.cc.kyukyo-u.ac.jp
-NOERROR	mach1.mech.kyukyo-u.ac.jp
-NOERROR	h3.bbiq3.kyukyo-u.ac.jp
-NOERROR	gt145.cc.kyukyo-u.ac.jp
-NXDOMAIN	hermes.busi.kyukyo-u.ac.jp
-NXDOMAIN	t20834.edu.cc.kyukyo-u.ac.jp
-NXDOMAIN	ume.cc.kyukyo-u.ac.jp
-NOERROR	nc0.cc.kyukyo-u.ac.jp
-NOERROR	wt172.cc.kyukyo-u.ac.jp
-NOERROR	ntp.kyukyo-u.ac.jp
-NOERROR	wt204.cc.kyukyo-u.ac.jp
-NXDOMAIN	kku40net.kyukyo-u.ac.jp
-NOERROR	wt165.cc.kyukyo-u.ac.jp
-NOERROR	h40-107.kyukyo-u.ac.jp
-NOERROR	ftp02.cc.kyukyo-u.ac.jp
-SERVFAIL	h122.km.kyukyo-u.ac.jp
-NOERROR	cc.kyukyo-u.ac.jp
-NOERROR	net34-93.cc.kyukyo-u.ac.jp
-NOERROR	kujira98.cc.kyukyo-u.ac.jp
-NOERROR	newchaos.kyukyo-u.ac.jp
-NOERROR	morit155.cc.kyukyo-u.ac.jp
-NOERROR	toyonoka.cc.kyukyo-u.ac.jp
-NOERROR	gumi.kyukyo-u.ac.jp
-NOERROR	wt194.cc.kyukyo-u.ac.jp
-NOERROR	wms1.edu.cc.kyukyo-u.ac.jp
-NXDOMAIN	hera32m.kyukyo-u.ac.jp
-NOERROR	crs1.kyukyo-u.ac.jp
-NXDOMAIN	caphya.mech.kyukyo-u.ac.jp
-NXDOMAIN	akebi.kyukyo-u.ac.jp
-NOERROR	net34-92.cc.kyukyo-u.ac.jp
-NXDOMAIN	metabase.busi.kyukyo-u.ac.jp
-NXDOMAIN	biz.yshs.kyukyo-u.ac.jp
-NOERROR	ouzo.kyukyo-u.ac.jp
-NXDOMAIN	kku35net.kyukyo-u.ac.jp
-NOERROR	st003.cc.kyukyo-u.ac.jp
-NOERROR	gt155.cc.kyukyo-u.ac.jp
-NXDOMAIN	t20828.edu.cc.kyukyo-u.ac.jp
-NOERROR	mori102.cc.kyukyo-u.ac.jp
-SERVFAIL	h121.km.kyukyo-u.ac.jp
-NXDOMAIN	engl.gedu.kyukyo-u.ac.jp
-NXDOMAIN	nasi.cc.kyukyo-u.ac.jp
-NOERROR	net34-98.cc.kyukyo-u.ac.jp
-NXDOMAIN	leo.lib.kyukyo-u.ac.jp
-NOERROR	mori104.cc.kyukyo-u.ac.jp
-NXDOMAIN	w3.cc.kyukyo-u.ac.jp
-NOERROR	morit146.cc.kyukyo-u.ac.jp
-SERVFAIL	h113.km.kyukyo-u.ac.jp
-NOERROR	dp300.cc.kyukyo-u.ac.jp
-NOERROR	wt133.cc.kyukyo-u.ac.jp
-NOERROR	wt138.cc.kyukyo-u.ac.jp
-NOERROR	gm2.kyukyo-u.ac.jp
-SERVFAIL	h112.km.kyukyo-u.ac.jp
-NOERROR	h40-104.kyukyo-u.ac.jp
-NXDOMAIN	t20840.edu.cc.kyukyo-u.ac.jp
-NXDOMAIN	h40-115.kyukyo-u.ac.jp
-NXDOMAIN	kku53net.kyukyo-u.ac.jp
-SERVFAIL	h120.km.kyukyo-u.ac.jp
-NXDOMAIN	fuji.cc.kyukyo-u.ac.jp
-NOERROR	h176.cc.kyukyo-u.ac.jp
-NXDOMAIN	h3.bbiq2.kyukyo-u.ac.jp
-NOERROR	wt171.cc.kyukyo-u.ac.jp
-SERVFAIL	h123.km.kyukyo-u.ac.jp
-NXDOMAIN	h40-113.kyukyo-u.ac.jp
-NOERROR	gakuen.kyukyo-u.ac.jp
-NXDOMAIN	h40-117.kyukyo-u.ac.jp
-NOERROR	pfguc01.cc.kyukyo-u.ac.jp
-NOERROR	bay00.cc.kyukyo-u.ac.jp
-NXDOMAIN	open28.kku00.edu.cc.kyukyo-u.ac.jp
-NXDOMAIN	t20804.edu.cc.kyukyo-u.ac.jp
-NXDOMAIN	t20837.edu.cc.kyukyo-u.ac.jp
-NOERROR	gt152.cc.kyukyo-u.ac.jp
-NOERROR	wt169.cc.kyukyo-u.ac.jp
-NOERROR	h175.cc.kyukyo-u.ac.jp
-NOERROR	media-conv3.cc.kyukyo-u.ac.jp
-NOERROR	lpdcc400.cc.kyukyo-u.ac.jp
-NOERROR	h40-106.kyukyo-u.ac.jp
-NXDOMAIN	jobs.busi.kyukyo-u.ac.jp
-NOERROR	callist.edu.cc.kyukyo-u.ac.jp
-NOERROR	wt135.cc.kyukyo-u.ac.jp
-NOERROR	morit142.cc.kyukyo-u.ac.jp
-NOERROR	dv-edit1.cc.kyukyo-u.ac.jp
-NOERROR	prince.econ.kyukyo-u.ac.jp
-NXDOMAIN	sparc1.kyukyo-u.ac.jp
-NOERROR	kyohou.cc.kyukyo-u.ac.jp
-NOERROR	hera32.kyukyo-u.ac.jp
-NOERROR	ganymede.edu.cc.kyukyo-u.ac.jp
-NOERROR	h2.ocnb2.kyukyo-u.ac.jp
-NXDOMAIN	ww.kyukyo-u.ac.jp
-NOERROR	wt132.cc.kyukyo-u.ac.jp
-NOERROR	www.kyukyo-u.ac.jp
-NOERROR	gt146.cc.kyukyo-u.ac.jp
-NXDOMAIN	h40-116.kyukyo-u.ac.jp
-NOERROR	www2.cc.kyukyo-u.ac.jp
-NOERROR	lpdp401.cc.kyukyo-u.ac.jp
-NOERROR	unipa.kyukyo-u.ac.jp
-NOERROR	gt151.cc.kyukyo-u.ac.jp
-NOERROR	gt143.cc.kyukyo-u.ac.jp
-NOERROR	wt205.cc.kyukyo-u.ac.jp
-NOERROR	net34-99.cc.kyukyo-u.ac.jp
-NXDOMAIN	kku39net.kyukyo-u.ac.jp
-NOERROR	eisu-web1.gedu.kyukyo-u.ac.jp
-NXDOMAIN	t20803.edu.cc.kyukyo-u.ac.jp
-NOERROR	hera32ex.kyukyo-u.ac.jp
-NOERROR	gyes.edu.cc.kyukyo-u.ac.jp
-NXDOMAIN	info.yshs.kyukyo-u.ac.jp
-NOERROR	www.cc.kyukyo-u.ac.jp
-NOERROR	notice02.cc.kyukyo-u.ac.jp
-NOERROR	h4.ocnb1.kyukyo-u.ac.jp
-NOERROR	wt178.cc.kyukyo-u.ac.jp
-NOERROR	wt175.cc.kyukyo-u.ac.jp
-NOERROR	io.edu.cc.kyukyo-u.ac.jp
-NXDOMAIN	mail4.kyukyo-u.ac.jp
-NXDOMAIN	t20827.edu.cc.kyukyo-u.ac.jp
-NOERROR	gt168.cc.kyukyo-u.ac.jp
-NXDOMAIN	kku43net.kyukyo-u.ac.jp
-NOERROR	wt173.cc.kyukyo-u.ac.jp
-NOERROR	mail1.edu.cc.kyukyo-u.ac.jp
-NOERROR	kaki.kyukyo-u.ac.jp
-NXDOMAIN	t20839.edu.cc.kyukyo-u.ac.jp
-NXDOMAIN	ohta.gedu.kyukyo-u.ac.jp
-NOERROR	wt136.cc.kyukyo-u.ac.jp
-NOERROR	h40-109.kyukyo-u.ac.jp
-NOERROR	wt163.cc.kyukyo-u.ac.jp
-NOERROR	t130.cc.kyukyo-u.ac.jp
-NOERROR	morit153.cc.kyukyo-u.ac.jp
-NOERROR	wt174.cc.kyukyo-u.ac.jp
-NXDOMAIN	kyoyo.gedu.kyukyo-u.ac.jp
-NOERROR	pfguc00.cc.kyukyo-u.ac.jp
-NOERROR	gt160.cc.kyukyo-u.ac.jp
-NXDOMAIN	open27.kku00.edu.cc.kyukyo-u.ac.jp
-NXDOMAIN	kku54net.kyukyo-u.ac.jp
-NOERROR	wt186.cc.kyukyo-u.ac.jp
-NXDOMAIN	kku55net.kyukyo-u.ac.jp
-NXDOMAIN	h40-110.kyukyo-u.ac.jp
-NXDOMAIN	kku45net.kyukyo-u.ac.jp
-NXDOMAIN	t20826.edu.cc.kyukyo-u.ac.jp
-NXDOMAIN	h40-112.kyukyo-u.ac.jp
-NXDOMAIN	kku33net.kyukyo-u.ac.jp
-NOERROR	morit151.cc.kyukyo-u.ac.jp
-NXDOMAIN	fjiwara.mech.kyukyo-u.ac.jp
-NXDOMAIN	h40-118.kyukyo-u.ac.jp
-NOERROR	s417cai.gedu.kyukyo-u.ac.jp
-NOERROR	gt169.cc.kyukyo-u.ac.jp
-NXDOMAIN	hamada.gedu.kyukyo-u.ac.jp
-NOERROR	gt154.cc.kyukyo-u.ac.jp
-NOERROR	gw.ocnb2.kyukyo-u.ac.jp
-NXDOMAIN	kku44net.kyukyo-u.ac.jp
-NOERROR	bc.ocnb2.kyukyo-u.ac.jp
-NOERROR	wt137.cc.kyukyo-u.ac.jp
-NOERROR	morit143.cc.kyukyo-u.ac.jp
-NOERROR	h4.bbiq3.kyukyo-u.ac.jp
-NXDOMAIN	kku52net.kyukyo-u.ac.jp
-NXDOMAIN	imp.yshs.kyukyo-u.ac.jp
-NXDOMAIN	debug19.edu.cc.kyukyo-u.ac.jp
-NXDOMAIN	t20820.edu.cc.kyukyo-u.ac.jp
-NXDOMAIN	t20836.edu.cc.kyukyo-u.ac.jp
-NOERROR	h172.cc.kyukyo-u.ac.jp
-NXDOMAIN	mail3.kyukyo-u.ac.jp
-NOERROR	gt163.cc.kyukyo-u.ac.jp
-NOERROR	pm900c.cc.kyukyo-u.ac.jp
-NXDOMAIN	apriopac.lib.kyukyo-u.ac.jp
-NOERROR	wt162.cc.kyukyo-u.ac.jp
-NXDOMAIN	kku34net.kyukyo-u.ac.jp
-NOERROR	wt177.cc.kyukyo-u.ac.jp
-NOERROR	ftp00.cc.kyukyo-u.ac.jp
-NOERROR	morit156.cc.kyukyo-u.ac.jp
-NOERROR	h3.ocnb1.kyukyo-u.ac.jp
-NOERROR	morit159.cc.kyukyo-u.ac.jp
-NXDOMAIN	t20806.edu.cc.kyukyo-u.ac.jp
-NOERROR	wt182.cc.kyukyo-u.ac.jp
-NXDOMAIN	debug16.edu.cc.kyukyo-u.ac.jp
-SERVFAIL	h127.km.kyukyo-u.ac.jp
-NOERROR	dr00.edu.cc.kyukyo-u.ac.jp
-NXDOMAIN	ns1.cc.kyukyo-u.ac.jp
-NXDOMAIN	ytanaka.gedu.kyukyo-u.ac.jp
-NOERROR	kmente.kyukyo-u.ac.jp
-NOERROR	morit145.cc.kyukyo-u.ac.jp
-NOERROR	kyukyo-u.ac.jp
-NOERROR	attendap.kyukyo-u.ac.jp
-NOERROR	h2.ocnb1.kyukyo-u.ac.jp
-NOERROR	morit149.cc.kyukyo-u.ac.jp
-NOERROR	h2.bbiq2.kyukyo-u.ac.jp
-NOERROR	morit150.cc.kyukyo-u.ac.jp
-NOERROR	wt192.cc.kyukyo-u.ac.jp
-NOERROR	momoichigo.cc.kyukyo-u.ac.jp
-NXDOMAIN	t20815.edu.cc.kyukyo-u.ac.jp
-NXDOMAIN	kku-edunet.kyukyo-u.ac.jp
-NOERROR	mori106.cc.kyukyo-u.ac.jp
-NOERROR	ns1.kyukyo-u.ac.jp
-NOERROR	h179.cc.kyukyo-u.ac.jp
-NXDOMAIN	orion.kyukyo-u.ac.jp
-NXDOMAIN	t20830.edu.cc.kyukyo-u.ac.jp
-NOERROR	wt207.cc.kyukyo-u.ac.jp
-NOERROR	morit140.cc.kyukyo-u.ac.jp
-NOERROR	mori107.cc.kyukyo-u.ac.jp
-SERVFAIL	h126.km.kyukyo-u.ac.jp
-NOERROR	wt131.cc.kyukyo-u.ac.jp
-NXDOMAIN	t20817.edu.cc.kyukyo-u.ac.jp
-NOERROR	gt149.cc.kyukyo-u.ac.jp
-NXDOMAIN	r1200gs.gec.kyukyo-u.ac.jp
-NOERROR	t28.edu.cc.kyukyo-u.ac.jp
-NOERROR	pw00.cc.kyukyo-u.ac.jp
-SERVFAIL	h118.km.kyukyo-u.ac.jp
-NOERROR	wt209.cc.kyukyo-u.ac.jp
-NXDOMAIN	debug14.edu.cc.kyukyo-u.ac.jp
-NXDOMAIN	kku51net.kyukyo-u.ac.jp
-NXDOMAIN	kku38net.kyukyo-u.ac.jp
-NXDOMAIN	t20816.edu.cc.kyukyo-u.ac.jp
-NOERROR	wt191.cc.kyukyo-u.ac.jp
-NXDOMAIN	t20807.edu.cc.kyukyo-u.ac.jp
-NXDOMAIN	t20829.edu.cc.kyukyo-u.ac.jp
-NOERROR	rs-gw2.edu.cc.kyukyo-u.ac.jp
-NXDOMAIN	t20808.edu.cc.kyukyo-u.ac.jp
-SERVFAIL	h125.km.kyukyo-u.ac.jp
-NOERROR	km1.kyukyo-u.ac.jp
-NOERROR	wt198.cc.kyukyo-u.ac.jp
-NOERROR	dv-edit0.cc.kyukyo-u.ac.jp
-SERVFAIL	h114.km.kyukyo-u.ac.jp
-NXDOMAIN	karin.kyukyo-u.ac.jp
-NXDOMAIN	t20831.edu.cc.kyukyo-u.ac.jp
-SERVFAIL	edu.cc.p.kyukyo-u.ac.jp
-NOERROR	opac.lib.kyukyo-u.ac.jp
-NOERROR	media-conv1.cc.kyukyo-u.ac.jp
-NOERROR	wt160.cc.kyukyo-u.ac.jp
-NOERROR	lpdc350.cc.kyukyo-u.ac.jp
-NOERROR	ol.kyukyo-u.ac.jp
-NOERROR	mac-pm8600.cc.kyukyo-u.ac.jp
-NOERROR	kwebsv.kyukyo-u.ac.jp
-NOERROR	gt142.cc.kyukyo-u.ac.jp
-NOERROR	mori109.cc.kyukyo-u.ac.jp
-NOERROR	bc.ocnb1.kyukyo-u.ac.jp
-NOERROR	gt167.cc.kyukyo-u.ac.jp
-NOERROR	wt206.cc.kyukyo-u.ac.jp
-NXDOMAIN	t20802.edu.cc.kyukyo-u.ac.jp
-NOERROR	mach3.mech.kyukyo-u.ac.jp
-NOERROR	h178.cc.kyukyo-u.ac.jp
-NOERROR	mail2.kyukyo-u.ac.jp
-NXDOMAIN	kku-bbs0.edu.cc.kyukyo-u.ac.jp
-NOERROR	jorker.econ.kyukyo-u.ac.jp
-NXDOMAIN	naka.mech.kyukyo-u.ac.jp
-NOERROR	mori100.cc.kyukyo-u.ac.jp
-NXDOMAIN	hoko.cc.kyukyo-u.ac.jp
-NOERROR	ymst195.cc.kyukyo-u.ac.jp
-NXDOMAIN	kku48net.kyukyo-u.ac.jp
-NOERROR	lpnx700.cc.kyukyo-u.ac.jp
-NOERROR	nc1.cc.kyukyo-u.ac.jp
-SERVFAIL	h116.km.kyukyo-u.ac.jp
-NXDOMAIN	ex5800.cc.kyukyo-u.ac.jp
-NXDOMAIN	shrew.yshs.kyukyo-u.ac.jp
-NOERROR	wt196.cc.kyukyo-u.ac.jp
-NOERROR	king.econ.kyukyo-u.ac.jp
-NOERROR	wt183.cc.kyukyo-u.ac.jp
-NOERROR	h40-100.kyukyo-u.ac.jp
-NOERROR	morit147.cc.kyukyo-u.ac.jp
-NOERROR	notice00.cc.kyukyo-u.ac.jp
-NOERROR	t27.edu.cc.kyukyo-u.ac.jp
-NXDOMAIN	orio.kyukyo-u.ac.jp
-NOERROR	fguc-max2k.cc.kyukyo-u.ac.jp
-NOERROR	nereid.kyukyo-u.ac.jp
-NOERROR	gt156.cc.kyukyo-u.ac.jp
-NOERROR	h40-101.kyukyo-u.ac.jp
-NXDOMAIN	eel.gedu.kyukyo-u.ac.jp
-NOERROR	biwa.cc.kyukyo-u.ac.jp
-NXDOMAIN	laiden.gedu.kyukyo-u.ac.jp
-NXDOMAIN	ohrin.kyukyo-u.ac.jp
-NOERROR	mail1.kyukyo-u.ac.jp
-NOERROR	jfw1.kyukyo-u.ac.jp
-NXDOMAIN	kku46net.kyukyo-u.ac.jp
-NOERROR	h40-102.kyukyo-u.ac.jp
-NOERROR	wt170.cc.kyukyo-u.ac.jp
-NXDOMAIN	yshs-www.yshs.kyukyo-u.ac.jp
-NXDOMAIN	t20821.edu.cc.kyukyo-u.ac.jp
-NXDOMAIN	mori105.cc.kyukyo-u.ac.jp
-SERVFAIL	cc.p.kyukyo-u.ac.jp
-SERVFAIL	h119.km.kyukyo-u.ac.jp
-NXDOMAIN	user02.yshs.kyukyo-u.ac.jp
-NOERROR	vpn.kyukyo-u.ac.jp
-NOERROR	wt134.cc.kyukyo-u.ac.jp
-NOERROR	wt203.cc.kyukyo-u.ac.jp
-NOERROR	morit141.cc.kyukyo-u.ac.jp
-NOERROR	ge.kyukyo-u.ac.jp
-NOERROR	ps.kyukyo-u.ac.jp
-NXDOMAIN	h40-119.kyukyo-u.ac.jp
-NOERROR	europa.edu.cc.kyukyo-u.ac.jp
-NXDOMAIN	kku32mnet.kyukyo-u.ac.jp
-NOERROR	furuyalab.archi.kyukyo-u.ac.jp
-NOERROR	net34-95.cc.kyukyo-u.ac.jp
-NOERROR	net34-96.cc.kyukyo-u.ac.jp
-NOERROR	h40-105.kyukyo-u.ac.jp
-NOERROR	gw.bbiq3.kyukyo-u.ac.jp
-NXDOMAIN	kku41net.kyukyo-u.ac.jp
-NOERROR	wt193.cc.kyukyo-u.ac.jp
-NOERROR	net34-97.cc.kyukyo-u.ac.jp
-NXDOMAIN	debug13.edu.cc.kyukyo-u.ac.jp
-NXDOMAIN	www.lib.kyukyo-u.ac.jp
-NXDOMAIN	h40-114.kyukyo-u.ac.jp
-SERVFAIL	h124.km.kyukyo-u.ac.jp
-NXDOMAIN	debug17.edu.cc.kyukyo-u.ac.jp
-NOERROR	meron.cc.kyukyo-u.ac.jp
-NOERROR	gt159.cc.kyukyo-u.ac.jp
-SERVFAIL	www.cc.p.kyukyo-u.ac.jp
-NXDOMAIN	t20823.edu.cc.kyukyo-u.ac.jp
-NOERROR	gt158.cc.kyukyo-u.ac.jp
-NXDOMAIN	fguc-gw.kyukyo-u.ac.jp
-NOERROR	wms0.edu.cc.kyukyo-u.ac.jp
-NOERROR	ts1.cc.kyukyo-u.ac.jp
-NOERROR	www3.kyukyo-u.ac.jp
-NXDOMAIN	hera48.kyukyo-u.ac.jp
-NOERROR	morit148.cc.kyukyo-u.ac.jp
-NOERROR	wt184.cc.kyukyo-u.ac.jp
-NXDOMAIN	gw.bbiq2.kyukyo-u.ac.jp
-NOERROR	mail2.edu.cc.kyukyo-u.ac.jp
-NOERROR	webgw.kyukyo-u.ac.jp
-NOERROR	wt179.cc.kyukyo-u.ac.jp
-NOERROR	wt197.cc.kyukyo-u.ac.jp
-NOERROR	morit154.cc.kyukyo-u.ac.jp
-NOERROR	h171.cc.kyukyo-u.ac.jp
-NOERROR	cb3500m.cc.kyukyo-u.ac.jp
-NXDOMAIN	h40-111.kyukyo-u.ac.jp
-NOERROR	lpbjc0.cc.kyukyo-u.ac.jp
-NXDOMAIN	t20805.edu.cc.kyukyo-u.ac.jp
-NOERROR	h0.bbiq3.kyukyo-u.ac.jp
-NOERROR	media-conv2.cc.kyukyo-u.ac.jp
-NXDOMAIN	nakano4.gedu.kyukyo-u.ac.jp
-NOERROR	mori108.cc.kyukyo-u.ac.jp
-NOERROR	lpdc1255.cc.kyukyo-u.ac.jp
-NXDOMAIN	tnagai.gedu.kyukyo-u.ac.jp
-NOERROR	reiko.cc.kyukyo-u.ac.jp
-NXDOMAIN	t20824.edu.cc.kyukyo-u.ac.jp
-NXDOMAIN	t20800.edu.cc.kyukyo-u.ac.jp
-NXDOMAIN	hera38.kyukyo-u.ac.jp
-NOERROR	h173.cc.kyukyo-u.ac.jp
+wt161.cc.kyukyo-u.ac.jp
+net34-91.cc.kyukyo-u.ac.jp
+media-conv0.cc.kyukyo-u.ac.jp
+h40-108.kyukyo-u.ac.jp
+gt157.cc.kyukyo-u.ac.jp
+h170.cc.kyukyo-u.ac.jp
+t29.edu.cc.kyukyo-u.ac.jp
+hoosier.econ.kyukyo-u.ac.jp
+gt148.cc.kyukyo-u.ac.jp
+gt140.cc.kyukyo-u.ac.jp
+wt176.cc.kyukyo-u.ac.jp
+wt166.cc.kyukyo-u.ac.jp
+gt153.cc.kyukyo-u.ac.jp
+h174.cc.kyukyo-u.ac.jp
+lpdc401.cc.kyukyo-u.ac.jp
+ion.kyukyo-u.ac.jp
+rs-gw1.edu.cc.kyukyo-u.ac.jp
+morit152.cc.kyukyo-u.ac.jp
+gt164.cc.kyukyo-u.ac.jp
+wt164.cc.kyukyo-u.ac.jp
+enceladus.kyukyo-u.ac.jp
+proteus.kyukyo-u.ac.jp
+rd0.cc.kyukyo-u.ac.jp
+dr01.edu.cc.kyukyo-u.ac.jp
+morit158.cc.kyukyo-u.ac.jp
+h4.bbiq2.kyukyo-u.ac.jp
+iperi-man0.cc.kyukyo-u.ac.jp
+wwebsv.kyukyo-u.ac.jp
+mach2.mech.kyukyo-u.ac.jp
+notice01.cc.kyukyo-u.ac.jp
+h2.bbiq3.kyukyo-u.ac.jp
+gw.ocnb1.kyukyo-u.ac.jp
+wt208.cc.kyukyo-u.ac.jp
+wt181.cc.kyukyo-u.ac.jp
+h0.ocnb1.kyukyo-u.ac.jp
+dn1.kyukyo-u.ac.jp
+ns3.kyukyo-u.ac.jp
+gt144.cc.kyukyo-u.ac.jp
+mori103.cc.kyukyo-u.ac.jp
+gt166.cc.kyukyo-u.ac.jp
+lpqms2.cc.kyukyo-u.ac.jp
+ntp0.kyukyo-u.ac.jp
+nyoho.cc.kyukyo-u.ac.jp
+wt190.cc.kyukyo-u.ac.jp
+gt165.cc.kyukyo-u.ac.jp
+lanmon0.cc.kyukyo-u.ac.jp
+wt168.cc.kyukyo-u.ac.jp
+ns2.kyukyo-u.ac.jp
+wt189.cc.kyukyo-u.ac.jp
+fukuharalive1.kyukyo-u.ac.jp
+wt187.cc.kyukyo-u.ac.jp
+vm0.cc.kyukyo-u.ac.jp
+morit144.cc.kyukyo-u.ac.jp
+fuyu.kyukyo-u.ac.jp
+h40-103.kyukyo-u.ac.jp
+ees02.office.kyukyo-u.ac.jp
+gt162.cc.kyukyo-u.ac.jp
+gt141.cc.kyukyo-u.ac.jp
+rs-gw0.edu.cc.kyukyo-u.ac.jp
+gt161.cc.kyukyo-u.ac.jp
+wt185.cc.kyukyo-u.ac.jp
+wt188.cc.kyukyo-u.ac.jp
+gt150.cc.kyukyo-u.ac.jp
+morit157.cc.kyukyo-u.ac.jp
+mori101.cc.kyukyo-u.ac.jp
+rsg2-0.cc.kyukyo-u.ac.jp
+wt180.cc.kyukyo-u.ac.jp
+gt147.cc.kyukyo-u.ac.jp
+vm1.cc.kyukyo-u.ac.jp
+net34-94.cc.kyukyo-u.ac.jp
+mach1.mech.kyukyo-u.ac.jp
+h3.bbiq3.kyukyo-u.ac.jp
+gt145.cc.kyukyo-u.ac.jp
+nc0.cc.kyukyo-u.ac.jp
+wt172.cc.kyukyo-u.ac.jp
+ntp.kyukyo-u.ac.jp
+wt204.cc.kyukyo-u.ac.jp
+wt165.cc.kyukyo-u.ac.jp
+h40-107.kyukyo-u.ac.jp
+ftp02.cc.kyukyo-u.ac.jp
+cc.kyukyo-u.ac.jp
+net34-93.cc.kyukyo-u.ac.jp
+kujira98.cc.kyukyo-u.ac.jp
+newchaos.kyukyo-u.ac.jp
+morit155.cc.kyukyo-u.ac.jp
+toyonoka.cc.kyukyo-u.ac.jp
+gumi.kyukyo-u.ac.jp
+wt194.cc.kyukyo-u.ac.jp
+wms1.edu.cc.kyukyo-u.ac.jp
+crs1.kyukyo-u.ac.jp
+net34-92.cc.kyukyo-u.ac.jp
+ouzo.kyukyo-u.ac.jp
+st003.cc.kyukyo-u.ac.jp
+gt155.cc.kyukyo-u.ac.jp
+mori102.cc.kyukyo-u.ac.jp
+net34-98.cc.kyukyo-u.ac.jp
+mori104.cc.kyukyo-u.ac.jp
+morit146.cc.kyukyo-u.ac.jp
+dp300.cc.kyukyo-u.ac.jp
+wt133.cc.kyukyo-u.ac.jp
+wt138.cc.kyukyo-u.ac.jp
+gm2.kyukyo-u.ac.jp
+h40-104.kyukyo-u.ac.jp
+h176.cc.kyukyo-u.ac.jp
+wt171.cc.kyukyo-u.ac.jp
+gakuen.kyukyo-u.ac.jp
+pfguc01.cc.kyukyo-u.ac.jp
+bay00.cc.kyukyo-u.ac.jp
+gt152.cc.kyukyo-u.ac.jp
+wt169.cc.kyukyo-u.ac.jp
+h175.cc.kyukyo-u.ac.jp
+media-conv3.cc.kyukyo-u.ac.jp
+lpdcc400.cc.kyukyo-u.ac.jp
+h40-106.kyukyo-u.ac.jp
+callist.edu.cc.kyukyo-u.ac.jp
+wt135.cc.kyukyo-u.ac.jp
+morit142.cc.kyukyo-u.ac.jp
+dv-edit1.cc.kyukyo-u.ac.jp
+prince.econ.kyukyo-u.ac.jp
+kyohou.cc.kyukyo-u.ac.jp
+hera32.kyukyo-u.ac.jp
+ganymede.edu.cc.kyukyo-u.ac.jp
+h2.ocnb2.kyukyo-u.ac.jp
+wt132.cc.kyukyo-u.ac.jp
+www.kyukyo-u.ac.jp
+gt146.cc.kyukyo-u.ac.jp
+www2.cc.kyukyo-u.ac.jp
+lpdp401.cc.kyukyo-u.ac.jp
+unipa.kyukyo-u.ac.jp
+gt151.cc.kyukyo-u.ac.jp
+gt143.cc.kyukyo-u.ac.jp
+wt205.cc.kyukyo-u.ac.jp
+net34-99.cc.kyukyo-u.ac.jp
+eisu-web1.gedu.kyukyo-u.ac.jp
+hera32ex.kyukyo-u.ac.jp
+gyes.edu.cc.kyukyo-u.ac.jp
+www.cc.kyukyo-u.ac.jp
+notice02.cc.kyukyo-u.ac.jp
+h4.ocnb1.kyukyo-u.ac.jp
+wt178.cc.kyukyo-u.ac.jp
+wt175.cc.kyukyo-u.ac.jp
+io.edu.cc.kyukyo-u.ac.jp
+gt168.cc.kyukyo-u.ac.jp
+wt173.cc.kyukyo-u.ac.jp
+mail1.edu.cc.kyukyo-u.ac.jp
+kaki.kyukyo-u.ac.jp
+wt136.cc.kyukyo-u.ac.jp
+h40-109.kyukyo-u.ac.jp
+wt163.cc.kyukyo-u.ac.jp
+t130.cc.kyukyo-u.ac.jp
+morit153.cc.kyukyo-u.ac.jp
+wt174.cc.kyukyo-u.ac.jp
+pfguc00.cc.kyukyo-u.ac.jp
+gt160.cc.kyukyo-u.ac.jp
+wt186.cc.kyukyo-u.ac.jp
+morit151.cc.kyukyo-u.ac.jp
+s417cai.gedu.kyukyo-u.ac.jp
+gt169.cc.kyukyo-u.ac.jp
+gt154.cc.kyukyo-u.ac.jp
+gw.ocnb2.kyukyo-u.ac.jp
+bc.ocnb2.kyukyo-u.ac.jp
+wt137.cc.kyukyo-u.ac.jp
+morit143.cc.kyukyo-u.ac.jp
+h4.bbiq3.kyukyo-u.ac.jp
+h172.cc.kyukyo-u.ac.jp
+gt163.cc.kyukyo-u.ac.jp
+pm900c.cc.kyukyo-u.ac.jp
+wt162.cc.kyukyo-u.ac.jp
+wt177.cc.kyukyo-u.ac.jp
+ftp00.cc.kyukyo-u.ac.jp
+morit156.cc.kyukyo-u.ac.jp
+h3.ocnb1.kyukyo-u.ac.jp
+morit159.cc.kyukyo-u.ac.jp
+wt182.cc.kyukyo-u.ac.jp
+dr00.edu.cc.kyukyo-u.ac.jp
+kmente.kyukyo-u.ac.jp
+morit145.cc.kyukyo-u.ac.jp
+kyukyo-u.ac.jp
+attendap.kyukyo-u.ac.jp
+h2.ocnb1.kyukyo-u.ac.jp
+morit149.cc.kyukyo-u.ac.jp
+h2.bbiq2.kyukyo-u.ac.jp
+morit150.cc.kyukyo-u.ac.jp
+wt192.cc.kyukyo-u.ac.jp
+momoichigo.cc.kyukyo-u.ac.jp
+mori106.cc.kyukyo-u.ac.jp
+ns1.kyukyo-u.ac.jp
+h179.cc.kyukyo-u.ac.jp
+wt207.cc.kyukyo-u.ac.jp
+morit140.cc.kyukyo-u.ac.jp
+mori107.cc.kyukyo-u.ac.jp
+wt131.cc.kyukyo-u.ac.jp
+gt149.cc.kyukyo-u.ac.jp
+t28.edu.cc.kyukyo-u.ac.jp
+pw00.cc.kyukyo-u.ac.jp
+wt209.cc.kyukyo-u.ac.jp
+wt191.cc.kyukyo-u.ac.jp
+rs-gw2.edu.cc.kyukyo-u.ac.jp
+km1.kyukyo-u.ac.jp
+wt198.cc.kyukyo-u.ac.jp
+dv-edit0.cc.kyukyo-u.ac.jp
+opac.lib.kyukyo-u.ac.jp
+media-conv1.cc.kyukyo-u.ac.jp
+wt160.cc.kyukyo-u.ac.jp
+lpdc350.cc.kyukyo-u.ac.jp
+ol.kyukyo-u.ac.jp
+mac-pm8600.cc.kyukyo-u.ac.jp
+kwebsv.kyukyo-u.ac.jp
+gt142.cc.kyukyo-u.ac.jp
+mori109.cc.kyukyo-u.ac.jp
+bc.ocnb1.kyukyo-u.ac.jp
+gt167.cc.kyukyo-u.ac.jp
+wt206.cc.kyukyo-u.ac.jp
+mach3.mech.kyukyo-u.ac.jp
+h178.cc.kyukyo-u.ac.jp
+mail2.kyukyo-u.ac.jp
+jorker.econ.kyukyo-u.ac.jp
+mori100.cc.kyukyo-u.ac.jp
+ymst195.cc.kyukyo-u.ac.jp
+lpnx700.cc.kyukyo-u.ac.jp
+nc1.cc.kyukyo-u.ac.jp
+wt196.cc.kyukyo-u.ac.jp
+king.econ.kyukyo-u.ac.jp
+wt183.cc.kyukyo-u.ac.jp
+h40-100.kyukyo-u.ac.jp
+morit147.cc.kyukyo-u.ac.jp
+notice00.cc.kyukyo-u.ac.jp
+t27.edu.cc.kyukyo-u.ac.jp
+fguc-max2k.cc.kyukyo-u.ac.jp
+nereid.kyukyo-u.ac.jp
+gt156.cc.kyukyo-u.ac.jp
+h40-101.kyukyo-u.ac.jp
+biwa.cc.kyukyo-u.ac.jp
+mail1.kyukyo-u.ac.jp
+jfw1.kyukyo-u.ac.jp
+h40-102.kyukyo-u.ac.jp
+wt170.cc.kyukyo-u.ac.jp
+vpn.kyukyo-u.ac.jp
+wt134.cc.kyukyo-u.ac.jp
+wt203.cc.kyukyo-u.ac.jp
+morit141.cc.kyukyo-u.ac.jp
+ge.kyukyo-u.ac.jp
+ps.kyukyo-u.ac.jp
+europa.edu.cc.kyukyo-u.ac.jp
+furuyalab.archi.kyukyo-u.ac.jp
+net34-95.cc.kyukyo-u.ac.jp
+net34-96.cc.kyukyo-u.ac.jp
+h40-105.kyukyo-u.ac.jp
+gw.bbiq3.kyukyo-u.ac.jp
+wt193.cc.kyukyo-u.ac.jp
+net34-97.cc.kyukyo-u.ac.jp
+meron.cc.kyukyo-u.ac.jp
+gt159.cc.kyukyo-u.ac.jp
+gt158.cc.kyukyo-u.ac.jp
+wms0.edu.cc.kyukyo-u.ac.jp
+ts1.cc.kyukyo-u.ac.jp
+www3.kyukyo-u.ac.jp
+morit148.cc.kyukyo-u.ac.jp
+wt184.cc.kyukyo-u.ac.jp
+mail2.edu.cc.kyukyo-u.ac.jp
+webgw.kyukyo-u.ac.jp
+wt179.cc.kyukyo-u.ac.jp
+wt197.cc.kyukyo-u.ac.jp
+morit154.cc.kyukyo-u.ac.jp
+h171.cc.kyukyo-u.ac.jp
+cb3500m.cc.kyukyo-u.ac.jp
+lpbjc0.cc.kyukyo-u.ac.jp
+h0.bbiq3.kyukyo-u.ac.jp
+media-conv2.cc.kyukyo-u.ac.jp
+mori108.cc.kyukyo-u.ac.jp
+lpdc1255.cc.kyukyo-u.ac.jp
+reiko.cc.kyukyo-u.ac.jp
+h173.cc.kyukyo-u.ac.jp

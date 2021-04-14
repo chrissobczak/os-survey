@@ -1,32 +1,21 @@
-NXDOMAIN	collab-edge.edufr.ch
-NOERROR	dev.edufr.ch
-NOERROR	edufr.ch
-NXDOMAIN	www.aai-loginhep.edufr.ch
-NXDOMAIN	www.edge.edufr.ch
-NOERROR	aai-loginhep.edufr.ch
-NOERROR	fp-fri-qa.edufr.ch
-NXDOMAIN	www.mail.edufr.ch
-NXDOMAIN	www.mailqa.edufr.ch
-NOERROR	mail.edufr.ch
-NOERROR	www.edufr.ch
-NOERROR	oaw.edufr.ch
-NOERROR	appls.edufr.ch
-NOERROR	isa.edufr.ch
-NXDOMAIN	mailserver2.edufr.ch
-NOERROR	fp-fri.edufr.ch
-NXDOMAIN	intra.edufr.ch
-NOERROR	autodiscover.edufr.ch
-NOERROR	spdev.edufr.ch
-NOERROR	site.edufr.ch
-NXDOMAIN	edge.edufr.ch
-NXDOMAIN	imap.edufr.ch
-NOERROR	site-qa.edufr.ch
-NOERROR	cpi.edufr.ch
-NXDOMAIN	intranet.edufr.ch
-NOERROR	portail.edufr.ch
-NXDOMAIN	www.sbcteamsedu.edufr.ch
-NOERROR	www2.edufr.ch
-NOERROR	dappls.edufr.ch
-NOERROR	qappls.edufr.ch
-NOERROR	sbcteamsedu.edufr.ch
-NOERROR	mailqa.edufr.ch
+dev.edufr.ch
+edufr.ch
+aai-loginhep.edufr.ch
+fp-fri-qa.edufr.ch
+mail.edufr.ch
+www.edufr.ch
+oaw.edufr.ch
+appls.edufr.ch
+isa.edufr.ch
+fp-fri.edufr.ch
+autodiscover.edufr.ch
+spdev.edufr.ch
+site.edufr.ch
+site-qa.edufr.ch
+cpi.edufr.ch
+portail.edufr.ch
+www2.edufr.ch
+dappls.edufr.ch
+qappls.edufr.ch
+sbcteamsedu.edufr.ch
+mailqa.edufr.ch

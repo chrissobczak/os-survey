@@ -1,3945 +1,2669 @@
-NXDOMAIN	h128.ds10.univ.gda.pl
-NOERROR	p-318-2.ek.univ.gda.pl
-NOERROR	twix4.ek.univ.gda.pl
-NOERROR	pchs5.chem.univ.gda.pl
-NOERROR	www.slavka.strony.univ.gda.pl
-NOERROR	fhih28.univ.gda.pl
-SERVFAIL	h12.ds9.univ.gda.pl
-NOERROR	nowy.chem.univ.gda.pl
-NXDOMAIN	h224.ds4.univ.gda.pl
-NOERROR	h171.ds4.univ.gda.pl
-NOERROR	seminar2001.bg.univ.gda.pl
-NOERROR	pc-49.ek.univ.gda.pl
-NOERROR	t28039.chem.univ.gda.pl
-NOERROR	fhbib-drukf4.univ.gda.pl
-NOERROR	p-239-10.zr.univ.gda.pl
-NOERROR	h231.ds6.univ.gda.pl
-NOERROR	g47.brzezno.univ.gda.pl
-NXDOMAIN	h131.ds3.univ.gda.pl
-NOERROR	p-127-2.ek.univ.gda.pl
-NOERROR	auto5.bg.univ.gda.pl
-SERVFAIL	h203.ds9.univ.gda.pl
-NOERROR	fhifp126.univ.gda.pl
-NOERROR	cezar.chem.univ.gda.pl
-NOERROR	h98.ds4.univ.gda.pl
-NXDOMAIN	h176.ds10.univ.gda.pl
-NOERROR	h155.ds4.univ.gda.pl
-NOERROR	h193.ds6.univ.gda.pl
-NOERROR	g98.brzezno.univ.gda.pl
-NXDOMAIN	h164.ds10.univ.gda.pl
-NOERROR	pc-adm2.bg.univ.gda.pl
-NOERROR	p-606.ek.univ.gda.pl
-SERVFAIL	h197.ds9.univ.gda.pl
-NXDOMAIN	h39.ds5.univ.gda.pl
-NXDOMAIN	basia.chem.univ.gda.pl
-NOERROR	sw7.bg.univ.gda.pl
-NOERROR	g69.brzezno.univ.gda.pl
-NOERROR	h76.ds4.univ.gda.pl
-NOERROR	trans2.univ.gda.pl
-NOERROR	vip.bg.univ.gda.pl
-NXDOMAIN	ifd57.univ.gda.pl
-NOERROR	g194.brzezno.univ.gda.pl
-NOERROR	p-516-5.ek.univ.gda.pl
-NXDOMAIN	h99.ds5.univ.gda.pl
-NOERROR	zr.univ.gda.pl
-NOERROR	g24.brzezno.univ.gda.pl
-NOERROR	dyrektor.wns.univ.gda.pl
-NOERROR	esterka.univ.gda.pl
-NXDOMAIN	h171.ds10.univ.gda.pl
-NXDOMAIN	h71.ds3.univ.gda.pl
-NOERROR	pc-f3-3.wns.univ.gda.pl
-NXDOMAIN	h76.ds5.univ.gda.pl
-NOERROR	t28218.chem.univ.gda.pl
-NOERROR	hansolo.bg.univ.gda.pl
-SERVFAIL	h241.ds9.univ.gda.pl
-NOERROR	t28018.chem.univ.gda.pl
-NOERROR	p-516-31.ek.univ.gda.pl
-NXDOMAIN	fdewa.univ.gda.pl
-NOERROR	t28066.chem.univ.gda.pl
-NOERROR	p-230-1.ek.univ.gda.pl
-NXDOMAIN	h55.ds10.univ.gda.pl
-NXDOMAIN	h236.ds10.univ.gda.pl
-NOERROR	t29119.chem.univ.gda.pl
-NOERROR	fhzl6.univ.gda.pl
-NOERROR	ola.univ.gda.pl
-NOERROR	wtd.bg.univ.gda.pl
-NOERROR	p-239-06.zr.univ.gda.pl
-NOERROR	fhks8-2.univ.gda.pl
-NOERROR	g61.brzezno.univ.gda.pl
-NOERROR	lemiesz.univ.gda.pl
-NOERROR	h157.ds6.univ.gda.pl
-SERVFAIL	h68.ds9.univ.gda.pl
-NOERROR	mdq.chem.univ.gda.pl
-NXDOMAIN	h44.ds10.univ.gda.pl
-NOERROR	p-11-1.zr.univ.gda.pl
-NOERROR	p-505-6.ek.univ.gda.pl
-NOERROR	t28099.chem.univ.gda.pl
-NOERROR	fhlog6a.univ.gda.pl
-NXDOMAIN	dziek-test.mfi.univ.gda.pl
-NOERROR	truskawka.univ.gda.pl
-NXDOMAIN	h127.ds4.univ.gda.pl
-NXDOMAIN	h125.ds10.univ.gda.pl
-NXDOMAIN	h252.ds5.univ.gda.pl
-NOERROR	p-304-1.ek.univ.gda.pl
-NOERROR	inkubator1.bg.univ.gda.pl
-NOERROR	hall-02.bg.univ.gda.pl
-NOERROR	h217.ds4.univ.gda.pl
-NOERROR	caise2012.univ.gda.pl
-NOERROR	iftia58.univ.gda.pl
-NXDOMAIN	h87.ds10.univ.gda.pl
-NOERROR	h104.ds4.univ.gda.pl
-NOERROR	logistyka.univ.gda.pl
-NOERROR	iftia72.univ.gda.pl
-NOERROR	rez8.bg.univ.gda.pl
-NOERROR	sw039.univ.gda.pl
-NOERROR	t28253.chem.univ.gda.pl
-NXDOMAIN	h159.ds5.univ.gda.pl
-NOERROR	linksys-ds11.pol.wns.univ.gda.pl
-NXDOMAIN	h105.ds5.univ.gda.pl
-NOERROR	chejc1.chem.univ.gda.pl
-NOERROR	leo.wns.univ.gda.pl
-SERVFAIL	h33.ds9.univ.gda.pl
-NOERROR	pc3-gazetaug.bg.univ.gda.pl
-NOERROR	p-237-1.zr.univ.gda.pl
-NOERROR	p-322-1.zr.univ.gda.pl
-NXDOMAIN	h3.ds3.univ.gda.pl
-NOERROR	p-220-3.ek.univ.gda.pl
-NOERROR	t28231.chem.univ.gda.pl
-NOERROR	fhifg212.univ.gda.pl
-NOERROR	h149.ds6.univ.gda.pl
-NOERROR	p-516-36.ek.univ.gda.pl
-NOERROR	h209.ds6.univ.gda.pl
-NOERROR	p-218-1.ek.univ.gda.pl
-NOERROR	p-516-20.ek.univ.gda.pl
-SERVFAIL	h170.ds9.univ.gda.pl
-NOERROR	g17.brzezno.univ.gda.pl
-NOERROR	kcik.univ.gda.pl
-NXDOMAIN	janusz1.univ.gda.pl
-NOERROR	iftia33.univ.gda.pl
-NOERROR	p-402-5.ek.univ.gda.pl
-NXDOMAIN	h162.ds10.univ.gda.pl
-NOERROR	017art.chem.univ.gda.pl
-NOERROR	tygrys.bg.univ.gda.pl
-NXDOMAIN	h73.ds5.univ.gda.pl
-NOERROR	h18.ds4.univ.gda.pl
-NOERROR	g210.brzezno.univ.gda.pl
-NOERROR	kelly.ek.univ.gda.pl
-NXDOMAIN	h31.ds10.univ.gda.pl
-SERVFAIL	h70.ds9.univ.gda.pl
-NXDOMAIN	h125.ds3.univ.gda.pl
-NOERROR	p-302-1.ek.univ.gda.pl
-NOERROR	pc-inf-6.bg.univ.gda.pl
-NOERROR	p-104-3.ek.univ.gda.pl
-NXDOMAIN	h76.ds10.univ.gda.pl
-NOERROR	t29158.chem.univ.gda.pl
-NXDOMAIN	olekk.univ.gda.pl
-NOERROR	h101.ds4.univ.gda.pl
-SERVFAIL	h161.ds9.univ.gda.pl
-NXDOMAIN	h250.ds3.univ.gda.pl
-NOERROR	ug1-cat-hot.univ.gda.pl
-NOERROR	t28180_1.chem.univ.gda.pl
-NOERROR	p-515-11.ek.univ.gda.pl
-NXDOMAIN	h69.ds3.univ.gda.pl
-NXDOMAIN	h148.ds10.univ.gda.pl
-SERVFAIL	h128.ds9.univ.gda.pl
-NOERROR	bp48-9.wns.univ.gda.pl
-NOERROR	h237.ds4.univ.gda.pl
-NOERROR	l-04.zr.univ.gda.pl
-NOERROR	prbak.prawo.univ.gda.pl
-NOERROR	h238.ds6.univ.gda.pl
-NXDOMAIN	h93.ds10.univ.gda.pl
-NOERROR	p-516-10.ek.univ.gda.pl
-NOERROR	azs.univ.gda.pl
-NOERROR	p-hal-06.ek.univ.gda.pl
-NOERROR	rez12.bg.univ.gda.pl
-NOERROR	ug-ds1-rtr.brzezno.univ.gda.pl
-NXDOMAIN	h119.ds3.univ.gda.pl
-NOERROR	p-23-1.pa.univ.gda.pl
-NOERROR	t28151.chem.univ.gda.pl
-NOERROR	iftia67.univ.gda.pl
-NXDOMAIN	h73.ds10.univ.gda.pl
-NXDOMAIN	h8.ds10.univ.gda.pl
-NOERROR	fhih33a-3.univ.gda.pl
-NOERROR	lenyo-mobile1.bg.univ.gda.pl
-NOERROR	likaon.ek.univ.gda.pl
-NOERROR	g221.brzezno.univ.gda.pl
-NOERROR	iftia82.univ.gda.pl
-NOERROR	p-505-10.ek.univ.gda.pl
-NOERROR	pc-inf-5.bg.univ.gda.pl
-NOERROR	inkubator2.bg.univ.gda.pl
-NOERROR	fhkfg259.univ.gda.pl
-SERVFAIL	h210.ds9.univ.gda.pl
-NOERROR	t28063.chem.univ.gda.pl
-NOERROR	t29145.chem.univ.gda.pl
-NOERROR	p-114-1.zr.univ.gda.pl
-SERVFAIL	h20.ds9.univ.gda.pl
-NXDOMAIN	ifd252.univ.gda.pl
-NXDOMAIN	zsfsifd.univ.gda.pl
-NXDOMAIN	h217.ds5.univ.gda.pl
-NOERROR	h246.ds4.univ.gda.pl
-NOERROR	p-421-15.ek.univ.gda.pl
-NOERROR	bp111.wns.univ.gda.pl
-NXDOMAIN	h141.ds3.univ.gda.pl
-NOERROR	g21.brzezno.univ.gda.pl
-NOERROR	ip-cent-3.ek.univ.gda.pl
-SERVFAIL	h16.ds9.univ.gda.pl
-NXDOMAIN	komp28.pol.wns.univ.gda.pl
-NOERROR	tytan.bg.univ.gda.pl
-NOERROR	t29010.chem.univ.gda.pl
-NOERROR	kolostrzy.chem.univ.gda.pl
-NXDOMAIN	h29.ds3.univ.gda.pl
-SERVFAIL	h158.ds9.univ.gda.pl
-NXDOMAIN	stokrotka.geograf.univ.gda.pl
-NOERROR	p-308-1.ek.univ.gda.pl
-NOERROR	pc-adm.bg.univ.gda.pl
-NOERROR	p-317-1.ek.univ.gda.pl
-NXDOMAIN	h52.ds3.univ.gda.pl
-NOERROR	www.herder.univ.gda.pl
-NOERROR	shaka.univ.gda.pl
-NXDOMAIN	h240.ds10.univ.gda.pl
-NOERROR	t29144.chem.univ.gda.pl
-NOERROR	h249.ds6.univ.gda.pl
-NXDOMAIN	komp05.kknjo.univ.gda.pl
-NOERROR	karka.chem.univ.gda.pl
-NXDOMAIN	h71.ds10.univ.gda.pl
-NOERROR	hall3.ek.univ.gda.pl
-SERVFAIL	h116.ds9.univ.gda.pl
-NOERROR	p-209.zr.univ.gda.pl
-NXDOMAIN	ifd246.univ.gda.pl
-NOERROR	p518.ek.univ.gda.pl
-NOERROR	histos.wns.univ.gda.pl
-NXDOMAIN	h51.ds3.univ.gda.pl
-NXDOMAIN	sun2chem.univ.gda.pl
-NXDOMAIN	h104.ds5.univ.gda.pl
-NOERROR	g200.brzezno.univ.gda.pl
-NXDOMAIN	h45.ds10.univ.gda.pl
-NOERROR	inf-ps.bg.univ.gda.pl
-NOERROR	h92.ds4.univ.gda.pl
-NOERROR	iftia23.univ.gda.pl
-NOERROR	h79.ds4.univ.gda.pl
-NOERROR	iftia26.univ.gda.pl
-NOERROR	backuppc1.chem.univ.gda.pl
-NOERROR	fhkfg230.univ.gda.pl
-NXDOMAIN	h60.ds3.univ.gda.pl
-NOERROR	g11.brzezno.univ.gda.pl
-NOERROR	p-323-1.ek.univ.gda.pl
-NOERROR	h148.ds6.univ.gda.pl
-NXDOMAIN	h214.ds5.univ.gda.pl
-NOERROR	t29102.chem.univ.gda.pl
-NXDOMAIN	h14.ds3.univ.gda.pl
-NOERROR	t28116.chem.univ.gda.pl
-NOERROR	g18.brzezno.univ.gda.pl
-NOERROR	p-212-1.zr.univ.gda.pl
-NXDOMAIN	h126.ds3.univ.gda.pl
-NOERROR	slawi.univ.gda.pl
-SERVFAIL	h167.ds9.univ.gda.pl
-NXDOMAIN	bsvc.univ.gda.pl
-NOERROR	p-119-1.ek.univ.gda.pl
-NOERROR	ack1.univ.gda.pl
-NOERROR	h210.ds6.univ.gda.pl
-SERVFAIL	h179.ds9.univ.gda.pl
-NXDOMAIN	olak.chem.univ.gda.pl
-NOERROR	www2.univ.gda.pl
-NXDOMAIN	h22.ds5.univ.gda.pl
-NOERROR	kartki.bg.univ.gda.pl
-NXDOMAIN	h21.ds10.univ.gda.pl
-NXDOMAIN	geomorf.geograf.univ.gda.pl
-NOERROR	p-239-07.zr.univ.gda.pl
-NOERROR	r28123.chem.univ.gda.pl
-NXDOMAIN	ifd149-1.univ.gda.pl
-NOERROR	p-229-1.ek.univ.gda.pl
-NXDOMAIN	h176.ds3.univ.gda.pl
-NOERROR	prawo.univ.gda.pl
-NOERROR	p-hal-05.ek.univ.gda.pl
-NXDOMAIN	marta2.bg.univ.gda.pl
-NXDOMAIN	rtr.kknjo.univ.gda.pl
-NOERROR	pc-f3-2.wns.univ.gda.pl
-NOERROR	p-213-11.zr.univ.gda.pl
-SERVFAIL	h39.ds9.univ.gda.pl
-NXDOMAIN	h238.ds3.univ.gda.pl
-NOERROR	p-101-1.ek.univ.gda.pl
-NOERROR	p-213-13.zr.univ.gda.pl
-NOERROR	p-417-15.ek.univ.gda.pl
-NOERROR	h165.ds6.univ.gda.pl
-NOERROR	brcstud.univ.gda.pl
-SERVFAIL	h159.ds9.univ.gda.pl
-NOERROR	www.lezno.univ.gda.pl
-NOERROR	t28236.chem.univ.gda.pl
-NOERROR	www.socjokolektiv.univ.gda.pl
-NOERROR	g214.brzezno.univ.gda.pl
-NOERROR	p-110.zr.univ.gda.pl
-NOERROR	h58.ds4.univ.gda.pl
-NXDOMAIN	h217.ds10.univ.gda.pl
-NOERROR	gil.chem.univ.gda.pl
-NOERROR	g229.brzezno.univ.gda.pl
-NOERROR	g157.brzezno.univ.gda.pl
-NOERROR	ug2ek-swe.ek.univ.gda.pl
-NOERROR	student6.zr.univ.gda.pl
-NOERROR	komp29.pol.wns.univ.gda.pl
-NXDOMAIN	h233.ds10.univ.gda.pl
-NOERROR	dignatowska.chem.univ.gda.pl
-NOERROR	fh08-6.univ.gda.pl
-NOERROR	p-117-1.ek.univ.gda.pl
-NOERROR	g196.brzezno.univ.gda.pl
-NXDOMAIN	h85.ds5.univ.gda.pl
-NOERROR	p-122-1.zr.univ.gda.pl
-NOERROR	t28053.chem.univ.gda.pl
-NXDOMAIN	h146.ds5.univ.gda.pl
-NOERROR	pe.univ.gda.pl
-NOERROR	p-205-1.ek.univ.gda.pl
-SERVFAIL	h153.ds9.univ.gda.pl
-NOERROR	inkubator3.bg.univ.gda.pl
-NOERROR	h138.ds4.univ.gda.pl
-SERVFAIL	h134.ds9.univ.gda.pl
-NOERROR	ocean.univ.gda.pl
-NOERROR	p-113-1.ek.univ.gda.pl
-NXDOMAIN	bastion.univ.gda.pl
-NOERROR	fhifs231.univ.gda.pl
-NOERROR	www.konfterzeczy.strony.univ.gda.pl
-NOERROR	g242.brzezno.univ.gda.pl
-NOERROR	www.dkn.univ.gda.pl
-NOERROR	fh08-4.univ.gda.pl
-NOERROR	t29143.chem.univ.gda.pl
-NOERROR	h141.ds4.univ.gda.pl
-NOERROR	p-421-4.ek.univ.gda.pl
-NXDOMAIN	ifd239.univ.gda.pl
-NOERROR	h179.ds4.univ.gda.pl
-NXDOMAIN	h178.ds5.univ.gda.pl
-NXDOMAIN	komput10.chem.univ.gda.pl
-NOERROR	h91.ds4.univ.gda.pl
-NOERROR	g217.brzezno.univ.gda.pl
-NOERROR	h6.ds4.univ.gda.pl
-NOERROR	g201.brzezno.univ.gda.pl
-NOERROR	pc-42.ek.univ.gda.pl
-NOERROR	h137.ds6.univ.gda.pl
-NOERROR	l-p228.zr.univ.gda.pl
-NOERROR	h36.ds4.univ.gda.pl
-NOERROR	g95.brzezno.univ.gda.pl
-NOERROR	g147.brzezno.univ.gda.pl
-NOERROR	g83.brzezno.univ.gda.pl
-NXDOMAIN	h136.ds5.univ.gda.pl
-NOERROR	h32.ds4.univ.gda.pl
-NOERROR	t28028.chem.univ.gda.pl
-NOERROR	fh08-3.univ.gda.pl
-NXDOMAIN	warsztat.chem.univ.gda.pl
-NOERROR	hall4.ek.univ.gda.pl
-NXDOMAIN	h197.ds10.univ.gda.pl
-NOERROR	g42.brzezno.univ.gda.pl
-NOERROR	student5.zr.univ.gda.pl
-NOERROR	h25.ds4.univ.gda.pl
-NOERROR	g6.brzezno.univ.gda.pl
-NOERROR	h231.ds4.univ.gda.pl
-NXDOMAIN	h163.ds3.univ.gda.pl
-NOERROR	bp26.wns.univ.gda.pl
-NOERROR	h242.ds6.univ.gda.pl
-NOERROR	h41.ds4.univ.gda.pl
-NXDOMAIN	h14.ds5.univ.gda.pl
-NOERROR	p-114-1.ek.univ.gda.pl
-SERVFAIL	h132.ds9.univ.gda.pl
-NXDOMAIN	h129.ds5.univ.gda.pl
-NOERROR	piasek3.chem.univ.gda.pl
-NOERROR	p-515-8.ek.univ.gda.pl
-NOERROR	bolek.wns.univ.gda.pl
-NOERROR	be.ek.univ.gda.pl
-NXDOMAIN	komp02.kknjo.univ.gda.pl
-NOERROR	love.bg.univ.gda.pl
-NXDOMAIN	test-bug.bg.univ.gda.pl
-NOERROR	g72.brzezno.univ.gda.pl
-NOERROR	fhbib017.univ.gda.pl
-NXDOMAIN	komp20.pol.wns.univ.gda.pl
-NXDOMAIN	h223.ds10.univ.gda.pl
-NOERROR	iftia4.univ.gda.pl
-NOERROR	politologia.univ.gda.pl
-NOERROR	g212.brzezno.univ.gda.pl
-NOERROR	fhks245.univ.gda.pl
-NOERROR	fhd24-2.univ.gda.pl
-NOERROR	p-103-5.zr.univ.gda.pl
-NOERROR	pc-sjo-8.ek.univ.gda.pl
-NOERROR	h94.ds4.univ.gda.pl
-NOERROR	t29033.chem.univ.gda.pl
-NOERROR	t28035.chem.univ.gda.pl
-NXDOMAIN	h63.ds5.univ.gda.pl
-NOERROR	fluoryt.univ.gda.pl
-NOERROR	t29054.chem.univ.gda.pl
-NOERROR	g179.brzezno.univ.gda.pl
-NXDOMAIN	h103.ds3.univ.gda.pl
-NOERROR	p-313-3.ek.univ.gda.pl
-NXDOMAIN	h1.ds5.univ.gda.pl
-NOERROR	h200.ds6.univ.gda.pl
-NOERROR	h216.ds4.univ.gda.pl
-NOERROR	t29149.chem.univ.gda.pl
-NOERROR	p-516-29.ek.univ.gda.pl
-NXDOMAIN	ifd250.univ.gda.pl
-NOERROR	fhifp249.univ.gda.pl
-NOERROR	fhifp142.univ.gda.pl
-NOERROR	t29221.chem.univ.gda.pl
-NOERROR	h90.ds4.univ.gda.pl
-NXDOMAIN	h82.ds5.univ.gda.pl
-NOERROR	t28050.chem.univ.gda.pl
-NOERROR	g38.brzezno.univ.gda.pl
-NOERROR	gonzo.univ.gda.pl
-SERVFAIL	h79.ds9.univ.gda.pl
-NOERROR	p-420.ek.univ.gda.pl
-NXDOMAIN	ug1-rtr.univ.gda.pl
-NOERROR	g182.brzezno.univ.gda.pl
-NOERROR	iftia28.univ.gda.pl
-NXDOMAIN	pc101.biology.univ.gda.pl
-NOERROR	cyrkiel0.bg.univ.gda.pl
-NOERROR	t28067.chem.univ.gda.pl
-NXDOMAIN	h17.ds10.univ.gda.pl
-SERVFAIL	h189.ds9.univ.gda.pl
-NXDOMAIN	h91.ds10.univ.gda.pl
-NOERROR	p-516-1.ek.univ.gda.pl
-NXDOMAIN	h127.ds10.univ.gda.pl
-NOERROR	p-437.ek.univ.gda.pl
-NOERROR	pc-czyta-2.bg.univ.gda.pl
-NOERROR	www.ppc.univ.gda.pl
-NOERROR	h237.ds6.univ.gda.pl
-NXDOMAIN	h198.ds3.univ.gda.pl
-NOERROR	h137.ds4.univ.gda.pl
-NOERROR	p-229-5.zr.univ.gda.pl
-NOERROR	p-505-2.ek.univ.gda.pl
-NOERROR	p-103-3.zr.univ.gda.pl
-NXDOMAIN	h231.ds5.univ.gda.pl
-NOERROR	t28095.chem.univ.gda.pl
-NXDOMAIN	h182.ds10.univ.gda.pl
-NOERROR	iftia123.univ.gda.pl
-NOERROR	h163.ds4.univ.gda.pl
-NOERROR	g20.brzezno.univ.gda.pl
-NOERROR	auto4.bg.univ.gda.pl
-SERVFAIL	h173.ds9.univ.gda.pl
-NXDOMAIN	h4.ds3.univ.gda.pl
-NOERROR	g84.brzezno.univ.gda.pl
-SERVFAIL	h91.ds9.univ.gda.pl
-NXDOMAIN	h164.ds3.univ.gda.pl
-NOERROR	iftia90.univ.gda.pl
-NOERROR	g146.brzezno.univ.gda.pl
-NOERROR	g213.brzezno.univ.gda.pl
-NXDOMAIN	h191.ds10.univ.gda.pl
-NOERROR	t28202.chem.univ.gda.pl
-NOERROR	g204.brzezno.univ.gda.pl
-NOERROR	h214.ds6.univ.gda.pl
-SERVFAIL	h11.ds9.univ.gda.pl
-NXDOMAIN	pc104.biology.univ.gda.pl
-NXDOMAIN	h47.ds3.univ.gda.pl
-NXDOMAIN	bcount3.univ.gda.pl
-NOERROR	h118.ds4.univ.gda.pl
-NOERROR	ds135.chem.univ.gda.pl
-NXDOMAIN	ewasiedlecka.chem.univ.gda.pl
-NOERROR	keeper.chem.univ.gda.pl
-NXDOMAIN	h242.ds5.univ.gda.pl
-NOERROR	pc-wyp-2.bg.univ.gda.pl
-NOERROR	t29174.chem.univ.gda.pl
-NXDOMAIN	h173.ds10.univ.gda.pl
-NOERROR	p-419-1.ek.univ.gda.pl
-NOERROR	rorty.wns.univ.gda.pl
-NOERROR	h225.ds4.univ.gda.pl
-NOERROR	p-415-kr2.ek.univ.gda.pl
-NXDOMAIN	hydro10.geograf.univ.gda.pl
-NOERROR	strateg.bg.univ.gda.pl
-NXDOMAIN	h22.ds3.univ.gda.pl
-NOERROR	szkolenie.bg.univ.gda.pl
-SERVFAIL	h147.ds9.univ.gda.pl
-NOERROR	przaj.prawo.univ.gda.pl
-NXDOMAIN	h227.ds10.univ.gda.pl
-NOERROR	www.ifd.univ.gda.pl
-NOERROR	p-516-38.ek.univ.gda.pl
-NOERROR	g86.brzezno.univ.gda.pl
-NOERROR	www.kcik.univ.gda.pl
-NOERROR	rez4.bg.univ.gda.pl
-SERVFAIL	h129.ds9.univ.gda.pl
-NOERROR	greed.univ.gda.pl
-NXDOMAIN	h238.ds10.univ.gda.pl
-NOERROR	g149.brzezno.univ.gda.pl
-NOERROR	konsorcjum.bg.univ.gda.pl
-NOERROR	p-417-9.ek.univ.gda.pl
-NOERROR	bp48-2.wns.univ.gda.pl
-NXDOMAIN	ifd233.univ.gda.pl
-NOERROR	p-515-5.ek.univ.gda.pl
-NXDOMAIN	p-29-239.chem.univ.gda.pl
-NOERROR	p-101-2.pa.univ.gda.pl
-NOERROR	p-516-33.ek.univ.gda.pl
-SERVFAIL	h188.ds9.univ.gda.pl
-NXDOMAIN	h162.ds5.univ.gda.pl
-NOERROR	h238.ds4.univ.gda.pl
-NOERROR	h124.ds4.univ.gda.pl
-NOERROR	libero.chem.univ.gda.pl
-NOERROR	h230.ds4.univ.gda.pl
-NOERROR	p-115-2.zr.univ.gda.pl
-NXDOMAIN	h179.ds3.univ.gda.pl
-NXDOMAIN	h119.ds10.univ.gda.pl
-NOERROR	baran.chem.univ.gda.pl
-NXDOMAIN	tygrys2.zr.univ.gda.pl
-NXDOMAIN	h224.ds3.univ.gda.pl
-NOERROR	cyrkiel3.bg.univ.gda.pl
-NOERROR	t28227.chem.univ.gda.pl
-NOERROR	p-23-0.pa.univ.gda.pl
-NOERROR	t28139.chem.univ.gda.pl
-NOERROR	p-215-1.ek.univ.gda.pl
-NXDOMAIN	h107.ds3.univ.gda.pl
-NXDOMAIN	h79.ds3.univ.gda.pl
-NOERROR	dni-k-1.ek.univ.gda.pl
-NOERROR	lenyoszek.bg.univ.gda.pl
-NOERROR	katalog.bg.univ.gda.pl
-NXDOMAIN	h38.ds5.univ.gda.pl
-NOERROR	g12.brzezno.univ.gda.pl
-NXDOMAIN	h18.ds10.univ.gda.pl
-NOERROR	h177.ds4.univ.gda.pl
-SERVFAIL	h115.ds9.univ.gda.pl
-NXDOMAIN	h105.ds3.univ.gda.pl
-NOERROR	fhks8-6.univ.gda.pl
-NOERROR	iftia108.univ.gda.pl
-NXDOMAIN	h126.ds5.univ.gda.pl
-NOERROR	p-hal-09.ek.univ.gda.pl
-SERVFAIL	h107.ds9.univ.gda.pl
-NOERROR	p-421-9.ek.univ.gda.pl
-NOERROR	rez6.bg.univ.gda.pl
-NXDOMAIN	h158.ds10.univ.gda.pl
-NOERROR	t28184.chem.univ.gda.pl
-NXDOMAIN	h5.ds10.univ.gda.pl
-NOERROR	p-516-4.ek.univ.gda.pl
-NXDOMAIN	h10.ds5.univ.gda.pl
-NOERROR	h156.ds6.univ.gda.pl
-NOERROR	h40.ds4.univ.gda.pl
-NOERROR	p-239-05.zr.univ.gda.pl
-NOERROR	h112.ds4.univ.gda.pl
-NOERROR	t28101.chem.univ.gda.pl
-NOERROR	fhifs239.univ.gda.pl
-NXDOMAIN	h133.ds3.univ.gda.pl
-NOERROR	h205.ds4.univ.gda.pl
-NOERROR	kasia.wns.univ.gda.pl
-NXDOMAIN	h246.ds5.univ.gda.pl
-NOERROR	vpn14.bg.univ.gda.pl
-NXDOMAIN	h126.ds10.univ.gda.pl
-NOERROR	p-217-1.ek.univ.gda.pl
-NOERROR	myszka.chem.univ.gda.pl
-NOERROR	g96.brzezno.univ.gda.pl
-NOERROR	p-239-02.zr.univ.gda.pl
-NOERROR	t29235.chem.univ.gda.pl
-NOERROR	loki.chem.univ.gda.pl
-NOERROR	hall-09.bg.univ.gda.pl
-NOERROR	h115.ds4.univ.gda.pl
-NOERROR	p-115-3.zr.univ.gda.pl
-NOERROR	h74.ds4.univ.gda.pl
-NOERROR	g85.brzezno.univ.gda.pl
-NOERROR	globgov.bg.univ.gda.pl
-NOERROR	t29202.chem.univ.gda.pl
-NOERROR	t29216.chem.univ.gda.pl
-NOERROR	h215.ds4.univ.gda.pl
-NXDOMAIN	h106.ds10.univ.gda.pl
-NXDOMAIN	pc-bk-3.bg.univ.gda.pl
-NXDOMAIN	h87.ds3.univ.gda.pl
-NOERROR	rafal.univ.gda.pl
-NOERROR	hel.univ.gda.pl
-NXDOMAIN	h230.ds10.univ.gda.pl
-NOERROR	t28158.chem.univ.gda.pl
-NOERROR	fh08-8.univ.gda.pl
-NOERROR	gnu.univ.gda.pl
-NXDOMAIN	h130.ds3.univ.gda.pl
-NOERROR	ap-ek-19.ek.univ.gda.pl
-NOERROR	konarski.wns.univ.gda.pl
-NXDOMAIN	h202.ds5.univ.gda.pl
-NXDOMAIN	h117.ds10.univ.gda.pl
-SERVFAIL	h113.ds9.univ.gda.pl
-NOERROR	g97.brzezno.univ.gda.pl
-NXDOMAIN	h232.ds3.univ.gda.pl
-SERVFAIL	h209.ds9.univ.gda.pl
-NOERROR	t28224.chem.univ.gda.pl
-SERVFAIL	h54.ds9.univ.gda.pl
-NOERROR	p-047-3.ek.univ.gda.pl
-NOERROR	t29070.chem.univ.gda.pl
-NOERROR	p-ztit.zr.univ.gda.pl
-NOERROR	p-211-05.ek.univ.gda.pl
-NXDOMAIN	h174.ds3.univ.gda.pl
-NXDOMAIN	h60.ds5.univ.gda.pl
-NOERROR	ro1.bg.univ.gda.pl
-NOERROR	p-516-14.ek.univ.gda.pl
-NXDOMAIN	ifd338.univ.gda.pl
-NOERROR	g49.brzezno.univ.gda.pl
-NOERROR	bib03.prawo.univ.gda.pl
-NOERROR	t28058.chem.univ.gda.pl
-NOERROR	pc1-gazetaug.bg.univ.gda.pl
-NOERROR	ogolna.chem.univ.gda.pl
-SERVFAIL	h45.ds9.univ.gda.pl
-NOERROR	p-334-1.ek.univ.gda.pl
-NOERROR	nszz.univ.gda.pl
-NOERROR	cassubiana.bg.univ.gda.pl
-NOERROR	parl1.univ.gda.pl
-NOERROR	chem.univ.gda.pl
-NOERROR	student8.zr.univ.gda.pl
-NOERROR	t28232.chem.univ.gda.pl
-NOERROR	p-121-1.ek.univ.gda.pl
-SERVFAIL	h244.ds9.univ.gda.pl
-NOERROR	pc-kon.bg.univ.gda.pl
-NXDOMAIN	h106.ds3.univ.gda.pl
-SERVFAIL	h216.ds9.univ.gda.pl
-NOERROR	humus.chem.univ.gda.pl
-NOERROR	msa.bg.univ.gda.pl
-NOERROR	h160.ds4.univ.gda.pl
-NOERROR	kasia.chem.univ.gda.pl
-NOERROR	hape.chem.univ.gda.pl
-NOERROR	lcms.chem.univ.gda.pl
-NOERROR	lap-brzezno.bg.univ.gda.pl
-NOERROR	h214.ds4.univ.gda.pl
-NXDOMAIN	h37.ds3.univ.gda.pl
-NOERROR	iftia76.univ.gda.pl
-NOERROR	fhd56.univ.gda.pl
-NOERROR	g37.brzezno.univ.gda.pl
-NXDOMAIN	h35.ds10.univ.gda.pl
-NOERROR	p-hal-10.ek.univ.gda.pl
-NOERROR	g50.brzezno.univ.gda.pl
-NOERROR	print1.bg.univ.gda.pl
-NXDOMAIN	h205.ds3.univ.gda.pl
-NOERROR	h202.ds6.univ.gda.pl
-NOERROR	g88.brzezno.univ.gda.pl
-NOERROR	adamp13.univ.gda.pl
-NOERROR	p-047-9.ek.univ.gda.pl
-NOERROR	iftia50.univ.gda.pl
-NOERROR	par1.univ.gda.pl
-NOERROR	h83.ds4.univ.gda.pl
-NOERROR	cyrkiel5.bg.univ.gda.pl
-NOERROR	h44.ds4.univ.gda.pl
-NOERROR	p-127-1.zr.univ.gda.pl
-NOERROR	p-515-3.ek.univ.gda.pl
-NOERROR	sekretariat.wns.univ.gda.pl
-NOERROR	g190.brzezno.univ.gda.pl
-NOERROR	g60.brzezno.univ.gda.pl
-NXDOMAIN	h169.ds3.univ.gda.pl
-NXDOMAIN	komp10.kknjo.univ.gda.pl
-NOERROR	h241.ds6.univ.gda.pl
-NOERROR	p-101-5.pa.univ.gda.pl
-NXDOMAIN	h89.ds10.univ.gda.pl
-NOERROR	komp21.pol.wns.univ.gda.pl
-NOERROR	t28228.chem.univ.gda.pl
-NXDOMAIN	h122.ds10.univ.gda.pl
-NXDOMAIN	h232.ds10.univ.gda.pl
-NOERROR	h80.ds4.univ.gda.pl
-NOERROR	p-417-20.ek.univ.gda.pl
-NOERROR	t29210.chem.univ.gda.pl
-SERVFAIL	h130.ds9.univ.gda.pl
-NOERROR	halina.wns.univ.gda.pl
-NOERROR	bbrom-3.wns.univ.gda.pl
-NOERROR	ocean-dns1.univ.gda.pl
-SERVFAIL	h169.ds9.univ.gda.pl
-NXDOMAIN	h90.ds5.univ.gda.pl
-NXDOMAIN	h46.ds10.univ.gda.pl
-NOERROR	g169.brzezno.univ.gda.pl
-NOERROR	h254.ds6.univ.gda.pl
-NOERROR	wodnik.chem.univ.gda.pl
-NXDOMAIN	h230.ds5.univ.gda.pl
-NXDOMAIN	h70.ds5.univ.gda.pl
-NOERROR	p-312-2.zr.univ.gda.pl
-NOERROR	p-010-1.zr.univ.gda.pl
-NOERROR	t28040.chem.univ.gda.pl
-NOERROR	g176.brzezno.univ.gda.pl
-NOERROR	katedra.ek.univ.gda.pl
-NXDOMAIN	h83.ds10.univ.gda.pl
-NOERROR	g156.brzezno.univ.gda.pl
-NOERROR	rykar.bg.univ.gda.pl
-NXDOMAIN	h97.ds3.univ.gda.pl
-NOERROR	tlug.zr.univ.gda.pl
-NXDOMAIN	h13.ds3.univ.gda.pl
-NOERROR	t28239.chem.univ.gda.pl
-NOERROR	absolwenciwshm-wse-ug.univ.gda.pl
-NOERROR	g180.brzezno.univ.gda.pl
-NXDOMAIN	h72.ds5.univ.gda.pl
-NXDOMAIN	h37.ds5.univ.gda.pl
-NOERROR	g187.brzezno.univ.gda.pl
-NXDOMAIN	h63.ds10.univ.gda.pl
-NXDOMAIN	h47.ds10.univ.gda.pl
-NXDOMAIN	ifd151.univ.gda.pl
-NOERROR	t28062.chem.univ.gda.pl
-NXDOMAIN	ob2.univ.gda.pl
-NXDOMAIN	h236.ds3.univ.gda.pl
-NOERROR	ewa.bg.univ.gda.pl
-NXDOMAIN	h207.ds3.univ.gda.pl
-NOERROR	g205.brzezno.univ.gda.pl
-NXDOMAIN	h172.ds10.univ.gda.pl
-NOERROR	tygrys.ek.univ.gda.pl
-NOERROR	aditi.univ.gda.pl
-NXDOMAIN	h57.ds10.univ.gda.pl
-NOERROR	p-106-2.zr.univ.gda.pl
-NXDOMAIN	h45.ds5.univ.gda.pl
-NOERROR	72.prawo.univ.gda.pl
-NXDOMAIN	ifd102.univ.gda.pl
-NOERROR	t29095.chem.univ.gda.pl
-NXDOMAIN	altiris.univ.gda.pl
-NXDOMAIN	h51.ds5.univ.gda.pl
-NXDOMAIN	h65.ds5.univ.gda.pl
-SERVFAIL	h29.ds9.univ.gda.pl
-NOERROR	h145.ds6.univ.gda.pl
-NOERROR	p-29-228.chem.univ.gda.pl
-NXDOMAIN	ifd240.univ.gda.pl
-SERVFAIL	h21.ds9.univ.gda.pl
-NOERROR	g138.brzezno.univ.gda.pl
-NOERROR	xxl.ek.univ.gda.pl
-NOERROR	h82.ds4.univ.gda.pl
-NOERROR	iftia124.univ.gda.pl
-NOERROR	pc-wyp-3.bg.univ.gda.pl
-NOERROR	fh08-9.univ.gda.pl
-NXDOMAIN	h12.ds3.univ.gda.pl
-NOERROR	t28182.chem.univ.gda.pl
-NXDOMAIN	h156.ds10.univ.gda.pl
-NOERROR	www.isahi.univ.gda.pl
-NOERROR	h12.ds4.univ.gda.pl
-NOERROR	www.apop.univ.gda.pl
-NOERROR	fhbib020.univ.gda.pl
-NOERROR	vpn7.bg.univ.gda.pl
-NOERROR	magic.ek.univ.gda.pl
-NOERROR	t28083.chem.univ.gda.pl
-NOERROR	beata.wns.univ.gda.pl
-NOERROR	vpn9.bg.univ.gda.pl
-NXDOMAIN	h158.ds5.univ.gda.pl
-NOERROR	iftia87.univ.gda.pl
-NOERROR	backup.bg.univ.gda.pl
-SERVFAIL	h51.ds9.univ.gda.pl
-NXDOMAIN	h96.ds5.univ.gda.pl
-NOERROR	t28119.chem.univ.gda.pl
-NXDOMAIN	h234.ds5.univ.gda.pl
-NOERROR	h61.ds4.univ.gda.pl
-NXDOMAIN	cyrkiel1.bg.univ.gda.pl
-NOERROR	t28044.chem.univ.gda.pl
-NOERROR	kafel.chem.univ.gda.pl
-NXDOMAIN	h107.ds10.univ.gda.pl
-NXDOMAIN	h26.ds10.univ.gda.pl
-NOERROR	p-rekrut-1.zr.univ.gda.pl
-NOERROR	t28154.chem.univ.gda.pl
-NOERROR	iftia46.univ.gda.pl
-NOERROR	p-29-246.chem.univ.gda.pl
-NOERROR	p-419-2.ek.univ.gda.pl
-NOERROR	g144.brzezno.univ.gda.pl
-NOERROR	chemo1.chem.univ.gda.pl
-NOERROR	t28192.chem.univ.gda.pl
-NXDOMAIN	bozon.chem.univ.gda.pl
-NOERROR	kasia.univ.gda.pl
-NOERROR	ug1-rut-hum.univ.gda.pl
-NOERROR	h176.ds6.univ.gda.pl
-NXDOMAIN	h178.ds3.univ.gda.pl
-NOERROR	bogdan.chem.univ.gda.pl
-NXDOMAIN	basrutten.univ.gda.pl
-NOERROR	p-631-1.ek.univ.gda.pl
-NOERROR	r28136.chem.univ.gda.pl
-NXDOMAIN	herdcen4.univ.gda.pl
-NXDOMAIN	h117.ds5.univ.gda.pl
-NOERROR	fhih29.univ.gda.pl
-NXDOMAIN	h254.ds10.univ.gda.pl
-NXDOMAIN	h207.ds10.univ.gda.pl
-NOERROR	p-225.zr.univ.gda.pl
-NOERROR	p-630-b.ek.univ.gda.pl
-NOERROR	p-23-3.pa.univ.gda.pl
-NOERROR	h162.ds4.univ.gda.pl
-NXDOMAIN	h106.ds5.univ.gda.pl
-NOERROR	g189.brzezno.univ.gda.pl
-NXDOMAIN	h240.ds5.univ.gda.pl
-NOERROR	fh07-2.univ.gda.pl
-NOERROR	g56.brzezno.univ.gda.pl
-NXDOMAIN	h151.ds5.univ.gda.pl
-NOERROR	psyzn.wns.univ.gda.pl
-NXDOMAIN	h65.ds10.univ.gda.pl
-NOERROR	h245.ds6.univ.gda.pl
-NOERROR	h184.ds4.univ.gda.pl
-NOERROR	h57.ds4.univ.gda.pl
-NOERROR	t29105.chem.univ.gda.pl
-NXDOMAIN	h69.ds10.univ.gda.pl
-NXDOMAIN	h152.ds3.univ.gda.pl
-SERVFAIL	h125.ds9.univ.gda.pl
-NXDOMAIN	h5.ds5.univ.gda.pl
-NOERROR	fhksl247.univ.gda.pl
-NOERROR	samuraj.chem.univ.gda.pl
-NOERROR	t28049.chem.univ.gda.pl
-SERVFAIL	h148.ds9.univ.gda.pl
-NOERROR	iftia44.univ.gda.pl
-NOERROR	p149.chem.univ.gda.pl
-NOERROR	t29229.chem.univ.gda.pl
-NOERROR	t28113.chem.univ.gda.pl
-NXDOMAIN	h72.ds10.univ.gda.pl
-NXDOMAIN	h247.ds3.univ.gda.pl
-NOERROR	p-239-16.zr.univ.gda.pl
-NOERROR	psyche.wns.univ.gda.pl
-NOERROR	h125.ds4.univ.gda.pl
-NXDOMAIN	h46.ds5.univ.gda.pl
-NOERROR	h85.ds4.univ.gda.pl
-NOERROR	t29040.chem.univ.gda.pl
-NOERROR	h203.ds6.univ.gda.pl
-NOERROR	hall-07.bg.univ.gda.pl
-NOERROR	wiesiek.univ.gda.pl
-NOERROR	g116.brzezno.univ.gda.pl
-NOERROR	p-415-kr3.ek.univ.gda.pl
-NOERROR	tomek.univ.gda.pl
-NOERROR	iftia64.univ.gda.pl
-SERVFAIL	h233.ds9.univ.gda.pl
-NOERROR	g109.brzezno.univ.gda.pl
-NOERROR	h158.ds6.univ.gda.pl
-NOERROR	kcik-ser.bg.univ.gda.pl
-NOERROR	h146.ds6.univ.gda.pl
-NOERROR	t28057.chem.univ.gda.pl
-NOERROR	p-131-2.ek.univ.gda.pl
-NXDOMAIN	h40.ds3.univ.gda.pl
-NOERROR	h28.ds4.univ.gda.pl
-NXDOMAIN	h27.ds3.univ.gda.pl
-NXDOMAIN	h123.ds10.univ.gda.pl
-NOERROR	mulgara.bg.univ.gda.pl
-NOERROR	pikom.prawo.univ.gda.pl
-NOERROR	g164.brzezno.univ.gda.pl
-NOERROR	g163.brzezno.univ.gda.pl
-NOERROR	univ.gda.pl
-NOERROR	h221.ds6.univ.gda.pl
-NOERROR	pc-inf-0.bg.univ.gda.pl
-NOERROR	www.ptab.univ.gda.pl
-SERVFAIL	h228.ds9.univ.gda.pl
-NOERROR	fhkfsl243.univ.gda.pl
-NXDOMAIN	h132.ds3.univ.gda.pl
-SERVFAIL	h78.ds9.univ.gda.pl
-NXDOMAIN	h130.ds10.univ.gda.pl
-NOERROR	camera1.bg.univ.gda.pl
-NOERROR	p-23-7.pa.univ.gda.pl
-NOERROR	g181.brzezno.univ.gda.pl
-NOERROR	t29115.chem.univ.gda.pl
-NXDOMAIN	h237.ds5.univ.gda.pl
-NOERROR	mion.chem.univ.gda.pl
-NXDOMAIN	h137.ds5.univ.gda.pl
-NXDOMAIN	h19.ds5.univ.gda.pl
-NOERROR	g158.brzezno.univ.gda.pl
-NXDOMAIN	h235.ds5.univ.gda.pl
-NXDOMAIN	h92.ds5.univ.gda.pl
-NXDOMAIN	h129.ds3.univ.gda.pl
-NXDOMAIN	h91.ds5.univ.gda.pl
-NOERROR	t28036.chem.univ.gda.pl
-SERVFAIL	h133.ds9.univ.gda.pl
-NXDOMAIN	h171.ds5.univ.gda.pl
-SERVFAIL	h176.ds9.univ.gda.pl
-NOERROR	p-229-4.zr.univ.gda.pl
-NXDOMAIN	h3.ds10.univ.gda.pl
-NXDOMAIN	ifd103.univ.gda.pl
-NOERROR	iftia32.univ.gda.pl
-NXDOMAIN	www.biotech.univ.gda.pl
-NOERROR	iftia96.univ.gda.pl
-NOERROR	www.bgo.univ.gda.pl
-NXDOMAIN	h84.ds3.univ.gda.pl
-NXDOMAIN	h20.ds5.univ.gda.pl
-NXDOMAIN	h33.ds3.univ.gda.pl
-NOERROR	p-125-2.ek.univ.gda.pl
-NOERROR	dziek04.prawo.univ.gda.pl
-SERVFAIL	h172.ds9.univ.gda.pl
-NXDOMAIN	h39.ds3.univ.gda.pl
-NOERROR	p-104-1.ek.univ.gda.pl
-NXDOMAIN	h66.ds5.univ.gda.pl
-NOERROR	g117.brzezno.univ.gda.pl
-NOERROR	pchs_access.chem.univ.gda.pl
-NOERROR	rez1.bg.univ.gda.pl
-NOERROR	iftia8.univ.gda.pl
-NOERROR	h65.ds4.univ.gda.pl
-NOERROR	p-216-1.zr.univ.gda.pl
-NOERROR	sw3.bg.univ.gda.pl
-SERVFAIL	h6.ds9.univ.gda.pl
-NOERROR	h218.ds6.univ.gda.pl
-NOERROR	h236.ds6.univ.gda.pl
-NOERROR	vpn10.bg.univ.gda.pl
-NOERROR	sw2.bg.univ.gda.pl
-NXDOMAIN	ifd301-5.univ.gda.pl
-NOERROR	bp33-1.wns.univ.gda.pl
-NOERROR	iftia60.univ.gda.pl
-NXDOMAIN	h73.ds3.univ.gda.pl
-NOERROR	p-223-2.zr.univ.gda.pl
-NOERROR	t28092.chem.univ.gda.pl
-SERVFAIL	h23.ds9.univ.gda.pl
-NOERROR	kuba.univ.gda.pl
-NXDOMAIN	h48.ds3.univ.gda.pl
-NXDOMAIN	t29078.chem.univ.gda.pl
-NOERROR	t28142.chem.univ.gda.pl
-NXDOMAIN	kolosdwa.chem.univ.gda.pl
-NOERROR	p-10-2.zr.univ.gda.pl
-NOERROR	jupiter.wns.univ.gda.pl
-NOERROR	iftia16.univ.gda.pl
-NOERROR	r28134.chem.univ.gda.pl
-NXDOMAIN	h53.ds3.univ.gda.pl
-NOERROR	iftia88.univ.gda.pl
-NOERROR	p-311-1.ek.univ.gda.pl
-NOERROR	t29129.chem.univ.gda.pl
-NOERROR	t28249.chem.univ.gda.pl
-NXDOMAIN	h153.ds10.univ.gda.pl
-NOERROR	h89.ds4.univ.gda.pl
-NXDOMAIN	h121.ds5.univ.gda.pl
-NOERROR	kogut.chem.univ.gda.pl
-NXDOMAIN	h116.ds10.univ.gda.pl
-NOERROR	t29222.chem.univ.gda.pl
-NOERROR	sw6.bg.univ.gda.pl
-NOERROR	p-516-19.ek.univ.gda.pl
-NOERROR	www.change.univ.gda.pl
-NOERROR	g186.brzezno.univ.gda.pl
-NOERROR	kcik-box.bg.univ.gda.pl
-NOERROR	p-29-155.chem.univ.gda.pl
-NOERROR	inf.univ.gda.pl
-NOERROR	iftia94.univ.gda.pl
-NOERROR	p-216-2.zr.univ.gda.pl
-NXDOMAIN	h92.ds3.univ.gda.pl
-NOERROR	robert.wns.univ.gda.pl
-NOERROR	wnswz.strony.univ.gda.pl
-NOERROR	t28017.chem.univ.gda.pl
-NXDOMAIN	h213.ds5.univ.gda.pl
-NXDOMAIN	h64.ds3.univ.gda.pl
-NXDOMAIN	h56.ds10.univ.gda.pl
-NXDOMAIN	h219.ds10.univ.gda.pl
-NOERROR	h240.ds4.univ.gda.pl
-NOERROR	p-126-3.ek.univ.gda.pl
-NXDOMAIN	h188.ds5.univ.gda.pl
-NOERROR	t28157.chem.univ.gda.pl
-NOERROR	p-122-3.zr.univ.gda.pl
-NXDOMAIN	h111.ds10.univ.gda.pl
-NOERROR	www.najlepsi.univ.gda.pl
-NXDOMAIN	h83.ds5.univ.gda.pl
-NXDOMAIN	h90.ds3.univ.gda.pl
-NXDOMAIN	h247.ds10.univ.gda.pl
-NOERROR	rubin.chem.univ.gda.pl
-NOERROR	alfred.chem.univ.gda.pl
-NXDOMAIN	h54.ds10.univ.gda.pl
-NOERROR	t29120.chem.univ.gda.pl
-NOERROR	pa.univ.gda.pl
-NXDOMAIN	ifd74.univ.gda.pl
-NXDOMAIN	h242.ds10.univ.gda.pl
-NOERROR	ap-ek-18.ek.univ.gda.pl
-SERVFAIL	h34.ds9.univ.gda.pl
-NXDOMAIN	h159.ds3.univ.gda.pl
-NXDOMAIN	h58.ds5.univ.gda.pl
-NOERROR	h219.ds4.univ.gda.pl
-NXDOMAIN	voip03.kknjo.univ.gda.pl
-NOERROR	h114.ds4.univ.gda.pl
-NXDOMAIN	pc112a.biology.univ.gda.pl
-NOERROR	iftia34.univ.gda.pl
-NOERROR	t29220.chem.univ.gda.pl
-NXDOMAIN	h182.ds3.univ.gda.pl
-NXDOMAIN	klm1.geograf.univ.gda.pl
-NOERROR	smok.univ.gda.pl
-NOERROR	forum.bg.univ.gda.pl
-NOERROR	g108.brzezno.univ.gda.pl
-NXDOMAIN	h184.ds5.univ.gda.pl
-NXDOMAIN	wojtek.geograf.univ.gda.pl
-NOERROR	fhd55.univ.gda.pl
-NOERROR	p-228-7.zr.univ.gda.pl
-NXDOMAIN	h29.ds5.univ.gda.pl
-NXDOMAIN	h44.ds3.univ.gda.pl
-NOERROR	win2.bg.univ.gda.pl
-NXDOMAIN	h240.ds3.univ.gda.pl
-NOERROR	t28148.chem.univ.gda.pl
-NOERROR	beata.bg.univ.gda.pl
-NOERROR	g78.brzezno.univ.gda.pl
-NOERROR	p-103-2.zr.univ.gda.pl
-NXDOMAIN	h63.ds3.univ.gda.pl
-NOERROR	squlpin.univ.gda.pl
-NXDOMAIN	maxim.geograf.univ.gda.pl
-NOERROR	g195.brzezno.univ.gda.pl
-NOERROR	p-106-5.zr.univ.gda.pl
-NOERROR	t28190.chem.univ.gda.pl
-NOERROR	ap-ek-8.ek.univ.gda.pl
-NOERROR	r29242.chem.univ.gda.pl
-NOERROR	www.univ.gda.pl
-NXDOMAIN	h74.ds10.univ.gda.pl
-SERVFAIL	h56.ds9.univ.gda.pl
-NXDOMAIN	herdcen6.univ.gda.pl
-NOERROR	madzia.univ.gda.pl
-NOERROR	wilk.chem.univ.gda.pl
-SERVFAIL	h48.ds9.univ.gda.pl
-NOERROR	paula.univ.gda.pl
-NOERROR	vpn4.bg.univ.gda.pl
-NOERROR	p-213-10.zr.univ.gda.pl
-NOERROR	p-233.zr.univ.gda.pl
-NXDOMAIN	h33.ds10.univ.gda.pl
-NOERROR	p-03-2.zr.univ.gda.pl
-NOERROR	t29092.chem.univ.gda.pl
-NXDOMAIN	h180.ds10.univ.gda.pl
-NOERROR	p-010-3.zr.univ.gda.pl
-NOERROR	h55.ds4.univ.gda.pl
-NOERROR	p-216-2.ek.univ.gda.pl
-NOERROR	hp1200-cb.bg.univ.gda.pl
-NOERROR	p-321-2.ek.univ.gda.pl
-NXDOMAIN	ifd301-1.univ.gda.pl
-NXDOMAIN	h74.ds3.univ.gda.pl
-NOERROR	smok.zr.univ.gda.pl
-NOERROR	p-130-1.ek.univ.gda.pl
-NXDOMAIN	pc-bk-2.bg.univ.gda.pl
-NXDOMAIN	h96.ds3.univ.gda.pl
-NOERROR	www.kgigcz.univ.gda.pl
-NOERROR	t29248.chem.univ.gda.pl
-NXDOMAIN	h194.ds3.univ.gda.pl
-NOERROR	g68.brzezno.univ.gda.pl
-NOERROR	adm.prawo.univ.gda.pl
-NOERROR	p-129-1.zr.univ.gda.pl
-NOERROR	p-213-12.zr.univ.gda.pl
-NXDOMAIN	h202.ds10.univ.gda.pl
-NOERROR	h212.ds6.univ.gda.pl
-NXDOMAIN	h172.ds3.univ.gda.pl
-NOERROR	t28215.chem.univ.gda.pl
-NXDOMAIN	ifd301-11.univ.gda.pl
-NOERROR	iftia98.univ.gda.pl
-NOERROR	p-nauki2.bg.univ.gda.pl
-SERVFAIL	h220.ds9.univ.gda.pl
-NXDOMAIN	h109.ds3.univ.gda.pl
-NOERROR	jarek.univ.gda.pl
-NOERROR	jodzio.wns.univ.gda.pl
-NOERROR	h227.ds6.univ.gda.pl
-NXDOMAIN	h74.ds5.univ.gda.pl
-NOERROR	p-421-16.ek.univ.gda.pl
-NXDOMAIN	bcount2.univ.gda.pl
-NOERROR	t29026.chem.univ.gda.pl
-NOERROR	g178.brzezno.univ.gda.pl
-NOERROR	katalog-pan.bg.univ.gda.pl
-NOERROR	h220.ds4.univ.gda.pl
-NXDOMAIN	h127.ds3.univ.gda.pl
-NXDOMAIN	h205.ds5.univ.gda.pl
-NOERROR	g167.brzezno.univ.gda.pl
-NOERROR	tera.univ.gda.pl
-NOERROR	www.kosz.azs.univ.gda.pl
-NOERROR	g173.brzezno.univ.gda.pl
-NOERROR	p-230.zr.univ.gda.pl
-NXDOMAIN	pcaga.biology.univ.gda.pl
-NOERROR	jacek.univ.gda.pl
-NOERROR	p-631-2.ek.univ.gda.pl
-NOERROR	h208.ds6.univ.gda.pl
-SERVFAIL	h240.ds9.univ.gda.pl
-NOERROR	p-23-6.pa.univ.gda.pl
-NOERROR	g235.brzezno.univ.gda.pl
-NOERROR	g129.brzezno.univ.gda.pl
-NOERROR	t29160.chem.univ.gda.pl
-NOERROR	p-oiz-2.zr.univ.gda.pl
-NOERROR	puma.bg.univ.gda.pl
-NOERROR	p-318-1.ek.univ.gda.pl
-NXDOMAIN	ifd301-8.univ.gda.pl
-NOERROR	g151.brzezno.univ.gda.pl
-NOERROR	parad.prawo.univ.gda.pl
-NOERROR	g105.brzezno.univ.gda.pl
-NOERROR	g120.brzezno.univ.gda.pl
-NOERROR	p-229-11.zr.univ.gda.pl
-NXDOMAIN	h24.ds3.univ.gda.pl
-SERVFAIL	h206.ds9.univ.gda.pl
-NOERROR	fhks3.univ.gda.pl
-NOERROR	t28084.chem.univ.gda.pl
-NOERROR	j97.ds.univ.gda.pl
-NXDOMAIN	h43.ds5.univ.gda.pl
-NXDOMAIN	h32.ds5.univ.gda.pl
-NOERROR	t29066.chem.univ.gda.pl
-NOERROR	iftia118.univ.gda.pl
-NOERROR	h198.ds6.univ.gda.pl
-NXDOMAIN	h66.ds3.univ.gda.pl
-NXDOMAIN	h231.ds3.univ.gda.pl
-NOERROR	switch-logop.wns.univ.gda.pl
-NOERROR	p-421-5.ek.univ.gda.pl
-NOERROR	linksys-bib.pol.wns.univ.gda.pl
-NOERROR	p-112-1.ek.univ.gda.pl
-NOERROR	iftia71.univ.gda.pl
-NOERROR	t28038.chem.univ.gda.pl
-NXDOMAIN	h198.ds10.univ.gda.pl
-NOERROR	t29224.chem.univ.gda.pl
-NOERROR	h148.ds4.univ.gda.pl
-NOERROR	g126.brzezno.univ.gda.pl
-NXDOMAIN	pc6.biology.univ.gda.pl
-SERVFAIL	h86.ds9.univ.gda.pl
-NOERROR	fhlog7.univ.gda.pl
-NOERROR	g246.brzezno.univ.gda.pl
-NOERROR	h243.ds4.univ.gda.pl
-NOERROR	h204.ds6.univ.gda.pl
-NOERROR	h247.ds4.univ.gda.pl
-NOERROR	p-421-11.ek.univ.gda.pl
-NOERROR	p-239-15.zr.univ.gda.pl
-NOERROR	h166.ds6.univ.gda.pl
-NOERROR	p-sjo-14.ek.univ.gda.pl
-NOERROR	iftia24.univ.gda.pl
-NOERROR	g57.brzezno.univ.gda.pl
-NXDOMAIN	h216.ds5.univ.gda.pl
-NXDOMAIN	h60.ds10.univ.gda.pl
-NOERROR	p-201.zr.univ.gda.pl
-NOERROR	p-229-10.zr.univ.gda.pl
-NOERROR	h234.ds4.univ.gda.pl
-NXDOMAIN	voip02.kknjo.univ.gda.pl
-NOERROR	chudy.univ.gda.pl
-SERVFAIL	h243.ds9.univ.gda.pl
-NOERROR	p-221-1.ek.univ.gda.pl
-NOERROR	g91.brzezno.univ.gda.pl
-NXDOMAIN	h102.ds3.univ.gda.pl
-NXDOMAIN	h93.ds5.univ.gda.pl
-NOERROR	mon.chem.univ.gda.pl
-NOERROR	p-333-2.ek.univ.gda.pl
-NXDOMAIN	h165.ds5.univ.gda.pl
-NOERROR	rolka.chem.univ.gda.pl
-NOERROR	h186.ds6.univ.gda.pl
-NOERROR	p-516-23.ek.univ.gda.pl
-NXDOMAIN	h241.ds3.univ.gda.pl
-NXDOMAIN	h59.ds3.univ.gda.pl
-NOERROR	g103.brzezno.univ.gda.pl
-NOERROR	student2.zr.univ.gda.pl
-NXDOMAIN	h235.ds10.univ.gda.pl
-NOERROR	p-404.ek.univ.gda.pl
-NOERROR	h50.ds4.univ.gda.pl
-NOERROR	p-102-1.zr.univ.gda.pl
-NXDOMAIN	h157.ds10.univ.gda.pl
-NXDOMAIN	h52.ds10.univ.gda.pl
-NOERROR	h132.ds6.univ.gda.pl
-NOERROR	t29048.chem.univ.gda.pl
-NOERROR	www.zsm.univ.gda.pl
-NOERROR	p-313-3.zr.univ.gda.pl
-NXDOMAIN	h222.ds10.univ.gda.pl
-NOERROR	shimadzu.chem.univ.gda.pl
-NOERROR	iftia57.univ.gda.pl
-NOERROR	t28230.chem.univ.gda.pl
-NOERROR	t28147.chem.univ.gda.pl
-NOERROR	t29219.chem.univ.gda.pl
-NXDOMAIN	ifd301-7.univ.gda.pl
-NOERROR	t28153.chem.univ.gda.pl
-NOERROR	p-111-1.zr.univ.gda.pl
-NOERROR	p-8.zr.univ.gda.pl
-NOERROR	p-515-2.ek.univ.gda.pl
-NOERROR	t29134.chem.univ.gda.pl
-NOERROR	h109.ds4.univ.gda.pl
-SERVFAIL	h225.ds9.univ.gda.pl
-NOERROR	prsoko.prawo.univ.gda.pl
-NOERROR	p-313-4.zr.univ.gda.pl
-NOERROR	t29181.chem.univ.gda.pl
-NOERROR	h135.ds4.univ.gda.pl
-NOERROR	p-hal-04.ek.univ.gda.pl
-NXDOMAIN	h116.ds3.univ.gda.pl
-NXDOMAIN	h34.ds5.univ.gda.pl
-SERVFAIL	h69.ds9.univ.gda.pl
-NOERROR	dziek07.prawo.univ.gda.pl
-NXDOMAIN	grafik.chem.univ.gda.pl
-NXDOMAIN	h243.ds3.univ.gda.pl
-NOERROR	vpn15.bg.univ.gda.pl
-NOERROR	p-417-3.ek.univ.gda.pl
-NXDOMAIN	h136.ds10.univ.gda.pl
-NXDOMAIN	phoenix.univ.gda.pl
-NOERROR	p-222-2.ek.univ.gda.pl
-NXDOMAIN	h232.ds5.univ.gda.pl
-NOERROR	t29009.chem.univ.gda.pl
-NOERROR	p-514-1.ek.univ.gda.pl
-NXDOMAIN	h254.ds5.univ.gda.pl
-NOERROR	term-k.bg.univ.gda.pl
-SERVFAIL	h144.ds9.univ.gda.pl
-NOERROR	iftia113.univ.gda.pl
-NOERROR	l-03.zr.univ.gda.pl
-NOERROR	t29142.chem.univ.gda.pl
-NOERROR	t29197.chem.univ.gda.pl
-NOERROR	t29124.chem.univ.gda.pl
-NOERROR	h7.ds4.univ.gda.pl
-NOERROR	h172.ds4.univ.gda.pl
-NOERROR	g134.brzezno.univ.gda.pl
-NOERROR	technicy.prawo.univ.gda.pl
-NXDOMAIN	h139.ds3.univ.gda.pl
-NOERROR	geografia.univ.gda.pl
-NOERROR	h63.ds4.univ.gda.pl
-NOERROR	iftia116.univ.gda.pl
-NXDOMAIN	h208.ds3.univ.gda.pl
-NOERROR	h167.ds4.univ.gda.pl
-NXDOMAIN	h189.ds10.univ.gda.pl
-NOERROR	rez2.bg.univ.gda.pl
-SERVFAIL	h50.ds9.univ.gda.pl
-NOERROR	p-230-2.ek.univ.gda.pl
-NOERROR	g76.brzezno.univ.gda.pl
-NOERROR	sw-237.chem.univ.gda.pl
-NXDOMAIN	h167.ds3.univ.gda.pl
-SERVFAIL	h61.ds9.univ.gda.pl
-NOERROR	fhfk219.univ.gda.pl
-NOERROR	h223.ds6.univ.gda.pl
-NOERROR	t28048.chem.univ.gda.pl
-NOERROR	mplex6.bg.univ.gda.pl
-NOERROR	gnu.bg.univ.gda.pl
-NXDOMAIN	h211.ds3.univ.gda.pl
-NOERROR	h218.ds4.univ.gda.pl
-NOERROR	jarek.wns.univ.gda.pl
-SERVFAIL	h146.ds9.univ.gda.pl
-NOERROR	panda.bg.univ.gda.pl
-NOERROR	wenus.wns.univ.gda.pl
-NOERROR	p-2-1.ek.univ.gda.pl
-NOERROR	spektro.chem.univ.gda.pl
-NOERROR	hazet.ek.univ.gda.pl
-NOERROR	t29184.chem.univ.gda.pl
-NXDOMAIN	h165.ds10.univ.gda.pl
-NOERROR	hall1.ek.univ.gda.pl
-NOERROR	landi.univ.gda.pl
-NOERROR	eval.univ.gda.pl
-NOERROR	p-417-18.ek.univ.gda.pl
-NOERROR	sklepik.chem.univ.gda.pl
-NOERROR	mplex4.bg.univ.gda.pl
-NOERROR	p-320-1.ek.univ.gda.pl
-NOERROR	p-227.zr.univ.gda.pl
-NXDOMAIN	h108.ds3.univ.gda.pl
-NOERROR	g132.brzezno.univ.gda.pl
-NOERROR	g89.brzezno.univ.gda.pl
-NOERROR	gnu-a.bg.univ.gda.pl
-NOERROR	tridens.wns.univ.gda.pl
-NOERROR	p-224-2.ek.univ.gda.pl
-NOERROR	t29161.chem.univ.gda.pl
-NOERROR	h248.ds4.univ.gda.pl
-NXDOMAIN	h17.ds5.univ.gda.pl
-NOERROR	iftia53.univ.gda.pl
-NOERROR	i82.ds.univ.gda.pl
-NOERROR	p-113-1.zr.univ.gda.pl
-NOERROR	h133.ds6.univ.gda.pl
-NXDOMAIN	h132.ds10.univ.gda.pl
-NOERROR	iftia93.univ.gda.pl
-NOERROR	p-239-17.zr.univ.gda.pl
-NOERROR	fhkfg212.univ.gda.pl
-NXDOMAIN	ifd305.univ.gda.pl
-SERVFAIL	h71.ds9.univ.gda.pl
-NOERROR	kcik-sek.bg.univ.gda.pl
-NOERROR	h183.ds4.univ.gda.pl
-NOERROR	hall9.ek.univ.gda.pl
-NOERROR	tygrys.pa.univ.gda.pl
-NXDOMAIN	h12.ds5.univ.gda.pl
-SERVFAIL	h9.ds9.univ.gda.pl
-NOERROR	h150.ds4.univ.gda.pl
-NOERROR	t28197.chem.univ.gda.pl
-NXDOMAIN	h210.ds10.univ.gda.pl
-NOERROR	t28094.chem.univ.gda.pl
-NOERROR	rysiek.univ.gda.pl
-NOERROR	p-516-6.ek.univ.gda.pl
-NOERROR	bp9-1.wns.univ.gda.pl
-NOERROR	p-28-166.chem.univ.gda.pl
-NOERROR	expertus.bg.univ.gda.pl
-NOERROR	p-518.ek.univ.gda.pl
-NOERROR	chemik.chem.univ.gda.pl
-NOERROR	p-211-7.ek.univ.gda.pl
-NOERROR	g174.brzezno.univ.gda.pl
-NOERROR	h228.ds6.univ.gda.pl
-NOERROR	ap-ek-16.ek.univ.gda.pl
-NOERROR	fhkfk227.univ.gda.pl
-SERVFAIL	h142.ds9.univ.gda.pl
-NOERROR	h206.ds6.univ.gda.pl
-NOERROR	katalog.wns.univ.gda.pl
-NOERROR	g211.brzezno.univ.gda.pl
-NOERROR	pc-wmb2.bg.univ.gda.pl
-NOERROR	g198.brzezno.univ.gda.pl
-NXDOMAIN	h34.ds3.univ.gda.pl
-NXDOMAIN	h237.ds10.univ.gda.pl
-NOERROR	t28107.chem.univ.gda.pl
-NOERROR	g135.brzezno.univ.gda.pl
-NOERROR	www.wns.univ.gda.pl
-NOERROR	dziekan.wns.univ.gda.pl
-NOERROR	bp48-4.wns.univ.gda.pl
-NOERROR	h191.ds4.univ.gda.pl
-NOERROR	fhd24-1.univ.gda.pl
-NXDOMAIN	ifd230.univ.gda.pl
-NXDOMAIN	h217.ds3.univ.gda.pl
-NXDOMAIN	h180.ds5.univ.gda.pl
-NOERROR	ania.univ.gda.pl
-NOERROR	rez11.bg.univ.gda.pl
-NOERROR	p-319-1.ek.univ.gda.pl
-SERVFAIL	h36.ds9.univ.gda.pl
-NOERROR	sw1.bg.univ.gda.pl
-NOERROR	p-119-3.ek.univ.gda.pl
-NXDOMAIN	admchemia.chem.univ.gda.pl
-NOERROR	wystawy.bg.univ.gda.pl
-NOERROR	ek.univ.gda.pl
-NXDOMAIN	ifd102-1.univ.gda.pl
-NOERROR	h235.ds4.univ.gda.pl
-NOERROR	h37.ds4.univ.gda.pl
-SERVFAIL	h30.ds9.univ.gda.pl
-SERVFAIL	h83.ds9.univ.gda.pl
-NOERROR	max.univ.gda.pl
-NOERROR	dydaktyk.chem.univ.gda.pl
-NOERROR	h122.ds4.univ.gda.pl
-NXDOMAIN	h181.ds10.univ.gda.pl
-NOERROR	t29199.chem.univ.gda.pl
-NXDOMAIN	h179.ds10.univ.gda.pl
-NOERROR	dziek02.prawo.univ.gda.pl
-NOERROR	p-229-2.zr.univ.gda.pl
-NOERROR	g192.brzezno.univ.gda.pl
-NOERROR	t28243.chem.univ.gda.pl
-NOERROR	g30.brzezno.univ.gda.pl
-NOERROR	www.nowosci.bg.univ.gda.pl
-NXDOMAIN	www.aparatura.univ.gda.pl
-NXDOMAIN	h181.ds5.univ.gda.pl
-NOERROR	kama.univ.gda.pl
-NOERROR	minipc01.chem.univ.gda.pl
-NXDOMAIN	h50.ds10.univ.gda.pl
-NOERROR	fhia116-3.univ.gda.pl
-NOERROR	g150.brzezno.univ.gda.pl
-NXDOMAIN	h159.ds10.univ.gda.pl
-NXDOMAIN	h99.ds10.univ.gda.pl
-NOERROR	h206.ds4.univ.gda.pl
-NXDOMAIN	h43.ds10.univ.gda.pl
-NOERROR	donar.chem.univ.gda.pl
-NXDOMAIN	h53.ds10.univ.gda.pl
-NOERROR	h172.ds6.univ.gda.pl
-NOERROR	chf9.chem.univ.gda.pl
-NXDOMAIN	www.kgfiks.bgio.univ.gda.pl
-SERVFAIL	h44.ds9.univ.gda.pl
-NXDOMAIN	h118.ds3.univ.gda.pl
-NOERROR	sstb.univ.gda.pl
-NOERROR	pingwin.bg.univ.gda.pl
-NXDOMAIN	hydro9.geograf.univ.gda.pl
-SERVFAIL	h212.ds9.univ.gda.pl
-NOERROR	t28156.chem.univ.gda.pl
-NOERROR	h201.ds4.univ.gda.pl
-NOERROR	h73.ds4.univ.gda.pl
-NXDOMAIN	h241.ds5.univ.gda.pl
-NOERROR	pies.chem.univ.gda.pl
-NOERROR	t28124.chem.univ.gda.pl
-NXDOMAIN	h150.ds3.univ.gda.pl
-NXDOMAIN	h130.ds5.univ.gda.pl
-NOERROR	h161.ds4.univ.gda.pl
-NXDOMAIN	pc8.biology.univ.gda.pl
-NXDOMAIN	h141.ds10.univ.gda.pl
-SERVFAIL	h131.ds9.univ.gda.pl
-SERVFAIL	h118.ds9.univ.gda.pl
-SERVFAIL	h168.ds9.univ.gda.pl
-NOERROR	jantar.chem.univ.gda.pl
-SERVFAIL	h205.ds9.univ.gda.pl
-NXDOMAIN	h123.ds3.univ.gda.pl
-NOERROR	g22.brzezno.univ.gda.pl
-NOERROR	iftia104.univ.gda.pl
-NXDOMAIN	h251.ds3.univ.gda.pl
-NXDOMAIN	h122.ds5.univ.gda.pl
-NOERROR	ldynia.chem.univ.gda.pl
-SERVFAIL	h66.ds9.univ.gda.pl
-NOERROR	dziek11.prawo.univ.gda.pl
-NOERROR	archiwumwystaw.bg.univ.gda.pl
-NOERROR	g202.brzezno.univ.gda.pl
-NOERROR	sge.univ.gda.pl
-NOERROR	t29188.chem.univ.gda.pl
-NOERROR	p-216-1.ek.univ.gda.pl
-SERVFAIL	h101.ds9.univ.gda.pl
-NOERROR	t29018.chem.univ.gda.pl
-NOERROR	g172.brzezno.univ.gda.pl
-NOERROR	g81.brzezno.univ.gda.pl
-NOERROR	p-10-3.zr.univ.gda.pl
-NOERROR	h140.ds4.univ.gda.pl
-NXDOMAIN	h161.ds10.univ.gda.pl
-NOERROR	h242.ds4.univ.gda.pl
-NOERROR	rez18.bg.univ.gda.pl
-NOERROR	iftia81.univ.gda.pl
-NOERROR	p-515-9.ek.univ.gda.pl
-NOERROR	www.pracmet.strony.univ.gda.pl
-NOERROR	szlam.univ.gda.pl
-NXDOMAIN	h75.ds10.univ.gda.pl
-NOERROR	p-213-4.zr.univ.gda.pl
-NOERROR	fh08-1.univ.gda.pl
-NOERROR	chemik.univ.gda.pl
-NOERROR	iftia36.univ.gda.pl
-NOERROR	t29217.chem.univ.gda.pl
-NOERROR	h173.ds6.univ.gda.pl
-NXDOMAIN	h185.ds5.univ.gda.pl
-NOERROR	t29139.chem.univ.gda.pl
-NXDOMAIN	h84.ds5.univ.gda.pl
-SERVFAIL	h137.ds9.univ.gda.pl
-NXDOMAIN	ifd301-3.univ.gda.pl
-NOERROR	p-315-1.zr.univ.gda.pl
-SERVFAIL	h26.ds9.univ.gda.pl
-NOERROR	p-516-18.ek.univ.gda.pl
-NXDOMAIN	h75.ds3.univ.gda.pl
-NXDOMAIN	h64.ds10.univ.gda.pl
-NOERROR	iftia51.univ.gda.pl
-SERVFAIL	h247.ds9.univ.gda.pl
-NXDOMAIN	h160.ds5.univ.gda.pl
-NOERROR	mie1.bg.univ.gda.pl
-NXDOMAIN	h16.ds5.univ.gda.pl
-NOERROR	bp48-3.wns.univ.gda.pl
-NOERROR	h5.ds4.univ.gda.pl
-NXDOMAIN	posejdon.bg.univ.gda.pl
-NOERROR	www.politologia.univ.gda.pl
-NOERROR	p-050-1.ek.univ.gda.pl
-NXDOMAIN	h110.ds10.univ.gda.pl
-NOERROR	f4-wyp-2.univ.gda.pl
-NOERROR	inwes.zr.univ.gda.pl
-NXDOMAIN	ifd336.univ.gda.pl
-NOERROR	t28247.chem.univ.gda.pl
-NXDOMAIN	teoria.univ.gda.pl
-NOERROR	p-516-35.ek.univ.gda.pl
-NOERROR	t28245.chem.univ.gda.pl
-NOERROR	piotr.zr.univ.gda.pl
-NXDOMAIN	garnela.biotech.univ.gda.pl
-NOERROR	p-516-26.ek.univ.gda.pl
-NOERROR	g139.brzezno.univ.gda.pl
-NXDOMAIN	h199.ds5.univ.gda.pl
-NOERROR	p-211-03.ek.univ.gda.pl
-NOERROR	p-402-2.ek.univ.gda.pl
-NOERROR	h72.ds4.univ.gda.pl
-NXDOMAIN	h227.ds3.univ.gda.pl
-NOERROR	t28209.chem.univ.gda.pl
-NOERROR	vpn3.bg.univ.gda.pl
-NOERROR	pc-sjo-11.ek.univ.gda.pl
-NOERROR	hall-03.bg.univ.gda.pl
-NOERROR	t28117.chem.univ.gda.pl
-NOERROR	g99.brzezno.univ.gda.pl
-NOERROR	h29.ds4.univ.gda.pl
-NOERROR	fhzl4.univ.gda.pl
-NOERROR	h241.ds4.univ.gda.pl
-NOERROR	p-114-2.zr.univ.gda.pl
-NXDOMAIN	h178.ds10.univ.gda.pl
-NOERROR	bib02.prawo.univ.gda.pl
-NOERROR	p-207.zr.univ.gda.pl
-NOERROR	g233.brzezno.univ.gda.pl
-NOERROR	t29109.chem.univ.gda.pl
-NOERROR	bp48-5.wns.univ.gda.pl
-NOERROR	h30.ds4.univ.gda.pl
-NOERROR	draconik.univ.gda.pl
-NOERROR	iftia55.univ.gda.pl
-NOERROR	www.ack.univ.gda.pl
-NXDOMAIN	trurl.chem.univ.gda.pl
-NXDOMAIN	h234.ds10.univ.gda.pl
-NOERROR	t29058.chem.univ.gda.pl
-NOERROR	h143.ds6.univ.gda.pl
-NXDOMAIN	h97.ds5.univ.gda.pl
-NOERROR	p-106-1.zr.univ.gda.pl
-NOERROR	p-516-2.ek.univ.gda.pl
-NOERROR	recourse.univ.gda.pl
-NOERROR	h176.ds4.univ.gda.pl
-NOERROR	g51.brzezno.univ.gda.pl
-NOERROR	fhks122.univ.gda.pl
-NOERROR	h139.ds6.univ.gda.pl
-NOERROR	iftia39.univ.gda.pl
-NOERROR	h97.ds4.univ.gda.pl
-NOERROR	fhkfg218.univ.gda.pl
-NXDOMAIN	h112.ds3.univ.gda.pl
-NXDOMAIN	www.wystawy.bg.univ.gda.pl
-NXDOMAIN	h155.ds5.univ.gda.pl
-NOERROR	g162.brzezno.univ.gda.pl
-NOERROR	iftia107.univ.gda.pl
-NXDOMAIN	h29.ds10.univ.gda.pl
-NOERROR	p-315-1.ek.univ.gda.pl
-NOERROR	p-23-8.pa.univ.gda.pl
-NOERROR	t28030.chem.univ.gda.pl
-NOERROR	t29050.chem.univ.gda.pl
-NOERROR	monia.chem.univ.gda.pl
-NOERROR	h81.ds4.univ.gda.pl
-NOERROR	t29163.chem.univ.gda.pl
-NXDOMAIN	h125.ds5.univ.gda.pl
-NOERROR	kcik-sw.bg.univ.gda.pl
-NOERROR	nkh.fh.univ.gda.pl
-NOERROR	g128.brzezno.univ.gda.pl
-NXDOMAIN	bcount4.univ.gda.pl
-NXDOMAIN	h218.ds5.univ.gda.pl
-NOERROR	fhkfg217.univ.gda.pl
-NOERROR	p-228-3.ek.univ.gda.pl
-NOERROR	h64.ds4.univ.gda.pl
-NOERROR	fhlord07.univ.gda.pl
-NOERROR	ap-ek-1.ek.univ.gda.pl
-NOERROR	g148.brzezno.univ.gda.pl
-NOERROR	h143.ds4.univ.gda.pl
-NXDOMAIN	bcount6.univ.gda.pl
-NOERROR	casrepo.bg.univ.gda.pl
-NOERROR	p-228-1.ek.univ.gda.pl
-NOERROR	h34.ds4.univ.gda.pl
-NOERROR	t28241.chem.univ.gda.pl
-NOERROR	fhkfg213.univ.gda.pl
-NOERROR	w.bg.univ.gda.pl
-NOERROR	t29086.chem.univ.gda.pl
-NOERROR	h136.ds6.univ.gda.pl
-NOERROR	h239.ds4.univ.gda.pl
-NXDOMAIN	ifd301-9.univ.gda.pl
-NXDOMAIN	h68.ds10.univ.gda.pl
-NOERROR	ack.univ.gda.pl
-NXDOMAIN	h199.ds3.univ.gda.pl
-NOERROR	rejek.bg.univ.gda.pl
-NOERROR	kaszub.univ.gda.pl
-NOERROR	t29031.chem.univ.gda.pl
-NOERROR	www.kgrr.univ.gda.pl
-NOERROR	pc-53.ek.univ.gda.pl
-NOERROR	p-104.zr.univ.gda.pl
-NOERROR	t28188.chem.univ.gda.pl
-NOERROR	h128.ds4.univ.gda.pl
-NOERROR	wit58.univ.gda.pl
-NXDOMAIN	x2214.chem.univ.gda.pl
-NOERROR	erwinia.chem.univ.gda.pl
-NOERROR	g170.brzezno.univ.gda.pl
-NOERROR	t28206.chem.univ.gda.pl
-NOERROR	h129.ds6.univ.gda.pl
-NOERROR	p-323-2.ek.univ.gda.pl
-NOERROR	www.ring.univ.gda.pl
-NOERROR	h224.ds6.univ.gda.pl
-NOERROR	p-421-12.ek.univ.gda.pl
-NOERROR	iftia10.univ.gda.pl
-NXDOMAIN	h157.ds3.univ.gda.pl
-NXDOMAIN	h89.ds5.univ.gda.pl
-NXDOMAIN	h112.ds10.univ.gda.pl
-NXDOMAIN	h218.ds10.univ.gda.pl
-NOERROR	fha032.univ.gda.pl
-NOERROR	hel.hel.univ.gda.pl
-NOERROR	arek.univ.gda.pl
-NOERROR	bib01.prawo.univ.gda.pl
-NOERROR	p-117-6.zr.univ.gda.pl
-NOERROR	ofe.bg.univ.gda.pl
-NOERROR	p-228-2.ek.univ.gda.pl
-NOERROR	t29232.chem.univ.gda.pl
-NXDOMAIN	h226.ds5.univ.gda.pl
-SERVFAIL	h4.ds9.univ.gda.pl
-NOERROR	t29176.chem.univ.gda.pl
-NOERROR	g141.brzezno.univ.gda.pl
-NOERROR	p-229-7.zr.univ.gda.pl
-NOERROR	h243.ds6.univ.gda.pl
-NOERROR	t28037.chem.univ.gda.pl
-NOERROR	twix2.ek.univ.gda.pl
-NOERROR	h59.ds4.univ.gda.pl
-NOERROR	fhkfg203.univ.gda.pl
-NXDOMAIN	h30.ds10.univ.gda.pl
-NOERROR	kamil7.chem.univ.gda.pl
-NOERROR	p-221.zr.univ.gda.pl
-NOERROR	iftia9.univ.gda.pl
-NOERROR	g224.brzezno.univ.gda.pl
-NOERROR	p-123-1.ek.univ.gda.pl
-NOERROR	p-228-6.zr.univ.gda.pl
-NOERROR	zimbra.bg.univ.gda.pl
-NOERROR	t29097.chem.univ.gda.pl
-NOERROR	voip01.pol.wns.univ.gda.pl
-NOERROR	h230.ds6.univ.gda.pl
-NOERROR	www.chem.univ.gda.pl
-NXDOMAIN	h168.ds10.univ.gda.pl
-SERVFAIL	h73.ds9.univ.gda.pl
-NOERROR	t29166.chem.univ.gda.pl
-NOERROR	h196.ds6.univ.gda.pl
-NOERROR	satbaltic.ocean.univ.gda.pl
-NOERROR	brc3.univ.gda.pl
-NXDOMAIN	h24.ds5.univ.gda.pl
-NOERROR	bp23.wns.univ.gda.pl
-SERVFAIL	h141.ds9.univ.gda.pl
-NXDOMAIN	h166.ds3.univ.gda.pl
-NXDOMAIN	h150.ds5.univ.gda.pl
-NXDOMAIN	ifd301-10.univ.gda.pl
-SERVFAIL	h42.ds9.univ.gda.pl
-NOERROR	beton.chem.univ.gda.pl
-NOERROR	adam.wns.univ.gda.pl
-NOERROR	t29059.chem.univ.gda.pl
-NOERROR	pc-52.ek.univ.gda.pl
-NOERROR	sekret.wns.univ.gda.pl
-NOERROR	p-228-4.zr.univ.gda.pl
-NOERROR	g142.brzezno.univ.gda.pl
-NOERROR	h205.ds6.univ.gda.pl
-NOERROR	magda.biotech.univ.gda.pl
-NXDOMAIN	derechts.bg.univ.gda.pl
-NXDOMAIN	h100.ds10.univ.gda.pl
-NXDOMAIN	h16.ds3.univ.gda.pl
-NOERROR	dana.chem.univ.gda.pl
-NOERROR	t28185.chem.univ.gda.pl
-NOERROR	iftia61.univ.gda.pl
-NXDOMAIN	h156.ds5.univ.gda.pl
-NOERROR	brc1.univ.gda.pl
-NXDOMAIN	h135.ds5.univ.gda.pl
-NOERROR	prszmyt.prawo.univ.gda.pl
-NOERROR	sw9.bg.univ.gda.pl
-SERVFAIL	h106.ds9.univ.gda.pl
-NOERROR	t28165.chem.univ.gda.pl
-NOERROR	iftia91.univ.gda.pl
-NXDOMAIN	h135.ds3.univ.gda.pl
-NOERROR	h248.ds6.univ.gda.pl
-NOERROR	t28088.chem.univ.gda.pl
-SERVFAIL	h35.ds9.univ.gda.pl
-NXDOMAIN	h103.ds10.univ.gda.pl
-NOERROR	p-239-01.zr.univ.gda.pl
-NOERROR	t28159.chem.univ.gda.pl
-NOERROR	29eps.chem.univ.gda.pl
-NOERROR	vital.univ.gda.pl
-NXDOMAIN	h140.ds10.univ.gda.pl
-NOERROR	h16.ds4.univ.gda.pl
-NOERROR	p-026-1.ek.univ.gda.pl
-NXDOMAIN	h156.ds3.univ.gda.pl
-NOERROR	i146.ds.univ.gda.pl
-NOERROR	p-oiz-1.zr.univ.gda.pl
-NOERROR	t28071.chem.univ.gda.pl
-NOERROR	t29020.chem.univ.gda.pl
-NOERROR	www.strony.univ.gda.pl
-NOERROR	t29023.chem.univ.gda.pl
-NOERROR	sw5.bg.univ.gda.pl
-NOERROR	h154.ds4.univ.gda.pl
-NOERROR	cogito.univ.gda.pl
-NXDOMAIN	pc110b.biology.univ.gda.pl
-NXDOMAIN	h109.ds5.univ.gda.pl
-NOERROR	iftia109.univ.gda.pl
-NXDOMAIN	h193.ds10.univ.gda.pl
-NOERROR	t28178.chem.univ.gda.pl
-NOERROR	resources.chem.univ.gda.pl
-NOERROR	diana.ek.univ.gda.pl
-NOERROR	h45.ds4.univ.gda.pl
-NOERROR	prsamb.prawo.univ.gda.pl
-NXDOMAIN	h1.ds3.univ.gda.pl
-NXDOMAIN	ifd334.univ.gda.pl
-NOERROR	albi.chem.univ.gda.pl
-NOERROR	ip-cent-1.ek.univ.gda.pl
-NOERROR	h185.ds4.univ.gda.pl
-NOERROR	fhbibl017.univ.gda.pl
-NOERROR	h24.ds4.univ.gda.pl
-NXDOMAIN	ifdnuc.univ.gda.pl
-NOERROR	p-123-2.ek.univ.gda.pl
-NXDOMAIN	andersa211.pa.univ.gda.pl
-NOERROR	p-ztt-1.zr.univ.gda.pl
-NOERROR	g145.brzezno.univ.gda.pl
-NOERROR	p-228-5.zr.univ.gda.pl
-NOERROR	p-515-7.ek.univ.gda.pl
-NOERROR	p-223-4.zr.univ.gda.pl
-NOERROR	h199.ds4.univ.gda.pl
-NOERROR	p-227-2.ek.univ.gda.pl
-NXDOMAIN	h133.ds5.univ.gda.pl
-SERVFAIL	h242.ds9.univ.gda.pl
-NXDOMAIN	h142.ds10.univ.gda.pl
-NXDOMAIN	h177.ds10.univ.gda.pl
-NOERROR	p-119-2.ek.univ.gda.pl
-NOERROR	t28112.chem.univ.gda.pl
-SERVFAIL	h251.ds9.univ.gda.pl
-NXDOMAIN	h154.ds10.univ.gda.pl
-NOERROR	twix1.ek.univ.gda.pl
-NOERROR	mplex2.bg.univ.gda.pl
-NOERROR	t28072.chem.univ.gda.pl
-SERVFAIL	h60.ds9.univ.gda.pl
-NOERROR	uniwebrcp.bg.univ.gda.pl
-NOERROR	h62.ds4.univ.gda.pl
-NOERROR	gnu-n.bg.univ.gda.pl
-NOERROR	tedos.chem.univ.gda.pl
-NOERROR	h229.ds6.univ.gda.pl
-NOERROR	gazeta.univ.gda.pl
-NXDOMAIN	h177.ds5.univ.gda.pl
-NOERROR	student4.zr.univ.gda.pl
-NXDOMAIN	h7.ds3.univ.gda.pl
-NXDOMAIN	h142.ds3.univ.gda.pl
-NOERROR	h211.ds6.univ.gda.pl
-NXDOMAIN	www.klimat.bgio.univ.gda.pl
-NOERROR	h192.ds6.univ.gda.pl
-NXDOMAIN	h221.ds5.univ.gda.pl
-NOERROR	prchem.chem.univ.gda.pl
-NOERROR	g74.brzezno.univ.gda.pl
-NOERROR	p-222-3.ek.univ.gda.pl
-NOERROR	pc-sjo-4.ek.univ.gda.pl
-NOERROR	iftia22.univ.gda.pl
-NXDOMAIN	janusz.univ.gda.pl
-NOERROR	ula.wns.univ.gda.pl
-NXDOMAIN	h219.ds5.univ.gda.pl
-NOERROR	p-135-1.ek.univ.gda.pl
-NOERROR	h204.ds4.univ.gda.pl
-NOERROR	g34.brzezno.univ.gda.pl
-NOERROR	hall-10.bg.univ.gda.pl
-NOERROR	p-338-3.ek.univ.gda.pl
-NXDOMAIN	h115.ds5.univ.gda.pl
-NOERROR	p-116-1.ek.univ.gda.pl
-NXDOMAIN	h58.ds3.univ.gda.pl
-SERVFAIL	h154.ds9.univ.gda.pl
-NOERROR	p-417-19.ek.univ.gda.pl
-NXDOMAIN	h134.ds5.univ.gda.pl
-NOERROR	ack4.univ.gda.pl
-NOERROR	pchs2.chem.univ.gda.pl
-NOERROR	p-210.zr.univ.gda.pl
-NXDOMAIN	call_daf.univ.gda.pl
-NOERROR	g121.brzezno.univ.gda.pl
-NOERROR	babe-pig.chem.univ.gda.pl
-NXDOMAIN	h11.ds10.univ.gda.pl
-NOERROR	t29037.chem.univ.gda.pl
-NOERROR	p-417-10.ek.univ.gda.pl
-NXDOMAIN	kuling.bgio.univ.gda.pl
-NOERROR	bbrom-2.wns.univ.gda.pl
-SERVFAIL	h202.ds9.univ.gda.pl
-NXDOMAIN	h127.ds5.univ.gda.pl
-NOERROR	p-047-4.ek.univ.gda.pl
-NOERROR	p-314-1.ek.univ.gda.pl
-NOERROR	p-224-1.ek.univ.gda.pl
-NOERROR	h47.ds4.univ.gda.pl
-NOERROR	mail-gateway.univ.gda.pl
-NOERROR	h197.ds6.univ.gda.pl
-NOERROR	t29206.chem.univ.gda.pl
-NOERROR	pc-konser.bg.univ.gda.pl
-NXDOMAIN	h171.ds3.univ.gda.pl
-NOERROR	h185.ds6.univ.gda.pl
-NOERROR	h207.ds4.univ.gda.pl
-NOERROR	fhbib-wyp3.univ.gda.pl
-NXDOMAIN	h187.ds10.univ.gda.pl
-SERVFAIL	h177.ds9.univ.gda.pl
-NOERROR	prczub.prawo.univ.gda.pl
-NOERROR	iftia112.univ.gda.pl
-NOERROR	p-226-1.zr.univ.gda.pl
-NOERROR	p-417-16.ek.univ.gda.pl
-NOERROR	iftia38.univ.gda.pl
-NXDOMAIN	h148.ds5.univ.gda.pl
-NOERROR	g225.brzezno.univ.gda.pl
-NOERROR	t29067.chem.univ.gda.pl
-NOERROR	p-129-3.zr.univ.gda.pl
-NOERROR	h51.ds4.univ.gda.pl
-NOERROR	g236.brzezno.univ.gda.pl
-NOERROR	h134.ds4.univ.gda.pl
-NOERROR	t29017.chem.univ.gda.pl
-NOERROR	p-516-32.ek.univ.gda.pl
-NOERROR	g26.brzezno.univ.gda.pl
-NOERROR	t29185.chem.univ.gda.pl
-NOERROR	bp20.wns.univ.gda.pl
-NOERROR	iftia63.univ.gda.pl
-SERVFAIL	h238.ds9.univ.gda.pl
-NXDOMAIN	h52.ds5.univ.gda.pl
-NOERROR	melon.chem.univ.gda.pl
-NOERROR	p-310-1.ek.univ.gda.pl
-SERVFAIL	h98.ds9.univ.gda.pl
-NOERROR	h152.ds6.univ.gda.pl
-NOERROR	www.20pps.univ.gda.pl
-NOERROR	zof.ocean.univ.gda.pl
-NOERROR	h22.ds4.univ.gda.pl
-NOERROR	g119.brzezno.univ.gda.pl
-NXDOMAIN	h89.ds3.univ.gda.pl
-NOERROR	ug1-cat-hum.univ.gda.pl
-NOERROR	p-101-1.pa.univ.gda.pl
-NOERROR	h67.ds4.univ.gda.pl
-SERVFAIL	h190.ds9.univ.gda.pl
-NOERROR	g168.brzezno.univ.gda.pl
-NOERROR	twix3.ek.univ.gda.pl
-NOERROR	lewar.univ.gda.pl
-NOERROR	g140.brzezno.univ.gda.pl
-NOERROR	h119.ds4.univ.gda.pl
-NOERROR	f4-wyp-3.univ.gda.pl
-NXDOMAIN	h6.ds10.univ.gda.pl
-NXDOMAIN	h196.ds10.univ.gda.pl
-NOERROR	g8.brzezno.univ.gda.pl
-NOERROR	h123.ds4.univ.gda.pl
-SERVFAIL	h14.ds9.univ.gda.pl
-NXDOMAIN	h225.ds3.univ.gda.pl
-NOERROR	fhbibl019.univ.gda.pl
-NOERROR	iftia84.univ.gda.pl
-NOERROR	lj212.bg.univ.gda.pl
-NXDOMAIN	h147.ds3.univ.gda.pl
-NXDOMAIN	h147.ds5.univ.gda.pl
-NOERROR	h253.ds6.univ.gda.pl
-NXDOMAIN	komput8.chem.univ.gda.pl
-NOERROR	lolek.wns.univ.gda.pl
-NOERROR	fajans.chem.univ.gda.pl
-SERVFAIL	h22.ds9.univ.gda.pl
-NOERROR	h149.ds4.univ.gda.pl
-NXDOMAIN	h25.ds3.univ.gda.pl
-NOERROR	p-407.zr.univ.gda.pl
-NOERROR	temida.prawo.univ.gda.pl
-NOERROR	p-239-11.zr.univ.gda.pl
-SERVFAIL	h8.ds9.univ.gda.pl
-SERVFAIL	h127.ds9.univ.gda.pl
-NXDOMAIN	h185.ds10.univ.gda.pl
-NOERROR	h157.ds4.univ.gda.pl
-NOERROR	h181.ds6.univ.gda.pl
-NOERROR	adam.univ.gda.pl
-NOERROR	t28138.chem.univ.gda.pl
-NXDOMAIN	h6.ds5.univ.gda.pl
-NOERROR	t29214.chem.univ.gda.pl
-NOERROR	g113.brzezno.univ.gda.pl
-NOERROR	h53.ds4.univ.gda.pl
-NXDOMAIN	ifd137.univ.gda.pl
-NOERROR	neo.prawo.univ.gda.pl
-NOERROR	hera.chem.univ.gda.pl
-NOERROR	pc-47.ek.univ.gda.pl
-SERVFAIL	h136.ds9.univ.gda.pl
-NOERROR	h170.ds6.univ.gda.pl
-NOERROR	t28201.chem.univ.gda.pl
-NOERROR	h107.ds4.univ.gda.pl
-NOERROR	haller22.pol.wns.univ.gda.pl
-NOERROR	student2.wns.univ.gda.pl
-SERVFAIL	h246.ds9.univ.gda.pl
-SERVFAIL	h245.ds9.univ.gda.pl
-NOERROR	t28177.chem.univ.gda.pl
-NXDOMAIN	h94.ds5.univ.gda.pl
-NOERROR	g71.brzezno.univ.gda.pl
-NXDOMAIN	h101.ds5.univ.gda.pl
-NOERROR	mif.bg.univ.gda.pl
-NOERROR	h21.ds4.univ.gda.pl
-NOERROR	cyrkiel4.bg.univ.gda.pl
-NOERROR	t29061.chem.univ.gda.pl
-NOERROR	h167.ds6.univ.gda.pl
-NOERROR	t29201.chem.univ.gda.pl
-NXDOMAIN	sw1.kknjo.univ.gda.pl
-NOERROR	iftia43.univ.gda.pl
-NOERROR	p-239-03.zr.univ.gda.pl
-NOERROR	fhkfk219.univ.gda.pl
-NOERROR	temp1.bg.univ.gda.pl
-SERVFAIL	h218.ds9.univ.gda.pl
-NXDOMAIN	h192.ds3.univ.gda.pl
-NOERROR	t29138.chem.univ.gda.pl
-NOERROR	h120.ds4.univ.gda.pl
-NOERROR	p-211-00.ek.univ.gda.pl
-NOERROR	g79.brzezno.univ.gda.pl
-NOERROR	p-107.zr.univ.gda.pl
-NOERROR	t28196.chem.univ.gda.pl
-NXDOMAIN	h101.ds3.univ.gda.pl
-NOERROR	h173.ds4.univ.gda.pl
-SERVFAIL	h120.ds9.univ.gda.pl
-NXDOMAIN	ifd301-2.univ.gda.pl
-NOERROR	iftia42.univ.gda.pl
-NOERROR	p-211-09.ek.univ.gda.pl
-NOERROR	kcik-ro.bg.univ.gda.pl
-NXDOMAIN	avp.chem.univ.gda.pl
-NOERROR	t29022.chem.univ.gda.pl
-NOERROR	burek.ek.univ.gda.pl
-NXDOMAIN	h203.ds5.univ.gda.pl
-NOERROR	ap-ek-11.ek.univ.gda.pl
-NOERROR	p-505-8.ek.univ.gda.pl
-NOERROR	p-516-30.ek.univ.gda.pl
-NOERROR	halinaw247.univ.gda.pl
-NXDOMAIN	h35.ds5.univ.gda.pl
-NOERROR	p-222-0.ek.univ.gda.pl
-NXDOMAIN	h62.ds3.univ.gda.pl
-NXDOMAIN	h172.ds5.univ.gda.pl
-NOERROR	p-421-17.ek.univ.gda.pl
-NXDOMAIN	h253.ds3.univ.gda.pl
-NXDOMAIN	knf.univ.gda.pl
-NOERROR	p-23-2.pa.univ.gda.pl
-NOERROR	t29177.chem.univ.gda.pl
-NOERROR	g219.brzezno.univ.gda.pl
-NOERROR	h187.ds6.univ.gda.pl
-NXDOMAIN	h9.ds5.univ.gda.pl
-NOERROR	biology.univ.gda.pl
-NXDOMAIN	h183.ds3.univ.gda.pl
-NXDOMAIN	h230.ds3.univ.gda.pl
-NXDOMAIN	h129.ds10.univ.gda.pl
-NOERROR	pc-inf-3.bg.univ.gda.pl
-NOERROR	serverlic-nmr.chem.univ.gda.pl
-NXDOMAIN	h40.ds10.univ.gda.pl
-NXDOMAIN	ifd73.univ.gda.pl
-NOERROR	g111.brzezno.univ.gda.pl
-NOERROR	p-nauki1.bg.univ.gda.pl
-NXDOMAIN	komp23.pol.wns.univ.gda.pl
-NOERROR	t28208.chem.univ.gda.pl
-NXDOMAIN	pb.math.univ.gda.pl
-NXDOMAIN	h216.ds3.univ.gda.pl
-NOERROR	h229.ds4.univ.gda.pl
-NXDOMAIN	h201.ds3.univ.gda.pl
-NOERROR	p-101-2.zr.univ.gda.pl
-NOERROR	zk.bg.univ.gda.pl
-NOERROR	h108.ds4.univ.gda.pl
-NXDOMAIN	h38.ds3.univ.gda.pl
-NOERROR	olender.wns.univ.gda.pl
-NOERROR	p-226-2.zr.univ.gda.pl
-NOERROR	t28226.chem.univ.gda.pl
-NXDOMAIN	h221.ds3.univ.gda.pl
-NOERROR	t28205.chem.univ.gda.pl
-NOERROR	ania.wns.univ.gda.pl
-NOERROR	h46.ds4.univ.gda.pl
-NOERROR	t29164.chem.univ.gda.pl
-NOERROR	student3.zr.univ.gda.pl
-SERVFAIL	h196.ds9.univ.gda.pl
-NOERROR	auto6.bg.univ.gda.pl
-NXDOMAIN	h53.ds5.univ.gda.pl
-NOERROR	g130.brzezno.univ.gda.pl
-NOERROR	p-515-12.ek.univ.gda.pl
-NXDOMAIN	h212.ds10.univ.gda.pl
-NOERROR	t28104.chem.univ.gda.pl
-NOERROR	monika.univ.gda.pl
-NOERROR	kaszalot.ek.univ.gda.pl
-NOERROR	fhbib-wyp2.univ.gda.pl
-NOERROR	f4-wyp-1.univ.gda.pl
-NOERROR	t28149.chem.univ.gda.pl
-NOERROR	p-105-1.zr.univ.gda.pl
-NOERROR	p-104-2.ek.univ.gda.pl
-NXDOMAIN	komp04.kknjo.univ.gda.pl
-NOERROR	log-17.univ.gda.pl
-NXDOMAIN	pr3058.prawo.univ.gda.pl
-NOERROR	bbrom-1.wns.univ.gda.pl
-NOERROR	pc-wmb1.bg.univ.gda.pl
-NXDOMAIN	h66.ds10.univ.gda.pl
-NXDOMAIN	h226.ds3.univ.gda.pl
-NXDOMAIN	www.badania.univ.gda.pl
-NOERROR	h116.ds4.univ.gda.pl
-NXDOMAIN	h105.ds10.univ.gda.pl
-NOERROR	mmka.chem.univ.gda.pl
-NOERROR	fhks18.univ.gda.pl
-NXDOMAIN	h212.ds5.univ.gda.pl
-NOERROR	g41.brzezno.univ.gda.pl
-NOERROR	p-630-1.ek.univ.gda.pl
-NXDOMAIN	h206.ds5.univ.gda.pl
-NOERROR	ecis.zr.univ.gda.pl
-NOERROR	aegee-2.zr.univ.gda.pl
-NOERROR	t28194.chem.univ.gda.pl
-NOERROR	h27.ds4.univ.gda.pl
-NOERROR	dt2.univ.gda.pl
-NXDOMAIN	h104.ds3.univ.gda.pl
-NOERROR	aegee-1.zr.univ.gda.pl
-NOERROR	p-101-1.zr.univ.gda.pl
-NOERROR	g124.brzezno.univ.gda.pl
-NOERROR	t28034.chem.univ.gda.pl
-NOERROR	bg.univ.gda.pl
-NOERROR	cyrkiel7.bg.univ.gda.pl
-NXDOMAIN	pk5.wns.univ.gda.pl
-SERVFAIL	h57.ds9.univ.gda.pl
-NOERROR	g136.brzezno.univ.gda.pl
-NOERROR	f4-czyt-1.univ.gda.pl
-NOERROR	wiola.univ.gda.pl
-NOERROR	lemur.ek.univ.gda.pl
-NXDOMAIN	h211.ds10.univ.gda.pl
-NXDOMAIN	h124.ds3.univ.gda.pl
-NXDOMAIN	h184.ds10.univ.gda.pl
-NOERROR	g4.brzezno.univ.gda.pl
-NXDOMAIN	h26.ds3.univ.gda.pl
-NOERROR	p-313-2.ek.univ.gda.pl
-NXDOMAIN	h198.ds5.univ.gda.pl
-SERVFAIL	h219.ds9.univ.gda.pl
-NOERROR	p-418-1.ek.univ.gda.pl
-NOERROR	bp115.wns.univ.gda.pl
-NOERROR	p-100-2.zr.univ.gda.pl
-NXDOMAIN	h2.ds10.univ.gda.pl
-NOERROR	h77.ds4.univ.gda.pl
-NOERROR	p-326-1.ek.univ.gda.pl
-NXDOMAIN	www.cyanobacteria.biotech.univ.gda.pl
-NOERROR	p-131-1.ek.univ.gda.pl
-NOERROR	t29016.chem.univ.gda.pl
-NOERROR	jola.univ.gda.pl
-NOERROR	p-415-1.ek.univ.gda.pl
-NOERROR	fhifp150.univ.gda.pl
-NOERROR	pc-48.ek.univ.gda.pl
-SERVFAIL	h192.ds9.univ.gda.pl
-NXDOMAIN	h154.ds5.univ.gda.pl
-NOERROR	p-417-1.ek.univ.gda.pl
-NOERROR	www.czlowiek.nowemedia.univ.gda.pl
-NOERROR	student3.wns.univ.gda.pl
-NOERROR	magda.wns.univ.gda.pl
-NOERROR	t28145.chem.univ.gda.pl
-NXDOMAIN	h88.ds3.univ.gda.pl
-NXDOMAIN	h36.ds5.univ.gda.pl
-NOERROR	banach.univ.gda.pl
-SERVFAIL	h193.ds9.univ.gda.pl
-NOERROR	kojot-1.bg.univ.gda.pl
-NOERROR	h39.ds4.univ.gda.pl
-NOERROR	spaj29.chem.univ.gda.pl
-NOERROR	flora.chem.univ.gda.pl
-NOERROR	t28010.chem.univ.gda.pl
-NXDOMAIN	p-217-1.bg.univ.gda.pl
-NOERROR	h182.ds6.univ.gda.pl
-NOERROR	t29028.chem.univ.gda.pl
-NOERROR	www.geo.univ.gda.pl
-NXDOMAIN	h124.ds5.univ.gda.pl
-NXDOMAIN	h27.ds10.univ.gda.pl
-NOERROR	t29099.chem.univ.gda.pl
-NOERROR	zuk.zr.univ.gda.pl
-NOERROR	prgusc.prawo.univ.gda.pl
-NOERROR	hadron2.chem.univ.gda.pl
-NXDOMAIN	h201.ds5.univ.gda.pl
-NXDOMAIN	h252.ds3.univ.gda.pl
-NXDOMAIN	h183.ds5.univ.gda.pl
-NOERROR	fhifp126-2.univ.gda.pl
-NOERROR	fhd23.univ.gda.pl
-NOERROR	prwisz.prawo.univ.gda.pl
-NXDOMAIN	h30.ds3.univ.gda.pl
-SERVFAIL	h1.ds9.univ.gda.pl
-NOERROR	p-103-1.ek.univ.gda.pl
-NOERROR	ap-ek.ek.univ.gda.pl
-NOERROR	jacek.wns.univ.gda.pl
-NOERROR	zsm.univ.gda.pl
-NXDOMAIN	h110.ds5.univ.gda.pl
-NOERROR	h146.ds4.univ.gda.pl
-NOERROR	ap-ek-3.ek.univ.gda.pl
-NOERROR	prelb.chem.univ.gda.pl
-NOERROR	p-126-1.ek.univ.gda.pl
-NOERROR	iftia14.univ.gda.pl
-NOERROR	h195.ds4.univ.gda.pl
-NOERROR	pc-mag-cz.bg.univ.gda.pl
-NOERROR	h159.ds4.univ.gda.pl
-NOERROR	h105.ds4.univ.gda.pl
-SERVFAIL	h93.ds9.univ.gda.pl
-NOERROR	dydaktyka.wns.univ.gda.pl
-NXDOMAIN	mostrag.chem.univ.gda.pl
-NOERROR	rugger.zr.univ.gda.pl
-NXDOMAIN	h188.ds10.univ.gda.pl
-NOERROR	p-307-1.ek.univ.gda.pl
-NOERROR	pc-czyta-1.bg.univ.gda.pl
-NXDOMAIN	h82.ds10.univ.gda.pl
-NXDOMAIN	017.chem.univ.gda.pl
-NOERROR	h178.ds4.univ.gda.pl
-NOERROR	pchs4.chem.univ.gda.pl
-NXDOMAIN	h100.ds5.univ.gda.pl
-NOERROR	t29074.chem.univ.gda.pl
-NXDOMAIN	h190.ds3.univ.gda.pl
-NOERROR	p-23-1.ek.univ.gda.pl
-NXDOMAIN	h195.ds3.univ.gda.pl
-NOERROR	t29062.chem.univ.gda.pl
-SERVFAIL	h124.ds9.univ.gda.pl
-NXDOMAIN	h15.ds5.univ.gda.pl
-NOERROR	iftia35.univ.gda.pl
-NOERROR	t29117.chem.univ.gda.pl
-NOERROR	g208.brzezno.univ.gda.pl
-NOERROR	p-219-3.ek.univ.gda.pl
-NOERROR	p-01-1.pa.univ.gda.pl
-NOERROR	fhih52a-2.univ.gda.pl
-NXDOMAIN	x2221.chem.univ.gda.pl
-NOERROR	h195.ds6.univ.gda.pl
-NOERROR	p-232.zr.univ.gda.pl
-NXDOMAIN	h28.ds3.univ.gda.pl
-NXDOMAIN	h215.ds5.univ.gda.pl
-NOERROR	krzysztof.wns.univ.gda.pl
-NOERROR	hall10.ek.univ.gda.pl
-NOERROR	fhd24-3.univ.gda.pl
-NXDOMAIN	h51.ds10.univ.gda.pl
-NOERROR	iftia100.univ.gda.pl
-NOERROR	bgug.zr.univ.gda.pl
-NOERROR	t28214.chem.univ.gda.pl
-NOERROR	g36.brzezno.univ.gda.pl
-NOERROR	h154.ds6.univ.gda.pl
-NOERROR	rez5.bg.univ.gda.pl
-NOERROR	t29205.chem.univ.gda.pl
-NXDOMAIN	h58.ds10.univ.gda.pl
-NOERROR	h219.ds6.univ.gda.pl
-NOERROR	iftia48.univ.gda.pl
-NOERROR	g177.brzezno.univ.gda.pl
-NOERROR	www.wnsts.strony.univ.gda.pl
-NXDOMAIN	h31.ds5.univ.gda.pl
-NOERROR	p-115-1.zr.univ.gda.pl
-NOERROR	iftia106.univ.gda.pl
-NXDOMAIN	h137.ds10.univ.gda.pl
-NOERROR	t28078.chem.univ.gda.pl
-NOERROR	p-239-09.zr.univ.gda.pl
-NOERROR	kcik-pr2.bg.univ.gda.pl
-NOERROR	h178.ds6.univ.gda.pl
-NXDOMAIN	h244.ds10.univ.gda.pl
-NXDOMAIN	p-217-2.bg.univ.gda.pl
-NOERROR	fhifs257a.univ.gda.pl
-NXDOMAIN	h192.ds5.univ.gda.pl
-SERVFAIL	h194.ds9.univ.gda.pl
-NXDOMAIN	h13.ds10.univ.gda.pl
-NOERROR	h144.ds6.univ.gda.pl
-SERVFAIL	h63.ds9.univ.gda.pl
-SERVFAIL	h104.ds9.univ.gda.pl
-NOERROR	pc-sek3.bg.univ.gda.pl
-NOERROR	g252.brzezno.univ.gda.pl
-NOERROR	t28100.chem.univ.gda.pl
-NXDOMAIN	h248.ds5.univ.gda.pl
-NOERROR	p-332-1.ek.univ.gda.pl
-NOERROR	witek.bg.univ.gda.pl
-NXDOMAIN	h65.ds3.univ.gda.pl
-NOERROR	tomek.wns.univ.gda.pl
-NOERROR	h17.ds4.univ.gda.pl
-NOERROR	sw8.bg.univ.gda.pl
-NXDOMAIN	h25.ds5.univ.gda.pl
-NXDOMAIN	h234.ds3.univ.gda.pl
-NOERROR	p-047-10.ek.univ.gda.pl
-NOERROR	przewodnik.bg.univ.gda.pl
-NOERROR	t28170.chem.univ.gda.pl
-NOERROR	pras.prawo.univ.gda.pl
-NXDOMAIN	h138.ds5.univ.gda.pl
-NOERROR	p-516-21.ek.univ.gda.pl
-NOERROR	p-100-3.zr.univ.gda.pl
-NXDOMAIN	h151.ds10.univ.gda.pl
-NXDOMAIN	h16.ds10.univ.gda.pl
-NXDOMAIN	h163.ds10.univ.gda.pl
-NXDOMAIN	h181.ds3.univ.gda.pl
-NOERROR	p-202-2.zr.univ.gda.pl
-NOERROR	t28011.chem.univ.gda.pl
-NOERROR	p-213-6.zr.univ.gda.pl
-NXDOMAIN	h80.ds10.univ.gda.pl
-NOERROR	www.birds.univ.gda.pl
-NXDOMAIN	h201.ds10.univ.gda.pl
-NOERROR	h20.ds4.univ.gda.pl
-NOERROR	fhks8-3.univ.gda.pl
-NOERROR	ecs2006gdynia.univ.gda.pl
-NOERROR	bp40.wns.univ.gda.pl
-NOERROR	fhifs247.univ.gda.pl
-NXDOMAIN	h55.ds3.univ.gda.pl
-NXDOMAIN	h193.ds5.univ.gda.pl
-NXDOMAIN	h55.ds5.univ.gda.pl
-NOERROR	dziek10.prawo.univ.gda.pl
-NOERROR	t29212.chem.univ.gda.pl
-NOERROR	p-117-1.zr.univ.gda.pl
-NOERROR	p-118-2.ek.univ.gda.pl
-NOERROR	p-229-12.zr.univ.gda.pl
-NOERROR	www.bgio.univ.gda.pl
-NXDOMAIN	h229.ds5.univ.gda.pl
-NOERROR	t29110.chem.univ.gda.pl
-NOERROR	t29167.chem.univ.gda.pl
-NOERROR	upsik.bg.univ.gda.pl
-NXDOMAIN	h187.ds3.univ.gda.pl
-NOERROR	t29211.chem.univ.gda.pl
-SERVFAIL	h180.ds9.univ.gda.pl
-NXDOMAIN	h86.ds3.univ.gda.pl
-NOERROR	komp30.pol.wns.univ.gda.pl
-NOERROR	h252.ds6.univ.gda.pl
-SERVFAIL	h43.ds9.univ.gda.pl
-NXDOMAIN	h220.ds10.univ.gda.pl
-NOERROR	dukat.univ.gda.pl
-NXDOMAIN	prstud.prawo.univ.gda.pl
-NOERROR	fhzl6-2.univ.gda.pl
-NOERROR	p-026-2.ek.univ.gda.pl
-NOERROR	g232.brzezno.univ.gda.pl
-NOERROR	p-016-3.ek.univ.gda.pl
-NOERROR	pchs3.chem.univ.gda.pl
-NOERROR	p-224-1.zr.univ.gda.pl
-NOERROR	t28012.chem.univ.gda.pl
-NOERROR	pc-sjo-2.ek.univ.gda.pl
-NOERROR	p-2.zr.univ.gda.pl
-NXDOMAIN	h61.ds5.univ.gda.pl
-NOERROR	p-111-2.zr.univ.gda.pl
-SERVFAIL	h102.ds9.univ.gda.pl
-NXDOMAIN	h168.ds5.univ.gda.pl
-NOERROR	nova.zr.univ.gda.pl
-NXDOMAIN	h133.ds10.univ.gda.pl
-SERVFAIL	h250.ds9.univ.gda.pl
-NOERROR	t28025.chem.univ.gda.pl
-NOERROR	p-207-l.zr.univ.gda.pl
-SERVFAIL	h90.ds9.univ.gda.pl
-NOERROR	h217.ds6.univ.gda.pl
-NOERROR	h159.ds6.univ.gda.pl
-NOERROR	g183.brzezno.univ.gda.pl
-NOERROR	h78.ds4.univ.gda.pl
-NXDOMAIN	komput4.chem.univ.gda.pl
-NXDOMAIN	h186.ds3.univ.gda.pl
-NOERROR	t28108.chem.univ.gda.pl
-NOERROR	t29223.chem.univ.gda.pl
-NXDOMAIN	h229.ds10.univ.gda.pl
-NOERROR	versus.univ.gda.pl
-NOERROR	esn.bg.univ.gda.pl
-NOERROR	g46.brzezno.univ.gda.pl
-NOERROR	iftia75.univ.gda.pl
-NOERROR	pc-sjo-5.ek.univ.gda.pl
-NOERROR	p-114-4.zr.univ.gda.pl
-NOERROR	iftia19.univ.gda.pl
-NOERROR	poprzednia.univ.gda.pl
-NOERROR	t29043.chem.univ.gda.pl
-NOERROR	t28023.chem.univ.gda.pl
-NOERROR	kaszub.zr.univ.gda.pl
-NXDOMAIN	prwozn.prawo.univ.gda.pl
-NOERROR	h168.ds4.univ.gda.pl
-NOERROR	p-101-3.ek.univ.gda.pl
-NXDOMAIN	h78.ds3.univ.gda.pl
-NOERROR	gepard.bg.univ.gda.pl
-SERVFAIL	h74.ds9.univ.gda.pl
-NOERROR	h33.ds4.univ.gda.pl
-NXDOMAIN	jjm.univ.gda.pl
-NOERROR	hall6.ek.univ.gda.pl
-NXDOMAIN	pc-inf-2.bg.univ.gda.pl
-NXDOMAIN	h42.ds3.univ.gda.pl
-NOERROR	p-110-1.ek.univ.gda.pl
-NOERROR	vpn12.bg.univ.gda.pl
-NXDOMAIN	fizmgr.univ.gda.pl
-NXDOMAIN	neo.kknjo.univ.gda.pl
-NOERROR	g118.brzezno.univ.gda.pl
-NOERROR	p-505-9.ek.univ.gda.pl
-NOERROR	p-516-15.ek.univ.gda.pl
-NOERROR	t29154.chem.univ.gda.pl
-NOERROR	czeszka.univ.gda.pl
-NXDOMAIN	h18.ds3.univ.gda.pl
-NOERROR	moon.zr.univ.gda.pl
-NOERROR	hall-11.bg.univ.gda.pl
-NOERROR	x2232.chem.univ.gda.pl
-SERVFAIL	h166.ds9.univ.gda.pl
-NOERROR	ug207daro.chem.univ.gda.pl
-NOERROR	p-505-5.ek.univ.gda.pl
-NOERROR	t29226.chem.univ.gda.pl
-NXDOMAIN	h104.ds10.univ.gda.pl
-NXDOMAIN	h223.ds5.univ.gda.pl
-NOERROR	t29064.chem.univ.gda.pl
-NXDOMAIN	h144.ds5.univ.gda.pl
-NXDOMAIN	h214.ds10.univ.gda.pl
-NOERROR	h11.ds4.univ.gda.pl
-NOERROR	www.hisarch.strony.univ.gda.pl
-NXDOMAIN	h94.ds3.univ.gda.pl
-NOERROR	h240.ds6.univ.gda.pl
-NOERROR	www.prawo.univ.gda.pl
-NOERROR	czytelnia.wns.univ.gda.pl
-NOERROR	p-337-3.ek.univ.gda.pl
-NXDOMAIN	komp27.pol.wns.univ.gda.pl
-SERVFAIL	h237.ds9.univ.gda.pl
-NOERROR	g62.brzezno.univ.gda.pl
-NOERROR	electron.chem.univ.gda.pl
-SERVFAIL	h27.ds9.univ.gda.pl
-NOERROR	t28229.chem.univ.gda.pl
-NXDOMAIN	h174.ds10.univ.gda.pl
-NXDOMAIN	h166.ds5.univ.gda.pl
-NOERROR	g55.brzezno.univ.gda.pl
-NOERROR	g48.brzezno.univ.gda.pl
-NOERROR	p-127-1.ek.univ.gda.pl
-NOERROR	hot338.univ.gda.pl
-NOERROR	h191.ds6.univ.gda.pl
-NOERROR	pc-sjo-9.ek.univ.gda.pl
-NXDOMAIN	herdcen5.univ.gda.pl
-NOERROR	g127.brzezno.univ.gda.pl
-NOERROR	www.wzr.univ.gda.pl
-NOERROR	g70.brzezno.univ.gda.pl
-NOERROR	ap-ek-10.ek.univ.gda.pl
-NOERROR	t28093.chem.univ.gda.pl
-SERVFAIL	h223.ds9.univ.gda.pl
-NOERROR	maja.wns.univ.gda.pl
-NOERROR	g77.brzezno.univ.gda.pl
-NXDOMAIN	h109.ds10.univ.gda.pl
-NOERROR	h75.ds4.univ.gda.pl
-NOERROR	g137.brzezno.univ.gda.pl
-NOERROR	jowita.zr.univ.gda.pl
-NOERROR	koala.zr.univ.gda.pl
-NOERROR	h84.ds4.univ.gda.pl
-NOERROR	pc-czyt-b.bg.univ.gda.pl
-NOERROR	p-328-1.ek.univ.gda.pl
-NOERROR	t29071.chem.univ.gda.pl
-NOERROR	g175.brzezno.univ.gda.pl
-NXDOMAIN	h252.ds10.univ.gda.pl
-NOERROR	h208.ds4.univ.gda.pl
-NOERROR	jm.ek.univ.gda.pl
-NXDOMAIN	h182.ds5.univ.gda.pl
-NOERROR	t29030.chem.univ.gda.pl
-NXDOMAIN	h249.ds5.univ.gda.pl
-NXDOMAIN	h183.ds10.univ.gda.pl
-NOERROR	dt1.univ.gda.pl
-SERVFAIL	h85.ds9.univ.gda.pl
-NOERROR	h100.ds4.univ.gda.pl
-NOERROR	t29203.chem.univ.gda.pl
-NOERROR	oiz.zr.univ.gda.pl
-NXDOMAIN	h118.ds5.univ.gda.pl
-NXDOMAIN	h226.ds10.univ.gda.pl
-NOERROR	iftia122.univ.gda.pl
-SERVFAIL	h96.ds9.univ.gda.pl
-NOERROR	pomoc.bg.univ.gda.pl
-NOERROR	g247.brzezno.univ.gda.pl
-NXDOMAIN	kamera.bg.univ.gda.pl
-NOERROR	h207.ds6.univ.gda.pl
-NXDOMAIN	h57.ds3.univ.gda.pl
-NOERROR	p-415-2.ek.univ.gda.pl
-SERVFAIL	h28.ds9.univ.gda.pl
-NOERROR	p-213-3.zr.univ.gda.pl
-NXDOMAIN	h161.ds3.univ.gda.pl
-NOERROR	p-202-1.zr.univ.gda.pl
-NOERROR	el-czyt.bg.univ.gda.pl
-NXDOMAIN	h114.ds10.univ.gda.pl
-NOERROR	fhks8-5.univ.gda.pl
-NOERROR	g66.brzezno.univ.gda.pl
-NOERROR	giek2.bg.univ.gda.pl
-NOERROR	sw.pol.wns.univ.gda.pl
-NOERROR	p-22-1.ek.univ.gda.pl
-NOERROR	p-213-2.zr.univ.gda.pl
-NOERROR	komp32.pol.wns.univ.gda.pl
-NOERROR	h232.ds4.univ.gda.pl
-NOERROR	prela.chem.univ.gda.pl
-NOERROR	student4.wns.univ.gda.pl
-NXDOMAIN	h236.ds5.univ.gda.pl
-NOERROR	dziek09.prawo.univ.gda.pl
-NOERROR	pc-sek1.bg.univ.gda.pl
-SERVFAIL	h121.ds9.univ.gda.pl
-NOERROR	fhbib-prac2.univ.gda.pl
-NXDOMAIN	ryba.biotech.univ.gda.pl
-NXDOMAIN	dag.chem.univ.gda.pl
-NOERROR	p-214-1.zr.univ.gda.pl
-NOERROR	t28014.chem.univ.gda.pl
-SERVFAIL	h97.ds9.univ.gda.pl
-NOERROR	t28081.chem.univ.gda.pl
-NXDOMAIN	ifd237.univ.gda.pl
-NOERROR	fhd55-1.univ.gda.pl
-NXDOMAIN	komp35.pol.wns.univ.gda.pl
-NXDOMAIN	h78.ds10.univ.gda.pl
-NOERROR	g171.brzezno.univ.gda.pl
-NOERROR	p-339-1.ek.univ.gda.pl
-NOERROR	kirghor.ek.univ.gda.pl
-NOERROR	p-117-5.zr.univ.gda.pl
-NOERROR	r29251.chem.univ.gda.pl
-NOERROR	kl.univ.gda.pl
-NOERROR	t28181.chem.univ.gda.pl
-NXDOMAIN	h143.ds5.univ.gda.pl
-NOERROR	g110.brzezno.univ.gda.pl
-NXDOMAIN	herdcen3.univ.gda.pl
-NXDOMAIN	pc8a.biology.univ.gda.pl
-NOERROR	krecik.ek.univ.gda.pl
-NOERROR	prlap.chem.univ.gda.pl
-NOERROR	h213.ds4.univ.gda.pl
-NOERROR	hall-08.bg.univ.gda.pl
-NXDOMAIN	h2.ds3.univ.gda.pl
-NOERROR	h183.ds6.univ.gda.pl
-NOERROR	p-421-14.ek.univ.gda.pl
-NOERROR	t29194.chem.univ.gda.pl
-NOERROR	p-213-14.zr.univ.gda.pl
-NOERROR	pc-hall.bg.univ.gda.pl
-NOERROR	p-227-3.ek.univ.gda.pl
-NXDOMAIN	h196.ds5.univ.gda.pl
-NOERROR	ap-ek-13.ek.univ.gda.pl
-NOERROR	p-417-11.ek.univ.gda.pl
-NOERROR	rover.ek.univ.gda.pl
-NOERROR	t28240.chem.univ.gda.pl
-NOERROR	g16.brzezno.univ.gda.pl
-NOERROR	h253.ds4.univ.gda.pl
-NOERROR	fhksl246.univ.gda.pl
-SERVFAIL	h105.ds9.univ.gda.pl
-NXDOMAIN	h154.ds3.univ.gda.pl
-NOERROR	repotest.bg.univ.gda.pl
-NOERROR	pc-10.ek.univ.gda.pl
-NXDOMAIN	h243.ds10.univ.gda.pl
-NXDOMAIN	h237.ds3.univ.gda.pl
-NOERROR	bolek.univ.gda.pl
-NOERROR	t29065.chem.univ.gda.pl
-NXDOMAIN	h4.ds5.univ.gda.pl
-NOERROR	rez15.bg.univ.gda.pl
-NOERROR	h88.ds4.univ.gda.pl
-NOERROR	p-23-5.pa.univ.gda.pl
-NOERROR	t28183.chem.univ.gda.pl
-NOERROR	c-pr-eu.pa.univ.gda.pl
-NXDOMAIN	ifd71.univ.gda.pl
-NXDOMAIN	h61.ds10.univ.gda.pl
-NXDOMAIN	h152.ds10.univ.gda.pl
-NOERROR	krab.ek.univ.gda.pl
-NXDOMAIN	h120.ds5.univ.gda.pl
-NXDOMAIN	h242.ds3.univ.gda.pl
-NXDOMAIN	h218.ds3.univ.gda.pl
-NOERROR	bp39.wns.univ.gda.pl
-NOERROR	p-103-1.zr.univ.gda.pl
-NOERROR	ap.bg.univ.gda.pl
-NOERROR	p-515-13.ek.univ.gda.pl
-NOERROR	zbyszek.bg.univ.gda.pl
-NOERROR	g249.brzezno.univ.gda.pl
-NXDOMAIN	druk-bk.bg.univ.gda.pl
-NOERROR	g90.brzezno.univ.gda.pl
-NOERROR	g104.brzezno.univ.gda.pl
-NOERROR	p-516-28.ek.univ.gda.pl
-NXDOMAIN	h143.ds3.univ.gda.pl
-NXDOMAIN	h213.ds10.univ.gda.pl
-NOERROR	prmzaj.prawo.univ.gda.pl
-NOERROR	p-421-19.ek.univ.gda.pl
-NXDOMAIN	h173.ds5.univ.gda.pl
-NXDOMAIN	h189.ds5.univ.gda.pl
-NOERROR	ap-ek-4.ek.univ.gda.pl
-NOERROR	p-016-2.ek.univ.gda.pl
-NXDOMAIN	h21.ds5.univ.gda.pl
-NXDOMAIN	piotr.geograf.univ.gda.pl
-NOERROR	g25.brzezno.univ.gda.pl
-NXDOMAIN	h18.ds5.univ.gda.pl
-NXDOMAIN	h5.ds3.univ.gda.pl
-NOERROR	g112.brzezno.univ.gda.pl
-NOERROR	g153.brzezno.univ.gda.pl
-NOERROR	ap-ek-9.ek.univ.gda.pl
-SERVFAIL	h226.ds9.univ.gda.pl
-NOERROR	p-516-13.ek.univ.gda.pl
-NOERROR	ap2.bg.univ.gda.pl
-NOERROR	h54.ds4.univ.gda.pl
-NXDOMAIN	komp36.pol.wns.univ.gda.pl
-NOERROR	iftia30.univ.gda.pl
-NXDOMAIN	h176.ds5.univ.gda.pl
-NOERROR	t28248.chem.univ.gda.pl
-NOERROR	pc-f3-1.wns.univ.gda.pl
-NOERROR	iftia97.univ.gda.pl
-NOERROR	fhbib-wyp1.univ.gda.pl
-NXDOMAIN	h167.ds10.univ.gda.pl
-NOERROR	pc-sjo-6.ek.univ.gda.pl
-NOERROR	vpn8.bg.univ.gda.pl
-NXDOMAIN	ifd234.univ.gda.pl
-NOERROR	kania.univ.gda.pl
-NOERROR	g107.brzezno.univ.gda.pl
-SERVFAIL	h126.ds9.univ.gda.pl
-NOERROR	t28026.chem.univ.gda.pl
-SERVFAIL	h64.ds9.univ.gda.pl
-NOERROR	www.bip.univ.gda.pl
-NXDOMAIN	h32.ds10.univ.gda.pl
-NOERROR	h188.ds4.univ.gda.pl
-NOERROR	p-516-8.ek.univ.gda.pl
-SERVFAIL	h235.ds9.univ.gda.pl
-NOERROR	t28212.chem.univ.gda.pl
-NOERROR	hall-05.bg.univ.gda.pl
-NOERROR	prziel.prawo.univ.gda.pl
-NOERROR	www.gender.strony.univ.gda.pl
-NOERROR	p-128-1.zr.univ.gda.pl
-NXDOMAIN	h48.ds10.univ.gda.pl
-NOERROR	p-228-3.zr.univ.gda.pl
-NXDOMAIN	h251.ds10.univ.gda.pl
-NOERROR	iftia65.univ.gda.pl
-SERVFAIL	h15.ds9.univ.gda.pl
-NXDOMAIN	komp33.pol.wns.univ.gda.pl
-NXDOMAIN	bib01.pol.wns.univ.gda.pl
-NXDOMAIN	h80.ds3.univ.gda.pl
-NOERROR	iftia85.univ.gda.pl
-NOERROR	praca.wns.univ.gda.pl
-SERVFAIL	h183.ds9.univ.gda.pl
-NOERROR	h19.ds4.univ.gda.pl
-NXDOMAIN	h235.ds3.univ.gda.pl
-SERVFAIL	h162.ds9.univ.gda.pl
-NXDOMAIN	h215.ds10.univ.gda.pl
-NXDOMAIN	ifd56.univ.gda.pl
-NOERROR	h228.ds4.univ.gda.pl
-NOERROR	sigma.univ.gda.pl
-NOERROR	p-132-1.zr.univ.gda.pl
-NXDOMAIN	bwzs.univ.gda.pl
-NOERROR	mplex5.bg.univ.gda.pl
-NXDOMAIN	h160.ds3.univ.gda.pl
-NXDOMAIN	h243.ds5.univ.gda.pl
-NOERROR	rez20.bg.univ.gda.pl
-NOERROR	fh101-3.univ.gda.pl
-NXDOMAIN	glacjo.geograf.univ.gda.pl
-NOERROR	t28105.chem.univ.gda.pl
-NOERROR	sens20.chem.univ.gda.pl
-NXDOMAIN	h97.ds10.univ.gda.pl
-NOERROR	h68.ds4.univ.gda.pl
-NOERROR	adampap.univ.gda.pl
-NOERROR	h93.ds4.univ.gda.pl
-NOERROR	pc-kontrol.bg.univ.gda.pl
-NOERROR	h177.ds6.univ.gda.pl
-NOERROR	iftia83.univ.gda.pl
-NXDOMAIN	sediment.geograf.univ.gda.pl
-NOERROR	iftia101.univ.gda.pl
-NXDOMAIN	h101.ds10.univ.gda.pl
-NXDOMAIN	h155.ds10.univ.gda.pl
-NOERROR	bp48-7.wns.univ.gda.pl
-NXDOMAIN	pok74.univ.gda.pl
-NOERROR	gosia.univ.gda.pl
-NOERROR	p-318.zr.univ.gda.pl
-NOERROR	h126.ds4.univ.gda.pl
-NOERROR	g9.brzezno.univ.gda.pl
-NOERROR	neptun.chem.univ.gda.pl
-NOERROR	g244.brzezno.univ.gda.pl
-NOERROR	h14.ds4.univ.gda.pl
-NOERROR	t29096.chem.univ.gda.pl
-NXDOMAIN	h239.ds3.univ.gda.pl
-NOERROR	kep.zr.univ.gda.pl
-NXDOMAIN	h9.ds10.univ.gda.pl
-SERVFAIL	h149.ds9.univ.gda.pl
-NOERROR	p-050-2.ek.univ.gda.pl
-NOERROR	openchem.chem.univ.gda.pl
-NOERROR	aleksandra.univ.gda.pl
-NOERROR	p-520.ek.univ.gda.pl
-NXDOMAIN	h42.ds10.univ.gda.pl
-NOERROR	t28059.chem.univ.gda.pl
-NOERROR	bp112.wns.univ.gda.pl
-NOERROR	zeus.chem.univ.gda.pl
-NXDOMAIN	h195.ds10.univ.gda.pl
-NOERROR	www.biology.univ.gda.pl
-NOERROR	kneb.univ.gda.pl
-NOERROR	microbiology.univ.gda.pl
-NXDOMAIN	h206.ds10.univ.gda.pl
-NXDOMAIN	h194.ds5.univ.gda.pl
-SERVFAIL	h135.ds9.univ.gda.pl
-NXDOMAIN	h151.ds3.univ.gda.pl
-NOERROR	p-28-73.chem.univ.gda.pl
-NOERROR	h188.ds6.univ.gda.pl
-NOERROR	t29204.chem.univ.gda.pl
-NOERROR	t28126.chem.univ.gda.pl
-NOERROR	dziek06.prawo.univ.gda.pl
-NOERROR	iftia77.univ.gda.pl
-NOERROR	g131.brzezno.univ.gda.pl
-NOERROR	hyron.univ.gda.pl
-NOERROR	helena158a.univ.gda.pl
-NOERROR	g53.brzezno.univ.gda.pl
-NOERROR	t28160.chem.univ.gda.pl
-NOERROR	p-213-5.zr.univ.gda.pl
-NOERROR	tomasz.wns.univ.gda.pl
-NXDOMAIN	ifd260.univ.gda.pl
-NOERROR	h220.ds6.univ.gda.pl
-NOERROR	arrakis.bg.univ.gda.pl
-NOERROR	informacje.bg.univ.gda.pl
-NOERROR	t28056.chem.univ.gda.pl
-NXDOMAIN	h11.ds5.univ.gda.pl
-NOERROR	dorota.ek.univ.gda.pl
-NOERROR	fh08-5.univ.gda.pl
-NOERROR	winp.bg.univ.gda.pl
-SERVFAIL	h111.ds9.univ.gda.pl
-NOERROR	jantar.univ.gda.pl
-NXDOMAIN	klm2.geograf.univ.gda.pl
-NOERROR	t29046.chem.univ.gda.pl
-NOERROR	fhmieszk.univ.gda.pl
-NXDOMAIN	h113.ds5.univ.gda.pl
-NXDOMAIN	h135.ds10.univ.gda.pl
-NOERROR	t29207.chem.univ.gda.pl
-NOERROR	t28042.chem.univ.gda.pl
-NXDOMAIN	h197.ds5.univ.gda.pl
-NOERROR	bp48-8.wns.univ.gda.pl
-NOERROR	pc-44.ek.univ.gda.pl
-NXDOMAIN	h136.ds3.univ.gda.pl
-NXDOMAIN	h42.ds5.univ.gda.pl
-NOERROR	p-103-4.zr.univ.gda.pl
-NOERROR	p-106-4.zr.univ.gda.pl
-NOERROR	h244.ds6.univ.gda.pl
-NOERROR	p-422.ek.univ.gda.pl
-NOERROR	t29091.chem.univ.gda.pl
-NOERROR	kasia2.univ.gda.pl
-NOERROR	www.student.bg.univ.gda.pl
-NOERROR	g45.brzezno.univ.gda.pl
-NOERROR	t28174.chem.univ.gda.pl
-NOERROR	p-016-1.ek.univ.gda.pl
-SERVFAIL	h94.ds9.univ.gda.pl
-NOERROR	g63.brzezno.univ.gda.pl
-NOERROR	bp17.wns.univ.gda.pl
-NOERROR	iftia47.univ.gda.pl
-NXDOMAIN	h23.ds3.univ.gda.pl
-NOERROR	h203.ds4.univ.gda.pl
-NOERROR	bp42.wns.univ.gda.pl
-NOERROR	t29051.chem.univ.gda.pl
-NOERROR	p-307.zr.univ.gda.pl
-NXDOMAIN	x2213.chem.univ.gda.pl
-NOERROR	t29116.chem.univ.gda.pl
-NOERROR	t28130.chem.univ.gda.pl
-NOERROR	fhifp151.univ.gda.pl
-NOERROR	ares.chem.univ.gda.pl
-NOERROR	h166.ds4.univ.gda.pl
-NOERROR	t28045.chem.univ.gda.pl
-NOERROR	h222.ds6.univ.gda.pl
-NOERROR	papcio.zr.univ.gda.pl
-NOERROR	dokak.univ.gda.pl
-NOERROR	p-100-1.zr.univ.gda.pl
-NOERROR	t29218.chem.univ.gda.pl
-NOERROR	p-630.ek.univ.gda.pl
-NXDOMAIN	h184.ds3.univ.gda.pl
-SERVFAIL	h171.ds9.univ.gda.pl
-NOERROR	pc-inf-4.bg.univ.gda.pl
-SERVFAIL	h181.ds9.univ.gda.pl
-NOERROR	p-211-08.ek.univ.gda.pl
-NOERROR	t28173.chem.univ.gda.pl
-NOERROR	h212.ds4.univ.gda.pl
-NOERROR	fhia117.univ.gda.pl
-NOERROR	g154.brzezno.univ.gda.pl
-NOERROR	panda.pa.univ.gda.pl
-NXDOMAIN	h79.ds5.univ.gda.pl
-NOERROR	t28075.chem.univ.gda.pl
-NOERROR	p-122-1.ek.univ.gda.pl
-NXDOMAIN	h72.ds3.univ.gda.pl
-NOERROR	p-222-2.zr.univ.gda.pl
-NOERROR	p-235-3.zr.univ.gda.pl
-SERVFAIL	h230.ds9.univ.gda.pl
-SERVFAIL	h150.ds9.univ.gda.pl
-NOERROR	g40.brzezno.univ.gda.pl
-NOERROR	ap1.bg.univ.gda.pl
-NOERROR	ipph4105.wns.univ.gda.pl
-NOERROR	t28211.chem.univ.gda.pl
-NOERROR	p-220-1.ek.univ.gda.pl
-NOERROR	p-047-6.ek.univ.gda.pl
-NOERROR	h147.ds4.univ.gda.pl
-NOERROR	www.bg.univ.gda.pl
-NXDOMAIN	h137.ds3.univ.gda.pl
-NOERROR	h10.ds4.univ.gda.pl
-NXDOMAIN	komp01.kknjo.univ.gda.pl
-NXDOMAIN	h82.ds3.univ.gda.pl
-NOERROR	p-515-1.ek.univ.gda.pl
-NXDOMAIN	h20.ds10.univ.gda.pl
-NXDOMAIN	h68.ds3.univ.gda.pl
-NOERROR	p-219-2.ek.univ.gda.pl
-NXDOMAIN	komput2.chem.univ.gda.pl
-NXDOMAIN	h225.ds5.univ.gda.pl
-NOERROR	saf.univ.gda.pl
-NXDOMAIN	h141.ds5.univ.gda.pl
-NXDOMAIN	x2224.chem.univ.gda.pl
-NOERROR	g215.brzezno.univ.gda.pl
-NOERROR	magenta.chem.univ.gda.pl
-SERVFAIL	h95.ds9.univ.gda.pl
-NXDOMAIN	h220.ds5.univ.gda.pl
-NOERROR	t28022.chem.univ.gda.pl
-NOERROR	p-03-1.zr.univ.gda.pl
-NXDOMAIN	h120.ds3.univ.gda.pl
-NOERROR	p-235-2.zr.univ.gda.pl
-NXDOMAIN	virga.geograf.univ.gda.pl
-NOERROR	p-321-1.zr.univ.gda.pl
-NOERROR	t28070.chem.univ.gda.pl
-NOERROR	fh08-10.univ.gda.pl
-NOERROR	r28015.chem.univ.gda.pl
-NXDOMAIN	awlazlo.wns.univ.gda.pl
-NXDOMAIN	ifd243.univ.gda.pl
-NOERROR	t29012.chem.univ.gda.pl
-NOERROR	p-229-8.zr.univ.gda.pl
-NOERROR	p-125.zr.univ.gda.pl
-NXDOMAIN	h46.ds3.univ.gda.pl
-NOERROR	twix6.zr.univ.gda.pl
-NOERROR	p-321-1.ek.univ.gda.pl
-SERVFAIL	h198.ds9.univ.gda.pl
-NOERROR	h235.ds6.univ.gda.pl
-NOERROR	test.bg.univ.gda.pl
-NOERROR	t28020.chem.univ.gda.pl
-NOERROR	p-516-12.ek.univ.gda.pl
-NXDOMAIN	h205.ds10.univ.gda.pl
-NOERROR	t28118.chem.univ.gda.pl
-NXDOMAIN	h250.ds5.univ.gda.pl
-NOERROR	t29108.chem.univ.gda.pl
-NXDOMAIN	h219.ds3.univ.gda.pl
-NOERROR	p-105-1.ek.univ.gda.pl
-NOERROR	kcik-pr1.bg.univ.gda.pl
-NOERROR	t28115.chem.univ.gda.pl
-NOERROR	wombat.ek.univ.gda.pl
-NOERROR	g203.brzezno.univ.gda.pl
-NOERROR	p-109-1.zr.univ.gda.pl
-NOERROR	t28089.chem.univ.gda.pl
-NOERROR	dock.chem.univ.gda.pl
-NOERROR	p-421-18.ek.univ.gda.pl
-NXDOMAIN	h39.ds10.univ.gda.pl
-NOERROR	catalog.bg.univ.gda.pl
-NOERROR	iftia86.univ.gda.pl
-NOERROR	merte.bg.univ.gda.pl
-NOERROR	p-505-13.ek.univ.gda.pl
-NOERROR	g15.brzezno.univ.gda.pl
-SERVFAIL	h13.ds9.univ.gda.pl
-NXDOMAIN	h27.ds5.univ.gda.pl
-NOERROR	t29072.chem.univ.gda.pl
-NOERROR	h117.ds4.univ.gda.pl
-NOERROR	iftia37.univ.gda.pl
-NXDOMAIN	pc-czyt-c21.bg.univ.gda.pl
-NOERROR	h142.ds6.univ.gda.pl
-NOERROR	aiesec.univ.gda.pl
-NOERROR	neuropsychologia.strony.univ.gda.pl
-NOERROR	g102.brzezno.univ.gda.pl
-NXDOMAIN	pc105a.biology.univ.gda.pl
-NXDOMAIN	h108.ds10.univ.gda.pl
-NOERROR	p-417-14.ek.univ.gda.pl
-NOERROR	h26.ds4.univ.gda.pl
-NOERROR	h252.ds4.univ.gda.pl
-NOERROR	dowex.univ.gda.pl
-NOERROR	g115.brzezno.univ.gda.pl
-NOERROR	t28125.chem.univ.gda.pl
-NXDOMAIN	marta1.bg.univ.gda.pl
-NOERROR	proza.ocean.univ.gda.pl
-NOERROR	h232.ds6.univ.gda.pl
-NOERROR	p-401-1.zr.univ.gda.pl
-NOERROR	p-516-16.ek.univ.gda.pl
-NOERROR	t29131.chem.univ.gda.pl
-NXDOMAIN	ifd74-1.univ.gda.pl
-NOERROR	p-12.zr.univ.gda.pl
-NOERROR	p-421-1.ek.univ.gda.pl
-NXDOMAIN	h138.ds3.univ.gda.pl
-NOERROR	adela.univ.gda.pl
-NOERROR	g161.brzezno.univ.gda.pl
-NOERROR	kcik-jr.bg.univ.gda.pl
-NOERROR	p-234.zr.univ.gda.pl
-NOERROR	specjal.wns.univ.gda.pl
-NOERROR	h233.ds6.univ.gda.pl
-SERVFAIL	h46.ds9.univ.gda.pl
-SERVFAIL	h7.ds9.univ.gda.pl
-NOERROR	l-02.zr.univ.gda.pl
-NOERROR	p-402-1.ek.univ.gda.pl
-NOERROR	p-229-9.zr.univ.gda.pl
-NXDOMAIN	marek-pc.chem.univ.gda.pl
-NXDOMAIN	h204.ds10.univ.gda.pl
-NOERROR	p-417-7.ek.univ.gda.pl
-NXDOMAIN	h68.ds5.univ.gda.pl
-SERVFAIL	h18.ds9.univ.gda.pl
-NXDOMAIN	h38.ds10.univ.gda.pl
-NOERROR	h71.ds4.univ.gda.pl
-NXDOMAIN	h62.ds10.univ.gda.pl
-NOERROR	p-122-2.zr.univ.gda.pl
-NOERROR	iftia11.univ.gda.pl
-NOERROR	g254.brzezno.univ.gda.pl
-SERVFAIL	h231.ds9.univ.gda.pl
-NOERROR	rez14.bg.univ.gda.pl
-NOERROR	p-421-7.ek.univ.gda.pl
-NOERROR	p-204-2.ek.univ.gda.pl
-NOERROR	t29236.chem.univ.gda.pl
-NOERROR	bar1.univ.gda.pl
-NOERROR	p-421-3.ek.univ.gda.pl
-NXDOMAIN	h4.ds10.univ.gda.pl
-NOERROR	ewa1.univ.gda.pl
-NOERROR	sun1.chem.univ.gda.pl
-NOERROR	p-417-2.ek.univ.gda.pl
-NXDOMAIN	andy.univ.gda.pl
-SERVFAIL	h77.ds9.univ.gda.pl
-NOERROR	fhs101.univ.gda.pl
-NXDOMAIN	h186.ds10.univ.gda.pl
-NOERROR	p-417-17.ek.univ.gda.pl
-NXDOMAIN	h177.ds3.univ.gda.pl
-SERVFAIL	h100.ds9.univ.gda.pl
-NOERROR	prkruc.prawo.univ.gda.pl
-NOERROR	t28242.chem.univ.gda.pl
-NOERROR	g220.brzezno.univ.gda.pl
-NOERROR	h134.ds6.univ.gda.pl
-SERVFAIL	h5.ds9.univ.gda.pl
-NOERROR	bp48-1.wns.univ.gda.pl
-NXDOMAIN	h245.ds3.univ.gda.pl
-NOERROR	iftia41.univ.gda.pl
-NXDOMAIN	bcount5.univ.gda.pl
-NXDOMAIN	h155.ds3.univ.gda.pl
-SERVFAIL	h123.ds9.univ.gda.pl
-SERVFAIL	h38.ds9.univ.gda.pl
-NOERROR	vantage.univ.gda.pl
-NOERROR	piasek4.chem.univ.gda.pl
-NOERROR	p-211.zr.univ.gda.pl
-NOERROR	vpn1.bg.univ.gda.pl
-NOERROR	satel.univ.gda.pl
-NOERROR	g143.brzezno.univ.gda.pl
-NXDOMAIN	h191.ds3.univ.gda.pl
-NXDOMAIN	h47.ds5.univ.gda.pl
-NOERROR	p-203-2.zr.univ.gda.pl
-NXDOMAIN	h70.ds10.univ.gda.pl
-NXDOMAIN	h222.ds5.univ.gda.pl
-NXDOMAIN	maryla1.chem.univ.gda.pl
-NXDOMAIN	moon1.chem.univ.gda.pl
-NOERROR	pc-45.ek.univ.gda.pl
-NXDOMAIN	ifd259.univ.gda.pl
-NOERROR	iftia79.univ.gda.pl
-NOERROR	hall-04.bg.univ.gda.pl
-NOERROR	h106.ds4.univ.gda.pl
-NOERROR	h169.ds6.univ.gda.pl
-NOERROR	borowik.univ.gda.pl
-NOERROR	imac-g315.chem.univ.gda.pl
-NOERROR	bp9-2.wns.univ.gda.pl
-NOERROR	t28233.chem.univ.gda.pl
-NOERROR	biurokarier.univ.gda.pl
-NXDOMAIN	h92.ds10.univ.gda.pl
-NOERROR	h210.ds4.univ.gda.pl
-NOERROR	vpn5.bg.univ.gda.pl
-NOERROR	iftia45.univ.gda.pl
-SERVFAIL	h67.ds9.univ.gda.pl
-NXDOMAIN	h239.ds5.univ.gda.pl
-NOERROR	iftia25.univ.gda.pl
-NXDOMAIN	h248.ds10.univ.gda.pl
-NOERROR	lexint.univ.gda.pl
-NXDOMAIN	h44.ds5.univ.gda.pl
-SERVFAIL	h221.ds9.univ.gda.pl
-NOERROR	p-211-01.ek.univ.gda.pl
-NOERROR	pc-46.ek.univ.gda.pl
-NXDOMAIN	h10.ds10.univ.gda.pl
-NXDOMAIN	h107.ds5.univ.gda.pl
-NOERROR	azs1.univ.gda.pl
-NOERROR	wombat.zr.univ.gda.pl
-NOERROR	g54.brzezno.univ.gda.pl
-NXDOMAIN	olbr.univ.gda.pl
-NOERROR	p-129-2.zr.univ.gda.pl
-NOERROR	p-505-1.ek.univ.gda.pl
-NOERROR	p-337-1.ek.univ.gda.pl
-NOERROR	h187.ds4.univ.gda.pl
-NOERROR	g59.brzezno.univ.gda.pl
-NOERROR	iftia54.univ.gda.pl
-NOERROR	p-224-3.ek.univ.gda.pl
-NOERROR	hania.univ.gda.pl
-NOERROR	p-202a.zr.univ.gda.pl
-NOERROR	p-117-3.zr.univ.gda.pl
-NXDOMAIN	bcount7.univ.gda.pl
-SERVFAIL	h143.ds9.univ.gda.pl
-NOERROR	fhbib-prac1.univ.gda.pl
-NOERROR	p-9-2.zr.univ.gda.pl
-NXDOMAIN	komput6.chem.univ.gda.pl
-NOERROR	cyrkiel2.bg.univ.gda.pl
-NOERROR	ring.univ.gda.pl
-NXDOMAIN	ifd331.univ.gda.pl
-NXDOMAIN	szaman.chem.univ.gda.pl
-NOERROR	sw4.bg.univ.gda.pl
-NOERROR	t29049.chem.univ.gda.pl
-NOERROR	p-402-4.ek.univ.gda.pl
-NOERROR	www.musial.strony.univ.gda.pl
-NXDOMAIN	h244.ds3.univ.gda.pl
-NOERROR	tukan.bg.univ.gda.pl
-NOERROR	h155.ds6.univ.gda.pl
-NOERROR	p-126-2.ek.univ.gda.pl
-NOERROR	dk-serwer.zr.univ.gda.pl
-NOERROR	r28031.chem.univ.gda.pl
-NXDOMAIN	pc203.biology.univ.gda.pl
-NOERROR	h197.ds4.univ.gda.pl
-SERVFAIL	h31.ds9.univ.gda.pl
-NXDOMAIN	h144.ds3.univ.gda.pl
-NOERROR	p-117-4.zr.univ.gda.pl
-NOERROR	ug2zarz-swe.zr.univ.gda.pl
-NXDOMAIN	h150.ds10.univ.gda.pl
-NOERROR	h56.ds4.univ.gda.pl
-NOERROR	lemuel.zr.univ.gda.pl
-NOERROR	iftia78.univ.gda.pl
-NOERROR	rez16.bg.univ.gda.pl
-SERVFAIL	h119.ds9.univ.gda.pl
-NOERROR	h86.ds4.univ.gda.pl
-NOERROR	vpn2.bg.univ.gda.pl
-NXDOMAIN	prep.prawo.univ.gda.pl
-SERVFAIL	h139.ds9.univ.gda.pl
-NXDOMAIN	h132.ds5.univ.gda.pl
-NOERROR	pc-mag-2.bg.univ.gda.pl
-NOERROR	p-129-6.zr.univ.gda.pl
-NOERROR	pc-sek2.bg.univ.gda.pl
-NXDOMAIN	h247.ds5.univ.gda.pl
-NOERROR	iftia6.univ.gda.pl
-NXDOMAIN	ifd307.univ.gda.pl
-NOERROR	iftia95.univ.gda.pl
-NOERROR	bpe.univ.gda.pl
-NXDOMAIN	h21.ds3.univ.gda.pl
-NOERROR	g23.brzezno.univ.gda.pl
-NOERROR	p-335-1.ek.univ.gda.pl
-NXDOMAIN	ifd341-1.univ.gda.pl
-NOERROR	poczta.univ.gda.pl
-NXDOMAIN	h45.ds3.univ.gda.pl
-NOERROR	poli2.chem.univ.gda.pl
-SERVFAIL	h164.ds9.univ.gda.pl
-NXDOMAIN	h81.ds10.univ.gda.pl
-NOERROR	pc-41.ek.univ.gda.pl
-NOERROR	h170.ds4.univ.gda.pl
-NXDOMAIN	h12.ds10.univ.gda.pl
-NOERROR	cubs.bg.univ.gda.pl
-NXDOMAIN	h192.ds10.univ.gda.pl
-NOERROR	p-107-1.ek.univ.gda.pl
-NOERROR	kiosk-eu.bg.univ.gda.pl
-NOERROR	t28002.chem.univ.gda.pl
-NOERROR	h251.ds4.univ.gda.pl
-NOERROR	p-131-3.ek.univ.gda.pl
-NOERROR	pc-f3-4.wns.univ.gda.pl
-NOERROR	p-317-2.ek.univ.gda.pl
-NOERROR	h226.ds4.univ.gda.pl
-NOERROR	t28237.chem.univ.gda.pl
-NOERROR	h222.ds4.univ.gda.pl
-NOERROR	info-note.bg.univ.gda.pl
-NXDOMAIN	h115.ds10.univ.gda.pl
-NOERROR	pc-sjo-1.ek.univ.gda.pl
-NOERROR	p-130-2.ek.univ.gda.pl
-NOERROR	nina.chem.univ.gda.pl
-NOERROR	gucio.chem.univ.gda.pl
-NXDOMAIN	h88.ds5.univ.gda.pl
-NOERROR	t28086.chem.univ.gda.pl
-SERVFAIL	h110.ds9.univ.gda.pl
-NOERROR	www.wnswz.strony.univ.gda.pl
-NOERROR	h233.ds4.univ.gda.pl
-NXDOMAIN	h147.ds10.univ.gda.pl
-NOERROR	g19.brzezno.univ.gda.pl
-NOERROR	p-229-3.zr.univ.gda.pl
-NOERROR	p-hal-02.ek.univ.gda.pl
-NOERROR	p-516-22.ek.univ.gda.pl
-NOERROR	h193.ds4.univ.gda.pl
-NOERROR	pc-czyta-3.bg.univ.gda.pl
-NOERROR	iftia80.univ.gda.pl
-NXDOMAIN	langusta.biotech.univ.gda.pl
-NOERROR	p-239-13.zr.univ.gda.pl
-NOERROR	h161.ds6.univ.gda.pl
-NOERROR	t28216.chem.univ.gda.pl
-NOERROR	ip-cent-4.ek.univ.gda.pl
-NOERROR	brc4.univ.gda.pl
-NXDOMAIN	h195.ds5.univ.gda.pl
-NXDOMAIN	h254.ds3.univ.gda.pl
-NOERROR	p-211-04.ek.univ.gda.pl
-NXDOMAIN	praula.prawo.univ.gda.pl
-NXDOMAIN	h148.ds3.univ.gda.pl
-NXDOMAIN	ifd207.univ.gda.pl
-NOERROR	mta-sts.gnu.univ.gda.pl
-NOERROR	p-330-1.ek.univ.gda.pl
-NOERROR	p-415-kr1.ek.univ.gda.pl
-NOERROR	mati.univ.gda.pl
-NXDOMAIN	ifd141.univ.gda.pl
-NXDOMAIN	polpc02.univ.gda.pl
-NOERROR	t29098.chem.univ.gda.pl
-NOERROR	pr3012.prawo.univ.gda.pl
-NXDOMAIN	h108.ds5.univ.gda.pl
-NOERROR	chf8.chem.univ.gda.pl
-SERVFAIL	h10.ds9.univ.gda.pl
-NOERROR	t29114.chem.univ.gda.pl
-NOERROR	parl2.univ.gda.pl
-NOERROR	localhost.chem.univ.gda.pl
-NXDOMAIN	komp07.kknjo.univ.gda.pl
-NXDOMAIN	h196.ds3.univ.gda.pl
-NOERROR	h171.ds6.univ.gda.pl
-NOERROR	g14.brzezno.univ.gda.pl
-SERVFAIL	h114.ds9.univ.gda.pl
-NXDOMAIN	h216.ds10.univ.gda.pl
-NOERROR	g122.brzezno.univ.gda.pl
-NXDOMAIN	h134.ds10.univ.gda.pl
-NOERROR	h215.ds6.univ.gda.pl
-NOERROR	pc-wyp-1.bg.univ.gda.pl
-NXDOMAIN	h202.ds3.univ.gda.pl
-NOERROR	p-516-11.ek.univ.gda.pl
-NXDOMAIN	ifd140.univ.gda.pl
-SERVFAIL	h25.ds9.univ.gda.pl
-SERVFAIL	h208.ds9.univ.gda.pl
-NOERROR	bp21.wns.univ.gda.pl
-NOERROR	pc-sjo-12.ek.univ.gda.pl
-NXDOMAIN	piren.chem.univ.gda.pl
-NOERROR	iftia12.univ.gda.pl
-SERVFAIL	h82.ds9.univ.gda.pl
-NXDOMAIN	h23.ds10.univ.gda.pl
-NOERROR	openview.bg.univ.gda.pl
-NOERROR	p-118-1.ek.univ.gda.pl
-NOERROR	lambda2.chem.univ.gda.pl
-NXDOMAIN	h168.ds3.univ.gda.pl
-NOERROR	p-047-5.ek.univ.gda.pl
-NOERROR	g28.brzezno.univ.gda.pl
-NXDOMAIN	h120.ds10.univ.gda.pl
-NOERROR	pc-43.ek.univ.gda.pl
-NOERROR	t28127.chem.univ.gda.pl
-NOERROR	h175.ds6.univ.gda.pl
-NXDOMAIN	komp26.pol.wns.univ.gda.pl
-SERVFAIL	h37.ds9.univ.gda.pl
-NOERROR	p-229-6.zr.univ.gda.pl
-NOERROR	seba.univ.gda.pl
-NOERROR	p-136-1.ek.univ.gda.pl
-NXDOMAIN	h128.ds3.univ.gda.pl
-NXDOMAIN	x2222.chem.univ.gda.pl
-NOERROR	p-312-3.ek.univ.gda.pl
-NOERROR	t29100.chem.univ.gda.pl
-NOERROR	fhd29.univ.gda.pl
-NOERROR	fhih44.univ.gda.pl
-SERVFAIL	h3.ds9.univ.gda.pl
-NOERROR	dni-k-3.ek.univ.gda.pl
-NOERROR	h151.ds6.univ.gda.pl
-NOERROR	p-114-3.zr.univ.gda.pl
-NOERROR	g75.brzezno.univ.gda.pl
-NXDOMAIN	ifd62.univ.gda.pl
-NOERROR	g82.brzezno.univ.gda.pl
-SERVFAIL	h234.ds9.univ.gda.pl
-NXDOMAIN	h152.ds5.univ.gda.pl
-NOERROR	alter.bg.univ.gda.pl
-NOERROR	p-630-2.ek.univ.gda.pl
-NOERROR	g35.brzezno.univ.gda.pl
-NXDOMAIN	h138.ds10.univ.gda.pl
-NOERROR	www.plywanie.azs.univ.gda.pl
-NOERROR	cosmo.chem.univ.gda.pl
-NOERROR	h190.ds6.univ.gda.pl
-NOERROR	t29249.chem.univ.gda.pl
-NOERROR	t29159.chem.univ.gda.pl
-NOERROR	www.chor.univ.gda.pl
-NOERROR	p-204-1.ek.univ.gda.pl
-NOERROR	ala.chem.univ.gda.pl
-NXDOMAIN	h95.ds10.univ.gda.pl
-NOERROR	cisco.zr.univ.gda.pl
-NOERROR	p-239-08.zr.univ.gda.pl
-NOERROR	vpn13.bg.univ.gda.pl
-NXDOMAIN	h134.ds3.univ.gda.pl
-NOERROR	t28163.chem.univ.gda.pl
-NXDOMAIN	h175.ds5.univ.gda.pl
-NXDOMAIN	krewetka.biotech.univ.gda.pl
-NOERROR	kicia.chem.univ.gda.pl
-NOERROR	p-228-2.zr.univ.gda.pl
-NXDOMAIN	h15.ds10.univ.gda.pl
-NXDOMAIN	herdcen7.univ.gda.pl
-SERVFAIL	h52.ds9.univ.gda.pl
-NOERROR	www.ocean.univ.gda.pl
-NOERROR	hans.univ.gda.pl
-NOERROR	prsdz.prawo.univ.gda.pl
-SERVFAIL	h215.ds9.univ.gda.pl
-NXDOMAIN	h179.ds5.univ.gda.pl
-NXDOMAIN	x2231.chem.univ.gda.pl
-NXDOMAIN	h145.ds10.univ.gda.pl
-NOERROR	p-505-3.ek.univ.gda.pl
-SERVFAIL	h55.ds9.univ.gda.pl
-NXDOMAIN	h81.ds3.univ.gda.pl
-NXDOMAIN	h54.ds5.univ.gda.pl
-NOERROR	fhia116-2.univ.gda.pl
-NXDOMAIN	h19.ds10.univ.gda.pl
-NXDOMAIN	jarzyn.chem.univ.gda.pl
-NXDOMAIN	pc103.biology.univ.gda.pl
-NXDOMAIN	komp02.pol.wns.univ.gda.pl
-SERVFAIL	h163.ds9.univ.gda.pl
-NXDOMAIN	h11.ds3.univ.gda.pl
-NOERROR	pc2-gazetaug.bg.univ.gda.pl
-NOERROR	fhifs131.univ.gda.pl
-NOERROR	h8.ds4.univ.gda.pl
-NOERROR	h87.ds4.univ.gda.pl
-NXDOMAIN	ifd308.univ.gda.pl
-NXDOMAIN	h145.ds3.univ.gda.pl
-SERVFAIL	h75.ds9.univ.gda.pl
-SERVFAIL	h84.ds9.univ.gda.pl
-NXDOMAIN	elsa.prawo.univ.gda.pl
-SERVFAIL	h156.ds9.univ.gda.pl
-NOERROR	t28223.chem.univ.gda.pl
-NOERROR	g222.brzezno.univ.gda.pl
-NOERROR	g191.brzezno.univ.gda.pl
-NOERROR	h153.ds4.univ.gda.pl
-NXDOMAIN	h163.ds5.univ.gda.pl
-NOERROR	fhih52a.univ.gda.pl
-NOERROR	p-223-1.zr.univ.gda.pl
-NOERROR	p-126-1.zr.univ.gda.pl
-NXDOMAIN	h203.ds10.univ.gda.pl
-SERVFAIL	h49.ds9.univ.gda.pl
-NOERROR	boj.prawo.univ.gda.pl
-NOERROR	dkn.univ.gda.pl
-NOERROR	h182.ds4.univ.gda.pl
-NOERROR	fhifp139.univ.gda.pl
-NXDOMAIN	sat.bgio.univ.gda.pl
-SERVFAIL	h72.ds9.univ.gda.pl
-SERVFAIL	h239.ds9.univ.gda.pl
-NOERROR	r28032.chem.univ.gda.pl
-NOERROR	h70.ds4.univ.gda.pl
-NXDOMAIN	h35.ds3.univ.gda.pl
-NOERROR	iftia5.univ.gda.pl
-NXDOMAIN	h204.ds5.univ.gda.pl
-NOERROR	iftia17.univ.gda.pl
-NOERROR	p-223-5.zr.univ.gda.pl
-NXDOMAIN	h158.ds3.univ.gda.pl
-NOERROR	cat1.bg.univ.gda.pl
-NXDOMAIN	h25.ds10.univ.gda.pl
-NXDOMAIN	h24.ds10.univ.gda.pl
-NOERROR	ack2.univ.gda.pl
-NOERROR	t29233.chem.univ.gda.pl
-NXDOMAIN	h160.ds10.univ.gda.pl
-NOERROR	t29060.chem.univ.gda.pl
-NOERROR	kcik-pr3.bg.univ.gda.pl
-NOERROR	t28024.chem.univ.gda.pl
-NOERROR	p-336-1.ek.univ.gda.pl
-NOERROR	fhia106.univ.gda.pl
-NXDOMAIN	h145.ds5.univ.gda.pl
-NOERROR	p-239-14.zr.univ.gda.pl
-NXDOMAIN	prkrym.prawo.univ.gda.pl
-SERVFAIL	h207.ds9.univ.gda.pl
-NXDOMAIN	www.29eps.univ.gda.pl
-NXDOMAIN	h15.ds3.univ.gda.pl
-NOERROR	p-338-1.ek.univ.gda.pl
-NXDOMAIN	herdcen.univ.gda.pl
-NOERROR	ups.bg.univ.gda.pl
-NOERROR	model.ocean.univ.gda.pl
-NOERROR	fhih51.univ.gda.pl
-NOERROR	wyd.bg.univ.gda.pl
-NXDOMAIN	h30.ds5.univ.gda.pl
-NXDOMAIN	h1.ds10.univ.gda.pl
-NOERROR	p-417-8.ek.univ.gda.pl
-NOERROR	bp36.wns.univ.gda.pl
-NOERROR	h226.ds6.univ.gda.pl
-NXDOMAIN	h229.ds3.univ.gda.pl
-NOERROR	blind.univ.gda.pl
-NXDOMAIN	x2211.chem.univ.gda.pl
-NOERROR	george.chem.univ.gda.pl
-NOERROR	h60.ds4.univ.gda.pl
-NOERROR	h15.ds4.univ.gda.pl
-SERVFAIL	h17.ds9.univ.gda.pl
-NOERROR	p-239-04.zr.univ.gda.pl
-NXDOMAIN	h146.ds3.univ.gda.pl
-NXDOMAIN	h214.ds3.univ.gda.pl
-NOERROR	h141.ds6.univ.gda.pl
-NOERROR	p-116-1.zr.univ.gda.pl
-NXDOMAIN	h210.ds3.univ.gda.pl
-NXDOMAIN	ifd333.univ.gda.pl
-NXDOMAIN	h67.ds5.univ.gda.pl
-NOERROR	h130.ds6.univ.gda.pl
-NXDOMAIN	h209.ds10.univ.gda.pl
-NOERROR	h201.ds6.univ.gda.pl
-NXDOMAIN	h99.ds3.univ.gda.pl
-NOERROR	j182.ds.univ.gda.pl
-NOERROR	iftia18.univ.gda.pl
-NXDOMAIN	bazyl.chem.univ.gda.pl
-SERVFAIL	h122.ds9.univ.gda.pl
-NOERROR	t29111.chem.univ.gda.pl
-NOERROR	t29077.chem.univ.gda.pl
-NOERROR	fhifp158a.univ.gda.pl
-NOERROR	pr3032.prawo.univ.gda.pl
-SERVFAIL	h187.ds9.univ.gda.pl
-NOERROR	t29063.chem.univ.gda.pl
-NXDOMAIN	h76.ds3.univ.gda.pl
-SERVFAIL	h47.ds9.univ.gda.pl
-NXDOMAIN	h185.ds3.univ.gda.pl
-NXDOMAIN	h13.ds5.univ.gda.pl
-NXDOMAIN	h7.ds10.univ.gda.pl
-NOERROR	t28090.chem.univ.gda.pl
-NOERROR	p-oiz-6.zr.univ.gda.pl
-NOERROR	www.microbiology.univ.gda.pl
-SERVFAIL	h201.ds9.univ.gda.pl
-NXDOMAIN	h40.ds5.univ.gda.pl
-NOERROR	krass.univ.gda.pl
-NOERROR	p-231.zr.univ.gda.pl
-NOERROR	h131.ds4.univ.gda.pl
-NOERROR	h174.ds6.univ.gda.pl
-NXDOMAIN	protoss.chem.univ.gda.pl
-NOERROR	iftia29.univ.gda.pl
-NOERROR	h186.ds4.univ.gda.pl
-NOERROR	krzysztof.chem.univ.gda.pl
-NOERROR	sylwiusz.wns.univ.gda.pl
-NXDOMAIN	h142.ds5.univ.gda.pl
-NOERROR	pc-sjo-10.ek.univ.gda.pl
-NOERROR	dyrole.wns.univ.gda.pl
-NXDOMAIN	h233.ds5.univ.gda.pl
-NOERROR	kamila.chem.univ.gda.pl
-NOERROR	h175.ds4.univ.gda.pl
-NOERROR	naab.ek.univ.gda.pl
-NOERROR	pc-mag-1.bg.univ.gda.pl
-NOERROR	bp28.wns.univ.gda.pl
-NOERROR	h150.ds6.univ.gda.pl
-NXDOMAIN	h238.ds5.univ.gda.pl
-NXDOMAIN	h59.ds5.univ.gda.pl
-NXDOMAIN	h224.ds5.univ.gda.pl
-NOERROR	h163.ds6.univ.gda.pl
-SERVFAIL	h145.ds9.univ.gda.pl
-SERVFAIL	h160.ds9.univ.gda.pl
-NXDOMAIN	h169.ds5.univ.gda.pl
-NOERROR	p-235-1.zr.univ.gda.pl
-NOERROR	asiales.univ.gda.pl
-NOERROR	p-417-13.ek.univ.gda.pl
-NOERROR	fhia116.univ.gda.pl
-NXDOMAIN	tilk.chem.univ.gda.pl
-NXDOMAIN	h71.ds5.univ.gda.pl
-NOERROR	ap-ek-17.ek.univ.gda.pl
-NOERROR	align.chem.univ.gda.pl
-NXDOMAIN	h7.ds5.univ.gda.pl
-NXDOMAIN	h139.ds5.univ.gda.pl
-NOERROR	ferdinand.chem.univ.gda.pl
-NOERROR	h236.ds4.univ.gda.pl
-SERVFAIL	h186.ds9.univ.gda.pl
-NXDOMAIN	h140.ds5.univ.gda.pl
-NXDOMAIN	h225.ds10.univ.gda.pl
-NOERROR	h110.ds4.univ.gda.pl
-NXDOMAIN	h114.ds3.univ.gda.pl
-NOERROR	fh101-2.univ.gda.pl
-NXDOMAIN	komp06.kknjo.univ.gda.pl
-NXDOMAIN	h131.ds10.univ.gda.pl
-NOERROR	p-630-t.ek.univ.gda.pl
-NOERROR	p-218-2.zr.univ.gda.pl
-NOERROR	p-516-34.ek.univ.gda.pl
-NOERROR	p-sjo-13.ek.univ.gda.pl
-NOERROR	insomnia.ek.univ.gda.pl
-SERVFAIL	h229.ds9.univ.gda.pl
-NXDOMAIN	h22.ds10.univ.gda.pl
-NOERROR	korneliusz.wns.univ.gda.pl
-NOERROR	ware.chem.univ.gda.pl
-NXDOMAIN	h2.ds5.univ.gda.pl
-NOERROR	cherk.chem.univ.gda.pl
-NOERROR	nati.bg.univ.gda.pl
-NOERROR	g106.brzezno.univ.gda.pl
-NOERROR	t28109.chem.univ.gda.pl
-SERVFAIL	h211.ds9.univ.gda.pl
-NXDOMAIN	ca6700md.univ.gda.pl
-NOERROR	g166.brzezno.univ.gda.pl
-NOERROR	www.ek.univ.gda.pl
-NOERROR	h162.ds6.univ.gda.pl
-NOERROR	herder.univ.gda.pl
-NOERROR	hall2.ek.univ.gda.pl
-NXDOMAIN	h84.ds10.univ.gda.pl
-NXDOMAIN	h213.ds3.univ.gda.pl
-NOERROR	www.iftia.univ.gda.pl
-NOERROR	h31.ds4.univ.gda.pl
-NOERROR	iftia103.univ.gda.pl
-NOERROR	p-505-11.ek.univ.gda.pl
-NOERROR	p-7.pa.univ.gda.pl
-NOERROR	h52.ds4.univ.gda.pl
-NOERROR	t29175.chem.univ.gda.pl
-NOERROR	asia.univ.gda.pl
-NOERROR	t29088.chem.univ.gda.pl
-NOERROR	bp101-1.wns.univ.gda.pl
-NOERROR	h121.ds4.univ.gda.pl
-NXDOMAIN	h215.ds3.univ.gda.pl
-NOERROR	monika.zr.univ.gda.pl
-SERVFAIL	h155.ds9.univ.gda.pl
-NOERROR	iftia27.univ.gda.pl
-NOERROR	t29153.chem.univ.gda.pl
-NOERROR	www.caise2012.univ.gda.pl
-NXDOMAIN	alone.univ.gda.pl
-NOERROR	bp24.wns.univ.gda.pl
-NOERROR	iftia52.univ.gda.pl
-NXDOMAIN	h28.ds5.univ.gda.pl
-NOERROR	p-10-4.zr.univ.gda.pl
-NOERROR	p-125-1.ek.univ.gda.pl
-SERVFAIL	h157.ds9.univ.gda.pl
-NOERROR	t29045.chem.univ.gda.pl
-NXDOMAIN	h197.ds3.univ.gda.pl
-NOERROR	p-sjo-15.ek.univ.gda.pl
-NXDOMAIN	h144.ds10.univ.gda.pl
-NXDOMAIN	h115.ds3.univ.gda.pl
-SERVFAIL	h65.ds9.univ.gda.pl
-NOERROR	ap-ek-2.ek.univ.gda.pl
-NOERROR	p-515-10.ek.univ.gda.pl
-NOERROR	iftia68.univ.gda.pl
-NOERROR	iftia20.univ.gda.pl
-SERVFAIL	h76.ds9.univ.gda.pl
-NXDOMAIN	h14.ds10.univ.gda.pl
-NOERROR	prod1.bg.univ.gda.pl
-SERVFAIL	h151.ds9.univ.gda.pl
-NXDOMAIN	h128.ds5.univ.gda.pl
-NOERROR	leo.univ.gda.pl
-NOERROR	www.biurokarier.univ.gda.pl
-NXDOMAIN	h221.ds10.univ.gda.pl
-NXDOMAIN	h186.ds5.univ.gda.pl
-NOERROR	mariola.wns.univ.gda.pl
-NOERROR	t29250.chem.univ.gda.pl
-NOERROR	twix6.ek.univ.gda.pl
-NOERROR	bp35.wns.univ.gda.pl
-SERVFAIL	h92.ds9.univ.gda.pl
-NOERROR	g52.brzezno.univ.gda.pl
-NOERROR	t28076.chem.univ.gda.pl
-NXDOMAIN	h210.ds5.univ.gda.pl
-NOERROR	behemot.zr.univ.gda.pl
-NXDOMAIN	h111.ds5.univ.gda.pl
-NOERROR	vpn6.bg.univ.gda.pl
-NOERROR	p-2-2.ek.univ.gda.pl
-NOERROR	ack3.univ.gda.pl
-NOERROR	p-103-1.pa.univ.gda.pl
-NOERROR	fhifp143.univ.gda.pl
-NOERROR	iftia15.univ.gda.pl
-NXDOMAIN	h143.ds10.univ.gda.pl
-SERVFAIL	h2.ds9.univ.gda.pl
-NXDOMAIN	h187.ds5.univ.gda.pl
-NOERROR	rez19.bg.univ.gda.pl
-NOERROR	drukbg.bg.univ.gda.pl
-NOERROR	sanjuro.univ.gda.pl
-NXDOMAIN	ifd337.univ.gda.pl
-NOERROR	iftia121.univ.gda.pl
-NOERROR	p-516-37.ek.univ.gda.pl
-NOERROR	g226.brzezno.univ.gda.pl
-NXDOMAIN	h43.ds3.univ.gda.pl
-NOERROR	p-516-9.ek.univ.gda.pl
-NOERROR	sasha.chem.univ.gda.pl
-NOERROR	fhks8-7.univ.gda.pl
-NOERROR	snoopy.chem.univ.gda.pl
-NOERROR	edmund.chem.univ.gda.pl
-NOERROR	h247.ds6.univ.gda.pl
-NOERROR	h180.ds6.univ.gda.pl
-NOERROR	p-228-8.zr.univ.gda.pl
-NOERROR	h42.ds4.univ.gda.pl
-NOERROR	berta.chem.univ.gda.pl
-NOERROR	dziek08.prawo.univ.gda.pl
-NXDOMAIN	h113.ds10.univ.gda.pl
-NOERROR	p-229-13.zr.univ.gda.pl
-NOERROR	g65.brzezno.univ.gda.pl
-NOERROR	g245.brzezno.univ.gda.pl
-NOERROR	brc0.univ.gda.pl
-NXDOMAIN	h96.ds10.univ.gda.pl
-SERVFAIL	h236.ds9.univ.gda.pl
-NXDOMAIN	h200.ds3.univ.gda.pl
-NXDOMAIN	h102.ds10.univ.gda.pl
-NOERROR	t29178.chem.univ.gda.pl
-NOERROR	t28114.chem.univ.gda.pl
-NOERROR	monica.chem.univ.gda.pl
-NOERROR	iftia120.univ.gda.pl
-NOERROR	t29079.chem.univ.gda.pl
-NXDOMAIN	h193.ds3.univ.gda.pl
-NXDOMAIN	h223.ds3.univ.gda.pl
-NOERROR	p-236.zr.univ.gda.pl
-NOERROR	g125.brzezno.univ.gda.pl
-NOERROR	t29041.chem.univ.gda.pl
-SERVFAIL	h117.ds9.univ.gda.pl
-NXDOMAIN	h248.ds3.univ.gda.pl
-NOERROR	gleba.chem.univ.gda.pl
-NXDOMAIN	lucia.biology.univ.gda.pl
-NOERROR	rtr.pol.wns.univ.gda.pl
-NOERROR	t28246.chem.univ.gda.pl
-NOERROR	foton.chem.univ.gda.pl
-NOERROR	g251.brzezno.univ.gda.pl
-NOERROR	pc-czyt-c2.bg.univ.gda.pl
-NOERROR	h179.ds6.univ.gda.pl
-NOERROR	g248.brzezno.univ.gda.pl
-NOERROR	g123.brzezno.univ.gda.pl
-NOERROR	p-211-06.ek.univ.gda.pl
-NXDOMAIN	komp38.pol.wns.univ.gda.pl
-NOERROR	p-01-2.pa.univ.gda.pl
-NXDOMAIN	h139.ds10.univ.gda.pl
-NXDOMAIN	komp03.kknjo.univ.gda.pl
-NXDOMAIN	ifd332.univ.gda.pl
-NOERROR	p-hal-03.ek.univ.gda.pl
-NOERROR	p-418-2.ek.univ.gda.pl
-NXDOMAIN	ifd335.univ.gda.pl
-NOERROR	fhlog2.univ.gda.pl
-NOERROR	h3.ds4.univ.gda.pl
-SERVFAIL	h217.ds9.univ.gda.pl
-NXDOMAIN	h23.ds5.univ.gda.pl
-NXDOMAIN	h204.ds3.univ.gda.pl
-NXDOMAIN	pc-bk-1.bg.univ.gda.pl
-NOERROR	sky.chem.univ.gda.pl
-NOERROR	p-227-1.ek.univ.gda.pl
-NXDOMAIN	komp09.kknjo.univ.gda.pl
-NXDOMAIN	h222.ds3.univ.gda.pl
-NXDOMAIN	h121.ds3.univ.gda.pl
-NOERROR	wi-jarek.bg.univ.gda.pl
-NOERROR	h111.ds4.univ.gda.pl
-NOERROR	p-hal-08.ek.univ.gda.pl
-NOERROR	s28016.chem.univ.gda.pl
-NOERROR	x2233.chem.univ.gda.pl
-NOERROR	t28204.chem.univ.gda.pl
-NOERROR	t28140.chem.univ.gda.pl
-NOERROR	stworek.chem.univ.gda.pl
-NXDOMAIN	h212.ds3.univ.gda.pl
-NOERROR	t28068.chem.univ.gda.pl
-NOERROR	fhkfg233.univ.gda.pl
-NOERROR	h102.ds4.univ.gda.pl
-NOERROR	t29101.chem.univ.gda.pl
-NXDOMAIN	h83.ds3.univ.gda.pl
-NXDOMAIN	h64.ds5.univ.gda.pl
-NOERROR	cip2.bg.univ.gda.pl
-NOERROR	t29025.chem.univ.gda.pl
-NOERROR	p-211-10.ek.univ.gda.pl
-NOERROR	sheriff.ek.univ.gda.pl
-NOERROR	dziek03.prawo.univ.gda.pl
-NOERROR	t28186.chem.univ.gda.pl
-NOERROR	koala.ek.univ.gda.pl
-NOERROR	h135.ds6.univ.gda.pl
-NXDOMAIN	h17.ds3.univ.gda.pl
-NOERROR	kas36.chem.univ.gda.pl
-NXDOMAIN	sin.univ.gda.pl
-NOERROR	iftia56.univ.gda.pl
-NOERROR	pondros.chem.univ.gda.pl
-NXDOMAIN	h103.ds5.univ.gda.pl
-NOERROR	t29189.chem.univ.gda.pl
-NOERROR	lab.chem.univ.gda.pl
-NOERROR	t29104.chem.univ.gda.pl
-NOERROR	h181.ds4.univ.gda.pl
-NOERROR	fhih.univ.gda.pl
-NXDOMAIN	h131.ds5.univ.gda.pl
-NXDOMAIN	h26.ds5.univ.gda.pl
-NOERROR	g240.brzezno.univ.gda.pl
-NXDOMAIN	h233.ds3.univ.gda.pl
-NXDOMAIN	h34.ds10.univ.gda.pl
-NOERROR	t29195.chem.univ.gda.pl
-NOERROR	pc-niewi.bg.univ.gda.pl
-NXDOMAIN	www.derechts.bg.univ.gda.pl
-NXDOMAIN	h200.ds5.univ.gda.pl
-NOERROR	t29237.chem.univ.gda.pl
-NXDOMAIN	h200.ds10.univ.gda.pl
-NXDOMAIN	h32.ds3.univ.gda.pl
-NOERROR	t28005.chem.univ.gda.pl
-NOERROR	t28008.chem.univ.gda.pl
-NOERROR	iftia59.univ.gda.pl
-SERVFAIL	h253.ds9.univ.gda.pl
-NXDOMAIN	h253.ds10.univ.gda.pl
-NOERROR	cat2.bg.univ.gda.pl
-NOERROR	h174.ds4.univ.gda.pl
-NOERROR	iftia70.univ.gda.pl
-NOERROR	p-213-1.zr.univ.gda.pl
-NOERROR	g250.brzezno.univ.gda.pl
-NXDOMAIN	h86.ds5.univ.gda.pl
-NOERROR	h211.ds4.univ.gda.pl
-NOERROR	lp-29-244.chem.univ.gda.pl
-NOERROR	iftia7.univ.gda.pl
-NOERROR	g101.brzezno.univ.gda.pl
-NOERROR	iftia69.univ.gda.pl
-NOERROR	dat.bg.univ.gda.pl
-NOERROR	h189.ds4.univ.gda.pl
-NOERROR	p-129-5.zr.univ.gda.pl
-NOERROR	ap-ek-7.ek.univ.gda.pl
-NXDOMAIN	klimat1.geograf.univ.gda.pl
-NXDOMAIN	h188.ds3.univ.gda.pl
-NOERROR	t28021.chem.univ.gda.pl
-NOERROR	www.kl.univ.gda.pl
-NOERROR	g29.brzezno.univ.gda.pl
-NOERROR	p-115-1.ek.univ.gda.pl
-NXDOMAIN	komp01.pol.wns.univ.gda.pl
-NOERROR	p-336-2.ek.univ.gda.pl
-NOERROR	t28120.chem.univ.gda.pl
-NXDOMAIN	h203.ds3.univ.gda.pl
-NXDOMAIN	ca6700dd.univ.gda.pl
-NXDOMAIN	h62.ds5.univ.gda.pl
-NOERROR	komp34.pol.wns.univ.gda.pl
-NOERROR	nowosci.bg.univ.gda.pl
-NXDOMAIN	h149.ds3.univ.gda.pl
-NOERROR	pandora.bg.univ.gda.pl
-NXDOMAIN	h149.ds10.univ.gda.pl
-NOERROR	p-010-2.zr.univ.gda.pl
-NXDOMAIN	h190.ds5.univ.gda.pl
-NOERROR	t29208.chem.univ.gda.pl
-NOERROR	h165.ds4.univ.gda.pl
-NOERROR	h202.ds4.univ.gda.pl
-NOERROR	www.kezk.bio.univ.gda.pl
-NOERROR	h246.ds6.univ.gda.pl
-NOERROR	p-oiz-5.zr.univ.gda.pl
-NXDOMAIN	polpc01.univ.gda.pl
-NXDOMAIN	h124.ds10.univ.gda.pl
-NXDOMAIN	h100.ds3.univ.gda.pl
-NOERROR	t28195.chem.univ.gda.pl
-NOERROR	lewa.univ.gda.pl
-NOERROR	p-105-2.zr.univ.gda.pl
-NOERROR	g7.brzezno.univ.gda.pl
-NOERROR	g152.brzezno.univ.gda.pl
-NOERROR	zbik.univ.gda.pl
-NXDOMAIN	h199.ds10.univ.gda.pl
-NOERROR	prpm.prawo.univ.gda.pl
-NOERROR	p-302-1.zr.univ.gda.pl
-NOERROR	dbtest2.bg.univ.gda.pl
-NOERROR	ifd.univ.gda.pl
-NOERROR	p-220-1.zr.univ.gda.pl
-NOERROR	student1.zr.univ.gda.pl
-NXDOMAIN	ifd307-1.univ.gda.pl
-SERVFAIL	h224.ds9.univ.gda.pl
-NOERROR	p-515-6.ek.univ.gda.pl
-NOERROR	wega.univ.gda.pl
-NXDOMAIN	h250.ds10.univ.gda.pl
-NXDOMAIN	ifd231.univ.gda.pl
-NOERROR	p-203-1.zr.univ.gda.pl
-NOERROR	fhd25.univ.gda.pl
-NXDOMAIN	h80.ds5.univ.gda.pl
-NXDOMAIN	h246.ds10.univ.gda.pl
-NOERROR	mercury.chem.univ.gda.pl
-NOERROR	aliens.ocean.univ.gda.pl
-NOERROR	p-213-7.zr.univ.gda.pl
-SERVFAIL	h112.ds9.univ.gda.pl
-NOERROR	student.wns.univ.gda.pl
-NOERROR	brc2.univ.gda.pl
-NXDOMAIN	h228.ds10.univ.gda.pl
-NOERROR	kosmetyk.chem.univ.gda.pl
-NOERROR	p-229-1.zr.univ.gda.pl
-NOERROR	t28213.chem.univ.gda.pl
-NOERROR	p-126-2.zr.univ.gda.pl
-NXDOMAIN	h206.ds3.univ.gda.pl
-NOERROR	wdw.zr.univ.gda.pl
-NXDOMAIN	h94.ds10.univ.gda.pl
-NOERROR	math.univ.gda.pl
-NXDOMAIN	bcount.univ.gda.pl
-NOERROR	azis.chem.univ.gda.pl
-NOERROR	fhd56-1.univ.gda.pl
-NOERROR	ekonomvoip01.ek.univ.gda.pl
-NOERROR	iftia74.univ.gda.pl
-NOERROR	ap-ek-14.ek.univ.gda.pl
-NOERROR	bp113.wns.univ.gda.pl
-NXDOMAIN	h98.ds10.univ.gda.pl
-NOERROR	ptd.wns.univ.gda.pl
-NOERROR	ibm.wns.univ.gda.pl
-NXDOMAIN	h78.ds5.univ.gda.pl
-NOERROR	t28250.chem.univ.gda.pl
-SERVFAIL	h80.ds9.univ.gda.pl
-NOERROR	h225.ds6.univ.gda.pl
-NOERROR	p-22-2.ek.univ.gda.pl
-NXDOMAIN	x2212.chem.univ.gda.pl
-NOERROR	pc-kie.bg.univ.gda.pl
-NOERROR	t29238.chem.univ.gda.pl
-NOERROR	iftia115.univ.gda.pl
-NOERROR	bp11.wns.univ.gda.pl
-NXDOMAIN	h49.ds5.univ.gda.pl
-NXDOMAIN	homar.biotech.univ.gda.pl
-NOERROR	wrzeszcz1.chem.univ.gda.pl
-NOERROR	h200.ds4.univ.gda.pl
-NOERROR	zmm2.chem.univ.gda.pl
-NOERROR	p-516-3.ek.univ.gda.pl
-NXDOMAIN	pc5.biology.univ.gda.pl
-SERVFAIL	h88.ds9.univ.gda.pl
-NOERROR	t28091.chem.univ.gda.pl
-NXDOMAIN	h231.ds10.univ.gda.pl
-NOERROR	camera2.bg.univ.gda.pl
-NOERROR	bp48-6.wns.univ.gda.pl
-SERVFAIL	h182.ds9.univ.gda.pl
-NOERROR	g67.brzezno.univ.gda.pl
-NXDOMAIN	h245.ds10.univ.gda.pl
-NOERROR	h223.ds4.univ.gda.pl
-NOERROR	p-338-2.ek.univ.gda.pl
-NXDOMAIN	h9.ds3.univ.gda.pl
-NXDOMAIN	h90.ds10.univ.gda.pl
-NOERROR	etoh.chem.univ.gda.pl
-SERVFAIL	h103.ds9.univ.gda.pl
-NOERROR	kakapo.bg.univ.gda.pl
-NXDOMAIN	h170.ds3.univ.gda.pl
-NOERROR	t29019.chem.univ.gda.pl
-NXDOMAIN	h228.ds5.univ.gda.pl
-NOERROR	h147.ds6.univ.gda.pl
-NOERROR	p-222-1.ek.univ.gda.pl
-NOERROR	ip-cent-2.ek.univ.gda.pl
-NOERROR	kolokna.chem.univ.gda.pl
-NXDOMAIN	h211.ds5.univ.gda.pl
-SERVFAIL	h62.ds9.univ.gda.pl
-NOERROR	t29225.chem.univ.gda.pl
-NOERROR	t28001.chem.univ.gda.pl
-NOERROR	p-331-1.ek.univ.gda.pl
-NOERROR	g133.brzezno.univ.gda.pl
-NOERROR	g241.brzezno.univ.gda.pl
-NOERROR	p-122-4.zr.univ.gda.pl
-NOERROR	fh101-1.univ.gda.pl
-NOERROR	estudent.univ.gda.pl
-NOERROR	g10.brzezno.univ.gda.pl
-NOERROR	lajba.bg.univ.gda.pl
-NXDOMAIN	h98.ds5.univ.gda.pl
-NOERROR	kropka.wns.univ.gda.pl
-NOERROR	ap-ek-12.ek.univ.gda.pl
-NXDOMAIN	h85.ds3.univ.gda.pl
-NOERROR	kompost2.chem.univ.gda.pl
-NXDOMAIN	h119.ds5.univ.gda.pl
-NXDOMAIN	h31.ds3.univ.gda.pl
-NXDOMAIN	h209.ds3.univ.gda.pl
-NOERROR	p-505-7.ek.univ.gda.pl
-NOERROR	h130.ds4.univ.gda.pl
-NOERROR	p-313-1.ek.univ.gda.pl
-NOERROR	l-01.zr.univ.gda.pl
-NOERROR	g3.brzezno.univ.gda.pl
-NOERROR	t28047.chem.univ.gda.pl
-NOERROR	t28198.chem.univ.gda.pl
-NOERROR	t29052.chem.univ.gda.pl
-NOERROR	g44.brzezno.univ.gda.pl
-NOERROR	t29127.chem.univ.gda.pl
-SERVFAIL	h174.ds9.univ.gda.pl
-NOERROR	p-23-4.pa.univ.gda.pl
-NXDOMAIN	komp03.pol.wns.univ.gda.pl
-NXDOMAIN	ifd301-12.univ.gda.pl
-NOERROR	p-418-3.ek.univ.gda.pl
-NOERROR	hall5.ek.univ.gda.pl
-NOERROR	webmail.chem.univ.gda.pl
-NOERROR	student.zr.univ.gda.pl
-NXDOMAIN	h93.ds3.univ.gda.pl
-NOERROR	iftia49.univ.gda.pl
-NOERROR	h244.ds4.univ.gda.pl
-NOERROR	h103.ds4.univ.gda.pl
-NXDOMAIN	h77.ds5.univ.gda.pl
-NOERROR	h142.ds4.univ.gda.pl
-NOERROR	www.adapciak.univ.gda.pl
-NOERROR	g58.brzezno.univ.gda.pl
-NOERROR	h23.ds4.univ.gda.pl
-NXDOMAIN	manta.univ.gda.pl
-NOERROR	janek.wns.univ.gda.pl
-NOERROR	www.kkwww.strony.univ.gda.pl
-NOERROR	g94.brzezno.univ.gda.pl
-NOERROR	t29103.chem.univ.gda.pl
-NOERROR	p-421-8.ek.univ.gda.pl
-NOERROR	t29239.chem.univ.gda.pl
-NXDOMAIN	h167.ds5.univ.gda.pl
-NOERROR	psymc.wns.univ.gda.pl
-NOERROR	pchs1.chem.univ.gda.pl
-NOERROR	g64.brzezno.univ.gda.pl
-NXDOMAIN	h8.ds3.univ.gda.pl
-NOERROR	g223.brzezno.univ.gda.pl
-NOERROR	sens2.chem.univ.gda.pl
-NOERROR	g239.brzezno.univ.gda.pl
-NOERROR	chemia-dns.univ.gda.pl
-NXDOMAIN	h98.ds3.univ.gda.pl
-NOERROR	p-516-17.ek.univ.gda.pl
-NOERROR	aniah.chem.univ.gda.pl
-NOERROR	dominik.univ.gda.pl
-NOERROR	rez7.bg.univ.gda.pl
-NOERROR	ewa.wns.univ.gda.pl
-NOERROR	t29234.chem.univ.gda.pl
-NXDOMAIN	h180.ds3.univ.gda.pl
-NOERROR	h129.ds4.univ.gda.pl
-NOERROR	t28061.chem.univ.gda.pl
-SERVFAIL	h200.ds9.univ.gda.pl
-NOERROR	pc4-gazetaug.bg.univ.gda.pl
-NOERROR	g234.brzezno.univ.gda.pl
-NOERROR	g160.brzezno.univ.gda.pl
-NOERROR	h2.ds4.univ.gda.pl
-NOERROR	iftia102.univ.gda.pl
-NOERROR	t29191.chem.univ.gda.pl
-NOERROR	sekretarka.wns.univ.gda.pl
-NXDOMAIN	ifd339.univ.gda.pl
-NOERROR	t28077.chem.univ.gda.pl
-NOERROR	t28217.chem.univ.gda.pl
-NXDOMAIN	h245.ds5.univ.gda.pl
-SERVFAIL	h199.ds9.univ.gda.pl
-NXDOMAIN	h95.ds5.univ.gda.pl
-NOERROR	fhih50-1.univ.gda.pl
-NOERROR	p-515-4.ek.univ.gda.pl
-SERVFAIL	h214.ds9.univ.gda.pl
-NOERROR	p-101-3.pa.univ.gda.pl
-NOERROR	p-313-2.zr.univ.gda.pl
-NXDOMAIN	ifdnmr.univ.gda.pl
-NOERROR	tola.wns.univ.gda.pl
-NOERROR	t29089.chem.univ.gda.pl
-NOERROR	p-516-24.ek.univ.gda.pl
-NOERROR	h192.ds4.univ.gda.pl
-NOERROR	izis.chem.univ.gda.pl
-NOERROR	temp2.bg.univ.gda.pl
-NOERROR	p-222-1.zr.univ.gda.pl
-NXDOMAIN	h10.ds3.univ.gda.pl
-NOERROR	p-047-2.ek.univ.gda.pl
-NOERROR	p-407-1.ek.univ.gda.pl
-NOERROR	sun2.chem.univ.gda.pl
-NXDOMAIN	h244.ds5.univ.gda.pl
-NXDOMAIN	www.kuling.bgio.univ.gda.pl
-NOERROR	p-219-1.ek.univ.gda.pl
-NXDOMAIN	h249.ds10.univ.gda.pl
-NXDOMAIN	h79.ds10.univ.gda.pl
-NXDOMAIN	h117.ds3.univ.gda.pl
-NXDOMAIN	h224.ds10.univ.gda.pl
-NOERROR	wega.wns.univ.gda.pl
-NOERROR	fhih50.univ.gda.pl
-SERVFAIL	h175.ds9.univ.gda.pl
-NXDOMAIN	t29106.chem.univ.gda.pl
-NOERROR	komp31.pol.wns.univ.gda.pl
-SERVFAIL	h222.ds9.univ.gda.pl
-NOERROR	h49.ds4.univ.gda.pl
-NOERROR	hall-06.bg.univ.gda.pl
-NOERROR	pc-ad.ek.univ.gda.pl
-NOERROR	p-213-8.zr.univ.gda.pl
-NOERROR	iftia99.univ.gda.pl
-NOERROR	b11.wns.univ.gda.pl
-NOERROR	p-220-2.ek.univ.gda.pl
-NOERROR	komp25.pol.wns.univ.gda.pl
-NXDOMAIN	h227.ds5.univ.gda.pl
-NOERROR	p-105-2.ek.univ.gda.pl
-NOERROR	fh08-2.univ.gda.pl
-NOERROR	najlepsi.univ.gda.pl
-NXDOMAIN	h253.ds5.univ.gda.pl
-NOERROR	iftia119.univ.gda.pl
-NXDOMAIN	h54.ds3.univ.gda.pl
-NXDOMAIN	h190.ds10.univ.gda.pl
-NXDOMAIN	voip01.kknjo.univ.gda.pl
-NXDOMAIN	h41.ds10.univ.gda.pl
-NOERROR	h136.ds4.univ.gda.pl
-NOERROR	g159.brzezno.univ.gda.pl
-NOERROR	reszek.univ.gda.pl
-NXDOMAIN	h175.ds3.univ.gda.pl
-NOERROR	t29141.chem.univ.gda.pl
-NXDOMAIN	h91.ds3.univ.gda.pl
-NOERROR	g206.brzezno.univ.gda.pl
-NOERROR	iftia2.univ.gda.pl
-SERVFAIL	h87.ds9.univ.gda.pl
-NOERROR	backuppc2.chem.univ.gda.pl
-NOERROR	t28219.chem.univ.gda.pl
-SERVFAIL	h99.ds9.univ.gda.pl
-NOERROR	g2.brzezno.univ.gda.pl
-NOERROR	t29165.chem.univ.gda.pl
-NOERROR	p-129-4.zr.univ.gda.pl
-NOERROR	h131.ds6.univ.gda.pl
-NOERROR	p-226-3.zr.univ.gda.pl
-NOERROR	bug91.bg.univ.gda.pl
-NXDOMAIN	d90z4dd1.chem.univ.gda.pl
-NOERROR	fhih033a1.univ.gda.pl
-NOERROR	prodziekan.wns.univ.gda.pl
-NOERROR	mania.chem.univ.gda.pl
-SERVFAIL	h40.ds9.univ.gda.pl
-SERVFAIL	h108.ds9.univ.gda.pl
-NOERROR	p-015-1.ek.univ.gda.pl
-SERVFAIL	h53.ds9.univ.gda.pl
-NOERROR	www.osd.univ.gda.pl
-NOERROR	h245.ds4.univ.gda.pl
-NXDOMAIN	h165.ds3.univ.gda.pl
-NOERROR	pc-sjo-3.ek.univ.gda.pl
-NOERROR	p-217.zr.univ.gda.pl
-NOERROR	t29047.chem.univ.gda.pl
-NXDOMAIN	pc-p209.bg.univ.gda.pl
-NOERROR	komp37.pol.wns.univ.gda.pl
-NXDOMAIN	h41.ds3.univ.gda.pl
-NXDOMAIN	h86.ds10.univ.gda.pl
-NOERROR	t28060.chem.univ.gda.pl
-NOERROR	h169.ds4.univ.gda.pl
-NOERROR	atari.chem.univ.gda.pl
-NOERROR	h145.ds4.univ.gda.pl
-NOERROR	h199.ds6.univ.gda.pl
-NXDOMAIN	h207.ds5.univ.gda.pl
-NOERROR	cip1.bg.univ.gda.pl
-NXDOMAIN	h249.ds3.univ.gda.pl
-NOERROR	t28041.chem.univ.gda.pl
-NOERROR	g188.brzezno.univ.gda.pl
-NOERROR	g13.brzezno.univ.gda.pl
-NXDOMAIN	h75.ds5.univ.gda.pl
-SERVFAIL	h178.ds9.univ.gda.pl
-NOERROR	p-421-6.ek.univ.gda.pl
-NOERROR	iftia73.univ.gda.pl
-NOERROR	t29069.chem.univ.gda.pl
-NOERROR	h164.ds4.univ.gda.pl
-NOERROR	p-208.zr.univ.gda.pl
-NXDOMAIN	ciernik.biotech.univ.gda.pl
-NOERROR	pluton.wns.univ.gda.pl
-NOERROR	h152.ds4.univ.gda.pl
-NXDOMAIN	h113.ds3.univ.gda.pl
-NOERROR	h113.ds4.univ.gda.pl
-NOERROR	t28172.chem.univ.gda.pl
-NOERROR	p-106-3.zr.univ.gda.pl
-NXDOMAIN	h56.ds5.univ.gda.pl
-NOERROR	g243.brzezno.univ.gda.pl
-NOERROR	strony.univ.gda.pl
-NOERROR	win1.bg.univ.gda.pl
-NOERROR	ecis2002.univ.gda.pl
-NOERROR	h164.ds6.univ.gda.pl
-NOERROR	g27.brzezno.univ.gda.pl
-NOERROR	gliwin.univ.gda.pl
-NOERROR	j240.ds.univ.gda.pl
-NOERROR	t29068.chem.univ.gda.pl
-NOERROR	h132.ds4.univ.gda.pl
-NOERROR	h9.ds4.univ.gda.pl
-NXDOMAIN	h140.ds3.univ.gda.pl
-NXDOMAIN	herdcen2.univ.gda.pl
-NXDOMAIN	h149.ds5.univ.gda.pl
-NXDOMAIN	h246.ds3.univ.gda.pl
-NOERROR	g39.brzezno.univ.gda.pl
-NOERROR	p-026-3.ek.univ.gda.pl
-NOERROR	p-01-4.pa.univ.gda.pl
-NOERROR	t29073.chem.univ.gda.pl
-NOERROR	ap-ek-6.ek.univ.gda.pl
-SERVFAIL	h32.ds9.univ.gda.pl
-NOERROR	p-417-6.ek.univ.gda.pl
-NXDOMAIN	h118.ds10.univ.gda.pl
-NXDOMAIN	krab.biotech.univ.gda.pl
-NOERROR	pc-czyt-bl.bg.univ.gda.pl
-NOERROR	snickers.zr.univ.gda.pl
-NXDOMAIN	h49.ds10.univ.gda.pl
-NOERROR	ekonom.univ.gda.pl
-NXDOMAIN	h33.ds5.univ.gda.pl
-NOERROR	bib04.prawo.univ.gda.pl
-SERVFAIL	h41.ds9.univ.gda.pl
-NOERROR	g253.brzezno.univ.gda.pl
-NOERROR	student5.wns.univ.gda.pl
-NOERROR	p-101-4.pa.univ.gda.pl
-SERVFAIL	h24.ds9.univ.gda.pl
-NOERROR	phantom.univ.gda.pl
-NOERROR	p-505-12.ek.univ.gda.pl
-NOERROR	h133.ds4.univ.gda.pl
-SERVFAIL	h19.ds9.univ.gda.pl
-NXDOMAIN	h111.ds3.univ.gda.pl
-NOERROR	sekul.prawo.univ.gda.pl
-NOERROR	bp114.wns.univ.gda.pl
-NOERROR	h153.ds6.univ.gda.pl
-NXDOMAIN	bruker.chem.univ.gda.pl
-NXDOMAIN	h36.ds10.univ.gda.pl
-NOERROR	h99.ds4.univ.gda.pl
-NOERROR	p-rekrut-2.zr.univ.gda.pl
-NXDOMAIN	h70.ds3.univ.gda.pl
-NOERROR	w3cache.bg.univ.gda.pl
-NOERROR	iftia114.univ.gda.pl
-NOERROR	hall7.ek.univ.gda.pl
-NOERROR	h158.ds4.univ.gda.pl
-NXDOMAIN	h37.ds10.univ.gda.pl
-NOERROR	wojtek.bg.univ.gda.pl
-NXDOMAIN	nmr.univ.gda.pl
-NOERROR	p-316-1.zr.univ.gda.pl
-NOERROR	ug-chemia.chem.univ.gda.pl
-NOERROR	halina.univ.gda.pl
-NOERROR	g185.brzezno.univ.gda.pl
-NOERROR	t28187.chem.univ.gda.pl
-NOERROR	burzamozgow.univ.gda.pl
-NOERROR	p-516-25.ek.univ.gda.pl
-NOERROR	p-337-2.ek.univ.gda.pl
-NOERROR	g218.brzezno.univ.gda.pl
-NOERROR	t29213.chem.univ.gda.pl
-NOERROR	fhks8-1.univ.gda.pl
-NOERROR	h196.ds4.univ.gda.pl
-NOERROR	prburj.prawo.univ.gda.pl
-NOERROR	t29135.chem.univ.gda.pl
-NOERROR	ug-chemia4.chem.univ.gda.pl
-NOERROR	piasek.chem.univ.gda.pl
-NXDOMAIN	h3.ds5.univ.gda.pl
-NOERROR	h151.ds4.univ.gda.pl
-NOERROR	hosaka.chem.univ.gda.pl
-NOERROR	p-516-27.ek.univ.gda.pl
-NXDOMAIN	h77.ds3.univ.gda.pl
-NOERROR	p-228-1.zr.univ.gda.pl
-SERVFAIL	h227.ds9.univ.gda.pl
-NOERROR	t28244.chem.univ.gda.pl
-NOERROR	tygrys.zr.univ.gda.pl
-NOERROR	p-047-8.ek.univ.gda.pl
-NXDOMAIN	h122.ds3.univ.gda.pl
-NXDOMAIN	h110.ds3.univ.gda.pl
-NXDOMAIN	h241.ds10.univ.gda.pl
-NOERROR	fhks8-4.univ.gda.pl
-SERVFAIL	h248.ds9.univ.gda.pl
-NOERROR	czyt2.wns.univ.gda.pl
-NOERROR	frug.wns.univ.gda.pl
-NOERROR	g32.brzezno.univ.gda.pl
-NOERROR	pc-czyteu.bg.univ.gda.pl
-NOERROR	maryla.bg.univ.gda.pl
-NOERROR	t29162.chem.univ.gda.pl
-SERVFAIL	h254.ds9.univ.gda.pl
-NXDOMAIN	h208.ds5.univ.gda.pl
-NXDOMAIN	h174.ds5.univ.gda.pl
-NOERROR	p-423-1.ek.univ.gda.pl
-SERVFAIL	h252.ds9.univ.gda.pl
-NOERROR	giek.bg.univ.gda.pl
-NXDOMAIN	h146.ds10.univ.gda.pl
-NOERROR	h48.ds4.univ.gda.pl
-NOERROR	h160.ds6.univ.gda.pl
-NOERROR	t29192.chem.univ.gda.pl
-NOERROR	h194.ds6.univ.gda.pl
-NXDOMAIN	h49.ds3.univ.gda.pl
-NOERROR	g207.brzezno.univ.gda.pl
-NOERROR	p-303-1.ek.univ.gda.pl
-NOERROR	wykladowy-4.chem.univ.gda.pl
-NOERROR	h239.ds6.univ.gda.pl
-NOERROR	g209.brzezno.univ.gda.pl
-NOERROR	p-310-2.ek.univ.gda.pl
-NXDOMAIN	h239.ds10.univ.gda.pl
-NOERROR	iftia110.univ.gda.pl
-NOERROR	p-116-2.zr.univ.gda.pl
-NXDOMAIN	komp24.pol.wns.univ.gda.pl
-NOERROR	ang-sjo.ek.univ.gda.pl
-NOERROR	t28054.chem.univ.gda.pl
-NOERROR	h38.ds4.univ.gda.pl
-NOERROR	fh08-7.univ.gda.pl
-NOERROR	p-207-2.zr.univ.gda.pl
-SERVFAIL	h138.ds9.univ.gda.pl
-NOERROR	p-hal-01.ek.univ.gda.pl
-NOERROR	bip.univ.gda.pl
-NXDOMAIN	h153.ds3.univ.gda.pl
-NOERROR	p-327-1.ek.univ.gda.pl
-NOERROR	bp64-1.wns.univ.gda.pl
-NOERROR	h234.ds6.univ.gda.pl
-SERVFAIL	h109.ds9.univ.gda.pl
-NOERROR	p-201-m.zr.univ.gda.pl
-NOERROR	h95.ds4.univ.gda.pl
-NOERROR	h250.ds4.univ.gda.pl
-NOERROR	pc-inf-1.bg.univ.gda.pl
-NOERROR	dziek05.prawo.univ.gda.pl
-NOERROR	rez9.bg.univ.gda.pl
-NOERROR	iftia.univ.gda.pl
-NOERROR	iftia1.univ.gda.pl
-NOERROR	sox-lp.chem.univ.gda.pl
-NOERROR	ap-ek-20.ek.univ.gda.pl
-NOERROR	g227.brzezno.univ.gda.pl
-NOERROR	rez17.bg.univ.gda.pl
-NOERROR	h251.ds6.univ.gda.pl
-NOERROR	g93.brzezno.univ.gda.pl
-NOERROR	t28207.chem.univ.gda.pl
-NOERROR	p-239-12.zr.univ.gda.pl
-NOERROR	gosia.wns.univ.gda.pl
-NOERROR	lib.bg.univ.gda.pl
-NOERROR	kojot-2.bg.univ.gda.pl
-NOERROR	h190.ds4.univ.gda.pl
-NOERROR	g114.brzezno.univ.gda.pl
-NOERROR	pedagogika.univ.gda.pl
-NOERROR	p21.wns.univ.gda.pl
-NOERROR	ap-ek-5.ek.univ.gda.pl
-NXDOMAIN	h114.ds5.univ.gda.pl
-NXDOMAIN	h50.ds3.univ.gda.pl
-NOERROR	h168.ds6.univ.gda.pl
-NXDOMAIN	h209.ds5.univ.gda.pl
-NXDOMAIN	h220.ds3.univ.gda.pl
-NOERROR	t28103.chem.univ.gda.pl
-NOERROR	zao6.univ.gda.pl
-NOERROR	p-314-1.zr.univ.gda.pl
-NOERROR	p-407-2.ek.univ.gda.pl
-NOERROR	p-oiz-4.zr.univ.gda.pl
-NOERROR	hall8.ek.univ.gda.pl
-NOERROR	x2234.chem.univ.gda.pl
-NOERROR	druk-bek.bg.univ.gda.pl
-NXDOMAIN	h67.ds3.univ.gda.pl
-NXDOMAIN	wioletta.univ.gda.pl
-NOERROR	bir2008.univ.gda.pl
-SERVFAIL	h195.ds9.univ.gda.pl
-NOERROR	t28079.chem.univ.gda.pl
-NXDOMAIN	ifd263.univ.gda.pl
-NOERROR	p-237-2.zr.univ.gda.pl
-NOERROR	prodziekan.chem.univ.gda.pl
-NXDOMAIN	h41.ds5.univ.gda.pl
-NOERROR	t29024.chem.univ.gda.pl
-NOERROR	prmryt.prawo.univ.gda.pl
-NOERROR	p-218-1.zr.univ.gda.pl
-NOERROR	p-117-2.zr.univ.gda.pl
-NOERROR	ania-pok17.wns.univ.gda.pl
-NOERROR	h227.ds4.univ.gda.pl
-NOERROR	h216.ds6.univ.gda.pl
-NOERROR	student.bg.univ.gda.pl
-NOERROR	h156.ds4.univ.gda.pl
-NOERROR	p-101-6.pa.univ.gda.pl
-NXDOMAIN	h8.ds5.univ.gda.pl
-NXDOMAIN	www.bhp.univ.gda.pl
-NOERROR	cyrkiel6.bg.univ.gda.pl
-NOERROR	bizon.ek.univ.gda.pl
-NOERROR	t29123.chem.univ.gda.pl
-NOERROR	h194.ds4.univ.gda.pl
-NXDOMAIN	h69.ds5.univ.gda.pl
-NOERROR	kcik-03.bg.univ.gda.pl
-NXDOMAIN	nestor.geograf.univ.gda.pl
-NXDOMAIN	h170.ds10.univ.gda.pl
-NOERROR	p-332-2.ek.univ.gda.pl
-NOERROR	h4.ds4.univ.gda.pl
-NOERROR	p-hal-07.ek.univ.gda.pl
-NOERROR	t28203.chem.univ.gda.pl
-NOERROR	t28122.chem.univ.gda.pl
-SERVFAIL	h81.ds9.univ.gda.pl
-NOERROR	h249.ds4.univ.gda.pl
-NOERROR	lukhal.chem.univ.gda.pl
-NXDOMAIN	h228.ds3.univ.gda.pl
-NOERROR	dziek01.prawo.univ.gda.pl
-NOERROR	p-047-1.ek.univ.gda.pl
-NOERROR	www.zk.bg.univ.gda.pl
-NXDOMAIN	h208.ds10.univ.gda.pl
-SERVFAIL	h165.ds9.univ.gda.pl
-NOERROR	p-102-1.pa.univ.gda.pl
-NOERROR	psysol.wns.univ.gda.pl
-SERVFAIL	h232.ds9.univ.gda.pl
-NOERROR	p-213-9.zr.univ.gda.pl
-SERVFAIL	h184.ds9.univ.gda.pl
-NXDOMAIN	h102.ds5.univ.gda.pl
-NOERROR	t28146.chem.univ.gda.pl
-NOERROR	iftia111.univ.gda.pl
-NXDOMAIN	h28.ds10.univ.gda.pl
-NOERROR	t29125.chem.univ.gda.pl
-NOERROR	hall-01.bg.univ.gda.pl
-NOERROR	luk.prawo.univ.gda.pl
-NOERROR	i31.ds.univ.gda.pl
-NOERROR	fhd24-4.univ.gda.pl
-NOERROR	t28074.chem.univ.gda.pl
-NOERROR	t29130.chem.univ.gda.pl
-SERVFAIL	h59.ds9.univ.gda.pl
-NOERROR	p-312-2.ek.univ.gda.pl
-NOERROR	jowisz.wns.univ.gda.pl
-NOERROR	druk-wmb.bg.univ.gda.pl
-NOERROR	www.saf.univ.gda.pl
-NOERROR	admin28033.chem.univ.gda.pl
-NOERROR	jolanta.prawo.univ.gda.pl
-NOERROR	p-417-5.ek.univ.gda.pl
-NXDOMAIN	h6.ds3.univ.gda.pl
-NOERROR	g31.brzezno.univ.gda.pl
-NXDOMAIN	h153.ds5.univ.gda.pl
-SERVFAIL	h213.ds9.univ.gda.pl
-NOERROR	t29122.chem.univ.gda.pl
-NOERROR	h96.ds4.univ.gda.pl
-NXDOMAIN	h81.ds5.univ.gda.pl
-NOERROR	student1.wns.univ.gda.pl
-NXDOMAIN	h56.ds3.univ.gda.pl
-NXDOMAIN	h48.ds5.univ.gda.pl
-NXDOMAIN	laura.geograf.univ.gda.pl
-NOERROR	ha1-rtr.univ.gda.pl
-NXDOMAIN	h194.ds10.univ.gda.pl
-NOERROR	p-211-02.ek.univ.gda.pl
-NXDOMAIN	h77.ds10.univ.gda.pl
-NXDOMAIN	h191.ds5.univ.gda.pl
-NOERROR	p-101-2.ek.univ.gda.pl
-NOERROR	tomekar.univ.gda.pl
-NOERROR	h1.ds4.univ.gda.pl
-NOERROR	g237.brzezno.univ.gda.pl
-SERVFAIL	h204.ds9.univ.gda.pl
-NOERROR	g228.brzezno.univ.gda.pl
-NXDOMAIN	h50.ds5.univ.gda.pl
-NOERROR	p-229-2.ek.univ.gda.pl
-NOERROR	rez13.bg.univ.gda.pl
-NXDOMAIN	h161.ds5.univ.gda.pl
-NXDOMAIN	bsvc-rm.univ.gda.pl
-NOERROR	iftia105.univ.gda.pl
-NXDOMAIN	h116.ds5.univ.gda.pl
-NOERROR	p-112-1.zr.univ.gda.pl
-NOERROR	p-312-1.ek.univ.gda.pl
-NOERROR	p-oiz-3.zr.univ.gda.pl
-SERVFAIL	h185.ds9.univ.gda.pl
-NOERROR	p-403.zr.univ.gda.pl
-NOERROR	repozytorium.bg.univ.gda.pl
-NOERROR	h69.ds4.univ.gda.pl
-NOERROR	julia.univ.gda.pl
-NOERROR	bgio.univ.gda.pl
-NXDOMAIN	h251.ds5.univ.gda.pl
-NOERROR	student7.zr.univ.gda.pl
-NOERROR	iftia66.univ.gda.pl
-SERVFAIL	h249.ds9.univ.gda.pl
-NOERROR	mfi.univ.gda.pl
-NXDOMAIN	h164.ds5.univ.gda.pl
-NOERROR	h35.ds4.univ.gda.pl
-NXDOMAIN	h67.ds10.univ.gda.pl
-NOERROR	vpn11.bg.univ.gda.pl
-SERVFAIL	h191.ds9.univ.gda.pl
-NXDOMAIN	h166.ds10.univ.gda.pl
-NOERROR	iftia13.univ.gda.pl
-NXDOMAIN	h36.ds3.univ.gda.pl
-NOERROR	psychologia.univ.gda.pl
-NOERROR	www.azs.univ.gda.pl
-NOERROR	p-100-1.pa.univ.gda.pl
-NXDOMAIN	ifd257.univ.gda.pl
-NOERROR	porozumienie.bg.univ.gda.pl
-NOERROR	p-047-7.ek.univ.gda.pl
-NOERROR	p-503.ek.univ.gda.pl
-NXDOMAIN	h61.ds3.univ.gda.pl
-NOERROR	weslake.univ.gda.pl
-NOERROR	h138.ds6.univ.gda.pl
-NOERROR	g33.brzezno.univ.gda.pl
-NOERROR	wychter.wns.univ.gda.pl
-NOERROR	h198.ds4.univ.gda.pl
-NOERROR	iftia3.univ.gda.pl
-NOERROR	p-417-12.ek.univ.gda.pl
-NOERROR	h209.ds4.univ.gda.pl
-NOERROR	p-421-10.ek.univ.gda.pl
-NOERROR	dni-k-2.ek.univ.gda.pl
-NXDOMAIN	ifd304.univ.gda.pl
-NOERROR	t28069.chem.univ.gda.pl
-NOERROR	h254.ds4.univ.gda.pl
-NXDOMAIN	h19.ds3.univ.gda.pl
-NOERROR	h144.ds4.univ.gda.pl
-NOERROR	projektor.bg.univ.gda.pl
-NOERROR	logopedia.univ.gda.pl
-NOERROR	hebron.univ.gda.pl
-NXDOMAIN	h85.ds10.univ.gda.pl
-NOERROR	h184.ds6.univ.gda.pl
-SERVFAIL	h58.ds9.univ.gda.pl
-NOERROR	g92.brzezno.univ.gda.pl
-NOERROR	p-120-1.ek.univ.gda.pl
-NOERROR	t29021.chem.univ.gda.pl
-SERVFAIL	h89.ds9.univ.gda.pl
-NXDOMAIN	ifd301-6.univ.gda.pl
-NXDOMAIN	h162.ds3.univ.gda.pl
-NOERROR	h180.ds4.univ.gda.pl
-NOERROR	iftia89.univ.gda.pl
-NXDOMAIN	ifd301-4.univ.gda.pl
-NOERROR	t28161.chem.univ.gda.pl
-NOERROR	t29087.chem.univ.gda.pl
-NXDOMAIN	duch-legionow.univ.gda.pl
-NOERROR	komunikacja.wns.univ.gda.pl
-NOERROR	test-1.zr.univ.gda.pl
-NOERROR	g216.brzezno.univ.gda.pl
-NOERROR	iftia92.univ.gda.pl
-NOERROR	p-10-1.zr.univ.gda.pl
-NOERROR	t29190.chem.univ.gda.pl
-NOERROR	h13.ds4.univ.gda.pl
-NOERROR	h43.ds4.univ.gda.pl
-NOERROR	p-100-2.pa.univ.gda.pl
-NOERROR	g100.brzezno.univ.gda.pl
-NOERROR	p-226-1.ek.univ.gda.pl
-NOERROR	t28210.chem.univ.gda.pl
-NOERROR	p-223-3.zr.univ.gda.pl
-NXDOMAIN	h123.ds5.univ.gda.pl
-NOERROR	iftia21.univ.gda.pl
-NXDOMAIN	pc4.biology.univ.gda.pl
-NOERROR	win3.bg.univ.gda.pl
-NOERROR	g193.brzezno.univ.gda.pl
-NOERROR	t28051.chem.univ.gda.pl
-NXDOMAIN	ifd255.univ.gda.pl
-SERVFAIL	h140.ds9.univ.gda.pl
-NXDOMAIN	h157.ds5.univ.gda.pl
-NXDOMAIN	pc-bk-n.bg.univ.gda.pl
-NOERROR	g43.brzezno.univ.gda.pl
-NXDOMAIN	h59.ds10.univ.gda.pl
-NOERROR	pc-51.ek.univ.gda.pl
-NOERROR	t28199.chem.univ.gda.pl
-NXDOMAIN	h189.ds3.univ.gda.pl
-NOERROR	h221.ds4.univ.gda.pl
-NOERROR	g238.brzezno.univ.gda.pl
-NOERROR	ate.univ.gda.pl
-NOERROR	h139.ds4.univ.gda.pl
-NOERROR	fhifp224.univ.gda.pl
-NOERROR	p-505-4.ek.univ.gda.pl
-NXDOMAIN	h95.ds3.univ.gda.pl
-NOERROR	t28082.chem.univ.gda.pl
-NXDOMAIN	h169.ds10.univ.gda.pl
-SERVFAIL	h152.ds9.univ.gda.pl
-NXDOMAIN	h175.ds10.univ.gda.pl
-NXDOMAIN	h87.ds5.univ.gda.pl
-NXDOMAIN	h170.ds5.univ.gda.pl
-NOERROR	t28191.chem.univ.gda.pl
-NOERROR	komenski.wns.univ.gda.pl
-NXDOMAIN	h173.ds3.univ.gda.pl
-NXDOMAIN	33a2.univ.gda.pl
-NOERROR	fhkfg216.univ.gda.pl
-NOERROR	wit58-2.univ.gda.pl
-NOERROR	p-9-1.zr.univ.gda.pl
-NOERROR	gauss.chem.univ.gda.pl
-NOERROR	p-333-1.ek.univ.gda.pl
-NOERROR	p-214-1.ek.univ.gda.pl
-NOERROR	p-516-7.ek.univ.gda.pl
-NXDOMAIN	h121.ds10.univ.gda.pl
-NOERROR	iftia31.univ.gda.pl
-NXDOMAIN	h20.ds3.univ.gda.pl
-NXDOMAIN	h57.ds5.univ.gda.pl
-NOERROR	iftia117.univ.gda.pl
-NOERROR	raptor.chem.univ.gda.pl
-NOERROR	t28052.chem.univ.gda.pl
-NOERROR	p-109-1.ek.univ.gda.pl
-NXDOMAIN	h112.ds5.univ.gda.pl
-NOERROR	www.bir2008.univ.gda.pl
-NOERROR	p-421-13.ek.univ.gda.pl
-NXDOMAIN	laptop.univ.gda.pl
-NOERROR	h66.ds4.univ.gda.pl
-NOERROR	h213.ds6.univ.gda.pl
-NXDOMAIN	h88.ds10.univ.gda.pl
-NOERROR	t28131.chem.univ.gda.pl
-NOERROR	iftia40.univ.gda.pl
-NOERROR	g165.brzezno.univ.gda.pl
+p-318-2.ek.univ.gda.pl
+twix4.ek.univ.gda.pl
+pchs5.chem.univ.gda.pl
+www.slavka.strony.univ.gda.pl
+fhih28.univ.gda.pl
+nowy.chem.univ.gda.pl
+h171.ds4.univ.gda.pl
+seminar2001.bg.univ.gda.pl
+pc-49.ek.univ.gda.pl
+t28039.chem.univ.gda.pl
+fhbib-drukf4.univ.gda.pl
+p-239-10.zr.univ.gda.pl
+h231.ds6.univ.gda.pl
+g47.brzezno.univ.gda.pl
+p-127-2.ek.univ.gda.pl
+auto5.bg.univ.gda.pl
+fhifp126.univ.gda.pl
+cezar.chem.univ.gda.pl
+h98.ds4.univ.gda.pl
+h155.ds4.univ.gda.pl
+h193.ds6.univ.gda.pl
+g98.brzezno.univ.gda.pl
+pc-adm2.bg.univ.gda.pl
+p-606.ek.univ.gda.pl
+sw7.bg.univ.gda.pl
+g69.brzezno.univ.gda.pl
+h76.ds4.univ.gda.pl
+trans2.univ.gda.pl
+vip.bg.univ.gda.pl
+g194.brzezno.univ.gda.pl
+p-516-5.ek.univ.gda.pl
+zr.univ.gda.pl
+g24.brzezno.univ.gda.pl
+dyrektor.wns.univ.gda.pl
+esterka.univ.gda.pl
+pc-f3-3.wns.univ.gda.pl
+t28218.chem.univ.gda.pl
+hansolo.bg.univ.gda.pl
+t28018.chem.univ.gda.pl
+p-516-31.ek.univ.gda.pl
+t28066.chem.univ.gda.pl
+p-230-1.ek.univ.gda.pl
+t29119.chem.univ.gda.pl
+fhzl6.univ.gda.pl
+ola.univ.gda.pl
+wtd.bg.univ.gda.pl
+p-239-06.zr.univ.gda.pl
+fhks8-2.univ.gda.pl
+g61.brzezno.univ.gda.pl
+lemiesz.univ.gda.pl
+h157.ds6.univ.gda.pl
+mdq.chem.univ.gda.pl
+p-11-1.zr.univ.gda.pl
+p-505-6.ek.univ.gda.pl
+t28099.chem.univ.gda.pl
+fhlog6a.univ.gda.pl
+truskawka.univ.gda.pl
+p-304-1.ek.univ.gda.pl
+inkubator1.bg.univ.gda.pl
+hall-02.bg.univ.gda.pl
+h217.ds4.univ.gda.pl
+caise2012.univ.gda.pl
+iftia58.univ.gda.pl
+h104.ds4.univ.gda.pl
+logistyka.univ.gda.pl
+iftia72.univ.gda.pl
+rez8.bg.univ.gda.pl
+sw039.univ.gda.pl
+t28253.chem.univ.gda.pl
+linksys-ds11.pol.wns.univ.gda.pl
+chejc1.chem.univ.gda.pl
+leo.wns.univ.gda.pl
+pc3-gazetaug.bg.univ.gda.pl
+p-237-1.zr.univ.gda.pl
+p-322-1.zr.univ.gda.pl
+p-220-3.ek.univ.gda.pl
+t28231.chem.univ.gda.pl
+fhifg212.univ.gda.pl
+h149.ds6.univ.gda.pl
+p-516-36.ek.univ.gda.pl
+h209.ds6.univ.gda.pl
+p-218-1.ek.univ.gda.pl
+p-516-20.ek.univ.gda.pl
+g17.brzezno.univ.gda.pl
+kcik.univ.gda.pl
+iftia33.univ.gda.pl
+p-402-5.ek.univ.gda.pl
+017art.chem.univ.gda.pl
+tygrys.bg.univ.gda.pl
+h18.ds4.univ.gda.pl
+g210.brzezno.univ.gda.pl
+kelly.ek.univ.gda.pl
+p-302-1.ek.univ.gda.pl
+pc-inf-6.bg.univ.gda.pl
+p-104-3.ek.univ.gda.pl
+t29158.chem.univ.gda.pl
+h101.ds4.univ.gda.pl
+ug1-cat-hot.univ.gda.pl
+t28180_1.chem.univ.gda.pl
+p-515-11.ek.univ.gda.pl
+bp48-9.wns.univ.gda.pl
+h237.ds4.univ.gda.pl
+l-04.zr.univ.gda.pl
+prbak.prawo.univ.gda.pl
+h238.ds6.univ.gda.pl
+p-516-10.ek.univ.gda.pl
+azs.univ.gda.pl
+p-hal-06.ek.univ.gda.pl
+rez12.bg.univ.gda.pl
+ug-ds1-rtr.brzezno.univ.gda.pl
+p-23-1.pa.univ.gda.pl
+t28151.chem.univ.gda.pl
+iftia67.univ.gda.pl
+fhih33a-3.univ.gda.pl
+lenyo-mobile1.bg.univ.gda.pl
+likaon.ek.univ.gda.pl
+g221.brzezno.univ.gda.pl
+iftia82.univ.gda.pl
+p-505-10.ek.univ.gda.pl
+pc-inf-5.bg.univ.gda.pl
+inkubator2.bg.univ.gda.pl
+fhkfg259.univ.gda.pl
+t28063.chem.univ.gda.pl
+t29145.chem.univ.gda.pl
+p-114-1.zr.univ.gda.pl
+h246.ds4.univ.gda.pl
+p-421-15.ek.univ.gda.pl
+bp111.wns.univ.gda.pl
+g21.brzezno.univ.gda.pl
+ip-cent-3.ek.univ.gda.pl
+tytan.bg.univ.gda.pl
+t29010.chem.univ.gda.pl
+kolostrzy.chem.univ.gda.pl
+p-308-1.ek.univ.gda.pl
+pc-adm.bg.univ.gda.pl
+p-317-1.ek.univ.gda.pl
+www.herder.univ.gda.pl
+shaka.univ.gda.pl
+t29144.chem.univ.gda.pl
+h249.ds6.univ.gda.pl
+karka.chem.univ.gda.pl
+hall3.ek.univ.gda.pl
+p-209.zr.univ.gda.pl
+p518.ek.univ.gda.pl
+histos.wns.univ.gda.pl
+g200.brzezno.univ.gda.pl
+inf-ps.bg.univ.gda.pl
+h92.ds4.univ.gda.pl
+iftia23.univ.gda.pl
+h79.ds4.univ.gda.pl
+iftia26.univ.gda.pl
+backuppc1.chem.univ.gda.pl
+fhkfg230.univ.gda.pl
+g11.brzezno.univ.gda.pl
+p-323-1.ek.univ.gda.pl
+h148.ds6.univ.gda.pl
+t29102.chem.univ.gda.pl
+t28116.chem.univ.gda.pl
+g18.brzezno.univ.gda.pl
+p-212-1.zr.univ.gda.pl
+slawi.univ.gda.pl
+p-119-1.ek.univ.gda.pl
+ack1.univ.gda.pl
+h210.ds6.univ.gda.pl
+www2.univ.gda.pl
+kartki.bg.univ.gda.pl
+p-239-07.zr.univ.gda.pl
+r28123.chem.univ.gda.pl
+p-229-1.ek.univ.gda.pl
+prawo.univ.gda.pl
+p-hal-05.ek.univ.gda.pl
+pc-f3-2.wns.univ.gda.pl
+p-213-11.zr.univ.gda.pl
+p-101-1.ek.univ.gda.pl
+p-213-13.zr.univ.gda.pl
+p-417-15.ek.univ.gda.pl
+h165.ds6.univ.gda.pl
+brcstud.univ.gda.pl
+www.lezno.univ.gda.pl
+t28236.chem.univ.gda.pl
+www.socjokolektiv.univ.gda.pl
+g214.brzezno.univ.gda.pl
+p-110.zr.univ.gda.pl
+h58.ds4.univ.gda.pl
+gil.chem.univ.gda.pl
+g229.brzezno.univ.gda.pl
+g157.brzezno.univ.gda.pl
+ug2ek-swe.ek.univ.gda.pl
+student6.zr.univ.gda.pl
+komp29.pol.wns.univ.gda.pl
+dignatowska.chem.univ.gda.pl
+fh08-6.univ.gda.pl
+p-117-1.ek.univ.gda.pl
+g196.brzezno.univ.gda.pl
+p-122-1.zr.univ.gda.pl
+t28053.chem.univ.gda.pl
+pe.univ.gda.pl
+p-205-1.ek.univ.gda.pl
+inkubator3.bg.univ.gda.pl
+h138.ds4.univ.gda.pl
+ocean.univ.gda.pl
+p-113-1.ek.univ.gda.pl
+fhifs231.univ.gda.pl
+www.konfterzeczy.strony.univ.gda.pl
+g242.brzezno.univ.gda.pl
+www.dkn.univ.gda.pl
+fh08-4.univ.gda.pl
+t29143.chem.univ.gda.pl
+h141.ds4.univ.gda.pl
+p-421-4.ek.univ.gda.pl
+h179.ds4.univ.gda.pl
+h91.ds4.univ.gda.pl
+g217.brzezno.univ.gda.pl
+h6.ds4.univ.gda.pl
+g201.brzezno.univ.gda.pl
+pc-42.ek.univ.gda.pl
+h137.ds6.univ.gda.pl
+l-p228.zr.univ.gda.pl
+h36.ds4.univ.gda.pl
+g95.brzezno.univ.gda.pl
+g147.brzezno.univ.gda.pl
+g83.brzezno.univ.gda.pl
+h32.ds4.univ.gda.pl
+t28028.chem.univ.gda.pl
+fh08-3.univ.gda.pl
+hall4.ek.univ.gda.pl
+g42.brzezno.univ.gda.pl
+student5.zr.univ.gda.pl
+h25.ds4.univ.gda.pl
+g6.brzezno.univ.gda.pl
+h231.ds4.univ.gda.pl
+bp26.wns.univ.gda.pl
+h242.ds6.univ.gda.pl
+h41.ds4.univ.gda.pl
+p-114-1.ek.univ.gda.pl
+piasek3.chem.univ.gda.pl
+p-515-8.ek.univ.gda.pl
+bolek.wns.univ.gda.pl
+be.ek.univ.gda.pl
+love.bg.univ.gda.pl
+g72.brzezno.univ.gda.pl
+fhbib017.univ.gda.pl
+iftia4.univ.gda.pl
+politologia.univ.gda.pl
+g212.brzezno.univ.gda.pl
+fhks245.univ.gda.pl
+fhd24-2.univ.gda.pl
+p-103-5.zr.univ.gda.pl
+pc-sjo-8.ek.univ.gda.pl
+h94.ds4.univ.gda.pl
+t29033.chem.univ.gda.pl
+t28035.chem.univ.gda.pl
+fluoryt.univ.gda.pl
+t29054.chem.univ.gda.pl
+g179.brzezno.univ.gda.pl
+p-313-3.ek.univ.gda.pl
+h200.ds6.univ.gda.pl
+h216.ds4.univ.gda.pl
+t29149.chem.univ.gda.pl
+p-516-29.ek.univ.gda.pl
+fhifp249.univ.gda.pl
+fhifp142.univ.gda.pl
+t29221.chem.univ.gda.pl
+h90.ds4.univ.gda.pl
+t28050.chem.univ.gda.pl
+g38.brzezno.univ.gda.pl
+gonzo.univ.gda.pl
+p-420.ek.univ.gda.pl
+g182.brzezno.univ.gda.pl
+iftia28.univ.gda.pl
+cyrkiel0.bg.univ.gda.pl
+t28067.chem.univ.gda.pl
+p-516-1.ek.univ.gda.pl
+p-437.ek.univ.gda.pl
+pc-czyta-2.bg.univ.gda.pl
+www.ppc.univ.gda.pl
+h237.ds6.univ.gda.pl
+h137.ds4.univ.gda.pl
+p-229-5.zr.univ.gda.pl
+p-505-2.ek.univ.gda.pl
+p-103-3.zr.univ.gda.pl
+t28095.chem.univ.gda.pl
+iftia123.univ.gda.pl
+h163.ds4.univ.gda.pl
+g20.brzezno.univ.gda.pl
+auto4.bg.univ.gda.pl
+g84.brzezno.univ.gda.pl
+iftia90.univ.gda.pl
+g146.brzezno.univ.gda.pl
+g213.brzezno.univ.gda.pl
+t28202.chem.univ.gda.pl
+g204.brzezno.univ.gda.pl
+h214.ds6.univ.gda.pl
+h118.ds4.univ.gda.pl
+ds135.chem.univ.gda.pl
+keeper.chem.univ.gda.pl
+pc-wyp-2.bg.univ.gda.pl
+t29174.chem.univ.gda.pl
+p-419-1.ek.univ.gda.pl
+rorty.wns.univ.gda.pl
+h225.ds4.univ.gda.pl
+p-415-kr2.ek.univ.gda.pl
+strateg.bg.univ.gda.pl
+szkolenie.bg.univ.gda.pl
+przaj.prawo.univ.gda.pl
+www.ifd.univ.gda.pl
+p-516-38.ek.univ.gda.pl
+g86.brzezno.univ.gda.pl
+www.kcik.univ.gda.pl
+rez4.bg.univ.gda.pl
+greed.univ.gda.pl
+g149.brzezno.univ.gda.pl
+konsorcjum.bg.univ.gda.pl
+p-417-9.ek.univ.gda.pl
+bp48-2.wns.univ.gda.pl
+p-515-5.ek.univ.gda.pl
+p-101-2.pa.univ.gda.pl
+p-516-33.ek.univ.gda.pl
+h238.ds4.univ.gda.pl
+h124.ds4.univ.gda.pl
+libero.chem.univ.gda.pl
+h230.ds4.univ.gda.pl
+p-115-2.zr.univ.gda.pl
+baran.chem.univ.gda.pl
+cyrkiel3.bg.univ.gda.pl
+t28227.chem.univ.gda.pl
+p-23-0.pa.univ.gda.pl
+t28139.chem.univ.gda.pl
+p-215-1.ek.univ.gda.pl
+dni-k-1.ek.univ.gda.pl
+lenyoszek.bg.univ.gda.pl
+katalog.bg.univ.gda.pl
+g12.brzezno.univ.gda.pl
+h177.ds4.univ.gda.pl
+fhks8-6.univ.gda.pl
+iftia108.univ.gda.pl
+p-hal-09.ek.univ.gda.pl
+p-421-9.ek.univ.gda.pl
+rez6.bg.univ.gda.pl
+t28184.chem.univ.gda.pl
+p-516-4.ek.univ.gda.pl
+h156.ds6.univ.gda.pl
+h40.ds4.univ.gda.pl
+p-239-05.zr.univ.gda.pl
+h112.ds4.univ.gda.pl
+t28101.chem.univ.gda.pl
+fhifs239.univ.gda.pl
+h205.ds4.univ.gda.pl
+kasia.wns.univ.gda.pl
+vpn14.bg.univ.gda.pl
+p-217-1.ek.univ.gda.pl
+myszka.chem.univ.gda.pl
+g96.brzezno.univ.gda.pl
+p-239-02.zr.univ.gda.pl
+t29235.chem.univ.gda.pl
+loki.chem.univ.gda.pl
+hall-09.bg.univ.gda.pl
+h115.ds4.univ.gda.pl
+p-115-3.zr.univ.gda.pl
+h74.ds4.univ.gda.pl
+g85.brzezno.univ.gda.pl
+globgov.bg.univ.gda.pl
+t29202.chem.univ.gda.pl
+t29216.chem.univ.gda.pl
+h215.ds4.univ.gda.pl
+rafal.univ.gda.pl
+hel.univ.gda.pl
+t28158.chem.univ.gda.pl
+fh08-8.univ.gda.pl
+gnu.univ.gda.pl
+ap-ek-19.ek.univ.gda.pl
+konarski.wns.univ.gda.pl
+g97.brzezno.univ.gda.pl
+t28224.chem.univ.gda.pl
+p-047-3.ek.univ.gda.pl
+t29070.chem.univ.gda.pl
+p-ztit.zr.univ.gda.pl
+p-211-05.ek.univ.gda.pl
+ro1.bg.univ.gda.pl
+p-516-14.ek.univ.gda.pl
+g49.brzezno.univ.gda.pl
+bib03.prawo.univ.gda.pl
+t28058.chem.univ.gda.pl
+pc1-gazetaug.bg.univ.gda.pl
+ogolna.chem.univ.gda.pl
+p-334-1.ek.univ.gda.pl
+nszz.univ.gda.pl
+cassubiana.bg.univ.gda.pl
+parl1.univ.gda.pl
+chem.univ.gda.pl
+student8.zr.univ.gda.pl
+t28232.chem.univ.gda.pl
+p-121-1.ek.univ.gda.pl
+pc-kon.bg.univ.gda.pl
+humus.chem.univ.gda.pl
+msa.bg.univ.gda.pl
+h160.ds4.univ.gda.pl
+kasia.chem.univ.gda.pl
+hape.chem.univ.gda.pl
+lcms.chem.univ.gda.pl
+lap-brzezno.bg.univ.gda.pl
+h214.ds4.univ.gda.pl
+iftia76.univ.gda.pl
+fhd56.univ.gda.pl
+g37.brzezno.univ.gda.pl
+p-hal-10.ek.univ.gda.pl
+g50.brzezno.univ.gda.pl
+print1.bg.univ.gda.pl
+h202.ds6.univ.gda.pl
+g88.brzezno.univ.gda.pl
+adamp13.univ.gda.pl
+p-047-9.ek.univ.gda.pl
+iftia50.univ.gda.pl
+par1.univ.gda.pl
+h83.ds4.univ.gda.pl
+cyrkiel5.bg.univ.gda.pl
+h44.ds4.univ.gda.pl
+p-127-1.zr.univ.gda.pl
+p-515-3.ek.univ.gda.pl
+sekretariat.wns.univ.gda.pl
+g190.brzezno.univ.gda.pl
+g60.brzezno.univ.gda.pl
+h241.ds6.univ.gda.pl
+p-101-5.pa.univ.gda.pl
+komp21.pol.wns.univ.gda.pl
+t28228.chem.univ.gda.pl
+h80.ds4.univ.gda.pl
+p-417-20.ek.univ.gda.pl
+t29210.chem.univ.gda.pl
+halina.wns.univ.gda.pl
+bbrom-3.wns.univ.gda.pl
+ocean-dns1.univ.gda.pl
+g169.brzezno.univ.gda.pl
+h254.ds6.univ.gda.pl
+wodnik.chem.univ.gda.pl
+p-312-2.zr.univ.gda.pl
+p-010-1.zr.univ.gda.pl
+t28040.chem.univ.gda.pl
+g176.brzezno.univ.gda.pl
+katedra.ek.univ.gda.pl
+g156.brzezno.univ.gda.pl
+rykar.bg.univ.gda.pl
+tlug.zr.univ.gda.pl
+t28239.chem.univ.gda.pl
+absolwenciwshm-wse-ug.univ.gda.pl
+g180.brzezno.univ.gda.pl
+g187.brzezno.univ.gda.pl
+t28062.chem.univ.gda.pl
+ewa.bg.univ.gda.pl
+g205.brzezno.univ.gda.pl
+tygrys.ek.univ.gda.pl
+aditi.univ.gda.pl
+p-106-2.zr.univ.gda.pl
+72.prawo.univ.gda.pl
+t29095.chem.univ.gda.pl
+h145.ds6.univ.gda.pl
+p-29-228.chem.univ.gda.pl
+g138.brzezno.univ.gda.pl
+xxl.ek.univ.gda.pl
+h82.ds4.univ.gda.pl
+iftia124.univ.gda.pl
+pc-wyp-3.bg.univ.gda.pl
+fh08-9.univ.gda.pl
+t28182.chem.univ.gda.pl
+www.isahi.univ.gda.pl
+h12.ds4.univ.gda.pl
+www.apop.univ.gda.pl
+fhbib020.univ.gda.pl
+vpn7.bg.univ.gda.pl
+magic.ek.univ.gda.pl
+t28083.chem.univ.gda.pl
+beata.wns.univ.gda.pl
+vpn9.bg.univ.gda.pl
+iftia87.univ.gda.pl
+backup.bg.univ.gda.pl
+t28119.chem.univ.gda.pl
+h61.ds4.univ.gda.pl
+t28044.chem.univ.gda.pl
+kafel.chem.univ.gda.pl
+p-rekrut-1.zr.univ.gda.pl
+t28154.chem.univ.gda.pl
+iftia46.univ.gda.pl
+p-29-246.chem.univ.gda.pl
+p-419-2.ek.univ.gda.pl
+g144.brzezno.univ.gda.pl
+chemo1.chem.univ.gda.pl
+t28192.chem.univ.gda.pl
+kasia.univ.gda.pl
+ug1-rut-hum.univ.gda.pl
+h176.ds6.univ.gda.pl
+bogdan.chem.univ.gda.pl
+p-631-1.ek.univ.gda.pl
+r28136.chem.univ.gda.pl
+fhih29.univ.gda.pl
+p-225.zr.univ.gda.pl
+p-630-b.ek.univ.gda.pl
+p-23-3.pa.univ.gda.pl
+h162.ds4.univ.gda.pl
+g189.brzezno.univ.gda.pl
+fh07-2.univ.gda.pl
+g56.brzezno.univ.gda.pl
+psyzn.wns.univ.gda.pl
+h245.ds6.univ.gda.pl
+h184.ds4.univ.gda.pl
+h57.ds4.univ.gda.pl
+t29105.chem.univ.gda.pl
+fhksl247.univ.gda.pl
+samuraj.chem.univ.gda.pl
+t28049.chem.univ.gda.pl
+iftia44.univ.gda.pl
+p149.chem.univ.gda.pl
+t29229.chem.univ.gda.pl
+t28113.chem.univ.gda.pl
+p-239-16.zr.univ.gda.pl
+psyche.wns.univ.gda.pl
+h125.ds4.univ.gda.pl
+h85.ds4.univ.gda.pl
+t29040.chem.univ.gda.pl
+h203.ds6.univ.gda.pl
+hall-07.bg.univ.gda.pl
+wiesiek.univ.gda.pl
+g116.brzezno.univ.gda.pl
+p-415-kr3.ek.univ.gda.pl
+tomek.univ.gda.pl
+iftia64.univ.gda.pl
+g109.brzezno.univ.gda.pl
+h158.ds6.univ.gda.pl
+kcik-ser.bg.univ.gda.pl
+h146.ds6.univ.gda.pl
+t28057.chem.univ.gda.pl
+p-131-2.ek.univ.gda.pl
+h28.ds4.univ.gda.pl
+mulgara.bg.univ.gda.pl
+pikom.prawo.univ.gda.pl
+g164.brzezno.univ.gda.pl
+g163.brzezno.univ.gda.pl
+univ.gda.pl
+h221.ds6.univ.gda.pl
+pc-inf-0.bg.univ.gda.pl
+www.ptab.univ.gda.pl
+fhkfsl243.univ.gda.pl
+camera1.bg.univ.gda.pl
+p-23-7.pa.univ.gda.pl
+g181.brzezno.univ.gda.pl
+t29115.chem.univ.gda.pl
+mion.chem.univ.gda.pl
+g158.brzezno.univ.gda.pl
+t28036.chem.univ.gda.pl
+p-229-4.zr.univ.gda.pl
+iftia32.univ.gda.pl
+iftia96.univ.gda.pl
+www.bgo.univ.gda.pl
+p-125-2.ek.univ.gda.pl
+dziek04.prawo.univ.gda.pl
+p-104-1.ek.univ.gda.pl
+g117.brzezno.univ.gda.pl
+pchs_access.chem.univ.gda.pl
+rez1.bg.univ.gda.pl
+iftia8.univ.gda.pl
+h65.ds4.univ.gda.pl
+p-216-1.zr.univ.gda.pl
+sw3.bg.univ.gda.pl
+h218.ds6.univ.gda.pl
+h236.ds6.univ.gda.pl
+vpn10.bg.univ.gda.pl
+sw2.bg.univ.gda.pl
+bp33-1.wns.univ.gda.pl
+iftia60.univ.gda.pl
+p-223-2.zr.univ.gda.pl
+t28092.chem.univ.gda.pl
+kuba.univ.gda.pl
+t28142.chem.univ.gda.pl
+p-10-2.zr.univ.gda.pl
+jupiter.wns.univ.gda.pl
+iftia16.univ.gda.pl
+r28134.chem.univ.gda.pl
+iftia88.univ.gda.pl
+p-311-1.ek.univ.gda.pl
+t29129.chem.univ.gda.pl
+t28249.chem.univ.gda.pl
+h89.ds4.univ.gda.pl
+kogut.chem.univ.gda.pl
+t29222.chem.univ.gda.pl
+sw6.bg.univ.gda.pl
+p-516-19.ek.univ.gda.pl
+www.change.univ.gda.pl
+g186.brzezno.univ.gda.pl
+kcik-box.bg.univ.gda.pl
+p-29-155.chem.univ.gda.pl
+inf.univ.gda.pl
+iftia94.univ.gda.pl
+p-216-2.zr.univ.gda.pl
+robert.wns.univ.gda.pl
+wnswz.strony.univ.gda.pl
+t28017.chem.univ.gda.pl
+h240.ds4.univ.gda.pl
+p-126-3.ek.univ.gda.pl
+t28157.chem.univ.gda.pl
+p-122-3.zr.univ.gda.pl
+www.najlepsi.univ.gda.pl
+rubin.chem.univ.gda.pl
+alfred.chem.univ.gda.pl
+t29120.chem.univ.gda.pl
+pa.univ.gda.pl
+ap-ek-18.ek.univ.gda.pl
+h219.ds4.univ.gda.pl
+h114.ds4.univ.gda.pl
+iftia34.univ.gda.pl
+t29220.chem.univ.gda.pl
+smok.univ.gda.pl
+forum.bg.univ.gda.pl
+g108.brzezno.univ.gda.pl
+fhd55.univ.gda.pl
+p-228-7.zr.univ.gda.pl
+win2.bg.univ.gda.pl
+t28148.chem.univ.gda.pl
+beata.bg.univ.gda.pl
+g78.brzezno.univ.gda.pl
+p-103-2.zr.univ.gda.pl
+squlpin.univ.gda.pl
+g195.brzezno.univ.gda.pl
+p-106-5.zr.univ.gda.pl
+t28190.chem.univ.gda.pl
+ap-ek-8.ek.univ.gda.pl
+r29242.chem.univ.gda.pl
+www.univ.gda.pl
+madzia.univ.gda.pl
+wilk.chem.univ.gda.pl
+paula.univ.gda.pl
+vpn4.bg.univ.gda.pl
+p-213-10.zr.univ.gda.pl
+p-233.zr.univ.gda.pl
+p-03-2.zr.univ.gda.pl
+t29092.chem.univ.gda.pl
+p-010-3.zr.univ.gda.pl
+h55.ds4.univ.gda.pl
+p-216-2.ek.univ.gda.pl
+hp1200-cb.bg.univ.gda.pl
+p-321-2.ek.univ.gda.pl
+smok.zr.univ.gda.pl
+p-130-1.ek.univ.gda.pl
+www.kgigcz.univ.gda.pl
+t29248.chem.univ.gda.pl
+g68.brzezno.univ.gda.pl
+adm.prawo.univ.gda.pl
+p-129-1.zr.univ.gda.pl
+p-213-12.zr.univ.gda.pl
+h212.ds6.univ.gda.pl
+t28215.chem.univ.gda.pl
+iftia98.univ.gda.pl
+p-nauki2.bg.univ.gda.pl
+jarek.univ.gda.pl
+jodzio.wns.univ.gda.pl
+h227.ds6.univ.gda.pl
+p-421-16.ek.univ.gda.pl
+t29026.chem.univ.gda.pl
+g178.brzezno.univ.gda.pl
+katalog-pan.bg.univ.gda.pl
+h220.ds4.univ.gda.pl
+g167.brzezno.univ.gda.pl
+tera.univ.gda.pl
+www.kosz.azs.univ.gda.pl
+g173.brzezno.univ.gda.pl
+p-230.zr.univ.gda.pl
+jacek.univ.gda.pl
+p-631-2.ek.univ.gda.pl
+h208.ds6.univ.gda.pl
+p-23-6.pa.univ.gda.pl
+g235.brzezno.univ.gda.pl
+g129.brzezno.univ.gda.pl
+t29160.chem.univ.gda.pl
+p-oiz-2.zr.univ.gda.pl
+puma.bg.univ.gda.pl
+p-318-1.ek.univ.gda.pl
+g151.brzezno.univ.gda.pl
+parad.prawo.univ.gda.pl
+g105.brzezno.univ.gda.pl
+g120.brzezno.univ.gda.pl
+p-229-11.zr.univ.gda.pl
+fhks3.univ.gda.pl
+t28084.chem.univ.gda.pl
+j97.ds.univ.gda.pl
+t29066.chem.univ.gda.pl
+iftia118.univ.gda.pl
+h198.ds6.univ.gda.pl
+switch-logop.wns.univ.gda.pl
+p-421-5.ek.univ.gda.pl
+linksys-bib.pol.wns.univ.gda.pl
+p-112-1.ek.univ.gda.pl
+iftia71.univ.gda.pl
+t28038.chem.univ.gda.pl
+t29224.chem.univ.gda.pl
+h148.ds4.univ.gda.pl
+g126.brzezno.univ.gda.pl
+fhlog7.univ.gda.pl
+g246.brzezno.univ.gda.pl
+h243.ds4.univ.gda.pl
+h204.ds6.univ.gda.pl
+h247.ds4.univ.gda.pl
+p-421-11.ek.univ.gda.pl
+p-239-15.zr.univ.gda.pl
+h166.ds6.univ.gda.pl
+p-sjo-14.ek.univ.gda.pl
+iftia24.univ.gda.pl
+g57.brzezno.univ.gda.pl
+p-201.zr.univ.gda.pl
+p-229-10.zr.univ.gda.pl
+h234.ds4.univ.gda.pl
+chudy.univ.gda.pl
+p-221-1.ek.univ.gda.pl
+g91.brzezno.univ.gda.pl
+mon.chem.univ.gda.pl
+p-333-2.ek.univ.gda.pl
+rolka.chem.univ.gda.pl
+h186.ds6.univ.gda.pl
+p-516-23.ek.univ.gda.pl
+g103.brzezno.univ.gda.pl
+student2.zr.univ.gda.pl
+p-404.ek.univ.gda.pl
+h50.ds4.univ.gda.pl
+p-102-1.zr.univ.gda.pl
+h132.ds6.univ.gda.pl
+t29048.chem.univ.gda.pl
+www.zsm.univ.gda.pl
+p-313-3.zr.univ.gda.pl
+shimadzu.chem.univ.gda.pl
+iftia57.univ.gda.pl
+t28230.chem.univ.gda.pl
+t28147.chem.univ.gda.pl
+t29219.chem.univ.gda.pl
+t28153.chem.univ.gda.pl
+p-111-1.zr.univ.gda.pl
+p-8.zr.univ.gda.pl
+p-515-2.ek.univ.gda.pl
+t29134.chem.univ.gda.pl
+h109.ds4.univ.gda.pl
+prsoko.prawo.univ.gda.pl
+p-313-4.zr.univ.gda.pl
+t29181.chem.univ.gda.pl
+h135.ds4.univ.gda.pl
+p-hal-04.ek.univ.gda.pl
+dziek07.prawo.univ.gda.pl
+vpn15.bg.univ.gda.pl
+p-417-3.ek.univ.gda.pl
+p-222-2.ek.univ.gda.pl
+t29009.chem.univ.gda.pl
+p-514-1.ek.univ.gda.pl
+term-k.bg.univ.gda.pl
+iftia113.univ.gda.pl
+l-03.zr.univ.gda.pl
+t29142.chem.univ.gda.pl
+t29197.chem.univ.gda.pl
+t29124.chem.univ.gda.pl
+h7.ds4.univ.gda.pl
+h172.ds4.univ.gda.pl
+g134.brzezno.univ.gda.pl
+technicy.prawo.univ.gda.pl
+geografia.univ.gda.pl
+h63.ds4.univ.gda.pl
+iftia116.univ.gda.pl
+h167.ds4.univ.gda.pl
+rez2.bg.univ.gda.pl
+p-230-2.ek.univ.gda.pl
+g76.brzezno.univ.gda.pl
+sw-237.chem.univ.gda.pl
+fhfk219.univ.gda.pl
+h223.ds6.univ.gda.pl
+t28048.chem.univ.gda.pl
+mplex6.bg.univ.gda.pl
+gnu.bg.univ.gda.pl
+h218.ds4.univ.gda.pl
+jarek.wns.univ.gda.pl
+panda.bg.univ.gda.pl
+wenus.wns.univ.gda.pl
+p-2-1.ek.univ.gda.pl
+spektro.chem.univ.gda.pl
+hazet.ek.univ.gda.pl
+t29184.chem.univ.gda.pl
+hall1.ek.univ.gda.pl
+landi.univ.gda.pl
+eval.univ.gda.pl
+p-417-18.ek.univ.gda.pl
+sklepik.chem.univ.gda.pl
+mplex4.bg.univ.gda.pl
+p-320-1.ek.univ.gda.pl
+p-227.zr.univ.gda.pl
+g132.brzezno.univ.gda.pl
+g89.brzezno.univ.gda.pl
+gnu-a.bg.univ.gda.pl
+tridens.wns.univ.gda.pl
+p-224-2.ek.univ.gda.pl
+t29161.chem.univ.gda.pl
+h248.ds4.univ.gda.pl
+iftia53.univ.gda.pl
+i82.ds.univ.gda.pl
+p-113-1.zr.univ.gda.pl
+h133.ds6.univ.gda.pl
+iftia93.univ.gda.pl
+p-239-17.zr.univ.gda.pl
+fhkfg212.univ.gda.pl
+kcik-sek.bg.univ.gda.pl
+h183.ds4.univ.gda.pl
+hall9.ek.univ.gda.pl
+tygrys.pa.univ.gda.pl
+h150.ds4.univ.gda.pl
+t28197.chem.univ.gda.pl
+t28094.chem.univ.gda.pl
+rysiek.univ.gda.pl
+p-516-6.ek.univ.gda.pl
+bp9-1.wns.univ.gda.pl
+p-28-166.chem.univ.gda.pl
+expertus.bg.univ.gda.pl
+p-518.ek.univ.gda.pl
+chemik.chem.univ.gda.pl
+p-211-7.ek.univ.gda.pl
+g174.brzezno.univ.gda.pl
+h228.ds6.univ.gda.pl
+ap-ek-16.ek.univ.gda.pl
+fhkfk227.univ.gda.pl
+h206.ds6.univ.gda.pl
+katalog.wns.univ.gda.pl
+g211.brzezno.univ.gda.pl
+pc-wmb2.bg.univ.gda.pl
+g198.brzezno.univ.gda.pl
+t28107.chem.univ.gda.pl
+g135.brzezno.univ.gda.pl
+www.wns.univ.gda.pl
+dziekan.wns.univ.gda.pl
+bp48-4.wns.univ.gda.pl
+h191.ds4.univ.gda.pl
+fhd24-1.univ.gda.pl
+ania.univ.gda.pl
+rez11.bg.univ.gda.pl
+p-319-1.ek.univ.gda.pl
+sw1.bg.univ.gda.pl
+p-119-3.ek.univ.gda.pl
+wystawy.bg.univ.gda.pl
+ek.univ.gda.pl
+h235.ds4.univ.gda.pl
+h37.ds4.univ.gda.pl
+max.univ.gda.pl
+dydaktyk.chem.univ.gda.pl
+h122.ds4.univ.gda.pl
+t29199.chem.univ.gda.pl
+dziek02.prawo.univ.gda.pl
+p-229-2.zr.univ.gda.pl
+g192.brzezno.univ.gda.pl
+t28243.chem.univ.gda.pl
+g30.brzezno.univ.gda.pl
+www.nowosci.bg.univ.gda.pl
+kama.univ.gda.pl
+minipc01.chem.univ.gda.pl
+fhia116-3.univ.gda.pl
+g150.brzezno.univ.gda.pl
+h206.ds4.univ.gda.pl
+donar.chem.univ.gda.pl
+h172.ds6.univ.gda.pl
+chf9.chem.univ.gda.pl
+sstb.univ.gda.pl
+pingwin.bg.univ.gda.pl
+t28156.chem.univ.gda.pl
+h201.ds4.univ.gda.pl
+h73.ds4.univ.gda.pl
+pies.chem.univ.gda.pl
+t28124.chem.univ.gda.pl
+h161.ds4.univ.gda.pl
+jantar.chem.univ.gda.pl
+g22.brzezno.univ.gda.pl
+iftia104.univ.gda.pl
+ldynia.chem.univ.gda.pl
+dziek11.prawo.univ.gda.pl
+archiwumwystaw.bg.univ.gda.pl
+g202.brzezno.univ.gda.pl
+sge.univ.gda.pl
+t29188.chem.univ.gda.pl
+p-216-1.ek.univ.gda.pl
+t29018.chem.univ.gda.pl
+g172.brzezno.univ.gda.pl
+g81.brzezno.univ.gda.pl
+p-10-3.zr.univ.gda.pl
+h140.ds4.univ.gda.pl
+h242.ds4.univ.gda.pl
+rez18.bg.univ.gda.pl
+iftia81.univ.gda.pl
+p-515-9.ek.univ.gda.pl
+www.pracmet.strony.univ.gda.pl
+szlam.univ.gda.pl
+p-213-4.zr.univ.gda.pl
+fh08-1.univ.gda.pl
+chemik.univ.gda.pl
+iftia36.univ.gda.pl
+t29217.chem.univ.gda.pl
+h173.ds6.univ.gda.pl
+t29139.chem.univ.gda.pl
+p-315-1.zr.univ.gda.pl
+p-516-18.ek.univ.gda.pl
+iftia51.univ.gda.pl
+mie1.bg.univ.gda.pl
+bp48-3.wns.univ.gda.pl
+h5.ds4.univ.gda.pl
+www.politologia.univ.gda.pl
+p-050-1.ek.univ.gda.pl
+f4-wyp-2.univ.gda.pl
+inwes.zr.univ.gda.pl
+t28247.chem.univ.gda.pl
+p-516-35.ek.univ.gda.pl
+t28245.chem.univ.gda.pl
+piotr.zr.univ.gda.pl
+p-516-26.ek.univ.gda.pl
+g139.brzezno.univ.gda.pl
+p-211-03.ek.univ.gda.pl
+p-402-2.ek.univ.gda.pl
+h72.ds4.univ.gda.pl
+t28209.chem.univ.gda.pl
+vpn3.bg.univ.gda.pl
+pc-sjo-11.ek.univ.gda.pl
+hall-03.bg.univ.gda.pl
+t28117.chem.univ.gda.pl
+g99.brzezno.univ.gda.pl
+h29.ds4.univ.gda.pl
+fhzl4.univ.gda.pl
+h241.ds4.univ.gda.pl
+p-114-2.zr.univ.gda.pl
+bib02.prawo.univ.gda.pl
+p-207.zr.univ.gda.pl
+g233.brzezno.univ.gda.pl
+t29109.chem.univ.gda.pl
+bp48-5.wns.univ.gda.pl
+h30.ds4.univ.gda.pl
+draconik.univ.gda.pl
+iftia55.univ.gda.pl
+www.ack.univ.gda.pl
+t29058.chem.univ.gda.pl
+h143.ds6.univ.gda.pl
+p-106-1.zr.univ.gda.pl
+p-516-2.ek.univ.gda.pl
+recourse.univ.gda.pl
+h176.ds4.univ.gda.pl
+g51.brzezno.univ.gda.pl
+fhks122.univ.gda.pl
+h139.ds6.univ.gda.pl
+iftia39.univ.gda.pl
+h97.ds4.univ.gda.pl
+fhkfg218.univ.gda.pl
+g162.brzezno.univ.gda.pl
+iftia107.univ.gda.pl
+p-315-1.ek.univ.gda.pl
+p-23-8.pa.univ.gda.pl
+t28030.chem.univ.gda.pl
+t29050.chem.univ.gda.pl
+monia.chem.univ.gda.pl
+h81.ds4.univ.gda.pl
+t29163.chem.univ.gda.pl
+kcik-sw.bg.univ.gda.pl
+nkh.fh.univ.gda.pl
+g128.brzezno.univ.gda.pl
+fhkfg217.univ.gda.pl
+p-228-3.ek.univ.gda.pl
+h64.ds4.univ.gda.pl
+fhlord07.univ.gda.pl
+ap-ek-1.ek.univ.gda.pl
+g148.brzezno.univ.gda.pl
+h143.ds4.univ.gda.pl
+casrepo.bg.univ.gda.pl
+p-228-1.ek.univ.gda.pl
+h34.ds4.univ.gda.pl
+t28241.chem.univ.gda.pl
+fhkfg213.univ.gda.pl
+w.bg.univ.gda.pl
+t29086.chem.univ.gda.pl
+h136.ds6.univ.gda.pl
+h239.ds4.univ.gda.pl
+ack.univ.gda.pl
+rejek.bg.univ.gda.pl
+kaszub.univ.gda.pl
+t29031.chem.univ.gda.pl
+www.kgrr.univ.gda.pl
+pc-53.ek.univ.gda.pl
+p-104.zr.univ.gda.pl
+t28188.chem.univ.gda.pl
+h128.ds4.univ.gda.pl
+wit58.univ.gda.pl
+erwinia.chem.univ.gda.pl
+g170.brzezno.univ.gda.pl
+t28206.chem.univ.gda.pl
+h129.ds6.univ.gda.pl
+p-323-2.ek.univ.gda.pl
+www.ring.univ.gda.pl
+h224.ds6.univ.gda.pl
+p-421-12.ek.univ.gda.pl
+iftia10.univ.gda.pl
+fha032.univ.gda.pl
+hel.hel.univ.gda.pl
+arek.univ.gda.pl
+bib01.prawo.univ.gda.pl
+p-117-6.zr.univ.gda.pl
+ofe.bg.univ.gda.pl
+p-228-2.ek.univ.gda.pl
+t29232.chem.univ.gda.pl
+t29176.chem.univ.gda.pl
+g141.brzezno.univ.gda.pl
+p-229-7.zr.univ.gda.pl
+h243.ds6.univ.gda.pl
+t28037.chem.univ.gda.pl
+twix2.ek.univ.gda.pl
+h59.ds4.univ.gda.pl
+fhkfg203.univ.gda.pl
+kamil7.chem.univ.gda.pl
+p-221.zr.univ.gda.pl
+iftia9.univ.gda.pl
+g224.brzezno.univ.gda.pl
+p-123-1.ek.univ.gda.pl
+p-228-6.zr.univ.gda.pl
+zimbra.bg.univ.gda.pl
+t29097.chem.univ.gda.pl
+voip01.pol.wns.univ.gda.pl
+h230.ds6.univ.gda.pl
+www.chem.univ.gda.pl
+t29166.chem.univ.gda.pl
+h196.ds6.univ.gda.pl
+satbaltic.ocean.univ.gda.pl
+brc3.univ.gda.pl
+bp23.wns.univ.gda.pl
+beton.chem.univ.gda.pl
+adam.wns.univ.gda.pl
+t29059.chem.univ.gda.pl
+pc-52.ek.univ.gda.pl
+sekret.wns.univ.gda.pl
+p-228-4.zr.univ.gda.pl
+g142.brzezno.univ.gda.pl
+h205.ds6.univ.gda.pl
+magda.biotech.univ.gda.pl
+dana.chem.univ.gda.pl
+t28185.chem.univ.gda.pl
+iftia61.univ.gda.pl
+brc1.univ.gda.pl
+prszmyt.prawo.univ.gda.pl
+sw9.bg.univ.gda.pl
+t28165.chem.univ.gda.pl
+iftia91.univ.gda.pl
+h248.ds6.univ.gda.pl
+t28088.chem.univ.gda.pl
+p-239-01.zr.univ.gda.pl
+t28159.chem.univ.gda.pl
+29eps.chem.univ.gda.pl
+vital.univ.gda.pl
+h16.ds4.univ.gda.pl
+p-026-1.ek.univ.gda.pl
+i146.ds.univ.gda.pl
+p-oiz-1.zr.univ.gda.pl
+t28071.chem.univ.gda.pl
+t29020.chem.univ.gda.pl
+www.strony.univ.gda.pl
+t29023.chem.univ.gda.pl
+sw5.bg.univ.gda.pl
+h154.ds4.univ.gda.pl
+cogito.univ.gda.pl
+iftia109.univ.gda.pl
+t28178.chem.univ.gda.pl
+resources.chem.univ.gda.pl
+diana.ek.univ.gda.pl
+h45.ds4.univ.gda.pl
+prsamb.prawo.univ.gda.pl
+albi.chem.univ.gda.pl
+ip-cent-1.ek.univ.gda.pl
+h185.ds4.univ.gda.pl
+fhbibl017.univ.gda.pl
+h24.ds4.univ.gda.pl
+p-123-2.ek.univ.gda.pl
+p-ztt-1.zr.univ.gda.pl
+g145.brzezno.univ.gda.pl
+p-228-5.zr.univ.gda.pl
+p-515-7.ek.univ.gda.pl
+p-223-4.zr.univ.gda.pl
+h199.ds4.univ.gda.pl
+p-227-2.ek.univ.gda.pl
+p-119-2.ek.univ.gda.pl
+t28112.chem.univ.gda.pl
+twix1.ek.univ.gda.pl
+mplex2.bg.univ.gda.pl
+t28072.chem.univ.gda.pl
+uniwebrcp.bg.univ.gda.pl
+h62.ds4.univ.gda.pl
+gnu-n.bg.univ.gda.pl
+tedos.chem.univ.gda.pl
+h229.ds6.univ.gda.pl
+gazeta.univ.gda.pl
+student4.zr.univ.gda.pl
+h211.ds6.univ.gda.pl
+h192.ds6.univ.gda.pl
+prchem.chem.univ.gda.pl
+g74.brzezno.univ.gda.pl
+p-222-3.ek.univ.gda.pl
+pc-sjo-4.ek.univ.gda.pl
+iftia22.univ.gda.pl
+ula.wns.univ.gda.pl
+p-135-1.ek.univ.gda.pl
+h204.ds4.univ.gda.pl
+g34.brzezno.univ.gda.pl
+hall-10.bg.univ.gda.pl
+p-338-3.ek.univ.gda.pl
+p-116-1.ek.univ.gda.pl
+p-417-19.ek.univ.gda.pl
+ack4.univ.gda.pl
+pchs2.chem.univ.gda.pl
+p-210.zr.univ.gda.pl
+g121.brzezno.univ.gda.pl
+babe-pig.chem.univ.gda.pl
+t29037.chem.univ.gda.pl
+p-417-10.ek.univ.gda.pl
+bbrom-2.wns.univ.gda.pl
+p-047-4.ek.univ.gda.pl
+p-314-1.ek.univ.gda.pl
+p-224-1.ek.univ.gda.pl
+h47.ds4.univ.gda.pl
+mail-gateway.univ.gda.pl
+h197.ds6.univ.gda.pl
+t29206.chem.univ.gda.pl
+pc-konser.bg.univ.gda.pl
+h185.ds6.univ.gda.pl
+h207.ds4.univ.gda.pl
+fhbib-wyp3.univ.gda.pl
+prczub.prawo.univ.gda.pl
+iftia112.univ.gda.pl
+p-226-1.zr.univ.gda.pl
+p-417-16.ek.univ.gda.pl
+iftia38.univ.gda.pl
+g225.brzezno.univ.gda.pl
+t29067.chem.univ.gda.pl
+p-129-3.zr.univ.gda.pl
+h51.ds4.univ.gda.pl
+g236.brzezno.univ.gda.pl
+h134.ds4.univ.gda.pl
+t29017.chem.univ.gda.pl
+p-516-32.ek.univ.gda.pl
+g26.brzezno.univ.gda.pl
+t29185.chem.univ.gda.pl
+bp20.wns.univ.gda.pl
+iftia63.univ.gda.pl
+melon.chem.univ.gda.pl
+p-310-1.ek.univ.gda.pl
+h152.ds6.univ.gda.pl
+www.20pps.univ.gda.pl
+zof.ocean.univ.gda.pl
+h22.ds4.univ.gda.pl
+g119.brzezno.univ.gda.pl
+ug1-cat-hum.univ.gda.pl
+p-101-1.pa.univ.gda.pl
+h67.ds4.univ.gda.pl
+g168.brzezno.univ.gda.pl
+twix3.ek.univ.gda.pl
+lewar.univ.gda.pl
+g140.brzezno.univ.gda.pl
+h119.ds4.univ.gda.pl
+f4-wyp-3.univ.gda.pl
+g8.brzezno.univ.gda.pl
+h123.ds4.univ.gda.pl
+fhbibl019.univ.gda.pl
+iftia84.univ.gda.pl
+lj212.bg.univ.gda.pl
+h253.ds6.univ.gda.pl
+lolek.wns.univ.gda.pl
+fajans.chem.univ.gda.pl
+h149.ds4.univ.gda.pl
+p-407.zr.univ.gda.pl
+temida.prawo.univ.gda.pl
+p-239-11.zr.univ.gda.pl
+h157.ds4.univ.gda.pl
+h181.ds6.univ.gda.pl
+adam.univ.gda.pl
+t28138.chem.univ.gda.pl
+t29214.chem.univ.gda.pl
+g113.brzezno.univ.gda.pl
+h53.ds4.univ.gda.pl
+neo.prawo.univ.gda.pl
+hera.chem.univ.gda.pl
+pc-47.ek.univ.gda.pl
+h170.ds6.univ.gda.pl
+t28201.chem.univ.gda.pl
+h107.ds4.univ.gda.pl
+haller22.pol.wns.univ.gda.pl
+student2.wns.univ.gda.pl
+t28177.chem.univ.gda.pl
+g71.brzezno.univ.gda.pl
+mif.bg.univ.gda.pl
+h21.ds4.univ.gda.pl
+cyrkiel4.bg.univ.gda.pl
+t29061.chem.univ.gda.pl
+h167.ds6.univ.gda.pl
+t29201.chem.univ.gda.pl
+iftia43.univ.gda.pl
+p-239-03.zr.univ.gda.pl
+fhkfk219.univ.gda.pl
+temp1.bg.univ.gda.pl
+t29138.chem.univ.gda.pl
+h120.ds4.univ.gda.pl
+p-211-00.ek.univ.gda.pl
+g79.brzezno.univ.gda.pl
+p-107.zr.univ.gda.pl
+t28196.chem.univ.gda.pl
+h173.ds4.univ.gda.pl
+iftia42.univ.gda.pl
+p-211-09.ek.univ.gda.pl
+kcik-ro.bg.univ.gda.pl
+t29022.chem.univ.gda.pl
+burek.ek.univ.gda.pl
+ap-ek-11.ek.univ.gda.pl
+p-505-8.ek.univ.gda.pl
+p-516-30.ek.univ.gda.pl
+halinaw247.univ.gda.pl
+p-222-0.ek.univ.gda.pl
+p-421-17.ek.univ.gda.pl
+p-23-2.pa.univ.gda.pl
+t29177.chem.univ.gda.pl
+g219.brzezno.univ.gda.pl
+h187.ds6.univ.gda.pl
+biology.univ.gda.pl
+pc-inf-3.bg.univ.gda.pl
+serverlic-nmr.chem.univ.gda.pl
+g111.brzezno.univ.gda.pl
+p-nauki1.bg.univ.gda.pl
+t28208.chem.univ.gda.pl
+h229.ds4.univ.gda.pl
+p-101-2.zr.univ.gda.pl
+zk.bg.univ.gda.pl
+h108.ds4.univ.gda.pl
+olender.wns.univ.gda.pl
+p-226-2.zr.univ.gda.pl
+t28226.chem.univ.gda.pl
+t28205.chem.univ.gda.pl
+ania.wns.univ.gda.pl
+h46.ds4.univ.gda.pl
+t29164.chem.univ.gda.pl
+student3.zr.univ.gda.pl
+auto6.bg.univ.gda.pl
+g130.brzezno.univ.gda.pl
+p-515-12.ek.univ.gda.pl
+t28104.chem.univ.gda.pl
+monika.univ.gda.pl
+kaszalot.ek.univ.gda.pl
+fhbib-wyp2.univ.gda.pl
+f4-wyp-1.univ.gda.pl
+t28149.chem.univ.gda.pl
+p-105-1.zr.univ.gda.pl
+p-104-2.ek.univ.gda.pl
+log-17.univ.gda.pl
+bbrom-1.wns.univ.gda.pl
+pc-wmb1.bg.univ.gda.pl
+h116.ds4.univ.gda.pl
+mmka.chem.univ.gda.pl
+fhks18.univ.gda.pl
+g41.brzezno.univ.gda.pl
+p-630-1.ek.univ.gda.pl
+ecis.zr.univ.gda.pl
+aegee-2.zr.univ.gda.pl
+t28194.chem.univ.gda.pl
+h27.ds4.univ.gda.pl
+dt2.univ.gda.pl
+aegee-1.zr.univ.gda.pl
+p-101-1.zr.univ.gda.pl
+g124.brzezno.univ.gda.pl
+t28034.chem.univ.gda.pl
+bg.univ.gda.pl
+cyrkiel7.bg.univ.gda.pl
+g136.brzezno.univ.gda.pl
+f4-czyt-1.univ.gda.pl
+wiola.univ.gda.pl
+lemur.ek.univ.gda.pl
+g4.brzezno.univ.gda.pl
+p-313-2.ek.univ.gda.pl
+p-418-1.ek.univ.gda.pl
+bp115.wns.univ.gda.pl
+p-100-2.zr.univ.gda.pl
+h77.ds4.univ.gda.pl
+p-326-1.ek.univ.gda.pl
+p-131-1.ek.univ.gda.pl
+t29016.chem.univ.gda.pl
+jola.univ.gda.pl
+p-415-1.ek.univ.gda.pl
+fhifp150.univ.gda.pl
+pc-48.ek.univ.gda.pl
+p-417-1.ek.univ.gda.pl
+www.czlowiek.nowemedia.univ.gda.pl
+student3.wns.univ.gda.pl
+magda.wns.univ.gda.pl
+t28145.chem.univ.gda.pl
+banach.univ.gda.pl
+kojot-1.bg.univ.gda.pl
+h39.ds4.univ.gda.pl
+spaj29.chem.univ.gda.pl
+flora.chem.univ.gda.pl
+t28010.chem.univ.gda.pl
+h182.ds6.univ.gda.pl
+t29028.chem.univ.gda.pl
+www.geo.univ.gda.pl
+t29099.chem.univ.gda.pl
+zuk.zr.univ.gda.pl
+prgusc.prawo.univ.gda.pl
+hadron2.chem.univ.gda.pl
+fhifp126-2.univ.gda.pl
+fhd23.univ.gda.pl
+prwisz.prawo.univ.gda.pl
+p-103-1.ek.univ.gda.pl
+ap-ek.ek.univ.gda.pl
+jacek.wns.univ.gda.pl
+zsm.univ.gda.pl
+h146.ds4.univ.gda.pl
+ap-ek-3.ek.univ.gda.pl
+prelb.chem.univ.gda.pl
+p-126-1.ek.univ.gda.pl
+iftia14.univ.gda.pl
+h195.ds4.univ.gda.pl
+pc-mag-cz.bg.univ.gda.pl
+h159.ds4.univ.gda.pl
+h105.ds4.univ.gda.pl
+dydaktyka.wns.univ.gda.pl
+rugger.zr.univ.gda.pl
+p-307-1.ek.univ.gda.pl
+pc-czyta-1.bg.univ.gda.pl
+h178.ds4.univ.gda.pl
+pchs4.chem.univ.gda.pl
+t29074.chem.univ.gda.pl
+p-23-1.ek.univ.gda.pl
+t29062.chem.univ.gda.pl
+iftia35.univ.gda.pl
+t29117.chem.univ.gda.pl
+g208.brzezno.univ.gda.pl
+p-219-3.ek.univ.gda.pl
+p-01-1.pa.univ.gda.pl
+fhih52a-2.univ.gda.pl
+h195.ds6.univ.gda.pl
+p-232.zr.univ.gda.pl
+krzysztof.wns.univ.gda.pl
+hall10.ek.univ.gda.pl
+fhd24-3.univ.gda.pl
+iftia100.univ.gda.pl
+bgug.zr.univ.gda.pl
+t28214.chem.univ.gda.pl
+g36.brzezno.univ.gda.pl
+h154.ds6.univ.gda.pl
+rez5.bg.univ.gda.pl
+t29205.chem.univ.gda.pl
+h219.ds6.univ.gda.pl
+iftia48.univ.gda.pl
+g177.brzezno.univ.gda.pl
+www.wnsts.strony.univ.gda.pl
+p-115-1.zr.univ.gda.pl
+iftia106.univ.gda.pl
+t28078.chem.univ.gda.pl
+p-239-09.zr.univ.gda.pl
+kcik-pr2.bg.univ.gda.pl
+h178.ds6.univ.gda.pl
+fhifs257a.univ.gda.pl
+h144.ds6.univ.gda.pl
+pc-sek3.bg.univ.gda.pl
+g252.brzezno.univ.gda.pl
+t28100.chem.univ.gda.pl
+p-332-1.ek.univ.gda.pl
+witek.bg.univ.gda.pl
+tomek.wns.univ.gda.pl
+h17.ds4.univ.gda.pl
+sw8.bg.univ.gda.pl
+p-047-10.ek.univ.gda.pl
+przewodnik.bg.univ.gda.pl
+t28170.chem.univ.gda.pl
+pras.prawo.univ.gda.pl
+p-516-21.ek.univ.gda.pl
+p-100-3.zr.univ.gda.pl
+p-202-2.zr.univ.gda.pl
+t28011.chem.univ.gda.pl
+p-213-6.zr.univ.gda.pl
+www.birds.univ.gda.pl
+h20.ds4.univ.gda.pl
+fhks8-3.univ.gda.pl
+ecs2006gdynia.univ.gda.pl
+bp40.wns.univ.gda.pl
+fhifs247.univ.gda.pl
+dziek10.prawo.univ.gda.pl
+t29212.chem.univ.gda.pl
+p-117-1.zr.univ.gda.pl
+p-118-2.ek.univ.gda.pl
+p-229-12.zr.univ.gda.pl
+www.bgio.univ.gda.pl
+t29110.chem.univ.gda.pl
+t29167.chem.univ.gda.pl
+upsik.bg.univ.gda.pl
+t29211.chem.univ.gda.pl
+komp30.pol.wns.univ.gda.pl
+h252.ds6.univ.gda.pl
+dukat.univ.gda.pl
+fhzl6-2.univ.gda.pl
+p-026-2.ek.univ.gda.pl
+g232.brzezno.univ.gda.pl
+p-016-3.ek.univ.gda.pl
+pchs3.chem.univ.gda.pl
+p-224-1.zr.univ.gda.pl
+t28012.chem.univ.gda.pl
+pc-sjo-2.ek.univ.gda.pl
+p-2.zr.univ.gda.pl
+p-111-2.zr.univ.gda.pl
+nova.zr.univ.gda.pl
+t28025.chem.univ.gda.pl
+p-207-l.zr.univ.gda.pl
+h217.ds6.univ.gda.pl
+h159.ds6.univ.gda.pl
+g183.brzezno.univ.gda.pl
+h78.ds4.univ.gda.pl
+t28108.chem.univ.gda.pl
+t29223.chem.univ.gda.pl
+versus.univ.gda.pl
+esn.bg.univ.gda.pl
+g46.brzezno.univ.gda.pl
+iftia75.univ.gda.pl
+pc-sjo-5.ek.univ.gda.pl
+p-114-4.zr.univ.gda.pl
+iftia19.univ.gda.pl
+poprzednia.univ.gda.pl
+t29043.chem.univ.gda.pl
+t28023.chem.univ.gda.pl
+kaszub.zr.univ.gda.pl
+h168.ds4.univ.gda.pl
+p-101-3.ek.univ.gda.pl
+gepard.bg.univ.gda.pl
+h33.ds4.univ.gda.pl
+hall6.ek.univ.gda.pl
+p-110-1.ek.univ.gda.pl
+vpn12.bg.univ.gda.pl
+g118.brzezno.univ.gda.pl
+p-505-9.ek.univ.gda.pl
+p-516-15.ek.univ.gda.pl
+t29154.chem.univ.gda.pl
+czeszka.univ.gda.pl
+moon.zr.univ.gda.pl
+hall-11.bg.univ.gda.pl
+x2232.chem.univ.gda.pl
+ug207daro.chem.univ.gda.pl
+p-505-5.ek.univ.gda.pl
+t29226.chem.univ.gda.pl
+t29064.chem.univ.gda.pl
+h11.ds4.univ.gda.pl
+www.hisarch.strony.univ.gda.pl
+h240.ds6.univ.gda.pl
+www.prawo.univ.gda.pl
+czytelnia.wns.univ.gda.pl
+p-337-3.ek.univ.gda.pl
+g62.brzezno.univ.gda.pl
+electron.chem.univ.gda.pl
+t28229.chem.univ.gda.pl
+g55.brzezno.univ.gda.pl
+g48.brzezno.univ.gda.pl
+p-127-1.ek.univ.gda.pl
+hot338.univ.gda.pl
+h191.ds6.univ.gda.pl
+pc-sjo-9.ek.univ.gda.pl
+g127.brzezno.univ.gda.pl
+www.wzr.univ.gda.pl
+g70.brzezno.univ.gda.pl
+ap-ek-10.ek.univ.gda.pl
+t28093.chem.univ.gda.pl
+maja.wns.univ.gda.pl
+g77.brzezno.univ.gda.pl
+h75.ds4.univ.gda.pl
+g137.brzezno.univ.gda.pl
+jowita.zr.univ.gda.pl
+koala.zr.univ.gda.pl
+h84.ds4.univ.gda.pl
+pc-czyt-b.bg.univ.gda.pl
+p-328-1.ek.univ.gda.pl
+t29071.chem.univ.gda.pl
+g175.brzezno.univ.gda.pl
+h208.ds4.univ.gda.pl
+jm.ek.univ.gda.pl
+t29030.chem.univ.gda.pl
+dt1.univ.gda.pl
+h100.ds4.univ.gda.pl
+t29203.chem.univ.gda.pl
+oiz.zr.univ.gda.pl
+iftia122.univ.gda.pl
+pomoc.bg.univ.gda.pl
+g247.brzezno.univ.gda.pl
+h207.ds6.univ.gda.pl
+p-415-2.ek.univ.gda.pl
+p-213-3.zr.univ.gda.pl
+p-202-1.zr.univ.gda.pl
+el-czyt.bg.univ.gda.pl
+fhks8-5.univ.gda.pl
+g66.brzezno.univ.gda.pl
+giek2.bg.univ.gda.pl
+sw.pol.wns.univ.gda.pl
+p-22-1.ek.univ.gda.pl
+p-213-2.zr.univ.gda.pl
+komp32.pol.wns.univ.gda.pl
+h232.ds4.univ.gda.pl
+prela.chem.univ.gda.pl
+student4.wns.univ.gda.pl
+dziek09.prawo.univ.gda.pl
+pc-sek1.bg.univ.gda.pl
+fhbib-prac2.univ.gda.pl
+p-214-1.zr.univ.gda.pl
+t28014.chem.univ.gda.pl
+t28081.chem.univ.gda.pl
+fhd55-1.univ.gda.pl
+g171.brzezno.univ.gda.pl
+p-339-1.ek.univ.gda.pl
+kirghor.ek.univ.gda.pl
+p-117-5.zr.univ.gda.pl
+r29251.chem.univ.gda.pl
+kl.univ.gda.pl
+t28181.chem.univ.gda.pl
+g110.brzezno.univ.gda.pl
+krecik.ek.univ.gda.pl
+prlap.chem.univ.gda.pl
+h213.ds4.univ.gda.pl
+hall-08.bg.univ.gda.pl
+h183.ds6.univ.gda.pl
+p-421-14.ek.univ.gda.pl
+t29194.chem.univ.gda.pl
+p-213-14.zr.univ.gda.pl
+pc-hall.bg.univ.gda.pl
+p-227-3.ek.univ.gda.pl
+ap-ek-13.ek.univ.gda.pl
+p-417-11.ek.univ.gda.pl
+rover.ek.univ.gda.pl
+t28240.chem.univ.gda.pl
+g16.brzezno.univ.gda.pl
+h253.ds4.univ.gda.pl
+fhksl246.univ.gda.pl
+repotest.bg.univ.gda.pl
+pc-10.ek.univ.gda.pl
+bolek.univ.gda.pl
+t29065.chem.univ.gda.pl
+rez15.bg.univ.gda.pl
+h88.ds4.univ.gda.pl
+p-23-5.pa.univ.gda.pl
+t28183.chem.univ.gda.pl
+c-pr-eu.pa.univ.gda.pl
+krab.ek.univ.gda.pl
+bp39.wns.univ.gda.pl
+p-103-1.zr.univ.gda.pl
+ap.bg.univ.gda.pl
+p-515-13.ek.univ.gda.pl
+zbyszek.bg.univ.gda.pl
+g249.brzezno.univ.gda.pl
+g90.brzezno.univ.gda.pl
+g104.brzezno.univ.gda.pl
+p-516-28.ek.univ.gda.pl
+prmzaj.prawo.univ.gda.pl
+p-421-19.ek.univ.gda.pl
+ap-ek-4.ek.univ.gda.pl
+p-016-2.ek.univ.gda.pl
+g25.brzezno.univ.gda.pl
+g112.brzezno.univ.gda.pl
+g153.brzezno.univ.gda.pl
+ap-ek-9.ek.univ.gda.pl
+p-516-13.ek.univ.gda.pl
+ap2.bg.univ.gda.pl
+h54.ds4.univ.gda.pl
+iftia30.univ.gda.pl
+t28248.chem.univ.gda.pl
+pc-f3-1.wns.univ.gda.pl
+iftia97.univ.gda.pl
+fhbib-wyp1.univ.gda.pl
+pc-sjo-6.ek.univ.gda.pl
+vpn8.bg.univ.gda.pl
+kania.univ.gda.pl
+g107.brzezno.univ.gda.pl
+t28026.chem.univ.gda.pl
+www.bip.univ.gda.pl
+h188.ds4.univ.gda.pl
+p-516-8.ek.univ.gda.pl
+t28212.chem.univ.gda.pl
+hall-05.bg.univ.gda.pl
+prziel.prawo.univ.gda.pl
+www.gender.strony.univ.gda.pl
+p-128-1.zr.univ.gda.pl
+p-228-3.zr.univ.gda.pl
+iftia65.univ.gda.pl
+iftia85.univ.gda.pl
+praca.wns.univ.gda.pl
+h19.ds4.univ.gda.pl
+h228.ds4.univ.gda.pl
+sigma.univ.gda.pl
+p-132-1.zr.univ.gda.pl
+mplex5.bg.univ.gda.pl
+rez20.bg.univ.gda.pl
+fh101-3.univ.gda.pl
+t28105.chem.univ.gda.pl
+sens20.chem.univ.gda.pl
+h68.ds4.univ.gda.pl
+adampap.univ.gda.pl
+h93.ds4.univ.gda.pl
+pc-kontrol.bg.univ.gda.pl
+h177.ds6.univ.gda.pl
+iftia83.univ.gda.pl
+iftia101.univ.gda.pl
+bp48-7.wns.univ.gda.pl
+gosia.univ.gda.pl
+p-318.zr.univ.gda.pl
+h126.ds4.univ.gda.pl
+g9.brzezno.univ.gda.pl
+neptun.chem.univ.gda.pl
+g244.brzezno.univ.gda.pl
+h14.ds4.univ.gda.pl
+t29096.chem.univ.gda.pl
+kep.zr.univ.gda.pl
+p-050-2.ek.univ.gda.pl
+openchem.chem.univ.gda.pl
+aleksandra.univ.gda.pl
+p-520.ek.univ.gda.pl
+t28059.chem.univ.gda.pl
+bp112.wns.univ.gda.pl
+zeus.chem.univ.gda.pl
+www.biology.univ.gda.pl
+kneb.univ.gda.pl
+microbiology.univ.gda.pl
+p-28-73.chem.univ.gda.pl
+h188.ds6.univ.gda.pl
+t29204.chem.univ.gda.pl
+t28126.chem.univ.gda.pl
+dziek06.prawo.univ.gda.pl
+iftia77.univ.gda.pl
+g131.brzezno.univ.gda.pl
+hyron.univ.gda.pl
+helena158a.univ.gda.pl
+g53.brzezno.univ.gda.pl
+t28160.chem.univ.gda.pl
+p-213-5.zr.univ.gda.pl
+tomasz.wns.univ.gda.pl
+h220.ds6.univ.gda.pl
+arrakis.bg.univ.gda.pl
+informacje.bg.univ.gda.pl
+t28056.chem.univ.gda.pl
+dorota.ek.univ.gda.pl
+fh08-5.univ.gda.pl
+winp.bg.univ.gda.pl
+jantar.univ.gda.pl
+t29046.chem.univ.gda.pl
+fhmieszk.univ.gda.pl
+t29207.chem.univ.gda.pl
+t28042.chem.univ.gda.pl
+bp48-8.wns.univ.gda.pl
+pc-44.ek.univ.gda.pl
+p-103-4.zr.univ.gda.pl
+p-106-4.zr.univ.gda.pl
+h244.ds6.univ.gda.pl
+p-422.ek.univ.gda.pl
+t29091.chem.univ.gda.pl
+kasia2.univ.gda.pl
+www.student.bg.univ.gda.pl
+g45.brzezno.univ.gda.pl
+t28174.chem.univ.gda.pl
+p-016-1.ek.univ.gda.pl
+g63.brzezno.univ.gda.pl
+bp17.wns.univ.gda.pl
+iftia47.univ.gda.pl
+h203.ds4.univ.gda.pl
+bp42.wns.univ.gda.pl
+t29051.chem.univ.gda.pl
+p-307.zr.univ.gda.pl
+t29116.chem.univ.gda.pl
+t28130.chem.univ.gda.pl
+fhifp151.univ.gda.pl
+ares.chem.univ.gda.pl
+h166.ds4.univ.gda.pl
+t28045.chem.univ.gda.pl
+h222.ds6.univ.gda.pl
+papcio.zr.univ.gda.pl
+dokak.univ.gda.pl
+p-100-1.zr.univ.gda.pl
+t29218.chem.univ.gda.pl
+p-630.ek.univ.gda.pl
+pc-inf-4.bg.univ.gda.pl
+p-211-08.ek.univ.gda.pl
+t28173.chem.univ.gda.pl
+h212.ds4.univ.gda.pl
+fhia117.univ.gda.pl
+g154.brzezno.univ.gda.pl
+panda.pa.univ.gda.pl
+t28075.chem.univ.gda.pl
+p-122-1.ek.univ.gda.pl
+p-222-2.zr.univ.gda.pl
+p-235-3.zr.univ.gda.pl
+g40.brzezno.univ.gda.pl
+ap1.bg.univ.gda.pl
+ipph4105.wns.univ.gda.pl
+t28211.chem.univ.gda.pl
+p-220-1.ek.univ.gda.pl
+p-047-6.ek.univ.gda.pl
+h147.ds4.univ.gda.pl
+www.bg.univ.gda.pl
+h10.ds4.univ.gda.pl
+p-515-1.ek.univ.gda.pl
+p-219-2.ek.univ.gda.pl
+saf.univ.gda.pl
+g215.brzezno.univ.gda.pl
+magenta.chem.univ.gda.pl
+t28022.chem.univ.gda.pl
+p-03-1.zr.univ.gda.pl
+p-235-2.zr.univ.gda.pl
+p-321-1.zr.univ.gda.pl
+t28070.chem.univ.gda.pl
+fh08-10.univ.gda.pl
+r28015.chem.univ.gda.pl
+t29012.chem.univ.gda.pl
+p-229-8.zr.univ.gda.pl
+p-125.zr.univ.gda.pl
+twix6.zr.univ.gda.pl
+p-321-1.ek.univ.gda.pl
+h235.ds6.univ.gda.pl
+test.bg.univ.gda.pl
+t28020.chem.univ.gda.pl
+p-516-12.ek.univ.gda.pl
+t28118.chem.univ.gda.pl
+t29108.chem.univ.gda.pl
+p-105-1.ek.univ.gda.pl
+kcik-pr1.bg.univ.gda.pl
+t28115.chem.univ.gda.pl
+wombat.ek.univ.gda.pl
+g203.brzezno.univ.gda.pl
+p-109-1.zr.univ.gda.pl
+t28089.chem.univ.gda.pl
+dock.chem.univ.gda.pl
+p-421-18.ek.univ.gda.pl
+catalog.bg.univ.gda.pl
+iftia86.univ.gda.pl
+merte.bg.univ.gda.pl
+p-505-13.ek.univ.gda.pl
+g15.brzezno.univ.gda.pl
+t29072.chem.univ.gda.pl
+h117.ds4.univ.gda.pl
+iftia37.univ.gda.pl
+h142.ds6.univ.gda.pl
+aiesec.univ.gda.pl
+neuropsychologia.strony.univ.gda.pl
+g102.brzezno.univ.gda.pl
+p-417-14.ek.univ.gda.pl
+h26.ds4.univ.gda.pl
+h252.ds4.univ.gda.pl
+dowex.univ.gda.pl
+g115.brzezno.univ.gda.pl
+t28125.chem.univ.gda.pl
+proza.ocean.univ.gda.pl
+h232.ds6.univ.gda.pl
+p-401-1.zr.univ.gda.pl
+p-516-16.ek.univ.gda.pl
+t29131.chem.univ.gda.pl
+p-12.zr.univ.gda.pl
+p-421-1.ek.univ.gda.pl
+adela.univ.gda.pl
+g161.brzezno.univ.gda.pl
+kcik-jr.bg.univ.gda.pl
+p-234.zr.univ.gda.pl
+specjal.wns.univ.gda.pl
+h233.ds6.univ.gda.pl
+l-02.zr.univ.gda.pl
+p-402-1.ek.univ.gda.pl
+p-229-9.zr.univ.gda.pl
+p-417-7.ek.univ.gda.pl
+h71.ds4.univ.gda.pl
+p-122-2.zr.univ.gda.pl
+iftia11.univ.gda.pl
+g254.brzezno.univ.gda.pl
+rez14.bg.univ.gda.pl
+p-421-7.ek.univ.gda.pl
+p-204-2.ek.univ.gda.pl
+t29236.chem.univ.gda.pl
+bar1.univ.gda.pl
+p-421-3.ek.univ.gda.pl
+ewa1.univ.gda.pl
+sun1.chem.univ.gda.pl
+p-417-2.ek.univ.gda.pl
+fhs101.univ.gda.pl
+p-417-17.ek.univ.gda.pl
+prkruc.prawo.univ.gda.pl
+t28242.chem.univ.gda.pl
+g220.brzezno.univ.gda.pl
+h134.ds6.univ.gda.pl
+bp48-1.wns.univ.gda.pl
+iftia41.univ.gda.pl
+vantage.univ.gda.pl
+piasek4.chem.univ.gda.pl
+p-211.zr.univ.gda.pl
+vpn1.bg.univ.gda.pl
+satel.univ.gda.pl
+g143.brzezno.univ.gda.pl
+p-203-2.zr.univ.gda.pl
+pc-45.ek.univ.gda.pl
+iftia79.univ.gda.pl
+hall-04.bg.univ.gda.pl
+h106.ds4.univ.gda.pl
+h169.ds6.univ.gda.pl
+borowik.univ.gda.pl
+imac-g315.chem.univ.gda.pl
+bp9-2.wns.univ.gda.pl
+t28233.chem.univ.gda.pl
+biurokarier.univ.gda.pl
+h210.ds4.univ.gda.pl
+vpn5.bg.univ.gda.pl
+iftia45.univ.gda.pl
+iftia25.univ.gda.pl
+lexint.univ.gda.pl
+p-211-01.ek.univ.gda.pl
+pc-46.ek.univ.gda.pl
+azs1.univ.gda.pl
+wombat.zr.univ.gda.pl
+g54.brzezno.univ.gda.pl
+p-129-2.zr.univ.gda.pl
+p-505-1.ek.univ.gda.pl
+p-337-1.ek.univ.gda.pl
+h187.ds4.univ.gda.pl
+g59.brzezno.univ.gda.pl
+iftia54.univ.gda.pl
+p-224-3.ek.univ.gda.pl
+hania.univ.gda.pl
+p-202a.zr.univ.gda.pl
+p-117-3.zr.univ.gda.pl
+fhbib-prac1.univ.gda.pl
+p-9-2.zr.univ.gda.pl
+cyrkiel2.bg.univ.gda.pl
+ring.univ.gda.pl
+sw4.bg.univ.gda.pl
+t29049.chem.univ.gda.pl
+p-402-4.ek.univ.gda.pl
+www.musial.strony.univ.gda.pl
+tukan.bg.univ.gda.pl
+h155.ds6.univ.gda.pl
+p-126-2.ek.univ.gda.pl
+dk-serwer.zr.univ.gda.pl
+r28031.chem.univ.gda.pl
+h197.ds4.univ.gda.pl
+p-117-4.zr.univ.gda.pl
+ug2zarz-swe.zr.univ.gda.pl
+h56.ds4.univ.gda.pl
+lemuel.zr.univ.gda.pl
+iftia78.univ.gda.pl
+rez16.bg.univ.gda.pl
+h86.ds4.univ.gda.pl
+vpn2.bg.univ.gda.pl
+pc-mag-2.bg.univ.gda.pl
+p-129-6.zr.univ.gda.pl
+pc-sek2.bg.univ.gda.pl
+iftia6.univ.gda.pl
+iftia95.univ.gda.pl
+bpe.univ.gda.pl
+g23.brzezno.univ.gda.pl
+p-335-1.ek.univ.gda.pl
+poczta.univ.gda.pl
+poli2.chem.univ.gda.pl
+pc-41.ek.univ.gda.pl
+h170.ds4.univ.gda.pl
+cubs.bg.univ.gda.pl
+p-107-1.ek.univ.gda.pl
+kiosk-eu.bg.univ.gda.pl
+t28002.chem.univ.gda.pl
+h251.ds4.univ.gda.pl
+p-131-3.ek.univ.gda.pl
+pc-f3-4.wns.univ.gda.pl
+p-317-2.ek.univ.gda.pl
+h226.ds4.univ.gda.pl
+t28237.chem.univ.gda.pl
+h222.ds4.univ.gda.pl
+info-note.bg.univ.gda.pl
+pc-sjo-1.ek.univ.gda.pl
+p-130-2.ek.univ.gda.pl
+nina.chem.univ.gda.pl
+gucio.chem.univ.gda.pl
+t28086.chem.univ.gda.pl
+www.wnswz.strony.univ.gda.pl
+h233.ds4.univ.gda.pl
+g19.brzezno.univ.gda.pl
+p-229-3.zr.univ.gda.pl
+p-hal-02.ek.univ.gda.pl
+p-516-22.ek.univ.gda.pl
+h193.ds4.univ.gda.pl
+pc-czyta-3.bg.univ.gda.pl
+iftia80.univ.gda.pl
+p-239-13.zr.univ.gda.pl
+h161.ds6.univ.gda.pl
+t28216.chem.univ.gda.pl
+ip-cent-4.ek.univ.gda.pl
+brc4.univ.gda.pl
+p-211-04.ek.univ.gda.pl
+mta-sts.gnu.univ.gda.pl
+p-330-1.ek.univ.gda.pl
+p-415-kr1.ek.univ.gda.pl
+mati.univ.gda.pl
+t29098.chem.univ.gda.pl
+pr3012.prawo.univ.gda.pl
+chf8.chem.univ.gda.pl
+t29114.chem.univ.gda.pl
+parl2.univ.gda.pl
+localhost.chem.univ.gda.pl
+h171.ds6.univ.gda.pl
+g14.brzezno.univ.gda.pl
+g122.brzezno.univ.gda.pl
+h215.ds6.univ.gda.pl
+pc-wyp-1.bg.univ.gda.pl
+p-516-11.ek.univ.gda.pl
+bp21.wns.univ.gda.pl
+pc-sjo-12.ek.univ.gda.pl
+iftia12.univ.gda.pl
+openview.bg.univ.gda.pl
+p-118-1.ek.univ.gda.pl
+lambda2.chem.univ.gda.pl
+p-047-5.ek.univ.gda.pl
+g28.brzezno.univ.gda.pl
+pc-43.ek.univ.gda.pl
+t28127.chem.univ.gda.pl
+h175.ds6.univ.gda.pl
+p-229-6.zr.univ.gda.pl
+seba.univ.gda.pl
+p-136-1.ek.univ.gda.pl
+p-312-3.ek.univ.gda.pl
+t29100.chem.univ.gda.pl
+fhd29.univ.gda.pl
+fhih44.univ.gda.pl
+dni-k-3.ek.univ.gda.pl
+h151.ds6.univ.gda.pl
+p-114-3.zr.univ.gda.pl
+g75.brzezno.univ.gda.pl
+g82.brzezno.univ.gda.pl
+alter.bg.univ.gda.pl
+p-630-2.ek.univ.gda.pl
+g35.brzezno.univ.gda.pl
+www.plywanie.azs.univ.gda.pl
+cosmo.chem.univ.gda.pl
+h190.ds6.univ.gda.pl
+t29249.chem.univ.gda.pl
+t29159.chem.univ.gda.pl
+www.chor.univ.gda.pl
+p-204-1.ek.univ.gda.pl
+ala.chem.univ.gda.pl
+cisco.zr.univ.gda.pl
+p-239-08.zr.univ.gda.pl
+vpn13.bg.univ.gda.pl
+t28163.chem.univ.gda.pl
+kicia.chem.univ.gda.pl
+p-228-2.zr.univ.gda.pl
+www.ocean.univ.gda.pl
+hans.univ.gda.pl
+prsdz.prawo.univ.gda.pl
+p-505-3.ek.univ.gda.pl
+fhia116-2.univ.gda.pl
+pc2-gazetaug.bg.univ.gda.pl
+fhifs131.univ.gda.pl
+h8.ds4.univ.gda.pl
+h87.ds4.univ.gda.pl
+t28223.chem.univ.gda.pl
+g222.brzezno.univ.gda.pl
+g191.brzezno.univ.gda.pl
+h153.ds4.univ.gda.pl
+fhih52a.univ.gda.pl
+p-223-1.zr.univ.gda.pl
+p-126-1.zr.univ.gda.pl
+boj.prawo.univ.gda.pl
+dkn.univ.gda.pl
+h182.ds4.univ.gda.pl
+fhifp139.univ.gda.pl
+r28032.chem.univ.gda.pl
+h70.ds4.univ.gda.pl
+iftia5.univ.gda.pl
+iftia17.univ.gda.pl
+p-223-5.zr.univ.gda.pl
+cat1.bg.univ.gda.pl
+ack2.univ.gda.pl
+t29233.chem.univ.gda.pl
+t29060.chem.univ.gda.pl
+kcik-pr3.bg.univ.gda.pl
+t28024.chem.univ.gda.pl
+p-336-1.ek.univ.gda.pl
+fhia106.univ.gda.pl
+p-239-14.zr.univ.gda.pl
+p-338-1.ek.univ.gda.pl
+ups.bg.univ.gda.pl
+model.ocean.univ.gda.pl
+fhih51.univ.gda.pl
+wyd.bg.univ.gda.pl
+p-417-8.ek.univ.gda.pl
+bp36.wns.univ.gda.pl
+h226.ds6.univ.gda.pl
+blind.univ.gda.pl
+george.chem.univ.gda.pl
+h60.ds4.univ.gda.pl
+h15.ds4.univ.gda.pl
+p-239-04.zr.univ.gda.pl
+h141.ds6.univ.gda.pl
+p-116-1.zr.univ.gda.pl
+h130.ds6.univ.gda.pl
+h201.ds6.univ.gda.pl
+j182.ds.univ.gda.pl
+iftia18.univ.gda.pl
+t29111.chem.univ.gda.pl
+t29077.chem.univ.gda.pl
+fhifp158a.univ.gda.pl
+pr3032.prawo.univ.gda.pl
+t29063.chem.univ.gda.pl
+t28090.chem.univ.gda.pl
+p-oiz-6.zr.univ.gda.pl
+www.microbiology.univ.gda.pl
+krass.univ.gda.pl
+p-231.zr.univ.gda.pl
+h131.ds4.univ.gda.pl
+h174.ds6.univ.gda.pl
+iftia29.univ.gda.pl
+h186.ds4.univ.gda.pl
+krzysztof.chem.univ.gda.pl
+sylwiusz.wns.univ.gda.pl
+pc-sjo-10.ek.univ.gda.pl
+dyrole.wns.univ.gda.pl
+kamila.chem.univ.gda.pl
+h175.ds4.univ.gda.pl
+naab.ek.univ.gda.pl
+pc-mag-1.bg.univ.gda.pl
+bp28.wns.univ.gda.pl
+h150.ds6.univ.gda.pl
+h163.ds6.univ.gda.pl
+p-235-1.zr.univ.gda.pl
+asiales.univ.gda.pl
+p-417-13.ek.univ.gda.pl
+fhia116.univ.gda.pl
+ap-ek-17.ek.univ.gda.pl
+align.chem.univ.gda.pl
+ferdinand.chem.univ.gda.pl
+h236.ds4.univ.gda.pl
+h110.ds4.univ.gda.pl
+fh101-2.univ.gda.pl
+p-630-t.ek.univ.gda.pl
+p-218-2.zr.univ.gda.pl
+p-516-34.ek.univ.gda.pl
+p-sjo-13.ek.univ.gda.pl
+insomnia.ek.univ.gda.pl
+korneliusz.wns.univ.gda.pl
+ware.chem.univ.gda.pl
+cherk.chem.univ.gda.pl
+nati.bg.univ.gda.pl
+g106.brzezno.univ.gda.pl
+t28109.chem.univ.gda.pl
+g166.brzezno.univ.gda.pl
+www.ek.univ.gda.pl
+h162.ds6.univ.gda.pl
+herder.univ.gda.pl
+hall2.ek.univ.gda.pl
+www.iftia.univ.gda.pl
+h31.ds4.univ.gda.pl
+iftia103.univ.gda.pl
+p-505-11.ek.univ.gda.pl
+p-7.pa.univ.gda.pl
+h52.ds4.univ.gda.pl
+t29175.chem.univ.gda.pl
+asia.univ.gda.pl
+t29088.chem.univ.gda.pl
+bp101-1.wns.univ.gda.pl
+h121.ds4.univ.gda.pl
+monika.zr.univ.gda.pl
+iftia27.univ.gda.pl
+t29153.chem.univ.gda.pl
+www.caise2012.univ.gda.pl
+bp24.wns.univ.gda.pl
+iftia52.univ.gda.pl
+p-10-4.zr.univ.gda.pl
+p-125-1.ek.univ.gda.pl
+t29045.chem.univ.gda.pl
+p-sjo-15.ek.univ.gda.pl
+ap-ek-2.ek.univ.gda.pl
+p-515-10.ek.univ.gda.pl
+iftia68.univ.gda.pl
+iftia20.univ.gda.pl
+prod1.bg.univ.gda.pl
+leo.univ.gda.pl
+www.biurokarier.univ.gda.pl
+mariola.wns.univ.gda.pl
+t29250.chem.univ.gda.pl
+twix6.ek.univ.gda.pl
+bp35.wns.univ.gda.pl
+g52.brzezno.univ.gda.pl
+t28076.chem.univ.gda.pl
+behemot.zr.univ.gda.pl
+vpn6.bg.univ.gda.pl
+p-2-2.ek.univ.gda.pl
+ack3.univ.gda.pl
+p-103-1.pa.univ.gda.pl
+fhifp143.univ.gda.pl
+iftia15.univ.gda.pl
+rez19.bg.univ.gda.pl
+drukbg.bg.univ.gda.pl
+sanjuro.univ.gda.pl
+iftia121.univ.gda.pl
+p-516-37.ek.univ.gda.pl
+g226.brzezno.univ.gda.pl
+p-516-9.ek.univ.gda.pl
+sasha.chem.univ.gda.pl
+fhks8-7.univ.gda.pl
+snoopy.chem.univ.gda.pl
+edmund.chem.univ.gda.pl
+h247.ds6.univ.gda.pl
+h180.ds6.univ.gda.pl
+p-228-8.zr.univ.gda.pl
+h42.ds4.univ.gda.pl
+berta.chem.univ.gda.pl
+dziek08.prawo.univ.gda.pl
+p-229-13.zr.univ.gda.pl
+g65.brzezno.univ.gda.pl
+g245.brzezno.univ.gda.pl
+brc0.univ.gda.pl
+t29178.chem.univ.gda.pl
+t28114.chem.univ.gda.pl
+monica.chem.univ.gda.pl
+iftia120.univ.gda.pl
+t29079.chem.univ.gda.pl
+p-236.zr.univ.gda.pl
+g125.brzezno.univ.gda.pl
+t29041.chem.univ.gda.pl
+gleba.chem.univ.gda.pl
+rtr.pol.wns.univ.gda.pl
+t28246.chem.univ.gda.pl
+foton.chem.univ.gda.pl
+g251.brzezno.univ.gda.pl
+pc-czyt-c2.bg.univ.gda.pl
+h179.ds6.univ.gda.pl
+g248.brzezno.univ.gda.pl
+g123.brzezno.univ.gda.pl
+p-211-06.ek.univ.gda.pl
+p-01-2.pa.univ.gda.pl
+p-hal-03.ek.univ.gda.pl
+p-418-2.ek.univ.gda.pl
+fhlog2.univ.gda.pl
+h3.ds4.univ.gda.pl
+sky.chem.univ.gda.pl
+p-227-1.ek.univ.gda.pl
+wi-jarek.bg.univ.gda.pl
+h111.ds4.univ.gda.pl
+p-hal-08.ek.univ.gda.pl
+s28016.chem.univ.gda.pl
+x2233.chem.univ.gda.pl
+t28204.chem.univ.gda.pl
+t28140.chem.univ.gda.pl
+stworek.chem.univ.gda.pl
+t28068.chem.univ.gda.pl
+fhkfg233.univ.gda.pl
+h102.ds4.univ.gda.pl
+t29101.chem.univ.gda.pl
+cip2.bg.univ.gda.pl
+t29025.chem.univ.gda.pl
+p-211-10.ek.univ.gda.pl
+sheriff.ek.univ.gda.pl
+dziek03.prawo.univ.gda.pl
+t28186.chem.univ.gda.pl
+koala.ek.univ.gda.pl
+h135.ds6.univ.gda.pl
+kas36.chem.univ.gda.pl
+iftia56.univ.gda.pl
+pondros.chem.univ.gda.pl
+t29189.chem.univ.gda.pl
+lab.chem.univ.gda.pl
+t29104.chem.univ.gda.pl
+h181.ds4.univ.gda.pl
+fhih.univ.gda.pl
+g240.brzezno.univ.gda.pl
+t29195.chem.univ.gda.pl
+pc-niewi.bg.univ.gda.pl
+t29237.chem.univ.gda.pl
+t28005.chem.univ.gda.pl
+t28008.chem.univ.gda.pl
+iftia59.univ.gda.pl
+cat2.bg.univ.gda.pl
+h174.ds4.univ.gda.pl
+iftia70.univ.gda.pl
+p-213-1.zr.univ.gda.pl
+g250.brzezno.univ.gda.pl
+h211.ds4.univ.gda.pl
+lp-29-244.chem.univ.gda.pl
+iftia7.univ.gda.pl
+g101.brzezno.univ.gda.pl
+iftia69.univ.gda.pl
+dat.bg.univ.gda.pl
+h189.ds4.univ.gda.pl
+p-129-5.zr.univ.gda.pl
+ap-ek-7.ek.univ.gda.pl
+t28021.chem.univ.gda.pl
+www.kl.univ.gda.pl
+g29.brzezno.univ.gda.pl
+p-115-1.ek.univ.gda.pl
+p-336-2.ek.univ.gda.pl
+t28120.chem.univ.gda.pl
+komp34.pol.wns.univ.gda.pl
+nowosci.bg.univ.gda.pl
+pandora.bg.univ.gda.pl
+p-010-2.zr.univ.gda.pl
+t29208.chem.univ.gda.pl
+h165.ds4.univ.gda.pl
+h202.ds4.univ.gda.pl
+www.kezk.bio.univ.gda.pl
+h246.ds6.univ.gda.pl
+p-oiz-5.zr.univ.gda.pl
+t28195.chem.univ.gda.pl
+lewa.univ.gda.pl
+p-105-2.zr.univ.gda.pl
+g7.brzezno.univ.gda.pl
+g152.brzezno.univ.gda.pl
+zbik.univ.gda.pl
+prpm.prawo.univ.gda.pl
+p-302-1.zr.univ.gda.pl
+dbtest2.bg.univ.gda.pl
+ifd.univ.gda.pl
+p-220-1.zr.univ.gda.pl
+student1.zr.univ.gda.pl
+p-515-6.ek.univ.gda.pl
+wega.univ.gda.pl
+p-203-1.zr.univ.gda.pl
+fhd25.univ.gda.pl
+mercury.chem.univ.gda.pl
+aliens.ocean.univ.gda.pl
+p-213-7.zr.univ.gda.pl
+student.wns.univ.gda.pl
+brc2.univ.gda.pl
+kosmetyk.chem.univ.gda.pl
+p-229-1.zr.univ.gda.pl
+t28213.chem.univ.gda.pl
+p-126-2.zr.univ.gda.pl
+wdw.zr.univ.gda.pl
+math.univ.gda.pl
+azis.chem.univ.gda.pl
+fhd56-1.univ.gda.pl
+ekonomvoip01.ek.univ.gda.pl
+iftia74.univ.gda.pl
+ap-ek-14.ek.univ.gda.pl
+bp113.wns.univ.gda.pl
+ptd.wns.univ.gda.pl
+ibm.wns.univ.gda.pl
+t28250.chem.univ.gda.pl
+h225.ds6.univ.gda.pl
+p-22-2.ek.univ.gda.pl
+pc-kie.bg.univ.gda.pl
+t29238.chem.univ.gda.pl
+iftia115.univ.gda.pl
+bp11.wns.univ.gda.pl
+wrzeszcz1.chem.univ.gda.pl
+h200.ds4.univ.gda.pl
+zmm2.chem.univ.gda.pl
+p-516-3.ek.univ.gda.pl
+t28091.chem.univ.gda.pl
+camera2.bg.univ.gda.pl
+bp48-6.wns.univ.gda.pl
+g67.brzezno.univ.gda.pl
+h223.ds4.univ.gda.pl
+p-338-2.ek.univ.gda.pl
+etoh.chem.univ.gda.pl
+kakapo.bg.univ.gda.pl
+t29019.chem.univ.gda.pl
+h147.ds6.univ.gda.pl
+p-222-1.ek.univ.gda.pl
+ip-cent-2.ek.univ.gda.pl
+kolokna.chem.univ.gda.pl
+t29225.chem.univ.gda.pl
+t28001.chem.univ.gda.pl
+p-331-1.ek.univ.gda.pl
+g133.brzezno.univ.gda.pl
+g241.brzezno.univ.gda.pl
+p-122-4.zr.univ.gda.pl
+fh101-1.univ.gda.pl
+estudent.univ.gda.pl
+g10.brzezno.univ.gda.pl
+lajba.bg.univ.gda.pl
+kropka.wns.univ.gda.pl
+ap-ek-12.ek.univ.gda.pl
+kompost2.chem.univ.gda.pl
+p-505-7.ek.univ.gda.pl
+h130.ds4.univ.gda.pl
+p-313-1.ek.univ.gda.pl
+l-01.zr.univ.gda.pl
+g3.brzezno.univ.gda.pl
+t28047.chem.univ.gda.pl
+t28198.chem.univ.gda.pl
+t29052.chem.univ.gda.pl
+g44.brzezno.univ.gda.pl
+t29127.chem.univ.gda.pl
+p-23-4.pa.univ.gda.pl
+p-418-3.ek.univ.gda.pl
+hall5.ek.univ.gda.pl
+webmail.chem.univ.gda.pl
+student.zr.univ.gda.pl
+iftia49.univ.gda.pl
+h244.ds4.univ.gda.pl
+h103.ds4.univ.gda.pl
+h142.ds4.univ.gda.pl
+www.adapciak.univ.gda.pl
+g58.brzezno.univ.gda.pl
+h23.ds4.univ.gda.pl
+janek.wns.univ.gda.pl
+www.kkwww.strony.univ.gda.pl
+g94.brzezno.univ.gda.pl
+t29103.chem.univ.gda.pl
+p-421-8.ek.univ.gda.pl
+t29239.chem.univ.gda.pl
+psymc.wns.univ.gda.pl
+pchs1.chem.univ.gda.pl
+g64.brzezno.univ.gda.pl
+g223.brzezno.univ.gda.pl
+sens2.chem.univ.gda.pl
+g239.brzezno.univ.gda.pl
+chemia-dns.univ.gda.pl
+p-516-17.ek.univ.gda.pl
+aniah.chem.univ.gda.pl
+dominik.univ.gda.pl
+rez7.bg.univ.gda.pl
+ewa.wns.univ.gda.pl
+t29234.chem.univ.gda.pl
+h129.ds4.univ.gda.pl
+t28061.chem.univ.gda.pl
+pc4-gazetaug.bg.univ.gda.pl
+g234.brzezno.univ.gda.pl
+g160.brzezno.univ.gda.pl
+h2.ds4.univ.gda.pl
+iftia102.univ.gda.pl
+t29191.chem.univ.gda.pl
+sekretarka.wns.univ.gda.pl
+t28077.chem.univ.gda.pl
+t28217.chem.univ.gda.pl
+fhih50-1.univ.gda.pl
+p-515-4.ek.univ.gda.pl
+p-101-3.pa.univ.gda.pl
+p-313-2.zr.univ.gda.pl
+tola.wns.univ.gda.pl
+t29089.chem.univ.gda.pl
+p-516-24.ek.univ.gda.pl
+h192.ds4.univ.gda.pl
+izis.chem.univ.gda.pl
+temp2.bg.univ.gda.pl
+p-222-1.zr.univ.gda.pl
+p-047-2.ek.univ.gda.pl
+p-407-1.ek.univ.gda.pl
+sun2.chem.univ.gda.pl
+p-219-1.ek.univ.gda.pl
+wega.wns.univ.gda.pl
+fhih50.univ.gda.pl
+komp31.pol.wns.univ.gda.pl
+h49.ds4.univ.gda.pl
+hall-06.bg.univ.gda.pl
+pc-ad.ek.univ.gda.pl
+p-213-8.zr.univ.gda.pl
+iftia99.univ.gda.pl
+b11.wns.univ.gda.pl
+p-220-2.ek.univ.gda.pl
+komp25.pol.wns.univ.gda.pl
+p-105-2.ek.univ.gda.pl
+fh08-2.univ.gda.pl
+najlepsi.univ.gda.pl
+iftia119.univ.gda.pl
+h136.ds4.univ.gda.pl
+g159.brzezno.univ.gda.pl
+reszek.univ.gda.pl
+t29141.chem.univ.gda.pl
+g206.brzezno.univ.gda.pl
+iftia2.univ.gda.pl
+backuppc2.chem.univ.gda.pl
+t28219.chem.univ.gda.pl
+g2.brzezno.univ.gda.pl
+t29165.chem.univ.gda.pl
+p-129-4.zr.univ.gda.pl
+h131.ds6.univ.gda.pl
+p-226-3.zr.univ.gda.pl
+bug91.bg.univ.gda.pl
+fhih033a1.univ.gda.pl
+prodziekan.wns.univ.gda.pl
+mania.chem.univ.gda.pl
+p-015-1.ek.univ.gda.pl
+www.osd.univ.gda.pl
+h245.ds4.univ.gda.pl
+pc-sjo-3.ek.univ.gda.pl
+p-217.zr.univ.gda.pl
+t29047.chem.univ.gda.pl
+komp37.pol.wns.univ.gda.pl
+t28060.chem.univ.gda.pl
+h169.ds4.univ.gda.pl
+atari.chem.univ.gda.pl
+h145.ds4.univ.gda.pl
+h199.ds6.univ.gda.pl
+cip1.bg.univ.gda.pl
+t28041.chem.univ.gda.pl
+g188.brzezno.univ.gda.pl
+g13.brzezno.univ.gda.pl
+p-421-6.ek.univ.gda.pl
+iftia73.univ.gda.pl
+t29069.chem.univ.gda.pl
+h164.ds4.univ.gda.pl
+p-208.zr.univ.gda.pl
+pluton.wns.univ.gda.pl
+h152.ds4.univ.gda.pl
+h113.ds4.univ.gda.pl
+t28172.chem.univ.gda.pl
+p-106-3.zr.univ.gda.pl
+g243.brzezno.univ.gda.pl
+strony.univ.gda.pl
+win1.bg.univ.gda.pl
+ecis2002.univ.gda.pl
+h164.ds6.univ.gda.pl
+g27.brzezno.univ.gda.pl
+gliwin.univ.gda.pl
+j240.ds.univ.gda.pl
+t29068.chem.univ.gda.pl
+h132.ds4.univ.gda.pl
+h9.ds4.univ.gda.pl
+g39.brzezno.univ.gda.pl
+p-026-3.ek.univ.gda.pl
+p-01-4.pa.univ.gda.pl
+t29073.chem.univ.gda.pl
+ap-ek-6.ek.univ.gda.pl
+p-417-6.ek.univ.gda.pl
+pc-czyt-bl.bg.univ.gda.pl
+snickers.zr.univ.gda.pl
+ekonom.univ.gda.pl
+bib04.prawo.univ.gda.pl
+g253.brzezno.univ.gda.pl
+student5.wns.univ.gda.pl
+p-101-4.pa.univ.gda.pl
+phantom.univ.gda.pl
+p-505-12.ek.univ.gda.pl
+h133.ds4.univ.gda.pl
+sekul.prawo.univ.gda.pl
+bp114.wns.univ.gda.pl
+h153.ds6.univ.gda.pl
+h99.ds4.univ.gda.pl
+p-rekrut-2.zr.univ.gda.pl
+w3cache.bg.univ.gda.pl
+iftia114.univ.gda.pl
+hall7.ek.univ.gda.pl
+h158.ds4.univ.gda.pl
+wojtek.bg.univ.gda.pl
+p-316-1.zr.univ.gda.pl
+ug-chemia.chem.univ.gda.pl
+halina.univ.gda.pl
+g185.brzezno.univ.gda.pl
+t28187.chem.univ.gda.pl
+burzamozgow.univ.gda.pl
+p-516-25.ek.univ.gda.pl
+p-337-2.ek.univ.gda.pl
+g218.brzezno.univ.gda.pl
+t29213.chem.univ.gda.pl
+fhks8-1.univ.gda.pl
+h196.ds4.univ.gda.pl
+prburj.prawo.univ.gda.pl
+t29135.chem.univ.gda.pl
+ug-chemia4.chem.univ.gda.pl
+piasek.chem.univ.gda.pl
+h151.ds4.univ.gda.pl
+hosaka.chem.univ.gda.pl
+p-516-27.ek.univ.gda.pl
+p-228-1.zr.univ.gda.pl
+t28244.chem.univ.gda.pl
+tygrys.zr.univ.gda.pl
+p-047-8.ek.univ.gda.pl
+fhks8-4.univ.gda.pl
+czyt2.wns.univ.gda.pl
+frug.wns.univ.gda.pl
+g32.brzezno.univ.gda.pl
+pc-czyteu.bg.univ.gda.pl
+maryla.bg.univ.gda.pl
+t29162.chem.univ.gda.pl
+p-423-1.ek.univ.gda.pl
+giek.bg.univ.gda.pl
+h48.ds4.univ.gda.pl
+h160.ds6.univ.gda.pl
+t29192.chem.univ.gda.pl
+h194.ds6.univ.gda.pl
+g207.brzezno.univ.gda.pl
+p-303-1.ek.univ.gda.pl
+wykladowy-4.chem.univ.gda.pl
+h239.ds6.univ.gda.pl
+g209.brzezno.univ.gda.pl
+p-310-2.ek.univ.gda.pl
+iftia110.univ.gda.pl
+p-116-2.zr.univ.gda.pl
+ang-sjo.ek.univ.gda.pl
+t28054.chem.univ.gda.pl
+h38.ds4.univ.gda.pl
+fh08-7.univ.gda.pl
+p-207-2.zr.univ.gda.pl
+p-hal-01.ek.univ.gda.pl
+bip.univ.gda.pl
+p-327-1.ek.univ.gda.pl
+bp64-1.wns.univ.gda.pl
+h234.ds6.univ.gda.pl
+p-201-m.zr.univ.gda.pl
+h95.ds4.univ.gda.pl
+h250.ds4.univ.gda.pl
+pc-inf-1.bg.univ.gda.pl
+dziek05.prawo.univ.gda.pl
+rez9.bg.univ.gda.pl
+iftia.univ.gda.pl
+iftia1.univ.gda.pl
+sox-lp.chem.univ.gda.pl
+ap-ek-20.ek.univ.gda.pl
+g227.brzezno.univ.gda.pl
+rez17.bg.univ.gda.pl
+h251.ds6.univ.gda.pl
+g93.brzezno.univ.gda.pl
+t28207.chem.univ.gda.pl
+p-239-12.zr.univ.gda.pl
+gosia.wns.univ.gda.pl
+lib.bg.univ.gda.pl
+kojot-2.bg.univ.gda.pl
+h190.ds4.univ.gda.pl
+g114.brzezno.univ.gda.pl
+pedagogika.univ.gda.pl
+p21.wns.univ.gda.pl
+ap-ek-5.ek.univ.gda.pl
+h168.ds6.univ.gda.pl
+t28103.chem.univ.gda.pl
+zao6.univ.gda.pl
+p-314-1.zr.univ.gda.pl
+p-407-2.ek.univ.gda.pl
+p-oiz-4.zr.univ.gda.pl
+hall8.ek.univ.gda.pl
+x2234.chem.univ.gda.pl
+druk-bek.bg.univ.gda.pl
+bir2008.univ.gda.pl
+t28079.chem.univ.gda.pl
+p-237-2.zr.univ.gda.pl
+prodziekan.chem.univ.gda.pl
+t29024.chem.univ.gda.pl
+prmryt.prawo.univ.gda.pl
+p-218-1.zr.univ.gda.pl
+p-117-2.zr.univ.gda.pl
+ania-pok17.wns.univ.gda.pl
+h227.ds4.univ.gda.pl
+h216.ds6.univ.gda.pl
+student.bg.univ.gda.pl
+h156.ds4.univ.gda.pl
+p-101-6.pa.univ.gda.pl
+cyrkiel6.bg.univ.gda.pl
+bizon.ek.univ.gda.pl
+t29123.chem.univ.gda.pl
+h194.ds4.univ.gda.pl
+kcik-03.bg.univ.gda.pl
+p-332-2.ek.univ.gda.pl
+h4.ds4.univ.gda.pl
+p-hal-07.ek.univ.gda.pl
+t28203.chem.univ.gda.pl
+t28122.chem.univ.gda.pl
+h249.ds4.univ.gda.pl
+lukhal.chem.univ.gda.pl
+dziek01.prawo.univ.gda.pl
+p-047-1.ek.univ.gda.pl
+www.zk.bg.univ.gda.pl
+p-102-1.pa.univ.gda.pl
+psysol.wns.univ.gda.pl
+p-213-9.zr.univ.gda.pl
+t28146.chem.univ.gda.pl
+iftia111.univ.gda.pl
+t29125.chem.univ.gda.pl
+hall-01.bg.univ.gda.pl
+luk.prawo.univ.gda.pl
+i31.ds.univ.gda.pl
+fhd24-4.univ.gda.pl
+t28074.chem.univ.gda.pl
+t29130.chem.univ.gda.pl
+p-312-2.ek.univ.gda.pl
+jowisz.wns.univ.gda.pl
+druk-wmb.bg.univ.gda.pl
+www.saf.univ.gda.pl
+admin28033.chem.univ.gda.pl
+jolanta.prawo.univ.gda.pl
+p-417-5.ek.univ.gda.pl
+g31.brzezno.univ.gda.pl
+t29122.chem.univ.gda.pl
+h96.ds4.univ.gda.pl
+student1.wns.univ.gda.pl
+ha1-rtr.univ.gda.pl
+p-211-02.ek.univ.gda.pl
+p-101-2.ek.univ.gda.pl
+tomekar.univ.gda.pl
+h1.ds4.univ.gda.pl
+g237.brzezno.univ.gda.pl
+g228.brzezno.univ.gda.pl
+p-229-2.ek.univ.gda.pl
+rez13.bg.univ.gda.pl
+iftia105.univ.gda.pl
+p-112-1.zr.univ.gda.pl
+p-312-1.ek.univ.gda.pl
+p-oiz-3.zr.univ.gda.pl
+p-403.zr.univ.gda.pl
+repozytorium.bg.univ.gda.pl
+h69.ds4.univ.gda.pl
+julia.univ.gda.pl
+bgio.univ.gda.pl
+student7.zr.univ.gda.pl
+iftia66.univ.gda.pl
+mfi.univ.gda.pl
+h35.ds4.univ.gda.pl
+vpn11.bg.univ.gda.pl
+iftia13.univ.gda.pl
+psychologia.univ.gda.pl
+www.azs.univ.gda.pl
+p-100-1.pa.univ.gda.pl
+porozumienie.bg.univ.gda.pl
+p-047-7.ek.univ.gda.pl
+p-503.ek.univ.gda.pl
+weslake.univ.gda.pl
+h138.ds6.univ.gda.pl
+g33.brzezno.univ.gda.pl
+wychter.wns.univ.gda.pl
+h198.ds4.univ.gda.pl
+iftia3.univ.gda.pl
+p-417-12.ek.univ.gda.pl
+h209.ds4.univ.gda.pl
+p-421-10.ek.univ.gda.pl
+dni-k-2.ek.univ.gda.pl
+t28069.chem.univ.gda.pl
+h254.ds4.univ.gda.pl
+h144.ds4.univ.gda.pl
+projektor.bg.univ.gda.pl
+logopedia.univ.gda.pl
+hebron.univ.gda.pl
+h184.ds6.univ.gda.pl
+g92.brzezno.univ.gda.pl
+p-120-1.ek.univ.gda.pl
+t29021.chem.univ.gda.pl
+h180.ds4.univ.gda.pl
+iftia89.univ.gda.pl
+t28161.chem.univ.gda.pl
+t29087.chem.univ.gda.pl
+komunikacja.wns.univ.gda.pl
+test-1.zr.univ.gda.pl
+g216.brzezno.univ.gda.pl
+iftia92.univ.gda.pl
+p-10-1.zr.univ.gda.pl
+t29190.chem.univ.gda.pl
+h13.ds4.univ.gda.pl
+h43.ds4.univ.gda.pl
+p-100-2.pa.univ.gda.pl
+g100.brzezno.univ.gda.pl
+p-226-1.ek.univ.gda.pl
+t28210.chem.univ.gda.pl
+p-223-3.zr.univ.gda.pl
+iftia21.univ.gda.pl
+win3.bg.univ.gda.pl
+g193.brzezno.univ.gda.pl
+t28051.chem.univ.gda.pl
+g43.brzezno.univ.gda.pl
+pc-51.ek.univ.gda.pl
+t28199.chem.univ.gda.pl
+h221.ds4.univ.gda.pl
+g238.brzezno.univ.gda.pl
+ate.univ.gda.pl
+h139.ds4.univ.gda.pl
+fhifp224.univ.gda.pl
+p-505-4.ek.univ.gda.pl
+t28082.chem.univ.gda.pl
+t28191.chem.univ.gda.pl
+komenski.wns.univ.gda.pl
+fhkfg216.univ.gda.pl
+wit58-2.univ.gda.pl
+p-9-1.zr.univ.gda.pl
+gauss.chem.univ.gda.pl
+p-333-1.ek.univ.gda.pl
+p-214-1.ek.univ.gda.pl
+p-516-7.ek.univ.gda.pl
+iftia31.univ.gda.pl
+iftia117.univ.gda.pl
+raptor.chem.univ.gda.pl
+t28052.chem.univ.gda.pl
+p-109-1.ek.univ.gda.pl
+www.bir2008.univ.gda.pl
+p-421-13.ek.univ.gda.pl
+h66.ds4.univ.gda.pl
+h213.ds6.univ.gda.pl
+t28131.chem.univ.gda.pl
+iftia40.univ.gda.pl
+g165.brzezno.univ.gda.pl

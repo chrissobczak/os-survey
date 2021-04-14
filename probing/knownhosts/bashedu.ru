@@ -1,99 +1,67 @@
-NXDOMAIN	dial16.bashedu.ru
-NOERROR	dev-1.uit.bashedu.ru
-NOERROR	idp.bashedu.ru
-NOERROR	b6.bashedu.ru
-NOERROR	contact.bashedu.ru
-NOERROR	lcph.bashedu.ru
-NOERROR	test-center.bashedu.ru
-NXDOMAIN	dial9.bashedu.ru
-NOERROR	webwork.bashedu.ru
-NOERROR	ic.bashedu.ru
-NOERROR	b2.bashedu.ru
-NXDOMAIN	dial15.bashedu.ru
-NXDOMAIN	gw-r01.bashedu.ru
-NXDOMAIN	www.isbashgu.bashedu.ru
-NOERROR	cstv.bashedu.ru
-NXDOMAIN	proxy.bashedu.ru
-NOERROR	b11.bashedu.ru
-NOERROR	ruscongrmech2019.bashedu.ru
-NOERROR	priem.bashedu.ru
-NOERROR	2019.bashedu.ru
-NOERROR	sdoino.bashedu.ru
-NXDOMAIN	dial1.bashedu.ru
-NXDOMAIN	dial3.bashedu.ru
-NOERROR	student-spravki.bashedu.ru
-NOERROR	b14.bashedu.ru
-NOERROR	www.cmnd.bashedu.ru
-NOERROR	data.bashedu.ru
-NXDOMAIN	www-old.bashedu.ru
-NOERROR	cabinet.bashedu.ru
-NOERROR	pk.bashedu.ru
-NOERROR	mo-russ.bashedu.ru
-NOERROR	b8.bashedu.ru
-NOERROR	sdo.bashedu.ru
-NXDOMAIN	dial4.bashedu.ru
-NOERROR	webwork-okko.bashedu.ru
-NOERROR	www.bashedu.ru
-NOERROR	b1.bashedu.ru
-NOERROR	dokbsu.bashedu.ru
-NXDOMAIN	inobgu1.bashedu.ru
-NOERROR	b12.bashedu.ru
-NOERROR	b7.bashedu.ru
-NXDOMAIN	wt.bashedu.ru
-NOERROR	uvc.bashedu.ru
-NOERROR	moodle.bashedu.ru
-NOERROR	library.bashedu.ru
-NXDOMAIN	dial6.bashedu.ru
-NXDOMAIN	altair.bashedu.ru
-NXDOMAIN	gelios.bashedu.ru
-NOERROR	cska.bashedu.ru
-NXDOMAIN	dial13.bashedu.ru
-NXDOMAIN	r02.bashedu.ru
-NXDOMAIN	dial8.bashedu.ru
-NOERROR	rfk2015.bashedu.ru
-NOERROR	b4.bashedu.ru
-NOERROR	lib.bashedu.ru
-NOERROR	training.bashedu.ru
-NOERROR	bigbluebutton.bashedu.ru
-NOERROR	nag.bashedu.ru
-NXDOMAIN	dial2.bashedu.ru
-NOERROR	ns.bashedu.ru
-NXDOMAIN	r01.bashedu.ru
-NOERROR	pf.bashedu.ru
-NOERROR	umj.bashedu.ru
-NOERROR	isbashgu.bashedu.ru
-NXDOMAIN	dial11.bashedu.ru
-NOERROR	b15.bashedu.ru
-NXDOMAIN	dial7.bashedu.ru
-NOERROR	elib.bashedu.ru
-NOERROR	ns1.bashedu.ru
-NOERROR	web.bashedu.ru
-NOERROR	ino.bashedu.ru
-NXDOMAIN	conf.bashedu.ru
-NOERROR	bashedu.ru
-NXDOMAIN	satch.bashedu.ru
-NOERROR	mail.bashedu.ru
-NOERROR	konkurs.bashedu.ru
-NOERROR	git.bashedu.ru
-NXDOMAIN	dial12.bashedu.ru
-NOERROR	pk-lk.bashedu.ru
-NXDOMAIN	2.bashedu.ru
-NOERROR	razrabotka.bashedu.ru
-NOERROR	online.bashedu.ru
-NXDOMAIN	dial10.bashedu.ru
-NXDOMAIN	www.razrabotka.bashedu.ru
-NOERROR	b9.bashedu.ru
-NOERROR	b10.bashedu.ru
-NOERROR	b5.bashedu.ru
-NOERROR	regdict.bashedu.ru
-NOERROR	b13.bashedu.ru
-NOERROR	vpn.bashedu.ru
-NOERROR	lk.bashedu.ru
-NXDOMAIN	r03.bashedu.ru
-NXDOMAIN	r01-gw.bashedu.ru
-NOERROR	stat.bashedu.ru
-NXDOMAIN	dial5.bashedu.ru
-NOERROR	study.bashedu.ru
-NOERROR	cmm.bashedu.ru
-NOERROR	cmnd.bashedu.ru
-NXDOMAIN	dial14.bashedu.ru
+dev-1.uit.bashedu.ru
+idp.bashedu.ru
+b6.bashedu.ru
+contact.bashedu.ru
+lcph.bashedu.ru
+test-center.bashedu.ru
+webwork.bashedu.ru
+ic.bashedu.ru
+b2.bashedu.ru
+cstv.bashedu.ru
+b11.bashedu.ru
+ruscongrmech2019.bashedu.ru
+priem.bashedu.ru
+2019.bashedu.ru
+sdoino.bashedu.ru
+student-spravki.bashedu.ru
+b14.bashedu.ru
+www.cmnd.bashedu.ru
+data.bashedu.ru
+cabinet.bashedu.ru
+pk.bashedu.ru
+mo-russ.bashedu.ru
+b8.bashedu.ru
+sdo.bashedu.ru
+webwork-okko.bashedu.ru
+www.bashedu.ru
+b1.bashedu.ru
+dokbsu.bashedu.ru
+b12.bashedu.ru
+b7.bashedu.ru
+uvc.bashedu.ru
+moodle.bashedu.ru
+library.bashedu.ru
+cska.bashedu.ru
+rfk2015.bashedu.ru
+b4.bashedu.ru
+lib.bashedu.ru
+training.bashedu.ru
+bigbluebutton.bashedu.ru
+nag.bashedu.ru
+ns.bashedu.ru
+pf.bashedu.ru
+umj.bashedu.ru
+isbashgu.bashedu.ru
+b15.bashedu.ru
+elib.bashedu.ru
+ns1.bashedu.ru
+web.bashedu.ru
+ino.bashedu.ru
+bashedu.ru
+mail.bashedu.ru
+konkurs.bashedu.ru
+git.bashedu.ru
+pk-lk.bashedu.ru
+razrabotka.bashedu.ru
+online.bashedu.ru
+b9.bashedu.ru
+b10.bashedu.ru
+b5.bashedu.ru
+regdict.bashedu.ru
+b13.bashedu.ru
+vpn.bashedu.ru
+lk.bashedu.ru
+stat.bashedu.ru
+study.bashedu.ru
+cmm.bashedu.ru
+cmnd.bashedu.ru

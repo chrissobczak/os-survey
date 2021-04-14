@@ -1,63 +1,37 @@
-NOERROR	trd-mstgw1.nih.no
-NOERROR	sip.nih.no
-NOERROR	passord.nih.no
-NXDOMAIN	byttpassord.nih.no
-NXDOMAIN	nihsrvv20-27.nih.no
-NXDOMAIN	legacy.student.nih.no
-NXDOMAIN	legacy.nih.no
-NOERROR	nihsrvv10-4.nih.no
-NOERROR	oslo-mstgw1.nih.no
-NXDOMAIN	nihsrvv20-3.nih.no
-NXDOMAIN	hpfaktura.nih.no
-NOERROR	nihsrvv10-246.nih.no
-NOERROR	outlook.nih.no
-NXDOMAIN	nihsrv02.nih.no
-NOERROR	sip2.nih.no
-NXDOMAIN	gaupe.nih.no
-NOERROR	video.nih.no
-NOERROR	nih-mgw.nih.no
-NOERROR	nihsrv30-10.nih.no
-NOERROR	mail01.nih.no
-NOERROR	nav.nih.no
-NOERROR	timeplan.nih.no
-NOERROR	alumni.nih.no
-NXDOMAIN	nihsrvv30-20.nih.no
-NOERROR	nihsrvv10-84.nih.no
-NXDOMAIN	hinux.nih.no
-NXDOMAIN	biomekanikk.nih.no
-NOERROR	nih-vk.nih.no
-NOERROR	mail.nih.no
-NXDOMAIN	munin.nih.no
-NOERROR	nihsrvv10-3.nih.no
-NOERROR	symgw01.nih.no
-NOERROR	symgw02-ut.nih.no
-NOERROR	nih.no
-NXDOMAIN	nihsrvcl20-22.nih.no
-NXDOMAIN	nih-gsw.nih.no
-NOERROR	vpn.nih.no
-NOERROR	symgw01-ut.nih.no
-NXDOMAIN	fw-cvi.nih.no
-NXDOMAIN	studentmail.nih.no
-NXDOMAIN	nihsrvv20-15.nih.no
-NOERROR	test.nih.no
-NOERROR	lyncdiscover.nih.no
-NXDOMAIN	fw-ndi2.nih.no
-NOERROR	nih-mgw2.nih.no
-NXDOMAIN	activesync.nih.no
-NOERROR	autodiscover.nih.no
-NXDOMAIN	fw-ndi1.nih.no
-NXDOMAIN	fi.nih.no
-NOERROR	symgw02.nih.no
-NOERROR	nihsrvv10-65.nih.no
-NOERROR	registration.nih.no
-NOERROR	autodiscover.student.nih.no
-NXDOMAIN	asavpn.nih.no
-NXDOMAIN	nihsrvv20-16.nih.no
-NOERROR	utleie.nih.no
-NXDOMAIN	gw.nih.no
-NXDOMAIN	nihsrvv10-56.nih.no
-NOERROR	mail02.nih.no
-NOERROR	www.nih.no
-NOERROR	bildearkiv.nih.no
-NXDOMAIN	email.nih.no
-NOERROR	innersvingen.nih.no
+trd-mstgw1.nih.no
+sip.nih.no
+passord.nih.no
+nihsrvv10-4.nih.no
+oslo-mstgw1.nih.no
+nihsrvv10-246.nih.no
+outlook.nih.no
+sip2.nih.no
+video.nih.no
+nih-mgw.nih.no
+nihsrv30-10.nih.no
+mail01.nih.no
+nav.nih.no
+timeplan.nih.no
+alumni.nih.no
+nihsrvv10-84.nih.no
+nih-vk.nih.no
+mail.nih.no
+nihsrvv10-3.nih.no
+symgw01.nih.no
+symgw02-ut.nih.no
+nih.no
+vpn.nih.no
+symgw01-ut.nih.no
+test.nih.no
+lyncdiscover.nih.no
+nih-mgw2.nih.no
+autodiscover.nih.no
+symgw02.nih.no
+nihsrvv10-65.nih.no
+registration.nih.no
+autodiscover.student.nih.no
+utleie.nih.no
+mail02.nih.no
+www.nih.no
+bildearkiv.nih.no
+innersvingen.nih.no

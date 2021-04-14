@@ -1,16 +1,12 @@
-NOERROR	rsv.uenogakuen.ac.jp
-NOERROR	ma-3.uenogakuen.ac.jp
-NOERROR	cybozu1.uenogakuen.ac.jp
-NXDOMAIN	ts.uenogakuen.ac.jp
-NOERROR	keiseikai.uenogakuen.ac.jp
-NOERROR	ma.uenogakuen.ac.jp
-NOERROR	ma-2.uenogakuen.ac.jp
-NOERROR	dev.uenogakuen.ac.jp
-NOERROR	uenogakuen.ac.jp
-NOERROR	lib-opac.uenogakuen.ac.jp
-NOERROR	test.uenogakuen.ac.jp
-NXDOMAIN	www.rsv.uenogakuen.ac.jp
-NXDOMAIN	sakura.uenogakuen.ac.jp
-NXDOMAIN	ma2.uenogakuen.ac.jp
-NOERROR	dev-ma.uenogakuen.ac.jp
-NOERROR	www.uenogakuen.ac.jp
+rsv.uenogakuen.ac.jp
+ma-3.uenogakuen.ac.jp
+cybozu1.uenogakuen.ac.jp
+keiseikai.uenogakuen.ac.jp
+ma.uenogakuen.ac.jp
+ma-2.uenogakuen.ac.jp
+dev.uenogakuen.ac.jp
+uenogakuen.ac.jp
+lib-opac.uenogakuen.ac.jp
+test.uenogakuen.ac.jp
+dev-ma.uenogakuen.ac.jp
+www.uenogakuen.ac.jp

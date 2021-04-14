@@ -1,36 +1,31 @@
-NOERROR	wpmedia.wmpenn.edu
-NOERROR	degree.wmpenn.edu
-NOERROR	wpapplication.wmpenn.edu
-NOERROR	grad.wmpenn.edu
-NOERROR	www.wmpenn.edu
-NOERROR	mahaskabowl.wmpenn.edu
-NOERROR	sip.wmpenn.edu
-NOERROR	cwa.wmpenn.edu
-NXDOMAIN	blackboard.wmpenn.edu
-NOERROR	library.wmpenn.edu
-NOERROR	wpuelearning.wmpenn.edu
-NOERROR	nursinginfo.wmpenn.edu
-NXDOMAIN	pennunix.wmpenn.edu
-NXDOMAIN	www.mail.wmpenn.edu
-NOERROR	events.wmpenn.edu
-NOERROR	smtp.wmpenn.edu
-NOERROR	www.degree.wmpenn.edu
-NXDOMAIN	www.cwaelearning.wmpenn.edu
-NOERROR	cwaelearning.wmpenn.edu
-NOERROR	go.degree.wmpenn.edu
-NOERROR	wordpressdev.wmpenn.edu
-NOERROR	webmail.wmpenn.edu
-NOERROR	eagle.wmpenn.edu
-NOERROR	helpdesk.wmpenn.edu
-NOERROR	connect.wmpenn.edu
-NOERROR	alumni.wmpenn.edu
-NOERROR	adfs.wmpenn.edu
-NOERROR	application.wmpenn.edu
-NOERROR	wmpenn.edu
-NOERROR	www.grad.wmpenn.edu
-NOERROR	go.grad.wmpenn.edu
-NOERROR	giftplanning.wmpenn.edu
-NXDOMAIN	www.eagle.wmpenn.edu
-NOERROR	mail.wmpenn.edu
-NOERROR	wpboard.wmpenn.edu
-NOERROR	student.wmpenn.edu
+wpmedia.wmpenn.edu
+degree.wmpenn.edu
+wpapplication.wmpenn.edu
+grad.wmpenn.edu
+www.wmpenn.edu
+mahaskabowl.wmpenn.edu
+sip.wmpenn.edu
+cwa.wmpenn.edu
+library.wmpenn.edu
+wpuelearning.wmpenn.edu
+nursinginfo.wmpenn.edu
+events.wmpenn.edu
+smtp.wmpenn.edu
+www.degree.wmpenn.edu
+cwaelearning.wmpenn.edu
+go.degree.wmpenn.edu
+wordpressdev.wmpenn.edu
+webmail.wmpenn.edu
+eagle.wmpenn.edu
+helpdesk.wmpenn.edu
+connect.wmpenn.edu
+alumni.wmpenn.edu
+adfs.wmpenn.edu
+application.wmpenn.edu
+wmpenn.edu
+www.grad.wmpenn.edu
+go.grad.wmpenn.edu
+giftplanning.wmpenn.edu
+mail.wmpenn.edu
+wpboard.wmpenn.edu
+student.wmpenn.edu

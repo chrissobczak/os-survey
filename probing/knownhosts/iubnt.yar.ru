@@ -1,14 +1,1 @@
-NXDOMAIN	intranet.iubnt.yar.ru
-NOERROR	iubnt.yar.ru
-NXDOMAIN	edu.iubnt.yar.ru
-NXDOMAIN	www.iubnt.yar.ru
-NXDOMAIN	oldweb.iubnt.yar.ru
-NXDOMAIN	koiwww.iubnt.yar.ru
-NXDOMAIN	intraweb.iubnt.yar.ru
-NXDOMAIN	elib.iubnt.yar.ru
-NXDOMAIN	mba.iubnt.yar.ru
-NXDOMAIN	gw.iubnt.yar.ru
-NXDOMAIN	macwww.iubnt.yar.ru
-NXDOMAIN	isowww.iubnt.yar.ru
-NXDOMAIN	trnwww.iubnt.yar.ru
-NXDOMAIN	nt.iubnt.yar.ru
+iubnt.yar.ru

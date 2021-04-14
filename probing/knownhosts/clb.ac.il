@@ -1,67 +1,34 @@
-NOERROR	yedion.clb.ac.il
-NOERROR	www.clb.ac.il
-NXDOMAIN	mail2.clb.ac.il
-NOERROR	web.b.ebscohost.com.lib.clb.ac.il
-NXDOMAIN	webmail.top.clb.ac.il
-NXDOMAIN	www.gilboawebservices.clb.ac.il
-NXDOMAIN	cpanel.lp.clb.ac.il
-NXDOMAIN	cpcalendars.lp.clb.ac.il
-NOERROR	lp.clb.ac.il
-NXDOMAIN	mail.top.clb.ac.il
-NOERROR	www-nevo-co-il.lib.clb.ac.il
-NOERROR	friends.clb.ac.il
-NOERROR	blog.clb.ac.il
-NXDOMAIN	cpcontacts.blog.clb.ac.il
-NOERROR	vpnfg.clb.ac.il
-NXDOMAIN	www.yedion.clb.ac.il
-NXDOMAIN	mail4.clb.ac.il
-NOERROR	search.ebscohost.com.lib.clb.ac.il
-NOERROR	www.nevo.co.il.lib.clb.ac.il
-NXDOMAIN	cpcalendars.top.clb.ac.il
-NOERROR	www.sciencedirect.com.lib.clb.ac.il
-NOERROR	web.a.ebscohost.com.lib.clb.ac.il
-NXDOMAIN	cpanel.blog.clb.ac.il
-NXDOMAIN	www.top.clb.ac.il
-NOERROR	sk2am2ee6s.search.serialssolutions.com.lib.clb.ac.il
-NXDOMAIN	www.gilboaweb.clb.ac.il
-NXDOMAIN	www.lp.clb.ac.il
-NXDOMAIN	cpcontacts.top.clb.ac.il
-NXDOMAIN	mail3.clb.ac.il
-NXDOMAIN	mail1.clb.ac.il
-NXDOMAIN	cpanel.top.clb.ac.il
-NOERROR	ja-next-westlaw-com.lib.clb.ac.il
-NXDOMAIN	www.blog.clb.ac.il
-NOERROR	www-ebar-co-il.lib.clb.ac.il
-NXDOMAIN	webserver.clb.ac.il
-NXDOMAIN	mail.lp.clb.ac.il
-NOERROR	autodiscover.clb.ac.il
-NXDOMAIN	exchange.clb.ac.il
-NXDOMAIN	mail.blog.clb.ac.il
-NOERROR	www.info2011.szold.org.il.lib.clb.ac.il
-NXDOMAIN	cpcalendars.blog.clb.ac.il
-NXDOMAIN	webdisk.top.clb.ac.il
-NOERROR	if.ebsco-content.com.lib.clb.ac.il
-NXDOMAIN	mail.clb.ac.il
-NXDOMAIN	webdisk.blog.clb.ac.il
-NXDOMAIN	webmail.blog.clb.ac.il
-NOERROR	www.tandfonline.com.lib.clb.ac.il
-NOERROR	1-next-westlaw-com.lib.clb.ac.il
-NXDOMAIN	www.vpnfg.clb.ac.il
-NOERROR	systems.clb.ac.il
-NOERROR	www-sciencedirect-com.lib.clb.ac.il
-NOERROR	top.clb.ac.il
-NXDOMAIN	cpcontacts.lp.clb.ac.il
-NOERROR	gilboaweb.clb.ac.il
-NXDOMAIN	www.mail.clb.ac.il
-NOERROR	support-ebscohost-com.lib.clb.ac.il
-NOERROR	college.clb.ac.il
-NXDOMAIN	webdisk.lp.clb.ac.il
-NXDOMAIN	webmail.lp.clb.ac.il
-NOERROR	login.lib.clb.ac.il
-NOERROR	clb.ac.il
-NOERROR	www-tandfonline-com.lib.clb.ac.il
-NOERROR	ebar-co-il.lib.clb.ac.il
-NOERROR	gilboawebservices.clb.ac.il
-NOERROR	web.clb.ac.il
-NOERROR	private.prison.clb.ac.il
-NOERROR	lib.clb.ac.il
+yedion.clb.ac.il
+www.clb.ac.il
+web.b.ebscohost.com.lib.clb.ac.il
+lp.clb.ac.il
+www-nevo-co-il.lib.clb.ac.il
+friends.clb.ac.il
+blog.clb.ac.il
+vpnfg.clb.ac.il
+search.ebscohost.com.lib.clb.ac.il
+www.nevo.co.il.lib.clb.ac.il
+www.sciencedirect.com.lib.clb.ac.il
+web.a.ebscohost.com.lib.clb.ac.il
+sk2am2ee6s.search.serialssolutions.com.lib.clb.ac.il
+ja-next-westlaw-com.lib.clb.ac.il
+www-ebar-co-il.lib.clb.ac.il
+autodiscover.clb.ac.il
+www.info2011.szold.org.il.lib.clb.ac.il
+if.ebsco-content.com.lib.clb.ac.il
+www.tandfonline.com.lib.clb.ac.il
+1-next-westlaw-com.lib.clb.ac.il
+systems.clb.ac.il
+www-sciencedirect-com.lib.clb.ac.il
+top.clb.ac.il
+gilboaweb.clb.ac.il
+support-ebscohost-com.lib.clb.ac.il
+college.clb.ac.il
+login.lib.clb.ac.il
+clb.ac.il
+www-tandfonline-com.lib.clb.ac.il
+ebar-co-il.lib.clb.ac.il
+gilboawebservices.clb.ac.il
+web.clb.ac.il
+private.prison.clb.ac.il
+lib.clb.ac.il

@@ -1,31 +1,11 @@
-NXDOMAIN	www.pregrado.ucem.edu.ni
-NXDOMAIN	www.aulavirtual.ucem.edu.ni
-NXDOMAIN	growup.ucem.edu.ni
-NOERROR	mail.ucem.edu.ni
-NXDOMAIN	www.posgrados.ucem.edu.ni
-NXDOMAIN	www.paginaold.ucem.edu.ni
-NOERROR	webdisk.ucem.edu.ni
-NXDOMAIN	sacu.ucem.edu.ni
-NXDOMAIN	soyucem.ucem.edu.ni
-NXDOMAIN	paginaold.ucem.edu.ni
-NXDOMAIN	encuesta.ucem.edu.ni
-NXDOMAIN	www.growup.ucem.edu.ni
-NXDOMAIN	www.encuesta.ucem.edu.ni
-NOERROR	webmail.ucem.edu.ni
-NXDOMAIN	www.soyucem.ucem.edu.ni
-NOERROR	hatch.ucem.edu.ni
-NOERROR	www.ucem.edu.ni
-NXDOMAIN	ucems006.ucem.edu.ni
-NXDOMAIN	pregrado.ucem.edu.ni
-NXDOMAIN	ns.ucem.edu.ni
-NOERROR	www.hatch.ucem.edu.ni
-NOERROR	aulavirtual.ucem.edu.ni
-NXDOMAIN	www.encuestas.ucem.edu.ni
-NXDOMAIN	www.pregrados.ucem.edu.ni
-NOERROR	cpcalendars.ucem.edu.ni
-NXDOMAIN	posgrados.ucem.edu.ni
-NXDOMAIN	encuestas.ucem.edu.ni
-NOERROR	ucem.edu.ni
-NOERROR	cpanel.ucem.edu.ni
-NXDOMAIN	pregrados.ucem.edu.ni
-NOERROR	cpcontacts.ucem.edu.ni
+mail.ucem.edu.ni
+webdisk.ucem.edu.ni
+webmail.ucem.edu.ni
+hatch.ucem.edu.ni
+www.ucem.edu.ni
+www.hatch.ucem.edu.ni
+aulavirtual.ucem.edu.ni
+cpcalendars.ucem.edu.ni
+ucem.edu.ni
+cpanel.ucem.edu.ni
+cpcontacts.ucem.edu.ni

@@ -1,276 +1,112 @@
-NOERROR	cisco.fpv.ucm.sk
-NOERROR	fpv.ucm.sk
-NXDOMAIN	id3.ucm.sk
-NXDOMAIN	www.ais2.ucm.sk
-NOERROR	ezkp.ifblr.ucm.sk
-NXDOMAIN	www.kb.fpv.ucm.sk
-NXDOMAIN	out-stud-jama.ucm.sk
-NXDOMAIN	www.gw-zam.ucm.sk
-NOERROR	www.fsv.ucm.sk
-NXDOMAIN	out-stud-fmk-hd-sklad.ucm.sk
-NOERROR	rds.ucm.sk
-NXDOMAIN	vportal.student.ucm.sk
-NOERROR	mail2.ucm.sk
-NXDOMAIN	out-wifi-spac.ucm.sk
-NXDOMAIN	barracuda.kai.fpv.ucm.sk
-NXDOMAIN	www.e-prihlaska.ucm.sk
-NOERROR	kger.ff.ucm.sk
-NXDOMAIN	old.fmk.ucm.sk
-NOERROR	www.moodle.ucm.sk
-NXDOMAIN	web.ucm.sk
-NXDOMAIN	dev.ucm.sk
-NXDOMAIN	simon2.kai.fpv.ucm.sk
-NXDOMAIN	www.wapp1-her.ucm.sk
-NXDOMAIN	out-wifi-hajd.ucm.sk
-NXDOMAIN	ifblr-old.ucm.sk
-NXDOMAIN	trekgame.ucm.sk
-NXDOMAIN	www.wapp1.ucm.sk
-NXDOMAIN	eset2.ucm.sk
-NXDOMAIN	www.ifblr.ucm.sk
-NOERROR	grid4.kaim.fpv.ucm.sk
-NOERROR	ldap.ucm.sk
-NOERROR	mail.ucm.sk
-NOERROR	wifi.ucm.sk
-NXDOMAIN	www.intranet.ucm.sk
-NOERROR	www3.ucm.sk
-NXDOMAIN	out-wifi-sklad.ucm.sk
-NXDOMAIN	out-stud-her.ucm.sk
-NXDOMAIN	ducm.ucm.sk
-NOERROR	uninfos2017.ucm.sk
-NOERROR	vpn-reg.ucm.sk
-NOERROR	ucm.sk
-NOERROR	dns2.ucm.sk
-NXDOMAIN	mbk.ucm.sk
-NXDOMAIN	mail.student.ucm.sk
-NOERROR	eset.cikt.ucm.sk
-NXDOMAIN	krom.ff.ucm.sk
-NXDOMAIN	rdss-rs-beta.ucm.sk
-NXDOMAIN	revue.kpol.ff.ucm.sk
-NOERROR	mx.ucm.sk
-NXDOMAIN	out-wifi-ucebne.ucm.sk
-NXDOMAIN	out-stud-int-her.ucm.sk
-NXDOMAIN	out-wifi-guest.ucm.sk
-NXDOMAIN	rdss-beta.ucm.sk
-NXDOMAIN	pc11.ucm.sk
-NOERROR	www.kfil.ff.ucm.sk
-NXDOMAIN	www.15.ucm.sk
-NXDOMAIN	gw-sanet-mtf.ucm.sk
-NXDOMAIN	www.podpora.cikt.ucm.sk
-NXDOMAIN	www.ldap.ucm.sk
-NXDOMAIN	www.wdb1-her.ucm.sk
-NXDOMAIN	out-wifi-buc.ucm.sk
-NXDOMAIN	nat.ucm.sk
-NXDOMAIN	out-zam-fak-her.ucm.sk
-NOERROR	ais2-beta.ucm.sk
-NXDOMAIN	fotoatelier.ucm.sk
-NOERROR	www.nbc-journal.fpv.ucm.sk
-NXDOMAIN	kniznica.ucm.sk
-NXDOMAIN	unix.ucm.sk
-NOERROR	www.kaj.fpv.ucm.sk
-NXDOMAIN	herdu.internat.student.lan.ucm.sk
-NOERROR	krus.ff.ucm.sk
-NXDOMAIN	out-zam-rek-haj.ucm.sk
-NOERROR	dns.ucm.sk
-NXDOMAIN	ecdl.ucm.sk
-NXDOMAIN	www.im.ucm.sk
-NXDOMAIN	l2c2.ucm.sk
-NOERROR	www1.infra.ucm.sk
-NXDOMAIN	tsrv.ucm.sk
-NXDOMAIN	dhcp-dns-1.infra.lan.ucm.sk
-NOERROR	elearning.kfil.ff.ucm.sk
-NXDOMAIN	www.dhcp-dns-1.infra.lan.ucm.sk
-NXDOMAIN	www.lan.ucm.sk
-NXDOMAIN	out-stud-fmk-sklad.ucm.sk
-NOERROR	ifblr.ucm.sk
-NXDOMAIN	www.cikt.ucm.sk
-NXDOMAIN	out-stud-wifi.ucm.sk
-NXDOMAIN	elearning.ifblr.ucm.sk
-NXDOMAIN	out-videokonf.ucm.sk
-NXDOMAIN	godsworld.ucm.sk
-NXDOMAIN	rdss-rs.ucm.sk
-NOERROR	gw-stud.ucm.sk
-NXDOMAIN	ns.ucm.sk
-NOERROR	grid1.kaim.fpv.ucm.sk
-NXDOMAIN	out-zam-fpv-spac.ucm.sk
-NXDOMAIN	web-linux3.ucm.sk
-NXDOMAIN	www.elearning.ifblr.ucm.sk
-NXDOMAIN	out-stud-her-607b.ucm.sk
-NOERROR	fmk.ucm.sk
-NOERROR	dmm.student.ucm.sk
-NXDOMAIN	www.rdss-beta.ucm.sk
-NOERROR	zkadmin.fmk.ucm.sk
-NOERROR	khist.ff.ucm.sk
-NOERROR	proxy.ucm.sk
-NOERROR	kfil.ff.ucm.sk
-NXDOMAIN	wapp1-her.ucm.sk
-NOERROR	as.fpv.ucm.sk
-NOERROR	inovacia.fpv.ucm.sk
-NXDOMAIN	out-wifi-mgmt.ucm.sk
-NXDOMAIN	www.fzv.ucm.sk
-NOERROR	kslof.ff.ucm.sk
-NXDOMAIN	www.konferencia2012.ucm.sk
-NXDOMAIN	www.id.ucm.sk
-NXDOMAIN	web-win.ucm.sk
-NXDOMAIN	out-wifi-navs.ucm.sk
-NXDOMAIN	www.id3.ucm.sk
-NOERROR	web-linux2.ucm.sk
-NOERROR	helpdesk.cikt.ucm.sk
-NXDOMAIN	www.proxy.ucm.sk
-NOERROR	fsv.ucm.sk
-NOERROR	ans2015.ucm.sk
-NOERROR	www.ksjl.ff.ucm.sk
-NOERROR	kchem.fpv.ucm.sk
-NOERROR	grid2.kaim.fpv.ucm.sk
-NOERROR	cikt.ucm.sk
-NXDOMAIN	out-wifi-herdu.ucm.sk
-NXDOMAIN	web1-buc.ucm.sk
-NXDOMAIN	wdb1-her.ucm.sk
-NXDOMAIN	skullik.ucm.sk
-NXDOMAIN	dc2.ucm.sk
-NXDOMAIN	dns-pub-master.infra.ucm.sk
-NXDOMAIN	www.old.fmk.ucm.sk
-NXDOMAIN	ftp.ucm.sk
-NXDOMAIN	out-wifi-eduroam.ucm.sk
-NXDOMAIN	www.rdss-rs-beta.ucm.sk
-NOERROR	kaam.ff.ucm.sk
-NXDOMAIN	www.rdss.ucm.sk
-NXDOMAIN	ldap2.ucm.sk
-NOERROR	cdo.ucm.sk
-NXDOMAIN	ais.ucm.sk
-NXDOMAIN	out-zam-wifi.ucm.sk
-NXDOMAIN	kb.fpv.ucm.sk
-NXDOMAIN	aetter4.ucm.sk
-NOERROR	grid3.kaim.fpv.ucm.sk
-NXDOMAIN	id2.ucm.sk
-NOERROR	autodiscover.ucm.sk
-NOERROR	dns1.ucm.sk
-NOERROR	simon.kai.fpv.ucm.sk
-NOERROR	kped.ff.ucm.sk
-NXDOMAIN	gw.internat.student.ucm.sk
-NXDOMAIN	dhcp-dns-2.infra.lan.ucm.sk
-NOERROR	ais2.ucm.sk
-NOERROR	dns4.ucm.sk
-NOERROR	ans2019.ucm.sk
-NXDOMAIN	www.dhcp-dns-2.infra.lan.ucm.sk
-NXDOMAIN	pawer.ucm.sk
-NXDOMAIN	www.gw-stud.ucm.sk
-NXDOMAIN	out-stud-fpv-spac.ucm.sk
-NOERROR	www.fpv.ucm.sk
-NXDOMAIN	out-zam-fak-jama.ucm.sk
-NXDOMAIN	lineage2.ucm.sk
-NXDOMAIN	kjtsa.ff.ucm.sk
-NXDOMAIN	podpora.cikt.ucm.sk
-NXDOMAIN	syslog.ucm.sk
-NXDOMAIN	www.helpdesk.cikt.ucm.sk
-NXDOMAIN	out-cikt.ucm.sk
-NXDOMAIN	stora.kfil.ff.ucm.sk
-NXDOMAIN	out-stud-wifi-ubytovna.ucm.sk
-NOERROR	intranet.ucm.sk
-NXDOMAIN	out-stud.ucm.sk
-NXDOMAIN	www.tsrv.ucm.sk
-NXDOMAIN	out-wifi-buc-aula.ucm.sk
-NOERROR	fmk-web-app.ucm.sk
-NOERROR	phone.ucm.sk
-NXDOMAIN	www.mail.ucm.sk
-NXDOMAIN	erasmus.ucm.sk
-NXDOMAIN	e.ucm.sk
-NOERROR	www.moodle.ff.ucm.sk
-NOERROR	www.kped.ff.ucm.sk
-NXDOMAIN	www.rds.ucm.sk
-NXDOMAIN	unifi.student.lan.ucm.sk
-NXDOMAIN	out-wifi-konf.ucm.sk
-NXDOMAIN	aetter5.ucm.sk
-NOERROR	dns3.ucm.sk
-NOERROR	apv.fpv.ucm.sk
-NOERROR	dokumenty.kbio.fpv.ucm.sk
-NOERROR	dochadzka.ucm.sk
-NOERROR	moodle.ucm.sk
-NXDOMAIN	mediaarchiv.ucm.sk
-NOERROR	kai.fpv.ucm.sk
-NOERROR	gw-zam.ucm.sk
-NOERROR	moodle.ff.ucm.sk
-NXDOMAIN	out-zam.ucm.sk
-NXDOMAIN	midgard.ucm.sk
-NOERROR	vpn2.ucm.sk
-NOERROR	im.ucm.sk
-NXDOMAIN	out-zam-kaim-her.ucm.sk
-NOERROR	gw.ucm.sk
-NXDOMAIN	fmk-old.ucm.sk
-NXDOMAIN	monokel.ucm.sk
-NOERROR	ut.ucm.sk
-NXDOMAIN	fotoatelier.fmk.ucm.sk
-NXDOMAIN	localhost.ucm.sk
-NOERROR	kvalita.fpv.ucm.sk
-NXDOMAIN	out-zam-rek-her.ucm.sk
-NOERROR	cucm.ucm.sk
-NXDOMAIN	serp.fsv.ucm.sk
-NXDOMAIN	bioklaster.ucm.sk
-NOERROR	gw-sanet.ucm.sk
-NXDOMAIN	linux-app1.ucm.sk
-NXDOMAIN	out-wifi-jama.ucm.sk
-NOERROR	student.ucm.sk
-NXDOMAIN	spr.fsv.ucm.sk
-NOERROR	e-prihlaska.ucm.sk
-NXDOMAIN	out-zam-fak-haj.ucm.sk
-NOERROR	kpsych.ff.ucm.sk
-NOERROR	www.zelenyklaster.ucm.sk
-NXDOMAIN	synology.fmk.ucm.sk
-NOERROR	fzv.ucm.sk
-NXDOMAIN	wapp1.ucm.sk
-NXDOMAIN	www4.infra.ucm.sk
-NOERROR	kaj.fpv.ucm.sk
-NOERROR	ketno.ff.ucm.sk
-NXDOMAIN	geek.ucm.sk
-NXDOMAIN	ans2017.ucm.sk
-NOERROR	id.ucm.sk
-NOERROR	zelenyklaster.ucm.sk
-NOERROR	www.wifi.ucm.sk
-NXDOMAIN	www.rdss-rs.ucm.sk
-NXDOMAIN	web-linux.ucm.sk
-NOERROR	www.ucm.sk
-NOERROR	nbc-journal.fpv.ucm.sk
-NOERROR	pbx.ucm.sk
-NOERROR	era.cikt.ucm.sk
-NOERROR	www.ketno.ff.ucm.sk
-NXDOMAIN	out-stud-haj.ucm.sk
-NXDOMAIN	helpdesk.ucm.sk
-NXDOMAIN	www.eset.cikt.ucm.sk
-NXDOMAIN	rdss.ucm.sk
-NXDOMAIN	preukaz.ucm.sk
-NXDOMAIN	syslog.cikt.ucm.sk
-NOERROR	ki.fpv.ucm.sk
-NXDOMAIN	www.serp.fsv.ucm.sk
-NXDOMAIN	out-zam-fsv-buc.ucm.sk
-NXDOMAIN	aetter2.ucm.sk
-NOERROR	www.elearning.kfil.ff.ucm.sk
-NXDOMAIN	www.ff.ucm.sk
-NXDOMAIN	aetter1.ucm.sk
-NXDOMAIN	out-stud-buc.ucm.sk
-NXDOMAIN	vpn1.ucm.sk
-NXDOMAIN	www.unifi.student.lan.ucm.sk
-NOERROR	kvalita.fmk.ucm.sk
-NOERROR	myplace.ff.ucm.sk
-NOERROR	jamsi.fpv.ucm.sk
-NOERROR	ksjl.ff.ucm.sk
-NXDOMAIN	ucmnew.ucm.sk
-NXDOMAIN	www.kjtsa.ff.ucm.sk
-NOERROR	www.apv.ucm.sk
-NOERROR	endpoint.ucm.sk
-NOERROR	kaim.fpv.ucm.sk
-NOERROR	zabbix.ucm.sk
-NOERROR	kega.kaim.fpv.ucm.sk
-NXDOMAIN	out-zam-rek-buc.ucm.sk
-NXDOMAIN	out-zam-fmk-sklad.ucm.sk
-NXDOMAIN	www.jamsi.fpv.ucm.sk
-NOERROR	rdg.ucm.sk
-NXDOMAIN	old.ucm.sk
-NOERROR	ker.fpv.ucm.sk
-NOERROR	kbio.fpv.ucm.sk
-NXDOMAIN	www.rdg.ucm.sk
-NOERROR	www.cisco.fpv.ucm.sk
-NOERROR	ff.ucm.sk
-NOERROR	www2.ucm.sk
-NXDOMAIN	www.herdu.internat.student.lan.ucm.sk
-NOERROR	prihlaska.fpv.ucm.sk
-NOERROR	zk.fmk.ucm.sk
-NXDOMAIN	ki.fpv.lan.ucm.sk
+cisco.fpv.ucm.sk
+fpv.ucm.sk
+ezkp.ifblr.ucm.sk
+www.fsv.ucm.sk
+rds.ucm.sk
+mail2.ucm.sk
+kger.ff.ucm.sk
+www.moodle.ucm.sk
+grid4.kaim.fpv.ucm.sk
+ldap.ucm.sk
+mail.ucm.sk
+wifi.ucm.sk
+www3.ucm.sk
+uninfos2017.ucm.sk
+vpn-reg.ucm.sk
+ucm.sk
+dns2.ucm.sk
+eset.cikt.ucm.sk
+mx.ucm.sk
+www.kfil.ff.ucm.sk
+ais2-beta.ucm.sk
+www.nbc-journal.fpv.ucm.sk
+www.kaj.fpv.ucm.sk
+krus.ff.ucm.sk
+dns.ucm.sk
+www1.infra.ucm.sk
+elearning.kfil.ff.ucm.sk
+ifblr.ucm.sk
+gw-stud.ucm.sk
+grid1.kaim.fpv.ucm.sk
+fmk.ucm.sk
+dmm.student.ucm.sk
+zkadmin.fmk.ucm.sk
+khist.ff.ucm.sk
+proxy.ucm.sk
+kfil.ff.ucm.sk
+as.fpv.ucm.sk
+inovacia.fpv.ucm.sk
+kslof.ff.ucm.sk
+web-linux2.ucm.sk
+helpdesk.cikt.ucm.sk
+fsv.ucm.sk
+ans2015.ucm.sk
+www.ksjl.ff.ucm.sk
+kchem.fpv.ucm.sk
+grid2.kaim.fpv.ucm.sk
+cikt.ucm.sk
+kaam.ff.ucm.sk
+cdo.ucm.sk
+grid3.kaim.fpv.ucm.sk
+autodiscover.ucm.sk
+dns1.ucm.sk
+simon.kai.fpv.ucm.sk
+kped.ff.ucm.sk
+ais2.ucm.sk
+dns4.ucm.sk
+ans2019.ucm.sk
+www.fpv.ucm.sk
+intranet.ucm.sk
+fmk-web-app.ucm.sk
+phone.ucm.sk
+www.moodle.ff.ucm.sk
+www.kped.ff.ucm.sk
+dns3.ucm.sk
+apv.fpv.ucm.sk
+dokumenty.kbio.fpv.ucm.sk
+dochadzka.ucm.sk
+moodle.ucm.sk
+kai.fpv.ucm.sk
+gw-zam.ucm.sk
+moodle.ff.ucm.sk
+vpn2.ucm.sk
+im.ucm.sk
+gw.ucm.sk
+ut.ucm.sk
+kvalita.fpv.ucm.sk
+cucm.ucm.sk
+gw-sanet.ucm.sk
+student.ucm.sk
+e-prihlaska.ucm.sk
+kpsych.ff.ucm.sk
+www.zelenyklaster.ucm.sk
+fzv.ucm.sk
+kaj.fpv.ucm.sk
+ketno.ff.ucm.sk
+id.ucm.sk
+zelenyklaster.ucm.sk
+www.wifi.ucm.sk
+www.ucm.sk
+nbc-journal.fpv.ucm.sk
+pbx.ucm.sk
+era.cikt.ucm.sk
+www.ketno.ff.ucm.sk
+ki.fpv.ucm.sk
+www.elearning.kfil.ff.ucm.sk
+kvalita.fmk.ucm.sk
+myplace.ff.ucm.sk
+jamsi.fpv.ucm.sk
+ksjl.ff.ucm.sk
+www.apv.ucm.sk
+endpoint.ucm.sk
+kaim.fpv.ucm.sk
+zabbix.ucm.sk
+kega.kaim.fpv.ucm.sk
+rdg.ucm.sk
+ker.fpv.ucm.sk
+kbio.fpv.ucm.sk
+www.cisco.fpv.ucm.sk
+ff.ucm.sk
+www2.ucm.sk
+prihlaska.fpv.ucm.sk
+zk.fmk.ucm.sk

@@ -1,103 +1,25 @@
-NOERROR	onssi.richland.edu
-NXDOMAIN	static-64-107-108-124.richland.edu
-NXDOMAIN	ifspc.richland.edu
-NXDOMAIN	static-209-7-199-27.richland.edu
-NXDOMAIN	webboard.richland.edu
-NXDOMAIN	filebox.richland.edu
-NXDOMAIN	gb.richland.edu
-NXDOMAIN	static-209-7-199-18.richland.edu
-NXDOMAIN	static-209-7-199-25.richland.edu
-NXDOMAIN	static-64-107-108-122.richland.edu
-NOERROR	www.richland.edu
-NXDOMAIN	remotevpn.richland.edu
-NOERROR	ns1.richland.edu
-NXDOMAIN	lists.richland.edu
-NOERROR	discourse.richland.edu
-NXDOMAIN	webct6.richland.edu
-NXDOMAIN	static-209-7-199-7.richland.edu
-NXDOMAIN	static-209-7-199-28.richland.edu
-NOERROR	www2.richland.edu
-NXDOMAIN	green.richland.edu
-NXDOMAIN	static-209-7-199-5.richland.edu
-NXDOMAIN	static-209-7-199-16.richland.edu
-NXDOMAIN	static-209-7-199-23.richland.edu
-NXDOMAIN	static-209-7-199-1.richland.edu
-NXDOMAIN	chat.richland.edu
-NXDOMAIN	static-209-7-199-15.richland.edu
-NXDOMAIN	static-209-7-199-4.richland.edu
-NXDOMAIN	lebox.richland.edu
-NXDOMAIN	static-64-107-108-126.richland.edu
-NXDOMAIN	webct.richland.edu
-NXDOMAIN	otrs.richland.edu
-NXDOMAIN	static-64-107-108-118.richland.edu
-NXDOMAIN	static-209-7-199-30.richland.edu
-NOERROR	www-dev.richland.edu
-NXDOMAIN	missouri.richland.edu
-NXDOMAIN	diversity.richland.edu
-NOERROR	smtp.richland.edu
-NXDOMAIN	dlw.richland.edu
-NXDOMAIN	ariel.richland.edu
-NXDOMAIN	static-209-7-199-24.richland.edu
-NXDOMAIN	weedseed.richland.edu
-NOERROR	rcc6test.richland.edu
-NOERROR	weblogin.richland.edu
-NOERROR	ds3.richland.edu
-NXDOMAIN	static-64-107-108-119.richland.edu
-NXDOMAIN	bb.richland.edu
-NXDOMAIN	static-64-107-108-121.richland.edu
-NXDOMAIN	static-64-107-108-123.richland.edu
-NXDOMAIN	static-209-7-199-8.richland.edu
-NXDOMAIN	officewebapps.richland.edu
-NXDOMAIN	dcp.richland.edu
-NXDOMAIN	web.richland.edu
-NOERROR	gw1.richland.edu
-NXDOMAIN	pie.richland.edu
-NOERROR	ns2.richland.edu
-NXDOMAIN	static-64-107-108-117.richland.edu
-NXDOMAIN	static-209-7-199-17.richland.edu
-NOERROR	people.richland.edu
-NXDOMAIN	careers.richland.edu
-NXDOMAIN	bkst.richland.edu
-NXDOMAIN	static-209-7-199-12.richland.edu
-NXDOMAIN	static-209-7-199-22.richland.edu
-NXDOMAIN	static-64-107-108-125.richland.edu
-NXDOMAIN	static-64-107-108-116.richland.edu
-NXDOMAIN	static-64-107-108-114.richland.edu
-NOERROR	gw2.richland.edu
-NOERROR	my.richland.edu
-NXDOMAIN	static-64-107-108-113.richland.edu
-NOERROR	remote.richland.edu
-NXDOMAIN	pccam.richland.edu
-NXDOMAIN	static-209-7-199-2.richland.edu
-NXDOMAIN	static-209-7-199-9.richland.edu
-NXDOMAIN	nsec.richland.edu
-NOERROR	alumni.richland.edu
-NOERROR	wise1.richland.edu
-NXDOMAIN	cws.richland.edu
-NXDOMAIN	static-209-7-199-26.richland.edu
-NXDOMAIN	mail.richland.edu
-NXDOMAIN	static-209-7-199-6.richland.edu
-NXDOMAIN	viu.richland.edu
-NXDOMAIN	static-209-7-199-19.richland.edu
-NOERROR	owa.richland.edu
-NXDOMAIN	techprep.richland.edu
-NXDOMAIN	static-209-7-199-10.richland.edu
-NXDOMAIN	static-209-7-199-14.richland.edu
-NXDOMAIN	static-209-7-199-3.richland.edu
-NOERROR	calendar.richland.edu
-NXDOMAIN	static-209-7-199-20.richland.edu
-NOERROR	jics.richland.edu
-NXDOMAIN	www.officewebapps.richland.edu
-NXDOMAIN	drupal.richland.edu
-NOERROR	richland.edu
-NXDOMAIN	static-209-7-199-11.richland.edu
-NOERROR	zimbra.richland.edu
-NXDOMAIN	angel.richland.edu
-NXDOMAIN	static-64-107-108-120.richland.edu
-NXDOMAIN	static-64-107-108-115.richland.edu
-NOERROR	projectread.richland.edu
-NXDOMAIN	static-209-7-199-21.richland.edu
-NXDOMAIN	static-209-7-199-29.richland.edu
-NXDOMAIN	static-209-7-199-13.richland.edu
-NXDOMAIN	video.richland.edu
-NOERROR	argos.richland.edu
+onssi.richland.edu
+www.richland.edu
+ns1.richland.edu
+discourse.richland.edu
+www2.richland.edu
+www-dev.richland.edu
+smtp.richland.edu
+rcc6test.richland.edu
+weblogin.richland.edu
+ds3.richland.edu
+gw1.richland.edu
+ns2.richland.edu
+people.richland.edu
+gw2.richland.edu
+my.richland.edu
+remote.richland.edu
+alumni.richland.edu
+wise1.richland.edu
+owa.richland.edu
+calendar.richland.edu
+jics.richland.edu
+richland.edu
+zimbra.richland.edu
+projectread.richland.edu
+argos.richland.edu

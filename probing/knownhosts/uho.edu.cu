@@ -1,30 +1,24 @@
-NOERROR	mail.uho.edu.cu
-NOERROR	observatorio.uho.edu.cu
-NOERROR	www.eventos.uho.edu.cu
-NXDOMAIN	www.ci.uho.edu.cu
-NOERROR	repositorio.uho.edu.cu
-NXDOMAIN	correoweb.uho.edu.cu
-NOERROR	deporvida.uho.edu.cu
-NOERROR	tecedu.uho.edu.cu
-NOERROR	cesoftad.uho.edu.cu
-NOERROR	ns2.uho.edu.cu
-NOERROR	luz.uho.edu.cu
-NOERROR	abcd.uho.edu.cu
-NOERROR	www.deporvida.uho.edu.cu
-NOERROR	sadhea.uho.edu.cu
-NOERROR	uho.edu.cu
-NXDOMAIN	doctoradocp.uho.edu.cu
-NXDOMAIN	www.correo.uho.edu.cu
-NOERROR	correo.uho.edu.cu
-NOERROR	www.uho.edu.cu
-NXDOMAIN	www.correoweb.uho.edu.cu
-NOERROR	mail1.uho.edu.cu
-NOERROR	educa.uho.edu.cu
-NOERROR	www.ict.uho.edu.cu
-NOERROR	eventos.uho.edu.cu
-NOERROR	moodle.uho.edu.cu
-NOERROR	redbibliotecas.uho.edu.cu
-NOERROR	foros.uho.edu.cu
-NOERROR	ns1.uho.edu.cu
-NXDOMAIN	ftp.uho.edu.cu
-NOERROR	cadcam.uho.edu.cu
+mail.uho.edu.cu
+observatorio.uho.edu.cu
+www.eventos.uho.edu.cu
+repositorio.uho.edu.cu
+deporvida.uho.edu.cu
+tecedu.uho.edu.cu
+cesoftad.uho.edu.cu
+ns2.uho.edu.cu
+luz.uho.edu.cu
+abcd.uho.edu.cu
+www.deporvida.uho.edu.cu
+sadhea.uho.edu.cu
+uho.edu.cu
+correo.uho.edu.cu
+www.uho.edu.cu
+mail1.uho.edu.cu
+educa.uho.edu.cu
+www.ict.uho.edu.cu
+eventos.uho.edu.cu
+moodle.uho.edu.cu
+redbibliotecas.uho.edu.cu
+foros.uho.edu.cu
+ns1.uho.edu.cu
+cadcam.uho.edu.cu

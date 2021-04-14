@@ -1,26 +1,19 @@
-NOERROR	webdisk.mcst.edu.sa
-NOERROR	student.mcst.edu.sa
-NOERROR	ns2.mcst.edu.sa
-NXDOMAIN	alumni.mcst.edu.sa
-NOERROR	lms.mcst.edu.sa
-NXDOMAIN	www.mcs.mcst.edu.sa
-NOERROR	webmail.mcst.edu.sa
-NOERROR	sdg.mcst.edu.sa
-NOERROR	www.portal.mcst.edu.sa
-NXDOMAIN	autodiscover.mcst.edu.sa
-NOERROR	www.library.mcst.edu.sa
-NOERROR	mcst.edu.sa
-NOERROR	ess.mcst.edu.sa
-NXDOMAIN	cme.mcst.edu.sa
-NOERROR	portal.mcst.edu.sa
-NOERROR	cpcalendars.mcst.edu.sa
-NOERROR	cpcontacts.mcst.edu.sa
-NXDOMAIN	mcs.mcst.edu.sa
-NOERROR	cpanel.mcst.edu.sa
-NOERROR	www.mcst.edu.sa
-NOERROR	www.student.mcst.edu.sa
-NXDOMAIN	www.lms.mcst.edu.sa
-NOERROR	library.mcst.edu.sa
-NOERROR	ns1.mcst.edu.sa
-NXDOMAIN	forum.mcst.edu.sa
-NOERROR	mail.mcst.edu.sa
+webdisk.mcst.edu.sa
+student.mcst.edu.sa
+ns2.mcst.edu.sa
+lms.mcst.edu.sa
+webmail.mcst.edu.sa
+sdg.mcst.edu.sa
+www.portal.mcst.edu.sa
+www.library.mcst.edu.sa
+mcst.edu.sa
+ess.mcst.edu.sa
+portal.mcst.edu.sa
+cpcalendars.mcst.edu.sa
+cpcontacts.mcst.edu.sa
+cpanel.mcst.edu.sa
+www.mcst.edu.sa
+www.student.mcst.edu.sa
+library.mcst.edu.sa
+ns1.mcst.edu.sa
+mail.mcst.edu.sa

@@ -1,308 +1,217 @@
-NOERROR	ns1.pratt.edu
-NOERROR	libguides.pratt.edu
-NOERROR	dal.pratt.edu
-NOERROR	exploreprattgradinfoscience.pratt.edu
-NXDOMAIN	www.picturepark.pratt.edu
-NOERROR	nagios.pratt.edu
-NOERROR	portfolios.pratt.edu
-NXDOMAIN	acnet.pratt.edu
-NXDOMAIN	certauth.login.pratt.edu
-NOERROR	wadvtes.pratt.edu
-NOERROR	payments.pratt.edu
-NOERROR	webmail.pratt.edu
-NXDOMAIN	ng-ise1.pratt.edu
-NOERROR	pg.pratt.edu
-NXDOMAIN	webdev.pratt.edu
-NOERROR	provostcourses.pratt.edu
-NOERROR	parents.pratt.edu
-NXDOMAIN	ng-ise2.pratt.edu
-NXDOMAIN	w14-wireless.pratt.edu
-NOERROR	plannedgiving.pratt.edu
-NXDOMAIN	server73.pratt.edu
-NOERROR	sspdir.pratt.edu
-NOERROR	uiwebapi.pratt.edu
-NOERROR	exploregradinterior.pratt.edu
-NOERROR	trisigma.pratt.edu
-NOERROR	incubator.pratt.edu
-NXDOMAIN	ng-ise4.pratt.edu
-NOERROR	prattcenter.pratt.edu
-NXDOMAIN	gaudseminars.pratt.edu
-NOERROR	gaudisap.pratt.edu
-NOERROR	facilities.pratt.edu
-NXDOMAIN	oneprattobt-test.pratt.edu
-NOERROR	es.pratt.edu
-NOERROR	contacts.pratt.edu
-NXDOMAIN	www.acs1.pratt.edu
-NOERROR	wwwlyndacom.ezproxy.pratt.edu
-NOERROR	kx.pratt.edu
-NOERROR	alerts.pratt.edu
-NOERROR	i20.pratt.edu
-NOERROR	ng-gc.pratt.edu
-NOERROR	server93.pratt.edu
-NOERROR	webadvisor18.pratt.edu
-NXDOMAIN	brooklyn.pratt.edu
-NOERROR	scpsintensives.pratt.edu
-NOERROR	ariel-library.pratt.edu
-NXDOMAIN	careerweb.pratt.edu
-NXDOMAIN	pop.pratt.edu
-NOERROR	portal.pratt.edu
-NOERROR	myreports.pratt.edu
-NXDOMAIN	ng-ise3.pratt.edu
-NXDOMAIN	bkcup02.pratt.edu
-NOERROR	gaudplus.pratt.edu
-NOERROR	ces.pratt.edu
-NOERROR	ac-sophos-offsite.pratt.edu
-NXDOMAIN	communicatortest.pratt.edu
-NXDOMAIN	ac-pharos2.pratt.edu
-NOERROR	careers.pratt.edu
-NOERROR	support.pratt.edu
-NOERROR	adfs.pratt.edu
-NXDOMAIN	vpn.pratt.edu
-NOERROR	com.ezproxy.pratt.edu
-NOERROR	ns3.pratt.edu
-NXDOMAIN	vm-ftp.pratt.edu
-NOERROR	checklist.pratt.edu
-NOERROR	radiostream.pratt.edu
-NOERROR	prattcat.pratt.edu
-NOERROR	labs.pratt.edu
-NOERROR	scisociety.pratt.edu
-NOERROR	search.ebscohost.com.ezproxy.pratt.edu
-NOERROR	server49.pratt.edu
-NOERROR	addressbook.pratt.edu
-NOERROR	purchaseit.pratt.edu
-NXDOMAIN	acdb.pratt.edu
-NOERROR	korn.pratt.edu
-NOERROR	cavs-video.pratt.edu
-NXDOMAIN	lmsdev.pratt.edu
-NOERROR	files.pratt.edu
-NOERROR	bfacomdthesis.pratt.edu
-NXDOMAIN	cgim.pratt.edu
-NXDOMAIN	certauth.login-test1.pratt.edu
-NOERROR	server34.pratt.edu
-NOERROR	talent.pratt.edu
-NOERROR	search.proquest.com.ezproxy.pratt.edu
-NXDOMAIN	server58.pratt.edu
-NOERROR	reslife.pratt.edu
-NXDOMAIN	ng-npsradius02.pratt.edu
-NOERROR	cloud.messages.pratt.edu
-NOERROR	prattjournalofarchitecture.pratt.edu
-NOERROR	astro.pratt.edu
-NXDOMAIN	bo-4-prod2.pratt.edu
-NOERROR	pratt.edu
-NXDOMAIN	announce.pratt.edu
-NOERROR	ab.pratt.edu
-NOERROR	ssstest.pratt.edu
-NOERROR	vals.pratt.edu
-NXDOMAIN	vm-bms.pratt.edu
-NOERROR	meet.pratt.edu
-NOERROR	rkorn.pratt.edu
-NOERROR	inside.pratt.edu
-NXDOMAIN	odysseywebdev.pratt.edu
-NOERROR	tms.pratt.edu
-NOERROR	connect.pratt.edu
-NOERROR	payments-prod.pratt.edu
-NOERROR	dda.pratt.edu
-NXDOMAIN	www.exploregraduate.pratt.edu
-NXDOMAIN	appdev.pratt.edu
-NXDOMAIN	imap.pratt.edu
-NXDOMAIN	survey.pratt.edu
-NOERROR	bookstore-sequoia.pratt.edu
-NXDOMAIN	bkcucm01.pratt.edu
-NXDOMAIN	server11.pratt.edu
-NXDOMAIN	acnet2.pratt.edu
-NOERROR	prattcard.pratt.edu
-NXDOMAIN	www.exploregradarch.pratt.edu
-NOERROR	help.pratt.edu
-NXDOMAIN	adsp2.pratt.edu
-NXDOMAIN	nps.pratt.edu
-NOERROR	pubftp.pratt.edu
-NOERROR	lib-dev.pratt.edu
-NXDOMAIN	server16.pratt.edu
-NXDOMAIN	ng-ise.pratt.edu
-NOERROR	validate.pratt.edu
-NXDOMAIN	es-sunapsisapptest.pratt.edu
-NOERROR	greg.pratt.edu
-NOERROR	ccpd.pratt.edu
-NXDOMAIN	www.admissions.pratt.edu
-NXDOMAIN	ac-wsus.pratt.edu
-NXDOMAIN	www.exploregradinterior.pratt.edu
-NOERROR	remotelabs.pratt.edu
-NXDOMAIN	webctrl.pratt.edu
-NOERROR	server37.pratt.edu
-NOERROR	ac.pratt.edu
-NOERROR	commadmintest.pratt.edu
-NOERROR	rews.pratt.edu
-NOERROR	ns2.pratt.edu
-NXDOMAIN	ldap-master.pratt.edu
-NOERROR	sga.pratt.edu
-NOERROR	qr.pratt.edu
-NOERROR	fundfor.pratt.edu
-NXDOMAIN	epssdir.pratt.edu
-NOERROR	ns4.pratt.edu
-NOERROR	medicalservices.pratt.edu
-NOERROR	ldap2.pratt.edu
-NOERROR	mta.messages.pratt.edu
-NOERROR	security.pratt.edu
-NXDOMAIN	meet2.pratt.edu
-NOERROR	cfvmsharepoint.pratt.edu
-NXDOMAIN	cgim-class.pratt.edu
-NOERROR	csds.pratt.edu
-NOERROR	mungomail.pratt.edu
-NOERROR	nextcatalog.pratt.edu
-NXDOMAIN	lms-archive.pratt.edu
-NOERROR	ebill-test.pratt.edu
-NOERROR	tiny.pratt.edu
-NXDOMAIN	imap2.pratt.edu
-NOERROR	ldap1.pratt.edu
-NXDOMAIN	esdev.pratt.edu
-NOERROR	mathsci.pratt.edu
-NOERROR	familyregistration.pratt.edu
-NOERROR	view.messages.pratt.edu
-NXDOMAIN	www0.pratt.edu
-NXDOMAIN	netbox.pratt.edu
-NOERROR	networks.pratt.edu
-NOERROR	www.pratt.edu
-NXDOMAIN	login-test1.pratt.edu
-NOERROR	onekey.pratt.edu
-NOERROR	acftp.pratt.edu
-NOERROR	ac-medesktop.pratt.edu
-NXDOMAIN	itdocs.pratt.edu
-NOERROR	architecture.pratt.edu
-NOERROR	mail.pratt.edu
-NOERROR	search.alexanderstreet.com.ezproxy.pratt.edu
-NOERROR	server23.pratt.edu
-NOERROR	exploregradarch.pratt.edu
-NOERROR	lms.pratt.edu
-NOERROR	wa18.pratt.edu
-NOERROR	my.pratt.edu
-NXDOMAIN	es-sunappsisapp2testa.pratt.edu
-NOERROR	webmeet2.pratt.edu
-NOERROR	webmeet.pratt.edu
-NOERROR	prattshows2020.pratt.edu
-NOERROR	sils.pratt.edu
-NXDOMAIN	acs2.pratt.edu
-NOERROR	socialexplorer.com.ezproxy.pratt.edu
-NOERROR	datawh1.pratt.edu
-NOERROR	picturepark.pratt.edu
-NXDOMAIN	eportfolio.pratt.edu
-NXDOMAIN	ewayc.pratt.edu
-NOERROR	ewaye.pratt.edu
-NOERROR	giving.pratt.edu
-NOERROR	smtp2.pratt.edu
-NOERROR	aoe.pratt.edu
-NOERROR	www.jstor.org.ezproxy.pratt.edu
-NOERROR	hadpratt.pratt.edu
-NXDOMAIN	certauth.login-test.pratt.edu
-NOERROR	pmc.pratt.edu
-NOERROR	toxics.pratt.edu
-NOERROR	itunesu.pratt.edu
-NOERROR	signature.pratt.edu
-NOERROR	mysite.pratt.edu
-NOERROR	adminprattshows2020.pratt.edu
-NXDOMAIN	analogue.pratt.edu
-NOERROR	talks.pratt.edu
-NOERROR	cat.pratt.edu
-NOERROR	lockit.pratt.edu
-NOERROR	explore.pratt.edu
-NOERROR	hosting1.pratt.edu
-NXDOMAIN	bkcucm03.pratt.edu
-NXDOMAIN	server50.pratt.edu
-NOERROR	digication.pratt.edu
-NXDOMAIN	development1.pratt.edu
-NOERROR	library.pratt.edu
-NXDOMAIN	www.exploregradfinearts.pratt.edu
-NOERROR	server102.pratt.edu
-NOERROR	canvas.pratt.edu
-NOERROR	sci177.pratt.edu
-NOERROR	mobile.pratt.edu
-NOERROR	bfda.pratt.edu
-NOERROR	prattrec.pratt.edu
-NOERROR	watest.pratt.edu
-NXDOMAIN	bkcucm02.pratt.edu
-NOERROR	login-test.pratt.edu
-NXDOMAIN	www.exploreprattgradinfoscience.pratt.edu
-NOERROR	exploregraduate.pratt.edu
-NOERROR	netreg.pratt.edu
-NXDOMAIN	zimbra.pratt.edu
-NOERROR	designcorps.pratt.edu
-NOERROR	commencement2020.pratt.edu
-NXDOMAIN	enterpriseregistration.pratt.edu
-NOERROR	eforms.pratt.edu
-NOERROR	gateway.pratt.edu
-NOERROR	server31.pratt.edu
-NXDOMAIN	server301.pratt.edu
-NOERROR	ebill-prod.pratt.edu
-NOERROR	old37.pratt.edu
-NOERROR	server103.pratt.edu
-NOERROR	dfg.pratt.edu
-NOERROR	server304.pratt.edu
-NXDOMAIN	server29.pratt.edu
-NOERROR	scisustain.pratt.edu
-NXDOMAIN	artfilm.pratt.edu
-NOERROR	alumni.pratt.edu
-NXDOMAIN	testldap.pratt.edu
-NOERROR	server09.pratt.edu
-NOERROR	deposit.pratt.edu
-NXDOMAIN	iep.pratt.edu
-NOERROR	communicator.pratt.edu
-NOERROR	smtp.pratt.edu
-NXDOMAIN	ac-admin.pratt.edu
-NOERROR	archhist.pratt.edu
-NOERROR	docuware.pratt.edu
-NOERROR	odyssey.pratt.edu
-NOERROR	ssspro.pratt.edu
-NOERROR	server303.pratt.edu
-NOERROR	webadvisor.pratt.edu
-NXDOMAIN	list.pratt.edu
-NOERROR	wadmz.pratt.edu
-NOERROR	ecoarch.pratt.edu
-NOERROR	admissions.pratt.edu
-NOERROR	redirects.pratt.edu
-NOERROR	radio.pratt.edu
-NOERROR	messages.pratt.edu
-NOERROR	pmcvpn.pratt.edu
-NOERROR	login.ezproxy.pratt.edu
-NOERROR	commonsdev.pratt.edu
-NOERROR	studentcheckin.pratt.edu
-NOERROR	vm-sdadfs.pratt.edu
-NOERROR	commons.pratt.edu
-NOERROR	prattshows.pratt.edu
-NOERROR	exploregradfinearts.pratt.edu
-NXDOMAIN	server35.pratt.edu
-NOERROR	prattshows2017.pratt.edu
-NOERROR	prostudies.pratt.edu
-NOERROR	hadthesis.pratt.edu
-NXDOMAIN	bkunity01.pratt.edu
-NOERROR	ezproxy.pratt.edu
-NOERROR	odysseyweb.pratt.edu
-NOERROR	localhost.pratt.edu
-NOERROR	scps.pratt.edu
-NXDOMAIN	webstaging.pratt.edu
-NOERROR	smtp1.pratt.edu
-NXDOMAIN	bkunity02.pratt.edu
-NOERROR	click.messages.pratt.edu
-NOERROR	image.messages.pratt.edu
-NXDOMAIN	bkcup01.pratt.edu
-NOERROR	ldap.pratt.edu
-NXDOMAIN	www.explore.pratt.edu
-NOERROR	kx2.pratt.edu
-NOERROR	sslvpn.pratt.edu
-NOERROR	stars.pratt.edu
-NOERROR	www.sciencedirect.com.ezproxy.pratt.edu
-NOERROR	server17.pratt.edu
-NXDOMAIN	ng-npsradius01.pratt.edu
-NXDOMAIN	125.pratt.edu
-NOERROR	catalog.pratt.edu
-NOERROR	server24.pratt.edu
-NOERROR	gethelp.pratt.edu
-NOERROR	commadmin.pratt.edu
-NOERROR	web.ebscohost.com.ezproxy.pratt.edu
-NOERROR	login.pratt.edu
-NOERROR	cfsharepoint.pratt.edu
-NXDOMAIN	dspace.pratt.edu
-NXDOMAIN	beta.pratt.edu
-NOERROR	si.pratt.edu
-NOERROR	archives.pratt.edu
-NOERROR	server48.pratt.edu
-NXDOMAIN	acs1.pratt.edu
-NOERROR	calendar.pratt.edu
+ns1.pratt.edu
+libguides.pratt.edu
+dal.pratt.edu
+exploreprattgradinfoscience.pratt.edu
+nagios.pratt.edu
+portfolios.pratt.edu
+wadvtes.pratt.edu
+payments.pratt.edu
+webmail.pratt.edu
+pg.pratt.edu
+provostcourses.pratt.edu
+parents.pratt.edu
+plannedgiving.pratt.edu
+sspdir.pratt.edu
+uiwebapi.pratt.edu
+exploregradinterior.pratt.edu
+trisigma.pratt.edu
+incubator.pratt.edu
+prattcenter.pratt.edu
+gaudisap.pratt.edu
+facilities.pratt.edu
+es.pratt.edu
+contacts.pratt.edu
+wwwlyndacom.ezproxy.pratt.edu
+kx.pratt.edu
+alerts.pratt.edu
+i20.pratt.edu
+ng-gc.pratt.edu
+server93.pratt.edu
+webadvisor18.pratt.edu
+scpsintensives.pratt.edu
+ariel-library.pratt.edu
+portal.pratt.edu
+myreports.pratt.edu
+gaudplus.pratt.edu
+ces.pratt.edu
+ac-sophos-offsite.pratt.edu
+careers.pratt.edu
+support.pratt.edu
+adfs.pratt.edu
+com.ezproxy.pratt.edu
+ns3.pratt.edu
+checklist.pratt.edu
+radiostream.pratt.edu
+prattcat.pratt.edu
+labs.pratt.edu
+scisociety.pratt.edu
+search.ebscohost.com.ezproxy.pratt.edu
+server49.pratt.edu
+addressbook.pratt.edu
+purchaseit.pratt.edu
+korn.pratt.edu
+cavs-video.pratt.edu
+files.pratt.edu
+bfacomdthesis.pratt.edu
+server34.pratt.edu
+talent.pratt.edu
+search.proquest.com.ezproxy.pratt.edu
+reslife.pratt.edu
+cloud.messages.pratt.edu
+prattjournalofarchitecture.pratt.edu
+astro.pratt.edu
+pratt.edu
+ab.pratt.edu
+ssstest.pratt.edu
+vals.pratt.edu
+meet.pratt.edu
+rkorn.pratt.edu
+inside.pratt.edu
+tms.pratt.edu
+connect.pratt.edu
+payments-prod.pratt.edu
+dda.pratt.edu
+bookstore-sequoia.pratt.edu
+prattcard.pratt.edu
+help.pratt.edu
+pubftp.pratt.edu
+lib-dev.pratt.edu
+validate.pratt.edu
+greg.pratt.edu
+ccpd.pratt.edu
+remotelabs.pratt.edu
+server37.pratt.edu
+ac.pratt.edu
+commadmintest.pratt.edu
+rews.pratt.edu
+ns2.pratt.edu
+sga.pratt.edu
+qr.pratt.edu
+fundfor.pratt.edu
+ns4.pratt.edu
+medicalservices.pratt.edu
+ldap2.pratt.edu
+mta.messages.pratt.edu
+security.pratt.edu
+cfvmsharepoint.pratt.edu
+csds.pratt.edu
+mungomail.pratt.edu
+nextcatalog.pratt.edu
+ebill-test.pratt.edu
+tiny.pratt.edu
+ldap1.pratt.edu
+mathsci.pratt.edu
+familyregistration.pratt.edu
+view.messages.pratt.edu
+networks.pratt.edu
+www.pratt.edu
+onekey.pratt.edu
+acftp.pratt.edu
+ac-medesktop.pratt.edu
+architecture.pratt.edu
+mail.pratt.edu
+search.alexanderstreet.com.ezproxy.pratt.edu
+server23.pratt.edu
+exploregradarch.pratt.edu
+lms.pratt.edu
+wa18.pratt.edu
+my.pratt.edu
+webmeet2.pratt.edu
+webmeet.pratt.edu
+prattshows2020.pratt.edu
+sils.pratt.edu
+socialexplorer.com.ezproxy.pratt.edu
+datawh1.pratt.edu
+picturepark.pratt.edu
+ewaye.pratt.edu
+giving.pratt.edu
+smtp2.pratt.edu
+aoe.pratt.edu
+www.jstor.org.ezproxy.pratt.edu
+hadpratt.pratt.edu
+pmc.pratt.edu
+toxics.pratt.edu
+itunesu.pratt.edu
+signature.pratt.edu
+mysite.pratt.edu
+adminprattshows2020.pratt.edu
+talks.pratt.edu
+cat.pratt.edu
+lockit.pratt.edu
+explore.pratt.edu
+hosting1.pratt.edu
+digication.pratt.edu
+library.pratt.edu
+server102.pratt.edu
+canvas.pratt.edu
+sci177.pratt.edu
+mobile.pratt.edu
+bfda.pratt.edu
+prattrec.pratt.edu
+watest.pratt.edu
+login-test.pratt.edu
+exploregraduate.pratt.edu
+netreg.pratt.edu
+designcorps.pratt.edu
+commencement2020.pratt.edu
+eforms.pratt.edu
+gateway.pratt.edu
+server31.pratt.edu
+ebill-prod.pratt.edu
+old37.pratt.edu
+server103.pratt.edu
+dfg.pratt.edu
+server304.pratt.edu
+scisustain.pratt.edu
+alumni.pratt.edu
+server09.pratt.edu
+deposit.pratt.edu
+communicator.pratt.edu
+smtp.pratt.edu
+archhist.pratt.edu
+docuware.pratt.edu
+odyssey.pratt.edu
+ssspro.pratt.edu
+server303.pratt.edu
+webadvisor.pratt.edu
+wadmz.pratt.edu
+ecoarch.pratt.edu
+admissions.pratt.edu
+redirects.pratt.edu
+radio.pratt.edu
+messages.pratt.edu
+pmcvpn.pratt.edu
+login.ezproxy.pratt.edu
+commonsdev.pratt.edu
+studentcheckin.pratt.edu
+vm-sdadfs.pratt.edu
+commons.pratt.edu
+prattshows.pratt.edu
+exploregradfinearts.pratt.edu
+prattshows2017.pratt.edu
+prostudies.pratt.edu
+hadthesis.pratt.edu
+ezproxy.pratt.edu
+odysseyweb.pratt.edu
+localhost.pratt.edu
+scps.pratt.edu
+smtp1.pratt.edu
+click.messages.pratt.edu
+image.messages.pratt.edu
+ldap.pratt.edu
+kx2.pratt.edu
+sslvpn.pratt.edu
+stars.pratt.edu
+www.sciencedirect.com.ezproxy.pratt.edu
+server17.pratt.edu
+catalog.pratt.edu
+server24.pratt.edu
+gethelp.pratt.edu
+commadmin.pratt.edu
+web.ebscohost.com.ezproxy.pratt.edu
+login.pratt.edu
+cfsharepoint.pratt.edu
+si.pratt.edu
+archives.pratt.edu
+server48.pratt.edu
+calendar.pratt.edu

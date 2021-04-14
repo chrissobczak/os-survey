@@ -1,1859 +1,1637 @@
-NOERROR	magma.uerj.br
-NOERROR	mapas.labgis.uerj.br
-SERVFAIL	www.latic.uerj.br
-NOERROR	m116-dfnae.fis.uerj.br
-NOERROR	ns2.mailauto.labgis.uerj.br
-NOERROR	www.telessaude.uerj.br
-NOERROR	www.ppgcom.uerj.br
-SERVFAIL	salas.ifch.uerj.br
-NOERROR	sistemas.vestibular.uerj.br
-NOERROR	cepuerj.uerj.br
-SERVFAIL	www.dein.eng.uerj.br
-NOERROR	cosiste99.cepuerj.uerj.br
-NOERROR	ctc.uerj.br
-NOERROR	node-b08.hepgrid.uerj.br
-NOERROR	virgem.lcr.uerj.br
-NOERROR	dbav8.dbav.uerj.br
-NOERROR	gw2.fdir.uerj.br
-NOERROR	labglicose.hupe.uerj.br
-NOERROR	m9-dfnae.fis.uerj.br
-NOERROR	ppgem.eng.uerj.br
-NOERROR	node-a08.hepgrid.uerj.br
-NOERROR	m28-deq.fis.uerj.br
-NOERROR	m2-deq.fis.uerj.br
-NOERROR	phoenix.prodeman.uerj.br
-NOERROR	cetreina.uerj.br
-NXDOMAIN	blau.iesp.uerj.br
-NOERROR	m81-lfnp.fis.uerj.br
-NOERROR	m15-deq.fis.uerj.br
-NXDOMAIN	aladdin2.lampada.uerj.br
-NOERROR	m92-lfnp.fis.uerj.br
-NOERROR	semanadomatematico.ime.uerj.br
-NOERROR	m99-lfnp.fis.uerj.br
-NOERROR	ead-homologacao.iprj.uerj.br
-NOERROR	www.cronicas.uerj.br
-NOERROR	www.curtanauerj.uerj.br
-NOERROR	ffp7.ffp.uerj.br
-NXDOMAIN	laptop.dcbg.uerj.br
-NOERROR	netuno.uerj.br
-NOERROR	m3-pg.fis.uerj.br
-NOERROR	defin3.defin.uerj.br
-NOERROR	pr2.uerj.br
-NOERROR	virtua.sirius.uerj.br
-NOERROR	concursos.srh.uerj.br
-NOERROR	lb1-dfat.fis.uerj.br
-NOERROR	email.iesp.uerj.br
-NOERROR	ns2.divulgacao.labgis.uerj.br
-NXDOMAIN	www3.cepuerj.uerj.br
-NOERROR	www.microbiologia.uerj.br
-NOERROR	www.cepuerj.uerj.br
-NOERROR	m8-dfat.fis.uerj.br
-NOERROR	eadfcm.telessaude.uerj.br
-NOERROR	www.pgeas.ffp.uerj.br
-NOERROR	dicor2.defin.uerj.br
-NOERROR	soi.srh.uerj.br
-NOERROR	fce2.faf.uerj.br
-NXDOMAIN	serveremail.hupe.uerj.br
-NOERROR	devmestrado.telessaude.uerj.br
-NOERROR	cloud.ims.uerj.br
-NOERROR	node-d18.hepgrid.uerj.br
-NOERROR	quadra.dir-fcm.uerj.br
-NOERROR	www.ccs.uerj.br
-NXDOMAIN	pesquisa.cepuerj.uerj.br
-NOERROR	telemedicina.lampada.uerj.br
-NOERROR	treinamento.hupe.uerj.br
-SERVFAIL	www.phppgadmin.uerj.br
-SERVFAIL	ifch-pos5.ifch.uerj.br
-NOERROR	profhistoria.uerj.br
-NOERROR	www.infancia-juventude.uerj.br
-NOERROR	www.acesso.uerj.br
-NOERROR	dbcg7.dbcg.uerj.br
-NOERROR	m19-dfnae.fis.uerj.br
-NOERROR	leo.dir-fcm.uerj.br
-NOERROR	www.sistemasextensao.uerj.br
-NOERROR	hera.lcr.uerj.br
-NOERROR	uerjonline.uerj.br
-NOERROR	srvweb01.uerj.br
-NOERROR	www.dinforme.uerj.br
-NOERROR	coprosel10.cepuerj.uerj.br
-NOERROR	www.dein.uerj.br
-NOERROR	joplin.prodeman.uerj.br
-NOERROR	www.prefeitura-protocolo.uerj.br
-NOERROR	m5-deq.fis.uerj.br
-NOERROR	www.cap2021.uerj.br
-NOERROR	imagens.dsea.uerj.br
-NXDOMAIN	hepgrid1.fis.uerj.br
-NOERROR	m80-lfnp.fis.uerj.br
-NOERROR	poseidon.lcr.uerj.br
-SERVFAIL	ifch-pos6.ifch.uerj.br
-NOERROR	spiphp1.cepuerj.uerj.br
-NOERROR	www.eleicao2015.uerj.br
-NOERROR	faf46.faf.uerj.br
-NOERROR	www.art.uerj.br
-NOERROR	www.economus.uerj.br
-NOERROR	dinfo.uerj.br
-NOERROR	correio-servicos.dinfo.uerj.br
-NOERROR	cap2019.uerj.br
-NOERROR	psico27.psicologia.uerj.br
-NOERROR	lb7-dfat.fis.uerj.br
-NOERROR	faf43.faf.uerj.br
-NOERROR	www.carto.eng.uerj.br
-NOERROR	sistemas.srh.uerj.br
-NOERROR	redcap.lampada.uerj.br
-NOERROR	micro3.dpl.uerj.br
-NOERROR	m61-dfnae.fis.uerj.br
-NOERROR	zabbix.dinfo.uerj.br
-NOERROR	caotec.uerj.br
-NOERROR	m12-dir.fis.uerj.br
-NOERROR	faf38.faf.uerj.br
-NOERROR	www.isda07.eng.uerj.br
-NXDOMAIN	www3.uerj.br
-NOERROR	www.boletimteste.uerj.br
-NOERROR	mail.ime.uerj.br
-NXDOMAIN	unidades7.homolog.uerj.br
-NOERROR	mysql-webmail-p-01.uerj.br
-NOERROR	fcm.uerj.br
-NOERROR	node-b16.hepgrid.uerj.br
-NOERROR	m124-lfnp.fis.uerj.br
-NOERROR	e-listas.uerj.br
-NXDOMAIN	wildfly10.cepuerj.uerj.br
-NOERROR	www.vestibular.uerj.br
-NOERROR	m14-deq.fis.uerj.br
-NOERROR	www.logos.uerj.br
-NOERROR	comuns5.adm2.uerj.br
-NOERROR	votacao.iprj.uerj.br
-NXDOMAIN	cloud.labgis.uerj.br
-NOERROR	alunos8.bib.fcm.uerj.br
-NOERROR	caia.uerj.br
-NOERROR	phpmyadmin.dinfo.uerj.br
-NOERROR	m32-deq.fis.uerj.br
-SERVFAIL	teleconsultoria.telessaude.uerj.br
-NOERROR	dbcg8.dbcg.uerj.br
-NOERROR	st0800.telessaude.uerj.br
-NOERROR	eduroam.uerj.br
-NOERROR	cepedes.uerj.br
-NOERROR	iprj.uerj.br
-NOERROR	m85-lfnp.fis.uerj.br
-NOERROR	fss10.fss.uerj.br
-NOERROR	www.pel.uerj.br
-NOERROR	m11-dfnae.fis.uerj.br
-NOERROR	www.desma.eng.uerj.br
-SERVFAIL	pve03.ifch.uerj.br
-NXDOMAIN	72.iesp.uerj.br
-NOERROR	www.cesa.eng.uerj.br
-NOERROR	webmail.divulgacao.labgis.uerj.br
-NOERROR	cesa.eng.uerj.br
-NOERROR	webconf.telessaude.uerj.br
-NOERROR	www.bvnec.uerj.br
-NOERROR	m8-pg.fis.uerj.br
-NOERROR	aries.lcr.uerj.br
-NOERROR	divulgacao.labgis.uerj.br
-NOERROR	catalogo-redesirius.uerj.br
-NOERROR	mpp2015.ime.uerj.br
-NOERROR	fss2.fss.uerj.br
-NOERROR	grupocasa.iesp.uerj.br
-NXDOMAIN	mail.iprj.uerj.br
-NXDOMAIN	spivc1.cepuerj.uerj.br
-NOERROR	m7-dfnae.fis.uerj.br
-NOERROR	uerjianospelomundo.latic.uerj.br
-NOERROR	ns01.dci.uerj.br
-NOERROR	m21-deq.fis.uerj.br
-NOERROR	www.ggp.uerj.br
-NOERROR	anacarolina.ime.uerj.br
-NOERROR	startuprio.ime.uerj.br
-NOERROR	touro.lcr.uerj.br
-NOERROR	servidor01.lee.uerj.br
-NOERROR	m28-dfnae.fis.uerj.br
-NOERROR	www.lcc.ime.uerj.br
-NOERROR	www.fss.uerj.br
-NOERROR	spivm1.cepuerj.uerj.br
-NOERROR	comicro-gw.uerj.br
-NOERROR	m2-dfat.fis.uerj.br
-NOERROR	node-a10.hepgrid.uerj.br
-NOERROR	m4-pg.fis.uerj.br
-NOERROR	dev.iprj.uerj.br
-NOERROR	connect.telessaude.uerj.br
-NOERROR	concursosadm.srh.uerj.br
-NOERROR	node-b00.hepgrid.uerj.br
-NOERROR	fss7.fss.uerj.br
-NOERROR	dicor.defin.uerj.br
-NOERROR	switch_sw004.cepuerj.uerj.br
-NOERROR	m26-dfnae.fis.uerj.br
-NOERROR	m4-dir.fis.uerj.br
-NOERROR	comuns1.adm2.uerj.br
-NOERROR	m98-dfnae.fis.uerj.br
-NOERROR	m2-pg.fis.uerj.br
-SERVFAIL	www.iefd.uerj.br
-NOERROR	m53-dfnae.fis.uerj.br
-NOERROR	esdi.uerj.br
-NOERROR	www.peamb.eng.uerj.br
-SERVFAIL	sociofilo.iesp.uerj.br
-NOERROR	npea.ims.uerj.br
-NOERROR	m79-lfnp.fis.uerj.br
-NOERROR	jupiter.lcr.uerj.br
-NOERROR	www.decult.uerj.br
-NOERROR	dial21.uerj.br
-NOERROR	www.ppgg.ffp.uerj.br
-NXDOMAIN	node1.sp.uerj.br
-NOERROR	ns1.hepgrid.uerj.br
-NOERROR	ns1.mailauto.labgis.uerj.br
-NOERROR	ffp8.ffp.uerj.br
-NOERROR	sec2.dbq.uerj.br
-NOERROR	drtc3.defin.uerj.br
-NOERROR	sergio.dir-fcm.uerj.br
-NOERROR	ead.ime.uerj.br
-NOERROR	ns03.hupe.uerj.br
-NOERROR	www.pibic.sr2.uerj.br
-SERVFAIL	cerebro.sr2.uerj.br
-NOERROR	unasus.uerj.br
-SERVFAIL	wp.fat.uerj.br
-NOERROR	moodle28.telessaude.uerj.br
-NOERROR	www.labev.uerj.br
-NOERROR	dbcg1.dbcg.uerj.br
-NOERROR	ns1.ims.uerj.br
-NOERROR	dci.uerj.br
-NOERROR	afrodite.lcr.uerj.br
-NXDOMAIN	coprosel11.cepuerj.uerj.br
-NOERROR	www.agenc.uerj.br
-NOERROR	www.cognicaocs.uerj.br
-NOERROR	m12-pg.fis.uerj.br
-NOERROR	faf24.faf.uerj.br
-NOERROR	www.crde-unati.uerj.br
-NOERROR	m44-deq.fis.uerj.br
-NOERROR	www.fce.uerj.br
-NOERROR	m71-lfnp.fis.uerj.br
-NOERROR	lb5-dfat.fis.uerj.br
-NOERROR	georgia.dbq.uerj.br
-NOERROR	wordpress.dsea.uerj.br
-NOERROR	m113-dfnae.fis.uerj.br
-NOERROR	sei.uerj.br
-NOERROR	wifi.esdi.uerj.br
-NOERROR	webmail.esdi.uerj.br
-NOERROR	f100cmaster.uerj.br
-NOERROR	www.obfrj.uerj.br
-NOERROR	ti.labgis.uerj.br
-NOERROR	gw-f1.letras.uerj.br
-NXDOMAIN	unidades7-old.uerj.br
-NOERROR	m6-pg.fis.uerj.br
-NOERROR	m3-dfat.fis.uerj.br
-NOERROR	env.uerj.br
-NOERROR	www.uerjviu.uerj.br
-NOERROR	m93-lfnp.fis.uerj.br
-NOERROR	faf49.faf.uerj.br
-NOERROR	www.amp.uerj.br
-NOERROR	setele_sw002.cepuerj.uerj.br
-NOERROR	services.hepgrid.uerj.br
-NOERROR	www.faf.uerj.br
-NOERROR	ns.hupe.uerj.br
-NOERROR	mail1.ims.uerj.br
-NOERROR	m97-dfnae.fis.uerj.br
-NXDOMAIN	dg002.dcbg.uerj.br
-NOERROR	node-b07.hepgrid.uerj.br
-NOERROR	m122-lfnp.fis.uerj.br
-NOERROR	faf50.faf.uerj.br
-NOERROR	cpd2.defin.uerj.br
-NOERROR	cetreina.dsea.uerj.br
-NOERROR	srv3.telessaude.uerj.br
-NOERROR	w3.inscricao.vestibular.uerj.br
-NOERROR	m106-dfnae.fis.uerj.br
-NOERROR	encontro.ccomp.ime.uerj.br
-NOERROR	www.alunoonline.uerj.br
-NOERROR	amp.uerj.br
-NOERROR	lcr-gw.uerj.br
-NOERROR	pc003.cepuerj.uerj.br
-NOERROR	mategramatica.ime.uerj.br
-NOERROR	www.demetra.uerj.br
-NXDOMAIN	www.uerjbisrv.uerj.br
-NXDOMAIN	phedex.hepgrid.uerj.br
-NOERROR	m3-deq.fis.uerj.br
-NOERROR	subversion01.hupe.uerj.br
-NOERROR	fceb8-gw.uerj.br
-NOERROR	www.agendafcs.uerj.br
-NOERROR	m117-lfnp.fis.uerj.br
-NOERROR	m90-lfnp.fis.uerj.br
-NOERROR	ns.lampada.uerj.br
-NOERROR	teste.iprj.uerj.br
-NOERROR	www.urologia.uerj.br
-NOERROR	msender.unasus.uerj.br
-NOERROR	pc261.cepuerj.uerj.br
-NOERROR	dial24.uerj.br
-NOERROR	frank.sr2.uerj.br
-NOERROR	www.wifi.esdi.uerj.br
-NOERROR	unasus-dev.latic.uerj.br
-NOERROR	unidades7-teste.uerj.br
-NOERROR	electra.mestredu.uerj.br
-SERVFAIL	www.geomatica.eng.uerj.br
-NOERROR	www.cap2012.uerj.br
-NOERROR	labserver01.hupe.uerj.br
-SERVFAIL	ifch-pos8.ifch.uerj.br
-NOERROR	psico16.psicologia.uerj.br
-NOERROR	m58-dfnae.fis.uerj.br
-NOERROR	ns1.srh.uerj.br
-NOERROR	faf39.faf.uerj.br
-NOERROR	ffp2.ffp.uerj.br
-NOERROR	www.ppgem.eng.uerj.br
-NOERROR	www.redp.uerj.br
-NOERROR	dns01.esdi.uerj.br
-NOERROR	m37-deq.fis.uerj.br
-NOERROR	squid.hepgrid.uerj.br
-NOERROR	www.biodiversidade.uerj.br
-NXDOMAIN	hpcordcoprosel.cepuerj.uerj.br
-NOERROR	m54-dfnae.fis.uerj.br
-NOERROR	m25-dfnae.fis.uerj.br
-NOERROR	www.detel.uerj.br
-NOERROR	m5-dfnae.fis.uerj.br
-NOERROR	uerj-gw.uerj.br
-NOERROR	dial14.uerj.br
-NXDOMAIN	dg004.dcbg.uerj.br
-NXDOMAIN	www.hepgrid.uerj.br
-NOERROR	dial25.uerj.br
-NOERROR	crater.uerj.br
-NOERROR	ccomp.ime.uerj.br
-NXDOMAIN	w5.inscricao.vestibular.uerj.br
-NOERROR	postgresql.desenv.uerj.br
-NOERROR	centraldeatendimento.uerj.br
-NOERROR	www.nupi.uerj.br
-NOERROR	m9-dfat.fis.uerj.br
-NOERROR	www.labimi.uerj.br
-NOERROR	www.campusresende.uerj.br
-NOERROR	faf31.faf.uerj.br
-NOERROR	ns2.labgis.uerj.br
-NXDOMAIN	dns.labgis.uerj.br
-NOERROR	srv-monitoramento.iprj.uerj.br
-NOERROR	ciclodepalestras.dsea.uerj.br
-NOERROR	alunos6.bib.fcm.uerj.br
-NXDOMAIN	fw.hupe.uerj.br
-NOERROR	www.lee.eng.uerj.br
-NOERROR	vm1c.uerj.br
-NOERROR	www.drive.uerj.br
-NOERROR	m31-dfnae.fis.uerj.br
-NOERROR	m14-dfat.fis.uerj.br
-NOERROR	m33-dfnae.fis.uerj.br
-NOERROR	ffp11.ffp.uerj.br
-NOERROR	secure.srh.uerj.br
-NOERROR	observatorio.iesp.uerj.br
-NOERROR	moodle.unasus.uerj.br
-NOERROR	pc001.cepuerj.uerj.br
-NOERROR	m32-dfnae.fis.uerj.br
-NOERROR	m94-lfnp.fis.uerj.br
-NOERROR	www.baja.iprj.uerj.br
-NOERROR	cocurso02.cepuerj.uerj.br
-NOERROR	fss6.fss.uerj.br
-NOERROR	pr3.uerj.br
-NOERROR	ava.sgp.uerj.br
-NOERROR	sistemas.hupe.uerj.br
-NOERROR	www.niesc.uerj.br
-NOERROR	faf21.faf.uerj.br
-NOERROR	m13-dfnae.fis.uerj.br
-NOERROR	m44-dfnae.fis.uerj.br
-NOERROR	dbcg-gw.uerj.br
-NOERROR	moodle.ims.uerj.br
-NOERROR	prova01.cepuerj.uerj.br
-NOERROR	m67-lfnp.fis.uerj.br
-NOERROR	m36-dfnae.fis.uerj.br
-NOERROR	hades.lcr.uerj.br
-SERVFAIL	lampada.uerj.br
-SERVFAIL	ifch-pos13.ifch.uerj.br
-SERVFAIL	urbandata.iesp.uerj.br
-NOERROR	micro2.dpl.uerj.br
-NOERROR	www.ead.uerj.br
-NXDOMAIN	alfred.ime.uerj.br
-NOERROR	node-b09.hepgrid.uerj.br
-NOERROR	www7.cepuerj.uerj.br
-NOERROR	m77-lfnp.fis.uerj.br
-NOERROR	www.revistadocahis.uerj.br
-NOERROR	phpmyadmin.uerj.br
-NOERROR	www.phpmyadmin.uerj.br
-NOERROR	apolo.lcr.uerj.br
-SERVFAIL	backuppc.ifch.uerj.br
-NOERROR	m108-dfnae.fis.uerj.br
-NOERROR	core.hepgrid.uerj.br
-NOERROR	m101-lfnp.fis.uerj.br
-NOERROR	lti.iprj.uerj.br
-NOERROR	m112-dfnae.fis.uerj.br
-NOERROR	node-b18.hepgrid.uerj.br
-NOERROR	speadm1.cepuerj.uerj.br
-NOERROR	postgresql.unidades.uerj.br
-NOERROR	drtc1.defin.uerj.br
-NOERROR	www5.uerj.br
-NOERROR	sr1-gw.uerj.br
-NXDOMAIN	76.iesp.uerj.br
-NOERROR	m40-deq.fis.uerj.br
-NOERROR	intranet.sr2.uerj.br
-NOERROR	www.corridabetinhopelavida.uerj.br
-NOERROR	www.cultec.uerj.br
-NOERROR	m51-dfnae.fis.uerj.br
-NOERROR	dmfc.fat.uerj.br
-NXDOMAIN	dg005.dcbg.uerj.br
-NOERROR	reservas.ime.uerj.br
-NOERROR	cam6.dinfo.uerj.br
-NOERROR	www.fcm.uerj.br
-NOERROR	boletimteste.uerj.br
-NOERROR	gridftp2.hepgrid.uerj.br
-NOERROR	dial10.uerj.br
-NXDOMAIN	openstack.hepgrid.uerj.br
-NXDOMAIN	router137.ims.uerj.br
-NOERROR	node-a03.hepgrid.uerj.br
-NOERROR	ffp9.ffp.uerj.br
-NXDOMAIN	hupepacs02.hupe.uerj.br
-NOERROR	site.ims.uerj.br
-NOERROR	intranet.srh.uerj.br
-SERVFAIL	www.museuafrorio.uerj.br
-NOERROR	www.dinfo.uerj.br
-NOERROR	www.legos.uerj.br
-NOERROR	xrootd.hepgrid.uerj.br
-NOERROR	dbcg4.dbcg.uerj.br
-NOERROR	m3-dfnae.fis.uerj.br
-NOERROR	rot2-gw.uerj.br
-NXDOMAIN	www2.uerj.br
-NOERROR	psico8.psicologia.uerj.br
-NOERROR	psico22.psicologia.uerj.br
-NOERROR	www.eduroam.uerj.br
-NOERROR	uerj.br
-NOERROR	decont2.defin.uerj.br
-NXDOMAIN	nextcloud.ims.uerj.br
-NOERROR	ns02.sr2.uerj.br
-NOERROR	especialmat.ime.uerj.br
-NOERROR	ng.dsea.uerj.br
-NOERROR	www.coart.uerj.br
-NOERROR	ffp12.ffp.uerj.br
-NOERROR	mpp2017.ime.uerj.br
-NOERROR	loki.lcr.uerj.br
-NOERROR	nt4defin.defin.uerj.br
-NXDOMAIN	rot1-gw.uerj.br
-NOERROR	micro2.bio.uerj.br
-NOERROR	lampada-gw.uerj.br
-NXDOMAIN	odin.sgp.uerj.br
-NOERROR	www.labgis.uerj.br
-NOERROR	fdir.uerj.br
-NOERROR	m43-dfnae.fis.uerj.br
-NOERROR	localhost.hupe.uerj.br
-NOERROR	spius1.cepuerj.uerj.br
-SERVFAIL	edu.uerj.br
-NOERROR	peixes.lcr.uerj.br
-NOERROR	faf44.faf.uerj.br
-NOERROR	www.ajesportes.uerj.br
-NOERROR	www.cetreina.uerj.br
-NOERROR	venus.lcr.uerj.br
-NOERROR	m43-deq.fis.uerj.br
-NOERROR	www.forumambiental.uerj.br
-NOERROR	crux.uerj.br
-NOERROR	gridftp1.hepgrid.uerj.br
-NOERROR	www.deamb.eng.uerj.br
-NOERROR	www.ouvidoria.uerj.br
-NOERROR	psico15.psicologia.uerj.br
-NOERROR	perseu.lcr.uerj.br
-NOERROR	idp-eduroam.uerj.br
-NOERROR	adolec.lampada.uerj.br
-NOERROR	www.ppgans.nutricao.uerj.br
-NOERROR	m96-dfnae.fis.uerj.br
-NOERROR	m41-dfnae.fis.uerj.br
-NOERROR	geohmount.labgis.uerj.br
-NOERROR	ava.labgis.uerj.br
-NXDOMAIN	srv3.unasus.uerj.br
-NOERROR	hupe.uerj.br
-NOERROR	cinova.fat.uerj.br
-NOERROR	www.posif.uerj.br
-NOERROR	m35-deq.fis.uerj.br
-SERVFAIL	www.adolec.uerj.br
-NOERROR	mig.sr2.uerj.br
-NOERROR	m91-lfnp.fis.uerj.br
-NXDOMAIN	www5.cepuerj.uerj.br
-NOERROR	wifi.labgis.uerj.br
-NOERROR	srh.uerj.br
-NOERROR	ffp10.ffp.uerj.br
-NOERROR	dft.dft.if.uerj.br
-NOERROR	www.atafona.uerj.br
-NOERROR	mail.mailauto.labgis.uerj.br
-NOERROR	cloudnpea.ims.uerj.br
-NOERROR	video.telessaude.uerj.br
-SERVFAIL	ifch-pos11.ifch.uerj.br
-NOERROR	iii.semanadomatematico.ime.uerj.br
-NOERROR	condor.hepgrid.uerj.br
-NOERROR	www.eneh.uerj.br
-NOERROR	node-a18.hepgrid.uerj.br
-NXDOMAIN	backup-hupe.hupe.uerj.br
-NOERROR	www6.cepuerj.uerj.br
-NXDOMAIN	fortinet.uerj.br
-NOERROR	copei.uerj.br
-NOERROR	node-a07.hepgrid.uerj.br
-NXDOMAIN	db2.hepgrid.uerj.br
-NOERROR	ca-faf1.faf.uerj.br
-NOERROR	dial13.uerj.br
-NOERROR	copeli2.adm2.uerj.br
-NOERROR	m107-dfnae.fis.uerj.br
-NOERROR	m120-lfnp.fis.uerj.br
-NOERROR	ppgee.uerj.br
-NOERROR	www.bvsims.uerj.br
-NOERROR	m66-lfnp.fis.uerj.br
-NOERROR	www.dce.uerj.br
-SERVFAIL	ocomon.hupe.uerj.br
-NOERROR	mpp2013.ime.uerj.br
-NOERROR	proiniciar.uerj.br
-NOERROR	www.cogere.uerj.br
-NOERROR	www.revista.vestibular.uerj.br
-NOERROR	capella.uerj.br
-NXDOMAIN	ppd.esdi.uerj.br
-NOERROR	prometeu.lcr.uerj.br
-NOERROR	nagios.hupe.uerj.br
-NOERROR	srv1.dsea.uerj.br
-NOERROR	fcs10f-gw.uerj.br
-NOERROR	m108-lfnp.fis.uerj.br
-NOERROR	cdit.fat.uerj.br
-SERVFAIL	ti.ifch.uerj.br
-NOERROR	m33-deq.fis.uerj.br
-SERVFAIL	ifch-pos3.ifch.uerj.br
-NOERROR	ww3.ims.uerj.br
-NOERROR	ffp4.ffp.uerj.br
-NOERROR	escorpiao.lcr.uerj.br
-NOERROR	quorum.hepgrid.uerj.br
-NOERROR	www.cehri.uerj.br
-NOERROR	www.dci.uerj.br
-NOERROR	www.hla.uerj.br
-NOERROR	inverno.iesp.uerj.br
-NOERROR	www.cap2011.uerj.br
-NOERROR	www.direito.uerj.br
-NOERROR	chamados.campusresende.uerj.br
-NOERROR	sec1.fss.uerj.br
-NOERROR	p1-dfnae.fis.uerj.br
-NOERROR	documentacao.dsea.uerj.br
-NOERROR	bi.dsea.uerj.br
-NOERROR	demeter.lcr.uerj.br
-NOERROR	minotouro.ime.uerj.br
-NOERROR	sistema.dsea.uerj.br
-NOERROR	dev.fat.uerj.br
-NOERROR	lpm5.lpm.uerj.br
-NOERROR	dbcg2.dbcg.uerj.br
-NOERROR	ns03.iprj.uerj.br
-NOERROR	www3.iesp.uerj.br
-NXDOMAIN	webcon.ims.uerj.br
-NOERROR	servidor-master.prodeman.uerj.br
-NOERROR	www.copei.uerj.br
-NOERROR	m46-dfnae.fis.uerj.br
-NOERROR	dir-fcm-gw.uerj.br
-NOERROR	m105-lfnp.fis.uerj.br
-NOERROR	sync.labgis.uerj.br
-NOERROR	iq-gw-306.uerj.br
-NOERROR	calisto.lcr.uerj.br
-NOERROR	www.jornalismo.uerj.br
-NOERROR	redeigeo.labgis.uerj.br
-NOERROR	faf37.faf.uerj.br
-NOERROR	node-b05.hepgrid.uerj.br
-NOERROR	m98-lfnp.fis.uerj.br
-NOERROR	unidades8.uerj.br
-NOERROR	faf27.faf.uerj.br
-NOERROR	karla.dbq.uerj.br
-NOERROR	bacula-store.hepgrid.uerj.br
-NOERROR	m37-dfnae.fis.uerj.br
-SERVFAIL	spiwf1.cepuerj.uerj.br
-NOERROR	www.proalfa.uerj.br
-NOERROR	m11-dir.fis.uerj.br
-NOERROR	boletimlerpe.uerj.br
-NOERROR	intranet.dsea.uerj.br
-NOERROR	thor.srh.uerj.br
-NOERROR	m69-lfnp.fis.uerj.br
-SERVFAIL	ap_servgen.cepuerj.uerj.br
-NOERROR	gw.dir-fcm.uerj.br
-NOERROR	m12-dfnae.fis.uerj.br
-NOERROR	hypatia.npea.ims.uerj.br
-NXDOMAIN	gatewayhupeteste.uerj.br
-NOERROR	m111-lfnp.fis.uerj.br
-NXDOMAIN	power.uerj.br
-NOERROR	www.iesp.uerj.br
-NOERROR	eradrj2016.ime.uerj.br
-NOERROR	www.lmcprot.uerj.br
-NOERROR	m14-dfnae.fis.uerj.br
-NOERROR	mailauto.labgis.uerj.br
-NOERROR	www.redmine.dinfo.uerj.br
-NXDOMAIN	www.montesquieu.iesp.uerj.br
-NOERROR	www.cempre.ime.uerj.br
-NXDOMAIN	chat.labgis.uerj.br
-NOERROR	fs.labgis.uerj.br
-NOERROR	asce.uerj.br
-NOERROR	fdir-a-gw.uerj.br
-NOERROR	iiencontro.ccomp.ime.uerj.br
-NOERROR	dns1.uerj.br
-NOERROR	faf9.faf.uerj.br
-NOERROR	node-a06.hepgrid.uerj.br
-NOERROR	orion.dsea.uerj.br
-NOERROR	m112-lfnp.fis.uerj.br
-SERVFAIL	www.cw003.weblocal.com.br.uerj.br
-NOERROR	m119-dfnae.fis.uerj.br
-NOERROR	cosiste98.cepuerj.uerj.br
-NOERROR	node-b11.hepgrid.uerj.br
-NOERROR	mysql.unidades.uerj.br
-NOERROR	ns1.dsea.uerj.br
-NOERROR	www.daf.uerj.br
-NOERROR	www.mecanica.uerj.br
-NOERROR	comuns6.adm2.uerj.br
-NOERROR	moodle.lampada.uerj.br
-NOERROR	cam2.dinfo.uerj.br
-NOERROR	pc002.cepuerj.uerj.br
-NOERROR	valquiria.lcr.uerj.br
-NOERROR	www.e-publicacoes.uerj.br
-SERVFAIL	mestradoold.telessaude.uerj.br
-NOERROR	www.ppgcee.uerj.br
-NOERROR	microbio-gw.uerj.br
-NOERROR	psico7.psicologia.uerj.br
-NOERROR	id-unico.uerj.br
-NOERROR	m27-dfnae.fis.uerj.br
-NOERROR	ns2.fcm.uerj.br
-NOERROR	www.transparencia.uerj.br
-NXDOMAIN	mail02.cepuerj.uerj.br
-NOERROR	mail.cepuerj.uerj.br
-NOERROR	postfixadmin.divulgacao.labgis.uerj.br
-NOERROR	novolabgisjr.labgis.uerj.br
-NOERROR	micro5.edai.uerj.br
-NXDOMAIN	coprosel02.cepuerj.uerj.br
-NOERROR	alunos2.bib.fcm.uerj.br
-NOERROR	hepgrid.uerj.br
-NOERROR	m2-dfnae.fis.uerj.br
-NOERROR	m4-deq.fis.uerj.br
-NOERROR	m21-dfnae.fis.uerj.br
-NOERROR	histologia-gw.uerj.br
-NXDOMAIN	perfsonar.hepgrid.uerj.br
-NXDOMAIN	www.webmail.uerj.br
-NOERROR	jboss1.prod.uerj.br
-NOERROR	fce.uerj.br
-NOERROR	www.philia.uerj.br
-NXDOMAIN	78.iesp.uerj.br
-NOERROR	desenintra.dsea.uerj.br
-NOERROR	m125-lfnp.fis.uerj.br
-SERVFAIL	roteador.ifch.uerj.br
-NOERROR	lpm2.lpm.uerj.br
-NOERROR	revista.dsea.uerj.br
-NOERROR	www.voluntarioscoronavirus.uerj.br
-NOERROR	lpg.ime.uerj.br
-NOERROR	srv1.cetreina.uerj.br
-NOERROR	m42-dfnae.fis.uerj.br
-NOERROR	ojs.latic.uerj.br
-NOERROR	www.secespifch.uerj.br
-NOERROR	portalgestao.uerj.br
-NOERROR	www.bitwebjr.uerj.br
-SERVFAIL	fs.ifch.uerj.br
-NOERROR	m104-dfnae.fis.uerj.br
-NOERROR	cam4.dinfo.uerj.br
-NOERROR	escolasdereferenciaseeduc.uerj.br
-NOERROR	ava.ims.uerj.br
-NOERROR	ffp1.ffp.uerj.br
-NOERROR	tetis.mestredu.uerj.br
-NOERROR	ead-3.uerj.br
-NOERROR	www.forumrio.uerj.br
-NOERROR	daa.uerj.br
-NOERROR	urano.lcr.uerj.br
-NOERROR	gw-ffp.uerj.br
-NOERROR	psico2.psicologia.uerj.br
-NOERROR	m12-deq.fis.uerj.br
-NOERROR	rot4-gw.uerj.br
-NOERROR	ead.uerj.br
-NOERROR	m27-deq.fis.uerj.br
-NOERROR	node-a11.hepgrid.uerj.br
-NOERROR	host1.uerj.br
-NXDOMAIN	www.pgpsa.uerj.br
-NOERROR	m103-dfnae.fis.uerj.br
-NOERROR	m104-lfnp.fis.uerj.br
-NOERROR	dbav1.dbav.uerj.br
-NOERROR	www.vestibularpmerj2017.uerj.br
-NOERROR	micro2.edai.uerj.br
-NOERROR	m1-dfnae.fis.uerj.br
-NOERROR	m5-pg.fis.uerj.br
-NOERROR	www.crc.uerj.br
-NOERROR	www.colirrfrlu.uerj.br
-NXDOMAIN	77.iesp.uerj.br
-NOERROR	hermes.lcr.uerj.br
-NOERROR	www.sistemas.uerj.br
-NOERROR	www.ppgocn.uerj.br
-NOERROR	www.fiscalizacao.vestibular.uerj.br
-NOERROR	www.ppghistoria.uerj.br
-NOERROR	webmail.homolog.uerj.br
-NOERROR	fss3.fss.uerj.br
-NOERROR	listas.esdi.uerj.br
-NOERROR	fat.uerj.br
-NOERROR	morpheu.lcr.uerj.br
-NOERROR	www.concinnitas.uerj.br
-NOERROR	m7-pg.fis.uerj.br
-NOERROR	cursos-extensao.labgis.uerj.br
-NOERROR	zenite.lcr.uerj.br
-SERVFAIL	ses.telessaude.uerj.br
-NOERROR	m6-dfat.fis.uerj.br
-NOERROR	node-b02.hepgrid.uerj.br
-NOERROR	docker-prod.uerj.br
-NOERROR	m125-dfnae.fis.uerj.br
-NOERROR	www.nea.uerj.br
-NOERROR	corretor.dev.dsea.uerj.br
-NOERROR	micro1.bio.uerj.br
-NOERROR	m16-deq.fis.uerj.br
-NOERROR	www2.ime.uerj.br
-NOERROR	www.meioambiente.uerj.br
-NOERROR	www.efoto.eng.uerj.br
-NOERROR	ims.uerj.br
-NOERROR	lb6-dfat.fis.uerj.br
-SERVFAIL	fs-backup.ifch.uerj.br
-NOERROR	www.rij.eng.uerj.br
-NOERROR	www.anped11.uerj.br
-NOERROR	taurus.uerj.br
-NXDOMAIN	www.2.uerj.br
-NXDOMAIN	estatistica.cepuerj.uerj.br
-NOERROR	mautic.labgis.uerj.br
-NOERROR	avate.pr3.uerj.br
-NOERROR	m119-lfnp.fis.uerj.br
-NOERROR	www.suporte.iprj.uerj.br
-NXDOMAIN	smtp.iprj.uerj.br
-NOERROR	decont4.defin.uerj.br
-SERVFAIL	revista.lppe.ifch.uerj.br
-NXDOMAIN	correio1.dinfo1.uerj.br
-NXDOMAIN	prod-frontend.hepgrid.uerj.br
-NOERROR	node-a16.hepgrid.uerj.br
-NOERROR	node-d15.hepgrid.uerj.br
-NOERROR	geografia.igeo.uerj.br
-NOERROR	iq-gw.uerj.br
-NOERROR	www.formularios.uerj.br
-NOERROR	sistemas.uerj.br
-NOERROR	draco.uerj.br
-NOERROR	core1.hepgrid.uerj.br
-NOERROR	anatomia.uerj.br
-NOERROR	www.dep.uerj.br
-NOERROR	comuns7.adm2.uerj.br
-NOERROR	cofi01.cepuerj.uerj.br
-NOERROR	sites1.labgis.uerj.br
-NOERROR	dbcg9.dbcg.uerj.br
-NOERROR	www.cartao.uerj.br
-NOERROR	protec.uerj.br
-NOERROR	spimon1.cepuerj.uerj.br
-NOERROR	m115-lfnp.fis.uerj.br
-NOERROR	smtp.esdi.uerj.br
-NOERROR	n1.web.dsea.uerj.br
-NOERROR	comuns9.adm2.uerj.br
-NOERROR	pfsense.hepgrid.uerj.br
-NOERROR	cofi22.cepuerj.uerj.br
-NOERROR	ead.telessaude.uerj.br
-NOERROR	drtc5.defin.uerj.br
-NOERROR	www.edulatosensu.uerj.br
-NOERROR	moodle.labgis.uerj.br
-NOERROR	renata.dir-fcm.uerj.br
-NOERROR	www.clipping.uerj.br
-NOERROR	www.pplin.uerj.br
-NOERROR	hplogistica.cepuerj.uerj.br
-NXDOMAIN	pc315.cepuerj.uerj.br
-NOERROR	professoronline.uerj.br
-NOERROR	dep-gw.uerj.br
-NOERROR	m9-dir.fis.uerj.br
-NOERROR	faf45.faf.uerj.br
-NOERROR	www.dcarh.uerj.br
-NOERROR	www.restauranteuniversitario.uerj.br
-NOERROR	alunos3.bib.fcm.uerj.br
-NOERROR	pegasus.uerj.br
-NOERROR	lpm6.lpm.uerj.br
-NOERROR	sites2.labgis.uerj.br
-NOERROR	tudosobreasma.telessaude.uerj.br
-NOERROR	avabbb.ims.uerj.br
-NOERROR	m115-dfnae.fis.uerj.br
-NOERROR	m89-lfnp.fis.uerj.br
-NOERROR	nupevi.iesp.uerj.br
-NOERROR	perseus.uerj.br
-NOERROR	switch_sw002.cepuerj.uerj.br
-NOERROR	m22-dfnae.fis.uerj.br
-NOERROR	www.wifi.uerj.br
-NOERROR	dbav2.dbav.uerj.br
-NOERROR	osgce.hepgrid.uerj.br
-NOERROR	lcr.uerj.br
-NOERROR	www.rsirius.uerj.br
-NOERROR	pictor.uerj.br
-NOERROR	geodata.labgis.uerj.br
-NOERROR	bel.fat.uerj.br
-NOERROR	www.biovasc.uerj.br
-NOERROR	www.calic.uerj.br
-NOERROR	m25-deq.fis.uerj.br
-NOERROR	m30-dfnae.fis.uerj.br
-NOERROR	beth.dir-fcm.uerj.br
-SERVFAIL	chamadosonline.campusresende.uerj.br
-NOERROR	security.srh.uerj.br
-NOERROR	www.mecatronica.eng.uerj.br
-NOERROR	fisiologia-gw.uerj.br
-NOERROR	capricornio.lcr.uerj.br
-NOERROR	lpm4.lpm.uerj.br
-NOERROR	www.grupogas.eng.uerj.br
-NOERROR	www.inclusaodigital.uerj.br
-NOERROR	anaconda.prodeman.uerj.br
-NOERROR	m97-lfnp.fis.uerj.br
-NOERROR	node-a02.hepgrid.uerj.br
-NOERROR	node-b13.hepgrid.uerj.br
-NOERROR	tempo.iprj.uerj.br
-SERVFAIL	anarquismo.lppe.ifch.uerj.br
-SERVFAIL	www.pibic.uerj.br
-NOERROR	hercules.lcr.uerj.br
-NOERROR	www.ppg-ecoevol.uerj.br
-NOERROR	cosiste01.cepuerj.uerj.br
-SERVFAIL	srv2.latic.uerj.br
-NOERROR	pisces.uerj.br
-NOERROR	shibd1.cepuerj.uerj.br
-NOERROR	www.roteiros.igeog.uerj.br
-NOERROR	defin2.defin.uerj.br
-NOERROR	m124-dfnae.fis.uerj.br
-NOERROR	portal.dsea.uerj.br
-NOERROR	switch_sw005.cepuerj.uerj.br
-NOERROR	www.geouerj.uerj.br
-NOERROR	tandberg.hepgrid.uerj.br
-NOERROR	www.phppgadmin.dinfo.uerj.br
-NOERROR	m24-dfnae.fis.uerj.br
-NXDOMAIN	pharmasociety.ims.uerj.br
-NOERROR	gateway.dbcg.uerj.br
-NOERROR	www.psicologia.uerj.br
-NOERROR	www.eng.uerj.br
-NOERROR	pyxis.uerj.br
-NOERROR	m2-dir.fis.uerj.br
-NOERROR	m4-dfat.fis.uerj.br
-NOERROR	ava.pr2.uerj.br
-NOERROR	www.comuns.uerj.br
-NOERROR	montesquieu.iesp.uerj.br
-NOERROR	faf29.faf.uerj.br
-NOERROR	srv1.telessaude.uerj.br
-NOERROR	decont.defin.uerj.br
-NXDOMAIN	cwg.sp.uerj.br
-NOERROR	lb11-dfat.fis.uerj.br
-NXDOMAIN	5.uerj.br
-NOERROR	www.ceed.uerj.br
-NXDOMAIN	novocepedes.labgis.uerj.br
-NXDOMAIN	w5.cepuerj.uerj.br
-NOERROR	node-b04.hepgrid.uerj.br
-NOERROR	m109-lfnp.fis.uerj.br
-NOERROR	canopus.uerj.br
-NOERROR	m105-dfnae.fis.uerj.br
-NOERROR	www.isebis.eng.uerj.br
-NXDOMAIN	webmail.iprj.uerj.br
-SERVFAIL	srv.ifch.uerj.br
-NXDOMAIN	dg006.dcbg.uerj.br
-NOERROR	politicasdesaude.uerj.br
-NOERROR	suporte.fat.uerj.br
-NOERROR	m4-elt.fis.uerj.br
-NOERROR	www.lppe.uerj.br
-NOERROR	www.capf.uerj.br
-NOERROR	cisco-proderj.uerj.br
-NOERROR	m110-lfnp.fis.uerj.br
-SERVFAIL	firewall.ifch.uerj.br
-NOERROR	www.neab-proafro.uerj.br
-NOERROR	www.cte.uerj.br
-NOERROR	dial17.uerj.br
-NOERROR	thinlinc04.uerj.br
-NOERROR	m23-dfnae.fis.uerj.br
-NOERROR	zimbra.lampada.uerj.br
-NOERROR	m1-elt.fis.uerj.br
-NOERROR	psico9.psicologia.uerj.br
-NOERROR	node-a05.hepgrid.uerj.br
-NOERROR	lpm7.lpm.uerj.br
-NOERROR	laramg.uerj.br
-NOERROR	www.ics.uerj.br
-NOERROR	p3-dfnae.fis.uerj.br
-NOERROR	ffp5.ffp.uerj.br
-NOERROR	www.neiffp.uerj.br
-NOERROR	redesirius.uerj.br
-NOERROR	ns2.campusresende.uerj.br
-NXDOMAIN	teste3.master.uerj.br
-NOERROR	m45-dfnae.fis.uerj.br
-NOERROR	comuns8.adm2.uerj.br
-NOERROR	suporte.cepuerj.uerj.br
-NOERROR	www.audin.uerj.br
-NOERROR	lemep.iesp.uerj.br
-NOERROR	www.profhistoria.uerj.br
-NOERROR	sisdev.vestibular.dsea.uerj.br
-NOERROR	m100-lfnp.fis.uerj.br
-NOERROR	amb-gw1.uerj.br
-SERVFAIL	fs2.ifch.uerj.br
-NOERROR	www.lcr.uerj.br
-NOERROR	www.lcad.iprj.uerj.br
-NOERROR	ns02.iprj.uerj.br
-NOERROR	estr.eng.uerj.br
-NOERROR	unidades5.uerj.br
-NOERROR	0800.telessaude.uerj.br
-NOERROR	especializacaomat.ime.uerj.br
-NXDOMAIN	gandiva.iesp.uerj.br
-NOERROR	m1-pg.fis.uerj.br
-SERVFAIL	pve02.ifch.uerj.br
-NOERROR	ingresso.febf.uerj.br
-SERVFAIL	ifch-pos9.ifch.uerj.br
-NXDOMAIN	treinamentosaude.hupe.uerj.br
-NOERROR	psico10.psicologia.uerj.br
-NOERROR	www.sisadm.uerj.br
-SERVFAIL	cadernos.iesp.uerj.br
-NOERROR	bbb.ims.uerj.br
-SERVFAIL	srv6.telessaude.uerj.br
-NOERROR	faf.uerj.br
-NOERROR	www.audiolab.uerj.br
-NOERROR	mailhost.uerj.br
-NOERROR	m102-dfnae.fis.uerj.br
-NOERROR	prefeitura-protocolo.uerj.br
-NOERROR	m50-dfnae.fis.uerj.br
-NOERROR	webconferencia.ims.uerj.br
-NOERROR	receiver.lampada.uerj.br
-NOERROR	eduerj.uerj.br
-NOERROR	vestibularweb.uerj.br
-NOERROR	quorum-antiga.hepgrid.uerj.br
-NOERROR	www.lampada.uerj.br
-NOERROR	dial22.uerj.br
-NOERROR	pel.uerj.br
-NOERROR	servidor01.lee.eng.uerj.br
-NOERROR	artemis.lcr.uerj.br
-NXDOMAIN	ava.srh.uerj.br
-NOERROR	m101-dfnae.fis.uerj.br
-NOERROR	www.ceoctavioianni.uerj.br
-NOERROR	m9-deq.fis.uerj.br
-NOERROR	node-d17.hepgrid.uerj.br
-SERVFAIL	semanamedicina.lampada.uerj.br
-NXDOMAIN	vitoria.srh.uerj.br
-NOERROR	m110-dfnae.fis.uerj.br
-NOERROR	m6-dfnae.fis.uerj.br
-NOERROR	www.proiniciar.uerj.br
-NOERROR	pegasus.lcr.uerj.br
-NOERROR	geoservicos.labgis.uerj.br
-NOERROR	www.lacon.uerj.br
-NOERROR	www.lmmc.uerj.br
-NOERROR	marte.lcr.uerj.br
-NOERROR	www.nutricao.uerj.br
-NOERROR	www.labtran.iprj.uerj.br
-NOERROR	lpm-gw.uerj.br
-NOERROR	suporte.hupe.uerj.br
-NOERROR	cerebro.telessaude.uerj.br
-NOERROR	psico6.psicologia.uerj.br
-NOERROR	nuper.iesp.uerj.br
-SERVFAIL	servercadsus.hupe.uerj.br
-NOERROR	mariadb-prod.uerj.br
-NOERROR	ulisses.lcr.uerj.br
-NOERROR	ldap.iprj.uerj.br
-NOERROR	dionizio.lcr.uerj.br
-NOERROR	www.cpa.uerj.br
-NOERROR	www.estacionamento.uerj.br
-NOERROR	roteador.prodeman.uerj.br
-NOERROR	m17-deq.fis.uerj.br
-NOERROR	www.ims.uerj.br
-NOERROR	fenix.lcr.uerj.br
-NOERROR	dicof2.defin.uerj.br
-NOERROR	lb4-dfat.fis.uerj.br
-NOERROR	m126-lfnp.fis.uerj.br
-NOERROR	www.cursos-teleodonto.uerj.br
-NOERROR	www.censograduacao.uerj.br
-NOERROR	m13-pg.fis.uerj.br
-NOERROR	www.decb.uerj.br
-NOERROR	www.pagem.uerj.br
-NOERROR	io.labgis.uerj.br
-NOERROR	www.boluerj.uerj.br
-NOERROR	psico5.psicologia.uerj.br
-NOERROR	www.uerj.br
-NOERROR	srv4.telessaude.uerj.br
-NOERROR	andromeda.lcr.uerj.br
-NOERROR	thinlinc02.uerj.br
-NOERROR	www.escolasdereferenciaseeduc.uerj.br
-NOERROR	m47-deq.fis.uerj.br
-NXDOMAIN	www.drive.unasus.uerj.br
-NOERROR	www.otoneurologia.uerj.br
-NOERROR	mpp2012.ime.uerj.br
-NXDOMAIN	server.if.uerj.br
-NOERROR	www.ppgecc.uerj.br
-NOERROR	imscloud.ims.uerj.br
-NOERROR	www.ceham.uerj.br
-NOERROR	www.cultivar.uerj.br
-NOERROR	jayme.dbq.uerj.br
-NXDOMAIN	remoteapp.hupe.uerj.br
-NOERROR	fdir-b-gw.uerj.br
-NOERROR	www.fisiocirurgia.uerj.br
-NOERROR	m59-dfnae.fis.uerj.br
-NXDOMAIN	icaatom.uerj.br
-NOERROR	www.pgbv.uerj.br
-NOERROR	alunoonline.uerj.br
-NOERROR	defin1.defin.uerj.br
-NOERROR	www.lti.iprj.uerj.br
-NXDOMAIN	arquivo.cepuerj.uerj.br
-NOERROR	avalie.hupe.uerj.br
-NOERROR	sirius.uerj.br
-NXDOMAIN	sunrise.dcbg.uerj.br
-NOERROR	en.mpp2013.ime.uerj.br
-NOERROR	bluedevmestrado.telessaude.uerj.br
-NOERROR	gw-mail.uerj.br
-NOERROR	cosiste02.cepuerj.uerj.br
-NOERROR	srv1-dsi.uerj.br
-NOERROR	m5-dfat.fis.uerj.br
-NOERROR	aquario.lcr.uerj.br
-NOERROR	pop.uerj.br
-NOERROR	alunos5.bib.fcm.uerj.br
-NOERROR	www.fat.uerj.br
-NOERROR	faf20.faf.uerj.br
-SERVFAIL	ifch-pos7.ifch.uerj.br
-NOERROR	m82-lfnp.fis.uerj.br
-NOERROR	gridftp-lb.hepgrid.uerj.br
-NOERROR	faf22.faf.uerj.br
-NOERROR	www.bdtd.uerj.br
-NOERROR	webmail.uerj.br
-NOERROR	sistemasextensao.uerj.br
-NOERROR	fcs-gw.uerj.br
-NOERROR	dep2.dep.sr1.uerj.br
-NOERROR	quadro.telessaude.uerj.br
-NOERROR	phppgadmin.uerj.br
-NOERROR	p2-dfnae.fis.uerj.br
-NOERROR	decont5.defin.uerj.br
-NOERROR	micro7.bib.fcm.uerj.br
-NOERROR	surveynpea.ims.uerj.br
-NOERROR	apus.uerj.br
-NOERROR	www.psi-sabersocial.uerj.br
-NOERROR	faf8.faf.uerj.br
-NOERROR	www.teleodonto.uerj.br
-NOERROR	thor.lcr.uerj.br
-NOERROR	desenrjn.www.telessaude.uerj.br
-NOERROR	prodeman-gw.uerj.br
-NOERROR	gw-pg.fis.uerj.br
-NOERROR	dados.iesp.uerj.br
-NOERROR	psico11.psicologia.uerj.br
-NOERROR	daa-gw.uerj.br
-NOERROR	www.ime.uerj.br
-NOERROR	www.odontologia.uerj.br
-NOERROR	fce8a-gw.uerj.br
-NOERROR	alunos4.bib.fcm.uerj.br
-NOERROR	m11-dfat.fis.uerj.br
-NOERROR	ap_cosiste.cepuerj.uerj.br
-NOERROR	revista.unati.uerj.br
-NOERROR	m73-lfnp.fis.uerj.br
-NOERROR	m118-lfnp.fis.uerj.br
-NOERROR	sistema.vestibular.uerj.br
-NOERROR	psico26.psicologia.uerj.br
-NOERROR	www.cepedes.uerj.br
-NOERROR	labtran.iprj.uerj.br
-NOERROR	m10-dfat.fis.uerj.br
-NOERROR	glaucia.dir-fcm.uerj.br
-NOERROR	mobilog.ims.uerj.br
-NOERROR	www2.iprj.uerj.br
-NOERROR	holle.eng.uerj.br
-NOERROR	www.ctc.uerj.br
-NOERROR	www.cap.uerj.br
-NOERROR	www.mecan.eng.uerj.br
-NOERROR	www.ecoaves.uerj.br
-NOERROR	ii.semanadomatematico.ime.uerj.br
-NOERROR	www.asuerj.uerj.br
-NOERROR	ii.senalem.ime.uerj.br
-NOERROR	www.asce.uerj.br
-NOERROR	www.pospsi.uerj.br
-NOERROR	50anos.iesp.uerj.br
-NXDOMAIN	www.cap2007.uerj.br
-NOERROR	www.eduerjlivros.uerj.br
-NOERROR	www.desenv.sistemas.uerj.br
-NXDOMAIN	servergen04.cepuerj.uerj.br
-NOERROR	www1.iprj.uerj.br
-NXDOMAIN	db1.hepgrid.uerj.br
-NOERROR	vm1b.uerj.br
-NOERROR	www.dtur.uerj.br
-SERVFAIL	ns01.sr2.uerj.br
-NXDOMAIN	75.iesp.uerj.br
-NOERROR	m70-lfnp.fis.uerj.br
-NOERROR	www2.datauerj.uerj.br
-NOERROR	www7.uerj.br
-NOERROR	lpp.uerj.br
-NOERROR	ns03.dci.uerj.br
-NOERROR	vmcoprosel.cepuerj.uerj.br
-NOERROR	wifi.uerj.br
-NOERROR	relet.iesp.uerj.br
-NOERROR	gentes.ims.uerj.br
-NOERROR	telessaude.uerj.br
-NOERROR	m48-dfnae.fis.uerj.br
-NXDOMAIN	gridftp5.hepgrid.uerj.br
-SERVFAIL	cursos.campusresende.uerj.br
-NOERROR	m113-lfnp.fis.uerj.br
-NOERROR	www.nuderg.uerj.br
-NOERROR	psico19.psicologia.uerj.br
-NOERROR	ppc.uerj.br
-NOERROR	faf42.faf.uerj.br
-NOERROR	cassiopea.uerj.br
-NOERROR	ocs.iesp.uerj.br
-NOERROR	www.elosnoticias.uerj.br
-NOERROR	asuerj.uerj.br
-NOERROR	micro3.bio.uerj.br
-NOERROR	www.coronavirus.uerj.br
-NOERROR	m114-lfnp.fis.uerj.br
-SERVFAIL	ifch-pos1.ifch.uerj.br
-NOERROR	db-gw.uerj.br
-NXDOMAIN	gwe.ims.uerj.br
-NOERROR	m2-elt.fis.uerj.br
-NOERROR	mariadb-unidades.uerj.br
-NXDOMAIN	w6.inscricao.vestibular.uerj.br
-SERVFAIL	www.phoenix.eng.uerj.br
-NOERROR	atlas.lampada.uerj.br
-NOERROR	www.cap2014.uerj.br
-NOERROR	ns2.ims.uerj.br
-NOERROR	chamados.ime.uerj.br
-NOERROR	www6.uerj.br
-NOERROR	node-a15.hepgrid.uerj.br
-NOERROR	m11-deq.fis.uerj.br
-NOERROR	negrinho.prodeman.uerj.br
-NOERROR	m16-dfnae.fis.uerj.br
-NOERROR	www.lagepro.uerj.br
-NOERROR	geep.iesp.uerj.br
-NOERROR	m13-dfat.fis.uerj.br
-NOERROR	m123-dfnae.fis.uerj.br
-NOERROR	sw1.uerj.br
-NXDOMAIN	drtc21.defin.uerj.br
-NOERROR	gateway.lpm.uerj.br
-NOERROR	ceres.iesp.uerj.br
-NOERROR	www.ppc.uerj.br
-NOERROR	www.lishep.uerj.br
-NOERROR	vinicius.ime.uerj.br
-NOERROR	m36-deq.fis.uerj.br
-NOERROR	www.igeo.uerj.br
-NOERROR	shijb1.cepuerj.uerj.br
-NOERROR	pfs.labgis.uerj.br
-NXDOMAIN	ctc-gw.uerj.br
-NOERROR	www.lav.uerj.br
-NOERROR	www.radiouerjonline.uerj.br
-NOERROR	cam5.dinfo.uerj.br
-NOERROR	midas.lcr.uerj.br
-NOERROR	arcturus.uerj.br
-NOERROR	node-b03.hepgrid.uerj.br
-NOERROR	ns2.fat.uerj.br
-NXDOMAIN	www.cap2006.uerj.br
-NOERROR	www.bhex.uerj.br
-NOERROR	dbav3.dbav.uerj.br
-NOERROR	galileu.lcr.uerj.br
-NOERROR	www.prodeman.uerj.br
-NOERROR	www.educacao.uerj.br
-NXDOMAIN	cofi12.cepuerj.uerj.br
-NOERROR	entrada.prodeman.uerj.br
-NOERROR	m106-lfnp.fis.uerj.br
-NOERROR	m17-dfnae.fis.uerj.br
-NOERROR	m39-deq.fis.uerj.br
-NOERROR	fss4.fss.uerj.br
-NOERROR	en.mpp2012.ime.uerj.br
-NOERROR	www.moderna-contemp.uerj.br
-NOERROR	www.centraldeatendimento-desenv.uerj.br
-NOERROR	www.cap2017.uerj.br
-NOERROR	www.tecap.uerj.br
-NXDOMAIN	pc021.dcbg.uerj.br
-NOERROR	dbav-gw.uerj.br
-NOERROR	redmine.dinfo.uerj.br
-NOERROR	m78-lfnp.fis.uerj.br
-NOERROR	m5-dir.fis.uerj.br
-NOERROR	faf7.faf.uerj.br
-NOERROR	www.nucleoperinatal.uerj.br
-NOERROR	pr1.uerj.br
-NOERROR	biodesign.esdi.uerj.br
-NOERROR	m15-dfat.fis.uerj.br
-NOERROR	thuban.uerj.br
-NOERROR	www.iprj.uerj.br
-NOERROR	ead.iprj.uerj.br
-NOERROR	roteador.faf.uerj.br
-NOERROR	m3-dir.fis.uerj.br
-NOERROR	comuns2.adm2.uerj.br
-NOERROR	deq2.fis.uerj.br
-NOERROR	www.ementario.uerj.br
-NXDOMAIN	odin.srh.uerj.br
-SERVFAIL	ns1.ifch.uerj.br
-NOERROR	sargitario.lcr.uerj.br
-NOERROR	spiav1.cepuerj.uerj.br
-NOERROR	perfsonar-lt.hepgrid.uerj.br
-NOERROR	eduerjlivros.uerj.br
-NOERROR	www2.dsea.uerj.br
-NOERROR	www.bvambientebf.uerj.br
-NOERROR	www.labbas.eng.uerj.br
-NOERROR	m7-deq.fis.uerj.br
-NOERROR	sol.labgis.uerj.br
-SERVFAIL	phppgadmin.dinfo.uerj.br
-NOERROR	www.ingresso.febf.uerj.br
-SERVFAIL	qualitec.sr2.uerj.br
-NOERROR	sec1.dbq.uerj.br
-NOERROR	myadmin.labgis.uerj.br
-NOERROR	m76-lfnp.fis.uerj.br
-NOERROR	namenode2.hepgrid.uerj.br
-NOERROR	copeli1.adm2.uerj.br
-NOERROR	dial23.uerj.br
-NXDOMAIN	devel-frontend.hepgrid.uerj.br
-NXDOMAIN	minotauro.ime.uerj.br
-NOERROR	m116-lfnp.fis.uerj.br
-NOERROR	progemulti.sr2.uerj.br
-NOERROR	www.coamb.eng.uerj.br
-NOERROR	psico14.psicologia.uerj.br
-NOERROR	m34-dfnae.fis.uerj.br
-NOERROR	www.labore.uerj.br
-NOERROR	node-a14.hepgrid.uerj.br
-NOERROR	webmail.iesp.uerj.br
-NOERROR	www.daa.uerj.br
-NOERROR	vera.dbq.uerj.br
-NOERROR	geo.uerj.br
-NOERROR	cosiste11.cepuerj.uerj.br
-NOERROR	www1.iesp.uerj.br
-NOERROR	www.contemporanea.uerj.br
-NOERROR	ns1.fat.uerj.br
-NOERROR	mobilogapp.ims.uerj.br
-NOERROR	www.biotodos.uerj.br
-NOERROR	vpn.uerj.br
-NOERROR	prematricula.graduacao.uerj.br
-NOERROR	micro4.bio.uerj.br
-NOERROR	necon.iesp.uerj.br
-NOERROR	m8-dir.fis.uerj.br
-NOERROR	www.srh.uerj.br
-NXDOMAIN	74.iesp.uerj.br
-NOERROR	urologia.uerj.br
-NOERROR	gw-b.letras.uerj.br
-NOERROR	node-b14.hepgrid.uerj.br
-NOERROR	zabbix.labgis.uerj.br
-NOERROR	www.caiac.uerj.br
-NOERROR	www.pgfil.uerj.br
-NOERROR	portal.vestibular.uerj.br
-NOERROR	www.sistema-nanofab.uerj.br
-NOERROR	ffp6.ffp.uerj.br
-NOERROR	m6-deq.fis.uerj.br
-NOERROR	m.vestibular.uerj.br
-NOERROR	m7-dir.fis.uerj.br
-NOERROR	dft.if.uerj.br
-NOERROR	lb9-dfat.fis.uerj.br
-NOERROR	drugtrajectories.ims.uerj.br
-NOERROR	www.estr.eng.uerj.br
-NOERROR	unidades7.uerj.br
-NOERROR	m1-dir.fis.uerj.br
-NOERROR	atlas.lcr.uerj.br
-NXDOMAIN	geonet.labgis.uerj.br
-NOERROR	cap2021.uerj.br
-NOERROR	bbb.fat.uerj.br
-NOERROR	m52-dfnae.fis.uerj.br
-NOERROR	gw.em.fdir.uerj.br
-NXDOMAIN	defin-gw.defin.uerj.br
-NOERROR	www.leddes.uerj.br
-NOERROR	www.nepec.igeog.uerj.br
-NOERROR	dbcg3.dbcg.uerj.br
-NOERROR	unidades6.uerj.br
-NXDOMAIN	gridftp6.hepgrid.uerj.br
-NOERROR	caua1.dep.sr1.uerj.br
-NOERROR	mail.lampada.uerj.br
-NOERROR	www.pgcm.uerj.br
-NOERROR	odonto-r2-gw.uerj.br
-NOERROR	clickc.e2b.cepuerj.uerj.br
-NOERROR	www.cbtermo2019.uerj.br
-NOERROR	luizinho.esdi.uerj.br
-NOERROR	bjhbs.hupe.uerj.br
-NOERROR	fgt.cepuerj.uerj.br
-NOERROR	faf34.faf.uerj.br
-NOERROR	webmail.cepuerj.uerj.br
-NOERROR	bolsas.cetreina.uerj.br
-NOERROR	dial18.uerj.br
-NOERROR	www.gruve.eng.uerj.br
-NOERROR	www.ppgcc.faf.uerj.br
-NOERROR	m62-dfnae.fis.uerj.br
-NOERROR	gw.bio.uerj.br
-NXDOMAIN	serveroracle01.hupe.uerj.br
-NOERROR	www4.iesp.uerj.br
-SERVFAIL	ns01.hupe.uerj.br
-NOERROR	www1.unasus.uerj.br
-NOERROR	www.unasus.uerj.br
-NOERROR	professores.ime.uerj.br
-NOERROR	www.sgp.uerj.br
-NOERROR	se.hepgrid.uerj.br
-NOERROR	m30-deq.fis.uerj.br
-NOERROR	node-a12.hepgrid.uerj.br
-NOERROR	scanner.prodeman.uerj.br
-NOERROR	www.ppgri.uerj.br
-NOERROR	ava.cap.uerj.br
-NOERROR	www.grupometeoro.uerj.br
-NOERROR	fgel-f2-gw.uerj.br
-NOERROR	labcomp-gw.uerj.br
-NOERROR	www.laboratoriogestaltico.uerj.br
-NOERROR	faf48.faf.uerj.br
-NOERROR	faf36.faf.uerj.br
-NOERROR	grad.dbq.uerj.br
-NOERROR	www.esdi.uerj.br
-NOERROR	lead.uerj.br
-NOERROR	roteador.fss.uerj.br
-NOERROR	www.ceh.uerj.br
-NOERROR	m15-dfnae.fis.uerj.br
-NOERROR	m38-dfnae.fis.uerj.br
-NOERROR	node-a00.hepgrid.uerj.br
-NOERROR	www.unidades2.uerj.br
-NOERROR	m18-dfnae.fis.uerj.br
-NOERROR	srv1.vestibular.uerj.br
-NOERROR	m74-lfnp.fis.uerj.br
-NOERROR	www.institutodeletras.uerj.br
-NOERROR	prefeitura-geduerj.uerj.br
-NOERROR	mariadb.prod.uerj.br
-NOERROR	hupe01.hupe.uerj.br
-NXDOMAIN	unidades73.uerj.br
-NOERROR	www.ppgmeioambiente.uerj.br
-NXDOMAIN	www.conecorio.uerj.br
-NOERROR	sgp.uerj.br
-NOERROR	www.helpdesk.dinfo.uerj.br
-NXDOMAIN	dev.labgis.uerj.br
-NOERROR	zeus.mestredu.uerj.br
-NOERROR	ppgha.uerj.br
-NOERROR	www.prefeitura.uerj.br
-NOERROR	aquiles.lcr.uerj.br
-NOERROR	red.srh.uerj.br
-SERVFAIL	www.ifch.uerj.br
-NOERROR	netuno.lcr.uerj.br
-NOERROR	grus.uerj.br
-NOERROR	osgce2.hepgrid.uerj.br
-NOERROR	gw-deq.fis.uerj.br
-NOERROR	hidra.lcr.uerj.br
-NOERROR	www.nesa.uerj.br
-NXDOMAIN	lyra.uerj.br
-NXDOMAIN	revista.hupe.uerj.br
-NOERROR	operacoes.prodeman.uerj.br
-NOERROR	ns1.sgp.uerj.br
-NOERROR	www.igeog.uerj.br
-NXDOMAIN	www.fortinet.uerj.br
-NOERROR	ajax.lcr.uerj.br
-NOERROR	lb8-dfat.fis.uerj.br
-NOERROR	pegasus2.uerj.br
-NOERROR	dev.ciclodepalestras.dsea.uerj.br
-NOERROR	ns02.dci.uerj.br
-NOERROR	saude.hupe.uerj.br
-NOERROR	deq1.fis.uerj.br
-NOERROR	www.profagua.uerj.br
-NOERROR	atena.lcr.uerj.br
-NOERROR	transparencia.uerj.br
-NOERROR	arjuna.iesp.uerj.br
-NOERROR	www.itecs.ime.uerj.br
-NOERROR	www.ppgq-iq.uerj.br
-NOERROR	www.cliopsyche.uerj.br
-NOERROR	node-a13.hepgrid.uerj.br
-NOERROR	psico17.psicologia.uerj.br
-NOERROR	m88-lfnp.fis.uerj.br
-NOERROR	m20-deq.fis.uerj.br
-NOERROR	lefi.iprj.uerj.br
-SERVFAIL	wifi.ifch.uerj.br
-NOERROR	www1.ims.uerj.br
-SERVFAIL	ifch-pos10.ifch.uerj.br
-NOERROR	iesp.uerj.br
-NOERROR	vsphare.hupe.uerj.br
-NOERROR	plutao.lcr.uerj.br
-NOERROR	diana.lcr.uerj.br
-NOERROR	www.proealc.uerj.br
-NOERROR	ca-faf2.faf.uerj.br
-NOERROR	www.sr1.uerj.br
-NOERROR	www.audiolabgeo.uerj.br
-NOERROR	web.hepgrid.uerj.br
-NXDOMAIN	www.ppgeo.igeog.uerj.br
-NOERROR	www.arqueologia.uerj.br
-NOERROR	www.praxiseformacao.uerj.br
-NXDOMAIN	www.biologia.uerj.br
-NOERROR	mail04106.e2b.cepuerj.uerj.br
-NOERROR	m23-deq.fis.uerj.br
-NOERROR	services-velha.hepgrid.uerj.br
-SERVFAIL	ifch-pos12.ifch.uerj.br
-NOERROR	www.sei.uerj.br
-SERVFAIL	ifch.uerj.br
-NOERROR	lerpe.uerj.br
-NOERROR	m1-dfat.fis.uerj.br
-NOERROR	shiwf1.cepuerj.uerj.br
-NOERROR	m117-dfnae.fis.uerj.br
-NOERROR	faf26.faf.uerj.br
-NOERROR	www.professoronline.uerj.br
-NOERROR	siteantigo.srh.uerj.br
-NXDOMAIN	direcao01.cepuerj.uerj.br
-NOERROR	m68-lfnp.fis.uerj.br
-NOERROR	thinlinc03.uerj.br
-NOERROR	www.bvjovem.uerj.br
-NOERROR	db.hepgrid.uerj.br
-NOERROR	odin.lcr.uerj.br
-NOERROR	fiscalizacao.vestibular.uerj.br
-NOERROR	www.caia.uerj.br
-NOERROR	ppgsc.ims.uerj.br
-NOERROR	lpm8.lpm.uerj.br
-NOERROR	fabianooliveira.ime.uerj.br
-NOERROR	www51.uerj.br
-NOERROR	m47-dfnae.fis.uerj.br
-NOERROR	ns1.divulgacao.labgis.uerj.br
-NOERROR	node-d16.hepgrid.uerj.br
-NOERROR	pc076.cepuerj.uerj.br
-NOERROR	prefeitura.uerj.br
-NOERROR	psico1.psicologia.uerj.br
-NOERROR	www.incubasulflu.uerj.br
-NXDOMAIN	fiscais.cepuerj.uerj.br
-NOERROR	www.lerpe.uerj.br
-SERVFAIL	www.detel.eng.uerj.br
-NXDOMAIN	w.alunoonline.uerj.br
-NOERROR	liscustodio.ime.uerj.br
-NOERROR	rigil.uerj.br
-NOERROR	psico13.psicologia.uerj.br
-NOERROR	hupe03.hupe.uerj.br
-NOERROR	www.cap2013.uerj.br
-NOERROR	dicof.defin.uerj.br
-NOERROR	fss1.fss.uerj.br
-NOERROR	servidor02.lee.uerj.br
-NOERROR	www.cap2016.uerj.br
-NOERROR	www.revistanearco.uerj.br
-NOERROR	micro4.edai.uerj.br
-NOERROR	letras-f1-gw.uerj.br
-NOERROR	m49-dfnae.fis.uerj.br
-NOERROR	lcc.ime.uerj.br
-NOERROR	master.dsea.uerj.br
-NOERROR	www.biograduacao.uerj.br
-NOERROR	m20-dfnae.fis.uerj.br
-NOERROR	cepuerj-gw.uerj.br
-SERVFAIL	user.ifch.uerj.br
-NOERROR	m109-dfnae.fis.uerj.br
-SERVFAIL	www.ppgfil.uerj.br
-NOERROR	postgresql2-unidades.uerj.br
-NXDOMAIN	bluedev.telessaude.uerj.br
-NOERROR	spisvn1.cepuerj.uerj.br
-NOERROR	helpdesk.dinfo.uerj.br
-NOERROR	sirius.lcr.uerj.br
-NOERROR	www.ppcis.uerj.br
-NOERROR	www.elo.uerj.br
-NOERROR	www.boletimvestibular.uerj.br
-NOERROR	daflon.prodeman.uerj.br
-NOERROR	m19-deq.fis.uerj.br
-NXDOMAIN	ct0.labgis.uerj.br
-NOERROR	comuns3.adm2.uerj.br
-NOERROR	saturno.lcr.uerj.br
-NXDOMAIN	sr3-decult.uerj.br
-NOERROR	www.febf.uerj.br
-SERVFAIL	cedes.iesp.uerj.br
-NOERROR	dbav5.dbav.uerj.br
-NXDOMAIN	bib-fcm-gw.uerj.br
-NOERROR	mail.divulgacao.labgis.uerj.br
-NOERROR	m45-deq.fis.uerj.br
-NOERROR	dicof1.defin.uerj.br
-NOERROR	www.ele.eng.uerj.br
-NOERROR	www.ava.pr1.uerj.br
-NOERROR	mail.ims.uerj.br
-NOERROR	mestrado.telessaude.uerj.br
-NOERROR	m10-dfnae.fis.uerj.br
-NOERROR	www.labciv.eng.uerj.br
-NOERROR	www.centrobiomedico.uerj.br
-NOERROR	www.ifht.uerj.br
-NOERROR	voluntarioscoronavirus.uerj.br
-NOERROR	m107-lfnp.fis.uerj.br
-NOERROR	www.cap2009.uerj.br
-NOERROR	psico24.psicologia.uerj.br
-NOERROR	m42-deq.fis.uerj.br
-NOERROR	www.enearte.uerj.br
-NOERROR	thinlinc05.uerj.br
-NOERROR	faf35.faf.uerj.br
-NOERROR	m35-dfnae.fis.uerj.br
-NOERROR	ns2.hepgrid.uerj.br
-NOERROR	faf33.faf.uerj.br
-NOERROR	www.ibrag.uerj.br
-NOERROR	www.wifi.ffp.uerj.br
-NXDOMAIN	pve02.labgis.uerj.br
-NOERROR	faf47.faf.uerj.br
-NOERROR	polycom.lampada.uerj.br
-NOERROR	psico20.psicologia.uerj.br
-NOERROR	www.intellectus.uerj.br
-NOERROR	plutao.labgis.uerj.br
-NOERROR	dcarh.sr2.uerj.br
-NOERROR	geo-gw.uerj.br
-NOERROR	m22-deq.fis.uerj.br
-NOERROR	www.sigaassetas.uerj.br
-NOERROR	www.unidades.uerj.br
-NXDOMAIN	servdg001.dcbg.uerj.br
-NOERROR	m10-dir.fis.uerj.br
-NOERROR	www.sr2.uerj.br
-NOERROR	www.cap2015.uerj.br
-NXDOMAIN	w2.inscricao.vestibular.uerj.br
-NOERROR	node-a09.hepgrid.uerj.br
-NOERROR	cocurso07.cepuerj.uerj.br
-NOERROR	dbcg6.dbcg.uerj.br
-NOERROR	m1-deq.fis.uerj.br
-NOERROR	www.prematricula.graduacao.uerj.br
-NOERROR	m13-dir.fis.uerj.br
-SERVFAIL	clima.uerj.br
-NOERROR	cam3.dinfo.uerj.br
-NOERROR	dial15.uerj.br
-NOERROR	www.cac.uerj.br
-NOERROR	node-a17.hepgrid.uerj.br
-NOERROR	labime.ime.uerj.br
-NOERROR	prtsimpress.hupe.uerj.br
-NOERROR	psico21.psicologia.uerj.br
-NOERROR	mpp2014.ime.uerj.br
-NOERROR	proderj-gw.uerj.br
-NOERROR	m9-pg.fis.uerj.br
-NOERROR	lb12-dfat.fis.uerj.br
-NOERROR	psico12.psicologia.uerj.br
-NOERROR	srv2.dsea.uerj.br
-NOERROR	www.vestibular.dsea.uerj.br
-NOERROR	www.omarrare.uerj.br
-NOERROR	libra.lcr.uerj.br
-NOERROR	www.prefeitura-geduerj.uerj.br
-NOERROR	srv5.telessaude.uerj.br
-NOERROR	m6-dir.fis.uerj.br
-SERVFAIL	ns2.ifch.uerj.br
-NOERROR	www.fisclinex.uerj.br
-NOERROR	fce3.faf.uerj.br
-NOERROR	www.ceper.eng.uerj.br
-NOERROR	phpmyadmin.ime.uerj.br
-NOERROR	mail2.iprj.uerj.br
-NOERROR	spidc1.cepuerj.uerj.br
-NOERROR	m72-lfnp.fis.uerj.br
-NOERROR	ead.fcm.uerj.br
-NXDOMAIN	dg003.dcbg.uerj.br
-NOERROR	mailhost.lee.uerj.br
-SERVFAIL	sites.ifch.uerj.br
-SERVFAIL	dns1.lcc.ime.uerj.br
-NOERROR	ns.ppc.uerj.br
-NOERROR	www.ffp.uerj.br
-NOERROR	frank2.sr2.uerj.br
-NOERROR	lb3-dfat.fis.uerj.br
-NOERROR	www.pgbiologia.uerj.br
-NOERROR	srv2.telessaude.uerj.br
-NXDOMAIN	srv.labgis.uerj.br
-NOERROR	treinamentogestao.hupe.uerj.br
-NOERROR	www.geohmount.labgis.uerj.br
-NOERROR	ead-1.uerj.br
-NOERROR	ppgmeioambiente.uerj.br
-NOERROR	www.fis.uerj.br
-NOERROR	dial19.uerj.br
-NOERROR	sites.labgis.uerj.br
-NOERROR	epi-r.ims.uerj.br
-NOERROR	lab2.dbq.uerj.br
-NOERROR	fgel-a-gw.uerj.br
-NOERROR	ns2.dsea.uerj.br
-NOERROR	www.led.uerj.br
-NOERROR	ns1.labgis.uerj.br
-NOERROR	web.lampada.uerj.br
-NOERROR	micro1.dpl.uerj.br
-NXDOMAIN	teste2.master.uerj.br
-NOERROR	ceh.uerj.br
-NOERROR	cfre.fat.uerj.br
-NOERROR	contributions.iesp.uerj.br
-NOERROR	webmail.ims.uerj.br
-NOERROR	fce1.faf.uerj.br
-NOERROR	m102-lfnp.fis.uerj.br
-NOERROR	postgresql.prod.uerj.br
-NOERROR	mail2.ims.uerj.br
-NOERROR	www.epocadegoethe.uerj.br
-NXDOMAIN	gateway.dcbg.uerj.br
-NOERROR	www.dcct.eng.uerj.br
-NOERROR	www.micron.uerj.br
-NOERROR	cedes.uerj.br
-NOERROR	srv3.latic.uerj.br
-NXDOMAIN	www.cap2008.uerj.br
-NOERROR	www.revispsi.uerj.br
-NOERROR	imap.uerj.br
-NOERROR	www.tvuerj.uerj.br
-NXDOMAIN	drive.unasus.uerj.br
-NOERROR	dial11.uerj.br
-NOERROR	jaguar.sr2.uerj.br
-NOERROR	m18-deq.fis.uerj.br
-NOERROR	mirage.uerj.br
-NOERROR	www.latesi.ime.uerj.br
-NOERROR	pronex.iesp.uerj.br
-NOERROR	www.ppgha.uerj.br
-NXDOMAIN	gateway.mestredu.uerj.br
-SERVFAIL	ns1.fcm.uerj.br
-NOERROR	www.turismosolidario.uerj.br
-NOERROR	smtp.uerj.br
-NOERROR	cancer.lcr.uerj.br
-NXDOMAIN	antonio.laramg.uerj.br
-NOERROR	faf25.faf.uerj.br
-NOERROR	m55-dfnae.fis.uerj.br
-NOERROR	m84-lfnp.fis.uerj.br
-NOERROR	www.telessauderj.uerj.br
-NOERROR	dbcg5.dbcg.uerj.br
-NOERROR	dft-gw.uerj.br
-NOERROR	psico25.psicologia.uerj.br
-NOERROR	www.noticiasdavila.uerj.br
-NOERROR	www.academica.eng.uerj.br
-NOERROR	sr2.uerj.br
-NOERROR	red.telessaude.uerj.br
-NOERROR	m3-elt.fis.uerj.br
-NOERROR	servidor02.lee.eng.uerj.br
-NOERROR	ouvidoria.uerj.br
-NOERROR	www.sr3.uerj.br
-NOERROR	aldebaran.lcr.uerj.br
-NOERROR	m38-deq.fis.uerj.br
-NOERROR	alkes.uerj.br
-NOERROR	zeus.lcr.uerj.br
-NOERROR	lacad-dft.fis.uerj.br
-NOERROR	dbav6.dbav.uerj.br
-NOERROR	prod.srh.uerj.br
-NOERROR	www.obeduc.uerj.br
-NOERROR	gemaa.iesp.uerj.br
-NOERROR	iiiencontro.ccomp.ime.uerj.br
-NOERROR	m99-dfnae.fis.uerj.br
-NOERROR	coordenador.prodeman.uerj.br
-NOERROR	www.lci.uerj.br
-NOERROR	latic.uerj.br
-NOERROR	m83-lfnp.fis.uerj.br
-NOERROR	doxa.iesp.uerj.br
-NOERROR	perseu.mestredu.uerj.br
-NOERROR	labgis.uerj.br
-NOERROR	fdir-f2-gw.uerj.br
-NOERROR	pibic.sr2.uerj.br
-NOERROR	ava.pr1.uerj.br
-NXDOMAIN	cw003.weblocal.com.br.uerj.br
-NOERROR	leao.lcr.uerj.br
-NOERROR	e-publicacoes.uerj.br
-NXDOMAIN	rv001.dcbg.uerj.br
-NXDOMAIN	prometeu.uerj.br
-NOERROR	drive.uerj.br
-NOERROR	www.webpx.uerj.br
-NOERROR	unidades3.uerj.br
-NOERROR	m75-lfnp.fis.uerj.br
-NOERROR	m111-dfnae.fis.uerj.br
-NOERROR	alunos7.bib.fcm.uerj.br
-NOERROR	www.recap.eng.uerj.br
-NOERROR	m11-pg.fis.uerj.br
-NOERROR	m46-deq.fis.uerj.br
-NOERROR	m8-deq.fis.uerj.br
-NOERROR	fgel.uerj.br
-SERVFAIL	alunos1.bib.fcm.uerj.br
-NOERROR	enfermagem-gw.uerj.br
-NOERROR	ns02.hupe.uerj.br
-NOERROR	backupext.uerj.br
-NOERROR	espec.iesp.uerj.br
-NOERROR	rodrigo.ribeiro.uerj.br
-SERVFAIL	intranet.pguerj.uerj.br
-NXDOMAIN	teste.ccomp.ime.uerj.br
-NOERROR	www.phpmyadmin.dinfo.uerj.br
-NOERROR	master.uerj.br
-NOERROR	plasma.uerj.br
-NOERROR	m4-dfnae.fis.uerj.br
-NOERROR	mercurio.lcr.uerj.br
-NOERROR	ciclope.lcr.uerj.br
-NOERROR	orion.uerj.br
-SERVFAIL	revista.ifch.uerj.br
-NOERROR	m8-dfnae.fis.uerj.br
-NOERROR	ead.srh.uerj.br
-NXDOMAIN	www.ava.srh.uerj.br
-NOERROR	faf30.faf.uerj.br
-NOERROR	clima.iprj.uerj.br
-NOERROR	m13-deq.fis.uerj.br
-NOERROR	inovuerj.sr2.uerj.br
-NOERROR	www.cap2018.uerj.br
-NOERROR	m34-deq.fis.uerj.br
-NOERROR	sisdev.vestibular.uerj.br
-NOERROR	www.lpp.uerj.br
-NOERROR	www.cedipe.uerj.br
-NOERROR	secretaria.fat.uerj.br
-NOERROR	novo.lampada.uerj.br
-NXDOMAIN	www.redeigeo.labgis.uerj.br
-NOERROR	www.arqportal.uerj.br
-NOERROR	w4.inscricao.vestibular.uerj.br
-NOERROR	grupometeoro.uerj.br
-NOERROR	www.maqua.uerj.br
-NOERROR	daf1.uerj.br
-NOERROR	www.iq.uerj.br
-SERVFAIL	lppe.ifch.uerj.br
-NOERROR	m26-deq.fis.uerj.br
-NOERROR	ns01.iprj.uerj.br
-NOERROR	sophia-redesirius.uerj.br
-NOERROR	www.escolahospitalar.uerj.br
-NOERROR	pg.labgis.uerj.br
-NOERROR	decont3.defin.uerj.br
-NOERROR	m10-deq.fis.uerj.br
-NXDOMAIN	srh-e2.srh.uerj.br
-NOERROR	www.centraldeatendimento.uerj.br
-NOERROR	www.ppg-em.eng.uerj.br
-NOERROR	www.clima.iprj.uerj.br
-NOERROR	www.sepel.uerj.br
-NOERROR	vcenter.uerj.br
-NOERROR	www.cap2019.uerj.br
-NOERROR	desenmobile.dsea.uerj.br
-NOERROR	www.politicasdesaude.uerj.br
-NOERROR	sso.ime.uerj.br
-NOERROR	m122-dfnae.fis.uerj.br
-NXDOMAIN	videoconf.iesp.uerj.br
-NOERROR	psico23.psicologia.uerj.br
-NOERROR	ffp3.ffp.uerj.br
-NOERROR	dbav7.dbav.uerj.br
-NOERROR	intranet.cepuerj.uerj.br
-NOERROR	switch.hepgrid.uerj.br
-NOERROR	centauro.lcr.uerj.br
-NOERROR	micro3.edai.uerj.br
-NOERROR	m41-deq.fis.uerj.br
-NOERROR	gw1.fdir.uerj.br
-NOERROR	m56-dfnae.fis.uerj.br
-NOERROR	comuns4.adm2.uerj.br
-NOERROR	node-a04.hepgrid.uerj.br
-NOERROR	edipo.lcr.uerj.br
-NOERROR	alocacao.dsea.uerj.br
-NOERROR	zeus.uerj.br
-NOERROR	webserver.sr3.uerj.br
-NOERROR	psico4.psicologia.uerj.br
-NOERROR	www.nvestibular.uerj.br
-NOERROR	mariadb-desenv.uerj.br
-NOERROR	node-b01.hepgrid.uerj.br
-NOERROR	www.polemica.uerj.br
-NOERROR	webmail-antigo.iprj.uerj.br
-NOERROR	speedracer.ime.uerj.br
-NOERROR	w1.inscricao.vestibular.uerj.br
-NOERROR	roteador.psicologia.uerj.br
-NOERROR	ispivm1.cepuerj.uerj.br
-NXDOMAIN	www8.cepuerj.uerj.br
-NOERROR	uerjbisrv.uerj.br
-NOERROR	www.e-listas.uerj.br
-NXDOMAIN	desenv.hupe.uerj.br
-NOERROR	www.mostradeestagio.uerj.br
-NOERROR	www.oceanografia.uerj.br
-NOERROR	neic.iesp.uerj.br
-NOERROR	web.srh.uerj.br
-NOERROR	www.ppgeb.cap.uerj.br
-NOERROR	www.antigo.uerj.br
-NOERROR	faf32.faf.uerj.br
-NOERROR	dbav4.dbav.uerj.br
-NOERROR	beemote.iesp.uerj.br
-NOERROR	www.diplan.uerj.br
-NOERROR	thinlinc01.uerj.br
-NOERROR	www.arrecadacaodaf.uerj.br
-NOERROR	www.anocomemorativo.uerj.br
-NOERROR	ingressofebf.uerj.br
-NOERROR	labfaf.faf.uerj.br
-NXDOMAIN	www.ead-1.uerj.br
-NOERROR	analysis.hepgrid.uerj.br
-NOERROR	faf40.faf.uerj.br
-NOERROR	nupet.iesp.uerj.br
-NOERROR	atlas.labgis.uerj.br
-NOERROR	www.curriculosgrad.uerj.br
-NOERROR	pguerj.uerj.br
-NOERROR	www.aleitamento.uerj.br
-NOERROR	namenode1.hepgrid.uerj.br
-NOERROR	vpn.hepgrid.uerj.br
-NOERROR	www.prime.ime.uerj.br
-NOERROR	www.caeng.uerj.br
-NOERROR	igeo04.igeo.uerj.br
-SERVFAIL	ifch-pos2.ifch.uerj.br
-NOERROR	psico18.psicologia.uerj.br
-NOERROR	edu.unasus.uerj.br
-NOERROR	m29-deq.fis.uerj.br
-NOERROR	dial20.uerj.br
-NOERROR	pgadmin.labgis.uerj.br
-NOERROR	sec2.fss.uerj.br
-NOERROR	faf23.faf.uerj.br
-NOERROR	redmestrado.telessaude.uerj.br
-NOERROR	www.bolsas.cetreina.uerj.br
-NOERROR	gw-dir.fis.uerj.br
-NOERROR	www.nucleas.uerj.br
-NOERROR	mail03.cepuerj.uerj.br
-NOERROR	jessicagavia.ime.uerj.br
-NOERROR	m121-lfnp.fis.uerj.br
-NOERROR	m95-lfnp.fis.uerj.br
-NOERROR	m114-dfnae.fis.uerj.br
-NOERROR	comuns10.adm2.uerj.br
-NXDOMAIN	gridftp4.hepgrid.uerj.br
-NOERROR	green.telessaude.uerj.br
-NOERROR	hefasto.lcr.uerj.br
-NOERROR	m120-dfnae.fis.uerj.br
-NOERROR	www.ppgartes.uerj.br
-NOERROR	www.boletimlerpe.uerj.br
-NOERROR	view.uerj.br
-NOERROR	m123-lfnp.fis.uerj.br
-NOERROR	wifi.ffp.uerj.br
-NOERROR	www.fgel.uerj.br
-NOERROR	www.aconteceh.uerj.br
-NOERROR	www.proindio.uerj.br
-NOERROR	m24-deq.fis.uerj.br
-NOERROR	drtc4.defin.uerj.br
-NOERROR	m118-dfnae.fis.uerj.br
-NOERROR	www.nebad.uerj.br
-NOERROR	cam1.dinfo.uerj.br
-NOERROR	www.cap2020.uerj.br
-NOERROR	www.ppgedu.ffp.uerj.br
-NOERROR	mariadb-teste.uerj.br
-NOERROR	www.pgletras.uerj.br
-NOERROR	rsirius.uerj.br
-NOERROR	pc004.cepuerj.uerj.br
-NOERROR	gridftp.hepgrid.uerj.br
-NOERROR	www2.unasus.uerj.br
-NOERROR	node-b10.hepgrid.uerj.br
-NOERROR	psico3.psicologia.uerj.br
-NOERROR	www.capcs.uerj.br
-NOERROR	inscricao.hupe.uerj.br
-NOERROR	iv.semanadomatematico.ime.uerj.br
-NOERROR	frederic.iesp.uerj.br
-NOERROR	cocurso01.cepuerj.uerj.br
-NOERROR	indicadores.uerj.br
-NOERROR	6611-gw.uerj.br
-NOERROR	www.facenf.uerj.br
-NOERROR	www.unati.uerj.br
-SERVFAIL	ifch-pos4.ifch.uerj.br
-NOERROR	unidades7-homolog.uerj.br
-NOERROR	gemeos.lcr.uerj.br
-NOERROR	perfsonar-bw.hepgrid.uerj.br
-NOERROR	lb10-dfat.fis.uerj.br
-NOERROR	zigfrid.lcr.uerj.br
-NOERROR	www3.telessaude.uerj.br
-NOERROR	m40-dfnae.fis.uerj.br
-NOERROR	gw-edai.edai.uerj.br
-NOERROR	www.rapeld-igrande.uerj.br
-NOERROR	idp-cafe.uerj.br
-NOERROR	faf41.faf.uerj.br
-NOERROR	mysql2.unidades2.uerj.br
-NOERROR	www.dialogarts.uerj.br
-NOERROR	jenkins.srh.uerj.br
-NOERROR	listas.lampada.uerj.br
-NOERROR	m103-lfnp.fis.uerj.br
-NOERROR	m86-lfnp.fis.uerj.br
-NOERROR	www.arc2020.iprj.uerj.br
-NOERROR	cms.uerj.br
-NOERROR	www.eduerj.uerj.br
-NOERROR	m121-dfnae.fis.uerj.br
-NOERROR	netsal.iesp.uerj.br
-NXDOMAIN	srh-e1.srh.uerj.br
-NOERROR	m87-lfnp.fis.uerj.br
-NOERROR	fss5.fss.uerj.br
-NXDOMAIN	pve01.labgis.uerj.br
-NOERROR	lb2-dfat.fis.uerj.br
-NOERROR	odonto-r1-gw.uerj.br
-NOERROR	cap2020.uerj.br
-NOERROR	faf2.faf.uerj.br
-NOERROR	dbav-dbcg-gw.uerj.br
-NOERROR	dfnae.fis.uerj.br
-NOERROR	faf28.faf.uerj.br
-NOERROR	www.anatomia.uerj.br
-NOERROR	antigo.telessaude.uerj.br
-NOERROR	node-b15.hepgrid.uerj.br
-NOERROR	antigo.uerj.br
-NOERROR	lpm3.lpm.uerj.br
-SERVFAIL	ppgfil.ifch.uerj.br
-NXDOMAIN	tom.iesp.uerj.br
-NOERROR	www.id-unico.uerj.br
-NOERROR	www.cpti.uerj.br
-NOERROR	m5-elt.fis.uerj.br
-NXDOMAIN	vcr.iesp.uerj.br
-NOERROR	wp.dsea.uerj.br
-NOERROR	router.dbq.uerj.br
-NOERROR	unidades4.uerj.br
-NOERROR	coronavirus.uerj.br
-NOERROR	dial16.uerj.br
-NOERROR	www.existencialismo.uerj.br
-NOERROR	plinio.dir-fcm.uerj.br
-NOERROR	node-b06.hepgrid.uerj.br
-NOERROR	www.inovuerj.sr2.uerj.br
-NOERROR	www.oni.uerj.br
-NOERROR	www.cap2010.uerj.br
-NOERROR	micro1.dbf.uerj.br
-NOERROR	www.ead-teleodonto.uerj.br
-NOERROR	www.lixoeeducacao.uerj.br
-NOERROR	serv145.demop.uerj.br
-SERVFAIL	pve04.ifch.uerj.br
-NOERROR	formularios.uerj.br
-NOERROR	dev.telessaude.uerj.br
-NOERROR	www.fcs.uerj.br
-NOERROR	web.esdi.uerj.br
-NOERROR	www.cpjm.uerj.br
-NOERROR	dial12.uerj.br
-NOERROR	red.webapp.srh.uerj.br
-NOERROR	m31-deq.fis.uerj.br
-NOERROR	red.aceite.srh.uerj.br
-NOERROR	gw.bib.fcm.uerj.br
-NOERROR	antares.lcr.uerj.br
-NOERROR	m100-dfnae.fis.uerj.br
-NOERROR	m60-dfnae.fis.uerj.br
-NOERROR	www.cedes.uerj.br
-NOERROR	desenn.www.telessaude.uerj.br
-NOERROR	www.desc.eng.uerj.br
-NOERROR	m12-dfat.fis.uerj.br
-NOERROR	tom.dsea.uerj.br
-NOERROR	gateway.dbav.uerj.br
-NOERROR	m7-dfat.fis.uerj.br
-NOERROR	led.iesp.uerj.br
-SERVFAIL	pve01.ifch.uerj.br
-NOERROR	valhala.eng.uerj.br
-SERVFAIL	alunos.ifch.uerj.br
-NOERROR	node-b17.hepgrid.uerj.br
-NXDOMAIN	79.iesp.uerj.br
-NOERROR	node-a01.hepgrid.uerj.br
-NOERROR	marcen.dbq.uerj.br
-NOERROR	ppgcc.faf.uerj.br
-NOERROR	orion.lcr.uerj.br
-NOERROR	webconfnpea.ims.uerj.br
-NOERROR	www.ingressofebf.uerj.br
-NOERROR	dijur1b-gw.uerj.br
-NOERROR	router.dpl.uerj.br
-NOERROR	www.hupe.uerj.br
-NOERROR	ava.fat.uerj.br
-NOERROR	vahalla.lcr.uerj.br
-NXDOMAIN	coprosel05.cepuerj.uerj.br
-NOERROR	m10-pg.fis.uerj.br
-NOERROR	phoenix.eng.uerj.br
+magma.uerj.br
+mapas.labgis.uerj.br
+m116-dfnae.fis.uerj.br
+ns2.mailauto.labgis.uerj.br
+www.telessaude.uerj.br
+www.ppgcom.uerj.br
+sistemas.vestibular.uerj.br
+cepuerj.uerj.br
+cosiste99.cepuerj.uerj.br
+ctc.uerj.br
+node-b08.hepgrid.uerj.br
+virgem.lcr.uerj.br
+dbav8.dbav.uerj.br
+gw2.fdir.uerj.br
+labglicose.hupe.uerj.br
+m9-dfnae.fis.uerj.br
+ppgem.eng.uerj.br
+node-a08.hepgrid.uerj.br
+m28-deq.fis.uerj.br
+m2-deq.fis.uerj.br
+phoenix.prodeman.uerj.br
+cetreina.uerj.br
+m81-lfnp.fis.uerj.br
+m15-deq.fis.uerj.br
+m92-lfnp.fis.uerj.br
+semanadomatematico.ime.uerj.br
+m99-lfnp.fis.uerj.br
+ead-homologacao.iprj.uerj.br
+www.cronicas.uerj.br
+www.curtanauerj.uerj.br
+ffp7.ffp.uerj.br
+netuno.uerj.br
+m3-pg.fis.uerj.br
+defin3.defin.uerj.br
+pr2.uerj.br
+virtua.sirius.uerj.br
+concursos.srh.uerj.br
+lb1-dfat.fis.uerj.br
+email.iesp.uerj.br
+ns2.divulgacao.labgis.uerj.br
+www.microbiologia.uerj.br
+www.cepuerj.uerj.br
+m8-dfat.fis.uerj.br
+eadfcm.telessaude.uerj.br
+www.pgeas.ffp.uerj.br
+dicor2.defin.uerj.br
+soi.srh.uerj.br
+fce2.faf.uerj.br
+devmestrado.telessaude.uerj.br
+cloud.ims.uerj.br
+node-d18.hepgrid.uerj.br
+quadra.dir-fcm.uerj.br
+www.ccs.uerj.br
+telemedicina.lampada.uerj.br
+treinamento.hupe.uerj.br
+profhistoria.uerj.br
+www.infancia-juventude.uerj.br
+www.acesso.uerj.br
+dbcg7.dbcg.uerj.br
+m19-dfnae.fis.uerj.br
+leo.dir-fcm.uerj.br
+www.sistemasextensao.uerj.br
+hera.lcr.uerj.br
+uerjonline.uerj.br
+srvweb01.uerj.br
+www.dinforme.uerj.br
+coprosel10.cepuerj.uerj.br
+www.dein.uerj.br
+joplin.prodeman.uerj.br
+www.prefeitura-protocolo.uerj.br
+m5-deq.fis.uerj.br
+www.cap2021.uerj.br
+imagens.dsea.uerj.br
+m80-lfnp.fis.uerj.br
+poseidon.lcr.uerj.br
+spiphp1.cepuerj.uerj.br
+www.eleicao2015.uerj.br
+faf46.faf.uerj.br
+www.art.uerj.br
+www.economus.uerj.br
+dinfo.uerj.br
+correio-servicos.dinfo.uerj.br
+cap2019.uerj.br
+psico27.psicologia.uerj.br
+lb7-dfat.fis.uerj.br
+faf43.faf.uerj.br
+www.carto.eng.uerj.br
+sistemas.srh.uerj.br
+redcap.lampada.uerj.br
+micro3.dpl.uerj.br
+m61-dfnae.fis.uerj.br
+zabbix.dinfo.uerj.br
+caotec.uerj.br
+m12-dir.fis.uerj.br
+faf38.faf.uerj.br
+www.isda07.eng.uerj.br
+www.boletimteste.uerj.br
+mail.ime.uerj.br
+mysql-webmail-p-01.uerj.br
+fcm.uerj.br
+node-b16.hepgrid.uerj.br
+m124-lfnp.fis.uerj.br
+e-listas.uerj.br
+www.vestibular.uerj.br
+m14-deq.fis.uerj.br
+www.logos.uerj.br
+comuns5.adm2.uerj.br
+votacao.iprj.uerj.br
+alunos8.bib.fcm.uerj.br
+caia.uerj.br
+phpmyadmin.dinfo.uerj.br
+m32-deq.fis.uerj.br
+dbcg8.dbcg.uerj.br
+st0800.telessaude.uerj.br
+eduroam.uerj.br
+cepedes.uerj.br
+iprj.uerj.br
+m85-lfnp.fis.uerj.br
+fss10.fss.uerj.br
+www.pel.uerj.br
+m11-dfnae.fis.uerj.br
+www.desma.eng.uerj.br
+www.cesa.eng.uerj.br
+webmail.divulgacao.labgis.uerj.br
+cesa.eng.uerj.br
+webconf.telessaude.uerj.br
+www.bvnec.uerj.br
+m8-pg.fis.uerj.br
+aries.lcr.uerj.br
+divulgacao.labgis.uerj.br
+catalogo-redesirius.uerj.br
+mpp2015.ime.uerj.br
+fss2.fss.uerj.br
+grupocasa.iesp.uerj.br
+m7-dfnae.fis.uerj.br
+uerjianospelomundo.latic.uerj.br
+ns01.dci.uerj.br
+m21-deq.fis.uerj.br
+www.ggp.uerj.br
+anacarolina.ime.uerj.br
+startuprio.ime.uerj.br
+touro.lcr.uerj.br
+servidor01.lee.uerj.br
+m28-dfnae.fis.uerj.br
+www.lcc.ime.uerj.br
+www.fss.uerj.br
+spivm1.cepuerj.uerj.br
+comicro-gw.uerj.br
+m2-dfat.fis.uerj.br
+node-a10.hepgrid.uerj.br
+m4-pg.fis.uerj.br
+dev.iprj.uerj.br
+connect.telessaude.uerj.br
+concursosadm.srh.uerj.br
+node-b00.hepgrid.uerj.br
+fss7.fss.uerj.br
+dicor.defin.uerj.br
+switch_sw004.cepuerj.uerj.br
+m26-dfnae.fis.uerj.br
+m4-dir.fis.uerj.br
+comuns1.adm2.uerj.br
+m98-dfnae.fis.uerj.br
+m2-pg.fis.uerj.br
+m53-dfnae.fis.uerj.br
+esdi.uerj.br
+www.peamb.eng.uerj.br
+npea.ims.uerj.br
+m79-lfnp.fis.uerj.br
+jupiter.lcr.uerj.br
+www.decult.uerj.br
+dial21.uerj.br
+www.ppgg.ffp.uerj.br
+ns1.hepgrid.uerj.br
+ns1.mailauto.labgis.uerj.br
+ffp8.ffp.uerj.br
+sec2.dbq.uerj.br
+drtc3.defin.uerj.br
+sergio.dir-fcm.uerj.br
+ead.ime.uerj.br
+ns03.hupe.uerj.br
+www.pibic.sr2.uerj.br
+unasus.uerj.br
+moodle28.telessaude.uerj.br
+www.labev.uerj.br
+dbcg1.dbcg.uerj.br
+ns1.ims.uerj.br
+dci.uerj.br
+afrodite.lcr.uerj.br
+www.agenc.uerj.br
+www.cognicaocs.uerj.br
+m12-pg.fis.uerj.br
+faf24.faf.uerj.br
+www.crde-unati.uerj.br
+m44-deq.fis.uerj.br
+www.fce.uerj.br
+m71-lfnp.fis.uerj.br
+lb5-dfat.fis.uerj.br
+georgia.dbq.uerj.br
+wordpress.dsea.uerj.br
+m113-dfnae.fis.uerj.br
+sei.uerj.br
+wifi.esdi.uerj.br
+webmail.esdi.uerj.br
+f100cmaster.uerj.br
+www.obfrj.uerj.br
+ti.labgis.uerj.br
+gw-f1.letras.uerj.br
+m6-pg.fis.uerj.br
+m3-dfat.fis.uerj.br
+env.uerj.br
+www.uerjviu.uerj.br
+m93-lfnp.fis.uerj.br
+faf49.faf.uerj.br
+www.amp.uerj.br
+setele_sw002.cepuerj.uerj.br
+services.hepgrid.uerj.br
+www.faf.uerj.br
+ns.hupe.uerj.br
+mail1.ims.uerj.br
+m97-dfnae.fis.uerj.br
+node-b07.hepgrid.uerj.br
+m122-lfnp.fis.uerj.br
+faf50.faf.uerj.br
+cpd2.defin.uerj.br
+cetreina.dsea.uerj.br
+srv3.telessaude.uerj.br
+w3.inscricao.vestibular.uerj.br
+m106-dfnae.fis.uerj.br
+encontro.ccomp.ime.uerj.br
+www.alunoonline.uerj.br
+amp.uerj.br
+lcr-gw.uerj.br
+pc003.cepuerj.uerj.br
+mategramatica.ime.uerj.br
+www.demetra.uerj.br
+m3-deq.fis.uerj.br
+subversion01.hupe.uerj.br
+fceb8-gw.uerj.br
+www.agendafcs.uerj.br
+m117-lfnp.fis.uerj.br
+m90-lfnp.fis.uerj.br
+ns.lampada.uerj.br
+teste.iprj.uerj.br
+www.urologia.uerj.br
+msender.unasus.uerj.br
+pc261.cepuerj.uerj.br
+dial24.uerj.br
+frank.sr2.uerj.br
+www.wifi.esdi.uerj.br
+unasus-dev.latic.uerj.br
+unidades7-teste.uerj.br
+electra.mestredu.uerj.br
+www.cap2012.uerj.br
+labserver01.hupe.uerj.br
+psico16.psicologia.uerj.br
+m58-dfnae.fis.uerj.br
+ns1.srh.uerj.br
+faf39.faf.uerj.br
+ffp2.ffp.uerj.br
+www.ppgem.eng.uerj.br
+www.redp.uerj.br
+dns01.esdi.uerj.br
+m37-deq.fis.uerj.br
+squid.hepgrid.uerj.br
+www.biodiversidade.uerj.br
+m54-dfnae.fis.uerj.br
+m25-dfnae.fis.uerj.br
+www.detel.uerj.br
+m5-dfnae.fis.uerj.br
+uerj-gw.uerj.br
+dial14.uerj.br
+dial25.uerj.br
+crater.uerj.br
+ccomp.ime.uerj.br
+postgresql.desenv.uerj.br
+centraldeatendimento.uerj.br
+www.nupi.uerj.br
+m9-dfat.fis.uerj.br
+www.labimi.uerj.br
+www.campusresende.uerj.br
+faf31.faf.uerj.br
+ns2.labgis.uerj.br
+srv-monitoramento.iprj.uerj.br
+ciclodepalestras.dsea.uerj.br
+alunos6.bib.fcm.uerj.br
+www.lee.eng.uerj.br
+vm1c.uerj.br
+www.drive.uerj.br
+m31-dfnae.fis.uerj.br
+m14-dfat.fis.uerj.br
+m33-dfnae.fis.uerj.br
+ffp11.ffp.uerj.br
+secure.srh.uerj.br
+observatorio.iesp.uerj.br
+moodle.unasus.uerj.br
+pc001.cepuerj.uerj.br
+m32-dfnae.fis.uerj.br
+m94-lfnp.fis.uerj.br
+www.baja.iprj.uerj.br
+cocurso02.cepuerj.uerj.br
+fss6.fss.uerj.br
+pr3.uerj.br
+ava.sgp.uerj.br
+sistemas.hupe.uerj.br
+www.niesc.uerj.br
+faf21.faf.uerj.br
+m13-dfnae.fis.uerj.br
+m44-dfnae.fis.uerj.br
+dbcg-gw.uerj.br
+moodle.ims.uerj.br
+prova01.cepuerj.uerj.br
+m67-lfnp.fis.uerj.br
+m36-dfnae.fis.uerj.br
+hades.lcr.uerj.br
+micro2.dpl.uerj.br
+www.ead.uerj.br
+node-b09.hepgrid.uerj.br
+www7.cepuerj.uerj.br
+m77-lfnp.fis.uerj.br
+www.revistadocahis.uerj.br
+phpmyadmin.uerj.br
+www.phpmyadmin.uerj.br
+apolo.lcr.uerj.br
+m108-dfnae.fis.uerj.br
+core.hepgrid.uerj.br
+m101-lfnp.fis.uerj.br
+lti.iprj.uerj.br
+m112-dfnae.fis.uerj.br
+node-b18.hepgrid.uerj.br
+speadm1.cepuerj.uerj.br
+postgresql.unidades.uerj.br
+drtc1.defin.uerj.br
+www5.uerj.br
+sr1-gw.uerj.br
+m40-deq.fis.uerj.br
+intranet.sr2.uerj.br
+www.corridabetinhopelavida.uerj.br
+www.cultec.uerj.br
+m51-dfnae.fis.uerj.br
+dmfc.fat.uerj.br
+reservas.ime.uerj.br
+cam6.dinfo.uerj.br
+www.fcm.uerj.br
+boletimteste.uerj.br
+gridftp2.hepgrid.uerj.br
+dial10.uerj.br
+node-a03.hepgrid.uerj.br
+ffp9.ffp.uerj.br
+site.ims.uerj.br
+intranet.srh.uerj.br
+www.dinfo.uerj.br
+www.legos.uerj.br
+xrootd.hepgrid.uerj.br
+dbcg4.dbcg.uerj.br
+m3-dfnae.fis.uerj.br
+rot2-gw.uerj.br
+psico8.psicologia.uerj.br
+psico22.psicologia.uerj.br
+www.eduroam.uerj.br
+uerj.br
+decont2.defin.uerj.br
+ns02.sr2.uerj.br
+especialmat.ime.uerj.br
+ng.dsea.uerj.br
+www.coart.uerj.br
+ffp12.ffp.uerj.br
+mpp2017.ime.uerj.br
+loki.lcr.uerj.br
+nt4defin.defin.uerj.br
+micro2.bio.uerj.br
+lampada-gw.uerj.br
+www.labgis.uerj.br
+fdir.uerj.br
+m43-dfnae.fis.uerj.br
+localhost.hupe.uerj.br
+spius1.cepuerj.uerj.br
+peixes.lcr.uerj.br
+faf44.faf.uerj.br
+www.ajesportes.uerj.br
+www.cetreina.uerj.br
+venus.lcr.uerj.br
+m43-deq.fis.uerj.br
+www.forumambiental.uerj.br
+crux.uerj.br
+gridftp1.hepgrid.uerj.br
+www.deamb.eng.uerj.br
+www.ouvidoria.uerj.br
+psico15.psicologia.uerj.br
+perseu.lcr.uerj.br
+idp-eduroam.uerj.br
+adolec.lampada.uerj.br
+www.ppgans.nutricao.uerj.br
+m96-dfnae.fis.uerj.br
+m41-dfnae.fis.uerj.br
+geohmount.labgis.uerj.br
+ava.labgis.uerj.br
+hupe.uerj.br
+cinova.fat.uerj.br
+www.posif.uerj.br
+m35-deq.fis.uerj.br
+mig.sr2.uerj.br
+m91-lfnp.fis.uerj.br
+wifi.labgis.uerj.br
+srh.uerj.br
+ffp10.ffp.uerj.br
+dft.dft.if.uerj.br
+www.atafona.uerj.br
+mail.mailauto.labgis.uerj.br
+cloudnpea.ims.uerj.br
+video.telessaude.uerj.br
+iii.semanadomatematico.ime.uerj.br
+condor.hepgrid.uerj.br
+www.eneh.uerj.br
+node-a18.hepgrid.uerj.br
+www6.cepuerj.uerj.br
+copei.uerj.br
+node-a07.hepgrid.uerj.br
+ca-faf1.faf.uerj.br
+dial13.uerj.br
+copeli2.adm2.uerj.br
+m107-dfnae.fis.uerj.br
+m120-lfnp.fis.uerj.br
+ppgee.uerj.br
+www.bvsims.uerj.br
+m66-lfnp.fis.uerj.br
+www.dce.uerj.br
+mpp2013.ime.uerj.br
+proiniciar.uerj.br
+www.cogere.uerj.br
+www.revista.vestibular.uerj.br
+capella.uerj.br
+prometeu.lcr.uerj.br
+nagios.hupe.uerj.br
+srv1.dsea.uerj.br
+fcs10f-gw.uerj.br
+m108-lfnp.fis.uerj.br
+cdit.fat.uerj.br
+m33-deq.fis.uerj.br
+ww3.ims.uerj.br
+ffp4.ffp.uerj.br
+escorpiao.lcr.uerj.br
+quorum.hepgrid.uerj.br
+www.cehri.uerj.br
+www.dci.uerj.br
+www.hla.uerj.br
+inverno.iesp.uerj.br
+www.cap2011.uerj.br
+www.direito.uerj.br
+chamados.campusresende.uerj.br
+sec1.fss.uerj.br
+p1-dfnae.fis.uerj.br
+documentacao.dsea.uerj.br
+bi.dsea.uerj.br
+demeter.lcr.uerj.br
+minotouro.ime.uerj.br
+sistema.dsea.uerj.br
+dev.fat.uerj.br
+lpm5.lpm.uerj.br
+dbcg2.dbcg.uerj.br
+ns03.iprj.uerj.br
+www3.iesp.uerj.br
+servidor-master.prodeman.uerj.br
+www.copei.uerj.br
+m46-dfnae.fis.uerj.br
+dir-fcm-gw.uerj.br
+m105-lfnp.fis.uerj.br
+sync.labgis.uerj.br
+iq-gw-306.uerj.br
+calisto.lcr.uerj.br
+www.jornalismo.uerj.br
+redeigeo.labgis.uerj.br
+faf37.faf.uerj.br
+node-b05.hepgrid.uerj.br
+m98-lfnp.fis.uerj.br
+unidades8.uerj.br
+faf27.faf.uerj.br
+karla.dbq.uerj.br
+bacula-store.hepgrid.uerj.br
+m37-dfnae.fis.uerj.br
+www.proalfa.uerj.br
+m11-dir.fis.uerj.br
+boletimlerpe.uerj.br
+intranet.dsea.uerj.br
+thor.srh.uerj.br
+m69-lfnp.fis.uerj.br
+gw.dir-fcm.uerj.br
+m12-dfnae.fis.uerj.br
+hypatia.npea.ims.uerj.br
+m111-lfnp.fis.uerj.br
+www.iesp.uerj.br
+eradrj2016.ime.uerj.br
+www.lmcprot.uerj.br
+m14-dfnae.fis.uerj.br
+mailauto.labgis.uerj.br
+www.redmine.dinfo.uerj.br
+www.cempre.ime.uerj.br
+fs.labgis.uerj.br
+asce.uerj.br
+fdir-a-gw.uerj.br
+iiencontro.ccomp.ime.uerj.br
+dns1.uerj.br
+faf9.faf.uerj.br
+node-a06.hepgrid.uerj.br
+orion.dsea.uerj.br
+m112-lfnp.fis.uerj.br
+m119-dfnae.fis.uerj.br
+cosiste98.cepuerj.uerj.br
+node-b11.hepgrid.uerj.br
+mysql.unidades.uerj.br
+ns1.dsea.uerj.br
+www.daf.uerj.br
+www.mecanica.uerj.br
+comuns6.adm2.uerj.br
+moodle.lampada.uerj.br
+cam2.dinfo.uerj.br
+pc002.cepuerj.uerj.br
+valquiria.lcr.uerj.br
+www.e-publicacoes.uerj.br
+www.ppgcee.uerj.br
+microbio-gw.uerj.br
+psico7.psicologia.uerj.br
+id-unico.uerj.br
+m27-dfnae.fis.uerj.br
+ns2.fcm.uerj.br
+www.transparencia.uerj.br
+mail.cepuerj.uerj.br
+postfixadmin.divulgacao.labgis.uerj.br
+novolabgisjr.labgis.uerj.br
+micro5.edai.uerj.br
+alunos2.bib.fcm.uerj.br
+hepgrid.uerj.br
+m2-dfnae.fis.uerj.br
+m4-deq.fis.uerj.br
+m21-dfnae.fis.uerj.br
+histologia-gw.uerj.br
+jboss1.prod.uerj.br
+fce.uerj.br
+www.philia.uerj.br
+desenintra.dsea.uerj.br
+m125-lfnp.fis.uerj.br
+lpm2.lpm.uerj.br
+revista.dsea.uerj.br
+www.voluntarioscoronavirus.uerj.br
+lpg.ime.uerj.br
+srv1.cetreina.uerj.br
+m42-dfnae.fis.uerj.br
+ojs.latic.uerj.br
+www.secespifch.uerj.br
+portalgestao.uerj.br
+www.bitwebjr.uerj.br
+m104-dfnae.fis.uerj.br
+cam4.dinfo.uerj.br
+escolasdereferenciaseeduc.uerj.br
+ava.ims.uerj.br
+ffp1.ffp.uerj.br
+tetis.mestredu.uerj.br
+ead-3.uerj.br
+www.forumrio.uerj.br
+daa.uerj.br
+urano.lcr.uerj.br
+gw-ffp.uerj.br
+psico2.psicologia.uerj.br
+m12-deq.fis.uerj.br
+rot4-gw.uerj.br
+ead.uerj.br
+m27-deq.fis.uerj.br
+node-a11.hepgrid.uerj.br
+host1.uerj.br
+m103-dfnae.fis.uerj.br
+m104-lfnp.fis.uerj.br
+dbav1.dbav.uerj.br
+www.vestibularpmerj2017.uerj.br
+micro2.edai.uerj.br
+m1-dfnae.fis.uerj.br
+m5-pg.fis.uerj.br
+www.crc.uerj.br
+www.colirrfrlu.uerj.br
+hermes.lcr.uerj.br
+www.sistemas.uerj.br
+www.ppgocn.uerj.br
+www.fiscalizacao.vestibular.uerj.br
+www.ppghistoria.uerj.br
+webmail.homolog.uerj.br
+fss3.fss.uerj.br
+listas.esdi.uerj.br
+fat.uerj.br
+morpheu.lcr.uerj.br
+www.concinnitas.uerj.br
+m7-pg.fis.uerj.br
+cursos-extensao.labgis.uerj.br
+zenite.lcr.uerj.br
+m6-dfat.fis.uerj.br
+node-b02.hepgrid.uerj.br
+docker-prod.uerj.br
+m125-dfnae.fis.uerj.br
+www.nea.uerj.br
+corretor.dev.dsea.uerj.br
+micro1.bio.uerj.br
+m16-deq.fis.uerj.br
+www2.ime.uerj.br
+www.meioambiente.uerj.br
+www.efoto.eng.uerj.br
+ims.uerj.br
+lb6-dfat.fis.uerj.br
+www.rij.eng.uerj.br
+www.anped11.uerj.br
+taurus.uerj.br
+mautic.labgis.uerj.br
+avate.pr3.uerj.br
+m119-lfnp.fis.uerj.br
+www.suporte.iprj.uerj.br
+decont4.defin.uerj.br
+node-a16.hepgrid.uerj.br
+node-d15.hepgrid.uerj.br
+geografia.igeo.uerj.br
+iq-gw.uerj.br
+www.formularios.uerj.br
+sistemas.uerj.br
+draco.uerj.br
+core1.hepgrid.uerj.br
+anatomia.uerj.br
+www.dep.uerj.br
+comuns7.adm2.uerj.br
+cofi01.cepuerj.uerj.br
+sites1.labgis.uerj.br
+dbcg9.dbcg.uerj.br
+www.cartao.uerj.br
+protec.uerj.br
+spimon1.cepuerj.uerj.br
+m115-lfnp.fis.uerj.br
+smtp.esdi.uerj.br
+n1.web.dsea.uerj.br
+comuns9.adm2.uerj.br
+pfsense.hepgrid.uerj.br
+cofi22.cepuerj.uerj.br
+ead.telessaude.uerj.br
+drtc5.defin.uerj.br
+www.edulatosensu.uerj.br
+moodle.labgis.uerj.br
+renata.dir-fcm.uerj.br
+www.clipping.uerj.br
+www.pplin.uerj.br
+hplogistica.cepuerj.uerj.br
+professoronline.uerj.br
+dep-gw.uerj.br
+m9-dir.fis.uerj.br
+faf45.faf.uerj.br
+www.dcarh.uerj.br
+www.restauranteuniversitario.uerj.br
+alunos3.bib.fcm.uerj.br
+pegasus.uerj.br
+lpm6.lpm.uerj.br
+sites2.labgis.uerj.br
+tudosobreasma.telessaude.uerj.br
+avabbb.ims.uerj.br
+m115-dfnae.fis.uerj.br
+m89-lfnp.fis.uerj.br
+nupevi.iesp.uerj.br
+perseus.uerj.br
+switch_sw002.cepuerj.uerj.br
+m22-dfnae.fis.uerj.br
+www.wifi.uerj.br
+dbav2.dbav.uerj.br
+osgce.hepgrid.uerj.br
+lcr.uerj.br
+www.rsirius.uerj.br
+pictor.uerj.br
+geodata.labgis.uerj.br
+bel.fat.uerj.br
+www.biovasc.uerj.br
+www.calic.uerj.br
+m25-deq.fis.uerj.br
+m30-dfnae.fis.uerj.br
+beth.dir-fcm.uerj.br
+security.srh.uerj.br
+www.mecatronica.eng.uerj.br
+fisiologia-gw.uerj.br
+capricornio.lcr.uerj.br
+lpm4.lpm.uerj.br
+www.grupogas.eng.uerj.br
+www.inclusaodigital.uerj.br
+anaconda.prodeman.uerj.br
+m97-lfnp.fis.uerj.br
+node-a02.hepgrid.uerj.br
+node-b13.hepgrid.uerj.br
+tempo.iprj.uerj.br
+hercules.lcr.uerj.br
+www.ppg-ecoevol.uerj.br
+cosiste01.cepuerj.uerj.br
+pisces.uerj.br
+shibd1.cepuerj.uerj.br
+www.roteiros.igeog.uerj.br
+defin2.defin.uerj.br
+m124-dfnae.fis.uerj.br
+portal.dsea.uerj.br
+switch_sw005.cepuerj.uerj.br
+www.geouerj.uerj.br
+tandberg.hepgrid.uerj.br
+www.phppgadmin.dinfo.uerj.br
+m24-dfnae.fis.uerj.br
+gateway.dbcg.uerj.br
+www.psicologia.uerj.br
+www.eng.uerj.br
+pyxis.uerj.br
+m2-dir.fis.uerj.br
+m4-dfat.fis.uerj.br
+ava.pr2.uerj.br
+www.comuns.uerj.br
+montesquieu.iesp.uerj.br
+faf29.faf.uerj.br
+srv1.telessaude.uerj.br
+decont.defin.uerj.br
+lb11-dfat.fis.uerj.br
+www.ceed.uerj.br
+node-b04.hepgrid.uerj.br
+m109-lfnp.fis.uerj.br
+canopus.uerj.br
+m105-dfnae.fis.uerj.br
+www.isebis.eng.uerj.br
+politicasdesaude.uerj.br
+suporte.fat.uerj.br
+m4-elt.fis.uerj.br
+www.lppe.uerj.br
+www.capf.uerj.br
+cisco-proderj.uerj.br
+m110-lfnp.fis.uerj.br
+www.neab-proafro.uerj.br
+www.cte.uerj.br
+dial17.uerj.br
+thinlinc04.uerj.br
+m23-dfnae.fis.uerj.br
+zimbra.lampada.uerj.br
+m1-elt.fis.uerj.br
+psico9.psicologia.uerj.br
+node-a05.hepgrid.uerj.br
+lpm7.lpm.uerj.br
+laramg.uerj.br
+www.ics.uerj.br
+p3-dfnae.fis.uerj.br
+ffp5.ffp.uerj.br
+www.neiffp.uerj.br
+redesirius.uerj.br
+ns2.campusresende.uerj.br
+m45-dfnae.fis.uerj.br
+comuns8.adm2.uerj.br
+suporte.cepuerj.uerj.br
+www.audin.uerj.br
+lemep.iesp.uerj.br
+www.profhistoria.uerj.br
+sisdev.vestibular.dsea.uerj.br
+m100-lfnp.fis.uerj.br
+amb-gw1.uerj.br
+www.lcr.uerj.br
+www.lcad.iprj.uerj.br
+ns02.iprj.uerj.br
+estr.eng.uerj.br
+unidades5.uerj.br
+0800.telessaude.uerj.br
+especializacaomat.ime.uerj.br
+m1-pg.fis.uerj.br
+ingresso.febf.uerj.br
+psico10.psicologia.uerj.br
+www.sisadm.uerj.br
+bbb.ims.uerj.br
+faf.uerj.br
+www.audiolab.uerj.br
+mailhost.uerj.br
+m102-dfnae.fis.uerj.br
+prefeitura-protocolo.uerj.br
+m50-dfnae.fis.uerj.br
+webconferencia.ims.uerj.br
+receiver.lampada.uerj.br
+eduerj.uerj.br
+vestibularweb.uerj.br
+quorum-antiga.hepgrid.uerj.br
+www.lampada.uerj.br
+dial22.uerj.br
+pel.uerj.br
+servidor01.lee.eng.uerj.br
+artemis.lcr.uerj.br
+m101-dfnae.fis.uerj.br
+www.ceoctavioianni.uerj.br
+m9-deq.fis.uerj.br
+node-d17.hepgrid.uerj.br
+m110-dfnae.fis.uerj.br
+m6-dfnae.fis.uerj.br
+www.proiniciar.uerj.br
+pegasus.lcr.uerj.br
+geoservicos.labgis.uerj.br
+www.lacon.uerj.br
+www.lmmc.uerj.br
+marte.lcr.uerj.br
+www.nutricao.uerj.br
+www.labtran.iprj.uerj.br
+lpm-gw.uerj.br
+suporte.hupe.uerj.br
+cerebro.telessaude.uerj.br
+psico6.psicologia.uerj.br
+nuper.iesp.uerj.br
+mariadb-prod.uerj.br
+ulisses.lcr.uerj.br
+ldap.iprj.uerj.br
+dionizio.lcr.uerj.br
+www.cpa.uerj.br
+www.estacionamento.uerj.br
+roteador.prodeman.uerj.br
+m17-deq.fis.uerj.br
+www.ims.uerj.br
+fenix.lcr.uerj.br
+dicof2.defin.uerj.br
+lb4-dfat.fis.uerj.br
+m126-lfnp.fis.uerj.br
+www.cursos-teleodonto.uerj.br
+www.censograduacao.uerj.br
+m13-pg.fis.uerj.br
+www.decb.uerj.br
+www.pagem.uerj.br
+io.labgis.uerj.br
+www.boluerj.uerj.br
+psico5.psicologia.uerj.br
+www.uerj.br
+srv4.telessaude.uerj.br
+andromeda.lcr.uerj.br
+thinlinc02.uerj.br
+www.escolasdereferenciaseeduc.uerj.br
+m47-deq.fis.uerj.br
+www.otoneurologia.uerj.br
+mpp2012.ime.uerj.br
+www.ppgecc.uerj.br
+imscloud.ims.uerj.br
+www.ceham.uerj.br
+www.cultivar.uerj.br
+jayme.dbq.uerj.br
+fdir-b-gw.uerj.br
+www.fisiocirurgia.uerj.br
+m59-dfnae.fis.uerj.br
+www.pgbv.uerj.br
+alunoonline.uerj.br
+defin1.defin.uerj.br
+www.lti.iprj.uerj.br
+avalie.hupe.uerj.br
+sirius.uerj.br
+en.mpp2013.ime.uerj.br
+bluedevmestrado.telessaude.uerj.br
+gw-mail.uerj.br
+cosiste02.cepuerj.uerj.br
+srv1-dsi.uerj.br
+m5-dfat.fis.uerj.br
+aquario.lcr.uerj.br
+pop.uerj.br
+alunos5.bib.fcm.uerj.br
+www.fat.uerj.br
+faf20.faf.uerj.br
+m82-lfnp.fis.uerj.br
+gridftp-lb.hepgrid.uerj.br
+faf22.faf.uerj.br
+www.bdtd.uerj.br
+webmail.uerj.br
+sistemasextensao.uerj.br
+fcs-gw.uerj.br
+dep2.dep.sr1.uerj.br
+quadro.telessaude.uerj.br
+phppgadmin.uerj.br
+p2-dfnae.fis.uerj.br
+decont5.defin.uerj.br
+micro7.bib.fcm.uerj.br
+surveynpea.ims.uerj.br
+apus.uerj.br
+www.psi-sabersocial.uerj.br
+faf8.faf.uerj.br
+www.teleodonto.uerj.br
+thor.lcr.uerj.br
+desenrjn.www.telessaude.uerj.br
+prodeman-gw.uerj.br
+gw-pg.fis.uerj.br
+dados.iesp.uerj.br
+psico11.psicologia.uerj.br
+daa-gw.uerj.br
+www.ime.uerj.br
+www.odontologia.uerj.br
+fce8a-gw.uerj.br
+alunos4.bib.fcm.uerj.br
+m11-dfat.fis.uerj.br
+ap_cosiste.cepuerj.uerj.br
+revista.unati.uerj.br
+m73-lfnp.fis.uerj.br
+m118-lfnp.fis.uerj.br
+sistema.vestibular.uerj.br
+psico26.psicologia.uerj.br
+www.cepedes.uerj.br
+labtran.iprj.uerj.br
+m10-dfat.fis.uerj.br
+glaucia.dir-fcm.uerj.br
+mobilog.ims.uerj.br
+www2.iprj.uerj.br
+holle.eng.uerj.br
+www.ctc.uerj.br
+www.cap.uerj.br
+www.mecan.eng.uerj.br
+www.ecoaves.uerj.br
+ii.semanadomatematico.ime.uerj.br
+www.asuerj.uerj.br
+ii.senalem.ime.uerj.br
+www.asce.uerj.br
+www.pospsi.uerj.br
+50anos.iesp.uerj.br
+www.eduerjlivros.uerj.br
+www.desenv.sistemas.uerj.br
+www1.iprj.uerj.br
+vm1b.uerj.br
+www.dtur.uerj.br
+m70-lfnp.fis.uerj.br
+www2.datauerj.uerj.br
+www7.uerj.br
+lpp.uerj.br
+ns03.dci.uerj.br
+vmcoprosel.cepuerj.uerj.br
+wifi.uerj.br
+relet.iesp.uerj.br
+gentes.ims.uerj.br
+telessaude.uerj.br
+m48-dfnae.fis.uerj.br
+m113-lfnp.fis.uerj.br
+www.nuderg.uerj.br
+psico19.psicologia.uerj.br
+ppc.uerj.br
+faf42.faf.uerj.br
+cassiopea.uerj.br
+ocs.iesp.uerj.br
+www.elosnoticias.uerj.br
+asuerj.uerj.br
+micro3.bio.uerj.br
+www.coronavirus.uerj.br
+m114-lfnp.fis.uerj.br
+db-gw.uerj.br
+m2-elt.fis.uerj.br
+mariadb-unidades.uerj.br
+atlas.lampada.uerj.br
+www.cap2014.uerj.br
+ns2.ims.uerj.br
+chamados.ime.uerj.br
+www6.uerj.br
+node-a15.hepgrid.uerj.br
+m11-deq.fis.uerj.br
+negrinho.prodeman.uerj.br
+m16-dfnae.fis.uerj.br
+www.lagepro.uerj.br
+geep.iesp.uerj.br
+m13-dfat.fis.uerj.br
+m123-dfnae.fis.uerj.br
+sw1.uerj.br
+gateway.lpm.uerj.br
+ceres.iesp.uerj.br
+www.ppc.uerj.br
+www.lishep.uerj.br
+vinicius.ime.uerj.br
+m36-deq.fis.uerj.br
+www.igeo.uerj.br
+shijb1.cepuerj.uerj.br
+pfs.labgis.uerj.br
+www.lav.uerj.br
+www.radiouerjonline.uerj.br
+cam5.dinfo.uerj.br
+midas.lcr.uerj.br
+arcturus.uerj.br
+node-b03.hepgrid.uerj.br
+ns2.fat.uerj.br
+www.bhex.uerj.br
+dbav3.dbav.uerj.br
+galileu.lcr.uerj.br
+www.prodeman.uerj.br
+www.educacao.uerj.br
+entrada.prodeman.uerj.br
+m106-lfnp.fis.uerj.br
+m17-dfnae.fis.uerj.br
+m39-deq.fis.uerj.br
+fss4.fss.uerj.br
+en.mpp2012.ime.uerj.br
+www.moderna-contemp.uerj.br
+www.centraldeatendimento-desenv.uerj.br
+www.cap2017.uerj.br
+www.tecap.uerj.br
+dbav-gw.uerj.br
+redmine.dinfo.uerj.br
+m78-lfnp.fis.uerj.br
+m5-dir.fis.uerj.br
+faf7.faf.uerj.br
+www.nucleoperinatal.uerj.br
+pr1.uerj.br
+biodesign.esdi.uerj.br
+m15-dfat.fis.uerj.br
+thuban.uerj.br
+www.iprj.uerj.br
+ead.iprj.uerj.br
+roteador.faf.uerj.br
+m3-dir.fis.uerj.br
+comuns2.adm2.uerj.br
+deq2.fis.uerj.br
+www.ementario.uerj.br
+sargitario.lcr.uerj.br
+spiav1.cepuerj.uerj.br
+perfsonar-lt.hepgrid.uerj.br
+eduerjlivros.uerj.br
+www2.dsea.uerj.br
+www.bvambientebf.uerj.br
+www.labbas.eng.uerj.br
+m7-deq.fis.uerj.br
+sol.labgis.uerj.br
+www.ingresso.febf.uerj.br
+sec1.dbq.uerj.br
+myadmin.labgis.uerj.br
+m76-lfnp.fis.uerj.br
+namenode2.hepgrid.uerj.br
+copeli1.adm2.uerj.br
+dial23.uerj.br
+m116-lfnp.fis.uerj.br
+progemulti.sr2.uerj.br
+www.coamb.eng.uerj.br
+psico14.psicologia.uerj.br
+m34-dfnae.fis.uerj.br
+www.labore.uerj.br
+node-a14.hepgrid.uerj.br
+webmail.iesp.uerj.br
+www.daa.uerj.br
+vera.dbq.uerj.br
+geo.uerj.br
+cosiste11.cepuerj.uerj.br
+www1.iesp.uerj.br
+www.contemporanea.uerj.br
+ns1.fat.uerj.br
+mobilogapp.ims.uerj.br
+www.biotodos.uerj.br
+vpn.uerj.br
+prematricula.graduacao.uerj.br
+micro4.bio.uerj.br
+necon.iesp.uerj.br
+m8-dir.fis.uerj.br
+www.srh.uerj.br
+urologia.uerj.br
+gw-b.letras.uerj.br
+node-b14.hepgrid.uerj.br
+zabbix.labgis.uerj.br
+www.caiac.uerj.br
+www.pgfil.uerj.br
+portal.vestibular.uerj.br
+www.sistema-nanofab.uerj.br
+ffp6.ffp.uerj.br
+m6-deq.fis.uerj.br
+m.vestibular.uerj.br
+m7-dir.fis.uerj.br
+dft.if.uerj.br
+lb9-dfat.fis.uerj.br
+drugtrajectories.ims.uerj.br
+www.estr.eng.uerj.br
+unidades7.uerj.br
+m1-dir.fis.uerj.br
+atlas.lcr.uerj.br
+cap2021.uerj.br
+bbb.fat.uerj.br
+m52-dfnae.fis.uerj.br
+gw.em.fdir.uerj.br
+www.leddes.uerj.br
+www.nepec.igeog.uerj.br
+dbcg3.dbcg.uerj.br
+unidades6.uerj.br
+caua1.dep.sr1.uerj.br
+mail.lampada.uerj.br
+www.pgcm.uerj.br
+odonto-r2-gw.uerj.br
+clickc.e2b.cepuerj.uerj.br
+www.cbtermo2019.uerj.br
+luizinho.esdi.uerj.br
+bjhbs.hupe.uerj.br
+fgt.cepuerj.uerj.br
+faf34.faf.uerj.br
+webmail.cepuerj.uerj.br
+bolsas.cetreina.uerj.br
+dial18.uerj.br
+www.gruve.eng.uerj.br
+www.ppgcc.faf.uerj.br
+m62-dfnae.fis.uerj.br
+gw.bio.uerj.br
+www4.iesp.uerj.br
+www1.unasus.uerj.br
+www.unasus.uerj.br
+professores.ime.uerj.br
+www.sgp.uerj.br
+se.hepgrid.uerj.br
+m30-deq.fis.uerj.br
+node-a12.hepgrid.uerj.br
+scanner.prodeman.uerj.br
+www.ppgri.uerj.br
+ava.cap.uerj.br
+www.grupometeoro.uerj.br
+fgel-f2-gw.uerj.br
+labcomp-gw.uerj.br
+www.laboratoriogestaltico.uerj.br
+faf48.faf.uerj.br
+faf36.faf.uerj.br
+grad.dbq.uerj.br
+www.esdi.uerj.br
+lead.uerj.br
+roteador.fss.uerj.br
+www.ceh.uerj.br
+m15-dfnae.fis.uerj.br
+m38-dfnae.fis.uerj.br
+node-a00.hepgrid.uerj.br
+www.unidades2.uerj.br
+m18-dfnae.fis.uerj.br
+srv1.vestibular.uerj.br
+m74-lfnp.fis.uerj.br
+www.institutodeletras.uerj.br
+prefeitura-geduerj.uerj.br
+mariadb.prod.uerj.br
+hupe01.hupe.uerj.br
+www.ppgmeioambiente.uerj.br
+sgp.uerj.br
+www.helpdesk.dinfo.uerj.br
+zeus.mestredu.uerj.br
+ppgha.uerj.br
+www.prefeitura.uerj.br
+aquiles.lcr.uerj.br
+red.srh.uerj.br
+netuno.lcr.uerj.br
+grus.uerj.br
+osgce2.hepgrid.uerj.br
+gw-deq.fis.uerj.br
+hidra.lcr.uerj.br
+www.nesa.uerj.br
+operacoes.prodeman.uerj.br
+ns1.sgp.uerj.br
+www.igeog.uerj.br
+ajax.lcr.uerj.br
+lb8-dfat.fis.uerj.br
+pegasus2.uerj.br
+dev.ciclodepalestras.dsea.uerj.br
+ns02.dci.uerj.br
+saude.hupe.uerj.br
+deq1.fis.uerj.br
+www.profagua.uerj.br
+atena.lcr.uerj.br
+transparencia.uerj.br
+arjuna.iesp.uerj.br
+www.itecs.ime.uerj.br
+www.ppgq-iq.uerj.br
+www.cliopsyche.uerj.br
+node-a13.hepgrid.uerj.br
+psico17.psicologia.uerj.br
+m88-lfnp.fis.uerj.br
+m20-deq.fis.uerj.br
+lefi.iprj.uerj.br
+www1.ims.uerj.br
+iesp.uerj.br
+vsphare.hupe.uerj.br
+plutao.lcr.uerj.br
+diana.lcr.uerj.br
+www.proealc.uerj.br
+ca-faf2.faf.uerj.br
+www.sr1.uerj.br
+www.audiolabgeo.uerj.br
+web.hepgrid.uerj.br
+www.arqueologia.uerj.br
+www.praxiseformacao.uerj.br
+mail04106.e2b.cepuerj.uerj.br
+m23-deq.fis.uerj.br
+services-velha.hepgrid.uerj.br
+www.sei.uerj.br
+lerpe.uerj.br
+m1-dfat.fis.uerj.br
+shiwf1.cepuerj.uerj.br
+m117-dfnae.fis.uerj.br
+faf26.faf.uerj.br
+www.professoronline.uerj.br
+siteantigo.srh.uerj.br
+m68-lfnp.fis.uerj.br
+thinlinc03.uerj.br
+www.bvjovem.uerj.br
+db.hepgrid.uerj.br
+odin.lcr.uerj.br
+fiscalizacao.vestibular.uerj.br
+www.caia.uerj.br
+ppgsc.ims.uerj.br
+lpm8.lpm.uerj.br
+fabianooliveira.ime.uerj.br
+www51.uerj.br
+m47-dfnae.fis.uerj.br
+ns1.divulgacao.labgis.uerj.br
+node-d16.hepgrid.uerj.br
+pc076.cepuerj.uerj.br
+prefeitura.uerj.br
+psico1.psicologia.uerj.br
+www.incubasulflu.uerj.br
+www.lerpe.uerj.br
+liscustodio.ime.uerj.br
+rigil.uerj.br
+psico13.psicologia.uerj.br
+hupe03.hupe.uerj.br
+www.cap2013.uerj.br
+dicof.defin.uerj.br
+fss1.fss.uerj.br
+servidor02.lee.uerj.br
+www.cap2016.uerj.br
+www.revistanearco.uerj.br
+micro4.edai.uerj.br
+letras-f1-gw.uerj.br
+m49-dfnae.fis.uerj.br
+lcc.ime.uerj.br
+master.dsea.uerj.br
+www.biograduacao.uerj.br
+m20-dfnae.fis.uerj.br
+cepuerj-gw.uerj.br
+m109-dfnae.fis.uerj.br
+postgresql2-unidades.uerj.br
+spisvn1.cepuerj.uerj.br
+helpdesk.dinfo.uerj.br
+sirius.lcr.uerj.br
+www.ppcis.uerj.br
+www.elo.uerj.br
+www.boletimvestibular.uerj.br
+daflon.prodeman.uerj.br
+m19-deq.fis.uerj.br
+comuns3.adm2.uerj.br
+saturno.lcr.uerj.br
+www.febf.uerj.br
+dbav5.dbav.uerj.br
+mail.divulgacao.labgis.uerj.br
+m45-deq.fis.uerj.br
+dicof1.defin.uerj.br
+www.ele.eng.uerj.br
+www.ava.pr1.uerj.br
+mail.ims.uerj.br
+mestrado.telessaude.uerj.br
+m10-dfnae.fis.uerj.br
+www.labciv.eng.uerj.br
+www.centrobiomedico.uerj.br
+www.ifht.uerj.br
+voluntarioscoronavirus.uerj.br
+m107-lfnp.fis.uerj.br
+www.cap2009.uerj.br
+psico24.psicologia.uerj.br
+m42-deq.fis.uerj.br
+www.enearte.uerj.br
+thinlinc05.uerj.br
+faf35.faf.uerj.br
+m35-dfnae.fis.uerj.br
+ns2.hepgrid.uerj.br
+faf33.faf.uerj.br
+www.ibrag.uerj.br
+www.wifi.ffp.uerj.br
+faf47.faf.uerj.br
+polycom.lampada.uerj.br
+psico20.psicologia.uerj.br
+www.intellectus.uerj.br
+plutao.labgis.uerj.br
+dcarh.sr2.uerj.br
+geo-gw.uerj.br
+m22-deq.fis.uerj.br
+www.sigaassetas.uerj.br
+www.unidades.uerj.br
+m10-dir.fis.uerj.br
+www.sr2.uerj.br
+www.cap2015.uerj.br
+node-a09.hepgrid.uerj.br
+cocurso07.cepuerj.uerj.br
+dbcg6.dbcg.uerj.br
+m1-deq.fis.uerj.br
+www.prematricula.graduacao.uerj.br
+m13-dir.fis.uerj.br
+cam3.dinfo.uerj.br
+dial15.uerj.br
+www.cac.uerj.br
+node-a17.hepgrid.uerj.br
+labime.ime.uerj.br
+prtsimpress.hupe.uerj.br
+psico21.psicologia.uerj.br
+mpp2014.ime.uerj.br
+proderj-gw.uerj.br
+m9-pg.fis.uerj.br
+lb12-dfat.fis.uerj.br
+psico12.psicologia.uerj.br
+srv2.dsea.uerj.br
+www.vestibular.dsea.uerj.br
+www.omarrare.uerj.br
+libra.lcr.uerj.br
+www.prefeitura-geduerj.uerj.br
+srv5.telessaude.uerj.br
+m6-dir.fis.uerj.br
+www.fisclinex.uerj.br
+fce3.faf.uerj.br
+www.ceper.eng.uerj.br
+phpmyadmin.ime.uerj.br
+mail2.iprj.uerj.br
+spidc1.cepuerj.uerj.br
+m72-lfnp.fis.uerj.br
+ead.fcm.uerj.br
+mailhost.lee.uerj.br
+ns.ppc.uerj.br
+www.ffp.uerj.br
+frank2.sr2.uerj.br
+lb3-dfat.fis.uerj.br
+www.pgbiologia.uerj.br
+srv2.telessaude.uerj.br
+treinamentogestao.hupe.uerj.br
+www.geohmount.labgis.uerj.br
+ead-1.uerj.br
+ppgmeioambiente.uerj.br
+www.fis.uerj.br
+dial19.uerj.br
+sites.labgis.uerj.br
+epi-r.ims.uerj.br
+lab2.dbq.uerj.br
+fgel-a-gw.uerj.br
+ns2.dsea.uerj.br
+www.led.uerj.br
+ns1.labgis.uerj.br
+web.lampada.uerj.br
+micro1.dpl.uerj.br
+ceh.uerj.br
+cfre.fat.uerj.br
+contributions.iesp.uerj.br
+webmail.ims.uerj.br
+fce1.faf.uerj.br
+m102-lfnp.fis.uerj.br
+postgresql.prod.uerj.br
+mail2.ims.uerj.br
+www.epocadegoethe.uerj.br
+www.dcct.eng.uerj.br
+www.micron.uerj.br
+cedes.uerj.br
+srv3.latic.uerj.br
+www.revispsi.uerj.br
+imap.uerj.br
+www.tvuerj.uerj.br
+dial11.uerj.br
+jaguar.sr2.uerj.br
+m18-deq.fis.uerj.br
+mirage.uerj.br
+www.latesi.ime.uerj.br
+pronex.iesp.uerj.br
+www.ppgha.uerj.br
+www.turismosolidario.uerj.br
+smtp.uerj.br
+cancer.lcr.uerj.br
+faf25.faf.uerj.br
+m55-dfnae.fis.uerj.br
+m84-lfnp.fis.uerj.br
+www.telessauderj.uerj.br
+dbcg5.dbcg.uerj.br
+dft-gw.uerj.br
+psico25.psicologia.uerj.br
+www.noticiasdavila.uerj.br
+www.academica.eng.uerj.br
+sr2.uerj.br
+red.telessaude.uerj.br
+m3-elt.fis.uerj.br
+servidor02.lee.eng.uerj.br
+ouvidoria.uerj.br
+www.sr3.uerj.br
+aldebaran.lcr.uerj.br
+m38-deq.fis.uerj.br
+alkes.uerj.br
+zeus.lcr.uerj.br
+lacad-dft.fis.uerj.br
+dbav6.dbav.uerj.br
+prod.srh.uerj.br
+www.obeduc.uerj.br
+gemaa.iesp.uerj.br
+iiiencontro.ccomp.ime.uerj.br
+m99-dfnae.fis.uerj.br
+coordenador.prodeman.uerj.br
+www.lci.uerj.br
+latic.uerj.br
+m83-lfnp.fis.uerj.br
+doxa.iesp.uerj.br
+perseu.mestredu.uerj.br
+labgis.uerj.br
+fdir-f2-gw.uerj.br
+pibic.sr2.uerj.br
+ava.pr1.uerj.br
+leao.lcr.uerj.br
+e-publicacoes.uerj.br
+drive.uerj.br
+www.webpx.uerj.br
+unidades3.uerj.br
+m75-lfnp.fis.uerj.br
+m111-dfnae.fis.uerj.br
+alunos7.bib.fcm.uerj.br
+www.recap.eng.uerj.br
+m11-pg.fis.uerj.br
+m46-deq.fis.uerj.br
+m8-deq.fis.uerj.br
+fgel.uerj.br
+enfermagem-gw.uerj.br
+ns02.hupe.uerj.br
+backupext.uerj.br
+espec.iesp.uerj.br
+rodrigo.ribeiro.uerj.br
+www.phpmyadmin.dinfo.uerj.br
+master.uerj.br
+plasma.uerj.br
+m4-dfnae.fis.uerj.br
+mercurio.lcr.uerj.br
+ciclope.lcr.uerj.br
+orion.uerj.br
+m8-dfnae.fis.uerj.br
+ead.srh.uerj.br
+faf30.faf.uerj.br
+clima.iprj.uerj.br
+m13-deq.fis.uerj.br
+inovuerj.sr2.uerj.br
+www.cap2018.uerj.br
+m34-deq.fis.uerj.br
+sisdev.vestibular.uerj.br
+www.lpp.uerj.br
+www.cedipe.uerj.br
+secretaria.fat.uerj.br
+novo.lampada.uerj.br
+www.arqportal.uerj.br
+w4.inscricao.vestibular.uerj.br
+grupometeoro.uerj.br
+www.maqua.uerj.br
+daf1.uerj.br
+www.iq.uerj.br
+m26-deq.fis.uerj.br
+ns01.iprj.uerj.br
+sophia-redesirius.uerj.br
+www.escolahospitalar.uerj.br
+pg.labgis.uerj.br
+decont3.defin.uerj.br
+m10-deq.fis.uerj.br
+www.centraldeatendimento.uerj.br
+www.ppg-em.eng.uerj.br
+www.clima.iprj.uerj.br
+www.sepel.uerj.br
+vcenter.uerj.br
+www.cap2019.uerj.br
+desenmobile.dsea.uerj.br
+www.politicasdesaude.uerj.br
+sso.ime.uerj.br
+m122-dfnae.fis.uerj.br
+psico23.psicologia.uerj.br
+ffp3.ffp.uerj.br
+dbav7.dbav.uerj.br
+intranet.cepuerj.uerj.br
+switch.hepgrid.uerj.br
+centauro.lcr.uerj.br
+micro3.edai.uerj.br
+m41-deq.fis.uerj.br
+gw1.fdir.uerj.br
+m56-dfnae.fis.uerj.br
+comuns4.adm2.uerj.br
+node-a04.hepgrid.uerj.br
+edipo.lcr.uerj.br
+alocacao.dsea.uerj.br
+zeus.uerj.br
+webserver.sr3.uerj.br
+psico4.psicologia.uerj.br
+www.nvestibular.uerj.br
+mariadb-desenv.uerj.br
+node-b01.hepgrid.uerj.br
+www.polemica.uerj.br
+webmail-antigo.iprj.uerj.br
+speedracer.ime.uerj.br
+w1.inscricao.vestibular.uerj.br
+roteador.psicologia.uerj.br
+ispivm1.cepuerj.uerj.br
+uerjbisrv.uerj.br
+www.e-listas.uerj.br
+www.mostradeestagio.uerj.br
+www.oceanografia.uerj.br
+neic.iesp.uerj.br
+web.srh.uerj.br
+www.ppgeb.cap.uerj.br
+www.antigo.uerj.br
+faf32.faf.uerj.br
+dbav4.dbav.uerj.br
+beemote.iesp.uerj.br
+www.diplan.uerj.br
+thinlinc01.uerj.br
+www.arrecadacaodaf.uerj.br
+www.anocomemorativo.uerj.br
+ingressofebf.uerj.br
+labfaf.faf.uerj.br
+analysis.hepgrid.uerj.br
+faf40.faf.uerj.br
+nupet.iesp.uerj.br
+atlas.labgis.uerj.br
+www.curriculosgrad.uerj.br
+pguerj.uerj.br
+www.aleitamento.uerj.br
+namenode1.hepgrid.uerj.br
+vpn.hepgrid.uerj.br
+www.prime.ime.uerj.br
+www.caeng.uerj.br
+igeo04.igeo.uerj.br
+psico18.psicologia.uerj.br
+edu.unasus.uerj.br
+m29-deq.fis.uerj.br
+dial20.uerj.br
+pgadmin.labgis.uerj.br
+sec2.fss.uerj.br
+faf23.faf.uerj.br
+redmestrado.telessaude.uerj.br
+www.bolsas.cetreina.uerj.br
+gw-dir.fis.uerj.br
+www.nucleas.uerj.br
+mail03.cepuerj.uerj.br
+jessicagavia.ime.uerj.br
+m121-lfnp.fis.uerj.br
+m95-lfnp.fis.uerj.br
+m114-dfnae.fis.uerj.br
+comuns10.adm2.uerj.br
+green.telessaude.uerj.br
+hefasto.lcr.uerj.br
+m120-dfnae.fis.uerj.br
+www.ppgartes.uerj.br
+www.boletimlerpe.uerj.br
+view.uerj.br
+m123-lfnp.fis.uerj.br
+wifi.ffp.uerj.br
+www.fgel.uerj.br
+www.aconteceh.uerj.br
+www.proindio.uerj.br
+m24-deq.fis.uerj.br
+drtc4.defin.uerj.br
+m118-dfnae.fis.uerj.br
+www.nebad.uerj.br
+cam1.dinfo.uerj.br
+www.cap2020.uerj.br
+www.ppgedu.ffp.uerj.br
+mariadb-teste.uerj.br
+www.pgletras.uerj.br
+rsirius.uerj.br
+pc004.cepuerj.uerj.br
+gridftp.hepgrid.uerj.br
+www2.unasus.uerj.br
+node-b10.hepgrid.uerj.br
+psico3.psicologia.uerj.br
+www.capcs.uerj.br
+inscricao.hupe.uerj.br
+iv.semanadomatematico.ime.uerj.br
+frederic.iesp.uerj.br
+cocurso01.cepuerj.uerj.br
+indicadores.uerj.br
+6611-gw.uerj.br
+www.facenf.uerj.br
+www.unati.uerj.br
+unidades7-homolog.uerj.br
+gemeos.lcr.uerj.br
+perfsonar-bw.hepgrid.uerj.br
+lb10-dfat.fis.uerj.br
+zigfrid.lcr.uerj.br
+www3.telessaude.uerj.br
+m40-dfnae.fis.uerj.br
+gw-edai.edai.uerj.br
+www.rapeld-igrande.uerj.br
+idp-cafe.uerj.br
+faf41.faf.uerj.br
+mysql2.unidades2.uerj.br
+www.dialogarts.uerj.br
+jenkins.srh.uerj.br
+listas.lampada.uerj.br
+m103-lfnp.fis.uerj.br
+m86-lfnp.fis.uerj.br
+www.arc2020.iprj.uerj.br
+cms.uerj.br
+www.eduerj.uerj.br
+m121-dfnae.fis.uerj.br
+netsal.iesp.uerj.br
+m87-lfnp.fis.uerj.br
+fss5.fss.uerj.br
+lb2-dfat.fis.uerj.br
+odonto-r1-gw.uerj.br
+cap2020.uerj.br
+faf2.faf.uerj.br
+dbav-dbcg-gw.uerj.br
+dfnae.fis.uerj.br
+faf28.faf.uerj.br
+www.anatomia.uerj.br
+antigo.telessaude.uerj.br
+node-b15.hepgrid.uerj.br
+antigo.uerj.br
+lpm3.lpm.uerj.br
+www.id-unico.uerj.br
+www.cpti.uerj.br
+m5-elt.fis.uerj.br
+wp.dsea.uerj.br
+router.dbq.uerj.br
+unidades4.uerj.br
+coronavirus.uerj.br
+dial16.uerj.br
+www.existencialismo.uerj.br
+plinio.dir-fcm.uerj.br
+node-b06.hepgrid.uerj.br
+www.inovuerj.sr2.uerj.br
+www.oni.uerj.br
+www.cap2010.uerj.br
+micro1.dbf.uerj.br
+www.ead-teleodonto.uerj.br
+www.lixoeeducacao.uerj.br
+serv145.demop.uerj.br
+formularios.uerj.br
+dev.telessaude.uerj.br
+www.fcs.uerj.br
+web.esdi.uerj.br
+www.cpjm.uerj.br
+dial12.uerj.br
+red.webapp.srh.uerj.br
+m31-deq.fis.uerj.br
+red.aceite.srh.uerj.br
+gw.bib.fcm.uerj.br
+antares.lcr.uerj.br
+m100-dfnae.fis.uerj.br
+m60-dfnae.fis.uerj.br
+www.cedes.uerj.br
+desenn.www.telessaude.uerj.br
+www.desc.eng.uerj.br
+m12-dfat.fis.uerj.br
+tom.dsea.uerj.br
+gateway.dbav.uerj.br
+m7-dfat.fis.uerj.br
+led.iesp.uerj.br
+valhala.eng.uerj.br
+node-b17.hepgrid.uerj.br
+node-a01.hepgrid.uerj.br
+marcen.dbq.uerj.br
+ppgcc.faf.uerj.br
+orion.lcr.uerj.br
+webconfnpea.ims.uerj.br
+www.ingressofebf.uerj.br
+dijur1b-gw.uerj.br
+router.dpl.uerj.br
+www.hupe.uerj.br
+ava.fat.uerj.br
+vahalla.lcr.uerj.br
+m10-pg.fis.uerj.br
+phoenix.eng.uerj.br

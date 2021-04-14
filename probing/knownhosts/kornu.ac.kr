@@ -1,103 +1,63 @@
-NOERROR	oz.kornu.ac.kr
-NOERROR	mobile.kornu.ac.kr
-NOERROR	icnet.kornu.ac.kr
-NOERROR	cell.kornu.ac.kr
-NXDOMAIN	ii.kornu.ac.kr
-NXDOMAIN	jcha.kornu.ac.kr
-NOERROR	was3.kornu.ac.kr
-NOERROR	book.kornu.ac.kr
-NXDOMAIN	knuw3.kornu.ac.kr
-NXDOMAIN	comm.kornu.ac.kr
-NOERROR	rc.kornu.ac.kr
-NOERROR	app.kornu.ac.kr
-NOERROR	evl.kornu.ac.kr
-NOERROR	nudorm.kornu.ac.kr
-NXDOMAIN	scholarship.kornu.ac.kr
-NOERROR	kornu.ac.kr
-NOERROR	slp.kornu.ac.kr
-NXDOMAIN	job.kornu.ac.kr
-NXDOMAIN	cic.kornu.ac.kr
-NOERROR	mail.kornu.ac.kr
-NXDOMAIN	com.kornu.ac.kr
-NOERROR	v3.kornu.ac.kr
-NXDOMAIN	spedu.kornu.ac.kr
-NOERROR	tour.kornu.ac.kr
-NOERROR	ejungsan.kornu.ac.kr
-NOERROR	nasa.kornu.ac.kr
-NXDOMAIN	cyber.kornu.ac.kr
-NOERROR	portal.kornu.ac.kr
-NOERROR	gw.kornu.ac.kr
-NXDOMAIN	mis.kornu.ac.kr
-NOERROR	webmail.kornu.ac.kr
-NOERROR	grad.kornu.ac.kr
-NOERROR	ctl.kornu.ac.kr
-NXDOMAIN	club.kornu.ac.kr
-NOERROR	sms.kornu.ac.kr
-NXDOMAIN	smail.kornu.ac.kr
-NOERROR	webmailold.kornu.ac.kr
-NOERROR	ncms.kornu.ac.kr
-NXDOMAIN	knup.kornu.ac.kr
-NOERROR	www.kornu.ac.kr
-NOERROR	ipsinew.kornu.ac.kr
-NOERROR	run.kornu.ac.kr
-NXDOMAIN	home.kornu.ac.kr
-NOERROR	cms2.kornu.ac.kr
-NOERROR	ngw.kornu.ac.kr
-NOERROR	knuctl.kornu.ac.kr
-NOERROR	fund.kornu.ac.kr
-NOERROR	ce.kornu.ac.kr
-NXDOMAIN	friend.kornu.ac.kr
-NOERROR	wtest.kornu.ac.kr
-NXDOMAIN	star.kornu.ac.kr
-NOERROR	cms1.kornu.ac.kr
-NOERROR	china.kornu.ac.kr
-NOERROR	knuw1.kornu.ac.kr
-NXDOMAIN	ipsi2.kornu.ac.kr
-NOERROR	ud.kornu.ac.kr
-NOERROR	ipsi.kornu.ac.kr
-NXDOMAIN	m.kornu.ac.kr
-NXDOMAIN	misweb.kornu.ac.kr
-NOERROR	ipsidb.kornu.ac.kr
-NXDOMAIN	mcyber.kornu.ac.kr
-NOERROR	stats.kornu.ac.kr
-NOERROR	ns.kornu.ac.kr
-NOERROR	nabest.kornu.ac.kr
-NXDOMAIN	nuri.kornu.ac.kr
-NXDOMAIN	bykoo.kornu.ac.kr
-NOERROR	nasa1.kornu.ac.kr
-NXDOMAIN	fbe.kornu.ac.kr
-NXDOMAIN	dove.kornu.ac.kr
-NOERROR	kmail.kornu.ac.kr
-NOERROR	mgw.kornu.ac.kr
-NOERROR	mctl.kornu.ac.kr
-NXDOMAIN	was28.kornu.ac.kr
-NOERROR	cms.kornu.ac.kr
-NOERROR	lib.kornu.ac.kr
-NOERROR	lms-stream.kornu.ac.kr
-NOERROR	attend.kornu.ac.kr
-NXDOMAIN	sanhak.kornu.ac.kr
-NXDOMAIN	csi.kornu.ac.kr
-NOERROR	gateway.kornu.ac.kr
-NOERROR	kebook.kornu.ac.kr
-NOERROR	was2.kornu.ac.kr
-NXDOMAIN	www.knudba.kornu.ac.kr
-NOERROR	ebook.kornu.ac.kr
-NOERROR	was.kornu.ac.kr
-NOERROR	libproxy.kornu.ac.kr
-NXDOMAIN	kis.kornu.ac.kr
-NOERROR	lms-trans.kornu.ac.kr.kornu.ac.kr
-NOERROR	auth.kornu.ac.kr
-NXDOMAIN	espedu.kornu.ac.kr
-NXDOMAIN	io.kornu.ac.kr
-NOERROR	eng.kornu.ac.kr
-NOERROR	was1.kornu.ac.kr
-NOERROR	knudba.kornu.ac.kr
-NXDOMAIN	map.kornu.ac.kr
-NXDOMAIN	icweb.kornu.ac.kr
-NXDOMAIN	chonghak.kornu.ac.kr
-NXDOMAIN	mis-report.kornu.ac.kr
-NXDOMAIN	www1.kornu.ac.kr
-NXDOMAIN	wizipsi.kornu.ac.kr
-NOERROR	ncyber.kornu.ac.kr
-NXDOMAIN	ic.kornu.ac.kr
-NXDOMAIN	toy.kornu.ac.kr
+oz.kornu.ac.kr
+mobile.kornu.ac.kr
+icnet.kornu.ac.kr
+cell.kornu.ac.kr
+was3.kornu.ac.kr
+book.kornu.ac.kr
+rc.kornu.ac.kr
+app.kornu.ac.kr
+evl.kornu.ac.kr
+nudorm.kornu.ac.kr
+kornu.ac.kr
+slp.kornu.ac.kr
+mail.kornu.ac.kr
+v3.kornu.ac.kr
+tour.kornu.ac.kr
+ejungsan.kornu.ac.kr
+nasa.kornu.ac.kr
+portal.kornu.ac.kr
+gw.kornu.ac.kr
+webmail.kornu.ac.kr
+grad.kornu.ac.kr
+ctl.kornu.ac.kr
+sms.kornu.ac.kr
+webmailold.kornu.ac.kr
+ncms.kornu.ac.kr
+www.kornu.ac.kr
+ipsinew.kornu.ac.kr
+run.kornu.ac.kr
+cms2.kornu.ac.kr
+ngw.kornu.ac.kr
+knuctl.kornu.ac.kr
+fund.kornu.ac.kr
+ce.kornu.ac.kr
+wtest.kornu.ac.kr
+cms1.kornu.ac.kr
+china.kornu.ac.kr
+knuw1.kornu.ac.kr
+ud.kornu.ac.kr
+ipsi.kornu.ac.kr
+ipsidb.kornu.ac.kr
+stats.kornu.ac.kr
+ns.kornu.ac.kr
+nabest.kornu.ac.kr
+nasa1.kornu.ac.kr
+kmail.kornu.ac.kr
+mgw.kornu.ac.kr
+mctl.kornu.ac.kr
+cms.kornu.ac.kr
+lib.kornu.ac.kr
+lms-stream.kornu.ac.kr
+attend.kornu.ac.kr
+gateway.kornu.ac.kr
+kebook.kornu.ac.kr
+was2.kornu.ac.kr
+ebook.kornu.ac.kr
+was.kornu.ac.kr
+libproxy.kornu.ac.kr
+lms-trans.kornu.ac.kr.kornu.ac.kr
+auth.kornu.ac.kr
+eng.kornu.ac.kr
+was1.kornu.ac.kr
+knudba.kornu.ac.kr
+ncyber.kornu.ac.kr

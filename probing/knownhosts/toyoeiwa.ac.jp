@@ -1,31 +1,25 @@
-NOERROR	password.toyoeiwa.ac.jp
-NOERROR	maple.toyoeiwa.ac.jp
-NXDOMAIN	mimosa.toyoeiwa.ac.jp
-NOERROR	other.toyoeiwa.ac.jp
-NOERROR	www.toyoeiwa.ac.jp
-NXDOMAIN	cedar.toyoeiwa.ac.jp
-NOERROR	mediasiteweb.toyoeiwa.ac.jp
-NOERROR	portal.toyoeiwa.ac.jp
-NXDOMAIN	mail.toyoeiwa.ac.jp
-NOERROR	database.lib.toyoeiwa.ac.jp
-NOERROR	vpn.toyoeiwa.ac.jp
-NXDOMAIN	www2.toyoeiwa.ac.jp
-NOERROR	iismedia.toyoeiwa.ac.jp
-NOERROR	ns.toyoeiwa.ac.jp
-NXDOMAIN	testcampus.toyoeiwa.ac.jp
-NOERROR	wmedia.toyoeiwa.ac.jp
-NOERROR	mailgw.toyoeiwa.ac.jp
-NOERROR	toyoeiwa.ac.jp
-NXDOMAIN	ica.toyoeiwa.ac.jp
-NOERROR	antispam.toyoeiwa.ac.jp
-NOERROR	credit.toyoeiwa.ac.jp
-NOERROR	secure.toyoeiwa.ac.jp
-NOERROR	webreg.toyoeiwa.ac.jp
-NOERROR	passport.toyoeiwa.ac.jp
-NOERROR	beech.toyoeiwa.ac.jp
-NOERROR	proxy.toyoeiwa.ac.jp
-NOERROR	campus.toyoeiwa.ac.jp
-NOERROR	webmail.toyoeiwa.ac.jp
-NOERROR	libweb.toyoeiwa.ac.jp
-NOERROR	zdrive.toyoeiwa.ac.jp
-NOERROR	libweb.lib.toyoeiwa.ac.jp
+password.toyoeiwa.ac.jp
+maple.toyoeiwa.ac.jp
+other.toyoeiwa.ac.jp
+www.toyoeiwa.ac.jp
+mediasiteweb.toyoeiwa.ac.jp
+portal.toyoeiwa.ac.jp
+database.lib.toyoeiwa.ac.jp
+vpn.toyoeiwa.ac.jp
+iismedia.toyoeiwa.ac.jp
+ns.toyoeiwa.ac.jp
+wmedia.toyoeiwa.ac.jp
+mailgw.toyoeiwa.ac.jp
+toyoeiwa.ac.jp
+antispam.toyoeiwa.ac.jp
+credit.toyoeiwa.ac.jp
+secure.toyoeiwa.ac.jp
+webreg.toyoeiwa.ac.jp
+passport.toyoeiwa.ac.jp
+beech.toyoeiwa.ac.jp
+proxy.toyoeiwa.ac.jp
+campus.toyoeiwa.ac.jp
+webmail.toyoeiwa.ac.jp
+libweb.toyoeiwa.ac.jp
+zdrive.toyoeiwa.ac.jp
+libweb.lib.toyoeiwa.ac.jp

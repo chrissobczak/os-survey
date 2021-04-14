@@ -1,16 +1,11 @@
-NOERROR	library.city.edu.my
-NOERROR	city.edu.my
-NXDOMAIN	mail.city.edu.my
-NXDOMAIN	alumni.city.edu.my
-NXDOMAIN	vatel.city.edu.my
-NOERROR	app.city.edu.my
-NOERROR	enquiry.city.edu.my
-NOERROR	studentportal.city.edu.my
-NXDOMAIN	apply.city.edu.my
-NOERROR	ceo.city.edu.my
-NOERROR	booksearch.city.edu.my
-NOERROR	student.city.edu.my
-NOERROR	lms.city.edu.my
-NXDOMAIN	test.city.edu.my
-NOERROR	inquiry.city.edu.my
-NOERROR	www.city.edu.my
+library.city.edu.my
+city.edu.my
+app.city.edu.my
+enquiry.city.edu.my
+studentportal.city.edu.my
+ceo.city.edu.my
+booksearch.city.edu.my
+student.city.edu.my
+lms.city.edu.my
+inquiry.city.edu.my
+www.city.edu.my

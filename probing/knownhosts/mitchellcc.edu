@@ -1,113 +1,37 @@
-NOERROR	pgtest.mitchellcc.edu
-NXDOMAIN	test_selfservice.mitchellcc.edu
-NXDOMAIN	informer.mitchellcc.edu
-NXDOMAIN	mitchelldevel.mitchellcc.edu
-NXDOMAIN	www.my.mitchellcc.edu
-NOERROR	cascloud.mitchellcc.edu
-NOERROR	bookstore.mitchellcc.edu
-NXDOMAIN	site.ebrary.com.ezproxy.mitchellcc.edu
-NXDOMAIN	ic.galegroup.com.ezproxy.mitchellcc.edu
-NXDOMAIN	mitchell-redesign.mitchellcc.edu
-NXDOMAIN	webapi.mitchellcc.edu
-NOERROR	crm.mitchellcc.edu
-NOERROR	facpass.mitchellcc.edu
-NXDOMAIN	nclive.summon.serialssolutions.com.ezproxy.mitchellcc.edu
-NXDOMAIN	webapitest.mitchellcc.edu
-NOERROR	pgprod.mitchellcc.edu
-NXDOMAIN	datcore.mitchellcc.edu
-NXDOMAIN	ise-plcy-b.mitchellcc.edu
-NOERROR	mccmail.mitchellcc.edu
-NXDOMAIN	laserdat.mitchellcc.edu
-NOERROR	servicedesk.mitchellcc.edu
-NXDOMAIN	www.ise-plcy-b.mitchellcc.edu
-NXDOMAIN	web.b.ebscohost.com.ezproxy.mitchellcc.edu
-NXDOMAIN	mitch-stage.mitchellcc.edu
-NXDOMAIN	www.moodle.mitchellcc.edu
-NXDOMAIN	www.webadvisor.mitchellcc.edu
-NOERROR	my.mitchellcc.edu
-NXDOMAIN	mitchell-staged.mitchellcc.edu
-NXDOMAIN	www.mitchelldevel.mitchellcc.edu
-NXDOMAIN	sturodc.mitchellcc.edu
-NOERROR	marketing.mitchellcc.edu
-NXDOMAIN	datuiprod.mitchellcc.edu
-NXDOMAIN	www.ldaprod.mitchellcc.edu
-NXDOMAIN	www.defiant.mitchellcc.edu
-NOERROR	crmtest.mitchellcc.edu
-NXDOMAIN	tardis.mitchellcc.edu
-NXDOMAIN	web-adviser.mitchellcc.edu
-NOERROR	forms.mitchellcc.edu
-NXDOMAIN	ise-plcy-a.mitchellcc.edu
-NXDOMAIN	prodwebapi.mitchellcc.edu
-NOERROR	selfservice.mitchellcc.edu
-NXDOMAIN	www.mitchell-merge.helperstaging.com.mitchellcc.edu
-NXDOMAIN	www.sturod.students.mitchellcc.edu
-NXDOMAIN	moodledev.mitchellcc.edu
-NXDOMAIN	www.selfservice.mitchellcc.edu
-NXDOMAIN	go.galegroup.com.ezproxy.mitchellcc.edu
-NXDOMAIN	pg-test.mitchellcc.edu
-NXDOMAIN	ldaprod.mitchellcc.edu
-NOERROR	moast.mitchellcc.edu
-NXDOMAIN	ise-plcy-c.mitchellcc.edu
-NXDOMAIN	stupassreset.students.mitchellcc.edu
-NOERROR	sts.mitchellcc.edu
-NXDOMAIN	www.cascloud.mitchellcc.edu
-NOERROR	autodiscover.students.mitchellcc.edu
-NXDOMAIN	mail.my.mitchellcc.edu
-NXDOMAIN	ise-am-a.mitchellcc.edu
-NXDOMAIN	stupassreg.students.mitchellcc.edu
-NXDOMAIN	web-advisor.mitchellcc.edu
-NOERROR	smtp.mitchellcc.edu
-NXDOMAIN	search.proquest.com.ezproxy.mitchellcc.edu
-NXDOMAIN	cas1.mitchellcc.edu
-NXDOMAIN	mail.mitchellcc.edu
-NXDOMAIN	media.proquest.com.ezproxy.mitchellcc.edu
-NXDOMAIN	sydney.mitchellcc.edu
-NOERROR	www.mitchellcc.edu
-NOERROR	autodiscover.mitchellcc.edu
-NXDOMAIN	webadvisor3.mitchellcc.edu
-NOERROR	mccnet.mitchellcc.edu
-NXDOMAIN	www.mitchell-redesign.mitchellcc.edu
-NXDOMAIN	www.sturodc.mitchellcc.edu
-NOERROR	etranscripttest.mitchellcc.edu
-NOERROR	test.mitchellcc.edu
-NOERROR	test-pg.mitchellcc.edu
-NOERROR	bbopenlms.mitchellcc.edu
-NOERROR	webadvisor.mitchellcc.edu
-NXDOMAIN	www.laserdat.mitchellcc.edu
-NXDOMAIN	www.mccmail.mitchellcc.edu
-NXDOMAIN	web.a.ebscohost.com.ezproxy.mitchellcc.edu
-NXDOMAIN	er7vq7mf6v.search.serialssolutions.com.ezproxy.mitchellcc.edu
-NOERROR	defiant.mitchellcc.edu
-NOERROR	enterpriseregistration.mitchellcc.edu
-NXDOMAIN	www.mitch-stage.mitchellcc.edu
-NXDOMAIN	testpg.mitchellcc.edu
-NXDOMAIN	cas2.mitchellcc.edu
-NXDOMAIN	ezproxy.mitchellcc.edu
-NXDOMAIN	pg-production.mitchellcc.edu
-NXDOMAIN	www.ise-plcy-d.mitchellcc.edu
-NOERROR	testselfservice.mitchellcc.edu
-NOERROR	ecomdat2.mitchellcc.edu
-NXDOMAIN	www.moodledev.mitchellcc.edu
-NXDOMAIN	www.ise-plcy-c.mitchellcc.edu
-NOERROR	password.mitchellcc.edu
-NXDOMAIN	www.secure.mitchellcc.edu
-NXDOMAIN	secure.mitchellcc.edu
-NOERROR	moodle.mitchellcc.edu
-NXDOMAIN	www.nclive.org.ezproxy.mitchellcc.edu
-NXDOMAIN	www.ise-am-a.mitchellcc.edu
-NXDOMAIN	mitchell-merge.helperstaging.com.mitchellcc.edu
-NOERROR	insider.mitchellcc.edu
-NXDOMAIN	prodpg.mitchellcc.edu
-NOERROR	mitchellcc.edu
-NXDOMAIN	ise-plcy-d.mitchellcc.edu
-NOERROR	mycourses.mitchellcc.edu
-NXDOMAIN	ecomdat.mitchellcc.edu
-NXDOMAIN	www.mitchell-staged.mitchellcc.edu
-NOERROR	etranscript.mitchellcc.edu
-NXDOMAIN	testwebapi.mitchellcc.edu
-NXDOMAIN	www.ise-plcy-a.mitchellcc.edu
-NXDOMAIN	test_webapi.mitchellcc.edu
-NOERROR	prod-pg.mitchellcc.edu
-NOERROR	password.students.mitchellcc.edu
-NXDOMAIN	sturod.students.mitchellcc.edu
-NXDOMAIN	search.credoreference.com.ezproxy.mitchellcc.edu
+pgtest.mitchellcc.edu
+cascloud.mitchellcc.edu
+bookstore.mitchellcc.edu
+crm.mitchellcc.edu
+facpass.mitchellcc.edu
+pgprod.mitchellcc.edu
+mccmail.mitchellcc.edu
+servicedesk.mitchellcc.edu
+my.mitchellcc.edu
+marketing.mitchellcc.edu
+crmtest.mitchellcc.edu
+forms.mitchellcc.edu
+selfservice.mitchellcc.edu
+moast.mitchellcc.edu
+sts.mitchellcc.edu
+autodiscover.students.mitchellcc.edu
+smtp.mitchellcc.edu
+www.mitchellcc.edu
+autodiscover.mitchellcc.edu
+mccnet.mitchellcc.edu
+etranscripttest.mitchellcc.edu
+test.mitchellcc.edu
+test-pg.mitchellcc.edu
+bbopenlms.mitchellcc.edu
+webadvisor.mitchellcc.edu
+defiant.mitchellcc.edu
+enterpriseregistration.mitchellcc.edu
+testselfservice.mitchellcc.edu
+ecomdat2.mitchellcc.edu
+password.mitchellcc.edu
+moodle.mitchellcc.edu
+insider.mitchellcc.edu
+mitchellcc.edu
+mycourses.mitchellcc.edu
+etranscript.mitchellcc.edu
+prod-pg.mitchellcc.edu
+password.students.mitchellcc.edu

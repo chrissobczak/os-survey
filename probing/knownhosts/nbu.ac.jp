@@ -1,127 +1,94 @@
-NOERROR	laugh.dmt.nbu.ac.jp
-NOERROR	www.nbu.ac.jp
-NOERROR	i-board.mc.nbu.ac.jp
-NOERROR	iryou.nbu.ac.jp
-NXDOMAIN	upex1.nbu.ac.jp
-NOERROR	proxy.dmt.nbu.ac.jp
-NOERROR	juken.nbu.ac.jp
-NOERROR	sw-2.mc.nbu.ac.jp
-NXDOMAIN	www2.mc.nbu.ac.jp
-NOERROR	unipaex.nbu.ac.jp
-NOERROR	pldb.nbu.ac.jp
-NOERROR	nbu-gw.mc.nbu.ac.jp
-NOERROR	nneoweb.nbu.ac.jp
-NOERROR	portal.nbu.ac.jp
-NOERROR	unipaex2.nbu.ac.jp
-NOERROR	upx3.nbu.ac.jp
-NXDOMAIN	cache-3.nbu.ac.jp
-NOERROR	cache-1.nbu.ac.jp
-NXDOMAIN	media2.nbu.ac.jp
-NOERROR	lds1.nbu.ac.jp
-NOERROR	club.nbu.ac.jp
-NOERROR	acc-ag02.hj.nbu.ac.jp
-NOERROR	dneo1.nbu.ac.jp
-NOERROR	acc-ag01.hj.nbu.ac.jp
-NXDOMAIN	media4.nbu.ac.jp
-NOERROR	atlearn.atlab.dmt.nbu.ac.jp
-NOERROR	sangaku.nbu.ac.jp
-NOERROR	alumni.nbu.ac.jp
-NXDOMAIN	infomedia.nbu.ac.jp
-NXDOMAIN	dn.nbu.ac.jp
-NOERROR	webmail.nbu.ac.jp
-NXDOMAIN	libs02.lb.nbu.ac.jp
-NOERROR	lu1.nbu.ac.jp
-NXDOMAIN	dnsp2.nbu.ac.jp
-NOERROR	sw-1.mc.nbu.ac.jp
-NXDOMAIN	nneodb.nbu.ac.jp
-NOERROR	ns-2.nbu.ac.jp
-NXDOMAIN	www.imc.nbu.ac.jp
-NOERROR	matsunaga.dmt.nbu.ac.jp
-NOERROR	atlab.dmt.nbu.ac.jp
-NOERROR	w-mail.nbu.ac.jp
-NOERROR	moodle-pcs.nbu.ac.jp
-NOERROR	gakuenex.nbu.ac.jp
-NOERROR	www-work.nbu.ac.jp
-NOERROR	cs-2.mc.nbu.ac.jp
-NOERROR	db-rules.nbu.ac.jp
-NOERROR	nbu.ac.jp
-NXDOMAIN	upex.nbu.ac.jp
-NXDOMAIN	media1.nbu.ac.jp
-NOERROR	dneo.nbu.ac.jp
-NOERROR	kouenkai.nbu.ac.jp
-NXDOMAIN	nbumug.mc.nbu.ac.jp
-NOERROR	www-pub.nbu.ac.jp
-NOERROR	vs-2.mc.nbu.ac.jp
-NOERROR	lib.nbu.ac.jp
-NOERROR	mas.atlab.dmt.nbu.ac.jp
-NOERROR	ss-cl01.hj.nbu.ac.jp
-NOERROR	ss-cl03.hj.nbu.ac.jp
-NOERROR	media-technologies.nbu.ac.jp
-NOERROR	50th.nbu.ac.jp
-NXDOMAIN	cache-4.nbu.ac.jp
-NOERROR	box.atlab.dmt.nbu.ac.jp
-NXDOMAIN	dnsp.nbu.ac.jp
-NOERROR	sub.atlab.dmt.nbu.ac.jp
-NOERROR	db-rules.mc.nbu.ac.jp
-NOERROR	acc-ag03.hj.nbu.ac.jp
-NXDOMAIN	update.nbu.ac.jp
-NXDOMAIN	www.ce.nbu.ac.jp
-NOERROR	upx2.nbu.ac.jp
-NXDOMAIN	upex3.nbu.ac.jp
-NXDOMAIN	www-mng.nbu.ac.jp
-NOERROR	wu.nbu.ac.jp
-NXDOMAIN	media3.nbu.ac.jp
-NOERROR	desknets.nbu.ac.jp
-NOERROR	mechanical-electrical.nbu.ac.jp
-NOERROR	ld-1.nbu.ac.jp
-NOERROR	wu1.nbu.ac.jp
-NOERROR	career.atlab.dmt.nbu.ac.jp
-NOERROR	sw-2.nbu.ac.jp
-NOERROR	dnx.nbu.ac.jp
-NOERROR	topics.nbu.ac.jp
-NXDOMAIN	dnex2.nbu.ac.jp
-NOERROR	cs-1.mc.nbu.ac.jp
-NOERROR	acc-server.hj.nbu.ac.jp
-NXDOMAIN	libs05.lb.nbu.ac.jp
-NXDOMAIN	dnex.nbu.ac.jp
-NXDOMAIN	moodle-ext.nbu.ac.jp
-NXDOMAIN	media5.nbu.ac.jp
-NOERROR	duce.nbu.ac.jp
-NOERROR	yp-1.mc.nbu.ac.jp
-NOERROR	gk-1.nbu.ac.jp
-NOERROR	ss-cl02.hj.nbu.ac.jp
-NOERROR	pub.nbu.ac.jp
-NOERROR	architecture.nbu.ac.jp
-NOERROR	ns-1.nbu.ac.jp
-NXDOMAIN	www-ent.nbu.ac.jp
-NXDOMAIN	mail2.nbu.ac.jp
-NOERROR	atlearn18.atlab.dmt.nbu.ac.jp
-NOERROR	ns-3.nbu.ac.jp
-NOERROR	dnx2.nbu.ac.jp
-NOERROR	sw-1.nbu.ac.jp
-NOERROR	business-economics.nbu.ac.jp
-NXDOMAIN	dnpc.nbu.ac.jp
-NOERROR	mail.nbu.ac.jp
-NOERROR	lu2.nbu.ac.jp
-NOERROR	aerospace.nbu.ac.jp
-NOERROR	cross.nbu.ac.jp
-NOERROR	ld-2.nbu.ac.jp
-NOERROR	vs-1.mc.nbu.ac.jp
-NOERROR	moodle.nbu.ac.jp
-NOERROR	luadmin.nbu.ac.jp
-NOERROR	ss-serv.hj.nbu.ac.jp
-NOERROR	cache-2.nbu.ac.jp
-NOERROR	as-1.mc.nbu.ac.jp
-NOERROR	proxy2.nbu.ac.jp
-NXDOMAIN	www-lab.nbu.ac.jp
-NOERROR	upx4.nbu.ac.jp
-NXDOMAIN	upex2.nbu.ac.jp
-NOERROR	moodle-stm.nbu.ac.jp
-NXDOMAIN	www.mc.nbu.ac.jp
-NOERROR	upx.nbu.ac.jp
-NOERROR	fs.mc.nbu.ac.jp
-NXDOMAIN	mediagw.nbu.ac.jp
-NOERROR	proxy.nbu.ac.jp
-NOERROR	dneo2.nbu.ac.jp
-NOERROR	exp.atlab.dmt.nbu.ac.jp
-NOERROR	share.nbu.ac.jp
+laugh.dmt.nbu.ac.jp
+www.nbu.ac.jp
+i-board.mc.nbu.ac.jp
+iryou.nbu.ac.jp
+proxy.dmt.nbu.ac.jp
+juken.nbu.ac.jp
+sw-2.mc.nbu.ac.jp
+unipaex.nbu.ac.jp
+pldb.nbu.ac.jp
+nbu-gw.mc.nbu.ac.jp
+nneoweb.nbu.ac.jp
+portal.nbu.ac.jp
+unipaex2.nbu.ac.jp
+upx3.nbu.ac.jp
+cache-1.nbu.ac.jp
+lds1.nbu.ac.jp
+club.nbu.ac.jp
+acc-ag02.hj.nbu.ac.jp
+dneo1.nbu.ac.jp
+acc-ag01.hj.nbu.ac.jp
+atlearn.atlab.dmt.nbu.ac.jp
+sangaku.nbu.ac.jp
+alumni.nbu.ac.jp
+webmail.nbu.ac.jp
+lu1.nbu.ac.jp
+sw-1.mc.nbu.ac.jp
+ns-2.nbu.ac.jp
+matsunaga.dmt.nbu.ac.jp
+atlab.dmt.nbu.ac.jp
+w-mail.nbu.ac.jp
+moodle-pcs.nbu.ac.jp
+gakuenex.nbu.ac.jp
+www-work.nbu.ac.jp
+cs-2.mc.nbu.ac.jp
+db-rules.nbu.ac.jp
+nbu.ac.jp
+dneo.nbu.ac.jp
+kouenkai.nbu.ac.jp
+www-pub.nbu.ac.jp
+vs-2.mc.nbu.ac.jp
+lib.nbu.ac.jp
+mas.atlab.dmt.nbu.ac.jp
+ss-cl01.hj.nbu.ac.jp
+ss-cl03.hj.nbu.ac.jp
+media-technologies.nbu.ac.jp
+50th.nbu.ac.jp
+box.atlab.dmt.nbu.ac.jp
+sub.atlab.dmt.nbu.ac.jp
+db-rules.mc.nbu.ac.jp
+acc-ag03.hj.nbu.ac.jp
+upx2.nbu.ac.jp
+wu.nbu.ac.jp
+desknets.nbu.ac.jp
+mechanical-electrical.nbu.ac.jp
+ld-1.nbu.ac.jp
+wu1.nbu.ac.jp
+career.atlab.dmt.nbu.ac.jp
+sw-2.nbu.ac.jp
+dnx.nbu.ac.jp
+topics.nbu.ac.jp
+cs-1.mc.nbu.ac.jp
+acc-server.hj.nbu.ac.jp
+duce.nbu.ac.jp
+yp-1.mc.nbu.ac.jp
+gk-1.nbu.ac.jp
+ss-cl02.hj.nbu.ac.jp
+pub.nbu.ac.jp
+architecture.nbu.ac.jp
+ns-1.nbu.ac.jp
+atlearn18.atlab.dmt.nbu.ac.jp
+ns-3.nbu.ac.jp
+dnx2.nbu.ac.jp
+sw-1.nbu.ac.jp
+business-economics.nbu.ac.jp
+mail.nbu.ac.jp
+lu2.nbu.ac.jp
+aerospace.nbu.ac.jp
+cross.nbu.ac.jp
+ld-2.nbu.ac.jp
+vs-1.mc.nbu.ac.jp
+moodle.nbu.ac.jp
+luadmin.nbu.ac.jp
+ss-serv.hj.nbu.ac.jp
+cache-2.nbu.ac.jp
+as-1.mc.nbu.ac.jp
+proxy2.nbu.ac.jp
+upx4.nbu.ac.jp
+moodle-stm.nbu.ac.jp
+upx.nbu.ac.jp
+fs.mc.nbu.ac.jp
+proxy.nbu.ac.jp
+dneo2.nbu.ac.jp
+exp.atlab.dmt.nbu.ac.jp
+share.nbu.ac.jp

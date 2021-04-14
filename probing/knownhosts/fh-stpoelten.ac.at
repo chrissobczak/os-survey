@@ -1,66 +1,8 @@
-NXDOMAIN	go4tech.fh-stpoelten.ac.at
-NXDOMAIN	vs098.virtual.fh-stpoelten.ac.at
-NXDOMAIN	english.fh-stpoelten.ac.at
-NXDOMAIN	www.fh-stpoelten.ac.at
-NXDOMAIN	kipsykel.fh-stpoelten.ac.at
-NXDOMAIN	usability.fh-stpoelten.ac.at
-NXDOMAIN	lamp.fh-stpoelten.ac.at
-NXDOMAIN	bastion.fh-stpoelten.ac.at
-NXDOMAIN	lamp2.fh-stpoelten.ac.at
-NXDOMAIN	wlan.fh-stpoelten.ac.at
-NXDOMAIN	mailman.fh-stpoelten.ac.at
-NXDOMAIN	showcase.fh-stpoelten.ac.at
-NXDOMAIN	webmail.fh-stpoelten.ac.at
-NXDOMAIN	evaluierung.fh-stpoelten.ac.at
-NXDOMAIN	www2.fh-stpoelten.ac.at
-NXDOMAIN	klangturm.fh-stpoelten.ac.at
-NXDOMAIN	medieninformatik.fh-stpoelten.ac.at
-NXDOMAIN	supp.fh-stpoelten.ac.at
-NXDOMAIN	community.fh-stpoelten.ac.at
-NXDOMAIN	cinema.fh-stpoelten.ac.at
-NXDOMAIN	goldenwire.fh-stpoelten.ac.at
-NXDOMAIN	password.fh-stpoelten.ac.at
-NXDOMAIN	simnet.fh-stpoelten.ac.at
-NXDOMAIN	itsecx.fh-stpoelten.ac.at
-NXDOMAIN	webmaildoku.fh-stpoelten.ac.at
-NXDOMAIN	stundenplan.fh-stpoelten.ac.at
-NXDOMAIN	audio.fh-stpoelten.ac.at
-NXDOMAIN	streamer.fh-stpoelten.ac.at
-NXDOMAIN	ciscoevent.fh-stpoelten.ac.at
-NXDOMAIN	morituri.fh-stpoelten.ac.at
-NXDOMAIN	medienarchiv.fh-stpoelten.ac.at
-NXDOMAIN	tm04.fh-stpoelten.ac.at
-NOERROR	fwext.fh-stpoelten.ac.at
-NXDOMAIN	mail.fh-stpoelten.ac.at
-NOERROR	smtp.fh-stpoelten.ac.at
-NXDOMAIN	vs054.virtual.fh-stpoelten.ac.at
-NOERROR	n1.fh-stpoelten.ac.at
-NXDOMAIN	medienproduktion.fh-stpoelten.ac.at
-NXDOMAIN	www3.fh-stpoelten.ac.at
-NXDOMAIN	sotf.fh-stpoelten.ac.at
-NXDOMAIN	isn.fh-stpoelten.ac.at
-NXDOMAIN	scalix.fh-stpoelten.ac.at
-NOERROR	fwint.fh-stpoelten.ac.at
-NXDOMAIN	ball.fh-stpoelten.ac.at
-NXDOMAIN	volksschule.fh-stpoelten.ac.at
-NXDOMAIN	admsec.fh-stpoelten.ac.at
-NOERROR	fwnwt.fh-stpoelten.ac.at
-NOERROR	vs063.virtual.fh-stpoelten.ac.at
-NXDOMAIN	gender-tagung.fh-stpoelten.ac.at
-NXDOMAIN	ecampus.fh-stpoelten.ac.at
-NXDOMAIN	bibliothek.fh-stpoelten.ac.at
-NXDOMAIN	hoerspiel.fh-stpoelten.ac.at
-NXDOMAIN	restore.fh-stpoelten.ac.at
-NXDOMAIN	bilder.fh-stpoelten.ac.at
-NXDOMAIN	absolvent.fh-stpoelten.ac.at
-NXDOMAIN	streaming.fh-stpoelten.ac.at
-NXDOMAIN	forschung.fh-stpoelten.ac.at
-NXDOMAIN	fhcms.fh-stpoelten.ac.at
-NXDOMAIN	bahnhof.fh-stpoelten.ac.at
-NXDOMAIN	voip.fh-stpoelten.ac.at
-NOERROR	n2.fh-stpoelten.ac.at
-NOERROR	mailgw.fh-stpoelten.ac.at
-NXDOMAIN	ats.fh-stpoelten.ac.at
-NXDOMAIN	intranet.fh-stpoelten.ac.at
-NXDOMAIN	fetest.fh-stpoelten.ac.at
-NXDOMAIN	worf.fh-stpoelten.ac.at
+fwext.fh-stpoelten.ac.at
+smtp.fh-stpoelten.ac.at
+n1.fh-stpoelten.ac.at
+fwint.fh-stpoelten.ac.at
+fwnwt.fh-stpoelten.ac.at
+vs063.virtual.fh-stpoelten.ac.at
+n2.fh-stpoelten.ac.at
+mailgw.fh-stpoelten.ac.at

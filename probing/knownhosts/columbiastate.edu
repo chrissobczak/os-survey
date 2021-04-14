@@ -1,274 +1,121 @@
-NOERROR	library.columbiastate.edu
-NOERROR	dns1.columbiastate.edu
-NXDOMAIN	nursingclinicals.columbiastate.edu
-NOERROR	ceri-gnss.columbiastate.edu
-NXDOMAIN	mmccoy.columbiastate.edu
-NXDOMAIN	ameredith.columbiastate.edu
-NOERROR	elearn.columbiastate.edu
-NXDOMAIN	extendedcampusproctoring.columbiastate.edu
-NXDOMAIN	www.rhulsey.columbiastate.edu
-NXDOMAIN	rdarrell.columbiastate.edu
-NXDOMAIN	rbritnell.columbiastate.edu
-NOERROR	bandnatwcc.columbiastate.edu
-NOERROR	sso.columbiastate.edu
-NOERROR	www.dvc.columbiastate.edu
-NXDOMAIN	cjohnson.columbiastate.edu
-NXDOMAIN	www.ems.columbiastate.edu
-NXDOMAIN	jsanders23.columbiastate.edu
-NXDOMAIN	www.mhart.columbiastate.edu
-NOERROR	www.mail.columbiastate.edu
-NXDOMAIN	bgidcomb.columbiastate.edu
-NXDOMAIN	tborren.columbiastate.edu
-NOERROR	coscc-gateway.columbiastate.edu
-NOERROR	warf.columbiastate.edu
-NOERROR	ifep.columbiastate.edu
-NXDOMAIN	coursecast.columbiastate.edu
-NXDOMAIN	csfs.columbiastate.edu
-NOERROR	coscc-fw.columbiastate.edu
-NOERROR	bnaddy.columbiastate.edu
-NOERROR	fitt.columbiastate.edu
-NXDOMAIN	www.sglenn8.columbiastate.edu
-NOERROR	vpn.columbiastate.edu
-NXDOMAIN	rhulsey.columbiastate.edu
-NOERROR	www.forms.columbiastate.edu
-NXDOMAIN	rjohnson.columbiastate.edu
-NXDOMAIN	swilliford.columbiastate.edu
-NXDOMAIN	webct-temp.columbiastate.edu
-NXDOMAIN	www.sdowlen.columbiastate.edu
-NXDOMAIN	mtyree1.columbiastate.edu
-NXDOMAIN	ptk.columbiastate.edu
-NXDOMAIN	cwarner2.columbiastate.edu
-NXDOMAIN	sage.columbiastate.edu
-NOERROR	dvc.columbiastate.edu
-NXDOMAIN	jhardin.columbiastate.edu
-NOERROR	cisacademic.columbiastate.edu
-NXDOMAIN	nhopper.columbiastate.edu
-NOERROR	catalog.columbiastate.edu
-NXDOMAIN	scampbell.columbiastate.edu
-NOERROR	cis2kno2.columbiastate.edu
-NOERROR	bannerstage.columbiastate.edu
-NXDOMAIN	rnelson7.columbiastate.edu
-NOERROR	mc.columbiastate.edu
-NXDOMAIN	jsmith.columbiastate.edu
-NOERROR	ssbdev.columbiastate.edu
-NXDOMAIN	www.kkendallfite.columbiastate.edu
-NOERROR	www.columbiastate.edu
-NOERROR	int-p.columbiastate.edu
-NOERROR	resources.columbiastate.edu
-NXDOMAIN	joswalt.columbiastate.edu
-NXDOMAIN	rbeck4.columbiastate.edu
-NOERROR	spamfilter.columbiastate.edu
-NOERROR	mmb.columbiastate.edu
-NOERROR	abasoamcmillan.columbiastate.edu
-NXDOMAIN	banner3.columbiastate.edu
-NOERROR	academicsupport.columbiastate.edu
-NOERROR	web.columbiastate.edu
-NXDOMAIN	klawson2.columbiastate.edu
-NXDOMAIN	www.extendedcampusproctoring.columbiastate.edu
-NXDOMAIN	sasc.columbiastate.edu
-NOERROR	hybrid.columbiastate.edu
-NXDOMAIN	www.epay.columbiastate.edu
-NXDOMAIN	ghumphrys.columbiastate.edu
-NOERROR	dns2.columbiastate.edu
-NXDOMAIN	pipeline.columbiastate.edu
-NOERROR	coscca.columbiastate.edu
-NXDOMAIN	www.vidyo.columbiastate.edu
-NOERROR	musicapp.columbiastate.edu
-NXDOMAIN	rholmes.columbiastate.edu
-NXDOMAIN	maustinjr.columbiastate.edu
-NXDOMAIN	brentdesk.columbiastate.edu
-NXDOMAIN	blong.columbiastate.edu
-NOERROR	forms.columbiastate.edu
-NOERROR	cuat.columbiastate.edu
-NOERROR	spamfilterb.columbiastate.edu
-NXDOMAIN	apayne3.columbiastate.edu
-NOERROR	mail1.columbiastate.edu
-NXDOMAIN	aflagg.columbiastate.edu
-NOERROR	orientation.columbiastate.edu
-NXDOMAIN	sprice6.columbiastate.edu
-NXDOMAIN	ajohnson.columbiastate.edu
-NXDOMAIN	cmartin1.columbiastate.edu
-NXDOMAIN	eganter.columbiastate.edu
-NXDOMAIN	byod.columbiastate.edu
-NOERROR	businessofcftp.columbiastate.edu
-NOERROR	cis.columbiastate.edu
-NXDOMAIN	banner1-ce0.columbiastate.edu
-NOERROR	pd.columbiastate.edu
-NOERROR	mail.columbiastate.edu
-NOERROR	singlesignon.columbiastate.edu
-NXDOMAIN	apetersen.columbiastate.edu
-NOERROR	helpdesk.columbiastate.edu
-NOERROR	ladmin.columbiastate.edu
-NXDOMAIN	worksmart.columbiastate.edu
-NOERROR	coscc-fwf.columbiastate.edu
-NXDOMAIN	coscc-ise.columbiastate.edu
-NXDOMAIN	www.hgardner.columbiastate.edu
-NXDOMAIN	cdenton.columbiastate.edu
-NXDOMAIN	www.criticalthinking.columbiastate.edu
-NOERROR	webserver.columbiastate.edu
-NXDOMAIN	asc.columbiastate.edu
-NXDOMAIN	www.chargernet.columbiastate.edu
-NOERROR	lumtest.columbiastate.edu
-NXDOMAIN	perceptions.columbiastate.edu
-NXDOMAIN	amitchell13.columbiastate.edu
-NOERROR	sspr.columbiastate.edu
-NOERROR	dw.columbiastate.edu
-NXDOMAIN	esmp.columbiastate.edu
-NOERROR	twinters.columbiastate.edu
-NOERROR	m.catalog.columbiastate.edu
-NXDOMAIN	www.callredwinnett.columbiastate.edu
-NXDOMAIN	www.chudson4.columbiastate.edu
-NXDOMAIN	chudson4.columbiastate.edu
-NXDOMAIN	eschlatter.columbiastate.edu
-NXDOMAIN	sglenn8.columbiastate.edu
-NXDOMAIN	ems.columbiastate.edu
-NXDOMAIN	bblum.columbiastate.edu
-NOERROR	homevpn.columbiastate.edu
-NOERROR	training.columbiastate.edu
-NXDOMAIN	criticalthinking.columbiastate.edu
-NXDOMAIN	www.orientation.columbiastate.edu
-NXDOMAIN	webctstart.columbiastate.edu
-NXDOMAIN	ccooper14.columbiastate.edu
-NXDOMAIN	www.mmccoy.columbiastate.edu
-NXDOMAIN	rhardison.columbiastate.edu
-NOERROR	fitttraining.columbiastate.edu
-NXDOMAIN	mgodbey.columbiastate.edu
-NXDOMAIN	srussell.columbiastate.edu
-NOERROR	studentmail.columbiastate.edu
-NOERROR	chargers.columbiastate.edu
-NXDOMAIN	banner2.columbiastate.edu
-NXDOMAIN	vidyo.columbiastate.edu
-NXDOMAIN	sseager.columbiastate.edu
-NOERROR	testserver.columbiastate.edu
-NXDOMAIN	jyoung.columbiastate.edu
-NOERROR	luminus.columbiastate.edu
-NXDOMAIN	jwhitley.columbiastate.edu
-NOERROR	www.bnaddy.columbiastate.edu
-NOERROR	dintegrate.columbiastate.edu
-NXDOMAIN	lstenson.columbiastate.edu
-NOERROR	coscr.columbiastate.edu
-NXDOMAIN	lrcfloor.columbiastate.edu
-NOERROR	www.pd.columbiastate.edu
-NXDOMAIN	www.elearn.columbiastate.edu
-NOERROR	ssb.columbiastate.edu
-NXDOMAIN	cfreeman5.columbiastate.edu
-NXDOMAIN	twilliams.columbiastate.edu
-NXDOMAIN	sdowlen.columbiastate.edu
-NXDOMAIN	lmccordacklin.columbiastate.edu
-NXDOMAIN	bmitchell.columbiastate.edu
-NOERROR	chargertest.columbiastate.edu
-NOERROR	cosccforms.columbiastate.edu
-NXDOMAIN	www.efleming.columbiastate.edu
-NXDOMAIN	recruiter.columbiastate.edu
-NOERROR	epay.columbiastate.edu
-NOERROR	ssotest.columbiastate.edu
-NXDOMAIN	lbenns.columbiastate.edu
-NXDOMAIN	tnregionptk.columbiastate.edu
-NXDOMAIN	lhorner1.columbiastate.edu
-NXDOMAIN	lkatz.columbiastate.edu
-NXDOMAIN	ksiska.columbiastate.edu
-NOERROR	kace.columbiastate.edu
-NXDOMAIN	dparker.columbiastate.edu
-NOERROR	fittserv.columbiastate.edu
-NXDOMAIN	sponsor.columbiastate.edu
-NXDOMAIN	jsquibb1.columbiastate.edu
-NXDOMAIN	techsupport.columbiastate.edu
-NOERROR	onlinecampus.columbiastate.edu
-NXDOMAIN	pmatlock.columbiastate.edu
-NXDOMAIN	coscc-ise1.columbiastate.edu
-NOERROR	ferpa4fac.columbiastate.edu
-NOERROR	luminus-bge0.columbiastate.edu
-NOERROR	8gzdwh1.columbiastate.edu
-NXDOMAIN	jlumpkins.columbiastate.edu
-NXDOMAIN	hcobb.columbiastate.edu
-NXDOMAIN	ewilson.columbiastate.edu
-NXDOMAIN	along9.columbiastate.edu
-NXDOMAIN	mlee.columbiastate.edu
-NXDOMAIN	dlampley.columbiastate.edu
-NOERROR	sperley.columbiastate.edu
-NXDOMAIN	www.bannerdev2.columbiastate.edu
-NOERROR	hvac.columbiastate.edu
-NOERROR	eprint.columbiastate.edu
-NOERROR	naddybi.columbiastate.edu
-NXDOMAIN	test.columbiastate.edu
-NXDOMAIN	webct.columbiastate.edu
-NXDOMAIN	www.mpickle.columbiastate.edu
-NXDOMAIN	bannerdev2.columbiastate.edu
-NOERROR	csccv001.columbiastate.edu
-NXDOMAIN	kkendallfite.columbiastate.edu
-NOERROR	instvideo.pd.columbiastate.edu
-NXDOMAIN	lyceum.columbiastate.edu
-NOERROR	mobility.columbiastate.edu
-NXDOMAIN	www.jhardin.columbiastate.edu
-NOERROR	gwinters.columbiastate.edu
-NXDOMAIN	www.tcrabtree.columbiastate.edu
-NOERROR	server.columbiastate.edu
-NOERROR	cisnt01.columbiastate.edu
-NOERROR	callxpr1.columbiastate.edu
-NOERROR	library2.columbiastate.edu
-NXDOMAIN	www.cwarner2.columbiastate.edu
-NXDOMAIN	drobertson.columbiastate.edu
-NXDOMAIN	efleming.columbiastate.edu
-NOERROR	chargernet.columbiastate.edu
-NOERROR	win2kno5.columbiastate.edu
-NOERROR	zeus.columbiastate.edu
-NXDOMAIN	www.rjohnson.columbiastate.edu
-NOERROR	www.mbaker.columbiastate.edu
-NXDOMAIN	sserkownek.columbiastate.edu
-NOERROR	webct1.columbiastate.edu
-NXDOMAIN	mwarren.columbiastate.edu
-NOERROR	cas.columbiastate.edu
-NXDOMAIN	www.coscc-ise.columbiastate.edu
-NXDOMAIN	bcoleman.columbiastate.edu
-NOERROR	columbiastate.edu
-NOERROR	www.catalog.columbiastate.edu
-NOERROR	mail3.columbiastate.edu
-NXDOMAIN	jwheatley1.columbiastate.edu
-NXDOMAIN	banner1-ce1.columbiastate.edu
-NOERROR	media.columbiastate.edu
-NOERROR	alumni.columbiastate.edu
-NXDOMAIN	rmajor.columbiastate.edu
-NXDOMAIN	mcarterlowe.columbiastate.edu
-NOERROR	mycn.columbiastate.edu
-NOERROR	sis.columbiastate.edu
-NXDOMAIN	inbdev.columbiastate.edu
-NOERROR	libguides.columbiastate.edu
-NOERROR	securefile.columbiastate.edu
-NOERROR	coscc.columbiastate.edu
-NXDOMAIN	dgoodpasture.columbiastate.edu
-NOERROR	mail10.columbiastate.edu
-NOERROR	new.columbiastate.edu
-NOERROR	view.columbiastate.edu
-NXDOMAIN	lconner.columbiastate.edu
-NXDOMAIN	jsmith2.columbiastate.edu
-NOERROR	banadm.columbiastate.edu
-NXDOMAIN	mhart.columbiastate.edu
-NOERROR	www.academicsupport.columbiastate.edu
-NXDOMAIN	esmt.columbiastate.edu
-NOERROR	wm.columbiastate.edu
-NOERROR	beis.columbiastate.edu
-NXDOMAIN	lpewitt2.columbiastate.edu
-NOERROR	ssop.columbiastate.edu
-NXDOMAIN	bwanamaker.columbiastate.edu
-NXDOMAIN	www.banner3.columbiastate.edu
-NXDOMAIN	www.banner2.columbiastate.edu
-NOERROR	mbaker.columbiastate.edu
-NXDOMAIN	chudnall.columbiastate.edu
-NXDOMAIN	djohnson74.columbiastate.edu
-NOERROR	tandberg1.columbiastate.edu
-NOERROR	vgay.columbiastate.edu
-NOERROR	camera-w238.columbiastate.edu
-NXDOMAIN	mpickle.columbiastate.edu
-NXDOMAIN	djackson30.columbiastate.edu
-NXDOMAIN	coscc-ise2.columbiastate.edu
-NXDOMAIN	lbrunton.columbiastate.edu
-NOERROR	bdm.columbiastate.edu
-NOERROR	columbiastatecontentserver.columbiastate.edu
-NXDOMAIN	fbehrens.columbiastate.edu
-NXDOMAIN	ksantee.columbiastate.edu
-NXDOMAIN	dfawcett.columbiastate.edu
-NXDOMAIN	jfrazer.columbiastate.edu
-NXDOMAIN	bcathey.columbiastate.edu
-NOERROR	www.mail1.columbiastate.edu
-NOERROR	rmcdonalddesktop.columbiastate.edu
-NOERROR	luminus-bge1.columbiastate.edu
+library.columbiastate.edu
+dns1.columbiastate.edu
+ceri-gnss.columbiastate.edu
+elearn.columbiastate.edu
+bandnatwcc.columbiastate.edu
+sso.columbiastate.edu
+www.dvc.columbiastate.edu
+www.mail.columbiastate.edu
+coscc-gateway.columbiastate.edu
+warf.columbiastate.edu
+ifep.columbiastate.edu
+coscc-fw.columbiastate.edu
+bnaddy.columbiastate.edu
+fitt.columbiastate.edu
+vpn.columbiastate.edu
+www.forms.columbiastate.edu
+dvc.columbiastate.edu
+cisacademic.columbiastate.edu
+catalog.columbiastate.edu
+cis2kno2.columbiastate.edu
+bannerstage.columbiastate.edu
+mc.columbiastate.edu
+ssbdev.columbiastate.edu
+www.columbiastate.edu
+int-p.columbiastate.edu
+resources.columbiastate.edu
+spamfilter.columbiastate.edu
+mmb.columbiastate.edu
+abasoamcmillan.columbiastate.edu
+academicsupport.columbiastate.edu
+web.columbiastate.edu
+hybrid.columbiastate.edu
+dns2.columbiastate.edu
+coscca.columbiastate.edu
+musicapp.columbiastate.edu
+forms.columbiastate.edu
+cuat.columbiastate.edu
+spamfilterb.columbiastate.edu
+mail1.columbiastate.edu
+orientation.columbiastate.edu
+businessofcftp.columbiastate.edu
+cis.columbiastate.edu
+pd.columbiastate.edu
+mail.columbiastate.edu
+singlesignon.columbiastate.edu
+helpdesk.columbiastate.edu
+ladmin.columbiastate.edu
+coscc-fwf.columbiastate.edu
+webserver.columbiastate.edu
+lumtest.columbiastate.edu
+sspr.columbiastate.edu
+dw.columbiastate.edu
+twinters.columbiastate.edu
+m.catalog.columbiastate.edu
+homevpn.columbiastate.edu
+training.columbiastate.edu
+fitttraining.columbiastate.edu
+studentmail.columbiastate.edu
+chargers.columbiastate.edu
+testserver.columbiastate.edu
+luminus.columbiastate.edu
+www.bnaddy.columbiastate.edu
+dintegrate.columbiastate.edu
+coscr.columbiastate.edu
+www.pd.columbiastate.edu
+ssb.columbiastate.edu
+chargertest.columbiastate.edu
+cosccforms.columbiastate.edu
+epay.columbiastate.edu
+ssotest.columbiastate.edu
+kace.columbiastate.edu
+fittserv.columbiastate.edu
+onlinecampus.columbiastate.edu
+ferpa4fac.columbiastate.edu
+luminus-bge0.columbiastate.edu
+8gzdwh1.columbiastate.edu
+sperley.columbiastate.edu
+hvac.columbiastate.edu
+eprint.columbiastate.edu
+naddybi.columbiastate.edu
+csccv001.columbiastate.edu
+instvideo.pd.columbiastate.edu
+mobility.columbiastate.edu
+gwinters.columbiastate.edu
+server.columbiastate.edu
+cisnt01.columbiastate.edu
+callxpr1.columbiastate.edu
+library2.columbiastate.edu
+chargernet.columbiastate.edu
+win2kno5.columbiastate.edu
+zeus.columbiastate.edu
+www.mbaker.columbiastate.edu
+webct1.columbiastate.edu
+cas.columbiastate.edu
+columbiastate.edu
+www.catalog.columbiastate.edu
+mail3.columbiastate.edu
+media.columbiastate.edu
+alumni.columbiastate.edu
+mycn.columbiastate.edu
+sis.columbiastate.edu
+libguides.columbiastate.edu
+securefile.columbiastate.edu
+coscc.columbiastate.edu
+mail10.columbiastate.edu
+new.columbiastate.edu
+view.columbiastate.edu
+banadm.columbiastate.edu
+www.academicsupport.columbiastate.edu
+wm.columbiastate.edu
+beis.columbiastate.edu
+ssop.columbiastate.edu
+mbaker.columbiastate.edu
+tandberg1.columbiastate.edu
+vgay.columbiastate.edu
+camera-w238.columbiastate.edu
+bdm.columbiastate.edu
+columbiastatecontentserver.columbiastate.edu
+www.mail1.columbiastate.edu
+rmcdonalddesktop.columbiastate.edu
+luminus-bge1.columbiastate.edu

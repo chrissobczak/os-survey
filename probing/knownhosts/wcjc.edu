@@ -1,41 +1,31 @@
-NOERROR	portal.wcjc.edu
-NOERROR	stuoss19.wcjc.edu
-NOERROR	old.wcjc.edu
-NXDOMAIN	fannin3.wcjc.edu
-NXDOMAIN	tjessen.wcjc.edu
-NOERROR	thycoticprs.wcjc.edu
-NOERROR	libproxy.wcjc.edu
-NOERROR	pioneer.wcjc.edu
-NOERROR	omni3.wcjc.edu
-NOERROR	bowie2.wcjc.edu
-NOERROR	edge.wcjc.edu
-NOERROR	fannin5.wcjc.edu
-NOERROR	student.wcjc.edu
-NXDOMAIN	webct.wcjc.edu
-NXDOMAIN	fannin.wcjc.edu
-NOERROR	ilp.wcjc.edu
-NOERROR	venus.wcjc.edu
-NOERROR	pioneer1.wcjc.edu
-NOERROR	www.wcjc.edu
-NOERROR	wcjc.edu
-NOERROR	idconnector.wcjc.edu
-NOERROR	netlab.wcjc.edu
-NOERROR	tesla.wcjc.edu
-NOERROR	cal.wcjc.edu
-NOERROR	classclimate.wcjc.edu
-NOERROR	sso.wcjc.edu
-NOERROR	epay.wcjc.edu
-NXDOMAIN	email.wcjc.edu
-NOERROR	omni6.wcjc.edu
-NXDOMAIN	rmathews.wcjc.edu
-NOERROR	stuoss20.wcjc.edu
-NXDOMAIN	boling.wcjc.edu
-NOERROR	testilp.wcjc.edu
-NXDOMAIN	bowie.wcjc.edu
-NOERROR	fannin4.wcjc.edu
-NOERROR	burleson5.wcjc.edu
-NOERROR	omni2.wcjc.edu
-NXDOMAIN	survey.wcjc.edu
-NOERROR	intranet.wcjc.edu
-NXDOMAIN	burleson3.wcjc.edu
-NOERROR	facultyweb.wcjc.edu
+portal.wcjc.edu
+stuoss19.wcjc.edu
+old.wcjc.edu
+thycoticprs.wcjc.edu
+libproxy.wcjc.edu
+pioneer.wcjc.edu
+omni3.wcjc.edu
+bowie2.wcjc.edu
+edge.wcjc.edu
+fannin5.wcjc.edu
+student.wcjc.edu
+ilp.wcjc.edu
+venus.wcjc.edu
+pioneer1.wcjc.edu
+www.wcjc.edu
+wcjc.edu
+idconnector.wcjc.edu
+netlab.wcjc.edu
+tesla.wcjc.edu
+cal.wcjc.edu
+classclimate.wcjc.edu
+sso.wcjc.edu
+epay.wcjc.edu
+omni6.wcjc.edu
+stuoss20.wcjc.edu
+testilp.wcjc.edu
+fannin4.wcjc.edu
+burleson5.wcjc.edu
+omni2.wcjc.edu
+intranet.wcjc.edu
+facultyweb.wcjc.edu

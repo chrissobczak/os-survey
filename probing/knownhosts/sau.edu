@@ -1,134 +1,43 @@
-NXDOMAIN	saumhds.sau.edu
-NOERROR	carjournal.sau.edu
-NOERROR	constructioncam.sau.edu
-NOERROR	info.sau.edu
-NOERROR	online.sau.edu
-NOERROR	web.sau.edu
-NXDOMAIN	advisor.sau.edu
-NXDOMAIN	acdistro.sau.edu
-NXDOMAIN	cis2.sau.edu
-NOERROR	jabber.sau.edu
-NXDOMAIN	cms.sau.edu
-NXDOMAIN	nat4.sau.edu
-NXDOMAIN	cis1.sau.edu
-NOERROR	givingday.sau.edu
-NXDOMAIN	stuhome.sau.edu
-NXDOMAIN	libftp.sau.edu
-NXDOMAIN	farva.sau.edu
-NOERROR	degrees.sau.edu
-NXDOMAIN	www.international.sau.edu
-NXDOMAIN	saubusoff.sau.edu
-NOERROR	chalk.sau.edu
-NXDOMAIN	saudac.sau.edu
-NXDOMAIN	mail.sau.edu
-NXDOMAIN	nat2.sau.edu
-NOERROR	studyabroad.sau.edu
-NXDOMAIN	sauexchange.sau.edu
-NXDOMAIN	ariel.sau.edu
-NOERROR	image.exacttarget.sau.edu
-NOERROR	am.sau.edu
-NXDOMAIN	sauexbe2.sau.edu
-NXDOMAIN	saumhdm.sau.edu
-NXDOMAIN	anastasia.sau.edu
-NXDOMAIN	constructioncam2.sau.edu
-NXDOMAIN	elluminate.sau.edu
-NXDOMAIN	kwilley.sau.edu
-NXDOMAIN	nat5.sau.edu
-NOERROR	click.exacttarget.sau.edu
-NXDOMAIN	ithelpdesk.sau.edu
-NOERROR	catich.sau.edu
-NXDOMAIN	search.sau.edu
-NXDOMAIN	sauuws.sau.edu
-NOERROR	fxtest.sau.edu
-NOERROR	libguides.sau.edu
-NOERROR	login.proxy.sau.edu
-NXDOMAIN	ucsch.sau.edu
-NOERROR	fxprod.sau.edu
-NXDOMAIN	saualpha.sau.edu
-NXDOMAIN	apply.sau.edu
-NXDOMAIN	dcro1.ambrose.sau.edu
-NOERROR	zuul.sau.edu
-NXDOMAIN	coscb.sau.edu
-NXDOMAIN	sierra.sau.edu
-NOERROR	beeline.sau.edu
-NOERROR	grad.sau.edu
-NOERROR	maps.sau.edu
-NXDOMAIN	informer.sau.edu
-NXDOMAIN	nat3.sau.edu
-NOERROR	blackboard.sau.edu
-NXDOMAIN	password.sau.edu
-NOERROR	epay.sau.edu
-NXDOMAIN	gfms.ambrose.sau.edu
-NXDOMAIN	www.archives.sau.edu
-NXDOMAIN	electro.sau.edu
-NXDOMAIN	swillard.sau.edu
-NXDOMAIN	saudmi.sau.edu
-NOERROR	explore.sau.edu
-NXDOMAIN	freddy.sau.edu
-NXDOMAIN	nat7.sau.edu
-NOERROR	google.sau.edu
-NXDOMAIN	nat1.sau.edu
-NXDOMAIN	login.sau.edu
-NOERROR	torquemada.sau.edu
-NOERROR	sau.edu
-NXDOMAIN	ftp.sau.edu
-NXDOMAIN	sampson.sau.edu
-NOERROR	archives.sau.edu
-NXDOMAIN	nat8.sau.edu
-NOERROR	selfservice.sau.edu
-NXDOMAIN	mbs.sau.edu
-NXDOMAIN	studentmail.sau.edu
-NOERROR	giving.sau.edu
-NXDOMAIN	milton.sau.edu
-NXDOMAIN	saudcnsro2.ambrose.sau.edu
-NXDOMAIN	recruiter.sau.edu
-NXDOMAIN	acwin2k.sau.edu
-NXDOMAIN	www.recruiter.sau.edu
-NXDOMAIN	www.apply.sau.edu
-NOERROR	www.sau.edu
-NOERROR	ambrose.sau.edu
-NXDOMAIN	webui.sau.edu
-NXDOMAIN	ementor.sau.edu
-NXDOMAIN	www.securemail.sau.edu
-NXDOMAIN	infotech.sau.edu
-NXDOMAIN	cis3.sau.edu
-NXDOMAIN	camera.sau.edu
-NXDOMAIN	nat9.sau.edu
-NOERROR	proxy.sau.edu
-NOERROR	learn.sau.edu
-NXDOMAIN	www.studyabroad.sau.edu
-NXDOMAIN	spam.sau.edu
-NXDOMAIN	my.sau.edu
-NXDOMAIN	library.sau.edu
-NXDOMAIN	directory.sau.edu
-NXDOMAIN	xp8k.sau.edu
-NOERROR	touchnettest.sau.edu
-NOERROR	international.sau.edu
-NOERROR	test-api.sau.edu
-NXDOMAIN	helpdesk.sau.edu
-NXDOMAIN	studentnet.sau.edu
-NXDOMAIN	fortisapp1.ambrose.sau.edu
-NOERROR	securemail.sau.edu
-NXDOMAIN	sauexbe1.sau.edu
-NXDOMAIN	listserv.sau.edu
-NXDOMAIN	saunix.sau.edu
-NXDOMAIN	mobile3600.sau.edu
-NXDOMAIN	ereserve.sau.edu
-NXDOMAIN	esptest.sau.edu
-NXDOMAIN	nat6.sau.edu
-NXDOMAIN	plato.sau.edu
-NXDOMAIN	www.blackboard.sau.edu
-NOERROR	success.sau.edu
-NXDOMAIN	sausus.sau.edu
-NXDOMAIN	alumni.sau.edu
-NXDOMAIN	saudlbb.sau.edu
-NXDOMAIN	servicedesk.sau.edu
-NXDOMAIN	pluto.sau.edu
-NXDOMAIN	neptune.sau.edu
-NOERROR	mta.exacttarget.sau.edu
-NXDOMAIN	pcreg.sau.edu
-NOERROR	mysau.sau.edu
-NXDOMAIN	sauexfe1.sau.edu
-NOERROR	believe.sau.edu
-NXDOMAIN	admissions.sau.edu
-NXDOMAIN	webprint.sau.edu
+carjournal.sau.edu
+constructioncam.sau.edu
+info.sau.edu
+online.sau.edu
+web.sau.edu
+jabber.sau.edu
+givingday.sau.edu
+degrees.sau.edu
+chalk.sau.edu
+studyabroad.sau.edu
+image.exacttarget.sau.edu
+am.sau.edu
+click.exacttarget.sau.edu
+catich.sau.edu
+fxtest.sau.edu
+libguides.sau.edu
+login.proxy.sau.edu
+fxprod.sau.edu
+zuul.sau.edu
+beeline.sau.edu
+grad.sau.edu
+maps.sau.edu
+blackboard.sau.edu
+epay.sau.edu
+explore.sau.edu
+google.sau.edu
+torquemada.sau.edu
+sau.edu
+archives.sau.edu
+selfservice.sau.edu
+giving.sau.edu
+www.sau.edu
+ambrose.sau.edu
+proxy.sau.edu
+learn.sau.edu
+touchnettest.sau.edu
+international.sau.edu
+test-api.sau.edu
+securemail.sau.edu
+success.sau.edu
+mta.exacttarget.sau.edu
+mysau.sau.edu
+believe.sau.edu

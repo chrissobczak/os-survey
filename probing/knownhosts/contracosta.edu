@@ -1,16 +1,10 @@
-NOERROR	www.contracosta.edu
-NOERROR	contracosta.edu
-NOERROR	nemo.contracosta.edu
-NOERROR	online.contracosta.edu
-NXDOMAIN	ccc03.contracosta.edu
-NXDOMAIN	poseidon.contracosta.edu
-NXDOMAIN	webdev.contracosta.edu
-NOERROR	coast.contracosta.edu
-NXDOMAIN	cs.contracosta.edu
-NOERROR	libguides.contracosta.edu
-NXDOMAIN	hce.contracosta.edu
-NOERROR	dalmation.contracosta.edu
-NXDOMAIN	copper.contracosta.edu
-NOERROR	wordpress.contracosta.edu
-NOERROR	docs.contracosta.edu
-NOERROR	fmpro.contracosta.edu
+www.contracosta.edu
+contracosta.edu
+nemo.contracosta.edu
+online.contracosta.edu
+coast.contracosta.edu
+libguides.contracosta.edu
+dalmation.contracosta.edu
+wordpress.contracosta.edu
+docs.contracosta.edu
+fmpro.contracosta.edu

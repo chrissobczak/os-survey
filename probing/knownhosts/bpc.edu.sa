@@ -1,16 +1,12 @@
-NOERROR	www.ssri.bpc.edu.sa
-NXDOMAIN	www.dmo.bpc.edu.sa
-NOERROR	mail.bpc.edu.sa
-NOERROR	webmail.bpc.edu.sa
-NOERROR	www.edugate.bpc.edu.sa
-NOERROR	www.bpc.edu.sa
-NOERROR	autodiscover.bpc.edu.sa
-NOERROR	bpc.edu.sa
-NOERROR	lms.bpc.edu.sa
-NOERROR	ssri.bpc.edu.sa
-NXDOMAIN	www.web.bpc.edu.sa
-NOERROR	cpanel.bpc.edu.sa
-NOERROR	edugate.bpc.edu.sa
-NXDOMAIN	web.bpc.edu.sa
-NOERROR	webdisk.bpc.edu.sa
-NXDOMAIN	dmo.bpc.edu.sa
+www.ssri.bpc.edu.sa
+mail.bpc.edu.sa
+webmail.bpc.edu.sa
+www.edugate.bpc.edu.sa
+www.bpc.edu.sa
+autodiscover.bpc.edu.sa
+bpc.edu.sa
+lms.bpc.edu.sa
+ssri.bpc.edu.sa
+cpanel.bpc.edu.sa
+edugate.bpc.edu.sa
+webdisk.bpc.edu.sa

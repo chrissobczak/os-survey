@@ -1,13 +1,1 @@
-NXDOMAIN	www.selecaopublica.unib.br
-NOERROR	www.seer.unib.br
-SERVFAIL	counter.unib.br
-SERVFAIL	ns2.unib.br
-SERVFAIL	seer.unib.br
-SERVFAIL	irai.unib.br
-SERVFAIL	di.unib.br
-SERVFAIL	unib.br
-SERVFAIL	www.unib.br
-SERVFAIL	sol.unib.br
-SERVFAIL	www.cespe.unib.br
-SERVFAIL	fw1b.unib.br
-SERVFAIL	www.securit.cespe.unib.br
+www.seer.unib.br

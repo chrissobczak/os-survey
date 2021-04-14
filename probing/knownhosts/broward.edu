@@ -1,181 +1,112 @@
-NOERROR	director.broward.edu
-NOERROR	drvpn.broward.edu
-NOERROR	d-infospan.broward.edu
-NXDOMAIN	dialin.broward.edu
-NOERROR	blackboardtest.broward.edu
-NOERROR	webhome.broward.edu
-NOERROR	helpdeskold.broward.edu
-NOERROR	jobs.broward.edu
-NOERROR	bccmg01.mem.broward.edu
-NOERROR	www.lead.broward.edu
-NOERROR	facilitate.broward.edu
-NOERROR	register.broward.edu
-NOERROR	devext.broward.edu
-NOERROR	csit.broward.edu
-NOERROR	development.broward.edu
-NOERROR	sas1.broward.edu
-NOERROR	wam.broward.edu
-NOERROR	xauth.broward.edu
-NOERROR	www.broward.edu
-NXDOMAIN	www.naruba.broward.edu
-NXDOMAIN	www.sbc.broward.edu
-NOERROR	mail.broward.edu
-NOERROR	sip.broward.edu
-NOERROR	test.broward.edu
-NOERROR	d-media.broward.edu
-NOERROR	students.broward.edu
-NXDOMAIN	www.ican.broward.edu
-NOERROR	track.broward.edu
-NXDOMAIN	tdcvpn.broward.edu
-NOERROR	broward.edu
-NXDOMAIN	www.ips.broward.edu
-NXDOMAIN	naplyncedgeav.broward.edu
-NOERROR	towa.broward.edu
-NOERROR	workplace.broward.edu
-NXDOMAIN	www.pratt.broward.edu
-NOERROR	fordham.broward.edu
-NOERROR	tlyncreverseproxy.broward.edu
-NXDOMAIN	naplyncedgeaccess.broward.edu
-NXDOMAIN	www.access.broward.edu
-NXDOMAIN	saruba.broward.edu
-NOERROR	itstatus.broward.edu
-NOERROR	gwm.broward.edu
-NOERROR	ddw.broward.edu
-NOERROR	tlyncedgeav.broward.edu
-NXDOMAIN	www.tdcvpn.broward.edu
-NXDOMAIN	www.fsweb.broward.edu
-NXDOMAIN	www.corporate.broward.edu
-NXDOMAIN	www.caruba.broward.edu
-NXDOMAIN	www.seahawksourcing.broward.edu
-NXDOMAIN	lynext.broward.edu
-NOERROR	www1.broward.edu
-NXDOMAIN	www.itstatus.broward.edu
-NOERROR	tsasweb.broward.edu
-NOERROR	bconline.broward.edu
-NXDOMAIN	www.cppm.broward.edu
-NOERROR	cid.broward.edu
-NXDOMAIN	www.vpnportal.broward.edu
-NOERROR	itvpn.broward.edu
-NOERROR	email2.texch.broward.edu
-NOERROR	testbconline.broward.edu
-NXDOMAIN	www.reset.broward.edu
-NXDOMAIN	www.workplace.broward.edu
-NOERROR	testworkplace.broward.edu
-NOERROR	oneaccess.broward.edu
-NOERROR	calendar.broward.edu
-NOERROR	testdnet.broward.edu
-NXDOMAIN	www.mysite.broward.edu
-NOERROR	connect.broward.edu
-NOERROR	news.broward.edu
-NOERROR	lyncdiscover.broward.edu
-NOERROR	testcid.broward.edu
-NXDOMAIN	www.naparuba.broward.edu
-NOERROR	ce.broward.edu
-NOERROR	pratt.broward.edu
-NXDOMAIN	daruba.broward.edu
-NOERROR	ftp.broward.edu
-NXDOMAIN	www.helpdesk.broward.edu
-NOERROR	ituptime.broward.edu
-NOERROR	enroll.broward.edu
-NXDOMAIN	www.mem.broward.edu
-NOERROR	dev1.broward.edu
-NOERROR	forums.broward.edu
-NOERROR	podcast.broward.edu
-NOERROR	elearning.broward.edu
-NXDOMAIN	www.csit.broward.edu
-NOERROR	him.broward.edu
-NXDOMAIN	webcon.broward.edu
-NOERROR	zvm.broward.edu
-NOERROR	seahawksourcing.broward.edu
-NOERROR	tour.broward.edu
-NXDOMAIN	testvpn.broward.edu
-NOERROR	barnard.broward.edu
-NXDOMAIN	www.cse.broward.edu
-NOERROR	dowa.broward.edu
-NOERROR	askus.broward.edu
-NOERROR	mysite.broward.edu
-NXDOMAIN	www.wiki.broward.edu
-NXDOMAIN	www.owa.broward.edu
-NOERROR	icid.broward.edu
-NOERROR	netlab.broward.edu
-NOERROR	mediaspace.broward.edu
-NOERROR	coronavirus.broward.edu
-NOERROR	vpn.broward.edu
-NOERROR	wwwdevl.broward.edu
-NOERROR	corporate.broward.edu
-NXDOMAIN	lyncext.broward.edu
-NOERROR	wbctldp.broward.edu
-NXDOMAIN	www.nso.broward.edu
-NXDOMAIN	www.juilliard.broward.edu
-NOERROR	helpdesk.broward.edu
-NOERROR	facilities.broward.edu
-NXDOMAIN	naparuba.broward.edu
-NOERROR	mybc.broward.edu
-NOERROR	muse.broward.edu
-NXDOMAIN	www.testworkplace.broward.edu
-NXDOMAIN	www.sites.broward.edu
-NOERROR	autodiscover.broward.edu
-NXDOMAIN	naplyncedgewebcon.broward.edu
-NXDOMAIN	www.saruba.broward.edu
-NXDOMAIN	www.devext.broward.edu
-NOERROR	vpnportal.broward.edu
-NOERROR	owa.broward.edu
-NOERROR	dnet.broward.edu
-NOERROR	can8t.broward.edu
-NOERROR	as400.broward.edu
-NXDOMAIN	www.daruba.broward.edu
-NXDOMAIN	www.conted.broward.edu
-NOERROR	libguides.broward.edu
-NOERROR	ican.broward.edu
-NOERROR	start.broward.edu
-NXDOMAIN	www.barnard.broward.edu
-NOERROR	sbc.broward.edu
-NOERROR	juilliard.broward.edu
-NXDOMAIN	meet.broward.edu
-NXDOMAIN	cmg02.mem.broward.edu
-NXDOMAIN	www.facilities.broward.edu
-NXDOMAIN	www.mail.broward.edu
-NOERROR	helpdeskalerts.broward.edu
-NOERROR	alumni.broward.edu
-NXDOMAIN	www.drvpn.broward.edu
-NOERROR	apply.broward.edu
-NXDOMAIN	reset.broward.edu
-NXDOMAIN	www.naplyncedgeaccess.broward.edu
-NXDOMAIN	www.mediaspace.broward.edu
-NOERROR	lead.broward.edu
-NXDOMAIN	fsweb.broward.edu
-NOERROR	google.broward.edu
-NOERROR	public.broward.edu
-NOERROR	tlyncedgeaccess.broward.edu
-NOERROR	outlook.broward.edu
-NOERROR	email1.texch.broward.edu
-NXDOMAIN	naruba.broward.edu
-NOERROR	online.broward.edu
-NOERROR	mem.broward.edu
-NOERROR	csitsurveys.broward.edu
-NOERROR	s-gw.broward.edu
-NOERROR	archives.broward.edu
-NXDOMAIN	www.director.broward.edu
-NXDOMAIN	sslportal.broward.edu
-NXDOMAIN	www.testbconline.broward.edu
-NXDOMAIN	caruba.broward.edu
-NXDOMAIN	cppm.broward.edu
-NXDOMAIN	cse.broward.edu
-NXDOMAIN	www.bconline.broward.edu
-NOERROR	giving.broward.edu
-NXDOMAIN	www.vpn.broward.edu
-NXDOMAIN	cmg01.mem.broward.edu
-NOERROR	c-gw.broward.edu
-NOERROR	securevpn.broward.edu
-NXDOMAIN	access.broward.edu
-NOERROR	nso.broward.edu
-NXDOMAIN	wiki.broward.edu
-NXDOMAIN	www.libguides.broward.edu
-NOERROR	penbay-archibus.broward.edu
-NOERROR	ips.broward.edu
-NXDOMAIN	www.test.broward.edu
-NXDOMAIN	conted.broward.edu
-NOERROR	workday.broward.edu
-NOERROR	sites.broward.edu
-NOERROR	ucl.broward.edu
-NOERROR	tstuxauth.broward.edu
+director.broward.edu
+drvpn.broward.edu
+d-infospan.broward.edu
+blackboardtest.broward.edu
+webhome.broward.edu
+helpdeskold.broward.edu
+jobs.broward.edu
+bccmg01.mem.broward.edu
+www.lead.broward.edu
+facilitate.broward.edu
+register.broward.edu
+devext.broward.edu
+csit.broward.edu
+development.broward.edu
+sas1.broward.edu
+wam.broward.edu
+xauth.broward.edu
+www.broward.edu
+mail.broward.edu
+sip.broward.edu
+test.broward.edu
+d-media.broward.edu
+students.broward.edu
+track.broward.edu
+broward.edu
+towa.broward.edu
+workplace.broward.edu
+fordham.broward.edu
+tlyncreverseproxy.broward.edu
+itstatus.broward.edu
+gwm.broward.edu
+ddw.broward.edu
+tlyncedgeav.broward.edu
+www1.broward.edu
+tsasweb.broward.edu
+bconline.broward.edu
+cid.broward.edu
+itvpn.broward.edu
+email2.texch.broward.edu
+testbconline.broward.edu
+testworkplace.broward.edu
+oneaccess.broward.edu
+calendar.broward.edu
+testdnet.broward.edu
+connect.broward.edu
+news.broward.edu
+lyncdiscover.broward.edu
+testcid.broward.edu
+ce.broward.edu
+pratt.broward.edu
+ftp.broward.edu
+ituptime.broward.edu
+enroll.broward.edu
+dev1.broward.edu
+forums.broward.edu
+podcast.broward.edu
+elearning.broward.edu
+him.broward.edu
+zvm.broward.edu
+seahawksourcing.broward.edu
+tour.broward.edu
+barnard.broward.edu
+dowa.broward.edu
+askus.broward.edu
+mysite.broward.edu
+icid.broward.edu
+netlab.broward.edu
+mediaspace.broward.edu
+coronavirus.broward.edu
+vpn.broward.edu
+wwwdevl.broward.edu
+corporate.broward.edu
+wbctldp.broward.edu
+helpdesk.broward.edu
+facilities.broward.edu
+mybc.broward.edu
+muse.broward.edu
+autodiscover.broward.edu
+vpnportal.broward.edu
+owa.broward.edu
+dnet.broward.edu
+can8t.broward.edu
+as400.broward.edu
+libguides.broward.edu
+ican.broward.edu
+start.broward.edu
+sbc.broward.edu
+juilliard.broward.edu
+helpdeskalerts.broward.edu
+alumni.broward.edu
+apply.broward.edu
+lead.broward.edu
+google.broward.edu
+public.broward.edu
+tlyncedgeaccess.broward.edu
+outlook.broward.edu
+email1.texch.broward.edu
+online.broward.edu
+mem.broward.edu
+csitsurveys.broward.edu
+s-gw.broward.edu
+archives.broward.edu
+giving.broward.edu
+c-gw.broward.edu
+securevpn.broward.edu
+nso.broward.edu
+penbay-archibus.broward.edu
+ips.broward.edu
+workday.broward.edu
+sites.broward.edu
+ucl.broward.edu
+tstuxauth.broward.edu

@@ -1,65 +1,51 @@
-NXDOMAIN	www.dasta.teikal.gr
-NOERROR	login.teikal.gr
-NOERROR	fin.teikal.gr
-NOERROR	www.tasting.teikal.gr
-NXDOMAIN	www.loxri.teikal.gr
-NOERROR	mailsrv.teikal.gr
-NXDOMAIN	www.xrime.teikal.gr
-NOERROR	webmail.teikal.gr
-NOERROR	www.eclass.teikal.gr
-NXDOMAIN	career.career.teikal.gr
-NXDOMAIN	www.career.teikal.gr
-NOERROR	librarysbs.lib.teikal.gr
-NOERROR	loxri.teikal.gr
-NXDOMAIN	users.teikal.gr
-NOERROR	www.logo.teikal.gr
-NOERROR	archimedes.teikal.gr
-NOERROR	vd.teikal.gr
-NOERROR	blnode02.teikal.gr
-NOERROR	idp.teikal.gr
-NXDOMAIN	dgaq91nxe6vlymv.sparti.teikal.gr
-NOERROR	www.dmyp.teikal.gr
-NOERROR	webmail.cs.teikal.gr
-NXDOMAIN	artemis.teikal.gr
-NOERROR	kalamadata.teikal.gr
-NOERROR	dastasrv.dasta.teikal.gr
-NOERROR	mail.teikal.gr
-NOERROR	www.tg.teikal.gr
-NOERROR	floral.teikal.gr
-NXDOMAIN	admin.teikal.gr
-NXDOMAIN	www.fp.teikal.gr
-NOERROR	www.sparti.teikal.gr
-NOERROR	www.cs.teikal.gr
-NOERROR	imagine.cs.teikal.gr
-NOERROR	newmailsrv.teikal.gr
-NOERROR	cms.teikal.gr
-NOERROR	www.digilib.teikal.gr
-NOERROR	www.psmodip.teikal.gr
-NOERROR	dasta.teikal.gr
-NOERROR	www.webgram.teikal.gr
-NOERROR	sso.teikal.gr
-NXDOMAIN	library280.teikal.gr
-NOERROR	www.modip.teikal.gr
-NOERROR	users.cs.teikal.gr
-NOERROR	cmssrv.teikal.gr
-NOERROR	www.ima2015.teikal.gr
-NXDOMAIN	www.biotheka.teikal.gr
-NOERROR	gr-science.teikal.gr
-NOERROR	webgram.teikal.gr
-NOERROR	jes1.teikal.gr
-NOERROR	central.teikal.gr
-NXDOMAIN	eclasssrv.teikal.gr
-NOERROR	ir.teikal.gr
-NOERROR	www.teikal.gr
-NOERROR	www.eidikos.teikal.gr
-NXDOMAIN	finger.teikal.gr
-NOERROR	tms.teikal.gr
-NOERROR	www.lib.teikal.gr
-NOERROR	cae.teikal.gr
-NOERROR	www.hydroponics.teikal.gr
-NOERROR	thesis.cs.teikal.gr
-NOERROR	www.tetro.teikal.gr
-NOERROR	www.deo.teikal.gr
-NOERROR	pki.teikal.gr
-NOERROR	mail.cs.teikal.gr
-NOERROR	cs.teikal.gr
+login.teikal.gr
+fin.teikal.gr
+www.tasting.teikal.gr
+mailsrv.teikal.gr
+webmail.teikal.gr
+www.eclass.teikal.gr
+librarysbs.lib.teikal.gr
+loxri.teikal.gr
+www.logo.teikal.gr
+archimedes.teikal.gr
+vd.teikal.gr
+blnode02.teikal.gr
+idp.teikal.gr
+www.dmyp.teikal.gr
+webmail.cs.teikal.gr
+kalamadata.teikal.gr
+dastasrv.dasta.teikal.gr
+mail.teikal.gr
+www.tg.teikal.gr
+floral.teikal.gr
+www.sparti.teikal.gr
+www.cs.teikal.gr
+imagine.cs.teikal.gr
+newmailsrv.teikal.gr
+cms.teikal.gr
+www.digilib.teikal.gr
+www.psmodip.teikal.gr
+dasta.teikal.gr
+www.webgram.teikal.gr
+sso.teikal.gr
+www.modip.teikal.gr
+users.cs.teikal.gr
+cmssrv.teikal.gr
+www.ima2015.teikal.gr
+gr-science.teikal.gr
+webgram.teikal.gr
+jes1.teikal.gr
+central.teikal.gr
+ir.teikal.gr
+www.teikal.gr
+www.eidikos.teikal.gr
+tms.teikal.gr
+www.lib.teikal.gr
+cae.teikal.gr
+www.hydroponics.teikal.gr
+thesis.cs.teikal.gr
+www.tetro.teikal.gr
+www.deo.teikal.gr
+pki.teikal.gr
+mail.cs.teikal.gr
+cs.teikal.gr

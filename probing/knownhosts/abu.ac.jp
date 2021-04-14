@@ -1,16 +1,10 @@
-NOERROR	sgweb01.abu.ac.jp
-NXDOMAIN	webmail.abu.ac.jp
-NXDOMAIN	portal.abu.ac.jp
-NXDOMAIN	www.www.abu.ac.jp
-NOERROR	abusv01.abu.ac.jp
-NOERROR	aburt01.abu.ac.jp
-NOERROR	sgportal.abu.ac.jp
-NOERROR	opac.abu.ac.jp
-NXDOMAIN	campus.abu.ac.jp
-NXDOMAIN	unipa.abu.ac.jp
-NOERROR	sgweb.abu.ac.jp
-NXDOMAIN	cl.abu.ac.jp
-NOERROR	www.abu.ac.jp
-NOERROR	sgportal01.abu.ac.jp
-NOERROR	limsv02.abu.ac.jp
-NOERROR	abu.ac.jp
+sgweb01.abu.ac.jp
+abusv01.abu.ac.jp
+aburt01.abu.ac.jp
+sgportal.abu.ac.jp
+opac.abu.ac.jp
+sgweb.abu.ac.jp
+www.abu.ac.jp
+sgportal01.abu.ac.jp
+limsv02.abu.ac.jp
+abu.ac.jp

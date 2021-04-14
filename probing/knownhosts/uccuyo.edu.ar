@@ -1,134 +1,45 @@
-NXDOMAIN	www.alumnos.uccuyo.edu.ar
-NOERROR	ns3.uccuyo.edu.ar
-NOERROR	www.enciclopedia.uccuyo.edu.ar
-NXDOMAIN	mail.lab.uccuyo.edu.ar
-NXDOMAIN	cpcalendars.lab6.uccuyo.edu.ar
-NOERROR	ucc-sitiosweb.uccuyo.edu.ar
-NXDOMAIN	webmail.bio.uccuyo.edu.ar
-NOERROR	ns1.uccuyo.edu.ar
-NXDOMAIN	webmail.lab6.uccuyo.edu.ar
-NXDOMAIN	www.ucc-sitiosweb.uccuyo.edu.ar
-NXDOMAIN	mail.bio.uccuyo.edu.ar
-NXDOMAIN	cpcontacts.check.uccuyo.edu.ar
-NXDOMAIN	cpcalendars.lab2.uccuyo.edu.ar
-NXDOMAIN	webdisk.ayuda.uccuyo.edu.ar
-NOERROR	lab5.uccuyo.edu.ar
-NXDOMAIN	cpcalendars.lab5.uccuyo.edu.ar
-NXDOMAIN	cpcalendars.lab3.uccuyo.edu.ar
-NXDOMAIN	cpanel.lab.uccuyo.edu.ar
-NOERROR	lab2.uccuyo.edu.ar
-NXDOMAIN	cpanel.bio.uccuyo.edu.ar
-NOERROR	ssl.uccuyo.edu.ar
-NOERROR	uccuyo.edu.ar
-NOERROR	ayuda.uccuyo.edu.ar
-NXDOMAIN	mail.enciclopedia.uccuyo.edu.ar
-NOERROR	www.lab4.uccuyo.edu.ar
-NXDOMAIN	mail.lab3.uccuyo.edu.ar
-NXDOMAIN	mail.lab1.uccuyo.edu.ar
-NXDOMAIN	bioetica.uccuyo.edu.ar
-NXDOMAIN	webmail.lab3.uccuyo.edu.ar
-NXDOMAIN	webdisk.lab1.uccuyo.edu.ar
-NOERROR	ns2.uccuyo.edu.ar
-NXDOMAIN	cpanel.ayuda.uccuyo.edu.ar
-NOERROR	2moodle.uccuyo.edu.ar
-NXDOMAIN	webdisk.check.uccuyo.edu.ar
-NXDOMAIN	enciclopediadebioetica.uccuyo.edu.ar
-NOERROR	intra.uccuyo.edu.ar
-NXDOMAIN	cpcontacts.lab1.uccuyo.edu.ar
-NXDOMAIN	webmail.lab.uccuyo.edu.ar
-NXDOMAIN	cpcontacts.lab4.uccuyo.edu.ar
-NXDOMAIN	webdisk.lab2.uccuyo.edu.ar
-NXDOMAIN	www.lab5.uccuyo.edu.ar
-NXDOMAIN	cpcalendars.enciclopedia.uccuyo.edu.ar
-NXDOMAIN	www.lab3.uccuyo.edu.ar
-NOERROR	apolo.uccuyo.edu.ar
-NXDOMAIN	cpanel.lab5.uccuyo.edu.ar
-NXDOMAIN	cpcalendars.lab4.uccuyo.edu.ar
-NOERROR	www.uccuyo.edu.ar
-NXDOMAIN	webdisk.laboratoriograffigna.uccuyo.edu.ar
-NOERROR	enciclopedia.uccuyo.edu.ar
-NXDOMAIN	cpcontacts.lab2.uccuyo.edu.ar
-NXDOMAIN	webmail.lab5.uccuyo.edu.ar
-NXDOMAIN	webmail.ayuda.uccuyo.edu.ar
-NOERROR	www.alumno.uccuyo.edu.ar
-NXDOMAIN	cpcontacts.lab5.uccuyo.edu.ar
-NXDOMAIN	cpanel.lab3.uccuyo.edu.ar
-NXDOMAIN	cpcalendars.check.uccuyo.edu.ar
-NXDOMAIN	webmail.uccuyo.edu.ar
-NXDOMAIN	www.lab6.uccuyo.edu.ar
-NOERROR	mail.uccuyo.edu.ar
-NXDOMAIN	mail.lab6.uccuyo.edu.ar
-NXDOMAIN	cpcalendars.uccuyo.edu.ar
-NXDOMAIN	cpanel.lab6.uccuyo.edu.ar
-NXDOMAIN	cpcalendars.lab1.uccuyo.edu.ar
-NXDOMAIN	cpcontacts.enciclopedia.uccuyo.edu.ar
-NOERROR	www.laboratoriograffigna.uccuyo.edu.ar
-NOERROR	lab6.uccuyo.edu.ar
-NXDOMAIN	www.check.uccuyo.edu.ar
-NOERROR	www.ayuda.uccuyo.edu.ar
-NXDOMAIN	webdisk.lab6.uccuyo.edu.ar
-NOERROR	lab3.uccuyo.edu.ar
-NXDOMAIN	webmail.enciclopedia.uccuyo.edu.ar
-NXDOMAIN	webdisk.lab.uccuyo.edu.ar
-NXDOMAIN	webdisk.lab5.uccuyo.edu.ar
-NXDOMAIN	cpcalendars.laboratoriograffigna.uccuyo.edu.ar
-NOERROR	lab4.uccuyo.edu.ar
-NOERROR	check.uccuyo.edu.ar
-NXDOMAIN	perseo.uccuyo.edu.ar
-NOERROR	nodocente.uccuyo.edu.ar
-NXDOMAIN	cpanel.lab1.uccuyo.edu.ar
-NOERROR	www.cursos.uccuyo.edu.ar
-NXDOMAIN	mail.laboratoriograffigna.uccuyo.edu.ar
-NXDOMAIN	webdisk.uccuyo.edu.ar
-NXDOMAIN	webdisk.lab3.uccuyo.edu.ar
-NOERROR	academico.uccuyo.edu.ar
-NOERROR	digesto.uccuyo.edu.ar
-NXDOMAIN	cpanel.check.uccuyo.edu.ar
-NXDOMAIN	webmail.check.uccuyo.edu.ar
-NOERROR	www.campus.uccuyo.edu.ar
-NOERROR	shop.uccuyo.edu.ar
-NOERROR	pagos.uccuyo.edu.ar
-NXDOMAIN	mail.lab5.uccuyo.edu.ar
-NXDOMAIN	cpanel.enciclopedia.uccuyo.edu.ar
-NOERROR	cursos.uccuyo.edu.ar
-NOERROR	conferencias.uccuyo.edu.ar
-NXDOMAIN	mail.check.uccuyo.edu.ar
-NXDOMAIN	whm.lab.uccuyo.edu.ar
-NOERROR	campus.uccuyo.edu.ar
-NXDOMAIN	mail.ayuda.uccuyo.edu.ar
-NXDOMAIN	webdisk.lab4.uccuyo.edu.ar
-NXDOMAIN	www.lab1.uccuyo.edu.ar
-NXDOMAIN	cpcontacts.uccuyo.edu.ar
-NOERROR	lab.uccuyo.edu.ar
-NXDOMAIN	webmail.lab2.uccuyo.edu.ar
-NXDOMAIN	webmail.lab1.uccuyo.edu.ar
-NXDOMAIN	cpcontacts.ayuda.uccuyo.edu.ar
-NOERROR	lab1.uccuyo.edu.ar
-NOERROR	alumno.uccuyo.edu.ar
-NXDOMAIN	webmail.laboratoriograffigna.uccuyo.edu.ar
-NOERROR	gestion.uccuyo.edu.ar
-NXDOMAIN	cpcontacts.laboratoriograffigna.uccuyo.edu.ar
-NXDOMAIN	cpcalendars.ayuda.uccuyo.edu.ar
-NXDOMAIN	laidentidaddejesus.uccuyo.edu.ar
-NXDOMAIN	cpanel.laboratoriograffigna.uccuyo.edu.ar
-NXDOMAIN	online.uccuyo.edu.ar
-NXDOMAIN	mail.lab4.uccuyo.edu.ar
-NOERROR	ofertaeducativa.uccuyo.edu.ar
-NXDOMAIN	cpcontacts.lab6.uccuyo.edu.ar
-NOERROR	virtual.uccuyo.edu.ar
-NXDOMAIN	mail.lab2.uccuyo.edu.ar
-NXDOMAIN	www.bio.uccuyo.edu.ar
-NOERROR	laboratoriograffigna.uccuyo.edu.ar
-NXDOMAIN	cpanel.uccuyo.edu.ar
-NXDOMAIN	cpanel.lab4.uccuyo.edu.ar
-NXDOMAIN	www.lab2.uccuyo.edu.ar
-NXDOMAIN	cpanel.lab2.uccuyo.edu.ar
-NXDOMAIN	webdisk.bio.uccuyo.edu.ar
-NXDOMAIN	webmail.lab4.uccuyo.edu.ar
-NXDOMAIN	webdisk.enciclopedia.uccuyo.edu.ar
-NOERROR	bio.uccuyo.edu.ar
-NOERROR	sitra.uccuyo.edu.ar
-NOERROR	pergamo.uccuyo.edu.ar
-NXDOMAIN	cpcontacts.lab3.uccuyo.edu.ar
-NXDOMAIN	www.lab.uccuyo.edu.ar
-NOERROR	www.shop.uccuyo.edu.ar
+ns3.uccuyo.edu.ar
+www.enciclopedia.uccuyo.edu.ar
+ucc-sitiosweb.uccuyo.edu.ar
+ns1.uccuyo.edu.ar
+lab5.uccuyo.edu.ar
+lab2.uccuyo.edu.ar
+ssl.uccuyo.edu.ar
+uccuyo.edu.ar
+ayuda.uccuyo.edu.ar
+www.lab4.uccuyo.edu.ar
+ns2.uccuyo.edu.ar
+2moodle.uccuyo.edu.ar
+intra.uccuyo.edu.ar
+apolo.uccuyo.edu.ar
+www.uccuyo.edu.ar
+enciclopedia.uccuyo.edu.ar
+www.alumno.uccuyo.edu.ar
+mail.uccuyo.edu.ar
+www.laboratoriograffigna.uccuyo.edu.ar
+lab6.uccuyo.edu.ar
+www.ayuda.uccuyo.edu.ar
+lab3.uccuyo.edu.ar
+lab4.uccuyo.edu.ar
+check.uccuyo.edu.ar
+nodocente.uccuyo.edu.ar
+www.cursos.uccuyo.edu.ar
+academico.uccuyo.edu.ar
+digesto.uccuyo.edu.ar
+www.campus.uccuyo.edu.ar
+shop.uccuyo.edu.ar
+pagos.uccuyo.edu.ar
+cursos.uccuyo.edu.ar
+conferencias.uccuyo.edu.ar
+campus.uccuyo.edu.ar
+lab.uccuyo.edu.ar
+lab1.uccuyo.edu.ar
+alumno.uccuyo.edu.ar
+gestion.uccuyo.edu.ar
+ofertaeducativa.uccuyo.edu.ar
+virtual.uccuyo.edu.ar
+laboratoriograffigna.uccuyo.edu.ar
+bio.uccuyo.edu.ar
+sitra.uccuyo.edu.ar
+pergamo.uccuyo.edu.ar
+www.shop.uccuyo.edu.ar

@@ -1,29 +1,29 @@
-NOERROR	eds.suh-edu.com
-NOERROR	hostmaster.hostmaster.suh-edu.com
-NOERROR	hostmaster.suh-edu.com
-NOERROR	hostmaster.hostmaster.lng.suh-edu.com
-NOERROR	fn.suh-edu.com
-NOERROR	suh-edu.com
-NOERROR	hostmaster.hostmaster.agr.suh-edu.com
-NOERROR	is.suh-edu.com
-NOERROR	edh.suh-edu.com
-NOERROR	www.suh-edu.com
-NOERROR	econ.suh-edu.com
-NOERROR	edu.suh-edu.com
-NOERROR	hostmaster.hostmaster.hostmaster.agr.suh-edu.com
-NOERROR	ev.suh-edu.com
-NOERROR	hostmaster.hostmaster.hostmaster.www.suh-edu.com
-NOERROR	campus.suh-edu.com
-NOERROR	hostmaster.lng.suh-edu.com
-NOERROR	www.econ.suh-edu.com
-NOERROR	hostmaster.agr.suh-edu.com
-NOERROR	lp.suh-edu.com
-NOERROR	sc.suh-edu.com
-NOERROR	phe.suh-edu.com
-NOERROR	eng.suh-edu.com
-NOERROR	hostmaster.hostmaster.hostmaster.suh-edu.com
-NOERROR	art.suh-edu.com
-NOERROR	ba.suh-edu.com
-NOERROR	hostmaster.www.suh-edu.com
-NOERROR	lng.suh-edu.com
-NOERROR	agr.suh-edu.com
+eds.suh-edu.com
+hostmaster.hostmaster.suh-edu.com
+hostmaster.suh-edu.com
+hostmaster.hostmaster.lng.suh-edu.com
+fn.suh-edu.com
+suh-edu.com
+hostmaster.hostmaster.agr.suh-edu.com
+is.suh-edu.com
+edh.suh-edu.com
+www.suh-edu.com
+econ.suh-edu.com
+edu.suh-edu.com
+hostmaster.hostmaster.hostmaster.agr.suh-edu.com
+ev.suh-edu.com
+hostmaster.hostmaster.hostmaster.www.suh-edu.com
+campus.suh-edu.com
+hostmaster.lng.suh-edu.com
+www.econ.suh-edu.com
+hostmaster.agr.suh-edu.com
+lp.suh-edu.com
+sc.suh-edu.com
+phe.suh-edu.com
+eng.suh-edu.com
+hostmaster.hostmaster.hostmaster.suh-edu.com
+art.suh-edu.com
+ba.suh-edu.com
+hostmaster.www.suh-edu.com
+lng.suh-edu.com
+agr.suh-edu.com

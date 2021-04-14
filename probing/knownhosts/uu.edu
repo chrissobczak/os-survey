@@ -1,96 +1,50 @@
-NXDOMAIN	testing.uu.edu
-NOERROR	webapitest.uu.edu
-NXDOMAIN	www.cas.uu.edu
-NXDOMAIN	portaltest.uu.edu
-NXDOMAIN	excas.uu.edu
-NOERROR	mobile.uu.edu
-NXDOMAIN	www.barracuda.uu.edu
-NOERROR	o51.txmail.uu.edu
-NOERROR	online.uu.edu
-NOERROR	uu.edu
-NOERROR	portal.uu.edu
-NXDOMAIN	exhub.uu.edu
-NOERROR	selfservice.uu.edu
-NOERROR	ovid.com.ezproxy.uu.edu
-NXDOMAIN	files.uu.edu
-NXDOMAIN	www.ithelp.uu.edu
-NOERROR	login.ezproxy.uu.edu
-NOERROR	support.uu.edu
-NXDOMAIN	jaxtsweb.uu.edu
-NXDOMAIN	www.mobile.uu.edu
-NXDOMAIN	recruiter.uu.edu
-NXDOMAIN	legacy.uu.edu
-NXDOMAIN	webmail.uu.edu
-NOERROR	matcscserver.uu.edu
-NXDOMAIN	it-kiosk.uu.edu
-NOERROR	uucmcl.uu.edu
-NXDOMAIN	www.portaltest.uu.edu
-NXDOMAIN	ithelp.uu.edu
-NXDOMAIN	apply.uu.edu
-NXDOMAIN	commons.uu.edu
-NOERROR	autodiscover.uu.edu
-NOERROR	autodiscover.my.uu.edu
-NXDOMAIN	moxpub.uu.edu
-NXDOMAIN	www.recruiter.uu.edu
-NOERROR	mail.my.uu.edu
-NXDOMAIN	barracudao.uu.edu
-NOERROR	computerscience.uu.edu
-NXDOMAIN	www.tsgateway.uu.edu
-NOERROR	ebscohost.com.ezproxy.uu.edu
-NXDOMAIN	barracuda.uu.edu
-NOERROR	ui5test.uu.edu
-NOERROR	wiley.com.ezproxy.uu.edu
-NXDOMAIN	eclass.uu.edu
-NXDOMAIN	www.webadvisor.uu.edu
-NOERROR	help.uu.edu
-NXDOMAIN	hss.uu.edu
-NXDOMAIN	ncm.uu.edu
-NOERROR	testpayments.uu.edu
-NXDOMAIN	dashboardtest.uu.edu
-NOERROR	www.jstor.org.ezproxy.uu.edu
-NOERROR	unifi.uu.edu
-NOERROR	sts.uu.edu
-NOERROR	ui.uu.edu
-NXDOMAIN	uu-azurencm.uu.edu
-NXDOMAIN	www.kaseya.uu.edu
-NOERROR	www.uptodate.com.ezproxy.uu.edu
-NOERROR	els-cdn.com.ezproxy.uu.edu
-NOERROR	password.uu.edu
-NXDOMAIN	cas.uu.edu
-NOERROR	www.ezproxy.uu.edu
-NXDOMAIN	www.guides.uu.edu
-NOERROR	wfm.uu.edu
-NOERROR	galegroup.com.ezproxy.uu.edu
-NOERROR	sciencedirect.com.ezproxy.uu.edu
-NOERROR	elearn.uu.edu
-NXDOMAIN	tsweb.uu.edu
-NXDOMAIN	uucmcltest.uu.edu
-NXDOMAIN	jaxnexus.uu.edu
-NXDOMAIN	libguides.uu.edu
-NXDOMAIN	eclasstest.uu.edu
-NXDOMAIN	tsgateway.uu.edu
-NOERROR	ebsco-content.com.ezproxy.uu.edu
-NOERROR	ezproxy.uu.edu
-NXDOMAIN	kaseya.uu.edu
-NOERROR	intake.uu.edu
-NOERROR	mail.uu.edu
-NXDOMAIN	jaxdc3ldap.uu.edu
-NXDOMAIN	www.apply.uu.edu
-NXDOMAIN	www.webmail.uu.edu
-NOERROR	webadvisor.uu.edu
-NOERROR	vpn.uu.edu
-NOERROR	www.uu.edu
-NOERROR	doi.org.ezproxy.uu.edu
-NOERROR	guides.uu.edu
-NXDOMAIN	www.files.uu.edu
-NOERROR	payments.uu.edu
-NOERROR	epnet.com.ezproxy.uu.edu
-NXDOMAIN	www.ui.uu.edu
-NOERROR	sagepub.com.ezproxy.uu.edu
-NOERROR	kacefiles.uu.edu
-NOERROR	ebsco.com.ezproxy.uu.edu
-NXDOMAIN	www.portal.uu.edu
-NOERROR	ssrpm.uu.edu
-NOERROR	jstor.org.ezproxy.uu.edu
-NOERROR	towercam.uu.edu
-NXDOMAIN	choco.uu.edu
+webapitest.uu.edu
+mobile.uu.edu
+o51.txmail.uu.edu
+online.uu.edu
+uu.edu
+portal.uu.edu
+selfservice.uu.edu
+ovid.com.ezproxy.uu.edu
+login.ezproxy.uu.edu
+support.uu.edu
+matcscserver.uu.edu
+uucmcl.uu.edu
+autodiscover.uu.edu
+autodiscover.my.uu.edu
+mail.my.uu.edu
+computerscience.uu.edu
+ebscohost.com.ezproxy.uu.edu
+ui5test.uu.edu
+wiley.com.ezproxy.uu.edu
+help.uu.edu
+testpayments.uu.edu
+www.jstor.org.ezproxy.uu.edu
+unifi.uu.edu
+sts.uu.edu
+ui.uu.edu
+www.uptodate.com.ezproxy.uu.edu
+els-cdn.com.ezproxy.uu.edu
+password.uu.edu
+www.ezproxy.uu.edu
+wfm.uu.edu
+galegroup.com.ezproxy.uu.edu
+sciencedirect.com.ezproxy.uu.edu
+elearn.uu.edu
+ebsco-content.com.ezproxy.uu.edu
+ezproxy.uu.edu
+intake.uu.edu
+mail.uu.edu
+webadvisor.uu.edu
+vpn.uu.edu
+www.uu.edu
+doi.org.ezproxy.uu.edu
+guides.uu.edu
+payments.uu.edu
+epnet.com.ezproxy.uu.edu
+sagepub.com.ezproxy.uu.edu
+kacefiles.uu.edu
+ebsco.com.ezproxy.uu.edu
+ssrpm.uu.edu
+jstor.org.ezproxy.uu.edu
+towercam.uu.edu

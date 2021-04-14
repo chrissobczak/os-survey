@@ -1,379 +1,295 @@
-NOERROR	ncculaw.libguides.nccu.edu
-NOERROR	sasinschool.nccu.edu
-NOERROR	mail.nccu.edu
-NOERROR	nccussbprod.nccu.edu
-NOERROR	morpheus.nccu.edu
-NOERROR	methods.sagepub.com.ezproxy.nccu.edu
-NOERROR	mynccu-test.nccu.edu
-NXDOMAIN	webdisk.nccuonline.nccu.edu
-NXDOMAIN	fjtnenljj021.test.nccu.edu
-NOERROR	vcl.nccu.edu
-NOERROR	neptune.nccu.edu
-NOERROR	portalguard-ttt.nccu.edu
-NOERROR	tegrity.nccu.edu
-NOERROR	web-shared.nccu.edu
-NOERROR	esvr01.nccu.edu
-NOERROR	test.idp.nccu.edu
-NXDOMAIN	cpcalendars.nccuonline.nccu.edu
-NXDOMAIN	nccu1.acc.nccu.edu
-NOERROR	eds.a.ebscohost.com.ezproxy.nccu.edu
-NOERROR	www.nccu.edu
-NOERROR	dailydb.nccu.edu
-NOERROR	development2.nccu.edu
-NOERROR	bambi.acc.nccu.edu
-NOERROR	helpdesk.nccu.edu
-NOERROR	oemsrvr.nccu.edu
-NOERROR	itunesu.nccu.edu
-NOERROR	purchasingp.nccu.edu
-NOERROR	ssbprod.nccu.edu
-NOERROR	mainsaver2.nccu.edu
-NXDOMAIN	www.nccuonline.nccu.edu
-NXDOMAIN	www.online.nccu.edu
-NOERROR	receive-print2.nccu.edu
-NOERROR	justice.nccu.edu
-NOERROR	nccuportal.nccu.edu
-NXDOMAIN	www.mb-cas1.ad.nccu.edu
-NOERROR	nccu-sftp.ad.nccu.edu
-NOERROR	web-4.ad.nccu.edu
-NOERROR	www.sciencedirect.com.ezproxy.nccu.edu
-NOERROR	saturn1.nccu.edu
-NOERROR	webapps.nccu.edu
-NOERROR	exch-ht1.nccu.edu
-NOERROR	office.nccu.edu
-NOERROR	wpo.acc.nccu.edu
-NXDOMAIN	www.m.nccu.edu
-NOERROR	briteintel.nccu.edu
-NOERROR	eaglepromise.nccu.edu
-NOERROR	lawprinter1.nccu.edu
-NOERROR	lexmark.acc.nccu.edu
-NOERROR	einvoice-test.nccu.edu
-NOERROR	dayofgiving.nccu.edu
-NXDOMAIN	nccu-uccxsub.nccu.edu
-NOERROR	ebooks.aspenlaw.com.ezproxy.nccu.edu
-NOERROR	webfocus.nccu.edu
-NOERROR	beta.nccu.edu
-NOERROR	cis.nccu.edu
-NOERROR	ncculaw.libcal.nccu.edu
-NOERROR	ehsapp.nccu.edu
-NOERROR	csgolddb.nccu.edu
-NOERROR	beta.adp.nccu.edu
-NOERROR	nccu.summon.serialssolutions.com.ezproxy.nccu.edu
-NOERROR	webtest.nccu.edu
-NOERROR	cftest.nccu.edu
-NOERROR	eol-ims.nccu.edu
-NOERROR	sharepoint.nccu.edu
-NOERROR	ecatalog.nccu.edu
-NOERROR	vjp.nccu.edu
-NOERROR	regprinter1.nccu.edu
-NOERROR	sas-01.nccu.edu
-NXDOMAIN	exch01.adpoc.03.poc.nccu.edu
-NOERROR	ssbprod11g.nccu.edu
-NOERROR	library.nccu.edu
-NXDOMAIN	smtp.03.poc.nccu.edu
-NXDOMAIN	www.uccxsub.nccu.edu
-NOERROR	bdm.nccu.edu
-NOERROR	saturnadp.nccu.edu
-NOERROR	myphoto.nccu.edu
-NOERROR	support.ebsco.com.ezproxy.nccu.edu
-NOERROR	docs.eagles.nccu.edu
-NOERROR	ifolder.nccu.edu
-NOERROR	calendar.eagles.nccu.edu
-NXDOMAIN	www.elisa.nccu.edu
-NOERROR	journals.sagepub.com.ezproxy.nccu.edu
-NOERROR	autodiscover.03.poc.nccu.edu
-NOERROR	dc-01.ad.nccu.edu
-NXDOMAIN	www.eaglepromise.nccu.edu
-NXDOMAIN	nccuexpc.nccu.edu
-NOERROR	testweb.nccu.edu
-NXDOMAIN	www.law.nccu.edu
-NOERROR	gohan.ad.nccu.edu
-NOERROR	regprinter6.nccu.edu
-NXDOMAIN	adfs.03.poc.nccu.edu
-NOERROR	alertus.nccu.edu
-NOERROR	cms1.nccu.edu
-NOERROR	eagles.nccu.edu
-NOERROR	sites.eagles.nccu.edu
-NOERROR	search.ebscohost.com.ezproxy.nccu.edu
-NOERROR	srv-2.ad.nccu.edu
-NOERROR	monet.bbri.nccu.edu
-NXDOMAIN	conference-2-standalonecluster75cfe.nccu.edu
-NXDOMAIN	conference-3-standalonecluster75cfe.nccu.edu
-NOERROR	smtp.nccu.edu
-NOERROR	piccolo.ad.nccu.edu
-NOERROR	proxy.nccu.edu
-NOERROR	epsvr01.nccu.edu
-NOERROR	websync.nccu.edu
-NOERROR	webevent.nccu.edu
-NOERROR	shepard.libanswers.nccu.edu
-NOERROR	mediaserver.nccu.edu
-NXDOMAIN	www.ccawireless.campus.nccu.edu
-NOERROR	www.brite.nccu.edu
-NOERROR	eds.b.ebscohost.com.ezproxy.nccu.edu
-NOERROR	www.soe.nccu.edu
-NXDOMAIN	www.thumper.acc.nccu.edu
-NOERROR	mesh.nccu.edu
-NOERROR	autodiscover.nccu.edu
-NOERROR	web-4.nccu.edu
-NOERROR	search-proquest-com.ezproxy.nccu.edu
-NOERROR	my.nccu.edu
-NXDOMAIN	artemis.nccu.edu
-NXDOMAIN	webmail.03.poc.nccu.edu
-NOERROR	law.nccu.edu
-NOERROR	exch-cas1.nccu.edu
-NOERROR	flow04.nccu.edu
-NOERROR	earth.nccu.edu
-NOERROR	mylaw.nccu.edu
-NXDOMAIN	autodiscover.ad.nccu.edu
-NXDOMAIN	envisions.nccu.edu
-NOERROR	nccusas.nccu.edu
-NOERROR	neptune-lo.nccu.edu
-NOERROR	venus.nccu.edu
-NOERROR	friday.nccu.edu
-NOERROR	eaglesonline.nccu.edu
-NXDOMAIN	www.eol.nccu.edu
-NOERROR	inb1-a.nccu.edu
-NOERROR	knuth.cs.nccu.edu
-NOERROR	brite-dbserv.nccu.edu
-NOERROR	thumper.acc.nccu.edu
-NXDOMAIN	www.helpdesk.nccu.edu
-NOERROR	schedule.nccu.edu
-NXDOMAIN	www.gradapply.nccu.edu
-NOERROR	stats2.nccu.edu
-NOERROR	online.nccu.edu
-NOERROR	mail.eagles.nccu.edu
-NXDOMAIN	adfs.01.poc.nccu.edu
-NXDOMAIN	mb-cas2.ad.nccu.edu
-NOERROR	cinderella.nccu.edu
-NOERROR	jobs.nccu.edu
-NOERROR	camanager.nccu.edu
-NOERROR	nccuonline.nccu.edu
-NOERROR	ovidsp.dc2.ovid.com.ezproxy.nccu.edu
-NOERROR	training.nccu.edu
-NOERROR	finaffhp.nccu.edu
-NOERROR	search.proquest.com.ezproxy.nccu.edu
-NOERROR	osrp.nccu.edu
-NXDOMAIN	ccawired.campus.nccu.edu
-NOERROR	briteintel3.nccu.edu
-NXDOMAIN	hc.nccu.edu
-NXDOMAIN	banweb.nccu.edu
-NOERROR	adfs.nccu.edu
-NOERROR	www-nclive-org.ezproxy.nccu.edu
-NOERROR	banprint.nccu.edu
-NOERROR	nps-01.nccu.edu
-NOERROR	gradapply.nccu.edu
-NXDOMAIN	www.business.nccu.edu
-NOERROR	wsa0.nccu.edu
-NXDOMAIN	nccu-uccxpub.nccu.edu
-NXDOMAIN	www.nccuexpc.nccu.edu
-NOERROR	onlinecourse.nccu.edu
-NXDOMAIN	mail.nccuonline.nccu.edu
-NOERROR	test321.nccu.edu
-NOERROR	repis.nccu.edu
-NOERROR	ncculaw.faq.nccu.edu
-NOERROR	kami.nccu.edu
-NXDOMAIN	www.nccu-uccxsub.nccu.edu
-NOERROR	neo.nccu.edu
-SERVFAIL	www.math.nccu.edu
-NOERROR	archibus.nccu.edu
-NOERROR	mba.nccu.edu
-NOERROR	gold-trans.nccu.edu
-NOERROR	rmsadmin.nccu.edu
-NOERROR	spss.nccu.edu
-NOERROR	ims.nccu.edu
-NOERROR	test-mail.nccu.edu
-NOERROR	regcoleman8150.nccu.edu
-NOERROR	cms.nccu.edu
-NOERROR	archives.law.nccu.edu
-NOERROR	repsrv01.nccu.edu
-NOERROR	lawprinter2.nccu.edu
-NXDOMAIN	talias.law.nccu.edu.nccu.edu
-NXDOMAIN	cf-dev.nccu.edu
-NOERROR	ssb01.nccu.edu
-NXDOMAIN	www.nccuexpe.nccu.edu
-NXDOMAIN	exch02.adpoc.03.poc.nccu.edu
-NOERROR	ods.nccu.edu
-NOERROR	3004hp5si.nccu.edu
-NOERROR	ariel.acc.nccu.edu
-NXDOMAIN	oldbambi.nccu.edu
-NOERROR	cisco-lwapp-controller.nccu.edu
-NXDOMAIN	envisions01-test.ad.nccu.edu
-NOERROR	csgold-01.ad.nccu.edu
-NOERROR	eaglespurch.nccu.edu
-NOERROR	webmail-old.nccu.edu
-NXDOMAIN	envisions01.nccu.edu
-NOERROR	web.nccu.edu
-NOERROR	cis2300.nccu.edu
-NOERROR	zy5vx2fl3n.search.serialssolutions.com.ezproxy.nccu.edu
-NOERROR	tableau.nccu.edu
-NOERROR	ldap.nccu.edu
-NOERROR	talias.law.nccu.edu
-NOERROR	newbanner-lo.nccu.edu
-NOERROR	shepard.libguides.nccu.edu
-NOERROR	epsvr02.nccu.edu
-NOERROR	stingar.test.nccu.edu
-NOERROR	www.nclive.org.ezproxy.nccu.edu
-NOERROR	stats.acc.nccu.edu
-NOERROR	m.nccu.edu
-NOERROR	login.ezproxy.nccu.edu
-NOERROR	repsrv01.ad.nccu.edu
-NOERROR	eagleapps.nccu.edu
-NOERROR	direct.nccu.edu
-NOERROR	security.nccu.edu
-NXDOMAIN	intranet.nccu.edu
-NXDOMAIN	webmail.nccuonline.nccu.edu
-NOERROR	ciscoacademy.nccu.edu
-NOERROR	titleiii.nccu.edu
-NXDOMAIN	www.ccawired.campus.nccu.edu
-NOERROR	ovidsp.tx.ovid.com.ezproxy.nccu.edu
-NOERROR	ezproxy.nccu.edu
-NOERROR	dns1.nccu.edu
-NXDOMAIN	www.eaglesonline.nccu.edu
-NXDOMAIN	ccawireless.campus.nccu.edu
-NOERROR	skywalker.nccu.edu
-NOERROR	de.nccu.edu
-NOERROR	support.nccu.edu
-NOERROR	go.galegroup.com.ezproxy.nccu.edu
-NXDOMAIN	uccxpub.nccu.edu
-NOERROR	soeadvisor.nccu.edu
-NOERROR	sles1.nccu.edu
-NOERROR	blackboard6.nccu.edu
-NOERROR	nccu-lawweb3.nccu.edu
-NOERROR	ad.nccu.edu
-NXDOMAIN	eol.nccu.edu
-NXDOMAIN	mb-ht1.ad.nccu.edu
-NOERROR	tv.nccu.edu
-NOERROR	wlan-switch.nccu.edu
-NOERROR	nccucad.nccu.edu
-NOERROR	callpilot.nccu.edu
-NXDOMAIN	dev.online.nccu.edu
-NOERROR	cms.ad.nccu.edu
-NOERROR	regprinter3.nccu.edu
-NOERROR	atlantis.nccu.edu
-NOERROR	nccu.edu
-NOERROR	submissions.nccu.edu
-NXDOMAIN	gwmail.nccu.edu
-NOERROR	netmonitor.nccu.edu
-NOERROR	athena.nccu.edu
-NOERROR	sbi2.nccu.edu
-NOERROR	regprinter8.nccu.edu
-NOERROR	iptvserver1.nccu.edu
-NOERROR	www.cs.nccu.edu
-NOERROR	flow03.nccu.edu
-NXDOMAIN	zenoss.ad.nccu.edu
-NXDOMAIN	www.support.nccu.edu
-NXDOMAIN	webmail.ad.nccu.edu
-NOERROR	caserver.nccu.edu
-NOERROR	onlinehousing.nccu.edu
-NXDOMAIN	www.vpn.nccu.edu
-NOERROR	filelocker.nccu.edu
-NOERROR	regprinter7.nccu.edu
-NOERROR	dailydb-lo.nccu.edu
-NOERROR	gamma.nccu.edu
-NXDOMAIN	nccu-lawrpad.ad.nccu.edu
-NOERROR	5jrxc16j2esk.test.nccu.edu
-NOERROR	test123.nccu.edu
-NOERROR	eres.nccu.edu
-NXDOMAIN	lawmail.nccu.edu
-NOERROR	nccuexpe.nccu.edu
-NOERROR	forms.banner.nccu.edu
-NOERROR	development.nccu.edu
-NOERROR	spdev1.nccu.edu
-NXDOMAIN	msme.nccu.edu
-NXDOMAIN	www.nccu-lawrpad.ad.nccu.edu
-NOERROR	apps.webofknowledge.com.ezproxy.nccu.edu
-NOERROR	testcp.nccu.edu
-NOERROR	webmail.nccu.edu
-NXDOMAIN	uccxsub.nccu.edu
-NOERROR	mb-ht1.nccu.edu
-NOERROR	mars.nccu.edu
-NOERROR	ea-test.nccu.edu
-NOERROR	direct1.nccu.edu
-NOERROR	portalguard.nccu.edu
-NOERROR	einvoice-prod.nccu.edu
-NOERROR	idp-test.nccu.edu
-NOERROR	finaff.nccu.edu
-NOERROR	regprinter5.nccu.edu
-NOERROR	eaglepoint.nccu.edu
-NOERROR	www.soeadvisor.nccu.edu
-NOERROR	owapps.nccu.edu
-NOERROR	avserver.nccu.edu
-NOERROR	des02.nccu.edu
-NOERROR	fod.infobase.com.ezproxy.nccu.edu
-NOERROR	catalog.nccu.edu
-NOERROR	nccusummersessions.nccu.edu
-NOERROR	des01.nccu.edu
-NOERROR	cawireless.nccu.edu
-NOERROR	vim-bbri.nccu.edu
-NOERROR	get-01.nccu.edu
-NXDOMAIN	autodiscover.nccuonline.nccu.edu
-NOERROR	briteintel4.nccu.edu
-NOERROR	eaglebus.nccu.edu
-NOERROR	business.nccu.edu
-NOERROR	regprinter4.nccu.edu
-NXDOMAIN	www.de.nccu.edu
-NXDOMAIN	www.web.nccu.edu
-NOERROR	dns2.nccu.edu
-NOERROR	mynccu-prod.nccu.edu
-NXDOMAIN	www.nccu-uccxpub.nccu.edu
-NOERROR	ccssl.nccu.edu
-NXDOMAIN	www.autodiscover.nccu.edu
-NOERROR	web.b.ebscohost.com.ezproxy.nccu.edu
-NOERROR	drlib.nccu.edu
-NXDOMAIN	zenoss.nccu.edu
-NOERROR	soe-advisor.nccu.edu
-NOERROR	crest.nccu.edu
-NXDOMAIN	cpanel.nccuonline.nccu.edu
-NOERROR	moonlight.acc.nccu.edu
-NOERROR	briteintel2.nccu.edu
-NOERROR	nwserver.fedloans.nccu.edu
-NOERROR	primordial-soup.nccu.edu
-NOERROR	regtrans8150.nccu.edu
-NOERROR	dns02.nccu.edu
-NXDOMAIN	envisions01.ad.nccu.edu
-NOERROR	webvpn.nccu.edu
-NXDOMAIN	www.idp.nccu.edu
-NOERROR	saturn.nccu.edu
-NOERROR	legacy.nccu.edu
-NXDOMAIN	mb-cas1.ad.nccu.edu
-NOERROR	r25-web.ad.nccu.edu
-NXDOMAIN	www.webvpn.nccu.edu
-NXDOMAIN	nccu-appworx1.nccu.edu
-NOERROR	soe.nccu.edu
-NOERROR	meetme.nccu.edu
-NOERROR	dns01.nccu.edu
-NOERROR	pharos-law.nccu.edu
-NXDOMAIN	www.webapps.nccu.edu
-NOERROR	vpn.nccu.edu
-NOERROR	receive-print1.nccu.edu
-NOERROR	overseer.telecom.nccu.edu
-NOERROR	seatgen.nccu.edu
-NOERROR	idp.nccu.edu
-NXDOMAIN	cpcontacts.nccuonline.nccu.edu
-NOERROR	inbprod11g.nccu.edu
-NOERROR	lbtest.nccu.edu
-NOERROR	myeol.nccu.edu
-NOERROR	asist.nccu.edu
-NOERROR	caserverii.nccu.edu
-NOERROR	inb2-a.nccu.edu
-NOERROR	www.jstor.org.ezproxy.nccu.edu
-NXDOMAIN	www.uccxpub.nccu.edu
-NOERROR	bdmtest.nccu.edu
-NOERROR	web.a.ebscohost.com.ezproxy.nccu.edu
-NOERROR	media.proquest.com.ezproxy.nccu.edu
-NOERROR	regprinter2.nccu.edu
-NOERROR	shoutcast.nccu.edu
-NOERROR	nccu-pfile.nccu.edu
-NOERROR	workflow.nccu.edu
-NXDOMAIN	envisions01-test.nccu.edu
-NOERROR	nccu-lawlcweb.nccu.edu
-NOERROR	brite-srv1.nccu.edu
-NOERROR	ilink.nccu.edu
-NOERROR	fileshare.nccu.edu
-NXDOMAIN	www.webmail.nccu.edu
-NOERROR	wsa1.nccu.edu
-NOERROR	sts.03.poc.nccu.edu
-NXDOMAIN	police-h1.ad.nccu.edu
-NOERROR	mail.gtest.nccu.edu
-NOERROR	brite.nccu.edu
-NOERROR	www.acc.nccu.edu
-NXDOMAIN	www.ssbprod.nccu.edu
+ncculaw.libguides.nccu.edu
+sasinschool.nccu.edu
+mail.nccu.edu
+nccussbprod.nccu.edu
+morpheus.nccu.edu
+methods.sagepub.com.ezproxy.nccu.edu
+mynccu-test.nccu.edu
+vcl.nccu.edu
+neptune.nccu.edu
+portalguard-ttt.nccu.edu
+tegrity.nccu.edu
+web-shared.nccu.edu
+esvr01.nccu.edu
+test.idp.nccu.edu
+eds.a.ebscohost.com.ezproxy.nccu.edu
+www.nccu.edu
+dailydb.nccu.edu
+development2.nccu.edu
+bambi.acc.nccu.edu
+helpdesk.nccu.edu
+oemsrvr.nccu.edu
+itunesu.nccu.edu
+purchasingp.nccu.edu
+ssbprod.nccu.edu
+mainsaver2.nccu.edu
+receive-print2.nccu.edu
+justice.nccu.edu
+nccuportal.nccu.edu
+nccu-sftp.ad.nccu.edu
+web-4.ad.nccu.edu
+www.sciencedirect.com.ezproxy.nccu.edu
+saturn1.nccu.edu
+webapps.nccu.edu
+exch-ht1.nccu.edu
+office.nccu.edu
+wpo.acc.nccu.edu
+briteintel.nccu.edu
+eaglepromise.nccu.edu
+lawprinter1.nccu.edu
+lexmark.acc.nccu.edu
+einvoice-test.nccu.edu
+dayofgiving.nccu.edu
+ebooks.aspenlaw.com.ezproxy.nccu.edu
+webfocus.nccu.edu
+beta.nccu.edu
+cis.nccu.edu
+ncculaw.libcal.nccu.edu
+ehsapp.nccu.edu
+csgolddb.nccu.edu
+beta.adp.nccu.edu
+nccu.summon.serialssolutions.com.ezproxy.nccu.edu
+webtest.nccu.edu
+cftest.nccu.edu
+eol-ims.nccu.edu
+sharepoint.nccu.edu
+ecatalog.nccu.edu
+vjp.nccu.edu
+regprinter1.nccu.edu
+sas-01.nccu.edu
+ssbprod11g.nccu.edu
+library.nccu.edu
+bdm.nccu.edu
+saturnadp.nccu.edu
+myphoto.nccu.edu
+support.ebsco.com.ezproxy.nccu.edu
+docs.eagles.nccu.edu
+ifolder.nccu.edu
+calendar.eagles.nccu.edu
+journals.sagepub.com.ezproxy.nccu.edu
+autodiscover.03.poc.nccu.edu
+dc-01.ad.nccu.edu
+testweb.nccu.edu
+gohan.ad.nccu.edu
+regprinter6.nccu.edu
+alertus.nccu.edu
+cms1.nccu.edu
+eagles.nccu.edu
+sites.eagles.nccu.edu
+search.ebscohost.com.ezproxy.nccu.edu
+srv-2.ad.nccu.edu
+monet.bbri.nccu.edu
+smtp.nccu.edu
+piccolo.ad.nccu.edu
+proxy.nccu.edu
+epsvr01.nccu.edu
+websync.nccu.edu
+webevent.nccu.edu
+shepard.libanswers.nccu.edu
+mediaserver.nccu.edu
+www.brite.nccu.edu
+eds.b.ebscohost.com.ezproxy.nccu.edu
+www.soe.nccu.edu
+mesh.nccu.edu
+autodiscover.nccu.edu
+web-4.nccu.edu
+search-proquest-com.ezproxy.nccu.edu
+my.nccu.edu
+law.nccu.edu
+exch-cas1.nccu.edu
+flow04.nccu.edu
+earth.nccu.edu
+mylaw.nccu.edu
+nccusas.nccu.edu
+neptune-lo.nccu.edu
+venus.nccu.edu
+friday.nccu.edu
+eaglesonline.nccu.edu
+inb1-a.nccu.edu
+knuth.cs.nccu.edu
+brite-dbserv.nccu.edu
+thumper.acc.nccu.edu
+schedule.nccu.edu
+stats2.nccu.edu
+online.nccu.edu
+mail.eagles.nccu.edu
+cinderella.nccu.edu
+jobs.nccu.edu
+camanager.nccu.edu
+nccuonline.nccu.edu
+ovidsp.dc2.ovid.com.ezproxy.nccu.edu
+training.nccu.edu
+finaffhp.nccu.edu
+search.proquest.com.ezproxy.nccu.edu
+osrp.nccu.edu
+briteintel3.nccu.edu
+adfs.nccu.edu
+www-nclive-org.ezproxy.nccu.edu
+banprint.nccu.edu
+nps-01.nccu.edu
+gradapply.nccu.edu
+wsa0.nccu.edu
+onlinecourse.nccu.edu
+test321.nccu.edu
+repis.nccu.edu
+ncculaw.faq.nccu.edu
+kami.nccu.edu
+neo.nccu.edu
+archibus.nccu.edu
+mba.nccu.edu
+gold-trans.nccu.edu
+rmsadmin.nccu.edu
+spss.nccu.edu
+ims.nccu.edu
+test-mail.nccu.edu
+regcoleman8150.nccu.edu
+cms.nccu.edu
+archives.law.nccu.edu
+repsrv01.nccu.edu
+lawprinter2.nccu.edu
+ssb01.nccu.edu
+ods.nccu.edu
+3004hp5si.nccu.edu
+ariel.acc.nccu.edu
+cisco-lwapp-controller.nccu.edu
+csgold-01.ad.nccu.edu
+eaglespurch.nccu.edu
+webmail-old.nccu.edu
+web.nccu.edu
+cis2300.nccu.edu
+zy5vx2fl3n.search.serialssolutions.com.ezproxy.nccu.edu
+tableau.nccu.edu
+ldap.nccu.edu
+talias.law.nccu.edu
+newbanner-lo.nccu.edu
+shepard.libguides.nccu.edu
+epsvr02.nccu.edu
+stingar.test.nccu.edu
+www.nclive.org.ezproxy.nccu.edu
+stats.acc.nccu.edu
+m.nccu.edu
+login.ezproxy.nccu.edu
+repsrv01.ad.nccu.edu
+eagleapps.nccu.edu
+direct.nccu.edu
+security.nccu.edu
+ciscoacademy.nccu.edu
+titleiii.nccu.edu
+ovidsp.tx.ovid.com.ezproxy.nccu.edu
+ezproxy.nccu.edu
+dns1.nccu.edu
+skywalker.nccu.edu
+de.nccu.edu
+support.nccu.edu
+go.galegroup.com.ezproxy.nccu.edu
+soeadvisor.nccu.edu
+sles1.nccu.edu
+blackboard6.nccu.edu
+nccu-lawweb3.nccu.edu
+ad.nccu.edu
+tv.nccu.edu
+wlan-switch.nccu.edu
+nccucad.nccu.edu
+callpilot.nccu.edu
+cms.ad.nccu.edu
+regprinter3.nccu.edu
+atlantis.nccu.edu
+nccu.edu
+submissions.nccu.edu
+netmonitor.nccu.edu
+athena.nccu.edu
+sbi2.nccu.edu
+regprinter8.nccu.edu
+iptvserver1.nccu.edu
+www.cs.nccu.edu
+flow03.nccu.edu
+caserver.nccu.edu
+onlinehousing.nccu.edu
+filelocker.nccu.edu
+regprinter7.nccu.edu
+dailydb-lo.nccu.edu
+gamma.nccu.edu
+5jrxc16j2esk.test.nccu.edu
+test123.nccu.edu
+eres.nccu.edu
+nccuexpe.nccu.edu
+forms.banner.nccu.edu
+development.nccu.edu
+spdev1.nccu.edu
+apps.webofknowledge.com.ezproxy.nccu.edu
+testcp.nccu.edu
+webmail.nccu.edu
+mb-ht1.nccu.edu
+mars.nccu.edu
+ea-test.nccu.edu
+direct1.nccu.edu
+portalguard.nccu.edu
+einvoice-prod.nccu.edu
+idp-test.nccu.edu
+finaff.nccu.edu
+regprinter5.nccu.edu
+eaglepoint.nccu.edu
+www.soeadvisor.nccu.edu
+owapps.nccu.edu
+avserver.nccu.edu
+des02.nccu.edu
+fod.infobase.com.ezproxy.nccu.edu
+catalog.nccu.edu
+nccusummersessions.nccu.edu
+des01.nccu.edu
+cawireless.nccu.edu
+vim-bbri.nccu.edu
+get-01.nccu.edu
+briteintel4.nccu.edu
+eaglebus.nccu.edu
+business.nccu.edu
+regprinter4.nccu.edu
+dns2.nccu.edu
+mynccu-prod.nccu.edu
+ccssl.nccu.edu
+web.b.ebscohost.com.ezproxy.nccu.edu
+drlib.nccu.edu
+soe-advisor.nccu.edu
+crest.nccu.edu
+moonlight.acc.nccu.edu
+briteintel2.nccu.edu
+nwserver.fedloans.nccu.edu
+primordial-soup.nccu.edu
+regtrans8150.nccu.edu
+dns02.nccu.edu
+webvpn.nccu.edu
+saturn.nccu.edu
+legacy.nccu.edu
+r25-web.ad.nccu.edu
+soe.nccu.edu
+meetme.nccu.edu
+dns01.nccu.edu
+pharos-law.nccu.edu
+vpn.nccu.edu
+receive-print1.nccu.edu
+overseer.telecom.nccu.edu
+seatgen.nccu.edu
+idp.nccu.edu
+inbprod11g.nccu.edu
+lbtest.nccu.edu
+myeol.nccu.edu
+asist.nccu.edu
+caserverii.nccu.edu
+inb2-a.nccu.edu
+www.jstor.org.ezproxy.nccu.edu
+bdmtest.nccu.edu
+web.a.ebscohost.com.ezproxy.nccu.edu
+media.proquest.com.ezproxy.nccu.edu
+regprinter2.nccu.edu
+shoutcast.nccu.edu
+nccu-pfile.nccu.edu
+workflow.nccu.edu
+nccu-lawlcweb.nccu.edu
+brite-srv1.nccu.edu
+ilink.nccu.edu
+fileshare.nccu.edu
+wsa1.nccu.edu
+sts.03.poc.nccu.edu
+mail.gtest.nccu.edu
+brite.nccu.edu
+www.acc.nccu.edu

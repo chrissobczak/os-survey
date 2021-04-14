@@ -1,3 +1,3 @@
-NOERROR	www.ferpi.dem.ru
-NOERROR	ferpi.dem.ru
-NOERROR	www.ferpi.dem.runwww.ferpi.dem.ru
+www.ferpi.dem.ru
+ferpi.dem.ru
+www.ferpi.dem.runwww.ferpi.dem.ru

@@ -1,6 +1,6 @@
-NOERROR	webmail.westcoastuniversity-edu.com
-NOERROR	www.westcoastuniversity-edu.com
-NOERROR	westcoastuniversity-edu.com
-NOERROR	webdisk.westcoastuniversity-edu.com
-NOERROR	cpanel.westcoastuniversity-edu.com
-NOERROR	mail.westcoastuniversity-edu.com
+webmail.westcoastuniversity-edu.com
+www.westcoastuniversity-edu.com
+westcoastuniversity-edu.com
+webdisk.westcoastuniversity-edu.com
+cpanel.westcoastuniversity-edu.com
+mail.westcoastuniversity-edu.com

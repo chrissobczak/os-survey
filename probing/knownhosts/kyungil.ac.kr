@@ -1,218 +1,146 @@
-SERVFAIL	www.kyungil.ac.kr
-NOERROR	canvas.kiu.ac.kr
-NOERROR	ray.kiu.ac.kr
-NXDOMAIN	ti.kiu.ac.kr
-NOERROR	victim.kiu.ac.kr
-NOERROR	netadmin.kiu.ac.kr
-NOERROR	early.kiu.ac.kr
-NOERROR	ist.kiu.ac.kr
-NOERROR	kiuslo.kiu.ac.kr
-NXDOMAIN	lab.kiu.ac.kr
-NOERROR	jpi.kiu.ac.kr
-NOERROR	academy.kiu.ac.kr
-NOERROR	data.kiu.ac.kr
-NXDOMAIN	honey.kiu.ac.kr
-NOERROR	kollabo.kiu.ac.kr
-NXDOMAIN	crafts.kiu.ac.kr
-NOERROR	janghak.kiu.ac.kr
-NXDOMAIN	mad.kiu.ac.kr
-NOERROR	security.kiu.ac.kr
-NXDOMAIN	lc.kiu.ac.kr
-NXDOMAIN	bisdn.kiu.ac.kr
-NOERROR	airline.kiu.ac.kr
-NOERROR	abeek.kiu.ac.kr
-NOERROR	chatbot.kiu.ac.kr
-NXDOMAIN	invit.kiu.ac.kr
-NOERROR	fl.kiu.ac.kr
-NXDOMAIN	interior.kiu.ac.kr
-NXDOMAIN	macs.kiu.ac.kr
-NOERROR	actric.kiu.ac.kr
-NXDOMAIN	ie.kiu.ac.kr
-NXDOMAIN	eccon.kiu.ac.kr
-NOERROR	kiuphoto.kiu.ac.kr
-NXDOMAIN	hti.kiu.ac.kr
-NXDOMAIN	chinese.kiu.ac.kr
-NXDOMAIN	elcon.kiu.ac.kr
-NOERROR	cyber.kiu.ac.kr
-NOERROR	gtradeb.kiu.ac.kr
-NOERROR	pa.kiu.ac.kr
-NOERROR	gift.kiu.ac.kr
-NXDOMAIN	inb.kiu.ac.kr
-NOERROR	business.kiu.ac.kr
-NOERROR	arch.kiu.ac.kr
-NOERROR	grad3.kiu.ac.kr
-NOERROR	webhard1.kiu.ac.kr
-NOERROR	lles.kiu.ac.kr
-NOERROR	webhard.kiu.ac.kr
-NOERROR	fire.kiu.ac.kr
-NOERROR	dormi.kiu.ac.kr
-NOERROR	bizb.kiu.ac.kr
-NOERROR	computer.kiu.ac.kr
-NXDOMAIN	www.km.kiu.ac.kr
-NOERROR	ae.kiu.ac.kr
-NOERROR	k-beauty.kiu.ac.kr
-NOERROR	cham.kiu.ac.kr
-NXDOMAIN	bkh.kiu.ac.kr
-NOERROR	fs.kiu.ac.kr
-NOERROR	finance.kiu.ac.kr
-NOERROR	kiumaker.kiu.ac.kr
-NXDOMAIN	ceo.kiu.ac.kr
-NOERROR	sugang.kiu.ac.kr
-NOERROR	portal.kiu.ac.kr
-NXDOMAIN	tax.kiu.ac.kr
-NOERROR	honors.kiu.ac.kr
-NOERROR	kicom.kiu.ac.kr
-NOERROR	biz.kiu.ac.kr
-NOERROR	ee.kiu.ac.kr
-NOERROR	www.kiu.ac.kr
-NOERROR	gamaipsi.kiu.ac.kr
-NXDOMAIN	cng.kiu.ac.kr
-NOERROR	lms.kiu.ac.kr
-NXDOMAIN	textiles.kiu.ac.kr
-NOERROR	gamaweb.kiu.ac.kr
-NXDOMAIN	newmat.kiu.ac.kr
-NXDOMAIN	virus.kiu.ac.kr
-NOERROR	gdpc.kiu.ac.kr
-NOERROR	klcyber.kiu.ac.kr
-NOERROR	dmd.kiu.ac.kr
-NOERROR	electrical.kiu.ac.kr
-NXDOMAIN	m.kiu.ac.kr
-NXDOMAIN	advmat.kiu.ac.kr
-NOERROR	drone.kiu.ac.kr
-NOERROR	ai-soft.kiu.ac.kr
-NOERROR	sas.kiu.ac.kr
-NOERROR	udm.kiu.ac.kr
-NXDOMAIN	beta.kiu.ac.kr
-NOERROR	sw.kiu.ac.kr
-NOERROR	med.kiu.ac.kr
-NOERROR	home.kiu.ac.kr
-NXDOMAIN	we.kiu.ac.kr
-NXDOMAIN	it.kiu.ac.kr
-NOERROR	archi.kiu.ac.kr
-NOERROR	iacf.kiu.ac.kr
-NOERROR	kiumy.kiu.ac.kr
-NOERROR	sanhak.kiu.ac.kr
-NOERROR	research.kiu.ac.kr
-NOERROR	electrail.kiu.ac.kr
-NOERROR	ccls.kiu.ac.kr
-NOERROR	bear.kiu.ac.kr
-NXDOMAIN	gamapush.kiu.ac.kr
-NOERROR	woongbi.kiu.ac.kr
-NOERROR	stu.kiu.ac.kr
-NXDOMAIN	display.kiu.ac.kr
-NXDOMAIN	web.kiu.ac.kr
-NOERROR	sports.kiu.ac.kr
-NOERROR	wipsi.kiu.ac.kr
-NOERROR	ce.kiu.ac.kr
-NXDOMAIN	www.intra2.kiu.ac.kr
-NXDOMAIN	ctrl.kiu.ac.kr
-NOERROR	comicani.kiu.ac.kr
-NXDOMAIN	hope.kiu.ac.kr
-NXDOMAIN	mlit.kiu.ac.kr
-NOERROR	kiuhrc.kiu.ac.kr
-NXDOMAIN	paom.kiu.ac.kr
-NXDOMAIN	jobs.kiu.ac.kr
-NOERROR	eng.kiu.ac.kr
-NOERROR	police.kiu.ac.kr
-NOERROR	kiudormi.kiu.ac.kr
-NOERROR	mobility.kiu.ac.kr
-NOERROR	creative.kiu.ac.kr
-NOERROR	alumni.kiu.ac.kr
-NOERROR	gtrade.kiu.ac.kr
-NOERROR	social.kiu.ac.kr
-NOERROR	design.kiu.ac.kr
-NXDOMAIN	ma.kiu.ac.kr
-NXDOMAIN	pharmeng.kiu.ac.kr
-NOERROR	elect.kiu.ac.kr
-NOERROR	sms.kiu.ac.kr
-NOERROR	beauty.kiu.ac.kr
-NOERROR	service.kiu.ac.kr
-NXDOMAIN	gamma.kiu.ac.kr
-NOERROR	beautyfashion.kiu.ac.kr
-NOERROR	bi.kiu.ac.kr
-NXDOMAIN	crash.kiu.ac.kr
-NXDOMAIN	cevod.kiu.ac.kr
-NXDOMAIN	www2.kiu.ac.kr
-NXDOMAIN	ketsmeet.kiu.ac.kr
-NOERROR	kiuipsi.kiu.ac.kr
-NXDOMAIN	japanese.kiu.ac.kr
-NOERROR	aging.kiu.ac.kr
-NOERROR	ceon.kiu.ac.kr
-NOERROR	motion.kiu.ac.kr
-NOERROR	geosat.kiu.ac.kr
-NXDOMAIN	mr.kiu.ac.kr
-NOERROR	fusione.kiu.ac.kr
-NOERROR	gamasso.kiu.ac.kr
-NOERROR	nre.kiu.ac.kr
-NOERROR	idea.kiu.ac.kr
-NXDOMAIN	fim.kiu.ac.kr
-NOERROR	english.kiu.ac.kr
-NOERROR	push.kiu.ac.kr
-NOERROR	cartoonani.kiu.ac.kr
-NOERROR	icee.kiu.ac.kr
-NXDOMAIN	acei.kiu.ac.kr
-NXDOMAIN	kiuce.kiu.ac.kr
-NXDOMAIN	erp.kiu.ac.kr
-NXDOMAIN	rail.kiu.ac.kr
-NOERROR	ibsi.kiu.ac.kr
-NOERROR	edudev.kiu.ac.kr
-NOERROR	bridge.kiu.ac.kr
-NXDOMAIN	www.gamaweb.kiu.ac.kr
-NOERROR	ck.kiu.ac.kr
-NXDOMAIN	sunee.kiu.ac.kr
-NOERROR	eduinv.kiu.ac.kr
-NXDOMAIN	ad.kiu.ac.kr
-NXDOMAIN	hdm.kiu.ac.kr
-NXDOMAIN	lifenet.kiu.ac.kr
-NOERROR	kiumia.kiu.ac.kr
-NOERROR	km.kiu.ac.kr
-NOERROR	ctl.kiu.ac.kr
-NOERROR	kiu.ac.kr
-NOERROR	railway.kiu.ac.kr
-NOERROR	robot.kiu.ac.kr
-NOERROR	dgedu.kiu.ac.kr
-NOERROR	trade.kiu.ac.kr
-NOERROR	chemeng.kiu.ac.kr
-NOERROR	rec.kiu.ac.kr
-NOERROR	nursing.kiu.ac.kr
-NOERROR	food.kiu.ac.kr
-NOERROR	gamagol.kiu.ac.kr
-NOERROR	hrd.kiu.ac.kr
-NOERROR	dgec.kiu.ac.kr
-NXDOMAIN	swim.kiu.ac.kr
-NOERROR	cmaker.kiu.ac.kr
-NOERROR	intra.kiu.ac.kr
-NOERROR	bs.kiu.ac.kr
-NOERROR	financeb.kiu.ac.kr
-NOERROR	pt.kiu.ac.kr
-NOERROR	mcyber.kiu.ac.kr
-NOERROR	linc.kiu.ac.kr
-NOERROR	klife.kiu.ac.kr
-NXDOMAIN	schoolcie.kiu.ac.kr
-NOERROR	grad.kiu.ac.kr
-NOERROR	writing.kiu.ac.kr
-NXDOMAIN	rdi.kiu.ac.kr
-NOERROR	ns2.kiu.ac.kr
-NOERROR	mae.kiu.ac.kr
-NOERROR	civil.kiu.ac.kr
-NOERROR	intra2.kiu.ac.kr
-NOERROR	abeekdb.kiu.ac.kr
-NOERROR	fsri.kiu.ac.kr
-NOERROR	lae.kiu.ac.kr
-NOERROR	kiucc.kiu.ac.kr
-NXDOMAIN	photo.kiu.ac.kr
-NOERROR	kiusugang.kiu.ac.kr
-NOERROR	rule.kiu.ac.kr
-NXDOMAIN	irfle.kiu.ac.kr
-NXDOMAIN	et.kiu.ac.kr
-NOERROR	pass.kiu.ac.kr
-NXDOMAIN	special.kiu.ac.kr
-NOERROR	emt.kiu.ac.kr
-NXDOMAIN	tb.kiu.ac.kr
-NXDOMAIN	fdit.kiu.ac.kr
-NOERROR	grad2.kiu.ac.kr
-NXDOMAIN	klgs.kiu.ac.kr
-NXDOMAIN	chemi.kiu.ac.kr
-NXDOMAIN	chs.kiu.ac.kr
-NXDOMAIN	ile.kiu.ac.kr
-NXDOMAIN	sigma.kiu.ac.kr
+canvas.kiu.ac.kr
+ray.kiu.ac.kr
+victim.kiu.ac.kr
+netadmin.kiu.ac.kr
+early.kiu.ac.kr
+ist.kiu.ac.kr
+kiuslo.kiu.ac.kr
+jpi.kiu.ac.kr
+academy.kiu.ac.kr
+data.kiu.ac.kr
+kollabo.kiu.ac.kr
+janghak.kiu.ac.kr
+security.kiu.ac.kr
+airline.kiu.ac.kr
+abeek.kiu.ac.kr
+chatbot.kiu.ac.kr
+fl.kiu.ac.kr
+actric.kiu.ac.kr
+kiuphoto.kiu.ac.kr
+cyber.kiu.ac.kr
+gtradeb.kiu.ac.kr
+pa.kiu.ac.kr
+gift.kiu.ac.kr
+business.kiu.ac.kr
+arch.kiu.ac.kr
+grad3.kiu.ac.kr
+webhard1.kiu.ac.kr
+lles.kiu.ac.kr
+webhard.kiu.ac.kr
+fire.kiu.ac.kr
+dormi.kiu.ac.kr
+bizb.kiu.ac.kr
+computer.kiu.ac.kr
+ae.kiu.ac.kr
+k-beauty.kiu.ac.kr
+cham.kiu.ac.kr
+fs.kiu.ac.kr
+finance.kiu.ac.kr
+kiumaker.kiu.ac.kr
+sugang.kiu.ac.kr
+portal.kiu.ac.kr
+honors.kiu.ac.kr
+kicom.kiu.ac.kr
+biz.kiu.ac.kr
+ee.kiu.ac.kr
+www.kiu.ac.kr
+gamaipsi.kiu.ac.kr
+lms.kiu.ac.kr
+gamaweb.kiu.ac.kr
+gdpc.kiu.ac.kr
+klcyber.kiu.ac.kr
+dmd.kiu.ac.kr
+electrical.kiu.ac.kr
+drone.kiu.ac.kr
+ai-soft.kiu.ac.kr
+sas.kiu.ac.kr
+udm.kiu.ac.kr
+sw.kiu.ac.kr
+med.kiu.ac.kr
+home.kiu.ac.kr
+archi.kiu.ac.kr
+iacf.kiu.ac.kr
+kiumy.kiu.ac.kr
+sanhak.kiu.ac.kr
+research.kiu.ac.kr
+electrail.kiu.ac.kr
+ccls.kiu.ac.kr
+bear.kiu.ac.kr
+woongbi.kiu.ac.kr
+stu.kiu.ac.kr
+sports.kiu.ac.kr
+wipsi.kiu.ac.kr
+ce.kiu.ac.kr
+comicani.kiu.ac.kr
+kiuhrc.kiu.ac.kr
+eng.kiu.ac.kr
+police.kiu.ac.kr
+kiudormi.kiu.ac.kr
+mobility.kiu.ac.kr
+creative.kiu.ac.kr
+alumni.kiu.ac.kr
+gtrade.kiu.ac.kr
+social.kiu.ac.kr
+design.kiu.ac.kr
+elect.kiu.ac.kr
+sms.kiu.ac.kr
+beauty.kiu.ac.kr
+service.kiu.ac.kr
+beautyfashion.kiu.ac.kr
+bi.kiu.ac.kr
+kiuipsi.kiu.ac.kr
+aging.kiu.ac.kr
+ceon.kiu.ac.kr
+motion.kiu.ac.kr
+geosat.kiu.ac.kr
+fusione.kiu.ac.kr
+gamasso.kiu.ac.kr
+nre.kiu.ac.kr
+idea.kiu.ac.kr
+english.kiu.ac.kr
+push.kiu.ac.kr
+cartoonani.kiu.ac.kr
+icee.kiu.ac.kr
+ibsi.kiu.ac.kr
+edudev.kiu.ac.kr
+bridge.kiu.ac.kr
+ck.kiu.ac.kr
+eduinv.kiu.ac.kr
+kiumia.kiu.ac.kr
+km.kiu.ac.kr
+ctl.kiu.ac.kr
+kiu.ac.kr
+railway.kiu.ac.kr
+robot.kiu.ac.kr
+dgedu.kiu.ac.kr
+trade.kiu.ac.kr
+chemeng.kiu.ac.kr
+rec.kiu.ac.kr
+nursing.kiu.ac.kr
+food.kiu.ac.kr
+gamagol.kiu.ac.kr
+hrd.kiu.ac.kr
+dgec.kiu.ac.kr
+cmaker.kiu.ac.kr
+intra.kiu.ac.kr
+bs.kiu.ac.kr
+financeb.kiu.ac.kr
+pt.kiu.ac.kr
+mcyber.kiu.ac.kr
+linc.kiu.ac.kr
+klife.kiu.ac.kr
+grad.kiu.ac.kr
+writing.kiu.ac.kr
+ns2.kiu.ac.kr
+mae.kiu.ac.kr
+civil.kiu.ac.kr
+intra2.kiu.ac.kr
+abeekdb.kiu.ac.kr
+fsri.kiu.ac.kr
+lae.kiu.ac.kr
+kiucc.kiu.ac.kr
+kiusugang.kiu.ac.kr
+rule.kiu.ac.kr
+pass.kiu.ac.kr
+emt.kiu.ac.kr
+grad2.kiu.ac.kr

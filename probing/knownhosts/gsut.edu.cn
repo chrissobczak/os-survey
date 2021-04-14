@@ -1,23 +1,3 @@
-NXDOMAIN	procom.lib.gsut.edu.cn
-NXDOMAIN	mail1.gsut.edu.cn
-NOERROR	dns.gsut.edu.cn
-NXDOMAIN	proxy.gsut.edu.cn
-NXDOMAIN	server.lib.gsut.edu.cn
-NXDOMAIN	www1.gsut.edu.cn
-NOERROR	ns2.gsut.edu.cn
-NXDOMAIN	vod.gsut.edu.cn
-NXDOMAIN	jitong.gsut.edu.cn
-NXDOMAIN	cisco.gsut.edu.cn
-NXDOMAIN	ftp.gsut.edu.cn
-NXDOMAIN	netacad.gsut.edu.cn
-NXDOMAIN	jpkc.gsut.edu.cn
-NXDOMAIN	oas.gsut.edu.cn
-NXDOMAIN	gdkj.gsut.edu.cn
-NXDOMAIN	media.gsut.edu.cn
-NXDOMAIN	sql.gsut.edu.cn
-NXDOMAIN	jiaowu.gsut.edu.cn
-NXDOMAIN	gsmie.gsut.edu.cn
-NOERROR	www.gsut.edu.cn
-NXDOMAIN	ge.gsut.edu.cn
-NXDOMAIN	mail.gsut.edu.cn
-NXDOMAIN	www.lib.gsut.edu.cn
+dns.gsut.edu.cn
+ns2.gsut.edu.cn
+www.gsut.edu.cn

@@ -1,37 +1,27 @@
-NOERROR	erpnext.ujmd.edu.sv
-NOERROR	uvirtualbk.ujmd.edu.sv
-NOERROR	cdmype.ujmd.edu.sv
-NOERROR	laboratoriosonline.ujmd.edu.sv
-NXDOMAIN	ns.ujmd.edu.sv
-NXDOMAIN	portales.ujmd.edu.sv
-NOERROR	aulasvirtuales.ujmd.edu.sv
-NOERROR	admisiones.ujmd.edu.sv
-NOERROR	webquery.ujmd.edu.sv
-NXDOMAIN	iel.ujmd.edu.sv
-NXDOMAIN	itportaltest.ujmd.edu.sv
-NXDOMAIN	webmatias.ujmd.edu.sv
-NOERROR	checkout.ujmd.edu.sv
-NOERROR	formacionc.ujmd.edu.sv
-NOERROR	uvirtual.ujmd.edu.sv
-NOERROR	conscius3.ujmd.edu.sv
-NOERROR	www.conscius.ujmd.edu.sv
-NOERROR	iij.ujmd.edu.sv
-NOERROR	correo.ujmd.edu.sv
-NOERROR	conscius.ujmd.edu.sv
-NXDOMAIN	sied.ujmd.edu.sv
-NOERROR	www.ujmd.edu.sv
-NOERROR	biblioteca.ujmd.edu.sv
-NXDOMAIN	www.webquery.ujmd.edu.sv
-NOERROR	itportal.ujmd.edu.sv
-NOERROR	proyeccionsocial.ujmd.edu.sv
-NOERROR	email.ujmd.edu.sv
-NOERROR	beneficios.ujmd.edu.sv
-NOERROR	conscius2.ujmd.edu.sv
-NOERROR	medicinapaliativa.ujmd.edu.sv
-NOERROR	cich.ujmd.edu.sv
-NXDOMAIN	aula99.ujmd.edu.sv
-NXDOMAIN	revistaselectronicas.ujmd.edu.sv
-NXDOMAIN	inscripcion.ujmd.edu.sv
-NOERROR	rrhh.ujmd.edu.sv
-NOERROR	ujmd.edu.sv
-NOERROR	cemprende.ujmd.edu.sv
+erpnext.ujmd.edu.sv
+uvirtualbk.ujmd.edu.sv
+cdmype.ujmd.edu.sv
+laboratoriosonline.ujmd.edu.sv
+aulasvirtuales.ujmd.edu.sv
+admisiones.ujmd.edu.sv
+webquery.ujmd.edu.sv
+checkout.ujmd.edu.sv
+formacionc.ujmd.edu.sv
+uvirtual.ujmd.edu.sv
+conscius3.ujmd.edu.sv
+www.conscius.ujmd.edu.sv
+iij.ujmd.edu.sv
+correo.ujmd.edu.sv
+conscius.ujmd.edu.sv
+www.ujmd.edu.sv
+biblioteca.ujmd.edu.sv
+itportal.ujmd.edu.sv
+proyeccionsocial.ujmd.edu.sv
+email.ujmd.edu.sv
+beneficios.ujmd.edu.sv
+conscius2.ujmd.edu.sv
+medicinapaliativa.ujmd.edu.sv
+cich.ujmd.edu.sv
+rrhh.ujmd.edu.sv
+ujmd.edu.sv
+cemprende.ujmd.edu.sv

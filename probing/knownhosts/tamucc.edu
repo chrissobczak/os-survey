@@ -1,2768 +1,2174 @@
-NOERROR	dynsec-efr9-5.tamucc.edu
-NOERROR	dynsec-efr10-152.tamucc.edu
-NOERROR	dynsec-efr9-103.tamucc.edu
-NOERROR	dynsec-efr9-170.tamucc.edu
-NXDOMAIN	sandy.ad.tamucc.edu
-NOERROR	dynsec-efr11-156.tamucc.edu
-NOERROR	eventmgmt.tamucc.edu
-NOERROR	dynsec-efr7-188.tamucc.edu
-NOERROR	www.esci.tamucc.edu
-NOERROR	sss.tamucc.edu
-NOERROR	dynsec-efr9-239.tamucc.edu
-NXDOMAIN	triosss.tamucc.edu
-NOERROR	owa.tamucc.edu
-NOERROR	hybrid01.tamucc.edu
-NOERROR	sanddollars.tamucc.edu
-NOERROR	budget.tamucc.edu
-NOERROR	dynsec-efr7-33.tamucc.edu
-NXDOMAIN	rhs-cc06.mgmt.tamucc.edu
-NXDOMAIN	dns.cbi.tamucc.edu
-NOERROR	dynsec-efr7-60.tamucc.edu
-NOERROR	dynsec-efr10-208.tamucc.edu
-NOERROR	distance-education.tamucc.edu
-NOERROR	dynsec-efr8-140.tamucc.edu
-NOERROR	dynsec-efr6-42.tamucc.edu
-NXDOMAIN	bss3-prod.tamucc.edu
-NOERROR	ell.tamucc.edu
-NOERROR	confluence.lb.tamucc.edu
-NOERROR	dynsec-efr10-57.tamucc.edu
-NOERROR	dynsec-efr9-66.tamucc.edu
-NXDOMAIN	openldap.tamucc.edu
-NOERROR	dynsec-efr6-211.tamucc.edu
-NOERROR	dc01.tamucc.edu
-NOERROR	dynsec-efr8-168.tamucc.edu
-NXDOMAIN	tamucc-apic3-cimc.tamucc.edu
-NOERROR	cardinal.tamucc.edu
-NOERROR	dynsec-efr10-115.tamucc.edu
-NOERROR	art.tamucc.edu
-NOERROR	dynsec-efr8-109.tamucc.edu
-NOERROR	dynsec-efr9-110.tamucc.edu
-NXDOMAIN	rhs-cc09.mgmt.tamucc.edu
-NXDOMAIN	seccam06.ad.tamucc.edu
-NOERROR	dynsec-efr8-71.tamucc.edu
-NOERROR	dynsec-efr10-172.tamucc.edu
-NOERROR	dynsec-efr11-171.tamucc.edu
-NOERROR	dynsec-efr6-244.tamucc.edu
-NOERROR	construction-cam.tamucc.edu
-NOERROR	dynsec-efr7-153.tamucc.edu
-NOERROR	dynsec-efr7-165.tamucc.edu
-NOERROR	webmail.lb.tamucc.edu
-NXDOMAIN	rdgateway03.ad.tamucc.edu
-NXDOMAIN	cbi-nas.tamucc.edu
-NOERROR	txvsn.tamucc.edu
-NOERROR	remotehelp.tamucc.edu
-NOERROR	dynsec-efr7-40.tamucc.edu
-NOERROR	dynsec-efr11-111.tamucc.edu
-NXDOMAIN	tc-ucs-sub1.tamucc.edu
-NOERROR	dynsec-efr10-108.tamucc.edu
-NXDOMAIN	overcloud.tamucc.edu
-NOERROR	spa.tamucc.edu
-NOERROR	myisland.tamucc.edu
-NXDOMAIN	redmine.tamucc.edu
-NOERROR	dynsec-efr11-252.tamucc.edu
-NXDOMAIN	laserficheforms.ad.tamucc.edu
-NXDOMAIN	idp-proxy-sa.tamucc.edu
-NXDOMAIN	ns-fi-6332.tamucc.edu
-NXDOMAIN	formfusiontest.tamucc.edu
-NXDOMAIN	ostack-gpu03.mgmt.tamucc.edu
-NOERROR	dynsec-efr6-216.tamucc.edu
-NXDOMAIN	idm-gig1-dire.ad.tamucc.edu
-NOERROR	dynsec-efr8-121.tamucc.edu
-NOERROR	idp.tamucc.edu
-NOERROR	dynsec-efr10-105.tamucc.edu
-NOERROR	dynsec-efr9-208.tamucc.edu
-NOERROR	omeka.tamucc.edu
-NOERROR	dynsec-efr7-183.tamucc.edu
-NOERROR	dynsec-efr11-41.tamucc.edu
-NOERROR	branches.proto.cbi.tamucc.edu
-NOERROR	dynsec-efr9-243.tamucc.edu
-NOERROR	dynsec-efr8-112.tamucc.edu
-NOERROR	xdomes.tamucc.edu
-NXDOMAIN	ipam.tamucc.edu
-NOERROR	dynsec-efr7-150.tamucc.edu
-NOERROR	dynsec-efr10-145.tamucc.edu
-NOERROR	dynsec-efr7-221.tamucc.edu
-NOERROR	dynsec-efr9-251.tamucc.edu
-NOERROR	mail.tamucc.edu
-NOERROR	dynsec-efr9-58.tamucc.edu
-NOERROR	dynsec-efr7-156.tamucc.edu
-NXDOMAIN	adobeust.tamucc.edu
-NOERROR	transferguides.tamucc.edu
-NOERROR	dynsec-efr6-240.tamucc.edu
-NOERROR	dynsec-efr9-204.tamucc.edu
-NOERROR	dynsec-efr9-93.tamucc.edu
-NOERROR	dynsec-efr8-154.tamucc.edu
-NXDOMAIN	alertus02.ad.tamucc.edu
-NOERROR	pkp.tamucc.edu
-NXDOMAIN	idm-gig2-test.ad.tamucc.edu
-NOERROR	dynsec-efr9-190.tamucc.edu
-NOERROR	rhsat.tamucc.edu
-NOERROR	dynsec-efr9-138.tamucc.edu
-NOERROR	dynsec-efr10-149.tamucc.edu
-NOERROR	lighthouse.tamucc.edu
-NOERROR	dynsec-efr8-45.tamucc.edu
-NXDOMAIN	idm-shib-prod-cc.tamucc.edu
-NOERROR	students.tamucc.edu
-NOERROR	dynsec-efr11-66.tamucc.edu
-NOERROR	dynsec-efr7-145.tamucc.edu
-NOERROR	dynsec-efr10-38.tamucc.edu
-NXDOMAIN	idp-shib-prod.tamucc.edu
-NOERROR	dynsec-efr7-148.tamucc.edu
-NOERROR	dynsec-efr10-52.tamucc.edu
-NOERROR	dynsec-efr10-77.tamucc.edu
-NXDOMAIN	argos-dev.tamucc.edu
-NXDOMAIN	idm-identity-prod.tamucc.edu
-NXDOMAIN	idm-cas-mgr-test.tamucc.edu
-NOERROR	international.tamucc.edu
-NXDOMAIN	axiom-test.tamucc.edu
-NOERROR	portal.cs.tamucc.edu
-NOERROR	gomaportal.tamucc.edu
-NOERROR	ssrc.tamucc.edu
-NOERROR	unet-019.tamucc.edu
-NOERROR	dynsec-efr8-21.tamucc.edu
-NXDOMAIN	edw-reports01.tamucc.edu
-NOERROR	dynsec-efr9-88.tamucc.edu
-NOERROR	agiloft-test.tamucc.edu
-NOERROR	dynsec-efr6-111.tamucc.edu
-NOERROR	dynsec-efr10-212.tamucc.edu
-NOERROR	dynsec-efr8-97.tamucc.edu
-NOERROR	ssb-prod.tamucc.edu
-NOERROR	dynsec-efr9-105.tamucc.edu
-NOERROR	passwords.tamucc.edu
-NOERROR	dynsec-efr9-182.tamucc.edu
-NOERROR	dynsec-efr7-127.tamucc.edu
-NOERROR	dynsec-efr7-3.tamucc.edu
-NOERROR	ucoll.tamucc.edu
-NOERROR	lsamp.tamucc.edu
-NOERROR	dynsec-efr7-70.tamucc.edu
-NXDOMAIN	laserfichewa.ad.tamucc.edu
-NOERROR	dynsec-efr7-12.tamucc.edu
-NOERROR	listserv1.tamucc.edu
-NOERROR	dynsec-efr8-231.tamucc.edu
-NXDOMAIN	apc.tamucc.edu
-NOERROR	dynsec-efr11-78.tamucc.edu
-NOERROR	dynsec-efr11-49.tamucc.edu
-NOERROR	summercamps.tamucc.edu
-NOERROR	dynsec-efr7-144.tamucc.edu
-NOERROR	dynsec-efr6-185.tamucc.edu
-NOERROR	sci-apps2.tamucc.edu
-NOERROR	dynsec-efr11-95.tamucc.edu
-NOERROR	rpmserver.tamucc.edu
-NXDOMAIN	prospect.tamucc.edu
-NOERROR	hdvob.tamucc.edu
-NXDOMAIN	onbt-cc.tamucc.edu
-NOERROR	isc.tamucc.edu
-NXDOMAIN	laserfiche.ad.tamucc.edu
-NXDOMAIN	ods-dev.tamucc.edu
-NOERROR	dynsec-efr10-47.tamucc.edu
-NOERROR	hulab.tamucc.edu
-NXDOMAIN	idm-shib2-test.tamucc.edu
-NXDOMAIN	sassafras.ad.tamucc.edu
-NXDOMAIN	hpcm.mgmt.tamucc.edu
-NOERROR	dynsec-efr11-57.tamucc.edu
-NOERROR	gulfhub.tamucc.edu
-NOERROR	wsesg1-2.tamucc.edu
-NXDOMAIN	bb.tamucc.edu
-NOERROR	dynsec-efr9-111.tamucc.edu
-NXDOMAIN	www2.tamucc.edu
-NXDOMAIN	idm-ldap1-prod.tamucc.edu
-NXDOMAIN	vcenter-sa-srm.tamucc.edu
-NXDOMAIN	idm-db1-dire.tamucc.edu
-NOERROR	sociology.tamucc.edu
-NXDOMAIN	titlev.tamucc.edu
-NOERROR	bi.tamucc.edu
-NXDOMAIN	vrealize.tamucc.edu
-NOERROR	career-services.tamucc.edu
-NOERROR	dynsec-efr10-14.tamucc.edu
-NOERROR	wc-227-50975.tamucc.edu
-NOERROR	dynsec-efr10-65.tamucc.edu
-NOERROR	dynsec-efr6-166.tamucc.edu
-NXDOMAIN	idm-gig1-test.ad.tamucc.edu
-NOERROR	faculty.tamucc.edu
-NOERROR	finance-and-administration.tamucc.edu
-NOERROR	dynsec-efr9-119.tamucc.edu
-NOERROR	dynsec-efr10-159.tamucc.edu
-NOERROR	cnep-ctc-schedule.tamucc.edu
-NXDOMAIN	microsapp.tamucc.edu
-NOERROR	dynsec-efr10-82.tamucc.edu
-NOERROR	dynsec-efr6-198.tamucc.edu
-NOERROR	dynsec-efr10-107.tamucc.edu
-NOERROR	hybrid3.tamucc.edu
-NOERROR	dynsec-efr8-50.tamucc.edu
-NOERROR	dynsec-efr9-211.tamucc.edu
-NOERROR	fh-104-56770.tamucc.edu
-NOERROR	dynsec-efr11-200.tamucc.edu
-NOERROR	lidar.tamucc.edu
-NOERROR	dynsec-efr8-160.tamucc.edu
-NOERROR	dynsec-efr9-132.tamucc.edu
-NOERROR	dynsec-efr6-154.tamucc.edu
-NOERROR	dynsec-efr8-188.tamucc.edu
-NOERROR	artnews.tamucc.edu
-NOERROR	hri.tamucc.edu
-NXDOMAIN	cas01.tamucc.edu
-NOERROR	dynsec-efr11-91.tamucc.edu
-NOERROR	academicaffairs.tamucc.edu
-NXDOMAIN	ucs-sa-6332-a.tamucc.edu
-NOERROR	dynsec-efr6-115.tamucc.edu
-NOERROR	dynsec-efr8-197.tamucc.edu
-NOERROR	dynsec-efr7-158.tamucc.edu
-NXDOMAIN	idm-db.tamucc.edu
-NOERROR	dynsec-efr11-166.tamucc.edu
-NXDOMAIN	ns-fmc.tamucc.edu
-NOERROR	facultyombuds.tamucc.edu
-NOERROR	ccbay.tamucc.edu
-NOERROR	dynsec-efr10-56.tamucc.edu
-NXDOMAIN	lansweeper.tamucc.edu
-NOERROR	dynsec-efr8-111.tamucc.edu
-NOERROR	dynsec-efr9-112.tamucc.edu
-NOERROR	dynsec-efr8-215.tamucc.edu
-NOERROR	dynsec-efr8-0.tamucc.edu
-NOERROR	dynsec-efr9-16.tamucc.edu
-NOERROR	dynsec-efr7-238.tamucc.edu
-NOERROR	dynsec-efr6-231.tamucc.edu
-NOERROR	dynsec-efr9-191.tamucc.edu
-NOERROR	www.cmss.tamucc.edu
-NOERROR	dynsec-efr6-58.tamucc.edu
-NOERROR	dynsec-efr10-189.tamucc.edu
-NOERROR	dynsec-efr9-48.tamucc.edu
-NXDOMAIN	idm-ldap2-test.tamucc.edu
-NOERROR	qep.tamucc.edu
-NXDOMAIN	rhs-cc02.mgmt.tamucc.edu
-NOERROR	dynsec-efr11-223.tamucc.edu
-NOERROR	dynsec-efr6-38.tamucc.edu
-NXDOMAIN	ostack-stor06.mgmt.tamucc.edu
-NOERROR	biol.tamucc.edu
-NOERROR	ia.tamucc.edu
-NXDOMAIN	mobileprint.tamucc.edu
-NXDOMAIN	f5b.lb.tamucc.edu
-NOERROR	signage.tamucc.edu
-NXDOMAIN	lahey.ad.tamucc.edu
-NXDOMAIN	rdgateway02.ad.tamucc.edu
-NXDOMAIN	rhs-cc21.mgmt.tamucc.edu
-NOERROR	bapi-test.tamucc.edu
-NOERROR	dynsec-efr6-215.tamucc.edu
-NXDOMAIN	idm-db-test.tamucc.edu
-NOERROR	dynsec-efr8-101.tamucc.edu
-NOERROR	islanderlights.tamucc.edu
-NXDOMAIN	falcon7.tamucc.edu
-NOERROR	dynsec-efr10-181.tamucc.edu
-NXDOMAIN	confluence-sa.tamucc.edu
-NOERROR	listserv.tamucc.edu
-NOERROR	dynsec-efr9-187.tamucc.edu
-NOERROR	hr.tamucc.edu
-NOERROR	dynsec-efr7-142.tamucc.edu
-NOERROR	dynsec-efr11-124.tamucc.edu
-NOERROR	dynsec-efr9-9.tamucc.edu
-NOERROR	dynsec-efr8-88.tamucc.edu
-NOERROR	dynsec-efr6-51.tamucc.edu
-NOERROR	dynsec-efr8-250.tamucc.edu
-NOERROR	login-prod.tamucc.edu
-NXDOMAIN	idm-provisioning-prod.tamucc.edu
-NOERROR	dynsec-efr11-210.tamucc.edu
-NXDOMAIN	ns-infoblox-gridmaster.tamucc.edu
-NOERROR	dynsec-efr11-71.tamucc.edu
-NOERROR	dynsec-efr6-183.tamucc.edu
-NOERROR	dynsec-efr8-37.tamucc.edu
-NOERROR	dynsec-efr11-215.tamucc.edu
-NXDOMAIN	ns-primevirtual.tamucc.edu
-NOERROR	dynsec-efr8-102.tamucc.edu
-NXDOMAIN	jiratest-sa.tamucc.edu
-NOERROR	dynsec-efr8-103.tamucc.edu
-NXDOMAIN	wlc1.tamucc.edu
-NOERROR	dynsec-efr8-2.tamucc.edu
-NOERROR	grp-test.tamucc.edu
-NXDOMAIN	vcenter-rep.tamucc.edu
-NOERROR	dynsec-efr8-191.tamucc.edu
-NOERROR	dynsec-efr9-43.tamucc.edu
-NOERROR	dynsec-efr10-238.tamucc.edu
-NOERROR	dynsec-efr10-79.tamucc.edu
-NOERROR	dynsec-efr9-80.tamucc.edu
-NOERROR	dynsec-efr6-86.tamucc.edu
-NOERROR	dynsec-efr8-105.tamucc.edu
-NOERROR	wsesg2-2.tamucc.edu
-NXDOMAIN	idm-db2.tamucc.edu
-NOERROR	lfforms-dev.tamucc.edu
-NXDOMAIN	ois-connector.tamucc.edu
-NOERROR	chronos-prod.tamucc.edu
-NXDOMAIN	ostack-gpu04.mgmt.tamucc.edu
-NOERROR	dynsec-efr10-88.tamucc.edu
-NOERROR	dynsec-efr11-233.tamucc.edu
-NXDOMAIN	normandy.tamucc.edu
-NOERROR	dynsec-efr11-193.tamucc.edu
-NOERROR	hybrid03.tamucc.edu
-NXDOMAIN	ss11.tamucc.edu
-NXDOMAIN	baux-test.tamucc.edu
-NOERROR	dynsec-efr9-36.tamucc.edu
-NXDOMAIN	webwork.tamucc.edu
-NOERROR	uc-xbox4.tamucc.edu
-NOERROR	elci.tamucc.edu
-NOERROR	isensor01.tamucc.edu
-NOERROR	dynsec-efr10-178.tamucc.edu
-NOERROR	ldap.tamucc.edu
-NOERROR	dynsec-efr6-230.tamucc.edu
-NXDOMAIN	ods.tamucc.edu
-NOERROR	dynsec-efr11-149.tamucc.edu
-NOERROR	uashub.tamucc.edu
-NOERROR	dynsec-efr10-154.tamucc.edu
-NOERROR	dynsec-efr7-201.tamucc.edu
-NOERROR	dynsec-efr8-174.tamucc.edu
-NOERROR	fama.tamucc.edu
-NOERROR	dynsec-efr9-101.tamucc.edu
-NOERROR	dynsec-efr11-143.tamucc.edu
-NOERROR	dynsec-efr7-116.tamucc.edu
-NOERROR	uc-xbox1.tamucc.edu
-NOERROR	dynsec-efr6-247.tamucc.edu
-NXDOMAIN	ostack-comp04.mgmt.tamucc.edu
-NOERROR	dynsec-efr10-237.tamucc.edu
-NXDOMAIN	cmgl-scratch2.tamucc.edu
-NOERROR	sandy.tamucc.edu
-NXDOMAIN	ostack-comp02.mgmt.tamucc.edu
-NOERROR	dynsec-efr11-86.tamucc.edu
-NOERROR	philosophy.tamucc.edu
-NOERROR	dynsec-efr6-175.tamucc.edu
-NOERROR	enterpriseregistration.tamucc.edu
-NOERROR	dynsec-efr6-90.tamucc.edu
-NOERROR	dynsec-efr8-143.tamucc.edu
-NXDOMAIN	radius1.tamucc.edu
-NOERROR	rs.tamucc.edu
-NXDOMAIN	www.reu.tamucc.edu
-NOERROR	dynsec-efr9-125.tamucc.edu
-NOERROR	dynsec-efr7-160.tamucc.edu
-NXDOMAIN	cos-nas.tamucc.edu
-NOERROR	dynsec-efr11-135.tamucc.edu
-NOERROR	dynsec-efr8-16.tamucc.edu
-NOERROR	dynsec-efr7-79.tamucc.edu
-NOERROR	dynsec-efr10-92.tamucc.edu
-NOERROR	tarpon.tamucc.edu
-NOERROR	incidentforms.tamucc.edu
-NOERROR	dynsec-efr7-64.tamucc.edu
-NOERROR	www.cob.tamucc.edu
-NOERROR	upinlbs.tamucc.edu
-NOERROR	design.tamucc.edu
-NOERROR	cerberus-2.tamucc.edu
-NOERROR	vortex.tamucc.edu
-NOERROR	gomaportal2.tamucc.edu
-NXDOMAIN	bxe1-ban9.tamucc.edu
-NXDOMAIN	ostack-stor01.mgmt.tamucc.edu
-NOERROR	dynsec-efr8-221.tamucc.edu
-NOERROR	dynsec-efr11-204.tamucc.edu
-NOERROR	dynsec-efr6-81.tamucc.edu
-NOERROR	cbi.tamucc.edu
-NOERROR	ecdc.tamucc.edu
-NXDOMAIN	lsvm.mgmt.tamucc.edu
-NOERROR	dynsec-efr10-55.tamucc.edu
-NOERROR	harveyhelp.tamucc.edu
-NOERROR	dynsec-efr6-96.tamucc.edu
-NOERROR	dynsec-efr9-77.tamucc.edu
-NOERROR	dynsec-efr6-49.tamucc.edu
-NOERROR	codeblue.tamucc.edu
-NOERROR	dynsec-efr11-167.tamucc.edu
-NOERROR	dynsec-efr6-55.tamucc.edu
-NOERROR	dynsec-efr9-20.tamucc.edu
-NOERROR	dynsec-efr10-156.tamucc.edu
-NXDOMAIN	idm-shib-prod.lb.tamucc.edu
-NOERROR	kinesiology.tamucc.edu
-NXDOMAIN	workflow-test.tamucc.edu
-NXDOMAIN	mimir.mgmt.tamucc.edu
-NOERROR	dynsec-efr7-192.tamucc.edu
-NOERROR	dynsec-efr11-6.tamucc.edu
-NOERROR	presidentsball.tamucc.edu
-NOERROR	giving.tamucc.edu
-NOERROR	dynsec-efr6-226.tamucc.edu
-NOERROR	dynsec-efr11-85.tamucc.edu
-NXDOMAIN	rubrik2c.tamucc.edu
-NOERROR	dynsec-efr7-2.tamucc.edu
-NOERROR	dynsec-efr10-43.tamucc.edu
-NOERROR	incidentreportform.tamucc.edu
-NXDOMAIN	mailfilter6.tamucc.edu
-NOERROR	dynsec-efr11-141.tamucc.edu
-NOERROR	dynsec-efr7-123.tamucc.edu
-NOERROR	dynsec-efr7-73.tamucc.edu
-NOERROR	dynsec-efr7-111.tamucc.edu
-NXDOMAIN	banner-db-test.mgmt.tamucc.edu
-NOERROR	teach.tamucc.edu
-NOERROR	flipyourlids.tamucc.edu
-NXDOMAIN	ois-jira.tamucc.edu
-NOERROR	dynsec-efr6-31.tamucc.edu
-NOERROR	asa-secondary-server-farm.tamucc.edu
-NOERROR	dynsec-efr10-121.tamucc.edu
-NOERROR	sacs.tamucc.edu
-NOERROR	sail.tamucc.edu
-NOERROR	dynsec-efr9-53.tamucc.edu
-NOERROR	dynsec-efr6-224.tamucc.edu
-NXDOMAIN	argos-dire64.ad.tamucc.edu
-NXDOMAIN	reportexec-hist.tamucc.edu
-NOERROR	dynsec-efr9-84.tamucc.edu
-NOERROR	dynsec-efr11-220.tamucc.edu
-NOERROR	dynsec-efr6-26.tamucc.edu
-NOERROR	dynsec-efr11-107.tamucc.edu
-NXDOMAIN	argos-prod.ad.tamucc.edu
-NOERROR	dynsec-efr8-35.tamucc.edu
-NOERROR	dynsec-efr10-229.tamucc.edu
-NOERROR	dynsec-efr7-225.tamucc.edu
-NOERROR	cmss.tamucc.edu
-NOERROR	dynsec-efr6-61.tamucc.edu
-NOERROR	dynsec-efr11-247.tamucc.edu
-NXDOMAIN	inb-test.tamucc.edu
-NOERROR	dynsec-efr11-231.tamucc.edu
-NXDOMAIN	idm-db4.tamucc.edu
-NOERROR	guarddog.tamucc.edu
-NOERROR	www.gisc.tamucc.edu
-NOERROR	vl40-willard-gw.tamucc.edu
-NXDOMAIN	ois-jira-test-srm-cc.tamucc.edu
-NOERROR	alertus.tamucc.edu
-NOERROR	hdvoa.tamucc.edu
-NOERROR	dynsec-efr8-202.tamucc.edu
-NOERROR	dynsec-efr6-158.tamucc.edu
-NXDOMAIN	bxe8-prod.tamucc.edu
-NOERROR	dynsec-efr7-248.tamucc.edu
-NOERROR	dynsec-efr10-69.tamucc.edu
-NOERROR	dynsec-efr11-201.tamucc.edu
-NOERROR	dynsec-efr6-100.tamucc.edu
-NXDOMAIN	vpn-asa.tamucc.edu
-NOERROR	dynsec-efr8-107.tamucc.edu
-NOERROR	theislander.tamucc.edu
-NOERROR	alumni.tamucc.edu
-NOERROR	sga.tamucc.edu
-NOERROR	dynsec-efr9-149.tamucc.edu
-NOERROR	dynsec-efr6-130.tamucc.edu
-NOERROR	dynsec-efr7-219.tamucc.edu
-NOERROR	falcon1.tamucc.edu
-NOERROR	comptroller.tamucc.edu
-NOERROR	asa-dmz1-gtw.tamucc.edu
-NOERROR	dynsec-efr9-241.tamucc.edu
-NOERROR	dynsec-efr11-25.tamucc.edu
-NOERROR	gisc.tamucc.edu
-NOERROR	login03.tamucc.edu
-NOERROR	mealplans.tamucc.edu
-NOERROR	dynsec-efr8-108.tamucc.edu
-NOERROR	dynsec-efr6-199.tamucc.edu
-NOERROR	dynsec-efr7-133.tamucc.edu
-NXDOMAIN	lapswebapp.ad.tamucc.edu
-NXDOMAIN	idm-idp1.tamucc.edu
-NOERROR	dynsec-efr9-18.tamucc.edu
-NOERROR	dynsec-efr9-238.tamucc.edu
-NXDOMAIN	dc02.ad.tamucc.edu
-NOERROR	dynsec-efr6-190.tamucc.edu
-NOERROR	dynsec-efr11-209.tamucc.edu
-NXDOMAIN	lsnexus.tamucc.edu
-NOERROR	dynsec-efr11-40.tamucc.edu
-NOERROR	businessoffice.tamucc.edu
-NOERROR	dynsec-efr10-185.tamucc.edu
-NOERROR	dynsec-efr8-47.tamucc.edu
-NOERROR	recsports.tamucc.edu
-NOERROR	dynsec-efr11-245.tamucc.edu
-NOERROR	iadapt.tamucc.edu
-NOERROR	dynsec-efr9-140.tamucc.edu
-NOERROR	dynsec-efr7-166.tamucc.edu
-NOERROR	mis.tamucc.edu
-NOERROR	dynsec-efr8-14.tamucc.edu
-NXDOMAIN	formfusionprod.ad.tamucc.edu
-NOERROR	dynsec-efr8-216.tamucc.edu
-NOERROR	dynsec-efr8-166.tamucc.edu
-NOERROR	dynsec-efr7-43.tamucc.edu
-NOERROR	dynsec-efr9-104.tamucc.edu
-NXDOMAIN	tc-ucs-sa1.tamucc.edu
-NOERROR	dynsec-efr10-195.tamucc.edu
-NOERROR	dynsec-efr8-128.tamucc.edu
-NOERROR	dynsec-efr9-15.tamucc.edu
-NOERROR	hpc.tamucc.edu
-NOERROR	atc.tamucc.edu
-NOERROR	dynsec-efr11-59.tamucc.edu
-NOERROR	fusion-web.tamucc.edu
-NOERROR	dynsec-efr8-206.tamucc.edu
-NOERROR	dynsec-efr9-165.tamucc.edu
-NOERROR	dynsec-efr8-113.tamucc.edu
-NOERROR	dynsec-efr8-149.tamucc.edu
-NOERROR	ets.tamucc.edu
-NXDOMAIN	mac.tamucc.edu
-NXDOMAIN	tamucc-apic1-cimc.tamucc.edu
-NOERROR	dynsec-efr7-139.tamucc.edu
-NOERROR	dynsec-efr11-108.tamucc.edu
-NOERROR	dynsec-efr11-151.tamucc.edu
-NXDOMAIN	bmesg1-prod.tamucc.edu
-NOERROR	dynsec-efr8-148.tamucc.edu
-NOERROR	dynsec-efr6-95.tamucc.edu
-NXDOMAIN	bubbles.ad.tamucc.edu
-NXDOMAIN	tc-ucs-ucnha.tamucc.edu
-NOERROR	dynsec-efr9-164.tamucc.edu
-NOERROR	dynsec-efr11-29.tamucc.edu
-NOERROR	dynsec-efr6-249.tamucc.edu
-NOERROR	spmail.tamucc.edu
-NOERROR	dynsec-efr11-75.tamucc.edu
-NOERROR	dynsec-efr9-247.tamucc.edu
-NOERROR	housing.tamucc.edu
-NOERROR	dynsec-efr11-138.tamucc.edu
-NXDOMAIN	ucs-sa-manager.tamucc.edu
-NOERROR	usdb2.tamucc.edu
-NOERROR	campuslogin-test.tamucc.edu
-NOERROR	dynsec-efr8-190.tamucc.edu
-NOERROR	dynsec-efr10-165.tamucc.edu
-NOERROR	dynsec-efr11-44.tamucc.edu
-NOERROR	dynsec-efr7-239.tamucc.edu
-NOERROR	dynsec-efr8-130.tamucc.edu
-NOERROR	archivesspace.tamucc.edu
-NXDOMAIN	pie3.tamucc.edu
-NOERROR	dynsec-efr7-147.tamucc.edu
-NOERROR	dynsec-efr8-224.tamucc.edu
-NOERROR	webmail.tamucc.edu
-NOERROR	dynsec-efr7-50.tamucc.edu
-NOERROR	dynsec-efr7-61.tamucc.edu
-NOERROR	dynsec-efr11-207.tamucc.edu
-NOERROR	dynsec-efr7-178.tamucc.edu
-NOERROR	f5a-vlan82.tamucc.edu
-NOERROR	dynsec-efr6-145.tamucc.edu
-NXDOMAIN	ls1.tamucc.edu.tamucc.edu
-NOERROR	dynsec-efr7-4.tamucc.edu
-NOERROR	thinkaboutit.tamucc.edu
-NOERROR	dynsec-efr11-97.tamucc.edu
-NOERROR	dynsec-efr7-46.tamucc.edu
-NXDOMAIN	ostack-director.tamucc.edu
-NOERROR	edld.tamucc.edu
-NOERROR	dynsec-efr10-98.tamucc.edu
-NOERROR	dynsec-efr9-212.tamucc.edu
-NOERROR	dynsec-efr11-37.tamucc.edu
-NOERROR	dynsec-efr9-197.tamucc.edu
-NXDOMAIN	windenergy.tamucc.edu
-NOERROR	ls1dev.tamucc.edu
-NOERROR	dynsec-efr7-93.tamucc.edu
-NOERROR	lighthouse-prod.tamucc.edu
-NXDOMAIN	dx80securesip.tamucc.edu
-NXDOMAIN	idm-ldap-dire.tamucc.edu
-NXDOMAIN	geohazards.ad.tamucc.edu
-NXDOMAIN	idm-cas1.tamucc.edu
-NOERROR	dynsec-efr7-6.tamucc.edu
-NXDOMAIN	ois-confluence-srm-sa.tamucc.edu
-NOERROR	marineecologylab.tamucc.edu
-NOERROR	dynsec-efr8-170.tamucc.edu
-NOERROR	dynsec-efr6-229.tamucc.edu
-NOERROR	ctc.tamucc.edu
-NOERROR	dynsec-efr8-126.tamucc.edu
-NOERROR	dynsec-efr9-114.tamucc.edu
-NXDOMAIN	rhs-cc16.mgmt.tamucc.edu
-NOERROR	outbox.tamucc.edu
-NXDOMAIN	ns-ise-mnt1.tamucc.edu
-NOERROR	dynsec-efr8-173.tamucc.edu
-NOERROR	dynsec-efr7-218.tamucc.edu
-NOERROR	dynsec-efr6-234.tamucc.edu
-NOERROR	directory.tamucc.edu
-NOERROR	dynsec-efr10-252.tamucc.edu
-NOERROR	campuscarry.tamucc.edu
-NOERROR	dynsec-efr6-57.tamucc.edu
-NOERROR	dynsec-efr6-142.tamucc.edu
-NOERROR	dynsec-efr10-150.tamucc.edu
-NOERROR	dynsec-efr9-79.tamucc.edu
-NOERROR	dynsec-efr8-239.tamucc.edu
-NOERROR	dynsec-efr7-223.tamucc.edu
-NOERROR	cpira.tamucc.edu
-NOERROR	conhs.tamucc.edu
-NXDOMAIN	xdomes2.tamucc.edu
-NOERROR	dynsec-efr11-127.tamucc.edu
-NOERROR	gocenter.tamucc.edu
-NOERROR	dynsec-efr9-219.tamucc.edu
-NOERROR	critical.tamucc.edu
-NOERROR	jira.tamucc.edu
-NOERROR	dynsec-efr6-159.tamucc.edu
-NOERROR	autodiscover.tamucc.edu
-NOERROR	dynsec-efr8-104.tamucc.edu
-NOERROR	dynsec-efr11-24.tamucc.edu
-NXDOMAIN	jira-cc.tamucc.edu
-NXDOMAIN	falcon8.tamucc.edu
-NOERROR	dynsec-efr7-211.tamucc.edu
-NOERROR	sa-dc01.tamucc.edu
-NOERROR	facilities.tamucc.edu
-NOERROR	dynsec-efr7-146.tamucc.edu
-NXDOMAIN	it-pinn-web-prod.tamucc.edu
-NXDOMAIN	conference-2-standaloneclusterd8fa4.tamucc.edu
-NOERROR	dynsec-efr9-143.tamucc.edu
-NOERROR	gridftp.tamucc.edu
-NOERROR	dynsec-efr10-96.tamucc.edu
-NOERROR	dynsec-efr11-53.tamucc.edu
-NXDOMAIN	esp.tamucc.edu
-NOERROR	dynsec-efr7-143.tamucc.edu
-NOERROR	dynsec-efr10-85.tamucc.edu
-NOERROR	greeklife.tamucc.edu
-NXDOMAIN	itbilling.tamucc.edu
-NOERROR	sa-vpn.tamucc.edu
-NOERROR	assessment.tamucc.edu
-NXDOMAIN	pinnacle-web.tamucc.edu
-NOERROR	islanderready.tamucc.edu
-NOERROR	registrar.tamucc.edu
-NOERROR	dynsec-efr9-40.tamucc.edu
-NXDOMAIN	i500-dr.mgmt.tamucc.edu
-NOERROR	dynsec-efr11-197.tamucc.edu
-NOERROR	dynsec-efr7-105.tamucc.edu
-NOERROR	autocheck.tamucc.edu
-NOERROR	dynsec-efr11-202.tamucc.edu
-NOERROR	vl-110-gw-3.tamucc.edu
-NOERROR	security.tamucc.edu
-NOERROR	ns-infoblox-ext-dr-sa.tamucc.edu
-NOERROR	dynsec-efr7-87.tamucc.edu
-NXDOMAIN	ois-sc.tamucc.edu
-NXDOMAIN	login02.tamucc.edu
-NOERROR	dynsec-efr9-50.tamucc.edu
-NOERROR	dc04.tamucc.edu
-NOERROR	dynsec-efr8-195.tamucc.edu
-NOERROR	falcon.lb.tamucc.edu
-NOERROR	dynsec-efr7-91.tamucc.edu
-NOERROR	studenteval.tamucc.edu
-NOERROR	willard-dmz5-server-farm-interface.tamucc.edu
-NOERROR	dynsec-efr9-39.tamucc.edu
-NXDOMAIN	bxe3-test.tamucc.edu
-NOERROR	dynsec-efr11-219.tamucc.edu
-NOERROR	dynsec-efr9-41.tamucc.edu
-NOERROR	dynsec-efr10-240.tamucc.edu
-NOERROR	dynsec-efr6-71.tamucc.edu
-NOERROR	dynsec-efr7-65.tamucc.edu
-NOERROR	dynsec-efr8-145.tamucc.edu
-NOERROR	islandday.tamucc.edu
-NOERROR	dynsec-efr8-127.tamucc.edu
-NOERROR	dynsec-efr9-181.tamucc.edu
-NXDOMAIN	punchclock.tamucc.edu
-NOERROR	dynsec-efr8-25.tamucc.edu
-NOERROR	dynsec-efr11-33.tamucc.edu
-NOERROR	dynsec-efr9-232.tamucc.edu
-NOERROR	dynsec-efr11-129.tamucc.edu
-NOERROR	fishlab.tamucc.edu
-NOERROR	dynsec-efr7-126.tamucc.edu
-NOERROR	dynsec-efr11-172.tamucc.edu
-NOERROR	guest-portal-2.tamucc.edu
-NOERROR	riddler.tamucc.edu
-NXDOMAIN	onbt-web2.ad.tamucc.edu
-NOERROR	staff.tamucc.edu
-NOERROR	login-test.tamucc.edu
-NOERROR	osfa.tamucc.edu
-NXDOMAIN	idm-ldap1-dire.tamucc.edu
-NOERROR	purchasing.tamucc.edu
-NXDOMAIN	idm-db2-prod.tamucc.edu
-NOERROR	dynsec-efr10-122.tamucc.edu
-NOERROR	dynsec-efr11-64.tamucc.edu
-NOERROR	dynsec-efr11-81.tamucc.edu
-NOERROR	dynsec-efr9-26.tamucc.edu
-NOERROR	dynsec-efr11-208.tamucc.edu
-NXDOMAIN	jira-sa.tamucc.edu
-NOERROR	dynsec-efr11-3.tamucc.edu
-NOERROR	hybrid1.tamucc.edu
-NOERROR	dynsec-efr7-56.tamucc.edu
-NXDOMAIN	onbt-web1.ad.tamucc.edu
-NOERROR	guides.library.tamucc.edu
-NOERROR	dynsec-efr10-74.tamucc.edu
-NOERROR	dynsec-efr11-214.tamucc.edu
-NOERROR	givingtuesday.tamucc.edu
-NOERROR	dynsec-efr6-74.tamucc.edu
-NOERROR	dynsec-efr7-246.tamucc.edu
-NXDOMAIN	rhs-sa05.mgmt.tamucc.edu
-NOERROR	dynsec-efr6-112.tamucc.edu
-NOERROR	dynsec-efr9-85.tamucc.edu
-NOERROR	dynsec-efr9-131.tamucc.edu
-NOERROR	dynsec-efr8-217.tamucc.edu
-NOERROR	dynsec-efr9-248.tamucc.edu
-NXDOMAIN	tableau.ad.tamucc.edu
-NOERROR	dynsec-efr11-237.tamucc.edu
-NOERROR	dynsec-efr6-14.tamucc.edu
-NOERROR	it.tamucc.edu
-NXDOMAIN	idm-cas1-prod.tamucc.edu
-NOERROR	dynsec-efr8-117.tamucc.edu
-NOERROR	dynsec-efr7-202.tamucc.edu
-NOERROR	dynsec-efr11-224.tamucc.edu
-NOERROR	dynsec-efr8-171.tamucc.edu
-NOERROR	dynsec-efr9-23.tamucc.edu
-NOERROR	dynsec-efr11-241.tamucc.edu
-NOERROR	hpo.tamucc.edu
-NOERROR	dynsec-efr9-233.tamucc.edu
-NOERROR	dynsec-efr6-118.tamucc.edu
-NXDOMAIN	mailfilter2.tamucc.edu
-NOERROR	dynsec-efr6-148.tamucc.edu
-NXDOMAIN	confluencetest-sa.tamucc.edu
-NOERROR	dynsec-efr11-115.tamucc.edu
-NOERROR	dynsec-efr6-73.tamucc.edu
-NOERROR	dynsec-efr9-214.tamucc.edu
-NOERROR	englishwiki.tamucc.edu
-NXDOMAIN	ois-jira-srm-sa.tamucc.edu
-NOERROR	falcon.tamucc.edu
-NOERROR	dynsec-efr7-5.tamucc.edu
-NOERROR	dynsec-efr11-180.tamucc.edu
-NXDOMAIN	rhs-cc12.mgmt.tamucc.edu
-NOERROR	me.tamucc.edu
-NOERROR	dynsec-efr6-238.tamucc.edu
-NOERROR	dynsec-efr11-211.tamucc.edu
-NOERROR	tuccda.tamucc.edu
-NOERROR	dynsec-efr6-21.tamucc.edu
-NOERROR	dr-vpn.tamucc.edu
-NOERROR	griidc-dist.tamucc.edu
-NXDOMAIN	inb4-prod.tamucc.edu
-NOERROR	dynsec-efr9-207.tamucc.edu
-NOERROR	dynsec-efr9-6.tamucc.edu
-NOERROR	tsrc.tamucc.edu
-NOERROR	gobiidae.tamucc.edu
-NOERROR	dynsec-efr11-39.tamucc.edu
-NOERROR	dynsec-efr7-172.tamucc.edu
-NOERROR	vectra.tamucc.edu
-NOERROR	dynsec-efr10-251.tamucc.edu
-NOERROR	dynsec-efr7-190.tamucc.edu
-NOERROR	dynsec-efr6-89.tamucc.edu
-NOERROR	dynsec-efr7-243.tamucc.edu
-NOERROR	dynsec-efr7-245.tamucc.edu
-NOERROR	dynsec-efr6-62.tamucc.edu
-NOERROR	dynsec-efr8-41.tamucc.edu
-NOERROR	islander.tamucc.edu
-NOERROR	appcheck.tamucc.edu
-NXDOMAIN	axiom-prod.ad.tamucc.edu
-NXDOMAIN	hpcm01.mgmt.tamucc.edu
-NOERROR	camslab.tamucc.edu
-NOERROR	islanderfund.tamucc.edu
-NOERROR	dynsec-efr7-103.tamucc.edu
-NOERROR	dynsec-efr11-178.tamucc.edu
-NOERROR	dynsec-efr11-217.tamucc.edu
-NOERROR	dynsec-efr6-78.tamucc.edu
-NXDOMAIN	falcon2.tamucc.edu
-NOERROR	apsi.tamucc.edu
-NXDOMAIN	beis-test.tamucc.edu
-NOERROR	dynsec-efr7-23.tamucc.edu
-NOERROR	dynsec-efr11-92.tamucc.edu
-NOERROR	cyberdefense.tamucc.edu
-NXDOMAIN	pinnacle-web-dev.tamucc.edu
-NOERROR	apps.tamucc.edu
-NOERROR	uc-325-dmz-sw.tamucc.edu
-NOERROR	dynsec-efr9-123.tamucc.edu
-NOERROR	dynsec-efr8-192.tamucc.edu
-NOERROR	dynsec-efr8-32.tamucc.edu
-NOERROR	dynsec-efr7-89.tamucc.edu
-NOERROR	dynsec-efr6-105.tamucc.edu
-NOERROR	nurdle.tamucc.edu
-NXDOMAIN	uashub-test.tamucc.edu
-NOERROR	dynsec-efr9-73.tamucc.edu
-NXDOMAIN	idm-identity-dire.tamucc.edu
-NOERROR	dynsec-efr11-144.tamucc.edu
-NOERROR	ciacd.tamucc.edu
-NOERROR	dynsec-efr6-72.tamucc.edu
-NOERROR	dynsec-efr10-45.tamucc.edu
-NOERROR	www.enterprise.tamucc.edu
-NOERROR	comppile.tamucc.edu
-NOERROR	stedc.tamucc.edu
-NXDOMAIN	netappsa01.mgmt.tamucc.edu
-NOERROR	dynsec-efr8-230.tamucc.edu
-NOERROR	dynsec-efr8-79.tamucc.edu
-NOERROR	dynsec-efr7-141.tamucc.edu
-NOERROR	dynsec-efr10-113.tamucc.edu
-NOERROR	dynsec-efr6-122.tamucc.edu
-NOERROR	dynsec-efr7-228.tamucc.edu
-NOERROR	dynsec-efr7-237.tamucc.edu
-NOERROR	dynsec-efr10-214.tamucc.edu
-NOERROR	dynsec-efr7-216.tamucc.edu
-NOERROR	olympiad.tamucc.edu
-NXDOMAIN	guarddog.mgmt.tamucc.edu
-NXDOMAIN	rdgateway3.tamucc.edu
-NOERROR	dynsec-efr10-224.tamucc.edu
-NXDOMAIN	stdc-fi-6332-b.tamucc.edu
-NOERROR	dynsec-efr11-225.tamucc.edu
-NOERROR	dynsec-efr10-226.tamucc.edu
-NOERROR	dynsec-efr11-117.tamucc.edu
-NOERROR	dynsec-efr7-94.tamucc.edu
-NOERROR	barriowriters.tamucc.edu
-NOERROR	dynsec-efr8-122.tamucc.edu
-NOERROR	dynsec-efr6-35.tamucc.edu
-NOERROR	dynsec-efr10-70.tamucc.edu
-NOERROR	sts.tamucc.edu
-NOERROR	dynsec-efr11-16.tamucc.edu
-NOERROR	dynsec-efr6-25.tamucc.edu
-NXDOMAIN	cne.tamucc.edu
-NOERROR	manowar.tamucc.edu
-NOERROR	packeteer.tamucc.edu
-NXDOMAIN	vlog.tamucc.edu
-NXDOMAIN	ls1dev.ad.tamucc.edu
-NOERROR	dynsec-efr6-152.tamucc.edu
-NXDOMAIN	cas01.ad.tamucc.edu
-NOERROR	dynsec-efr6-131.tamucc.edu
-NXDOMAIN	rhs-cc18.mgmt.tamucc.edu
-NOERROR	dynsec-efr6-108.tamucc.edu
-NOERROR	dynsec-efr9-135.tamucc.edu
-NOERROR	fmcc.tamucc.edu
-NOERROR	dynsec-efr10-157.tamucc.edu
-NOERROR	dynsec-efr9-12.tamucc.edu
-NXDOMAIN	confluence-cc.tamucc.edu
-NOERROR	dynsec-efr11-30.tamucc.edu
-NXDOMAIN	seccam-mobile.tamucc.edu
-NOERROR	prepro.tamucc.edu
-NOERROR	dynsec-efr8-98.tamucc.edu
-NOERROR	autodiscover.islander.tamucc.edu
-NOERROR	dynsec-efr11-12.tamucc.edu
-NOERROR	rotc.tamucc.edu
-NOERROR	dynsec-efr8-141.tamucc.edu
-NOERROR	dynsec-efr8-59.tamucc.edu
-NOERROR	dynsec-efr11-104.tamucc.edu
-NXDOMAIN	owl2.tamucc.edu
-NXDOMAIN	ostack-comp01.mgmt.tamucc.edu
-NXDOMAIN	ssb1-dire.tamucc.edu
-NOERROR	dynsec-efr6-208.tamucc.edu
-NOERROR	success.tamucc.edu
-NOERROR	dynsec-efr10-84.tamucc.edu
-NOERROR	dynsec-efr9-129.tamucc.edu
-NOERROR	dynsec-efr6-94.tamucc.edu
-NOERROR	dynsec-efr10-158.tamucc.edu
-NOERROR	master-plan.tamucc.edu
-NOERROR	dynsec-efr10-236.tamucc.edu
-NOERROR	dynsec-efr9-250.tamucc.edu
-NOERROR	dynsec-efr9-83.tamucc.edu
-NXDOMAIN	inb1-test.tamucc.edu
-NOERROR	dynsec-efr8-4.tamucc.edu
-NOERROR	dynsec-efr9-65.tamucc.edu
-NOERROR	dynsec-efr10-135.tamucc.edu
-NOERROR	dynsec-efr10-128.tamucc.edu
-NOERROR	cch107-bb-admin.tamucc.edu
-NOERROR	dynsec-efr10-37.tamucc.edu
-NOERROR	dynsec-efr11-212.tamucc.edu
-NOERROR	dynsec-efr8-10.tamucc.edu
-NOERROR	dynsec-efr9-126.tamucc.edu
-NOERROR	dynsec-efr9-152.tamucc.edu
-NOERROR	dynsec-efr11-56.tamucc.edu
-NOERROR	dynsec-efr9-121.tamucc.edu
-NOERROR	dynsec-efr7-96.tamucc.edu
-NOERROR	dynsec-efr6-169.tamucc.edu
-NOERROR	dynsec-efr9-71.tamucc.edu
-NOERROR	erddap.tamucc.edu
-NXDOMAIN	idm-cas3.tamucc.edu
-NOERROR	dynsec-efr9-2.tamucc.edu
-NOERROR	physlab.tamucc.edu
-NXDOMAIN	cas02.ad.tamucc.edu
-NOERROR	dynsec-efr9-236.tamucc.edu
-NOERROR	gscs.tamucc.edu
-NOERROR	fylcp.tamucc.edu
-NXDOMAIN	netapplr01.tamucc.edu
-NOERROR	dynsec-efr6-123.tamucc.edu
-NOERROR	dynsec-efr8-178.tamucc.edu
-NOERROR	online.tamucc.edu
-NOERROR	dynsec-efr10-66.tamucc.edu
-NXDOMAIN	tc-ucs-elm.tamucc.edu
-NOERROR	proto.cbi.tamucc.edu
-NOERROR	dynsec-efr10-111.tamucc.edu
-NXDOMAIN	edw-bba-db.ad.tamucc.edu
-NOERROR	dynsec-efr6-8.tamucc.edu
-NOERROR	dynsec-efr6-134.tamucc.edu
-NOERROR	dynsec-efr9-99.tamucc.edu
-NOERROR	dynsec-efr11-226.tamucc.edu
-NOERROR	dynsec-efr11-162.tamucc.edu
-NXDOMAIN	idm-db-prod.tamucc.edu
-NOERROR	dynsec-efr11-196.tamucc.edu
-NOERROR	dynsec-efr7-14.tamucc.edu
-NXDOMAIN	rhs-mgr.tamucc.edu
-NOERROR	dynsec-efr11-232.tamucc.edu
-NOERROR	dynsec-efr6-104.tamucc.edu
-NOERROR	dynsec-efr10-49.tamucc.edu
-NXDOMAIN	nasgrp-dev.tamucc.edu
-NOERROR	dynsec-efr10-59.tamucc.edu
-NOERROR	dynsec-efr7-207.tamucc.edu
-NXDOMAIN	idm-idp2-test.tamucc.edu
-NOERROR	dynsec-efr7-134.tamucc.edu
-NXDOMAIN	ucs-sa-6332-b.tamucc.edu
-NOERROR	dynsec-efr10-9.tamucc.edu
-NOERROR	dynsec-efr11-28.tamucc.edu
-NXDOMAIN	login01.tamucc.edu
-NOERROR	fitw.tamucc.edu
-NOERROR	dataone-test.tamucc.edu
-NOERROR	ns1.tamucc.edu
-NOERROR	dynsec-efr8-18.tamucc.edu
-NOERROR	dynsec-efr11-248.tamucc.edu
-NOERROR	dynsec-efr8-193.tamucc.edu
-NOERROR	dynsec-efr9-206.tamucc.edu
-NOERROR	dynsec-efr11-18.tamucc.edu
-NOERROR	dynsec-efr10-62.tamucc.edu
-NXDOMAIN	titanium-web.ad.tamucc.edu
-NOERROR	dynsec-efr9-19.tamucc.edu
-NXDOMAIN	idm-ldap-prod.tamucc.edu
-NOERROR	dynsec-efr10-2.tamucc.edu
-NOERROR	dynsec-efr8-20.tamucc.edu
-NOERROR	dynsec-efr11-87.tamucc.edu
-NOERROR	dynsec-efr11-96.tamucc.edu
-NOERROR	dynsec-efr7-21.tamucc.edu
-NOERROR	dynsec-efr7-85.tamucc.edu
-NOERROR	outreach.tamucc.edu
-NOERROR	dynsec-efr10-7.tamucc.edu
-NOERROR	dynsec-efr7-163.tamucc.edu
-NXDOMAIN	rdgateway1.ad.tamucc.edu
-NOERROR	emergency.tamucc.edu
-NOERROR	icare.tamucc.edu
-NOERROR	dynsec-efr10-241.tamucc.edu
-NXDOMAIN	uashub.mgmt.tamucc.edu
-NXDOMAIN	idm-gig3-test.ad.tamucc.edu
-NOERROR	dynsec-efr11-221.tamucc.edu
-NOERROR	dynsec-efr6-241.tamucc.edu
-NOERROR	dynsec-efr11-48.tamucc.edu
-NOERROR	dynsec-efr7-35.tamucc.edu
-NOERROR	dynsec-efr8-153.tamucc.edu
-NXDOMAIN	ssb3-prod.tamucc.edu
-NOERROR	dynsec-efr6-233.tamucc.edu
-NOERROR	iol.tamucc.edu
-NXDOMAIN	lsuascgit.tamucc.edu
-NOERROR	dynsec-efr8-42.tamucc.edu
-NOERROR	dynsec-efr9-37.tamucc.edu
-NOERROR	dynsec-efr11-120.tamucc.edu
-NXDOMAIN	dc04.ad.tamucc.edu
-NOERROR	dynsec-efr8-196.tamucc.edu
-NXDOMAIN	rhs-cc23.mgmt.tamucc.edu
-NOERROR	dynsec-efr11-69.tamucc.edu
-NOERROR	dynsec-efr9-199.tamucc.edu
-NOERROR	dynsec-efr9-25.tamucc.edu
-NOERROR	dynsec-efr7-136.tamucc.edu
-NOERROR	dynsec-efr11-13.tamucc.edu
-NOERROR	dynsec-efr10-246.tamucc.edu
-NOERROR	illiad.tamucc.edu
-NOERROR	dynsec-efr8-70.tamucc.edu
-NOERROR	dynsec-efr6-50.tamucc.edu
-NOERROR	dynsec-efr10-193.tamucc.edu
-NOERROR	kestrel.lb.tamucc.edu
-NOERROR	geohazards.tamucc.edu
-NOERROR	dynsec-efr6-24.tamucc.edu
-NOERROR	macprogram.tamucc.edu
-NOERROR	dynsec-efr7-83.tamucc.edu
-NXDOMAIN	mysql.tamucc.edu
-NXDOMAIN	argos-prod64.ad.tamucc.edu
-NOERROR	hriconference.tamucc.edu
-NXDOMAIN	webct.tamucc.edu
-NOERROR	dynsec-efr11-110.tamucc.edu
-NXDOMAIN	rubrik.tamucc.edu
-NOERROR	dynsec-efr6-4.tamucc.edu
-NOERROR	dynsec-efr9-222.tamucc.edu
-NXDOMAIN	mailfilter4.tamucc.edu
-NOERROR	dynsec-efr8-27.tamucc.edu
-NOERROR	dynsec-efr6-245.tamucc.edu
-NOERROR	dynsec-efr11-157.tamucc.edu
-NOERROR	dynsec-efr11-10.tamucc.edu
-NOERROR	dynsec-efr6-184.tamucc.edu
-NOERROR	marinebiology.tamucc.edu
-NXDOMAIN	idm-db1.tamucc.edu
-NOERROR	dynsec-efr10-205.tamucc.edu
-NOERROR	dynsec-efr9-17.tamucc.edu
-NXDOMAIN	bxe1-bdev.tamucc.edu
-NOERROR	sparc.tamucc.edu
-NOERROR	dynsec-efr7-27.tamucc.edu
-NOERROR	baux-prod.tamucc.edu
-NOERROR	dynsec-efr8-91.tamucc.edu
-NXDOMAIN	rhs-cc01.mgmt.tamucc.edu
-NXDOMAIN	tc-ucs-sub2.tamucc.edu
-NOERROR	artmuseum.tamucc.edu
-NOERROR	dynsec-efr8-135.tamucc.edu
-NOERROR	dynsec-efr9-196.tamucc.edu
-NOERROR	ss11-test.tamucc.edu
-NOERROR	confluencetest.tamucc.edu
-NOERROR	dynsec-efr6-187.tamucc.edu
-NOERROR	bb9-importer01.tamucc.edu
-NOERROR	dynsec-efr10-41.tamucc.edu
-NXDOMAIN	bb9-importer.tamucc.edu
-NOERROR	history.tamucc.edu
-NOERROR	dynsec-efr9-109.tamucc.edu
-NOERROR	dynsec-efr6-149.tamucc.edu
-NOERROR	pass.tamucc.edu
-NOERROR	dynsec-efr7-204.tamucc.edu
-NOERROR	dataone-dev.tamucc.edu
-NOERROR	dynsec-efr6-206.tamucc.edu
-NOERROR	dynsec-efr8-120.tamucc.edu
-NOERROR	dynsec-efr11-116.tamucc.edu
-NOERROR	dynsec-efr7-157.tamucc.edu
-NOERROR	dynsec-efr11-23.tamucc.edu
-NOERROR	www.online.tamucc.edu
-NOERROR	dynsec-efr9-180.tamucc.edu
-NOERROR	dynsec-efr11-168.tamucc.edu
-NOERROR	dynsec-efr8-53.tamucc.edu
-NOERROR	pir.tamucc.edu
-NOERROR	dynsec-efr8-238.tamucc.edu
-NXDOMAIN	www.grad.tamucc.edu
-NOERROR	dynsec-efr11-22.tamucc.edu
-NXDOMAIN	ns-sw1.ad.tamucc.edu
-NOERROR	ns-infoblox-ext.tamucc.edu
-NOERROR	dynsec-efr10-51.tamucc.edu
-NOERROR	dynsec-efr6-23.tamucc.edu
-NXDOMAIN	falcon5.tamucc.edu
-NOERROR	dynsec-efr9-11.tamucc.edu
-NOERROR	dynsec-efr8-132.tamucc.edu
-NOERROR	dynsec-efr8-106.tamucc.edu
-NXDOMAIN	rdgateway2.tamucc.edu
-NOERROR	dynsec-efr6-176.tamucc.edu
-NOERROR	gradcollege.tamucc.edu
-NOERROR	lsuss.tamucc.edu
-NOERROR	dynsec-efr10-76.tamucc.edu
-NOERROR	dynsec-efr8-124.tamucc.edu
-NXDOMAIN	openmanage.tamucc.edu
-NXDOMAIN	parrot.mgmt.tamucc.edu
-NOERROR	dynsec-efr10-199.tamucc.edu
-NOERROR	fb106-c-coltarus.tamucc.edu
-NOERROR	dynsec-efr10-90.tamucc.edu
-NOERROR	theatre.tamucc.edu
-NOERROR	dynsec-efr10-174.tamucc.edu
-NXDOMAIN	cascade-dev.tamucc.edu
-NXDOMAIN	dc03.ad.tamucc.edu
-NOERROR	dynsec-efr7-101.tamucc.edu
-NOERROR	smtp2.tamucc.edu
-NOERROR	bh-polycom-test.tamucc.edu
-NOERROR	dynsec-efr8-237.tamucc.edu
-NXDOMAIN	rdgateway3.ad.tamucc.edu
-NOERROR	birdlab.tamucc.edu
-NXDOMAIN	alertus.ad.tamucc.edu
-NOERROR	dynsec-efr9-146.tamucc.edu
-NXDOMAIN	banner-db-dire.mgmt.tamucc.edu
-NOERROR	dynsec-efr6-173.tamucc.edu
-NOERROR	dynsec-efr9-38.tamucc.edu
-NXDOMAIN	stdc-fi-6332.tamucc.edu
-NOERROR	dynsec-efr6-59.tamucc.edu
-NOERROR	dynsec-efr9-29.tamucc.edu
-NOERROR	dynsec-efr11-90.tamucc.edu
-NOERROR	dynsec-efr6-102.tamucc.edu
-NOERROR	dynsec-efr8-57.tamucc.edu
-NOERROR	dynsec-efr10-64.tamucc.edu
-NOERROR	dynsec-efr8-205.tamucc.edu
-NOERROR	dynsec-efr10-216.tamucc.edu
-NOERROR	ace.tamucc.edu
-NOERROR	dynsec-efr9-234.tamucc.edu
-NOERROR	dynsec-efr11-27.tamucc.edu
-NOERROR	dynsec-efr7-53.tamucc.edu
-NOERROR	fb-roi-2.tamucc.edu
-NOERROR	dynsec-efr11-14.tamucc.edu
-NOERROR	vl-112-gw-65.tamucc.edu
-NOERROR	test.tamucc.edu
-NOERROR	agiloft.tamucc.edu
-NOERROR	dynsec-efr10-190.tamucc.edu
-NXDOMAIN	netapp-unifiedmgr.tamucc.edu
-NOERROR	dynsec-efr9-168.tamucc.edu
-NOERROR	dynsec-efr10-183.tamucc.edu
-NOERROR	dynsec-efr8-156.tamucc.edu
-NOERROR	dynsec-efr9-136.tamucc.edu
-NOERROR	helpline.tamucc.edu
-NXDOMAIN	lapsweb.ad.tamucc.edu
-NOERROR	dynsec-efr9-8.tamucc.edu
-NOERROR	dynsec-efr11-137.tamucc.edu
-NOERROR	dynsec-efr8-24.tamucc.edu
-NOERROR	dynsec-efr9-82.tamucc.edu
-NOERROR	bb9.tamucc.edu
-NOERROR	dynsec-efr7-177.tamucc.edu
-NOERROR	dynsec-efr9-10.tamucc.edu
-NOERROR	griidc-demo.tamucc.edu
-NOERROR	dynsec-efr10-173.tamucc.edu
-NOERROR	dynsec-efr7-230.tamucc.edu
-NOERROR	dynsec-efr7-42.tamucc.edu
-NOERROR	dynsec-efr9-67.tamucc.edu
-NOERROR	dynsec-efr10-114.tamucc.edu
-NXDOMAIN	sponsor-portal.tamucc.edu
-NOERROR	dynsec-efr7-80.tamucc.edu
-NOERROR	dynsec-efr11-222.tamucc.edu
-NOERROR	admissions.tamucc.edu
-NOERROR	dynsec-efr11-103.tamucc.edu
-NOERROR	dynsec-efr11-89.tamucc.edu
-NOERROR	bxe-prod.tamucc.edu
-NXDOMAIN	argos-dev64.ad.tamucc.edu
-NOERROR	dynsec-efr11-244.tamucc.edu
-NXDOMAIN	ns-fi-6332-a.tamucc.edu
-NOERROR	dynsec-efr8-245.tamucc.edu
-NOERROR	dynsec-efr10-32.tamucc.edu
-NOERROR	dynsec-efr9-224.tamucc.edu
-NOERROR	dynsec-efr8-210.tamucc.edu
-NOERROR	dynsec-efr9-193.tamucc.edu
-NOERROR	testprep.tamucc.edu
-NOERROR	sssteacherprep.tamucc.edu
-NOERROR	duo.tamucc.edu
-NOERROR	fh-104-55141.tamucc.edu
-NXDOMAIN	ostack-sah01.mgmt.tamucc.edu
-NOERROR	clst.tamucc.edu
-NOERROR	dynsec-efr10-101.tamucc.edu
-NXDOMAIN	lapsweb.tamucc.edu
-NXDOMAIN	macaw.mgmt.tamucc.edu
-NXDOMAIN	bandocat.tamucc.edu
-NOERROR	dynsec-efr6-85.tamucc.edu
-NOERROR	dynsec-efr11-230.tamucc.edu
-NOERROR	dynsec-efr8-249.tamucc.edu
-NXDOMAIN	bmesg-test.tamucc.edu
-NOERROR	dynsec-efr6-205.tamucc.edu
-NOERROR	dynsec-efr6-0.tamucc.edu
-NXDOMAIN	seccam-mobile.ad.tamucc.edu
-NXDOMAIN	idm-shib2-prod.tamucc.edu
-NXDOMAIN	wlc.tamucc.edu
-NOERROR	dynsec-efr7-88.tamucc.edu
-NXDOMAIN	bxe4-test.tamucc.edu
-NOERROR	islanderbriefs.tamucc.edu
-NOERROR	dynsec-efr6-151.tamucc.edu
-NOERROR	dynsec-efr8-63.tamucc.edu
-NOERROR	interconnect.tamucc.edu
-NXDOMAIN	tc-ucs-cerha.tamucc.edu
-NXDOMAIN	rhs-cc04.mgmt.tamucc.edu
-NOERROR	dynsec-efr9-217.tamucc.edu
-NOERROR	smtp2-old.tamucc.edu
-NOERROR	dynsec-efr8-26.tamucc.edu
-NOERROR	dynsec-efr10-119.tamucc.edu
-NOERROR	tder.tamucc.edu
-NOERROR	dynsec-efr8-86.tamucc.edu
-NOERROR	camera3.tamucc.edu
-NOERROR	dynsec-efr6-213.tamucc.edu
-NOERROR	northstar.tamucc.edu
-NXDOMAIN	beis1-dire.tamucc.edu
-NOERROR	vl-114-gw-129.tamucc.edu
-NOERROR	lsuss2.tamucc.edu
-NOERROR	dynsec-efr9-22.tamucc.edu
-NOERROR	dynsec-efr11-119.tamucc.edu
-NOERROR	dynsec-efr10-221.tamucc.edu
-NOERROR	dynsec-efr8-110.tamucc.edu
-NXDOMAIN	ns-ise02.tamucc.edu
-NOERROR	dynsec-efr8-163.tamucc.edu
-NOERROR	dynsec-efr6-214.tamucc.edu
-NOERROR	jips.cob.tamucc.edu
-NOERROR	dynsec-efr9-161.tamucc.edu
-NOERROR	dynsec-efr9-158.tamucc.edu
-NOERROR	spfw.tamucc.edu
-NOERROR	dynsec-efr9-192.tamucc.edu
-NOERROR	dynsec-efr7-195.tamucc.edu
-NOERROR	nature.com.manowar.tamucc.edu
-NOERROR	dynsec-efr11-11.tamucc.edu
-NOERROR	dynsec-efr10-132.tamucc.edu
-NOERROR	dynsec-efr10-131.tamucc.edu
-NOERROR	dynsec-efr9-230.tamucc.edu
-NOERROR	transportation.tamucc.edu
-NOERROR	dynsec-efr8-240.tamucc.edu
-NOERROR	dynsec-efr11-70.tamucc.edu
-NOERROR	dynsec-efr8-182.tamucc.edu
-NOERROR	tcoon.cbi.tamucc.edu
-NOERROR	imap.tamucc.edu
-NXDOMAIN	cas03.ad.tamucc.edu
-NXDOMAIN	idm-gig2-prod.ad.tamucc.edu
-NOERROR	dynsec-efr7-128.tamucc.edu
-NOERROR	onlinegift.tamucc.edu
-NOERROR	mimir.tamucc.edu
-NOERROR	dynsec-efr10-186.tamucc.edu
-NXDOMAIN	f5a.mgmt.tamucc.edu
-NOERROR	dynsec-efr8-83.tamucc.edu
-NOERROR	tsrc.cbi.tamucc.edu
-NXDOMAIN	idm-db-dire.tamucc.edu
-NXDOMAIN	griidc-dev2-www.tamucc.edu
-NOERROR	sciencefair.tamucc.edu
-NXDOMAIN	idm-gig1.ad.tamucc.edu
-NOERROR	dynsec-efr8-223.tamucc.edu
-NOERROR	dynsec-efr11-99.tamucc.edu
-NOERROR	dynsec-efr7-130.tamucc.edu
-NOERROR	dynsec-efr7-72.tamucc.edu
-NOERROR	svc.tamucc.edu
-NOERROR	exchange.tamucc.edu
-NXDOMAIN	rhs-sa01.mgmt.tamucc.edu
-NOERROR	dynsec-efr7-149.tamucc.edu
-NOERROR	wac.tamucc.edu
-NXDOMAIN	argos-test.tamucc.edu
-NXDOMAIN	sa-dc02.tamucc.edu
-NOERROR	dynsec-efr8-12.tamucc.edu
-NOERROR	dynsec-efr10-50.tamucc.edu
-NOERROR	dynsec-efr7-1.tamucc.edu
-NOERROR	dynsec-efr7-114.tamucc.edu
-NOERROR	turnerlab.tamucc.edu
-NOERROR	cartogram.tamucc.edu
-NXDOMAIN	ostack-comp03.mgmt.tamucc.edu
-NOERROR	dynsec-efr7-152.tamucc.edu
-NOERROR	bhm.tamucc.edu
-NOERROR	dynsec-efr6-239.tamucc.edu
-NOERROR	dynsec-efr11-175.tamucc.edu
-NOERROR	dynsec-efr11-191.tamucc.edu
-NOERROR	inb-prod.tamucc.edu
-NOERROR	dynsec-efr10-175.tamucc.edu
-NXDOMAIN	griidc-dev2-data.tamucc.edu
-NOERROR	dynsec-efr10-100.tamucc.edu
-NOERROR	dynsec-efr7-189.tamucc.edu
-NOERROR	dynsec-efr10-196.tamucc.edu
-NOERROR	dynsec-efr8-52.tamucc.edu
-NOERROR	mom.tamucc.edu
-NXDOMAIN	tc-ucs-cups2.tamucc.edu
-NOERROR	dynsec-efr10-118.tamucc.edu
-NXDOMAIN	ostack-stor09.mgmt.tamucc.edu
-NOERROR	dynsec-efr9-147.tamucc.edu
-NXDOMAIN	laserfiche.tamucc.edu
-NOERROR	dynsec-efr7-131.tamucc.edu
-NOERROR	judicialaffairs.tamucc.edu
-NOERROR	dynsec-efr6-147.tamucc.edu
-NXDOMAIN	sw6510a.tamucc.edu
-NOERROR	hybrid02.tamucc.edu
-NXDOMAIN	owl1.tamucc.edu
-NOERROR	dynsec-efr7-11.tamucc.edu
-NOERROR	www.nscs.tamucc.edu
-NOERROR	cc-row4-kvm1-mgmt.tamucc.edu
-NOERROR	dynsec-efr7-107.tamucc.edu
-NOERROR	dynsec-efr11-206.tamucc.edu
-NOERROR	dynsec-efr8-22.tamucc.edu
-NOERROR	dynsec-efr7-132.tamucc.edu
-NOERROR	dynsec-efr6-80.tamucc.edu
-NOERROR	login.manowar.tamucc.edu
-NOERROR	dynsec-efr6-223.tamucc.edu
-NOERROR	dynsec-efr8-146.tamucc.edu
-NOERROR	dynsec-efr6-87.tamucc.edu
-NXDOMAIN	heatweb.ad.tamucc.edu
-NXDOMAIN	itbilling-test.tamucc.edu
-NOERROR	dataone-prod.tamucc.edu
-NOERROR	dynsec-efr6-92.tamucc.edu
-NOERROR	dynsec-efr8-65.tamucc.edu
-NXDOMAIN	idm-idp1-dire.tamucc.edu
-NOERROR	dynsec-efr11-242.tamucc.edu
-NOERROR	dynsec-efr6-69.tamucc.edu
-NOERROR	cab.tamucc.edu
-NOERROR	disabilityservices.tamucc.edu
-NOERROR	dynsec-efr10-44.tamucc.edu
-NOERROR	dynsec-efr9-1.tamucc.edu
-NOERROR	dynsec-efr7-214.tamucc.edu
-NOERROR	onbt.tamucc.edu
-NXDOMAIN	ois-indexer1.tamucc.edu
-NXDOMAIN	ns-ise-psn3.tamucc.edu
-NOERROR	proto-prod.tamucc.edu
-NOERROR	dynsec-efr8-76.tamucc.edu
-NXDOMAIN	idm-idp.tamucc.edu
-NOERROR	dynsec-efr9-24.tamucc.edu
-NXDOMAIN	radius2.tamucc.edu
-NOERROR	dynsec-efr6-212.tamucc.edu
-NOERROR	dynsec-efr11-105.tamucc.edu
-NOERROR	dynsec-efr6-177.tamucc.edu
-NOERROR	dynsec-efr6-127.tamucc.edu
-NOERROR	dynsec-efr6-171.tamucc.edu
-NOERROR	dynsec-efr10-75.tamucc.edu
-NOERROR	cla.tamucc.edu
-NXDOMAIN	sinky.tamucc.edu
-NOERROR	nasgrp-demo.tamucc.edu
-NXDOMAIN	vcenter.tamucc.edu
-NOERROR	dynsec-efr8-194.tamucc.edu
-NOERROR	dynsec-efr7-76.tamucc.edu
-NOERROR	dynsec-efr9-28.tamucc.edu
-NOERROR	dynsec-efr6-222.tamucc.edu
-NOERROR	dynsec-efr11-125.tamucc.edu
-NXDOMAIN	rdgateway1.tamucc.edu
-NOERROR	dynsec-efr11-249.tamucc.edu
-NXDOMAIN	step.tamucc.edu
-NOERROR	dynsec-efr8-180.tamucc.edu
-NOERROR	dynsec-efr8-74.tamucc.edu
-NXDOMAIN	rcnspace.tamucc.edu
-NOERROR	ldap.lb.tamucc.edu
-NXDOMAIN	idm-idp-test.tamucc.edu
-NXDOMAIN	griidc-dev2.tamucc.edu
-NOERROR	oie.tamucc.edu
-NOERROR	dynsec-efr11-164.tamucc.edu
-NOERROR	dynsec-efr9-95.tamucc.edu
-NOERROR	bluecrew.tamucc.edu
-NOERROR	dynsec-efr8-93.tamucc.edu
-NOERROR	dynsec-efr6-164.tamucc.edu
-NOERROR	dynsec-efr7-15.tamucc.edu
-NOERROR	resolver.ebscohost.com.manowar.tamucc.edu
-NOERROR	grow.tamucc.edu
-NOERROR	dynsec-efr6-252.tamucc.edu
-NXDOMAIN	punisher.tamucc.edu
-NOERROR	dynsec-efr7-151.tamucc.edu
-NOERROR	dynsec-efr10-180.tamucc.edu
-NXDOMAIN	rhs-cc14.mgmt.tamucc.edu
-NXDOMAIN	ois-confluence-test-srm-cc.tamucc.edu
-NOERROR	dynsec-efr8-89.tamucc.edu
-NOERROR	dynsec-efr11-83.tamucc.edu
-NOERROR	dynsec-efr10-207.tamucc.edu
-NOERROR	sophos.tamucc.edu
-NXDOMAIN	falcon3.tamucc.edu
-NXDOMAIN	ls1.ad.tamucc.edu
-NXDOMAIN	enterpriseregistration.ad.tamucc.edu
-NXDOMAIN	idm-idp2.tamucc.edu
-NOERROR	gomexsi.tamucc.edu
-NOERROR	apps.proto.cbi.tamucc.edu
-NOERROR	dynsec-efr7-222.tamucc.edu
-NOERROR	dynsec-efr11-61.tamucc.edu
-NOERROR	charity.tamucc.edu
-NOERROR	lanrev.tamucc.edu
-NOERROR	dynsec-efr7-74.tamucc.edu
-NOERROR	dynsec-efr6-99.tamucc.edu
-NOERROR	nsglobus-test.tamucc.edu
-NXDOMAIN	vrealize-ops.tamucc.edu
-NXDOMAIN	islandertransition.tamucc.edu
-NOERROR	dynsec-efr10-104.tamucc.edu
-NOERROR	dynsec-efr7-71.tamucc.edu
-NOERROR	iservicedesk.tamucc.edu
-NOERROR	updb.tamucc.edu
-NXDOMAIN	axiom.tamucc.edu
-NOERROR	edcs.tamucc.edu
-NOERROR	dynsec-efr10-248.tamucc.edu
-NXDOMAIN	f5a.lb.tamucc.edu
-NOERROR	dynsec-efr6-121.tamucc.edu
-NOERROR	dynsec-efr7-226.tamucc.edu
-NOERROR	dynsec-efr11-170.tamucc.edu
-NOERROR	dynsec-efr8-241.tamucc.edu
-NXDOMAIN	f5c.lb.tamucc.edu
-NOERROR	dynsec-efr10-217.tamucc.edu
-NOERROR	genomics.tamucc.edu
-NXDOMAIN	do.tamucc.edu
-NOERROR	dynsec-efr8-134.tamucc.edu
-NOERROR	dynsec-efr7-75.tamucc.edu
-NOERROR	dynsec-efr9-226.tamucc.edu
-NOERROR	dynsec-efr6-189.tamucc.edu
-NOERROR	dynsec-efr8-226.tamucc.edu
-NOERROR	smtp4.tamucc.edu
-NOERROR	vpn.tamucc.edu
-NOERROR	pens.tamucc.edu
-NOERROR	dynsec-efr10-153.tamucc.edu
-NOERROR	dynsec-efr9-62.tamucc.edu
-NXDOMAIN	idm-shib1-prod.tamucc.edu
-NOERROR	dynsec-efr9-102.tamucc.edu
-NOERROR	dynsec-efr11-58.tamucc.edu
-NOERROR	dynsec-efr7-125.tamucc.edu
-NOERROR	dynsec-efr7-28.tamucc.edu
-NXDOMAIN	rubrik1a.tamucc.edu
-NOERROR	bxe-prod.lb.tamucc.edu
-NOERROR	dynsec-efr11-122.tamucc.edu
-NOERROR	pathways.tamucc.edu
-NXDOMAIN	grad.tamucc.edu
-NOERROR	dynsec-efr10-48.tamucc.edu
-NOERROR	cbiweb.tamucc.edu
-NXDOMAIN	conference-4-standaloneclusterd8fa4.tamucc.edu
-NXDOMAIN	idm-db3.tamucc.edu
-NXDOMAIN	mailfilter3.tamucc.edu
-NOERROR	dynsec-efr11-153.tamucc.edu
-NOERROR	dynsec-efr8-213.tamucc.edu
-NOERROR	dynsec-efr9-235.tamucc.edu
-NOERROR	dynsec-efr9-98.tamucc.edu
-NXDOMAIN	axiom-test.ad.tamucc.edu
-NOERROR	dynsec-efr8-159.tamucc.edu
-NOERROR	mysanddollars.tamucc.edu
-NOERROR	dynsec-efr10-164.tamucc.edu
-NXDOMAIN	heslr.ad.tamucc.edu
-NOERROR	dynsec-efr8-5.tamucc.edu
-NXDOMAIN	watchdog.mgmt.tamucc.edu
-NOERROR	outlook.tamucc.edu
-NOERROR	dynsec-efr9-173.tamucc.edu
-NOERROR	csgolddb.tamucc.edu
-NOERROR	dynsec-efr7-13.tamucc.edu
-NOERROR	git.cbi.tamucc.edu
-NOERROR	idm-idp3.tamucc.edu
-NXDOMAIN	mysql2.tamucc.edu
-NOERROR	dynsec-efr7-240.tamucc.edu
-NOERROR	tileserver.tamucc.edu
-NXDOMAIN	proto.tamucc.edu
-NOERROR	uc-xbox2.tamucc.edu
-NOERROR	dynsec-efr9-172.tamucc.edu
-NOERROR	dynsec-efr7-154.tamucc.edu
-NOERROR	dynsec-efr10-227.tamucc.edu
-NOERROR	dynsec-efr10-130.tamucc.edu
-NXDOMAIN	ostack-stor02.mgmt.tamucc.edu
-NOERROR	cbigrid.tamucc.edu
-NOERROR	dynsec-efr8-28.tamucc.edu
-NOERROR	dynsec-efr9-134.tamucc.edu
-NOERROR	dynsec-efr10-230.tamucc.edu
-NOERROR	m.tamucc.edu
-NOERROR	dynsec-efr9-116.tamucc.edu
-NXDOMAIN	txuascoe.tamucc.edu
-NOERROR	dynsec-efr8-138.tamucc.edu
-NXDOMAIN	ns-ise-id2.tamucc.edu
-NXDOMAIN	idp-test.tamucc.edu
-NOERROR	dynsec-efr9-44.tamucc.edu
-NOERROR	dynsec-efr7-171.tamucc.edu
-NOERROR	newman.tamucc.edu
-NXDOMAIN	mysql-prod.tamucc.edu
-NOERROR	dynsec-efr9-174.tamucc.edu
-NOERROR	dynsec-efr8-157.tamucc.edu
-NOERROR	dynsec-efr8-7.tamucc.edu
-NOERROR	dynsec-efr7-10.tamucc.edu
-NOERROR	dynsec-efr7-200.tamucc.edu
-NOERROR	dynsec-efr9-139.tamucc.edu
-NXDOMAIN	bxe2-prod.tamucc.edu
-NXDOMAIN	axiomtest.tamucc.edu
-NOERROR	icore.tamucc.edu
-NOERROR	dynsec-efr9-59.tamucc.edu
-NOERROR	dynsec-efr9-35.tamucc.edu
-NOERROR	dynsec-efr10-232.tamucc.edu
-NXDOMAIN	i6000-cam.tamucc.edu
-NOERROR	writingcamps.tamucc.edu
-NOERROR	illiad-new.tamucc.edu
-NXDOMAIN	alertus01.ad.tamucc.edu
-NOERROR	dynsec-efr7-184.tamucc.edu
-NOERROR	dynsec-efr8-15.tamucc.edu
-NOERROR	dynsec-efr7-185.tamucc.edu
-NOERROR	dynsec-efr6-20.tamucc.edu
-NOERROR	dynsec-efr9-144.tamucc.edu
-NOERROR	dynsec-efr9-56.tamucc.edu
-NOERROR	dynsec-efr11-72.tamucc.edu
-NOERROR	dynsec-efr7-251.tamucc.edu
-NOERROR	dynsec-efr7-90.tamucc.edu
-NOERROR	education.tamucc.edu
-NXDOMAIN	rhs-cc05.mgmt.tamucc.edu
-NXDOMAIN	studentfoundation.tamucc.edu
-NOERROR	idp-prod.lb.tamucc.edu
-NOERROR	dynsec-efr7-39.tamucc.edu
-NOERROR	dynsec-efr11-190.tamucc.edu
-NXDOMAIN	rhodos-2.tamucc.edu
-NOERROR	heslr.tamucc.edu
-NOERROR	dynsec-efr8-96.tamucc.edu
-NOERROR	dynsec-efr9-202.tamucc.edu
-NOERROR	dynsec-efr8-233.tamucc.edu
-NOERROR	dynsec-efr9-87.tamucc.edu
-NOERROR	dynsec-efr10-117.tamucc.edu
-NOERROR	dynsec-efr9-137.tamucc.edu
-NOERROR	dynsec-efr10-67.tamucc.edu
-NOERROR	perfsonar.tamucc.edu
-NOERROR	dynsec-efr10-147.tamucc.edu
-NOERROR	ithelp-test.tamucc.edu
-NXDOMAIN	fusion-web.ad.tamucc.edu
-NOERROR	dynsec-efr6-40.tamucc.edu
-NOERROR	dynsec-efr7-99.tamucc.edu
-NOERROR	staffcouncil.tamucc.edu
-NOERROR	dynsec-efr6-68.tamucc.edu
-NXDOMAIN	seccam05.ad.tamucc.edu
-NXDOMAIN	ois-confluence-test.tamucc.edu
-NOERROR	dynsec-efr7-168.tamucc.edu
-NOERROR	dynsec-efr6-52.tamucc.edu
-NOERROR	dynsec-efr11-9.tamucc.edu
-NXDOMAIN	lshpc.mgmt.tamucc.edu
-NOERROR	dynsec-efr8-212.tamucc.edu
-NOERROR	ext-camera2.tamucc.edu
-NOERROR	dynsec-efr10-138.tamucc.edu
-NOERROR	dynsec-efr7-170.tamucc.edu
-NOERROR	dynsec-efr9-75.tamucc.edu
-NOERROR	dynsec-efr9-69.tamucc.edu
-NOERROR	testing.tamucc.edu
-NOERROR	dynsec-efr8-229.tamucc.edu
-NXDOMAIN	rhs-cc24.mgmt.tamucc.edu
-NOERROR	dynsec-efr9-7.tamucc.edu
-NOERROR	dynsec-efr11-80.tamucc.edu
-NOERROR	dynsec-efr6-66.tamucc.edu
-NOERROR	dynsec-efr10-127.tamucc.edu
-NOERROR	dynsec-efr11-227.tamucc.edu
-NOERROR	cascade-web-dev.tamucc.edu
-NOERROR	dynsec-efr9-21.tamucc.edu
-NOERROR	dynsec-efr10-225.tamucc.edu
-NOERROR	dynsec-efr7-82.tamucc.edu
-NOERROR	dynsec-efr6-251.tamucc.edu
-NOERROR	dynsec-efr8-177.tamucc.edu
-NOERROR	dynsec-efr11-177.tamucc.edu
-NOERROR	universityservices.tamucc.edu
-NXDOMAIN	bxe1-pir.tamucc.edu
-NOERROR	login.tamucc.edu
-NOERROR	dynsec-efr11-114.tamucc.edu
-NXDOMAIN	ois-indexer4.tamucc.edu
-NOERROR	dynsec-efr6-41.tamucc.edu
-NOERROR	dynsec-efr7-119.tamucc.edu
-NOERROR	cerberus-1.tamucc.edu
-NOERROR	perfsonar2.tamucc.edu
-NOERROR	dynsec-efr8-116.tamucc.edu
-NXDOMAIN	www.onlinedegree.tamucc.edu
-NOERROR	dynsec-efr8-115.tamucc.edu
-NOERROR	dynsec-efr9-34.tamucc.edu
-NOERROR	dynsec-efr6-45.tamucc.edu
-NXDOMAIN	ostack-gpu02.mgmt.tamucc.edu
-NOERROR	dynsec-efr8-155.tamucc.edu
-NOERROR	outhouse.tamucc.edu
-NOERROR	dynsec-efr6-150.tamucc.edu
-NOERROR	dynsec-efr7-45.tamucc.edu
-NOERROR	dynsec-efr6-2.tamucc.edu
-NXDOMAIN	seccam02.ad.tamucc.edu
-NXDOMAIN	scom.tamucc.edu
-NOERROR	dynsec-efr8-129.tamucc.edu
-NOERROR	eventslist.tamucc.edu
-NOERROR	police.tamucc.edu
-NOERROR	dynsec-efr11-5.tamucc.edu
-NOERROR	dynsec-efr6-119.tamucc.edu
-NOERROR	dynsec-efr11-176.tamucc.edu
-NXDOMAIN	owl1.mgmt.tamucc.edu
-NOERROR	projectgrad.tamucc.edu
-NOERROR	excessivehours.tamucc.edu
-NOERROR	dynsec-efr6-106.tamucc.edu
-NXDOMAIN	bxe7-prod.tamucc.edu
-NOERROR	dynsec-efr10-155.tamucc.edu
-NXDOMAIN	rubrik2a.tamucc.edu
-NOERROR	dynsec-efr10-133.tamucc.edu
-NOERROR	dynsec-efr11-106.tamucc.edu
-NOERROR	uc-xbox3.tamucc.edu
-NOERROR	dynsec-efr9-183.tamucc.edu
-NOERROR	banner.tamucc.edu
-NOERROR	dynsec-efr8-36.tamucc.edu
-NOERROR	dynsec-efr7-224.tamucc.edu
-NOERROR	studentaffairs.tamucc.edu
-NOERROR	seas.tamucc.edu
-NOERROR	presidentscouncil.tamucc.edu
-NOERROR	fisheries.tamucc.edu
-NOERROR	test-manowar.tamucc.edu
-NOERROR	dynsec-efr6-44.tamucc.edu
-NOERROR	dynsec-efr7-8.tamucc.edu
-NOERROR	scholar.google.com.manowar.tamucc.edu
-NOERROR	dynsec-efr8-64.tamucc.edu
-NOERROR	dynsec-efr6-56.tamucc.edu
-NOERROR	dynsec-efr11-31.tamucc.edu
-NXDOMAIN	confluence-test.tamucc.edu
-NXDOMAIN	offsite.tamucc.edu
-NOERROR	dynsec-efr8-162.tamucc.edu
-NOERROR	dynsec-efr11-158.tamucc.edu
-NOERROR	sinky-prod.tamucc.edu
-NOERROR	dynsec-efr9-113.tamucc.edu
-NOERROR	tar.tamucc.edu
-NOERROR	dynsec-efr9-201.tamucc.edu
-NOERROR	dynsec-efr8-147.tamucc.edu
-NOERROR	dynsec-efr6-197.tamucc.edu
-NXDOMAIN	rubrik1c.tamucc.edu
-NXDOMAIN	ois-indexer5.tamucc.edu
-NOERROR	dynsec-efr11-163.tamucc.edu
-NOERROR	f5b-vlan82.tamucc.edu
-NOERROR	cascade.tamucc.edu
-NOERROR	tour.tamucc.edu
-NOERROR	dynsec-efr10-4.tamucc.edu
-NOERROR	dynsec-efr8-119.tamucc.edu
-NXDOMAIN	www.transfer.tamucc.edu
-NOERROR	dynsec-efr6-75.tamucc.edu
-NOERROR	dynsec-efr8-46.tamucc.edu
-NOERROR	dynsec-efr11-50.tamucc.edu
-NOERROR	dynsec-efr10-200.tamucc.edu
-NXDOMAIN	laserfichelfds.ad.tamucc.edu
-NOERROR	dynsec-efr9-210.tamucc.edu
-NOERROR	dynsec-efr10-148.tamucc.edu
-NOERROR	dynsec-efr8-118.tamucc.edu
-NOERROR	dynsec-efr11-183.tamucc.edu
-NXDOMAIN	netappcc-nas1.tamucc.edu
-NOERROR	nursing.tamucc.edu
-NOERROR	dynsec-efr10-1.tamucc.edu
-NXDOMAIN	bss1-dire.tamucc.edu
-NOERROR	dynsec-efr7-24.tamucc.edu
-NXDOMAIN	tc-ucs-ucn.tamucc.edu
-NOERROR	dynsec-efr11-77.tamucc.edu
-NOERROR	dynsec-efr7-174.tamucc.edu
-NOERROR	dynsec-efr10-222.tamucc.edu
-NOERROR	dynsec-efr10-83.tamucc.edu
-NOERROR	dynsec-efr11-188.tamucc.edu
-NOERROR	dynsec-efr11-130.tamucc.edu
-NOERROR	dynsec-efr10-163.tamucc.edu
-NOERROR	dynsec-efr11-131.tamucc.edu
-NXDOMAIN	callreplay.tamucc.edu
-NXDOMAIN	wlc2.tamucc.edu
-NOERROR	dynsec-efr11-123.tamucc.edu
-NOERROR	dynsec-efr6-33.tamucc.edu
-NOERROR	dynsec-efr7-208.tamucc.edu
-NOERROR	officialnotices.tamucc.edu
-NOERROR	nscs.tamucc.edu
-NOERROR	dynsec-efr10-97.tamucc.edu
-NOERROR	dynsec-efr8-11.tamucc.edu
-NXDOMAIN	rubrik1d-sa.tamucc.edu
-NOERROR	dynsec-efr11-189.tamucc.edu
-NOERROR	tuition.tamucc.edu
-NOERROR	music.tamucc.edu
-NOERROR	english.tamucc.edu
-NOERROR	dynsec-efr11-240.tamucc.edu
-NOERROR	events.tamucc.edu
-NOERROR	dynsec-efr8-186.tamucc.edu
-NOERROR	dynsec-efr10-71.tamucc.edu
-NOERROR	dynsec-efr10-211.tamucc.edu
-NOERROR	dynsec-efr11-121.tamucc.edu
-NXDOMAIN	bxe1-pprd.tamucc.edu
-NOERROR	engineering.tamucc.edu
-NOERROR	dynsec-efr6-242.tamucc.edu
-NOERROR	dynsec-efr11-169.tamucc.edu
-NOERROR	dynsec-efr7-247.tamucc.edu
-NOERROR	dynsec-efr6-125.tamucc.edu
-NOERROR	usgsvpn.tamucc.edu
-NOERROR	dynsec-efr11-250.tamucc.edu
-NOERROR	sts.test.tamucc.edu
-NOERROR	dynsec-efr6-9.tamucc.edu
-NOERROR	dynsec-efr6-188.tamucc.edu
-NOERROR	lsuasc.tamucc.edu
-NOERROR	dynsec-efr6-167.tamucc.edu
-NOERROR	dynsec-efr11-21.tamucc.edu
-NOERROR	hybrid2.tamucc.edu
-NOERROR	cosc.tamucc.edu
-NXDOMAIN	rdgateway2.ad.tamucc.edu
-NXDOMAIN	cas03.tamucc.edu
-NOERROR	dynsec-efr8-209.tamucc.edu
-NOERROR	dynsec-efr6-30.tamucc.edu
-NOERROR	lwc-211-cam.tamucc.edu
-NOERROR	dynsec-efr9-177.tamucc.edu
-NOERROR	bss-prod.tamucc.edu
-NOERROR	confluencetest.lb.tamucc.edu
-NXDOMAIN	tc-ucs-cups.tamucc.edu
-NOERROR	dynsec-efr6-250.tamucc.edu
-NOERROR	dynsec-efr9-195.tamucc.edu
-NOERROR	dynsec-efr6-181.tamucc.edu
-NXDOMAIN	cte.tamucc.edu
-NOERROR	dynsec-efr6-232.tamucc.edu
-NOERROR	dynsec-efr10-141.tamucc.edu
-NOERROR	dynsec-efr11-187.tamucc.edu
-NOERROR	dynsec-efr7-124.tamucc.edu
-NXDOMAIN	sci-apps1.tamucc.edu
-NOERROR	dynsec-efr9-163.tamucc.edu
-NOERROR	hrigis.tamucc.edu
-NOERROR	dynsec-efr9-150.tamucc.edu
-NOERROR	dynsec-efr8-133.tamucc.edu
-NOERROR	hopi-server.tamucc.edu
-NXDOMAIN	b9beis.fw.tamucc.edu
-NOERROR	dynsec-efr7-44.tamucc.edu
-NXDOMAIN	bxe5-prod.tamucc.edu
-NOERROR	dynsec-efr6-91.tamucc.edu
-NOERROR	dynsec-efr7-19.tamucc.edu
-NOERROR	dynsec-efr9-31.tamucc.edu
-NOERROR	dynsec-efr6-156.tamucc.edu
-NOERROR	dynsec-efr8-94.tamucc.edu
-NOERROR	dynsec-efr8-248.tamucc.edu
-NOERROR	dynsec-efr11-198.tamucc.edu
-NOERROR	dynsec-efr9-220.tamucc.edu
-NOERROR	dynsec-efr10-106.tamucc.edu
-NOERROR	dynsec-efr7-30.tamucc.edu
-NOERROR	dynsec-efr11-235.tamucc.edu
-NOERROR	dynsec-efr6-19.tamucc.edu
-NXDOMAIN	edw-pyramid2018.tamucc.edu
-NOERROR	dynsec-efr8-222.tamucc.edu
-NOERROR	dynsec-efr9-63.tamucc.edu
-NOERROR	dynsec-efr10-184.tamucc.edu
-NXDOMAIN	idm-gig1-prod.ad.tamucc.edu
-NOERROR	dynsec-efr10-109.tamucc.edu
-NOERROR	dynsec-efr9-176.tamucc.edu
-NOERROR	sp.tamucc.edu
-NOERROR	dynsec-efr11-54.tamucc.edu
-NOERROR	dynsec-efr9-148.tamucc.edu
-NOERROR	password.tamucc.edu
-NOERROR	dynsec-efr6-28.tamucc.edu
-NXDOMAIN	sa-dc02.ad.tamucc.edu
-NOERROR	dynsec-efr6-139.tamucc.edu
-NOERROR	dynsec-efr7-9.tamucc.edu
-NOERROR	ext-dns1.tamucc.edu
-NOERROR	dynsec-efr10-201.tamucc.edu
-NXDOMAIN	bbtest.tamucc.edu
-NOERROR	dynsec-efr7-162.tamucc.edu
-NXDOMAIN	webmail-dr.tamucc.edu
-NOERROR	idm-idp-prod.lb.tamucc.edu
-NOERROR	dynsec-efr6-114.tamucc.edu
-NOERROR	dynsec-efr8-19.tamucc.edu
-NOERROR	dynsec-efr9-229.tamucc.edu
-NOERROR	rhds-prod.tamucc.edu
-NOERROR	dynsec-efr9-186.tamucc.edu
-NOERROR	dynsec-efr8-246.tamucc.edu
-NOERROR	dynsec-efr9-179.tamucc.edu
-NOERROR	www.marinebiology.tamucc.edu
-NXDOMAIN	owl2.mgmt.tamucc.edu
-NOERROR	dynsec-efr10-204.tamucc.edu
-NXDOMAIN	inb3-prod.tamucc.edu
-NOERROR	dynsec-efr7-215.tamucc.edu
-NOERROR	wow.tamucc.edu
-NOERROR	astra.tamucc.edu
-NXDOMAIN	axiom-prod.tamucc.edu
-NOERROR	studyabroad.tamucc.edu
-NOERROR	dynsec-efr6-165.tamucc.edu
-NOERROR	dynsec-efr7-86.tamucc.edu
-NOERROR	dynsec-efr6-157.tamucc.edu
-NOERROR	futureislander.tamucc.edu
-NXDOMAIN	bxe10-prod.tamucc.edu
-NOERROR	sailbooks.tamucc.edu
-NOERROR	hispanicheritagemonth.tamucc.edu
-NXDOMAIN	vrealize-orc.tamucc.edu
-NOERROR	rdgatewaytest.tamucc.edu
-NOERROR	islanderchallenge.tamucc.edu
-NXDOMAIN	dataonetest.tamucc.edu
-NOERROR	cbsf.tamucc.edu
-NOERROR	dynsec-efr9-81.tamucc.edu
-NOERROR	dynsec-efr9-223.tamucc.edu
-NOERROR	dynsec-efr10-54.tamucc.edu
-NOERROR	dynsec-efr7-68.tamucc.edu
-NOERROR	islandergreen.tamucc.edu
-NXDOMAIN	bapi2-prod.tamucc.edu
-NOERROR	dynsec-efr8-13.tamucc.edu
-NOERROR	samc.tamucc.edu
-NOERROR	codi.tamucc.edu
-NXDOMAIN	ns-fi-6332-b.tamucc.edu
-NOERROR	dynsec-efr6-138.tamucc.edu
-NOERROR	dynsec-efr8-225.tamucc.edu
-NOERROR	dynsec-efr10-231.tamucc.edu
-NOERROR	dynsec-efr6-221.tamucc.edu
-NOERROR	dynsec-efr9-108.tamucc.edu
-NXDOMAIN	rubrik1b-sa.tamucc.edu
-NOERROR	dynsec-efr9-244.tamucc.edu
-NOERROR	dynsec-efr7-181.tamucc.edu
-NXDOMAIN	archivematica.mgmt.tamucc.edu
-NXDOMAIN	dwsand1.tamucc.edu
-NOERROR	dynsec-efr7-122.tamucc.edu
-NOERROR	dynsec-efr7-213.tamucc.edu
-NXDOMAIN	joker.tamucc.edu
-NXDOMAIN	rubrik1a-sa.tamucc.edu
-NOERROR	dynsec-efr11-63.tamucc.edu
-NXDOMAIN	tamucc-apic2-cimc.tamucc.edu
-NOERROR	dynsec-efr10-168.tamucc.edu
-NOERROR	dynsec-efr8-242.tamucc.edu
-NOERROR	dynsec-efr10-80.tamucc.edu
-NOERROR	dynsec-efr6-37.tamucc.edu
-NXDOMAIN	onbt-sa.tamucc.edu
-NOERROR	dynsec-efr6-6.tamucc.edu
-NOERROR	dynsec-efr11-155.tamucc.edu
-NXDOMAIN	news.tamucc.edu
-NXDOMAIN	formfusiontest.ad.tamucc.edu
-NOERROR	islandwaves.tamucc.edu
-NOERROR	sci.tamucc.edu
-NOERROR	dynsec-efr6-88.tamucc.edu
-NOERROR	dynsec-efr11-112.tamucc.edu
-NOERROR	dynsec-efr7-112.tamucc.edu
-NXDOMAIN	ucs-sa-prime.tamucc.edu
-NOERROR	sand2.tamucc.edu
-NOERROR	dynsec-efr9-30.tamucc.edu
-NXDOMAIN	idm-db2-dire.tamucc.edu
-NXDOMAIN	bss2-prod.tamucc.edu
-NOERROR	meridian.cbi.tamucc.edu
-NOERROR	dynsec-efr11-74.tamucc.edu
-NOERROR	dynsec-efr11-134.tamucc.edu
-NOERROR	cbbic.tamucc.edu
-NOERROR	dynsec-efr6-236.tamucc.edu
-NXDOMAIN	idm-cas2-dire.tamucc.edu
-NXDOMAIN	ostack-ctrl01.mgmt.tamucc.edu
-NOERROR	dynsec-efr7-29.tamucc.edu
-NXDOMAIN	falcon6.tamucc.edu
-NOERROR	dynsec-efr8-220.tamucc.edu
-NXDOMAIN	autodiscover.ad.tamucc.edu
-NOERROR	conklelab.tamucc.edu
-NOERROR	dynsec-efr6-53.tamucc.edu
-NOERROR	dynsec-efr10-176.tamucc.edu
-NOERROR	updateform.tamucc.edu
-NOERROR	dynsec-efr7-0.tamucc.edu
-NXDOMAIN	gitlab.tamucc.edu
-NOERROR	griidc-prod-sa.tamucc.edu
-NOERROR	dynsec-efr9-74.tamucc.edu
-NOERROR	dynsec-efr11-203.tamucc.edu
-NXDOMAIN	owl.tamucc.edu
-NOERROR	dynsec-efr10-218.tamucc.edu
-NOERROR	dynsec-efr10-179.tamucc.edu
-NOERROR	dynsec-efr6-98.tamucc.edu
-NOERROR	dynsec-efr8-99.tamucc.edu
-NOERROR	dynsec-efr10-53.tamucc.edu
-NOERROR	dynsec-efr7-241.tamucc.edu
-NOERROR	dynsec-efr7-62.tamucc.edu
-NXDOMAIN	lfforms-dev.ad.tamucc.edu
-NOERROR	stonesdata.tamucc.edu
-NOERROR	unet-018.tamucc.edu
-NOERROR	dynsec-efr9-169.tamucc.edu
-NOERROR	poseidon.tamucc.edu
-NOERROR	dynsec-efr8-234.tamucc.edu
-NOERROR	dynsec-efr9-240.tamucc.edu
-NOERROR	listserv2.tamucc.edu
-NXDOMAIN	idm-cas2-test.tamucc.edu
-NOERROR	upwardbound.tamucc.edu
-NOERROR	dynsec-efr9-33.tamucc.edu
-NOERROR	momentum2020.tamucc.edu
-NOERROR	mcnair.tamucc.edu
-NOERROR	dynsec-efr11-128.tamucc.edu
-NOERROR	dynsec-efr11-19.tamucc.edu
-NOERROR	dynsec-efr6-178.tamucc.edu
-NOERROR	dynsec-efr9-51.tamucc.edu
-NOERROR	dynsec-efr6-83.tamucc.edu
-NOERROR	dynsec-efr9-91.tamucc.edu
-NXDOMAIN	hpcm01.tamucc.edu
-NOERROR	dynsec-efr9-86.tamucc.edu
-NOERROR	fsportal.tamucc.edu
-NOERROR	dynsec-efr7-95.tamucc.edu
-NOERROR	banner-self-service.tamucc.edu
-NOERROR	dynsec-efr8-207.tamucc.edu
-NOERROR	dynsec-efr9-188.tamucc.edu
-NOERROR	dynsec-efr7-138.tamucc.edu
-NOERROR	dynsec-efr6-180.tamucc.edu
-NOERROR	meridian-prod.tamucc.edu
-NOERROR	dynsec-efr9-52.tamucc.edu
-NXDOMAIN	laps.tamucc.edu
-NOERROR	dynsec-efr6-126.tamucc.edu
-NOERROR	dynsec-efr11-55.tamucc.edu
-NOERROR	fb106-c-coltarus-vpn.tamucc.edu
-NOERROR	dynsec-efr10-146.tamucc.edu
-NOERROR	dynsec-efr11-7.tamucc.edu
-NOERROR	dynsec-efr9-245.tamucc.edu
-NOERROR	dynsec-efr7-38.tamucc.edu
-NOERROR	jiratest.tamucc.edu
-NOERROR	dynsec-efr8-95.tamucc.edu
-NXDOMAIN	rhs-cc07.mgmt.tamucc.edu
-NOERROR	dynsec-efr10-202.tamucc.edu
-NOERROR	dynsec-efr10-188.tamucc.edu
-NOERROR	ceder.tamucc.edu
-NXDOMAIN	ssb2-prod.tamucc.edu
-NOERROR	dynsec-efr8-38.tamucc.edu
-NXDOMAIN	tc-ucs-exp-e.tamucc.edu
-NOERROR	dynsec-efr7-113.tamucc.edu
-NXDOMAIN	rubrik2b.tamucc.edu
-NOERROR	cnep.tamucc.edu
-NOERROR	dynsec-efr6-34.tamucc.edu
-NOERROR	catalog.tamucc.edu
-NOERROR	marsci.tamucc.edu
-NOERROR	newuser.tamucc.edu
-NOERROR	hpcm.tamucc.edu
-NOERROR	dynsec-efr6-195.tamucc.edu
-NOERROR	dynsec-efr11-100.tamucc.edu
-NOERROR	dynsec-efr6-67.tamucc.edu
-NOERROR	dynsec-efr9-231.tamucc.edu
-NOERROR	dynsec-efr11-133.tamucc.edu
-NOERROR	dynsec-efr9-45.tamucc.edu
-NXDOMAIN	ostack-stor03.mgmt.tamucc.edu
-NOERROR	dynsec-efr6-172.tamucc.edu
-NXDOMAIN	wireless.tamucc.edu
-NXDOMAIN	idm-provisioning-dire.tamucc.edu
-NOERROR	dynsec-efr6-170.tamucc.edu
-NXDOMAIN	ldap-test.tamucc.edu
-NOERROR	smte.tamucc.edu
-NOERROR	dynsec-efr10-239.tamucc.edu
-NOERROR	dynsec-efr6-237.tamucc.edu
-NOERROR	communication.tamucc.edu
-NOERROR	www.lsuasc.tamucc.edu
-NOERROR	homecoming.tamucc.edu
-NOERROR	dynsec-efr11-192.tamucc.edu
-NOERROR	dynsec-efr9-145.tamucc.edu
-NXDOMAIN	f5d.lb.tamucc.edu
-NOERROR	dynsec-efr8-33.tamucc.edu
-NOERROR	dynsec-efr8-80.tamucc.edu
-NOERROR	dynsec-efr11-94.tamucc.edu
-NOERROR	dynsec-efr11-173.tamucc.edu
-NXDOMAIN	bb9-test.tamucc.edu
-NOERROR	outbox-prod.tamucc.edu
-NOERROR	dynsec-efr10-233.tamucc.edu
-NOERROR	dynsec-efr7-210.tamucc.edu
-NOERROR	athletictraining.tamucc.edu
-NOERROR	marinemetadata.tamucc.edu
-NOERROR	support.tamucc.edu
-NXDOMAIN	dwpprd.tamucc.edu
-NOERROR	unet-004.tamucc.edu
-NOERROR	dynsec-efr9-227.tamucc.edu
-NOERROR	dynsec-efr6-203.tamucc.edu
-NOERROR	dynsec-efr7-34.tamucc.edu
-NOERROR	ad.tamucc.edu
-NOERROR	dynsec-efr10-151.tamucc.edu
-NOERROR	dynsec-efr11-174.tamucc.edu
-NOERROR	dynsec-efr11-205.tamucc.edu
-NXDOMAIN	argos-dev.ad.tamucc.edu
-NOERROR	lsci.tamucc.edu
-NOERROR	ois.tamucc.edu
-NXDOMAIN	inb1-prod.tamucc.edu
-NOERROR	dynsec-efr11-194.tamucc.edu
-NOERROR	dynsec-efr10-235.tamucc.edu
-NOERROR	dynsec-efr10-112.tamucc.edu
-NOERROR	dynsec-efr10-169.tamucc.edu
-NXDOMAIN	bxe-test.tamucc.edu
-NOERROR	willard.tamucc.edu
-NOERROR	dynsec-efr7-203.tamucc.edu
-NXDOMAIN	idm-idp1-prod.tamucc.edu
-NXDOMAIN	collab-edge.tamucc.edu
-NOERROR	griidc-test.tamucc.edu
-NOERROR	dynsec-efr11-60.tamucc.edu
-NOERROR	hub01.tamucc.edu
-NOERROR	dynsec-efr6-219.tamucc.edu
-NOERROR	cbiwow.tamucc.edu
-NOERROR	dynsec-efr9-78.tamucc.edu
-NXDOMAIN	rhs-cc20.mgmt.tamucc.edu
-NXDOMAIN	ois-confluence-test-srm-sa.tamucc.edu
-NOERROR	dynsec-efr10-144.tamucc.edu
-NOERROR	dynsec-efr6-161.tamucc.edu
-NOERROR	dynsec-efr7-252.tamucc.edu
-NOERROR	dynsec-efr8-144.tamucc.edu
-NOERROR	studentconduct.tamucc.edu
-NOERROR	astra7.tamucc.edu
-NOERROR	dynsec-efr11-51.tamucc.edu
-NOERROR	dynsec-efr7-31.tamucc.edu
-NXDOMAIN	idm-provisioning-test.tamucc.edu
-NOERROR	dynsec-efr8-44.tamucc.edu
-NOERROR	dynsec-efr7-182.tamucc.edu
-NOERROR	scholar-google-com.manowar.tamucc.edu
-NXDOMAIN	ostack-ctrl03.mgmt.tamucc.edu
-NOERROR	hriftp.tamucc.edu
-NOERROR	dynsec-efr8-244.tamucc.edu
-NOERROR	dynsec-efr7-100.tamucc.edu
-NXDOMAIN	ssb1-prod.tamucc.edu
-NXDOMAIN	0-rattler.tamucc.edu.portal.tamucc.edu
-NOERROR	dynsec-efr6-133.tamucc.edu
-NOERROR	dynsec-efr7-59.tamucc.edu
-NOERROR	dynsec-efr11-139.tamucc.edu
-NOERROR	dynsec-efr7-18.tamucc.edu
-NXDOMAIN	ostack-stor10.mgmt.tamucc.edu
-NXDOMAIN	dx70sercuresip.tamucc.edu
-NOERROR	dynsec-efr11-101.tamucc.edu
-NOERROR	dynsec-efr11-67.tamucc.edu
-NOERROR	ithelp.tamucc.edu
-NXDOMAIN	griidc-erddap-test.tamucc.edu
-NOERROR	dynsec-efr7-66.tamucc.edu
-NOERROR	dynsec-efr10-91.tamucc.edu
-NXDOMAIN	griidc.tamucc.edu
-NOERROR	dynsec-efr7-244.tamucc.edu
-NOERROR	its.tamucc.edu
-NOERROR	cascade-web-test.tamucc.edu
-NOERROR	dynsec-efr6-204.tamucc.edu
-NOERROR	dynsec-efr8-75.tamucc.edu
-NOERROR	dynsec-efr9-70.tamucc.edu
-NOERROR	dynsec-efr8-137.tamucc.edu
-NXDOMAIN	rhs-cc08.mgmt.tamucc.edu
-NOERROR	dynsec-efr8-78.tamucc.edu
-NOERROR	dynsec-efr10-36.tamucc.edu
-NOERROR	dynsec-efr6-79.tamucc.edu
-NXDOMAIN	vcenter.test.tamucc.edu
-NOERROR	dynsec-efr8-189.tamucc.edu
-NXDOMAIN	grp-dev.tamucc.edu
-NOERROR	dynsec-efr8-199.tamucc.edu
-NOERROR	dynsec-efr6-48.tamucc.edu
-NOERROR	writingwiki.tamucc.edu
-NOERROR	dynsec-efr8-136.tamucc.edu
-NOERROR	cfe.tamucc.edu
-NOERROR	clstback.tamucc.edu
-NOERROR	dynsec-efr7-115.tamucc.edu
-NOERROR	dynsec-efr8-29.tamucc.edu
-NXDOMAIN	falcon4.tamucc.edu
-NOERROR	dynsec-efr7-110.tamucc.edu
-NOERROR	dynsec-efr6-5.tamucc.edu
-NOERROR	entc.tamucc.edu
-NXDOMAIN	ois-jira-test-srm-sa.tamucc.edu
-NXDOMAIN	test-certificate.tamucc.edu
-NOERROR	dynsec-efr11-17.tamucc.edu
-NOERROR	dynsec-efr11-36.tamucc.edu
-NOERROR	dynsec-efr7-194.tamucc.edu
-NOERROR	dynsec-efr9-14.tamucc.edu
-NOERROR	vl95gw.tamucc.edu
-NXDOMAIN	ois-jira-srm-cc.tamucc.edu
-NXDOMAIN	ns-sw.ad.tamucc.edu
-NXDOMAIN	idm-identity-test.tamucc.edu
-NOERROR	imagegallery.tamucc.edu
-NOERROR	dynsec-efr11-102.tamucc.edu
-NXDOMAIN	bapi2-test.tamucc.edu
-NXDOMAIN	ois-indexer3.tamucc.edu
-NXDOMAIN	rhs-cc03.mgmt.tamucc.edu
-NOERROR	pac.tamucc.edu
-NOERROR	dynsec-efr7-48.tamucc.edu
-NOERROR	dynsec-efr7-167.tamucc.edu
-NOERROR	dynsec-efr6-217.tamucc.edu
-NOERROR	dynsec-efr8-8.tamucc.edu
-NOERROR	dynsec-efr10-161.tamucc.edu
-NXDOMAIN	legacycas.tamucc.edu
-NOERROR	folletconnect.tamucc.edu
-NXDOMAIN	c19us.tamucc.edu
-NOERROR	dynsec-efr7-220.tamucc.edu
-NXDOMAIN	mailfilter.tamucc.edu
-NOERROR	dynsec-efr6-246.tamucc.edu
-NXDOMAIN	seccam01.ad.tamucc.edu
-NOERROR	dynsec-efr9-49.tamucc.edu
-NOERROR	dynsec-efr9-246.tamucc.edu
-NOERROR	dynsec-efr10-116.tamucc.edu
-NOERROR	dynsec-efr11-165.tamucc.edu
-NXDOMAIN	thycotic.ad.tamucc.edu
-NOERROR	dynsec-efr7-186.tamucc.edu
-NXDOMAIN	jenkins.tamucc.edu
-NOERROR	dynsec-efr8-48.tamucc.edu
-NOERROR	dynsec-efr11-47.tamucc.edu
-NXDOMAIN	cas.ad.tamucc.edu
-NOERROR	pollacklab.tamucc.edu
-NOERROR	icl.tamucc.edu
-NOERROR	dynsec-efr8-49.tamucc.edu
-NXDOMAIN	ois-jira-test.tamucc.edu
-NOERROR	dynsec-efr8-208.tamucc.edu
-NOERROR	fsp03.tamucc.edu
-NXDOMAIN	rdgateway01.ad.tamucc.edu
-NOERROR	dynsec-efr8-73.tamucc.edu
-NOERROR	dynsec-efr7-187.tamucc.edu
-NOERROR	dynsec-efr8-236.tamucc.edu
-NOERROR	dc03.tamucc.edu
-NOERROR	dynsec-efr11-146.tamucc.edu
-NOERROR	dynsec-efr7-249.tamucc.edu
-NOERROR	dynsec-efr8-23.tamucc.edu
-NOERROR	studentwiki.tamucc.edu
-NOERROR	dynsec-efr11-243.tamucc.edu
-NOERROR	beis-prod.tamucc.edu
-NOERROR	dynsec-efr11-145.tamucc.edu
-NXDOMAIN	rhds-test.tamucc.edu
-NOERROR	dynsec-efr10-46.tamucc.edu
-NOERROR	dynsec-efr11-4.tamucc.edu
-NOERROR	onlinedegree.tamucc.edu
-NXDOMAIN	itbilling-dev.tamucc.edu
-NOERROR	dynsec-efr7-69.tamucc.edu
-NOERROR	dynsec-efr6-153.tamucc.edu
-NOERROR	ext-dns2.tamucc.edu
-NOERROR	dynsec-efr7-77.tamucc.edu
-NOERROR	gcoos.tamucc.edu
-NXDOMAIN	lansweeper.ad.tamucc.edu
-NOERROR	dynsec-efr6-194.tamucc.edu
-NOERROR	math.tamucc.edu
-NOERROR	dynsec-efr11-0.tamucc.edu
-NOERROR	dynsec-efr11-52.tamucc.edu
-NOERROR	dynsec-efr9-107.tamucc.edu
-NXDOMAIN	onbt-web2.tamucc.edu
-NOERROR	payroll.tamucc.edu
-NOERROR	dynsec-efr9-225.tamucc.edu
-NXDOMAIN	duo.ad.tamucc.edu
-NXDOMAIN	landscape.tamucc.edu
-NOERROR	dynsec-efr6-124.tamucc.edu
-NOERROR	dynsec-efr7-106.tamucc.edu
-NOERROR	dynsec-efr10-61.tamucc.edu
-NOERROR	healthcenter.tamucc.edu
-NOERROR	dynsec-efr8-84.tamucc.edu
-NOERROR	www.fisheries.tamucc.edu
-NXDOMAIN	gridftp.mgmt.tamucc.edu
-NOERROR	dynsec-efr6-218.tamucc.edu
-NOERROR	dynsec-efr8-185.tamucc.edu
-NOERROR	em.tamucc.edu
-NOERROR	dynsec-efr10-219.tamucc.edu
-NXDOMAIN	proteus.tamucc.edu
-NOERROR	dynsec-efr11-20.tamucc.edu
-NOERROR	dynsec-efr6-163.tamucc.edu
-NXDOMAIN	idm-ldap-test.tamucc.edu
-NOERROR	dynsec-efr6-174.tamucc.edu
-NXDOMAIN	ns-ise-psn1.tamucc.edu
-NXDOMAIN	griidc-dev3.tamucc.edu
-NXDOMAIN	ois-indexer2.tamucc.edu
-NXDOMAIN	radius3.tamucc.edu
-NOERROR	dynsec-efr8-61.tamucc.edu
-NOERROR	dynsec-efr9-124.tamucc.edu
-NOERROR	dynsec-efr11-15.tamucc.edu
-NOERROR	dynsec-efr10-86.tamucc.edu
-NXDOMAIN	mmisw.tamucc.edu
-NOERROR	dynsec-efr10-63.tamucc.edu
-NOERROR	dynsec-efr10-89.tamucc.edu
-NOERROR	dynsec-efr10-134.tamucc.edu
-NOERROR	dynsec-efr6-109.tamucc.edu
-NOERROR	dynsec-efr6-202.tamucc.edu
-NOERROR	dataone.tamucc.edu
-NOERROR	microsapp1.tamucc.edu
-NOERROR	cas.tamucc.edu
-NOERROR	dynsec-efr7-58.tamucc.edu
-NOERROR	dynsec-efr9-194.tamucc.edu
-NXDOMAIN	rubrik1b.tamucc.edu
-NOERROR	unet-015.tamucc.edu
-NOERROR	dynsec-efr10-8.tamucc.edu
-NOERROR	dynsec-efr11-34.tamucc.edu
-NOERROR	atmos.tamucc.edu
-NXDOMAIN	ns-ise01.tamucc.edu
-NOERROR	dynsec-efr10-103.tamucc.edu
-NOERROR	smtp1.tamucc.edu
-NXDOMAIN	rhs-sa06.mgmt.tamucc.edu
-NXDOMAIN	ucs-manager.test.tamucc.edu
-NOERROR	vl-110-gw-1.tamucc.edu
-NOERROR	dynsec-efr7-217.tamucc.edu
-NOERROR	dynsec-efr11-179.tamucc.edu
-NOERROR	dynsec-efr11-159.tamucc.edu
-NOERROR	orientation.tamucc.edu
-NOERROR	dynsec-efr11-82.tamucc.edu
-NOERROR	dynsec-efr7-179.tamucc.edu
-NOERROR	dynsec-efr8-167.tamucc.edu
-NXDOMAIN	tc-ucs-cer.tamucc.edu
-NOERROR	dynsec-efr6-63.tamucc.edu
-NOERROR	dynsec-efr7-37.tamucc.edu
-NOERROR	dynsec-efr7-49.tamucc.edu
-NOERROR	dynsec-efr11-246.tamucc.edu
-NOERROR	dynsec-efr9-151.tamucc.edu
-NOERROR	dynsec-efr8-90.tamucc.edu
-NOERROR	dynsec-efr11-84.tamucc.edu
-NOERROR	dynsec-efr11-148.tamucc.edu
-NOERROR	dynsec-efr8-161.tamucc.edu
-NOERROR	www.eline.tamucc.edu
-NOERROR	dynsec-efr8-247.tamucc.edu
-NXDOMAIN	mysql4.tamucc.edu
-NOERROR	dynsec-efr11-234.tamucc.edu
-NOERROR	dynsec-efr8-228.tamucc.edu
-NOERROR	dynsec-efr7-206.tamucc.edu
-NOERROR	dynsec-efr10-194.tamucc.edu
-NXDOMAIN	bxe2-test.tamucc.edu
-NOERROR	dynsec-efr7-229.tamucc.edu
-NOERROR	dynsec-efr10-142.tamucc.edu
-NOERROR	uscdmzsw.tamucc.edu
-NOERROR	vl-111-gw-33.tamucc.edu
-NXDOMAIN	rubrik-sa.tamucc.edu
-NOERROR	dynsec-efr11-142.tamucc.edu
-NOERROR	dynsec-efr8-142.tamucc.edu
-NOERROR	dynsec-efr10-177.tamucc.edu
-NOERROR	dynsec-efr7-63.tamucc.edu
-NOERROR	dynsec-efr8-125.tamucc.edu
-NXDOMAIN	fyi.tamucc.edu
-NOERROR	vets.tamucc.edu
-NOERROR	ccbay-old.tamucc.edu
-NXDOMAIN	tc-ucs-exp-c.ad.tamucc.edu
-NOERROR	dynsec-efr7-159.tamucc.edu
-NOERROR	dynsec-efr7-57.tamucc.edu
-NOERROR	dynsec-efr6-46.tamucc.edu
-NXDOMAIN	rcnce3sar.tamucc.edu
-NOERROR	dynsec-efr10-170.tamucc.edu
-NOERROR	dynsec-efr9-215.tamucc.edu
-NXDOMAIN	bss1-prod.tamucc.edu
-NOERROR	dynsec-efr9-127.tamucc.edu
-NOERROR	dynsec-efr9-242.tamucc.edu
-NXDOMAIN	idm-cas1-dire.tamucc.edu
-NXDOMAIN	bxe1-dire.tamucc.edu
-NOERROR	dynsec-efr6-193.tamucc.edu
-NOERROR	dynsec-efr8-51.tamucc.edu
-NOERROR	dynsec-efr8-201.tamucc.edu
-NXDOMAIN	idm-idp-dire.tamucc.edu
-NOERROR	dynsec-efr11-98.tamucc.edu
-NXDOMAIN	idm-idp-prod.tamucc.edu
-NOERROR	supce.tamucc.edu
-NOERROR	dynsec-efr7-108.tamucc.edu
-NXDOMAIN	rhs-cc13.mgmt.tamucc.edu
-NXDOMAIN	vcenter-srm.tamucc.edu
-NOERROR	dynsec-efr8-100.tamucc.edu
-NOERROR	dynsec-efr10-99.tamucc.edu
-NOERROR	bims.tamucc.edu
-NOERROR	dynsec-efr10-223.tamucc.edu
-NOERROR	dynsec-efr6-248.tamucc.edu
-NOERROR	dynsec-efr7-176.tamucc.edu
-NOERROR	dynsec-efr7-233.tamucc.edu
-NOERROR	dynsec-efr11-32.tamucc.edu
-NXDOMAIN	boss-test.tamucc.edu
-NOERROR	dynsec-efr6-140.tamucc.edu
-NOERROR	dynsec-efr6-103.tamucc.edu
-NOERROR	marinegenomicslab.tamucc.edu
-NXDOMAIN	portal.tamucc.edu
-NXDOMAIN	cas02.tamucc.edu
-NXDOMAIN	i6000.tamucc.edu
-NOERROR	dynsec-efr10-95.tamucc.edu
-NXDOMAIN	git.tamucc.edu
-NOERROR	griidc-ingest.tamucc.edu
-NOERROR	dynsec-efr9-209.tamucc.edu
-NXDOMAIN	it-pinn-web-test.tamucc.edu
-NXDOMAIN	analyticshelp.tamucc.edu
-NOERROR	dynsec-efr9-154.tamucc.edu
-NOERROR	dynsec-efr11-182.tamucc.edu
-NOERROR	dynsec-efr9-205.tamucc.edu
-NOERROR	laserficheforms.tamucc.edu
-NOERROR	dynsec-efr8-66.tamucc.edu
-NOERROR	contracts.tamucc.edu
-NOERROR	fb-roi-1.tamucc.edu
-NOERROR	dynsec-efr6-70.tamucc.edu
-NOERROR	dynsec-efr8-67.tamucc.edu
-NXDOMAIN	edw-pyramid2018.ad.tamucc.edu
-NOERROR	dynsec-efr9-60.tamucc.edu
-NOERROR	dynsec-efr10-31.tamucc.edu
-NOERROR	redcap.tamucc.edu
-NOERROR	dvpam.tamucc.edu
-NXDOMAIN	b9beis.tamucc.edu
-NOERROR	dynsec-efr8-165.tamucc.edu
-NOERROR	dynsec-efr6-155.tamucc.edu
-NOERROR	dynsec-efr6-129.tamucc.edu
-NOERROR	usweb.tamucc.edu
-NOERROR	dynsec-efr8-184.tamucc.edu
-NOERROR	dynsec-efr8-204.tamucc.edu
-NOERROR	dynsec-efr10-3.tamucc.edu
-NOERROR	dynsec-efr8-9.tamucc.edu
-NOERROR	f5-cc-vlan82.tamucc.edu
-NXDOMAIN	argos-dire.ad.tamucc.edu
-NOERROR	physics.tamucc.edu
-NOERROR	dynsec-efr10-136.tamucc.edu
-NXDOMAIN	onbt-web1.tamucc.edu
-NOERROR	dynsec-efr6-210.tamucc.edu
-NOERROR	dynsec-efr8-181.tamucc.edu
-NOERROR	www.islandday.tamucc.edu
-NOERROR	dynsec-efr9-133.tamucc.edu
-NOERROR	cs.tamucc.edu
-NOERROR	dynsec-efr11-213.tamucc.edu
-NOERROR	dc02.tamucc.edu
-NOERROR	catalog-next.tamucc.edu
-NOERROR	dynsec-efr10-72.tamucc.edu
-NOERROR	dynsec-efr10-125.tamucc.edu
-NOERROR	ica.tamucc.edu
-NOERROR	scholarships.tamucc.edu
-NOERROR	hectorpgarcia.tamucc.edu
-NOERROR	dugs.tamucc.edu
-NXDOMAIN	libapps.tamucc.edu
-NOERROR	dynsec-efr11-181.tamucc.edu
-NOERROR	dynsec-efr10-234.tamucc.edu
-NXDOMAIN	griidc-test-baseline.tamucc.edu
-NXDOMAIN	simphonyapp.ad.tamucc.edu
-NOERROR	dynsec-efr8-251.tamucc.edu
-NOERROR	dynsec-efr10-102.tamucc.edu
-NOERROR	dynsec-efr8-151.tamucc.edu
-NOERROR	dynsec-efr7-232.tamucc.edu
-NOERROR	dynsec-efr7-25.tamucc.edu
-NOERROR	dynsec-efr8-252.tamucc.edu
-NOERROR	apps.webofknowledge.com.manowar.tamucc.edu
-NXDOMAIN	rhs-cc15.mgmt.tamucc.edu
-NXDOMAIN	idm-cas1-test.tamucc.edu
-NOERROR	dynsec-efr6-128.tamucc.edu
-NXDOMAIN	tc-ucs-uccxha.tamucc.edu
-NXDOMAIN	bmesg1-test.tamucc.edu
-NOERROR	smtp3.tamucc.edu
-NOERROR	www.osfa.tamucc.edu
-NOERROR	dynsec-efr8-169.tamucc.edu
-NOERROR	sssstem.tamucc.edu
-NOERROR	dynsec-efr11-229.tamucc.edu
-NOERROR	dynsec-efr6-16.tamucc.edu
-NOERROR	bapi-prod.tamucc.edu
-NOERROR	dynsec-efr7-16.tamucc.edu
-NOERROR	dynsec-efr9-167.tamucc.edu
-NOERROR	ucsa.tamucc.edu
-NOERROR	dynsec-efr10-78.tamucc.edu
-NOERROR	dynsec-efr6-101.tamucc.edu
-NOERROR	dynsec-efr11-251.tamucc.edu
-NXDOMAIN	inb2-prod.tamucc.edu
-NOERROR	dynsec-efr11-136.tamucc.edu
-NOERROR	dynsec-efr10-171.tamucc.edu
-NOERROR	dynsec-efr9-166.tamucc.edu
-NOERROR	dynsec-efr8-17.tamucc.edu
-NOERROR	dynsec-efr6-201.tamucc.edu
-NOERROR	dynsec-efr10-192.tamucc.edu
-NOERROR	ssb1-test.tamucc.edu
-NOERROR	dynsec-efr7-164.tamucc.edu
-NOERROR	dynsec-efr10-40.tamucc.edu
-NOERROR	dynsec-efr11-239.tamucc.edu
-NXDOMAIN	mysql-test.tamucc.edu
-NOERROR	designguide.tamucc.edu
-NOERROR	dynsec-efr8-72.tamucc.edu
-NXDOMAIN	griidc-test-c7.tamucc.edu
-NOERROR	dynsec-efr9-115.tamucc.edu
-NOERROR	dynsec-efr9-237.tamucc.edu
-NXDOMAIN	bapi1-test.tamucc.edu
-NXDOMAIN	c7000a.mgmt.tamucc.edu
-NOERROR	dynsec-efr8-43.tamucc.edu
-NOERROR	www.scorm.tamucc.edu
-NXDOMAIN	enroll1.tamucc.edu
-NOERROR	dynsec-efr7-67.tamucc.edu
-NOERROR	dynsec-efr7-212.tamucc.edu
-NOERROR	dynsec-efr6-1.tamucc.edu
-NOERROR	dynsec-efr10-58.tamucc.edu
-NOERROR	dynsec-efr9-142.tamucc.edu
-NOERROR	dynsec-efr7-173.tamucc.edu
-NOERROR	dynsec-efr7-234.tamucc.edu
-NOERROR	alohadays.tamucc.edu
-NOERROR	dynsec-efr6-97.tamucc.edu
-NOERROR	dynsec-efr8-114.tamucc.edu
-NOERROR	dynsec-efr8-152.tamucc.edu
-NOERROR	dynsec-efr6-36.tamucc.edu
-NOERROR	dynsec-efr8-175.tamucc.edu
-NOERROR	twostep.tamucc.edu
-NOERROR	reservedforgloria.tamucc.edu
-NOERROR	dynsec-efr6-113.tamucc.edu
-NOERROR	dynsec-efr6-76.tamucc.edu
-NXDOMAIN	dc01.ad.tamucc.edu
-NOERROR	rotc5k.tamucc.edu
-NXDOMAIN	idm-shib-prod-sa.tamucc.edu
-NOERROR	dynsec-efr11-62.tamucc.edu
-NOERROR	dynsec-efr7-227.tamucc.edu
-NOERROR	dynsec-efr6-136.tamucc.edu
-NOERROR	dynsec-efr8-3.tamucc.edu
-NOERROR	cob.tamucc.edu
-NOERROR	galileo.tamucc.edu
-NXDOMAIN	idm-cas-test.tamucc.edu
-NXDOMAIN	wifi.tamucc.edu
-NOERROR	dynsec-efr9-141.tamucc.edu
-NOERROR	lib38725.tamucc.edu
-NOERROR	dynsec-efr6-168.tamucc.edu
-NOERROR	dynsec-efr6-60.tamucc.edu
-NOERROR	dynsec-efr11-42.tamucc.edu
-NOERROR	dynsec-efr8-87.tamucc.edu
-NOERROR	dynsec-efr11-8.tamucc.edu
-NOERROR	dynsec-efr11-154.tamucc.edu
-NOERROR	dynsec-efr10-198.tamucc.edu
-NXDOMAIN	seccam04.ad.tamucc.edu
-NOERROR	dynsec-efr9-57.tamucc.edu
-NXDOMAIN	map.tamucc.edu
-NXDOMAIN	rhs-cc17.mgmt.tamucc.edu
-NOERROR	dynsec-efr8-77.tamucc.edu
-NOERROR	dynsec-efr6-162.tamucc.edu
-NOERROR	dynsec-efr6-110.tamucc.edu
-NXDOMAIN	tc-ucs-pub.tamucc.edu
-NOERROR	dwprod.tamucc.edu
-NOERROR	asa-secondary-dmz1.tamucc.edu
-NOERROR	dynsec-efr7-20.tamucc.edu
-NXDOMAIN	inb2-test.tamucc.edu
-NOERROR	portal.gscs.tamucc.edu
-NXDOMAIN	rhs-cc11.mgmt.tamucc.edu
-NXDOMAIN	ssb-test.tamucc.edu
-NXDOMAIN	bxe6-prod.tamucc.edu
-NOERROR	dynsec-efr7-84.tamucc.edu
-NXDOMAIN	syncplicity.tamucc.edu
-NOERROR	dynsec-efr6-3.tamucc.edu
-NOERROR	dynsec-efr6-77.tamucc.edu
-NOERROR	enrollat.tamucc.edu
-NOERROR	dynsec-efr8-218.tamucc.edu
-NOERROR	dynsec-efr7-7.tamucc.edu
-NOERROR	dynsec-efr9-117.tamucc.edu
-NXDOMAIN	ss11.fw.tamucc.edu
-NOERROR	dynsec-efr10-213.tamucc.edu
-NOERROR	dynsec-efr8-85.tamucc.edu
-NOERROR	encs.tamucc.edu
-NOERROR	nasgrp-test.tamucc.edu
-NOERROR	dynsec-efr8-183.tamucc.edu
-NOERROR	kestrel.tamucc.edu
-NOERROR	dynsec-efr7-137.tamucc.edu
-NOERROR	dynsec-efr11-88.tamucc.edu
-NOERROR	dynsec-efr9-162.tamucc.edu
-NOERROR	dynsec-efr9-228.tamucc.edu
-NOERROR	dynsec-efr9-155.tamucc.edu
-NOERROR	dynsec-efr6-141.tamucc.edu
-NOERROR	recycle.tamucc.edu
-NOERROR	phonebook.tamucc.edu
-NXDOMAIN	f5c.mgmt.tamucc.edu
-NXDOMAIN	ucs-manager.tamucc.edu
-NOERROR	garciacenter.tamucc.edu
-NOERROR	dynsec-efr8-69.tamucc.edu
-NXDOMAIN	ois-confluence.tamucc.edu
-NXDOMAIN	idm-shib2-dire.tamucc.edu
-NOERROR	dynsec-efr8-58.tamucc.edu
-NOERROR	dynsec-efr8-214.tamucc.edu
-NOERROR	dynsec-efr8-203.tamucc.edu
-NXDOMAIN	ostack-stor08.mgmt.tamucc.edu
-NOERROR	rdgateway.tamucc.edu
-NXDOMAIN	ois-searchhead.tamucc.edu
-NOERROR	dynsec-efr11-113.tamucc.edu
-NOERROR	dynsec-efr10-187.tamucc.edu
-NOERROR	dynsec-efr9-47.tamucc.edu
-NOERROR	www.math.tamucc.edu
-NXDOMAIN	bxe1-prod.tamucc.edu
-NXDOMAIN	idm-ldap2-prod.tamucc.edu
-NOERROR	dynsec-efr7-193.tamucc.edu
-NOERROR	dynsec-efr8-179.tamucc.edu
-NOERROR	felixlab.tamucc.edu
-NOERROR	dynsec-efr8-131.tamucc.edu
-NOERROR	dynsec-efr8-31.tamucc.edu
-NOERROR	www.cbi.tamucc.edu
-NOERROR	campusmap.tamucc.edu
-NOERROR	dynsec-efr6-84.tamucc.edu
-NOERROR	dynsec-efr6-160.tamucc.edu
-NXDOMAIN	rhs-cc19.mgmt.tamucc.edu
-NOERROR	dynsec-efr10-182.tamucc.edu
-NOERROR	dynsec-efr11-147.tamucc.edu
-NOERROR	rattler.tamucc.edu
-NOERROR	dynsec-efr7-180.tamucc.edu
-NOERROR	dynsec-efr6-10.tamucc.edu
-NOERROR	dynsec-efr11-43.tamucc.edu
-NOERROR	dynsec-efr7-52.tamucc.edu
-NOERROR	virtualtour.tamucc.edu
-NOERROR	te-test.tamucc.edu
-NOERROR	dynsec-efr9-185.tamucc.edu
-NXDOMAIN	edw-pyramid2020.tamucc.edu
-NOERROR	dynsec-efr7-161.tamucc.edu
-NOERROR	dynsec-efr7-104.tamucc.edu
-NOERROR	physicalplant.tamucc.edu
-NOERROR	ext-camera1.tamucc.edu
-NOERROR	dynsec-efr11-76.tamucc.edu
-NXDOMAIN	7841securesip.tamucc.edu
-NOERROR	dynsec-efr11-1.tamucc.edu
-NOERROR	dynsec-efr8-150.tamucc.edu
-NOERROR	pki.tamucc.edu
-NOERROR	dynsec-efr7-102.tamucc.edu
-NOERROR	www.hri.tamucc.edu
-NOERROR	dynsec-efr10-220.tamucc.edu
-NOERROR	triton-cc.tamucc.edu
-NOERROR	dynsec-efr9-55.tamucc.edu
-NOERROR	dynsec-efr7-129.tamucc.edu
-NOERROR	dynsec-efr8-60.tamucc.edu
-NOERROR	adminservices.tamucc.edu
-NOERROR	dynsec-efr8-55.tamucc.edu
-NOERROR	dynsec-efr7-155.tamucc.edu
-NOERROR	fb106-c-v-v.tamucc.edu
-NOERROR	dynsec-efr8-219.tamucc.edu
-NOERROR	dynsec-efr6-82.tamucc.edu
-NOERROR	hobiserver.tamucc.edu
-NXDOMAIN	icert.tamucc.edu
-NOERROR	dynsec-efr8-176.tamucc.edu
-NOERROR	lighthouse.cbi.tamucc.edu
-NOERROR	dynsec-efr11-161.tamucc.edu
-NOERROR	dynsec-efr10-139.tamucc.edu
-NOERROR	dynsec-efr6-93.tamucc.edu
-NOERROR	grp-demo.tamucc.edu
-NOERROR	dynsec-efr10-206.tamucc.edu
-NXDOMAIN	waterquality.tamucc.edu
-NOERROR	dynsec-efr6-228.tamucc.edu
-NOERROR	firstyearwiki.tamucc.edu
-NOERROR	dynsec-efr11-238.tamucc.edu
-NOERROR	tlc.tamucc.edu
-NOERROR	studentactivities.tamucc.edu
-NOERROR	dynsec-efr7-191.tamucc.edu
-NOERROR	dynsec-efr11-46.tamucc.edu
-NXDOMAIN	bapi1-prod.tamucc.edu
-NOERROR	linksource.ebsco.com.manowar.tamucc.edu
-NXDOMAIN	idm-gig2.ad.tamucc.edu
-NOERROR	dynsec-efr8-40.tamucc.edu
-NXDOMAIN	jiratest-cc.tamucc.edu
-NOERROR	smtp1-old.tamucc.edu
-NXDOMAIN	onbp-web1.ad.tamucc.edu
-NXDOMAIN	www.summer.tamucc.edu
-NOERROR	dynsec-efr9-32.tamucc.edu
-NOERROR	artesian.tamucc.edu
-NXDOMAIN	mobileprint.ad.tamucc.edu
-NOERROR	dynsec-efr7-55.tamucc.edu
-NOERROR	dynsec-efr6-192.tamucc.edu
-NOERROR	ise.tamucc.edu
-NOERROR	dynsec-efr9-160.tamucc.edu
-NXDOMAIN	lidar-prod.tamucc.edu
-NOERROR	dynsec-efr9-54.tamucc.edu
-NOERROR	ns2.tamucc.edu
-NXDOMAIN	idm-gig2-dire.ad.tamucc.edu
-NOERROR	dynsec-efr6-144.tamucc.edu
-NOERROR	dynsec-efr9-189.tamucc.edu
-NOERROR	dynsec-efr8-30.tamucc.edu
-NOERROR	watchdog.tamucc.edu
-NXDOMAIN	poweron.tamucc.edu
-NOERROR	dynsec-efr7-209.tamucc.edu
-NOERROR	dynsec-efr6-107.tamucc.edu
-NOERROR	te.tamucc.edu
-NXDOMAIN	ostack-stor07.mgmt.tamucc.edu
-NOERROR	dynsec-efr10-250.tamucc.edu
-NOERROR	dynsec-efr9-156.tamucc.edu
-NOERROR	dynsec-efr8-187.tamucc.edu
-NOERROR	dynsec-efr9-4.tamucc.edu
-NOERROR	dynsec-efr8-172.tamucc.edu
-NOERROR	dynsec-efr11-199.tamucc.edu
-NOERROR	cbi-git.tamucc.edu
-NXDOMAIN	bxe3-prod.tamucc.edu
-NOERROR	jiratest.lb.tamucc.edu
-NOERROR	www.mcnair.tamucc.edu
-NOERROR	dynsec-efr11-109.tamucc.edu
-NOERROR	wc308jot.tamucc.edu
-NOERROR	dynsec-efr10-191.tamucc.edu
-NOERROR	dynsec-efr9-94.tamucc.edu
-NOERROR	dynsec-efr7-81.tamucc.edu
-NOERROR	expansion.tamucc.edu
-NOERROR	bythos.tamucc.edu
-NXDOMAIN	sa-dc01.ad.tamucc.edu
-NOERROR	vl-125-gw-33.tamucc.edu
-NOERROR	dynsec-efr10-243.tamucc.edu
-NOERROR	dynsec-efr8-62.tamucc.edu
-NXDOMAIN	idm-db1-prod.tamucc.edu
-NOERROR	training.tamucc.edu
-NOERROR	dynsec-efr6-54.tamucc.edu
-NXDOMAIN	wetzlab.tamucc.edu
-NXDOMAIN	idm-shib1-dire.tamucc.edu
-NXDOMAIN	rubrik1d.tamucc.edu
-NOERROR	geosages.tamucc.edu
-NXDOMAIN	seccam03.ad.tamucc.edu
-NOERROR	dynsec-efr11-132.tamucc.edu
-NOERROR	dynsec-efr8-92.tamucc.edu
-NXDOMAIN	mysql-mgr.tamucc.edu
-NOERROR	dynsec-efr9-96.tamucc.edu
-NOERROR	dynsec-efr7-51.tamucc.edu
-NOERROR	dynsec-efr8-56.tamucc.edu
-NOERROR	dynsec-efr11-45.tamucc.edu
-NOERROR	dynsec-efr6-182.tamucc.edu
-NXDOMAIN	idm-idp2-prod.tamucc.edu
-NOERROR	dynsec-efr6-135.tamucc.edu
-NXDOMAIN	ostack-gpu01.mgmt.tamucc.edu
-NOERROR	dynsec-efr9-218.tamucc.edu
-NOERROR	safety.tamucc.edu
-NOERROR	dss.tamucc.edu
-NXDOMAIN	f5d.mgmt.tamucc.edu
-NOERROR	dynsec-efr10-140.tamucc.edu
-NOERROR	tamu-quest.tamucc.edu
-NOERROR	cas.cbi.tamucc.edu
-NOERROR	dynsec-efr7-92.tamucc.edu
-NXDOMAIN	idm-idp1-test.tamucc.edu
-NOERROR	proc-101-ptr.tamucc.edu
-NOERROR	dynsec-efr9-184.tamucc.edu
-NOERROR	csci.tamucc.edu
-NOERROR	dynsec-efr8-198.tamucc.edu
-NOERROR	dynsec-efr9-61.tamucc.edu
-NOERROR	workday.tamucc.edu
-NXDOMAIN	ostack-ctrl02.mgmt.tamucc.edu
-NOERROR	guest-portal-3.tamucc.edu
-NOERROR	dynsec-efr8-235.tamucc.edu
-NOERROR	dynsec-efr10-124.tamucc.edu
-NOERROR	dynsec-efr10-15.tamucc.edu
-NOERROR	stepup.tamucc.edu
-NOERROR	dynsec-efr10-244.tamucc.edu
-NOERROR	dynsec-efr7-109.tamucc.edu
-NOERROR	dynsec-efr9-106.tamucc.edu
-NOERROR	dynsec-efr10-129.tamucc.edu
-NOERROR	dynsec-efr11-150.tamucc.edu
-NOERROR	calendar.tamucc.edu
-NOERROR	hub02.tamucc.edu
-NOERROR	hyland-prod.tamucc.edu
-NOERROR	dynsec-efr6-64.tamucc.edu
-NOERROR	dynsec-efr7-54.tamucc.edu
-NOERROR	dynsec-efr9-198.tamucc.edu
-NXDOMAIN	verification.tamucc.edu
-NXDOMAIN	print.tamucc.edu
-NOERROR	vpn2.tamucc.edu
-NOERROR	reeselab.tamucc.edu
-NOERROR	ei.tamucc.edu
-NOERROR	www.ace.tamucc.edu
-NOERROR	www.housing.tamucc.edu
-NOERROR	triton.tamucc.edu
-NOERROR	web.b.ebscohost.com.manowar.tamucc.edu
-NOERROR	analytics.tamucc.edu
-NOERROR	dynsec-efr6-179.tamucc.edu
-NOERROR	dynsec-efr10-167.tamucc.edu
-NXDOMAIN	aatc.tamucc.edu
-NOERROR	dynsec-efr10-203.tamucc.edu
-NOERROR	islanderpledge.tamucc.edu
-NOERROR	esslab.tamucc.edu
-NOERROR	ccs.tamucc.edu
-NXDOMAIN	dco.cbi.tamucc.edu
-NOERROR	redcap-test.tamucc.edu
-NOERROR	dynsec-efr8-82.tamucc.edu
-NXDOMAIN	anywhereusb.tamucc.edu
-NOERROR	dynsec-efr7-47.tamucc.edu
-NOERROR	dynsec-efr10-166.tamucc.edu
-NOERROR	faculty-senate.tamucc.edu
-NXDOMAIN	tc-ucs-mgmt.tamucc.edu
-NXDOMAIN	gomaportal2.ad.tamucc.edu
-NOERROR	dynsec-efr9-64.tamucc.edu
-NOERROR	dynsec-efr10-87.tamucc.edu
-NXDOMAIN	idm-idp2-dire.tamucc.edu
-NOERROR	dynsec-efr9-92.tamucc.edu
-NXDOMAIN	ssb4-prod.tamucc.edu
-NXDOMAIN	bxe9-prod.tamucc.edu
-NOERROR	dynsec-efr8-211.tamucc.edu
-NOERROR	dynsec-efr11-35.tamucc.edu
-NOERROR	facultystaffcampaign.tamucc.edu
-NOERROR	cbwp.tamucc.edu
-NOERROR	dynsec-efr11-140.tamucc.edu
-NOERROR	m.catalog.tamucc.edu
-NXDOMAIN	idm-cas2.tamucc.edu
-NOERROR	dynsec-efr10-94.tamucc.edu
-NOERROR	dynsec-efr7-22.tamucc.edu
-NOERROR	dynsec-efr8-123.tamucc.edu
-NOERROR	dynsec-efr11-195.tamucc.edu
-NOERROR	atp.tamucc.edu
-NOERROR	dynsec-efr9-3.tamucc.edu
-NXDOMAIN	triton-vm.tamucc.edu
-NOERROR	dynsec-efr6-32.tamucc.edu
-NOERROR	dynsec-efr6-146.tamucc.edu
-NOERROR	dynsec-efr9-157.tamucc.edu
-NOERROR	dynsec-efr10-60.tamucc.edu
-NOERROR	dynsec-efr6-12.tamucc.edu
-NOERROR	tamucc.edu
-NOERROR	dmz5-server-farm-gateway.tamucc.edu
-NOERROR	dynsec-efr6-39.tamucc.edu
-NOERROR	dynsec-efr6-18.tamucc.edu
-NOERROR	dynsec-efr10-210.tamucc.edu
-NOERROR	griidcesium.tamucc.edu
-NOERROR	dynsec-efr9-13.tamucc.edu
-NOERROR	budgetfaq.tamucc.edu
-NOERROR	dynsec-efr11-79.tamucc.edu
-NOERROR	kryptos.tamucc.edu
-NOERROR	dynsec-efr11-126.tamucc.edu
-NOERROR	iracetozero.tamucc.edu
-NXDOMAIN	dnr.cbi.tamucc.edu
-NOERROR	dynsec-efr6-116.tamucc.edu
-NXDOMAIN	confluencetest-cc.tamucc.edu
-NOERROR	sotu.tamucc.edu
-NXDOMAIN	hyland-prod.lb.tamucc.edu
-NXDOMAIN	idm-ldap2-dire.tamucc.edu
-NXDOMAIN	rhs-sa03.mgmt.tamucc.edu
-NOERROR	exp-e.tamucc.edu
-NOERROR	dynsec-efr7-236.tamucc.edu
-NOERROR	photos.tamucc.edu
-NOERROR	dynsec-efr7-169.tamucc.edu
-NOERROR	rhodos.tamucc.edu
-NOERROR	texchip.tamucc.edu
-NOERROR	dynsec-efr10-73.tamucc.edu
-NOERROR	dynsec-efr11-73.tamucc.edu
-NOERROR	dynsec-efr11-38.tamucc.edu
-NOERROR	commencement.tamucc.edu
-NXDOMAIN	tc-ucs-uccx.tamucc.edu
-NXDOMAIN	idm-ldap.tamucc.edu
-NOERROR	dynsec-efr10-120.tamucc.edu
-NOERROR	dynsec-efr7-41.tamucc.edu
-NOERROR	printserver.tamucc.edu
-NOERROR	dynsec-efr11-65.tamucc.edu
-NOERROR	dynsec-efr10-68.tamucc.edu
-NXDOMAIN	dwtest.tamucc.edu
-NXDOMAIN	lansweeper-app.ad.tamucc.edu
-NOERROR	dynsec-efr9-153.tamucc.edu
-NOERROR	dynsec-efr6-143.tamucc.edu
-NOERROR	undergrad.tamucc.edu
-NOERROR	dynsec-efr10-247.tamucc.edu
-NXDOMAIN	test-ro-webcc.ad.tamucc.edu
-NOERROR	dynsec-efr10-110.tamucc.edu
-NXDOMAIN	workflow-prod.tamucc.edu
-NOERROR	dynsec-efr7-32.tamucc.edu
-NXDOMAIN	ostack-stor04.mgmt.tamucc.edu
-NOERROR	poseidon-old.tamucc.edu
-NOERROR	ext-camera3.tamucc.edu
-NXDOMAIN	banner-db-prod.mgmt.tamucc.edu
-NOERROR	dynsec-efr9-200.tamucc.edu
-NXDOMAIN	rubrik1c-sa.tamucc.edu
-NOERROR	dynsec-efr6-235.tamucc.edu
-NOERROR	dynsec-efr6-207.tamucc.edu
-NOERROR	dynsec-efr11-236.tamucc.edu
-NXDOMAIN	rhs-cc22.mgmt.tamucc.edu
-NOERROR	smtp.tamucc.edu
-NOERROR	dynsec-efr6-22.tamucc.edu
-NOERROR	geology.tamucc.edu
-NOERROR	clatest.tamucc.edu
-NOERROR	dynsec-efr8-139.tamucc.edu
-NOERROR	dynsec-efr9-100.tamucc.edu
-NXDOMAIN	iteam.tamucc.edu
-NXDOMAIN	argos-prod.tamucc.edu
-NOERROR	dynsec-efr9-221.tamucc.edu
-NOERROR	losi.tamucc.edu
-NOERROR	dynsec-efr9-76.tamucc.edu
-NOERROR	dynsec-efr11-152.tamucc.edu
-NXDOMAIN	idm-cas2-prod.tamucc.edu
-NOERROR	dynsec-efr9-252.tamucc.edu
-NOERROR	dynsec-efr7-26.tamucc.edu
-NOERROR	dynsec-efr6-243.tamucc.edu
-NXDOMAIN	mysql3.tamucc.edu
-NOERROR	dynsec-efr10-143.tamucc.edu
-NOERROR	esci.tamucc.edu
-NOERROR	dynsec-efr11-93.tamucc.edu
-NOERROR	lib-dmz-sw.tamucc.edu
-NXDOMAIN	idm-cas-mgr-prod.tamucc.edu
-NOERROR	dynsec-efr9-42.tamucc.edu
-NOERROR	dynsec-efr9-249.tamucc.edu
-NOERROR	dynsec-efr7-199.tamucc.edu
-NOERROR	dynsec-efr10-137.tamucc.edu
-NXDOMAIN	islanderforum.tamucc.edu
-NOERROR	gecoserv.tamucc.edu
-NOERROR	dynsec-efr6-11.tamucc.edu
-NOERROR	dynsec-efr8-81.tamucc.edu
-NOERROR	vl-110-gw-2.tamucc.edu
-NOERROR	dynsec-efr7-197.tamucc.edu
-NOERROR	dynsec-efr7-198.tamucc.edu
-NOERROR	honors.tamucc.edu
-NOERROR	dynsec-efr6-47.tamucc.edu
-NOERROR	dynsec-efr9-213.tamucc.edu
-NOERROR	dynsec-efr6-200.tamucc.edu
-NOERROR	dynsec-efr11-185.tamucc.edu
-NXDOMAIN	f5b.mgmt.tamucc.edu
-NOERROR	dynsec-efr7-17.tamucc.edu
-NXDOMAIN	mx.tamucc.edu
-NOERROR	dynsec-efr10-162.tamucc.edu
-NOERROR	confluence.tamucc.edu
-NOERROR	tpg.tamucc.edu
-NOERROR	dynsec-efr9-178.tamucc.edu
-NOERROR	gnss.tamucc.edu
-NXDOMAIN	idm-ldap1-test.tamucc.edu
-NXDOMAIN	vcenter-sa.tamucc.edu
-NOERROR	willard-dmz1-gtw.tamucc.edu
-NXDOMAIN	rhs-cc10.mgmt.tamucc.edu
-NOERROR	dynsec-efr9-90.tamucc.edu
-NOERROR	dynsec-efr9-68.tamucc.edu
-NXDOMAIN	griidc-dev.tamucc.edu
-NOERROR	dynsec-efr9-0.tamucc.edu
-NOERROR	counseling.tamucc.edu
-NXDOMAIN	bxe1-test.tamucc.edu
-NOERROR	hpo-test.tamucc.edu
-NOERROR	dining.tamucc.edu
-NOERROR	dynsec-efr11-68.tamucc.edu
-NOERROR	dynsec-efr6-196.tamucc.edu
-NOERROR	campuslogin.tamucc.edu
-NXDOMAIN	transfer.tamucc.edu
-NXDOMAIN	netappcc01.tamucc.edu
-NOERROR	dynsec-efr7-250.tamucc.edu
-NXDOMAIN	pinnacle-web-test.tamucc.edu
-NOERROR	dynsec-efr7-135.tamucc.edu
-NXDOMAIN	seecc.tamucc.edu
-NOERROR	fbclient-eg.tamucc.edu
-NOERROR	ois-hopper.tamucc.edu
-NOERROR	dynsec-efr7-235.tamucc.edu
-NXDOMAIN	reportexec.tamucc.edu
-NOERROR	dynsec-efr6-7.tamucc.edu
-NOERROR	research.tamucc.edu
-NOERROR	vcse.tamucc.edu
-NOERROR	dynsec-efr6-27.tamucc.edu
-NOERROR	vantage.tamucc.edu
-NOERROR	dynsec-efr8-164.tamucc.edu
-NOERROR	dynsec-efr9-118.tamucc.edu
-NOERROR	dynsec-efr8-232.tamucc.edu
-NOERROR	dynsec-efr11-186.tamucc.edu
-NXDOMAIN	mailfilter1.tamucc.edu
-NOERROR	www.sci.tamucc.edu
-NOERROR	slash.tamucc.edu
-NXDOMAIN	trac.cbi.tamucc.edu
-NOERROR	dynsec-efr6-186.tamucc.edu
-NOERROR	dynsec-efr11-2.tamucc.edu
-NOERROR	dynsec-efr6-132.tamucc.edu
-NOERROR	ns1.cbi.tamucc.edu
-NOERROR	jira.lb.tamucc.edu
-NOERROR	dynsec-efr8-34.tamucc.edu
-NOERROR	dynsec-efr9-171.tamucc.edu
-NOERROR	dynsec-efr10-209.tamucc.edu
-NOERROR	dynsec-efr7-175.tamucc.edu
-NOERROR	www.tamucc.edu
-NOERROR	dynsec-efr6-137.tamucc.edu
-NOERROR	meridian.tamucc.edu
-NOERROR	dynsec-efr11-26.tamucc.edu
-NOERROR	dynsec-efr7-78.tamucc.edu
-NXDOMAIN	mailfilter5.tamucc.edu
-NXDOMAIN	sw6510b.tamucc.edu
-NOERROR	dynsec-efr9-203.tamucc.edu
-NOERROR	guest-portal-1.tamucc.edu
-NOERROR	oads.tamucc.edu
-NOERROR	dynsec-efr11-228.tamucc.edu
-NOERROR	dynsec-efr10-81.tamucc.edu
-NOERROR	dynsec-efr7-117.tamucc.edu
-NXDOMAIN	dx650securesip.tamucc.edu
-NOERROR	bus.tamucc.edu
-NOERROR	dynsec-efr9-72.tamucc.edu
-NOERROR	dynsec-efr6-209.tamucc.edu
-NXDOMAIN	ois-confluence-srm-cc.tamucc.edu
-NOERROR	dynsec-efr10-242.tamucc.edu
-NOERROR	dynsec-efr9-175.tamucc.edu
-NOERROR	dynsec-efr10-93.tamucc.edu
-NXDOMAIN	griidc-demo-c7.tamucc.edu
-NOERROR	writing.tamucc.edu
-NOERROR	dynsec-efr10-249.tamucc.edu
-NOERROR	dynsec-efr11-160.tamucc.edu
-NOERROR	dynsec-efr9-216.tamucc.edu
-NOERROR	dynsec-efr8-227.tamucc.edu
-NOERROR	dynsec-efr9-46.tamucc.edu
-NOERROR	dynsec-efr7-121.tamucc.edu
-NOERROR	dynsec-efr11-216.tamucc.edu
-NOERROR	dynsec-efr9-122.tamucc.edu
-NOERROR	dynsec-efr6-43.tamucc.edu
-NXDOMAIN	boss-prod.tamucc.edu
-NOERROR	griidc-prod.tamucc.edu
-NOERROR	ns2.cbi.tamucc.edu
-NOERROR	tokb.tamucc.edu
-NXDOMAIN	reportexec.ad.tamucc.edu
-NXDOMAIN	bss4-prod.tamucc.edu
-NXDOMAIN	2019admin.ad.tamucc.edu
-NOERROR	dynsec-efr7-36.tamucc.edu
-NOERROR	dynsec-efr8-6.tamucc.edu
-NOERROR	dynsec-efr9-159.tamucc.edu
-NOERROR	dynsec-efr10-197.tamucc.edu
-NOERROR	dynsec-efr6-65.tamucc.edu
-NOERROR	dynsec-efr9-128.tamucc.edu
-NOERROR	dynsec-efr6-15.tamucc.edu
-NOERROR	dynsec-efr7-140.tamucc.edu
-NOERROR	dynsec-efr7-242.tamucc.edu
-NOERROR	dynsec-efr6-225.tamucc.edu
-NOERROR	dynsec-efr7-120.tamucc.edu
-NOERROR	dynsec-efr10-5.tamucc.edu
-NOERROR	penguin.tamucc.edu
-NOERROR	dynsec-efr10-215.tamucc.edu
-NOERROR	dynsec-efr9-120.tamucc.edu
-NXDOMAIN	ostack-stor05.mgmt.tamucc.edu
-NOERROR	achievepartnership.tamucc.edu
-NOERROR	ls1.tamucc.edu
-NOERROR	cascade-web-prod.tamucc.edu
-NOERROR	smokingmaps.tamucc.edu
-NOERROR	dynsec-efr6-29.tamucc.edu
-NOERROR	marcom.tamucc.edu
-NXDOMAIN	bxe4-prod.tamucc.edu
-NOERROR	www.marinegenomicslab.tamucc.edu
-NOERROR	dynsec-efr10-245.tamucc.edu
-NOERROR	dynsec-efr7-231.tamucc.edu
-NOERROR	fsp03-new.tamucc.edu
-NXDOMAIN	mysql1.tamucc.edu
-NOERROR	dynsec-efr7-118.tamucc.edu
-NOERROR	dynsec-efr8-39.tamucc.edu
-NOERROR	dynsec-efr6-227.tamucc.edu
-NXDOMAIN	ostack-dashboard.tamucc.edu
-NOERROR	gitlab2.tamucc.edu
-NOERROR	usdb1.tamucc.edu
-NOERROR	islanderjobs.tamucc.edu
-NOERROR	dynsec-efr11-118.tamucc.edu
-NOERROR	dynsec-efr10-123.tamucc.edu
-NOERROR	dynsec-efr8-54.tamucc.edu
-NOERROR	dynsec-efr8-243.tamucc.edu
-NOERROR	dynsec-efr9-130.tamucc.edu
-NXDOMAIN	idm-cas4.tamucc.edu
-NOERROR	dynsec-efr8-68.tamucc.edu
-NOERROR	gradschool.tamucc.edu
-NOERROR	dynsec-efr6-191.tamucc.edu
-NOERROR	degreeplanner.tamucc.edu
-NXDOMAIN	argos-test.ad.tamucc.edu
-NOERROR	osobay.tamucc.edu
-NOERROR	dynsec-efr8-200.tamucc.edu
-NXDOMAIN	phoebe.tamucc.edu
-NOERROR	development.tamucc.edu
-NOERROR	cascade-test.tamucc.edu
-NOERROR	dynsec-efr7-196.tamucc.edu
-NOERROR	enterprise.tamucc.edu
-NXDOMAIN	cbi-apps.tamucc.edu
-NXDOMAIN	scom-web.ad.tamucc.edu
-NOERROR	dynsec-efr7-98.tamucc.edu
-NOERROR	socialmedia.tamucc.edu
-NOERROR	dynsec-efr6-220.tamucc.edu
-NOERROR	dynsec-efr11-184.tamucc.edu
-NOERROR	dynsec-efr8-158.tamucc.edu
-NOERROR	dynsec-efr7-97.tamucc.edu
-NOERROR	c-rise.tamucc.edu
-NOERROR	casa.tamucc.edu
-NOERROR	certification.tamucc.edu
-NOERROR	dynsec-efr7-205.tamucc.edu
-NOERROR	dynsec-efr9-27.tamucc.edu
-NOERROR	dynsec-efr6-117.tamucc.edu
-NOERROR	dynsec-efr10-228.tamucc.edu
-NOERROR	c19s.tamucc.edu
-NOERROR	help.library.tamucc.edu
-NOERROR	dynsec-efr10-42.tamucc.edu
-NOERROR	summer.tamucc.edu
-NOERROR	library.tamucc.edu
-NXDOMAIN	ns-ise-psn2.tamucc.edu
-NXDOMAIN	thycotic.tamucc.edu
-NXDOMAIN	rubrik2d.tamucc.edu
-NOERROR	chemistry.tamucc.edu
-NXDOMAIN	mysanddollarst.ad.tamucc.edu
-NOERROR	dynsec-efr9-97.tamucc.edu
-NOERROR	dynsec-efr10-126.tamucc.edu
-NOERROR	dynsec-efr11-218.tamucc.edu
-NOERROR	dynsec-efr9-89.tamucc.edu
-NOERROR	dynsec-efr8-1.tamucc.edu
-NOERROR	dynsec-efr6-120.tamucc.edu
-NXDOMAIN	idm-shib1-test.tamucc.edu
-NXDOMAIN	rhs-sa02.mgmt.tamucc.edu
-NOERROR	foodpantry.tamucc.edu
-NXDOMAIN	soar.tamucc.edu
+dynsec-efr9-5.tamucc.edu
+dynsec-efr10-152.tamucc.edu
+dynsec-efr9-103.tamucc.edu
+dynsec-efr9-170.tamucc.edu
+dynsec-efr11-156.tamucc.edu
+eventmgmt.tamucc.edu
+dynsec-efr7-188.tamucc.edu
+www.esci.tamucc.edu
+sss.tamucc.edu
+dynsec-efr9-239.tamucc.edu
+owa.tamucc.edu
+hybrid01.tamucc.edu
+sanddollars.tamucc.edu
+budget.tamucc.edu
+dynsec-efr7-33.tamucc.edu
+dynsec-efr7-60.tamucc.edu
+dynsec-efr10-208.tamucc.edu
+distance-education.tamucc.edu
+dynsec-efr8-140.tamucc.edu
+dynsec-efr6-42.tamucc.edu
+ell.tamucc.edu
+confluence.lb.tamucc.edu
+dynsec-efr10-57.tamucc.edu
+dynsec-efr9-66.tamucc.edu
+dynsec-efr6-211.tamucc.edu
+dc01.tamucc.edu
+dynsec-efr8-168.tamucc.edu
+cardinal.tamucc.edu
+dynsec-efr10-115.tamucc.edu
+art.tamucc.edu
+dynsec-efr8-109.tamucc.edu
+dynsec-efr9-110.tamucc.edu
+dynsec-efr8-71.tamucc.edu
+dynsec-efr10-172.tamucc.edu
+dynsec-efr11-171.tamucc.edu
+dynsec-efr6-244.tamucc.edu
+construction-cam.tamucc.edu
+dynsec-efr7-153.tamucc.edu
+dynsec-efr7-165.tamucc.edu
+webmail.lb.tamucc.edu
+txvsn.tamucc.edu
+remotehelp.tamucc.edu
+dynsec-efr7-40.tamucc.edu
+dynsec-efr11-111.tamucc.edu
+dynsec-efr10-108.tamucc.edu
+spa.tamucc.edu
+myisland.tamucc.edu
+dynsec-efr11-252.tamucc.edu
+dynsec-efr6-216.tamucc.edu
+dynsec-efr8-121.tamucc.edu
+idp.tamucc.edu
+dynsec-efr10-105.tamucc.edu
+dynsec-efr9-208.tamucc.edu
+omeka.tamucc.edu
+dynsec-efr7-183.tamucc.edu
+dynsec-efr11-41.tamucc.edu
+branches.proto.cbi.tamucc.edu
+dynsec-efr9-243.tamucc.edu
+dynsec-efr8-112.tamucc.edu
+xdomes.tamucc.edu
+dynsec-efr7-150.tamucc.edu
+dynsec-efr10-145.tamucc.edu
+dynsec-efr7-221.tamucc.edu
+dynsec-efr9-251.tamucc.edu
+mail.tamucc.edu
+dynsec-efr9-58.tamucc.edu
+dynsec-efr7-156.tamucc.edu
+transferguides.tamucc.edu
+dynsec-efr6-240.tamucc.edu
+dynsec-efr9-204.tamucc.edu
+dynsec-efr9-93.tamucc.edu
+dynsec-efr8-154.tamucc.edu
+pkp.tamucc.edu
+dynsec-efr9-190.tamucc.edu
+rhsat.tamucc.edu
+dynsec-efr9-138.tamucc.edu
+dynsec-efr10-149.tamucc.edu
+lighthouse.tamucc.edu
+dynsec-efr8-45.tamucc.edu
+students.tamucc.edu
+dynsec-efr11-66.tamucc.edu
+dynsec-efr7-145.tamucc.edu
+dynsec-efr10-38.tamucc.edu
+dynsec-efr7-148.tamucc.edu
+dynsec-efr10-52.tamucc.edu
+dynsec-efr10-77.tamucc.edu
+international.tamucc.edu
+portal.cs.tamucc.edu
+gomaportal.tamucc.edu
+ssrc.tamucc.edu
+unet-019.tamucc.edu
+dynsec-efr8-21.tamucc.edu
+dynsec-efr9-88.tamucc.edu
+agiloft-test.tamucc.edu
+dynsec-efr6-111.tamucc.edu
+dynsec-efr10-212.tamucc.edu
+dynsec-efr8-97.tamucc.edu
+ssb-prod.tamucc.edu
+dynsec-efr9-105.tamucc.edu
+passwords.tamucc.edu
+dynsec-efr9-182.tamucc.edu
+dynsec-efr7-127.tamucc.edu
+dynsec-efr7-3.tamucc.edu
+ucoll.tamucc.edu
+lsamp.tamucc.edu
+dynsec-efr7-70.tamucc.edu
+dynsec-efr7-12.tamucc.edu
+listserv1.tamucc.edu
+dynsec-efr8-231.tamucc.edu
+dynsec-efr11-78.tamucc.edu
+dynsec-efr11-49.tamucc.edu
+summercamps.tamucc.edu
+dynsec-efr7-144.tamucc.edu
+dynsec-efr6-185.tamucc.edu
+sci-apps2.tamucc.edu
+dynsec-efr11-95.tamucc.edu
+rpmserver.tamucc.edu
+hdvob.tamucc.edu
+isc.tamucc.edu
+dynsec-efr10-47.tamucc.edu
+hulab.tamucc.edu
+dynsec-efr11-57.tamucc.edu
+gulfhub.tamucc.edu
+wsesg1-2.tamucc.edu
+dynsec-efr9-111.tamucc.edu
+sociology.tamucc.edu
+bi.tamucc.edu
+career-services.tamucc.edu
+dynsec-efr10-14.tamucc.edu
+wc-227-50975.tamucc.edu
+dynsec-efr10-65.tamucc.edu
+dynsec-efr6-166.tamucc.edu
+faculty.tamucc.edu
+finance-and-administration.tamucc.edu
+dynsec-efr9-119.tamucc.edu
+dynsec-efr10-159.tamucc.edu
+cnep-ctc-schedule.tamucc.edu
+dynsec-efr10-82.tamucc.edu
+dynsec-efr6-198.tamucc.edu
+dynsec-efr10-107.tamucc.edu
+hybrid3.tamucc.edu
+dynsec-efr8-50.tamucc.edu
+dynsec-efr9-211.tamucc.edu
+fh-104-56770.tamucc.edu
+dynsec-efr11-200.tamucc.edu
+lidar.tamucc.edu
+dynsec-efr8-160.tamucc.edu
+dynsec-efr9-132.tamucc.edu
+dynsec-efr6-154.tamucc.edu
+dynsec-efr8-188.tamucc.edu
+artnews.tamucc.edu
+hri.tamucc.edu
+dynsec-efr11-91.tamucc.edu
+academicaffairs.tamucc.edu
+dynsec-efr6-115.tamucc.edu
+dynsec-efr8-197.tamucc.edu
+dynsec-efr7-158.tamucc.edu
+dynsec-efr11-166.tamucc.edu
+facultyombuds.tamucc.edu
+ccbay.tamucc.edu
+dynsec-efr10-56.tamucc.edu
+dynsec-efr8-111.tamucc.edu
+dynsec-efr9-112.tamucc.edu
+dynsec-efr8-215.tamucc.edu
+dynsec-efr8-0.tamucc.edu
+dynsec-efr9-16.tamucc.edu
+dynsec-efr7-238.tamucc.edu
+dynsec-efr6-231.tamucc.edu
+dynsec-efr9-191.tamucc.edu
+www.cmss.tamucc.edu
+dynsec-efr6-58.tamucc.edu
+dynsec-efr10-189.tamucc.edu
+dynsec-efr9-48.tamucc.edu
+qep.tamucc.edu
+dynsec-efr11-223.tamucc.edu
+dynsec-efr6-38.tamucc.edu
+biol.tamucc.edu
+ia.tamucc.edu
+signage.tamucc.edu
+bapi-test.tamucc.edu
+dynsec-efr6-215.tamucc.edu
+dynsec-efr8-101.tamucc.edu
+islanderlights.tamucc.edu
+dynsec-efr10-181.tamucc.edu
+listserv.tamucc.edu
+dynsec-efr9-187.tamucc.edu
+hr.tamucc.edu
+dynsec-efr7-142.tamucc.edu
+dynsec-efr11-124.tamucc.edu
+dynsec-efr9-9.tamucc.edu
+dynsec-efr8-88.tamucc.edu
+dynsec-efr6-51.tamucc.edu
+dynsec-efr8-250.tamucc.edu
+login-prod.tamucc.edu
+dynsec-efr11-210.tamucc.edu
+dynsec-efr11-71.tamucc.edu
+dynsec-efr6-183.tamucc.edu
+dynsec-efr8-37.tamucc.edu
+dynsec-efr11-215.tamucc.edu
+dynsec-efr8-102.tamucc.edu
+dynsec-efr8-103.tamucc.edu
+dynsec-efr8-2.tamucc.edu
+grp-test.tamucc.edu
+dynsec-efr8-191.tamucc.edu
+dynsec-efr9-43.tamucc.edu
+dynsec-efr10-238.tamucc.edu
+dynsec-efr10-79.tamucc.edu
+dynsec-efr9-80.tamucc.edu
+dynsec-efr6-86.tamucc.edu
+dynsec-efr8-105.tamucc.edu
+wsesg2-2.tamucc.edu
+lfforms-dev.tamucc.edu
+chronos-prod.tamucc.edu
+dynsec-efr10-88.tamucc.edu
+dynsec-efr11-233.tamucc.edu
+dynsec-efr11-193.tamucc.edu
+hybrid03.tamucc.edu
+dynsec-efr9-36.tamucc.edu
+uc-xbox4.tamucc.edu
+elci.tamucc.edu
+isensor01.tamucc.edu
+dynsec-efr10-178.tamucc.edu
+ldap.tamucc.edu
+dynsec-efr6-230.tamucc.edu
+dynsec-efr11-149.tamucc.edu
+uashub.tamucc.edu
+dynsec-efr10-154.tamucc.edu
+dynsec-efr7-201.tamucc.edu
+dynsec-efr8-174.tamucc.edu
+fama.tamucc.edu
+dynsec-efr9-101.tamucc.edu
+dynsec-efr11-143.tamucc.edu
+dynsec-efr7-116.tamucc.edu
+uc-xbox1.tamucc.edu
+dynsec-efr6-247.tamucc.edu
+dynsec-efr10-237.tamucc.edu
+sandy.tamucc.edu
+dynsec-efr11-86.tamucc.edu
+philosophy.tamucc.edu
+dynsec-efr6-175.tamucc.edu
+enterpriseregistration.tamucc.edu
+dynsec-efr6-90.tamucc.edu
+dynsec-efr8-143.tamucc.edu
+rs.tamucc.edu
+dynsec-efr9-125.tamucc.edu
+dynsec-efr7-160.tamucc.edu
+dynsec-efr11-135.tamucc.edu
+dynsec-efr8-16.tamucc.edu
+dynsec-efr7-79.tamucc.edu
+dynsec-efr10-92.tamucc.edu
+tarpon.tamucc.edu
+incidentforms.tamucc.edu
+dynsec-efr7-64.tamucc.edu
+www.cob.tamucc.edu
+upinlbs.tamucc.edu
+design.tamucc.edu
+cerberus-2.tamucc.edu
+vortex.tamucc.edu
+gomaportal2.tamucc.edu
+dynsec-efr8-221.tamucc.edu
+dynsec-efr11-204.tamucc.edu
+dynsec-efr6-81.tamucc.edu
+cbi.tamucc.edu
+ecdc.tamucc.edu
+dynsec-efr10-55.tamucc.edu
+harveyhelp.tamucc.edu
+dynsec-efr6-96.tamucc.edu
+dynsec-efr9-77.tamucc.edu
+dynsec-efr6-49.tamucc.edu
+codeblue.tamucc.edu
+dynsec-efr11-167.tamucc.edu
+dynsec-efr6-55.tamucc.edu
+dynsec-efr9-20.tamucc.edu
+dynsec-efr10-156.tamucc.edu
+kinesiology.tamucc.edu
+dynsec-efr7-192.tamucc.edu
+dynsec-efr11-6.tamucc.edu
+presidentsball.tamucc.edu
+giving.tamucc.edu
+dynsec-efr6-226.tamucc.edu
+dynsec-efr11-85.tamucc.edu
+dynsec-efr7-2.tamucc.edu
+dynsec-efr10-43.tamucc.edu
+incidentreportform.tamucc.edu
+dynsec-efr11-141.tamucc.edu
+dynsec-efr7-123.tamucc.edu
+dynsec-efr7-73.tamucc.edu
+dynsec-efr7-111.tamucc.edu
+teach.tamucc.edu
+flipyourlids.tamucc.edu
+dynsec-efr6-31.tamucc.edu
+asa-secondary-server-farm.tamucc.edu
+dynsec-efr10-121.tamucc.edu
+sacs.tamucc.edu
+sail.tamucc.edu
+dynsec-efr9-53.tamucc.edu
+dynsec-efr6-224.tamucc.edu
+dynsec-efr9-84.tamucc.edu
+dynsec-efr11-220.tamucc.edu
+dynsec-efr6-26.tamucc.edu
+dynsec-efr11-107.tamucc.edu
+dynsec-efr8-35.tamucc.edu
+dynsec-efr10-229.tamucc.edu
+dynsec-efr7-225.tamucc.edu
+cmss.tamucc.edu
+dynsec-efr6-61.tamucc.edu
+dynsec-efr11-247.tamucc.edu
+dynsec-efr11-231.tamucc.edu
+guarddog.tamucc.edu
+www.gisc.tamucc.edu
+vl40-willard-gw.tamucc.edu
+alertus.tamucc.edu
+hdvoa.tamucc.edu
+dynsec-efr8-202.tamucc.edu
+dynsec-efr6-158.tamucc.edu
+dynsec-efr7-248.tamucc.edu
+dynsec-efr10-69.tamucc.edu
+dynsec-efr11-201.tamucc.edu
+dynsec-efr6-100.tamucc.edu
+dynsec-efr8-107.tamucc.edu
+theislander.tamucc.edu
+alumni.tamucc.edu
+sga.tamucc.edu
+dynsec-efr9-149.tamucc.edu
+dynsec-efr6-130.tamucc.edu
+dynsec-efr7-219.tamucc.edu
+falcon1.tamucc.edu
+comptroller.tamucc.edu
+asa-dmz1-gtw.tamucc.edu
+dynsec-efr9-241.tamucc.edu
+dynsec-efr11-25.tamucc.edu
+gisc.tamucc.edu
+login03.tamucc.edu
+mealplans.tamucc.edu
+dynsec-efr8-108.tamucc.edu
+dynsec-efr6-199.tamucc.edu
+dynsec-efr7-133.tamucc.edu
+dynsec-efr9-18.tamucc.edu
+dynsec-efr9-238.tamucc.edu
+dynsec-efr6-190.tamucc.edu
+dynsec-efr11-209.tamucc.edu
+dynsec-efr11-40.tamucc.edu
+businessoffice.tamucc.edu
+dynsec-efr10-185.tamucc.edu
+dynsec-efr8-47.tamucc.edu
+recsports.tamucc.edu
+dynsec-efr11-245.tamucc.edu
+iadapt.tamucc.edu
+dynsec-efr9-140.tamucc.edu
+dynsec-efr7-166.tamucc.edu
+mis.tamucc.edu
+dynsec-efr8-14.tamucc.edu
+dynsec-efr8-216.tamucc.edu
+dynsec-efr8-166.tamucc.edu
+dynsec-efr7-43.tamucc.edu
+dynsec-efr9-104.tamucc.edu
+dynsec-efr10-195.tamucc.edu
+dynsec-efr8-128.tamucc.edu
+dynsec-efr9-15.tamucc.edu
+hpc.tamucc.edu
+atc.tamucc.edu
+dynsec-efr11-59.tamucc.edu
+fusion-web.tamucc.edu
+dynsec-efr8-206.tamucc.edu
+dynsec-efr9-165.tamucc.edu
+dynsec-efr8-113.tamucc.edu
+dynsec-efr8-149.tamucc.edu
+ets.tamucc.edu
+dynsec-efr7-139.tamucc.edu
+dynsec-efr11-108.tamucc.edu
+dynsec-efr11-151.tamucc.edu
+dynsec-efr8-148.tamucc.edu
+dynsec-efr6-95.tamucc.edu
+dynsec-efr9-164.tamucc.edu
+dynsec-efr11-29.tamucc.edu
+dynsec-efr6-249.tamucc.edu
+spmail.tamucc.edu
+dynsec-efr11-75.tamucc.edu
+dynsec-efr9-247.tamucc.edu
+housing.tamucc.edu
+dynsec-efr11-138.tamucc.edu
+usdb2.tamucc.edu
+campuslogin-test.tamucc.edu
+dynsec-efr8-190.tamucc.edu
+dynsec-efr10-165.tamucc.edu
+dynsec-efr11-44.tamucc.edu
+dynsec-efr7-239.tamucc.edu
+dynsec-efr8-130.tamucc.edu
+archivesspace.tamucc.edu
+dynsec-efr7-147.tamucc.edu
+dynsec-efr8-224.tamucc.edu
+webmail.tamucc.edu
+dynsec-efr7-50.tamucc.edu
+dynsec-efr7-61.tamucc.edu
+dynsec-efr11-207.tamucc.edu
+dynsec-efr7-178.tamucc.edu
+f5a-vlan82.tamucc.edu
+dynsec-efr6-145.tamucc.edu
+dynsec-efr7-4.tamucc.edu
+thinkaboutit.tamucc.edu
+dynsec-efr11-97.tamucc.edu
+dynsec-efr7-46.tamucc.edu
+edld.tamucc.edu
+dynsec-efr10-98.tamucc.edu
+dynsec-efr9-212.tamucc.edu
+dynsec-efr11-37.tamucc.edu
+dynsec-efr9-197.tamucc.edu
+ls1dev.tamucc.edu
+dynsec-efr7-93.tamucc.edu
+lighthouse-prod.tamucc.edu
+dynsec-efr7-6.tamucc.edu
+marineecologylab.tamucc.edu
+dynsec-efr8-170.tamucc.edu
+dynsec-efr6-229.tamucc.edu
+ctc.tamucc.edu
+dynsec-efr8-126.tamucc.edu
+dynsec-efr9-114.tamucc.edu
+outbox.tamucc.edu
+dynsec-efr8-173.tamucc.edu
+dynsec-efr7-218.tamucc.edu
+dynsec-efr6-234.tamucc.edu
+directory.tamucc.edu
+dynsec-efr10-252.tamucc.edu
+campuscarry.tamucc.edu
+dynsec-efr6-57.tamucc.edu
+dynsec-efr6-142.tamucc.edu
+dynsec-efr10-150.tamucc.edu
+dynsec-efr9-79.tamucc.edu
+dynsec-efr8-239.tamucc.edu
+dynsec-efr7-223.tamucc.edu
+cpira.tamucc.edu
+conhs.tamucc.edu
+dynsec-efr11-127.tamucc.edu
+gocenter.tamucc.edu
+dynsec-efr9-219.tamucc.edu
+critical.tamucc.edu
+jira.tamucc.edu
+dynsec-efr6-159.tamucc.edu
+autodiscover.tamucc.edu
+dynsec-efr8-104.tamucc.edu
+dynsec-efr11-24.tamucc.edu
+dynsec-efr7-211.tamucc.edu
+sa-dc01.tamucc.edu
+facilities.tamucc.edu
+dynsec-efr7-146.tamucc.edu
+dynsec-efr9-143.tamucc.edu
+gridftp.tamucc.edu
+dynsec-efr10-96.tamucc.edu
+dynsec-efr11-53.tamucc.edu
+dynsec-efr7-143.tamucc.edu
+dynsec-efr10-85.tamucc.edu
+greeklife.tamucc.edu
+sa-vpn.tamucc.edu
+assessment.tamucc.edu
+islanderready.tamucc.edu
+registrar.tamucc.edu
+dynsec-efr9-40.tamucc.edu
+dynsec-efr11-197.tamucc.edu
+dynsec-efr7-105.tamucc.edu
+autocheck.tamucc.edu
+dynsec-efr11-202.tamucc.edu
+vl-110-gw-3.tamucc.edu
+security.tamucc.edu
+ns-infoblox-ext-dr-sa.tamucc.edu
+dynsec-efr7-87.tamucc.edu
+dynsec-efr9-50.tamucc.edu
+dc04.tamucc.edu
+dynsec-efr8-195.tamucc.edu
+falcon.lb.tamucc.edu
+dynsec-efr7-91.tamucc.edu
+studenteval.tamucc.edu
+willard-dmz5-server-farm-interface.tamucc.edu
+dynsec-efr9-39.tamucc.edu
+dynsec-efr11-219.tamucc.edu
+dynsec-efr9-41.tamucc.edu
+dynsec-efr10-240.tamucc.edu
+dynsec-efr6-71.tamucc.edu
+dynsec-efr7-65.tamucc.edu
+dynsec-efr8-145.tamucc.edu
+islandday.tamucc.edu
+dynsec-efr8-127.tamucc.edu
+dynsec-efr9-181.tamucc.edu
+dynsec-efr8-25.tamucc.edu
+dynsec-efr11-33.tamucc.edu
+dynsec-efr9-232.tamucc.edu
+dynsec-efr11-129.tamucc.edu
+fishlab.tamucc.edu
+dynsec-efr7-126.tamucc.edu
+dynsec-efr11-172.tamucc.edu
+guest-portal-2.tamucc.edu
+riddler.tamucc.edu
+staff.tamucc.edu
+login-test.tamucc.edu
+osfa.tamucc.edu
+purchasing.tamucc.edu
+dynsec-efr10-122.tamucc.edu
+dynsec-efr11-64.tamucc.edu
+dynsec-efr11-81.tamucc.edu
+dynsec-efr9-26.tamucc.edu
+dynsec-efr11-208.tamucc.edu
+dynsec-efr11-3.tamucc.edu
+hybrid1.tamucc.edu
+dynsec-efr7-56.tamucc.edu
+guides.library.tamucc.edu
+dynsec-efr10-74.tamucc.edu
+dynsec-efr11-214.tamucc.edu
+givingtuesday.tamucc.edu
+dynsec-efr6-74.tamucc.edu
+dynsec-efr7-246.tamucc.edu
+dynsec-efr6-112.tamucc.edu
+dynsec-efr9-85.tamucc.edu
+dynsec-efr9-131.tamucc.edu
+dynsec-efr8-217.tamucc.edu
+dynsec-efr9-248.tamucc.edu
+dynsec-efr11-237.tamucc.edu
+dynsec-efr6-14.tamucc.edu
+it.tamucc.edu
+dynsec-efr8-117.tamucc.edu
+dynsec-efr7-202.tamucc.edu
+dynsec-efr11-224.tamucc.edu
+dynsec-efr8-171.tamucc.edu
+dynsec-efr9-23.tamucc.edu
+dynsec-efr11-241.tamucc.edu
+hpo.tamucc.edu
+dynsec-efr9-233.tamucc.edu
+dynsec-efr6-118.tamucc.edu
+dynsec-efr6-148.tamucc.edu
+dynsec-efr11-115.tamucc.edu
+dynsec-efr6-73.tamucc.edu
+dynsec-efr9-214.tamucc.edu
+englishwiki.tamucc.edu
+falcon.tamucc.edu
+dynsec-efr7-5.tamucc.edu
+dynsec-efr11-180.tamucc.edu
+me.tamucc.edu
+dynsec-efr6-238.tamucc.edu
+dynsec-efr11-211.tamucc.edu
+tuccda.tamucc.edu
+dynsec-efr6-21.tamucc.edu
+dr-vpn.tamucc.edu
+griidc-dist.tamucc.edu
+dynsec-efr9-207.tamucc.edu
+dynsec-efr9-6.tamucc.edu
+tsrc.tamucc.edu
+gobiidae.tamucc.edu
+dynsec-efr11-39.tamucc.edu
+dynsec-efr7-172.tamucc.edu
+vectra.tamucc.edu
+dynsec-efr10-251.tamucc.edu
+dynsec-efr7-190.tamucc.edu
+dynsec-efr6-89.tamucc.edu
+dynsec-efr7-243.tamucc.edu
+dynsec-efr7-245.tamucc.edu
+dynsec-efr6-62.tamucc.edu
+dynsec-efr8-41.tamucc.edu
+islander.tamucc.edu
+appcheck.tamucc.edu
+camslab.tamucc.edu
+islanderfund.tamucc.edu
+dynsec-efr7-103.tamucc.edu
+dynsec-efr11-178.tamucc.edu
+dynsec-efr11-217.tamucc.edu
+dynsec-efr6-78.tamucc.edu
+apsi.tamucc.edu
+dynsec-efr7-23.tamucc.edu
+dynsec-efr11-92.tamucc.edu
+cyberdefense.tamucc.edu
+apps.tamucc.edu
+uc-325-dmz-sw.tamucc.edu
+dynsec-efr9-123.tamucc.edu
+dynsec-efr8-192.tamucc.edu
+dynsec-efr8-32.tamucc.edu
+dynsec-efr7-89.tamucc.edu
+dynsec-efr6-105.tamucc.edu
+nurdle.tamucc.edu
+dynsec-efr9-73.tamucc.edu
+dynsec-efr11-144.tamucc.edu
+ciacd.tamucc.edu
+dynsec-efr6-72.tamucc.edu
+dynsec-efr10-45.tamucc.edu
+www.enterprise.tamucc.edu
+comppile.tamucc.edu
+stedc.tamucc.edu
+dynsec-efr8-230.tamucc.edu
+dynsec-efr8-79.tamucc.edu
+dynsec-efr7-141.tamucc.edu
+dynsec-efr10-113.tamucc.edu
+dynsec-efr6-122.tamucc.edu
+dynsec-efr7-228.tamucc.edu
+dynsec-efr7-237.tamucc.edu
+dynsec-efr10-214.tamucc.edu
+dynsec-efr7-216.tamucc.edu
+olympiad.tamucc.edu
+dynsec-efr10-224.tamucc.edu
+dynsec-efr11-225.tamucc.edu
+dynsec-efr10-226.tamucc.edu
+dynsec-efr11-117.tamucc.edu
+dynsec-efr7-94.tamucc.edu
+barriowriters.tamucc.edu
+dynsec-efr8-122.tamucc.edu
+dynsec-efr6-35.tamucc.edu
+dynsec-efr10-70.tamucc.edu
+sts.tamucc.edu
+dynsec-efr11-16.tamucc.edu
+dynsec-efr6-25.tamucc.edu
+manowar.tamucc.edu
+packeteer.tamucc.edu
+dynsec-efr6-152.tamucc.edu
+dynsec-efr6-131.tamucc.edu
+dynsec-efr6-108.tamucc.edu
+dynsec-efr9-135.tamucc.edu
+fmcc.tamucc.edu
+dynsec-efr10-157.tamucc.edu
+dynsec-efr9-12.tamucc.edu
+dynsec-efr11-30.tamucc.edu
+prepro.tamucc.edu
+dynsec-efr8-98.tamucc.edu
+autodiscover.islander.tamucc.edu
+dynsec-efr11-12.tamucc.edu
+rotc.tamucc.edu
+dynsec-efr8-141.tamucc.edu
+dynsec-efr8-59.tamucc.edu
+dynsec-efr11-104.tamucc.edu
+dynsec-efr6-208.tamucc.edu
+success.tamucc.edu
+dynsec-efr10-84.tamucc.edu
+dynsec-efr9-129.tamucc.edu
+dynsec-efr6-94.tamucc.edu
+dynsec-efr10-158.tamucc.edu
+master-plan.tamucc.edu
+dynsec-efr10-236.tamucc.edu
+dynsec-efr9-250.tamucc.edu
+dynsec-efr9-83.tamucc.edu
+dynsec-efr8-4.tamucc.edu
+dynsec-efr9-65.tamucc.edu
+dynsec-efr10-135.tamucc.edu
+dynsec-efr10-128.tamucc.edu
+cch107-bb-admin.tamucc.edu
+dynsec-efr10-37.tamucc.edu
+dynsec-efr11-212.tamucc.edu
+dynsec-efr8-10.tamucc.edu
+dynsec-efr9-126.tamucc.edu
+dynsec-efr9-152.tamucc.edu
+dynsec-efr11-56.tamucc.edu
+dynsec-efr9-121.tamucc.edu
+dynsec-efr7-96.tamucc.edu
+dynsec-efr6-169.tamucc.edu
+dynsec-efr9-71.tamucc.edu
+erddap.tamucc.edu
+dynsec-efr9-2.tamucc.edu
+physlab.tamucc.edu
+dynsec-efr9-236.tamucc.edu
+gscs.tamucc.edu
+fylcp.tamucc.edu
+dynsec-efr6-123.tamucc.edu
+dynsec-efr8-178.tamucc.edu
+online.tamucc.edu
+dynsec-efr10-66.tamucc.edu
+proto.cbi.tamucc.edu
+dynsec-efr10-111.tamucc.edu
+dynsec-efr6-8.tamucc.edu
+dynsec-efr6-134.tamucc.edu
+dynsec-efr9-99.tamucc.edu
+dynsec-efr11-226.tamucc.edu
+dynsec-efr11-162.tamucc.edu
+dynsec-efr11-196.tamucc.edu
+dynsec-efr7-14.tamucc.edu
+dynsec-efr11-232.tamucc.edu
+dynsec-efr6-104.tamucc.edu
+dynsec-efr10-49.tamucc.edu
+dynsec-efr10-59.tamucc.edu
+dynsec-efr7-207.tamucc.edu
+dynsec-efr7-134.tamucc.edu
+dynsec-efr10-9.tamucc.edu
+dynsec-efr11-28.tamucc.edu
+fitw.tamucc.edu
+dataone-test.tamucc.edu
+ns1.tamucc.edu
+dynsec-efr8-18.tamucc.edu
+dynsec-efr11-248.tamucc.edu
+dynsec-efr8-193.tamucc.edu
+dynsec-efr9-206.tamucc.edu
+dynsec-efr11-18.tamucc.edu
+dynsec-efr10-62.tamucc.edu
+dynsec-efr9-19.tamucc.edu
+dynsec-efr10-2.tamucc.edu
+dynsec-efr8-20.tamucc.edu
+dynsec-efr11-87.tamucc.edu
+dynsec-efr11-96.tamucc.edu
+dynsec-efr7-21.tamucc.edu
+dynsec-efr7-85.tamucc.edu
+outreach.tamucc.edu
+dynsec-efr10-7.tamucc.edu
+dynsec-efr7-163.tamucc.edu
+emergency.tamucc.edu
+icare.tamucc.edu
+dynsec-efr10-241.tamucc.edu
+dynsec-efr11-221.tamucc.edu
+dynsec-efr6-241.tamucc.edu
+dynsec-efr11-48.tamucc.edu
+dynsec-efr7-35.tamucc.edu
+dynsec-efr8-153.tamucc.edu
+dynsec-efr6-233.tamucc.edu
+iol.tamucc.edu
+dynsec-efr8-42.tamucc.edu
+dynsec-efr9-37.tamucc.edu
+dynsec-efr11-120.tamucc.edu
+dynsec-efr8-196.tamucc.edu
+dynsec-efr11-69.tamucc.edu
+dynsec-efr9-199.tamucc.edu
+dynsec-efr9-25.tamucc.edu
+dynsec-efr7-136.tamucc.edu
+dynsec-efr11-13.tamucc.edu
+dynsec-efr10-246.tamucc.edu
+illiad.tamucc.edu
+dynsec-efr8-70.tamucc.edu
+dynsec-efr6-50.tamucc.edu
+dynsec-efr10-193.tamucc.edu
+kestrel.lb.tamucc.edu
+geohazards.tamucc.edu
+dynsec-efr6-24.tamucc.edu
+macprogram.tamucc.edu
+dynsec-efr7-83.tamucc.edu
+hriconference.tamucc.edu
+dynsec-efr11-110.tamucc.edu
+dynsec-efr6-4.tamucc.edu
+dynsec-efr9-222.tamucc.edu
+dynsec-efr8-27.tamucc.edu
+dynsec-efr6-245.tamucc.edu
+dynsec-efr11-157.tamucc.edu
+dynsec-efr11-10.tamucc.edu
+dynsec-efr6-184.tamucc.edu
+marinebiology.tamucc.edu
+dynsec-efr10-205.tamucc.edu
+dynsec-efr9-17.tamucc.edu
+sparc.tamucc.edu
+dynsec-efr7-27.tamucc.edu
+baux-prod.tamucc.edu
+dynsec-efr8-91.tamucc.edu
+artmuseum.tamucc.edu
+dynsec-efr8-135.tamucc.edu
+dynsec-efr9-196.tamucc.edu
+ss11-test.tamucc.edu
+confluencetest.tamucc.edu
+dynsec-efr6-187.tamucc.edu
+bb9-importer01.tamucc.edu
+dynsec-efr10-41.tamucc.edu
+history.tamucc.edu
+dynsec-efr9-109.tamucc.edu
+dynsec-efr6-149.tamucc.edu
+pass.tamucc.edu
+dynsec-efr7-204.tamucc.edu
+dataone-dev.tamucc.edu
+dynsec-efr6-206.tamucc.edu
+dynsec-efr8-120.tamucc.edu
+dynsec-efr11-116.tamucc.edu
+dynsec-efr7-157.tamucc.edu
+dynsec-efr11-23.tamucc.edu
+www.online.tamucc.edu
+dynsec-efr9-180.tamucc.edu
+dynsec-efr11-168.tamucc.edu
+dynsec-efr8-53.tamucc.edu
+pir.tamucc.edu
+dynsec-efr8-238.tamucc.edu
+dynsec-efr11-22.tamucc.edu
+ns-infoblox-ext.tamucc.edu
+dynsec-efr10-51.tamucc.edu
+dynsec-efr6-23.tamucc.edu
+dynsec-efr9-11.tamucc.edu
+dynsec-efr8-132.tamucc.edu
+dynsec-efr8-106.tamucc.edu
+dynsec-efr6-176.tamucc.edu
+gradcollege.tamucc.edu
+lsuss.tamucc.edu
+dynsec-efr10-76.tamucc.edu
+dynsec-efr8-124.tamucc.edu
+dynsec-efr10-199.tamucc.edu
+fb106-c-coltarus.tamucc.edu
+dynsec-efr10-90.tamucc.edu
+theatre.tamucc.edu
+dynsec-efr10-174.tamucc.edu
+dynsec-efr7-101.tamucc.edu
+smtp2.tamucc.edu
+bh-polycom-test.tamucc.edu
+dynsec-efr8-237.tamucc.edu
+birdlab.tamucc.edu
+dynsec-efr9-146.tamucc.edu
+dynsec-efr6-173.tamucc.edu
+dynsec-efr9-38.tamucc.edu
+dynsec-efr6-59.tamucc.edu
+dynsec-efr9-29.tamucc.edu
+dynsec-efr11-90.tamucc.edu
+dynsec-efr6-102.tamucc.edu
+dynsec-efr8-57.tamucc.edu
+dynsec-efr10-64.tamucc.edu
+dynsec-efr8-205.tamucc.edu
+dynsec-efr10-216.tamucc.edu
+ace.tamucc.edu
+dynsec-efr9-234.tamucc.edu
+dynsec-efr11-27.tamucc.edu
+dynsec-efr7-53.tamucc.edu
+fb-roi-2.tamucc.edu
+dynsec-efr11-14.tamucc.edu
+vl-112-gw-65.tamucc.edu
+test.tamucc.edu
+agiloft.tamucc.edu
+dynsec-efr10-190.tamucc.edu
+dynsec-efr9-168.tamucc.edu
+dynsec-efr10-183.tamucc.edu
+dynsec-efr8-156.tamucc.edu
+dynsec-efr9-136.tamucc.edu
+helpline.tamucc.edu
+dynsec-efr9-8.tamucc.edu
+dynsec-efr11-137.tamucc.edu
+dynsec-efr8-24.tamucc.edu
+dynsec-efr9-82.tamucc.edu
+bb9.tamucc.edu
+dynsec-efr7-177.tamucc.edu
+dynsec-efr9-10.tamucc.edu
+griidc-demo.tamucc.edu
+dynsec-efr10-173.tamucc.edu
+dynsec-efr7-230.tamucc.edu
+dynsec-efr7-42.tamucc.edu
+dynsec-efr9-67.tamucc.edu
+dynsec-efr10-114.tamucc.edu
+dynsec-efr7-80.tamucc.edu
+dynsec-efr11-222.tamucc.edu
+admissions.tamucc.edu
+dynsec-efr11-103.tamucc.edu
+dynsec-efr11-89.tamucc.edu
+bxe-prod.tamucc.edu
+dynsec-efr11-244.tamucc.edu
+dynsec-efr8-245.tamucc.edu
+dynsec-efr10-32.tamucc.edu
+dynsec-efr9-224.tamucc.edu
+dynsec-efr8-210.tamucc.edu
+dynsec-efr9-193.tamucc.edu
+testprep.tamucc.edu
+sssteacherprep.tamucc.edu
+duo.tamucc.edu
+fh-104-55141.tamucc.edu
+clst.tamucc.edu
+dynsec-efr10-101.tamucc.edu
+dynsec-efr6-85.tamucc.edu
+dynsec-efr11-230.tamucc.edu
+dynsec-efr8-249.tamucc.edu
+dynsec-efr6-205.tamucc.edu
+dynsec-efr6-0.tamucc.edu
+dynsec-efr7-88.tamucc.edu
+islanderbriefs.tamucc.edu
+dynsec-efr6-151.tamucc.edu
+dynsec-efr8-63.tamucc.edu
+interconnect.tamucc.edu
+dynsec-efr9-217.tamucc.edu
+smtp2-old.tamucc.edu
+dynsec-efr8-26.tamucc.edu
+dynsec-efr10-119.tamucc.edu
+tder.tamucc.edu
+dynsec-efr8-86.tamucc.edu
+camera3.tamucc.edu
+dynsec-efr6-213.tamucc.edu
+northstar.tamucc.edu
+vl-114-gw-129.tamucc.edu
+lsuss2.tamucc.edu
+dynsec-efr9-22.tamucc.edu
+dynsec-efr11-119.tamucc.edu
+dynsec-efr10-221.tamucc.edu
+dynsec-efr8-110.tamucc.edu
+dynsec-efr8-163.tamucc.edu
+dynsec-efr6-214.tamucc.edu
+jips.cob.tamucc.edu
+dynsec-efr9-161.tamucc.edu
+dynsec-efr9-158.tamucc.edu
+spfw.tamucc.edu
+dynsec-efr9-192.tamucc.edu
+dynsec-efr7-195.tamucc.edu
+nature.com.manowar.tamucc.edu
+dynsec-efr11-11.tamucc.edu
+dynsec-efr10-132.tamucc.edu
+dynsec-efr10-131.tamucc.edu
+dynsec-efr9-230.tamucc.edu
+transportation.tamucc.edu
+dynsec-efr8-240.tamucc.edu
+dynsec-efr11-70.tamucc.edu
+dynsec-efr8-182.tamucc.edu
+tcoon.cbi.tamucc.edu
+imap.tamucc.edu
+dynsec-efr7-128.tamucc.edu
+onlinegift.tamucc.edu
+mimir.tamucc.edu
+dynsec-efr10-186.tamucc.edu
+dynsec-efr8-83.tamucc.edu
+tsrc.cbi.tamucc.edu
+sciencefair.tamucc.edu
+dynsec-efr8-223.tamucc.edu
+dynsec-efr11-99.tamucc.edu
+dynsec-efr7-130.tamucc.edu
+dynsec-efr7-72.tamucc.edu
+svc.tamucc.edu
+exchange.tamucc.edu
+dynsec-efr7-149.tamucc.edu
+wac.tamucc.edu
+dynsec-efr8-12.tamucc.edu
+dynsec-efr10-50.tamucc.edu
+dynsec-efr7-1.tamucc.edu
+dynsec-efr7-114.tamucc.edu
+turnerlab.tamucc.edu
+cartogram.tamucc.edu
+dynsec-efr7-152.tamucc.edu
+bhm.tamucc.edu
+dynsec-efr6-239.tamucc.edu
+dynsec-efr11-175.tamucc.edu
+dynsec-efr11-191.tamucc.edu
+inb-prod.tamucc.edu
+dynsec-efr10-175.tamucc.edu
+dynsec-efr10-100.tamucc.edu
+dynsec-efr7-189.tamucc.edu
+dynsec-efr10-196.tamucc.edu
+dynsec-efr8-52.tamucc.edu
+mom.tamucc.edu
+dynsec-efr10-118.tamucc.edu
+dynsec-efr9-147.tamucc.edu
+dynsec-efr7-131.tamucc.edu
+judicialaffairs.tamucc.edu
+dynsec-efr6-147.tamucc.edu
+hybrid02.tamucc.edu
+dynsec-efr7-11.tamucc.edu
+www.nscs.tamucc.edu
+cc-row4-kvm1-mgmt.tamucc.edu
+dynsec-efr7-107.tamucc.edu
+dynsec-efr11-206.tamucc.edu
+dynsec-efr8-22.tamucc.edu
+dynsec-efr7-132.tamucc.edu
+dynsec-efr6-80.tamucc.edu
+login.manowar.tamucc.edu
+dynsec-efr6-223.tamucc.edu
+dynsec-efr8-146.tamucc.edu
+dynsec-efr6-87.tamucc.edu
+dataone-prod.tamucc.edu
+dynsec-efr6-92.tamucc.edu
+dynsec-efr8-65.tamucc.edu
+dynsec-efr11-242.tamucc.edu
+dynsec-efr6-69.tamucc.edu
+cab.tamucc.edu
+disabilityservices.tamucc.edu
+dynsec-efr10-44.tamucc.edu
+dynsec-efr9-1.tamucc.edu
+dynsec-efr7-214.tamucc.edu
+onbt.tamucc.edu
+proto-prod.tamucc.edu
+dynsec-efr8-76.tamucc.edu
+dynsec-efr9-24.tamucc.edu
+dynsec-efr6-212.tamucc.edu
+dynsec-efr11-105.tamucc.edu
+dynsec-efr6-177.tamucc.edu
+dynsec-efr6-127.tamucc.edu
+dynsec-efr6-171.tamucc.edu
+dynsec-efr10-75.tamucc.edu
+cla.tamucc.edu
+nasgrp-demo.tamucc.edu
+dynsec-efr8-194.tamucc.edu
+dynsec-efr7-76.tamucc.edu
+dynsec-efr9-28.tamucc.edu
+dynsec-efr6-222.tamucc.edu
+dynsec-efr11-125.tamucc.edu
+dynsec-efr11-249.tamucc.edu
+dynsec-efr8-180.tamucc.edu
+dynsec-efr8-74.tamucc.edu
+ldap.lb.tamucc.edu
+oie.tamucc.edu
+dynsec-efr11-164.tamucc.edu
+dynsec-efr9-95.tamucc.edu
+bluecrew.tamucc.edu
+dynsec-efr8-93.tamucc.edu
+dynsec-efr6-164.tamucc.edu
+dynsec-efr7-15.tamucc.edu
+resolver.ebscohost.com.manowar.tamucc.edu
+grow.tamucc.edu
+dynsec-efr6-252.tamucc.edu
+dynsec-efr7-151.tamucc.edu
+dynsec-efr10-180.tamucc.edu
+dynsec-efr8-89.tamucc.edu
+dynsec-efr11-83.tamucc.edu
+dynsec-efr10-207.tamucc.edu
+sophos.tamucc.edu
+gomexsi.tamucc.edu
+apps.proto.cbi.tamucc.edu
+dynsec-efr7-222.tamucc.edu
+dynsec-efr11-61.tamucc.edu
+charity.tamucc.edu
+lanrev.tamucc.edu
+dynsec-efr7-74.tamucc.edu
+dynsec-efr6-99.tamucc.edu
+nsglobus-test.tamucc.edu
+dynsec-efr10-104.tamucc.edu
+dynsec-efr7-71.tamucc.edu
+iservicedesk.tamucc.edu
+updb.tamucc.edu
+edcs.tamucc.edu
+dynsec-efr10-248.tamucc.edu
+dynsec-efr6-121.tamucc.edu
+dynsec-efr7-226.tamucc.edu
+dynsec-efr11-170.tamucc.edu
+dynsec-efr8-241.tamucc.edu
+dynsec-efr10-217.tamucc.edu
+genomics.tamucc.edu
+dynsec-efr8-134.tamucc.edu
+dynsec-efr7-75.tamucc.edu
+dynsec-efr9-226.tamucc.edu
+dynsec-efr6-189.tamucc.edu
+dynsec-efr8-226.tamucc.edu
+smtp4.tamucc.edu
+vpn.tamucc.edu
+pens.tamucc.edu
+dynsec-efr10-153.tamucc.edu
+dynsec-efr9-62.tamucc.edu
+dynsec-efr9-102.tamucc.edu
+dynsec-efr11-58.tamucc.edu
+dynsec-efr7-125.tamucc.edu
+dynsec-efr7-28.tamucc.edu
+bxe-prod.lb.tamucc.edu
+dynsec-efr11-122.tamucc.edu
+pathways.tamucc.edu
+dynsec-efr10-48.tamucc.edu
+cbiweb.tamucc.edu
+dynsec-efr11-153.tamucc.edu
+dynsec-efr8-213.tamucc.edu
+dynsec-efr9-235.tamucc.edu
+dynsec-efr9-98.tamucc.edu
+dynsec-efr8-159.tamucc.edu
+mysanddollars.tamucc.edu
+dynsec-efr10-164.tamucc.edu
+dynsec-efr8-5.tamucc.edu
+outlook.tamucc.edu
+dynsec-efr9-173.tamucc.edu
+csgolddb.tamucc.edu
+dynsec-efr7-13.tamucc.edu
+git.cbi.tamucc.edu
+idm-idp3.tamucc.edu
+dynsec-efr7-240.tamucc.edu
+tileserver.tamucc.edu
+uc-xbox2.tamucc.edu
+dynsec-efr9-172.tamucc.edu
+dynsec-efr7-154.tamucc.edu
+dynsec-efr10-227.tamucc.edu
+dynsec-efr10-130.tamucc.edu
+cbigrid.tamucc.edu
+dynsec-efr8-28.tamucc.edu
+dynsec-efr9-134.tamucc.edu
+dynsec-efr10-230.tamucc.edu
+m.tamucc.edu
+dynsec-efr9-116.tamucc.edu
+dynsec-efr8-138.tamucc.edu
+dynsec-efr9-44.tamucc.edu
+dynsec-efr7-171.tamucc.edu
+newman.tamucc.edu
+dynsec-efr9-174.tamucc.edu
+dynsec-efr8-157.tamucc.edu
+dynsec-efr8-7.tamucc.edu
+dynsec-efr7-10.tamucc.edu
+dynsec-efr7-200.tamucc.edu
+dynsec-efr9-139.tamucc.edu
+icore.tamucc.edu
+dynsec-efr9-59.tamucc.edu
+dynsec-efr9-35.tamucc.edu
+dynsec-efr10-232.tamucc.edu
+writingcamps.tamucc.edu
+illiad-new.tamucc.edu
+dynsec-efr7-184.tamucc.edu
+dynsec-efr8-15.tamucc.edu
+dynsec-efr7-185.tamucc.edu
+dynsec-efr6-20.tamucc.edu
+dynsec-efr9-144.tamucc.edu
+dynsec-efr9-56.tamucc.edu
+dynsec-efr11-72.tamucc.edu
+dynsec-efr7-251.tamucc.edu
+dynsec-efr7-90.tamucc.edu
+education.tamucc.edu
+idp-prod.lb.tamucc.edu
+dynsec-efr7-39.tamucc.edu
+dynsec-efr11-190.tamucc.edu
+heslr.tamucc.edu
+dynsec-efr8-96.tamucc.edu
+dynsec-efr9-202.tamucc.edu
+dynsec-efr8-233.tamucc.edu
+dynsec-efr9-87.tamucc.edu
+dynsec-efr10-117.tamucc.edu
+dynsec-efr9-137.tamucc.edu
+dynsec-efr10-67.tamucc.edu
+perfsonar.tamucc.edu
+dynsec-efr10-147.tamucc.edu
+ithelp-test.tamucc.edu
+dynsec-efr6-40.tamucc.edu
+dynsec-efr7-99.tamucc.edu
+staffcouncil.tamucc.edu
+dynsec-efr6-68.tamucc.edu
+dynsec-efr7-168.tamucc.edu
+dynsec-efr6-52.tamucc.edu
+dynsec-efr11-9.tamucc.edu
+dynsec-efr8-212.tamucc.edu
+ext-camera2.tamucc.edu
+dynsec-efr10-138.tamucc.edu
+dynsec-efr7-170.tamucc.edu
+dynsec-efr9-75.tamucc.edu
+dynsec-efr9-69.tamucc.edu
+testing.tamucc.edu
+dynsec-efr8-229.tamucc.edu
+dynsec-efr9-7.tamucc.edu
+dynsec-efr11-80.tamucc.edu
+dynsec-efr6-66.tamucc.edu
+dynsec-efr10-127.tamucc.edu
+dynsec-efr11-227.tamucc.edu
+cascade-web-dev.tamucc.edu
+dynsec-efr9-21.tamucc.edu
+dynsec-efr10-225.tamucc.edu
+dynsec-efr7-82.tamucc.edu
+dynsec-efr6-251.tamucc.edu
+dynsec-efr8-177.tamucc.edu
+dynsec-efr11-177.tamucc.edu
+universityservices.tamucc.edu
+login.tamucc.edu
+dynsec-efr11-114.tamucc.edu
+dynsec-efr6-41.tamucc.edu
+dynsec-efr7-119.tamucc.edu
+cerberus-1.tamucc.edu
+perfsonar2.tamucc.edu
+dynsec-efr8-116.tamucc.edu
+dynsec-efr8-115.tamucc.edu
+dynsec-efr9-34.tamucc.edu
+dynsec-efr6-45.tamucc.edu
+dynsec-efr8-155.tamucc.edu
+outhouse.tamucc.edu
+dynsec-efr6-150.tamucc.edu
+dynsec-efr7-45.tamucc.edu
+dynsec-efr6-2.tamucc.edu
+dynsec-efr8-129.tamucc.edu
+eventslist.tamucc.edu
+police.tamucc.edu
+dynsec-efr11-5.tamucc.edu
+dynsec-efr6-119.tamucc.edu
+dynsec-efr11-176.tamucc.edu
+projectgrad.tamucc.edu
+excessivehours.tamucc.edu
+dynsec-efr6-106.tamucc.edu
+dynsec-efr10-155.tamucc.edu
+dynsec-efr10-133.tamucc.edu
+dynsec-efr11-106.tamucc.edu
+uc-xbox3.tamucc.edu
+dynsec-efr9-183.tamucc.edu
+banner.tamucc.edu
+dynsec-efr8-36.tamucc.edu
+dynsec-efr7-224.tamucc.edu
+studentaffairs.tamucc.edu
+seas.tamucc.edu
+presidentscouncil.tamucc.edu
+fisheries.tamucc.edu
+test-manowar.tamucc.edu
+dynsec-efr6-44.tamucc.edu
+dynsec-efr7-8.tamucc.edu
+scholar.google.com.manowar.tamucc.edu
+dynsec-efr8-64.tamucc.edu
+dynsec-efr6-56.tamucc.edu
+dynsec-efr11-31.tamucc.edu
+dynsec-efr8-162.tamucc.edu
+dynsec-efr11-158.tamucc.edu
+sinky-prod.tamucc.edu
+dynsec-efr9-113.tamucc.edu
+tar.tamucc.edu
+dynsec-efr9-201.tamucc.edu
+dynsec-efr8-147.tamucc.edu
+dynsec-efr6-197.tamucc.edu
+dynsec-efr11-163.tamucc.edu
+f5b-vlan82.tamucc.edu
+cascade.tamucc.edu
+tour.tamucc.edu
+dynsec-efr10-4.tamucc.edu
+dynsec-efr8-119.tamucc.edu
+dynsec-efr6-75.tamucc.edu
+dynsec-efr8-46.tamucc.edu
+dynsec-efr11-50.tamucc.edu
+dynsec-efr10-200.tamucc.edu
+dynsec-efr9-210.tamucc.edu
+dynsec-efr10-148.tamucc.edu
+dynsec-efr8-118.tamucc.edu
+dynsec-efr11-183.tamucc.edu
+nursing.tamucc.edu
+dynsec-efr10-1.tamucc.edu
+dynsec-efr7-24.tamucc.edu
+dynsec-efr11-77.tamucc.edu
+dynsec-efr7-174.tamucc.edu
+dynsec-efr10-222.tamucc.edu
+dynsec-efr10-83.tamucc.edu
+dynsec-efr11-188.tamucc.edu
+dynsec-efr11-130.tamucc.edu
+dynsec-efr10-163.tamucc.edu
+dynsec-efr11-131.tamucc.edu
+dynsec-efr11-123.tamucc.edu
+dynsec-efr6-33.tamucc.edu
+dynsec-efr7-208.tamucc.edu
+officialnotices.tamucc.edu
+nscs.tamucc.edu
+dynsec-efr10-97.tamucc.edu
+dynsec-efr8-11.tamucc.edu
+dynsec-efr11-189.tamucc.edu
+tuition.tamucc.edu
+music.tamucc.edu
+english.tamucc.edu
+dynsec-efr11-240.tamucc.edu
+events.tamucc.edu
+dynsec-efr8-186.tamucc.edu
+dynsec-efr10-71.tamucc.edu
+dynsec-efr10-211.tamucc.edu
+dynsec-efr11-121.tamucc.edu
+engineering.tamucc.edu
+dynsec-efr6-242.tamucc.edu
+dynsec-efr11-169.tamucc.edu
+dynsec-efr7-247.tamucc.edu
+dynsec-efr6-125.tamucc.edu
+usgsvpn.tamucc.edu
+dynsec-efr11-250.tamucc.edu
+sts.test.tamucc.edu
+dynsec-efr6-9.tamucc.edu
+dynsec-efr6-188.tamucc.edu
+lsuasc.tamucc.edu
+dynsec-efr6-167.tamucc.edu
+dynsec-efr11-21.tamucc.edu
+hybrid2.tamucc.edu
+cosc.tamucc.edu
+dynsec-efr8-209.tamucc.edu
+dynsec-efr6-30.tamucc.edu
+lwc-211-cam.tamucc.edu
+dynsec-efr9-177.tamucc.edu
+bss-prod.tamucc.edu
+confluencetest.lb.tamucc.edu
+dynsec-efr6-250.tamucc.edu
+dynsec-efr9-195.tamucc.edu
+dynsec-efr6-181.tamucc.edu
+dynsec-efr6-232.tamucc.edu
+dynsec-efr10-141.tamucc.edu
+dynsec-efr11-187.tamucc.edu
+dynsec-efr7-124.tamucc.edu
+dynsec-efr9-163.tamucc.edu
+hrigis.tamucc.edu
+dynsec-efr9-150.tamucc.edu
+dynsec-efr8-133.tamucc.edu
+hopi-server.tamucc.edu
+dynsec-efr7-44.tamucc.edu
+dynsec-efr6-91.tamucc.edu
+dynsec-efr7-19.tamucc.edu
+dynsec-efr9-31.tamucc.edu
+dynsec-efr6-156.tamucc.edu
+dynsec-efr8-94.tamucc.edu
+dynsec-efr8-248.tamucc.edu
+dynsec-efr11-198.tamucc.edu
+dynsec-efr9-220.tamucc.edu
+dynsec-efr10-106.tamucc.edu
+dynsec-efr7-30.tamucc.edu
+dynsec-efr11-235.tamucc.edu
+dynsec-efr6-19.tamucc.edu
+dynsec-efr8-222.tamucc.edu
+dynsec-efr9-63.tamucc.edu
+dynsec-efr10-184.tamucc.edu
+dynsec-efr10-109.tamucc.edu
+dynsec-efr9-176.tamucc.edu
+sp.tamucc.edu
+dynsec-efr11-54.tamucc.edu
+dynsec-efr9-148.tamucc.edu
+password.tamucc.edu
+dynsec-efr6-28.tamucc.edu
+dynsec-efr6-139.tamucc.edu
+dynsec-efr7-9.tamucc.edu
+ext-dns1.tamucc.edu
+dynsec-efr10-201.tamucc.edu
+dynsec-efr7-162.tamucc.edu
+idm-idp-prod.lb.tamucc.edu
+dynsec-efr6-114.tamucc.edu
+dynsec-efr8-19.tamucc.edu
+dynsec-efr9-229.tamucc.edu
+rhds-prod.tamucc.edu
+dynsec-efr9-186.tamucc.edu
+dynsec-efr8-246.tamucc.edu
+dynsec-efr9-179.tamucc.edu
+www.marinebiology.tamucc.edu
+dynsec-efr10-204.tamucc.edu
+dynsec-efr7-215.tamucc.edu
+wow.tamucc.edu
+astra.tamucc.edu
+studyabroad.tamucc.edu
+dynsec-efr6-165.tamucc.edu
+dynsec-efr7-86.tamucc.edu
+dynsec-efr6-157.tamucc.edu
+futureislander.tamucc.edu
+sailbooks.tamucc.edu
+hispanicheritagemonth.tamucc.edu
+rdgatewaytest.tamucc.edu
+islanderchallenge.tamucc.edu
+cbsf.tamucc.edu
+dynsec-efr9-81.tamucc.edu
+dynsec-efr9-223.tamucc.edu
+dynsec-efr10-54.tamucc.edu
+dynsec-efr7-68.tamucc.edu
+islandergreen.tamucc.edu
+dynsec-efr8-13.tamucc.edu
+samc.tamucc.edu
+codi.tamucc.edu
+dynsec-efr6-138.tamucc.edu
+dynsec-efr8-225.tamucc.edu
+dynsec-efr10-231.tamucc.edu
+dynsec-efr6-221.tamucc.edu
+dynsec-efr9-108.tamucc.edu
+dynsec-efr9-244.tamucc.edu
+dynsec-efr7-181.tamucc.edu
+dynsec-efr7-122.tamucc.edu
+dynsec-efr7-213.tamucc.edu
+dynsec-efr11-63.tamucc.edu
+dynsec-efr10-168.tamucc.edu
+dynsec-efr8-242.tamucc.edu
+dynsec-efr10-80.tamucc.edu
+dynsec-efr6-37.tamucc.edu
+dynsec-efr6-6.tamucc.edu
+dynsec-efr11-155.tamucc.edu
+islandwaves.tamucc.edu
+sci.tamucc.edu
+dynsec-efr6-88.tamucc.edu
+dynsec-efr11-112.tamucc.edu
+dynsec-efr7-112.tamucc.edu
+sand2.tamucc.edu
+dynsec-efr9-30.tamucc.edu
+meridian.cbi.tamucc.edu
+dynsec-efr11-74.tamucc.edu
+dynsec-efr11-134.tamucc.edu
+cbbic.tamucc.edu
+dynsec-efr6-236.tamucc.edu
+dynsec-efr7-29.tamucc.edu
+dynsec-efr8-220.tamucc.edu
+conklelab.tamucc.edu
+dynsec-efr6-53.tamucc.edu
+dynsec-efr10-176.tamucc.edu
+updateform.tamucc.edu
+dynsec-efr7-0.tamucc.edu
+griidc-prod-sa.tamucc.edu
+dynsec-efr9-74.tamucc.edu
+dynsec-efr11-203.tamucc.edu
+dynsec-efr10-218.tamucc.edu
+dynsec-efr10-179.tamucc.edu
+dynsec-efr6-98.tamucc.edu
+dynsec-efr8-99.tamucc.edu
+dynsec-efr10-53.tamucc.edu
+dynsec-efr7-241.tamucc.edu
+dynsec-efr7-62.tamucc.edu
+stonesdata.tamucc.edu
+unet-018.tamucc.edu
+dynsec-efr9-169.tamucc.edu
+poseidon.tamucc.edu
+dynsec-efr8-234.tamucc.edu
+dynsec-efr9-240.tamucc.edu
+listserv2.tamucc.edu
+upwardbound.tamucc.edu
+dynsec-efr9-33.tamucc.edu
+momentum2020.tamucc.edu
+mcnair.tamucc.edu
+dynsec-efr11-128.tamucc.edu
+dynsec-efr11-19.tamucc.edu
+dynsec-efr6-178.tamucc.edu
+dynsec-efr9-51.tamucc.edu
+dynsec-efr6-83.tamucc.edu
+dynsec-efr9-91.tamucc.edu
+dynsec-efr9-86.tamucc.edu
+fsportal.tamucc.edu
+dynsec-efr7-95.tamucc.edu
+banner-self-service.tamucc.edu
+dynsec-efr8-207.tamucc.edu
+dynsec-efr9-188.tamucc.edu
+dynsec-efr7-138.tamucc.edu
+dynsec-efr6-180.tamucc.edu
+meridian-prod.tamucc.edu
+dynsec-efr9-52.tamucc.edu
+dynsec-efr6-126.tamucc.edu
+dynsec-efr11-55.tamucc.edu
+fb106-c-coltarus-vpn.tamucc.edu
+dynsec-efr10-146.tamucc.edu
+dynsec-efr11-7.tamucc.edu
+dynsec-efr9-245.tamucc.edu
+dynsec-efr7-38.tamucc.edu
+jiratest.tamucc.edu
+dynsec-efr8-95.tamucc.edu
+dynsec-efr10-202.tamucc.edu
+dynsec-efr10-188.tamucc.edu
+ceder.tamucc.edu
+dynsec-efr8-38.tamucc.edu
+dynsec-efr7-113.tamucc.edu
+cnep.tamucc.edu
+dynsec-efr6-34.tamucc.edu
+catalog.tamucc.edu
+marsci.tamucc.edu
+newuser.tamucc.edu
+hpcm.tamucc.edu
+dynsec-efr6-195.tamucc.edu
+dynsec-efr11-100.tamucc.edu
+dynsec-efr6-67.tamucc.edu
+dynsec-efr9-231.tamucc.edu
+dynsec-efr11-133.tamucc.edu
+dynsec-efr9-45.tamucc.edu
+dynsec-efr6-172.tamucc.edu
+dynsec-efr6-170.tamucc.edu
+smte.tamucc.edu
+dynsec-efr10-239.tamucc.edu
+dynsec-efr6-237.tamucc.edu
+communication.tamucc.edu
+www.lsuasc.tamucc.edu
+homecoming.tamucc.edu
+dynsec-efr11-192.tamucc.edu
+dynsec-efr9-145.tamucc.edu
+dynsec-efr8-33.tamucc.edu
+dynsec-efr8-80.tamucc.edu
+dynsec-efr11-94.tamucc.edu
+dynsec-efr11-173.tamucc.edu
+outbox-prod.tamucc.edu
+dynsec-efr10-233.tamucc.edu
+dynsec-efr7-210.tamucc.edu
+athletictraining.tamucc.edu
+marinemetadata.tamucc.edu
+support.tamucc.edu
+unet-004.tamucc.edu
+dynsec-efr9-227.tamucc.edu
+dynsec-efr6-203.tamucc.edu
+dynsec-efr7-34.tamucc.edu
+ad.tamucc.edu
+dynsec-efr10-151.tamucc.edu
+dynsec-efr11-174.tamucc.edu
+dynsec-efr11-205.tamucc.edu
+lsci.tamucc.edu
+ois.tamucc.edu
+dynsec-efr11-194.tamucc.edu
+dynsec-efr10-235.tamucc.edu
+dynsec-efr10-112.tamucc.edu
+dynsec-efr10-169.tamucc.edu
+willard.tamucc.edu
+dynsec-efr7-203.tamucc.edu
+griidc-test.tamucc.edu
+dynsec-efr11-60.tamucc.edu
+hub01.tamucc.edu
+dynsec-efr6-219.tamucc.edu
+cbiwow.tamucc.edu
+dynsec-efr9-78.tamucc.edu
+dynsec-efr10-144.tamucc.edu
+dynsec-efr6-161.tamucc.edu
+dynsec-efr7-252.tamucc.edu
+dynsec-efr8-144.tamucc.edu
+studentconduct.tamucc.edu
+astra7.tamucc.edu
+dynsec-efr11-51.tamucc.edu
+dynsec-efr7-31.tamucc.edu
+dynsec-efr8-44.tamucc.edu
+dynsec-efr7-182.tamucc.edu
+scholar-google-com.manowar.tamucc.edu
+hriftp.tamucc.edu
+dynsec-efr8-244.tamucc.edu
+dynsec-efr7-100.tamucc.edu
+dynsec-efr6-133.tamucc.edu
+dynsec-efr7-59.tamucc.edu
+dynsec-efr11-139.tamucc.edu
+dynsec-efr7-18.tamucc.edu
+dynsec-efr11-101.tamucc.edu
+dynsec-efr11-67.tamucc.edu
+ithelp.tamucc.edu
+dynsec-efr7-66.tamucc.edu
+dynsec-efr10-91.tamucc.edu
+dynsec-efr7-244.tamucc.edu
+its.tamucc.edu
+cascade-web-test.tamucc.edu
+dynsec-efr6-204.tamucc.edu
+dynsec-efr8-75.tamucc.edu
+dynsec-efr9-70.tamucc.edu
+dynsec-efr8-137.tamucc.edu
+dynsec-efr8-78.tamucc.edu
+dynsec-efr10-36.tamucc.edu
+dynsec-efr6-79.tamucc.edu
+dynsec-efr8-189.tamucc.edu
+dynsec-efr8-199.tamucc.edu
+dynsec-efr6-48.tamucc.edu
+writingwiki.tamucc.edu
+dynsec-efr8-136.tamucc.edu
+cfe.tamucc.edu
+clstback.tamucc.edu
+dynsec-efr7-115.tamucc.edu
+dynsec-efr8-29.tamucc.edu
+dynsec-efr7-110.tamucc.edu
+dynsec-efr6-5.tamucc.edu
+entc.tamucc.edu
+dynsec-efr11-17.tamucc.edu
+dynsec-efr11-36.tamucc.edu
+dynsec-efr7-194.tamucc.edu
+dynsec-efr9-14.tamucc.edu
+vl95gw.tamucc.edu
+imagegallery.tamucc.edu
+dynsec-efr11-102.tamucc.edu
+pac.tamucc.edu
+dynsec-efr7-48.tamucc.edu
+dynsec-efr7-167.tamucc.edu
+dynsec-efr6-217.tamucc.edu
+dynsec-efr8-8.tamucc.edu
+dynsec-efr10-161.tamucc.edu
+folletconnect.tamucc.edu
+dynsec-efr7-220.tamucc.edu
+dynsec-efr6-246.tamucc.edu
+dynsec-efr9-49.tamucc.edu
+dynsec-efr9-246.tamucc.edu
+dynsec-efr10-116.tamucc.edu
+dynsec-efr11-165.tamucc.edu
+dynsec-efr7-186.tamucc.edu
+dynsec-efr8-48.tamucc.edu
+dynsec-efr11-47.tamucc.edu
+pollacklab.tamucc.edu
+icl.tamucc.edu
+dynsec-efr8-49.tamucc.edu
+dynsec-efr8-208.tamucc.edu
+fsp03.tamucc.edu
+dynsec-efr8-73.tamucc.edu
+dynsec-efr7-187.tamucc.edu
+dynsec-efr8-236.tamucc.edu
+dc03.tamucc.edu
+dynsec-efr11-146.tamucc.edu
+dynsec-efr7-249.tamucc.edu
+dynsec-efr8-23.tamucc.edu
+studentwiki.tamucc.edu
+dynsec-efr11-243.tamucc.edu
+beis-prod.tamucc.edu
+dynsec-efr11-145.tamucc.edu
+dynsec-efr10-46.tamucc.edu
+dynsec-efr11-4.tamucc.edu
+onlinedegree.tamucc.edu
+dynsec-efr7-69.tamucc.edu
+dynsec-efr6-153.tamucc.edu
+ext-dns2.tamucc.edu
+dynsec-efr7-77.tamucc.edu
+gcoos.tamucc.edu
+dynsec-efr6-194.tamucc.edu
+math.tamucc.edu
+dynsec-efr11-0.tamucc.edu
+dynsec-efr11-52.tamucc.edu
+dynsec-efr9-107.tamucc.edu
+payroll.tamucc.edu
+dynsec-efr9-225.tamucc.edu
+dynsec-efr6-124.tamucc.edu
+dynsec-efr7-106.tamucc.edu
+dynsec-efr10-61.tamucc.edu
+healthcenter.tamucc.edu
+dynsec-efr8-84.tamucc.edu
+www.fisheries.tamucc.edu
+dynsec-efr6-218.tamucc.edu
+dynsec-efr8-185.tamucc.edu
+em.tamucc.edu
+dynsec-efr10-219.tamucc.edu
+dynsec-efr11-20.tamucc.edu
+dynsec-efr6-163.tamucc.edu
+dynsec-efr6-174.tamucc.edu
+dynsec-efr8-61.tamucc.edu
+dynsec-efr9-124.tamucc.edu
+dynsec-efr11-15.tamucc.edu
+dynsec-efr10-86.tamucc.edu
+dynsec-efr10-63.tamucc.edu
+dynsec-efr10-89.tamucc.edu
+dynsec-efr10-134.tamucc.edu
+dynsec-efr6-109.tamucc.edu
+dynsec-efr6-202.tamucc.edu
+dataone.tamucc.edu
+microsapp1.tamucc.edu
+cas.tamucc.edu
+dynsec-efr7-58.tamucc.edu
+dynsec-efr9-194.tamucc.edu
+unet-015.tamucc.edu
+dynsec-efr10-8.tamucc.edu
+dynsec-efr11-34.tamucc.edu
+atmos.tamucc.edu
+dynsec-efr10-103.tamucc.edu
+smtp1.tamucc.edu
+vl-110-gw-1.tamucc.edu
+dynsec-efr7-217.tamucc.edu
+dynsec-efr11-179.tamucc.edu
+dynsec-efr11-159.tamucc.edu
+orientation.tamucc.edu
+dynsec-efr11-82.tamucc.edu
+dynsec-efr7-179.tamucc.edu
+dynsec-efr8-167.tamucc.edu
+dynsec-efr6-63.tamucc.edu
+dynsec-efr7-37.tamucc.edu
+dynsec-efr7-49.tamucc.edu
+dynsec-efr11-246.tamucc.edu
+dynsec-efr9-151.tamucc.edu
+dynsec-efr8-90.tamucc.edu
+dynsec-efr11-84.tamucc.edu
+dynsec-efr11-148.tamucc.edu
+dynsec-efr8-161.tamucc.edu
+www.eline.tamucc.edu
+dynsec-efr8-247.tamucc.edu
+dynsec-efr11-234.tamucc.edu
+dynsec-efr8-228.tamucc.edu
+dynsec-efr7-206.tamucc.edu
+dynsec-efr10-194.tamucc.edu
+dynsec-efr7-229.tamucc.edu
+dynsec-efr10-142.tamucc.edu
+uscdmzsw.tamucc.edu
+vl-111-gw-33.tamucc.edu
+dynsec-efr11-142.tamucc.edu
+dynsec-efr8-142.tamucc.edu
+dynsec-efr10-177.tamucc.edu
+dynsec-efr7-63.tamucc.edu
+dynsec-efr8-125.tamucc.edu
+vets.tamucc.edu
+ccbay-old.tamucc.edu
+dynsec-efr7-159.tamucc.edu
+dynsec-efr7-57.tamucc.edu
+dynsec-efr6-46.tamucc.edu
+dynsec-efr10-170.tamucc.edu
+dynsec-efr9-215.tamucc.edu
+dynsec-efr9-127.tamucc.edu
+dynsec-efr9-242.tamucc.edu
+dynsec-efr6-193.tamucc.edu
+dynsec-efr8-51.tamucc.edu
+dynsec-efr8-201.tamucc.edu
+dynsec-efr11-98.tamucc.edu
+supce.tamucc.edu
+dynsec-efr7-108.tamucc.edu
+dynsec-efr8-100.tamucc.edu
+dynsec-efr10-99.tamucc.edu
+bims.tamucc.edu
+dynsec-efr10-223.tamucc.edu
+dynsec-efr6-248.tamucc.edu
+dynsec-efr7-176.tamucc.edu
+dynsec-efr7-233.tamucc.edu
+dynsec-efr11-32.tamucc.edu
+dynsec-efr6-140.tamucc.edu
+dynsec-efr6-103.tamucc.edu
+marinegenomicslab.tamucc.edu
+dynsec-efr10-95.tamucc.edu
+griidc-ingest.tamucc.edu
+dynsec-efr9-209.tamucc.edu
+dynsec-efr9-154.tamucc.edu
+dynsec-efr11-182.tamucc.edu
+dynsec-efr9-205.tamucc.edu
+laserficheforms.tamucc.edu
+dynsec-efr8-66.tamucc.edu
+contracts.tamucc.edu
+fb-roi-1.tamucc.edu
+dynsec-efr6-70.tamucc.edu
+dynsec-efr8-67.tamucc.edu
+dynsec-efr9-60.tamucc.edu
+dynsec-efr10-31.tamucc.edu
+redcap.tamucc.edu
+dvpam.tamucc.edu
+dynsec-efr8-165.tamucc.edu
+dynsec-efr6-155.tamucc.edu
+dynsec-efr6-129.tamucc.edu
+usweb.tamucc.edu
+dynsec-efr8-184.tamucc.edu
+dynsec-efr8-204.tamucc.edu
+dynsec-efr10-3.tamucc.edu
+dynsec-efr8-9.tamucc.edu
+f5-cc-vlan82.tamucc.edu
+physics.tamucc.edu
+dynsec-efr10-136.tamucc.edu
+dynsec-efr6-210.tamucc.edu
+dynsec-efr8-181.tamucc.edu
+www.islandday.tamucc.edu
+dynsec-efr9-133.tamucc.edu
+cs.tamucc.edu
+dynsec-efr11-213.tamucc.edu
+dc02.tamucc.edu
+catalog-next.tamucc.edu
+dynsec-efr10-72.tamucc.edu
+dynsec-efr10-125.tamucc.edu
+ica.tamucc.edu
+scholarships.tamucc.edu
+hectorpgarcia.tamucc.edu
+dugs.tamucc.edu
+dynsec-efr11-181.tamucc.edu
+dynsec-efr10-234.tamucc.edu
+dynsec-efr8-251.tamucc.edu
+dynsec-efr10-102.tamucc.edu
+dynsec-efr8-151.tamucc.edu
+dynsec-efr7-232.tamucc.edu
+dynsec-efr7-25.tamucc.edu
+dynsec-efr8-252.tamucc.edu
+apps.webofknowledge.com.manowar.tamucc.edu
+dynsec-efr6-128.tamucc.edu
+smtp3.tamucc.edu
+www.osfa.tamucc.edu
+dynsec-efr8-169.tamucc.edu
+sssstem.tamucc.edu
+dynsec-efr11-229.tamucc.edu
+dynsec-efr6-16.tamucc.edu
+bapi-prod.tamucc.edu
+dynsec-efr7-16.tamucc.edu
+dynsec-efr9-167.tamucc.edu
+ucsa.tamucc.edu
+dynsec-efr10-78.tamucc.edu
+dynsec-efr6-101.tamucc.edu
+dynsec-efr11-251.tamucc.edu
+dynsec-efr11-136.tamucc.edu
+dynsec-efr10-171.tamucc.edu
+dynsec-efr9-166.tamucc.edu
+dynsec-efr8-17.tamucc.edu
+dynsec-efr6-201.tamucc.edu
+dynsec-efr10-192.tamucc.edu
+ssb1-test.tamucc.edu
+dynsec-efr7-164.tamucc.edu
+dynsec-efr10-40.tamucc.edu
+dynsec-efr11-239.tamucc.edu
+designguide.tamucc.edu
+dynsec-efr8-72.tamucc.edu
+dynsec-efr9-115.tamucc.edu
+dynsec-efr9-237.tamucc.edu
+dynsec-efr8-43.tamucc.edu
+www.scorm.tamucc.edu
+dynsec-efr7-67.tamucc.edu
+dynsec-efr7-212.tamucc.edu
+dynsec-efr6-1.tamucc.edu
+dynsec-efr10-58.tamucc.edu
+dynsec-efr9-142.tamucc.edu
+dynsec-efr7-173.tamucc.edu
+dynsec-efr7-234.tamucc.edu
+alohadays.tamucc.edu
+dynsec-efr6-97.tamucc.edu
+dynsec-efr8-114.tamucc.edu
+dynsec-efr8-152.tamucc.edu
+dynsec-efr6-36.tamucc.edu
+dynsec-efr8-175.tamucc.edu
+twostep.tamucc.edu
+reservedforgloria.tamucc.edu
+dynsec-efr6-113.tamucc.edu
+dynsec-efr6-76.tamucc.edu
+rotc5k.tamucc.edu
+dynsec-efr11-62.tamucc.edu
+dynsec-efr7-227.tamucc.edu
+dynsec-efr6-136.tamucc.edu
+dynsec-efr8-3.tamucc.edu
+cob.tamucc.edu
+galileo.tamucc.edu
+dynsec-efr9-141.tamucc.edu
+lib38725.tamucc.edu
+dynsec-efr6-168.tamucc.edu
+dynsec-efr6-60.tamucc.edu
+dynsec-efr11-42.tamucc.edu
+dynsec-efr8-87.tamucc.edu
+dynsec-efr11-8.tamucc.edu
+dynsec-efr11-154.tamucc.edu
+dynsec-efr10-198.tamucc.edu
+dynsec-efr9-57.tamucc.edu
+dynsec-efr8-77.tamucc.edu
+dynsec-efr6-162.tamucc.edu
+dynsec-efr6-110.tamucc.edu
+dwprod.tamucc.edu
+asa-secondary-dmz1.tamucc.edu
+dynsec-efr7-20.tamucc.edu
+portal.gscs.tamucc.edu
+dynsec-efr7-84.tamucc.edu
+dynsec-efr6-3.tamucc.edu
+dynsec-efr6-77.tamucc.edu
+enrollat.tamucc.edu
+dynsec-efr8-218.tamucc.edu
+dynsec-efr7-7.tamucc.edu
+dynsec-efr9-117.tamucc.edu
+dynsec-efr10-213.tamucc.edu
+dynsec-efr8-85.tamucc.edu
+encs.tamucc.edu
+nasgrp-test.tamucc.edu
+dynsec-efr8-183.tamucc.edu
+kestrel.tamucc.edu
+dynsec-efr7-137.tamucc.edu
+dynsec-efr11-88.tamucc.edu
+dynsec-efr9-162.tamucc.edu
+dynsec-efr9-228.tamucc.edu
+dynsec-efr9-155.tamucc.edu
+dynsec-efr6-141.tamucc.edu
+recycle.tamucc.edu
+phonebook.tamucc.edu
+garciacenter.tamucc.edu
+dynsec-efr8-69.tamucc.edu
+dynsec-efr8-58.tamucc.edu
+dynsec-efr8-214.tamucc.edu
+dynsec-efr8-203.tamucc.edu
+rdgateway.tamucc.edu
+dynsec-efr11-113.tamucc.edu
+dynsec-efr10-187.tamucc.edu
+dynsec-efr9-47.tamucc.edu
+www.math.tamucc.edu
+dynsec-efr7-193.tamucc.edu
+dynsec-efr8-179.tamucc.edu
+felixlab.tamucc.edu
+dynsec-efr8-131.tamucc.edu
+dynsec-efr8-31.tamucc.edu
+www.cbi.tamucc.edu
+campusmap.tamucc.edu
+dynsec-efr6-84.tamucc.edu
+dynsec-efr6-160.tamucc.edu
+dynsec-efr10-182.tamucc.edu
+dynsec-efr11-147.tamucc.edu
+rattler.tamucc.edu
+dynsec-efr7-180.tamucc.edu
+dynsec-efr6-10.tamucc.edu
+dynsec-efr11-43.tamucc.edu
+dynsec-efr7-52.tamucc.edu
+virtualtour.tamucc.edu
+te-test.tamucc.edu
+dynsec-efr9-185.tamucc.edu
+dynsec-efr7-161.tamucc.edu
+dynsec-efr7-104.tamucc.edu
+physicalplant.tamucc.edu
+ext-camera1.tamucc.edu
+dynsec-efr11-76.tamucc.edu
+dynsec-efr11-1.tamucc.edu
+dynsec-efr8-150.tamucc.edu
+pki.tamucc.edu
+dynsec-efr7-102.tamucc.edu
+www.hri.tamucc.edu
+dynsec-efr10-220.tamucc.edu
+triton-cc.tamucc.edu
+dynsec-efr9-55.tamucc.edu
+dynsec-efr7-129.tamucc.edu
+dynsec-efr8-60.tamucc.edu
+adminservices.tamucc.edu
+dynsec-efr8-55.tamucc.edu
+dynsec-efr7-155.tamucc.edu
+fb106-c-v-v.tamucc.edu
+dynsec-efr8-219.tamucc.edu
+dynsec-efr6-82.tamucc.edu
+hobiserver.tamucc.edu
+dynsec-efr8-176.tamucc.edu
+lighthouse.cbi.tamucc.edu
+dynsec-efr11-161.tamucc.edu
+dynsec-efr10-139.tamucc.edu
+dynsec-efr6-93.tamucc.edu
+grp-demo.tamucc.edu
+dynsec-efr10-206.tamucc.edu
+dynsec-efr6-228.tamucc.edu
+firstyearwiki.tamucc.edu
+dynsec-efr11-238.tamucc.edu
+tlc.tamucc.edu
+studentactivities.tamucc.edu
+dynsec-efr7-191.tamucc.edu
+dynsec-efr11-46.tamucc.edu
+linksource.ebsco.com.manowar.tamucc.edu
+dynsec-efr8-40.tamucc.edu
+smtp1-old.tamucc.edu
+dynsec-efr9-32.tamucc.edu
+artesian.tamucc.edu
+dynsec-efr7-55.tamucc.edu
+dynsec-efr6-192.tamucc.edu
+ise.tamucc.edu
+dynsec-efr9-160.tamucc.edu
+dynsec-efr9-54.tamucc.edu
+ns2.tamucc.edu
+dynsec-efr6-144.tamucc.edu
+dynsec-efr9-189.tamucc.edu
+dynsec-efr8-30.tamucc.edu
+watchdog.tamucc.edu
+dynsec-efr7-209.tamucc.edu
+dynsec-efr6-107.tamucc.edu
+te.tamucc.edu
+dynsec-efr10-250.tamucc.edu
+dynsec-efr9-156.tamucc.edu
+dynsec-efr8-187.tamucc.edu
+dynsec-efr9-4.tamucc.edu
+dynsec-efr8-172.tamucc.edu
+dynsec-efr11-199.tamucc.edu
+cbi-git.tamucc.edu
+jiratest.lb.tamucc.edu
+www.mcnair.tamucc.edu
+dynsec-efr11-109.tamucc.edu
+wc308jot.tamucc.edu
+dynsec-efr10-191.tamucc.edu
+dynsec-efr9-94.tamucc.edu
+dynsec-efr7-81.tamucc.edu
+expansion.tamucc.edu
+bythos.tamucc.edu
+vl-125-gw-33.tamucc.edu
+dynsec-efr10-243.tamucc.edu
+dynsec-efr8-62.tamucc.edu
+training.tamucc.edu
+dynsec-efr6-54.tamucc.edu
+geosages.tamucc.edu
+dynsec-efr11-132.tamucc.edu
+dynsec-efr8-92.tamucc.edu
+dynsec-efr9-96.tamucc.edu
+dynsec-efr7-51.tamucc.edu
+dynsec-efr8-56.tamucc.edu
+dynsec-efr11-45.tamucc.edu
+dynsec-efr6-182.tamucc.edu
+dynsec-efr6-135.tamucc.edu
+dynsec-efr9-218.tamucc.edu
+safety.tamucc.edu
+dss.tamucc.edu
+dynsec-efr10-140.tamucc.edu
+tamu-quest.tamucc.edu
+cas.cbi.tamucc.edu
+dynsec-efr7-92.tamucc.edu
+proc-101-ptr.tamucc.edu
+dynsec-efr9-184.tamucc.edu
+csci.tamucc.edu
+dynsec-efr8-198.tamucc.edu
+dynsec-efr9-61.tamucc.edu
+workday.tamucc.edu
+guest-portal-3.tamucc.edu
+dynsec-efr8-235.tamucc.edu
+dynsec-efr10-124.tamucc.edu
+dynsec-efr10-15.tamucc.edu
+stepup.tamucc.edu
+dynsec-efr10-244.tamucc.edu
+dynsec-efr7-109.tamucc.edu
+dynsec-efr9-106.tamucc.edu
+dynsec-efr10-129.tamucc.edu
+dynsec-efr11-150.tamucc.edu
+calendar.tamucc.edu
+hub02.tamucc.edu
+hyland-prod.tamucc.edu
+dynsec-efr6-64.tamucc.edu
+dynsec-efr7-54.tamucc.edu
+dynsec-efr9-198.tamucc.edu
+vpn2.tamucc.edu
+reeselab.tamucc.edu
+ei.tamucc.edu
+www.ace.tamucc.edu
+www.housing.tamucc.edu
+triton.tamucc.edu
+web.b.ebscohost.com.manowar.tamucc.edu
+analytics.tamucc.edu
+dynsec-efr6-179.tamucc.edu
+dynsec-efr10-167.tamucc.edu
+dynsec-efr10-203.tamucc.edu
+islanderpledge.tamucc.edu
+esslab.tamucc.edu
+ccs.tamucc.edu
+redcap-test.tamucc.edu
+dynsec-efr8-82.tamucc.edu
+dynsec-efr7-47.tamucc.edu
+dynsec-efr10-166.tamucc.edu
+faculty-senate.tamucc.edu
+dynsec-efr9-64.tamucc.edu
+dynsec-efr10-87.tamucc.edu
+dynsec-efr9-92.tamucc.edu
+dynsec-efr8-211.tamucc.edu
+dynsec-efr11-35.tamucc.edu
+facultystaffcampaign.tamucc.edu
+cbwp.tamucc.edu
+dynsec-efr11-140.tamucc.edu
+m.catalog.tamucc.edu
+dynsec-efr10-94.tamucc.edu
+dynsec-efr7-22.tamucc.edu
+dynsec-efr8-123.tamucc.edu
+dynsec-efr11-195.tamucc.edu
+atp.tamucc.edu
+dynsec-efr9-3.tamucc.edu
+dynsec-efr6-32.tamucc.edu
+dynsec-efr6-146.tamucc.edu
+dynsec-efr9-157.tamucc.edu
+dynsec-efr10-60.tamucc.edu
+dynsec-efr6-12.tamucc.edu
+tamucc.edu
+dmz5-server-farm-gateway.tamucc.edu
+dynsec-efr6-39.tamucc.edu
+dynsec-efr6-18.tamucc.edu
+dynsec-efr10-210.tamucc.edu
+griidcesium.tamucc.edu
+dynsec-efr9-13.tamucc.edu
+budgetfaq.tamucc.edu
+dynsec-efr11-79.tamucc.edu
+kryptos.tamucc.edu
+dynsec-efr11-126.tamucc.edu
+iracetozero.tamucc.edu
+dynsec-efr6-116.tamucc.edu
+sotu.tamucc.edu
+exp-e.tamucc.edu
+dynsec-efr7-236.tamucc.edu
+photos.tamucc.edu
+dynsec-efr7-169.tamucc.edu
+rhodos.tamucc.edu
+texchip.tamucc.edu
+dynsec-efr10-73.tamucc.edu
+dynsec-efr11-73.tamucc.edu
+dynsec-efr11-38.tamucc.edu
+commencement.tamucc.edu
+dynsec-efr10-120.tamucc.edu
+dynsec-efr7-41.tamucc.edu
+printserver.tamucc.edu
+dynsec-efr11-65.tamucc.edu
+dynsec-efr10-68.tamucc.edu
+dynsec-efr9-153.tamucc.edu
+dynsec-efr6-143.tamucc.edu
+undergrad.tamucc.edu
+dynsec-efr10-247.tamucc.edu
+dynsec-efr10-110.tamucc.edu
+dynsec-efr7-32.tamucc.edu
+poseidon-old.tamucc.edu
+ext-camera3.tamucc.edu
+dynsec-efr9-200.tamucc.edu
+dynsec-efr6-235.tamucc.edu
+dynsec-efr6-207.tamucc.edu
+dynsec-efr11-236.tamucc.edu
+smtp.tamucc.edu
+dynsec-efr6-22.tamucc.edu
+geology.tamucc.edu
+clatest.tamucc.edu
+dynsec-efr8-139.tamucc.edu
+dynsec-efr9-100.tamucc.edu
+dynsec-efr9-221.tamucc.edu
+losi.tamucc.edu
+dynsec-efr9-76.tamucc.edu
+dynsec-efr11-152.tamucc.edu
+dynsec-efr9-252.tamucc.edu
+dynsec-efr7-26.tamucc.edu
+dynsec-efr6-243.tamucc.edu
+dynsec-efr10-143.tamucc.edu
+esci.tamucc.edu
+dynsec-efr11-93.tamucc.edu
+lib-dmz-sw.tamucc.edu
+dynsec-efr9-42.tamucc.edu
+dynsec-efr9-249.tamucc.edu
+dynsec-efr7-199.tamucc.edu
+dynsec-efr10-137.tamucc.edu
+gecoserv.tamucc.edu
+dynsec-efr6-11.tamucc.edu
+dynsec-efr8-81.tamucc.edu
+vl-110-gw-2.tamucc.edu
+dynsec-efr7-197.tamucc.edu
+dynsec-efr7-198.tamucc.edu
+honors.tamucc.edu
+dynsec-efr6-47.tamucc.edu
+dynsec-efr9-213.tamucc.edu
+dynsec-efr6-200.tamucc.edu
+dynsec-efr11-185.tamucc.edu
+dynsec-efr7-17.tamucc.edu
+dynsec-efr10-162.tamucc.edu
+confluence.tamucc.edu
+tpg.tamucc.edu
+dynsec-efr9-178.tamucc.edu
+gnss.tamucc.edu
+willard-dmz1-gtw.tamucc.edu
+dynsec-efr9-90.tamucc.edu
+dynsec-efr9-68.tamucc.edu
+dynsec-efr9-0.tamucc.edu
+counseling.tamucc.edu
+hpo-test.tamucc.edu
+dining.tamucc.edu
+dynsec-efr11-68.tamucc.edu
+dynsec-efr6-196.tamucc.edu
+campuslogin.tamucc.edu
+dynsec-efr7-250.tamucc.edu
+dynsec-efr7-135.tamucc.edu
+fbclient-eg.tamucc.edu
+ois-hopper.tamucc.edu
+dynsec-efr7-235.tamucc.edu
+dynsec-efr6-7.tamucc.edu
+research.tamucc.edu
+vcse.tamucc.edu
+dynsec-efr6-27.tamucc.edu
+vantage.tamucc.edu
+dynsec-efr8-164.tamucc.edu
+dynsec-efr9-118.tamucc.edu
+dynsec-efr8-232.tamucc.edu
+dynsec-efr11-186.tamucc.edu
+www.sci.tamucc.edu
+slash.tamucc.edu
+dynsec-efr6-186.tamucc.edu
+dynsec-efr11-2.tamucc.edu
+dynsec-efr6-132.tamucc.edu
+ns1.cbi.tamucc.edu
+jira.lb.tamucc.edu
+dynsec-efr8-34.tamucc.edu
+dynsec-efr9-171.tamucc.edu
+dynsec-efr10-209.tamucc.edu
+dynsec-efr7-175.tamucc.edu
+www.tamucc.edu
+dynsec-efr6-137.tamucc.edu
+meridian.tamucc.edu
+dynsec-efr11-26.tamucc.edu
+dynsec-efr7-78.tamucc.edu
+dynsec-efr9-203.tamucc.edu
+guest-portal-1.tamucc.edu
+oads.tamucc.edu
+dynsec-efr11-228.tamucc.edu
+dynsec-efr10-81.tamucc.edu
+dynsec-efr7-117.tamucc.edu
+bus.tamucc.edu
+dynsec-efr9-72.tamucc.edu
+dynsec-efr6-209.tamucc.edu
+dynsec-efr10-242.tamucc.edu
+dynsec-efr9-175.tamucc.edu
+dynsec-efr10-93.tamucc.edu
+writing.tamucc.edu
+dynsec-efr10-249.tamucc.edu
+dynsec-efr11-160.tamucc.edu
+dynsec-efr9-216.tamucc.edu
+dynsec-efr8-227.tamucc.edu
+dynsec-efr9-46.tamucc.edu
+dynsec-efr7-121.tamucc.edu
+dynsec-efr11-216.tamucc.edu
+dynsec-efr9-122.tamucc.edu
+dynsec-efr6-43.tamucc.edu
+griidc-prod.tamucc.edu
+ns2.cbi.tamucc.edu
+tokb.tamucc.edu
+dynsec-efr7-36.tamucc.edu
+dynsec-efr8-6.tamucc.edu
+dynsec-efr9-159.tamucc.edu
+dynsec-efr10-197.tamucc.edu
+dynsec-efr6-65.tamucc.edu
+dynsec-efr9-128.tamucc.edu
+dynsec-efr6-15.tamucc.edu
+dynsec-efr7-140.tamucc.edu
+dynsec-efr7-242.tamucc.edu
+dynsec-efr6-225.tamucc.edu
+dynsec-efr7-120.tamucc.edu
+dynsec-efr10-5.tamucc.edu
+penguin.tamucc.edu
+dynsec-efr10-215.tamucc.edu
+dynsec-efr9-120.tamucc.edu
+achievepartnership.tamucc.edu
+ls1.tamucc.edu
+cascade-web-prod.tamucc.edu
+smokingmaps.tamucc.edu
+dynsec-efr6-29.tamucc.edu
+marcom.tamucc.edu
+www.marinegenomicslab.tamucc.edu
+dynsec-efr10-245.tamucc.edu
+dynsec-efr7-231.tamucc.edu
+fsp03-new.tamucc.edu
+dynsec-efr7-118.tamucc.edu
+dynsec-efr8-39.tamucc.edu
+dynsec-efr6-227.tamucc.edu
+gitlab2.tamucc.edu
+usdb1.tamucc.edu
+islanderjobs.tamucc.edu
+dynsec-efr11-118.tamucc.edu
+dynsec-efr10-123.tamucc.edu
+dynsec-efr8-54.tamucc.edu
+dynsec-efr8-243.tamucc.edu
+dynsec-efr9-130.tamucc.edu
+dynsec-efr8-68.tamucc.edu
+gradschool.tamucc.edu
+dynsec-efr6-191.tamucc.edu
+degreeplanner.tamucc.edu
+osobay.tamucc.edu
+dynsec-efr8-200.tamucc.edu
+development.tamucc.edu
+cascade-test.tamucc.edu
+dynsec-efr7-196.tamucc.edu
+enterprise.tamucc.edu
+dynsec-efr7-98.tamucc.edu
+socialmedia.tamucc.edu
+dynsec-efr6-220.tamucc.edu
+dynsec-efr11-184.tamucc.edu
+dynsec-efr8-158.tamucc.edu
+dynsec-efr7-97.tamucc.edu
+c-rise.tamucc.edu
+casa.tamucc.edu
+certification.tamucc.edu
+dynsec-efr7-205.tamucc.edu
+dynsec-efr9-27.tamucc.edu
+dynsec-efr6-117.tamucc.edu
+dynsec-efr10-228.tamucc.edu
+c19s.tamucc.edu
+help.library.tamucc.edu
+dynsec-efr10-42.tamucc.edu
+summer.tamucc.edu
+library.tamucc.edu
+chemistry.tamucc.edu
+dynsec-efr9-97.tamucc.edu
+dynsec-efr10-126.tamucc.edu
+dynsec-efr11-218.tamucc.edu
+dynsec-efr9-89.tamucc.edu
+dynsec-efr8-1.tamucc.edu
+dynsec-efr6-120.tamucc.edu
+foodpantry.tamucc.edu

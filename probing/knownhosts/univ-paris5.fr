@@ -1,2323 +1,2197 @@
-NOERROR	tom.univ-paris5.fr
-NXDOMAIN	pcintranet3.dsi.univ-paris5.fr
-NOERROR	dif188.univ-paris5.fr
-NOERROR	s07.utls-la-suite.univ-paris5.fr
-NOERROR	des-go.medecine.univ-paris5.fr
-NOERROR	meet2.math-info.univ-paris5.fr
-NOERROR	cochin124.cochin.univ-paris5.fr
-NOERROR	n1sgir121.univ-paris5.fr
-NOERROR	instrecdt91.droit.univ-paris5.fr
-NOERROR	n1sgir13.univ-paris5.fr
-NOERROR	n1sgir146.univ-paris5.fr
-NOERROR	scenari-formation.math-info.univ-paris5.fr
-NOERROR	admin39.pharmacie.univ-paris5.fr
-NOERROR	n1sgir120.univ-paris5.fr
-NOERROR	dif136.univ-paris5.fr
-NOERROR	instrecdt41.droit.univ-paris5.fr
-NOERROR	apopha19.pharmacie.univ-paris5.fr
-NOERROR	cochin163.cochin.univ-paris5.fr
-NOERROR	n84i075.psycho.univ-paris5.fr
-NOERROR	aurore.biomedicale.univ-paris5.fr
-NOERROR	stidimp.iut.univ-paris5.fr
-NXDOMAIN	www.auth.toip.univ-paris5.fr
-NOERROR	labo137.pharmacie.univ-paris5.fr
-NOERROR	instrecdt24.droit.univ-paris5.fr
-NOERROR	fiori.perso.univ-paris5.fr
-NOERROR	www.fiori.perso.univ-paris5.fr
-NOERROR	cochin217.cochin.univ-paris5.fr
-NOERROR	scol0.iut.univ-paris5.fr
-NOERROR	cochin84.cochin.univ-paris5.fr
-NOERROR	n1sgir99.univ-paris5.fr
-NOERROR	ic1-5.iut.univ-paris5.fr
-NOERROR	meet.univ-paris5.fr
-NOERROR	fin01.odontologie.univ-paris5.fr
-NOERROR	n84i094.psycho.univ-paris5.fr
-NOERROR	labo214.pharmacie.univ-paris5.fr
-NOERROR	cochin89.cochin.univ-paris5.fr
-NOERROR	migre2.math-info.univ-paris5.fr
-NOERROR	iris.pharmacie.univ-paris5.fr
-NOERROR	n84i118.psycho.univ-paris5.fr
-NOERROR	n1sgir129.univ-paris5.fr
-NOERROR	cochin90.cochin.univ-paris5.fr
-NOERROR	ic1-2.iut.univ-paris5.fr
-NXDOMAIN	pcpmsi1.dsi.univ-paris5.fr
-NOERROR	aglae.biomedicale.univ-paris5.fr
-NOERROR	n1sgir54.univ-paris5.fr
-NOERROR	biom02.odontologie.univ-paris5.fr
-NOERROR	n1sgir88.univ-paris5.fr
-NOERROR	neurphoton099.biomedicale.univ-paris5.fr
-NOERROR	tricycle.dsi.univ-paris5.fr
-NOERROR	cours2.odontologie.univ-paris5.fr
-NOERROR	instrecdt85.droit.univ-paris5.fr
-NOERROR	cochin168.cochin.univ-paris5.fr
-NOERROR	sfc61.univ-paris5.fr
-NOERROR	cochin64.cochin.univ-paris5.fr
-NOERROR	dseinsc-10.univ-paris5.fr
-NOERROR	imp-725a1.math-info.univ-paris5.fr
-NOERROR	tc-572.iut.univ-paris5.fr
-NOERROR	n84i141.psycho.univ-paris5.fr
-NOERROR	cochin178.cochin.univ-paris5.fr
-NOERROR	st-se47.iut.univ-paris5.fr
-NOERROR	sig94.univ-paris5.fr
-NOERROR	adm2.droit.univ-paris5.fr
-NOERROR	n84i011.psycho.univ-paris5.fr
-NOERROR	cochin128.cochin.univ-paris5.fr
-NOERROR	mars.math-info.univ-paris5.fr
-NOERROR	n1sgir174.univ-paris5.fr
-NOERROR	mob04.odontologie.univ-paris5.fr
-NOERROR	anatd2.odontologie.univ-paris5.fr
-NOERROR	web2-old.bium.univ-paris5.fr
-NOERROR	imap.univ-paris5.fr
-NOERROR	n84i084.psycho.univ-paris5.fr
-NOERROR	infoadm5.iut.univ-paris5.fr
-NOERROR	fixe-bd.iut.univ-paris5.fr
-NOERROR	n84i194.psycho.univ-paris5.fr
-NXDOMAIN	www.feu.dsi.univ-paris5.fr
-NOERROR	out2.dsi.univ-paris5.fr
-NOERROR	eds.a.ebscohost.com.frodon.univ-paris5.fr
-NOERROR	admin40.pharmacie.univ-paris5.fr
-NOERROR	n1sgir3.univ-paris5.fr
-NOERROR	sfc58.univ-paris5.fr
-NOERROR	n84i078.psycho.univ-paris5.fr
-NOERROR	n84i122.psycho.univ-paris5.fr
-NOERROR	n1sgir132.univ-paris5.fr
-NOERROR	n1sgir199.univ-paris5.fr
-NOERROR	labo167.pharmacie.univ-paris5.fr
-NXDOMAIN	cisco1-garches.paris-ouest.univ-paris5.fr
-NOERROR	bib12.odontologie.univ-paris5.fr
-NXDOMAIN	gw-srv.univ-paris5.fr
-NOERROR	info125.pharmacie.univ-paris5.fr
-NOERROR	comp21.pharmacie.univ-paris5.fr
-NOERROR	scoldt6.droit.univ-paris5.fr
-NOERROR	admin-serveur60.pharmacie.univ-paris5.fr
-NOERROR	secped1.droit.univ-paris5.fr
-NXDOMAIN	redmine-lipade.math-info.univ-paris5.fr
-NOERROR	pcnscomp1.biomedicale.univ-paris5.fr
-NOERROR	n1sgir55.univ-paris5.fr
-NOERROR	n1sgir33.univ-paris5.fr
-NOERROR	www.jstor.org.frodon.univ-paris5.fr
-NOERROR	n1sgir181.univ-paris5.fr
-NOERROR	n84i123.psycho.univ-paris5.fr
-NOERROR	n84i202.psycho.univ-paris5.fr
-NOERROR	n1sgir179.univ-paris5.fr
-NOERROR	admin4.pharmacie.univ-paris5.fr
-NOERROR	n1sgir173.univ-paris5.fr
-NOERROR	listes.math-info.univ-paris5.fr
-NOERROR	livestat.univ-paris5.fr
-NOERROR	instrecdt8.droit.univ-paris5.fr
-NOERROR	sig23.univ-paris5.fr
-NOERROR	srv03b-info.iut.univ-paris5.fr
-NOERROR	n84i041.psycho.univ-paris5.fr
-NOERROR	n1sgir222.univ-paris5.fr
-NOERROR	scenari.math-info.univ-paris5.fr
-NOERROR	dip168.univ-paris5.fr
-NOERROR	n1sgir133.univ-paris5.fr
-NOERROR	cochin76.cochin.univ-paris5.fr
-NOERROR	n1sgir128.univ-paris5.fr
-NOERROR	anap02.odontologie.univ-paris5.fr
-NOERROR	comp29.pharmacie.univ-paris5.fr
-NOERROR	ima03.odontologie.univ-paris5.fr
-NOERROR	cochin131.cochin.univ-paris5.fr
-NOERROR	dip235.univ-paris5.fr
-NOERROR	immb01.odontologie.univ-paris5.fr
-NOERROR	n1sgir191.univ-paris5.fr
-NOERROR	www.math-info.univ-paris5.fr
-NOERROR	n1sgir66.univ-paris5.fr
-NOERROR	n1sgir156.univ-paris5.fr
-NOERROR	medcas02.toip.univ-paris5.fr
-NOERROR	neurosciences.biomedicale.univ-paris5.fr
-NOERROR	idv.math-info.univ-paris5.fr
-NOERROR	dip152.univ-paris5.fr
-NXDOMAIN	cusp-dsi-09.univ-paris5.fr
-NXDOMAIN	pcadm4.dsi.univ-paris5.fr
-NOERROR	instrecdt68.droit.univ-paris5.fr
-NOERROR	n1sgir127.univ-paris5.fr
-NOERROR	sig32.univ-paris5.fr
-NOERROR	servrepro12.univ-paris5.fr
-NOERROR	dif108.univ-paris5.fr
-NOERROR	n84i022.psycho.univ-paris5.fr
-NOERROR	doi.org.frodon.univ-paris5.fr
-NOERROR	dip211.univ-paris5.fr
-NOERROR	hist07.odontologie.univ-paris5.fr
-NOERROR	instrecdt36.droit.univ-paris5.fr
-NOERROR	n1sgir78.univ-paris5.fr
-NOERROR	cours1.odontologie.univ-paris5.fr
-NOERROR	visio.odontologie.univ-paris5.fr
-NOERROR	n84i129.psycho.univ-paris5.fr
-NOERROR	tc-dir.iut.univ-paris5.fr
-NOERROR	instrecdt63.droit.univ-paris5.fr
-NOERROR	cochin21.cochin.univ-paris5.fr
-NOERROR	bioc02.odontologie.univ-paris5.fr
-NOERROR	jsdelivr.net.frodon.univ-paris5.fr
-NOERROR	cochin50.cochin.univ-paris5.fr
-NOERROR	n1sgir144.univ-paris5.fr
-NOERROR	jupiter.math-info.univ-paris5.fr
-NOERROR	www-em--premium-com.frodon.univ-paris5.fr
-NOERROR	n84i207.psycho.univ-paris5.fr
-NOERROR	instrecdt92.droit.univ-paris5.fr
-NOERROR	cochin30.cochin.univ-paris5.fr
-NOERROR	dif54.univ-paris5.fr
-NOERROR	lensped13.droit.univ-paris5.fr
-NOERROR	s12.utls-la-suite.univ-paris5.fr
-NOERROR	harpege61.pharmacie.univ-paris5.fr
-NOERROR	z.ens.math-info.univ-paris5.fr
-NOERROR	labo158.pharmacie.univ-paris5.fr
-NOERROR	adm01.odontologie.univ-paris5.fr
-NOERROR	cochin69.cochin.univ-paris5.fr
-NOERROR	ima02.odontologie.univ-paris5.fr
-NOERROR	atlas.math-info.univ-paris5.fr
-NOERROR	cochin88.cochin.univ-paris5.fr
-NOERROR	sco25.odontologie.univ-paris5.fr
-NOERROR	els-cdn.com.frodon.univ-paris5.fr
-NOERROR	n1sgir105.univ-paris5.fr
-NOERROR	scoldt10.droit.univ-paris5.fr
-NOERROR	n1sgir7.univ-paris5.fr
-NOERROR	cochin226.cochin.univ-paris5.fr
-NOERROR	scol.univ-paris5.fr
-NOERROR	n1sgir193.univ-paris5.fr
-NOERROR	n1sgir49.univ-paris5.fr
-NOERROR	n84i238.psycho.univ-paris5.fr
-NOERROR	nivea.psycho.univ-paris5.fr
-NOERROR	odf-test.dsi.univ-paris5.fr
-NOERROR	vod2.univ-paris5.fr
-NOERROR	cochin220.cochin.univ-paris5.fr
-NOERROR	labo85.pharmacie.univ-paris5.fr
-NOERROR	stoppam-serv.pharmacie.univ-paris5.fr
-NOERROR	n84i074.psycho.univ-paris5.fr
-NOERROR	s09.utls-la-suite.univ-paris5.fr
-NXDOMAIN	aria.iut.univ-paris5.fr
-NOERROR	deugshs13.droit.univ-paris5.fr
-NOERROR	cs18.iut.univ-paris5.fr
-NOERROR	sfc59.univ-paris5.fr
-NOERROR	n84i240.psycho.univ-paris5.fr
-NOERROR	s08.utls-la-suite.univ-paris5.fr
-NXDOMAIN	wifi-admin.dsi.univ-paris5.fr
-NOERROR	dseinsc-4.univ-paris5.fr
-NOERROR	cochin167.cochin.univ-paris5.fr
-NOERROR	cochin170.cochin.univ-paris5.fr
-NOERROR	obiwan.univ-paris5.fr
-NOERROR	s05.utls-la-suite.univ-paris5.fr
-NOERROR	n84i104.psycho.univ-paris5.fr
-NOERROR	pub-info-85.odontologie.univ-paris5.fr
-NOERROR	n84i152.psycho.univ-paris5.fr
-NXDOMAIN	las4sgir.dsi.univ-paris5.fr
-NOERROR	cisco1-droit.droit.univ-paris5.fr
-NOERROR	n84i199.psycho.univ-paris5.fr
-NOERROR	cs13.iut.univ-paris5.fr
-NOERROR	dif132.univ-paris5.fr
-NOERROR	labo129.pharmacie.univ-paris5.fr
-NOERROR	algo.iut.univ-paris5.fr
-NOERROR	n1sgir61.univ-paris5.fr
-NOERROR	labo173.pharmacie.univ-paris5.fr
-NOERROR	paprika.pharmacie.univ-paris5.fr
-NOERROR	bibadm7.droit.univ-paris5.fr
-NOERROR	dif95.univ-paris5.fr
-NOERROR	canon173.univ-paris5.fr
-NOERROR	calculsip-4.math-info.univ-paris5.fr
-NOERROR	cochin36.cochin.univ-paris5.fr
-NOERROR	n84i210.psycho.univ-paris5.fr
-NOERROR	calculsip-5.math-info.univ-paris5.fr
-NOERROR	www.jmc.perso.univ-paris5.fr
-NOERROR	n84i024.psycho.univ-paris5.fr
-NOERROR	deugshs12.droit.univ-paris5.fr
-NOERROR	univ-paris5.fr
-NOERROR	iut226.iut.univ-paris5.fr
-NOERROR	n84i237.psycho.univ-paris5.fr
-NOERROR	mars-old.math-info.univ-paris5.fr
-NOERROR	n84i228.psycho.univ-paris5.fr
-NOERROR	bibadm16.droit.univ-paris5.fr
-NOERROR	n84i203.psycho.univ-paris5.fr
-NOERROR	sigmac.univ-paris5.fr
-NOERROR	n84i028.psycho.univ-paris5.fr
-NOERROR	n1sgir72.univ-paris5.fr
-NOERROR	cochin166.cochin.univ-paris5.fr
-NOERROR	n1sgir85.univ-paris5.fr
-NOERROR	instrecdt107.droit.univ-paris5.fr
-NOERROR	serv2dip2.univ-paris5.fr
-NXDOMAIN	opnet.ens.math-info.univ-paris5.fr
-NOERROR	scop3.odontologie.univ-paris5.fr
-NOERROR	ingen1.iut.univ-paris5.fr
-NOERROR	n84i069.psycho.univ-paris5.fr
-NOERROR	blogs.univ-paris5.fr
-NOERROR	sco27.odontologie.univ-paris5.fr
-NOERROR	physique.pharmacie.univ-paris5.fr
-NOERROR	jefypharma63.pharmacie.univ-paris5.fr
-NOERROR	labo220.pharmacie.univ-paris5.fr
-NOERROR	cochin121.cochin.univ-paris5.fr
-NOERROR	grenache.pharmacie.univ-paris5.fr
-NXDOMAIN	scol24.paris-ouest.univ-paris5.fr
-NOERROR	cochin146.cochin.univ-paris5.fr
-NOERROR	sgupc70.univ-paris5.fr
-NOERROR	search.univ-paris5.fr
-NOERROR	n84i178.psycho.univ-paris5.fr
-NOERROR	n1sgir1.univ-paris5.fr
-NOERROR	n1sgir25.univ-paris5.fr
-NOERROR	sunda02.univ-paris5.fr
-NXDOMAIN	pasta.infra.univ-paris5.fr
-NOERROR	instrecdt93.droit.univ-paris5.fr
-NOERROR	pharmacie.univ-paris5.fr
-NOERROR	labo170.pharmacie.univ-paris5.fr
-NOERROR	dip160.univ-paris5.fr
-NOERROR	labo163.pharmacie.univ-paris5.fr
-NOERROR	impmap5-1.math-info.univ-paris5.fr
-NOERROR	stid-dell2.iut.univ-paris5.fr
-NOERROR	dip88.univ-paris5.fr
-NOERROR	dif179.univ-paris5.fr
-NOERROR	git.math-info.univ-paris5.fr
-NOERROR	n1sgir53.univ-paris5.fr
-NOERROR	naxos.biomedicale.univ-paris5.fr
-NOERROR	n84i026.psycho.univ-paris5.fr
-NXDOMAIN	pens32.paris-ouest.univ-paris5.fr
-NOERROR	cfc3.iut.univ-paris5.fr
-NOERROR	cochin126.cochin.univ-paris5.fr
-NOERROR	dip219.univ-paris5.fr
-NOERROR	dip85.univ-paris5.fr
-NOERROR	tc-18.iut.univ-paris5.fr
-NOERROR	n1sgir92.univ-paris5.fr
-NOERROR	instrecdt88.droit.univ-paris5.fr
-NOERROR	bibadm19.droit.univ-paris5.fr
-NOERROR	mediaswk.com.frodon.univ-paris5.fr
-NXDOMAIN	buga45.paris-ouest.univ-paris5.fr
-NOERROR	ea4055.medecine.univ-paris5.fr
-NOERROR	perseedb.bu.univ-paris5.fr
-NOERROR	kitticat-02.toip.univ-paris5.fr
-NOERROR	crous0.iut.univ-paris5.fr
-NXDOMAIN	buga42.paris-ouest.univ-paris5.fr
-NOERROR	c-soir1.iut.univ-paris5.fr
-NOERROR	edge.math-info.univ-paris5.fr
-NOERROR	dseinsc-8.univ-paris5.fr
-NOERROR	lsecped1.droit.univ-paris5.fr
-NOERROR	dip140.univ-paris5.fr
-NOERROR	anis.pharmacie.univ-paris5.fr
-NOERROR	n84i193.psycho.univ-paris5.fr
-NOERROR	wifi.univ-paris5.fr
-NOERROR	n1sgir160.univ-paris5.fr
-NOERROR	kvm.math-info.univ-paris5.fr
-NOERROR	n1sgir90.univ-paris5.fr
-NOERROR	instrecdt15.droit.univ-paris5.fr
-NOERROR	diadex4.math-info.univ-paris5.fr
-NOERROR	n84i171.psycho.univ-paris5.fr
-NOERROR	go.math-info.univ-paris5.fr
-NOERROR	pers25.pharmacie.univ-paris5.fr
-NOERROR	cochin122.cochin.univ-paris5.fr
-NOERROR	mataram.univ-paris5.fr
-NOERROR	rad03.odontologie.univ-paris5.fr
-NOERROR	dbt9o.univ-paris5.fr
-NOERROR	cido234.univ-paris5.fr
-NOERROR	bauxite2.univ-paris5.fr
-NOERROR	instrecdt57.droit.univ-paris5.fr
-NOERROR	biom03.odontologie.univ-paris5.fr
-NOERROR	instrecdt109.droit.univ-paris5.fr
-NOERROR	bibadm11.droit.univ-paris5.fr
-NOERROR	apps-webofknowledge-com.frodon.univ-paris5.fr
-NOERROR	n84i169.psycho.univ-paris5.fr
-NOERROR	n84i015.psycho.univ-paris5.fr
-NOERROR	n1sgir167.univ-paris5.fr
-NOERROR	medcas.univ-paris5.fr
-NOERROR	n1sgir43.univ-paris5.fr
-NOERROR	cochin176.cochin.univ-paris5.fr
-NOERROR	cours3.odontologie.univ-paris5.fr
-NOERROR	cochin165.cochin.univ-paris5.fr
-NOERROR	comp28.pharmacie.univ-paris5.fr
-NOERROR	ile.univ-paris5.fr
-NOERROR	n84i070.psycho.univ-paris5.fr
-NOERROR	labo195.pharmacie.univ-paris5.fr
-NOERROR	n84i112.psycho.univ-paris5.fr
-NOERROR	sig38.univ-paris5.fr
-NOERROR	app131.jnum.univ-paris5.fr
-NOERROR	n84i096.psycho.univ-paris5.fr
-NOERROR	instrecdt31.droit.univ-paris5.fr
-NOERROR	cochin234.cochin.univ-paris5.fr
-NOERROR	opale.ens.math-info.univ-paris5.fr
-NOERROR	gargamel.iut.univ-paris5.fr
-NOERROR	resolver-ebscohost-com-s.frodon.univ-paris5.fr
-NOERROR	cochin49.cochin.univ-paris5.fr
-NOERROR	sig30.univ-paris5.fr
-NOERROR	scolldt3.droit.univ-paris5.fr
-NOERROR	n1sgir137.univ-paris5.fr
-NOERROR	labo211.pharmacie.univ-paris5.fr
-NOERROR	labo159.pharmacie.univ-paris5.fr
-NOERROR	sig11.droit.univ-paris5.fr
-NOERROR	mstcf0.iut.univ-paris5.fr
-NOERROR	visio1-siege.univ-paris5.fr
-NXDOMAIN	lync-edge.dsi.univ-paris5.fr
-NOERROR	dip248.univ-paris5.fr
-NOERROR	n1sgir214.univ-paris5.fr
-NXDOMAIN	w.biomedicale.univ-paris5.fr
-NOERROR	admin43.pharmacie.univ-paris5.fr
-NOERROR	dupip5.odontologie.univ-paris5.fr
-NOERROR	ipweb.univ-paris5.fr
-NOERROR	dip167.univ-paris5.fr
-NOERROR	labo196.pharmacie.univ-paris5.fr
-NOERROR	cs12.iut.univ-paris5.fr
-NOERROR	cochin155.cochin.univ-paris5.fr
-NOERROR	cochin110.cochin.univ-paris5.fr
-NOERROR	sgu67.univ-paris5.fr
-NOERROR	deugshs2.droit.univ-paris5.fr
-NOERROR	n1sgir172.univ-paris5.fr
-NOERROR	s10.utls-la-suite.univ-paris5.fr
-NOERROR	dip218.univ-paris5.fr
-NOERROR	n84i130.psycho.univ-paris5.fr
-NXDOMAIN	coldcase.dsi.univ-paris5.fr
-NOERROR	instrecdt86.droit.univ-paris5.fr
-NOERROR	n1sgir52.univ-paris5.fr
-NOERROR	labo241.pharmacie.univ-paris5.fr
-NOERROR	bibadm25.droit.univ-paris5.fr
-NOERROR	fmc.univ-paris5.fr
-NOERROR	meet.math-info.univ-paris5.fr
-NOERROR	stdi.iut.univ-paris5.fr
-NOERROR	lensped19.droit.univ-paris5.fr
-NOERROR	n84i218.psycho.univ-paris5.fr
-NOERROR	labo59.pharmacie.univ-paris5.fr
-NOERROR	instrecdt16.droit.univ-paris5.fr
-NOERROR	n1sgir190.univ-paris5.fr
-NOERROR	cfc.iut.univ-paris5.fr
-NOERROR	diadex3.math-info.univ-paris5.fr
-NOERROR	n84i205.psycho.univ-paris5.fr
-NOERROR	sco29.odontologie.univ-paris5.fr
-NOERROR	labo55.pharmacie.univ-paris5.fr
-NOERROR	cochin41.cochin.univ-paris5.fr
-NOERROR	labo185.pharmacie.univ-paris5.fr
-NOERROR	lcrb.pharmacie.univ-paris5.fr
-NOERROR	griad2.droit.univ-paris5.fr
-NOERROR	www-sciencedirect-com.frodon.univ-paris5.fr
-NOERROR	dip234.univ-paris5.fr
-NOERROR	saphyr.ens.math-info.univ-paris5.fr
-NOERROR	dip165.univ-paris5.fr
-NOERROR	n84i050.psycho.univ-paris5.fr
-NOERROR	sgu68.univ-paris5.fr
-NOERROR	didact.dsi.univ-paris5.fr
-NOERROR	rootpc2.iut.univ-paris5.fr
-NOERROR	apopha11.pharmacie.univ-paris5.fr
-NOERROR	res01.odontologie.univ-paris5.fr
-NOERROR	www-old.suaps.univ-paris5.fr
-NOERROR	instrecdt82.droit.univ-paris5.fr
-NOERROR	dip215.univ-paris5.fr
-NOERROR	hal.univ-paris5.fr
-NOERROR	n1sgir198.univ-paris5.fr
-NOERROR	n84i058.psycho.univ-paris5.fr
-NOERROR	dif183.univ-paris5.fr
-NOERROR	n84i198.psycho.univ-paris5.fr
-NOERROR	app129.jnum.univ-paris5.fr
-NOERROR	cochin117.cochin.univ-paris5.fr
-NOERROR	instrecdt1.droit.univ-paris5.fr
-NOERROR	ldap.univ-paris5.fr
-NOERROR	n84i088.psycho.univ-paris5.fr
-NOERROR	dip93.univ-paris5.fr
-NOERROR	scoldt3.droit.univ-paris5.fr
-NOERROR	per01.odontologie.univ-paris5.fr
-NOERROR	admin5.pharmacie.univ-paris5.fr
-NOERROR	dip155.univ-paris5.fr
-NOERROR	cochin238.cochin.univ-paris5.fr
-NOERROR	dif189.univ-paris5.fr
-NOERROR	n1sgir16.univ-paris5.fr
-NOERROR	n1sgir94.univ-paris5.fr
-NOERROR	labo51.pharmacie.univ-paris5.fr
-NOERROR	cochin171.cochin.univ-paris5.fr
-NOERROR	gestion.iut.univ-paris5.fr
-NOERROR	elsevier.com.frodon.univ-paris5.fr
-NOERROR	dseinsc-7.univ-paris5.fr
-NOERROR	cochin137.cochin.univ-paris5.fr
-NOERROR	instrecdt62.droit.univ-paris5.fr
-NOERROR	cochin228.cochin.univ-paris5.fr
-NOERROR	cochin107.cochin.univ-paris5.fr
-NOERROR	n1sgir217.univ-paris5.fr
-NOERROR	www.siumpps.univ-paris5.fr
-NOERROR	stream3-out.univ-paris5.fr
-NOERROR	cido231.univ-paris5.fr
-NOERROR	labo210.pharmacie.univ-paris5.fr
-NOERROR	n84i046.psycho.univ-paris5.fr
-NOERROR	vis158.jnum.univ-paris5.fr
-NOERROR	repro.iut.univ-paris5.fr
-NOERROR	dir01.odontologie.univ-paris5.fr
-NOERROR	bioc03.odontologie.univ-paris5.fr
-NOERROR	bibadm9.droit.univ-paris5.fr
-NOERROR	cochin17.cochin.univ-paris5.fr
-NOERROR	n1sgir149.univ-paris5.fr
-NOERROR	n1sgir18.univ-paris5.fr
-NOERROR	dif224.univ-paris5.fr
-NOERROR	visio-lem.univ-paris5.fr
-NOERROR	tc-4.iut.univ-paris5.fr
-NOERROR	bifrost.math-info.univ-paris5.fr
-NOERROR	instrecdt34.droit.univ-paris5.fr
-NOERROR	assoc205.univ-paris5.fr
-NOERROR	vis152.jnum.univ-paris5.fr
-NOERROR	iut08.odontologie.univ-paris5.fr
-NOERROR	kiwi.univ-paris5.fr
-NOERROR	ensped8.droit.univ-paris5.fr
-NXDOMAIN	www.staps.univ-paris5.fr
-NXDOMAIN	mabillon.dsi.univ-paris5.fr
-NOERROR	sig2.droit.univ-paris5.fr
-NOERROR	adm4.droit.univ-paris5.fr
-NXDOMAIN	owa.univ-paris5.fr
-NOERROR	n1sgir106.univ-paris5.fr
-NOERROR	dir1.iut.univ-paris5.fr
-NXDOMAIN	pcsas1.dsi.univ-paris5.fr
-NOERROR	dse192.univ-paris5.fr
-NOERROR	instrecdt75.droit.univ-paris5.fr
-NOERROR	n84i252.psycho.univ-paris5.fr
-NOERROR	visiopcc.dsi.univ-paris5.fr
-NOERROR	s01.utls-la-suite.univ-paris5.fr
-NOERROR	n84i031.psycho.univ-paris5.fr
-NOERROR	dupip2.odontologie.univ-paris5.fr
-NOERROR	cochin105.cochin.univ-paris5.fr
-NOERROR	n1sgir200.univ-paris5.fr
-NOERROR	sciencedirect.com.frodon.univ-paris5.fr
-NOERROR	dip244.univ-paris5.fr
-NOERROR	langue.iut.univ-paris5.fr
-NOERROR	n84i233.psycho.univ-paris5.fr
-NOERROR	instrecdt105.droit.univ-paris5.fr
-NOERROR	cochin7.cochin.univ-paris5.fr
-NOERROR	dif181.univ-paris5.fr
-NOERROR	calculsip-1.math-info.univ-paris5.fr
-NOERROR	sco28.odontologie.univ-paris5.fr
-NOERROR	n84i254.psycho.univ-paris5.fr
-NOERROR	n84i209.psycho.univ-paris5.fr
-NOERROR	tc-48.iut.univ-paris5.fr
-NOERROR	cochin56.cochin.univ-paris5.fr
-NOERROR	anatd1.odontologie.univ-paris5.fr
-NOERROR	instrecdt118.droit.univ-paris5.fr
-NOERROR	apopha18.pharmacie.univ-paris5.fr
-NOERROR	n1sgir148.univ-paris5.fr
-NOERROR	cochin51.cochin.univ-paris5.fr
-NOERROR	iut06.odontologie.univ-paris5.fr
-NOERROR	n84i177.psycho.univ-paris5.fr
-NOERROR	infoadm4.iut.univ-paris5.fr
-NOERROR	n1sgir171.univ-paris5.fr
-NOERROR	n1sgir83.univ-paris5.fr
-NOERROR	anat02.odontologie.univ-paris5.fr
-NOERROR	n84i045.psycho.univ-paris5.fr
-NOERROR	www-lextenso-fr-s.frodon.univ-paris5.fr
-NOERROR	n1sgir122.univ-paris5.fr
-NOERROR	cochin83.cochin.univ-paris5.fr
-NOERROR	hd1.math-info.univ-paris5.fr
-NOERROR	admin24.pharmacie.univ-paris5.fr
-NOERROR	sg3.iut.univ-paris5.fr
-NOERROR	comp30.pharmacie.univ-paris5.fr
-NOERROR	n84i056.psycho.univ-paris5.fr
-NOERROR	ensped9.droit.univ-paris5.fr
-NOERROR	n1sgir39.univ-paris5.fr
-NOERROR	ftpw3.droit.univ-paris5.fr
-NOERROR	libermedia.biomedicale.univ-paris5.fr
-NOERROR	n1sgir75.univ-paris5.fr
-NXDOMAIN	r.ens.math-info.univ-paris5.fr
-NOERROR	n1sgir77.univ-paris5.fr
-NOERROR	labo153.pharmacie.univ-paris5.fr
-NOERROR	ceaq2.univ-paris5.fr
-NOERROR	n84i010.psycho.univ-paris5.fr
-NOERROR	lensped16.droit.univ-paris5.fr
-NOERROR	n84i126.psycho.univ-paris5.fr
-NOERROR	labo236.pharmacie.univ-paris5.fr
-NOERROR	n84i155.psycho.univ-paris5.fr
-NOERROR	stargate01.math-info.univ-paris5.fr
-NOERROR	www.scuio.univ-paris5.fr
-NOERROR	n1sgir28.univ-paris5.fr
-NOERROR	salensdt1.droit.univ-paris5.fr
-NOERROR	app130.jnum.univ-paris5.fr
-NOERROR	ext02.pharmacie.univ-paris5.fr
-NOERROR	meb02.odontologie.univ-paris5.fr
-NOERROR	dsi.univ-paris5.fr
-NOERROR	gw.math-info.univ-paris5.fr
-NOERROR	impcdc-color.math-info.univ-paris5.fr
-NOERROR	sgumac74.univ-paris5.fr
-NOERROR	perseeia.bu.univ-paris5.fr
-NOERROR	scoldt2.droit.univ-paris5.fr
-NOERROR	sig20.univ-paris5.fr
-NOERROR	audition.psycho.univ-paris5.fr
-NOERROR	n84i172.psycho.univ-paris5.fr
-NOERROR	gollum.univ-paris5.fr
-NOERROR	deugshs6.droit.univ-paris5.fr
-NOERROR	ivre4.staps.univ-paris5.fr
-NXDOMAIN	suaps229.univ-paris5.fr
-NOERROR	cochin78.cochin.univ-paris5.fr
-NOERROR	omega.pharmacie.univ-paris5.fr
-NOERROR	labo156.pharmacie.univ-paris5.fr
-NOERROR	info126.pharmacie.univ-paris5.fr
-NOERROR	labo57.pharmacie.univ-paris5.fr
-NOERROR	n84i204.psycho.univ-paris5.fr
-NOERROR	labo94.pharmacie.univ-paris5.fr
-NOERROR	n84i103.psycho.univ-paris5.fr
-NOERROR	dse114.univ-paris5.fr
-NOERROR	n1sgir60.univ-paris5.fr
-NOERROR	labo181.pharmacie.univ-paris5.fr
-NOERROR	servauth-old.univ-paris5.fr
-NOERROR	mob10.odontologie.univ-paris5.fr
-NOERROR	fmsilumens.biomedicale.univ-paris5.fr
-NOERROR	bibadm14.droit.univ-paris5.fr
-NOERROR	n84i190.psycho.univ-paris5.fr
-NOERROR	n1sgir64.univ-paris5.fr
-NOERROR	hosting.univ-paris5.fr
-NOERROR	bib1.iut.univ-paris5.fr
-NOERROR	thalia.math-info.univ-paris5.fr
-NOERROR	instrecdt98.droit.univ-paris5.fr
-NOERROR	www-cairn-info.frodon.univ-paris5.fr
-NOERROR	labo177.pharmacie.univ-paris5.fr
-NOERROR	sm102.odontologie.univ-paris5.fr
-NOERROR	labo188.pharmacie.univ-paris5.fr
-NOERROR	impdif223.univ-paris5.fr
-NOERROR	app.univ-paris5.fr
-NOERROR	labo176.pharmacie.univ-paris5.fr
-NOERROR	bioc06.odontologie.univ-paris5.fr
-NOERROR	n1sgir100.univ-paris5.fr
-NOERROR	n84i029.psycho.univ-paris5.fr
-NOERROR	stiddl5.iut.univ-paris5.fr
-NOERROR	cochin104.cochin.univ-paris5.fr
-NOERROR	s06.utls-la-suite.univ-paris5.fr
-NOERROR	instrecdt12.droit.univ-paris5.fr
-NOERROR	cochin169.cochin.univ-paris5.fr
-NOERROR	dse118.univ-paris5.fr
-NOERROR	epsiut.iut.univ-paris5.fr
-NOERROR	n84i253.psycho.univ-paris5.fr
-NOERROR	labo67.pharmacie.univ-paris5.fr
-NOERROR	sig9.droit.univ-paris5.fr
-NOERROR	cochin135.cochin.univ-paris5.fr
-NOERROR	serv1dif.univ-paris5.fr
-NOERROR	labo190.pharmacie.univ-paris5.fr
-NOERROR	labo239.pharmacie.univ-paris5.fr
-NOERROR	tempvm1.math-info.univ-paris5.fr
-NXDOMAIN	pcdirection1.dsi.univ-paris5.fr
-NOERROR	lab03.odontologie.univ-paris5.fr
-NOERROR	rootpc.iut.univ-paris5.fr
-NXDOMAIN	ultrafixe.dsi.univ-paris5.fr
-NOERROR	n84i226.psycho.univ-paris5.fr
-NOERROR	n1sgir42.univ-paris5.fr
-NOERROR	instrecdt39.droit.univ-paris5.fr
-NOERROR	ftp.math-info.univ-paris5.fr
-NOERROR	imap.math-info.univ-paris5.fr
-NXDOMAIN	pcso2.dsi.univ-paris5.fr
-NOERROR	cochin3.cochin.univ-paris5.fr
-NOERROR	instrecdt96.droit.univ-paris5.fr
-NOERROR	sig28.univ-paris5.fr
-NOERROR	vis147.jnum.univ-paris5.fr
-NOERROR	projets2.math-info.univ-paris5.fr
-NOERROR	impmap5-sec.math-info.univ-paris5.fr
-NOERROR	cochin32.cochin.univ-paris5.fr
-NOERROR	instrecdt17.droit.univ-paris5.fr
-NOERROR	n1sgir5.univ-paris5.fr
-NOERROR	n84i221.psycho.univ-paris5.fr
-NOERROR	instrecdt113.droit.univ-paris5.fr
-NOERROR	si1.iut.univ-paris5.fr
-NOERROR	frodon-bium.univ-paris5.fr
-NOERROR	infomed81.cochin.univ-paris5.fr
-NOERROR	vestale.pharmacie.univ-paris5.fr
-NOERROR	labo213.pharmacie.univ-paris5.fr
-NOERROR	sec05.odontologie.univ-paris5.fr
-NOERROR	synapse.toip.univ-paris5.fr
-NOERROR	sig.univ-paris5.fr
-NOERROR	cours01.math-info.univ-paris5.fr
-NOERROR	ext03.pharmacie.univ-paris5.fr
-NOERROR	sfc63.univ-paris5.fr
-NOERROR	vdi.ens.math-info.univ-paris5.fr
-NOERROR	n1sgir115.univ-paris5.fr
-NOERROR	difport43.univ-paris5.fr
-NOERROR	labo53.pharmacie.univ-paris5.fr
-NOERROR	sfc81.univ-paris5.fr
-NOERROR	instrecdt101.droit.univ-paris5.fr
-NOERROR	labo164.pharmacie.univ-paris5.fr
-NOERROR	web2.bium.univ-paris5.fr
-NOERROR	n84i182.psycho.univ-paris5.fr
-NOERROR	n1sgir226.univ-paris5.fr
-NXDOMAIN	play.dsi.univ-paris5.fr
-NOERROR	umvf.cochin.univ-paris5.fr
-NOERROR	vulcain.pharmacie.univ-paris5.fr
-NOERROR	ext01.pharmacie.univ-paris5.fr
-NOERROR	labo169.pharmacie.univ-paris5.fr
-NOERROR	ingen2.iut.univ-paris5.fr
-NOERROR	dip241.univ-paris5.fr
-NOERROR	instrecdt78.droit.univ-paris5.fr
-NOERROR	serfildt1.droit.univ-paris5.fr
-NXDOMAIN	buga41.paris-ouest.univ-paris5.fr
-NOERROR	n84i121.psycho.univ-paris5.fr
-NOERROR	cido235.univ-paris5.fr
-NOERROR	anat06.odontologie.univ-paris5.fr
-NOERROR	labo54.pharmacie.univ-paris5.fr
-NOERROR	admin33.pharmacie.univ-paris5.fr
-NOERROR	n1sgir166.univ-paris5.fr
-NOERROR	cochin133.cochin.univ-paris5.fr
-NOERROR	cochin199.cochin.univ-paris5.fr
-NOERROR	n1sgir139.univ-paris5.fr
-NOERROR	instrecdt64.droit.univ-paris5.fr
-NXDOMAIN	www.ether.univ-paris5.fr
-NOERROR	vmconsole2.math-info.univ-paris5.fr
-NOERROR	diadex1.math-info.univ-paris5.fr
-NOERROR	epi02.odontologie.univ-paris5.fr
-NOERROR	cochin190.cochin.univ-paris5.fr
-NOERROR	anat03.odontologie.univ-paris5.fr
-NOERROR	south.univ-paris5.fr
-NOERROR	n1sgir130.univ-paris5.fr
-NOERROR	biomtp2.odontologie.univ-paris5.fr
-NOERROR	labo155.pharmacie.univ-paris5.fr
-NOERROR	admin34.pharmacie.univ-paris5.fr
-NOERROR	n1sgir136.univ-paris5.fr
-NOERROR	prev01.odontologie.univ-paris5.fr
-NOERROR	bib3.iut.univ-paris5.fr
-NOERROR	n1sgir89.univ-paris5.fr
-NOERROR	projets4.math-info.univ-paris5.fr
-NOERROR	cochin149.cochin.univ-paris5.fr
-NOERROR	n1sgir162.univ-paris5.fr
-NOERROR	dupip1.odontologie.univ-paris5.fr
-NOERROR	dse116.univ-paris5.fr
-NOERROR	bib10.odontologie.univ-paris5.fr
-NOERROR	dino.math-info.univ-paris5.fr
-NOERROR	dif53.univ-paris5.fr
-NOERROR	gestapc.univ-paris5.fr
-NOERROR	n84i170.psycho.univ-paris5.fr
-NOERROR	pers27.pharmacie.univ-paris5.fr
-NOERROR	imp-704j.math-info.univ-paris5.fr
-NOERROR	dip236.univ-paris5.fr
-NOERROR	n84i038.psycho.univ-paris5.fr
-NOERROR	n1sgir96.univ-paris5.fr
-NOERROR	fax.univ-paris5.fr
-NOERROR	n1sgir195.univ-paris5.fr
-NOERROR	dip164.univ-paris5.fr
-NOERROR	labo84.pharmacie.univ-paris5.fr
-NOERROR	n1sgir141.univ-paris5.fr
-NOERROR	mob11.odontologie.univ-paris5.fr
-NOERROR	instrecdt84.droit.univ-paris5.fr
-NOERROR	sauve.math-info.univ-paris5.fr
-NOERROR	dseinsc-3.univ-paris5.fr
-NOERROR	cochin19.cochin.univ-paris5.fr
-NOERROR	dip240.univ-paris5.fr
-NOERROR	n84i132.psycho.univ-paris5.fr
-NXDOMAIN	extrasearch.univ-paris5.fr
-NOERROR	superv.math-info.univ-paris5.fr
-NOERROR	ic02.iut.univ-paris5.fr
-NOERROR	adele.biomedicale.univ-paris5.fr
-NOERROR	bisdev2.dsi.univ-paris5.fr
-NXDOMAIN	gw.ens.math-info.univ-paris5.fr
-NOERROR	www.biup.univ-paris5.fr
-NOERROR	ovid.com.frodon.univ-paris5.fr
-NOERROR	rstudio.ens.math-info.univ-paris5.fr
-NOERROR	n1sgir109.univ-paris5.fr
-NOERROR	tempvm3.math-info.univ-paris5.fr
-NOERROR	vis148.jnum.univ-paris5.fr
-NOERROR	labo209.pharmacie.univ-paris5.fr
-NOERROR	dse150.univ-paris5.fr
-NOERROR	sit144.univ-paris5.fr
-NOERROR	lensped14.droit.univ-paris5.fr
-NXDOMAIN	scol22.paris-ouest.univ-paris5.fr
-NOERROR	sgu79.univ-paris5.fr
-NOERROR	adm3.droit.univ-paris5.fr
-NOERROR	mcms1.univ-paris5.fr
-NOERROR	n84i113.psycho.univ-paris5.fr
-NOERROR	oce01.odontologie.univ-paris5.fr
-NOERROR	n1sgir41.univ-paris5.fr
-NOERROR	plateau.univ-paris5.fr
-NOERROR	labo183.pharmacie.univ-paris5.fr
-NOERROR	dip237.univ-paris5.fr
-NOERROR	n84i091.psycho.univ-paris5.fr
-NOERROR	labo168.pharmacie.univ-paris5.fr
-NOERROR	addtoany.com.frodon.univ-paris5.fr
-NOERROR	n1sgir32.univ-paris5.fr
-NOERROR	n1sgir196.univ-paris5.fr
-NOERROR	labo45.pharmacie.univ-paris5.fr
-NOERROR	labo97.pharmacie.univ-paris5.fr
-NOERROR	bibadm5.droit.univ-paris5.fr
-NOERROR	dif202.univ-paris5.fr
-NOERROR	sig5.droit.univ-paris5.fr
-NOERROR	scolldt2.droit.univ-paris5.fr
-NOERROR	pcneurophys3.biomedicale.univ-paris5.fr
-NOERROR	www.dalloz-bibliotheque.fr.frodon.univ-paris5.fr
-NOERROR	n84i156.psycho.univ-paris5.fr
-NOERROR	lcrbadm.pharmacie.univ-paris5.fr
-NXDOMAIN	cloudescartes.univ-paris5.fr
-NOERROR	sbc01.toip.univ-paris5.fr
-NOERROR	iut244.iut.univ-paris5.fr
-NXDOMAIN	pcstat2.dsi.univ-paris5.fr
-NOERROR	n84i076.psycho.univ-paris5.fr
-NOERROR	labo166.pharmacie.univ-paris5.fr
-NOERROR	n84i138.psycho.univ-paris5.fr
-NOERROR	n1sgir9.univ-paris5.fr
-NOERROR	cochin197.cochin.univ-paris5.fr
-NOERROR	dif130.univ-paris5.fr
-NOERROR	dse195.univ-paris5.fr
-NOERROR	topix.math-info.univ-paris5.fr
-NOERROR	cochin55.cochin.univ-paris5.fr
-NOERROR	n1sgir107.univ-paris5.fr
-NXDOMAIN	ozalid.dsi.univ-paris5.fr
-NOERROR	n84i106.psycho.univ-paris5.fr
-NOERROR	n1sgir143.univ-paris5.fr
-NOERROR	acbd.iut.univ-paris5.fr
-NOERROR	bibadm18.droit.univ-paris5.fr
-NOERROR	wkcols.com.frodon.univ-paris5.fr
-NOERROR	serv1cido.univ-paris5.fr
-NOERROR	n1sgir158.univ-paris5.fr
-NXDOMAIN	www.im4ui.toip.univ-paris5.fr
-NOERROR	dif99.univ-paris5.fr
-NOERROR	instrecdt18.droit.univ-paris5.fr
-NOERROR	meb01.odontologie.univ-paris5.fr
-NOERROR	dip163.univ-paris5.fr
-NOERROR	cons02.odontologie.univ-paris5.fr
-NOERROR	visio.presidence.univ-paris5.fr
-NOERROR	webdav2.univ-paris5.fr
-NOERROR	sgumac75.univ-paris5.fr
-NOERROR	cochin115.cochin.univ-paris5.fr
-NOERROR	n84i101.psycho.univ-paris5.fr
-NOERROR	3p5.medecine.univ-paris5.fr
-NOERROR	n84i234.psycho.univ-paris5.fr
-NOERROR	labo48.pharmacie.univ-paris5.fr
-NOERROR	cochin219.cochin.univ-paris5.fr
-NOERROR	dif105.univ-paris5.fr
-NOERROR	n1sgir147.univ-paris5.fr
-NOERROR	stargate02.math-info.univ-paris5.fr
-NOERROR	cochin230.cochin.univ-paris5.fr
-NOERROR	dip170.univ-paris5.fr
-NXDOMAIN	webmail.etu.univ-paris5.fr
-NOERROR	labo136.pharmacie.univ-paris5.fr
-NOERROR	moodlet.univ-paris5.fr
-NOERROR	instrecdt20.droit.univ-paris5.fr
-NOERROR	serfin1.droit.univ-paris5.fr
-NOERROR	stream4-out.univ-paris5.fr
-NOERROR	n84i165.psycho.univ-paris5.fr
-NXDOMAIN	dialogues.univ-paris5.fr
-NOERROR	www.bium.univ-paris5.fr
-NOERROR	bibadm17.droit.univ-paris5.fr
-NOERROR	kitticat-01.toip.univ-paris5.fr
-NOERROR	cochin198.cochin.univ-paris5.fr
-NOERROR	labo90.pharmacie.univ-paris5.fr
-NOERROR	ip-doctrinalplus-fr.frodon.univ-paris5.fr
-NOERROR	intrasearch.univ-paris5.fr
-NOERROR	juste.univ-paris5.fr
-NOERROR	chronos.univ-paris5.fr
-NOERROR	lextenso.fr.frodon.univ-paris5.fr
-NOERROR	moodle.univ-paris5.fr
-NOERROR	labo131.pharmacie.univ-paris5.fr
-NOERROR	n1sgir188.univ-paris5.fr
-NOERROR	oce03.odontologie.univ-paris5.fr
-NOERROR	admin38.pharmacie.univ-paris5.fr
-NOERROR	ensped10.droit.univ-paris5.fr
-NOERROR	math.iut.univ-paris5.fr
-NOERROR	ensped6.droit.univ-paris5.fr
-NOERROR	sri222.univ-paris5.fr
-NOERROR	cochin12.cochin.univ-paris5.fr
-NOERROR	labo49.pharmacie.univ-paris5.fr
-NOERROR	sig27.univ-paris5.fr
-NOERROR	anapa1.odontologie.univ-paris5.fr
-NOERROR	labo172.pharmacie.univ-paris5.fr
-NOERROR	instrecdt27.droit.univ-paris5.fr
-NOERROR	n1sgir182.univ-paris5.fr
-NOERROR	n84i003.psycho.univ-paris5.fr
-NXDOMAIN	belcanto.univ-paris5.fr
-NOERROR	dif177.univ-paris5.fr
-NOERROR	dif123.univ-paris5.fr
-NOERROR	gollum-out.univ-paris5.fr
-NOERROR	vodka.univ-paris5.fr
-NOERROR	instrecdt71.droit.univ-paris5.fr
-NOERROR	n1sgir185.univ-paris5.fr
-NOERROR	n1sgir36.univ-paris5.fr
-NOERROR	instrecdt90.droit.univ-paris5.fr
-NOERROR	www2.droit.univ-paris5.fr
-NOERROR	dip158.univ-paris5.fr
-NOERROR	cs17.iut.univ-paris5.fr
-NOERROR	ac07.cnci.univ-paris5.fr
-NOERROR	cochin223.cochin.univ-paris5.fr
-NOERROR	cochin157.cochin.univ-paris5.fr
-NXDOMAIN	buga44.paris-ouest.univ-paris5.fr
-NOERROR	n84i071.psycho.univ-paris5.fr
-NOERROR	n84i016.psycho.univ-paris5.fr
-NOERROR	labo180.pharmacie.univ-paris5.fr
-NOERROR	imp-704i.math-info.univ-paris5.fr
-NXDOMAIN	ateliers-tice.univ-paris5.fr
-NXDOMAIN	comp13.paris-ouest.univ-paris5.fr
-NOERROR	webmail.univ-paris5.fr
-NOERROR	migre.math-info.univ-paris5.fr
-NOERROR	biom05.odontologie.univ-paris5.fr
-NOERROR	n84i150.psycho.univ-paris5.fr
-NOERROR	andromache.math-info.univ-paris5.fr
-NOERROR	n1sgir204.univ-paris5.fr
-NOERROR	n1sgir79.univ-paris5.fr
-NOERROR	bibadm4.droit.univ-paris5.fr
-NOERROR	n84i136.psycho.univ-paris5.fr
-NXDOMAIN	lasdirdsi1.dsi.univ-paris5.fr
-NOERROR	n84i197.psycho.univ-paris5.fr
-NOERROR	log01.odontologie.univ-paris5.fr
-NOERROR	ifr71.pharmacie.univ-paris5.fr
-NOERROR	dse206.univ-paris5.fr
-NOERROR	iut07.odontologie.univ-paris5.fr
-NOERROR	survey.math-info.univ-paris5.fr
-NOERROR	n84i173.psycho.univ-paris5.fr
-NOERROR	n1sgir108.univ-paris5.fr
-NOERROR	n84i006.psycho.univ-paris5.fr
-NOERROR	calculsip-2.math-info.univ-paris5.fr
-NOERROR	n84i244.psycho.univ-paris5.fr
-NOERROR	cochin28.cochin.univ-paris5.fr
-NOERROR	dip92.univ-paris5.fr
-NXDOMAIN	pcadmindsi.dsi.univ-paris5.fr
-NOERROR	n84i034.psycho.univ-paris5.fr
-NOERROR	gwens.ens.math-info.univ-paris5.fr
-NOERROR	n1sgir168.univ-paris5.fr
-NOERROR	ocsinventory-ng.droit.univ-paris5.fr
-NOERROR	www.bu.univ-paris5.fr
-NOERROR	piaget.psycho.univ-paris5.fr
-NOERROR	labo69.pharmacie.univ-paris5.fr
-NXDOMAIN	pcnphys6.biomedicale.univ-paris5.fr
-NOERROR	n84i037.psycho.univ-paris5.fr
-NOERROR	n84i073.psycho.univ-paris5.fr
-NOERROR	infoadm7.iut.univ-paris5.fr
-NOERROR	cochin227.cochin.univ-paris5.fr
-NOERROR	epnet.com.frodon.univ-paris5.fr
-NOERROR	impsgu2.univ-paris5.fr
-NOERROR	www.ens.math-info.univ-paris5.fr
-NOERROR	dalloz.fr.frodon.univ-paris5.fr
-NOERROR	frodon-biup.univ-paris5.fr
-NOERROR	smtp.math-info.univ-paris5.fr
-NOERROR	merlin174.univ-paris5.fr
-NOERROR	deugshs3.droit.univ-paris5.fr
-NOERROR	dif51paye.univ-paris5.fr
-NOERROR	s02.utls-la-suite.univ-paris5.fr
-NOERROR	dif135.univ-paris5.fr
-NOERROR	sgu77.univ-paris5.fr
-NOERROR	instrecdt102.droit.univ-paris5.fr
-NOERROR	cochin24.cochin.univ-paris5.fr
-NOERROR	cochin59.cochin.univ-paris5.fr
-NOERROR	lorraine.iut.univ-paris5.fr
-NOERROR	labo171.pharmacie.univ-paris5.fr
-NOERROR	n1sgir178.univ-paris5.fr
-NOERROR	ddd.dsi.univ-paris5.fr
-NOERROR	n1sgir118.univ-paris5.fr
-NOERROR	springer.com.frodon.univ-paris5.fr
-NOERROR	n84i065.psycho.univ-paris5.fr
-NOERROR	frodon-ng.univ-paris5.fr
-NOERROR	n1sgir140.univ-paris5.fr
-NOERROR	instrecdt32.droit.univ-paris5.fr
-NOERROR	n84i017.psycho.univ-paris5.fr
-NOERROR	n1sgir103.univ-paris5.fr
-NOERROR	cochin239.cochin.univ-paris5.fr
-NOERROR	cochin136.cochin.univ-paris5.fr
-NOERROR	cochin129.cochin.univ-paris5.fr
-NOERROR	descartes.math-info.univ-paris5.fr
-NOERROR	info127.pharmacie.univ-paris5.fr
-NOERROR	n84i005.psycho.univ-paris5.fr
-NOERROR	dse119.univ-paris5.fr
-NOERROR	app138.jnum.univ-paris5.fr
-NOERROR	n84i108.psycho.univ-paris5.fr
-NOERROR	chat2.math-info.univ-paris5.fr
-NOERROR	cochin233.cochin.univ-paris5.fr
-NOERROR	lexique.psycho.univ-paris5.fr
-NOERROR	instrecdt21.droit.univ-paris5.fr
-NXDOMAIN	pasta.infr.univ-paris5.fr
-NOERROR	www.univ-paris5.fr
-NOERROR	app.odontologie.univ-paris5.fr
-NOERROR	n84i222.psycho.univ-paris5.fr
-NOERROR	bibadm12.droit.univ-paris5.fr
-NOERROR	visio-inc.biomedicale.univ-paris5.fr
-NOERROR	odysseus.bium.univ-paris5.fr
-NOERROR	n1sgir125.univ-paris5.fr
-NOERROR	srv-hip4.bium.univ-paris5.fr
-NOERROR	imp-mint.math-info.univ-paris5.fr
-NOERROR	instrecdt81.droit.univ-paris5.fr
-NOERROR	rtp02.toip.univ-paris5.fr
-NOERROR	cochin101.cochin.univ-paris5.fr
-NOERROR	bibadm10.droit.univ-paris5.fr
-NOERROR	lpp.psycho.univ-paris5.fr
-NOERROR	ima01.odontologie.univ-paris5.fr
-NOERROR	visiohj.dsi.univ-paris5.fr
-NOERROR	n1sgir223.univ-paris5.fr
-NOERROR	iut246.iut.univ-paris5.fr
-NXDOMAIN	paris-ouest-sl.paris-ouest.univ-paris5.fr
-NOERROR	colibri54.shs.univ-paris5.fr
-NOERROR	n84i099.psycho.univ-paris5.fr
-NOERROR	n84i131.psycho.univ-paris5.fr
-NOERROR	biomtp1.odontologie.univ-paris5.fr
-NOERROR	serint2.droit.univ-paris5.fr
-NOERROR	dse127.univ-paris5.fr
-NOERROR	cochin65.cochin.univ-paris5.fr
-NOERROR	hera4.math-info.univ-paris5.fr
-NXDOMAIN	www.synapse.toip.univ-paris5.fr
-NOERROR	chat.ens.math-info.univ-paris5.fr
-NOERROR	ic01.iut.univ-paris5.fr
-NOERROR	labo191.pharmacie.univ-paris5.fr
-NOERROR	n84i040.psycho.univ-paris5.fr
-NOERROR	admin41.pharmacie.univ-paris5.fr
-NOERROR	chat.math-info.univ-paris5.fr
-NOERROR	instrecdt22.droit.univ-paris5.fr
-NXDOMAIN	biv-new.univ-paris5.fr
-NOERROR	comp32.pharmacie.univ-paris5.fr
-NOERROR	dip208.univ-paris5.fr
-NOERROR	visiofc.dsi.univ-paris5.fr
-NOERROR	cochin87.cochin.univ-paris5.fr
-NOERROR	dse151.univ-paris5.fr
-NOERROR	prot03.odontologie.univ-paris5.fr
-NOERROR	cochin45.cochin.univ-paris5.fr
-NOERROR	gw2.math-info.univ-paris5.fr
-NOERROR	n1sgir186.univ-paris5.fr
-NOERROR	n84i097.psycho.univ-paris5.fr
-NOERROR	bauxite.univ-paris5.fr
-NOERROR	dircsr.iut.univ-paris5.fr
-NOERROR	wysiwym.dsi.univ-paris5.fr
-NOERROR	sfc57.univ-paris5.fr
-NOERROR	app136.jnum.univ-paris5.fr
-NOERROR	www.neurophys.biomedicale.univ-paris5.fr
-NOERROR	bibadm13.droit.univ-paris5.fr
-NOERROR	spp.math-info.univ-paris5.fr
-NOERROR	n1sgir70.univ-paris5.fr
-NOERROR	instrecdt74.droit.univ-paris5.fr
-NOERROR	sfc224.univ-paris5.fr
-NOERROR	cs10.iut.univ-paris5.fr
-NOERROR	vis156.jnum.univ-paris5.fr
-NOERROR	nicolaib.public.univ-paris5.fr
-NOERROR	n1sgir45.univ-paris5.fr
-NOERROR	bibadm15.droit.univ-paris5.fr
-NOERROR	dip220.univ-paris5.fr
-NOERROR	git.ens.math-info.univ-paris5.fr
-NOERROR	anat04.odontologie.univ-paris5.fr
-NOERROR	labo189.pharmacie.univ-paris5.fr
-NOERROR	mars2.math-info.univ-paris5.fr
-NOERROR	sig25.univ-paris5.fr
-NOERROR	cochin93.cochin.univ-paris5.fr
-NOERROR	dedale.pharmacie.univ-paris5.fr
-NOERROR	instrecdt61.droit.univ-paris5.fr
-NOERROR	www-old.pharmacie.univ-paris5.fr
-NOERROR	delta.pharmacie.univ-paris5.fr
-NOERROR	cochin106.cochin.univ-paris5.fr
-NOERROR	labo134.pharmacie.univ-paris5.fr
-NXDOMAIN	buga43.paris-ouest.univ-paris5.fr
-NOERROR	n1sgir26.univ-paris5.fr
-NOERROR	dse115.univ-paris5.fr
-NOERROR	n84i195.psycho.univ-paris5.fr
-NOERROR	db10o.univ-paris5.fr
-NOERROR	bibadm28.droit.univ-paris5.fr
-NOERROR	n84i095.psycho.univ-paris5.fr
-NOERROR	admin7.pharmacie.univ-paris5.fr
-NOERROR	ftp.dsi.univ-paris5.fr
-NOERROR	seven.math-info.univ-paris5.fr
-NOERROR	lipade.math-info.univ-paris5.fr
-NOERROR	instrecdt97.droit.univ-paris5.fr
-NOERROR	n1sgir145.univ-paris5.fr
-NOERROR	bartlett.math-info.univ-paris5.fr
-NOERROR	meet.toip.univ-paris5.fr
-NOERROR	n1sgir73.univ-paris5.fr
-NOERROR	cochin94.cochin.univ-paris5.fr
-NOERROR	dip153.univ-paris5.fr
-NOERROR	cochin127.cochin.univ-paris5.fr
-NOERROR	cochin174.cochin.univ-paris5.fr
-NOERROR	hip.bium.univ-paris5.fr
-NOERROR	scoldt11.droit.univ-paris5.fr
-NOERROR	scoldt5.droit.univ-paris5.fr
-NOERROR	www.droit.univ-paris5.fr
-NOERROR	picardie.iut.univ-paris5.fr
-NOERROR	n84i250.psycho.univ-paris5.fr
-NOERROR	janus.math-info.univ-paris5.fr
-NOERROR	nsprvp5.univ-paris5.fr
-NOERROR	rtp01.toip.univ-paris5.fr
-NOERROR	pdc-bium.bium.univ-paris5.fr
-NOERROR	adm5.droit.univ-paris5.fr
-NOERROR	dif185.univ-paris5.fr
-NOERROR	vod.univ-paris5.fr
-NOERROR	dip232.univ-paris5.fr
-NOERROR	n1sgir218.univ-paris5.fr
-NOERROR	sit41.univ-paris5.fr
-NOERROR	dip159.univ-paris5.fr
-NOERROR	instrecdt111.droit.univ-paris5.fr
-NOERROR	cochin175.cochin.univ-paris5.fr
-NOERROR	mob-liasi.iut.univ-paris5.fr
-NOERROR	odf02.odontologie.univ-paris5.fr
-NOERROR	cochin162.cochin.univ-paris5.fr
-NOERROR	n1sgir153.univ-paris5.fr
-NOERROR	lab02.odontologie.univ-paris5.fr
-NOERROR	cochin185.cochin.univ-paris5.fr
-NXDOMAIN	ncot.ens.math-info.univ-paris5.fr
-NOERROR	cop-cusp-mi-bichat7.math-info.univ-paris5.fr
-NOERROR	n1sgir111.univ-paris5.fr
-NOERROR	n1sgir12.univ-paris5.fr
-NOERROR	cochin196.cochin.univ-paris5.fr
-NOERROR	deugshs11.droit.univ-paris5.fr
-NOERROR	n84i102.psycho.univ-paris5.fr
-NOERROR	transdata.biomedicale.univ-paris5.fr
-NOERROR	mercure.math-info.univ-paris5.fr
-NOERROR	n84i116.psycho.univ-paris5.fr
-NOERROR	n84i119.psycho.univ-paris5.fr
-NOERROR	ser2dip1.univ-paris5.fr
-NOERROR	n84i018.psycho.univ-paris5.fr
-NOERROR	sgu195.univ-paris5.fr
-NOERROR	ag202.odontologie.univ-paris5.fr
-NOERROR	n1sgir180.univ-paris5.fr
-NOERROR	dip231.univ-paris5.fr
-NOERROR	agr01.odontologie.univ-paris5.fr
-NOERROR	iad.math-info.univ-paris5.fr
-NXDOMAIN	www.sig1.droit.univ-paris5.fr
-NOERROR	glpi.math-info.univ-paris5.fr
-NOERROR	labo139.pharmacie.univ-paris5.fr
-NOERROR	bioc05.odontologie.univ-paris5.fr
-NOERROR	descartes0.math-info.univ-paris5.fr
-NOERROR	n84i188.psycho.univ-paris5.fr
-NOERROR	instrecdt9.droit.univ-paris5.fr
-NOERROR	dip175.univ-paris5.fr
-NOERROR	cochin152.cochin.univ-paris5.fr
-NOERROR	n84i243.psycho.univ-paris5.fr
-NOERROR	w4.math-info.univ-paris5.fr
-NOERROR	cochin225.cochin.univ-paris5.fr
-NOERROR	serv-cfc.iut.univ-paris5.fr
-NOERROR	rc.univ-paris5.fr
-NOERROR	iut227.iut.univ-paris5.fr
-NOERROR	admin22.pharmacie.univ-paris5.fr
-NOERROR	n1sgir197.univ-paris5.fr
-NOERROR	n84i134.psycho.univ-paris5.fr
-NOERROR	sec01.odontologie.univ-paris5.fr
-NOERROR	n1sgir50.univ-paris5.fr
-NOERROR	cochin231.cochin.univ-paris5.fr
-NOERROR	n84i048.psycho.univ-paris5.fr
-NOERROR	www-old-old.iut.univ-paris5.fr
-NOERROR	cochin187.cochin.univ-paris5.fr
-NOERROR	cochin183.cochin.univ-paris5.fr
-NOERROR	n1sgir112.univ-paris5.fr
-NOERROR	bibadm2.droit.univ-paris5.fr
-NOERROR	n1sgir65.univ-paris5.fr
-NOERROR	cop-cusp-mi-bichat8.math-info.univ-paris5.fr
-NOERROR	dip141.univ-paris5.fr
-NOERROR	ergodata.biomedicale.univ-paris5.fr
-NOERROR	n1sgir170.univ-paris5.fr
-NOERROR	labo186.pharmacie.univ-paris5.fr
-NOERROR	secped2.droit.univ-paris5.fr
-NOERROR	n84i245.psycho.univ-paris5.fr
-NOERROR	cochin26.cochin.univ-paris5.fr
-NOERROR	n84i211.psycho.univ-paris5.fr
-NOERROR	dif104.univ-paris5.fr
-NOERROR	cochin54.cochin.univ-paris5.fr
-NOERROR	n84i035.psycho.univ-paris5.fr
-NOERROR	n84i144.psycho.univ-paris5.fr
-NOERROR	acolad.univ-paris5.fr
-NOERROR	n1sgir86.univ-paris5.fr
-NOERROR	n1sgir116.univ-paris5.fr
-NOERROR	medecine.univ-paris5.fr
-NOERROR	alpha.univ-paris5.fr
-NOERROR	ag102.odontologie.univ-paris5.fr
-NOERROR	labo182.pharmacie.univ-paris5.fr
-NOERROR	bibadm23.droit.univ-paris5.fr
-NOERROR	n1sgir69.univ-paris5.fr
-NOERROR	falkor.bium.univ-paris5.fr
-NOERROR	n84i208.psycho.univ-paris5.fr
-NOERROR	dseinsc-5.univ-paris5.fr
-NXDOMAIN	feu.dsi.univ-paris5.fr
-NXDOMAIN	comp11.paris-ouest.univ-paris5.fr
-NOERROR	bib02.odontologie.univ-paris5.fr
-NOERROR	dip171.univ-paris5.fr
-NOERROR	imp01.odontologie.univ-paris5.fr
-NOERROR	sgumac.univ-paris5.fr
-NOERROR	bibo9.odontologie.univ-paris5.fr
-NOERROR	lipade-svn.math-info.univ-paris5.fr
-NOERROR	epi01.odontologie.univ-paris5.fr
-NOERROR	uel.math-info.univ-paris5.fr
-NOERROR	cvirtuel.cochin.univ-paris5.fr
-NOERROR	dif107.univ-paris5.fr
-NOERROR	lsii.iut.univ-paris5.fr
-NOERROR	stiddir.iut.univ-paris5.fr
-NOERROR	cido236.univ-paris5.fr
-NOERROR	instrecdt33.droit.univ-paris5.fr
-NOERROR	n1sgir110.univ-paris5.fr
-NOERROR	app133.jnum.univ-paris5.fr
-NOERROR	n84i229.psycho.univ-paris5.fr
-NOERROR	labo240.pharmacie.univ-paris5.fr
-NOERROR	pub-info-86.odontologie.univ-paris5.fr
-NOERROR	per02.odontologie.univ-paris5.fr
-NOERROR	stidfume.iut.univ-paris5.fr
-NOERROR	cochin85.cochin.univ-paris5.fr
-NOERROR	out1.dsi.univ-paris5.fr
-NOERROR	n1sgir10.univ-paris5.fr
-NOERROR	mahenath.public.univ-paris5.fr
-NOERROR	formations.univ-paris5.fr
-NXDOMAIN	poufpouf.dsi.univ-paris5.fr
-NOERROR	tc-573.iut.univ-paris5.fr
-NOERROR	dip156.univ-paris5.fr
-NOERROR	n84i067.psycho.univ-paris5.fr
-NOERROR	instrecdt7.droit.univ-paris5.fr
-NOERROR	scoldt8.droit.univ-paris5.fr
-NOERROR	bib4.iut.univ-paris5.fr
-NOERROR	cochin147.cochin.univ-paris5.fr
-NOERROR	cochin222.cochin.univ-paris5.fr
-NOERROR	cochin119.cochin.univ-paris5.fr
-NOERROR	bibadm20.droit.univ-paris5.fr
-NOERROR	sco30.odontologie.univ-paris5.fr
-NOERROR	n1sgir131.univ-paris5.fr
-NOERROR	www-jimmunol-org.frodon.univ-paris5.fr
-NOERROR	labo198.pharmacie.univ-paris5.fr
-NOERROR	toip.univ-paris5.fr
-NOERROR	cochin181.cochin.univ-paris5.fr
-NOERROR	cochin71.cochin.univ-paris5.fr
-NOERROR	instrecdt13.droit.univ-paris5.fr
-NOERROR	n1sgir229.univ-paris5.fr
-NOERROR	n1sgir59.univ-paris5.fr
-NOERROR	cochin224.cochin.univ-paris5.fr
-NOERROR	dif48caisse.univ-paris5.fr
-NOERROR	cycle1hp5m.math-info.univ-paris5.fr
-NOERROR	n84i151.psycho.univ-paris5.fr
-NOERROR	tc-46.iut.univ-paris5.fr
-NOERROR	frodon.univ-paris5.fr
-NOERROR	instrecdt110.droit.univ-paris5.fr
-NOERROR	rout-iut.iut.univ-paris5.fr
-NOERROR	pcneurophys2.biomedicale.univ-paris5.fr
-NOERROR	kitticat.toip.univ-paris5.fr
-NOERROR	aria.univ-paris5.fr
-NOERROR	bioc07.odontologie.univ-paris5.fr
-NOERROR	dip87.univ-paris5.fr
-NOERROR	instrecdt40.droit.univ-paris5.fr
-NOERROR	ranck14.univ-paris5.fr
-NOERROR	labo162.pharmacie.univ-paris5.fr
-NOERROR	instrecdt4.droit.univ-paris5.fr
-NOERROR	dse193.univ-paris5.fr
-NOERROR	scolaes2.droit.univ-paris5.fr
-NOERROR	im4ui.toip.univ-paris5.fr
-NOERROR	anasthasia.biomedicale.univ-paris5.fr
-NOERROR	fin02.odontologie.univ-paris5.fr
-NOERROR	eph01.odontologie.univ-paris5.fr
-NOERROR	mob09.odontologie.univ-paris5.fr
-NOERROR	cochin148.cochin.univ-paris5.fr
-NOERROR	cochin82.cochin.univ-paris5.fr
-NOERROR	gevaudan.iut.univ-paris5.fr
-NOERROR	info-dir.iut.univ-paris5.fr
-NOERROR	cido233.univ-paris5.fr
-NXDOMAIN	www.chronos.univ-paris5.fr
-NOERROR	visio.iut.univ-paris5.fr
-NOERROR	www.public.univ-paris5.fr
-NOERROR	n1sgir113.univ-paris5.fr
-NOERROR	n1sgir220.univ-paris5.fr
-NOERROR	dip162.univ-paris5.fr
-NXDOMAIN	www.iut.univ-paris5.fr
-NOERROR	n1sgir124.univ-paris5.fr
-NOERROR	www.shs.univ-paris5.fr
-NOERROR	impres1.univ-paris5.fr
-NXDOMAIN	miage.math-info.univ-paris5.fr
-NOERROR	n84i239.psycho.univ-paris5.fr
-NOERROR	admin44.pharmacie.univ-paris5.fr
-NXDOMAIN	pcstat1.dsi.univ-paris5.fr
-NOERROR	n84i059.psycho.univ-paris5.fr
-NOERROR	n84i232.psycho.univ-paris5.fr
-NOERROR	dupli15.univ-paris5.fr
-NOERROR	cochin14.cochin.univ-paris5.fr
-NOERROR	n84i196.psycho.univ-paris5.fr
-NOERROR	webdav.univ-paris5.fr
-NOERROR	genatlas.medecine.univ-paris5.fr
-NOERROR	sunda01.univ-paris5.fr
-NOERROR	n1sgir224.univ-paris5.fr
-NOERROR	stdi-2.iut.univ-paris5.fr
-NOERROR	dif178.univ-paris5.fr
-NOERROR	bib01.odontologie.univ-paris5.fr
-NOERROR	editodf-test.dsi.univ-paris5.fr
-NOERROR	tektro221.univ-paris5.fr
-NOERROR	admin42.pharmacie.univ-paris5.fr
-NOERROR	labo238.pharmacie.univ-paris5.fr
-NOERROR	static-addtoany-com.frodon.univ-paris5.fr
-NOERROR	n84i054.psycho.univ-paris5.fr
-NOERROR	sbc01-trnk-sfr-gw.toip.univ-paris5.fr
-NOERROR	dip214.univ-paris5.fr
-NOERROR	scoldt9.droit.univ-paris5.fr
-NOERROR	ensped.droit.univ-paris5.fr
-NOERROR	cochin48.cochin.univ-paris5.fr
-NOERROR	marsoul.univ-paris5.fr
-NOERROR	stidserv1.iut.univ-paris5.fr
-NOERROR	dse117.univ-paris5.fr
-NOERROR	tice.univ-paris5.fr
-NOERROR	cochin180.cochin.univ-paris5.fr
-NOERROR	lcrbw.pharmacie.univ-paris5.fr
-NOERROR	bioc08.odontologie.univ-paris5.fr
-NOERROR	per03.odontologie.univ-paris5.fr
-NOERROR	medcas01.toip.univ-paris5.fr
-NOERROR	pcvisio-r01-d676.shs.univ-paris5.fr
-NOERROR	mipomodim.math-info.univ-paris5.fr
-NOERROR	instrecdt30.droit.univ-paris5.fr
-NOERROR	n84i231.psycho.univ-paris5.fr
-NOERROR	sgu78.univ-paris5.fr
-NOERROR	bibadm3.droit.univ-paris5.fr
-NOERROR	lensped17.droit.univ-paris5.fr
-NOERROR	reso34.univ-paris5.fr
-NOERROR	projets3.ens.math-info.univ-paris5.fr
-NOERROR	olympe.univ-paris5.fr
-NOERROR	reso35.univ-paris5.fr
-NOERROR	cochin188.cochin.univ-paris5.fr
-NOERROR	n84i214.psycho.univ-paris5.fr
-NXDOMAIN	garches199.paris-ouest.univ-paris5.fr
-NOERROR	brightcove.com.frodon.univ-paris5.fr
-NOERROR	n84i062.psycho.univ-paris5.fr
-NOERROR	www-evidal-fr.frodon.univ-paris5.fr
-NOERROR	cochin33.cochin.univ-paris5.fr
-NOERROR	pascal.math-info.univ-paris5.fr
-NOERROR	sunday.univ-paris5.fr
-NXDOMAIN	crash-3.dsi.univ-paris5.fr
-NOERROR	l.ens.math-info.univ-paris5.fr
-NOERROR	imp-704n.math-info.univ-paris5.fr
-NOERROR	dif129.univ-paris5.fr
-NOERROR	mob13.odontologie.univ-paris5.fr
-NOERROR	hist03.odontologie.univ-paris5.fr
-NOERROR	n84i185.psycho.univ-paris5.fr
-NOERROR	servback.math-info.univ-paris5.fr
-NOERROR	texlive.math-info.univ-paris5.fr
-NOERROR	instrecdt83.droit.univ-paris5.fr
-NOERROR	descartes1.math-info.univ-paris5.fr
-NOERROR	dip250.univ-paris5.fr
-NOERROR	n1sgir27.univ-paris5.fr
-NOERROR	sig1.droit.univ-paris5.fr
-NOERROR	deugshs4.droit.univ-paris5.fr
-NOERROR	n84i030.psycho.univ-paris5.fr
-NOERROR	per05.odontologie.univ-paris5.fr
-NOERROR	scoldt13.droit.univ-paris5.fr
-NOERROR	sip.univ-paris5.fr
-NOERROR	tftp.univ-paris5.fr
-NOERROR	n1sgir221.univ-paris5.fr
-NOERROR	dir03.odontologie.univ-paris5.fr
-NOERROR	owncloud2.math-info.univ-paris5.fr
-NOERROR	n84i008.psycho.univ-paris5.fr
-NOERROR	cons01.odontologie.univ-paris5.fr
-NOERROR	dip154.univ-paris5.fr
-NOERROR	imp02.odontologie.univ-paris5.fr
-NOERROR	n84i061.psycho.univ-paris5.fr
-NOERROR	cochin92.cochin.univ-paris5.fr
-NOERROR	labo157.pharmacie.univ-paris5.fr
-NOERROR	dif101.univ-paris5.fr
-NOERROR	impsgu1.univ-paris5.fr
-NOERROR	odon01.odontologie.univ-paris5.fr
-NOERROR	reseaupro.univ-paris5.fr
-NOERROR	pers26.pharmacie.univ-paris5.fr
-NOERROR	sig17.univ-paris5.fr
-NOERROR	rad06.odontologie.univ-paris5.fr
-NOERROR	cochin52.cochin.univ-paris5.fr
-NOERROR	dse212.univ-paris5.fr
-NOERROR	cochin221.cochin.univ-paris5.fr
-NOERROR	instrecdt73.droit.univ-paris5.fr
-NXDOMAIN	lyncdiscover.univ-paris5.fr
-NOERROR	iut231.iut.univ-paris5.fr
-NOERROR	geosoft.univ-paris5.fr
-NOERROR	visio.psycho.univ-paris5.fr
-NOERROR	n84i225.psycho.univ-paris5.fr
-NOERROR	cochin161.cochin.univ-paris5.fr
-NXDOMAIN	whoswho.dsi.univ-paris5.fr
-NOERROR	admin9.pharmacie.univ-paris5.fr
-NOERROR	n84i081.psycho.univ-paris5.fr
-NOERROR	bioc04.odontologie.univ-paris5.fr
-NOERROR	cochin111.cochin.univ-paris5.fr
-NOERROR	annuaire.univ-paris5.fr
-NOERROR	audio0.iut.univ-paris5.fr
-NOERROR	cochin15.cochin.univ-paris5.fr
-NOERROR	cop-cusp-mi-sec.math-info.univ-paris5.fr
-NOERROR	cochin189.cochin.univ-paris5.fr
-NOERROR	instrecdt121.droit.univ-paris5.fr
-NOERROR	bu--parisdescartes-cyberlibris-fr.frodon.univ-paris5.fr
-NOERROR	robotic.math-info.univ-paris5.fr
-NOERROR	labo128.pharmacie.univ-paris5.fr
-NOERROR	cochin37.cochin.univ-paris5.fr
-NOERROR	elador.math-info.univ-paris5.fr
-NOERROR	bbb.math-info.univ-paris5.fr
-NOERROR	n84i021.psycho.univ-paris5.fr
-NXDOMAIN	ow.univ-paris5.fr
-NOERROR	15ans-map5.math-info.univ-paris5.fr
-NOERROR	ceaq.univ-paris5.fr
-NOERROR	n1sgir20.univ-paris5.fr
-NOERROR	mob2.odontologie.univ-paris5.fr
-NOERROR	n1sgir71.univ-paris5.fr
-NOERROR	instrecdt19.droit.univ-paris5.fr
-NOERROR	cop-cusp-mi-repro.math-info.univ-paris5.fr
-NOERROR	kmbrc2.dsi.univ-paris5.fr
-NOERROR	secure-efl-fr.frodon.univ-paris5.fr
-NXDOMAIN	umvf.biomedicale.univ-paris5.fr
-NOERROR	labo56.pharmacie.univ-paris5.fr
-NOERROR	labo175.pharmacie.univ-paris5.fr
-NOERROR	dse148.univ-paris5.fr
-NOERROR	n1sgir31.univ-paris5.fr
-NOERROR	hist02.odontologie.univ-paris5.fr
-NOERROR	apopha20.pharmacie.univ-paris5.fr
-NOERROR	n1sgir38.univ-paris5.fr
-NXDOMAIN	listes2.math-info.univ-paris5.fr
-NOERROR	bibadm30.droit.univ-paris5.fr
-NOERROR	scoldt7.droit.univ-paris5.fr
-NOERROR	instrecdt58.droit.univ-paris5.fr
-NOERROR	stream5-out.univ-paris5.fr
-NOERROR	sgu66.univ-paris5.fr
-NOERROR	serv1dip1.univ-paris5.fr
-NXDOMAIN	comp15.paris-ouest.univ-paris5.fr
-NOERROR	sonar.math-info.univ-paris5.fr
-NOERROR	www.psycho.univ-paris5.fr
-NOERROR	n1sgir184.univ-paris5.fr
-NOERROR	iut243.iut.univ-paris5.fr
-NOERROR	n84i206.psycho.univ-paris5.fr
-NOERROR	dpt-medecine-generale.medecine.univ-paris5.fr
-NOERROR	n1sgir35.univ-paris5.fr
-NOERROR	paz.math-info.univ-paris5.fr
-NOERROR	deugshs5.droit.univ-paris5.fr
-NXDOMAIN	www.ldap.ens.math-info.univ-paris5.fr
-NOERROR	servinsc.univ-paris5.fr
-NOERROR	n1sgir202.univ-paris5.fr
-NOERROR	n1sgir21.univ-paris5.fr
-NOERROR	dseinsc-12.univ-paris5.fr
-NOERROR	cochin120.cochin.univ-paris5.fr
-NOERROR	cochin39.cochin.univ-paris5.fr
-NOERROR	titan.math-info.univ-paris5.fr
-NOERROR	n84i092.psycho.univ-paris5.fr
-NOERROR	dip242.univ-paris5.fr
-NOERROR	cochin156.cochin.univ-paris5.fr
-NOERROR	n1sgir84.univ-paris5.fr
-NOERROR	instrecdt6.droit.univ-paris5.fr
-NOERROR	lensped12.droit.univ-paris5.fr
-NOERROR	instrecdt103.droit.univ-paris5.fr
-NOERROR	cochin125.cochin.univ-paris5.fr
-NOERROR	n1sgir189.univ-paris5.fr
-NOERROR	sodev.univ-paris5.fr
-NOERROR	n1sgir209.univ-paris5.fr
-NOERROR	labo93.pharmacie.univ-paris5.fr
-NOERROR	dif200.univ-paris5.fr
-NOERROR	avril.pharmacie.univ-paris5.fr
-NOERROR	ldap.ens.math-info.univ-paris5.fr
-NOERROR	scolaes1.droit.univ-paris5.fr
-NOERROR	scol5.iut.univ-paris5.fr
-NOERROR	oce02.odontologie.univ-paris5.fr
-NOERROR	etu.univ-paris5.fr
-NOERROR	labo102.pharmacie.univ-paris5.fr
-NOERROR	dseinsc-1.univ-paris5.fr
-NOERROR	sgumac71.univ-paris5.fr
-NOERROR	cochin79.cochin.univ-paris5.fr
-NOERROR	n84i066.psycho.univ-paris5.fr
-NOERROR	cop-cusp-mi-cuneoa.math-info.univ-paris5.fr
-NOERROR	stiddl9.iut.univ-paris5.fr
-NOERROR	labo194.pharmacie.univ-paris5.fr
-NOERROR	n1sgir159.univ-paris5.fr
-NOERROR	sgu64.univ-paris5.fr
-NXDOMAIN	kb.dsi.univ-paris5.fr
-NOERROR	instrecdt65.droit.univ-paris5.fr
-NOERROR	deugshs7.droit.univ-paris5.fr
-NOERROR	labo135.pharmacie.univ-paris5.fr
-NOERROR	cochin35.cochin.univ-paris5.fr
-NOERROR	sig14.droit.univ-paris5.fr
-NOERROR	cochin68.cochin.univ-paris5.fr
-NOERROR	sig3.droit.univ-paris5.fr
-NOERROR	apopha15.pharmacie.univ-paris5.fr
-NXDOMAIN	pcdirection2.dsi.univ-paris5.fr
-NOERROR	sfc56.univ-paris5.fr
-NOERROR	imap1.odontologie.univ-paris5.fr
-NOERROR	tempvm2.math-info.univ-paris5.fr
-NOERROR	dse196.univ-paris5.fr
-NOERROR	cochin237.cochin.univ-paris5.fr
-NOERROR	cs14.iut.univ-paris5.fr
-NOERROR	desinsc-9.univ-paris5.fr
-NOERROR	ed261.psycho.univ-paris5.fr
-NOERROR	instrecdt120.droit.univ-paris5.fr
-NOERROR	labo174.pharmacie.univ-paris5.fr
-NOERROR	labo161.pharmacie.univ-paris5.fr
-NOERROR	macmusee203.univ-paris5.fr
-NOERROR	instrecdt117.droit.univ-paris5.fr
-NOERROR	n84i149.psycho.univ-paris5.fr
-NOERROR	berlin.math-info.univ-paris5.fr
-NOERROR	bibadm26.droit.univ-paris5.fr
-NOERROR	gin.psycho.univ-paris5.fr
-NOERROR	n1sgir51.univ-paris5.fr
-NOERROR	iut228.iut.univ-paris5.fr
-NOERROR	cochin184.cochin.univ-paris5.fr
-NOERROR	mob3.odontologie.univ-paris5.fr
-NOERROR	stid-rech.iut.univ-paris5.fr
-NOERROR	n84i044.psycho.univ-paris5.fr
-NOERROR	cuda.math-info.univ-paris5.fr
-NOERROR	openvpn.math-info.univ-paris5.fr
-NOERROR	office.math-info.univ-paris5.fr
-NOERROR	cochin150.cochin.univ-paris5.fr
-NOERROR	n1sgir95.univ-paris5.fr
-NOERROR	cochin159.cochin.univ-paris5.fr
-NOERROR	dif106.univ-paris5.fr
-NOERROR	sbc02.toip.univ-paris5.fr
-NOERROR	nefeli.math-info.univ-paris5.fr
-NOERROR	n1sgir228.univ-paris5.fr
-NOERROR	www-google-com-s.frodon.univ-paris5.fr
-NOERROR	www.c2i.univ-paris5.fr
-NOERROR	prot02.odontologie.univ-paris5.fr
-NOERROR	panier.univ-paris5.fr
-NOERROR	pub-physio-139.odontologie.univ-paris5.fr
-NOERROR	n84i236.psycho.univ-paris5.fr
-NOERROR	n1sgir163.univ-paris5.fr
-NOERROR	dseinsc-2.univ-paris5.fr
-NOERROR	cisco1-cochin.cochin.univ-paris5.fr
-NOERROR	sig40.univ-paris5.fr
-NOERROR	n84i082.psycho.univ-paris5.fr
-NOERROR	n1sgir57.univ-paris5.fr
-NOERROR	bib11.odontologie.univ-paris5.fr
-NOERROR	instrecdt23.droit.univ-paris5.fr
-NXDOMAIN	pens31.paris-ouest.univ-paris5.fr
-NOERROR	cochin38.cochin.univ-paris5.fr
-NOERROR	out2.staps.univ-paris5.fr
-NOERROR	n84i014.psycho.univ-paris5.fr
-NOERROR	cochin47.cochin.univ-paris5.fr
-NOERROR	instrecdt114.droit.univ-paris5.fr
-NOERROR	n1sgir138.univ-paris5.fr
-NOERROR	n84i080.psycho.univ-paris5.fr
-NOERROR	dip90.univ-paris5.fr
-NOERROR	perseefl.bu.univ-paris5.fr
-NOERROR	jupyter.math-info.univ-paris5.fr
-NXDOMAIN	cisco1-siege.univ-paris5.fr
-NOERROR	gigue.univ-paris5.fr
-NOERROR	horde.univ-paris5.fr
-NOERROR	dip246.univ-paris5.fr
-NOERROR	ensped7.droit.univ-paris5.fr
-NOERROR	vis145.jnum.univ-paris5.fr
-NOERROR	neurophys.biomedicale.univ-paris5.fr
-NOERROR	db09o.univ-paris5.fr
-NOERROR	so04p2.odontologie.univ-paris5.fr
-NOERROR	n84i223.psycho.univ-paris5.fr
-NOERROR	labo178.pharmacie.univ-paris5.fr
-NOERROR	scoldt1.droit.univ-paris5.fr
-NOERROR	dif182.univ-paris5.fr
-NOERROR	burma2.univ-paris5.fr
-NOERROR	cochin134.cochin.univ-paris5.fr
-NOERROR	dir.odontologie.univ-paris5.fr
-NOERROR	sig8.droit.univ-paris5.fr
-NOERROR	imp-725c1.math-info.univ-paris5.fr
-NOERROR	instrecdt100.droit.univ-paris5.fr
-NOERROR	ens01.odontologie.univ-paris5.fr
-NOERROR	sgu82.univ-paris5.fr
-NOERROR	n1sgir37.univ-paris5.fr
-NOERROR	stdi-3.iut.univ-paris5.fr
-NOERROR	cochin62.cochin.univ-paris5.fr
-NOERROR	n84i154.psycho.univ-paris5.fr
-NOERROR	login.frodon.univ-paris5.fr
-NOERROR	sig26.univ-paris5.fr
-NOERROR	premium.univ-paris5.fr
-NOERROR	impcdc.math-info.univ-paris5.fr
-NOERROR	t.ens.math-info.univ-paris5.fr
-NOERROR	app141.jnum.univ-paris5.fr
-NOERROR	scoldt14.droit.univ-paris5.fr
-NOERROR	dif97.univ-paris5.fr
-NOERROR	n1sgir227.univ-paris5.fr
-NOERROR	admin6.pharmacie.univ-paris5.fr
-NOERROR	cochin86.cochin.univ-paris5.fr
-NOERROR	bib08.odontologie.univ-paris5.fr
-NOERROR	gwmip-virtuel.math-info.univ-paris5.fr
-NOERROR	st-pr48.iut.univ-paris5.fr
-NOERROR	mefteh.dsi.univ-paris5.fr
-NOERROR	cochin16.cochin.univ-paris5.fr
-NOERROR	n84i023.psycho.univ-paris5.fr
-NOERROR	labo165.pharmacie.univ-paris5.fr
-NOERROR	andromeda.math-info.univ-paris5.fr
-NOERROR	instrecdt70.droit.univ-paris5.fr
-NOERROR	lnrs.biomedicale.univ-paris5.fr
-NOERROR	bibadm27.droit.univ-paris5.fr
-NOERROR	n84i055.psycho.univ-paris5.fr
-NOERROR	gargas.biomedicale.univ-paris5.fr
-NOERROR	lab01.odontologie.univ-paris5.fr
-NOERROR	mailhost.univ-paris5.fr
-NOERROR	bibadm34.droit.univ-paris5.fr
-NOERROR	labo212.pharmacie.univ-paris5.fr
-NOERROR	sfc55.univ-paris5.fr
-NOERROR	labo100.pharmacie.univ-paris5.fr
-NOERROR	wwwold.scuio.univ-paris5.fr
-NXDOMAIN	buga46.paris-ouest.univ-paris5.fr
-NOERROR	stech1.iut.univ-paris5.fr
-NOERROR	n1sgir150.univ-paris5.fr
-NOERROR	sg0.iut.univ-paris5.fr
-NOERROR	instrecdt3.droit.univ-paris5.fr
-NOERROR	labo88.pharmacie.univ-paris5.fr
-NOERROR	n84i186.psycho.univ-paris5.fr
-NOERROR	n84i215.psycho.univ-paris5.fr
-NOERROR	sec07.odontologie.univ-paris5.fr
-NOERROR	pccprov.univ-paris5.fr
-NOERROR	n1sgir6.univ-paris5.fr
-NOERROR	vis155.jnum.univ-paris5.fr
-NOERROR	sig6.droit.univ-paris5.fr
-NXDOMAIN	crash-2.dsi.univ-paris5.fr
-NOERROR	dip149.univ-paris5.fr
-NOERROR	cochin29.cochin.univ-paris5.fr
-NXDOMAIN	pcimag1.dsi.univ-paris5.fr
-NOERROR	n1sgir67.univ-paris5.fr
-NOERROR	iut224.iut.univ-paris5.fr
-NOERROR	cochin216.cochin.univ-paris5.fr
-NOERROR	deugshs14.droit.univ-paris5.fr
-NOERROR	cochin97.cochin.univ-paris5.fr
-NOERROR	n84i140.psycho.univ-paris5.fr
-NOERROR	griad.droit.univ-paris5.fr
-NOERROR	intranet.univ-paris5.fr
-NOERROR	cochin77.cochin.univ-paris5.fr
-NOERROR	webmail2.math-info.univ-paris5.fr
-NOERROR	www.uvp5.univ-paris5.fr
-NOERROR	sweet.home.univ-paris5.fr
-NOERROR	dip166.univ-paris5.fr
-NOERROR	vpeimplex.univ-paris5.fr
-NOERROR	dip91.univ-paris5.fr
-NOERROR	dif138.univ-paris5.fr
-NOERROR	n84i047.psycho.univ-paris5.fr
-NOERROR	myriade.math-info.univ-paris5.fr
-NOERROR	n84i219.psycho.univ-paris5.fr
-NOERROR	n84i158.psycho.univ-paris5.fr
-NOERROR	n1sgir46.univ-paris5.fr
-NOERROR	n84i052.psycho.univ-paris5.fr
-NOERROR	cochin116.cochin.univ-paris5.fr
-NOERROR	www.home.univ-paris5.fr
-NOERROR	dif49cg.univ-paris5.fr
-NOERROR	musashi.math-info.univ-paris5.fr
-NOERROR	n84i184.psycho.univ-paris5.fr
-NOERROR	vis146.jnum.univ-paris5.fr
-NOERROR	n1sgir48.univ-paris5.fr
-NOERROR	dse124.univ-paris5.fr
-NOERROR	cochin192.cochin.univ-paris5.fr
-NOERROR	labo199.pharmacie.univ-paris5.fr
-NOERROR	n84i002.psycho.univ-paris5.fr
-NOERROR	rad04.odontologie.univ-paris5.fr
-NOERROR	n84i251.psycho.univ-paris5.fr
-NXDOMAIN	comp14.paris-ouest.univ-paris5.fr
-NOERROR	n1sgir58.univ-paris5.fr
-NOERROR	n84i083.psycho.univ-paris5.fr
-NOERROR	pluton.math-info.univ-paris5.fr
-NOERROR	cochin164.cochin.univ-paris5.fr
-NOERROR	cisco1-odonto.odontologie.univ-paris5.fr
-NOERROR	doi-org.frodon.univ-paris5.fr
-NOERROR	sgu65.univ-paris5.fr
-NOERROR	prot01.odontologie.univ-paris5.fr
-NOERROR	pan03.odontologie.univ-paris5.fr
-NOERROR	sg2.iut.univ-paris5.fr
-NOERROR	hist05.odontologie.univ-paris5.fr
-NXDOMAIN	imph2.univ-paris5.fr
-NOERROR	scoldt4.droit.univ-paris5.fr
-NOERROR	kft.staps.univ-paris5.fr
-NOERROR	coriandre.pharmacie.univ-paris5.fr
-NOERROR	n84i157.psycho.univ-paris5.fr
-NOERROR	n84i109.psycho.univ-paris5.fr
-NOERROR	www-ncbi-nlm-nih-gov-s.frodon.univ-paris5.fr
-NOERROR	instrecdt11.droit.univ-paris5.fr
-NOERROR	dip89.univ-paris5.fr
-NOERROR	n1sgir192.univ-paris5.fr
-NOERROR	n1sgir114.univ-paris5.fr
-NOERROR	n84i110.psycho.univ-paris5.fr
-NOERROR	plastic.univ-paris5.fr
-NOERROR	spe0.iut.univ-paris5.fr
-NOERROR	n84i007.psycho.univ-paris5.fr
-NOERROR	dip157.univ-paris5.fr
-NXDOMAIN	referentiel-i.dsi.univ-paris5.fr
-NOERROR	poivre.pharmacie.univ-paris5.fr
-NOERROR	ensped1.droit.univ-paris5.fr
-NXDOMAIN	n1sgir252.univ-paris5.fr
-NOERROR	instrecdt72.droit.univ-paris5.fr
-NOERROR	labo99.pharmacie.univ-paris5.fr
-NOERROR	n84i241.psycho.univ-paris5.fr
-NOERROR	sco23.odontologie.univ-paris5.fr
-NOERROR	n1sgir91.univ-paris5.fr
-NOERROR	cochin186.cochin.univ-paris5.fr
-NOERROR	n84i242.psycho.univ-paris5.fr
-NXDOMAIN	www.matomo.toip.univ-paris5.fr
-NOERROR	www.cnci.univ-paris5.fr
-NOERROR	n84i105.psycho.univ-paris5.fr
-NOERROR	dif98.univ-paris5.fr
-NOERROR	ocetp2.odontologie.univ-paris5.fr
-NOERROR	visio.dsi.univ-paris5.fr
-NOERROR	sig37.univ-paris5.fr
-NOERROR	cochin4.cochin.univ-paris5.fr
-NOERROR	static-pubmed-gov.frodon.univ-paris5.fr
-NOERROR	protoweb.math-info.univ-paris5.fr
-NOERROR	babel.bu.univ-paris5.fr
-NOERROR	n84i051.psycho.univ-paris5.fr
-NOERROR	cs11.iut.univ-paris5.fr
-NOERROR	n1sgir169.univ-paris5.fr
-NOERROR	labo206.pharmacie.univ-paris5.fr
-NOERROR	sup.toip.univ-paris5.fr
-NOERROR	stid-dell1.iut.univ-paris5.fr
-NOERROR	cochin123.cochin.univ-paris5.fr
-NOERROR	n84i098.psycho.univ-paris5.fr
-NOERROR	tulipe.medecine.univ-paris5.fr
-NOERROR	n1sgir101.univ-paris5.fr
-NOERROR	cochin6.cochin.univ-paris5.fr
-NXDOMAIN	horde.etu.univ-paris5.fr
-NOERROR	bib2.iut.univ-paris5.fr
-NOERROR	n1sgir102.univ-paris5.fr
-NOERROR	infomed.cochin.univ-paris5.fr
-NOERROR	labo151.pharmacie.univ-paris5.fr
-NOERROR	cochin182.cochin.univ-paris5.fr
-NOERROR	n84i220.psycho.univ-paris5.fr
-NXDOMAIN	autodiscover.univ-paris5.fr
-NOERROR	epad.math-info.univ-paris5.fr
-NOERROR	n84i036.psycho.univ-paris5.fr
-NOERROR	n84i042.psycho.univ-paris5.fr
-NOERROR	basic.univ-paris5.fr
-NOERROR	app135.jnum.univ-paris5.fr
-NOERROR	ressources.univ-paris5.fr
-NOERROR	bibadm31.droit.univ-paris5.fr
-NOERROR	admin37.pharmacie.univ-paris5.fr
-NOERROR	ic1-4.iut.univ-paris5.fr
-NOERROR	stream2-out.univ-paris5.fr
-NOERROR	nshop.math-info.univ-paris5.fr
-NOERROR	n84i146.psycho.univ-paris5.fr
-NOERROR	servimp.univ-paris5.fr
-NXDOMAIN	vcsapoil.dsi.univ-paris5.fr
-NOERROR	vpt226.univ-paris5.fr
-NOERROR	sit145.univ-paris5.fr
-NOERROR	n84i179.psycho.univ-paris5.fr
-NOERROR	iut04.odontologie.univ-paris5.fr
-NOERROR	ang01.odontologie.univ-paris5.fr
-NOERROR	admin35.pharmacie.univ-paris5.fr
-NOERROR	n1sgir213.univ-paris5.fr
-NOERROR	eda.shs.univ-paris5.fr
-NOERROR	sig15.droit.univ-paris5.fr
-NOERROR	n1sgir175.univ-paris5.fr
-NOERROR	serint3.droit.univ-paris5.fr
-NOERROR	tc-574.iut.univ-paris5.fr
-NOERROR	cochin100.cochin.univ-paris5.fr
-NOERROR	n1sgir97.univ-paris5.fr
-NOERROR	imprech242.univ-paris5.fr
-NOERROR	cairn.info.frodon.univ-paris5.fr
-NOERROR	sfc60.univ-paris5.fr
-NOERROR	labo46.pharmacie.univ-paris5.fr
-NOERROR	n1sgir98.univ-paris5.fr
-NOERROR	rad05.odontologie.univ-paris5.fr
-NOERROR	n84i125.psycho.univ-paris5.fr
-NOERROR	mob12.odontologie.univ-paris5.fr
-NOERROR	ed180.shs.univ-paris5.fr
-NOERROR	dif133.univ-paris5.fr
-NOERROR	n1sgir34.univ-paris5.fr
-NOERROR	n84i200.psycho.univ-paris5.fr
-NOERROR	romulus.psycho.univ-paris5.fr
-NOERROR	dip210.univ-paris5.fr
-NOERROR	n84i181.psycho.univ-paris5.fr
-NOERROR	n84i142.psycho.univ-paris5.fr
-NOERROR	imp-704m.math-info.univ-paris5.fr
-NOERROR	oce13.univ-paris5.fr
-NXDOMAIN	scol25.paris-ouest.univ-paris5.fr
-NOERROR	n1sgir152.univ-paris5.fr
-NOERROR	n1sgir123.univ-paris5.fr
-NOERROR	dse125.univ-paris5.fr
-NOERROR	delta.univ-paris5.fr
-NOERROR	secped3.droit.univ-paris5.fr
-NOERROR	n1sgir206.univ-paris5.fr
-NOERROR	rosenblatt.math-info.univ-paris5.fr
-NOERROR	tempvm4.math-info.univ-paris5.fr
-NOERROR	elgg.univ-paris5.fr
-NOERROR	n84i187.psycho.univ-paris5.fr
-NOERROR	rad02.odontologie.univ-paris5.fr
-NOERROR	cochin130.cochin.univ-paris5.fr
-NOERROR	cochin67.cochin.univ-paris5.fr
-NOERROR	catalperio.bu.univ-paris5.fr
-NOERROR	biomedicale.univ-paris5.fr
-NXDOMAIN	n84i168.psycho.univ-paris5.fr
-NOERROR	cochin132.cochin.univ-paris5.fr
-NOERROR	instrecdt60.droit.univ-paris5.fr
-NOERROR	sri221.univ-paris5.fr
-NOERROR	hpsec.math-info.univ-paris5.fr
-NOERROR	instrecdt59.droit.univ-paris5.fr
-NOERROR	badiane.pharmacie.univ-paris5.fr
-NOERROR	test-azedine.math-info.univ-paris5.fr
-NOERROR	instrecdt119.droit.univ-paris5.fr
-NOERROR	owncloud-etu.math-info.univ-paris5.fr
-NOERROR	labo58.pharmacie.univ-paris5.fr
-NOERROR	labo201.pharmacie.univ-paris5.fr
-NOERROR	n84i230.psycho.univ-paris5.fr
-NOERROR	omphale.pharmacie.univ-paris5.fr
-NOERROR	n84i217.psycho.univ-paris5.fr
-NOERROR	iut225.iut.univ-paris5.fr
-NOERROR	cochin34.cochin.univ-paris5.fr
-NOERROR	curry.pharmacie.univ-paris5.fr
-NOERROR	instrecdt5.droit.univ-paris5.fr
-NOERROR	s11.utls-la-suite.univ-paris5.fr
-NOERROR	cochin191.cochin.univ-paris5.fr
-NOERROR	n84i009.psycho.univ-paris5.fr
-NOERROR	rstudio.math-info.univ-paris5.fr
-NOERROR	n1sgir183.univ-paris5.fr
-NOERROR	n1sgir76.univ-paris5.fr
-NOERROR	n84i013.psycho.univ-paris5.fr
-NOERROR	labo200.pharmacie.univ-paris5.fr
-NOERROR	cs09.iut.univ-paris5.fr
-NOERROR	labo192.pharmacie.univ-paris5.fr
-NOERROR	saphir.ens.math-info.univ-paris5.fr
-NOERROR	n1sgir161.univ-paris5.fr
-NOERROR	bore.math-info.univ-paris5.fr
-NOERROR	em-premium.com.frodon.univ-paris5.fr
-NOERROR	dif184.univ-paris5.fr
-NOERROR	dif111.univ-paris5.fr
-NXDOMAIN	aident.univ-paris5.fr
-NOERROR	pub-info-87.odontologie.univ-paris5.fr
-NOERROR	bioc01.odontologie.univ-paris5.fr
-NOERROR	www.cochin.univ-paris5.fr
-NOERROR	tc-10.iut.univ-paris5.fr
-NOERROR	n1sgir63.univ-paris5.fr
-NOERROR	labo112.pharmacie.univ-paris5.fr
-NOERROR	fin03.odontologie.univ-paris5.fr
-NXDOMAIN	copi1.dsi.univ-paris5.fr
-NOERROR	dip230.univ-paris5.fr
-NOERROR	admin23.pharmacie.univ-paris5.fr
-NOERROR	cochin40.cochin.univ-paris5.fr
-NOERROR	n84i139.psycho.univ-paris5.fr
-NOERROR	cyclope.dsi.univ-paris5.fr
-NOERROR	n84i216.psycho.univ-paris5.fr
-NOERROR	instrecdt69.droit.univ-paris5.fr
-NOERROR	dip86.univ-paris5.fr
-NOERROR	labo154.pharmacie.univ-paris5.fr
-NOERROR	cochin58.cochin.univ-paris5.fr
-NOERROR	iut03.odontologie.univ-paris5.fr
-NOERROR	sgu76.univ-paris5.fr
-NOERROR	linksource-ebsco-com.frodon.univ-paris5.fr
-NOERROR	dip213.univ-paris5.fr
-NOERROR	instrecdt26.droit.univ-paris5.fr
-NOERROR	bibadm8.droit.univ-paris5.fr
-NOERROR	iguanodon.biomedicale.univ-paris5.fr
-NOERROR	cochin10.cochin.univ-paris5.fr
-NOERROR	cochin11.cochin.univ-paris5.fr
-NXDOMAIN	sunda99-i.dsi.univ-paris5.fr
-NOERROR	n1sgir245.univ-paris5.fr
-NOERROR	p.ens.math-info.univ-paris5.fr
-NOERROR	corvisy.public.univ-paris5.fr
-NOERROR	ivre3.bium.univ-paris5.fr
-NOERROR	dseinsc-13.univ-paris5.fr
-NOERROR	vs-trac.iut.univ-paris5.fr
-NOERROR	infosys.iut.univ-paris5.fr
-NOERROR	dif103.univ-paris5.fr
-NOERROR	cisco4-citi2.univ-paris5.fr
-NOERROR	sidious.odontologie.univ-paris5.fr
-NOERROR	bifrost.ens.math-info.univ-paris5.fr
-NOERROR	pro.iut.univ-paris5.fr
-NOERROR	sig22.univ-paris5.fr
-NOERROR	gedpres.univ-paris5.fr
-NOERROR	odontologie.univ-paris5.fr
-NOERROR	coursoir0.iut.univ-paris5.fr
-NOERROR	demodsi.univ-paris5.fr
-NOERROR	chatelet.dsi.univ-paris5.fr
-NOERROR	n1sgir47.univ-paris5.fr
-NOERROR	north.univ-paris5.fr
-NOERROR	borealsun.droit.univ-paris5.fr
-NXDOMAIN	faq.univ-paris5.fr
-NOERROR	sig10.droit.univ-paris5.fr
-NOERROR	cs15.iut.univ-paris5.fr
-NOERROR	vis157.jnum.univ-paris5.fr
-NOERROR	biv.univ-paris5.fr
-NOERROR	neo.math-info.univ-paris5.fr
-NOERROR	tech01.odontologie.univ-paris5.fr
-NOERROR	n84i201.psycho.univ-paris5.fr
-NOERROR	sec02.odontologie.univ-paris5.fr
-NOERROR	n1sgir19.univ-paris5.fr
-NOERROR	scenari37.math-info.univ-paris5.fr
-NOERROR	dif186.univ-paris5.fr
-NOERROR	visio.biomedicale.univ-paris5.fr
-NOERROR	leduc61.dsi.univ-paris5.fr
-NOERROR	chaos.univ-paris5.fr
-NOERROR	jefypharma62.pharmacie.univ-paris5.fr
-NOERROR	vis151.jnum.univ-paris5.fr
-NOERROR	ag201.odontologie.univ-paris5.fr
-NOERROR	owncloud.math-info.univ-paris5.fr
-NOERROR	odon.odontologie.univ-paris5.fr
-NOERROR	n84i020.psycho.univ-paris5.fr
-NOERROR	cochin99.cochin.univ-paris5.fr
-NOERROR	diadex2.math-info.univ-paris5.fr
-NOERROR	labo187.pharmacie.univ-paris5.fr
-NOERROR	adm1.droit.univ-paris5.fr
-NOERROR	desbiol.univ-paris5.fr
-NOERROR	n1sgir164.univ-paris5.fr
-NOERROR	diadex7.math-info.univ-paris5.fr
-NOERROR	cochin91.cochin.univ-paris5.fr
-NOERROR	labo197.pharmacie.univ-paris5.fr
-NOERROR	sfc2018.math-info.univ-paris5.fr
-NOERROR	forge.ens.math-info.univ-paris5.fr
-NXDOMAIN	www.app.toip.univ-paris5.fr
-NOERROR	cochin43.cochin.univ-paris5.fr
-NOERROR	anat01.odontologie.univ-paris5.fr
-NOERROR	n84i004.psycho.univ-paris5.fr
-NOERROR	sgumac73.univ-paris5.fr
-NOERROR	infoadm3.iut.univ-paris5.fr
-NOERROR	cochin53.cochin.univ-paris5.fr
-NOERROR	impdif169.univ-paris5.fr
-NOERROR	n84i145.psycho.univ-paris5.fr
-NXDOMAIN	pcso1.dsi.univ-paris5.fr
-NOERROR	tmpinvt.dsi.univ-paris5.fr
-NOERROR	cochin57.cochin.univ-paris5.fr
-NOERROR	ocetp1.odontologie.univ-paris5.fr
-NOERROR	n1sgir187.univ-paris5.fr
-NOERROR	deugshs1.droit.univ-paris5.fr
-NOERROR	rad01.odontologie.univ-paris5.fr
-NOERROR	plenadis2.math-info.univ-paris5.fr
-NOERROR	odon02.odontologie.univ-paris5.fr
-NOERROR	sig7.droit.univ-paris5.fr
-NOERROR	mob1.odontologie.univ-paris5.fr
-NOERROR	musee201.univ-paris5.fr
-NXDOMAIN	na01.math-info.univ-paris5.fr
-NOERROR	cochin72.cochin.univ-paris5.fr
-NOERROR	n84i087.psycho.univ-paris5.fr
-NXDOMAIN	pccomor.dsi.univ-paris5.fr
-NOERROR	bibadm6.droit.univ-paris5.fr
-NOERROR	bibadm21.droit.univ-paris5.fr
-NOERROR	cochin103.cochin.univ-paris5.fr
-NOERROR	n84i153.psycho.univ-paris5.fr
-NOERROR	n84i049.psycho.univ-paris5.fr
-NOERROR	n84i079.psycho.univ-paris5.fr
-NXDOMAIN	lyncdiscoverinternal.univ-paris5.fr
-NOERROR	menzil.univ-paris5.fr
-NOERROR	ensped2.droit.univ-paris5.fr
-NOERROR	apopha17.pharmacie.univ-paris5.fr
-NOERROR	s04.utls-la-suite.univ-paris5.fr
-NOERROR	canon172.univ-paris5.fr
-NOERROR	socs.math-info.univ-paris5.fr
-NOERROR	servauth.univ-paris5.fr
-NOERROR	instrecdt99.droit.univ-paris5.fr
-NOERROR	calculsip-3.math-info.univ-paris5.fr
-NOERROR	labo225.pharmacie.univ-paris5.fr
-NOERROR	cochin232.cochin.univ-paris5.fr
-NOERROR	n1sgir23.univ-paris5.fr
-NOERROR	n84i143.psycho.univ-paris5.fr
-NOERROR	labo68.pharmacie.univ-paris5.fr
-NOERROR	wwww.math-info.univ-paris5.fr
-NXDOMAIN	ln20pr1.dsi.univ-paris5.fr
-NOERROR	ilumens.biomedicale.univ-paris5.fr
-NOERROR	cochin193.cochin.univ-paris5.fr
-NOERROR	bibadm33.droit.univ-paris5.fr
-NOERROR	cochin172.cochin.univ-paris5.fr
-NOERROR	pclnrs12.biomedicale.univ-paris5.fr
-NOERROR	dif190.univ-paris5.fr
-NOERROR	tc-14.iut.univ-paris5.fr
-NOERROR	instrecdt35.droit.univ-paris5.fr
-NOERROR	lensped1.droit.univ-paris5.fr
-NOERROR	dip209.univ-paris5.fr
-NOERROR	sgumac72.univ-paris5.fr
-NXDOMAIN	intranet.biomedicale.univ-paris5.fr
-NOERROR	dif180.univ-paris5.fr
-NOERROR	bibadm1.droit.univ-paris5.fr
-NOERROR	stech0.iut.univ-paris5.fr
-NOERROR	auth.toip.univ-paris5.fr
-NXDOMAIN	naxos.biomedical.univ-paris5.fr
-NOERROR	vpe196.univ-paris5.fr
-NOERROR	scenarinuxeo.math-info.univ-paris5.fr
-NOERROR	impbur1.univ-paris5.fr
-NOERROR	instrecdt10.droit.univ-paris5.fr
-NOERROR	bibadm24.droit.univ-paris5.fr
-NXDOMAIN	imp-sec.math-info.univ-paris5.fr
-NOERROR	commcfc.iut.univ-paris5.fr
-NOERROR	dse198.univ-paris5.fr
-NOERROR	serv1dip2.univ-paris5.fr
-NOERROR	n1sgir22.univ-paris5.fr
-NOERROR	app142.jnum.univ-paris5.fr
-NOERROR	n1sgir203.univ-paris5.fr
-NOERROR	dif102.univ-paris5.fr
-NOERROR	scoldt12.droit.univ-paris5.fr
-NOERROR	sfc62.univ-paris5.fr
-NOERROR	admin8.pharmacie.univ-paris5.fr
-NOERROR	n1sgir87.univ-paris5.fr
-NOERROR	brs466-011.medecine.univ-paris5.fr
-NOERROR	labo110.pharmacie.univ-paris5.fr
-NOERROR	instrecdt66.droit.univ-paris5.fr
-NOERROR	poitou.iut.univ-paris5.fr
-NOERROR	labo96.pharmacie.univ-paris5.fr
-NOERROR	n1sgir82.univ-paris5.fr
-NOERROR	impdif226.univ-paris5.fr
-NOERROR	comp31.pharmacie.univ-paris5.fr
-NOERROR	labo152.pharmacie.univ-paris5.fr
-NOERROR	outils.univ-paris5.fr
-NOERROR	octane.pharmacie.univ-paris5.fr
-NOERROR	inf-mob-1.iut.univ-paris5.fr
-NXDOMAIN	pcsep150.dsi.univ-paris5.fr
-NOERROR	instrecdt37.droit.univ-paris5.fr
-NOERROR	nuxeodev.univ-paris5.fr
-NOERROR	admin2.pharmacie.univ-paris5.fr
-NOERROR	iut09.odontologie.univ-paris5.fr
-NOERROR	n84i224.psycho.univ-paris5.fr
-NOERROR	anat05.odontologie.univ-paris5.fr
-NOERROR	labo111.pharmacie.univ-paris5.fr
-NOERROR	w3.math-info.univ-paris5.fr
-NOERROR	lamy.fr.frodon.univ-paris5.fr
-NOERROR	cochin195.cochin.univ-paris5.fr
-NOERROR	dif176.univ-paris5.fr
-NOERROR	leduc60.dsi.univ-paris5.fr
-NOERROR	cochin215.cochin.univ-paris5.fr
-NOERROR	imphp1.univ-paris5.fr
-NOERROR	instrecdt87.droit.univ-paris5.fr
-NOERROR	vestale.biomedicale.univ-paris5.fr
-NOERROR	vulcain.math-info.univ-paris5.fr
-NOERROR	dir2.iut.univ-paris5.fr
-NOERROR	dalloz-bibliotheque.fr.frodon.univ-paris5.fr
-NOERROR	math-info.univ-paris5.fr
-NOERROR	cochin70.cochin.univ-paris5.fr
-NOERROR	n1sgir29.univ-paris5.fr
-NOERROR	instrecdt108.droit.univ-paris5.fr
-NOERROR	instrecdt76.droit.univ-paris5.fr
-NOERROR	ged.univ-paris5.fr
-NOERROR	mailhost.math-info.univ-paris5.fr
-NOERROR	n1sgir117.univ-paris5.fr
-NOERROR	pub-info-84.odontologie.univ-paris5.fr
-NOERROR	phd-program-lifesciences-parisdiderot.univ-paris5.fr
-NOERROR	mob05.odontologie.univ-paris5.fr
-NOERROR	scol3.iut.univ-paris5.fr
-NOERROR	diadex6.math-info.univ-paris5.fr
-NOERROR	instrecdt122.droit.univ-paris5.fr
-NOERROR	n1sgir11.univ-paris5.fr
-NOERROR	mstcf1.iut.univ-paris5.fr
-NOERROR	labo47.pharmacie.univ-paris5.fr
-NOERROR	n84i175.psycho.univ-paris5.fr
-NOERROR	d.ens.math-info.univ-paris5.fr
-NOERROR	n84i120.psycho.univ-paris5.fr
-NOERROR	cochin46.cochin.univ-paris5.fr
-NOERROR	calendrier.univ-paris5.fr
-NOERROR	dseinsc-11.univ-paris5.fr
-NOERROR	bal.univ-paris5.fr
-NOERROR	n84i086.psycho.univ-paris5.fr
-NOERROR	cochin151.cochin.univ-paris5.fr
-NOERROR	n84i032.psycho.univ-paris5.fr
-NOERROR	dir02.odontologie.univ-paris5.fr
-NOERROR	mob16.odontologie.univ-paris5.fr
-NOERROR	labo237.pharmacie.univ-paris5.fr
-NOERROR	n84i133.psycho.univ-paris5.fr
-NOERROR	persee.univ-paris5.fr
-NOERROR	vis149.jnum.univ-paris5.fr
-NOERROR	eos.math-info.univ-paris5.fr
-NOERROR	n1sgir210.univ-paris5.fr
-NOERROR	lescartesiens.univ-paris5.fr
-NOERROR	n1sgir151.univ-paris5.fr
-NOERROR	instrecdt77.droit.univ-paris5.fr
-NOERROR	biom04.odontologie.univ-paris5.fr
-NOERROR	n1sgir219.univ-paris5.fr
-NOERROR	visio.univ-paris5.fr
-NOERROR	n84i183.psycho.univ-paris5.fr
-NOERROR	n1sgir165.univ-paris5.fr
-NOERROR	apopha12.pharmacie.univ-paris5.fr
-NOERROR	n1sgir8.univ-paris5.fr
-NOERROR	n1sgir74.univ-paris5.fr
-NOERROR	deugshs10.droit.univ-paris5.fr
-NOERROR	dif134.univ-paris5.fr
-NOERROR	so04p1.odontologie.univ-paris5.fr
-NOERROR	webmail.math-info.univ-paris5.fr
-NOERROR	sig31.univ-paris5.fr
-NOERROR	odf04.odontologie.univ-paris5.fr
-NXDOMAIN	twf.dsi.univ-paris5.fr
-NOERROR	labo91.pharmacie.univ-paris5.fr
-NOERROR	instrecdt80.droit.univ-paris5.fr
-NOERROR	labo52.pharmacie.univ-paris5.fr
-NOERROR	www.medecine.univ-paris5.fr
-NOERROR	instrecdt94.droit.univ-paris5.fr
-NOERROR	infoadm1.iut.univ-paris5.fr
-NOERROR	n84i115.psycho.univ-paris5.fr
-NOERROR	cochin160.cochin.univ-paris5.fr
-NOERROR	n1sgir80.univ-paris5.fr
-NOERROR	cochin102.cochin.univ-paris5.fr
-NOERROR	web-old.bium.univ-paris5.fr
-NOERROR	ent.univ-paris5.fr
-NOERROR	uel.ens.math-info.univ-paris5.fr
-NOERROR	cochin154.cochin.univ-paris5.fr
-NOERROR	cochin63.cochin.univ-paris5.fr
-NOERROR	n84i019.psycho.univ-paris5.fr
-NXDOMAIN	idp.univ-paris5.fr
-NOERROR	biomorph.math-info.univ-paris5.fr
-NOERROR	instrecdt25.droit.univ-paris5.fr
-NOERROR	mobile-bd.iut.univ-paris5.fr
-NOERROR	www.odontologie.univ-paris5.fr
-NOERROR	n84i148.psycho.univ-paris5.fr
-NOERROR	cop-cusp-mi-turing.math-info.univ-paris5.fr
-NOERROR	eb.medecine.univ-paris5.fr
-NOERROR	sec04.odontologie.univ-paris5.fr
-NOERROR	ag101.odontologie.univ-paris5.fr
-NOERROR	infoadm6.iut.univ-paris5.fr
-NOERROR	n84i027.psycho.univ-paris5.fr
-NOERROR	servo-upcg.pharmacie.univ-paris5.fr
-NOERROR	iut230.iut.univ-paris5.fr
-NOERROR	instrecdt79.droit.univ-paris5.fr
-NOERROR	dupip4.odontologie.univ-paris5.fr
-NOERROR	cours02.math-info.univ-paris5.fr
-NOERROR	xcms.pharmacie.univ-paris5.fr
-NOERROR	n84i012.psycho.univ-paris5.fr
-NOERROR	cochin177.cochin.univ-paris5.fr
-NOERROR	erato.math-info.univ-paris5.fr
-NOERROR	matomo.toip.univ-paris5.fr
-NOERROR	pop.univ-paris5.fr
-NOERROR	hist06.odontologie.univ-paris5.fr
-NOERROR	instrecdt89.droit.univ-paris5.fr
-NOERROR	n84i033.psycho.univ-paris5.fr
-NOERROR	diadex5.math-info.univ-paris5.fr
-NOERROR	agr02.odontologie.univ-paris5.fr
-NOERROR	bioc10.odontologie.univ-paris5.fr
-NOERROR	www.biomedicale.univ-paris5.fr
-NOERROR	dif139.univ-paris5.fr
-NOERROR	lensped18.droit.univ-paris5.fr
-NOERROR	odf01.odontologie.univ-paris5.fr
-NOERROR	n84i111.psycho.univ-paris5.fr
-NOERROR	dif137.univ-paris5.fr
-NOERROR	dif109.univ-paris5.fr
-NOERROR	sig16.univ-paris5.fr
-NOERROR	www.pharmacie.univ-paris5.fr
-NOERROR	n84i060.psycho.univ-paris5.fr
-NXDOMAIN	arkanoid.univ-paris5.fr
-NOERROR	dupip3.odontologie.univ-paris5.fr
-NOERROR	ang02.odontologie.univ-paris5.fr
-NOERROR	dif110.univ-paris5.fr
-NOERROR	cido232.univ-paris5.fr
-NOERROR	irpro.odontologie.univ-paris5.fr
-NOERROR	queribus.biomedicale.univ-paris5.fr
-NOERROR	www.suaps.univ-paris5.fr
-NOERROR	mcms02.toip.univ-paris5.fr
-NOERROR	helios.math-info.univ-paris5.fr
-NOERROR	app137.jnum.univ-paris5.fr
-NOERROR	labo179.pharmacie.univ-paris5.fr
-NOERROR	infos.univ-paris5.fr
-NOERROR	finp1.odontologie.univ-paris5.fr
-NOERROR	cochin236.cochin.univ-paris5.fr
-NOERROR	pipa.univ-paris5.fr
-NOERROR	cochin229.cochin.univ-paris5.fr
-NOERROR	dse113.univ-paris5.fr
-NOERROR	www-ncbi-nlm-nih-gov.frodon.univ-paris5.fr
-NOERROR	dif131.univ-paris5.fr
-NOERROR	deploy.univ-paris5.fr
-NOERROR	bibadm35.droit.univ-paris5.fr
-NOERROR	labo101.pharmacie.univ-paris5.fr
-NOERROR	perp2.odontologie.univ-paris5.fr
-NOERROR	scolldt1.droit.univ-paris5.fr
-NOERROR	dseinsc-6.univ-paris5.fr
-NOERROR	n1sgir176.univ-paris5.fr
-NXDOMAIN	jnum07.univ-paris5.fr
-NOERROR	srv09b-info.iut.univ-paris5.fr
-NOERROR	sco26.odontologie.univ-paris5.fr
-NOERROR	cochin98.cochin.univ-paris5.fr
-NOERROR	n84i174.psycho.univ-paris5.fr
-NOERROR	n84i107.psycho.univ-paris5.fr
-NOERROR	s03.utls-la-suite.univ-paris5.fr
-NOERROR	dse126.univ-paris5.fr
-NOERROR	instrecdt38.droit.univ-paris5.fr
-NOERROR	poincare.math-info.univ-paris5.fr
-NOERROR	labo132.pharmacie.univ-paris5.fr
-NOERROR	app139.jnum.univ-paris5.fr
-NOERROR	deugshs8.droit.univ-paris5.fr
-NOERROR	griad1.droit.univ-paris5.fr
-NOERROR	sg4.iut.univ-paris5.fr
-NOERROR	server1.droit.univ-paris5.fr
-NOERROR	red-serv.pharmacie.univ-paris5.fr
-NOERROR	n1sgir207.univ-paris5.fr
-NOERROR	sit143.univ-paris5.fr
-NXDOMAIN	imap-i.infr.univ-paris5.fr
-NOERROR	n84i117.psycho.univ-paris5.fr
-NXDOMAIN	websvc.univ-paris5.fr
-NOERROR	cido237.univ-paris5.fr
-NOERROR	bibadm29.droit.univ-paris5.fr
-NOERROR	mediatheque.univ-paris5.fr
-NOERROR	n1sgir62.univ-paris5.fr
-NOERROR	cochin44.cochin.univ-paris5.fr
-NOERROR	cannelle.pharmacie.univ-paris5.fr
-NOERROR	n1sgir126.univ-paris5.fr
-NOERROR	www.dsi.univ-paris5.fr
-NXDOMAIN	www.referentiel-i.dsi.univ-paris5.fr
-NOERROR	mob06.odontologie.univ-paris5.fr
-NOERROR	casa.math-info.univ-paris5.fr
-NOERROR	cochin179.cochin.univ-paris5.fr
-NOERROR	labo95.pharmacie.univ-paris5.fr
-NOERROR	vis153.jnum.univ-paris5.fr
-NOERROR	instrecdt67.droit.univ-paris5.fr
-NOERROR	ensped4.droit.univ-paris5.fr
-NOERROR	cochin22.cochin.univ-paris5.fr
-NOERROR	labo216.pharmacie.univ-paris5.fr
-NOERROR	dif187.univ-paris5.fr
-NOERROR	bib07.odontologie.univ-paris5.fr
-NOERROR	n1sgir212.univ-paris5.fr
-NOERROR	dse112.univ-paris5.fr
-NOERROR	instrecdt116.droit.univ-paris5.fr
-NXDOMAIN	www.toip.univ-paris5.fr
-NOERROR	cochin158.cochin.univ-paris5.fr
-NOERROR	ex.univ-paris5.fr
-NOERROR	labo218.pharmacie.univ-paris5.fr
-NOERROR	lamyline.fr.frodon.univ-paris5.fr
-NOERROR	impdif84.univ-paris5.fr
-NOERROR	n1sgir44.univ-paris5.fr
-NXDOMAIN	www.meet.toip.univ-paris5.fr
-NOERROR	n1sgir177.univ-paris5.fr
-NOERROR	labo242.pharmacie.univ-paris5.fr
-NOERROR	o.ens.math-info.univ-paris5.fr
-NOERROR	www-annualreviews-org.frodon.univ-paris5.fr
-NOERROR	sit147.univ-paris5.fr
-NOERROR	serint4.droit.univ-paris5.fr
-NOERROR	n1sgir155.univ-paris5.fr
-NOERROR	n84i248.psycho.univ-paris5.fr
-NOERROR	saroumane.univ-paris5.fr
-NOERROR	mcms01.toip.univ-paris5.fr
-NOERROR	impdif42.univ-paris5.fr
-NOERROR	ensped5.droit.univ-paris5.fr
-NOERROR	dip233.univ-paris5.fr
-NOERROR	labo219.pharmacie.univ-paris5.fr
-NOERROR	res02.odontologie.univ-paris5.fr
-NOERROR	apopha14.pharmacie.univ-paris5.fr
-NOERROR	infoadm2.iut.univ-paris5.fr
-NOERROR	cochin218.cochin.univ-paris5.fr
-NOERROR	impdif44.univ-paris5.fr
-NOERROR	dip247.univ-paris5.fr
-NOERROR	apopha13.pharmacie.univ-paris5.fr
-NOERROR	labo133.pharmacie.univ-paris5.fr
-NOERROR	instrecdt95.droit.univ-paris5.fr
-NOERROR	app134.jnum.univ-paris5.fr
-NOERROR	instrecdt112.droit.univ-paris5.fr
-NOERROR	mob15.odontologie.univ-paris5.fr
-NOERROR	labo202.pharmacie.univ-paris5.fr
-NOERROR	n84i235.psycho.univ-paris5.fr
-NOERROR	comexp.iut.univ-paris5.fr
-NOERROR	n1sgir142.univ-paris5.fr
-NOERROR	dip245.univ-paris5.fr
-NOERROR	pan02.odontologie.univ-paris5.fr
-NOERROR	mob07.odontologie.univ-paris5.fr
-NOERROR	out1.staps.univ-paris5.fr
-NOERROR	n84i249.psycho.univ-paris5.fr
-NOERROR	n84i057.psycho.univ-paris5.fr
-NOERROR	bib05.odontologie.univ-paris5.fr
-NXDOMAIN	mycloud.math-info.univ-paris5.fr
-NOERROR	iut10.odontologie.univ-paris5.fr
-NOERROR	n1sgir56.univ-paris5.fr
-NOERROR	n1sgir40.univ-paris5.fr
-NOERROR	n84i227.psycho.univ-paris5.fr
-NOERROR	labo217.pharmacie.univ-paris5.fr
-NOERROR	mob14.odontologie.univ-paris5.fr
-NOERROR	reso36.univ-paris5.fr
-NOERROR	cochin61.cochin.univ-paris5.fr
-NOERROR	archi.iut.univ-paris5.fr
-NOERROR	n1sgir238.univ-paris5.fr
-NOERROR	cours4.odontologie.univ-paris5.fr
-NOERROR	n84i053.psycho.univ-paris5.fr
-NOERROR	instrecdt28.droit.univ-paris5.fr
-NOERROR	mob08.odontologie.univ-paris5.fr
-NOERROR	odonto199.odontologie.univ-paris5.fr
-NOERROR	n84i212.psycho.univ-paris5.fr
-NOERROR	n84i085.psycho.univ-paris5.fr
-NOERROR	hist04.odontologie.univ-paris5.fr
-NOERROR	n1sgir30.univ-paris5.fr
-NOERROR	dif96.univ-paris5.fr
-NOERROR	bib04.odontologie.univ-paris5.fr
-NOERROR	dip239.univ-paris5.fr
-NOERROR	bibadm32.droit.univ-paris5.fr
-NOERROR	biom01.odontologie.univ-paris5.fr
-NOERROR	pcstatmed10.biomedicale.univ-paris5.fr
-NOERROR	newst.univ-paris5.fr
-NOERROR	n1sgir119.univ-paris5.fr
-NOERROR	cochin75.cochin.univ-paris5.fr
-NOERROR	labo138.pharmacie.univ-paris5.fr
-NOERROR	n84i090.psycho.univ-paris5.fr
-NOERROR	n1sgir211.univ-paris5.fr
-NOERROR	c2i.univ-paris5.fr
-NOERROR	pydio.univ-paris5.fr
-NOERROR	n84i077.psycho.univ-paris5.fr
-NOERROR	n84i039.psycho.univ-paris5.fr
-NOERROR	dif128.univ-paris5.fr
-NOERROR	n84i114.psycho.univ-paris5.fr
-NOERROR	serint1.droit.univ-paris5.fr
-NOERROR	n84i089.psycho.univ-paris5.fr
-NOERROR	admin36.pharmacie.univ-paris5.fr
-NOERROR	ensped3.droit.univ-paris5.fr
-NOERROR	labo193.pharmacie.univ-paris5.fr
-NOERROR	sig13.droit.univ-paris5.fr
-NOERROR	n1sgir68.univ-paris5.fr
-NOERROR	impdse207.univ-paris5.fr
-NOERROR	cochin27.cochin.univ-paris5.fr
-NOERROR	vis154.jnum.univ-paris5.fr
-NOERROR	n84i189.psycho.univ-paris5.fr
-NOERROR	app.toip.univ-paris5.fr
-NOERROR	sig12.droit.univ-paris5.fr
-NOERROR	wiley.com.frodon.univ-paris5.fr
-NOERROR	sfc80.univ-paris5.fr
-NOERROR	cm-win.univ-paris5.fr
-NOERROR	dip249.univ-paris5.fr
-NOERROR	cochin60.cochin.univ-paris5.fr
-NOERROR	n84i246.psycho.univ-paris5.fr
-NOERROR	prot04.odontologie.univ-paris5.fr
-NOERROR	drive.ens.math-info.univ-paris5.fr
-NOERROR	dsi213.univ-paris5.fr
-NOERROR	visio-com.univ-paris5.fr
-NOERROR	shiva.univ-paris5.fr
-NOERROR	sec10.odontologie.univ-paris5.fr
-NOERROR	vpe197.univ-paris5.fr
-NOERROR	cochin23.cochin.univ-paris5.fr
-NOERROR	ic03.iut.univ-paris5.fr
-NOERROR	labo98.pharmacie.univ-paris5.fr
-NXDOMAIN	www.asso.univ-paris5.fr
-NXDOMAIN	pcintranet7.dsi.univ-paris5.fr
-NOERROR	n1sgir17.univ-paris5.fr
-NOERROR	dip216.univ-paris5.fr
-NOERROR	rubis.ens.math-info.univ-paris5.fr
-NOERROR	iutbc20.iut.univ-paris5.fr
-NOERROR	louve.psycho.univ-paris5.fr
-NOERROR	n1sgir194.univ-paris5.fr
-NOERROR	n1sgir2.univ-paris5.fr
-NOERROR	n1sgir157.univ-paris5.fr
-NOERROR	n84i180.psycho.univ-paris5.fr
-NXDOMAIN	pcsep151.dsi.univ-paris5.fr
-NXDOMAIN	www.biomedical.univ-paris5.fr
-NOERROR	cochin74.cochin.univ-paris5.fr
-NOERROR	n84i093.psycho.univ-paris5.fr
-NOERROR	suaps230.univ-paris5.fr
-NOERROR	n1sgir135.univ-paris5.fr
-NOERROR	tc-45.iut.univ-paris5.fr
-NXDOMAIN	biv-old.univ-paris5.fr
-NOERROR	instrecdt14.droit.univ-paris5.fr
-NOERROR	n1sgir24.univ-paris5.fr
-NOERROR	n84i213.psycho.univ-paris5.fr
-NOERROR	n84i247.psycho.univ-paris5.fr
-NOERROR	scenari4.math-info.univ-paris5.fr
-NOERROR	sm101.odontologie.univ-paris5.fr
-NOERROR	ingen3.iut.univ-paris5.fr
-NOERROR	labo50.pharmacie.univ-paris5.fr
-NOERROR	connexion-dalloz-fr.frodon.univ-paris5.fr
-NXDOMAIN	www.stdi.iut.univ-paris5.fr
-NXDOMAIN	lipade1.math-info.univ-paris5.fr
-NOERROR	safran.pharmacie.univ-paris5.fr
-NOERROR	impcido238.univ-paris5.fr
-NOERROR	dip238.univ-paris5.fr
-NOERROR	iut05.odontologie.univ-paris5.fr
-NOERROR	nagios.math-info.univ-paris5.fr
-NOERROR	dse197.univ-paris5.fr
-NOERROR	n84i068.psycho.univ-paris5.fr
-NOERROR	iut229.iut.univ-paris5.fr
-NOERROR	ecole-doctorale-medicament.univ-paris5.fr
-NOERROR	cochin20.cochin.univ-paris5.fr
-NOERROR	visio.pharmacie.univ-paris5.fr
-NOERROR	serfin2.droit.univ-paris5.fr
-NOERROR	n1sgir215.univ-paris5.fr
-NOERROR	labo92.pharmacie.univ-paris5.fr
-NOERROR	dse194.univ-paris5.fr
-NXDOMAIN	"www.univ-paris5.fr
-NOERROR	apopha16.pharmacie.univ-paris5.fr
-NOERROR	n1sgir14.univ-paris5.fr
-NOERROR	n84i147.psycho.univ-paris5.fr
-NOERROR	n1sgir216.univ-paris5.fr
-NOERROR	cochin173.cochin.univ-paris5.fr
-NOERROR	instrecdt2.droit.univ-paris5.fr
-NXDOMAIN	pens33.paris-ouest.univ-paris5.fr
-NOERROR	iut245.iut.univ-paris5.fr
-NOERROR	cochin153.cochin.univ-paris5.fr
-NOERROR	n84i137.psycho.univ-paris5.fr
-NOERROR	acsi.iut.univ-paris5.fr
-NOERROR	n84i176.psycho.univ-paris5.fr
-NOERROR	cochin112.cochin.univ-paris5.fr
-NOERROR	dip161.univ-paris5.fr
-NOERROR	dip142.univ-paris5.fr
-NOERROR	n1sgir201.univ-paris5.fr
-NOERROR	dif52.univ-paris5.fr
-NOERROR	n84i072.psycho.univ-paris5.fr
-NOERROR	sit146.univ-paris5.fr
-NOERROR	cumin.pharmacie.univ-paris5.fr
-NOERROR	deugshs9.droit.univ-paris5.fr
-NOERROR	n1sgir4.univ-paris5.fr
-NOERROR	instrecdt106.droit.univ-paris5.fr
-NOERROR	dip212.univ-paris5.fr
-NOERROR	sec03.odontologie.univ-paris5.fr
-NOERROR	deugshs15.droit.univ-paris5.fr
-NOERROR	cochin73.cochin.univ-paris5.fr
-NOERROR	cochin118.cochin.univ-paris5.fr
-NOERROR	bibadm22.droit.univ-paris5.fr
-NOERROR	cochin235.cochin.univ-paris5.fr
-NOERROR	pfsense-externe.math-info.univ-paris5.fr
-NOERROR	dip243.univ-paris5.fr
-NOERROR	rustrel.biomedicale.univ-paris5.fr
-NOERROR	instrecdt104.droit.univ-paris5.fr
-NXDOMAIN	aoc.univ-paris5.fr
-NOERROR	cochin42.cochin.univ-paris5.fr
-NOERROR	app140.jnum.univ-paris5.fr
-NOERROR	visio.staps.univ-paris5.fr
-NOERROR	vis150.jnum.univ-paris5.fr
-NOERROR	labo184.pharmacie.univ-paris5.fr
-NOERROR	cochin66.cochin.univ-paris5.fr
-NOERROR	sec06.odontologie.univ-paris5.fr
-NOERROR	cs16.iut.univ-paris5.fr
-NOERROR	n84i135.psycho.univ-paris5.fr
-NOERROR	ether.univ-paris5.fr
-NOERROR	ic1-1.iut.univ-paris5.fr
-NOERROR	n1sgir93.univ-paris5.fr
-NOERROR	bib03.odontologie.univ-paris5.fr
-NOERROR	n84i043.psycho.univ-paris5.fr
-NOERROR	cochin108.cochin.univ-paris5.fr
-NOERROR	orientationactive.univ-paris5.fr
-NXDOMAIN	scol23.paris-ouest.univ-paris5.fr
-NOERROR	lensped15.droit.univ-paris5.fr
-NOERROR	info124.pharmacie.univ-paris5.fr
-NOERROR	instrecdt115.droit.univ-paris5.fr
-NOERROR	dip217.univ-paris5.fr
-NOERROR	cochin31.cochin.univ-paris5.fr
-NOERROR	app132.jnum.univ-paris5.fr
-NOERROR	cochin25.cochin.univ-paris5.fr
-NOERROR	labo89.pharmacie.univ-paris5.fr
-NXDOMAIN	comp12.paris-ouest.univ-paris5.fr
-NOERROR	n1sgir81.univ-paris5.fr
-NOERROR	n1sgir15.univ-paris5.fr
-NOERROR	n84i124.psycho.univ-paris5.fr
-NOERROR	n84i025.psycho.univ-paris5.fr
-NOERROR	cochin194.cochin.univ-paris5.fr
-NOERROR	hera.math-info.univ-paris5.fr
-NOERROR	jupyter.ens.math-info.univ-paris5.fr
-NOERROR	login.frodon-ng.univ-paris5.fr
-NOERROR	n1sgir154.univ-paris5.fr
-NOERROR	instrecdt29.droit.univ-paris5.fr
-NOERROR	admin10.pharmacie.univ-paris5.fr
-NXDOMAIN	pcnphys23.biomedicale.univ-paris5.fr
-NOERROR	n1sgir208.univ-paris5.fr
-NOERROR	muscade.pharmacie.univ-paris5.fr
-NOERROR	impsri223.univ-paris5.fr
+tom.univ-paris5.fr
+dif188.univ-paris5.fr
+s07.utls-la-suite.univ-paris5.fr
+des-go.medecine.univ-paris5.fr
+meet2.math-info.univ-paris5.fr
+cochin124.cochin.univ-paris5.fr
+n1sgir121.univ-paris5.fr
+instrecdt91.droit.univ-paris5.fr
+n1sgir13.univ-paris5.fr
+n1sgir146.univ-paris5.fr
+scenari-formation.math-info.univ-paris5.fr
+admin39.pharmacie.univ-paris5.fr
+n1sgir120.univ-paris5.fr
+dif136.univ-paris5.fr
+instrecdt41.droit.univ-paris5.fr
+apopha19.pharmacie.univ-paris5.fr
+cochin163.cochin.univ-paris5.fr
+n84i075.psycho.univ-paris5.fr
+aurore.biomedicale.univ-paris5.fr
+stidimp.iut.univ-paris5.fr
+labo137.pharmacie.univ-paris5.fr
+instrecdt24.droit.univ-paris5.fr
+fiori.perso.univ-paris5.fr
+www.fiori.perso.univ-paris5.fr
+cochin217.cochin.univ-paris5.fr
+scol0.iut.univ-paris5.fr
+cochin84.cochin.univ-paris5.fr
+n1sgir99.univ-paris5.fr
+ic1-5.iut.univ-paris5.fr
+meet.univ-paris5.fr
+fin01.odontologie.univ-paris5.fr
+n84i094.psycho.univ-paris5.fr
+labo214.pharmacie.univ-paris5.fr
+cochin89.cochin.univ-paris5.fr
+migre2.math-info.univ-paris5.fr
+iris.pharmacie.univ-paris5.fr
+n84i118.psycho.univ-paris5.fr
+n1sgir129.univ-paris5.fr
+cochin90.cochin.univ-paris5.fr
+ic1-2.iut.univ-paris5.fr
+aglae.biomedicale.univ-paris5.fr
+n1sgir54.univ-paris5.fr
+biom02.odontologie.univ-paris5.fr
+n1sgir88.univ-paris5.fr
+neurphoton099.biomedicale.univ-paris5.fr
+tricycle.dsi.univ-paris5.fr
+cours2.odontologie.univ-paris5.fr
+instrecdt85.droit.univ-paris5.fr
+cochin168.cochin.univ-paris5.fr
+sfc61.univ-paris5.fr
+cochin64.cochin.univ-paris5.fr
+dseinsc-10.univ-paris5.fr
+imp-725a1.math-info.univ-paris5.fr
+tc-572.iut.univ-paris5.fr
+n84i141.psycho.univ-paris5.fr
+cochin178.cochin.univ-paris5.fr
+st-se47.iut.univ-paris5.fr
+sig94.univ-paris5.fr
+adm2.droit.univ-paris5.fr
+n84i011.psycho.univ-paris5.fr
+cochin128.cochin.univ-paris5.fr
+mars.math-info.univ-paris5.fr
+n1sgir174.univ-paris5.fr
+mob04.odontologie.univ-paris5.fr
+anatd2.odontologie.univ-paris5.fr
+web2-old.bium.univ-paris5.fr
+imap.univ-paris5.fr
+n84i084.psycho.univ-paris5.fr
+infoadm5.iut.univ-paris5.fr
+fixe-bd.iut.univ-paris5.fr
+n84i194.psycho.univ-paris5.fr
+out2.dsi.univ-paris5.fr
+eds.a.ebscohost.com.frodon.univ-paris5.fr
+admin40.pharmacie.univ-paris5.fr
+n1sgir3.univ-paris5.fr
+sfc58.univ-paris5.fr
+n84i078.psycho.univ-paris5.fr
+n84i122.psycho.univ-paris5.fr
+n1sgir132.univ-paris5.fr
+n1sgir199.univ-paris5.fr
+labo167.pharmacie.univ-paris5.fr
+bib12.odontologie.univ-paris5.fr
+info125.pharmacie.univ-paris5.fr
+comp21.pharmacie.univ-paris5.fr
+scoldt6.droit.univ-paris5.fr
+admin-serveur60.pharmacie.univ-paris5.fr
+secped1.droit.univ-paris5.fr
+pcnscomp1.biomedicale.univ-paris5.fr
+n1sgir55.univ-paris5.fr
+n1sgir33.univ-paris5.fr
+www.jstor.org.frodon.univ-paris5.fr
+n1sgir181.univ-paris5.fr
+n84i123.psycho.univ-paris5.fr
+n84i202.psycho.univ-paris5.fr
+n1sgir179.univ-paris5.fr
+admin4.pharmacie.univ-paris5.fr
+n1sgir173.univ-paris5.fr
+listes.math-info.univ-paris5.fr
+livestat.univ-paris5.fr
+instrecdt8.droit.univ-paris5.fr
+sig23.univ-paris5.fr
+srv03b-info.iut.univ-paris5.fr
+n84i041.psycho.univ-paris5.fr
+n1sgir222.univ-paris5.fr
+scenari.math-info.univ-paris5.fr
+dip168.univ-paris5.fr
+n1sgir133.univ-paris5.fr
+cochin76.cochin.univ-paris5.fr
+n1sgir128.univ-paris5.fr
+anap02.odontologie.univ-paris5.fr
+comp29.pharmacie.univ-paris5.fr
+ima03.odontologie.univ-paris5.fr
+cochin131.cochin.univ-paris5.fr
+dip235.univ-paris5.fr
+immb01.odontologie.univ-paris5.fr
+n1sgir191.univ-paris5.fr
+www.math-info.univ-paris5.fr
+n1sgir66.univ-paris5.fr
+n1sgir156.univ-paris5.fr
+medcas02.toip.univ-paris5.fr
+neurosciences.biomedicale.univ-paris5.fr
+idv.math-info.univ-paris5.fr
+dip152.univ-paris5.fr
+instrecdt68.droit.univ-paris5.fr
+n1sgir127.univ-paris5.fr
+sig32.univ-paris5.fr
+servrepro12.univ-paris5.fr
+dif108.univ-paris5.fr
+n84i022.psycho.univ-paris5.fr
+doi.org.frodon.univ-paris5.fr
+dip211.univ-paris5.fr
+hist07.odontologie.univ-paris5.fr
+instrecdt36.droit.univ-paris5.fr
+n1sgir78.univ-paris5.fr
+cours1.odontologie.univ-paris5.fr
+visio.odontologie.univ-paris5.fr
+n84i129.psycho.univ-paris5.fr
+tc-dir.iut.univ-paris5.fr
+instrecdt63.droit.univ-paris5.fr
+cochin21.cochin.univ-paris5.fr
+bioc02.odontologie.univ-paris5.fr
+jsdelivr.net.frodon.univ-paris5.fr
+cochin50.cochin.univ-paris5.fr
+n1sgir144.univ-paris5.fr
+jupiter.math-info.univ-paris5.fr
+www-em--premium-com.frodon.univ-paris5.fr
+n84i207.psycho.univ-paris5.fr
+instrecdt92.droit.univ-paris5.fr
+cochin30.cochin.univ-paris5.fr
+dif54.univ-paris5.fr
+lensped13.droit.univ-paris5.fr
+s12.utls-la-suite.univ-paris5.fr
+harpege61.pharmacie.univ-paris5.fr
+z.ens.math-info.univ-paris5.fr
+labo158.pharmacie.univ-paris5.fr
+adm01.odontologie.univ-paris5.fr
+cochin69.cochin.univ-paris5.fr
+ima02.odontologie.univ-paris5.fr
+atlas.math-info.univ-paris5.fr
+cochin88.cochin.univ-paris5.fr
+sco25.odontologie.univ-paris5.fr
+els-cdn.com.frodon.univ-paris5.fr
+n1sgir105.univ-paris5.fr
+scoldt10.droit.univ-paris5.fr
+n1sgir7.univ-paris5.fr
+cochin226.cochin.univ-paris5.fr
+scol.univ-paris5.fr
+n1sgir193.univ-paris5.fr
+n1sgir49.univ-paris5.fr
+n84i238.psycho.univ-paris5.fr
+nivea.psycho.univ-paris5.fr
+odf-test.dsi.univ-paris5.fr
+vod2.univ-paris5.fr
+cochin220.cochin.univ-paris5.fr
+labo85.pharmacie.univ-paris5.fr
+stoppam-serv.pharmacie.univ-paris5.fr
+n84i074.psycho.univ-paris5.fr
+s09.utls-la-suite.univ-paris5.fr
+deugshs13.droit.univ-paris5.fr
+cs18.iut.univ-paris5.fr
+sfc59.univ-paris5.fr
+n84i240.psycho.univ-paris5.fr
+s08.utls-la-suite.univ-paris5.fr
+dseinsc-4.univ-paris5.fr
+cochin167.cochin.univ-paris5.fr
+cochin170.cochin.univ-paris5.fr
+obiwan.univ-paris5.fr
+s05.utls-la-suite.univ-paris5.fr
+n84i104.psycho.univ-paris5.fr
+pub-info-85.odontologie.univ-paris5.fr
+n84i152.psycho.univ-paris5.fr
+cisco1-droit.droit.univ-paris5.fr
+n84i199.psycho.univ-paris5.fr
+cs13.iut.univ-paris5.fr
+dif132.univ-paris5.fr
+labo129.pharmacie.univ-paris5.fr
+algo.iut.univ-paris5.fr
+n1sgir61.univ-paris5.fr
+labo173.pharmacie.univ-paris5.fr
+paprika.pharmacie.univ-paris5.fr
+bibadm7.droit.univ-paris5.fr
+dif95.univ-paris5.fr
+canon173.univ-paris5.fr
+calculsip-4.math-info.univ-paris5.fr
+cochin36.cochin.univ-paris5.fr
+n84i210.psycho.univ-paris5.fr
+calculsip-5.math-info.univ-paris5.fr
+www.jmc.perso.univ-paris5.fr
+n84i024.psycho.univ-paris5.fr
+deugshs12.droit.univ-paris5.fr
+univ-paris5.fr
+iut226.iut.univ-paris5.fr
+n84i237.psycho.univ-paris5.fr
+mars-old.math-info.univ-paris5.fr
+n84i228.psycho.univ-paris5.fr
+bibadm16.droit.univ-paris5.fr
+n84i203.psycho.univ-paris5.fr
+sigmac.univ-paris5.fr
+n84i028.psycho.univ-paris5.fr
+n1sgir72.univ-paris5.fr
+cochin166.cochin.univ-paris5.fr
+n1sgir85.univ-paris5.fr
+instrecdt107.droit.univ-paris5.fr
+serv2dip2.univ-paris5.fr
+scop3.odontologie.univ-paris5.fr
+ingen1.iut.univ-paris5.fr
+n84i069.psycho.univ-paris5.fr
+blogs.univ-paris5.fr
+sco27.odontologie.univ-paris5.fr
+physique.pharmacie.univ-paris5.fr
+jefypharma63.pharmacie.univ-paris5.fr
+labo220.pharmacie.univ-paris5.fr
+cochin121.cochin.univ-paris5.fr
+grenache.pharmacie.univ-paris5.fr
+cochin146.cochin.univ-paris5.fr
+sgupc70.univ-paris5.fr
+search.univ-paris5.fr
+n84i178.psycho.univ-paris5.fr
+n1sgir1.univ-paris5.fr
+n1sgir25.univ-paris5.fr
+sunda02.univ-paris5.fr
+instrecdt93.droit.univ-paris5.fr
+pharmacie.univ-paris5.fr
+labo170.pharmacie.univ-paris5.fr
+dip160.univ-paris5.fr
+labo163.pharmacie.univ-paris5.fr
+impmap5-1.math-info.univ-paris5.fr
+stid-dell2.iut.univ-paris5.fr
+dip88.univ-paris5.fr
+dif179.univ-paris5.fr
+git.math-info.univ-paris5.fr
+n1sgir53.univ-paris5.fr
+naxos.biomedicale.univ-paris5.fr
+n84i026.psycho.univ-paris5.fr
+cfc3.iut.univ-paris5.fr
+cochin126.cochin.univ-paris5.fr
+dip219.univ-paris5.fr
+dip85.univ-paris5.fr
+tc-18.iut.univ-paris5.fr
+n1sgir92.univ-paris5.fr
+instrecdt88.droit.univ-paris5.fr
+bibadm19.droit.univ-paris5.fr
+mediaswk.com.frodon.univ-paris5.fr
+ea4055.medecine.univ-paris5.fr
+perseedb.bu.univ-paris5.fr
+kitticat-02.toip.univ-paris5.fr
+crous0.iut.univ-paris5.fr
+c-soir1.iut.univ-paris5.fr
+edge.math-info.univ-paris5.fr
+dseinsc-8.univ-paris5.fr
+lsecped1.droit.univ-paris5.fr
+dip140.univ-paris5.fr
+anis.pharmacie.univ-paris5.fr
+n84i193.psycho.univ-paris5.fr
+wifi.univ-paris5.fr
+n1sgir160.univ-paris5.fr
+kvm.math-info.univ-paris5.fr
+n1sgir90.univ-paris5.fr
+instrecdt15.droit.univ-paris5.fr
+diadex4.math-info.univ-paris5.fr
+n84i171.psycho.univ-paris5.fr
+go.math-info.univ-paris5.fr
+pers25.pharmacie.univ-paris5.fr
+cochin122.cochin.univ-paris5.fr
+mataram.univ-paris5.fr
+rad03.odontologie.univ-paris5.fr
+dbt9o.univ-paris5.fr
+cido234.univ-paris5.fr
+bauxite2.univ-paris5.fr
+instrecdt57.droit.univ-paris5.fr
+biom03.odontologie.univ-paris5.fr
+instrecdt109.droit.univ-paris5.fr
+bibadm11.droit.univ-paris5.fr
+apps-webofknowledge-com.frodon.univ-paris5.fr
+n84i169.psycho.univ-paris5.fr
+n84i015.psycho.univ-paris5.fr
+n1sgir167.univ-paris5.fr
+medcas.univ-paris5.fr
+n1sgir43.univ-paris5.fr
+cochin176.cochin.univ-paris5.fr
+cours3.odontologie.univ-paris5.fr
+cochin165.cochin.univ-paris5.fr
+comp28.pharmacie.univ-paris5.fr
+ile.univ-paris5.fr
+n84i070.psycho.univ-paris5.fr
+labo195.pharmacie.univ-paris5.fr
+n84i112.psycho.univ-paris5.fr
+sig38.univ-paris5.fr
+app131.jnum.univ-paris5.fr
+n84i096.psycho.univ-paris5.fr
+instrecdt31.droit.univ-paris5.fr
+cochin234.cochin.univ-paris5.fr
+opale.ens.math-info.univ-paris5.fr
+gargamel.iut.univ-paris5.fr
+resolver-ebscohost-com-s.frodon.univ-paris5.fr
+cochin49.cochin.univ-paris5.fr
+sig30.univ-paris5.fr
+scolldt3.droit.univ-paris5.fr
+n1sgir137.univ-paris5.fr
+labo211.pharmacie.univ-paris5.fr
+labo159.pharmacie.univ-paris5.fr
+sig11.droit.univ-paris5.fr
+mstcf0.iut.univ-paris5.fr
+visio1-siege.univ-paris5.fr
+dip248.univ-paris5.fr
+n1sgir214.univ-paris5.fr
+admin43.pharmacie.univ-paris5.fr
+dupip5.odontologie.univ-paris5.fr
+ipweb.univ-paris5.fr
+dip167.univ-paris5.fr
+labo196.pharmacie.univ-paris5.fr
+cs12.iut.univ-paris5.fr
+cochin155.cochin.univ-paris5.fr
+cochin110.cochin.univ-paris5.fr
+sgu67.univ-paris5.fr
+deugshs2.droit.univ-paris5.fr
+n1sgir172.univ-paris5.fr
+s10.utls-la-suite.univ-paris5.fr
+dip218.univ-paris5.fr
+n84i130.psycho.univ-paris5.fr
+instrecdt86.droit.univ-paris5.fr
+n1sgir52.univ-paris5.fr
+labo241.pharmacie.univ-paris5.fr
+bibadm25.droit.univ-paris5.fr
+fmc.univ-paris5.fr
+meet.math-info.univ-paris5.fr
+stdi.iut.univ-paris5.fr
+lensped19.droit.univ-paris5.fr
+n84i218.psycho.univ-paris5.fr
+labo59.pharmacie.univ-paris5.fr
+instrecdt16.droit.univ-paris5.fr
+n1sgir190.univ-paris5.fr
+cfc.iut.univ-paris5.fr
+diadex3.math-info.univ-paris5.fr
+n84i205.psycho.univ-paris5.fr
+sco29.odontologie.univ-paris5.fr
+labo55.pharmacie.univ-paris5.fr
+cochin41.cochin.univ-paris5.fr
+labo185.pharmacie.univ-paris5.fr
+lcrb.pharmacie.univ-paris5.fr
+griad2.droit.univ-paris5.fr
+www-sciencedirect-com.frodon.univ-paris5.fr
+dip234.univ-paris5.fr
+saphyr.ens.math-info.univ-paris5.fr
+dip165.univ-paris5.fr
+n84i050.psycho.univ-paris5.fr
+sgu68.univ-paris5.fr
+didact.dsi.univ-paris5.fr
+rootpc2.iut.univ-paris5.fr
+apopha11.pharmacie.univ-paris5.fr
+res01.odontologie.univ-paris5.fr
+www-old.suaps.univ-paris5.fr
+instrecdt82.droit.univ-paris5.fr
+dip215.univ-paris5.fr
+hal.univ-paris5.fr
+n1sgir198.univ-paris5.fr
+n84i058.psycho.univ-paris5.fr
+dif183.univ-paris5.fr
+n84i198.psycho.univ-paris5.fr
+app129.jnum.univ-paris5.fr
+cochin117.cochin.univ-paris5.fr
+instrecdt1.droit.univ-paris5.fr
+ldap.univ-paris5.fr
+n84i088.psycho.univ-paris5.fr
+dip93.univ-paris5.fr
+scoldt3.droit.univ-paris5.fr
+per01.odontologie.univ-paris5.fr
+admin5.pharmacie.univ-paris5.fr
+dip155.univ-paris5.fr
+cochin238.cochin.univ-paris5.fr
+dif189.univ-paris5.fr
+n1sgir16.univ-paris5.fr
+n1sgir94.univ-paris5.fr
+labo51.pharmacie.univ-paris5.fr
+cochin171.cochin.univ-paris5.fr
+gestion.iut.univ-paris5.fr
+elsevier.com.frodon.univ-paris5.fr
+dseinsc-7.univ-paris5.fr
+cochin137.cochin.univ-paris5.fr
+instrecdt62.droit.univ-paris5.fr
+cochin228.cochin.univ-paris5.fr
+cochin107.cochin.univ-paris5.fr
+n1sgir217.univ-paris5.fr
+www.siumpps.univ-paris5.fr
+stream3-out.univ-paris5.fr
+cido231.univ-paris5.fr
+labo210.pharmacie.univ-paris5.fr
+n84i046.psycho.univ-paris5.fr
+vis158.jnum.univ-paris5.fr
+repro.iut.univ-paris5.fr
+dir01.odontologie.univ-paris5.fr
+bioc03.odontologie.univ-paris5.fr
+bibadm9.droit.univ-paris5.fr
+cochin17.cochin.univ-paris5.fr
+n1sgir149.univ-paris5.fr
+n1sgir18.univ-paris5.fr
+dif224.univ-paris5.fr
+visio-lem.univ-paris5.fr
+tc-4.iut.univ-paris5.fr
+bifrost.math-info.univ-paris5.fr
+instrecdt34.droit.univ-paris5.fr
+assoc205.univ-paris5.fr
+vis152.jnum.univ-paris5.fr
+iut08.odontologie.univ-paris5.fr
+kiwi.univ-paris5.fr
+ensped8.droit.univ-paris5.fr
+sig2.droit.univ-paris5.fr
+adm4.droit.univ-paris5.fr
+n1sgir106.univ-paris5.fr
+dir1.iut.univ-paris5.fr
+dse192.univ-paris5.fr
+instrecdt75.droit.univ-paris5.fr
+n84i252.psycho.univ-paris5.fr
+visiopcc.dsi.univ-paris5.fr
+s01.utls-la-suite.univ-paris5.fr
+n84i031.psycho.univ-paris5.fr
+dupip2.odontologie.univ-paris5.fr
+cochin105.cochin.univ-paris5.fr
+n1sgir200.univ-paris5.fr
+sciencedirect.com.frodon.univ-paris5.fr
+dip244.univ-paris5.fr
+langue.iut.univ-paris5.fr
+n84i233.psycho.univ-paris5.fr
+instrecdt105.droit.univ-paris5.fr
+cochin7.cochin.univ-paris5.fr
+dif181.univ-paris5.fr
+calculsip-1.math-info.univ-paris5.fr
+sco28.odontologie.univ-paris5.fr
+n84i254.psycho.univ-paris5.fr
+n84i209.psycho.univ-paris5.fr
+tc-48.iut.univ-paris5.fr
+cochin56.cochin.univ-paris5.fr
+anatd1.odontologie.univ-paris5.fr
+instrecdt118.droit.univ-paris5.fr
+apopha18.pharmacie.univ-paris5.fr
+n1sgir148.univ-paris5.fr
+cochin51.cochin.univ-paris5.fr
+iut06.odontologie.univ-paris5.fr
+n84i177.psycho.univ-paris5.fr
+infoadm4.iut.univ-paris5.fr
+n1sgir171.univ-paris5.fr
+n1sgir83.univ-paris5.fr
+anat02.odontologie.univ-paris5.fr
+n84i045.psycho.univ-paris5.fr
+www-lextenso-fr-s.frodon.univ-paris5.fr
+n1sgir122.univ-paris5.fr
+cochin83.cochin.univ-paris5.fr
+hd1.math-info.univ-paris5.fr
+admin24.pharmacie.univ-paris5.fr
+sg3.iut.univ-paris5.fr
+comp30.pharmacie.univ-paris5.fr
+n84i056.psycho.univ-paris5.fr
+ensped9.droit.univ-paris5.fr
+n1sgir39.univ-paris5.fr
+ftpw3.droit.univ-paris5.fr
+libermedia.biomedicale.univ-paris5.fr
+n1sgir75.univ-paris5.fr
+n1sgir77.univ-paris5.fr
+labo153.pharmacie.univ-paris5.fr
+ceaq2.univ-paris5.fr
+n84i010.psycho.univ-paris5.fr
+lensped16.droit.univ-paris5.fr
+n84i126.psycho.univ-paris5.fr
+labo236.pharmacie.univ-paris5.fr
+n84i155.psycho.univ-paris5.fr
+stargate01.math-info.univ-paris5.fr
+www.scuio.univ-paris5.fr
+n1sgir28.univ-paris5.fr
+salensdt1.droit.univ-paris5.fr
+app130.jnum.univ-paris5.fr
+ext02.pharmacie.univ-paris5.fr
+meb02.odontologie.univ-paris5.fr
+dsi.univ-paris5.fr
+gw.math-info.univ-paris5.fr
+impcdc-color.math-info.univ-paris5.fr
+sgumac74.univ-paris5.fr
+perseeia.bu.univ-paris5.fr
+scoldt2.droit.univ-paris5.fr
+sig20.univ-paris5.fr
+audition.psycho.univ-paris5.fr
+n84i172.psycho.univ-paris5.fr
+gollum.univ-paris5.fr
+deugshs6.droit.univ-paris5.fr
+ivre4.staps.univ-paris5.fr
+cochin78.cochin.univ-paris5.fr
+omega.pharmacie.univ-paris5.fr
+labo156.pharmacie.univ-paris5.fr
+info126.pharmacie.univ-paris5.fr
+labo57.pharmacie.univ-paris5.fr
+n84i204.psycho.univ-paris5.fr
+labo94.pharmacie.univ-paris5.fr
+n84i103.psycho.univ-paris5.fr
+dse114.univ-paris5.fr
+n1sgir60.univ-paris5.fr
+labo181.pharmacie.univ-paris5.fr
+servauth-old.univ-paris5.fr
+mob10.odontologie.univ-paris5.fr
+fmsilumens.biomedicale.univ-paris5.fr
+bibadm14.droit.univ-paris5.fr
+n84i190.psycho.univ-paris5.fr
+n1sgir64.univ-paris5.fr
+hosting.univ-paris5.fr
+bib1.iut.univ-paris5.fr
+thalia.math-info.univ-paris5.fr
+instrecdt98.droit.univ-paris5.fr
+www-cairn-info.frodon.univ-paris5.fr
+labo177.pharmacie.univ-paris5.fr
+sm102.odontologie.univ-paris5.fr
+labo188.pharmacie.univ-paris5.fr
+impdif223.univ-paris5.fr
+app.univ-paris5.fr
+labo176.pharmacie.univ-paris5.fr
+bioc06.odontologie.univ-paris5.fr
+n1sgir100.univ-paris5.fr
+n84i029.psycho.univ-paris5.fr
+stiddl5.iut.univ-paris5.fr
+cochin104.cochin.univ-paris5.fr
+s06.utls-la-suite.univ-paris5.fr
+instrecdt12.droit.univ-paris5.fr
+cochin169.cochin.univ-paris5.fr
+dse118.univ-paris5.fr
+epsiut.iut.univ-paris5.fr
+n84i253.psycho.univ-paris5.fr
+labo67.pharmacie.univ-paris5.fr
+sig9.droit.univ-paris5.fr
+cochin135.cochin.univ-paris5.fr
+serv1dif.univ-paris5.fr
+labo190.pharmacie.univ-paris5.fr
+labo239.pharmacie.univ-paris5.fr
+tempvm1.math-info.univ-paris5.fr
+lab03.odontologie.univ-paris5.fr
+rootpc.iut.univ-paris5.fr
+n84i226.psycho.univ-paris5.fr
+n1sgir42.univ-paris5.fr
+instrecdt39.droit.univ-paris5.fr
+ftp.math-info.univ-paris5.fr
+imap.math-info.univ-paris5.fr
+cochin3.cochin.univ-paris5.fr
+instrecdt96.droit.univ-paris5.fr
+sig28.univ-paris5.fr
+vis147.jnum.univ-paris5.fr
+projets2.math-info.univ-paris5.fr
+impmap5-sec.math-info.univ-paris5.fr
+cochin32.cochin.univ-paris5.fr
+instrecdt17.droit.univ-paris5.fr
+n1sgir5.univ-paris5.fr
+n84i221.psycho.univ-paris5.fr
+instrecdt113.droit.univ-paris5.fr
+si1.iut.univ-paris5.fr
+frodon-bium.univ-paris5.fr
+infomed81.cochin.univ-paris5.fr
+vestale.pharmacie.univ-paris5.fr
+labo213.pharmacie.univ-paris5.fr
+sec05.odontologie.univ-paris5.fr
+synapse.toip.univ-paris5.fr
+sig.univ-paris5.fr
+cours01.math-info.univ-paris5.fr
+ext03.pharmacie.univ-paris5.fr
+sfc63.univ-paris5.fr
+vdi.ens.math-info.univ-paris5.fr
+n1sgir115.univ-paris5.fr
+difport43.univ-paris5.fr
+labo53.pharmacie.univ-paris5.fr
+sfc81.univ-paris5.fr
+instrecdt101.droit.univ-paris5.fr
+labo164.pharmacie.univ-paris5.fr
+web2.bium.univ-paris5.fr
+n84i182.psycho.univ-paris5.fr
+n1sgir226.univ-paris5.fr
+umvf.cochin.univ-paris5.fr
+vulcain.pharmacie.univ-paris5.fr
+ext01.pharmacie.univ-paris5.fr
+labo169.pharmacie.univ-paris5.fr
+ingen2.iut.univ-paris5.fr
+dip241.univ-paris5.fr
+instrecdt78.droit.univ-paris5.fr
+serfildt1.droit.univ-paris5.fr
+n84i121.psycho.univ-paris5.fr
+cido235.univ-paris5.fr
+anat06.odontologie.univ-paris5.fr
+labo54.pharmacie.univ-paris5.fr
+admin33.pharmacie.univ-paris5.fr
+n1sgir166.univ-paris5.fr
+cochin133.cochin.univ-paris5.fr
+cochin199.cochin.univ-paris5.fr
+n1sgir139.univ-paris5.fr
+instrecdt64.droit.univ-paris5.fr
+vmconsole2.math-info.univ-paris5.fr
+diadex1.math-info.univ-paris5.fr
+epi02.odontologie.univ-paris5.fr
+cochin190.cochin.univ-paris5.fr
+anat03.odontologie.univ-paris5.fr
+south.univ-paris5.fr
+n1sgir130.univ-paris5.fr
+biomtp2.odontologie.univ-paris5.fr
+labo155.pharmacie.univ-paris5.fr
+admin34.pharmacie.univ-paris5.fr
+n1sgir136.univ-paris5.fr
+prev01.odontologie.univ-paris5.fr
+bib3.iut.univ-paris5.fr
+n1sgir89.univ-paris5.fr
+projets4.math-info.univ-paris5.fr
+cochin149.cochin.univ-paris5.fr
+n1sgir162.univ-paris5.fr
+dupip1.odontologie.univ-paris5.fr
+dse116.univ-paris5.fr
+bib10.odontologie.univ-paris5.fr
+dino.math-info.univ-paris5.fr
+dif53.univ-paris5.fr
+gestapc.univ-paris5.fr
+n84i170.psycho.univ-paris5.fr
+pers27.pharmacie.univ-paris5.fr
+imp-704j.math-info.univ-paris5.fr
+dip236.univ-paris5.fr
+n84i038.psycho.univ-paris5.fr
+n1sgir96.univ-paris5.fr
+fax.univ-paris5.fr
+n1sgir195.univ-paris5.fr
+dip164.univ-paris5.fr
+labo84.pharmacie.univ-paris5.fr
+n1sgir141.univ-paris5.fr
+mob11.odontologie.univ-paris5.fr
+instrecdt84.droit.univ-paris5.fr
+sauve.math-info.univ-paris5.fr
+dseinsc-3.univ-paris5.fr
+cochin19.cochin.univ-paris5.fr
+dip240.univ-paris5.fr
+n84i132.psycho.univ-paris5.fr
+superv.math-info.univ-paris5.fr
+ic02.iut.univ-paris5.fr
+adele.biomedicale.univ-paris5.fr
+bisdev2.dsi.univ-paris5.fr
+www.biup.univ-paris5.fr
+ovid.com.frodon.univ-paris5.fr
+rstudio.ens.math-info.univ-paris5.fr
+n1sgir109.univ-paris5.fr
+tempvm3.math-info.univ-paris5.fr
+vis148.jnum.univ-paris5.fr
+labo209.pharmacie.univ-paris5.fr
+dse150.univ-paris5.fr
+sit144.univ-paris5.fr
+lensped14.droit.univ-paris5.fr
+sgu79.univ-paris5.fr
+adm3.droit.univ-paris5.fr
+mcms1.univ-paris5.fr
+n84i113.psycho.univ-paris5.fr
+oce01.odontologie.univ-paris5.fr
+n1sgir41.univ-paris5.fr
+plateau.univ-paris5.fr
+labo183.pharmacie.univ-paris5.fr
+dip237.univ-paris5.fr
+n84i091.psycho.univ-paris5.fr
+labo168.pharmacie.univ-paris5.fr
+addtoany.com.frodon.univ-paris5.fr
+n1sgir32.univ-paris5.fr
+n1sgir196.univ-paris5.fr
+labo45.pharmacie.univ-paris5.fr
+labo97.pharmacie.univ-paris5.fr
+bibadm5.droit.univ-paris5.fr
+dif202.univ-paris5.fr
+sig5.droit.univ-paris5.fr
+scolldt2.droit.univ-paris5.fr
+pcneurophys3.biomedicale.univ-paris5.fr
+www.dalloz-bibliotheque.fr.frodon.univ-paris5.fr
+n84i156.psycho.univ-paris5.fr
+lcrbadm.pharmacie.univ-paris5.fr
+sbc01.toip.univ-paris5.fr
+iut244.iut.univ-paris5.fr
+n84i076.psycho.univ-paris5.fr
+labo166.pharmacie.univ-paris5.fr
+n84i138.psycho.univ-paris5.fr
+n1sgir9.univ-paris5.fr
+cochin197.cochin.univ-paris5.fr
+dif130.univ-paris5.fr
+dse195.univ-paris5.fr
+topix.math-info.univ-paris5.fr
+cochin55.cochin.univ-paris5.fr
+n1sgir107.univ-paris5.fr
+n84i106.psycho.univ-paris5.fr
+n1sgir143.univ-paris5.fr
+acbd.iut.univ-paris5.fr
+bibadm18.droit.univ-paris5.fr
+wkcols.com.frodon.univ-paris5.fr
+serv1cido.univ-paris5.fr
+n1sgir158.univ-paris5.fr
+dif99.univ-paris5.fr
+instrecdt18.droit.univ-paris5.fr
+meb01.odontologie.univ-paris5.fr
+dip163.univ-paris5.fr
+cons02.odontologie.univ-paris5.fr
+visio.presidence.univ-paris5.fr
+webdav2.univ-paris5.fr
+sgumac75.univ-paris5.fr
+cochin115.cochin.univ-paris5.fr
+n84i101.psycho.univ-paris5.fr
+3p5.medecine.univ-paris5.fr
+n84i234.psycho.univ-paris5.fr
+labo48.pharmacie.univ-paris5.fr
+cochin219.cochin.univ-paris5.fr
+dif105.univ-paris5.fr
+n1sgir147.univ-paris5.fr
+stargate02.math-info.univ-paris5.fr
+cochin230.cochin.univ-paris5.fr
+dip170.univ-paris5.fr
+labo136.pharmacie.univ-paris5.fr
+moodlet.univ-paris5.fr
+instrecdt20.droit.univ-paris5.fr
+serfin1.droit.univ-paris5.fr
+stream4-out.univ-paris5.fr
+n84i165.psycho.univ-paris5.fr
+www.bium.univ-paris5.fr
+bibadm17.droit.univ-paris5.fr
+kitticat-01.toip.univ-paris5.fr
+cochin198.cochin.univ-paris5.fr
+labo90.pharmacie.univ-paris5.fr
+ip-doctrinalplus-fr.frodon.univ-paris5.fr
+intrasearch.univ-paris5.fr
+juste.univ-paris5.fr
+chronos.univ-paris5.fr
+lextenso.fr.frodon.univ-paris5.fr
+moodle.univ-paris5.fr
+labo131.pharmacie.univ-paris5.fr
+n1sgir188.univ-paris5.fr
+oce03.odontologie.univ-paris5.fr
+admin38.pharmacie.univ-paris5.fr
+ensped10.droit.univ-paris5.fr
+math.iut.univ-paris5.fr
+ensped6.droit.univ-paris5.fr
+sri222.univ-paris5.fr
+cochin12.cochin.univ-paris5.fr
+labo49.pharmacie.univ-paris5.fr
+sig27.univ-paris5.fr
+anapa1.odontologie.univ-paris5.fr
+labo172.pharmacie.univ-paris5.fr
+instrecdt27.droit.univ-paris5.fr
+n1sgir182.univ-paris5.fr
+n84i003.psycho.univ-paris5.fr
+dif177.univ-paris5.fr
+dif123.univ-paris5.fr
+gollum-out.univ-paris5.fr
+vodka.univ-paris5.fr
+instrecdt71.droit.univ-paris5.fr
+n1sgir185.univ-paris5.fr
+n1sgir36.univ-paris5.fr
+instrecdt90.droit.univ-paris5.fr
+www2.droit.univ-paris5.fr
+dip158.univ-paris5.fr
+cs17.iut.univ-paris5.fr
+ac07.cnci.univ-paris5.fr
+cochin223.cochin.univ-paris5.fr
+cochin157.cochin.univ-paris5.fr
+n84i071.psycho.univ-paris5.fr
+n84i016.psycho.univ-paris5.fr
+labo180.pharmacie.univ-paris5.fr
+imp-704i.math-info.univ-paris5.fr
+webmail.univ-paris5.fr
+migre.math-info.univ-paris5.fr
+biom05.odontologie.univ-paris5.fr
+n84i150.psycho.univ-paris5.fr
+andromache.math-info.univ-paris5.fr
+n1sgir204.univ-paris5.fr
+n1sgir79.univ-paris5.fr
+bibadm4.droit.univ-paris5.fr
+n84i136.psycho.univ-paris5.fr
+n84i197.psycho.univ-paris5.fr
+log01.odontologie.univ-paris5.fr
+ifr71.pharmacie.univ-paris5.fr
+dse206.univ-paris5.fr
+iut07.odontologie.univ-paris5.fr
+survey.math-info.univ-paris5.fr
+n84i173.psycho.univ-paris5.fr
+n1sgir108.univ-paris5.fr
+n84i006.psycho.univ-paris5.fr
+calculsip-2.math-info.univ-paris5.fr
+n84i244.psycho.univ-paris5.fr
+cochin28.cochin.univ-paris5.fr
+dip92.univ-paris5.fr
+n84i034.psycho.univ-paris5.fr
+gwens.ens.math-info.univ-paris5.fr
+n1sgir168.univ-paris5.fr
+ocsinventory-ng.droit.univ-paris5.fr
+www.bu.univ-paris5.fr
+piaget.psycho.univ-paris5.fr
+labo69.pharmacie.univ-paris5.fr
+n84i037.psycho.univ-paris5.fr
+n84i073.psycho.univ-paris5.fr
+infoadm7.iut.univ-paris5.fr
+cochin227.cochin.univ-paris5.fr
+epnet.com.frodon.univ-paris5.fr
+impsgu2.univ-paris5.fr
+www.ens.math-info.univ-paris5.fr
+dalloz.fr.frodon.univ-paris5.fr
+frodon-biup.univ-paris5.fr
+smtp.math-info.univ-paris5.fr
+merlin174.univ-paris5.fr
+deugshs3.droit.univ-paris5.fr
+dif51paye.univ-paris5.fr
+s02.utls-la-suite.univ-paris5.fr
+dif135.univ-paris5.fr
+sgu77.univ-paris5.fr
+instrecdt102.droit.univ-paris5.fr
+cochin24.cochin.univ-paris5.fr
+cochin59.cochin.univ-paris5.fr
+lorraine.iut.univ-paris5.fr
+labo171.pharmacie.univ-paris5.fr
+n1sgir178.univ-paris5.fr
+ddd.dsi.univ-paris5.fr
+n1sgir118.univ-paris5.fr
+springer.com.frodon.univ-paris5.fr
+n84i065.psycho.univ-paris5.fr
+frodon-ng.univ-paris5.fr
+n1sgir140.univ-paris5.fr
+instrecdt32.droit.univ-paris5.fr
+n84i017.psycho.univ-paris5.fr
+n1sgir103.univ-paris5.fr
+cochin239.cochin.univ-paris5.fr
+cochin136.cochin.univ-paris5.fr
+cochin129.cochin.univ-paris5.fr
+descartes.math-info.univ-paris5.fr
+info127.pharmacie.univ-paris5.fr
+n84i005.psycho.univ-paris5.fr
+dse119.univ-paris5.fr
+app138.jnum.univ-paris5.fr
+n84i108.psycho.univ-paris5.fr
+chat2.math-info.univ-paris5.fr
+cochin233.cochin.univ-paris5.fr
+lexique.psycho.univ-paris5.fr
+instrecdt21.droit.univ-paris5.fr
+www.univ-paris5.fr
+app.odontologie.univ-paris5.fr
+n84i222.psycho.univ-paris5.fr
+bibadm12.droit.univ-paris5.fr
+visio-inc.biomedicale.univ-paris5.fr
+odysseus.bium.univ-paris5.fr
+n1sgir125.univ-paris5.fr
+srv-hip4.bium.univ-paris5.fr
+imp-mint.math-info.univ-paris5.fr
+instrecdt81.droit.univ-paris5.fr
+rtp02.toip.univ-paris5.fr
+cochin101.cochin.univ-paris5.fr
+bibadm10.droit.univ-paris5.fr
+lpp.psycho.univ-paris5.fr
+ima01.odontologie.univ-paris5.fr
+visiohj.dsi.univ-paris5.fr
+n1sgir223.univ-paris5.fr
+iut246.iut.univ-paris5.fr
+colibri54.shs.univ-paris5.fr
+n84i099.psycho.univ-paris5.fr
+n84i131.psycho.univ-paris5.fr
+biomtp1.odontologie.univ-paris5.fr
+serint2.droit.univ-paris5.fr
+dse127.univ-paris5.fr
+cochin65.cochin.univ-paris5.fr
+hera4.math-info.univ-paris5.fr
+chat.ens.math-info.univ-paris5.fr
+ic01.iut.univ-paris5.fr
+labo191.pharmacie.univ-paris5.fr
+n84i040.psycho.univ-paris5.fr
+admin41.pharmacie.univ-paris5.fr
+chat.math-info.univ-paris5.fr
+instrecdt22.droit.univ-paris5.fr
+comp32.pharmacie.univ-paris5.fr
+dip208.univ-paris5.fr
+visiofc.dsi.univ-paris5.fr
+cochin87.cochin.univ-paris5.fr
+dse151.univ-paris5.fr
+prot03.odontologie.univ-paris5.fr
+cochin45.cochin.univ-paris5.fr
+gw2.math-info.univ-paris5.fr
+n1sgir186.univ-paris5.fr
+n84i097.psycho.univ-paris5.fr
+bauxite.univ-paris5.fr
+dircsr.iut.univ-paris5.fr
+wysiwym.dsi.univ-paris5.fr
+sfc57.univ-paris5.fr
+app136.jnum.univ-paris5.fr
+www.neurophys.biomedicale.univ-paris5.fr
+bibadm13.droit.univ-paris5.fr
+spp.math-info.univ-paris5.fr
+n1sgir70.univ-paris5.fr
+instrecdt74.droit.univ-paris5.fr
+sfc224.univ-paris5.fr
+cs10.iut.univ-paris5.fr
+vis156.jnum.univ-paris5.fr
+nicolaib.public.univ-paris5.fr
+n1sgir45.univ-paris5.fr
+bibadm15.droit.univ-paris5.fr
+dip220.univ-paris5.fr
+git.ens.math-info.univ-paris5.fr
+anat04.odontologie.univ-paris5.fr
+labo189.pharmacie.univ-paris5.fr
+mars2.math-info.univ-paris5.fr
+sig25.univ-paris5.fr
+cochin93.cochin.univ-paris5.fr
+dedale.pharmacie.univ-paris5.fr
+instrecdt61.droit.univ-paris5.fr
+www-old.pharmacie.univ-paris5.fr
+delta.pharmacie.univ-paris5.fr
+cochin106.cochin.univ-paris5.fr
+labo134.pharmacie.univ-paris5.fr
+n1sgir26.univ-paris5.fr
+dse115.univ-paris5.fr
+n84i195.psycho.univ-paris5.fr
+db10o.univ-paris5.fr
+bibadm28.droit.univ-paris5.fr
+n84i095.psycho.univ-paris5.fr
+admin7.pharmacie.univ-paris5.fr
+ftp.dsi.univ-paris5.fr
+seven.math-info.univ-paris5.fr
+lipade.math-info.univ-paris5.fr
+instrecdt97.droit.univ-paris5.fr
+n1sgir145.univ-paris5.fr
+bartlett.math-info.univ-paris5.fr
+meet.toip.univ-paris5.fr
+n1sgir73.univ-paris5.fr
+cochin94.cochin.univ-paris5.fr
+dip153.univ-paris5.fr
+cochin127.cochin.univ-paris5.fr
+cochin174.cochin.univ-paris5.fr
+hip.bium.univ-paris5.fr
+scoldt11.droit.univ-paris5.fr
+scoldt5.droit.univ-paris5.fr
+www.droit.univ-paris5.fr
+picardie.iut.univ-paris5.fr
+n84i250.psycho.univ-paris5.fr
+janus.math-info.univ-paris5.fr
+nsprvp5.univ-paris5.fr
+rtp01.toip.univ-paris5.fr
+pdc-bium.bium.univ-paris5.fr
+adm5.droit.univ-paris5.fr
+dif185.univ-paris5.fr
+vod.univ-paris5.fr
+dip232.univ-paris5.fr
+n1sgir218.univ-paris5.fr
+sit41.univ-paris5.fr
+dip159.univ-paris5.fr
+instrecdt111.droit.univ-paris5.fr
+cochin175.cochin.univ-paris5.fr
+mob-liasi.iut.univ-paris5.fr
+odf02.odontologie.univ-paris5.fr
+cochin162.cochin.univ-paris5.fr
+n1sgir153.univ-paris5.fr
+lab02.odontologie.univ-paris5.fr
+cochin185.cochin.univ-paris5.fr
+cop-cusp-mi-bichat7.math-info.univ-paris5.fr
+n1sgir111.univ-paris5.fr
+n1sgir12.univ-paris5.fr
+cochin196.cochin.univ-paris5.fr
+deugshs11.droit.univ-paris5.fr
+n84i102.psycho.univ-paris5.fr
+transdata.biomedicale.univ-paris5.fr
+mercure.math-info.univ-paris5.fr
+n84i116.psycho.univ-paris5.fr
+n84i119.psycho.univ-paris5.fr
+ser2dip1.univ-paris5.fr
+n84i018.psycho.univ-paris5.fr
+sgu195.univ-paris5.fr
+ag202.odontologie.univ-paris5.fr
+n1sgir180.univ-paris5.fr
+dip231.univ-paris5.fr
+agr01.odontologie.univ-paris5.fr
+iad.math-info.univ-paris5.fr
+glpi.math-info.univ-paris5.fr
+labo139.pharmacie.univ-paris5.fr
+bioc05.odontologie.univ-paris5.fr
+descartes0.math-info.univ-paris5.fr
+n84i188.psycho.univ-paris5.fr
+instrecdt9.droit.univ-paris5.fr
+dip175.univ-paris5.fr
+cochin152.cochin.univ-paris5.fr
+n84i243.psycho.univ-paris5.fr
+w4.math-info.univ-paris5.fr
+cochin225.cochin.univ-paris5.fr
+serv-cfc.iut.univ-paris5.fr
+rc.univ-paris5.fr
+iut227.iut.univ-paris5.fr
+admin22.pharmacie.univ-paris5.fr
+n1sgir197.univ-paris5.fr
+n84i134.psycho.univ-paris5.fr
+sec01.odontologie.univ-paris5.fr
+n1sgir50.univ-paris5.fr
+cochin231.cochin.univ-paris5.fr
+n84i048.psycho.univ-paris5.fr
+www-old-old.iut.univ-paris5.fr
+cochin187.cochin.univ-paris5.fr
+cochin183.cochin.univ-paris5.fr
+n1sgir112.univ-paris5.fr
+bibadm2.droit.univ-paris5.fr
+n1sgir65.univ-paris5.fr
+cop-cusp-mi-bichat8.math-info.univ-paris5.fr
+dip141.univ-paris5.fr
+ergodata.biomedicale.univ-paris5.fr
+n1sgir170.univ-paris5.fr
+labo186.pharmacie.univ-paris5.fr
+secped2.droit.univ-paris5.fr
+n84i245.psycho.univ-paris5.fr
+cochin26.cochin.univ-paris5.fr
+n84i211.psycho.univ-paris5.fr
+dif104.univ-paris5.fr
+cochin54.cochin.univ-paris5.fr
+n84i035.psycho.univ-paris5.fr
+n84i144.psycho.univ-paris5.fr
+acolad.univ-paris5.fr
+n1sgir86.univ-paris5.fr
+n1sgir116.univ-paris5.fr
+medecine.univ-paris5.fr
+alpha.univ-paris5.fr
+ag102.odontologie.univ-paris5.fr
+labo182.pharmacie.univ-paris5.fr
+bibadm23.droit.univ-paris5.fr
+n1sgir69.univ-paris5.fr
+falkor.bium.univ-paris5.fr
+n84i208.psycho.univ-paris5.fr
+dseinsc-5.univ-paris5.fr
+bib02.odontologie.univ-paris5.fr
+dip171.univ-paris5.fr
+imp01.odontologie.univ-paris5.fr
+sgumac.univ-paris5.fr
+bibo9.odontologie.univ-paris5.fr
+lipade-svn.math-info.univ-paris5.fr
+epi01.odontologie.univ-paris5.fr
+uel.math-info.univ-paris5.fr
+cvirtuel.cochin.univ-paris5.fr
+dif107.univ-paris5.fr
+lsii.iut.univ-paris5.fr
+stiddir.iut.univ-paris5.fr
+cido236.univ-paris5.fr
+instrecdt33.droit.univ-paris5.fr
+n1sgir110.univ-paris5.fr
+app133.jnum.univ-paris5.fr
+n84i229.psycho.univ-paris5.fr
+labo240.pharmacie.univ-paris5.fr
+pub-info-86.odontologie.univ-paris5.fr
+per02.odontologie.univ-paris5.fr
+stidfume.iut.univ-paris5.fr
+cochin85.cochin.univ-paris5.fr
+out1.dsi.univ-paris5.fr
+n1sgir10.univ-paris5.fr
+mahenath.public.univ-paris5.fr
+formations.univ-paris5.fr
+tc-573.iut.univ-paris5.fr
+dip156.univ-paris5.fr
+n84i067.psycho.univ-paris5.fr
+instrecdt7.droit.univ-paris5.fr
+scoldt8.droit.univ-paris5.fr
+bib4.iut.univ-paris5.fr
+cochin147.cochin.univ-paris5.fr
+cochin222.cochin.univ-paris5.fr
+cochin119.cochin.univ-paris5.fr
+bibadm20.droit.univ-paris5.fr
+sco30.odontologie.univ-paris5.fr
+n1sgir131.univ-paris5.fr
+www-jimmunol-org.frodon.univ-paris5.fr
+labo198.pharmacie.univ-paris5.fr
+toip.univ-paris5.fr
+cochin181.cochin.univ-paris5.fr
+cochin71.cochin.univ-paris5.fr
+instrecdt13.droit.univ-paris5.fr
+n1sgir229.univ-paris5.fr
+n1sgir59.univ-paris5.fr
+cochin224.cochin.univ-paris5.fr
+dif48caisse.univ-paris5.fr
+cycle1hp5m.math-info.univ-paris5.fr
+n84i151.psycho.univ-paris5.fr
+tc-46.iut.univ-paris5.fr
+frodon.univ-paris5.fr
+instrecdt110.droit.univ-paris5.fr
+rout-iut.iut.univ-paris5.fr
+pcneurophys2.biomedicale.univ-paris5.fr
+kitticat.toip.univ-paris5.fr
+aria.univ-paris5.fr
+bioc07.odontologie.univ-paris5.fr
+dip87.univ-paris5.fr
+instrecdt40.droit.univ-paris5.fr
+ranck14.univ-paris5.fr
+labo162.pharmacie.univ-paris5.fr
+instrecdt4.droit.univ-paris5.fr
+dse193.univ-paris5.fr
+scolaes2.droit.univ-paris5.fr
+im4ui.toip.univ-paris5.fr
+anasthasia.biomedicale.univ-paris5.fr
+fin02.odontologie.univ-paris5.fr
+eph01.odontologie.univ-paris5.fr
+mob09.odontologie.univ-paris5.fr
+cochin148.cochin.univ-paris5.fr
+cochin82.cochin.univ-paris5.fr
+gevaudan.iut.univ-paris5.fr
+info-dir.iut.univ-paris5.fr
+cido233.univ-paris5.fr
+visio.iut.univ-paris5.fr
+www.public.univ-paris5.fr
+n1sgir113.univ-paris5.fr
+n1sgir220.univ-paris5.fr
+dip162.univ-paris5.fr
+n1sgir124.univ-paris5.fr
+www.shs.univ-paris5.fr
+impres1.univ-paris5.fr
+n84i239.psycho.univ-paris5.fr
+admin44.pharmacie.univ-paris5.fr
+n84i059.psycho.univ-paris5.fr
+n84i232.psycho.univ-paris5.fr
+dupli15.univ-paris5.fr
+cochin14.cochin.univ-paris5.fr
+n84i196.psycho.univ-paris5.fr
+webdav.univ-paris5.fr
+genatlas.medecine.univ-paris5.fr
+sunda01.univ-paris5.fr
+n1sgir224.univ-paris5.fr
+stdi-2.iut.univ-paris5.fr
+dif178.univ-paris5.fr
+bib01.odontologie.univ-paris5.fr
+editodf-test.dsi.univ-paris5.fr
+tektro221.univ-paris5.fr
+admin42.pharmacie.univ-paris5.fr
+labo238.pharmacie.univ-paris5.fr
+static-addtoany-com.frodon.univ-paris5.fr
+n84i054.psycho.univ-paris5.fr
+sbc01-trnk-sfr-gw.toip.univ-paris5.fr
+dip214.univ-paris5.fr
+scoldt9.droit.univ-paris5.fr
+ensped.droit.univ-paris5.fr
+cochin48.cochin.univ-paris5.fr
+marsoul.univ-paris5.fr
+stidserv1.iut.univ-paris5.fr
+dse117.univ-paris5.fr
+tice.univ-paris5.fr
+cochin180.cochin.univ-paris5.fr
+lcrbw.pharmacie.univ-paris5.fr
+bioc08.odontologie.univ-paris5.fr
+per03.odontologie.univ-paris5.fr
+medcas01.toip.univ-paris5.fr
+pcvisio-r01-d676.shs.univ-paris5.fr
+mipomodim.math-info.univ-paris5.fr
+instrecdt30.droit.univ-paris5.fr
+n84i231.psycho.univ-paris5.fr
+sgu78.univ-paris5.fr
+bibadm3.droit.univ-paris5.fr
+lensped17.droit.univ-paris5.fr
+reso34.univ-paris5.fr
+projets3.ens.math-info.univ-paris5.fr
+olympe.univ-paris5.fr
+reso35.univ-paris5.fr
+cochin188.cochin.univ-paris5.fr
+n84i214.psycho.univ-paris5.fr
+brightcove.com.frodon.univ-paris5.fr
+n84i062.psycho.univ-paris5.fr
+www-evidal-fr.frodon.univ-paris5.fr
+cochin33.cochin.univ-paris5.fr
+pascal.math-info.univ-paris5.fr
+sunday.univ-paris5.fr
+l.ens.math-info.univ-paris5.fr
+imp-704n.math-info.univ-paris5.fr
+dif129.univ-paris5.fr
+mob13.odontologie.univ-paris5.fr
+hist03.odontologie.univ-paris5.fr
+n84i185.psycho.univ-paris5.fr
+servback.math-info.univ-paris5.fr
+texlive.math-info.univ-paris5.fr
+instrecdt83.droit.univ-paris5.fr
+descartes1.math-info.univ-paris5.fr
+dip250.univ-paris5.fr
+n1sgir27.univ-paris5.fr
+sig1.droit.univ-paris5.fr
+deugshs4.droit.univ-paris5.fr
+n84i030.psycho.univ-paris5.fr
+per05.odontologie.univ-paris5.fr
+scoldt13.droit.univ-paris5.fr
+sip.univ-paris5.fr
+tftp.univ-paris5.fr
+n1sgir221.univ-paris5.fr
+dir03.odontologie.univ-paris5.fr
+owncloud2.math-info.univ-paris5.fr
+n84i008.psycho.univ-paris5.fr
+cons01.odontologie.univ-paris5.fr
+dip154.univ-paris5.fr
+imp02.odontologie.univ-paris5.fr
+n84i061.psycho.univ-paris5.fr
+cochin92.cochin.univ-paris5.fr
+labo157.pharmacie.univ-paris5.fr
+dif101.univ-paris5.fr
+impsgu1.univ-paris5.fr
+odon01.odontologie.univ-paris5.fr
+reseaupro.univ-paris5.fr
+pers26.pharmacie.univ-paris5.fr
+sig17.univ-paris5.fr
+rad06.odontologie.univ-paris5.fr
+cochin52.cochin.univ-paris5.fr
+dse212.univ-paris5.fr
+cochin221.cochin.univ-paris5.fr
+instrecdt73.droit.univ-paris5.fr
+iut231.iut.univ-paris5.fr
+geosoft.univ-paris5.fr
+visio.psycho.univ-paris5.fr
+n84i225.psycho.univ-paris5.fr
+cochin161.cochin.univ-paris5.fr
+admin9.pharmacie.univ-paris5.fr
+n84i081.psycho.univ-paris5.fr
+bioc04.odontologie.univ-paris5.fr
+cochin111.cochin.univ-paris5.fr
+annuaire.univ-paris5.fr
+audio0.iut.univ-paris5.fr
+cochin15.cochin.univ-paris5.fr
+cop-cusp-mi-sec.math-info.univ-paris5.fr
+cochin189.cochin.univ-paris5.fr
+instrecdt121.droit.univ-paris5.fr
+bu--parisdescartes-cyberlibris-fr.frodon.univ-paris5.fr
+robotic.math-info.univ-paris5.fr
+labo128.pharmacie.univ-paris5.fr
+cochin37.cochin.univ-paris5.fr
+elador.math-info.univ-paris5.fr
+bbb.math-info.univ-paris5.fr
+n84i021.psycho.univ-paris5.fr
+15ans-map5.math-info.univ-paris5.fr
+ceaq.univ-paris5.fr
+n1sgir20.univ-paris5.fr
+mob2.odontologie.univ-paris5.fr
+n1sgir71.univ-paris5.fr
+instrecdt19.droit.univ-paris5.fr
+cop-cusp-mi-repro.math-info.univ-paris5.fr
+kmbrc2.dsi.univ-paris5.fr
+secure-efl-fr.frodon.univ-paris5.fr
+labo56.pharmacie.univ-paris5.fr
+labo175.pharmacie.univ-paris5.fr
+dse148.univ-paris5.fr
+n1sgir31.univ-paris5.fr
+hist02.odontologie.univ-paris5.fr
+apopha20.pharmacie.univ-paris5.fr
+n1sgir38.univ-paris5.fr
+bibadm30.droit.univ-paris5.fr
+scoldt7.droit.univ-paris5.fr
+instrecdt58.droit.univ-paris5.fr
+stream5-out.univ-paris5.fr
+sgu66.univ-paris5.fr
+serv1dip1.univ-paris5.fr
+sonar.math-info.univ-paris5.fr
+www.psycho.univ-paris5.fr
+n1sgir184.univ-paris5.fr
+iut243.iut.univ-paris5.fr
+n84i206.psycho.univ-paris5.fr
+dpt-medecine-generale.medecine.univ-paris5.fr
+n1sgir35.univ-paris5.fr
+paz.math-info.univ-paris5.fr
+deugshs5.droit.univ-paris5.fr
+servinsc.univ-paris5.fr
+n1sgir202.univ-paris5.fr
+n1sgir21.univ-paris5.fr
+dseinsc-12.univ-paris5.fr
+cochin120.cochin.univ-paris5.fr
+cochin39.cochin.univ-paris5.fr
+titan.math-info.univ-paris5.fr
+n84i092.psycho.univ-paris5.fr
+dip242.univ-paris5.fr
+cochin156.cochin.univ-paris5.fr
+n1sgir84.univ-paris5.fr
+instrecdt6.droit.univ-paris5.fr
+lensped12.droit.univ-paris5.fr
+instrecdt103.droit.univ-paris5.fr
+cochin125.cochin.univ-paris5.fr
+n1sgir189.univ-paris5.fr
+sodev.univ-paris5.fr
+n1sgir209.univ-paris5.fr
+labo93.pharmacie.univ-paris5.fr
+dif200.univ-paris5.fr
+avril.pharmacie.univ-paris5.fr
+ldap.ens.math-info.univ-paris5.fr
+scolaes1.droit.univ-paris5.fr
+scol5.iut.univ-paris5.fr
+oce02.odontologie.univ-paris5.fr
+etu.univ-paris5.fr
+labo102.pharmacie.univ-paris5.fr
+dseinsc-1.univ-paris5.fr
+sgumac71.univ-paris5.fr
+cochin79.cochin.univ-paris5.fr
+n84i066.psycho.univ-paris5.fr
+cop-cusp-mi-cuneoa.math-info.univ-paris5.fr
+stiddl9.iut.univ-paris5.fr
+labo194.pharmacie.univ-paris5.fr
+n1sgir159.univ-paris5.fr
+sgu64.univ-paris5.fr
+instrecdt65.droit.univ-paris5.fr
+deugshs7.droit.univ-paris5.fr
+labo135.pharmacie.univ-paris5.fr
+cochin35.cochin.univ-paris5.fr
+sig14.droit.univ-paris5.fr
+cochin68.cochin.univ-paris5.fr
+sig3.droit.univ-paris5.fr
+apopha15.pharmacie.univ-paris5.fr
+sfc56.univ-paris5.fr
+imap1.odontologie.univ-paris5.fr
+tempvm2.math-info.univ-paris5.fr
+dse196.univ-paris5.fr
+cochin237.cochin.univ-paris5.fr
+cs14.iut.univ-paris5.fr
+desinsc-9.univ-paris5.fr
+ed261.psycho.univ-paris5.fr
+instrecdt120.droit.univ-paris5.fr
+labo174.pharmacie.univ-paris5.fr
+labo161.pharmacie.univ-paris5.fr
+macmusee203.univ-paris5.fr
+instrecdt117.droit.univ-paris5.fr
+n84i149.psycho.univ-paris5.fr
+berlin.math-info.univ-paris5.fr
+bibadm26.droit.univ-paris5.fr
+gin.psycho.univ-paris5.fr
+n1sgir51.univ-paris5.fr
+iut228.iut.univ-paris5.fr
+cochin184.cochin.univ-paris5.fr
+mob3.odontologie.univ-paris5.fr
+stid-rech.iut.univ-paris5.fr
+n84i044.psycho.univ-paris5.fr
+cuda.math-info.univ-paris5.fr
+openvpn.math-info.univ-paris5.fr
+office.math-info.univ-paris5.fr
+cochin150.cochin.univ-paris5.fr
+n1sgir95.univ-paris5.fr
+cochin159.cochin.univ-paris5.fr
+dif106.univ-paris5.fr
+sbc02.toip.univ-paris5.fr
+nefeli.math-info.univ-paris5.fr
+n1sgir228.univ-paris5.fr
+www-google-com-s.frodon.univ-paris5.fr
+www.c2i.univ-paris5.fr
+prot02.odontologie.univ-paris5.fr
+panier.univ-paris5.fr
+pub-physio-139.odontologie.univ-paris5.fr
+n84i236.psycho.univ-paris5.fr
+n1sgir163.univ-paris5.fr
+dseinsc-2.univ-paris5.fr
+cisco1-cochin.cochin.univ-paris5.fr
+sig40.univ-paris5.fr
+n84i082.psycho.univ-paris5.fr
+n1sgir57.univ-paris5.fr
+bib11.odontologie.univ-paris5.fr
+instrecdt23.droit.univ-paris5.fr
+cochin38.cochin.univ-paris5.fr
+out2.staps.univ-paris5.fr
+n84i014.psycho.univ-paris5.fr
+cochin47.cochin.univ-paris5.fr
+instrecdt114.droit.univ-paris5.fr
+n1sgir138.univ-paris5.fr
+n84i080.psycho.univ-paris5.fr
+dip90.univ-paris5.fr
+perseefl.bu.univ-paris5.fr
+jupyter.math-info.univ-paris5.fr
+gigue.univ-paris5.fr
+horde.univ-paris5.fr
+dip246.univ-paris5.fr
+ensped7.droit.univ-paris5.fr
+vis145.jnum.univ-paris5.fr
+neurophys.biomedicale.univ-paris5.fr
+db09o.univ-paris5.fr
+so04p2.odontologie.univ-paris5.fr
+n84i223.psycho.univ-paris5.fr
+labo178.pharmacie.univ-paris5.fr
+scoldt1.droit.univ-paris5.fr
+dif182.univ-paris5.fr
+burma2.univ-paris5.fr
+cochin134.cochin.univ-paris5.fr
+dir.odontologie.univ-paris5.fr
+sig8.droit.univ-paris5.fr
+imp-725c1.math-info.univ-paris5.fr
+instrecdt100.droit.univ-paris5.fr
+ens01.odontologie.univ-paris5.fr
+sgu82.univ-paris5.fr
+n1sgir37.univ-paris5.fr
+stdi-3.iut.univ-paris5.fr
+cochin62.cochin.univ-paris5.fr
+n84i154.psycho.univ-paris5.fr
+login.frodon.univ-paris5.fr
+sig26.univ-paris5.fr
+premium.univ-paris5.fr
+impcdc.math-info.univ-paris5.fr
+t.ens.math-info.univ-paris5.fr
+app141.jnum.univ-paris5.fr
+scoldt14.droit.univ-paris5.fr
+dif97.univ-paris5.fr
+n1sgir227.univ-paris5.fr
+admin6.pharmacie.univ-paris5.fr
+cochin86.cochin.univ-paris5.fr
+bib08.odontologie.univ-paris5.fr
+gwmip-virtuel.math-info.univ-paris5.fr
+st-pr48.iut.univ-paris5.fr
+mefteh.dsi.univ-paris5.fr
+cochin16.cochin.univ-paris5.fr
+n84i023.psycho.univ-paris5.fr
+labo165.pharmacie.univ-paris5.fr
+andromeda.math-info.univ-paris5.fr
+instrecdt70.droit.univ-paris5.fr
+lnrs.biomedicale.univ-paris5.fr
+bibadm27.droit.univ-paris5.fr
+n84i055.psycho.univ-paris5.fr
+gargas.biomedicale.univ-paris5.fr
+lab01.odontologie.univ-paris5.fr
+mailhost.univ-paris5.fr
+bibadm34.droit.univ-paris5.fr
+labo212.pharmacie.univ-paris5.fr
+sfc55.univ-paris5.fr
+labo100.pharmacie.univ-paris5.fr
+wwwold.scuio.univ-paris5.fr
+stech1.iut.univ-paris5.fr
+n1sgir150.univ-paris5.fr
+sg0.iut.univ-paris5.fr
+instrecdt3.droit.univ-paris5.fr
+labo88.pharmacie.univ-paris5.fr
+n84i186.psycho.univ-paris5.fr
+n84i215.psycho.univ-paris5.fr
+sec07.odontologie.univ-paris5.fr
+pccprov.univ-paris5.fr
+n1sgir6.univ-paris5.fr
+vis155.jnum.univ-paris5.fr
+sig6.droit.univ-paris5.fr
+dip149.univ-paris5.fr
+cochin29.cochin.univ-paris5.fr
+n1sgir67.univ-paris5.fr
+iut224.iut.univ-paris5.fr
+cochin216.cochin.univ-paris5.fr
+deugshs14.droit.univ-paris5.fr
+cochin97.cochin.univ-paris5.fr
+n84i140.psycho.univ-paris5.fr
+griad.droit.univ-paris5.fr
+intranet.univ-paris5.fr
+cochin77.cochin.univ-paris5.fr
+webmail2.math-info.univ-paris5.fr
+www.uvp5.univ-paris5.fr
+sweet.home.univ-paris5.fr
+dip166.univ-paris5.fr
+vpeimplex.univ-paris5.fr
+dip91.univ-paris5.fr
+dif138.univ-paris5.fr
+n84i047.psycho.univ-paris5.fr
+myriade.math-info.univ-paris5.fr
+n84i219.psycho.univ-paris5.fr
+n84i158.psycho.univ-paris5.fr
+n1sgir46.univ-paris5.fr
+n84i052.psycho.univ-paris5.fr
+cochin116.cochin.univ-paris5.fr
+www.home.univ-paris5.fr
+dif49cg.univ-paris5.fr
+musashi.math-info.univ-paris5.fr
+n84i184.psycho.univ-paris5.fr
+vis146.jnum.univ-paris5.fr
+n1sgir48.univ-paris5.fr
+dse124.univ-paris5.fr
+cochin192.cochin.univ-paris5.fr
+labo199.pharmacie.univ-paris5.fr
+n84i002.psycho.univ-paris5.fr
+rad04.odontologie.univ-paris5.fr
+n84i251.psycho.univ-paris5.fr
+n1sgir58.univ-paris5.fr
+n84i083.psycho.univ-paris5.fr
+pluton.math-info.univ-paris5.fr
+cochin164.cochin.univ-paris5.fr
+cisco1-odonto.odontologie.univ-paris5.fr
+doi-org.frodon.univ-paris5.fr
+sgu65.univ-paris5.fr
+prot01.odontologie.univ-paris5.fr
+pan03.odontologie.univ-paris5.fr
+sg2.iut.univ-paris5.fr
+hist05.odontologie.univ-paris5.fr
+scoldt4.droit.univ-paris5.fr
+kft.staps.univ-paris5.fr
+coriandre.pharmacie.univ-paris5.fr
+n84i157.psycho.univ-paris5.fr
+n84i109.psycho.univ-paris5.fr
+www-ncbi-nlm-nih-gov-s.frodon.univ-paris5.fr
+instrecdt11.droit.univ-paris5.fr
+dip89.univ-paris5.fr
+n1sgir192.univ-paris5.fr
+n1sgir114.univ-paris5.fr
+n84i110.psycho.univ-paris5.fr
+plastic.univ-paris5.fr
+spe0.iut.univ-paris5.fr
+n84i007.psycho.univ-paris5.fr
+dip157.univ-paris5.fr
+poivre.pharmacie.univ-paris5.fr
+ensped1.droit.univ-paris5.fr
+instrecdt72.droit.univ-paris5.fr
+labo99.pharmacie.univ-paris5.fr
+n84i241.psycho.univ-paris5.fr
+sco23.odontologie.univ-paris5.fr
+n1sgir91.univ-paris5.fr
+cochin186.cochin.univ-paris5.fr
+n84i242.psycho.univ-paris5.fr
+www.cnci.univ-paris5.fr
+n84i105.psycho.univ-paris5.fr
+dif98.univ-paris5.fr
+ocetp2.odontologie.univ-paris5.fr
+visio.dsi.univ-paris5.fr
+sig37.univ-paris5.fr
+cochin4.cochin.univ-paris5.fr
+static-pubmed-gov.frodon.univ-paris5.fr
+protoweb.math-info.univ-paris5.fr
+babel.bu.univ-paris5.fr
+n84i051.psycho.univ-paris5.fr
+cs11.iut.univ-paris5.fr
+n1sgir169.univ-paris5.fr
+labo206.pharmacie.univ-paris5.fr
+sup.toip.univ-paris5.fr
+stid-dell1.iut.univ-paris5.fr
+cochin123.cochin.univ-paris5.fr
+n84i098.psycho.univ-paris5.fr
+tulipe.medecine.univ-paris5.fr
+n1sgir101.univ-paris5.fr
+cochin6.cochin.univ-paris5.fr
+bib2.iut.univ-paris5.fr
+n1sgir102.univ-paris5.fr
+infomed.cochin.univ-paris5.fr
+labo151.pharmacie.univ-paris5.fr
+cochin182.cochin.univ-paris5.fr
+n84i220.psycho.univ-paris5.fr
+epad.math-info.univ-paris5.fr
+n84i036.psycho.univ-paris5.fr
+n84i042.psycho.univ-paris5.fr
+basic.univ-paris5.fr
+app135.jnum.univ-paris5.fr
+ressources.univ-paris5.fr
+bibadm31.droit.univ-paris5.fr
+admin37.pharmacie.univ-paris5.fr
+ic1-4.iut.univ-paris5.fr
+stream2-out.univ-paris5.fr
+nshop.math-info.univ-paris5.fr
+n84i146.psycho.univ-paris5.fr
+servimp.univ-paris5.fr
+vpt226.univ-paris5.fr
+sit145.univ-paris5.fr
+n84i179.psycho.univ-paris5.fr
+iut04.odontologie.univ-paris5.fr
+ang01.odontologie.univ-paris5.fr
+admin35.pharmacie.univ-paris5.fr
+n1sgir213.univ-paris5.fr
+eda.shs.univ-paris5.fr
+sig15.droit.univ-paris5.fr
+n1sgir175.univ-paris5.fr
+serint3.droit.univ-paris5.fr
+tc-574.iut.univ-paris5.fr
+cochin100.cochin.univ-paris5.fr
+n1sgir97.univ-paris5.fr
+imprech242.univ-paris5.fr
+cairn.info.frodon.univ-paris5.fr
+sfc60.univ-paris5.fr
+labo46.pharmacie.univ-paris5.fr
+n1sgir98.univ-paris5.fr
+rad05.odontologie.univ-paris5.fr
+n84i125.psycho.univ-paris5.fr
+mob12.odontologie.univ-paris5.fr
+ed180.shs.univ-paris5.fr
+dif133.univ-paris5.fr
+n1sgir34.univ-paris5.fr
+n84i200.psycho.univ-paris5.fr
+romulus.psycho.univ-paris5.fr
+dip210.univ-paris5.fr
+n84i181.psycho.univ-paris5.fr
+n84i142.psycho.univ-paris5.fr
+imp-704m.math-info.univ-paris5.fr
+oce13.univ-paris5.fr
+n1sgir152.univ-paris5.fr
+n1sgir123.univ-paris5.fr
+dse125.univ-paris5.fr
+delta.univ-paris5.fr
+secped3.droit.univ-paris5.fr
+n1sgir206.univ-paris5.fr
+rosenblatt.math-info.univ-paris5.fr
+tempvm4.math-info.univ-paris5.fr
+elgg.univ-paris5.fr
+n84i187.psycho.univ-paris5.fr
+rad02.odontologie.univ-paris5.fr
+cochin130.cochin.univ-paris5.fr
+cochin67.cochin.univ-paris5.fr
+catalperio.bu.univ-paris5.fr
+biomedicale.univ-paris5.fr
+cochin132.cochin.univ-paris5.fr
+instrecdt60.droit.univ-paris5.fr
+sri221.univ-paris5.fr
+hpsec.math-info.univ-paris5.fr
+instrecdt59.droit.univ-paris5.fr
+badiane.pharmacie.univ-paris5.fr
+test-azedine.math-info.univ-paris5.fr
+instrecdt119.droit.univ-paris5.fr
+owncloud-etu.math-info.univ-paris5.fr
+labo58.pharmacie.univ-paris5.fr
+labo201.pharmacie.univ-paris5.fr
+n84i230.psycho.univ-paris5.fr
+omphale.pharmacie.univ-paris5.fr
+n84i217.psycho.univ-paris5.fr
+iut225.iut.univ-paris5.fr
+cochin34.cochin.univ-paris5.fr
+curry.pharmacie.univ-paris5.fr
+instrecdt5.droit.univ-paris5.fr
+s11.utls-la-suite.univ-paris5.fr
+cochin191.cochin.univ-paris5.fr
+n84i009.psycho.univ-paris5.fr
+rstudio.math-info.univ-paris5.fr
+n1sgir183.univ-paris5.fr
+n1sgir76.univ-paris5.fr
+n84i013.psycho.univ-paris5.fr
+labo200.pharmacie.univ-paris5.fr
+cs09.iut.univ-paris5.fr
+labo192.pharmacie.univ-paris5.fr
+saphir.ens.math-info.univ-paris5.fr
+n1sgir161.univ-paris5.fr
+bore.math-info.univ-paris5.fr
+em-premium.com.frodon.univ-paris5.fr
+dif184.univ-paris5.fr
+dif111.univ-paris5.fr
+pub-info-87.odontologie.univ-paris5.fr
+bioc01.odontologie.univ-paris5.fr
+www.cochin.univ-paris5.fr
+tc-10.iut.univ-paris5.fr
+n1sgir63.univ-paris5.fr
+labo112.pharmacie.univ-paris5.fr
+fin03.odontologie.univ-paris5.fr
+dip230.univ-paris5.fr
+admin23.pharmacie.univ-paris5.fr
+cochin40.cochin.univ-paris5.fr
+n84i139.psycho.univ-paris5.fr
+cyclope.dsi.univ-paris5.fr
+n84i216.psycho.univ-paris5.fr
+instrecdt69.droit.univ-paris5.fr
+dip86.univ-paris5.fr
+labo154.pharmacie.univ-paris5.fr
+cochin58.cochin.univ-paris5.fr
+iut03.odontologie.univ-paris5.fr
+sgu76.univ-paris5.fr
+linksource-ebsco-com.frodon.univ-paris5.fr
+dip213.univ-paris5.fr
+instrecdt26.droit.univ-paris5.fr
+bibadm8.droit.univ-paris5.fr
+iguanodon.biomedicale.univ-paris5.fr
+cochin10.cochin.univ-paris5.fr
+cochin11.cochin.univ-paris5.fr
+n1sgir245.univ-paris5.fr
+p.ens.math-info.univ-paris5.fr
+corvisy.public.univ-paris5.fr
+ivre3.bium.univ-paris5.fr
+dseinsc-13.univ-paris5.fr
+vs-trac.iut.univ-paris5.fr
+infosys.iut.univ-paris5.fr
+dif103.univ-paris5.fr
+cisco4-citi2.univ-paris5.fr
+sidious.odontologie.univ-paris5.fr
+bifrost.ens.math-info.univ-paris5.fr
+pro.iut.univ-paris5.fr
+sig22.univ-paris5.fr
+gedpres.univ-paris5.fr
+odontologie.univ-paris5.fr
+coursoir0.iut.univ-paris5.fr
+demodsi.univ-paris5.fr
+chatelet.dsi.univ-paris5.fr
+n1sgir47.univ-paris5.fr
+north.univ-paris5.fr
+borealsun.droit.univ-paris5.fr
+sig10.droit.univ-paris5.fr
+cs15.iut.univ-paris5.fr
+vis157.jnum.univ-paris5.fr
+biv.univ-paris5.fr
+neo.math-info.univ-paris5.fr
+tech01.odontologie.univ-paris5.fr
+n84i201.psycho.univ-paris5.fr
+sec02.odontologie.univ-paris5.fr
+n1sgir19.univ-paris5.fr
+scenari37.math-info.univ-paris5.fr
+dif186.univ-paris5.fr
+visio.biomedicale.univ-paris5.fr
+leduc61.dsi.univ-paris5.fr
+chaos.univ-paris5.fr
+jefypharma62.pharmacie.univ-paris5.fr
+vis151.jnum.univ-paris5.fr
+ag201.odontologie.univ-paris5.fr
+owncloud.math-info.univ-paris5.fr
+odon.odontologie.univ-paris5.fr
+n84i020.psycho.univ-paris5.fr
+cochin99.cochin.univ-paris5.fr
+diadex2.math-info.univ-paris5.fr
+labo187.pharmacie.univ-paris5.fr
+adm1.droit.univ-paris5.fr
+desbiol.univ-paris5.fr
+n1sgir164.univ-paris5.fr
+diadex7.math-info.univ-paris5.fr
+cochin91.cochin.univ-paris5.fr
+labo197.pharmacie.univ-paris5.fr
+sfc2018.math-info.univ-paris5.fr
+forge.ens.math-info.univ-paris5.fr
+cochin43.cochin.univ-paris5.fr
+anat01.odontologie.univ-paris5.fr
+n84i004.psycho.univ-paris5.fr
+sgumac73.univ-paris5.fr
+infoadm3.iut.univ-paris5.fr
+cochin53.cochin.univ-paris5.fr
+impdif169.univ-paris5.fr
+n84i145.psycho.univ-paris5.fr
+tmpinvt.dsi.univ-paris5.fr
+cochin57.cochin.univ-paris5.fr
+ocetp1.odontologie.univ-paris5.fr
+n1sgir187.univ-paris5.fr
+deugshs1.droit.univ-paris5.fr
+rad01.odontologie.univ-paris5.fr
+plenadis2.math-info.univ-paris5.fr
+odon02.odontologie.univ-paris5.fr
+sig7.droit.univ-paris5.fr
+mob1.odontologie.univ-paris5.fr
+musee201.univ-paris5.fr
+cochin72.cochin.univ-paris5.fr
+n84i087.psycho.univ-paris5.fr
+bibadm6.droit.univ-paris5.fr
+bibadm21.droit.univ-paris5.fr
+cochin103.cochin.univ-paris5.fr
+n84i153.psycho.univ-paris5.fr
+n84i049.psycho.univ-paris5.fr
+n84i079.psycho.univ-paris5.fr
+menzil.univ-paris5.fr
+ensped2.droit.univ-paris5.fr
+apopha17.pharmacie.univ-paris5.fr
+s04.utls-la-suite.univ-paris5.fr
+canon172.univ-paris5.fr
+socs.math-info.univ-paris5.fr
+servauth.univ-paris5.fr
+instrecdt99.droit.univ-paris5.fr
+calculsip-3.math-info.univ-paris5.fr
+labo225.pharmacie.univ-paris5.fr
+cochin232.cochin.univ-paris5.fr
+n1sgir23.univ-paris5.fr
+n84i143.psycho.univ-paris5.fr
+labo68.pharmacie.univ-paris5.fr
+wwww.math-info.univ-paris5.fr
+ilumens.biomedicale.univ-paris5.fr
+cochin193.cochin.univ-paris5.fr
+bibadm33.droit.univ-paris5.fr
+cochin172.cochin.univ-paris5.fr
+pclnrs12.biomedicale.univ-paris5.fr
+dif190.univ-paris5.fr
+tc-14.iut.univ-paris5.fr
+instrecdt35.droit.univ-paris5.fr
+lensped1.droit.univ-paris5.fr
+dip209.univ-paris5.fr
+sgumac72.univ-paris5.fr
+dif180.univ-paris5.fr
+bibadm1.droit.univ-paris5.fr
+stech0.iut.univ-paris5.fr
+auth.toip.univ-paris5.fr
+vpe196.univ-paris5.fr
+scenarinuxeo.math-info.univ-paris5.fr
+impbur1.univ-paris5.fr
+instrecdt10.droit.univ-paris5.fr
+bibadm24.droit.univ-paris5.fr
+commcfc.iut.univ-paris5.fr
+dse198.univ-paris5.fr
+serv1dip2.univ-paris5.fr
+n1sgir22.univ-paris5.fr
+app142.jnum.univ-paris5.fr
+n1sgir203.univ-paris5.fr
+dif102.univ-paris5.fr
+scoldt12.droit.univ-paris5.fr
+sfc62.univ-paris5.fr
+admin8.pharmacie.univ-paris5.fr
+n1sgir87.univ-paris5.fr
+brs466-011.medecine.univ-paris5.fr
+labo110.pharmacie.univ-paris5.fr
+instrecdt66.droit.univ-paris5.fr
+poitou.iut.univ-paris5.fr
+labo96.pharmacie.univ-paris5.fr
+n1sgir82.univ-paris5.fr
+impdif226.univ-paris5.fr
+comp31.pharmacie.univ-paris5.fr
+labo152.pharmacie.univ-paris5.fr
+outils.univ-paris5.fr
+octane.pharmacie.univ-paris5.fr
+inf-mob-1.iut.univ-paris5.fr
+instrecdt37.droit.univ-paris5.fr
+nuxeodev.univ-paris5.fr
+admin2.pharmacie.univ-paris5.fr
+iut09.odontologie.univ-paris5.fr
+n84i224.psycho.univ-paris5.fr
+anat05.odontologie.univ-paris5.fr
+labo111.pharmacie.univ-paris5.fr
+w3.math-info.univ-paris5.fr
+lamy.fr.frodon.univ-paris5.fr
+cochin195.cochin.univ-paris5.fr
+dif176.univ-paris5.fr
+leduc60.dsi.univ-paris5.fr
+cochin215.cochin.univ-paris5.fr
+imphp1.univ-paris5.fr
+instrecdt87.droit.univ-paris5.fr
+vestale.biomedicale.univ-paris5.fr
+vulcain.math-info.univ-paris5.fr
+dir2.iut.univ-paris5.fr
+dalloz-bibliotheque.fr.frodon.univ-paris5.fr
+math-info.univ-paris5.fr
+cochin70.cochin.univ-paris5.fr
+n1sgir29.univ-paris5.fr
+instrecdt108.droit.univ-paris5.fr
+instrecdt76.droit.univ-paris5.fr
+ged.univ-paris5.fr
+mailhost.math-info.univ-paris5.fr
+n1sgir117.univ-paris5.fr
+pub-info-84.odontologie.univ-paris5.fr
+phd-program-lifesciences-parisdiderot.univ-paris5.fr
+mob05.odontologie.univ-paris5.fr
+scol3.iut.univ-paris5.fr
+diadex6.math-info.univ-paris5.fr
+instrecdt122.droit.univ-paris5.fr
+n1sgir11.univ-paris5.fr
+mstcf1.iut.univ-paris5.fr
+labo47.pharmacie.univ-paris5.fr
+n84i175.psycho.univ-paris5.fr
+d.ens.math-info.univ-paris5.fr
+n84i120.psycho.univ-paris5.fr
+cochin46.cochin.univ-paris5.fr
+calendrier.univ-paris5.fr
+dseinsc-11.univ-paris5.fr
+bal.univ-paris5.fr
+n84i086.psycho.univ-paris5.fr
+cochin151.cochin.univ-paris5.fr
+n84i032.psycho.univ-paris5.fr
+dir02.odontologie.univ-paris5.fr
+mob16.odontologie.univ-paris5.fr
+labo237.pharmacie.univ-paris5.fr
+n84i133.psycho.univ-paris5.fr
+persee.univ-paris5.fr
+vis149.jnum.univ-paris5.fr
+eos.math-info.univ-paris5.fr
+n1sgir210.univ-paris5.fr
+lescartesiens.univ-paris5.fr
+n1sgir151.univ-paris5.fr
+instrecdt77.droit.univ-paris5.fr
+biom04.odontologie.univ-paris5.fr
+n1sgir219.univ-paris5.fr
+visio.univ-paris5.fr
+n84i183.psycho.univ-paris5.fr
+n1sgir165.univ-paris5.fr
+apopha12.pharmacie.univ-paris5.fr
+n1sgir8.univ-paris5.fr
+n1sgir74.univ-paris5.fr
+deugshs10.droit.univ-paris5.fr
+dif134.univ-paris5.fr
+so04p1.odontologie.univ-paris5.fr
+webmail.math-info.univ-paris5.fr
+sig31.univ-paris5.fr
+odf04.odontologie.univ-paris5.fr
+labo91.pharmacie.univ-paris5.fr
+instrecdt80.droit.univ-paris5.fr
+labo52.pharmacie.univ-paris5.fr
+www.medecine.univ-paris5.fr
+instrecdt94.droit.univ-paris5.fr
+infoadm1.iut.univ-paris5.fr
+n84i115.psycho.univ-paris5.fr
+cochin160.cochin.univ-paris5.fr
+n1sgir80.univ-paris5.fr
+cochin102.cochin.univ-paris5.fr
+web-old.bium.univ-paris5.fr
+ent.univ-paris5.fr
+uel.ens.math-info.univ-paris5.fr
+cochin154.cochin.univ-paris5.fr
+cochin63.cochin.univ-paris5.fr
+n84i019.psycho.univ-paris5.fr
+biomorph.math-info.univ-paris5.fr
+instrecdt25.droit.univ-paris5.fr
+mobile-bd.iut.univ-paris5.fr
+www.odontologie.univ-paris5.fr
+n84i148.psycho.univ-paris5.fr
+cop-cusp-mi-turing.math-info.univ-paris5.fr
+eb.medecine.univ-paris5.fr
+sec04.odontologie.univ-paris5.fr
+ag101.odontologie.univ-paris5.fr
+infoadm6.iut.univ-paris5.fr
+n84i027.psycho.univ-paris5.fr
+servo-upcg.pharmacie.univ-paris5.fr
+iut230.iut.univ-paris5.fr
+instrecdt79.droit.univ-paris5.fr
+dupip4.odontologie.univ-paris5.fr
+cours02.math-info.univ-paris5.fr
+xcms.pharmacie.univ-paris5.fr
+n84i012.psycho.univ-paris5.fr
+cochin177.cochin.univ-paris5.fr
+erato.math-info.univ-paris5.fr
+matomo.toip.univ-paris5.fr
+pop.univ-paris5.fr
+hist06.odontologie.univ-paris5.fr
+instrecdt89.droit.univ-paris5.fr
+n84i033.psycho.univ-paris5.fr
+diadex5.math-info.univ-paris5.fr
+agr02.odontologie.univ-paris5.fr
+bioc10.odontologie.univ-paris5.fr
+www.biomedicale.univ-paris5.fr
+dif139.univ-paris5.fr
+lensped18.droit.univ-paris5.fr
+odf01.odontologie.univ-paris5.fr
+n84i111.psycho.univ-paris5.fr
+dif137.univ-paris5.fr
+dif109.univ-paris5.fr
+sig16.univ-paris5.fr
+www.pharmacie.univ-paris5.fr
+n84i060.psycho.univ-paris5.fr
+dupip3.odontologie.univ-paris5.fr
+ang02.odontologie.univ-paris5.fr
+dif110.univ-paris5.fr
+cido232.univ-paris5.fr
+irpro.odontologie.univ-paris5.fr
+queribus.biomedicale.univ-paris5.fr
+www.suaps.univ-paris5.fr
+mcms02.toip.univ-paris5.fr
+helios.math-info.univ-paris5.fr
+app137.jnum.univ-paris5.fr
+labo179.pharmacie.univ-paris5.fr
+infos.univ-paris5.fr
+finp1.odontologie.univ-paris5.fr
+cochin236.cochin.univ-paris5.fr
+pipa.univ-paris5.fr
+cochin229.cochin.univ-paris5.fr
+dse113.univ-paris5.fr
+www-ncbi-nlm-nih-gov.frodon.univ-paris5.fr
+dif131.univ-paris5.fr
+deploy.univ-paris5.fr
+bibadm35.droit.univ-paris5.fr
+labo101.pharmacie.univ-paris5.fr
+perp2.odontologie.univ-paris5.fr
+scolldt1.droit.univ-paris5.fr
+dseinsc-6.univ-paris5.fr
+n1sgir176.univ-paris5.fr
+srv09b-info.iut.univ-paris5.fr
+sco26.odontologie.univ-paris5.fr
+cochin98.cochin.univ-paris5.fr
+n84i174.psycho.univ-paris5.fr
+n84i107.psycho.univ-paris5.fr
+s03.utls-la-suite.univ-paris5.fr
+dse126.univ-paris5.fr
+instrecdt38.droit.univ-paris5.fr
+poincare.math-info.univ-paris5.fr
+labo132.pharmacie.univ-paris5.fr
+app139.jnum.univ-paris5.fr
+deugshs8.droit.univ-paris5.fr
+griad1.droit.univ-paris5.fr
+sg4.iut.univ-paris5.fr
+server1.droit.univ-paris5.fr
+red-serv.pharmacie.univ-paris5.fr
+n1sgir207.univ-paris5.fr
+sit143.univ-paris5.fr
+n84i117.psycho.univ-paris5.fr
+cido237.univ-paris5.fr
+bibadm29.droit.univ-paris5.fr
+mediatheque.univ-paris5.fr
+n1sgir62.univ-paris5.fr
+cochin44.cochin.univ-paris5.fr
+cannelle.pharmacie.univ-paris5.fr
+n1sgir126.univ-paris5.fr
+www.dsi.univ-paris5.fr
+mob06.odontologie.univ-paris5.fr
+casa.math-info.univ-paris5.fr
+cochin179.cochin.univ-paris5.fr
+labo95.pharmacie.univ-paris5.fr
+vis153.jnum.univ-paris5.fr
+instrecdt67.droit.univ-paris5.fr
+ensped4.droit.univ-paris5.fr
+cochin22.cochin.univ-paris5.fr
+labo216.pharmacie.univ-paris5.fr
+dif187.univ-paris5.fr
+bib07.odontologie.univ-paris5.fr
+n1sgir212.univ-paris5.fr
+dse112.univ-paris5.fr
+instrecdt116.droit.univ-paris5.fr
+cochin158.cochin.univ-paris5.fr
+ex.univ-paris5.fr
+labo218.pharmacie.univ-paris5.fr
+lamyline.fr.frodon.univ-paris5.fr
+impdif84.univ-paris5.fr
+n1sgir44.univ-paris5.fr
+n1sgir177.univ-paris5.fr
+labo242.pharmacie.univ-paris5.fr
+o.ens.math-info.univ-paris5.fr
+www-annualreviews-org.frodon.univ-paris5.fr
+sit147.univ-paris5.fr
+serint4.droit.univ-paris5.fr
+n1sgir155.univ-paris5.fr
+n84i248.psycho.univ-paris5.fr
+saroumane.univ-paris5.fr
+mcms01.toip.univ-paris5.fr
+impdif42.univ-paris5.fr
+ensped5.droit.univ-paris5.fr
+dip233.univ-paris5.fr
+labo219.pharmacie.univ-paris5.fr
+res02.odontologie.univ-paris5.fr
+apopha14.pharmacie.univ-paris5.fr
+infoadm2.iut.univ-paris5.fr
+cochin218.cochin.univ-paris5.fr
+impdif44.univ-paris5.fr
+dip247.univ-paris5.fr
+apopha13.pharmacie.univ-paris5.fr
+labo133.pharmacie.univ-paris5.fr
+instrecdt95.droit.univ-paris5.fr
+app134.jnum.univ-paris5.fr
+instrecdt112.droit.univ-paris5.fr
+mob15.odontologie.univ-paris5.fr
+labo202.pharmacie.univ-paris5.fr
+n84i235.psycho.univ-paris5.fr
+comexp.iut.univ-paris5.fr
+n1sgir142.univ-paris5.fr
+dip245.univ-paris5.fr
+pan02.odontologie.univ-paris5.fr
+mob07.odontologie.univ-paris5.fr
+out1.staps.univ-paris5.fr
+n84i249.psycho.univ-paris5.fr
+n84i057.psycho.univ-paris5.fr
+bib05.odontologie.univ-paris5.fr
+iut10.odontologie.univ-paris5.fr
+n1sgir56.univ-paris5.fr
+n1sgir40.univ-paris5.fr
+n84i227.psycho.univ-paris5.fr
+labo217.pharmacie.univ-paris5.fr
+mob14.odontologie.univ-paris5.fr
+reso36.univ-paris5.fr
+cochin61.cochin.univ-paris5.fr
+archi.iut.univ-paris5.fr
+n1sgir238.univ-paris5.fr
+cours4.odontologie.univ-paris5.fr
+n84i053.psycho.univ-paris5.fr
+instrecdt28.droit.univ-paris5.fr
+mob08.odontologie.univ-paris5.fr
+odonto199.odontologie.univ-paris5.fr
+n84i212.psycho.univ-paris5.fr
+n84i085.psycho.univ-paris5.fr
+hist04.odontologie.univ-paris5.fr
+n1sgir30.univ-paris5.fr
+dif96.univ-paris5.fr
+bib04.odontologie.univ-paris5.fr
+dip239.univ-paris5.fr
+bibadm32.droit.univ-paris5.fr
+biom01.odontologie.univ-paris5.fr
+pcstatmed10.biomedicale.univ-paris5.fr
+newst.univ-paris5.fr
+n1sgir119.univ-paris5.fr
+cochin75.cochin.univ-paris5.fr
+labo138.pharmacie.univ-paris5.fr
+n84i090.psycho.univ-paris5.fr
+n1sgir211.univ-paris5.fr
+c2i.univ-paris5.fr
+pydio.univ-paris5.fr
+n84i077.psycho.univ-paris5.fr
+n84i039.psycho.univ-paris5.fr
+dif128.univ-paris5.fr
+n84i114.psycho.univ-paris5.fr
+serint1.droit.univ-paris5.fr
+n84i089.psycho.univ-paris5.fr
+admin36.pharmacie.univ-paris5.fr
+ensped3.droit.univ-paris5.fr
+labo193.pharmacie.univ-paris5.fr
+sig13.droit.univ-paris5.fr
+n1sgir68.univ-paris5.fr
+impdse207.univ-paris5.fr
+cochin27.cochin.univ-paris5.fr
+vis154.jnum.univ-paris5.fr
+n84i189.psycho.univ-paris5.fr
+app.toip.univ-paris5.fr
+sig12.droit.univ-paris5.fr
+wiley.com.frodon.univ-paris5.fr
+sfc80.univ-paris5.fr
+cm-win.univ-paris5.fr
+dip249.univ-paris5.fr
+cochin60.cochin.univ-paris5.fr
+n84i246.psycho.univ-paris5.fr
+prot04.odontologie.univ-paris5.fr
+drive.ens.math-info.univ-paris5.fr
+dsi213.univ-paris5.fr
+visio-com.univ-paris5.fr
+shiva.univ-paris5.fr
+sec10.odontologie.univ-paris5.fr
+vpe197.univ-paris5.fr
+cochin23.cochin.univ-paris5.fr
+ic03.iut.univ-paris5.fr
+labo98.pharmacie.univ-paris5.fr
+n1sgir17.univ-paris5.fr
+dip216.univ-paris5.fr
+rubis.ens.math-info.univ-paris5.fr
+iutbc20.iut.univ-paris5.fr
+louve.psycho.univ-paris5.fr
+n1sgir194.univ-paris5.fr
+n1sgir2.univ-paris5.fr
+n1sgir157.univ-paris5.fr
+n84i180.psycho.univ-paris5.fr
+cochin74.cochin.univ-paris5.fr
+n84i093.psycho.univ-paris5.fr
+suaps230.univ-paris5.fr
+n1sgir135.univ-paris5.fr
+tc-45.iut.univ-paris5.fr
+instrecdt14.droit.univ-paris5.fr
+n1sgir24.univ-paris5.fr
+n84i213.psycho.univ-paris5.fr
+n84i247.psycho.univ-paris5.fr
+scenari4.math-info.univ-paris5.fr
+sm101.odontologie.univ-paris5.fr
+ingen3.iut.univ-paris5.fr
+labo50.pharmacie.univ-paris5.fr
+connexion-dalloz-fr.frodon.univ-paris5.fr
+safran.pharmacie.univ-paris5.fr
+impcido238.univ-paris5.fr
+dip238.univ-paris5.fr
+iut05.odontologie.univ-paris5.fr
+nagios.math-info.univ-paris5.fr
+dse197.univ-paris5.fr
+n84i068.psycho.univ-paris5.fr
+iut229.iut.univ-paris5.fr
+ecole-doctorale-medicament.univ-paris5.fr
+cochin20.cochin.univ-paris5.fr
+visio.pharmacie.univ-paris5.fr
+serfin2.droit.univ-paris5.fr
+n1sgir215.univ-paris5.fr
+labo92.pharmacie.univ-paris5.fr
+dse194.univ-paris5.fr
+apopha16.pharmacie.univ-paris5.fr
+n1sgir14.univ-paris5.fr
+n84i147.psycho.univ-paris5.fr
+n1sgir216.univ-paris5.fr
+cochin173.cochin.univ-paris5.fr
+instrecdt2.droit.univ-paris5.fr
+iut245.iut.univ-paris5.fr
+cochin153.cochin.univ-paris5.fr
+n84i137.psycho.univ-paris5.fr
+acsi.iut.univ-paris5.fr
+n84i176.psycho.univ-paris5.fr
+cochin112.cochin.univ-paris5.fr
+dip161.univ-paris5.fr
+dip142.univ-paris5.fr
+n1sgir201.univ-paris5.fr
+dif52.univ-paris5.fr
+n84i072.psycho.univ-paris5.fr
+sit146.univ-paris5.fr
+cumin.pharmacie.univ-paris5.fr
+deugshs9.droit.univ-paris5.fr
+n1sgir4.univ-paris5.fr
+instrecdt106.droit.univ-paris5.fr
+dip212.univ-paris5.fr
+sec03.odontologie.univ-paris5.fr
+deugshs15.droit.univ-paris5.fr
+cochin73.cochin.univ-paris5.fr
+cochin118.cochin.univ-paris5.fr
+bibadm22.droit.univ-paris5.fr
+cochin235.cochin.univ-paris5.fr
+pfsense-externe.math-info.univ-paris5.fr
+dip243.univ-paris5.fr
+rustrel.biomedicale.univ-paris5.fr
+instrecdt104.droit.univ-paris5.fr
+cochin42.cochin.univ-paris5.fr
+app140.jnum.univ-paris5.fr
+visio.staps.univ-paris5.fr
+vis150.jnum.univ-paris5.fr
+labo184.pharmacie.univ-paris5.fr
+cochin66.cochin.univ-paris5.fr
+sec06.odontologie.univ-paris5.fr
+cs16.iut.univ-paris5.fr
+n84i135.psycho.univ-paris5.fr
+ether.univ-paris5.fr
+ic1-1.iut.univ-paris5.fr
+n1sgir93.univ-paris5.fr
+bib03.odontologie.univ-paris5.fr
+n84i043.psycho.univ-paris5.fr
+cochin108.cochin.univ-paris5.fr
+orientationactive.univ-paris5.fr
+lensped15.droit.univ-paris5.fr
+info124.pharmacie.univ-paris5.fr
+instrecdt115.droit.univ-paris5.fr
+dip217.univ-paris5.fr
+cochin31.cochin.univ-paris5.fr
+app132.jnum.univ-paris5.fr
+cochin25.cochin.univ-paris5.fr
+labo89.pharmacie.univ-paris5.fr
+n1sgir81.univ-paris5.fr
+n1sgir15.univ-paris5.fr
+n84i124.psycho.univ-paris5.fr
+n84i025.psycho.univ-paris5.fr
+cochin194.cochin.univ-paris5.fr
+hera.math-info.univ-paris5.fr
+jupyter.ens.math-info.univ-paris5.fr
+login.frodon-ng.univ-paris5.fr
+n1sgir154.univ-paris5.fr
+instrecdt29.droit.univ-paris5.fr
+admin10.pharmacie.univ-paris5.fr
+n1sgir208.univ-paris5.fr
+muscade.pharmacie.univ-paris5.fr
+impsri223.univ-paris5.fr

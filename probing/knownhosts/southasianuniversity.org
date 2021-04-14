@@ -1,3 +1,2 @@
-NXDOMAIN	ors.southasianuniversity.org
-NOERROR	www.southasianuniversity.org
-NOERROR	southasianuniversity.org
+www.southasianuniversity.org
+southasianuniversity.org

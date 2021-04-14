@@ -1,19 +1,14 @@
-NXDOMAIN	ckukarte.cku.ac.jp
-NOERROR	dns01.cku.ac.jp
-NXDOMAIN	mailgw.cku.ac.jp
-NOERROR	ckuwebr.cku.ac.jp
-NOERROR	www.cku.ac.jp
-NOERROR	syllabus.cku.ac.jp
-NXDOMAIN	ckumail.cku.ac.jp
-NXDOMAIN	ckuwebs.cku.ac.jp
-NXDOMAIN	www.ckuwebr.cku.ac.jp
-NOERROR	webmail.cku.ac.jp
-NOERROR	sendgw.cku.ac.jp
-NOERROR	id.cku.ac.jp
-NOERROR	mailgateway1.cku.ac.jp
-NOERROR	lib.cku.ac.jp
-NOERROR	dns02.cku.ac.jp
-NOERROR	faoec.cku.ac.jp
-NOERROR	cku.ac.jp
-NOERROR	gakuen.cku.ac.jp
-NOERROR	gw1.cku.ac.jp
+dns01.cku.ac.jp
+ckuwebr.cku.ac.jp
+www.cku.ac.jp
+syllabus.cku.ac.jp
+webmail.cku.ac.jp
+sendgw.cku.ac.jp
+id.cku.ac.jp
+mailgateway1.cku.ac.jp
+lib.cku.ac.jp
+dns02.cku.ac.jp
+faoec.cku.ac.jp
+cku.ac.jp
+gakuen.cku.ac.jp
+gw1.cku.ac.jp

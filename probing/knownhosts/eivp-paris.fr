@@ -1,19 +1,12 @@
-NOERROR	jrgu.eivp-paris.fr
-NOERROR	autodiscover.eivp-paris.fr
-NXDOMAIN	www2.eivp-paris.fr
-NOERROR	hyperplanning.eivp-paris.fr
-NXDOMAIN	bde.eivp-paris.fr
-NOERROR	www.eivp-paris.fr
-NOERROR	ww3.eivp-paris.fr
-NXDOMAIN	gray.eivp-paris.fr
-NXDOMAIN	grenat.eivp-paris.fr
-NOERROR	remote.eivp-paris.fr
-NXDOMAIN	ww2.eivp-paris.fr
-NOERROR	mail.eivp-paris.fr
-NOERROR	eivp-paris.fr
-NOERROR	paiement.eivp-paris.fr
-NOERROR	nas.eivp-paris.fr
-NOERROR	pmbdoc.eivp-paris.fr
-NXDOMAIN	urbantic.eivp-paris.fr
-NXDOMAIN	kepler.eivp-paris.fr
-NOERROR	elearning.eivp-paris.fr
+jrgu.eivp-paris.fr
+autodiscover.eivp-paris.fr
+hyperplanning.eivp-paris.fr
+www.eivp-paris.fr
+ww3.eivp-paris.fr
+remote.eivp-paris.fr
+mail.eivp-paris.fr
+eivp-paris.fr
+paiement.eivp-paris.fr
+nas.eivp-paris.fr
+pmbdoc.eivp-paris.fr
+elearning.eivp-paris.fr

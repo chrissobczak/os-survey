@@ -1,394 +1,309 @@
-NOERROR	www.bpe.europresse.com.ezproxy.hec.fr
-NOERROR	global.factiva.com.ezproxy.hec.fr
-NOERROR	www.hec.edu.ezproxy.hec.fr
-NXDOMAIN	intranet-alternative.hec.fr
-NOERROR	ia-next-westlaw-com.ezproxy.hec.fr
-NOERROR	poly7.hec.fr
-NOERROR	www.oecd-ilibrary.org.ezproxy.hec.fr
-NXDOMAIN	lyncdiscoverinternal.hec.fr
-NOERROR	oecd-ilibrary.org.ezproxy.hec.fr
-NOERROR	adm011.hec.fr
-NOERROR	mi506.hec.fr
-NOERROR	bpe.europresse.com.ezproxy.hec.fr
-NOERROR	mi398.hec.fr
-NOERROR	factiva.com.ezproxy.hec.fr
-NXDOMAIN	adsynchro.hec.fr
-NOERROR	www.hec.fr
-NOERROR	mi494.hec.fr
-NOERROR	mi395.hec.fr
-NOERROR	business-digest.eu.ezproxy.hec.fr
-NOERROR	crmpp.cockpit.hec.fr
-NXDOMAIN	www.portalauth.hec.fr
-NOERROR	controle-acces.hec.fr
-NOERROR	www.statista.com.ezproxy.hec.fr
-NOERROR	www.dalloz.fr.ezproxy.hec.fr
-NOERROR	mi29.hec.fr
-NOERROR	www.portal.euromonitor.com.ezproxy.hec.fr
-NOERROR	mi420.hec.fr
-NOERROR	mi101.hec.fr
-NOERROR	mail.hec.fr
-NOERROR	sbc2.hec.fr
-NOERROR	sciencedirect.com.ezproxy.hec.fr
-NXDOMAIN	bbb04.hec.fr
-NXDOMAIN	m.hec.fr
-NOERROR	www.emeraldinsight.com.ezproxy.hec.fr
-NOERROR	appli4.hec.fr
-NXDOMAIN	www.webapp.hec.fr
-NOERROR	sciverse.com.ezproxy.hec.fr
-NOERROR	pxpp13.hec.fr
-NOERROR	mi581-int.hec.fr
-NXDOMAIN	www.sbc2.hec.fr
-NXDOMAIN	testapi.hec.fr
-NOERROR	mi453.hec.fr
-NOERROR	remoteapp.hec.fr
-NXDOMAIN	www.admin2.hec.fr
-NOERROR	mi319.hec.fr
-NOERROR	mi408.hec.fr
-NOERROR	mi244.hec.fr
-NOERROR	mi584.hec.fr
-NOERROR	av.hec.fr
-NOERROR	booking.hec.fr
-NOERROR	exed.hec.fr
-NOERROR	mi423.hec.fr
-NOERROR	time.hec.fr
-NOERROR	infot.hec.fr
-NOERROR	mi509.hec.fr
-NOERROR	hec.edu.ezproxy.hec.fr
-NOERROR	vpn-ssl-1.hec.fr
-NOERROR	eprint.hec.fr
-NOERROR	e-print.hec.fr
-NXDOMAIN	studies2.hec.fr
-NOERROR	hec.fr
-NOERROR	lyncdiscover.hec.fr
-NOERROR	access.vault.com.ezproxy.hec.fr
-NOERROR	mi546.hec.fr
-NOERROR	frhec2.hec.fr
-NOERROR	scopus.com.ezproxy.hec.fr
-NOERROR	file.hec.fr
-NOERROR	mi478.hec.fr
-NOERROR	poly2.hec.fr
-NOERROR	privco.com.ezproxy.hec.fr
-NOERROR	mi534.hec.fr
-NOERROR	dossiers-egalite-des-chances.hec.fr
-NOERROR	www.jstor.org.ezproxy.hec.fr
-NOERROR	executivecampus.hec.fr
-NOERROR	dialin.hec.fr
-NXDOMAIN	www.teams-access.hec.fr
-NXDOMAIN	cw.ad.hec.fr
-NOERROR	candy.hec.fr
-NOERROR	imf.org.ezproxy.hec.fr
-NOERROR	housing.hec.fr
-NOERROR	mi425.hec.fr
-NOERROR	www.oecdilibrary.org.ezproxy.hec.fr
-NXDOMAIN	www.executiveeducation.hec.fr
-SERVFAIL	pc-printer-discovery.hec.fr
-NOERROR	msforms.hec.fr
-NOERROR	ftp1.hec.fr
-NXDOMAIN	admin2.hec.fr
-NOERROR	mi617.hec.fr
-NOERROR	cockpit.hec.fr
-NOERROR	mi536.hec.fr
-NXDOMAIN	mi615.ad.hec.fr
-NOERROR	mi700.hec.fr
-NOERROR	testonly.hec.fr
-NXDOMAIN	campus-pma.hec.fr
-NOERROR	abonnes.efl.fr.ezproxy.hec.fr
-NOERROR	mi598.hec.fr
-NOERROR	admissions.hec.fr
-NOERROR	mi585.hec.fr
-NXDOMAIN	appli2.hec.fr
-NOERROR	ldapsrv.hec.fr
-NOERROR	wetfeet.com.ezproxy.hec.fr
-NOERROR	next-westlaw-com.ezproxy.hec.fr
-NOERROR	fintech-talent-fair.recruitment-forums.hec.fr
-NOERROR	portal-officewebapps.hec.fr
-NOERROR	mi690.hec.fr
-NOERROR	delphes-indexpresse.com.ezproxy.hec.fr
-NOERROR	cairn.info.ezproxy.hec.fr
-NOERROR	mi16.hec.fr
-NOERROR	devauth.hec.fr
-NOERROR	siad.hec.fr
-NXDOMAIN	www.sbc.hec.fr
-NXDOMAIN	admin.hec.fr
-NOERROR	hdbiblio.hec.fr
-NOERROR	wrds-web.wharton.upenn.edu.ezproxy.hec.fr
-NOERROR	portal-auth.hec.fr
-NOERROR	ftp.hec.fr
-NOERROR	mi562.hec.fr
-NOERROR	assistec.hec.fr
-NOERROR	ca-next-westlaw-com.ezproxy.hec.fr
-NOERROR	pwebapp.hec.fr
-NXDOMAIN	mi560.ad.hec.fr
-NOERROR	mi519.hec.fr
-NOERROR	apps.webofknowledge.com.ezproxy.hec.fr
-NOERROR	ezproxy.hec.fr
-NOERROR	www.sciencedirect.com.ezproxy.hec.fr
-NOERROR	mi580-int.hec.fr
-NOERROR	mi581-ext.hec.fr
-NXDOMAIN	k-hub.hec.fr
-NXDOMAIN	intranet.hec.fr
-NOERROR	vidyo.hec.fr
-NOERROR	mi645.hec.fr
-NOERROR	mi56.hec.fr
-NXDOMAIN	mi640.ad.hec.fr
-NXDOMAIN	datascience-apps.hec.fr
-NOERROR	upenn.edu.ezproxy.hec.fr
-NOERROR	mi521.hec.fr
-NOERROR	portal.euromonitor.com.ezproxy.hec.fr
-NOERROR	mi345.hec.fr
-NOERROR	portalauth.hec.fr
-NOERROR	vidyogw.hec.fr
-NOERROR	mi615.hec.fr
-NOERROR	fr.ezproxy.hec.fr
-NOERROR	mi477.hec.fr
-NOERROR	mi496.hec.fr
-NOERROR	webapp.hec.fr
-NOERROR	financialdealstracker.marketline.com.ezproxy.hec.fr
-NOERROR	mi421.hec.fr
-NOERROR	mi606.hec.fr
-NXDOMAIN	www.phototheque.hec.fr
-NXDOMAIN	boitier3.hec.fr
-NOERROR	mi81.hec.fr
-NOERROR	lync-admin.hec.fr
-NOERROR	proxy2.hec.fr
-NOERROR	www.dawsonera.com.ezproxy.hec.fr
-NOERROR	mi115.hec.fr
-NXDOMAIN	www.ppwebapp.hec.fr
-NOERROR	ja-next-westlaw-com.ezproxy.hec.fr
-NOERROR	appli1.hec.fr
-NOERROR	phototheque.hec.fr
-NOERROR	about.jstor.org.ezproxy.hec.fr
-NXDOMAIN	www.sbc3.hec.fr
-NXDOMAIN	sugarfondation.hec.fr
-NXDOMAIN	www.bourses.hec.fr
-NXDOMAIN	mi583.ad.hec.fr
-NOERROR	mi427.hec.fr
-NOERROR	audiocodes.hec.fr
-NOERROR	www-dawsonera-com.ezproxy.hec.fr
-NOERROR	testacme2.hec.fr
-NXDOMAIN	sugarexed.hec.fr
-NOERROR	appli9.hec.fr
-NOERROR	login.ezproxy.hec.fr
-NOERROR	www-lexisnexis-com.ezproxy.hec.fr
-NOERROR	mi468.hec.fr
-NOERROR	mil.hec.fr
-NOERROR	vidyoportal2.hec.fr
-NOERROR	teams-access.hec.fr
-NOERROR	proxy1.hec.fr
-NOERROR	portal.hec.fr
-NXDOMAIN	www.campus.hec.fr
-NOERROR	nat146.hec.fr
-NXDOMAIN	tr.mailing.hec.fr
-NOERROR	redmine.hec.fr
-NOERROR	emeraldinsight.com.ezproxy.hec.fr
-NOERROR	vip-redirect.hec.fr
-NOERROR	www.kluwerarbitration.com.ezproxy.hec.fr
-NOERROR	m.exed.hec.fr
-NXDOMAIN	mi141.hec.fr
-NOERROR	mi655.hec.fr
-NOERROR	search.ebscohost.com.ezproxy.hec.fr
-NXDOMAIN	bbb01.hec.fr
-NXDOMAIN	bbb02.hec.fr
-NOERROR	poly4.hec.fr
-NOERROR	mi614.hec.fr
-NOERROR	mi583.hec.fr
-NOERROR	www.emba.hec.fr
-NXDOMAIN	studies.hec.fr
-NXDOMAIN	e-work.hec.fr
-NOERROR	appli5.hec.fr
-NOERROR	autodiscover.hec.fr
-NXDOMAIN	vcsa.vm.hec.fr
-NOERROR	itprojects.hec.fr
-NOERROR	vpn-ssl.hec.fr
-NOERROR	mi642.hec.fr
-NOERROR	bmo-bmiresearch-com.ezproxy.hec.fr
-NXDOMAIN	edge-acess.hec.fr
-NOERROR	mi597.hec.fr
-NOERROR	rstudio-test.hec.fr
-NOERROR	e-stock.hec.fr
-NXDOMAIN	appli3.hec.fr
-NOERROR	presence.hec.fr
-NOERROR	vpn.hec.fr
-NOERROR	vidyoportal1.hec.fr
-NOERROR	marketline.com.ezproxy.hec.fr
-NXDOMAIN	mi582.ad.hec.fr
-NXDOMAIN	sugarmba.hec.fr
-NOERROR	mobile.exed.hec.fr
-NOERROR	back-phototheque.hec.fr
-NOERROR	mi118.hec.fr
-NXDOMAIN	bbb03.hec.fr
-NOERROR	smtpsrv.hec.fr
-NOERROR	testmb.hec.fr
-NOERROR	sbc3.hec.fr
-NOERROR	dev-sites.hec.fr
-NOERROR	www.lexisnexis.com.ezproxy.hec.fr
-NOERROR	www-frost-com.ezproxy.hec.fr
-NOERROR	devcockpit.hec.fr
-NXDOMAIN	www.e-print.hec.fr
-NOERROR	mi667.hec.fr
-NOERROR	palgrave-journals.com.ezproxy.hec.fr
-NOERROR	mi459.hec.fr
-NOERROR	m.ebscohost.com.ezproxy.hec.fr
-NXDOMAIN	sugarge.hec.fr
-NOERROR	sbc.hec.fr
-NOERROR	www.lexis360.fr.ezproxy.hec.fr
-NOERROR	learning-center.hec.fr
-NOERROR	ppwebapp.hec.fr
-NOERROR	meet.hec.fr
-NOERROR	webhost.hec.fr
-NOERROR	vidyoportal.hec.fr
-NOERROR	mi100.hec.fr
-NOERROR	ebscohost.com.ezproxy.hec.fr
-NOERROR	ftp2.hec.fr
-NXDOMAIN	www.testapi.hec.fr
-NOERROR	e-learning.hec.fr
-NOERROR	ftpbiblio.hec.fr
-NOERROR	testacme.hec.fr
-NOERROR	mi98.hec.fr
-NOERROR	mi544.hec.fr
-NXDOMAIN	www.housing.hec.fr
-NXDOMAIN	idp.hec.fr
-NOERROR	www.hec.fr.ezproxy.hec.fr
-NOERROR	ezproxy2.hec.fr
-NOERROR	vidyoreplay.hec.fr
-NXDOMAIN	bbb.hec.fr
-NOERROR	infothec.hec.fr
-NOERROR	diel.hec.fr
-NOERROR	mi580-ext.hec.fr
-NXDOMAIN	mi560.hec.fr
-NXDOMAIN	mi543.hec.fr
-NOERROR	mi603.hec.fr
-NOERROR	advantage.marketline.com.ezproxy.hec.fr
-NXDOMAIN	sip.partners.hec.fr
-NOERROR	dalloz.fr.ezproxy.hec.fr
-NOERROR	assistec-touch.hec.fr
-NOERROR	web.b.ebscohost.com.ezproxy.hec.fr
-NXDOMAIN	mi397.hec.fr
-NOERROR	bourses.hec.fr
-NOERROR	auth.hec.fr
-NOERROR	oecdilibrary.org.ezproxy.hec.fr
-NXDOMAIN	mi111.hec.fr
-NOERROR	appli8.hec.fr
-NOERROR	webconf.hec.fr
-NXDOMAIN	mi494.ad.hec.fr
-NXDOMAIN	www.auth.hec.fr
-NOERROR	mi439.hec.fr
-NXDOMAIN	www1.hec.fr
-NOERROR	sip.hec.fr
-NOERROR	hec.fr.ezproxy.hec.fr
-NOERROR	cepr.org.ezproxy.hec.fr
-NOERROR	testinfothec.hec.fr
-NOERROR	mi406.hec.fr
-NXDOMAIN	mi667-touch.hec.fr
-NOERROR	vpn-ssl-2.hec.fr
-NOERROR	lbvs191.hec.fr
-NXDOMAIN	www.controle-acces.hec.fr
-NOERROR	orbis-bvdinfo-com.ezproxy.hec.fr
-NXDOMAIN	appli7.hec.fr
-NOERROR	replay.hec.fr
-NOERROR	www.vocable.fr.ezproxy.hec.fr
-NOERROR	frhec3.hec.fr
-NOERROR	mi435.hec.fr
-NXDOMAIN	alternative.hec.fr
-NOERROR	mi394.hec.fr
-NXDOMAIN	putfile.hec.fr
-NOERROR	wwwsrv02.hec.fr
-NOERROR	e-quizz.hec.fr
-NXDOMAIN	www.replay.hec.fr
-NOERROR	businessanalytics-apps.hec.fr
-NOERROR	trials.proquest.com.ezproxy.hec.fr
-NOERROR	confidence.hec.fr
-NOERROR	com.ezproxy.hec.fr
-NXDOMAIN	www.audiocodes.hec.fr
-NOERROR	academ.exed.hec.fr
-NOERROR	mi57.hec.fr
-NXDOMAIN	oc.hec.fr
-NOERROR	www.workmaze.com.ezproxy.hec.fr
-NXDOMAIN	home1.hec.fr
-NXDOMAIN	p-appli6.hec.fr
-NOERROR	mi542.hec.fr
-NOERROR	esi.webofknowledge.com.ezproxy.hec.fr
-NOERROR	my-curriculum.hec.fr
-NOERROR	siad2.hec.fr
-NOERROR	www.cairn.info.ezproxy.hec.fr
-NOERROR	mediaembacpa.hec.fr
-NOERROR	lamyline.lamy.fr.ezproxy.hec.fr
-NOERROR	aide.cairn.info.ezproxy.hec.fr
-NOERROR	ebsco-content.com.ezproxy.hec.fr
-NXDOMAIN	data-apps.hec.fr
-NOERROR	emba.hec.fr
-NOERROR	uc.hec.fr
-NXDOMAIN	mi89.hec.fr
-NOERROR	statista.com.ezproxy.hec.fr
-NOERROR	www.cepr.org.ezproxy.hec.fr
-NOERROR	scripts.lexis360.fr.ezproxy.hec.fr
-NOERROR	testacme3.hec.fr
-NOERROR	frhec4.hec.fr
-NOERROR	org.ezproxy.hec.fr
-NOERROR	www.imf.org.ezproxy.hec.fr
-NOERROR	mi422.hec.fr
-NOERROR	kluwerarbitration.com.ezproxy.hec.fr
-NOERROR	blogs.forrester.com.ezproxy.hec.fr
-NXDOMAIN	campusm.hec.fr
-NOERROR	www.xerfi-knowledge.com.ezproxy.hec.fr
-NXDOMAIN	mi506.ad.hec.fr
-NOERROR	mi660.hec.fr
-NOERROR	mi669.hec.fr
-NOERROR	uc-pool.hec.fr
-NXDOMAIN	smtp-auth-lb.hec.fr
-NOERROR	crm.cockpit.hec.fr
-NOERROR	global-factiva-com.ezproxy.hec.fr
-NXDOMAIN	mi559.ad.hec.fr
-NXDOMAIN	mi112.hec.fr
-NOERROR	mi670.hec.fr
-NXDOMAIN	appli6.hec.fr
-NOERROR	mi622.hec.fr
-NOERROR	pwww.hec.fr
-NOERROR	mi495.hec.fr
-NOERROR	idp3.hec.fr
-NOERROR	auth.cockpit.hec.fr
-NOERROR	www.lextenso.fr.ezproxy.hec.fr
-NOERROR	ws.hec.fr
-NOERROR	online-survey.hec.fr
-NOERROR	vm-bl01.hec.fr
-NXDOMAIN	www.devauth.hec.fr
-NOERROR	campus.hec.fr
-NOERROR	papers.nber.org.ezproxy.hec.fr
-NOERROR	ucla.hec.fr
-NOERROR	jstor.org.ezproxy.hec.fr
-NOERROR	openresearch.hec.fr
-NOERROR	www-emeraldinsight-com.ezproxy.hec.fr
-NOERROR	crmdev.cockpit.hec.fr
-NOERROR	embacpa.hec.fr
-NOERROR	bibliotheque.immateriel.fr.ezproxy.hec.fr
-NOERROR	workmaze.com.ezproxy.hec.fr
-NXDOMAIN	bibliotheque.hec.fr
-NOERROR	mi681.hec.fr
-NOERROR	poly3.hec.fr
-NXDOMAIN	sip.external.hec.fr
-NOERROR	it-tips.hec.fr
-NOERROR	xerfi-knowledge.com.ezproxy.hec.fr
-NOERROR	mi576.hec.fr
-NXDOMAIN	www.vcsa.vm.hec.fr
-NOERROR	e-print-payment.hec.fr
-NOERROR	admin.exed.hec.fr
-NOERROR	mi595.hec.fr
-NOERROR	mi582.hec.fr
-NOERROR	ceremony.hec.fr
-NOERROR	www.business-digest.eu.ezproxy.hec.fr
-NOERROR	commencementceremony.hec.fr
-NOERROR	eni-training.com.ezproxy.hec.fr
-NOERROR	mail2.hec.fr
-NOERROR	images.webofknowledge.com.ezproxy.hec.fr
-NOERROR	www.exed.hec.fr
-NOERROR	bmo.bmiresearch.com.ezproxy.hec.fr
-NOERROR	nouveau.europresse.com.ezproxy.hec.fr
-NOERROR	academ.hec.fr
-NOERROR	imap.hec.fr
-NOERROR	go-forrester-com.ezproxy.hec.fr
-NXDOMAIN	mi559.hec.fr
-NOERROR	mi436.hec.fr
-NOERROR	forrester.com.ezproxy.hec.fr
-NOERROR	vocable.fr.ezproxy.hec.fr
-NXDOMAIN	qt2rss.hec.fr
-NOERROR	link.springer.com.ezproxy.hec.fr
+www.bpe.europresse.com.ezproxy.hec.fr
+global.factiva.com.ezproxy.hec.fr
+www.hec.edu.ezproxy.hec.fr
+ia-next-westlaw-com.ezproxy.hec.fr
+poly7.hec.fr
+www.oecd-ilibrary.org.ezproxy.hec.fr
+oecd-ilibrary.org.ezproxy.hec.fr
+adm011.hec.fr
+mi506.hec.fr
+bpe.europresse.com.ezproxy.hec.fr
+mi398.hec.fr
+factiva.com.ezproxy.hec.fr
+www.hec.fr
+mi494.hec.fr
+mi395.hec.fr
+business-digest.eu.ezproxy.hec.fr
+crmpp.cockpit.hec.fr
+controle-acces.hec.fr
+www.statista.com.ezproxy.hec.fr
+www.dalloz.fr.ezproxy.hec.fr
+mi29.hec.fr
+www.portal.euromonitor.com.ezproxy.hec.fr
+mi420.hec.fr
+mi101.hec.fr
+mail.hec.fr
+sbc2.hec.fr
+sciencedirect.com.ezproxy.hec.fr
+www.emeraldinsight.com.ezproxy.hec.fr
+appli4.hec.fr
+sciverse.com.ezproxy.hec.fr
+pxpp13.hec.fr
+mi581-int.hec.fr
+mi453.hec.fr
+remoteapp.hec.fr
+mi319.hec.fr
+mi408.hec.fr
+mi244.hec.fr
+mi584.hec.fr
+av.hec.fr
+booking.hec.fr
+exed.hec.fr
+mi423.hec.fr
+time.hec.fr
+infot.hec.fr
+mi509.hec.fr
+hec.edu.ezproxy.hec.fr
+vpn-ssl-1.hec.fr
+eprint.hec.fr
+e-print.hec.fr
+hec.fr
+lyncdiscover.hec.fr
+access.vault.com.ezproxy.hec.fr
+mi546.hec.fr
+frhec2.hec.fr
+scopus.com.ezproxy.hec.fr
+file.hec.fr
+mi478.hec.fr
+poly2.hec.fr
+privco.com.ezproxy.hec.fr
+mi534.hec.fr
+dossiers-egalite-des-chances.hec.fr
+www.jstor.org.ezproxy.hec.fr
+executivecampus.hec.fr
+dialin.hec.fr
+candy.hec.fr
+imf.org.ezproxy.hec.fr
+housing.hec.fr
+mi425.hec.fr
+www.oecdilibrary.org.ezproxy.hec.fr
+msforms.hec.fr
+ftp1.hec.fr
+mi617.hec.fr
+cockpit.hec.fr
+mi536.hec.fr
+mi700.hec.fr
+testonly.hec.fr
+abonnes.efl.fr.ezproxy.hec.fr
+mi598.hec.fr
+admissions.hec.fr
+mi585.hec.fr
+ldapsrv.hec.fr
+wetfeet.com.ezproxy.hec.fr
+next-westlaw-com.ezproxy.hec.fr
+fintech-talent-fair.recruitment-forums.hec.fr
+portal-officewebapps.hec.fr
+mi690.hec.fr
+delphes-indexpresse.com.ezproxy.hec.fr
+cairn.info.ezproxy.hec.fr
+mi16.hec.fr
+devauth.hec.fr
+siad.hec.fr
+hdbiblio.hec.fr
+wrds-web.wharton.upenn.edu.ezproxy.hec.fr
+portal-auth.hec.fr
+ftp.hec.fr
+mi562.hec.fr
+assistec.hec.fr
+ca-next-westlaw-com.ezproxy.hec.fr
+pwebapp.hec.fr
+mi519.hec.fr
+apps.webofknowledge.com.ezproxy.hec.fr
+ezproxy.hec.fr
+www.sciencedirect.com.ezproxy.hec.fr
+mi580-int.hec.fr
+mi581-ext.hec.fr
+vidyo.hec.fr
+mi645.hec.fr
+mi56.hec.fr
+upenn.edu.ezproxy.hec.fr
+mi521.hec.fr
+portal.euromonitor.com.ezproxy.hec.fr
+mi345.hec.fr
+portalauth.hec.fr
+vidyogw.hec.fr
+mi615.hec.fr
+fr.ezproxy.hec.fr
+mi477.hec.fr
+mi496.hec.fr
+webapp.hec.fr
+financialdealstracker.marketline.com.ezproxy.hec.fr
+mi421.hec.fr
+mi606.hec.fr
+mi81.hec.fr
+lync-admin.hec.fr
+proxy2.hec.fr
+www.dawsonera.com.ezproxy.hec.fr
+mi115.hec.fr
+ja-next-westlaw-com.ezproxy.hec.fr
+appli1.hec.fr
+phototheque.hec.fr
+about.jstor.org.ezproxy.hec.fr
+mi427.hec.fr
+audiocodes.hec.fr
+www-dawsonera-com.ezproxy.hec.fr
+testacme2.hec.fr
+appli9.hec.fr
+login.ezproxy.hec.fr
+www-lexisnexis-com.ezproxy.hec.fr
+mi468.hec.fr
+mil.hec.fr
+vidyoportal2.hec.fr
+teams-access.hec.fr
+proxy1.hec.fr
+portal.hec.fr
+nat146.hec.fr
+redmine.hec.fr
+emeraldinsight.com.ezproxy.hec.fr
+vip-redirect.hec.fr
+www.kluwerarbitration.com.ezproxy.hec.fr
+m.exed.hec.fr
+mi655.hec.fr
+search.ebscohost.com.ezproxy.hec.fr
+poly4.hec.fr
+mi614.hec.fr
+mi583.hec.fr
+www.emba.hec.fr
+appli5.hec.fr
+autodiscover.hec.fr
+itprojects.hec.fr
+vpn-ssl.hec.fr
+mi642.hec.fr
+bmo-bmiresearch-com.ezproxy.hec.fr
+mi597.hec.fr
+rstudio-test.hec.fr
+e-stock.hec.fr
+presence.hec.fr
+vpn.hec.fr
+vidyoportal1.hec.fr
+marketline.com.ezproxy.hec.fr
+mobile.exed.hec.fr
+back-phototheque.hec.fr
+mi118.hec.fr
+smtpsrv.hec.fr
+testmb.hec.fr
+sbc3.hec.fr
+dev-sites.hec.fr
+www.lexisnexis.com.ezproxy.hec.fr
+www-frost-com.ezproxy.hec.fr
+devcockpit.hec.fr
+mi667.hec.fr
+palgrave-journals.com.ezproxy.hec.fr
+mi459.hec.fr
+m.ebscohost.com.ezproxy.hec.fr
+sbc.hec.fr
+www.lexis360.fr.ezproxy.hec.fr
+learning-center.hec.fr
+ppwebapp.hec.fr
+meet.hec.fr
+webhost.hec.fr
+vidyoportal.hec.fr
+mi100.hec.fr
+ebscohost.com.ezproxy.hec.fr
+ftp2.hec.fr
+e-learning.hec.fr
+ftpbiblio.hec.fr
+testacme.hec.fr
+mi98.hec.fr
+mi544.hec.fr
+www.hec.fr.ezproxy.hec.fr
+ezproxy2.hec.fr
+vidyoreplay.hec.fr
+infothec.hec.fr
+diel.hec.fr
+mi580-ext.hec.fr
+mi603.hec.fr
+advantage.marketline.com.ezproxy.hec.fr
+dalloz.fr.ezproxy.hec.fr
+assistec-touch.hec.fr
+web.b.ebscohost.com.ezproxy.hec.fr
+bourses.hec.fr
+auth.hec.fr
+oecdilibrary.org.ezproxy.hec.fr
+appli8.hec.fr
+webconf.hec.fr
+mi439.hec.fr
+sip.hec.fr
+hec.fr.ezproxy.hec.fr
+cepr.org.ezproxy.hec.fr
+testinfothec.hec.fr
+mi406.hec.fr
+vpn-ssl-2.hec.fr
+lbvs191.hec.fr
+orbis-bvdinfo-com.ezproxy.hec.fr
+replay.hec.fr
+www.vocable.fr.ezproxy.hec.fr
+frhec3.hec.fr
+mi435.hec.fr
+mi394.hec.fr
+wwwsrv02.hec.fr
+e-quizz.hec.fr
+businessanalytics-apps.hec.fr
+trials.proquest.com.ezproxy.hec.fr
+confidence.hec.fr
+com.ezproxy.hec.fr
+academ.exed.hec.fr
+mi57.hec.fr
+www.workmaze.com.ezproxy.hec.fr
+mi542.hec.fr
+esi.webofknowledge.com.ezproxy.hec.fr
+my-curriculum.hec.fr
+siad2.hec.fr
+www.cairn.info.ezproxy.hec.fr
+mediaembacpa.hec.fr
+lamyline.lamy.fr.ezproxy.hec.fr
+aide.cairn.info.ezproxy.hec.fr
+ebsco-content.com.ezproxy.hec.fr
+emba.hec.fr
+uc.hec.fr
+statista.com.ezproxy.hec.fr
+www.cepr.org.ezproxy.hec.fr
+scripts.lexis360.fr.ezproxy.hec.fr
+testacme3.hec.fr
+frhec4.hec.fr
+org.ezproxy.hec.fr
+www.imf.org.ezproxy.hec.fr
+mi422.hec.fr
+kluwerarbitration.com.ezproxy.hec.fr
+blogs.forrester.com.ezproxy.hec.fr
+www.xerfi-knowledge.com.ezproxy.hec.fr
+mi660.hec.fr
+mi669.hec.fr
+uc-pool.hec.fr
+crm.cockpit.hec.fr
+global-factiva-com.ezproxy.hec.fr
+mi670.hec.fr
+mi622.hec.fr
+pwww.hec.fr
+mi495.hec.fr
+idp3.hec.fr
+auth.cockpit.hec.fr
+www.lextenso.fr.ezproxy.hec.fr
+ws.hec.fr
+online-survey.hec.fr
+vm-bl01.hec.fr
+campus.hec.fr
+papers.nber.org.ezproxy.hec.fr
+ucla.hec.fr
+jstor.org.ezproxy.hec.fr
+openresearch.hec.fr
+www-emeraldinsight-com.ezproxy.hec.fr
+crmdev.cockpit.hec.fr
+embacpa.hec.fr
+bibliotheque.immateriel.fr.ezproxy.hec.fr
+workmaze.com.ezproxy.hec.fr
+mi681.hec.fr
+poly3.hec.fr
+it-tips.hec.fr
+xerfi-knowledge.com.ezproxy.hec.fr
+mi576.hec.fr
+e-print-payment.hec.fr
+admin.exed.hec.fr
+mi595.hec.fr
+mi582.hec.fr
+ceremony.hec.fr
+www.business-digest.eu.ezproxy.hec.fr
+commencementceremony.hec.fr
+eni-training.com.ezproxy.hec.fr
+mail2.hec.fr
+images.webofknowledge.com.ezproxy.hec.fr
+www.exed.hec.fr
+bmo.bmiresearch.com.ezproxy.hec.fr
+nouveau.europresse.com.ezproxy.hec.fr
+academ.hec.fr
+imap.hec.fr
+go-forrester-com.ezproxy.hec.fr
+mi436.hec.fr
+forrester.com.ezproxy.hec.fr
+vocable.fr.ezproxy.hec.fr
+link.springer.com.ezproxy.hec.fr

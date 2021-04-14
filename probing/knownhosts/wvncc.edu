@@ -1,58 +1,24 @@
-NXDOMAIN	www.classicsite.wvncc.edu
-NXDOMAIN	fsportal.wvncc.edu
-NOERROR	webmail.wvncc.edu
-NOERROR	databases.mail.wvncc.edu
-NXDOMAIN	www.webmail.wvncc.edu
-NXDOMAIN	www.employeeportal.wvncc.edu
-NOERROR	catalog.wvncc.edu
-NOERROR	classicsite.wvncc.edu
-NOERROR	dev.wvncc.edu
-NOERROR	mail.wvncc.edu
-NXDOMAIN	exc02.wvncc.edu
-NOERROR	prt.wvncc.edu
-NXDOMAIN	exc01.wvncc.edu
-NOERROR	info.wvncc.edu
-NOERROR	m.catalog.wvncc.edu
-NXDOMAIN	sharept.wvncc.edu
-NXDOMAIN	webmail.adjunct.wvncc.edu
-NOERROR	employeeportal.wvncc.edu
-NXDOMAIN	staffportal.wvncc.edu
-NOERROR	wvncc.edu
-NOERROR	wvnccmail3.wvncc.edu
-NOERROR	view.wvncc.edu
-NXDOMAIN	techctr1.wvncc.edu
-NOERROR	alertus.wvncc.edu
-NXDOMAIN	exchange3.wvncc.edu
-NXDOMAIN	www.reporting.wvncc.edu
-NOERROR	cit.wvncc.edu
-NXDOMAIN	econtrol.wvncc.edu
-NXDOMAIN	facultyportal.wvncc.edu
-NXDOMAIN	www.exc02.wvncc.edu
-NXDOMAIN	www.student.mail.wvncc.edu
-NXDOMAIN	www.databases.mail.wvncc.edu
-NXDOMAIN	www.phil.mail.wvncc.edu
-NXDOMAIN	exc03.wvncc.edu
-NOERROR	portal.wvncc.edu
-NOERROR	www.wvncc.edu
-NOERROR	phil.mail.wvncc.edu
-NXDOMAIN	exchange.wvncc.edu
-NXDOMAIN	www.portal.wvncc.edu
-NXDOMAIN	mail.tour.wvncc.edu
-NXDOMAIN	student.mail.wvncc.edu
-NOERROR	wvnccmail.wvncc.edu
-NOERROR	tour.wvncc.edu
-NXDOMAIN	www.ex2010.wvncc.edu
-NXDOMAIN	portal.adjunct.wvncc.edu
-NXDOMAIN	www.wvnccmail3.wvncc.edu
-NXDOMAIN	www.fsportal.wvncc.edu
-NXDOMAIN	www.tour.wvncc.edu
-NOERROR	wvnccmail2.wvncc.edu
-NOERROR	oclc.wvncc.edu
-NXDOMAIN	www.wvnccmail2.wvncc.edu
-NXDOMAIN	reporting.wvncc.edu
-NXDOMAIN	www.wvnccmail.wvncc.edu
-NXDOMAIN	www.portal.adjunct.wvncc.edu
-NOERROR	recording.wvncc.edu
-NXDOMAIN	ex2010.wvncc.edu
-NOERROR	autodiscover.wvncc.edu
-NXDOMAIN	www.alertus.wvncc.edu
+webmail.wvncc.edu
+databases.mail.wvncc.edu
+catalog.wvncc.edu
+classicsite.wvncc.edu
+dev.wvncc.edu
+mail.wvncc.edu
+prt.wvncc.edu
+info.wvncc.edu
+m.catalog.wvncc.edu
+employeeportal.wvncc.edu
+wvncc.edu
+wvnccmail3.wvncc.edu
+view.wvncc.edu
+alertus.wvncc.edu
+cit.wvncc.edu
+portal.wvncc.edu
+www.wvncc.edu
+phil.mail.wvncc.edu
+wvnccmail.wvncc.edu
+tour.wvncc.edu
+wvnccmail2.wvncc.edu
+oclc.wvncc.edu
+recording.wvncc.edu
+autodiscover.wvncc.edu

@@ -1,97 +1,69 @@
-NOERROR	tdmoodle.tusculum.edu
-NXDOMAIN	ns2.tusculum.edu
-NOERROR	info.tusculum.edu
-NOERROR	go.tusculum.edu
-NOERROR	tcmoodle.tusculum.edu
-NOERROR	tconline2.tusculum.edu
-NOERROR	lists.tusculum.edu
-NOERROR	perceptor.tusculum.edu
-NXDOMAIN	epyon.tusculum.edu
-NOERROR	mail.tusculum.edu
-NOERROR	ra.tusculum.edu
-NOERROR	ilptest.tusculum.edu
-NOERROR	support.tusculum.edu
-NOERROR	elearn.tusculum.edu
-NXDOMAIN	tcweb2008.tusculum.edu
-NXDOMAIN	sulimo.tusculum.edu
-NOERROR	museumnews.tusculum.edu
-NOERROR	mail.tcstudents.tusculum.edu
-NOERROR	catalog.tusculum.edu
-NXDOMAIN	www.www3.tusculum.edu
-NOERROR	www1.tusculum.edu
-NOERROR	tc.tusculum.edu
-NOERROR	arts.tusculum.edu
-NOERROR	bruticus.tusculum.edu
-NOERROR	home.tusculum.edu
-NOERROR	site.tusculum.edu
-NXDOMAIN	ltest.tusculum.edu
-NXDOMAIN	thc.inferno.tusculum.edu
-NOERROR	library.tusculum.edu
-NOERROR	opensis.tusculum.edu
-NOERROR	bbb.tusculum.edu
-NXDOMAIN	neo.tusculum.edu
-NXDOMAIN	thc.infrno.tusculum.edu
-NOERROR	forms.tusculum.edu
-NOERROR	doakhouse.tusculum.edu
-NOERROR	help.tusculum.edu
-NOERROR	faculty.tusculum.edu
-NOERROR	m.tusculum.edu
-NOERROR	wtpl.tusculum.edu
-NOERROR	tctutoring.tusculum.edu
-NXDOMAIN	lammoth.tusculum.edu
-NOERROR	angband.tusculum.edu
-NOERROR	tclabserv.tusculum.edu
-NOERROR	tconline.tusculum.edu
-NOERROR	tuproud.tusculum.edu
-NOERROR	secure.tusculum.edu
-NXDOMAIN	www.thc.infreno.tusculum.edu
-NOERROR	athletics.tusculum.edu
-NOERROR	dayofgiving.tusculum.edu
-NOERROR	iasite.tusculum.edu
-NOERROR	ws.tusculum.edu
-NOERROR	tclabserv.lab.tusculum.edu
-NXDOMAIN	net.tusculum.edu
-NOERROR	www.tusculum.edu
-NOERROR	tcmoodle2.tusculum.edu
-NXDOMAIN	www.tcfaculty.tusculum.edu
-NOERROR	tclogins.tusculum.edu
-NOERROR	zendto.tusculum.edu
-NOERROR	apply.tusculum.edu
-NXDOMAIN	menegroth.tusculum.edu
-NOERROR	portal.tusculum.edu
-NOERROR	dusty.tusculum.edu
-NOERROR	my.tusculum.edu
-NXDOMAIN	neldoreth.tusculum.edu
-NXDOMAIN	remote.tusculum.edu
-NOERROR	cs.tusculum.edu
-NOERROR	tusculum.edu
-NXDOMAIN	ganoid.tusculum.edu
-NOERROR	www3.tusculum.edu
-NOERROR	graduates.tusculum.edu
-NOERROR	tcweb2012.tusculum.edu
-NOERROR	aragorn.tusculum.edu
-NOERROR	museums.tusculum.edu
-NOERROR	intranet.tusculum.edu
-NOERROR	online.tusculum.edu
-NXDOMAIN	tcfaculty.tusculum.edu
-NXDOMAIN	indis.tusculum.edu
-NXDOMAIN	www.go.tusculum.edu
-NXDOMAIN	www.my.tusculum.edu
-NOERROR	www2.tusculum.edu
-NOERROR	dining.tusculum.edu
-NOERROR	main.tusculum.edu
-NOERROR	garland.tusculum.edu
-NXDOMAIN	mud.tusculum.edu
-NXDOMAIN	www.inferno.tusculum.edu
-NXDOMAIN	3.tusculum.edu
-NXDOMAIN	2.tusculum.edu
-NOERROR	bookstore.tusculum.edu
-NOERROR	ajmuseum.tusculum.edu
-NXDOMAIN	cics.tusculum.edu
-NXDOMAIN	competency.tusculum.edu
-NOERROR	share.tusculum.edu
-NXDOMAIN	inferno.tusculum.edu
-NOERROR	225.tusculum.edu
-NOERROR	web.tusculum.edu
-NOERROR	baggins.tusculum.edu
-NOERROR	events.tusculum.edu
+tdmoodle.tusculum.edu
+info.tusculum.edu
+go.tusculum.edu
+tcmoodle.tusculum.edu
+tconline2.tusculum.edu
+lists.tusculum.edu
+perceptor.tusculum.edu
+mail.tusculum.edu
+ra.tusculum.edu
+ilptest.tusculum.edu
+support.tusculum.edu
+elearn.tusculum.edu
+museumnews.tusculum.edu
+mail.tcstudents.tusculum.edu
+catalog.tusculum.edu
+www1.tusculum.edu
+tc.tusculum.edu
+arts.tusculum.edu
+bruticus.tusculum.edu
+home.tusculum.edu
+site.tusculum.edu
+library.tusculum.edu
+opensis.tusculum.edu
+bbb.tusculum.edu
+forms.tusculum.edu
+doakhouse.tusculum.edu
+help.tusculum.edu
+faculty.tusculum.edu
+m.tusculum.edu
+wtpl.tusculum.edu
+tctutoring.tusculum.edu
+angband.tusculum.edu
+tclabserv.tusculum.edu
+tconline.tusculum.edu
+tuproud.tusculum.edu
+secure.tusculum.edu
+athletics.tusculum.edu
+dayofgiving.tusculum.edu
+iasite.tusculum.edu
+ws.tusculum.edu
+tclabserv.lab.tusculum.edu
+www.tusculum.edu
+tcmoodle2.tusculum.edu
+tclogins.tusculum.edu
+zendto.tusculum.edu
+apply.tusculum.edu
+portal.tusculum.edu
+dusty.tusculum.edu
+my.tusculum.edu
+cs.tusculum.edu
+tusculum.edu
+www3.tusculum.edu
+graduates.tusculum.edu
+tcweb2012.tusculum.edu
+aragorn.tusculum.edu
+museums.tusculum.edu
+intranet.tusculum.edu
+online.tusculum.edu
+www2.tusculum.edu
+dining.tusculum.edu
+main.tusculum.edu
+garland.tusculum.edu
+bookstore.tusculum.edu
+ajmuseum.tusculum.edu
+share.tusculum.edu
+225.tusculum.edu
+web.tusculum.edu
+baggins.tusculum.edu
+events.tusculum.edu

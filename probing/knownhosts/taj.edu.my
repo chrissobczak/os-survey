@@ -1,9 +1,3 @@
-NXDOMAIN	nmc.taj.edu.my
-NXDOMAIN	ns1.taj.edu.my
-NXDOMAIN	webmail.taj.edu.my
-NXDOMAIN	library.taj.edu.my
-NOERROR	taj.edu.my
-NXDOMAIN	ns2.taj.edu.my
-NOERROR	www.taj.edu.my
-NOERROR	mail.taj.edu.my
-NXDOMAIN	mx.taj.edu.my
+taj.edu.my
+www.taj.edu.my
+mail.taj.edu.my

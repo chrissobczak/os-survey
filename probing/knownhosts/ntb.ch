@@ -1,2585 +1,1765 @@
-NOERROR	pcies053.ntb.ch
-NOERROR	cdaqems008.ntb.ch
-NOERROR	pcice050.ntb.ch
-NXDOMAIN	nbwinf008.ntb.ch
-NXDOMAIN	pcice012.ntb.ch
-NOERROR	raspberryinf009.ntb.ch
-NOERROR	oscesa213.ntb.ch
-NOERROR	psies011.ntb.ch
-NOERROR	spsies003.ntb.ch
-NOERROR	mmel203a.ntb.ch
-NOERROR	mmesa033.ntb.ch
-NXDOMAIN	sep649ef3990194.ntb.ch
-NOERROR	pcems113.ntb.ch
-NOERROR	pcems126.ntb.ch
-NOERROR	iwmc001.ntb.ch
-NOERROR	psies001.ntb.ch
-NOERROR	fgies001.ntb.ch
-NOERROR	hzg3924-1.ntb.ch
-NXDOMAIN	galaxy-s20.ntb.ch
-NOERROR	npi0d22e8.ntb.ch
-NOERROR	pcwpz007.ntb.ch
-NOERROR	spsems010.ntb.ch
-NOERROR	nbrhysearch012.ntb.ch
-NXDOMAIN	pcwklz124.ntb.ch
-NXDOMAIN	hpandi.ntb.ch
-NOERROR	es154.ntb.ch
-NOERROR	es122.ntb.ch
-NOERROR	mi9t-mi9t.ntb.ch
-NXDOMAIN	pcems072.ntb.ch
-NOERROR	staging.web001.ntb.ch
-NOERROR	tssalto4950-1.ntb.ch
-NOERROR	matrixvw106.ntb.ch
-NXDOMAIN	nbpwo-li.ntb.ch
-NOERROR	oscesa202.ntb.ch
-NXDOMAIN	sep0025846124a1.ntb.ch
-NOERROR	pcwklz053.ntb.ch
-NOERROR	apw104-1.ntb.ch
-NOERROR	green.web02.ntb.ch
-NOERROR	oscesa221.ntb.ch
-NOERROR	pcklz381.ntb.ch
-NXDOMAIN	pries007.ntb.ch
-NOERROR	robiinf027.ntb.ch
-NXDOMAIN	prpwo002.ntb.ch
-NOERROR	pcklz110.ntb.ch
-NXDOMAIN	webcamg2.ntb.ch
-NOERROR	evalbot001.ntb.ch
-NOERROR	altium001.ntb.ch
-NOERROR	oscwems115.ntb.ch
-NOERROR	es159.ntb.ch
-NXDOMAIN	prrhysearch003.ntb.ch
-NOERROR	pcmnt051.ntb.ch
-NXDOMAIN	iphonevmatthias.ntb.ch
-NOERROR	oscinf001.ntb.ch
-NOERROR	digiel026.ntb.ch
-NOERROR	0cb2b703f55b-mysimplelink.ntb.ch
-NOERROR	pcwklz077.ntb.ch
-NOERROR	pcverw005.ntb.ch
-NXDOMAIN	galaxy-s8.ntb.ch
-NOERROR	tssalto4163-1.ntb.ch
-NXDOMAIN	pcesa204.ntb.ch
-NOERROR	es125.ntb.ch
-NXDOMAIN	sep002584611fbb.ntb.ch
-NOERROR	es010.ntb.ch
-NOERROR	as3038-1.ntb.ch
-NOERROR	vmklz-scur.ntb.ch
-NOERROR	ap1000-2.ntb.ch
-NXDOMAIN	prwverw4.ntb.ch
-NXDOMAIN	pcies067.ntb.ch
-NOERROR	0cb2b704488b-mysimplelink.ntb.ch
-NXDOMAIN	g7-thinq.ntb.ch
-NOERROR	pcinf006.ntb.ch
-NOERROR	nbkeller001.ntb.ch
-NOERROR	es119.ntb.ch
-NXDOMAIN	prpwo005.ntb.ch
-NXDOMAIN	android-3bcbb5fae2f4017a.ntb.ch
-NOERROR	spsautom014.ntb.ch
-NOERROR	test.web02.ntb.ch
-NXDOMAIN	huawei_mate_20_lite-86d25.ntb.ch
-NXDOMAIN	prbiblio001.ntb.ch
-NOERROR	oscesa215.ntb.ch
-NOERROR	hpc001-storage1.ntb.ch
-NOERROR	pcwklz087.ntb.ch
-NOERROR	hpc110.ntb.ch
-NOERROR	es157.ntb.ch
-NXDOMAIN	desktop-krre9i8.ntb.ch
-NXDOMAIN	radius002.ntb.ch
-NXDOMAIN	hv010.ntb.ch
-NXDOMAIN	pcel133.ntb.ch
-NOERROR	pcklz222.ntb.ch
-NOERROR	spsmies002.ntb.ch
-NOERROR	oscesa232.ntb.ch
-NOERROR	xboxid001.ntb.ch
-NOERROR	spsems012.ntb.ch
-NXDOMAIN	pcinf021.ntb.ch
-NOERROR	axdb001.ntb.ch
-NOERROR	salto.ntb.ch
-NOERROR	hpc001-storage2.ntb.ch
-NOERROR	klimaimp-basis.ntb.ch
-NOERROR	pcice047.ntb.ch
-NOERROR	adm001.ntb.ch
-NOERROR	pcmnt033.ntb.ch
-NOERROR	pcesa037.ntb.ch
-NXDOMAIN	prinf002.ntb.ch
-NXDOMAIN	nbgewi001.ntb.ch
-NOERROR	robiinf015.ntb.ch
-NOERROR	ap1140-1.ntb.ch
-NOERROR	pcwklz078.ntb.ch
-NXDOMAIN	redminote7-redmi.ntb.ch
-NOERROR	spsautom015.ntb.ch
-NXDOMAIN	galaxy-s10.ntb.ch
-NXDOMAIN	comnt001.ntb.ch
-NXDOMAIN	pcpwo020.ntb.ch
-NXDOMAIN	prems010.ntb.ch
-NOERROR	wsems007.ntb.ch
-NXDOMAIN	pcies066.ntb.ch
-NOERROR	camwautom001.ntb.ch
-NOERROR	oscesa207.ntb.ch
-NXDOMAIN	mo-laptop.ntb.ch
-NOERROR	bu001_1gb.ntb.ch
-NXDOMAIN	iphonevlexandre.ntb.ch
-NOERROR	pcklz236.ntb.ch
-NOERROR	mmel207b.ntb.ch
-NOERROR	nbpwo004.ntb.ch
-NOERROR	vmklz008.ntb.ch
-NOERROR	es171.ntb.ch
-NOERROR	pctt001.ntb.ch
-NOERROR	apw106-1.ntb.ch
-NOERROR	klima003.ntb.ch
-NXDOMAIN	inf-server3.ntb.ch
-NOERROR	pcmnt072.ntb.ch
-NOERROR	raspberryesa022.ntb.ch
-NOERROR	vmliteratur.ntb.ch
-NXDOMAIN	sandramrcosipad.ntb.ch
-NOERROR	es175.ntb.ch
-NOERROR	spswautom006.ntb.ch
-NOERROR	psies002.ntb.ch
-NXDOMAIN	coverw001.ntb.ch
-NXDOMAIN	radius3-server.ntb.ch
-NXDOMAIN	pcpwo-videocheck.ntb.ch
-NOERROR	oscinf005.ntb.ch
-NOERROR	es004.ntb.ch
-NOERROR	proe-server.ntb.ch
-NXDOMAIN	pcice045.ntb.ch
-NOERROR	robiinf026.ntb.ch
-NXDOMAIN	pcwel113.ntb.ch
-NXDOMAIN	pcems25.ntb.ch
-NOERROR	pwrvinf.ntb.ch
-NXDOMAIN	clhpc002.ntb.ch
-NXDOMAIN	fg3h1e5818900054.ntb.ch
-NOERROR	pcwklz058.ntb.ch
-NOERROR	mmwems104.ntb.ch
-NXDOMAIN	pcwems202.ntb.ch
-NOERROR	robiinf020.ntb.ch
-NXDOMAIN	galaxy-a51.ntb.ch
-NOERROR	huawei_p30_lite-eb16bac8b.ntb.ch
-NXDOMAIN	prmnt004.ntb.ch
-NOERROR	crmplayground.test.ntb.ch
-NOERROR	crmauth.test.ntb.ch
-NOERROR	oscel216.ntb.ch
-NOERROR	spswems002.ntb.ch
-NOERROR	44ead81d15ca-mysimplelink.ntb.ch
-NXDOMAIN	iphonevonlaszlo.ntb.ch
-NXDOMAIN	desktop-c6t4dtn.ntb.ch
-NXDOMAIN	radius1-server.ntb.ch
-NOERROR	pcems093.ntb.ch
-NXDOMAIN	android-b9f72b15259907b3.ntb.ch
-NOERROR	chwpoly001.ntb.ch
-NOERROR	mmel201b.ntb.ch
-NXDOMAIN	prverw008.ntb.ch
-NOERROR	knxtpw108.ntb.ch
-NXDOMAIN	pcmnt052.ntb.ch
-NOERROR	esems001.ntb.ch
-NOERROR	tssalto4050-1.ntb.ch
-NOERROR	0cb2b70456d5-mysimplelink.ntb.ch
-NOERROR	as3135-2.ntb.ch
-NOERROR	mmesa034.ntb.ch
-NXDOMAIN	pcwinf017.ntb.ch
-NXDOMAIN	pcwklz109.ntb.ch
-NOERROR	as2142-5.ntb.ch
-NOERROR	beagleel05.ntb.ch
-NXDOMAIN	pcmnt085.ntb.ch
-NXDOMAIN	pcesa212.ntb.ch
-NOERROR	tssalto4931-1.ntb.ch
-NOERROR	apw100-2.ntb.ch
-NOERROR	raspberryies003.ntb.ch
-NXDOMAIN	nbmnt025.ntb.ch
-NOERROR	robiinf014.ntb.ch
-NOERROR	7c010a73c64e-mysimplelink.ntb.ch
-NXDOMAIN	pcwinf031.ntb.ch
-NOERROR	cdaqems002.ntb.ch
-NOERROR	spsmies013.ntb.ch
-NXDOMAIN	s21-von-vincenzo.ntb.ch
-NOERROR	es113.ntb.ch
-NOERROR	pbel11.ntb.ch
-NOERROR	spsems016.ntb.ch
-NXDOMAIN	pcies007.ntb.ch
-NXDOMAIN	pcems085.ntb.ch
-NXDOMAIN	pc1219.ntb.ch
-NOERROR	ap2044-1.ntb.ch
-NOERROR	mmwems114.ntb.ch
-NXDOMAIN	pc1433.ntb.ch
-NOERROR	criomps1.ntb.ch
-NOERROR	pcklz220.ntb.ch
-NOERROR	pcklz241.ntb.ch
-NOERROR	sofs001-storage11.ntb.ch
-NXDOMAIN	pcwems303.ntb.ch
-NOERROR	apw202-1.ntb.ch
-NOERROR	spsiesf006.ntb.ch
-NOERROR	rtswisscombuchs01.ntb.ch
-NOERROR	raspberryesa019_1.ntb.ch
-NOERROR	3292.ntb.ch
-NXDOMAIN	crm001.ntb.ch
-NOERROR	spsautom009.ntb.ch
-NOERROR	tfs1-server.ntb.ch
-NOERROR	spsautom010.ntb.ch
-NOERROR	cow100.ntb.ch
-NOERROR	es132.ntb.ch
-NOERROR	vmadunis001.ntb.ch
-NOERROR	magic.ntb.ch
-NOERROR	3203.ntb.ch
-NXDOMAIN	nbinf008.ntb.ch
-NOERROR	pcpwo-alicona.ntb.ch
-NOERROR	oscwems108.ntb.ch
-NOERROR	nies241.ntb.ch
-NOERROR	pbel04.ntb.ch
-NOERROR	tssalto3000-1.ntb.ch
-NOERROR	mmwems103.ntb.ch
-NXDOMAIN	hv010-storage1.ntb.ch
-NOERROR	crm002.ntb.ch
-NOERROR	pwrheiapriv.ntb.ch
-NOERROR	as3121-2.ntb.ch
-NOERROR	mczw001.ntb.ch
-NOERROR	digiel031.ntb.ch
-NOERROR	sep00270d3eb2dd.ntb.ch
-NOERROR	pcklz119.ntb.ch
-NOERROR	nbies011.ntb.ch
-NOERROR	as1919-1.ntb.ch
-NOERROR	pcklz102.ntb.ch
-NOERROR	chpoly001.ntb.ch
-NXDOMAIN	pcies071.ntb.ch
-NOERROR	vmhpc009.ntb.ch
-NXDOMAIN	pcwel100.ntb.ch
-NXDOMAIN	nbrhysearch015.ntb.ch
-NOERROR	pcxibo002.ntb.ch
-NOERROR	vmhpc022.ntb.ch
-NXDOMAIN	pcautom004.ntb.ch
-NOERROR	aai-aa.ntb.ch
-NOERROR	spsies201.ntb.ch
-NOERROR	apw105-1.ntb.ch
-NOERROR	nbhlf001.ntb.ch
-NOERROR	mmwems109.ntb.ch
-NOERROR	hzg1-server.ntb.ch
-NOERROR	es039.ntb.ch
-NXDOMAIN	pcwinf012.ntb.ch
-NOERROR	pcklz240.ntb.ch
-NOERROR	pc2062.ntb.ch
-NOERROR	spswems012.ntb.ch
-NOERROR	pcklz226.ntb.ch
-NOERROR	awusb001.ntb.ch
-NOERROR	pcwklz092.ntb.ch
-NOERROR	vmhpc007.ntb.ch
-NOERROR	hpc001-rmm.ntb.ch
-NOERROR	nies112.ntb.ch
-NOERROR	pbel18.ntb.ch
-NOERROR	mmesa030.ntb.ch
-NXDOMAIN	sep0026cb00ebc3.ntb.ch
-NXDOMAIN	pcesa317.ntb.ch
-NXDOMAIN	nbems033.ntb.ch
-NOERROR	oscesa216.ntb.ch
-NOERROR	raspberryesa011.ntb.ch
-NOERROR	0cb2b703e709-mysimplelink.ntb.ch
-NXDOMAIN	nbems030.ntb.ch
-NXDOMAIN	nbems001.ntb.ch
-NOERROR	awusb004.ntb.ch
-NOERROR	ni-crio9024-0176b119.ntb.ch
-NXDOMAIN	pcwems310.ntb.ch
-NOERROR	as2142-4.ntb.ch
-NOERROR	pcice035.ntb.ch
-NXDOMAIN	pcwems305.ntb.ch
-NOERROR	fgwems102.ntb.ch
-NOERROR	adunis002.ntb.ch
-NOERROR	ls.ntb.ch
-NXDOMAIN	pcems088.ntb.ch
-NXDOMAIN	pcwinf019.ntb.ch
-NXDOMAIN	pcesa030.ntb.ch
-NOERROR	web003.ntb.ch
-NXDOMAIN	pcies057.ntb.ch
-NOERROR	nexus001.ntb.ch
-NXDOMAIN	team-server.ntb.ch
-NXDOMAIN	iphone.ntb.ch
-NOERROR	es002.ntb.ch
-NOERROR	pcems110.ntb.ch
-NXDOMAIN	galaxy-a20e.ntb.ch
-NOERROR	spsiesf001.ntb.ch
-NOERROR	xportel2.ntb.ch
-NXDOMAIN	nbverw003.ntb.ch
-NXDOMAIN	pcrhysearch003.ntb.ch
-NXDOMAIN	pcwinf003.ntb.ch
-NXDOMAIN	pczw007.ntb.ch
-NOERROR	es071.ntb.ch
-NOERROR	0cb2b7044d7c-mysimplelink.ntb.ch
-NOERROR	spsautom011.ntb.ch
-NOERROR	as2163-2.ntb.ch
-NOERROR	fgwems304.ntb.ch
-NOERROR	es054.ntb.ch
-NOERROR	zw001.ntb.ch
-NOERROR	mmel213b.ntb.ch
-NXDOMAIN	prcad001.ntb.ch
-NXDOMAIN	aptest.ntb.ch
-NOERROR	oscel002.ntb.ch
-NXDOMAIN	pcpwo012.ntb.ch
-NXDOMAIN	pcwklz119.ntb.ch
-NOERROR	spsautom005.ntb.ch
-NOERROR	hzg2910-2.ntb.ch
-NOERROR	xibo.web001.ntb.ch
-NXDOMAIN	pcpwo013.ntb.ch
-NXDOMAIN	nbrhysearch009.ntb.ch
-NOERROR	nbpwo017.ntb.ch
-NXDOMAIN	desktop-dpl35df.ntb.ch
-NXDOMAIN	sep002584611d78.ntb.ch
-NXDOMAIN	prpwo006.ntb.ch
-NXDOMAIN	galaxy-s6.ntb.ch
-NXDOMAIN	pcmnt015.ntb.ch
-NOERROR	pcw105.ntb.ch
-NOERROR	mmel210a.ntb.ch
-NOERROR	as3035-1.ntb.ch
-NOERROR	hpc003-storage1.ntb.ch
-NOERROR	nbmarketing003.ntb.ch
-NOERROR	fshpc002.ntb.ch
-NOERROR	spsmies009.ntb.ch
-NXDOMAIN	pcesa215.ntb.ch
-NXDOMAIN	hpe11b6e.ntb.ch
-NXDOMAIN	pczw008.ntb.ch
-NOERROR	pcems015.ntb.ch
-NOERROR	es076.ntb.ch
-NXDOMAIN	iphonevonmoritz.ntb.ch
-NXDOMAIN	prverw003.ntb.ch
-NOERROR	fhsg.web02.ntb.ch
-NOERROR	vmhpc008.ntb.ch
-NXDOMAIN	pcclab105.ntb.ch
-NOERROR	bdi2000inf01.ntb.ch
-NOERROR	stor002.ntb.ch
-NOERROR	ap2952-1.ntb.ch
-NOERROR	fritzboxid001.ntb.ch
-NOERROR	raspberryesa012.ntb.ch
-NOERROR	digiel006.ntb.ch
-NOERROR	pcems096.ntb.ch
-NOERROR	7c010a73dab5-mysimplelink.ntb.ch
-NOERROR	es162.ntb.ch
-NOERROR	matrixaw106.ntb.ch
-NOERROR	spsmies006.ntb.ch
-NXDOMAIN	huawei_p20_pro-87bef534d8.ntb.ch
-NOERROR	pcklz907.ntb.ch
-NOERROR	robiinf019.ntb.ch
-NOERROR	dnp9200el001.ntb.ch
-NOERROR	fgwems112.ntb.ch
-NOERROR	pcice017.ntb.ch
-NXDOMAIN	android-f7dd266b685505cd.ntb.ch
-NXDOMAIN	nbverw007.ntb.ch
-NXDOMAIN	pcmnt48.ntb.ch
-NOERROR	hpc118-rmm.ntb.ch
-NOERROR	tssalto4031-1.ntb.ch
-NOERROR	psies006.ntb.ch
-NOERROR	pospoly001.ntb.ch
-NXDOMAIN	oppo-find-x2-neo.ntb.ch
-NOERROR	sofs002-storage11.ntb.ch
-NXDOMAIN	oneplus7pro.ntb.ch
-NOERROR	license-server.ntb.ch
-NXDOMAIN	a-dx2024a-51688.ntb.ch
-NOERROR	web02.ntb.ch
-NXDOMAIN	prverw011.ntb.ch
-NOERROR	ap2948-1.ntb.ch
-NOERROR	license1-server.ntb.ch
-NOERROR	apw011-1.ntb.ch
-NOERROR	oscwems309.ntb.ch
-NOERROR	hc003.ntb.ch
-NOERROR	crmint.test.ntb.ch
-NXDOMAIN	desktop-ldreg54.ntb.ch
-NOERROR	pcwklz094.ntb.ch
-NXDOMAIN	mail-server.ntb.ch
-NXDOMAIN	pcel132.ntb.ch
-NOERROR	nbpwo-gom.ntb.ch
-NOERROR	es176.ntb.ch
-NOERROR	apw001-1.ntb.ch
-NOERROR	asw001-3.ntb.ch
-NOERROR	hpc108-rmm.ntb.ch
-NXDOMAIN	sep002584611af6.ntb.ch
-NXDOMAIN	pcclab029.ntb.ch
-NOERROR	inf002.ntb.ch
-NOERROR	spsiesf008.ntb.ch
-NOERROR	hpc111.ntb.ch
-NXDOMAIN	minote10-miphone.ntb.ch
-NOERROR	mmesa028.ntb.ch
-NXDOMAIN	pcies074.ntb.ch
-NXDOMAIN	pcesa207.ntb.ch
-NXDOMAIN	nbmnt017.ntb.ch
-NOERROR	robiinf023.ntb.ch
-NXDOMAIN	pcwklz105.ntb.ch
-NOERROR	as4037-4.ntb.ch
-NOERROR	psies004.ntb.ch
-NXDOMAIN	desktop-fjgpl73.ntb.ch
-NOERROR	webcamvinf.ntb.ch
-NOERROR	nies108.ntb.ch
-NOERROR	tssalto3900-2.ntb.ch
-NXDOMAIN	pcems073.ntb.ch
-NOERROR	pcwklz098.ntb.ch
-NOERROR	ap2900-1.ntb.ch
-NOERROR	es141.ntb.ch
-NOERROR	rtel01.ntb.ch
-NOERROR	mmesa039.ntb.ch
-NOERROR	awusb005.ntb.ch
-NXDOMAIN	pcwklz129.ntb.ch
-NOERROR	spsmies007.ntb.ch
-NOERROR	bu002.ntb.ch
-NOERROR	go.ntb.ch
-NOERROR	as2948-2-mgmt.ntb.ch
-NXDOMAIN	pcwklz040.ntb.ch
-NOERROR	pcklz905.ntb.ch
-NOERROR	es138.ntb.ch
-NXDOMAIN	pcel010.ntb.ch
-NOERROR	es093.ntb.ch
-NXDOMAIN	pcchemie9.ntb.ch
-NOERROR	brw001.ntb.ch
-NXDOMAIN	pcmed003.ntb.ch
-NOERROR	nc001.ntb.ch
-NOERROR	pcinf044.ntb.ch
-NOERROR	ost.web02.ntb.ch
-NOERROR	gt1901-1.ntb.ch
-NXDOMAIN	huawei_p8_lite.ntb.ch
-NOERROR	pbxbuchs002.ntb.ch
-NOERROR	oscwems303.ntb.ch
-NOERROR	plinf001_1.ntb.ch
-NOERROR	mmesa016.ntb.ch
-NOERROR	nies114.ntb.ch
-NOERROR	android-586a5512ad93dbd2.ntb.ch
-NOERROR	nies103.ntb.ch
-NOERROR	vcwautom001.ntb.ch
-NOERROR	es153.ntb.ch
-NOERROR	ntb.ch
-NOERROR	apbrel002.ntb.ch
-NOERROR	rheinlab001.ntb.ch
-NXDOMAIN	pcinf004.ntb.ch
-NXDOMAIN	nbrhysearch016.ntb.ch
-NOERROR	cfpemsoe1.ntb.ch
-NOERROR	spsems013.ntb.ch
-NOERROR	vmmatlab001.ntb.ch
-NXDOMAIN	pcmnt092.ntb.ch
-NOERROR	toradex5.ntb.ch
-NOERROR	pcies031.ntb.ch
-NOERROR	vmgrund-corp.ntb.ch
-NOERROR	stage-pj.web002.ntb.ch
-NXDOMAIN	prw005.ntb.ch
-NOERROR	vdpoly4.ntb.ch
-NXDOMAIN	huawei_mate_20_lite-e4ae0.ntb.ch
-NOERROR	pcmnt022.ntb.ch
-NOERROR	spsautom004.ntb.ch
-NOERROR	nbesa003.ntb.ch
-NXDOMAIN	tobiass-iphone.ntb.ch
-NOERROR	co1134.ntb.ch
-NOERROR	klimapwo001.ntb.ch
-NXDOMAIN	pctd009.ntb.ch
-NXDOMAIN	pczw001.ntb.ch
-NOERROR	bu001.ntb.ch
-NXDOMAIN	pries001.ntb.ch
-NOERROR	fgwems312.ntb.ch
-NOERROR	oscesa214.ntb.ch
-NOERROR	co1000.ntb.ch
-NOERROR	0cb2b703e714-mysimplelink.ntb.ch
-NOERROR	hpf60526.ntb.ch
-NOERROR	webcamid001a.ntb.ch
-NXDOMAIN	npi032cb3.ntb.ch
-NOERROR	ap3073-1.ntb.ch
-NOERROR	pcrhysearch005.ntb.ch
-NOERROR	raspberryies001.ntb.ch
-NOERROR	id.web001.ntb.ch
-NOERROR	raspberryesa024.ntb.ch
-NOERROR	vdpoly001.ntb.ch
-NOERROR	cdaqems006.ntb.ch
-NOERROR	wptemp002.ntb.ch
-NOERROR	pcwklz052.ntb.ch
-NOERROR	es116.ntb.ch
-NOERROR	bu001-rmm.ntb.ch
-NOERROR	lmgies101.ntb.ch
-NXDOMAIN	tfs001.ntb.ch
-NOERROR	es013.ntb.ch
-NOERROR	spsmps001.ntb.ch
-NOERROR	salto001.ntb.ch
-NOERROR	awusb003.ntb.ch
-NXDOMAIN	pcesa203.ntb.ch
-NOERROR	pcems109.ntb.ch
-NOERROR	oscesa208.ntb.ch
-NOERROR	oscwems307.ntb.ch
-NOERROR	fgwems303.ntb.ch
-NOERROR	pcpoly003.ntb.ch
-NXDOMAIN	desktop-omjna4l.ntb.ch
-NXDOMAIN	pcwems307.ntb.ch
-NOERROR	crmdisc.ntb.ch
-NOERROR	pcwklz079.ntb.ch
-NOERROR	www.in.www.ntb.ch
-NOERROR	mmies010.ntb.ch
-NXDOMAIN	nbems027.ntb.ch
-NXDOMAIN	pcesa032.ntb.ch
-NXDOMAIN	pccklz073.ntb.ch
-NOERROR	spswautom008.ntb.ch
-NOERROR	spsies401.ntb.ch
-NXDOMAIN	colibri-imx6.ntb.ch
-NXDOMAIN	android-cd3d8136c7d4a51a.ntb.ch
-NOERROR	sep0016c7c7a150.ntb.ch
-NOERROR	brw003.ntb.ch
-NXDOMAIN	pcesa027.ntb.ch
-NXDOMAIN	sep0025846119c1.ntb.ch
-NOERROR	nies123.ntb.ch
-NOERROR	stage8-pj.web002.ntb.ch
-NOERROR	bdi3000inf02.ntb.ch
-NOERROR	pbel13.ntb.ch
-NOERROR	0cb2b7044d37-mysimplelink.ntb.ch
-NOERROR	oscesa203.ntb.ch
-NOERROR	spsiesf014.ntb.ch
-NXDOMAIN	pr1340.ntb.ch
-NXDOMAIN	ipad-5.ntb.ch
-NXDOMAIN	sep001d451bbc94.ntb.ch
-NOERROR	knx2-0-255-2917-1.ntb.ch
-NOERROR	pcklz229.ntb.ch
-NXDOMAIN	nbverw001.ntb.ch
-NOERROR	vcautom002.ntb.ch
-NXDOMAIN	nbinf007.ntb.ch
-NOERROR	hdmi-stream001.ntb.ch
-NOERROR	pcimp-scopecheck.ntb.ch
-NOERROR	oscwems310.ntb.ch
-NOERROR	robiinf022.ntb.ch
-NOERROR	br-automation.ntb.ch
-NXDOMAIN	prverw010.ntb.ch
-NOERROR	hv003-storage1.ntb.ch
-NOERROR	xportel1.ntb.ch
-NOERROR	sep002584612069.ntb.ch
-NOERROR	44ead81d2182-mysimplelink.ntb.ch
-NOERROR	mmesa035.ntb.ch
-NOERROR	npi8dbe5e.ntb.ch
-NXDOMAIN	pries009.ntb.ch
-NXDOMAIN	fg3h1e5818900345.ntb.ch
-NOERROR	mmesa012.ntb.ch
-NXDOMAIN	pcmnt024.ntb.ch
-NOERROR	mmesa036.ntb.ch
-NOERROR	mmel206a.ntb.ch
-NOERROR	vmhpc026.ntb.ch
-NOERROR	spswautom002.ntb.ch
-NOERROR	limesurvey.ntb.ch
-NOERROR	fgwems302.ntb.ch
-NXDOMAIN	hv011-storage1.ntb.ch
-NOERROR	mmesa041.ntb.ch
-NXDOMAIN	sep0025846110a6.ntb.ch
-NOERROR	adc001.ntb.ch
-NOERROR	apw700-1.ntb.ch
-NXDOMAIN	pcesa205.ntb.ch
-NOERROR	vmcmtrain.ntb.ch
-NXDOMAIN	dell-xps.ntb.ch
-NOERROR	fieldpointems1.ntb.ch
-NOERROR	as2142-3.ntb.ch
-NXDOMAIN	desktop-quqcefv.ntb.ch
-NOERROR	nies221.ntb.ch
-NOERROR	es121.ntb.ch
-NOERROR	apbrel001.ntb.ch
-NOERROR	xportel3.ntb.ch
-NOERROR	pcid005.ntb.ch
-NOERROR	pcwklz085.ntb.ch
-NXDOMAIN	pcwems304.ntb.ch
-NXDOMAIN	sccm_km.ntb.ch
-NOERROR	vdpoly003.ntb.ch
-NXDOMAIN	laptop-teb0busr.ntb.ch
-NOERROR	voipdecoderid001.ntb.ch
-NOERROR	apw017-1.ntb.ch
-NOERROR	3275.ntb.ch
-NXDOMAIN	prverw009.ntb.ch
-NOERROR	kms001.ntb.ch
-NXDOMAIN	hpaa3be0.ntb.ch
-NOERROR	es001.ntb.ch
-NXDOMAIN	oneplus6.ntb.ch
-NOERROR	as2163-1.ntb.ch
-NOERROR	oscwems102.ntb.ch
-NOERROR	fgwems110.ntb.ch
-NOERROR	cdaqems004.ntb.ch
-NXDOMAIN	pcinf055.ntb.ch
-NOERROR	es050.ntb.ch
-NOERROR	pcid007.ntb.ch
-NOERROR	fgwems109.ntb.ch
-NOERROR	hpc002-rmm.ntb.ch
-NXDOMAIN	prems004.ntb.ch
-NOERROR	spsems005.ntb.ch
-NOERROR	git.ntb.ch
-NOERROR	sofs001-storage21.ntb.ch
-NXDOMAIN	pcmnt048.ntb.ch
-NOERROR	es148.ntb.ch
-NOERROR	oscesa233.ntb.ch
-NOERROR	pbel07.ntb.ch
-NOERROR	tssalto1000-1.ntb.ch
-NXDOMAIN	pcesa026.ntb.ch
-NOERROR	digiel004.ntb.ch
-NXDOMAIN	pcinf032.ntb.ch
-NOERROR	vmhpc005.ntb.ch
-NXDOMAIN	pcice003.ntb.ch
-NXDOMAIN	iphonevonthomas.ntb.ch
-NOERROR	cp-4c45a8.ntb.ch
-NXDOMAIN	pcems125.ntb.ch
-NOERROR	www.web003.ntb.ch
-NOERROR	hv003.ntb.ch
-NOERROR	oscwems114.ntb.ch
-NXDOMAIN	desktop-lsjrf03.ntb.ch
-NOERROR	pwrinf001.ntb.ch
-NXDOMAIN	sep0025846122ca.ntb.ch
-NXDOMAIN	pcesa206.ntb.ch
-NXDOMAIN	lukasoneplus.ntb.ch
-NXDOMAIN	wunder-beatrice.ntb.ch
-NOERROR	es139.ntb.ch
-NOERROR	es016.ntb.ch
-NOERROR	spsies002.ntb.ch
-NOERROR	pcklz906.ntb.ch
-NXDOMAIN	lcry3511n15500.ntb.ch
-NXDOMAIN	nbmnt003.ntb.ch
-NOERROR	spsiesf004.ntb.ch
-NOERROR	hc002.ntb.ch
-NOERROR	mmesa018.ntb.ch
-NOERROR	vmklz-tobd.ntb.ch
-NOERROR	pcwklz062.ntb.ch
-NOERROR	digiel012.ntb.ch
-NXDOMAIN	prms002.ntb.ch
-NOERROR	pcmnt016.ntb.ch
-NOERROR	as1000-1.ntb.ch
-NOERROR	oscwems103.ntb.ch
-NOERROR	fhsg.web01.ntb.ch
-NXDOMAIN	android-c092cafe81418b86.ntb.ch
-NOERROR	syno_km.ntb.ch
-NXDOMAIN	laptop-5q8d7bs6.ntb.ch
-NXDOMAIN	prems006.ntb.ch
-NXDOMAIN	pcbiblio8.ntb.ch
-NOERROR	mmies012.ntb.ch
-NOERROR	ns1.ntb.ch
-NXDOMAIN	desktop-f9e6o01.ntb.ch
-NOERROR	mnt.ntb.ch
-NXDOMAIN	pcrhysearch001.ntb.ch
-NXDOMAIN	prrhysearch004.ntb.ch
-NOERROR	ap1100-2.ntb.ch
-NOERROR	spsems011.ntb.ch
-NOERROR	nies118.ntb.ch
-NOERROR	nies207.ntb.ch
-NOERROR	oscesa220.ntb.ch
-NOERROR	es046.ntb.ch
-NOERROR	nies117.ntb.ch
-NOERROR	nies203.ntb.ch
-NOERROR	nies252.ntb.ch
-NOERROR	pcwklz081.ntb.ch
-NOERROR	nies121.ntb.ch
-NOERROR	pcklz232.ntb.ch
-NOERROR	oscesa205.ntb.ch
-NOERROR	nc002.ntb.ch
-NXDOMAIN	nbwems003.ntb.ch
-NXDOMAIN	nbrhysearch011.ntb.ch
-NOERROR	plinf001.ntb.ch
-NOERROR	vmgrund-scur.ntb.ch
-NOERROR	hv002-storage2.ntb.ch
-NOERROR	robiinf007.ntb.ch
-NOERROR	pcwklz090.ntb.ch
-NOERROR	inf005.ntb.ch
-NOERROR	0cb2b725c4cf-mysimplelink.ntb.ch
-NOERROR	raspberryesa023.ntb.ch
-NOERROR	apw018-1.ntb.ch
-NOERROR	axas001.ntb.ch
-NXDOMAIN	iphone-von-anja.ntb.ch
-NXDOMAIN	presa301.ntb.ch
-NOERROR	co3003.ntb.ch
-NOERROR	institute.ntb.ch
-NXDOMAIN	chicken-nugget.ntb.ch
-NOERROR	dns2-server.ntb.ch
-NOERROR	pcems062.ntb.ch
-NOERROR	nbwinf001.ntb.ch
-NOERROR	xportel6.ntb.ch
-NOERROR	spswems005.ntb.ch
-NOERROR	hzg3924-2.ntb.ch
-NOERROR	spswems001.ntb.ch
-NXDOMAIN	prinf005.ntb.ch
-NOERROR	vmhzgls001.ntb.ch
-NXDOMAIN	mi9t-miphone.ntb.ch
-NOERROR	ipad.ntb.ch
-NXDOMAIN	pcies072.ntb.ch
-NOERROR	npi14a2c3.ntb.ch
-NXDOMAIN	minint-l3m15dd.ntb.ch
-NOERROR	pcpoly002.ntb.ch
-NOERROR	pcies064.ntb.ch
-NXDOMAIN	presa004.ntb.ch
-NXDOMAIN	staging.ntb.ch
-NOERROR	pcies043.ntb.ch
-NXDOMAIN	sep002584612009.ntb.ch
-NOERROR	es168.ntb.ch
-NOERROR	oscesa204.ntb.ch
-NXDOMAIN	iphonevonflavio.ntb.ch
-NOERROR	pcklz221.ntb.ch
-NXDOMAIN	pcclab006.ntb.ch
-NOERROR	kiosk.ntb.ch
-NOERROR	sofs001.ntb.ch
-NOERROR	pbel01.ntb.ch
-NOERROR	ultimakersystem-ccbdd3002c25.ntb.ch
-NOERROR	wcinf6.ntb.ch
-NXDOMAIN	huawei_p30_lite-d9721966a.ntb.ch
-NOERROR	ebed4be8.ntb.ch
-NXDOMAIN	desktop-s6lqut7.ntb.ch
-NOERROR	as2102-1.ntb.ch
-NOERROR	spswautom012.ntb.ch
-NOERROR	openfoam.ntb.ch
-NXDOMAIN	pcmnt078.ntb.ch
-NXDOMAIN	pcies002.ntb.ch
-NOERROR	fgwems309.ntb.ch
-NOERROR	digiel002.ntb.ch
-NOERROR	pcverw010.ntb.ch
-NOERROR	bdi2000inf02.ntb.ch
-NOERROR	mmesa015.ntb.ch
-NOERROR	vmverw003.ntb.ch
-NOERROR	wolke.ntb.ch
-NXDOMAIN	pcwems006.ntb.ch
-NOERROR	mmwems101.ntb.ch
-NOERROR	es031.ntb.ch
-NXDOMAIN	pcies041.ntb.ch
-NOERROR	es165.ntb.ch
-NOERROR	panies401.ntb.ch
-NXDOMAIN	nbpwo003.ntb.ch
-NOERROR	mmel208a.ntb.ch
-NOERROR	web01.ntb.ch
-NOERROR	lmgies201.ntb.ch
-NOERROR	es066.ntb.ch
-NOERROR	spsiesf005.ntb.ch
-NOERROR	oscinf003.ntb.ch
-NXDOMAIN	pcmnt079.ntb.ch
-NXDOMAIN	pcwems018.ntb.ch
-NOERROR	ss002-mgmt0.ntb.ch
-NXDOMAIN	pcwklz101.ntb.ch
-NOERROR	sminf001.ntb.ch
-NOERROR	es027.ntb.ch
-NXDOMAIN	galaxy-a6-von-j.ntb.ch
-NOERROR	wsems004.ntb.ch
-NOERROR	hp34008d.ntb.ch
-NOERROR	robiinf024.ntb.ch
-NOERROR	webcamies001.ntb.ch
-NOERROR	es077.ntb.ch
-NXDOMAIN	nbies008.ntb.ch
-NOERROR	digiel025.ntb.ch
-NOERROR	hpc003.ntb.ch
-NXDOMAIN	m2002j9g-mi10lite5g.ntb.ch
-NOERROR	mmel214b.ntb.ch
-NXDOMAIN	ultimakersystem-ccbdd30043cd.ntb.ch
-NOERROR	apw101-1.ntb.ch
-NOERROR	nexus.ntb.ch
-NXDOMAIN	nbmnt030.ntb.ch
-NOERROR	587a621381da-mysimplelink.ntb.ch
-NXDOMAIN	sep00258461200c.ntb.ch
-NOERROR	panies101.ntb.ch
-NOERROR	0cb2b70458ed-mysimplelink.ntb.ch
-NOERROR	mmesa021.ntb.ch
-NXDOMAIN	desktop-s4q4s3h.ntb.ch
-NOERROR	44ead81d21fb-mysimplelink.ntb.ch
-NOERROR	psies007.ntb.ch
-NOERROR	mmel208b.ntb.ch
-NOERROR	oscesa212.ntb.ch
-NXDOMAIN	pcgewi001.ntb.ch
-NOERROR	tswsalto100-1.ntb.ch
-NXDOMAIN	pcwinf038.ntb.ch
-NXDOMAIN	3287.ntb.ch
-NOERROR	sofs001-rmm.ntb.ch
-NOERROR	pcverw002.ntb.ch
-NXDOMAIN	pcice043.ntb.ch
-NOERROR	pcice048.ntb.ch
-NOERROR	dev.web02.ntb.ch
-NXDOMAIN	crm003.test.ntb.ch
-NOERROR	pcwklz096.ntb.ch
-NXDOMAIN	huawei_p20_pro-45fff8f381.ntb.ch
-NOERROR	es020.ntb.ch
-NXDOMAIN	tablet-s5e-jb.ntb.ch
-NOERROR	radius2-server.ntb.ch
-NXDOMAIN	desktop-3h2nlj3.ntb.ch
-NOERROR	hc001.ntb.ch
-NOERROR	tssalto3900-1.ntb.ch
-NOERROR	oscesa128.ntb.ch
-NOERROR	crmdev.test.ntb.ch
-NXDOMAIN	pcinf050.ntb.ch
-NOERROR	apw114-1.ntb.ch
-NOERROR	hv900.ntb.ch
-NOERROR	pcwt1.ntb.ch
-NOERROR	sep00270d3eb2e9.ntb.ch
-NOERROR	ripbw001.ntb.ch
-NXDOMAIN	nbwems001.ntb.ch
-NXDOMAIN	prgewi002.ntb.ch
-NXDOMAIN	raspberryinf005.ntb.ch
-NOERROR	hpc108.ntb.ch
-NOERROR	pbel20.ntb.ch
-NOERROR	spswems007.ntb.ch
-NXDOMAIN	sep0026cbbeccd1.ntb.ch
-NOERROR	stage-ap.web002.ntb.ch
-NOERROR	es007.ntb.ch
-NOERROR	0cb2b7044b7d-mysimplelink.ntb.ch
-NXDOMAIN	pcwinf036.ntb.ch
-NXDOMAIN	pcies056.ntb.ch
-NOERROR	robiinf013.ntb.ch
-NOERROR	apw700-2.ntb.ch
-NOERROR	phyesa001.ntb.ch
-NOERROR	bu003-rmm.ntb.ch
-NXDOMAIN	pc1222.ntb.ch
-NOERROR	fs003.ntb.ch
-NOERROR	7c010a7b0f38-mysimplelink.ntb.ch
-NXDOMAIN	pcclab011.ntb.ch
-NOERROR	oscwems703.ntb.ch
-NXDOMAIN	pcpwo001.ntb.ch
-NOERROR	es161.ntb.ch
-NXDOMAIN	jenssmacbook30.ntb.ch
-NOERROR	raspberryesa018_1.ntb.ch
-NOERROR	apw203-1.ntb.ch
-NOERROR	oscwems106.ntb.ch
-NOERROR	vmgrund-tobd.ntb.ch
-NOERROR	pr3dems001.ntb.ch
-NOERROR	pcwxibo001.ntb.ch
-NXDOMAIN	huawei_p20_lite-d8292a387.ntb.ch
-NXDOMAIN	pcinf005.ntb.ch
-NOERROR	hlw001.ntb.ch
-NXDOMAIN	desktop-in0fhrr.ntb.ch
-NOERROR	oscwems701.ntb.ch
-NOERROR	hpc109-rmm.ntb.ch
-NOERROR	mmesa038.ntb.ch
-NOERROR	msinf001.ntb.ch
-NOERROR	fs004.ntb.ch
-NOERROR	zyboesa003.ntb.ch
-NOERROR	hc003-rmm.ntb.ch
-NXDOMAIN	wswinf002.ntb.ch
-NOERROR	hdmiid002.ntb.ch
-NOERROR	nbritter001.ntb.ch
-NOERROR	wmzw3.ntb.ch
-NXDOMAIN	pcpwo035.ntb.ch
-NOERROR	raspberryesa015.ntb.ch
-NOERROR	pwlan-server.ntb.ch
-NXDOMAIN	huawei_mate_20_pro-39f974.ntb.ch
-NOERROR	psies010.ntb.ch
-NXDOMAIN	pcice042.ntb.ch
-NOERROR	0cb2b7044b6f-mysimplelink.ntb.ch
-NOERROR	spswems003.ntb.ch
-NOERROR	lmgies401.ntb.ch
-NOERROR	as3148-1.ntb.ch
-NXDOMAIN	simon-optiplex-9020.ntb.ch
-NXDOMAIN	pcwel116.ntb.ch
-NXDOMAIN	pctd007.ntb.ch
-NOERROR	unknown.ntb.ch
-NXDOMAIN	radius.ntb.ch
-NXDOMAIN	pcwklz123.ntb.ch
-NOERROR	digiel019.ntb.ch
-NXDOMAIN	sep002584611520.ntb.ch
-NOERROR	pbel08.ntb.ch
-NOERROR	0cb2b702e29c-mysimplelink.ntb.ch
-NOERROR	intranetalt.web001.ntb.ch
-NOERROR	mmesa042.ntb.ch
-NXDOMAIN	k-e4980al-04957.ntb.ch
-NOERROR	vpn001-bridge.ntb.ch
-NOERROR	mmies013.ntb.ch
-NOERROR	staging.web02.ntb.ch
-NOERROR	pcmnt047.ntb.ch
-NOERROR	wmzw2.ntb.ch
-NOERROR	kurse.ntb.ch
-NOERROR	as1422-1.ntb.ch
-NOERROR	hpc002-storage1.ntb.ch
-NXDOMAIN	klimapwo-basis.ntb.ch
-NOERROR	robiinf002.ntb.ch
-NOERROR	pcies054.ntb.ch
-NOERROR	pcverw012.ntb.ch
-NOERROR	es092.ntb.ch
-NOERROR	win-isdoieljinu.ntb.ch
-NXDOMAIN	pcies022.ntb.ch
-NXDOMAIN	ipad-von-markus.ntb.ch
-NOERROR	robiinf011.ntb.ch
-NOERROR	pcwklz097.ntb.ch
-NXDOMAIN	pcmnt057.ntb.ch
-NXDOMAIN	galaxy-a50.ntb.ch
-NOERROR	es124.ntb.ch
-NOERROR	pcverw007.ntb.ch
-NXDOMAIN	ubuntu.ntb.ch
-NOERROR	spswems014.ntb.ch
-NXDOMAIN	pcel215.ntb.ch
-NOERROR	salto-server.ntb.ch
-NXDOMAIN	sep002333418224.ntb.ch
-NOERROR	pcpwo048.ntb.ch
-NXDOMAIN	pcpwo045.ntb.ch
-NXDOMAIN	pcies063.ntb.ch
-NOERROR	panies301.ntb.ch
-NOERROR	apw003-1.ntb.ch
-NOERROR	vmverw005.ntb.ch
-NOERROR	7c010a7b1ba4-mysimplelink.ntb.ch
-NXDOMAIN	android-df794588a56b80f7.ntb.ch
-NXDOMAIN	huawei_p10_lite.ntb.ch
-NXDOMAIN	prgewi004.ntb.ch
-NOERROR	spsiesf016.ntb.ch
-NOERROR	alt.web001.ntb.ch
-NOERROR	oscinf004.ntb.ch
-NOERROR	oscwems306.ntb.ch
-NOERROR	pcmnt031.ntb.ch
-NXDOMAIN	prcb100-1.ntb.ch
-NXDOMAIN	pcmnt042.ntb.ch
-NOERROR	hc003-storage1.ntb.ch
-NXDOMAIN	nbmnt7.ntb.ch
-NXDOMAIN	a-dx2024a-51703.ntb.ch
-NOERROR	pcwklz091.ntb.ch
-NOERROR	npiea8d1e.ntb.ch
-NOERROR	pcwklz042.ntb.ch
-NXDOMAIN	minint-k1qlphl.ntb.ch
-NXDOMAIN	pcw101.ntb.ch
-NXDOMAIN	huawei_p20-bd835588313094.ntb.ch
-NOERROR	brw002.ntb.ch
-NOERROR	cad001.ntb.ch
-NOERROR	pcwpz002.ntb.ch
-NOERROR	www.nanoparticlesafety.ntb.ch
-NOERROR	webcamid002.ntb.ch
-NXDOMAIN	nbrhysearch002.ntb.ch
-NOERROR	hzg2212-1.ntb.ch
-NOERROR	pcklz237.ntb.ch
-NOERROR	es095.ntb.ch
-NOERROR	web100.ntb.ch
-NXDOMAIN	pcwice002.ntb.ch
-NOERROR	ap2100-5.ntb.ch
-NOERROR	ap3934-1.ntb.ch
-NOERROR	7c010a73df0f-mysimplelink.ntb.ch
-NXDOMAIN	pcems095.ntb.ch
-NXDOMAIN	les-se.ntb.ch
-NOERROR	vmhpc014.ntb.ch
-NXDOMAIN	huawei_p10-61468147273784.ntb.ch
-NOERROR	oscinf002.ntb.ch
-NOERROR	desktop-rurnmcb.ntb.ch
-NXDOMAIN	nbpwo002.ntb.ch
-NOERROR	oscel125.ntb.ch
-NOERROR	oscesa201.ntb.ch
-NOERROR	es042.ntb.ch
-NOERROR	hv001-storage1.ntb.ch
-NXDOMAIN	iphonevnrichard.ntb.ch
-NXDOMAIN	pcwklz115.ntb.ch
-NXDOMAIN	jans-galaxy-s8.ntb.ch
-NOERROR	adunis004.ntb.ch
-NXDOMAIN	pcwems209.ntb.ch
-NOERROR	ap1337-1.ntb.ch
-NOERROR	mmies007.ntb.ch
-NXDOMAIN	pcw010.ntb.ch
-NOERROR	es126.ntb.ch
-NXDOMAIN	pcwel101.ntb.ch
-NXDOMAIN	pcmnt077.ntb.ch
-NOERROR	mmel212a.ntb.ch
-NOERROR	pcxibo004.ntb.ch
-NOERROR	robiinf016.ntb.ch
-NXDOMAIN	galaxy-a70.ntb.ch
-NOERROR	lmgies301.ntb.ch
-NXDOMAIN	prmath001.ntb.ch
-NOERROR	svn.ntb.ch
-NOERROR	asw108-1-res.ntb.ch
-NOERROR	mapassiveradar.ntb.ch
-NXDOMAIN	pc2004.ntb.ch
-NXDOMAIN	pcwklz045.ntb.ch
-NOERROR	dc001.ntb.ch
-NXDOMAIN	pcwklz116.ntb.ch
-NOERROR	nc003.ntb.ch
-NOERROR	beagleesa011.ntb.ch
-NXDOMAIN	3279.ntb.ch
-NXDOMAIN	pcesa018.ntb.ch
-NOERROR	roomz-display-047b08d2cd5280.ntb.ch
-NXDOMAIN	pcesa029.ntb.ch
-NOERROR	raspberryems002.ntb.ch
-NOERROR	pcimp011.ntb.ch
-NOERROR	redminote9pro-redmin.ntb.ch
-NOERROR	mmel203b.ntb.ch
-NOERROR	pcwklz082.ntb.ch
-NOERROR	spswautom005.ntb.ch
-NOERROR	samsung-galaxy-s7-edge.ntb.ch
-NOERROR	digiel003.ntb.ch
-NOERROR	hpc002.ntb.ch
-NXDOMAIN	desktop-66u7uhv.ntb.ch
-NOERROR	spsiesf013.ntb.ch
-NXDOMAIN	prverw002.ntb.ch
-NOERROR	tssalto3100-1.ntb.ch
-NOERROR	spswautom007.ntb.ch
-NXDOMAIN	huawei_p20_lite-f50a1c2a5.ntb.ch
-NOERROR	hv002-rmm.ntb.ch
-NXDOMAIN	pcesa306.ntb.ch
-NXDOMAIN	pcel012.ntb.ch
-NXDOMAIN	wswinf001.ntb.ch
-NOERROR	es081.ntb.ch
-NXDOMAIN	minint-4qr4k5h.ntb.ch
-NOERROR	pcpwo-pmmc.ntb.ch
-NOERROR	as3170-1.ntb.ch
-NXDOMAIN	huawei_nova.ntb.ch
-NXDOMAIN	sep0021a0b2ffd5.ntb.ch
-NXDOMAIN	huawei_p30_lite-b21f1f5c6.ntb.ch
-NXDOMAIN	sep002584611574.ntb.ch
-NOERROR	xibo.ntb.ch
-NOERROR	3285.ntb.ch
-NXDOMAIN	pc1213.ntb.ch
-NXDOMAIN	pcies040.ntb.ch
-NOERROR	es150.ntb.ch
-NOERROR	cocolor001.ntb.ch
-NXDOMAIN	sep0021553ee95c.ntb.ch
-NOERROR	fs004_fs002.ntb.ch
-NOERROR	oscwems109.ntb.ch
-NOERROR	mi_01e71c.ntb.ch
-NOERROR	wmzw001.ntb.ch
-NOERROR	przw002.ntb.ch
-NOERROR	esa-evalbot001.ntb.ch
-NXDOMAIN	sep002584611e83.ntb.ch
-NOERROR	oscrt01.ntb.ch
-NOERROR	es134.ntb.ch
-NXDOMAIN	pcga001.ntb.ch
-NOERROR	vmhpc016.ntb.ch
-NOERROR	vmhpc017.ntb.ch
-NOERROR	tssalto3000-2.ntb.ch
-NXDOMAIN	theodors-iphone.ntb.ch
-NOERROR	spsautom003.ntb.ch
-NOERROR	npi528007.ntb.ch
-NXDOMAIN	vmgrund.ntb.ch
-NOERROR	digiel023.ntb.ch
-NOERROR	vf-ies.web002.ntb.ch
-NXDOMAIN	maras-iphone.ntb.ch
-NXDOMAIN	ipad-2.ntb.ch
-NOERROR	3.www.ntb.ch
-NOERROR	npice2de3.ntb.ch
-NOERROR	nbchemie001.ntb.ch
-NOERROR	hv004-storage1.ntb.ch
-NOERROR	mmesa024.ntb.ch
-NXDOMAIN	android-dc1ed18800f2ff48.ntb.ch
-NOERROR	sofs002.ntb.ch
-NOERROR	oscesa231.ntb.ch
-NXDOMAIN	pcems005.ntb.ch
-NXDOMAIN	pcesa213.ntb.ch
-NOERROR	digiel020.ntb.ch
-NOERROR	raspberryice001.ntb.ch
-NXDOMAIN	nbrhysearch010.ntb.ch
-NOERROR	beagleesa006.ntb.ch
-NOERROR	0cb2b703f390-mysimplelink.ntb.ch
-NOERROR	oscesa210.ntb.ch
-NOERROR	es143.ntb.ch
-NXDOMAIN	nbmnt002.ntb.ch
-NOERROR	es091.ntb.ch
-NOERROR	pcice008.ntb.ch
-NXDOMAIN	pcwtd001.ntb.ch
-NOERROR	pcmarketing003.ntb.ch
-NOERROR	crmprod.ntb.ch
-NOERROR	es056.ntb.ch
-NXDOMAIN	pcverw004.ntb.ch
-NOERROR	as3013-2.ntb.ch
-NOERROR	es099.ntb.ch
-NOERROR	oscesa224.ntb.ch
-NOERROR	as4037-3.ntb.ch
-NXDOMAIN	raspberrypi.ntb.ch
-NXDOMAIN	prpwo001.ntb.ch
-NOERROR	vdpoly002.ntb.ch
-NOERROR	pcpwo-reference.ntb.ch
-NOERROR	raspberryinf004.ntb.ch
-NOERROR	nies111.ntb.ch
-NOERROR	spswautom013.ntb.ch
-NOERROR	spsiesf003.ntb.ch
-NOERROR	tvw201.ntb.ch
-NOERROR	spswautom009.ntb.ch
-NXDOMAIN	pcpwo036.ntb.ch
-NXDOMAIN	pc1313.ntb.ch
-NXDOMAIN	print001.ntb.ch
-NXDOMAIN	pc1240.ntb.ch
-NOERROR	mmel213a.ntb.ch
-NXDOMAIN	iphone-von-mark.ntb.ch
-NXDOMAIN	eme-macbook-pro.ntb.ch
-NOERROR	license003.ntb.ch
-NOERROR	pcklz233.ntb.ch
-NOERROR	hc03.ntb.ch
-NXDOMAIN	redminote8pro-redmi.ntb.ch
-NOERROR	robiinf008.ntb.ch
-NOERROR	mmwems113.ntb.ch
-NXDOMAIN	pcwems206.ntb.ch
-NOERROR	beagleesa007.ntb.ch
-NXDOMAIN	sg-iphone.ntb.ch
-NOERROR	hpc003-storage2.ntb.ch
-NOERROR	pcpwo-tsk.ntb.ch
-NOERROR	nies110.ntb.ch
-NOERROR	as2948-2.ntb.ch
-NXDOMAIN	bscw-server.ntb.ch
-NOERROR	mmesa008.ntb.ch
-NXDOMAIN	prmnt003.ntb.ch
-NOERROR	0cb2b70450a1-mysimplelink.ntb.ch
-NOERROR	mmel207a.ntb.ch
-NXDOMAIN	desktop-nupm18m.ntb.ch
-NOERROR	stage8-vf-ies.web002.ntb.ch
-NOERROR	oscel123.ntb.ch
-NOERROR	apw002-1.ntb.ch
-NOERROR	nbmnt023.ntb.ch
-NOERROR	pcmnt058.ntb.ch
-NXDOMAIN	desktop-jfjb982.ntb.ch
-NXDOMAIN	pcpwo050.ntb.ch
-NXDOMAIN	nbverw005.ntb.ch
-NOERROR	es047.ntb.ch
-NXDOMAIN	windows-phone.ntb.ch
-NOERROR	pries004.ntb.ch
-NOERROR	pcwklz057.ntb.ch
-NOERROR	mmel209a.ntb.ch
-NOERROR	es144.ntb.ch
-NXDOMAIN	pcesa201.ntb.ch
-NOERROR	pcklz113.ntb.ch
-NOERROR	wsmnt001.ntb.ch
-NOERROR	mmesa005.ntb.ch
-NOERROR	es064.ntb.ch
-NOERROR	es074.ntb.ch
-NOERROR	vmupdates001.ntb.ch
-NOERROR	vmklz004.ntb.ch
-NOERROR	staging.web002.ntb.ch
-NOERROR	wsice003.ntb.ch
-NOERROR	jlinkproesa02.ntb.ch
-NOERROR	as2142-2.ntb.ch
-NXDOMAIN	deiniphone.ntb.ch
-NOERROR	pcwklz083.ntb.ch
-NOERROR	id.ntb.ch
-NOERROR	oscwems105.ntb.ch
-NXDOMAIN	pcesa208.ntb.ch
-NOERROR	7c010a7b0f63-mysimplelink.ntb.ch
-NOERROR	spsmies001.ntb.ch
-NXDOMAIN	ocp.ntb.ch
-NXDOMAIN	pcems098.ntb.ch
-NXDOMAIN	elearn.ntb.ch
-NOERROR	es075.ntb.ch
-NXDOMAIN	pcel129.ntb.ch
-NOERROR	3269.ntb.ch
-NOERROR	3204.ntb.ch
-NOERROR	es053.ntb.ch
-NOERROR	es038.ntb.ch
-NOERROR	es062.ntb.ch
-NOERROR	pcpwo-mahr.ntb.ch
-NXDOMAIN	nbrhysearch007.ntb.ch
-NXDOMAIN	pcwel105.ntb.ch
-NOERROR	ap2900-2.ntb.ch
-NOERROR	oscwems702.ntb.ch
-NXDOMAIN	nbrhysearch005.ntb.ch
-NXDOMAIN	prw006.ntb.ch
-NOERROR	mmesa025.ntb.ch
-NOERROR	toradex6.ntb.ch
-NXDOMAIN	aai-server.ntb.ch
-NOERROR	mmesa017.ntb.ch
-NOERROR	pcwklz056.ntb.ch
-NXDOMAIN	pcwel003.ntb.ch
-NOERROR	es164.ntb.ch
-NOERROR	as2142-1.ntb.ch
-NXDOMAIN	pcel127.ntb.ch
-NOERROR	test.web003.ntb.ch
-NXDOMAIN	pcems135.ntb.ch
-NOERROR	alarm-server.ntb.ch
-NOERROR	mspel1.ntb.ch
-NOERROR	es015.ntb.ch
-NXDOMAIN	iphone-von-seb.ntb.ch
-NOERROR	digiel032.ntb.ch
-NOERROR	ap4050-1.ntb.ch
-NOERROR	pcems115.ntb.ch
-NOERROR	raspberryesa004.ntb.ch
-NXDOMAIN	desktop-alsjgqv.ntb.ch
-NXDOMAIN	nbgewi002.ntb.ch
-NXDOMAIN	david-hp.ntb.ch
-NXDOMAIN	iphone-von-mike.ntb.ch
-NOERROR	pcpwo024.ntb.ch
-NXDOMAIN	pcmnt081.ntb.ch
-NOERROR	es111.ntb.ch
-NXDOMAIN	pcice036.ntb.ch
-NXDOMAIN	luke-iphone-x.ntb.ch
-NOERROR	spsems018.ntb.ch
-NXDOMAIN	klima002.ntb.ch
-NXDOMAIN	pcinf020.ntb.ch
-NOERROR	tusnelda.ntb.ch
-NOERROR	oscel100.ntb.ch
-NOERROR	nbies009.ntb.ch
-NXDOMAIN	pcverw008.ntb.ch
-NOERROR	oscel129.ntb.ch
-NOERROR	nael002.ntb.ch
-NOERROR	vmoffice2013.ntb.ch
-NOERROR	pbxbuchs001.ntb.ch
-NOERROR	ebox-2917.ntb.ch
-NXDOMAIN	prinf003.ntb.ch
-NOERROR	pcmnt034.ntb.ch
-NOERROR	nbmnt029.ntb.ch
-NOERROR	apw006-1.ntb.ch
-NXDOMAIN	pcinf036.ntb.ch
-NOERROR	gatem001.ntb.ch
-NOERROR	spsiesf017.ntb.ch
-NOERROR	axweb001-test.ntb.ch
-NOERROR	raspberryesa018.ntb.ch
-NOERROR	ausbildungspass.web002.ntb.ch
-NOERROR	spsautom013.ntb.ch
-NOERROR	nbpwo001.ntb.ch
-NOERROR	pcwklz060.ntb.ch
-NOERROR	tvice001.ntb.ch
-NOERROR	vmhpc020.ntb.ch
-NXDOMAIN	pcwklz107.ntb.ch
-NOERROR	nies204.ntb.ch
-NXDOMAIN	desktop-crtlhln.ntb.ch
-NOERROR	mmesa026.ntb.ch
-NXDOMAIN	pccklz013.ntb.ch
-NOERROR	android-a05b3a0741082771.ntb.ch
-NOERROR	pcklz230.ntb.ch
-NXDOMAIN	christophsipad2.ntb.ch
-NOERROR	vmklz009.ntb.ch
-NOERROR	tssalto5000-1.ntb.ch
-NXDOMAIN	pcice034.ntb.ch
-NXDOMAIN	prcafeteria001.ntb.ch
-NOERROR	oscesa226.ntb.ch
-NXDOMAIN	pcwinf040.ntb.ch
-NOERROR	as1113-2.ntb.ch
-NXDOMAIN	android-d53634100693a4c6.ntb.ch
-NOERROR	fgwems101.ntb.ch
-NXDOMAIN	pcwklz110.ntb.ch
-NOERROR	smumnt001.ntb.ch
-NXDOMAIN	sep002333416023.ntb.ch
-NXDOMAIN	3276.ntb.ch
-NOERROR	pbel06.ntb.ch
-NOERROR	spsautom016.ntb.ch
-NXDOMAIN	nbid005.ntb.ch
-NOERROR	brinf001.ntb.ch
-NXDOMAIN	android-685f86c0bcac851c.ntb.ch
-NOERROR	vmgrund-1607.ntb.ch
-NOERROR	hpc116.ntb.ch
-NOERROR	mmwems106.ntb.ch
-NXDOMAIN	nbrhysearch021.ntb.ch
-NOERROR	raspid001.ntb.ch
-NOERROR	oscesa225.ntb.ch
-NXDOMAIN	pctd003.ntb.ch
-NXDOMAIN	pcel212.ntb.ch
-NOERROR	hp62e3e3.ntb.ch
-NOERROR	587a620720af-mysimplelink.ntb.ch
-NOERROR	hpc001.ntb.ch
-NXDOMAIN	honor_play-879532ef37a587.ntb.ch
-NOERROR	vmkiosk001.ntb.ch
-NOERROR	44ead81d2443-mysimplelink.ntb.ch
-NOERROR	sto.web002.ntb.ch
-NOERROR	pcwklz076.ntb.ch
-NOERROR	oscel001.ntb.ch
-NOERROR	oscinf006-2.ntb.ch
-NOERROR	license2-server.ntb.ch
-NOERROR	oscinf006.ntb.ch
-NOERROR	raspberryesa001.ntb.ch
-NXDOMAIN	pcies015.ntb.ch
-NOERROR	nc.ntb.ch
-NOERROR	raspberryinf006.ntb.ch
-NOERROR	nbrhysearch004.ntb.ch
-NXDOMAIN	pcies058.ntb.ch
-NXDOMAIN	pcmnt012.ntb.ch
-NOERROR	staging.web003.ntb.ch
-NOERROR	mc562-8693e6.ntb.ch
-NOERROR	7c010a7b1baa-mysimplelink.ntb.ch
-NOERROR	webcamid001.ntb.ch
-NOERROR	pcwems215.ntb.ch
-NXDOMAIN	sep0004f2e07997.ntb.ch
-NXDOMAIN	npi063b30.ntb.ch
-NOERROR	mmel215b.ntb.ch
-NXDOMAIN	prautom001.ntb.ch
-NOERROR	features.web02.ntb.ch
-NXDOMAIN	pcwt17.ntb.ch
-NOERROR	sofs002-storage21.ntb.ch
-NXDOMAIN	nbems018.ntb.ch
-NXDOMAIN	samsung-galaxy-s7.ntb.ch
-NOERROR	adunis005.ntb.ch
-NXDOMAIN	elearn-server.ntb.ch
-NOERROR	oscesa228.ntb.ch
-NXDOMAIN	mi8-andimi8.ntb.ch
-NOERROR	oscwems116.ntb.ch
-NXDOMAIN	search-server.ntb.ch
-NXDOMAIN	pcesa209.ntb.ch
-NXDOMAIN	iphone-cy.ntb.ch
-NOERROR	pcmnt070.ntb.ch
-NOERROR	44ead8fdd09a-mysimplelink.ntb.ch
-NXDOMAIN	nbrhysearch023.ntb.ch
-NOERROR	digiel024.ntb.ch
-NOERROR	mmesa011.ntb.ch
-NOERROR	piwik.ntb.ch
-NOERROR	as2946-2.ntb.ch
-NOERROR	spswautom004.ntb.ch
-NOERROR	nies104.ntb.ch
-NXDOMAIN	pcel113.ntb.ch
-NOERROR	7c010a7b1baf-mysimplelink.ntb.ch
-NOERROR	spsems009.ntb.ch
-NOERROR	pcwklz063.ntb.ch
-NOERROR	beagleesa009.ntb.ch
-NXDOMAIN	pries006.ntb.ch
-NXDOMAIN	prinf004.ntb.ch
-NOERROR	openwrtid001.ntb.ch
-NOERROR	pcesa036.ntb.ch
-NOERROR	test8.web003.ntb.ch
-NOERROR	robiinf021.ntb.ch
-NOERROR	vdwpoly5.ntb.ch
-NOERROR	tvpwo002.ntb.ch
-NXDOMAIN	prchemie001.ntb.ch
-NOERROR	tssalto1000-2.ntb.ch
-NOERROR	es023.ntb.ch
-NOERROR	wptemp001.ntb.ch
-NOERROR	raspberryesa008.ntb.ch
-NOERROR	pcmnt043.ntb.ch
-NOERROR	autodiscover.ntb.ch
-NXDOMAIN	nbrhysearch022.ntb.ch
-NOERROR	fgwems105.ntb.ch
-NXDOMAIN	prrhysearch002.ntb.ch
-NXDOMAIN	pcwinf005.ntb.ch
-NXDOMAIN	prverw014.ntb.ch
-NXDOMAIN	wsems009.ntb.ch
-NOERROR	raspberryesa020.ntb.ch
-NOERROR	crm.test.ntb.ch
-NOERROR	philips-hue.ntb.ch
-NOERROR	vmklz005.ntb.ch
-NXDOMAIN	3278.ntb.ch
-NOERROR	hv001.ntb.ch
-NXDOMAIN	npi4636d8.ntb.ch
-NOERROR	oscwems113.ntb.ch
-NXDOMAIN	galaxy-a3-2017.ntb.ch
-NOERROR	upmrhysearch001.ntb.ch
-NOERROR	opennms.ntb.ch
-NOERROR	fgwems106.ntb.ch
-NOERROR	pcmnt006.ntb.ch
-NXDOMAIN	galaxy-s10-lite-von-nicola.ntb.ch
-NXDOMAIN	pcems137.ntb.ch
-NOERROR	nies212.ntb.ch
-NOERROR	bu003.ntb.ch
-NXDOMAIN	vmgrund-corp1.ntb.ch
-NOERROR	spsems015.ntb.ch
-NOERROR	storhpc001.ntb.ch
-NOERROR	es145.ntb.ch
-NOERROR	crmauth.ntb.ch
-NOERROR	cl005.ntb.ch
-NOERROR	nies201.ntb.ch
-NOERROR	es037.ntb.ch
-NOERROR	mmies009.ntb.ch
-NOERROR	vmklz-lipf.ntb.ch
-NOERROR	spswems008.ntb.ch
-NXDOMAIN	pcid014.ntb.ch
-NOERROR	mmies015.ntb.ch
-NOERROR	styletransfer.ntb.ch
-NXDOMAIN	pcmnt062.ntb.ch
-NOERROR	hpc52aaa.ntb.ch
-NOERROR	pcklz383.ntb.ch
-NOERROR	gt1901-2.ntb.ch
-NOERROR	as2902-1.ntb.ch
-NOERROR	pbel23.ntb.ch
-NXDOMAIN	prw002-1.ntb.ch
-NOERROR	aswres-1.ntb.ch
-NOERROR	oscies012.ntb.ch
-NOERROR	0cb2b70448c9-mysimplelink.ntb.ch
-NOERROR	sofs001-storage12.ntb.ch
-NOERROR	pcklz238.ntb.ch
-NOERROR	es078.ntb.ch
-NXDOMAIN	vmgrund-corp2.ntb.ch
-NOERROR	fgmnt001.ntb.ch
-NOERROR	pcwinf007.ntb.ch
-NXDOMAIN	wsems001.ntb.ch
-NOERROR	hpc117.ntb.ch
-NOERROR	nagios001.ntb.ch
-NOERROR	nies106.ntb.ch
-NOERROR	fgwems103.ntb.ch
-NXDOMAIN	pcems065.ntb.ch
-NOERROR	hv900-rmm.ntb.ch
-NXDOMAIN	prems003.ntb.ch
-NXDOMAIN	prems009.ntb.ch
-NOERROR	es174.ntb.ch
-NOERROR	nbies006.ntb.ch
-NOERROR	mmel212b.ntb.ch
-NXDOMAIN	pcwems308.ntb.ch
-NXDOMAIN	optiplexkuna2.ntb.ch
-NOERROR	pbxwaldau001.ntb.ch
-NXDOMAIN	prel102.ntb.ch
-NOERROR	mmwems110.ntb.ch
-NOERROR	pwrpwo001.ntb.ch
-NOERROR	mmwems107.ntb.ch
-NOERROR	nies231.ntb.ch
-NOERROR	aai.ntb.ch
-NOERROR	moodle.ntb.ch
-NXDOMAIN	pcwel700.ntb.ch
-NXDOMAIN	nbtd002.ntb.ch
-NXDOMAIN	pcmnt032.ntb.ch
-NOERROR	spsautom012.ntb.ch
-NOERROR	apw201-1.ntb.ch
-NOERROR	nbice015.ntb.ch
-NXDOMAIN	android-5cc133eb5a164f3f.ntb.ch
-NOERROR	ap3170-1.ntb.ch
-NOERROR	pcmnt010.ntb.ch
-NOERROR	raspberryinf004_1.ntb.ch
-NOERROR	oscwems312.ntb.ch
-NXDOMAIN	pcverw006.ntb.ch
-NXDOMAIN	marcophone.ntb.ch
-NOERROR	ap4950-1.ntb.ch
-NOERROR	pcems091.ntb.ch
-NOERROR	cdaqmps001.ntb.ch
-NXDOMAIN	redminote9pro-callgo.ntb.ch
-NOERROR	pcklz104.ntb.ch
-NOERROR	wsice001.ntb.ch
-NOERROR	as4037-2.ntb.ch
-NOERROR	pcice038.ntb.ch
-NOERROR	spsautom007.ntb.ch
-NXDOMAIN	nbwinf012.ntb.ch
-NOERROR	sofs002-rmm.ntb.ch
-NOERROR	license002.ntb.ch
-NXDOMAIN	prverw004.ntb.ch
-NOERROR	axweb001.ntb.ch
-NXDOMAIN	desktop-sv1bd8l.ntb.ch
-NOERROR	mmesa006.ntb.ch
-NXDOMAIN	desktop-3v7sooh.ntb.ch
-NOERROR	digiel011.ntb.ch
-NOERROR	mmwems102.ntb.ch
-NOERROR	pcmnt086.ntb.ch
-NXDOMAIN	nbrhysearch019.ntb.ch
-NOERROR	ost.web01.ntb.ch
-NOERROR	nbmnt014.ntb.ch
-NOERROR	vmhpc018.ntb.ch
-NXDOMAIN	pces003.ntb.ch
-NOERROR	hv001-storage2.ntb.ch
-NOERROR	nies113.ntb.ch
-NOERROR	adfs.ntb.ch
-NXDOMAIN	prmnt008.ntb.ch
-NOERROR	ap3148-1.ntb.ch
-NOERROR	hpc117-rmm.ntb.ch
-NXDOMAIN	pcinf017.ntb.ch
-NOERROR	pbel24.ntb.ch
-NXDOMAIN	pcmnt060.ntb.ch
-NOERROR	wiam-server.ntb.ch
-NXDOMAIN	pcice004.ntb.ch
-NXDOMAIN	desktop-dmsvruq.ntb.ch
-NOERROR	es158.ntb.ch
-NOERROR	pcems066.ntb.ch
-NOERROR	rttd001.ntb.ch
-NXDOMAIN	pcems059.ntb.ch
-NOERROR	pripf8300.ntb.ch
-NOERROR	mmesa019.ntb.ch
-NXDOMAIN	pcwems306.ntb.ch
-NOERROR	pcimp-videocheck.ntb.ch
-NOERROR	knxserver.ntb.ch
-NOERROR	hc002-storage1.ntb.ch
-NOERROR	ipad-heidi-neu.ntb.ch
-NOERROR	toratex.ntb.ch
-NXDOMAIN	pcmed005.ntb.ch
-NOERROR	0cb2b7045a92-mysimplelink.ntb.ch
-NOERROR	pcmnt018.ntb.ch
-NOERROR	mmel210b.ntb.ch
-NXDOMAIN	pctd005.ntb.ch
-NXDOMAIN	pcmnt13.ntb.ch
-NOERROR	es011.ntb.ch
-NOERROR	es108.ntb.ch
-NOERROR	spsmies010.ntb.ch
-NOERROR	perorg-test.ntb.ch
-NOERROR	apw100-1.ntb.ch
-NXDOMAIN	pcems006.ntb.ch
-NOERROR	sofs001-storage22.ntb.ch
-NXDOMAIN	pczw011.ntb.ch
-NXDOMAIN	huawei_p30-9212499997c4fe.ntb.ch
-NOERROR	mmel214a.ntb.ch
-NOERROR	mmel211b.ntb.ch
-NOERROR	ap3138-1.ntb.ch
-NOERROR	wres001.ntb.ch
-NOERROR	ss001-mgmt0.ntb.ch
-NOERROR	vmkiosk002.ntb.ch
-NXDOMAIN	desktop-33tbvnc.ntb.ch
-NOERROR	asres-1.ntb.ch
-NXDOMAIN	pries010.ntb.ch
-NOERROR	dc003.ntb.ch
-NOERROR	vmhpclogin.ntb.ch
-NOERROR	pcems079.ntb.ch
-NOERROR	npi32f83a.ntb.ch
-NOERROR	vmverw004.ntb.ch
-NOERROR	stage-sto.web002.ntb.ch
-NOERROR	mmies004.ntb.ch
-NOERROR	rs323gw106.ntb.ch
-NXDOMAIN	desktop-0ne9unj.ntb.ch
-NOERROR	socks-server.ntb.ch
-NXDOMAIN	pcies050.ntb.ch
-NOERROR	as3065-1.ntb.ch
-NOERROR	inf.ntb.ch
-NXDOMAIN	npi091e84.ntb.ch
-NOERROR	mmies011.ntb.ch
-NXDOMAIN	wifly-gsx.ntb.ch
-NXDOMAIN	nbtd003.ntb.ch
-NXDOMAIN	pcinf019.ntb.ch
-NXDOMAIN	sep002584611b7d.ntb.ch
-NOERROR	galaxy-a7-2018.ntb.ch
-NOERROR	stage-vf-ies.web002.ntb.ch
-NOERROR	raspberryesa002.ntb.ch
-NXDOMAIN	galaxy-s10-lite.ntb.ch
-NXDOMAIN	pctd006.ntb.ch
-NXDOMAIN	pcesa033.ntb.ch
-NOERROR	as1201-1.ntb.ch
-NOERROR	pbel16.ntb.ch
-NXDOMAIN	monikaclsiphone.ntb.ch
-NOERROR	bdi3000esa01.ntb.ch
-NOERROR	stage8.web002.ntb.ch
-NXDOMAIN	phil-galaxy-a40.ntb.ch
-NXDOMAIN	iphonexsbergir.ntb.ch
-NXDOMAIN	desktop-7q003i0.ntb.ch
-NOERROR	pcwklz099.ntb.ch
-NOERROR	vpn.ntb.ch
-NOERROR	es083.ntb.ch
-NOERROR	es155.ntb.ch
-NOERROR	pcwklz059.ntb.ch
-NOERROR	sw-server.ntb.ch
-NXDOMAIN	android-afc60f5bc64f3d9e.ntb.ch
-NXDOMAIN	pcmnt050.ntb.ch
-NXDOMAIN	pczw005.ntb.ch
-NOERROR	vmhpc012.ntb.ch
-NOERROR	brel002.ntb.ch
-NOERROR	pcwklz050.ntb.ch
-NOERROR	klimaimp-steuerung.ntb.ch
-NOERROR	webcamems002.ntb.ch
-NOERROR	7c010a7b1577-mysimplelink.ntb.ch
-NOERROR	spsmies008.ntb.ch
-NOERROR	44ead81effd8-mysimplelink.ntb.ch
-NOERROR	oscwems107.ntb.ch
-NOERROR	lmgies002.ntb.ch
-NXDOMAIN	noahs-iphone.ntb.ch
-NOERROR	44ead81d21b5-mysimplelink.ntb.ch
-NOERROR	pcems080.ntb.ch
-NOERROR	fgwems107.ntb.ch
-NOERROR	vmg-lipf.ntb.ch
-NOERROR	fgwems108.ntb.ch
-NOERROR	npi4bc5a8.ntb.ch
-NOERROR	pcice020.ntb.ch
-NOERROR	es040.ntb.ch
-NOERROR	oscesa222.ntb.ch
-NOERROR	3282.ntb.ch
-NOERROR	nies232.ntb.ch
-NOERROR	pcwklz054.ntb.ch
-NOERROR	fo00908f760b33.ntb.ch
-NXDOMAIN	red-phone.ntb.ch
-NXDOMAIN	mrluks-mbp.ntb.ch
-NOERROR	es069.ntb.ch
-NXDOMAIN	sep649ef39900ce.ntb.ch
-NXDOMAIN	pcice019.ntb.ch
-NOERROR	pbel02.ntb.ch
-NOERROR	apw004-1.ntb.ch
-NOERROR	es057.ntb.ch
-NXDOMAIN	pcdruckerei001.ntb.ch
-NXDOMAIN	pcesa216.ntb.ch
-NOERROR	iphone-bamert.ntb.ch
-NXDOMAIN	npice36d2.ntb.ch
-NXDOMAIN	galaxy-a3-2016.ntb.ch
-NOERROR	pcklz231.ntb.ch
-NOERROR	pbel14.ntb.ch
-NOERROR	spswautom010.ntb.ch
-NOERROR	pcwklz055.ntb.ch
-NOERROR	ns2.ntb.ch
-NOERROR	pcies047.ntb.ch
-NOERROR	digiel021.ntb.ch
-NOERROR	pcklz101.ntb.ch
-NOERROR	lmgies001.ntb.ch
-NOERROR	606405afd31c-mysimplelink.ntb.ch
-NOERROR	es058.ntb.ch
-NOERROR	raspberryies002.ntb.ch
-NXDOMAIN	nbrhysearch018.ntb.ch
-NXDOMAIN	inf001.ntb.ch
-NOERROR	hc01.ntb.ch
-NXDOMAIN	pcmnt055.ntb.ch
-NOERROR	digiel029.ntb.ch
-NOERROR	es030.ntb.ch
-NXDOMAIN	pcwt15.ntb.ch
-NXDOMAIN	tuxedo.ntb.ch
-NOERROR	oscwems305.ntb.ch
-NOERROR	beagleesa008.ntb.ch
-NOERROR	raspberryesa014.ntb.ch
-NOERROR	spswems006.ntb.ch
-NOERROR	mmel211a.ntb.ch
-NOERROR	digiel017.ntb.ch
-NXDOMAIN	npia13cd3.ntb.ch
-NOERROR	klima004.ntb.ch
-NOERROR	matomo.ntb.ch
-NXDOMAIN	ramon-huber.ntb.ch
-NOERROR	vmgrund-vinf.ntb.ch
-NOERROR	as3038-2.ntb.ch
-NOERROR	es063.ntb.ch
-NOERROR	umvmnt001.ntb.ch
-NOERROR	3283.ntb.ch
-NOERROR	pcwinf008.ntb.ch
-NOERROR	hv004.ntb.ch
-NOERROR	es033.ntb.ch
-NOERROR	msinf002.ntb.ch
-NXDOMAIN	pcies030.ntb.ch
-NOERROR	vmgrund-domh.ntb.ch
-NXDOMAIN	pcems061.ntb.ch
-NOERROR	nael001.ntb.ch
-NXDOMAIN	pcmnt023.ntb.ch
-NXDOMAIN	pcice010.ntb.ch
-NXDOMAIN	prmnt007.ntb.ch
-NOERROR	es045.ntb.ch
-NXDOMAIN	diva-323435.ntb.ch
-NOERROR	oscwems112.ntb.ch
-NOERROR	fgwems301.ntb.ch
-NOERROR	oscies002.ntb.ch
-NOERROR	xpmode.ntb.ch
-NOERROR	es128.ntb.ch
-NXDOMAIN	iphonevnvalerie.ntb.ch
-NOERROR	apw102-1.ntb.ch
-NOERROR	perorg-server.ntb.ch
-NOERROR	3274.ntb.ch
-NOERROR	gt1901-4.ntb.ch
-NOERROR	es117.ntb.ch
-NOERROR	es114.ntb.ch
-NXDOMAIN	npif2b97f.ntb.ch
-NOERROR	pcklz115.ntb.ch
-NOERROR	webcamid002a.ntb.ch
-NXDOMAIN	pcid017.ntb.ch
-NOERROR	web002.ntb.ch
-NOERROR	hpc114.ntb.ch
-NOERROR	sofs002-storage12.ntb.ch
-NOERROR	es048.ntb.ch
-NXDOMAIN	pcklz518.ntb.ch
-NOERROR	vmgrund-weio.ntb.ch
-NOERROR	ap3173-1.ntb.ch
-NOERROR	ap4031-1.ntb.ch
-NXDOMAIN	hv012.ntb.ch
-NOERROR	pcklz116.ntb.ch
-NXDOMAIN	pcmnt064.ntb.ch
-NOERROR	hzg2212-2.ntb.ch
-NXDOMAIN	pcw102.ntb.ch
-NXDOMAIN	nbmnt008.ntb.ch
-NOERROR	wmzw003.ntb.ch
-NXDOMAIN	prid001.ntb.ch
-NOERROR	pbxbuchs01.ntb.ch
-NOERROR	intranet.ntb.ch
-NOERROR	vdwpoly3.ntb.ch
-NOERROR	crm.ntb.ch
-NXDOMAIN	pcies073.ntb.ch
-NOERROR	es107.ntb.ch
-NOERROR	crm004.ntb.ch
-NXDOMAIN	thomas.ntb.ch
-NXDOMAIN	thomass-iphone.ntb.ch
-NOERROR	mgmt002.ntb.ch
-NOERROR	as1231-1.ntb.ch
-NOERROR	cow108.ntb.ch
-NOERROR	es147.ntb.ch
-NOERROR	pcice040.ntb.ch
-NOERROR	digiel030.ntb.ch
-NXDOMAIN	cdaqems005.ntb.ch
-NOERROR	www.ntb.ch
-NOERROR	mmesa004.ntb.ch
-NXDOMAIN	pcems107.ntb.ch
-NOERROR	npi091a86.ntb.ch
-NXDOMAIN	nbqt005.ntb.ch
-NOERROR	0cb2b7045a81-mysimplelink.ntb.ch
-NOERROR	pcems097.ntb.ch
-NOERROR	mmies008.ntb.ch
-NOERROR	wswcad001.ntb.ch
-NOERROR	oscar001_2.ntb.ch
-NOERROR	hpc002-storage2.ntb.ch
-NOERROR	mmel215a.ntb.ch
-NOERROR	spswems010.ntb.ch
-NOERROR	crmdb.ntb.ch
-NOERROR	spsiesf015.ntb.ch
-NXDOMAIN	pcies068.ntb.ch
-NOERROR	intranet.web001.ntb.ch
-NXDOMAIN	inf03-server.ntb.ch
-NXDOMAIN	nbid006.ntb.ch
-NOERROR	vmgrund7.ntb.ch
-NOERROR	es127.ntb.ch
-NXDOMAIN	pctd001.ntb.ch
-NOERROR	spsmies015.ntb.ch
-NOERROR	npice310a.ntb.ch
-NOERROR	nbice012.ntb.ch
-NOERROR	vmhpc011.ntb.ch
-NOERROR	mspel2.ntb.ch
-NOERROR	es073.ntb.ch
-NXDOMAIN	mon-galaxy-a20e.ntb.ch
-NOERROR	sccm002.ntb.ch
-NXDOMAIN	redmi5plus-ff.ntb.ch
-NOERROR	pcems092.ntb.ch
-NXDOMAIN	davis-iphone.ntb.ch
-NOERROR	0cb2b7044b06-mysimplelink.ntb.ch
-NXDOMAIN	mccoaching.ntb.ch
-NOERROR	digiel028.ntb.ch
-NOERROR	oscel126.ntb.ch
-NXDOMAIN	wspwo001.ntb.ch
-NOERROR	npi09b1b5.ntb.ch
-NOERROR	vmklz003.ntb.ch
-NOERROR	zyboesa001.ntb.ch
-NOERROR	tssalto9001-1.ntb.ch
-NOERROR	es152.ntb.ch
-NOERROR	mmel209b.ntb.ch
-NOERROR	es172.ntb.ch
-NOERROR	oscies011.ntb.ch
-NOERROR	tssalto4061-1.ntb.ch
-NXDOMAIN	hpf717a4.ntb.ch
-NOERROR	crmint.ntb.ch
-NOERROR	pcklz234.ntb.ch
-NOERROR	beagleel02.ntb.ch
-NXDOMAIN	android-331604756c061146.ntb.ch
-NOERROR	lmgies501.ntb.ch
-NXDOMAIN	sep002584611e32.ntb.ch
-NOERROR	oscies001.ntb.ch
-NOERROR	cdaqems001.ntb.ch
-NXDOMAIN	pcies061.ntb.ch
-NXDOMAIN	eldr0n-thinkpad.ntb.ch
-NOERROR	ex.www.ntb.ch
-NOERROR	digiel027.ntb.ch
-NOERROR	crmdb.test.ntb.ch
-NOERROR	0cb2b703eb4b-mysimplelink.ntb.ch
-NXDOMAIN	nbmnt026.ntb.ch
-NOERROR	spsautom017.ntb.ch
-NXDOMAIN	lukas-iphone.ntb.ch
-NOERROR	vmverw002.ntb.ch
-NOERROR	spsmies014.ntb.ch
-NOERROR	fgwems111.ntb.ch
-NOERROR	vmcomsol001.ntb.ch
-NOERROR	raspberryesa019.ntb.ch
-NOERROR	poly001.ntb.ch
-NOERROR	npi40e872.ntb.ch
-NOERROR	droidautom1.ntb.ch
-NOERROR	npi8f365a.ntb.ch
-NOERROR	svn001.ntb.ch
-NXDOMAIN	price005.ntb.ch
-NOERROR	mmesa007.ntb.ch
-NOERROR	44ead81d2199-mysimplelink.ntb.ch
-NOERROR	oscwems101.ntb.ch
-NXDOMAIN	pcmnt011.ntb.ch
-NXDOMAIN	huawei_p20_lite-b1b085308.ntb.ch
-NOERROR	matomo.web003.ntb.ch
-NOERROR	vmhpc021.ntb.ch
-NOERROR	pcies019.ntb.ch
-NXDOMAIN	nbinf002.ntb.ch
-NOERROR	digiel014.ntb.ch
-NXDOMAIN	laptop-dada.ntb.ch
-NXDOMAIN	diva-333512.ntb.ch
-NXDOMAIN	pcclab104.ntb.ch
-NXDOMAIN	nbems034.ntb.ch
-NOERROR	pbel21.ntb.ch
-NOERROR	sep00270d3eb2c9.ntb.ch
-NOERROR	scccerems002.ntb.ch
-NXDOMAIN	desktop-rvdalcj.ntb.ch
-NOERROR	es173.ntb.ch
-NOERROR	www.www.ntb.ch
-NXDOMAIN	galaxy-s10e-von-gandulf.ntb.ch
-NOERROR	nies119.ntb.ch
-NOERROR	bdi3000inf01.ntb.ch
-NOERROR	webcamel001.ntb.ch
-NOERROR	spsautom006.ntb.ch
-NOERROR	tvid001.ntb.ch
-NOERROR	ap2100-4.ntb.ch
-NOERROR	3290.ntb.ch
-NOERROR	as3026-1.ntb.ch
-NOERROR	es084.ntb.ch
-NXDOMAIN	desktop-58mnomh.ntb.ch
-NOERROR	scccerems001.ntb.ch
-NXDOMAIN	nbmnt021.ntb.ch
-NXDOMAIN	sep002584611cdf.ntb.ch
-NOERROR	es140.ntb.ch
-NXDOMAIN	huawei_mate_10_pro-5b46c4.ntb.ch
-NOERROR	vmhpc010.ntb.ch
-NXDOMAIN	sep002584611fc4.ntb.ch
-NOERROR	pcems010.ntb.ch
-NOERROR	digiel016.ntb.ch
-NXDOMAIN	pcice025.ntb.ch
-NOERROR	es014.ntb.ch
-NOERROR	pcmnt067.ntb.ch
-NOERROR	spsmies012.ntb.ch
-NXDOMAIN	huawei_p20_lite-991d18e2a.ntb.ch
-NXDOMAIN	pcmnt082.ntb.ch
-NOERROR	hc003-storage2.ntb.ch
-NOERROR	crm003.ntb.ch
-NOERROR	mmel202b.ntb.ch
-NOERROR	vmhpc015.ntb.ch
-NXDOMAIN	desktop-glg2eai.ntb.ch
-NXDOMAIN	pctd002.ntb.ch
-NOERROR	imstester.ntb.ch
-NOERROR	as2946-1.ntb.ch
-NOERROR	digiel033.ntb.ch
-NXDOMAIN	sep0021553eebe4.ntb.ch
-NXDOMAIN	prw105.ntb.ch
-NXDOMAIN	sep002584611e0b.ntb.ch
-NOERROR	pcwklz061.ntb.ch
-NOERROR	spsems014.ntb.ch
-NXDOMAIN	iphone-von-arno.ntb.ch
-NOERROR	pbel09.ntb.ch
-NOERROR	vmadunis002.ntb.ch
-NOERROR	es149.ntb.ch
-NOERROR	gt1901-3.ntb.ch
-NOERROR	print002.ntb.ch
-NOERROR	pbel03.ntb.ch
-NXDOMAIN	pr1319-1.ntb.ch
-NXDOMAIN	prw007.ntb.ch
-NXDOMAIN	pcems116.ntb.ch
-NOERROR	mmesa020.ntb.ch
-NXDOMAIN	chair-test.ntb.ch
-NOERROR	mmwems105.ntb.ch
-NOERROR	inf01-server.ntb.ch
-NOERROR	bender001.ntb.ch
-NOERROR	vmmutter001.ntb.ch
-NXDOMAIN	es052.ntb.ch
-NOERROR	pwrel100.ntb.ch
-NXDOMAIN	prpwo008.ntb.ch
-NOERROR	vpn002.ntb.ch
-NOERROR	pcwklz065.ntb.ch
-NXDOMAIN	wsems006.ntb.ch
-NXDOMAIN	nbpwo021.ntb.ch
-NOERROR	pcesa005.ntb.ch
-NXDOMAIN	pcesa211.ntb.ch
-NOERROR	44ead8fe603e-mysimplelink.ntb.ch
-NXDOMAIN	laptop-8opnlrvs.ntb.ch
-NOERROR	robiinf004.ntb.ch
-NXDOMAIN	klima001.ntb.ch
-NOERROR	mmesa014.ntb.ch
-NXDOMAIN	desktop-r2rfhrb.ntb.ch
-NXDOMAIN	pcems027.ntb.ch
-NOERROR	hc001-rmm.ntb.ch
-NOERROR	nies122.ntb.ch
-NOERROR	es019.ntb.ch
-NOERROR	psies012.ntb.ch
-NOERROR	oscwems304.ntb.ch
-NXDOMAIN	price003.ntb.ch
-NOERROR	pcies013.ntb.ch
-NXDOMAIN	pcinf023.ntb.ch
-NOERROR	git001.ntb.ch
-NXDOMAIN	nbwinf016.ntb.ch
-NXDOMAIN	galaxy-a6.ntb.ch
-NXDOMAIN	prems008.ntb.ch
-NXDOMAIN	huawei_mate_20_pro-7a44dd.ntb.ch
-NOERROR	wmzw002.ntb.ch
-NOERROR	nies202.ntb.ch
-NXDOMAIN	pcwinf018.ntb.ch
-NOERROR	pcklz118.ntb.ch
-NOERROR	pcid001.ntb.ch
-NOERROR	spswautom011.ntb.ch
-NOERROR	digiel018.ntb.ch
-NXDOMAIN	iphone-11.ntb.ch
-NXDOMAIN	pcpwo037.ntb.ch
-NXDOMAIN	elmedinasiphone.ntb.ch
-NOERROR	es059.ntb.ch
-NOERROR	tvpwo001.ntb.ch
-NXDOMAIN	huawei_p30_pro-77d6b25aa7.ntb.ch
-NOERROR	oscwems301.ntb.ch
-NOERROR	gpibenet.ntb.ch
-NOERROR	hpc112.ntb.ch
-NOERROR	es160.ntb.ch
-NOERROR	vmklz-corp.ntb.ch
-NXDOMAIN	nbmnt006.ntb.ch
-NOERROR	kryoies001.ntb.ch
-NOERROR	spsies301.ntb.ch
-NXDOMAIN	pcems118.ntb.ch
-NOERROR	es105.ntb.ch
-NOERROR	as1113-1.ntb.ch
-NOERROR	spsiesf007.ntb.ch
-NOERROR	robiinf031.ntb.ch
-NOERROR	es109.ntb.ch
-NOERROR	pcwklz051.ntb.ch
-NXDOMAIN	pcinf039.ntb.ch
-NOERROR	inf006.ntb.ch
-NOERROR	ds002-mgmt0.ntb.ch
-NOERROR	inf003.ntb.ch
-NOERROR	test9.web003.ntb.ch
-NXDOMAIN	laptop-aipmsoap.ntb.ch
-NXDOMAIN	pcrhysearch004.ntb.ch
-NOERROR	spsems007.ntb.ch
-NOERROR	vmhpc023.ntb.ch
-NOERROR	pcklz107.ntb.ch
-NOERROR	nbwinf013.ntb.ch
-NXDOMAIN	pcwklz120.ntb.ch
-NXDOMAIN	pcwt16.ntb.ch
-NXDOMAIN	pcel425.ntb.ch
-NOERROR	flying_puffin.ntb.ch
-NXDOMAIN	prel001.ntb.ch
-NOERROR	pbel05.ntb.ch
-NOERROR	vmhpc004.ntb.ch
-NOERROR	0cb2b704545c-mysimplelink.ntb.ch
-NXDOMAIN	desktop-48r50vv.ntb.ch
-NOERROR	mmesa037.ntb.ch
-NXDOMAIN	pcmnt017.ntb.ch
-NXDOMAIN	desktop-lj0dqmn.ntb.ch
-NXDOMAIN	pcies005.ntb.ch
-NOERROR	oscies009.ntb.ch
-NOERROR	pcwklz066.ntb.ch
-NOERROR	chilli-test.ntb.ch
-NOERROR	gridvis001.ntb.ch
-NOERROR	hc002-rmm.ntb.ch
-NOERROR	es106.ntb.ch
-NOERROR	robiinf018.ntb.ch
-NXDOMAIN	pcwems016.ntb.ch
-NXDOMAIN	iphone-de-r.ntb.ch
-NXDOMAIN	nbid002.ntb.ch
-NXDOMAIN	pcesa310.ntb.ch
-NXDOMAIN	rolands-iphone.ntb.ch
-NOERROR	44ead81d21c0-mysimplelink.ntb.ch
-NOERROR	veeam001.ntb.ch
-NOERROR	kaba001.ntb.ch
-NOERROR	mmesa013.ntb.ch
-NOERROR	pcwklz080.ntb.ch
-NOERROR	webcamies002.ntb.ch
-NOERROR	zyboesa002.ntb.ch
-NXDOMAIN	tfs.ntb.ch
-NXDOMAIN	yoga-jph.ntb.ch
-NOERROR	sep00270d3dafd4.ntb.ch
-NOERROR	es060.ntb.ch
-NOERROR	oscel122.ntb.ch
-NXDOMAIN	pcmnt030.ntb.ch
-NXDOMAIN	sm-g390f.ntb.ch
-NOERROR	raspberryesa017.ntb.ch
-NOERROR	mmesa029.ntb.ch
-NOERROR	oscwems308.ntb.ch
-NOERROR	es008.ntb.ch
-NXDOMAIN	pcems086.ntb.ch
-NOERROR	sep00170eee2a4d.ntb.ch
-NXDOMAIN	pcgrun.ntb.ch
-NXDOMAIN	prwinf003.ntb.ch
-NOERROR	rem-pc.ntb.ch
-NXDOMAIN	prel103.ntb.ch
-NOERROR	hp95cea4.ntb.ch
-NOERROR	mmel202a.ntb.ch
-NOERROR	es163.ntb.ch
-NOERROR	mmies006.ntb.ch
-NOERROR	sofs002-storage22.ntb.ch
-NOERROR	es005.ntb.ch
-NOERROR	psies008.ntb.ch
-NOERROR	pbel22.ntb.ch
-NOERROR	0cb2b702ebf6-mysimplelink.ntb.ch
-NXDOMAIN	simon-hp-elite-dragonfly.ntb.ch
-NOERROR	brw004.ntb.ch
-NOERROR	crmdisc.test.ntb.ch
-NXDOMAIN	pcies012.ntb.ch
-NXDOMAIN	pcies039.ntb.ch
-NXDOMAIN	pcel116.ntb.ch
-NOERROR	es142.ntb.ch
-NXDOMAIN	pcinf025.ntb.ch
-NOERROR	rtwtd002.ntb.ch
-NXDOMAIN	sep002584612096.ntb.ch
-NXDOMAIN	pcmnt003.ntb.ch
-NXDOMAIN	pcw104.ntb.ch
-NOERROR	xportel4.ntb.ch
-NOERROR	nasinf001.ntb.ch
-NXDOMAIN	desktop-2qbjj9f.ntb.ch
-NOERROR	pcems089.ntb.ch
-NOERROR	graf-optiplex-790.ntb.ch
-NOERROR	vmzw001.ntb.ch
-NOERROR	license001.ntb.ch
-NOERROR	mmwems115.ntb.ch
-NOERROR	cloud.ntb.ch
-NOERROR	pcwklz093.ntb.ch
-NXDOMAIN	pcdruckerei002.ntb.ch
-NOERROR	klima005.ntb.ch
-NOERROR	ds002.ntb.ch
-NOERROR	pcwklz089.ntb.ch
-NOERROR	pbel10.ntb.ch
-NOERROR	vmgrund-lipf.ntb.ch
-NOERROR	0cb2b7045ab6-mysimplelink.ntb.ch
-NXDOMAIN	pcesa013.ntb.ch
-NOERROR	pccb100.ntb.ch
-NOERROR	vmklz002.ntb.ch
-NOERROR	cobw001.ntb.ch
-NOERROR	0cb2b702e4be-mysimplelink.ntb.ch
-NXDOMAIN	cucm.ntb.ch
-NOERROR	pcklz227.ntb.ch
-NOERROR	hv001-rmm.ntb.ch
-NOERROR	hpc116-rmm.ntb.ch
-NXDOMAIN	patrick.ntb.ch
-NOERROR	spsautom018.ntb.ch
-NOERROR	pcxibo001.ntb.ch
-NOERROR	es041.ntb.ch
-NXDOMAIN	pcesa315.ntb.ch
-NOERROR	hzg2910-1.ntb.ch
-NOERROR	itservices.ntb.ch
-NXDOMAIN	npicc68a1.ntb.ch
-NXDOMAIN	pcies038.ntb.ch
-NOERROR	as3135-1.ntb.ch
-NXDOMAIN	awsd-server.ntb.ch
-NXDOMAIN	alexandasiphone.ntb.ch
-NOERROR	mmesa023.ntb.ch
-NOERROR	canon31623e.ntb.ch
-NOERROR	hpc109.ntb.ch
-NXDOMAIN	nbzw001.ntb.ch
-NOERROR	raspberryesa007.ntb.ch
-NXDOMAIN	pc1316.ntb.ch
-NOERROR	pcies051.ntb.ch
-NOERROR	es086.ntb.ch
-NOERROR	mmel204b.ntb.ch
-NOERROR	oscesa130.ntb.ch
-NXDOMAIN	desktop-rgna80t.ntb.ch
-NOERROR	es018.ntb.ch
-NOERROR	raspberryesa012_1.ntb.ch
-NOERROR	nies206.ntb.ch
-NXDOMAIN	prw201.ntb.ch
-NOERROR	nagios.ntb.ch
-NOERROR	iap.ntb.ch
-NOERROR	es118.ntb.ch
-NOERROR	oscel121.ntb.ch
-NXDOMAIN	nbwinf009.ntb.ch
-NOERROR	stage.web002.ntb.ch
-NOERROR	knx1-0-255-1905-1.ntb.ch
-NXDOMAIN	pcice002.ntb.ch
-NOERROR	nbpwo-polyworks.ntb.ch
-NOERROR	digiel010.ntb.ch
-NOERROR	clhpc001.ntb.ch
-NOERROR	pcies044.ntb.ch
-NXDOMAIN	pcems068.ntb.ch
-NOERROR	pcies052.ntb.ch
-NOERROR	0cb2b703f3a7-mysimplelink.ntb.ch
-NOERROR	pccafeteria002.ntb.ch
-NXDOMAIN	huawei_p20_lite-d58036cc0.ntb.ch
-NOERROR	7c010a7b1ba1-mysimplelink.ntb.ch
-NOERROR	hc02.ntb.ch
-NOERROR	raspi.ntb.ch
-NOERROR	es012.ntb.ch
-NXDOMAIN	iphonevsmachler.ntb.ch
-NOERROR	fgwems308.ntb.ch
-NOERROR	vmklz001.ntb.ch
-NXDOMAIN	ic-control.ntb.ch
-NOERROR	adfs001.ntb.ch
-NOERROR	ss002.ntb.ch
-NOERROR	mmies001.ntb.ch
-NOERROR	pcwinf002.ntb.ch
-NOERROR	pcmnt053.ntb.ch
-NOERROR	robiinf003.ntb.ch
-NOERROR	mmwems111.ntb.ch
-NXDOMAIN	iphonevonbruno.ntb.ch
-NOERROR	elearn002.ntb.ch
-NXDOMAIN	pcwems005.ntb.ch
-NOERROR	0cb2b7045a90-mysimplelink.ntb.ch
-NOERROR	7c010a73cfa1-mysimplelink.ntb.ch
-NOERROR	aai001.ntb.ch
-NOERROR	spswems009.ntb.ch
-NOERROR	pcems099.ntb.ch
-NOERROR	rtwtd001.ntb.ch
-NOERROR	oscesa227.ntb.ch
-NOERROR	as1914-1.ntb.ch
-NOERROR	oscesa229.ntb.ch
-NOERROR	pcwklz068.ntb.ch
-NOERROR	camautom1.ntb.ch
-NXDOMAIN	pcwklz103.ntb.ch
-NOERROR	es137.ntb.ch
-NOERROR	vpn002-bridge.ntb.ch
-NOERROR	pcklz225.ntb.ch
-NOERROR	perorg-mirror.ntb.ch
-NOERROR	adm-server.ntb.ch
-NXDOMAIN	prmed1.ntb.ch
-NOERROR	mmies014.ntb.ch
-NXDOMAIN	pcmps022.ntb.ch
-NOERROR	pcpwo029.ntb.ch
-NXDOMAIN	spsiesf012.ntb.ch
-NOERROR	raspberryesa013.ntb.ch
-NOERROR	pcems124.ntb.ch
-NXDOMAIN	pcwklz044.ntb.ch
-NXDOMAIN	nbice009.ntb.ch
-NOERROR	vmklz006.ntb.ch
-NOERROR	hv002.ntb.ch
-NOERROR	es032.ntb.ch
-NOERROR	raspberryinf003.ntb.ch
-NOERROR	digiel009.ntb.ch
-NXDOMAIN	pcwt001.ntb.ch
-NOERROR	as3121-1.ntb.ch
-NXDOMAIN	pcwklz102.ntb.ch
-NOERROR	fgwems104.ntb.ch
-NOERROR	fgwems114.ntb.ch
-NXDOMAIN	pcies065.ntb.ch
-NOERROR	knxgw106.ntb.ch
-NOERROR	nies205.ntb.ch
-NOERROR	openfoam.web001.ntb.ch
-NOERROR	pcklz223.ntb.ch
-NXDOMAIN	iphone-von-emin.ntb.ch
-NOERROR	apw005-1.ntb.ch
-NOERROR	pcmnt019.ntb.ch
-NOERROR	spsems006.ntb.ch
-NOERROR	raspberryesa021.ntb.ch
-NXDOMAIN	pctd004.ntb.ch
-NOERROR	pcmnt005.ntb.ch
-NOERROR	lcry3562n17258.ntb.ch
-NOERROR	wsus001.ntb.ch
-NXDOMAIN	pcrhysearch002.ntb.ch
-NXDOMAIN	pcw103.ntb.ch
-NOERROR	es112.ntb.ch
-NOERROR	android-5c3896d4bc27ab09.ntb.ch
-NOERROR	spsautom001.ntb.ch
-NOERROR	spsems017.ntb.ch
-NOERROR	robiinf010.ntb.ch
-NOERROR	robiinf006.ntb.ch
-NOERROR	rticw106.ntb.ch
-NOERROR	crmdemo.test.ntb.ch
-NXDOMAIN	pcmnt056.ntb.ch
-NXDOMAIN	pcmnt038.ntb.ch
-NOERROR	cmtrain.ntb.ch
-NOERROR	oscwems110.ntb.ch
-NOERROR	digiel013.ntb.ch
-NOERROR	sep0016c7c7a4da.ntb.ch
-NXDOMAIN	pcpwo022.ntb.ch
-NOERROR	praktikumsjahr.web002.ntb.ch
-NOERROR	hpc118.ntb.ch
-NOERROR	es072.ntb.ch
-NOERROR	pcems094.ntb.ch
-NOERROR	nies107.ntb.ch
-NXDOMAIN	surface-tizian-ulber.ntb.ch
-NOERROR	0cb2b703f388-mysimplelink.ntb.ch
-NOERROR	wiki.ntb.ch
-NOERROR	demo.web02.ntb.ch
-NOERROR	intlabpower.ntb.ch
-NOERROR	es167.ntb.ch
-NOERROR	apw007-1.ntb.ch
-NXDOMAIN	pces015.ntb.ch
-NOERROR	m23300111-pc.ntb.ch
-NXDOMAIN	3291.ntb.ch
-NOERROR	mmel206b.ntb.ch
-NOERROR	mmesa022.ntb.ch
-NXDOMAIN	pcklz551.ntb.ch
-NOERROR	vmhpc024.ntb.ch
-NOERROR	oscesa206.ntb.ch
-NXDOMAIN	prtt001.ntb.ch
-NOERROR	fgwems113.ntb.ch
-NOERROR	es025.ntb.ch
-NOERROR	es169.ntb.ch
-NXDOMAIN	kabil-ramadani.ntb.ch
-NOERROR	rtel02.ntb.ch
-NOERROR	pcems002.ntb.ch
-NOERROR	nbmnt031.ntb.ch
-NXDOMAIN	pcwtd002.ntb.ch
-NXDOMAIN	hpaa9e9e.ntb.ch
-NOERROR	spswems013.ntb.ch
-NOERROR	vmklz7.ntb.ch
-NXDOMAIN	presa001.ntb.ch
-NOERROR	vmhpc001.ntb.ch
-NOERROR	pc1340.ntb.ch
-NXDOMAIN	pcesa441.ntb.ch
-NXDOMAIN	desktop-rm873j3.ntb.ch
-NXDOMAIN	pcwklz104.ntb.ch
-NOERROR	es043.ntb.ch
-NXDOMAIN	prwinf001.ntb.ch
-NOERROR	fw002.ntb.ch
-NOERROR	hv004-rmm.ntb.ch
-NOERROR	es156.ntb.ch
-NOERROR	pbxwaldau002.ntb.ch
-NOERROR	7c010a73d4b7-mysimplelink.ntb.ch
-NOERROR	oscesa218.ntb.ch
-NOERROR	fgwems305.ntb.ch
-NOERROR	intranetalt.ntb.ch
-NOERROR	mmwems116.ntb.ch
-NXDOMAIN	iphone-von-urs.ntb.ch
-NOERROR	pcmnt073.ntb.ch
-NXDOMAIN	pries008.ntb.ch
-NOERROR	oscel124.ntb.ch
-NOERROR	robiinf005.ntb.ch
-NXDOMAIN	pcwems201.ntb.ch
-NOERROR	44ead81d21a6-mysimplelink.ntb.ch
-NOERROR	es136.ntb.ch
-NXDOMAIN	colibri-t30.ntb.ch
-NOERROR	careoffice001.ntb.ch
-NOERROR	pcies011.ntb.ch
-NOERROR	digiel008.ntb.ch
-NXDOMAIN	dnertablet.ntb.ch
-NOERROR	es082.ntb.ch
-NOERROR	mmel204a.ntb.ch
-NXDOMAIN	elearn001.ntb.ch
-NXDOMAIN	pcinf003.ntb.ch
-NXDOMAIN	wsems010.ntb.ch
-NOERROR	nies105.ntb.ch
-NOERROR	pcwklz084.ntb.ch
-NOERROR	pucca.ntb.ch
-NOERROR	spsems008.ntb.ch
-NOERROR	oscesa209.ntb.ch
-NOERROR	webcamems001.ntb.ch
-NOERROR	mmesa027.ntb.ch
-NOERROR	fgwems115.ntb.ch
-NOERROR	spsmies016.ntb.ch
-NXDOMAIN	pcesa438.ntb.ch
-NOERROR	mmwems108.ntb.ch
-NOERROR	vmhpc013.ntb.ch
-NOERROR	awusb002.ntb.ch
-NXDOMAIN	np5150_4265.ntb.ch
-NXDOMAIN	sep002333416fe2.ntb.ch
-NOERROR	oscwems104.ntb.ch
-NOERROR	mmel205a.ntb.ch
-NOERROR	pcklz112.ntb.ch
-NOERROR	spsmies004.ntb.ch
-NXDOMAIN	pcies069.ntb.ch
-NOERROR	mmwems112.ntb.ch
-NXDOMAIN	price004.ntb.ch
-NOERROR	pbel15.ntb.ch
-NXDOMAIN	iphonevonyanis.ntb.ch
-NOERROR	oscar001.ntb.ch
-NOERROR	test.web002.ntb.ch
-NOERROR	ds001.ntb.ch
-NOERROR	vpn001.ntb.ch
-NOERROR	hc002-storage2.ntb.ch
-NXDOMAIN	ipadvonhristoph.ntb.ch
-NOERROR	mail.ntb.ch
-NOERROR	rheinlab.ntb.ch
-NXDOMAIN	prcad3.ntb.ch
-NOERROR	oscesa129.ntb.ch
-NXDOMAIN	huawei_p10_lite-4314bd2e8.ntb.ch
-NOERROR	pcwklz069.ntb.ch
-NOERROR	fgwems306.ntb.ch
-NOERROR	as9000-1-1.ntb.ch
-NOERROR	prwinf002.ntb.ch
-NOERROR	iplink001.ntb.ch
-NOERROR	robiinf017.ntb.ch
-NXDOMAIN	pcesa021.ntb.ch
-NOERROR	robiinf001.ntb.ch
-NOERROR	ripcolor001.ntb.ch
-NOERROR	apw107-1.ntb.ch
-NXDOMAIN	iphonevonmarco.ntb.ch
-NXDOMAIN	huawei_p10-1d6662ba42859a.ntb.ch
-NOERROR	587a620735ff-mysimplelink.ntb.ch
-NXDOMAIN	sep002333419a52.ntb.ch
-NOERROR	robiinf028.ntb.ch
-NOERROR	pcklz244.ntb.ch
-NOERROR	7c010a73c66a-mysimplelink.ntb.ch
-NXDOMAIN	pcesa442.ntb.ch
-NXDOMAIN	nbmnt035.ntb.ch
-NOERROR	spsems004.ntb.ch
-NXDOMAIN	pcqt35.ntb.ch
-NOERROR	spswautom001.ntb.ch
-NOERROR	3284.ntb.ch
-NOERROR	oscesa219.ntb.ch
-NXDOMAIN	pcclab003.ntb.ch
-NOERROR	co2106.ntb.ch
-NOERROR	pcklz242.ntb.ch
-NOERROR	vmklz010.ntb.ch
-NOERROR	spswems004.ntb.ch
-NXDOMAIN	przw003.ntb.ch
-NOERROR	ip-ntbr-ch-buc-r-001.ntb.ch
-NOERROR	oscies008.ntb.ch
-NOERROR	pcesa009.ntb.ch
-NXDOMAIN	pcmnt004.ntb.ch
-NXDOMAIN	ipc.ntb.ch
-NXDOMAIN	pcwems309.ntb.ch
-NXDOMAIN	pcesa214.ntb.ch
-NOERROR	stage8-ap.web002.ntb.ch
-NXDOMAIN	pcems060.ntb.ch
-NOERROR	es151.ntb.ch
-NXDOMAIN	pcems087.ntb.ch
-NOERROR	sitemanager.ntb.ch
-NXDOMAIN	nbpwo015.ntb.ch
-NOERROR	vmhpc025.ntb.ch
-NXDOMAIN	raspberryems001.ntb.ch
-NOERROR	raspberryinf002.ntb.ch
-NOERROR	spsautom008.ntb.ch
-NOERROR	ausbildungspass.www.ntb.ch
-NOERROR	pcklz120.ntb.ch
-NOERROR	pcxibo003.ntb.ch
-NXDOMAIN	desktop-qa7erft.ntb.ch
-NXDOMAIN	mi9tpro-miphone.ntb.ch
-NOERROR	spsies004.ntb.ch
-NOERROR	psies005.ntb.ch
-NOERROR	raspberryesa016_1.ntb.ch
-NXDOMAIN	galaxy-s9.ntb.ch
-NOERROR	0cb2b703e926-mysimplelink.ntb.ch
-NOERROR	esinf001.ntb.ch
-NOERROR	ap1418-1.ntb.ch
-NOERROR	spsems001.ntb.ch
-NOERROR	wifi232inf001.ntb.ch
-NOERROR	hv003-storage2.ntb.ch
-NOERROR	loragateway001.ntb.ch
-NXDOMAIN	rouvens-mbp.ntb.ch
-NOERROR	ap1113-1.ntb.ch
-NOERROR	galaxy-tab-a-2016.ntb.ch
-NOERROR	mail001.ntb.ch
-NOERROR	es009.ntb.ch
-NXDOMAIN	pcclab010.ntb.ch
-NOERROR	as4037-1.ntb.ch
-NOERROR	pbel12.ntb.ch
-NOERROR	sep00170eee2b65.ntb.ch
-NOERROR	klimaimp-panel.ntb.ch
-NOERROR	nbice017.ntb.ch
-NOERROR	gties002.ntb.ch
-NOERROR	spsmies005.ntb.ch
-NOERROR	adunis007.ntb.ch
-NOERROR	htkw_khweb.ntb.ch
-NXDOMAIN	pcems026.ntb.ch
-NOERROR	ds001-mgmt0.ntb.ch
-NXDOMAIN	scalar80.ntb.ch
-NXDOMAIN	pcw201.ntb.ch
-NXDOMAIN	pcesa202.ntb.ch
-NOERROR	vmverw006.ntb.ch
-NXDOMAIN	android-8e6c1fb95c8b0701.ntb.ch
-NOERROR	hv002-storage1.ntb.ch
-NXDOMAIN	pcclab005.ntb.ch
-NOERROR	ntb-linux.ntb.ch
-NOERROR	es068.ntb.ch
-NOERROR	0cb2b703f69e-mysimplelink.ntb.ch
-NXDOMAIN	pcpwo014.ntb.ch
-NOERROR	blog.www.ntb.ch
-NOERROR	beagleel03.ntb.ch
-NOERROR	nies222.ntb.ch
-NXDOMAIN	pcmnt002.ntb.ch
-NOERROR	spswautom003.ntb.ch
-NXDOMAIN	pcems104.ntb.ch
-NXDOMAIN	pcems011.ntb.ch
-NOERROR	mmesa010.ntb.ch
-NOERROR	sto.ntb.ch
-NXDOMAIN	pcinf046.ntb.ch
-NXDOMAIN	lapkuna1.ntb.ch
-NOERROR	lcry3559n07076.ntb.ch
-NXDOMAIN	oneplus5.ntb.ch
-NOERROR	umg001.ntb.ch
-NXDOMAIN	pcpwo017.ntb.ch
-NOERROR	es170.ntb.ch
-NOERROR	es003.ntb.ch
-NOERROR	npif2e104.ntb.ch
-NXDOMAIN	pcmnt040.ntb.ch
-NOERROR	nbems009.ntb.ch
-NOERROR	pcice033.ntb.ch
-NXDOMAIN	nbid008.ntb.ch
-NOERROR	dns002.ntb.ch
-NOERROR	pbel17.ntb.ch
-NOERROR	nies102.ntb.ch
-NOERROR	44ead81d183c-mysimplelink.ntb.ch
-NOERROR	digiel015.ntb.ch
-NOERROR	nies101.ntb.ch
-NOERROR	beagleesa010.ntb.ch
-NXDOMAIN	npi054b41.ntb.ch
-NOERROR	pcklz111.ntb.ch
-NOERROR	robiinf009.ntb.ch
-NXDOMAIN	pcesa210.ntb.ch
-NOERROR	knx11-0-255-w108-1.ntb.ch
-NOERROR	pcklz114.ntb.ch
-NXDOMAIN	pcel122.ntb.ch
-NOERROR	spsiesf009.ntb.ch
-NXDOMAIN	iphonevndanijel.ntb.ch
-NXDOMAIN	pcpwo002.ntb.ch
-NOERROR	spsiesf010.ntb.ch
-NXDOMAIN	pcesa437.ntb.ch
-NOERROR	es130.ntb.ch
-NOERROR	klimaimp-extender.ntb.ch
-NOERROR	mmies003.ntb.ch
-NOERROR	uboxel001.ntb.ch
-NOERROR	raspberryesa005.ntb.ch
-NXDOMAIN	android-14d7b3223c88569c.ntb.ch
-NOERROR	nies242.ntb.ch
-NOERROR	apcb105-1.ntb.ch
-NXDOMAIN	galaxy-a40.ntb.ch
-NOERROR	pcid003.ntb.ch
-NOERROR	zw-server.ntb.ch
-NOERROR	tssalto5000-2.ntb.ch
-NOERROR	pcmnt046.ntb.ch
-NOERROR	3272.ntb.ch
-NXDOMAIN	nbies010.ntb.ch
-NOERROR	mmesa031.ntb.ch
-NOERROR	spsiesf011.ntb.ch
-NOERROR	pcice028.ntb.ch
-NOERROR	pcwklz043.ntb.ch
-NOERROR	vmhpc002.ntb.ch
-NOERROR	fgwems116.ntb.ch
-NXDOMAIN	huawei_p20_pro-c78eb7b151.ntb.ch
-NXDOMAIN	npiafaf7c.ntb.ch
-NXDOMAIN	iphone-von-rolf.ntb.ch
-NOERROR	wsmath001.ntb.ch
-NXDOMAIN	coverw002.ntb.ch
-NXDOMAIN	erichs-iphone.ntb.ch
-NXDOMAIN	pcid009.ntb.ch
-NOERROR	bdi3000inf03.ntb.ch
-NOERROR	pcmnt074.ntb.ch
-NOERROR	raspberryesa016.ntb.ch
-NOERROR	sickautom001.ntb.ch
-NOERROR	cdaqems003.ntb.ch
-NOERROR	pcklz228.ntb.ch
-NOERROR	psies009.ntb.ch
-NOERROR	radius-server.ntb.ch
-NOERROR	spsies001.ntb.ch
-NOERROR	nies211.ntb.ch
-NOERROR	lcry3562n17642.ntb.ch
-NOERROR	pcwklz075.ntb.ch
-NOERROR	vmklz007.ntb.ch
-NOERROR	careoffice.ntb.ch
-NXDOMAIN	pcies046.ntb.ch
-NXDOMAIN	pcems134.ntb.ch
-NXDOMAIN	lucass-iphone.ntb.ch
-NOERROR	vmhpc003.ntb.ch
-NOERROR	wmzw1.ntb.ch
-NOERROR	es110.ntb.ch
-NXDOMAIN	pcms010.ntb.ch
-NOERROR	pcklz239.ntb.ch
-NOERROR	pcems120.ntb.ch
-NOERROR	sep0021553f0015.ntb.ch
-NXDOMAIN	pcesa314.ntb.ch
-NOERROR	itservices.web001.ntb.ch
-NOERROR	spsmies003.ntb.ch
-NOERROR	android-8f703697cb42efbf.ntb.ch
-NXDOMAIN	pcwklz114.ntb.ch
-NOERROR	spsems003.ntb.ch
-NOERROR	pcems132.ntb.ch
-NOERROR	3273.ntb.ch
-NXDOMAIN	nb4900.ntb.ch
-NXDOMAIN	diskstation.ntb.ch
-NOERROR	nexus002.ntb.ch
-NOERROR	pcies062.ntb.ch
-NOERROR	pcklz109.ntb.ch
-NXDOMAIN	pcclab030.ntb.ch
-NOERROR	pxims1.ntb.ch
-NOERROR	hp8ed689.ntb.ch
-NOERROR	ss001.ntb.ch
-NOERROR	adunis008.ntb.ch
-NXDOMAIN	pcesa017.ntb.ch
-NOERROR	bdi3000ems01.ntb.ch
-NOERROR	pcmnt025.ntb.ch
-NOERROR	es166.ntb.ch
-NOERROR	inf007.ntb.ch
-NOERROR	swisscom-server.ntb.ch
-NXDOMAIN	pcice032.ntb.ch
-NOERROR	digiel007.ntb.ch
-NOERROR	knx3-0-255-3974-1.ntb.ch
-NXDOMAIN	laptop-4s0hqrtu.ntb.ch
-NOERROR	as3138-1.ntb.ch
-NXDOMAIN	pcesa432.ntb.ch
-NOERROR	rtel03.ntb.ch
-NOERROR	hpc003-rmm.ntb.ch
-NOERROR	pcidtest001.ntb.ch
-NOERROR	3271.ntb.ch
-NOERROR	fgies002.ntb.ch
-NXDOMAIN	pccklz060.ntb.ch
-NOERROR	beamerid001.ntb.ch
-NOERROR	es146.ntb.ch
-NXDOMAIN	laptop-rrra574k.ntb.ch
-NXDOMAIN	iphonemscharcos.ntb.ch
-NOERROR	nies251.ntb.ch
-NXDOMAIN	prw200.ntb.ch
-NXDOMAIN	desktop-qgfbjbu.ntb.ch
-NOERROR	pcems090.ntb.ch
-NOERROR	es087.ntb.ch
-NXDOMAIN	bgort-pc.ntb.ch
-NOERROR	dns001.ntb.ch
-NOERROR	dc002.ntb.ch
-NXDOMAIN	nbrhysearch017.ntb.ch
-NOERROR	jlinkproesa01.ntb.ch
-NOERROR	oscies010.ntb.ch
-NXDOMAIN	sep002584611d7b.ntb.ch
-NOERROR	raspberryesa010.ntb.ch
-NXDOMAIN	pcinf022.ntb.ch
-NXDOMAIN	liams-ipad.ntb.ch
-NOERROR	mmel201a.ntb.ch
-NOERROR	oscesa230.ntb.ch
-NOERROR	pcwklz086.ntb.ch
-NOERROR	wsems005.ntb.ch
-NOERROR	pcesa035.ntb.ch
-NXDOMAIN	npi8f348d.ntb.ch
-NXDOMAIN	flavios-mbp.ntb.ch
-NOERROR	stage8-sto.web002.ntb.ch
-NOERROR	mmesa032.ntb.ch
-NOERROR	oscmps001.ntb.ch
-NOERROR	pcklz224.ntb.ch
-NXDOMAIN	npi8eca9d.ntb.ch
-NXDOMAIN	presa002.ntb.ch
-NOERROR	pcmnt066.ntb.ch
-NOERROR	pcxibo005.ntb.ch
-NOERROR	apw100-3.ntb.ch
-NOERROR	vmverw001.ntb.ch
-NXDOMAIN	alessios-mbp.ntb.ch
-NXDOMAIN	ipad-von-erich.ntb.ch
-NOERROR	oscwems302.ntb.ch
-NXDOMAIN	pcice037.ntb.ch
-NOERROR	3221.ntb.ch
-NOERROR	xportel5.ntb.ch
-NOERROR	web001.ntb.ch
-NOERROR	hv003-rmm.ntb.ch
-NXDOMAIN	pcems012.ntb.ch
-NOERROR	es017.ntb.ch
-NOERROR	pcmnt044.ntb.ch
-NOERROR	ap3143-1.ntb.ch
-NOERROR	pwrinf001_1.ntb.ch
-NXDOMAIN	prmnt006.ntb.ch
-NOERROR	robiinf012.ntb.ch
-NOERROR	spsmies011.ntb.ch
-NOERROR	hpc113.ntb.ch
-NOERROR	hc001-storage1.ntb.ch
-NXDOMAIN	npibaef5a.ntb.ch
-NOERROR	pcinf012.ntb.ch
-NOERROR	spsautom002.ntb.ch
-NXDOMAIN	nbems026.ntb.ch
-NXDOMAIN	nbcafeteria001.ntb.ch
-NXDOMAIN	pcpwo019.ntb.ch
-NOERROR	spswems011.ntb.ch
-NXDOMAIN	marioschlegel.ntb.ch
-NOERROR	tssalto2942-1.ntb.ch
-NXDOMAIN	beamerg2.ntb.ch
-NOERROR	itwpoly001.ntb.ch
-NXDOMAIN	iphone-bruno.ntb.ch
-NXDOMAIN	desktop-hj7t8r4.ntb.ch
-NXDOMAIN	pcies055.ntb.ch
-NOERROR	pcpwo005.ntb.ch
-NOERROR	oscwems111.ntb.ch
-NXDOMAIN	pcwel112.ntb.ch
-NOERROR	0cb2b703e93c-mysimplelink.ntb.ch
-NOERROR	webcamies003.ntb.ch
-NXDOMAIN	pcwklz117.ntb.ch
-NOERROR	pcems108.ntb.ch
-NOERROR	pcwklz095.ntb.ch
-NOERROR	nies115.ntb.ch
-NXDOMAIN	pczw003.ntb.ch
-NOERROR	raspberryesa006.ntb.ch
-NOERROR	galaxy-note8.ntb.ch
-NOERROR	digiel022.ntb.ch
-NOERROR	es080.ntb.ch
-NOERROR	wc5508_2.ntb.ch
-NOERROR	fgwems307.ntb.ch
-NOERROR	7c010a73cbda-mysimplelink.ntb.ch
-NOERROR	vmgrund-kesm.ntb.ch
-NOERROR	raspberryesa003.ntb.ch
-NXDOMAIN	sep0021553f0a5c.ntb.ch
-NOERROR	pcpwo043.ntb.ch
-NOERROR	es055.ntb.ch
-NOERROR	vmhpc019.ntb.ch
-NOERROR	pcklz382.ntb.ch
-NOERROR	es090.ntb.ch
-NXDOMAIN	nbrhysearch013.ntb.ch
-NOERROR	mmies005.ntb.ch
-NXDOMAIN	pc1216.ntb.ch
-NOERROR	vmtd001.ntb.ch
-NXDOMAIN	iphone-von-tina.ntb.ch
-NOERROR	hpc110-rmm.ntb.ch
-NOERROR	pcwklz064.ntb.ch
-NXDOMAIN	pcpwo051.ntb.ch
-NOERROR	fw001.ntb.ch
-NXDOMAIN	vedats-mbp-2.ntb.ch
-NXDOMAIN	fhs-42543.ntb.ch
-NXDOMAIN	pcgewi003.ntb.ch
-NXDOMAIN	pcice011.ntb.ch
-NOERROR	es131.ntb.ch
-NXDOMAIN	minint-brvpnih.ntb.ch
-NOERROR	hv004-storage2.ntb.ch
-NOERROR	pcw202.ntb.ch
-NOERROR	dns1-server.ntb.ch
-NOERROR	oscesa211.ntb.ch
-NOERROR	pcice018.ntb.ch
-NXDOMAIN	klimapwo-extender.ntb.ch
-NXDOMAIN	pcwems203.ntb.ch
-NOERROR	spswautom014.ntb.ch
-NXDOMAIN	sep002584611d6f.ntb.ch
-NOERROR	digiel001.ntb.ch
-NOERROR	3286.ntb.ch
-NOERROR	587a620732c2-mysimplelink.ntb.ch
-NOERROR	pcwklz067.ntb.ch
-NOERROR	pcklz117.ntb.ch
-NOERROR	beagleel01.ntb.ch
-NOERROR	pbel19.ntb.ch
-NOERROR	mmel205b.ntb.ch
-NXDOMAIN	tus-iphone.ntb.ch
-NOERROR	nies109.ntb.ch
-NXDOMAIN	pcems101.ntb.ch
-NOERROR	vmhpc006.ntb.ch
-NXDOMAIN	nd-da1335020996.ntb.ch
-NOERROR	pcems100.ntb.ch
-NXDOMAIN	ipad-7.ntb.ch
-NXDOMAIN	pcwems302.ntb.ch
-NOERROR	0cb2b703e721-mysimplelink.ntb.ch
-NOERROR	44ead8fe5be8-mysimplelink.ntb.ch
-NXDOMAIN	nbems032.ntb.ch
-NOERROR	npi092064.ntb.ch
-NOERROR	pcems081.ntb.ch
-NOERROR	7c010a73cfd0-mysimplelink.ntb.ch
-NOERROR	spsems002.ntb.ch
-NXDOMAIN	iphonevonalbin.ntb.ch
-NXDOMAIN	pries002.ntb.ch
-NOERROR	es120.ntb.ch
-NOERROR	robiinf025.ntb.ch
-NOERROR	0cb2b704546e-mysimplelink.ntb.ch
-NXDOMAIN	prwverw002.ntb.ch
-NOERROR	pcklz235.ntb.ch
-NOERROR	crm001-test.ntb.ch
-NOERROR	oscesa223.ntb.ch
-NOERROR	oscies007.ntb.ch
-NOERROR	psies003.ntb.ch
-NOERROR	psies013.ntb.ch
-NOERROR	panies201.ntb.ch
-NOERROR	pcice039.ntb.ch
-NOERROR	ilearn.ntb.ch
-NXDOMAIN	daniels-iphone.ntb.ch
-NOERROR	spsiesf099.ntb.ch
-NXDOMAIN	pcems064.ntb.ch
-NXDOMAIN	desktop-uu7j7ci.ntb.ch
-NOERROR	ebox-4064.ntb.ch
-NOERROR	oscel127.ntb.ch
-NXDOMAIN	pcinf059.ntb.ch
-NOERROR	mgmt-server.ntb.ch
-NXDOMAIN	radius001.ntb.ch
-NOERROR	spsies101.ntb.ch
-NXDOMAIN	prwid001.ntb.ch
-NOERROR	inf004.ntb.ch
-NXDOMAIN	hpcbae59.ntb.ch
-NOERROR	tssalto4131-1.ntb.ch
-NXDOMAIN	sep00115c42e2a1.ntb.ch
-NXDOMAIN	pcgewi006.ntb.ch
-NOERROR	adunis006.ntb.ch
-NOERROR	pcmnt009.ntb.ch
-NOERROR	nanoparticlesafety.ntb.ch
-NXDOMAIN	pcinf048.ntb.ch
-NOERROR	es133.ntb.ch
-NOERROR	pcwklz088.ntb.ch
-NOERROR	apw010-1.ntb.ch
-NOERROR	es079.ntb.ch
-NOERROR	nbverw002.ntb.ch
-NOERROR	ems-intlab.ntb.ch
-NOERROR	nies116.ntb.ch
-NXDOMAIN	pcms020.ntb.ch
-NOERROR	es065.ntb.ch
-NOERROR	axas001-test.ntb.ch
-NOERROR	bu002-rmm.ntb.ch
-NXDOMAIN	pcesa217.ntb.ch
-NOERROR	axdb001-test.ntb.ch
-NOERROR	perorg-demo.ntb.ch
-NXDOMAIN	sep002584611f6a.ntb.ch
-NXDOMAIN	kristiansiphone.ntb.ch
+pcies053.ntb.ch
+cdaqems008.ntb.ch
+pcice050.ntb.ch
+raspberryinf009.ntb.ch
+oscesa213.ntb.ch
+psies011.ntb.ch
+spsies003.ntb.ch
+mmel203a.ntb.ch
+mmesa033.ntb.ch
+pcems113.ntb.ch
+pcems126.ntb.ch
+iwmc001.ntb.ch
+psies001.ntb.ch
+fgies001.ntb.ch
+hzg3924-1.ntb.ch
+npi0d22e8.ntb.ch
+pcwpz007.ntb.ch
+spsems010.ntb.ch
+nbrhysearch012.ntb.ch
+es154.ntb.ch
+es122.ntb.ch
+mi9t-mi9t.ntb.ch
+staging.web001.ntb.ch
+tssalto4950-1.ntb.ch
+matrixvw106.ntb.ch
+oscesa202.ntb.ch
+pcwklz053.ntb.ch
+apw104-1.ntb.ch
+green.web02.ntb.ch
+oscesa221.ntb.ch
+pcklz381.ntb.ch
+robiinf027.ntb.ch
+pcklz110.ntb.ch
+evalbot001.ntb.ch
+altium001.ntb.ch
+oscwems115.ntb.ch
+es159.ntb.ch
+pcmnt051.ntb.ch
+oscinf001.ntb.ch
+digiel026.ntb.ch
+0cb2b703f55b-mysimplelink.ntb.ch
+pcwklz077.ntb.ch
+pcverw005.ntb.ch
+tssalto4163-1.ntb.ch
+es125.ntb.ch
+es010.ntb.ch
+as3038-1.ntb.ch
+vmklz-scur.ntb.ch
+ap1000-2.ntb.ch
+0cb2b704488b-mysimplelink.ntb.ch
+pcinf006.ntb.ch
+nbkeller001.ntb.ch
+es119.ntb.ch
+spsautom014.ntb.ch
+test.web02.ntb.ch
+oscesa215.ntb.ch
+hpc001-storage1.ntb.ch
+pcwklz087.ntb.ch
+hpc110.ntb.ch
+es157.ntb.ch
+pcklz222.ntb.ch
+spsmies002.ntb.ch
+oscesa232.ntb.ch
+xboxid001.ntb.ch
+spsems012.ntb.ch
+axdb001.ntb.ch
+salto.ntb.ch
+hpc001-storage2.ntb.ch
+klimaimp-basis.ntb.ch
+pcice047.ntb.ch
+adm001.ntb.ch
+pcmnt033.ntb.ch
+pcesa037.ntb.ch
+robiinf015.ntb.ch
+ap1140-1.ntb.ch
+pcwklz078.ntb.ch
+spsautom015.ntb.ch
+wsems007.ntb.ch
+camwautom001.ntb.ch
+oscesa207.ntb.ch
+bu001_1gb.ntb.ch
+pcklz236.ntb.ch
+mmel207b.ntb.ch
+nbpwo004.ntb.ch
+vmklz008.ntb.ch
+es171.ntb.ch
+pctt001.ntb.ch
+apw106-1.ntb.ch
+klima003.ntb.ch
+pcmnt072.ntb.ch
+raspberryesa022.ntb.ch
+vmliteratur.ntb.ch
+es175.ntb.ch
+spswautom006.ntb.ch
+psies002.ntb.ch
+oscinf005.ntb.ch
+es004.ntb.ch
+proe-server.ntb.ch
+robiinf026.ntb.ch
+pwrvinf.ntb.ch
+pcwklz058.ntb.ch
+mmwems104.ntb.ch
+robiinf020.ntb.ch
+huawei_p30_lite-eb16bac8b.ntb.ch
+crmplayground.test.ntb.ch
+crmauth.test.ntb.ch
+oscel216.ntb.ch
+spswems002.ntb.ch
+44ead81d15ca-mysimplelink.ntb.ch
+pcems093.ntb.ch
+chwpoly001.ntb.ch
+mmel201b.ntb.ch
+knxtpw108.ntb.ch
+esems001.ntb.ch
+tssalto4050-1.ntb.ch
+0cb2b70456d5-mysimplelink.ntb.ch
+as3135-2.ntb.ch
+mmesa034.ntb.ch
+as2142-5.ntb.ch
+beagleel05.ntb.ch
+tssalto4931-1.ntb.ch
+apw100-2.ntb.ch
+raspberryies003.ntb.ch
+robiinf014.ntb.ch
+7c010a73c64e-mysimplelink.ntb.ch
+cdaqems002.ntb.ch
+spsmies013.ntb.ch
+es113.ntb.ch
+pbel11.ntb.ch
+spsems016.ntb.ch
+ap2044-1.ntb.ch
+mmwems114.ntb.ch
+criomps1.ntb.ch
+pcklz220.ntb.ch
+pcklz241.ntb.ch
+sofs001-storage11.ntb.ch
+apw202-1.ntb.ch
+spsiesf006.ntb.ch
+rtswisscombuchs01.ntb.ch
+raspberryesa019_1.ntb.ch
+3292.ntb.ch
+spsautom009.ntb.ch
+tfs1-server.ntb.ch
+spsautom010.ntb.ch
+cow100.ntb.ch
+es132.ntb.ch
+vmadunis001.ntb.ch
+magic.ntb.ch
+3203.ntb.ch
+pcpwo-alicona.ntb.ch
+oscwems108.ntb.ch
+nies241.ntb.ch
+pbel04.ntb.ch
+tssalto3000-1.ntb.ch
+mmwems103.ntb.ch
+crm002.ntb.ch
+pwrheiapriv.ntb.ch
+as3121-2.ntb.ch
+mczw001.ntb.ch
+digiel031.ntb.ch
+sep00270d3eb2dd.ntb.ch
+pcklz119.ntb.ch
+nbies011.ntb.ch
+as1919-1.ntb.ch
+pcklz102.ntb.ch
+chpoly001.ntb.ch
+vmhpc009.ntb.ch
+pcxibo002.ntb.ch
+vmhpc022.ntb.ch
+aai-aa.ntb.ch
+spsies201.ntb.ch
+apw105-1.ntb.ch
+nbhlf001.ntb.ch
+mmwems109.ntb.ch
+hzg1-server.ntb.ch
+es039.ntb.ch
+pcklz240.ntb.ch
+pc2062.ntb.ch
+spswems012.ntb.ch
+pcklz226.ntb.ch
+awusb001.ntb.ch
+pcwklz092.ntb.ch
+vmhpc007.ntb.ch
+hpc001-rmm.ntb.ch
+nies112.ntb.ch
+pbel18.ntb.ch
+mmesa030.ntb.ch
+oscesa216.ntb.ch
+raspberryesa011.ntb.ch
+0cb2b703e709-mysimplelink.ntb.ch
+awusb004.ntb.ch
+ni-crio9024-0176b119.ntb.ch
+as2142-4.ntb.ch
+pcice035.ntb.ch
+fgwems102.ntb.ch
+adunis002.ntb.ch
+ls.ntb.ch
+web003.ntb.ch
+nexus001.ntb.ch
+es002.ntb.ch
+pcems110.ntb.ch
+spsiesf001.ntb.ch
+xportel2.ntb.ch
+es071.ntb.ch
+0cb2b7044d7c-mysimplelink.ntb.ch
+spsautom011.ntb.ch
+as2163-2.ntb.ch
+fgwems304.ntb.ch
+es054.ntb.ch
+zw001.ntb.ch
+mmel213b.ntb.ch
+oscel002.ntb.ch
+spsautom005.ntb.ch
+hzg2910-2.ntb.ch
+xibo.web001.ntb.ch
+nbpwo017.ntb.ch
+pcw105.ntb.ch
+mmel210a.ntb.ch
+as3035-1.ntb.ch
+hpc003-storage1.ntb.ch
+nbmarketing003.ntb.ch
+fshpc002.ntb.ch
+spsmies009.ntb.ch
+pcems015.ntb.ch
+es076.ntb.ch
+fhsg.web02.ntb.ch
+vmhpc008.ntb.ch
+bdi2000inf01.ntb.ch
+stor002.ntb.ch
+ap2952-1.ntb.ch
+fritzboxid001.ntb.ch
+raspberryesa012.ntb.ch
+digiel006.ntb.ch
+pcems096.ntb.ch
+7c010a73dab5-mysimplelink.ntb.ch
+es162.ntb.ch
+matrixaw106.ntb.ch
+spsmies006.ntb.ch
+pcklz907.ntb.ch
+robiinf019.ntb.ch
+dnp9200el001.ntb.ch
+fgwems112.ntb.ch
+pcice017.ntb.ch
+hpc118-rmm.ntb.ch
+tssalto4031-1.ntb.ch
+psies006.ntb.ch
+pospoly001.ntb.ch
+sofs002-storage11.ntb.ch
+license-server.ntb.ch
+web02.ntb.ch
+ap2948-1.ntb.ch
+license1-server.ntb.ch
+apw011-1.ntb.ch
+oscwems309.ntb.ch
+hc003.ntb.ch
+crmint.test.ntb.ch
+pcwklz094.ntb.ch
+nbpwo-gom.ntb.ch
+es176.ntb.ch
+apw001-1.ntb.ch
+asw001-3.ntb.ch
+hpc108-rmm.ntb.ch
+inf002.ntb.ch
+spsiesf008.ntb.ch
+hpc111.ntb.ch
+mmesa028.ntb.ch
+robiinf023.ntb.ch
+as4037-4.ntb.ch
+psies004.ntb.ch
+webcamvinf.ntb.ch
+nies108.ntb.ch
+tssalto3900-2.ntb.ch
+pcwklz098.ntb.ch
+ap2900-1.ntb.ch
+es141.ntb.ch
+rtel01.ntb.ch
+mmesa039.ntb.ch
+awusb005.ntb.ch
+spsmies007.ntb.ch
+bu002.ntb.ch
+go.ntb.ch
+as2948-2-mgmt.ntb.ch
+pcklz905.ntb.ch
+es138.ntb.ch
+es093.ntb.ch
+brw001.ntb.ch
+nc001.ntb.ch
+pcinf044.ntb.ch
+ost.web02.ntb.ch
+gt1901-1.ntb.ch
+pbxbuchs002.ntb.ch
+oscwems303.ntb.ch
+plinf001_1.ntb.ch
+mmesa016.ntb.ch
+nies114.ntb.ch
+android-586a5512ad93dbd2.ntb.ch
+nies103.ntb.ch
+vcwautom001.ntb.ch
+es153.ntb.ch
+ntb.ch
+apbrel002.ntb.ch
+rheinlab001.ntb.ch
+cfpemsoe1.ntb.ch
+spsems013.ntb.ch
+vmmatlab001.ntb.ch
+toradex5.ntb.ch
+pcies031.ntb.ch
+vmgrund-corp.ntb.ch
+stage-pj.web002.ntb.ch
+vdpoly4.ntb.ch
+pcmnt022.ntb.ch
+spsautom004.ntb.ch
+nbesa003.ntb.ch
+co1134.ntb.ch
+klimapwo001.ntb.ch
+bu001.ntb.ch
+fgwems312.ntb.ch
+oscesa214.ntb.ch
+co1000.ntb.ch
+0cb2b703e714-mysimplelink.ntb.ch
+hpf60526.ntb.ch
+webcamid001a.ntb.ch
+ap3073-1.ntb.ch
+pcrhysearch005.ntb.ch
+raspberryies001.ntb.ch
+id.web001.ntb.ch
+raspberryesa024.ntb.ch
+vdpoly001.ntb.ch
+cdaqems006.ntb.ch
+wptemp002.ntb.ch
+pcwklz052.ntb.ch
+es116.ntb.ch
+bu001-rmm.ntb.ch
+lmgies101.ntb.ch
+es013.ntb.ch
+spsmps001.ntb.ch
+salto001.ntb.ch
+awusb003.ntb.ch
+pcems109.ntb.ch
+oscesa208.ntb.ch
+oscwems307.ntb.ch
+fgwems303.ntb.ch
+pcpoly003.ntb.ch
+crmdisc.ntb.ch
+pcwklz079.ntb.ch
+www.in.www.ntb.ch
+mmies010.ntb.ch
+spswautom008.ntb.ch
+spsies401.ntb.ch
+sep0016c7c7a150.ntb.ch
+brw003.ntb.ch
+nies123.ntb.ch
+stage8-pj.web002.ntb.ch
+bdi3000inf02.ntb.ch
+pbel13.ntb.ch
+0cb2b7044d37-mysimplelink.ntb.ch
+oscesa203.ntb.ch
+spsiesf014.ntb.ch
+knx2-0-255-2917-1.ntb.ch
+pcklz229.ntb.ch
+vcautom002.ntb.ch
+hdmi-stream001.ntb.ch
+pcimp-scopecheck.ntb.ch
+oscwems310.ntb.ch
+robiinf022.ntb.ch
+br-automation.ntb.ch
+hv003-storage1.ntb.ch
+xportel1.ntb.ch
+sep002584612069.ntb.ch
+44ead81d2182-mysimplelink.ntb.ch
+mmesa035.ntb.ch
+npi8dbe5e.ntb.ch
+mmesa012.ntb.ch
+mmesa036.ntb.ch
+mmel206a.ntb.ch
+vmhpc026.ntb.ch
+spswautom002.ntb.ch
+limesurvey.ntb.ch
+fgwems302.ntb.ch
+mmesa041.ntb.ch
+adc001.ntb.ch
+apw700-1.ntb.ch
+vmcmtrain.ntb.ch
+fieldpointems1.ntb.ch
+as2142-3.ntb.ch
+nies221.ntb.ch
+es121.ntb.ch
+apbrel001.ntb.ch
+xportel3.ntb.ch
+pcid005.ntb.ch
+pcwklz085.ntb.ch
+vdpoly003.ntb.ch
+voipdecoderid001.ntb.ch
+apw017-1.ntb.ch
+3275.ntb.ch
+kms001.ntb.ch
+es001.ntb.ch
+as2163-1.ntb.ch
+oscwems102.ntb.ch
+fgwems110.ntb.ch
+cdaqems004.ntb.ch
+es050.ntb.ch
+pcid007.ntb.ch
+fgwems109.ntb.ch
+hpc002-rmm.ntb.ch
+spsems005.ntb.ch
+git.ntb.ch
+sofs001-storage21.ntb.ch
+es148.ntb.ch
+oscesa233.ntb.ch
+pbel07.ntb.ch
+tssalto1000-1.ntb.ch
+digiel004.ntb.ch
+vmhpc005.ntb.ch
+cp-4c45a8.ntb.ch
+www.web003.ntb.ch
+hv003.ntb.ch
+oscwems114.ntb.ch
+pwrinf001.ntb.ch
+es139.ntb.ch
+es016.ntb.ch
+spsies002.ntb.ch
+pcklz906.ntb.ch
+spsiesf004.ntb.ch
+hc002.ntb.ch
+mmesa018.ntb.ch
+vmklz-tobd.ntb.ch
+pcwklz062.ntb.ch
+digiel012.ntb.ch
+pcmnt016.ntb.ch
+as1000-1.ntb.ch
+oscwems103.ntb.ch
+fhsg.web01.ntb.ch
+syno_km.ntb.ch
+mmies012.ntb.ch
+ns1.ntb.ch
+mnt.ntb.ch
+ap1100-2.ntb.ch
+spsems011.ntb.ch
+nies118.ntb.ch
+nies207.ntb.ch
+oscesa220.ntb.ch
+es046.ntb.ch
+nies117.ntb.ch
+nies203.ntb.ch
+nies252.ntb.ch
+pcwklz081.ntb.ch
+nies121.ntb.ch
+pcklz232.ntb.ch
+oscesa205.ntb.ch
+nc002.ntb.ch
+plinf001.ntb.ch
+vmgrund-scur.ntb.ch
+hv002-storage2.ntb.ch
+robiinf007.ntb.ch
+pcwklz090.ntb.ch
+inf005.ntb.ch
+0cb2b725c4cf-mysimplelink.ntb.ch
+raspberryesa023.ntb.ch
+apw018-1.ntb.ch
+axas001.ntb.ch
+co3003.ntb.ch
+institute.ntb.ch
+dns2-server.ntb.ch
+pcems062.ntb.ch
+nbwinf001.ntb.ch
+xportel6.ntb.ch
+spswems005.ntb.ch
+hzg3924-2.ntb.ch
+spswems001.ntb.ch
+vmhzgls001.ntb.ch
+ipad.ntb.ch
+npi14a2c3.ntb.ch
+pcpoly002.ntb.ch
+pcies064.ntb.ch
+pcies043.ntb.ch
+es168.ntb.ch
+oscesa204.ntb.ch
+pcklz221.ntb.ch
+kiosk.ntb.ch
+sofs001.ntb.ch
+pbel01.ntb.ch
+ultimakersystem-ccbdd3002c25.ntb.ch
+wcinf6.ntb.ch
+ebed4be8.ntb.ch
+as2102-1.ntb.ch
+spswautom012.ntb.ch
+openfoam.ntb.ch
+fgwems309.ntb.ch
+digiel002.ntb.ch
+pcverw010.ntb.ch
+bdi2000inf02.ntb.ch
+mmesa015.ntb.ch
+vmverw003.ntb.ch
+wolke.ntb.ch
+mmwems101.ntb.ch
+es031.ntb.ch
+es165.ntb.ch
+panies401.ntb.ch
+mmel208a.ntb.ch
+web01.ntb.ch
+lmgies201.ntb.ch
+es066.ntb.ch
+spsiesf005.ntb.ch
+oscinf003.ntb.ch
+ss002-mgmt0.ntb.ch
+sminf001.ntb.ch
+es027.ntb.ch
+wsems004.ntb.ch
+hp34008d.ntb.ch
+robiinf024.ntb.ch
+webcamies001.ntb.ch
+es077.ntb.ch
+digiel025.ntb.ch
+hpc003.ntb.ch
+mmel214b.ntb.ch
+apw101-1.ntb.ch
+nexus.ntb.ch
+587a621381da-mysimplelink.ntb.ch
+panies101.ntb.ch
+0cb2b70458ed-mysimplelink.ntb.ch
+mmesa021.ntb.ch
+44ead81d21fb-mysimplelink.ntb.ch
+psies007.ntb.ch
+mmel208b.ntb.ch
+oscesa212.ntb.ch
+tswsalto100-1.ntb.ch
+sofs001-rmm.ntb.ch
+pcverw002.ntb.ch
+pcice048.ntb.ch
+dev.web02.ntb.ch
+pcwklz096.ntb.ch
+es020.ntb.ch
+radius2-server.ntb.ch
+hc001.ntb.ch
+tssalto3900-1.ntb.ch
+oscesa128.ntb.ch
+crmdev.test.ntb.ch
+apw114-1.ntb.ch
+hv900.ntb.ch
+pcwt1.ntb.ch
+sep00270d3eb2e9.ntb.ch
+ripbw001.ntb.ch
+hpc108.ntb.ch
+pbel20.ntb.ch
+spswems007.ntb.ch
+stage-ap.web002.ntb.ch
+es007.ntb.ch
+0cb2b7044b7d-mysimplelink.ntb.ch
+robiinf013.ntb.ch
+apw700-2.ntb.ch
+phyesa001.ntb.ch
+bu003-rmm.ntb.ch
+fs003.ntb.ch
+7c010a7b0f38-mysimplelink.ntb.ch
+oscwems703.ntb.ch
+es161.ntb.ch
+raspberryesa018_1.ntb.ch
+apw203-1.ntb.ch
+oscwems106.ntb.ch
+vmgrund-tobd.ntb.ch
+pr3dems001.ntb.ch
+pcwxibo001.ntb.ch
+hlw001.ntb.ch
+oscwems701.ntb.ch
+hpc109-rmm.ntb.ch
+mmesa038.ntb.ch
+msinf001.ntb.ch
+fs004.ntb.ch
+zyboesa003.ntb.ch
+hc003-rmm.ntb.ch
+hdmiid002.ntb.ch
+nbritter001.ntb.ch
+wmzw3.ntb.ch
+raspberryesa015.ntb.ch
+pwlan-server.ntb.ch
+psies010.ntb.ch
+0cb2b7044b6f-mysimplelink.ntb.ch
+spswems003.ntb.ch
+lmgies401.ntb.ch
+as3148-1.ntb.ch
+unknown.ntb.ch
+digiel019.ntb.ch
+pbel08.ntb.ch
+0cb2b702e29c-mysimplelink.ntb.ch
+intranetalt.web001.ntb.ch
+mmesa042.ntb.ch
+vpn001-bridge.ntb.ch
+mmies013.ntb.ch
+staging.web02.ntb.ch
+pcmnt047.ntb.ch
+wmzw2.ntb.ch
+kurse.ntb.ch
+as1422-1.ntb.ch
+hpc002-storage1.ntb.ch
+robiinf002.ntb.ch
+pcies054.ntb.ch
+pcverw012.ntb.ch
+es092.ntb.ch
+win-isdoieljinu.ntb.ch
+robiinf011.ntb.ch
+pcwklz097.ntb.ch
+es124.ntb.ch
+pcverw007.ntb.ch
+spswems014.ntb.ch
+salto-server.ntb.ch
+pcpwo048.ntb.ch
+panies301.ntb.ch
+apw003-1.ntb.ch
+vmverw005.ntb.ch
+7c010a7b1ba4-mysimplelink.ntb.ch
+spsiesf016.ntb.ch
+alt.web001.ntb.ch
+oscinf004.ntb.ch
+oscwems306.ntb.ch
+pcmnt031.ntb.ch
+hc003-storage1.ntb.ch
+pcwklz091.ntb.ch
+npiea8d1e.ntb.ch
+pcwklz042.ntb.ch
+brw002.ntb.ch
+cad001.ntb.ch
+pcwpz002.ntb.ch
+www.nanoparticlesafety.ntb.ch
+webcamid002.ntb.ch
+hzg2212-1.ntb.ch
+pcklz237.ntb.ch
+es095.ntb.ch
+web100.ntb.ch
+ap2100-5.ntb.ch
+ap3934-1.ntb.ch
+7c010a73df0f-mysimplelink.ntb.ch
+vmhpc014.ntb.ch
+oscinf002.ntb.ch
+desktop-rurnmcb.ntb.ch
+oscel125.ntb.ch
+oscesa201.ntb.ch
+es042.ntb.ch
+hv001-storage1.ntb.ch
+adunis004.ntb.ch
+ap1337-1.ntb.ch
+mmies007.ntb.ch
+es126.ntb.ch
+mmel212a.ntb.ch
+pcxibo004.ntb.ch
+robiinf016.ntb.ch
+lmgies301.ntb.ch
+svn.ntb.ch
+asw108-1-res.ntb.ch
+mapassiveradar.ntb.ch
+dc001.ntb.ch
+nc003.ntb.ch
+beagleesa011.ntb.ch
+roomz-display-047b08d2cd5280.ntb.ch
+raspberryems002.ntb.ch
+pcimp011.ntb.ch
+redminote9pro-redmin.ntb.ch
+mmel203b.ntb.ch
+pcwklz082.ntb.ch
+spswautom005.ntb.ch
+samsung-galaxy-s7-edge.ntb.ch
+digiel003.ntb.ch
+hpc002.ntb.ch
+spsiesf013.ntb.ch
+tssalto3100-1.ntb.ch
+spswautom007.ntb.ch
+hv002-rmm.ntb.ch
+es081.ntb.ch
+pcpwo-pmmc.ntb.ch
+as3170-1.ntb.ch
+xibo.ntb.ch
+3285.ntb.ch
+es150.ntb.ch
+cocolor001.ntb.ch
+fs004_fs002.ntb.ch
+oscwems109.ntb.ch
+mi_01e71c.ntb.ch
+wmzw001.ntb.ch
+przw002.ntb.ch
+esa-evalbot001.ntb.ch
+oscrt01.ntb.ch
+es134.ntb.ch
+vmhpc016.ntb.ch
+vmhpc017.ntb.ch
+tssalto3000-2.ntb.ch
+spsautom003.ntb.ch
+npi528007.ntb.ch
+digiel023.ntb.ch
+vf-ies.web002.ntb.ch
+3.www.ntb.ch
+npice2de3.ntb.ch
+nbchemie001.ntb.ch
+hv004-storage1.ntb.ch
+mmesa024.ntb.ch
+sofs002.ntb.ch
+oscesa231.ntb.ch
+digiel020.ntb.ch
+raspberryice001.ntb.ch
+beagleesa006.ntb.ch
+0cb2b703f390-mysimplelink.ntb.ch
+oscesa210.ntb.ch
+es143.ntb.ch
+es091.ntb.ch
+pcice008.ntb.ch
+pcmarketing003.ntb.ch
+crmprod.ntb.ch
+es056.ntb.ch
+as3013-2.ntb.ch
+es099.ntb.ch
+oscesa224.ntb.ch
+as4037-3.ntb.ch
+vdpoly002.ntb.ch
+pcpwo-reference.ntb.ch
+raspberryinf004.ntb.ch
+nies111.ntb.ch
+spswautom013.ntb.ch
+spsiesf003.ntb.ch
+tvw201.ntb.ch
+spswautom009.ntb.ch
+mmel213a.ntb.ch
+license003.ntb.ch
+pcklz233.ntb.ch
+hc03.ntb.ch
+robiinf008.ntb.ch
+mmwems113.ntb.ch
+beagleesa007.ntb.ch
+hpc003-storage2.ntb.ch
+pcpwo-tsk.ntb.ch
+nies110.ntb.ch
+as2948-2.ntb.ch
+mmesa008.ntb.ch
+0cb2b70450a1-mysimplelink.ntb.ch
+mmel207a.ntb.ch
+stage8-vf-ies.web002.ntb.ch
+oscel123.ntb.ch
+apw002-1.ntb.ch
+nbmnt023.ntb.ch
+pcmnt058.ntb.ch
+es047.ntb.ch
+pries004.ntb.ch
+pcwklz057.ntb.ch
+mmel209a.ntb.ch
+es144.ntb.ch
+pcklz113.ntb.ch
+wsmnt001.ntb.ch
+mmesa005.ntb.ch
+es064.ntb.ch
+es074.ntb.ch
+vmupdates001.ntb.ch
+vmklz004.ntb.ch
+staging.web002.ntb.ch
+wsice003.ntb.ch
+jlinkproesa02.ntb.ch
+as2142-2.ntb.ch
+pcwklz083.ntb.ch
+id.ntb.ch
+oscwems105.ntb.ch
+7c010a7b0f63-mysimplelink.ntb.ch
+spsmies001.ntb.ch
+es075.ntb.ch
+3269.ntb.ch
+3204.ntb.ch
+es053.ntb.ch
+es038.ntb.ch
+es062.ntb.ch
+pcpwo-mahr.ntb.ch
+ap2900-2.ntb.ch
+oscwems702.ntb.ch
+mmesa025.ntb.ch
+toradex6.ntb.ch
+mmesa017.ntb.ch
+pcwklz056.ntb.ch
+es164.ntb.ch
+as2142-1.ntb.ch
+test.web003.ntb.ch
+alarm-server.ntb.ch
+mspel1.ntb.ch
+es015.ntb.ch
+digiel032.ntb.ch
+ap4050-1.ntb.ch
+pcems115.ntb.ch
+raspberryesa004.ntb.ch
+pcpwo024.ntb.ch
+es111.ntb.ch
+spsems018.ntb.ch
+tusnelda.ntb.ch
+oscel100.ntb.ch
+nbies009.ntb.ch
+oscel129.ntb.ch
+nael002.ntb.ch
+vmoffice2013.ntb.ch
+pbxbuchs001.ntb.ch
+ebox-2917.ntb.ch
+pcmnt034.ntb.ch
+nbmnt029.ntb.ch
+apw006-1.ntb.ch
+gatem001.ntb.ch
+spsiesf017.ntb.ch
+axweb001-test.ntb.ch
+raspberryesa018.ntb.ch
+ausbildungspass.web002.ntb.ch
+spsautom013.ntb.ch
+nbpwo001.ntb.ch
+pcwklz060.ntb.ch
+tvice001.ntb.ch
+vmhpc020.ntb.ch
+nies204.ntb.ch
+mmesa026.ntb.ch
+android-a05b3a0741082771.ntb.ch
+pcklz230.ntb.ch
+vmklz009.ntb.ch
+tssalto5000-1.ntb.ch
+oscesa226.ntb.ch
+as1113-2.ntb.ch
+fgwems101.ntb.ch
+smumnt001.ntb.ch
+pbel06.ntb.ch
+spsautom016.ntb.ch
+brinf001.ntb.ch
+vmgrund-1607.ntb.ch
+hpc116.ntb.ch
+mmwems106.ntb.ch
+raspid001.ntb.ch
+oscesa225.ntb.ch
+hp62e3e3.ntb.ch
+587a620720af-mysimplelink.ntb.ch
+hpc001.ntb.ch
+vmkiosk001.ntb.ch
+44ead81d2443-mysimplelink.ntb.ch
+sto.web002.ntb.ch
+pcwklz076.ntb.ch
+oscel001.ntb.ch
+oscinf006-2.ntb.ch
+license2-server.ntb.ch
+oscinf006.ntb.ch
+raspberryesa001.ntb.ch
+nc.ntb.ch
+raspberryinf006.ntb.ch
+nbrhysearch004.ntb.ch
+staging.web003.ntb.ch
+mc562-8693e6.ntb.ch
+7c010a7b1baa-mysimplelink.ntb.ch
+webcamid001.ntb.ch
+pcwems215.ntb.ch
+mmel215b.ntb.ch
+features.web02.ntb.ch
+sofs002-storage21.ntb.ch
+adunis005.ntb.ch
+oscesa228.ntb.ch
+oscwems116.ntb.ch
+pcmnt070.ntb.ch
+44ead8fdd09a-mysimplelink.ntb.ch
+digiel024.ntb.ch
+mmesa011.ntb.ch
+piwik.ntb.ch
+as2946-2.ntb.ch
+spswautom004.ntb.ch
+nies104.ntb.ch
+7c010a7b1baf-mysimplelink.ntb.ch
+spsems009.ntb.ch
+pcwklz063.ntb.ch
+beagleesa009.ntb.ch
+openwrtid001.ntb.ch
+pcesa036.ntb.ch
+test8.web003.ntb.ch
+robiinf021.ntb.ch
+vdwpoly5.ntb.ch
+tvpwo002.ntb.ch
+tssalto1000-2.ntb.ch
+es023.ntb.ch
+wptemp001.ntb.ch
+raspberryesa008.ntb.ch
+pcmnt043.ntb.ch
+autodiscover.ntb.ch
+fgwems105.ntb.ch
+raspberryesa020.ntb.ch
+crm.test.ntb.ch
+philips-hue.ntb.ch
+vmklz005.ntb.ch
+hv001.ntb.ch
+oscwems113.ntb.ch
+upmrhysearch001.ntb.ch
+opennms.ntb.ch
+fgwems106.ntb.ch
+pcmnt006.ntb.ch
+nies212.ntb.ch
+bu003.ntb.ch
+spsems015.ntb.ch
+storhpc001.ntb.ch
+es145.ntb.ch
+crmauth.ntb.ch
+cl005.ntb.ch
+nies201.ntb.ch
+es037.ntb.ch
+mmies009.ntb.ch
+vmklz-lipf.ntb.ch
+spswems008.ntb.ch
+mmies015.ntb.ch
+styletransfer.ntb.ch
+hpc52aaa.ntb.ch
+pcklz383.ntb.ch
+gt1901-2.ntb.ch
+as2902-1.ntb.ch
+pbel23.ntb.ch
+aswres-1.ntb.ch
+oscies012.ntb.ch
+0cb2b70448c9-mysimplelink.ntb.ch
+sofs001-storage12.ntb.ch
+pcklz238.ntb.ch
+es078.ntb.ch
+fgmnt001.ntb.ch
+pcwinf007.ntb.ch
+hpc117.ntb.ch
+nagios001.ntb.ch
+nies106.ntb.ch
+fgwems103.ntb.ch
+hv900-rmm.ntb.ch
+es174.ntb.ch
+nbies006.ntb.ch
+mmel212b.ntb.ch
+pbxwaldau001.ntb.ch
+mmwems110.ntb.ch
+pwrpwo001.ntb.ch
+mmwems107.ntb.ch
+nies231.ntb.ch
+aai.ntb.ch
+moodle.ntb.ch
+spsautom012.ntb.ch
+apw201-1.ntb.ch
+nbice015.ntb.ch
+ap3170-1.ntb.ch
+pcmnt010.ntb.ch
+raspberryinf004_1.ntb.ch
+oscwems312.ntb.ch
+ap4950-1.ntb.ch
+pcems091.ntb.ch
+cdaqmps001.ntb.ch
+pcklz104.ntb.ch
+wsice001.ntb.ch
+as4037-2.ntb.ch
+pcice038.ntb.ch
+spsautom007.ntb.ch
+sofs002-rmm.ntb.ch
+license002.ntb.ch
+axweb001.ntb.ch
+mmesa006.ntb.ch
+digiel011.ntb.ch
+mmwems102.ntb.ch
+pcmnt086.ntb.ch
+ost.web01.ntb.ch
+nbmnt014.ntb.ch
+vmhpc018.ntb.ch
+hv001-storage2.ntb.ch
+nies113.ntb.ch
+adfs.ntb.ch
+ap3148-1.ntb.ch
+hpc117-rmm.ntb.ch
+pbel24.ntb.ch
+wiam-server.ntb.ch
+es158.ntb.ch
+pcems066.ntb.ch
+rttd001.ntb.ch
+pripf8300.ntb.ch
+mmesa019.ntb.ch
+pcimp-videocheck.ntb.ch
+knxserver.ntb.ch
+hc002-storage1.ntb.ch
+ipad-heidi-neu.ntb.ch
+toratex.ntb.ch
+0cb2b7045a92-mysimplelink.ntb.ch
+pcmnt018.ntb.ch
+mmel210b.ntb.ch
+es011.ntb.ch
+es108.ntb.ch
+spsmies010.ntb.ch
+perorg-test.ntb.ch
+apw100-1.ntb.ch
+sofs001-storage22.ntb.ch
+mmel214a.ntb.ch
+mmel211b.ntb.ch
+ap3138-1.ntb.ch
+wres001.ntb.ch
+ss001-mgmt0.ntb.ch
+vmkiosk002.ntb.ch
+asres-1.ntb.ch
+dc003.ntb.ch
+vmhpclogin.ntb.ch
+pcems079.ntb.ch
+npi32f83a.ntb.ch
+vmverw004.ntb.ch
+stage-sto.web002.ntb.ch
+mmies004.ntb.ch
+rs323gw106.ntb.ch
+socks-server.ntb.ch
+as3065-1.ntb.ch
+inf.ntb.ch
+mmies011.ntb.ch
+galaxy-a7-2018.ntb.ch
+stage-vf-ies.web002.ntb.ch
+raspberryesa002.ntb.ch
+as1201-1.ntb.ch
+pbel16.ntb.ch
+bdi3000esa01.ntb.ch
+stage8.web002.ntb.ch
+pcwklz099.ntb.ch
+vpn.ntb.ch
+es083.ntb.ch
+es155.ntb.ch
+pcwklz059.ntb.ch
+sw-server.ntb.ch
+vmhpc012.ntb.ch
+brel002.ntb.ch
+pcwklz050.ntb.ch
+klimaimp-steuerung.ntb.ch
+webcamems002.ntb.ch
+7c010a7b1577-mysimplelink.ntb.ch
+spsmies008.ntb.ch
+44ead81effd8-mysimplelink.ntb.ch
+oscwems107.ntb.ch
+lmgies002.ntb.ch
+44ead81d21b5-mysimplelink.ntb.ch
+pcems080.ntb.ch
+fgwems107.ntb.ch
+vmg-lipf.ntb.ch
+fgwems108.ntb.ch
+npi4bc5a8.ntb.ch
+pcice020.ntb.ch
+es040.ntb.ch
+oscesa222.ntb.ch
+3282.ntb.ch
+nies232.ntb.ch
+pcwklz054.ntb.ch
+fo00908f760b33.ntb.ch
+es069.ntb.ch
+pbel02.ntb.ch
+apw004-1.ntb.ch
+es057.ntb.ch
+iphone-bamert.ntb.ch
+pcklz231.ntb.ch
+pbel14.ntb.ch
+spswautom010.ntb.ch
+pcwklz055.ntb.ch
+ns2.ntb.ch
+pcies047.ntb.ch
+digiel021.ntb.ch
+pcklz101.ntb.ch
+lmgies001.ntb.ch
+606405afd31c-mysimplelink.ntb.ch
+es058.ntb.ch
+raspberryies002.ntb.ch
+hc01.ntb.ch
+digiel029.ntb.ch
+es030.ntb.ch
+oscwems305.ntb.ch
+beagleesa008.ntb.ch
+raspberryesa014.ntb.ch
+spswems006.ntb.ch
+mmel211a.ntb.ch
+digiel017.ntb.ch
+klima004.ntb.ch
+matomo.ntb.ch
+vmgrund-vinf.ntb.ch
+as3038-2.ntb.ch
+es063.ntb.ch
+umvmnt001.ntb.ch
+3283.ntb.ch
+pcwinf008.ntb.ch
+hv004.ntb.ch
+es033.ntb.ch
+msinf002.ntb.ch
+vmgrund-domh.ntb.ch
+nael001.ntb.ch
+es045.ntb.ch
+oscwems112.ntb.ch
+fgwems301.ntb.ch
+oscies002.ntb.ch
+xpmode.ntb.ch
+es128.ntb.ch
+apw102-1.ntb.ch
+perorg-server.ntb.ch
+3274.ntb.ch
+gt1901-4.ntb.ch
+es117.ntb.ch
+es114.ntb.ch
+pcklz115.ntb.ch
+webcamid002a.ntb.ch
+web002.ntb.ch
+hpc114.ntb.ch
+sofs002-storage12.ntb.ch
+es048.ntb.ch
+vmgrund-weio.ntb.ch
+ap3173-1.ntb.ch
+ap4031-1.ntb.ch
+pcklz116.ntb.ch
+hzg2212-2.ntb.ch
+wmzw003.ntb.ch
+pbxbuchs01.ntb.ch
+intranet.ntb.ch
+vdwpoly3.ntb.ch
+crm.ntb.ch
+es107.ntb.ch
+crm004.ntb.ch
+mgmt002.ntb.ch
+as1231-1.ntb.ch
+cow108.ntb.ch
+es147.ntb.ch
+pcice040.ntb.ch
+digiel030.ntb.ch
+www.ntb.ch
+mmesa004.ntb.ch
+npi091a86.ntb.ch
+0cb2b7045a81-mysimplelink.ntb.ch
+pcems097.ntb.ch
+mmies008.ntb.ch
+wswcad001.ntb.ch
+oscar001_2.ntb.ch
+hpc002-storage2.ntb.ch
+mmel215a.ntb.ch
+spswems010.ntb.ch
+crmdb.ntb.ch
+spsiesf015.ntb.ch
+intranet.web001.ntb.ch
+vmgrund7.ntb.ch
+es127.ntb.ch
+spsmies015.ntb.ch
+npice310a.ntb.ch
+nbice012.ntb.ch
+vmhpc011.ntb.ch
+mspel2.ntb.ch
+es073.ntb.ch
+sccm002.ntb.ch
+pcems092.ntb.ch
+0cb2b7044b06-mysimplelink.ntb.ch
+digiel028.ntb.ch
+oscel126.ntb.ch
+npi09b1b5.ntb.ch
+vmklz003.ntb.ch
+zyboesa001.ntb.ch
+tssalto9001-1.ntb.ch
+es152.ntb.ch
+mmel209b.ntb.ch
+es172.ntb.ch
+oscies011.ntb.ch
+tssalto4061-1.ntb.ch
+crmint.ntb.ch
+pcklz234.ntb.ch
+beagleel02.ntb.ch
+lmgies501.ntb.ch
+oscies001.ntb.ch
+cdaqems001.ntb.ch
+ex.www.ntb.ch
+digiel027.ntb.ch
+crmdb.test.ntb.ch
+0cb2b703eb4b-mysimplelink.ntb.ch
+spsautom017.ntb.ch
+vmverw002.ntb.ch
+spsmies014.ntb.ch
+fgwems111.ntb.ch
+vmcomsol001.ntb.ch
+raspberryesa019.ntb.ch
+poly001.ntb.ch
+npi40e872.ntb.ch
+droidautom1.ntb.ch
+npi8f365a.ntb.ch
+svn001.ntb.ch
+mmesa007.ntb.ch
+44ead81d2199-mysimplelink.ntb.ch
+oscwems101.ntb.ch
+matomo.web003.ntb.ch
+vmhpc021.ntb.ch
+pcies019.ntb.ch
+digiel014.ntb.ch
+pbel21.ntb.ch
+sep00270d3eb2c9.ntb.ch
+scccerems002.ntb.ch
+es173.ntb.ch
+www.www.ntb.ch
+nies119.ntb.ch
+bdi3000inf01.ntb.ch
+webcamel001.ntb.ch
+spsautom006.ntb.ch
+tvid001.ntb.ch
+ap2100-4.ntb.ch
+3290.ntb.ch
+as3026-1.ntb.ch
+es084.ntb.ch
+scccerems001.ntb.ch
+es140.ntb.ch
+vmhpc010.ntb.ch
+pcems010.ntb.ch
+digiel016.ntb.ch
+es014.ntb.ch
+pcmnt067.ntb.ch
+spsmies012.ntb.ch
+hc003-storage2.ntb.ch
+crm003.ntb.ch
+mmel202b.ntb.ch
+vmhpc015.ntb.ch
+imstester.ntb.ch
+as2946-1.ntb.ch
+digiel033.ntb.ch
+pcwklz061.ntb.ch
+spsems014.ntb.ch
+pbel09.ntb.ch
+vmadunis002.ntb.ch
+es149.ntb.ch
+gt1901-3.ntb.ch
+print002.ntb.ch
+pbel03.ntb.ch
+mmesa020.ntb.ch
+mmwems105.ntb.ch
+inf01-server.ntb.ch
+bender001.ntb.ch
+vmmutter001.ntb.ch
+pwrel100.ntb.ch
+vpn002.ntb.ch
+pcwklz065.ntb.ch
+pcesa005.ntb.ch
+44ead8fe603e-mysimplelink.ntb.ch
+robiinf004.ntb.ch
+mmesa014.ntb.ch
+hc001-rmm.ntb.ch
+nies122.ntb.ch
+es019.ntb.ch
+psies012.ntb.ch
+oscwems304.ntb.ch
+pcies013.ntb.ch
+git001.ntb.ch
+wmzw002.ntb.ch
+nies202.ntb.ch
+pcklz118.ntb.ch
+pcid001.ntb.ch
+spswautom011.ntb.ch
+digiel018.ntb.ch
+es059.ntb.ch
+tvpwo001.ntb.ch
+oscwems301.ntb.ch
+gpibenet.ntb.ch
+hpc112.ntb.ch
+es160.ntb.ch
+vmklz-corp.ntb.ch
+kryoies001.ntb.ch
+spsies301.ntb.ch
+es105.ntb.ch
+as1113-1.ntb.ch
+spsiesf007.ntb.ch
+robiinf031.ntb.ch
+es109.ntb.ch
+pcwklz051.ntb.ch
+inf006.ntb.ch
+ds002-mgmt0.ntb.ch
+inf003.ntb.ch
+test9.web003.ntb.ch
+spsems007.ntb.ch
+vmhpc023.ntb.ch
+pcklz107.ntb.ch
+nbwinf013.ntb.ch
+flying_puffin.ntb.ch
+pbel05.ntb.ch
+vmhpc004.ntb.ch
+0cb2b704545c-mysimplelink.ntb.ch
+mmesa037.ntb.ch
+oscies009.ntb.ch
+pcwklz066.ntb.ch
+chilli-test.ntb.ch
+gridvis001.ntb.ch
+hc002-rmm.ntb.ch
+es106.ntb.ch
+robiinf018.ntb.ch
+44ead81d21c0-mysimplelink.ntb.ch
+veeam001.ntb.ch
+kaba001.ntb.ch
+mmesa013.ntb.ch
+pcwklz080.ntb.ch
+webcamies002.ntb.ch
+zyboesa002.ntb.ch
+sep00270d3dafd4.ntb.ch
+es060.ntb.ch
+oscel122.ntb.ch
+raspberryesa017.ntb.ch
+mmesa029.ntb.ch
+oscwems308.ntb.ch
+es008.ntb.ch
+sep00170eee2a4d.ntb.ch
+rem-pc.ntb.ch
+hp95cea4.ntb.ch
+mmel202a.ntb.ch
+es163.ntb.ch
+mmies006.ntb.ch
+sofs002-storage22.ntb.ch
+es005.ntb.ch
+psies008.ntb.ch
+pbel22.ntb.ch
+0cb2b702ebf6-mysimplelink.ntb.ch
+brw004.ntb.ch
+crmdisc.test.ntb.ch
+es142.ntb.ch
+rtwtd002.ntb.ch
+xportel4.ntb.ch
+nasinf001.ntb.ch
+pcems089.ntb.ch
+graf-optiplex-790.ntb.ch
+vmzw001.ntb.ch
+license001.ntb.ch
+mmwems115.ntb.ch
+cloud.ntb.ch
+pcwklz093.ntb.ch
+klima005.ntb.ch
+ds002.ntb.ch
+pcwklz089.ntb.ch
+pbel10.ntb.ch
+vmgrund-lipf.ntb.ch
+0cb2b7045ab6-mysimplelink.ntb.ch
+pccb100.ntb.ch
+vmklz002.ntb.ch
+cobw001.ntb.ch
+0cb2b702e4be-mysimplelink.ntb.ch
+pcklz227.ntb.ch
+hv001-rmm.ntb.ch
+hpc116-rmm.ntb.ch
+spsautom018.ntb.ch
+pcxibo001.ntb.ch
+es041.ntb.ch
+hzg2910-1.ntb.ch
+itservices.ntb.ch
+as3135-1.ntb.ch
+mmesa023.ntb.ch
+canon31623e.ntb.ch
+hpc109.ntb.ch
+raspberryesa007.ntb.ch
+pcies051.ntb.ch
+es086.ntb.ch
+mmel204b.ntb.ch
+oscesa130.ntb.ch
+es018.ntb.ch
+raspberryesa012_1.ntb.ch
+nies206.ntb.ch
+nagios.ntb.ch
+iap.ntb.ch
+es118.ntb.ch
+oscel121.ntb.ch
+stage.web002.ntb.ch
+knx1-0-255-1905-1.ntb.ch
+nbpwo-polyworks.ntb.ch
+digiel010.ntb.ch
+clhpc001.ntb.ch
+pcies044.ntb.ch
+pcies052.ntb.ch
+0cb2b703f3a7-mysimplelink.ntb.ch
+pccafeteria002.ntb.ch
+7c010a7b1ba1-mysimplelink.ntb.ch
+hc02.ntb.ch
+raspi.ntb.ch
+es012.ntb.ch
+fgwems308.ntb.ch
+vmklz001.ntb.ch
+adfs001.ntb.ch
+ss002.ntb.ch
+mmies001.ntb.ch
+pcwinf002.ntb.ch
+pcmnt053.ntb.ch
+robiinf003.ntb.ch
+mmwems111.ntb.ch
+elearn002.ntb.ch
+0cb2b7045a90-mysimplelink.ntb.ch
+7c010a73cfa1-mysimplelink.ntb.ch
+aai001.ntb.ch
+spswems009.ntb.ch
+pcems099.ntb.ch
+rtwtd001.ntb.ch
+oscesa227.ntb.ch
+as1914-1.ntb.ch
+oscesa229.ntb.ch
+pcwklz068.ntb.ch
+camautom1.ntb.ch
+es137.ntb.ch
+vpn002-bridge.ntb.ch
+pcklz225.ntb.ch
+perorg-mirror.ntb.ch
+adm-server.ntb.ch
+mmies014.ntb.ch
+pcpwo029.ntb.ch
+raspberryesa013.ntb.ch
+pcems124.ntb.ch
+vmklz006.ntb.ch
+hv002.ntb.ch
+es032.ntb.ch
+raspberryinf003.ntb.ch
+digiel009.ntb.ch
+as3121-1.ntb.ch
+fgwems104.ntb.ch
+fgwems114.ntb.ch
+knxgw106.ntb.ch
+nies205.ntb.ch
+openfoam.web001.ntb.ch
+pcklz223.ntb.ch
+apw005-1.ntb.ch
+pcmnt019.ntb.ch
+spsems006.ntb.ch
+raspberryesa021.ntb.ch
+pcmnt005.ntb.ch
+lcry3562n17258.ntb.ch
+wsus001.ntb.ch
+es112.ntb.ch
+android-5c3896d4bc27ab09.ntb.ch
+spsautom001.ntb.ch
+spsems017.ntb.ch
+robiinf010.ntb.ch
+robiinf006.ntb.ch
+rticw106.ntb.ch
+crmdemo.test.ntb.ch
+cmtrain.ntb.ch
+oscwems110.ntb.ch
+digiel013.ntb.ch
+sep0016c7c7a4da.ntb.ch
+praktikumsjahr.web002.ntb.ch
+hpc118.ntb.ch
+es072.ntb.ch
+pcems094.ntb.ch
+nies107.ntb.ch
+0cb2b703f388-mysimplelink.ntb.ch
+wiki.ntb.ch
+demo.web02.ntb.ch
+intlabpower.ntb.ch
+es167.ntb.ch
+apw007-1.ntb.ch
+m23300111-pc.ntb.ch
+mmel206b.ntb.ch
+mmesa022.ntb.ch
+vmhpc024.ntb.ch
+oscesa206.ntb.ch
+fgwems113.ntb.ch
+es025.ntb.ch
+es169.ntb.ch
+rtel02.ntb.ch
+pcems002.ntb.ch
+nbmnt031.ntb.ch
+spswems013.ntb.ch
+vmklz7.ntb.ch
+vmhpc001.ntb.ch
+pc1340.ntb.ch
+es043.ntb.ch
+fw002.ntb.ch
+hv004-rmm.ntb.ch
+es156.ntb.ch
+pbxwaldau002.ntb.ch
+7c010a73d4b7-mysimplelink.ntb.ch
+oscesa218.ntb.ch
+fgwems305.ntb.ch
+intranetalt.ntb.ch
+mmwems116.ntb.ch
+pcmnt073.ntb.ch
+oscel124.ntb.ch
+robiinf005.ntb.ch
+44ead81d21a6-mysimplelink.ntb.ch
+es136.ntb.ch
+careoffice001.ntb.ch
+pcies011.ntb.ch
+digiel008.ntb.ch
+es082.ntb.ch
+mmel204a.ntb.ch
+nies105.ntb.ch
+pcwklz084.ntb.ch
+pucca.ntb.ch
+spsems008.ntb.ch
+oscesa209.ntb.ch
+webcamems001.ntb.ch
+mmesa027.ntb.ch
+fgwems115.ntb.ch
+spsmies016.ntb.ch
+mmwems108.ntb.ch
+vmhpc013.ntb.ch
+awusb002.ntb.ch
+oscwems104.ntb.ch
+mmel205a.ntb.ch
+pcklz112.ntb.ch
+spsmies004.ntb.ch
+mmwems112.ntb.ch
+pbel15.ntb.ch
+oscar001.ntb.ch
+test.web002.ntb.ch
+ds001.ntb.ch
+vpn001.ntb.ch
+hc002-storage2.ntb.ch
+mail.ntb.ch
+rheinlab.ntb.ch
+oscesa129.ntb.ch
+pcwklz069.ntb.ch
+fgwems306.ntb.ch
+as9000-1-1.ntb.ch
+prwinf002.ntb.ch
+iplink001.ntb.ch
+robiinf017.ntb.ch
+robiinf001.ntb.ch
+ripcolor001.ntb.ch
+apw107-1.ntb.ch
+587a620735ff-mysimplelink.ntb.ch
+robiinf028.ntb.ch
+pcklz244.ntb.ch
+7c010a73c66a-mysimplelink.ntb.ch
+spsems004.ntb.ch
+spswautom001.ntb.ch
+3284.ntb.ch
+oscesa219.ntb.ch
+co2106.ntb.ch
+pcklz242.ntb.ch
+vmklz010.ntb.ch
+spswems004.ntb.ch
+ip-ntbr-ch-buc-r-001.ntb.ch
+oscies008.ntb.ch
+pcesa009.ntb.ch
+stage8-ap.web002.ntb.ch
+es151.ntb.ch
+sitemanager.ntb.ch
+vmhpc025.ntb.ch
+raspberryinf002.ntb.ch
+spsautom008.ntb.ch
+ausbildungspass.www.ntb.ch
+pcklz120.ntb.ch
+pcxibo003.ntb.ch
+spsies004.ntb.ch
+psies005.ntb.ch
+raspberryesa016_1.ntb.ch
+0cb2b703e926-mysimplelink.ntb.ch
+esinf001.ntb.ch
+ap1418-1.ntb.ch
+spsems001.ntb.ch
+wifi232inf001.ntb.ch
+hv003-storage2.ntb.ch
+loragateway001.ntb.ch
+ap1113-1.ntb.ch
+galaxy-tab-a-2016.ntb.ch
+mail001.ntb.ch
+es009.ntb.ch
+as4037-1.ntb.ch
+pbel12.ntb.ch
+sep00170eee2b65.ntb.ch
+klimaimp-panel.ntb.ch
+nbice017.ntb.ch
+gties002.ntb.ch
+spsmies005.ntb.ch
+adunis007.ntb.ch
+htkw_khweb.ntb.ch
+ds001-mgmt0.ntb.ch
+vmverw006.ntb.ch
+hv002-storage1.ntb.ch
+ntb-linux.ntb.ch
+es068.ntb.ch
+0cb2b703f69e-mysimplelink.ntb.ch
+blog.www.ntb.ch
+beagleel03.ntb.ch
+nies222.ntb.ch
+spswautom003.ntb.ch
+mmesa010.ntb.ch
+sto.ntb.ch
+lcry3559n07076.ntb.ch
+umg001.ntb.ch
+es170.ntb.ch
+es003.ntb.ch
+npif2e104.ntb.ch
+nbems009.ntb.ch
+pcice033.ntb.ch
+dns002.ntb.ch
+pbel17.ntb.ch
+nies102.ntb.ch
+44ead81d183c-mysimplelink.ntb.ch
+digiel015.ntb.ch
+nies101.ntb.ch
+beagleesa010.ntb.ch
+pcklz111.ntb.ch
+robiinf009.ntb.ch
+knx11-0-255-w108-1.ntb.ch
+pcklz114.ntb.ch
+spsiesf009.ntb.ch
+spsiesf010.ntb.ch
+es130.ntb.ch
+klimaimp-extender.ntb.ch
+mmies003.ntb.ch
+uboxel001.ntb.ch
+raspberryesa005.ntb.ch
+nies242.ntb.ch
+apcb105-1.ntb.ch
+pcid003.ntb.ch
+zw-server.ntb.ch
+tssalto5000-2.ntb.ch
+pcmnt046.ntb.ch
+3272.ntb.ch
+mmesa031.ntb.ch
+spsiesf011.ntb.ch
+pcice028.ntb.ch
+pcwklz043.ntb.ch
+vmhpc002.ntb.ch
+fgwems116.ntb.ch
+wsmath001.ntb.ch
+bdi3000inf03.ntb.ch
+pcmnt074.ntb.ch
+raspberryesa016.ntb.ch
+sickautom001.ntb.ch
+cdaqems003.ntb.ch
+pcklz228.ntb.ch
+psies009.ntb.ch
+radius-server.ntb.ch
+spsies001.ntb.ch
+nies211.ntb.ch
+lcry3562n17642.ntb.ch
+pcwklz075.ntb.ch
+vmklz007.ntb.ch
+careoffice.ntb.ch
+vmhpc003.ntb.ch
+wmzw1.ntb.ch
+es110.ntb.ch
+pcklz239.ntb.ch
+pcems120.ntb.ch
+sep0021553f0015.ntb.ch
+itservices.web001.ntb.ch
+spsmies003.ntb.ch
+android-8f703697cb42efbf.ntb.ch
+spsems003.ntb.ch
+pcems132.ntb.ch
+3273.ntb.ch
+nexus002.ntb.ch
+pcies062.ntb.ch
+pcklz109.ntb.ch
+pxims1.ntb.ch
+hp8ed689.ntb.ch
+ss001.ntb.ch
+adunis008.ntb.ch
+bdi3000ems01.ntb.ch
+pcmnt025.ntb.ch
+es166.ntb.ch
+inf007.ntb.ch
+swisscom-server.ntb.ch
+digiel007.ntb.ch
+knx3-0-255-3974-1.ntb.ch
+as3138-1.ntb.ch
+rtel03.ntb.ch
+hpc003-rmm.ntb.ch
+pcidtest001.ntb.ch
+3271.ntb.ch
+fgies002.ntb.ch
+beamerid001.ntb.ch
+es146.ntb.ch
+nies251.ntb.ch
+pcems090.ntb.ch
+es087.ntb.ch
+dns001.ntb.ch
+dc002.ntb.ch
+jlinkproesa01.ntb.ch
+oscies010.ntb.ch
+raspberryesa010.ntb.ch
+mmel201a.ntb.ch
+oscesa230.ntb.ch
+pcwklz086.ntb.ch
+wsems005.ntb.ch
+pcesa035.ntb.ch
+stage8-sto.web002.ntb.ch
+mmesa032.ntb.ch
+oscmps001.ntb.ch
+pcklz224.ntb.ch
+pcmnt066.ntb.ch
+pcxibo005.ntb.ch
+apw100-3.ntb.ch
+vmverw001.ntb.ch
+oscwems302.ntb.ch
+3221.ntb.ch
+xportel5.ntb.ch
+web001.ntb.ch
+hv003-rmm.ntb.ch
+es017.ntb.ch
+pcmnt044.ntb.ch
+ap3143-1.ntb.ch
+pwrinf001_1.ntb.ch
+robiinf012.ntb.ch
+spsmies011.ntb.ch
+hpc113.ntb.ch
+hc001-storage1.ntb.ch
+pcinf012.ntb.ch
+spsautom002.ntb.ch
+spswems011.ntb.ch
+tssalto2942-1.ntb.ch
+itwpoly001.ntb.ch
+pcpwo005.ntb.ch
+oscwems111.ntb.ch
+0cb2b703e93c-mysimplelink.ntb.ch
+webcamies003.ntb.ch
+pcems108.ntb.ch
+pcwklz095.ntb.ch
+nies115.ntb.ch
+raspberryesa006.ntb.ch
+galaxy-note8.ntb.ch
+digiel022.ntb.ch
+es080.ntb.ch
+wc5508_2.ntb.ch
+fgwems307.ntb.ch
+7c010a73cbda-mysimplelink.ntb.ch
+vmgrund-kesm.ntb.ch
+raspberryesa003.ntb.ch
+pcpwo043.ntb.ch
+es055.ntb.ch
+vmhpc019.ntb.ch
+pcklz382.ntb.ch
+es090.ntb.ch
+mmies005.ntb.ch
+vmtd001.ntb.ch
+hpc110-rmm.ntb.ch
+pcwklz064.ntb.ch
+fw001.ntb.ch
+es131.ntb.ch
+hv004-storage2.ntb.ch
+pcw202.ntb.ch
+dns1-server.ntb.ch
+oscesa211.ntb.ch
+pcice018.ntb.ch
+spswautom014.ntb.ch
+digiel001.ntb.ch
+3286.ntb.ch
+587a620732c2-mysimplelink.ntb.ch
+pcwklz067.ntb.ch
+pcklz117.ntb.ch
+beagleel01.ntb.ch
+pbel19.ntb.ch
+mmel205b.ntb.ch
+nies109.ntb.ch
+vmhpc006.ntb.ch
+pcems100.ntb.ch
+0cb2b703e721-mysimplelink.ntb.ch
+44ead8fe5be8-mysimplelink.ntb.ch
+npi092064.ntb.ch
+pcems081.ntb.ch
+7c010a73cfd0-mysimplelink.ntb.ch
+spsems002.ntb.ch
+es120.ntb.ch
+robiinf025.ntb.ch
+0cb2b704546e-mysimplelink.ntb.ch
+pcklz235.ntb.ch
+crm001-test.ntb.ch
+oscesa223.ntb.ch
+oscies007.ntb.ch
+psies003.ntb.ch
+psies013.ntb.ch
+panies201.ntb.ch
+pcice039.ntb.ch
+ilearn.ntb.ch
+spsiesf099.ntb.ch
+ebox-4064.ntb.ch
+oscel127.ntb.ch
+mgmt-server.ntb.ch
+spsies101.ntb.ch
+inf004.ntb.ch
+tssalto4131-1.ntb.ch
+adunis006.ntb.ch
+pcmnt009.ntb.ch
+nanoparticlesafety.ntb.ch
+es133.ntb.ch
+pcwklz088.ntb.ch
+apw010-1.ntb.ch
+es079.ntb.ch
+nbverw002.ntb.ch
+ems-intlab.ntb.ch
+nies116.ntb.ch
+es065.ntb.ch
+axas001-test.ntb.ch
+bu002-rmm.ntb.ch
+axdb001-test.ntb.ch
+perorg-demo.ntb.ch

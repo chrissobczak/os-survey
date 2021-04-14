@@ -1,42 +1,24 @@
-NOERROR	webauth.ad.hakuoh.ac.jp
-NXDOMAIN	cccb4.hakuoh.ac.jp
-NOERROR	cp.hakuoh.ac.jp
-NXDOMAIN	bccb4.hakuoh.ac.jp
-NXDOMAIN	ml.hakuoh.ac.jp
-NOERROR	hiss-01.hakuoh.ac.jp
-NOERROR	www.hakuoh.ac.jp
-NXDOMAIN	faculty.hakuoh.ac.jp
-NOERROR	e-gakumu.hakuoh.ac.jp
-NOERROR	seminar.hakuoh.ac.jp
-NXDOMAIN	staging.hakuoh.ac.jp
-NOERROR	smtp.ohyukai.hakuoh.ac.jp
-NOERROR	svjmssap.hakuoh.ac.jp
-NOERROR	ohyukai.hakuoh.ac.jp
-NOERROR	service.hakuoh.ac.jp
-NOERROR	www.ohyukai.hakuoh.ac.jp
-NXDOMAIN	omocha.hakuoh.ac.jp
-NXDOMAIN	staffmail.hakuoh.ac.jp
-NOERROR	hiss_web.hakuoh.ac.jp
-NOERROR	mail.hakuoh.ac.jp
-NXDOMAIN	recruit.hakuoh.ac.jp
-NXDOMAIN	lms.hakuoh.ac.jp
-NOERROR	openspace.hakuoh.ac.jp
-NOERROR	hiss.hakuoh.ac.jp
-NOERROR	svohffweb.ohyukai.hakuoh.ac.jp
-NOERROR	glib.hakuoh.ac.jp
-NOERROR	kindy.hakuoh.ac.jp
-NXDOMAIN	jimunavi.hakuoh.ac.jp
-NXDOMAIN	syllabus.hakuoh.ac.jp
-NOERROR	www1.hakuoh.ac.jp
-NOERROR	svjmwb01.hakuoh.ac.jp
-NXDOMAIN	ipp.hakuoh.ac.jp
-NXDOMAIN	libweb.hakuoh.ac.jp
-NXDOMAIN	stumail.hakuoh.ac.jp
-NOERROR	class.hakuoh.ac.jp
-NOERROR	hakuoh.ac.jp
-NXDOMAIN	cybozu.hakuoh.ac.jp
-NOERROR	hcis.hakuoh.ac.jp
-NXDOMAIN	web.hakuoh.ac.jp
-NXDOMAIN	db.ohyukai.hakuoh.ac.jp
-NXDOMAIN	ccboard2.hakuoh.ac.jp
-NOERROR	shusseki.hakuoh.ac.jp
+webauth.ad.hakuoh.ac.jp
+cp.hakuoh.ac.jp
+hiss-01.hakuoh.ac.jp
+www.hakuoh.ac.jp
+e-gakumu.hakuoh.ac.jp
+seminar.hakuoh.ac.jp
+smtp.ohyukai.hakuoh.ac.jp
+svjmssap.hakuoh.ac.jp
+ohyukai.hakuoh.ac.jp
+service.hakuoh.ac.jp
+www.ohyukai.hakuoh.ac.jp
+hiss_web.hakuoh.ac.jp
+mail.hakuoh.ac.jp
+openspace.hakuoh.ac.jp
+hiss.hakuoh.ac.jp
+svohffweb.ohyukai.hakuoh.ac.jp
+glib.hakuoh.ac.jp
+kindy.hakuoh.ac.jp
+www1.hakuoh.ac.jp
+svjmwb01.hakuoh.ac.jp
+class.hakuoh.ac.jp
+hakuoh.ac.jp
+hcis.hakuoh.ac.jp
+shusseki.hakuoh.ac.jp

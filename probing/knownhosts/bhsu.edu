@@ -1,86 +1,48 @@
-NXDOMAIN	wikidoc.bhsu.edu
-NOERROR	photos.bhsu.edu
-NXDOMAIN	rcview01.bhsu.edu
-NXDOMAIN	bhsu-mon.bhsu.edu
-NOERROR	x.bhsu.edu
-NOERROR	autodiscover.bhsu.edu
-NXDOMAIN	parking.bhsu.edu
-NOERROR	print.bhsu.edu
-NXDOMAIN	rooms.bhsu.edu
-NXDOMAIN	www.bhsu-bbts.bhsu.edu
-NOERROR	safeconnect.bhsu.edu
-NOERROR	form.bhsu.edu
-NOERROR	login.ezproxy.bhsu.edu
-NOERROR	iis.bhsu.edu
-NXDOMAIN	www.bhsu-bbcr.bhsu.edu
-NOERROR	catalog.bhsu.edu
-NXDOMAIN	mail.bhsu.edu
-NOERROR	onestop.bhsu.edu
-NOERROR	edoutreach.bhsu.edu
-NOERROR	uag02.bhsu.edu
-NOERROR	bhsu-dns02.bhsu.edu
-NXDOMAIN	view02.bhsu.edu
-NXDOMAIN	m.bhsu.edu
-NOERROR	community.bhsu.edu
-NOERROR	bhsu.edu
-NOERROR	bhsu-bbts.bhsu.edu
-NOERROR	helpdesk.bhsu.edu
-NOERROR	ezproxy.bhsu.edu
-NOERROR	library.bhsu.edu
-NOERROR	wwwlb.bhsu.edu
-NXDOMAIN	view.bhsu.edu
-NXDOMAIN	secure.bhsu.edu
-NOERROR	onedrive.bhsu.edu
-NXDOMAIN	trackit.bhsu.edu
-NXDOMAIN	archives.bhsu.edu
-NXDOMAIN	securelogin.bhsu.edu
-NOERROR	uag01.bhsu.edu
-NOERROR	web.bhsu.edu
-NOERROR	registration.bhsu.edu
-NXDOMAIN	wikirc.bhsu.edu
-NXDOMAIN	bhsu-secure.bhsu.edu
-NOERROR	libguides.bhsu.edu
-NXDOMAIN	aims.bhsu.edu
-NXDOMAIN	wikikb.bhsu.edu
-NOERROR	vpn.bhsu.edu
-NXDOMAIN	scom.bhsu.edu
-NOERROR	kbhu.bhsu.edu
-NOERROR	duorestore.bhsu.edu
-NXDOMAIN	jacketzone.bhsu.edu
-NOERROR	rcview.bhsu.edu
-NOERROR	webadvisor.bhsu.edu
-NXDOMAIN	wac.bhsu.edu
-NOERROR	365fs.bhsu.edu
-NXDOMAIN	pf.bhsu.edu
-NOERROR	hybrid.bhsu.edu
-NOERROR	herbarium.bhsu.edu
-NXDOMAIN	vdisec1.bhsu.edu
-NOERROR	perfsonar.bhsu.edu
-NOERROR	xserv.bhsu.edu
-NOERROR	my.bhsu.edu
-NOERROR	emarket.bhsu.edu
-NXDOMAIN	surv01.bhsu.edu
-NOERROR	bhsudns.bhsu.edu
-NXDOMAIN	emas.bhsu.edu
-NXDOMAIN	wiki.bhsu.edu
-NOERROR	account.bhsu.edu
-NOERROR	www.bhsu.edu
-NOERROR	vmview.bhsu.edu
-NOERROR	ssbfa.bhsu.edu
-NXDOMAIN	pa.bhsu.edu
-NXDOMAIN	bhsu-bbcr.bhsu.edu
-NXDOMAIN	rcvdisec1.bhsu.edu
-NXDOMAIN	vdisec2.bhsu.edu
-NOERROR	bbreports.bhsu.edu
-NOERROR	duo.bhsu.edu
-NOERROR	mail.yellowjackets.bhsu.edu
-NXDOMAIN	wikidocrc.bhsu.edu
-NXDOMAIN	video.bhsu.edu
-NXDOMAIN	view01.bhsu.edu
-NOERROR	cas.bhsu.edu
-NXDOMAIN	cloudpath.bhsu.edu
-NXDOMAIN	milestone.bhsu.edu
-NXDOMAIN	legacy.bhsu.edu
-NOERROR	bhsu-dns01.bhsu.edu
-NXDOMAIN	exhybrid.bhsu.edu
-NOERROR	ldrive.bhsu.edu
+photos.bhsu.edu
+x.bhsu.edu
+autodiscover.bhsu.edu
+print.bhsu.edu
+safeconnect.bhsu.edu
+form.bhsu.edu
+login.ezproxy.bhsu.edu
+iis.bhsu.edu
+catalog.bhsu.edu
+onestop.bhsu.edu
+edoutreach.bhsu.edu
+uag02.bhsu.edu
+bhsu-dns02.bhsu.edu
+community.bhsu.edu
+bhsu.edu
+bhsu-bbts.bhsu.edu
+helpdesk.bhsu.edu
+ezproxy.bhsu.edu
+library.bhsu.edu
+wwwlb.bhsu.edu
+onedrive.bhsu.edu
+uag01.bhsu.edu
+web.bhsu.edu
+registration.bhsu.edu
+libguides.bhsu.edu
+vpn.bhsu.edu
+kbhu.bhsu.edu
+duorestore.bhsu.edu
+rcview.bhsu.edu
+webadvisor.bhsu.edu
+365fs.bhsu.edu
+hybrid.bhsu.edu
+herbarium.bhsu.edu
+perfsonar.bhsu.edu
+xserv.bhsu.edu
+my.bhsu.edu
+emarket.bhsu.edu
+bhsudns.bhsu.edu
+account.bhsu.edu
+www.bhsu.edu
+vmview.bhsu.edu
+ssbfa.bhsu.edu
+bbreports.bhsu.edu
+duo.bhsu.edu
+mail.yellowjackets.bhsu.edu
+cas.bhsu.edu
+bhsu-dns01.bhsu.edu
+ldrive.bhsu.edu

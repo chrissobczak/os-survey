@@ -1,114 +1,65 @@
-NXDOMAIN	gwcpii.esigelec.fr
-NOERROR	moduleweb.esigelec.fr
-NXDOMAIN	moodletest.esigelec.fr
-NOERROR	forge.esigelec.fr
-NOERROR	apply.esigelec.fr
-NXDOMAIN	gala.esigelec.fr
-NXDOMAIN	visaplus.c2re.esigelec.fr
-NOERROR	dalkia.esigelec.fr
-NOERROR	intranet.esigelec.fr
-NXDOMAIN	classj.esigelec.fr
-NOERROR	access.esigelec.fr
-NOERROR	cas.esigelec.fr
-NOERROR	forge2.esigelec.fr
-NXDOMAIN	www.gwcpii.esigelec.fr
-NOERROR	omni3d.esigelec.fr
-NOERROR	test-apply.esigelec.fr
-NOERROR	srvwebaurion.esigelec.fr
-NOERROR	oral.esigelec.fr
-NXDOMAIN	karting.esigelec.fr
-NXDOMAIN	bde.esigelec.fr
-NOERROR	notes.esigelec.fr
-NXDOMAIN	jdc.esigelec.fr
-NOERROR	orotime.esigelec.fr
-NOERROR	autodiscover.esigelec.fr
-NOERROR	toolbox.esigelec.fr
-NOERROR	cpnl.esigelec.fr
-NXDOMAIN	www.fw.esigelec.fr
-NOERROR	srvdev2.esigelec.fr
-NXDOMAIN	srvweb2.esigelec.fr
-NOERROR	cem2012.esigelec.fr
-NOERROR	domaine.esigelec.fr
-NOERROR	en.esigelec.fr
-NOERROR	dialin.esigelec.fr
-NOERROR	mail.esigelec.fr
-NOERROR	ping1.esigelec.fr
-NOERROR	irseem.esigelec.fr
-NXDOMAIN	zik.esigelec.fr
-NXDOMAIN	esiair.esigelec.fr
-NOERROR	av.esigelec.fr
-NOERROR	ent.esigelec.fr
-NOERROR	w3.esigelec.fr
-NOERROR	esup-sgc.esigelec.fr
-NXDOMAIN	pop3.esigelec.fr
-NOERROR	ent-qualif.esigelec.fr
-NXDOMAIN	ade.esigelec.fr
-NOERROR	2emc.esigelec.fr
-NXDOMAIN	ping2.esigelec.fr
-NOERROR	edt.esigelec.fr
-NXDOMAIN	defi24h.esigelec.fr
-NOERROR	idp.esigelec.fr
-NXDOMAIN	stop.esigelec.fr
-NXDOMAIN	finance.esigelec.fr
-NOERROR	meet.esigelec.fr
-NXDOMAIN	www.cas.esigelec.fr
-NOERROR	moodle.esigelec.fr
-NOERROR	rad2.esigelec.fr
-NOERROR	webinscriptions.esigelec.fr
-NOERROR	esigelec.fr
-NOERROR	newsletter.esigelec.fr
-NOERROR	www.esigelec.fr
-NXDOMAIN	trafic.esigelec.fr
-NOERROR	e-services.esigelec.fr
-NOERROR	cem.esigelec.fr
-NXDOMAIN	24h.esigelec.fr
-NXDOMAIN	etic.esigelec.fr
-NOERROR	srvupload.esigelec.fr
-NXDOMAIN	games.esigelec.fr
-NOERROR	lync.esigelec.fr
-NOERROR	lyncdiscover.esigelec.fr
-NOERROR	http2.esigelec.fr
-NXDOMAIN	afric.esigelec.fr
-NXDOMAIN	stages.esigelec.fr
-NOERROR	sip.esigelec.fr
-NXDOMAIN	mailhost.esigelec.fr
-NXDOMAIN	bds.esigelec.fr
-NXDOMAIN	j2e.esigelec.fr
-NXDOMAIN	wild.esigelec.fr
-NOERROR	iconic.esigelec.fr
-NXDOMAIN	esig4l.esigelec.fr
-NOERROR	fe.esigelec.fr
-NXDOMAIN	testirseem.esigelec.fr
-NOERROR	remisedesdiplomes.esigelec.fr
-NOERROR	esigelec.esigelec.fr
-NOERROR	rad1.esigelec.fr
-NXDOMAIN	test-moodle.esigelec.fr
-NOERROR	fw.esigelec.fr
-NXDOMAIN	webct.esigelec.fr
-NXDOMAIN	www.toolbox.esigelec.fr
-NOERROR	exchange.esigelec.fr
-NXDOMAIN	captive.esigelec.fr
-NXDOMAIN	webmail.esigelec.fr
-NXDOMAIN	sam.esigelec.fr
-NOERROR	webconf.esigelec.fr
-NOERROR	nextcloud.esigelec.fr
-NOERROR	teaserservice.esigelec.fr
-NOERROR	portesouvertes.esigelec.fr
-NOERROR	bo-sap.esigelec.fr
-NXDOMAIN	www.idp.esigelec.fr
-NXDOMAIN	eri.esigelec.fr
-NXDOMAIN	www.esup-nfc-tag.esigelec.fr
-NXDOMAIN	esup-nfc-tag.esigelec.fr
-NOERROR	agenda.esigelec.fr
-NXDOMAIN	conference.esigelec.fr
-NOERROR	sites.esigelec.fr
-NXDOMAIN	www.esup-sgc.esigelec.fr
-NOERROR	srviisarr.esigelec.fr
-NOERROR	srvinfodev.esigelec.fr
-NOERROR	eduroam.esigelec.fr
-NXDOMAIN	web.esigelec.fr
-NXDOMAIN	greenpower.esigelec.fr
-NXDOMAIN	rss.esigelec.fr
-NOERROR	ce-esigelec.esigelec.fr
-NXDOMAIN	sigelec.esigelec.fr
-NXDOMAIN	cuisine.esigelec.fr
+moduleweb.esigelec.fr
+forge.esigelec.fr
+apply.esigelec.fr
+dalkia.esigelec.fr
+intranet.esigelec.fr
+access.esigelec.fr
+cas.esigelec.fr
+forge2.esigelec.fr
+omni3d.esigelec.fr
+test-apply.esigelec.fr
+srvwebaurion.esigelec.fr
+oral.esigelec.fr
+notes.esigelec.fr
+orotime.esigelec.fr
+autodiscover.esigelec.fr
+toolbox.esigelec.fr
+cpnl.esigelec.fr
+srvdev2.esigelec.fr
+cem2012.esigelec.fr
+domaine.esigelec.fr
+en.esigelec.fr
+dialin.esigelec.fr
+mail.esigelec.fr
+ping1.esigelec.fr
+irseem.esigelec.fr
+av.esigelec.fr
+ent.esigelec.fr
+w3.esigelec.fr
+esup-sgc.esigelec.fr
+ent-qualif.esigelec.fr
+2emc.esigelec.fr
+edt.esigelec.fr
+idp.esigelec.fr
+meet.esigelec.fr
+moodle.esigelec.fr
+rad2.esigelec.fr
+webinscriptions.esigelec.fr
+esigelec.fr
+newsletter.esigelec.fr
+www.esigelec.fr
+e-services.esigelec.fr
+cem.esigelec.fr
+srvupload.esigelec.fr
+lync.esigelec.fr
+lyncdiscover.esigelec.fr
+http2.esigelec.fr
+sip.esigelec.fr
+iconic.esigelec.fr
+fe.esigelec.fr
+remisedesdiplomes.esigelec.fr
+esigelec.esigelec.fr
+rad1.esigelec.fr
+fw.esigelec.fr
+exchange.esigelec.fr
+webconf.esigelec.fr
+nextcloud.esigelec.fr
+teaserservice.esigelec.fr
+portesouvertes.esigelec.fr
+bo-sap.esigelec.fr
+agenda.esigelec.fr
+sites.esigelec.fr
+srviisarr.esigelec.fr
+srvinfodev.esigelec.fr
+eduroam.esigelec.fr
+ce-esigelec.esigelec.fr

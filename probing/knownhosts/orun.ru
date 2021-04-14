@@ -1,4 +1,4 @@
-NOERROR	ns.orun.ru
-NOERROR	lms.orun.ru
-NOERROR	www.orun.ru
-NOERROR	orun.ru
+ns.orun.ru
+lms.orun.ru
+www.orun.ru
+orun.ru

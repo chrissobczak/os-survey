@@ -1,7 +1,6 @@
-NOERROR	web2.plm.edu.ph
-NOERROR	plm.edu.ph
-NOERROR	library.plm.edu.ph
-NXDOMAIN	plmat.plm.edu.ph
-NOERROR	archive.plm.edu.ph
-NOERROR	web1.plm.edu.ph
-NOERROR	www.plm.edu.ph
+web2.plm.edu.ph
+plm.edu.ph
+library.plm.edu.ph
+archive.plm.edu.ph
+web1.plm.edu.ph
+www.plm.edu.ph

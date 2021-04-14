@@ -1,60 +1,46 @@
-NOERROR	autodiscover.gcu.edu.pk
-NOERROR	old.gcu.edu.pk
-NOERROR	societies.gcu.edu.pk
-NOERROR	cms.gcu.edu.pk
-NOERROR	www.qec.gcu.edu.pk
-NOERROR	main.gcu.edu.pk
-NOERROR	web.gcu.edu.pk
-NOERROR	dcs.gcu.edu.pk
-NOERROR	tahqeeqnama.gcu.edu.pk
-NOERROR	cuvas.gcu.edu.pk
-NOERROR	www.library.gcu.edu.pk
-NXDOMAIN	www.main.gcu.edu.pk
-NXDOMAIN	www.csaadmissions.gcu.edu.pk
-NOERROR	cpcalendars.gcu.edu.pk
-NOERROR	ps.gcu.edu.pk
-NOERROR	lms.gcu.edu.pk
-NOERROR	gsea.gcu.edu.pk
-NOERROR	www.ps.gcu.edu.pk
-NOERROR	pjscp.gcu.edu.pk
-NOERROR	library.gcu.edu.pk
-NXDOMAIN	cs.admission.gcu.edu.pk
-NXDOMAIN	www.admissions.gcu.edu.pk
-NOERROR	gcu.edu.pk
-NXDOMAIN	des.gcu.edu.pk
-NOERROR	mail.gcu.edu.pk
-NOERROR	beta.gcu.edu.pk
-NOERROR	treasurer.gcu.edu.pk
-NOERROR	www.cms.gcu.edu.pk
-NOERROR	www.old.gcu.edu.pk
-NOERROR	faculty.gcu.edu.pk
-NOERROR	www.new.gcu.edu.pk
-NXDOMAIN	admission.gcu.edu.pk
-NOERROR	www.jps.gcu.edu.pk
-NOERROR	qec.gcu.edu.pk
-NOERROR	academics.gcu.edu.pk
-NXDOMAIN	cs.gcu.edu.pk
-NOERROR	www.pjscp.gcu.edu.pk
-NOERROR	www.web.gcu.edu.pk
-NOERROR	www.csadmissions.gcu.edu.pk
-NOERROR	www.lms.gcu.edu.pk
-NOERROR	jps.gcu.edu.pk
-NXDOMAIN	csaddmission.gcu.edu.pk
-NOERROR	netunit.gcu.edu.pk
-NOERROR	gfjc.gcu.edu.pk
-NOERROR	cpanel.gcu.edu.pk
-NOERROR	webdisk.gcu.edu.pk
-NOERROR	csadmissions.gcu.edu.pk
-NXDOMAIN	csadmission.gcu.edu.pk
-NXDOMAIN	www.csadmition.gcu.edu.pk
-NXDOMAIN	www.csaadmissio.gcu.edu.pk
-NOERROR	www.gfjc.gcu.edu.pk
-NXDOMAIN	www.csaddmission.gcu.edu.pk
-NOERROR	new.gcu.edu.pk
-NXDOMAIN	www.csadmission.gcu.edu.pk
-NOERROR	www.cuvas.gcu.edu.pk
-NOERROR	www.gsea.gcu.edu.pk
-NOERROR	cpcontacts.gcu.edu.pk
-NOERROR	webmail.gcu.edu.pk
-NOERROR	www.gcu.edu.pk
-NXDOMAIN	www.gcsdmissions.gcu.edu.pk
+autodiscover.gcu.edu.pk
+old.gcu.edu.pk
+societies.gcu.edu.pk
+cms.gcu.edu.pk
+www.qec.gcu.edu.pk
+main.gcu.edu.pk
+web.gcu.edu.pk
+dcs.gcu.edu.pk
+tahqeeqnama.gcu.edu.pk
+cuvas.gcu.edu.pk
+www.library.gcu.edu.pk
+cpcalendars.gcu.edu.pk
+ps.gcu.edu.pk
+lms.gcu.edu.pk
+gsea.gcu.edu.pk
+www.ps.gcu.edu.pk
+pjscp.gcu.edu.pk
+library.gcu.edu.pk
+gcu.edu.pk
+mail.gcu.edu.pk
+beta.gcu.edu.pk
+treasurer.gcu.edu.pk
+www.cms.gcu.edu.pk
+www.old.gcu.edu.pk
+faculty.gcu.edu.pk
+www.new.gcu.edu.pk
+www.jps.gcu.edu.pk
+qec.gcu.edu.pk
+academics.gcu.edu.pk
+www.pjscp.gcu.edu.pk
+www.web.gcu.edu.pk
+www.csadmissions.gcu.edu.pk
+www.lms.gcu.edu.pk
+jps.gcu.edu.pk
+netunit.gcu.edu.pk
+gfjc.gcu.edu.pk
+cpanel.gcu.edu.pk
+webdisk.gcu.edu.pk
+csadmissions.gcu.edu.pk
+www.gfjc.gcu.edu.pk
+new.gcu.edu.pk
+www.cuvas.gcu.edu.pk
+www.gsea.gcu.edu.pk
+cpcontacts.gcu.edu.pk
+webmail.gcu.edu.pk
+www.gcu.edu.pk

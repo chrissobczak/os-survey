@@ -1,708 +1,621 @@
-NOERROR	msts-lev03.jct.ac.il
-NOERROR	msts-rhapsody-tal.jct.ac.il
-NOERROR	prt-lev-hoch323.jct.ac.il
-NOERROR	sql2012.jct.ac.il
-NOERROR	p-kantorov.jct.ac.il
-NOERROR	bakar-38.jct.ac.il
-NOERROR	it-yad1.jct.ac.il
-NOERROR	prt-lev-israel205.jct.ac.il
-NOERROR	msts-cc-admin.jct.ac.il
-NOERROR	linapp-new.jct.ac.il
-NOERROR	gw.jct.ac.il
-NOERROR	prt-tal-7213.jct.ac.il
-NOERROR	www.danzig.jct.ac.il
-NXDOMAIN	stud40.ise.jct.ac.il
-NOERROR	iscsi-lustig.jct.ac.il
-NOERROR	netlab.jct.ac.il
-NOERROR	levnet-web-public.jct.ac.il
-NOERROR	sapakim.jct.ac.il
-NXDOMAIN	vlab.jct.ac.il
-NOERROR	shekel.jct.ac.il
-NOERROR	dns-2.jct.ac.il
-NOERROR	bakar-50.jct.ac.il
-NOERROR	prt-lus-marketing.jct.ac.il
-NOERROR	levlicense.jct.ac.il
-NOERROR	prt-lev-lau244.jct.ac.il
-NXDOMAIN	www.math.jct.ac.il
-NXDOMAIN	moodle-exam.jct.ac.il
-NOERROR	prt-lus-3-9.jct.ac.il
-NOERROR	n-benybb.jct.ac.il
-NOERROR	support.jct.ac.il
-NOERROR	prt-lev-minhal.jct.ac.il
-NOERROR	prt-lev-mazak-sec2.jct.ac.il
-NXDOMAIN	autoq.jct.ac.il
-NOERROR	prt-lev-torah-lib.jct.ac.il
-NOERROR	n-avi.jct.ac.il
-NXDOMAIN	maint.jct.ac.il
-NOERROR	iredmail.jct.ac.il
-NOERROR	it-unsubscribe.jct.ac.il
-NOERROR	sw-lev-soch.jct.ac.il
-NOERROR	sw-lev-beren.jct.ac.il
-NOERROR	yeda.jct.ac.il
-NOERROR	switch-blade-220.jct.ac.il
-NOERROR	iscsi-lus.jct.ac.il
-NXDOMAIN	v-miketz.jct.ac.il
-NOERROR	vpl.jct.ac.il
-NOERROR	mishley.jct.ac.il
-NOERROR	prt-lus-maint.jct.ac.il
-NOERROR	bakara.jct.ac.il
-NOERROR	it-support.jct.ac.il
-NOERROR	fs-dev2-iscsi.jct.ac.il
-NOERROR	iscsi-lus-right.jct.ac.il
-NOERROR	iscsi-flex-1.jct.ac.il
-NOERROR	moodle-public.jct.ac.il
-NOERROR	prt-lev-accounting.jct.ac.il
-NOERROR	prt-tal-7308-sec-color.jct.ac.il
-NOERROR	dbs.jct.ac.il
-NOERROR	moodle-node1.jct.ac.il
-NOERROR	ca.jct.ac.il
-NOERROR	prt-lev-it.jct.ac.il
-NOERROR	imm-backup.jct.ac.il
-NOERROR	switch-bayit-b1.jct.ac.il
-NOERROR	prt-tal-l4-1105.jct.ac.il
-NOERROR	student-work.jct.ac.il
-NXDOMAIN	fs-dev2.jct.ac.il
-NOERROR	nazir.jct.ac.il
-NOERROR	safecom-master.jct.ac.il
-NOERROR	prt-tal-7603-lec.jct.ac.il
-NOERROR	msts-rhapsody-lus.jct.ac.il
-NOERROR	moodle-cluster.jct.ac.il
-NOERROR	prt-lev-barcode.jct.ac.il
-NOERROR	it-account.jct.ac.il
-NOERROR	prt-tal-7212.jct.ac.il
-NOERROR	prt-lev-bernf2.jct.ac.il
-NOERROR	dc-admin2.jct.ac.il
-NXDOMAIN	www.rishum.jct.ac.il
-NOERROR	prt-tal-b7f2-arbel.jct.ac.il
-NOERROR	door-levcc.jct.ac.il
-NXDOMAIN	ise.jct.ac.il
-NXDOMAIN	jpop.jct.ac.il
-NXDOMAIN	v-cacti.jct.ac.il
-NOERROR	prt-tal-7615d-shovarim.jct.ac.il
-NOERROR	b-bayit-e.jct.ac.il
-NOERROR	gmail.jct.ac.il
-NOERROR	p-goldmosh-dev-2.jct.ac.il
-NOERROR	snap-b2d.jct.ac.il
-NOERROR	esx-bayit-d.jct.ac.il
-NOERROR	mailman.jct.ac.il
-NOERROR	umm.jct.ac.il
-NOERROR	wp-level06.jct.ac.il
-NOERROR	www.ndp.jct.ac.il
-NOERROR	switch-bayit-c2.jct.ac.il
-NOERROR	bakar-47.jct.ac.il
-NOERROR	mail.jct.ac.il
-NXDOMAIN	ipam.jct.ac.il
-NOERROR	safecom.jct.ac.il
-NOERROR	p-avraham.jct.ac.il
-NOERROR	prt-tal-b9f1-nofech-r.jct.ac.il
-NXDOMAIN	www.esp.jct.ac.il
-NOERROR	ldapb.jct.ac.il
-NOERROR	fs-tal.jct.ac.il
-NOERROR	moked-maint.jct.ac.il
-NOERROR	iscsi-blade-b.jct.ac.il
-NOERROR	danzig.jct.ac.il
-NOERROR	prt-tal-7615d-2.jct.ac.il
-NOERROR	p-mganon.jct.ac.il
-NOERROR	iscsi-tal-n1b.jct.ac.il
-NXDOMAIN	moed.jct.ac.il
-NOERROR	prt-lev-tech-lib.jct.ac.il
-NOERROR	syslog-tal.jct.ac.il
-NOERROR	prt-lev-fundraising-main.jct.ac.il
-NXDOMAIN	www.cyberattendance.jct.ac.il
-NOERROR	ldap3.jct.ac.il
-NOERROR	bakar-26.jct.ac.il
-NOERROR	sw-lev-beren-mgmt.jct.ac.il
-NOERROR	pi-midrash-plasma.jct.ac.il
-NOERROR	telmark-stud-2.jct.ac.il
-NOERROR	sccm-dp-tal.jct.ac.il
-NOERROR	wol-tal-admin.jct.ac.il
-NOERROR	sw-lus-3-9-teachers.jct.ac.il
-NOERROR	web.jct.ac.il
-NOERROR	prt-tal-7612-midrasha2.jct.ac.il
-NOERROR	prt-lev-meonot.jct.ac.il
-NOERROR	b-bayit-d.jct.ac.il
-NOERROR	sccm2016-dp-tal.jct.ac.il
-NOERROR	esx-bayit-f.jct.ac.il
-NOERROR	msts-tal.jct.ac.il
-NOERROR	esx-blade-b.jct.ac.il
-NOERROR	g.jct.ac.il
-NOERROR	iscsi-blade-i.jct.ac.il
-NXDOMAIN	batra.jct.ac.il
-NOERROR	bakar-24.jct.ac.il
-NOERROR	imm-lev-a.jct.ac.il
-NOERROR	synel.jct.ac.il
-NOERROR	prt-lev-mba.jct.ac.il
-NOERROR	prt-lev-lauf2.jct.ac.il
-NXDOMAIN	phpipam.jct.ac.il
-NOERROR	prt-tal-9108b.jct.ac.il
-NOERROR	bakar-21.jct.ac.il
-NOERROR	prt-tal-9201.jct.ac.il
-NOERROR	safecom-lus-adm.jct.ac.il
-NOERROR	infosys-web-public.jct.ac.il
-NOERROR	newsap.jct.ac.il
-NOERROR	prt-tal-7317.jct.ac.il
-NOERROR	p-janna.jct.ac.il
-NOERROR	prt-lev-purchase.jct.ac.il
-NOERROR	p-sudri.jct.ac.il
-NOERROR	clock-tal.jct.ac.il
-NOERROR	webinfo-private.jct.ac.il
-NOERROR	website-ad.jct.ac.il
-NOERROR	prt-lev-wyler203.jct.ac.il
-NOERROR	whatsbest-w10.jct.ac.il
-NOERROR	prt-lev-hr.jct.ac.il
-NOERROR	virtual-connect.jct.ac.il
-NOERROR	iscsi-lev-2.jct.ac.il
-NXDOMAIN	chess.jct.ac.il
-NOERROR	prt-tal-7216.jct.ac.il
-NOERROR	prt-lus-lib.jct.ac.il
-NOERROR	fsadm-12.jct.ac.il
-NOERROR	sw-lev-samsung.jct.ac.il
-NOERROR	jobs.jct.ac.il
-NXDOMAIN	international.jct.ac.il
-NOERROR	prt-lev-wyler410.jct.ac.il
-NOERROR	msts-lus02.jct.ac.il
-NOERROR	prt-lus-exam.jct.ac.il
-NXDOMAIN	molad.jct.ac.il
-NOERROR	bakar-39.jct.ac.il
-NOERROR	prt-lev-comp-sec.jct.ac.il
-NOERROR	www.cc.jct.ac.il
-NOERROR	it-support-public.jct.ac.il
-NOERROR	ntp-lev-b.jct.ac.il
-NOERROR	license.jct.ac.il
-NOERROR	kaspersky2016.jct.ac.il
-NOERROR	switch-blade-221.jct.ac.il
-NOERROR	prt-lev-checks.jct.ac.il
-NOERROR	prt-lev-wyler407.jct.ac.il
-NOERROR	infosys-app-public.jct.ac.il
-NXDOMAIN	moodle-db.jct.ac.il
-NOERROR	sw-lev-bruse.jct.ac.il
-NOERROR	sw-lev-dorms-biran.jct.ac.il
-NOERROR	bakar-72.jct.ac.il
-NXDOMAIN	imap.jct.ac.il
-NOERROR	wsus12.jct.ac.il
-NXDOMAIN	lers-public.jct.ac.il
-NOERROR	wsus.jct.ac.il
-NOERROR	blade.jct.ac.il
-NOERROR	prt-lev-stud-acct-mgr.jct.ac.il
-NOERROR	prt-lev-stud-acct.jct.ac.il
-NXDOMAIN	kama.jct.ac.il
-NOERROR	bcyberwatch.jct.ac.il
-NOERROR	adobe.jct.ac.il
-NOERROR	prt-lev-wyler226.jct.ac.il
-NOERROR	wol-tal.jct.ac.il
-NXDOMAIN	esp.jct.ac.il
-NOERROR	prt-tal-7611-rav.jct.ac.il
-NOERROR	sccm2016.jct.ac.il
-NOERROR	cmvlt-media.jct.ac.il
-NOERROR	clock-tal2.jct.ac.il
-NOERROR	dns.jct.ac.il
-NOERROR	p-ritchdov.jct.ac.il
-NOERROR	smtp2.jct.ac.il
-NOERROR	ansible.jct.ac.il
-NOERROR	fs-lustig.jct.ac.il
-NOERROR	safecom-lus-admin.jct.ac.il
-NOERROR	safecom-lev-adm.jct.ac.il
-NXDOMAIN	cal.jct.ac.il
-NOERROR	safecom-tal.jct.ac.il
-NOERROR	newmda.jct.ac.il
-NXDOMAIN	netvision.jct.ac.il
-NOERROR	prt-tal-7605-lec.jct.ac.il
-NOERROR	b-bayit-h.jct.ac.il
-NOERROR	prt-lev-ramim.jct.ac.il
-NOERROR	prt-lev-wyler403.jct.ac.il
-NOERROR	sw-lev-lau-f5.jct.ac.il
-NOERROR	prt-lev-mazak-sec4.jct.ac.il
-NOERROR	sccm.jct.ac.il
-NXDOMAIN	alumni.jct.ac.il
-NOERROR	sap.jct.ac.il
-NOERROR	prt-tal-b11l2.jct.ac.il
-NOERROR	lists.jct.ac.il
-NOERROR	prt-tal-9108.jct.ac.il
-NOERROR	tc-betmedrash.jct.ac.il
-NOERROR	prt-lev-lau520.jct.ac.il
-NOERROR	cc.jct.ac.il
-NOERROR	bakar-55.jct.ac.il
-NXDOMAIN	asterix.jct.ac.il
-NOERROR	homedir.jct.ac.il
-NOERROR	laserlab.jct.ac.il
-NOERROR	vcenter6.jct.ac.il
-NXDOMAIN	makot.jct.ac.il
-NXDOMAIN	wireless-login.jct.ac.il
-NOERROR	iscsi-bkp-1.jct.ac.il
-NOERROR	prt-lev-salary-ast.jct.ac.il
-NOERROR	prt-lev-dean.jct.ac.il
-NOERROR	msts-optics.jct.ac.il
-NXDOMAIN	vpn1-public.jct.ac.il
-NOERROR	oum.jct.ac.il
-NOERROR	yeda-mail.jct.ac.il
-NOERROR	linapp.jct.ac.il
-NOERROR	dc-admin4.jct.ac.il
-NOERROR	english-rishum.jct.ac.il
-NOERROR	msts-tal02.jct.ac.il
-NOERROR	ubuntu-repo.jct.ac.il
-NOERROR	wsus16.jct.ac.il
-NOERROR	p-yoavr.jct.ac.il
-NOERROR	prt-lev-purchase-color.jct.ac.il
-NOERROR	radius2-ad.jct.ac.il
-NOERROR	vpn-public.jct.ac.il
-NOERROR	root.jct.ac.il
-NOERROR	web-jetadmin.jct.ac.il
-NOERROR	clock-tal-7.jct.ac.il
-NXDOMAIN	wireless-47-5.jct.ac.il
-NOERROR	moodle-node3-public.jct.ac.il
-NOERROR	bakar-23.jct.ac.il
-NOERROR	msts-optics2019.jct.ac.il
-NOERROR	tftp.jct.ac.il
-NOERROR	prt-tal-b7f3-lib-color.jct.ac.il
-NXDOMAIN	code.jct.ac.il
-NOERROR	yeda-admin.jct.ac.il
-NOERROR	securelogin.jct.ac.il
-NOERROR	radius-ad.jct.ac.il
-NOERROR	prt-lev-midrash-sec.jct.ac.il
-NOERROR	email-sender.jct.ac.il
-NOERROR	prt-lev-finance.jct.ac.il
-NXDOMAIN	moodle-old.jct.ac.il
-NOERROR	prt-tal-b11af4-yanshuf.jct.ac.il
-NOERROR	bakar-63.jct.ac.il
-NOERROR	bi.jct.ac.il
-NOERROR	kelim.jct.ac.il
-NXDOMAIN	sneh2-1.jct.ac.il
-NXDOMAIN	fr.jct.ac.il
-NOERROR	fs-dev1.jct.ac.il
-NOERROR	switch-bayit-b2.jct.ac.il
-NOERROR	ntp.jct.ac.il
-NOERROR	clock.jct.ac.il
-NOERROR	rhapsody-license.jct.ac.il
-NOERROR	whatsbestpro.jct.ac.il
-NOERROR	p-mordehy.jct.ac.il
-NOERROR	fw-s1.jct.ac.il
-NOERROR	www.flexcomp.jct.ac.il
-NOERROR	prt-lev-hoch322.jct.ac.il
-NOERROR	website-ad-public.jct.ac.il
-NOERROR	prt-tal-b11l4-siud-color.jct.ac.il
-NXDOMAIN	es.jct.ac.il
-NOERROR	miab.jct.ac.il
-NOERROR	it-yad9.jct.ac.il
-NOERROR	application.jct.ac.il
-NOERROR	prt-tal-7615b-exam.jct.ac.il
-NOERROR	msts-torah2020.jct.ac.il
-NOERROR	esx-lev-1.jct.ac.il
-NOERROR	prt-tal-b11l4-siud-black.jct.ac.il
-NOERROR	prt-lev-wyler212.jct.ac.il
-NOERROR	mdacluster.jct.ac.il
-NOERROR	smtp3.jct.ac.il
-NOERROR	sccm2016-dp-lustig.jct.ac.il
-NOERROR	ntp-lev-a.jct.ac.il
-NOERROR	prt-tal-b7f6-arava.jct.ac.il
-NOERROR	prt-lev-pr.jct.ac.il
-NOERROR	comsec-monitor.jct.ac.il
-NOERROR	moodle-node3.jct.ac.il
-NXDOMAIN	kod.jct.ac.il
-NOERROR	iscsi-flex-3.jct.ac.il
-NOERROR	usb-digi-1.jct.ac.il
-NOERROR	dc-lev1.jct.ac.il
-NOERROR	prt-lus-head-dep.jct.ac.il
-NOERROR	prt-lus-odem-color.jct.ac.il
-NOERROR	b-bayit-c.jct.ac.il
-NOERROR	n-avi.umm.jct.ac.il
-NOERROR	sw-lus-flr0.jct.ac.il
-NOERROR	prt-tal-7615a-exam1.jct.ac.il
-NOERROR	usb-digi-4.jct.ac.il
-NOERROR	peah-nfs.jct.ac.il
-NOERROR	b-blade-j.jct.ac.il
-NOERROR	prt-tal-b11l1-siud.jct.ac.il
-NOERROR	linapp-1.jct.ac.il
-NOERROR	sneh.jct.ac.il
-NOERROR	b-bayit-b.jct.ac.il
-NOERROR	b-blade-b.jct.ac.il
-NOERROR	fs-lev.jct.ac.il
-NOERROR	ldapa.jct.ac.il
-NOERROR	iscsi-n1-lustig.jct.ac.il
-NOERROR	switch-bayit-a2.jct.ac.il
-NXDOMAIN	e-learn.jct.ac.il
-NXDOMAIN	ezrat.jct.ac.il
-NOERROR	b-bayit-g.jct.ac.il
-NOERROR	spss-license.jct.ac.il
-NOERROR	sw-lev-willer-f3.jct.ac.il
-NOERROR	ldapc.jct.ac.il
-NOERROR	sw-lev-minhala.jct.ac.il
-NOERROR	website20.jct.ac.il
-NXDOMAIN	captiveportal-login.jct.ac.il
-NOERROR	prt-lev-exams-sec.jct.ac.il
-NOERROR	migdal.jct.ac.il
-NOERROR	msts-tal01.jct.ac.il
-NOERROR	p-dstern.jct.ac.il
-NOERROR	ca-admin.jct.ac.il
-NOERROR	msts-lev01.jct.ac.il
-NOERROR	sw-lus-adm-mazkirut.jct.ac.il
-NOERROR	sw-lev-israel.jct.ac.il
-NOERROR	fortianalyzer.jct.ac.il
-NOERROR	lecturers.jct.ac.il
-NOERROR	maint-bakara-cc.jct.ac.il
-NOERROR	msts-math.jct.ac.il
-NOERROR	p-sagit.jct.ac.il
-NOERROR	prt-lev-president-color.jct.ac.il
-NOERROR	prt-lev-samson211.jct.ac.il
-NXDOMAIN	bikurim.jct.ac.il
-NOERROR	biolab.jct.ac.il
-NOERROR	lers.jct.ac.il
-NOERROR	prt-lev-lau535.jct.ac.il
-NXDOMAIN	ubuntu14.jct.ac.il
-NOERROR	msts-tal1.jct.ac.il
-NOERROR	website14-ad-public.jct.ac.il
-NOERROR	msts-hilan.jct.ac.il
-NOERROR	prt-lev-mankal.jct.ac.il
-NOERROR	it-yad2.jct.ac.il
-NOERROR	website20-private.jct.ac.il
-NOERROR	prt-lev-soch310.jct.ac.il
-NOERROR	its-public.jct.ac.il
-NOERROR	oz.jct.ac.il
-NOERROR	esx-bayit-g.jct.ac.il
-NOERROR	esx-blade-k.jct.ac.il
-NOERROR	prt-lev-elop-store.jct.ac.il
-NOERROR	sap-server.jct.ac.il
-NOERROR	www.jct.ac.il
-NOERROR	it-publish.jct.ac.il
-NXDOMAIN	jctmail.jct.ac.il
-NOERROR	safecom-lev.jct.ac.il
-NOERROR	moodle-node2-public.jct.ac.il
-NOERROR	magicinfo.jct.ac.il
-NOERROR	dns-master.jct.ac.il
-NOERROR	prt-tal-7601-engnr-sec.jct.ac.il
-NOERROR	lev.jct.ac.il
-NOERROR	rimon17.jct.ac.il
-NOERROR	dc-lev.jct.ac.il
-NOERROR	ready01-public.jct.ac.il
-NOERROR	prt-lev-physics-lec.jct.ac.il
-NXDOMAIN	ncs.jct.ac.il
-NOERROR	prt-lus-harshama.jct.ac.il
-NOERROR	prt-lus-bareket.jct.ac.il
-NXDOMAIN	michrazim.jct.ac.il
-NOERROR	prt-tal-7318.jct.ac.il
-NOERROR	bakar-40.jct.ac.il
-NOERROR	sw-lev-willer-f2.jct.ac.il
-NOERROR	prt-tal-b7f2-hermon.jct.ac.il
-NOERROR	esx-bayit-e.jct.ac.il
-NXDOMAIN	hobbes.jct.ac.il
-NOERROR	bakar-75.jct.ac.il
-NOERROR	prt-tal-l1-1116.jct.ac.il
-NOERROR	prt-lev-lau570.jct.ac.il
-NOERROR	bakar-56.jct.ac.il
-NOERROR	virl.jct.ac.il
-NOERROR	api.jct.ac.il
-NOERROR	bakar-60.jct.ac.il
-NOERROR	sccm-admin.jct.ac.il
-NOERROR	prt-tal-7607-csacct.jct.ac.il
-NOERROR	ups-lev-server-rm.jct.ac.il
-NOERROR	v-adobe.jct.ac.il
-NOERROR	sps-portal.jct.ac.il
-NOERROR	ups-gama.jct.ac.il
-NXDOMAIN	dept.hra.jct.ac.il
-NOERROR	syslog2.jct.ac.il
-NOERROR	prt-lev-wylerf2-color.jct.ac.il
-NOERROR	dc-admin3.jct.ac.il
-NXDOMAIN	stud41.ise.jct.ac.il
-NOERROR	cc-dev-3.jct.ac.il
-NOERROR	v-imagepro.jct.ac.il
-NOERROR	levnet.jct.ac.il
-NOERROR	info.jct.ac.il
-NOERROR	prt-lev-lauf3.jct.ac.il
-NXDOMAIN	snap-n2.jct.ac.il
-NOERROR	clock-betmidrash-2.jct.ac.il
-NXDOMAIN	aca2017.jct.ac.il
-NOERROR	iscsi-flex-2.jct.ac.il
-NOERROR	vs-n2.jct.ac.il
-NOERROR	bakar-70.jct.ac.il
-NXDOMAIN	mazak-web.jct.ac.il
-NOERROR	mathematica-license.jct.ac.il
-NXDOMAIN	gematria.jct.ac.il
-NOERROR	blademan.jct.ac.il
-NOERROR	linapp-2.jct.ac.il
-NOERROR	prt-lev-mazak-mgr.jct.ac.il
-NOERROR	catalog2018.jct.ac.il
-NOERROR	prt-maintenance.jct.ac.il
-NOERROR	mazak.jct.ac.il
-NOERROR	ldap2.jct.ac.il
-NOERROR	vpn.jct.ac.il
-NOERROR	bakar-43.jct.ac.il
-NOERROR	iscsi-blade-k.jct.ac.il
-NOERROR	jct.ac.il
-NXDOMAIN	www.wireless-login.jct.ac.il
-NOERROR	prt-tal-9205.jct.ac.il
-NOERROR	dns1.jct.ac.il
-NOERROR	wp-level03.jct.ac.il
-NOERROR	prt-tal-b9f2-tamar1.jct.ac.il
-NOERROR	greatminds.jct.ac.il
-NXDOMAIN	w-srv.hra.jct.ac.il
-NOERROR	bezeq-hilan.jct.ac.il
-NOERROR	safecom-lev-admin.jct.ac.il
-NOERROR	prt-lev-rishum.jct.ac.il
-NOERROR	prt-barcode.jct.ac.il
-NOERROR	iscsi-lus-left.jct.ac.il
-NOERROR	secure.jct.ac.il
-NOERROR	wp-level00.jct.ac.il
-NOERROR	website20-ad.jct.ac.il
-NOERROR	switch-bayit-c1.jct.ac.il
-NOERROR	linapp-3.jct.ac.il
-NOERROR	bakar-48.jct.ac.il
-NOERROR	prt-lev-rector-room.jct.ac.il
-NOERROR	prt-lus-mgr.jct.ac.il
-NOERROR	prt-lev-minhal-color.jct.ac.il
-NXDOMAIN	knasim.jct.ac.il
-NOERROR	p-ucohen.jct.ac.il
-NOERROR	msts-lev.jct.ac.il
-NOERROR	usb-digi-2.jct.ac.il
-NOERROR	p-benybb.jct.ac.il
-NOERROR	iscsi-flex-4.jct.ac.il
-NOERROR	imc.jct.ac.il
-NOERROR	clock-lustig.jct.ac.il
-NOERROR	ndp.jct.ac.il
-NXDOMAIN	stud2.ise.jct.ac.il
-NOERROR	backup.jct.ac.il
-NOERROR	gama.jct.ac.il
-NOERROR	prt-tal-daat-sec.jct.ac.il
-NOERROR	optibit.jct.ac.il
-NXDOMAIN	cyberattendance.jct.ac.il
-NOERROR	safecom-tal-admin.jct.ac.il
-NOERROR	prt-lev-fundraising.jct.ac.il
-NOERROR	moodle-node2.jct.ac.il
-NOERROR	moked.jct.ac.il
-NXDOMAIN	nashim.jct.ac.il
-NOERROR	iscsi-cmvlt-media-1.jct.ac.il
-NOERROR	prt-lev-exams-main.jct.ac.il
-NOERROR	it-mailman.jct.ac.il
-NOERROR	prt-tal-7615d-1.jct.ac.il
-NOERROR	fsadm-11.jct.ac.il
-NOERROR	fs-acad.jct.ac.il
-NOERROR	n-mordehy.jct.ac.il
-NOERROR	it-monitor.jct.ac.il
-NXDOMAIN	courses.jct.ac.il
-NOERROR	sw-lev-ampi.jct.ac.il
-NOERROR	dc-admin1.jct.ac.il
-NOERROR	prt-lus-lecturers-3.jct.ac.il
-NOERROR	prt-tal-b7f2-sinai.jct.ac.il
-NOERROR	moodle-rimon.jct.ac.il
-NOERROR	vcenter7.jct.ac.il
-NOERROR	arena-license.jct.ac.il
-NOERROR	homedir-public.jct.ac.il
-NOERROR	syslog-lev.jct.ac.il
-NOERROR	sw-lev-lau-f2.jct.ac.il
-NXDOMAIN	fs-iscsi-mgt.jct.ac.il
-NOERROR	dns-slave1.jct.ac.il
-NOERROR	fs-6.jct.ac.il
-NOERROR	rishum.jct.ac.il
-NXDOMAIN	dns-gui.jct.ac.il
-NOERROR	sysaid.jct.ac.il
-NOERROR	prt-lev-math-sec.jct.ac.il
-NOERROR	webinfo.jct.ac.il
-NOERROR	p-goldmosh-dev-1.jct.ac.il
-NOERROR	ctf.jct.ac.il
-NOERROR	prt-tal-b9f3-tvuna.jct.ac.il
-NOERROR	ex2010.jct.ac.il
-NOERROR	bakar-53.jct.ac.il
-NOERROR	smtp1.jct.ac.il
-NOERROR	dorman.jct.ac.il
-NOERROR	prt-tal-7308-sec-black.jct.ac.il
-NOERROR	shaar-lev.jct.ac.il
-NOERROR	fs-dev1-iscsi.jct.ac.il
-NOERROR	door-yu-carousel.jct.ac.il
-NOERROR	msts-torah.jct.ac.il
-NOERROR	esx-bayit-i.jct.ac.il
-NXDOMAIN	vyeda.hra.jct.ac.il
-NOERROR	catalog.jct.ac.il
-NOERROR	prt-tal-7615c-studacc.jct.ac.il
-NOERROR	srv-netlab.jct.ac.il
-NXDOMAIN	stud3.ise.jct.ac.il
-NOERROR	esx-blade-a.jct.ac.il
-NOERROR	yeda-acad.jct.ac.il
-NOERROR	kms.jct.ac.il
-NOERROR	machon-lev.jct.ac.il
-NOERROR	bakar-36.jct.ac.il
-NOERROR	usb-digi.jct.ac.il
-NOERROR	iscsi-tal-left.jct.ac.il
-NOERROR	moodlecourse.jct.ac.il
-NOERROR	msts-cc-acad.jct.ac.il
-NOERROR	prt-tal-b9f1-nofech-l.jct.ac.il
-NOERROR	prt-lev-librarian.jct.ac.il
-NOERROR	efl.jct.ac.il
-NOERROR	vum55.jct.ac.il
-NOERROR	p-dreyfus1.jct.ac.il
-NOERROR	iscsi-tal-right.jct.ac.il
-NOERROR	smtp.jct.ac.il
-NOERROR	maple-license.jct.ac.il
-NOERROR	owa.jct.ac.il
-NOERROR	iscsi-blade-j.jct.ac.il
-NOERROR	peah.jct.ac.il
-NOERROR	omd.jct.ac.il
-NXDOMAIN	v-mda.jct.ac.il
-NOERROR	prt-lev-wyler402.jct.ac.il
-NOERROR	jetadmin.jct.ac.il
-NOERROR	lev-infra.jct.ac.il
-NOERROR	prt-lev-bernf0.jct.ac.il
-NOERROR	sccm-dp-lustig.jct.ac.il
-NOERROR	wol-lev.jct.ac.il
-NOERROR	clock-tal-11.jct.ac.il
-NOERROR	prt-lev-rector.jct.ac.il
-NOERROR	prt-tal-l1-1118a-sec.jct.ac.il
-NOERROR	whatsbestw7.jct.ac.il
-NOERROR	prt-tal-b9f2-tamar2.jct.ac.il
-NXDOMAIN	vc-tal-brosh.jct.ac.il
-NXDOMAIN	idefix.jct.ac.il
-NXDOMAIN	speedtest.jct.ac.il
-NOERROR	wol.jct.ac.il
-NOERROR	p-amedi.jct.ac.il
-NOERROR	website-public.jct.ac.il
-NOERROR	prt-lus-mazkirut-color.jct.ac.il
-NOERROR	prt-lev-maint.jct.ac.il
-NXDOMAIN	library.jct.ac.il
-NOERROR	facultyresearch.jct.ac.il
-NOERROR	it-db.jct.ac.il
-NOERROR	prt-tal-l1-1117.jct.ac.il
-NOERROR	prt-lev-samson215.jct.ac.il
-NOERROR	prt-lev-visionlab.jct.ac.il
-NOERROR	prt-tal-11a202-mgr.jct.ac.il
-NOERROR	moodle.jct.ac.il
-NOERROR	esx-blade-i.jct.ac.il
-NOERROR	prt-lev-eng.jct.ac.il
-NOERROR	prt-lev-hoch170.jct.ac.il
-NOERROR	bakar-54.jct.ac.il
-NXDOMAIN	innocent.jct.ac.il
-NOERROR	switch-bayit-a1.jct.ac.il
-NOERROR	prt-lev-bern015.jct.ac.il
-NXDOMAIN	forum.jct.ac.il
-NOERROR	v-optics.jct.ac.il
-NOERROR	safecom-mobile.jct.ac.il
-NOERROR	magbit.jct.ac.il
-NOERROR	prt-lev-hoch321.jct.ac.il
-NOERROR	magbit2019.jct.ac.il
-NOERROR	it-unsubscribe-public.jct.ac.il
-NXDOMAIN	machon-lev.hra.jct.ac.il
-NOERROR	x40.jct.ac.il
-NOERROR	imm-lev-2.jct.ac.il
-NOERROR	wp-level05.jct.ac.il
-NOERROR	bakar-25.jct.ac.il
-NOERROR	prt-tal-l2-1123a.jct.ac.il
-NOERROR	prt-lus-mazkirut-black.jct.ac.il
-NOERROR	esx-blade-j.jct.ac.il
-NOERROR	midrash.jct.ac.il
-NOERROR	dc-lev2.jct.ac.il
-NOERROR	prt-lev-rishum-mgr.jct.ac.il
-NXDOMAIN	snap-n1.jct.ac.il
-NOERROR	kaspersky.jct.ac.il
-NOERROR	magicinfo-lev.jct.ac.il
-NOERROR	prt-lev-mazak-sec1.jct.ac.il
-NXDOMAIN	www1.jct.ac.il
-NOERROR	bakar-74.jct.ac.il
-NXDOMAIN	vpn2-public.jct.ac.il
-NOERROR	prt-lev-siud.jct.ac.il
-NOERROR	donation.jct.ac.il
-NXDOMAIN	n-avraham.jct.ac.il
-NOERROR	b-bayit-f.jct.ac.il
-NOERROR	prt-tal-7309-mgr.jct.ac.il
-NOERROR	iscsi-cmvlt-media-2.jct.ac.il
-NOERROR	esx-bayit-a.jct.ac.il
-NOERROR	esx-bayit-b.jct.ac.il
-NOERROR	neworacle.jct.ac.il
-NOERROR	snapir.jct.ac.il
-NOERROR	door-yu-gate.jct.ac.il
-NXDOMAIN	elearn.jct.ac.il
-NOERROR	ubuntu-template.jct.ac.il
-NOERROR	dns2.jct.ac.il
-NOERROR	prt-lev-physics-sec.jct.ac.il
-NOERROR	vcenter55.jct.ac.il
-NOERROR	xlinix-license.jct.ac.il
-NOERROR	prt-tal-7610-bussadm.jct.ac.il
-NOERROR	ldap.jct.ac.il
-NOERROR	acad.jct.ac.il
-NOERROR	sw-lev-dorms-amaragi.jct.ac.il
-NOERROR	vpl-public.jct.ac.il
-NOERROR	msts-lus01.jct.ac.il
-NOERROR	dc-tal2.jct.ac.il
-NOERROR	moodledb-master.jct.ac.il
-NOERROR	msts-lev02.jct.ac.il
-NOERROR	msts-rhapsody.jct.ac.il
-NOERROR	bioinfo.jct.ac.il
-NXDOMAIN	epoch.jct.ac.il
-NOERROR	cadgme2020.jct.ac.il
-NOERROR	www.levtech.jct.ac.il
-NOERROR	bayit.jct.ac.il
-NOERROR	prt-lev-lau421.jct.ac.il
-NOERROR	juniper.jct.ac.il
-NOERROR	moodle-node1-public.jct.ac.il
-NOERROR	prt-lev-mechina.jct.ac.il
-NOERROR	syslog-lus.jct.ac.il
-NOERROR	safecom-lus.jct.ac.il
-NOERROR	safecom-tal-adm.jct.ac.il
-NOERROR	shaar-yu.jct.ac.il
-NOERROR	bakar-52.jct.ac.il
-NOERROR	prt-lev-rector-ast.jct.ac.il
-NOERROR	french-rishum.jct.ac.il
-NOERROR	prt-lev-physics-mgr.jct.ac.il
-NOERROR	graphite.jct.ac.il
-NOERROR	dc-tal.jct.ac.il
-NOERROR	bakar-73.jct.ac.il
-NOERROR	sps-portal-sql.jct.ac.il
-NOERROR	prt-lev-esp.jct.ac.il
-NOERROR	wiki.jct.ac.il
-NOERROR	sw-lev-willer-f4.jct.ac.il
-NOERROR	guide.jct.ac.il
-NOERROR	www.midrash.jct.ac.il
-NOERROR	prt-tal-b9f3-etrog.jct.ac.il
-NOERROR	b-bayit-a.jct.ac.il
-NOERROR	prt-lev-iskaot.jct.ac.il
-NOERROR	vs-n1.jct.ac.il
-NOERROR	syslog.jct.ac.il
-NOERROR	b-blade-k.jct.ac.il
-NXDOMAIN	wireless-44-102.jct.ac.il
-NXDOMAIN	sneh1-1.jct.ac.il
-NOERROR	beny-monitor.jct.ac.il
-NOERROR	prt-lev-amphif2.jct.ac.il
-NOERROR	prt-tal-9108a.jct.ac.il
-NOERROR	msts-tal2.jct.ac.il
-NOERROR	prt-lus-librarian.jct.ac.il
-NOERROR	prt-tal-7612-midrasha1.jct.ac.il
-NXDOMAIN	stud39.ise.jct.ac.il
-NOERROR	msts-perfector.jct.ac.il
-NOERROR	dc-lus.jct.ac.il
-NOERROR	esx-lev-2.jct.ac.il
-NOERROR	website.jct.ac.il
-NOERROR	imut.jct.ac.il
-NOERROR	its.jct.ac.il
-NOERROR	wp-level02.jct.ac.il
-NXDOMAIN	www.aca2017.jct.ac.il
-NOERROR	flexcomp.jct.ac.il
-NOERROR	fsadm-10.jct.ac.il
-NOERROR	lp.jct.ac.il
-NOERROR	dc-admin5.jct.ac.il
-NOERROR	moodledb-slave.jct.ac.il
-NOERROR	prt-tal-b7f3-lib-black.jct.ac.il
-NOERROR	levtech.jct.ac.il
-NOERROR	esx-bayit-h.jct.ac.il
-NOERROR	wp-level01.jct.ac.il
-NOERROR	ready01.jct.ac.il
-NOERROR	license-public.jct.ac.il
-NOERROR	website20-public.jct.ac.il
-NOERROR	imm-lev-1.jct.ac.il
-NXDOMAIN	www.hra.jct.ac.il
-NOERROR	mda.jct.ac.il
-NXDOMAIN	machon-tal.jct.ac.il
-NOERROR	prt-lev-mazak-sec3.jct.ac.il
-NOERROR	math.jct.ac.il
-NOERROR	iscsi-tal.jct.ac.il
-NOERROR	ntp2.jct.ac.il
-NOERROR	wlc-sp.jct.ac.il
-NOERROR	bakar-61.jct.ac.il
-NOERROR	prt-lev-tech-lib-black.jct.ac.il
-SERVFAIL	aguda.jct.ac.il
-NOERROR	dns-slave2.jct.ac.il
-NOERROR	prt-lev-salary.jct.ac.il
-NOERROR	fs-1.jct.ac.il
-NOERROR	prt-lev-israel201.jct.ac.il
-NOERROR	iscsi-bkp-2.jct.ac.il
-NOERROR	oracle.jct.ac.il
-NOERROR	prt-lev-ksafim.jct.ac.il
-NOERROR	dc-lus1.jct.ac.il
-NOERROR	whatsbest.jct.ac.il
-NOERROR	website14-ad.jct.ac.il
-NOERROR	b-blade-a.jct.ac.il
-NOERROR	bakar-31.jct.ac.il
+msts-lev03.jct.ac.il
+msts-rhapsody-tal.jct.ac.il
+prt-lev-hoch323.jct.ac.il
+sql2012.jct.ac.il
+p-kantorov.jct.ac.il
+bakar-38.jct.ac.il
+it-yad1.jct.ac.il
+prt-lev-israel205.jct.ac.il
+msts-cc-admin.jct.ac.il
+linapp-new.jct.ac.il
+gw.jct.ac.il
+prt-tal-7213.jct.ac.il
+www.danzig.jct.ac.il
+iscsi-lustig.jct.ac.il
+netlab.jct.ac.il
+levnet-web-public.jct.ac.il
+sapakim.jct.ac.il
+shekel.jct.ac.il
+dns-2.jct.ac.il
+bakar-50.jct.ac.il
+prt-lus-marketing.jct.ac.il
+levlicense.jct.ac.il
+prt-lev-lau244.jct.ac.il
+prt-lus-3-9.jct.ac.il
+n-benybb.jct.ac.il
+support.jct.ac.il
+prt-lev-minhal.jct.ac.il
+prt-lev-mazak-sec2.jct.ac.il
+prt-lev-torah-lib.jct.ac.il
+n-avi.jct.ac.il
+iredmail.jct.ac.il
+it-unsubscribe.jct.ac.il
+sw-lev-soch.jct.ac.il
+sw-lev-beren.jct.ac.il
+yeda.jct.ac.il
+switch-blade-220.jct.ac.il
+iscsi-lus.jct.ac.il
+vpl.jct.ac.il
+mishley.jct.ac.il
+prt-lus-maint.jct.ac.il
+bakara.jct.ac.il
+it-support.jct.ac.il
+fs-dev2-iscsi.jct.ac.il
+iscsi-lus-right.jct.ac.il
+iscsi-flex-1.jct.ac.il
+moodle-public.jct.ac.il
+prt-lev-accounting.jct.ac.il
+prt-tal-7308-sec-color.jct.ac.il
+dbs.jct.ac.il
+moodle-node1.jct.ac.il
+ca.jct.ac.il
+prt-lev-it.jct.ac.il
+imm-backup.jct.ac.il
+switch-bayit-b1.jct.ac.il
+prt-tal-l4-1105.jct.ac.il
+student-work.jct.ac.il
+nazir.jct.ac.il
+safecom-master.jct.ac.il
+prt-tal-7603-lec.jct.ac.il
+msts-rhapsody-lus.jct.ac.il
+moodle-cluster.jct.ac.il
+prt-lev-barcode.jct.ac.il
+it-account.jct.ac.il
+prt-tal-7212.jct.ac.il
+prt-lev-bernf2.jct.ac.il
+dc-admin2.jct.ac.il
+prt-tal-b7f2-arbel.jct.ac.il
+door-levcc.jct.ac.il
+prt-tal-7615d-shovarim.jct.ac.il
+b-bayit-e.jct.ac.il
+gmail.jct.ac.il
+p-goldmosh-dev-2.jct.ac.il
+snap-b2d.jct.ac.il
+esx-bayit-d.jct.ac.il
+mailman.jct.ac.il
+umm.jct.ac.il
+wp-level06.jct.ac.il
+www.ndp.jct.ac.il
+switch-bayit-c2.jct.ac.il
+bakar-47.jct.ac.il
+mail.jct.ac.il
+safecom.jct.ac.il
+p-avraham.jct.ac.il
+prt-tal-b9f1-nofech-r.jct.ac.il
+ldapb.jct.ac.il
+fs-tal.jct.ac.il
+moked-maint.jct.ac.il
+iscsi-blade-b.jct.ac.il
+danzig.jct.ac.il
+prt-tal-7615d-2.jct.ac.il
+p-mganon.jct.ac.il
+iscsi-tal-n1b.jct.ac.il
+prt-lev-tech-lib.jct.ac.il
+syslog-tal.jct.ac.il
+prt-lev-fundraising-main.jct.ac.il
+ldap3.jct.ac.il
+bakar-26.jct.ac.il
+sw-lev-beren-mgmt.jct.ac.il
+pi-midrash-plasma.jct.ac.il
+telmark-stud-2.jct.ac.il
+sccm-dp-tal.jct.ac.il
+wol-tal-admin.jct.ac.il
+sw-lus-3-9-teachers.jct.ac.il
+web.jct.ac.il
+prt-tal-7612-midrasha2.jct.ac.il
+prt-lev-meonot.jct.ac.il
+b-bayit-d.jct.ac.il
+sccm2016-dp-tal.jct.ac.il
+esx-bayit-f.jct.ac.il
+msts-tal.jct.ac.il
+esx-blade-b.jct.ac.il
+g.jct.ac.il
+iscsi-blade-i.jct.ac.il
+bakar-24.jct.ac.il
+imm-lev-a.jct.ac.il
+synel.jct.ac.il
+prt-lev-mba.jct.ac.il
+prt-lev-lauf2.jct.ac.il
+prt-tal-9108b.jct.ac.il
+bakar-21.jct.ac.il
+prt-tal-9201.jct.ac.il
+safecom-lus-adm.jct.ac.il
+infosys-web-public.jct.ac.il
+newsap.jct.ac.il
+prt-tal-7317.jct.ac.il
+p-janna.jct.ac.il
+prt-lev-purchase.jct.ac.il
+p-sudri.jct.ac.il
+clock-tal.jct.ac.il
+webinfo-private.jct.ac.il
+website-ad.jct.ac.il
+prt-lev-wyler203.jct.ac.il
+whatsbest-w10.jct.ac.il
+prt-lev-hr.jct.ac.il
+virtual-connect.jct.ac.il
+iscsi-lev-2.jct.ac.il
+prt-tal-7216.jct.ac.il
+prt-lus-lib.jct.ac.il
+fsadm-12.jct.ac.il
+sw-lev-samsung.jct.ac.il
+jobs.jct.ac.il
+prt-lev-wyler410.jct.ac.il
+msts-lus02.jct.ac.il
+prt-lus-exam.jct.ac.il
+bakar-39.jct.ac.il
+prt-lev-comp-sec.jct.ac.il
+www.cc.jct.ac.il
+it-support-public.jct.ac.il
+ntp-lev-b.jct.ac.il
+license.jct.ac.il
+kaspersky2016.jct.ac.il
+switch-blade-221.jct.ac.il
+prt-lev-checks.jct.ac.il
+prt-lev-wyler407.jct.ac.il
+infosys-app-public.jct.ac.il
+sw-lev-bruse.jct.ac.il
+sw-lev-dorms-biran.jct.ac.il
+bakar-72.jct.ac.il
+wsus12.jct.ac.il
+wsus.jct.ac.il
+blade.jct.ac.il
+prt-lev-stud-acct-mgr.jct.ac.il
+prt-lev-stud-acct.jct.ac.il
+bcyberwatch.jct.ac.il
+adobe.jct.ac.il
+prt-lev-wyler226.jct.ac.il
+wol-tal.jct.ac.il
+prt-tal-7611-rav.jct.ac.il
+sccm2016.jct.ac.il
+cmvlt-media.jct.ac.il
+clock-tal2.jct.ac.il
+dns.jct.ac.il
+p-ritchdov.jct.ac.il
+smtp2.jct.ac.il
+ansible.jct.ac.il
+fs-lustig.jct.ac.il
+safecom-lus-admin.jct.ac.il
+safecom-lev-adm.jct.ac.il
+safecom-tal.jct.ac.il
+newmda.jct.ac.il
+prt-tal-7605-lec.jct.ac.il
+b-bayit-h.jct.ac.il
+prt-lev-ramim.jct.ac.il
+prt-lev-wyler403.jct.ac.il
+sw-lev-lau-f5.jct.ac.il
+prt-lev-mazak-sec4.jct.ac.il
+sccm.jct.ac.il
+sap.jct.ac.il
+prt-tal-b11l2.jct.ac.il
+lists.jct.ac.il
+prt-tal-9108.jct.ac.il
+tc-betmedrash.jct.ac.il
+prt-lev-lau520.jct.ac.il
+cc.jct.ac.il
+bakar-55.jct.ac.il
+homedir.jct.ac.il
+laserlab.jct.ac.il
+vcenter6.jct.ac.il
+iscsi-bkp-1.jct.ac.il
+prt-lev-salary-ast.jct.ac.il
+prt-lev-dean.jct.ac.il
+msts-optics.jct.ac.il
+oum.jct.ac.il
+yeda-mail.jct.ac.il
+linapp.jct.ac.il
+dc-admin4.jct.ac.il
+english-rishum.jct.ac.il
+msts-tal02.jct.ac.il
+ubuntu-repo.jct.ac.il
+wsus16.jct.ac.il
+p-yoavr.jct.ac.il
+prt-lev-purchase-color.jct.ac.il
+radius2-ad.jct.ac.il
+vpn-public.jct.ac.il
+root.jct.ac.il
+web-jetadmin.jct.ac.il
+clock-tal-7.jct.ac.il
+moodle-node3-public.jct.ac.il
+bakar-23.jct.ac.il
+msts-optics2019.jct.ac.il
+tftp.jct.ac.il
+prt-tal-b7f3-lib-color.jct.ac.il
+yeda-admin.jct.ac.il
+securelogin.jct.ac.il
+radius-ad.jct.ac.il
+prt-lev-midrash-sec.jct.ac.il
+email-sender.jct.ac.il
+prt-lev-finance.jct.ac.il
+prt-tal-b11af4-yanshuf.jct.ac.il
+bakar-63.jct.ac.il
+bi.jct.ac.il
+kelim.jct.ac.il
+fs-dev1.jct.ac.il
+switch-bayit-b2.jct.ac.il
+ntp.jct.ac.il
+clock.jct.ac.il
+rhapsody-license.jct.ac.il
+whatsbestpro.jct.ac.il
+p-mordehy.jct.ac.il
+fw-s1.jct.ac.il
+www.flexcomp.jct.ac.il
+prt-lev-hoch322.jct.ac.il
+website-ad-public.jct.ac.il
+prt-tal-b11l4-siud-color.jct.ac.il
+miab.jct.ac.il
+it-yad9.jct.ac.il
+application.jct.ac.il
+prt-tal-7615b-exam.jct.ac.il
+msts-torah2020.jct.ac.il
+esx-lev-1.jct.ac.il
+prt-tal-b11l4-siud-black.jct.ac.il
+prt-lev-wyler212.jct.ac.il
+mdacluster.jct.ac.il
+smtp3.jct.ac.il
+sccm2016-dp-lustig.jct.ac.il
+ntp-lev-a.jct.ac.il
+prt-tal-b7f6-arava.jct.ac.il
+prt-lev-pr.jct.ac.il
+comsec-monitor.jct.ac.il
+moodle-node3.jct.ac.il
+iscsi-flex-3.jct.ac.il
+usb-digi-1.jct.ac.il
+dc-lev1.jct.ac.il
+prt-lus-head-dep.jct.ac.il
+prt-lus-odem-color.jct.ac.il
+b-bayit-c.jct.ac.il
+n-avi.umm.jct.ac.il
+sw-lus-flr0.jct.ac.il
+prt-tal-7615a-exam1.jct.ac.il
+usb-digi-4.jct.ac.il
+peah-nfs.jct.ac.il
+b-blade-j.jct.ac.il
+prt-tal-b11l1-siud.jct.ac.il
+linapp-1.jct.ac.il
+sneh.jct.ac.il
+b-bayit-b.jct.ac.il
+b-blade-b.jct.ac.il
+fs-lev.jct.ac.il
+ldapa.jct.ac.il
+iscsi-n1-lustig.jct.ac.il
+switch-bayit-a2.jct.ac.il
+b-bayit-g.jct.ac.il
+spss-license.jct.ac.il
+sw-lev-willer-f3.jct.ac.il
+ldapc.jct.ac.il
+sw-lev-minhala.jct.ac.il
+website20.jct.ac.il
+prt-lev-exams-sec.jct.ac.il
+migdal.jct.ac.il
+msts-tal01.jct.ac.il
+p-dstern.jct.ac.il
+ca-admin.jct.ac.il
+msts-lev01.jct.ac.il
+sw-lus-adm-mazkirut.jct.ac.il
+sw-lev-israel.jct.ac.il
+fortianalyzer.jct.ac.il
+lecturers.jct.ac.il
+maint-bakara-cc.jct.ac.il
+msts-math.jct.ac.il
+p-sagit.jct.ac.il
+prt-lev-president-color.jct.ac.il
+prt-lev-samson211.jct.ac.il
+biolab.jct.ac.il
+lers.jct.ac.il
+prt-lev-lau535.jct.ac.il
+msts-tal1.jct.ac.il
+website14-ad-public.jct.ac.il
+msts-hilan.jct.ac.il
+prt-lev-mankal.jct.ac.il
+it-yad2.jct.ac.il
+website20-private.jct.ac.il
+prt-lev-soch310.jct.ac.il
+its-public.jct.ac.il
+oz.jct.ac.il
+esx-bayit-g.jct.ac.il
+esx-blade-k.jct.ac.il
+prt-lev-elop-store.jct.ac.il
+sap-server.jct.ac.il
+www.jct.ac.il
+it-publish.jct.ac.il
+safecom-lev.jct.ac.il
+moodle-node2-public.jct.ac.il
+magicinfo.jct.ac.il
+dns-master.jct.ac.il
+prt-tal-7601-engnr-sec.jct.ac.il
+lev.jct.ac.il
+rimon17.jct.ac.il
+dc-lev.jct.ac.il
+ready01-public.jct.ac.il
+prt-lev-physics-lec.jct.ac.il
+prt-lus-harshama.jct.ac.il
+prt-lus-bareket.jct.ac.il
+prt-tal-7318.jct.ac.il
+bakar-40.jct.ac.il
+sw-lev-willer-f2.jct.ac.il
+prt-tal-b7f2-hermon.jct.ac.il
+esx-bayit-e.jct.ac.il
+bakar-75.jct.ac.il
+prt-tal-l1-1116.jct.ac.il
+prt-lev-lau570.jct.ac.il
+bakar-56.jct.ac.il
+virl.jct.ac.il
+api.jct.ac.il
+bakar-60.jct.ac.il
+sccm-admin.jct.ac.il
+prt-tal-7607-csacct.jct.ac.il
+ups-lev-server-rm.jct.ac.il
+v-adobe.jct.ac.il
+sps-portal.jct.ac.il
+ups-gama.jct.ac.il
+syslog2.jct.ac.il
+prt-lev-wylerf2-color.jct.ac.il
+dc-admin3.jct.ac.il
+cc-dev-3.jct.ac.il
+v-imagepro.jct.ac.il
+levnet.jct.ac.il
+info.jct.ac.il
+prt-lev-lauf3.jct.ac.il
+clock-betmidrash-2.jct.ac.il
+iscsi-flex-2.jct.ac.il
+vs-n2.jct.ac.il
+bakar-70.jct.ac.il
+mathematica-license.jct.ac.il
+blademan.jct.ac.il
+linapp-2.jct.ac.il
+prt-lev-mazak-mgr.jct.ac.il
+catalog2018.jct.ac.il
+prt-maintenance.jct.ac.il
+mazak.jct.ac.il
+ldap2.jct.ac.il
+vpn.jct.ac.il
+bakar-43.jct.ac.il
+iscsi-blade-k.jct.ac.il
+jct.ac.il
+prt-tal-9205.jct.ac.il
+dns1.jct.ac.il
+wp-level03.jct.ac.il
+prt-tal-b9f2-tamar1.jct.ac.il
+greatminds.jct.ac.il
+bezeq-hilan.jct.ac.il
+safecom-lev-admin.jct.ac.il
+prt-lev-rishum.jct.ac.il
+prt-barcode.jct.ac.il
+iscsi-lus-left.jct.ac.il
+secure.jct.ac.il
+wp-level00.jct.ac.il
+website20-ad.jct.ac.il
+switch-bayit-c1.jct.ac.il
+linapp-3.jct.ac.il
+bakar-48.jct.ac.il
+prt-lev-rector-room.jct.ac.il
+prt-lus-mgr.jct.ac.il
+prt-lev-minhal-color.jct.ac.il
+p-ucohen.jct.ac.il
+msts-lev.jct.ac.il
+usb-digi-2.jct.ac.il
+p-benybb.jct.ac.il
+iscsi-flex-4.jct.ac.il
+imc.jct.ac.il
+clock-lustig.jct.ac.il
+ndp.jct.ac.il
+backup.jct.ac.il
+gama.jct.ac.il
+prt-tal-daat-sec.jct.ac.il
+optibit.jct.ac.il
+safecom-tal-admin.jct.ac.il
+prt-lev-fundraising.jct.ac.il
+moodle-node2.jct.ac.il
+moked.jct.ac.il
+iscsi-cmvlt-media-1.jct.ac.il
+prt-lev-exams-main.jct.ac.il
+it-mailman.jct.ac.il
+prt-tal-7615d-1.jct.ac.il
+fsadm-11.jct.ac.il
+fs-acad.jct.ac.il
+n-mordehy.jct.ac.il
+it-monitor.jct.ac.il
+sw-lev-ampi.jct.ac.il
+dc-admin1.jct.ac.il
+prt-lus-lecturers-3.jct.ac.il
+prt-tal-b7f2-sinai.jct.ac.il
+moodle-rimon.jct.ac.il
+vcenter7.jct.ac.il
+arena-license.jct.ac.il
+homedir-public.jct.ac.il
+syslog-lev.jct.ac.il
+sw-lev-lau-f2.jct.ac.il
+dns-slave1.jct.ac.il
+fs-6.jct.ac.il
+rishum.jct.ac.il
+sysaid.jct.ac.il
+prt-lev-math-sec.jct.ac.il
+webinfo.jct.ac.il
+p-goldmosh-dev-1.jct.ac.il
+ctf.jct.ac.il
+prt-tal-b9f3-tvuna.jct.ac.il
+ex2010.jct.ac.il
+bakar-53.jct.ac.il
+smtp1.jct.ac.il
+dorman.jct.ac.il
+prt-tal-7308-sec-black.jct.ac.il
+shaar-lev.jct.ac.il
+fs-dev1-iscsi.jct.ac.il
+door-yu-carousel.jct.ac.il
+msts-torah.jct.ac.il
+esx-bayit-i.jct.ac.il
+catalog.jct.ac.il
+prt-tal-7615c-studacc.jct.ac.il
+srv-netlab.jct.ac.il
+esx-blade-a.jct.ac.il
+yeda-acad.jct.ac.il
+kms.jct.ac.il
+machon-lev.jct.ac.il
+bakar-36.jct.ac.il
+usb-digi.jct.ac.il
+iscsi-tal-left.jct.ac.il
+moodlecourse.jct.ac.il
+msts-cc-acad.jct.ac.il
+prt-tal-b9f1-nofech-l.jct.ac.il
+prt-lev-librarian.jct.ac.il
+efl.jct.ac.il
+vum55.jct.ac.il
+p-dreyfus1.jct.ac.il
+iscsi-tal-right.jct.ac.il
+smtp.jct.ac.il
+maple-license.jct.ac.il
+owa.jct.ac.il
+iscsi-blade-j.jct.ac.il
+peah.jct.ac.il
+omd.jct.ac.il
+prt-lev-wyler402.jct.ac.il
+jetadmin.jct.ac.il
+lev-infra.jct.ac.il
+prt-lev-bernf0.jct.ac.il
+sccm-dp-lustig.jct.ac.il
+wol-lev.jct.ac.il
+clock-tal-11.jct.ac.il
+prt-lev-rector.jct.ac.il
+prt-tal-l1-1118a-sec.jct.ac.il
+whatsbestw7.jct.ac.il
+prt-tal-b9f2-tamar2.jct.ac.il
+wol.jct.ac.il
+p-amedi.jct.ac.il
+website-public.jct.ac.il
+prt-lus-mazkirut-color.jct.ac.il
+prt-lev-maint.jct.ac.il
+facultyresearch.jct.ac.il
+it-db.jct.ac.il
+prt-tal-l1-1117.jct.ac.il
+prt-lev-samson215.jct.ac.il
+prt-lev-visionlab.jct.ac.il
+prt-tal-11a202-mgr.jct.ac.il
+moodle.jct.ac.il
+esx-blade-i.jct.ac.il
+prt-lev-eng.jct.ac.il
+prt-lev-hoch170.jct.ac.il
+bakar-54.jct.ac.il
+switch-bayit-a1.jct.ac.il
+prt-lev-bern015.jct.ac.il
+v-optics.jct.ac.il
+safecom-mobile.jct.ac.il
+magbit.jct.ac.il
+prt-lev-hoch321.jct.ac.il
+magbit2019.jct.ac.il
+it-unsubscribe-public.jct.ac.il
+x40.jct.ac.il
+imm-lev-2.jct.ac.il
+wp-level05.jct.ac.il
+bakar-25.jct.ac.il
+prt-tal-l2-1123a.jct.ac.il
+prt-lus-mazkirut-black.jct.ac.il
+esx-blade-j.jct.ac.il
+midrash.jct.ac.il
+dc-lev2.jct.ac.il
+prt-lev-rishum-mgr.jct.ac.il
+kaspersky.jct.ac.il
+magicinfo-lev.jct.ac.il
+prt-lev-mazak-sec1.jct.ac.il
+bakar-74.jct.ac.il
+prt-lev-siud.jct.ac.il
+donation.jct.ac.il
+b-bayit-f.jct.ac.il
+prt-tal-7309-mgr.jct.ac.il
+iscsi-cmvlt-media-2.jct.ac.il
+esx-bayit-a.jct.ac.il
+esx-bayit-b.jct.ac.il
+neworacle.jct.ac.il
+snapir.jct.ac.il
+door-yu-gate.jct.ac.il
+ubuntu-template.jct.ac.il
+dns2.jct.ac.il
+prt-lev-physics-sec.jct.ac.il
+vcenter55.jct.ac.il
+xlinix-license.jct.ac.il
+prt-tal-7610-bussadm.jct.ac.il
+ldap.jct.ac.il
+acad.jct.ac.il
+sw-lev-dorms-amaragi.jct.ac.il
+vpl-public.jct.ac.il
+msts-lus01.jct.ac.il
+dc-tal2.jct.ac.il
+moodledb-master.jct.ac.il
+msts-lev02.jct.ac.il
+msts-rhapsody.jct.ac.il
+bioinfo.jct.ac.il
+cadgme2020.jct.ac.il
+www.levtech.jct.ac.il
+bayit.jct.ac.il
+prt-lev-lau421.jct.ac.il
+juniper.jct.ac.il
+moodle-node1-public.jct.ac.il
+prt-lev-mechina.jct.ac.il
+syslog-lus.jct.ac.il
+safecom-lus.jct.ac.il
+safecom-tal-adm.jct.ac.il
+shaar-yu.jct.ac.il
+bakar-52.jct.ac.il
+prt-lev-rector-ast.jct.ac.il
+french-rishum.jct.ac.il
+prt-lev-physics-mgr.jct.ac.il
+graphite.jct.ac.il
+dc-tal.jct.ac.il
+bakar-73.jct.ac.il
+sps-portal-sql.jct.ac.il
+prt-lev-esp.jct.ac.il
+wiki.jct.ac.il
+sw-lev-willer-f4.jct.ac.il
+guide.jct.ac.il
+www.midrash.jct.ac.il
+prt-tal-b9f3-etrog.jct.ac.il
+b-bayit-a.jct.ac.il
+prt-lev-iskaot.jct.ac.il
+vs-n1.jct.ac.il
+syslog.jct.ac.il
+b-blade-k.jct.ac.il
+beny-monitor.jct.ac.il
+prt-lev-amphif2.jct.ac.il
+prt-tal-9108a.jct.ac.il
+msts-tal2.jct.ac.il
+prt-lus-librarian.jct.ac.il
+prt-tal-7612-midrasha1.jct.ac.il
+msts-perfector.jct.ac.il
+dc-lus.jct.ac.il
+esx-lev-2.jct.ac.il
+website.jct.ac.il
+imut.jct.ac.il
+its.jct.ac.il
+wp-level02.jct.ac.il
+flexcomp.jct.ac.il
+fsadm-10.jct.ac.il
+lp.jct.ac.il
+dc-admin5.jct.ac.il
+moodledb-slave.jct.ac.il
+prt-tal-b7f3-lib-black.jct.ac.il
+levtech.jct.ac.il
+esx-bayit-h.jct.ac.il
+wp-level01.jct.ac.il
+ready01.jct.ac.il
+license-public.jct.ac.il
+website20-public.jct.ac.il
+imm-lev-1.jct.ac.il
+mda.jct.ac.il
+prt-lev-mazak-sec3.jct.ac.il
+math.jct.ac.il
+iscsi-tal.jct.ac.il
+ntp2.jct.ac.il
+wlc-sp.jct.ac.il
+bakar-61.jct.ac.il
+prt-lev-tech-lib-black.jct.ac.il
+dns-slave2.jct.ac.il
+prt-lev-salary.jct.ac.il
+fs-1.jct.ac.il
+prt-lev-israel201.jct.ac.il
+iscsi-bkp-2.jct.ac.il
+oracle.jct.ac.il
+prt-lev-ksafim.jct.ac.il
+dc-lus1.jct.ac.il
+whatsbest.jct.ac.il
+website14-ad.jct.ac.il
+b-blade-a.jct.ac.il
+bakar-31.jct.ac.il

@@ -1,37 +1,32 @@
-NOERROR	smis.gluk.ac.ke
-NOERROR	lnaconf.gluk.ac.ke
-NOERROR	www.oldsite.gluk.ac.ke
-NOERROR	lnconf.gluk.ac.ke
-NOERROR	webdisk.gluk.ac.ke
-NOERROR	whm.gluk.ac.ke
-NOERROR	mail.gluk.ac.ke
-NXDOMAIN	tich.gluk.ac.ke
-NXDOMAIN	www.tich.gluk.ac.ke
-NXDOMAIN	it.gluk.ac.ke
-NOERROR	hs.elearning.gluk.ac.ke
-NOERROR	www.lnconf.gluk.ac.ke
-NXDOMAIN	portal.gluk.ac.ke
-NOERROR	webmail.gluk.ac.ke
-NOERROR	ans.elearning.gluk.ac.ke
-NOERROR	www.lnaconf.gluk.ac.ke
-NOERROR	www.library.gluk.ac.ke
-NOERROR	oldsite.gluk.ac.ke
-NOERROR	cpcalendars.gluk.ac.ke
-NOERROR	cpanel.gluk.ac.ke
-NOERROR	business.gluk.ac.ke
-NOERROR	www.business.gluk.ac.ke
-NOERROR	distance.gluk.ac.ke
-NOERROR	www.distance.gluk.ac.ke
-NOERROR	www.research.gluk.ac.ke
-NOERROR	cpcontacts.gluk.ac.ke
-NOERROR	library.gluk.ac.ke
-NOERROR	research.gluk.ac.ke
-NOERROR	ecampus.gluk.ac.ke
-NXDOMAIN	libservices.gluk.ac.ke
-NOERROR	gluk.ac.ke
-NOERROR	elearning.gluk.ac.ke
-NOERROR	autodiscover.gluk.ac.ke
-NOERROR	kccst.gluk.ac.ke
-NOERROR	www.kccst.gluk.ac.ke
-NOERROR	training.elearning.gluk.ac.ke
-NOERROR	www.gluk.ac.ke
+smis.gluk.ac.ke
+lnaconf.gluk.ac.ke
+www.oldsite.gluk.ac.ke
+lnconf.gluk.ac.ke
+webdisk.gluk.ac.ke
+whm.gluk.ac.ke
+mail.gluk.ac.ke
+hs.elearning.gluk.ac.ke
+www.lnconf.gluk.ac.ke
+webmail.gluk.ac.ke
+ans.elearning.gluk.ac.ke
+www.lnaconf.gluk.ac.ke
+www.library.gluk.ac.ke
+oldsite.gluk.ac.ke
+cpcalendars.gluk.ac.ke
+cpanel.gluk.ac.ke
+business.gluk.ac.ke
+www.business.gluk.ac.ke
+distance.gluk.ac.ke
+www.distance.gluk.ac.ke
+www.research.gluk.ac.ke
+cpcontacts.gluk.ac.ke
+library.gluk.ac.ke
+research.gluk.ac.ke
+ecampus.gluk.ac.ke
+gluk.ac.ke
+elearning.gluk.ac.ke
+autodiscover.gluk.ac.ke
+kccst.gluk.ac.ke
+www.kccst.gluk.ac.ke
+training.elearning.gluk.ac.ke
+www.gluk.ac.ke

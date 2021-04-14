@@ -1,49 +1,28 @@
-NOERROR	mailserver.ucg.gr
-NOERROR	useradmin.ucg.gr
-NXDOMAIN	noc-server.ucg.gr
-NXDOMAIN	il.dib.ucg.gr
-NXDOMAIN	eclass.ucg.gr
-NXDOMAIN	www.old.ucg.gr
-NOERROR	mypassword.ucg.gr
-NOERROR	pa.ucg.gr
-NOERROR	dasta.ucg.gr
-NXDOMAIN	mail.ucg.gr
-NXDOMAIN	e-uni.dib.ucg.gr
-NXDOMAIN	setn2012.ucg.gr
-NOERROR	users.ucg.gr
-NXDOMAIN	elke.ucg.gr
-NOERROR	dasta-server.ucg.gr
-NOERROR	dib.ucg.gr
-NXDOMAIN	greencom.poa.ucg.gr
-NOERROR	login.ucg.gr
-NOERROR	career.ucg.gr
-NOERROR	poa.ucg.gr
-NXDOMAIN	webmail.ucg.gr
-NOERROR	mymail.ucg.gr
-NXDOMAIN	old.dib.ucg.gr
-NXDOMAIN	eclass2.ucg.gr
-NXDOMAIN	report.dib.ucg.gr
-NOERROR	vd.ucg.gr
-NXDOMAIN	test.ucg.gr
-NXDOMAIN	e-uni.poa.ucg.gr
-NXDOMAIN	www.setn2012.ucg.gr
-NOERROR	marida.ucg.gr
-NOERROR	sws.ucg.gr
-NXDOMAIN	tsipoura.ucg.gr
-NOERROR	pki.ucg.gr
-NXDOMAIN	noc.ucg.gr
-NOERROR	octopus.ucg.gr
-NOERROR	vpn.ucg.gr
-NOERROR	rofos.ucg.gr
-NOERROR	nms.ucg.gr
-NOERROR	mke.ucg.gr
-NXDOMAIN	www.poa.ucg.gr
-NOERROR	mailman.ucg.gr
-NOERROR	www.ucg.gr
-NOERROR	ieee.ucg.gr
-NOERROR	statistics.ucg.gr
-NXDOMAIN	www.dib.ucg.gr
-NOERROR	mezquita.ucg.gr
-NXDOMAIN	biomed.dib.ucg.gr
-NOERROR	alhambra.ucg.gr
-NOERROR	idp.ucg.gr
+mailserver.ucg.gr
+useradmin.ucg.gr
+mypassword.ucg.gr
+pa.ucg.gr
+dasta.ucg.gr
+users.ucg.gr
+dasta-server.ucg.gr
+dib.ucg.gr
+login.ucg.gr
+career.ucg.gr
+poa.ucg.gr
+mymail.ucg.gr
+vd.ucg.gr
+marida.ucg.gr
+sws.ucg.gr
+pki.ucg.gr
+octopus.ucg.gr
+vpn.ucg.gr
+rofos.ucg.gr
+nms.ucg.gr
+mke.ucg.gr
+mailman.ucg.gr
+www.ucg.gr
+ieee.ucg.gr
+statistics.ucg.gr
+mezquita.ucg.gr
+alhambra.ucg.gr
+idp.ucg.gr

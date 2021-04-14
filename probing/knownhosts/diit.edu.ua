@@ -1,49 +1,49 @@
-NOERROR	cpo.diit.edu.ua
-NOERROR	new.diit.edu.ua
-NOERROR	smtp.diit.edu.ua
-NOERROR	ns.diit.edu.ua
-NOERROR	router-o.diit.edu.ua
-NOERROR	ameron.diit.edu.ua
-NOERROR	ejournals.diit.edu.ua
-NOERROR	www.library.diit.edu.ua
-NOERROR	ecat.diit.edu.ua
-NOERROR	www.diit.edu.ua
-NOERROR	b.diit.edu.ua
-NOERROR	omp.diit.edu.ua
-NOERROR	file-server.diit.edu.ua
-NOERROR	lf.diit.edu.ua
-NOERROR	diit.edu.ua
-NOERROR	www.centr.diit.edu.ua
-NOERROR	monitor.diit.edu.ua
-NOERROR	srv-t.diit.edu.ua
-NOERROR	tstt.diit.edu.ua
-NOERROR	studrada.diit.edu.ua
-NOERROR	dls.diit.edu.ua
-NOERROR	nat.diit.edu.ua
-NOERROR	ndch.diit.edu.ua
-NOERROR	pk.diit.edu.ua
-NOERROR	mail.diit.edu.ua
-NOERROR	bttrp.diit.edu.ua
-NOERROR	conflib.diit.edu.ua
-NOERROR	old.diit.edu.ua
-NOERROR	smtp2.diit.edu.ua
-NOERROR	lider.diit.edu.ua
-NOERROR	pf.diit.edu.ua
-NOERROR	ecsrt.diit.edu.ua
-NOERROR	conf-ampr.diit.edu.ua
-NOERROR	library.diit.edu.ua
-NOERROR	moodle.diit.edu.ua
-NOERROR	backup.diit.edu.ua
-NOERROR	srv.diit.edu.ua
-NOERROR	router.diit.edu.ua
-NOERROR	proxysample.diit.edu.ua
-NOERROR	etr.diit.edu.ua
-NOERROR	oldlibrary.diit.edu.ua
-NOERROR	pm.conf.diit.edu.ua
-NOERROR	eotconf.diit.edu.ua
-NOERROR	storage.diit.edu.ua
-NOERROR	ampr.diit.edu.ua
-NOERROR	pte.diit.edu.ua
-NOERROR	router-t.diit.edu.ua
-NOERROR	stp.diit.edu.ua
-NOERROR	eadnurt.diit.edu.ua
+cpo.diit.edu.ua
+new.diit.edu.ua
+smtp.diit.edu.ua
+ns.diit.edu.ua
+router-o.diit.edu.ua
+ameron.diit.edu.ua
+ejournals.diit.edu.ua
+www.library.diit.edu.ua
+ecat.diit.edu.ua
+www.diit.edu.ua
+b.diit.edu.ua
+omp.diit.edu.ua
+file-server.diit.edu.ua
+lf.diit.edu.ua
+diit.edu.ua
+www.centr.diit.edu.ua
+monitor.diit.edu.ua
+srv-t.diit.edu.ua
+tstt.diit.edu.ua
+studrada.diit.edu.ua
+dls.diit.edu.ua
+nat.diit.edu.ua
+ndch.diit.edu.ua
+pk.diit.edu.ua
+mail.diit.edu.ua
+bttrp.diit.edu.ua
+conflib.diit.edu.ua
+old.diit.edu.ua
+smtp2.diit.edu.ua
+lider.diit.edu.ua
+pf.diit.edu.ua
+ecsrt.diit.edu.ua
+conf-ampr.diit.edu.ua
+library.diit.edu.ua
+moodle.diit.edu.ua
+backup.diit.edu.ua
+srv.diit.edu.ua
+router.diit.edu.ua
+proxysample.diit.edu.ua
+etr.diit.edu.ua
+oldlibrary.diit.edu.ua
+pm.conf.diit.edu.ua
+eotconf.diit.edu.ua
+storage.diit.edu.ua
+ampr.diit.edu.ua
+pte.diit.edu.ua
+router-t.diit.edu.ua
+stp.diit.edu.ua
+eadnurt.diit.edu.ua

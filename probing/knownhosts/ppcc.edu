@@ -1,106 +1,62 @@
-NOERROR	search.credoreference.com.libdb.ppcc.edu
-NOERROR	genetec.ppcc.edu
-NOERROR	blogs.ppcc.edu
-NXDOMAIN	media.ppcc.edu
-NOERROR	webwork.ppcc.edu
-NXDOMAIN	paris.ppcc.edu
-NXDOMAIN	eval.ppcc.edu
-NXDOMAIN	ipswitch.ppcc.edu
-NOERROR	www.ppcc.edu.libdb.ppcc.edu
-NXDOMAIN	ppcccapp03iv2.ppcc.edu
-NXDOMAIN	inception.ppcc.edu
-NOERROR	libguides.ppcc.edu
-NOERROR	sars.ppcc.edu
-NOERROR	ppccvdi01.ppcc.edu
-NOERROR	api.ppcc.edu
-NOERROR	catalog.ppcc.edu
-NOERROR	inb.ppcc.edu
-NXDOMAIN	vdadminv2.ppcc.edu
-NOERROR	assets.ppcc.edu
-NOERROR	sw.ppcc.edu
-NOERROR	autodiscover.ppcc.edu
-NXDOMAIN	ppcca18.ppcc.edu
-NXDOMAIN	crestron.ppcc.edu
-NOERROR	login.libdb.ppcc.edu
-NXDOMAIN	ls.ppcc.edu
-NXDOMAIN	www.cyberlab.ppcc.edu
-NXDOMAIN	ppcccapp05iv2.ppcc.edu
-NOERROR	adastrapa.gslb.ppcc.edu
-NOERROR	sp.ppcc.edu
-NOERROR	student.ppcc.edu
-NOERROR	apps.ppcc.edu
-NXDOMAIN	dev.ppcc.edu
-NOERROR	web.b.ebscohost.com.libdb.ppcc.edu
-NXDOMAIN	www.online.ppcc.edu
-NXDOMAIN	video.ppcc.edu
-NXDOMAIN	mail.ppcc.edu
-NOERROR	printer.ppcc.edu
-NXDOMAIN	hlc.ppcc.edu
-NXDOMAIN	ppcccapp04v2.ppcc.edu
-NXDOMAIN	bbsupport.ppcc.edu
-NOERROR	libdb.ppcc.edu
-NOERROR	vdi.ppcc.edu
-NXDOMAIN	vdinstv2.ppcc.edu
-NOERROR	eg.ppcc.edu
-NOERROR	www2.ppcc.edu
-NOERROR	owa.ppcc.edu
-NXDOMAIN	ppcca15.ppcc.edu
-NOERROR	office.ppcc.edu
-NOERROR	ppcc.edu
-NOERROR	ppccmrelay.ppcc.edu
-NOERROR	kemp360.ppcc.edu
-NOERROR	my.ppcc.edu
-NOERROR	success.ppcc.edu
-NXDOMAIN	amx.ppcc.edu
-NOERROR	m.catalog.ppcc.edu
-NXDOMAIN	viewcm05i.ppcc.edu
-NOERROR	careers.ppcc.edu
-NXDOMAIN	smtp1.ppcc.edu
-NOERROR	online2.ppcc.edu
-NOERROR	hd.ppcc.edu
-NXDOMAIN	ppcccapp02v2.ppcc.edu
-NXDOMAIN	images.ppcc.edu
-NOERROR	photos.ppcc.edu
-NOERROR	adastrapa.ppcc.edu
-NOERROR	help.ppcc.edu
-NOERROR	ssb.ppcc.edu
-NOERROR	adastra.ppcc.edu
-NXDOMAIN	viewcm03i.ppcc.edu
-NOERROR	support.ppcc.edu
-NOERROR	sharepoint.ppcc.edu
-NOERROR	web.a.ebscohost.com.libdb.ppcc.edu
-NXDOMAIN	wifi.ppcc.edu
-NXDOMAIN	www.orientation.ppcc.edu
-NOERROR	erouting.ppcc.edu
-NOERROR	online.ppcc.edu
-NXDOMAIN	viewcm02.ppcc.edu
-NOERROR	print.ppcc.edu
-NOERROR	navigate.ppcc.edu
-NXDOMAIN	math.ppcc.edu
-NOERROR	search.ebscohost.com.libdb.ppcc.edu
-NXDOMAIN	cyberlab.ppcc.edu
-NXDOMAIN	www.m.catalog.ppcc.edu
-NOERROR	pageup.ppcc.edu
-NXDOMAIN	ppccs1.ppcc.edu
-NOERROR	sd.ppcc.edu
-NXDOMAIN	cybervc.ppcc.edu
-NOERROR	ids.ppcc.edu
-NXDOMAIN	viewcm04.ppcc.edu
-NOERROR	ppcc-verso.auto-graphics.com.libdb.ppcc.edu
-NOERROR	preview.ppcc.edu
-NOERROR	apply.ppcc.edu
-NXDOMAIN	vdadmin.ppcc.edu
-NOERROR	www.ppcc.edu
-NXDOMAIN	gis.ppcc.edu
-NXDOMAIN	sg.ppcc.edu
-NOERROR	hb.ppcc.edu
-NXDOMAIN	kepc.ppcc.edu
-NOERROR	employment.ppcc.edu
-NXDOMAIN	training.ppcc.edu
-NXDOMAIN	vdinst.ppcc.edu
-NXDOMAIN	ftp.ppcc.edu
-NOERROR	ppccvdi02.ppcc.edu
-NOERROR	libanswers.ppcc.edu
-NOERROR	orientation.ppcc.edu
-NXDOMAIN	tstwebwork.ppcc.edu
-NOERROR	www.jstor.org.libdb.ppcc.edu
+search.credoreference.com.libdb.ppcc.edu
+genetec.ppcc.edu
+blogs.ppcc.edu
+webwork.ppcc.edu
+www.ppcc.edu.libdb.ppcc.edu
+libguides.ppcc.edu
+sars.ppcc.edu
+ppccvdi01.ppcc.edu
+api.ppcc.edu
+catalog.ppcc.edu
+inb.ppcc.edu
+assets.ppcc.edu
+sw.ppcc.edu
+autodiscover.ppcc.edu
+login.libdb.ppcc.edu
+adastrapa.gslb.ppcc.edu
+sp.ppcc.edu
+student.ppcc.edu
+apps.ppcc.edu
+web.b.ebscohost.com.libdb.ppcc.edu
+printer.ppcc.edu
+libdb.ppcc.edu
+vdi.ppcc.edu
+eg.ppcc.edu
+www2.ppcc.edu
+owa.ppcc.edu
+office.ppcc.edu
+ppcc.edu
+ppccmrelay.ppcc.edu
+kemp360.ppcc.edu
+my.ppcc.edu
+success.ppcc.edu
+m.catalog.ppcc.edu
+careers.ppcc.edu
+online2.ppcc.edu
+hd.ppcc.edu
+photos.ppcc.edu
+adastrapa.ppcc.edu
+help.ppcc.edu
+ssb.ppcc.edu
+adastra.ppcc.edu
+support.ppcc.edu
+sharepoint.ppcc.edu
+web.a.ebscohost.com.libdb.ppcc.edu
+erouting.ppcc.edu
+online.ppcc.edu
+print.ppcc.edu
+navigate.ppcc.edu
+search.ebscohost.com.libdb.ppcc.edu
+pageup.ppcc.edu
+sd.ppcc.edu
+ids.ppcc.edu
+ppcc-verso.auto-graphics.com.libdb.ppcc.edu
+preview.ppcc.edu
+apply.ppcc.edu
+www.ppcc.edu
+hb.ppcc.edu
+employment.ppcc.edu
+ppccvdi02.ppcc.edu
+libanswers.ppcc.edu
+orientation.ppcc.edu
+www.jstor.org.libdb.ppcc.edu

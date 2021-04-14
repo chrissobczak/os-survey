@@ -1,19 +1,18 @@
-NOERROR	admissionadmin.rub.edu.bt
-NOERROR	admission.rub.edu.bt
-NOERROR	library.rub.edu.bt
-NOERROR	mail.rub.edu.bt
-NOERROR	ims.rub.edu.bt
-NOERROR	vle.rub.edu.bt
-NOERROR	turn.rub.edu.bt
-NOERROR	admin.rub.edu.bt
-NOERROR	ns1.rub.edu.bt
-NOERROR	git.rub.edu.bt
-NXDOMAIN	rub-ims.rub.edu.bt
-NOERROR	register.rub.edu.bt
-NOERROR	rubmeet.rub.edu.bt
-NOERROR	gwinternal.rub.edu.bt
-NOERROR	bbb.rub.edu.bt
-NOERROR	vcrub.rub.edu.bt
-NOERROR	feedback.rub.edu.bt
-NOERROR	www.rub.edu.bt
-NOERROR	dnssec.rub.edu.bt
+admissionadmin.rub.edu.bt
+admission.rub.edu.bt
+library.rub.edu.bt
+mail.rub.edu.bt
+ims.rub.edu.bt
+vle.rub.edu.bt
+turn.rub.edu.bt
+admin.rub.edu.bt
+ns1.rub.edu.bt
+git.rub.edu.bt
+register.rub.edu.bt
+rubmeet.rub.edu.bt
+gwinternal.rub.edu.bt
+bbb.rub.edu.bt
+vcrub.rub.edu.bt
+feedback.rub.edu.bt
+www.rub.edu.bt
+dnssec.rub.edu.bt

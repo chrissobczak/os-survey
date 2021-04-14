@@ -1,2 +1,2 @@
-NOERROR	www.rsmu.da.ru
-NOERROR	rsmu.da.ru
+www.rsmu.da.ru
+rsmu.da.ru

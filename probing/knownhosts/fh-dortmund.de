@@ -1,1241 +1,976 @@
-NOERROR	pc28.architektur.fh-dortmund.de
-NXDOMAIN	machtestas.verw.fh-dortmund.de
-NOERROR	userapp-cr-dev.fh-dortmund.de
-NOERROR	fhdo2.fh-dortmund.de
-NXDOMAIN	machdevlsc.verw.fh-dortmund.de
-NOERROR	ikt-term02.ikt.fh-dortmund.de
-NOERROR	pc80.telcom.fh-dortmund.de
-NOERROR	buchung.maschinenbau.fh-dortmund.de
-NXDOMAIN	intranet.ilias.fh-dortmund.de
-NOERROR	emarchiv.fh-dortmund.de
-NOERROR	n200.informatik.fh-dortmund.de
-NOERROR	ws.inf.fh-dortmund.de
-NXDOMAIN	ebbis.fh-dortmund.de
-NOERROR	ewww1.fh-dortmund.de
-NOERROR	pc23.telcom.fh-dortmund.de
-NOERROR	ex01.fh-dortmund.de
-NOERROR	neplan01.fb3.fh-dortmund.de
-NOERROR	hpx2.architektur.fh-dortmund.de
-NOERROR	n223.informatik.fh-dortmund.de
-NOERROR	n26.informatik.fh-dortmund.de
-NOERROR	studwebmailer5.fh-dortmund.de
-NOERROR	maia4.fh-dortmund.de
-NOERROR	gitlab.pimes.fh-dortmund.de
-NOERROR	estaging.fh-dortmund.de
-NXDOMAIN	machprodbps.verw.fh-dortmund.de
-NOERROR	n73.informatik.fh-dortmund.de
-NXDOMAIN	www.schulsozialarbeit.fh-dortmund.de
-NXDOMAIN	jira.mi.fh-dortmund.de.fh-dortmund.de
-NOERROR	pc4.architektur.fh-dortmund.de
-NOERROR	www.wiki.mi.fh-dortmund.de
-NOERROR	pc34.telcom.fh-dortmund.de
-NOERROR	hp14.architektur.fh-dortmund.de
-NOERROR	hp03.architektur.fh-dortmund.de
-NOERROR	ex07.fh-dortmund.de
-NXDOMAIN	hp02.architektur.fh-dortmund.de
-NOERROR	n140.informatik.fh-dortmund.de
-NOERROR	www2.fh-dortmund.de
-NOERROR	maillists.fh-dortmund.de
-NOERROR	www.asw.fh-dortmund.de
-NOERROR	pc13.telcom.fh-dortmund.de
-NOERROR	rmsmapo.gwava1.fh-dortmund.de
-NXDOMAIN	fhdo-lan23.fh-dortmund.de
-NOERROR	www-develop.fh-dortmund.de
-NOERROR	n40.informatik.fh-dortmund.de
-NOERROR	hp12.architektur.fh-dortmund.de
-NXDOMAIN	ex08.ad.fh-dortmund.de
-NOERROR	services.asta.fh-dortmund.de
-NXDOMAIN	machdemobi.verw.fh-dortmund.de
-NOERROR	masterdom.gwava1.fh-dortmund.de
-NOERROR	n234.informatik.fh-dortmund.de
-NOERROR	search.www.fh-dortmund.de
-NOERROR	n58.informatik.fh-dortmund.de
-NOERROR	pc35.telcom.fh-dortmund.de
-NXDOMAIN	ex05.ad.fh-dortmund.de
-NXDOMAIN	backup.ilias.fh-dortmund.de
-NOERROR	pc47.telcom.fh-dortmund.de
-NOERROR	bachelorarbeit-7101137.wirtschaft.fh-dortmund.de
-NOERROR	nas.imsl.fh-dortmund.de
-NOERROR	n194.informatik.fh-dortmund.de
-NOERROR	ods2.fh-dortmund.de
-NXDOMAIN	blog.fh-dortmund.de
-NOERROR	sun2.telcom.fh-dortmund.de
-NOERROR	hp07.architektur.fh-dortmund.de
-NOERROR	vdigate.wirtschaft.fh-dortmund.de
-NOERROR	n108.informatik.fh-dortmund.de
-NOERROR	git.fb1.fh-dortmund.de
-NOERROR	vmservice-esxi-ef1.fh-dortmund.de
-NOERROR	vdi-verw.fh-dortmund.de
-NOERROR	pc26.telcom.fh-dortmund.de
-NOERROR	datasync1.fh-dortmund.de
-NXDOMAIN	ewww1-test.fh-dortmund.de
-NOERROR	pc7.architektur.fh-dortmund.de
-NXDOMAIN	www.energietechnik.fh-dortmund.de
-NOERROR	ts3.fh-dortmund.de
-NXDOMAIN	madom1-1.fh-dortmund.de
-NOERROR	ex04.fh-dortmund.de
-NXDOMAIN	machdevlbps.verw.fh-dortmund.de
-NXDOMAIN	ies.isweh001-w10.fh-dortmund.de
-NOERROR	n41.informatik.fh-dortmund.de
-NOERROR	mapo1.gwava1.fh-dortmund.de
-NOERROR	edna.stud.fh-dortmund.de
-NOERROR	pc58.telcom.fh-dortmund.de
-NXDOMAIN	fhdo-lan30.fh-dortmund.de
-NOERROR	pc49.telcom.fh-dortmund.de
-NOERROR	n141.informatik.fh-dortmund.de
-NOERROR	lb-dmz-1.fh-dortmund.de
-NOERROR	projekte.design.fh-dortmund.de
-NOERROR	aris-01.wirtschaft.fh-dortmund.de
-NOERROR	vdigate-01.wirtschaft.fh-dortmund.de
-NOERROR	alumnistudpo.fh-dortmund.de
-NOERROR	cms-develop.fh-dortmund.de
-NOERROR	dmsprod.fh-dortmund.de
-NOERROR	n184.informatik.fh-dortmund.de
-NOERROR	bewerbung.fb1.fh-dortmund.de
-NOERROR	hitqual.fh-dortmund.de
-NOERROR	rms-sun.ikt.fh-dortmund.de
-NOERROR	pc24.architektur.fh-dortmund.de
-NXDOMAIN	lopin@fhb.fh-dortmund.de
-NOERROR	cloud.ikt.fh-dortmund.de
-NOERROR	sv160179.wirtschaft.fh-dortmund.de
-NOERROR	pc22.telcom.fh-dortmund.de
-NOERROR	www.architektur.fh-dortmund.de
-NXDOMAIN	ins131.ef-bibl.fh-dortmund.de
-NOERROR	pc27.architektur.fh-dortmund.de
-NXDOMAIN	sprachserver.tcp-team.fh-dortmund.de
-NXDOMAIN	machtestsc.verw.fh-dortmund.de
-NOERROR	build.seelab.fh-dortmund.de
-NXDOMAIN	effh-test.fh-dortmund.de
-NOERROR	sun5.telcom.fh-dortmund.de
-NXDOMAIN	lithub.fh-dortmund.de
-NOERROR	www.fhb.fh-dortmund.de
-NOERROR	n3.informatik.fh-dortmund.de
-NOERROR	untrusted-test.fh-dortmund.de
-NOERROR	n226.informatik.fh-dortmund.de
-NOERROR	av-sensor-dmz.fh-dortmund.de
-NXDOMAIN	fhdo-lan21.fh-dortmund.de
-NOERROR	repository.seelab.fh-dortmund.de
-NOERROR	pc30.telcom.fh-dortmund.de
-NOERROR	chat.seelab.fh-dortmund.de
-NOERROR	pc170005.wirtschaft.fh-dortmund.de
-NXDOMAIN	gw-test-studdom.fh-dortmund.de
-NOERROR	www.fasta.fh-dortmund.de
-NOERROR	vmservice.fh-dortmund.de
-NOERROR	vmservice-esxi-so1.fh-dortmund.de
-NOERROR	pc29.telcom.fh-dortmund.de
-NOERROR	ffh.fh-dortmund.de
-NOERROR	gwava1.fh-dortmund.de
-NOERROR	n251.informatik.fh-dortmund.de
-NXDOMAIN	www.elektrische-energietechnik.fh-dortmund.de
-NOERROR	www.iuk.fh-dortmund.de
-NXDOMAIN	www.aut.fh-dortmund.de
-NOERROR	aris-02.ad.wirtschaft.fh-dortmund.de
-NOERROR	ln.iuk.fh-dortmund.de
-NOERROR	n123.informatik.fh-dortmund.de
-NOERROR	auth.inf.fh-dortmund.de
-NOERROR	n21.informatik.fh-dortmund.de
-NXDOMAIN	www.dibs.fh-dortmund.de
-NOERROR	lb-mdmz-1.fh-dortmund.de
-NOERROR	svn.inf.fh-dortmund.de
-NOERROR	lms3.ilias.fh-dortmund.de
-NOERROR	studwebmailer2.fh-dortmund.de
-NXDOMAIN	gw-test-madom.fh-dortmund.de
-NOERROR	qual2.fh-dortmund.de
-NOERROR	lb-dmz-1-os.fh-dortmund.de
-NOERROR	n42.informatik.fh-dortmund.de
-NXDOMAIN	hio-mig.fh-dortmund.de
-NOERROR	hp1.telcom.fh-dortmund.de
-NXDOMAIN	vdigate.ad.wirtschaft.fh-dortmund.de
-NOERROR	pad.ilias.fh-dortmund.de
-NOERROR	aris-03.wirtschaft.fh-dortmund.de
-NXDOMAIN	estaging-test.fh-dortmund.de
-NOERROR	www.inf.fh-dortmund.de
-NOERROR	www.imsl.fh-dortmund.de
-NOERROR	n53.informatik.fh-dortmund.de
-NOERROR	studia1.fh-dortmund.de
-NOERROR	vdi-hit-pool.fh-dortmund.de
-NOERROR	www.fh-dortmund.de
-NXDOMAIN	freeradius2.fh-dortmund.de
-NXDOMAIN	freeradius.dvz.fh-dortmund.de
-NOERROR	staging.www.karriere-test.fh-dortmund.de
-NOERROR	n51.informatik.fh-dortmund.de
-NXDOMAIN	ex01.ad.fh-dortmund.de
-NOERROR	cms-test.fh-dortmund.de
-NOERROR	n95.informatik.fh-dortmund.de
-NXDOMAIN	fhdo-lan20.fh-dortmund.de
-NOERROR	www.confluence.mi.fh-dortmund.de
-NXDOMAIN	app-vol-server.ad.fh-dortmund.de
-NOERROR	moodle.inf.fh-dortmund.de
-NOERROR	n242.informatik.fh-dortmund.de
-NOERROR	connect.ilias.fh-dortmund.de
-NOERROR	pc54.telcom.fh-dortmund.de
-NXDOMAIN	podcast.fh-dortmund.de
-NXDOMAIN	fhdo2.dvz.fh-dortmund.de
-NOERROR	n45.informatik.fh-dortmund.de
-NOERROR	n15.informatik.fh-dortmund.de
-NOERROR	pc57.telcom.fh-dortmund.de
-NOERROR	eignung.fb1.fh-dortmund.de
-NOERROR	n190.informatik.fh-dortmund.de
-NXDOMAIN	monitoring-2.hit.fh-dortmund.de
-NOERROR	n241.informatik.fh-dortmund.de
-NOERROR	n60.informatik.fh-dortmund.de
-NOERROR	ts1.verw.fh-dortmund.de
-NOERROR	repository1-test.fh-dortmund.de
-NOERROR	dmsfunk-test.fh-dortmund.de
-NXDOMAIN	disk1.ilias.fh-dortmund.de
-NOERROR	talk.lit.fh-dortmund.de
-NXDOMAIN	einfosite-test.fh-dortmund.de
-NXDOMAIN	staging.effh.fh-dortmund.de
-NOERROR	n31.informatik.fh-dortmund.de
-NOERROR	gw1.wirtschaft.fh-dortmund.de
-NOERROR	pr170007.wirtschaft.fh-dortmund.de
-NOERROR	n232.informatik.fh-dortmund.de
-NXDOMAIN	staging.rektorat-test.fh-dortmund.de
-NOERROR	n168.informatik.fh-dortmund.de
-NOERROR	machdevlevw.fh-dortmund.de
-NOERROR	ssh-gate.fb3.fh-dortmund.de
-NOERROR	ex.fh-dortmund.de
-NOERROR	www1-test.fh-dortmund.de
-NOERROR	res1.architektur.fh-dortmund.de
-NXDOMAIN	lizenzen.fh-dortmund.de
-NXDOMAIN	ekarriere-test.fh-dortmund.de
-NOERROR	n247.informatik.fh-dortmund.de
-NOERROR	pc15.architektur.fh-dortmund.de
-NOERROR	ns2.fh-dortmund.de
-NXDOMAIN	ins134.ef-bibl.fh-dortmund.de
-NOERROR	n32.informatik.fh-dortmund.de
-NOERROR	lsf.fh-dortmund.de
-NOERROR	cloud.fb3.fh-dortmund.de
-NXDOMAIN	ipam.hit.fh-dortmund.de
-NXDOMAIN	n136.inf.fh-dortmund.de
-NOERROR	ad0.verw.fh-dortmund.de
-NOERROR	caesun15.maschinenbau.fh-dortmund.de
-NOERROR	maia8.fh-dortmund.de
-NXDOMAIN	hio-hit.fh-dortmund.de
-NOERROR	pc150072.ad.wirtschaft.fh-dortmund.de
-NOERROR	pc77.telcom.fh-dortmund.de
-NOERROR	fhb.fh-dortmund.de
-NOERROR	nas01.wirtschaft.fh-dortmund.de
-NXDOMAIN	testwebsite.seelab.fh-dortmund.de
-NOERROR	n61.informatik.fh-dortmund.de
-NOERROR	avserver-2.fh-dortmund.de
-NOERROR	pc03.telcom.fh-dortmund.de
-NOERROR	n49.informatik.fh-dortmund.de
-NOERROR	build-server.ikt.fh-dortmund.de
-NOERROR	krusty.asta.fh-dortmund.de
-NOERROR	lb-mdmz-2-os.fh-dortmund.de
-NOERROR	n222.informatik.fh-dortmund.de
-NOERROR	n235.informatik.fh-dortmund.de
-NOERROR	pr170008.wirtschaft.fh-dortmund.de
-NOERROR	sun8.telcom.fh-dortmund.de
-NOERROR	ods.fh-dortmund.de
-NOERROR	git.mi.fh-dortmund.de
-NOERROR	pc62.telcom.fh-dortmund.de
-NXDOMAIN	machproxy1.fh-dortmund.de
-NOERROR	n90.informatik.fh-dortmund.de
-NOERROR	tan.iuk.fh-dortmund.de
-NOERROR	ex09.fh-dortmund.de
-NOERROR	pc10.architektur.fh-dortmund.de
-NXDOMAIN	webmail-test.fh-dortmund.de
-NOERROR	hp12.telcom.fh-dortmund.de
-NOERROR	untrusted-cust2.fh-dortmund.de
-NOERROR	www.queergesund.fh-dortmund.de
-NOERROR	vdi-hit.fh-dortmund.de
-NOERROR	n77.informatik.fh-dortmund.de
-NOERROR	bimcloud.fb1.fh-dortmund.de
-NXDOMAIN	www.stellen.fh-dortmund.de
-NOERROR	ds.lit.fh-dortmund.de
-NOERROR	demo.fh-dortmund.de
-NOERROR	www.ophepa.mi.fh-dortmund.de
-NOERROR	gw9.wirtschaft.fh-dortmund.de
-NOERROR	pc59.telcom.fh-dortmund.de
-NOERROR	n182.informatik.fh-dortmund.de
-NOERROR	ldap.fh-dortmund.de
-NOERROR	narco.mi.fh-dortmund.de
-NOERROR	www.pimes.fh-dortmund.de
-NOERROR	pc05.telcom.fh-dortmund.de
-NOERROR	pc66.telcom.fh-dortmund.de
-NOERROR	ntserv.architektur.fh-dortmund.de
-NXDOMAIN	fb4radius01.inf.fh-dortmund.de
-NOERROR	sun6.telcom.fh-dortmund.de
-NOERROR	studia3.fh-dortmund.de
-NOERROR	maia1.fh-dortmund.de
-NOERROR	n150.informatik.fh-dortmund.de
-NOERROR	fvproxy.fh-dortmund.de
-NOERROR	repository2-test.fh-dortmund.de
-NOERROR	n175.informatik.fh-dortmund.de
-NOERROR	aris-04.wirtschaft.fh-dortmund.de
-NXDOMAIN	gw-test-master.fh-dortmund.de
-NOERROR	openbook.fh-dortmund.de
-NOERROR	pc21.telcom.fh-dortmund.de
-NOERROR	fasta.architektur.fh-dortmund.de
-NXDOMAIN	studpo6.fh-dortmund.de
-NXDOMAIN	sws01.dvz.fh-dortmund.de
-NOERROR	pc37.telcom.fh-dortmund.de
-NOERROR	n86.informatik.fh-dortmund.de
-NOERROR	ldap2.fh-dortmund.de
-NOERROR	portal.fh-dortmund.de
-NXDOMAIN	support@stud.fh-dortmund.de
-NOERROR	n38.informatik.fh-dortmund.de
-NXDOMAIN	sv200353.ad.wirtschaft.fh-dortmund.de
-NOERROR	n65.informatik.fh-dortmund.de
-NXDOMAIN	pem.fh-dortmund.de
-NOERROR	video.fh-dortmund.de
-NOERROR	idp-dev.fh-dortmund.de
-NOERROR	ts2.verw.fh-dortmund.de
-NOERROR	n104.informatik.fh-dortmund.de
-NOERROR	n128.informatik.fh-dortmund.de
-NOERROR	mapo4.gwava1.fh-dortmund.de
-NOERROR	studwebmailer4.fh-dortmund.de
-NOERROR	caepc1.maschinenbau.fh-dortmund.de
-NOERROR	queergesund.fh-dortmund.de
-NXDOMAIN	server.fh-dortmund.de
-NOERROR	www2.soziales.fh-dortmund.de
-NXDOMAIN	asad0071.dvz.fh-dortmund.de
-NOERROR	www1.ilias.fh-dortmund.de
-NOERROR	lb-dmz-2-os.fh-dortmund.de
-NOERROR	n81.informatik.fh-dortmund.de
-NOERROR	pc17.telcom.fh-dortmund.de
-NXDOMAIN	itlab.iuk.fh-dortmund.de
-NOERROR	rms.ecs.fh-dortmund.de
-NXDOMAIN	2.fh-dortmund.de
-NOERROR	betty.stud.fh-dortmund.de
-NOERROR	lizenzen.design.fh-dortmund.de
-NOERROR	henseler.architektur.fh-dortmund.de
-NOERROR	test.fh-dortmund.de
-NXDOMAIN	manage.ilias.fh-dortmund.de
-NXDOMAIN	machprojbps.verw.fh-dortmund.de
-NOERROR	dms.fh-dortmund.de
-NOERROR	n145.informatik.fh-dortmund.de
-NOERROR	studia2.fh-dortmund.de
-NOERROR	cloud.imsl.fh-dortmund.de
-NOERROR	infosite.fh-dortmund.de
-NXDOMAIN	appvol-02.ad.wirtschaft.fh-dortmund.de
-NOERROR	mail.architektur.fh-dortmund.de
-NOERROR	hp06.architektur.fh-dortmund.de
-NXDOMAIN	ex07.ad.fh-dortmund.de
-NOERROR	vpngate.fh-dortmund.de
-NOERROR	gitlab.seelab.fh-dortmund.de
-NOERROR	machupdtevw.fh-dortmund.de
-NOERROR	n70.informatik.fh-dortmund.de
-NOERROR	n29.informatik.fh-dortmund.de
-NOERROR	pc83.telcom.fh-dortmund.de
-NOERROR	pc44.telcom.fh-dortmund.de
-NOERROR	pc50.telcom.fh-dortmund.de
-NOERROR	staging.ffh-test.fh-dortmund.de
-NOERROR	intranet.fhb.fh-dortmund.de
-NXDOMAIN	ies.cmstest.fh-dortmund.de
-NOERROR	studwebmailer1.fh-dortmund.de
-NXDOMAIN	dokumente.fh-dortmund.de
-NOERROR	machtest.fh-dortmund.de
-NOERROR	ns1.seelab.fh-dortmund.de
-NOERROR	nat.hit1.fh-dortmund.de
-NOERROR	mailrelay.ilias.fh-dortmund.de
-NOERROR	pc72.telcom.fh-dortmund.de
-NOERROR	vdigate-02.wirtschaft.fh-dortmund.de
-NOERROR	n216.informatik.fh-dortmund.de
-NOERROR	polis.fh-dortmund.de
-NOERROR	dmsprod-test.fh-dortmund.de
-NOERROR	n198.informatik.fh-dortmund.de
-NOERROR	n218.informatik.fh-dortmund.de
-NOERROR	www.design.fh-dortmund.de
-NOERROR	pc2.architektur.fh-dortmund.de
-NOERROR	n205.informatik.fh-dortmund.de
-NOERROR	lms2.ilias.fh-dortmund.de
-NOERROR	pc5.architektur.fh-dortmund.de
-NXDOMAIN	ekarriere.fh-dortmund.de
-NOERROR	vcenter.fh-dortmund.de
-NOERROR	n220.informatik.fh-dortmund.de
-NOERROR	n121.informatik.fh-dortmund.de
-NOERROR	idm-nr-dev.fh-dortmund.de
-NOERROR	n89.informatik.fh-dortmund.de
-NOERROR	n94.informatik.fh-dortmund.de
-NOERROR	jabber.ilias.fh-dortmund.de
-NOERROR	mailin2.fh-dortmund.de
-NOERROR	repository2.fh-dortmund.de
-NOERROR	qual.fh-dortmund.de
-NOERROR	n179.informatik.fh-dortmund.de
-NXDOMAIN	fhdo-lan18.fh-dortmund.de
-NOERROR	onlinecharts.fh-dortmund.de
-NOERROR	n115.informatik.fh-dortmund.de
-NOERROR	inventory.ilias.fh-dortmund.de
-NOERROR	docochi.fh-dortmund.de
-NOERROR	pserv.architektur.fh-dortmund.de
-NOERROR	n204.informatik.fh-dortmund.de
-NXDOMAIN	es1.inf.fh-dortmund.de
-NOERROR	otrs.fh-dortmund.de
-NXDOMAIN	burns.asta.fh-dortmund.de
-NXDOMAIN	machproxy.fh-dortmund.de
-NOERROR	tkrapp.fh-dortmund.de
-NOERROR	api.ogs.seelab.fh-dortmund.de
-NOERROR	pc89.telcom.fh-dortmund.de
-NOERROR	evw.fh-dortmund.de
-NOERROR	ad-02.ad.wirtschaft.fh-dortmund.de
-NOERROR	n2.informatik.fh-dortmund.de
-NOERROR	plotter.architektur.fh-dortmund.de
-NXDOMAIN	cms.architektur.fh-dortmund.de
-NOERROR	gatekeeper.informatik.fh-dortmund.de
-NOERROR	pc40.telcom.fh-dortmund.de
-NOERROR	freeradius-dev.fh-dortmund.de
-NXDOMAIN	appvol-02.wirtschaft.fh-dortmund.de
-NXDOMAIN	vc.fh-dortmund.de
-NOERROR	n188.informatik.fh-dortmund.de
-NXDOMAIN	disk2.ilias.fh-dortmund.de
-NOERROR	idp.fh-dortmund.de
-NOERROR	n125.informatik.fh-dortmund.de
-NXDOMAIN	machprojbi.verw.fh-dortmund.de
-NOERROR	microservices.fh-dortmund.de
-NOERROR	n20.informatik.fh-dortmund.de
-NXDOMAIN	idm1-test.fh-dortmund.de
-NOERROR	n239.informatik.fh-dortmund.de
-NXDOMAIN	vdi-02.ad.wirtschaft.fh-dortmund.de
-NOERROR	web.ilias.fh-dortmund.de
-NOERROR	login-test.fh-dortmund.de
-NXDOMAIN	fhdo-lan22.fh-dortmund.de
-NOERROR	lb-dmz-2.fh-dortmund.de
-NOERROR	freeradius-2.fh-dortmund.de
-NOERROR	backup-son.fh-dortmund.de
-NOERROR	mail.fh-dortmund.de
-NOERROR	keycloak1.fh-dortmund.de
-NXDOMAIN	edema.ikt.fh-dortmund.de
-NOERROR	n146.informatik.fh-dortmund.de
-NOERROR	intranet.asta.fh-dortmund.de
-NOERROR	caesun2.maschinenbau.fh-dortmund.de
-NOERROR	concarneau.fh-dortmund.de
-NOERROR	mach.fh-dortmund.de
-NOERROR	blog.ilias.fh-dortmund.de
-NXDOMAIN	usb-so.fh-dortmund.de
-NOERROR	n229.informatik.fh-dortmund.de
-NOERROR	n55.informatik.fh-dortmund.de
-NOERROR	n98.informatik.fh-dortmund.de
-NOERROR	www-test.fh-dortmund.de
-NOERROR	pc20.telcom.fh-dortmund.de
-NXDOMAIN	ies.mauzi.fh-dortmund.de
-NOERROR	www.ilias.fh-dortmund.de
-NOERROR	meet.seelab.fh-dortmund.de
-NOERROR	n56.informatik.fh-dortmund.de
-NXDOMAIN	ies.schaloko.fh-dortmund.de
-NOERROR	n105.informatik.fh-dortmund.de
-NOERROR	n5.informatik.fh-dortmund.de
-NOERROR	pc8.architektur.fh-dortmund.de
-NXDOMAIN	machprodas1.verw.fh-dortmund.de
-NOERROR	n25.informatik.fh-dortmund.de
-NXDOMAIN	vdi.wirtschaft.fh-dortmund.de
-NOERROR	gw-mon.fh-dortmund.de
-NOERROR	owncloud-test.fh-dortmund.de
-NOERROR	staging.www-test.fh-dortmund.de
-NOERROR	cust2.fh-dortmund.de
-NOERROR	staging.www.fh-dortmund.de
-NOERROR	ispo-test.mi.fh-dortmund.de
-NXDOMAIN	machproxy2.fh-dortmund.de
-NOERROR	karriere-test.fh-dortmund.de
-NXDOMAIN	kemp02.fh-dortmund.de
-NOERROR	n207.informatik.fh-dortmund.de
-NXDOMAIN	vdi-01.wirtschaft.fh-dortmund.de
-NOERROR	n46.informatik.fh-dortmund.de
-NOERROR	n178.informatik.fh-dortmund.de
-NOERROR	n202.informatik.fh-dortmund.de
-NOERROR	mailout2.fh-dortmund.de
-NOERROR	nat1.seelab.fh-dortmund.de
-NOERROR	n196.informatik.fh-dortmund.de
-NOERROR	n16.informatik.fh-dortmund.de
-NOERROR	ns1.fh-dortmund.de
-NOERROR	n252.informatik.fh-dortmund.de
-NXDOMAIN	machprodas2.verw.fh-dortmund.de
-NOERROR	pc14.telcom.fh-dortmund.de
-NOERROR	dev.ilias.fh-dortmund.de
-NOERROR	pc31.telcom.fh-dortmund.de
-NXDOMAIN	machprojsc.verw.fh-dortmund.de
-NXDOMAIN	rekorat.fh-dortmund.de
-NXDOMAIN	storage.ilias.fh-dortmund.de
-NOERROR	sun9.telcom.fh-dortmund.de
-NOERROR	gw5.wirtschaft.fh-dortmund.de
-NOERROR	auth.seelab.fh-dortmund.de
-NOERROR	n122.informatik.fh-dortmund.de
-NOERROR	studdom1.fh-dortmund.de
-NOERROR	app-vol-server.fh-dortmund.de
-NOERROR	staging.karriere-test.fh-dortmund.de
-NOERROR	git.lit.fh-dortmund.de
-NXDOMAIN	sv160179.ad.wirtschaft.fh-dortmund.de
-NOERROR	aris-02.wirtschaft.fh-dortmund.de
-NOERROR	cos.iuk.fh-dortmund.de
-NXDOMAIN	ex12.fh-dortmund.de
-NOERROR	mapo-fb9.fh-dortmund.de
-NOERROR	test-server.ikt.fh-dortmund.de
-NOERROR	cmsdb.fh-dortmund.de
-NOERROR	pc76.telcom.fh-dortmund.de
-NOERROR	n57.informatik.fh-dortmund.de
-NOERROR	mattermost.seelab.fh-dortmund.de
-NOERROR	machevw.fh-dortmund.de
-NOERROR	bbb3.ilias.fh-dortmund.de
-NXDOMAIN	machdemoas.verw.fh-dortmund.de
-NOERROR	untrusted-hitqual.fh-dortmund.de
-NOERROR	lb-mdmz-2.fh-dortmund.de
-NOERROR	idp1.fh-dortmund.de
-NOERROR	audiolab.fh-dortmund.de
-NOERROR	mailout.fh-dortmund.de
-NOERROR	repository1.fh-dortmund.de
-NXDOMAIN	mackenzie.corlis@www.fh-dortmund.de
-NOERROR	n195.informatik.fh-dortmund.de
-NXDOMAIN	fhdo-lan19.fh-dortmund.de
-NXDOMAIN	ex12.ad.fh-dortmund.de
-NOERROR	pc52.telcom.fh-dortmund.de
-NOERROR	ikt-hpc-02.ikt.fh-dortmund.de
-NOERROR	ems.fh-dortmund.de
-NOERROR	infosite.cms-test.fh-dortmund.de
-NOERROR	fasta.fh-dortmund.de
-NOERROR	cmsdb-test.fh-dortmund.de
-NXDOMAIN	studia6.fh-dortmund.de
-NOERROR	karriere.fh-dortmund.de
-NOERROR	n113.informatik.fh-dortmund.de
-NOERROR	pc48.telcom.fh-dortmund.de
-NOERROR	n170.informatik.fh-dortmund.de
-NOERROR	mdm.fh-dortmund.de
-NOERROR	machdemo.fh-dortmund.de
-NOERROR	www.maschinenbau.fh-dortmund.de
-NXDOMAIN	avserver-3.fh-dortmund.de
-NOERROR	teams.ilias.fh-dortmund.de
-NXDOMAIN	sv150086.wirtschaft.fh-dortmund.de
-NOERROR	n118.informatik.fh-dortmund.de
-NXDOMAIN	machtestsst.fh-dortmund.de
-NXDOMAIN	machscanpc01.verw.fh-dortmund.de
-NXDOMAIN	vdi.ad.wirtschaft.fh-dortmund.de
-NXDOMAIN	usb-efs.fh-dortmund.de
-NOERROR	bookstack.seelab.fh-dortmund.de
-NOERROR	bbb1.ilias.fh-dortmund.de
-NOERROR	studpo4.fh-dortmund.de
-NOERROR	pc3.architektur.fh-dortmund.de
-NOERROR	gw10.wirtschaft.fh-dortmund.de
-NOERROR	ts1.informatik.fh-dortmund.de
-NOERROR	idm-cr-dev.fh-dortmund.de
-NOERROR	ecs.hit.fh-dortmund.de
-NOERROR	n10.informatik.fh-dortmund.de
-NOERROR	aris-03.ad.wirtschaft.fh-dortmund.de
-NOERROR	camlabor.fh-dortmund.de
-NOERROR	software.fh-dortmund.de
-NOERROR	iw.fh-dortmund.de
-NOERROR	monitoring.fh-dortmund.de
-NXDOMAIN	kemp01.fh-dortmund.de
-NOERROR	untrusted-portal.fh-dortmund.de
-NXDOMAIN	www.caq.fh-dortmund.de
-NOERROR	fvwntex.verw.fh-dortmund.de
-NOERROR	n19.informatik.fh-dortmund.de
-NOERROR	n225.informatik.fh-dortmund.de
-NOERROR	studwebmailer3.fh-dortmund.de
-NOERROR	calpub.fh-dortmund.de
-NOERROR	studiennetzwerk.fh-dortmund.de
-NOERROR	win-gw-zbv.fh-dortmund.de
-NOERROR	n18.informatik.fh-dortmund.de
-NOERROR	n219.informatik.fh-dortmund.de
-NOERROR	n152.informatik.fh-dortmund.de
-NOERROR	merkur.computersim.fh-dortmund.de
-NOERROR	pc14.architektur.fh-dortmund.de
-NOERROR	pc79.telcom.fh-dortmund.de
-NOERROR	n88.informatik.fh-dortmund.de
-NOERROR	caesun9.maschinenbau.fh-dortmund.de
-NOERROR	fb.design.fh-dortmund.de
-NXDOMAIN	ewww2-test.fh-dortmund.de
-NOERROR	n101.informatik.fh-dortmund.de
-NOERROR	vmservice-vdp.fh-dortmund.de
-NOERROR	pobib.gwava1.fh-dortmund.de
-NOERROR	fh-dortmund.de
-NOERROR	in.iuk.fh-dortmund.de
-NOERROR	sun7.telcom.fh-dortmund.de
-NOERROR	invlist.wirtschaft.fh-dortmund.de
-NOERROR	n230.informatik.fh-dortmund.de
-NOERROR	www.term.mi.fh-dortmund.de
-NOERROR	ldap1.fh-dortmund.de
-NOERROR	webmail.fh-dortmund.de
-NXDOMAIN	machprodbi.verw.fh-dortmund.de
-NOERROR	blockwoche-sun.ikt.fh-dortmund.de
-NOERROR	n80.informatik.fh-dortmund.de
-NOERROR	n78.informatik.fh-dortmund.de
-NOERROR	pc55.telcom.fh-dortmund.de
-NOERROR	n106.informatik.fh-dortmund.de
-NOERROR	imessvn.fh-dortmund.de
-NOERROR	cust.fh-dortmund.de
-NOERROR	container.seelab.fh-dortmund.de
-NOERROR	mapo3.gwava1.fh-dortmund.de
-NOERROR	analyticsdb.fh-dortmund.de
-NXDOMAIN	machtestevw.verw.fh-dortmund.de
-NOERROR	machupdt.fh-dortmund.de
-NOERROR	tmp.design.fh-dortmund.de
-NOERROR	n17.informatik.fh-dortmund.de
-NOERROR	alumnimapo.fh-dortmund.de
-NOERROR	pc12.telcom.fh-dortmund.de
-NXDOMAIN	sv200353.wirtschaft.fh-dortmund.de
-NOERROR	pc63.telcom.fh-dortmund.de
-NOERROR	remotelab.imsl.fh-dortmund.de
-NOERROR	addressbook.fh-dortmund.de
-NOERROR	pc51.telcom.fh-dortmund.de
-NOERROR	n1.informatik.fh-dortmund.de
-NXDOMAIN	ies.schaloko-lap.fh-dortmund.de
-NXDOMAIN	ex02.ad.fh-dortmund.de
-NOERROR	hpx1.architektur.fh-dortmund.de
-NOERROR	nb1.architektur.fh-dortmund.de
-NOERROR	selbstverwaltung-test.fh-dortmund.de
-NOERROR	n237.informatik.fh-dortmund.de
-NOERROR	n99.informatik.fh-dortmund.de
-NOERROR	caesun8.maschinenbau.fh-dortmund.de
-NOERROR	voip-gate.ikt.fh-dortmund.de
-NXDOMAIN	machdevlevw.verw.fh-dortmund.de
-NOERROR	n215.informatik.fh-dortmund.de
-NOERROR	n254.informatik.fh-dortmund.de
-NOERROR	hp09.architektur.fh-dortmund.de
-NOERROR	pc25.telcom.fh-dortmund.de
-NOERROR	scu02.fb3.fh-dortmund.de
-NOERROR	n129.informatik.fh-dortmund.de
-NXDOMAIN	chip2.verw.fh-dortmund.de
-NXDOMAIN	sv200352.ad.wirtschaft.fh-dortmund.de
-NOERROR	n171.informatik.fh-dortmund.de
-NOERROR	internationalisierung.fh-dortmund.de
-NOERROR	n107.informatik.fh-dortmund.de
-NOERROR	n203.informatik.fh-dortmund.de
-NOERROR	pc46.telcom.fh-dortmund.de
-NOERROR	n82.informatik.fh-dortmund.de
-NOERROR	n36.informatik.fh-dortmund.de
-NXDOMAIN	cmstest.fh-dortmund.de
-NOERROR	n167.informatik.fh-dortmund.de
-NOERROR	uic.fh-dortmund.de
-NOERROR	geschenkeschlitten.fh-dortmund.de
-NXDOMAIN	vimptest.ilias.fh-dortmund.de
-NOERROR	hvo-test.fh-dortmund.de
-NOERROR	n52.informatik.fh-dortmund.de
-NOERROR	n64.informatik.fh-dortmund.de
-NOERROR	groupware.fh-dortmund.de
-NOERROR	inventar.hit.fh-dortmund.de
-NOERROR	pc73.telcom.fh-dortmund.de
-NOERROR	short.ilias.fh-dortmund.de
-NOERROR	n111.informatik.fh-dortmund.de
-NXDOMAIN	machtestbps.verw.fh-dortmund.de
-NOERROR	classnik.architektur.fh-dortmund.de
-NOERROR	ad-prod-01.ad.wirtschaft.fh-dortmund.de
-NOERROR	lb-mdmz-1-os.fh-dortmund.de
-NOERROR	pc33.telcom.fh-dortmund.de
-NOERROR	wekan.ikt.fh-dortmund.de
-NOERROR	kilby.fb3.fh-dortmund.de
-NOERROR	av-sensor-mdmz.fh-dortmund.de
-NOERROR	computersim.fh-dortmund.de
-NOERROR	inf.fh-dortmund.de
-NOERROR	pc53.telcom.fh-dortmund.de
-NXDOMAIN	viewcomp-01.wirtschaft.fh-dortmund.de
-NOERROR	build-server-01.ikt.fh-dortmund.de
-NOERROR	aris-04.ad.wirtschaft.fh-dortmund.de
-NXDOMAIN	mapo-fb4.gwava1.fh-dortmund.de
-NOERROR	mapo2.gwava1.fh-dortmund.de
-NXDOMAIN	erp.inf.fh-dortmund.de
-NOERROR	international-affairs.fb2.fh-dortmund.de
-NOERROR	umfragen.mi.fh-dortmund.de
-NXDOMAIN	hp01.architektur.fh-dortmund.de
-NOERROR	ebiss.fh-dortmund.de
-NXDOMAIN	machprodevw.verw.fh-dortmund.de
-NOERROR	n137.informatik.fh-dortmund.de
-NOERROR	awstats.hit.fh-dortmund.de
-NOERROR	online.fh-dortmund.de
-NXDOMAIN	staging.ewww-test.fh-dortmund.de
-NXDOMAIN	ins136.ef-bibl.fh-dortmund.de
-NOERROR	n11.informatik.fh-dortmund.de
-NOERROR	www.ig.fh-dortmund.de
-NOERROR	pc06.telcom.fh-dortmund.de
-NOERROR	file.ilias.fh-dortmund.de
-NOERROR	n233.informatik.fh-dortmund.de
-NOERROR	mac.architektur.fh-dortmund.de
-NOERROR	nat.verw.fh-dortmund.de
-NOERROR	staging.ilias.fh-dortmund.de
-NOERROR	n224.informatik.fh-dortmund.de
-NOERROR	cse.fh-dortmund.de
-NOERROR	n119.informatik.fh-dortmund.de
-NOERROR	pc12.architektur.fh-dortmund.de
-NOERROR	project.ilias.fh-dortmund.de
-NXDOMAIN	machdemobps.verw.fh-dortmund.de
-NOERROR	selbstverwaltung.fh-dortmund.de
-NOERROR	nvidia.fh-dortmund.de
-NOERROR	cms.fh-dortmund.de
-NOERROR	mapo1.fh-dortmund.de
-NOERROR	proxy.fh-dortmund.de
-NOERROR	mailout3.fh-dortmund.de
-NOERROR	vimp.fh-dortmund.de
-NOERROR	n181.informatik.fh-dortmund.de
-NOERROR	n24.informatik.fh-dortmund.de
-NXDOMAIN	mapo-fb4.fh-dortmund.de
-NXDOMAIN	www6.ilias.fh-dortmund.de
-NXDOMAIN	mapo-fb1.gwava1.fh-dortmund.de
-NOERROR	n4.informatik.fh-dortmund.de
-NOERROR	lists.fh-dortmund.de
-NXDOMAIN	infosite-test.fh-dortmund.de
-NXDOMAIN	monitoring-1.hit.fh-dortmund.de
-NOERROR	staging.repository.fh-dortmund.de
-NXDOMAIN	userapp-47-test.fh-dortmund.de
-NOERROR	glump.fh-dortmund.de
-NOERROR	shop.fh-dortmund.de
-NOERROR	n92.informatik.fh-dortmund.de
-NOERROR	staging.ewww.fh-dortmund.de
-NXDOMAIN	ex03.ad.fh-dortmund.de
-NOERROR	examenis-alt.fh-dortmund.de
-NXDOMAIN	machprodsst.fh-dortmund.de
-NOERROR	gitlab-ee.seelab.fh-dortmund.de
-NXDOMAIN	freeradius2.dvz.fh-dortmund.de
-NOERROR	gms-v.fh-dortmund.de
-NOERROR	n161.informatik.fh-dortmund.de
-NOERROR	n44.informatik.fh-dortmund.de
-NOERROR	git.inf.fh-dortmund.de
-NOERROR	www.computersim.fh-dortmund.de
-NOERROR	studwebmailer.fh-dortmund.de
-NOERROR	studpo3.fh-dortmund.de
-NOERROR	hp13.telcom.fh-dortmund.de
-NXDOMAIN	fhdo-lan29.fh-dortmund.de
-NOERROR	bimcloud1.fb1.fh-dortmund.de
-NOERROR	erp-labs.inf.fh-dortmund.de
-NXDOMAIN	idm-fhdo-47-test.fh-dortmund.de
-NOERROR	hp10.architektur.fh-dortmund.de
-NOERROR	jhardy.iuk.fh-dortmund.de
-NOERROR	analytics.ilias.fh-dortmund.de
-NXDOMAIN	ex11.ad.fh-dortmund.de
-NOERROR	n34.informatik.fh-dortmund.de
-NOERROR	pc39.telcom.fh-dortmund.de
-NOERROR	www.polis.fh-dortmund.de
-NXDOMAIN	vload.ilias.fh-dortmund.de
-NOERROR	n172.informatik.fh-dortmund.de
-NOERROR	n127.informatik.fh-dortmund.de
-NXDOMAIN	sisistest.fh-dortmund.de
-NOERROR	idm2.fh-dortmund.de
-NXDOMAIN	machscanpc.verw.fh-dortmund.de
-NOERROR	adabat.telcom.fh-dortmund.de
-NOERROR	cmsdbslave.fh-dortmund.de
-NOERROR	evaluation.fh-dortmund.de
-NOERROR	web.fb1.fh-dortmund.de
-NOERROR	oldap.verw.fh-dortmund.de
-NOERROR	pc71.telcom.fh-dortmund.de
-NXDOMAIN	einfosite.fh-dortmund.de
-NOERROR	git.ilias.fh-dortmund.de
-NOERROR	git.fh-dortmund.de
-NOERROR	n54.informatik.fh-dortmund.de
-NOERROR	rms.seelab.fh-dortmund.de
-NOERROR	n221.informatik.fh-dortmund.de
-NOERROR	n214.informatik.fh-dortmund.de
-NOERROR	pc16.telcom.fh-dortmund.de
-NOERROR	pc75.telcom.fh-dortmund.de
-NOERROR	melab.energietechnik.fh-dortmund.de
-NOERROR	mintag.uic.fh-dortmund.de
-NOERROR	vv.design.fh-dortmund.de
-NOERROR	n177.informatik.fh-dortmund.de
-NOERROR	fvproxy2.fh-dortmund.de
-NOERROR	mailout1.fh-dortmund.de
-NOERROR	studia4.fh-dortmund.de
-NOERROR	www.karriere-test.fh-dortmund.de
-NXDOMAIN	maia5.fh-dortmund.de
-NOERROR	ds2.lit.fh-dortmund.de
-NOERROR	neplan.fb3.fh-dortmund.de
-NOERROR	n212.informatik.fh-dortmund.de
-NXDOMAIN	vdi-01.ad.wirtschaft.fh-dortmund.de
-NXDOMAIN	irc.digital.fh-dortmund.de
-NOERROR	staging.hvo.fh-dortmund.de
-NXDOMAIN	vcenter.ilias.fh-dortmund.de
-NOERROR	www.wirtschaft.fh-dortmund.de
-NOERROR	nixdorf.icas.fh-dortmund.de
-NXDOMAIN	horizon.fh-dortmund.de
-NOERROR	smartassign.inf.fh-dortmund.de
-NOERROR	n7.informatik.fh-dortmund.de
-NOERROR	mapo2.fh-dortmund.de
-NOERROR	mapo3.fh-dortmund.de
-NOERROR	madom1.gwava1.fh-dortmund.de
-NOERROR	escape.fh-dortmund.de
-NOERROR	ecms.fh-dortmund.de
-NXDOMAIN	ex04.ad.fh-dortmund.de
-NXDOMAIN	n131.informatik.fh-dortmund.de
-NOERROR	chatlogin.mi.fh-dortmund.de
-NOERROR	pc45.telcom.fh-dortmund.de
-NXDOMAIN	studdom1-1.fh-dortmund.de
-NOERROR	pc43.telcom.fh-dortmund.de
-NOERROR	svn.telcom.fh-dortmund.de
-NOERROR	www.escape.fh-dortmund.de
-NOERROR	staging-develop.fh-dortmund.de
-NOERROR	bugtracker.ikt.fh-dortmund.de
-NOERROR	pc25.architektur.fh-dortmund.de
-NOERROR	mekids.mi.fh-dortmund.de
-NOERROR	alumni.fh-dortmund.de
-NOERROR	stipendienfeier.fh-dortmund.de
-NOERROR	pc1.architektur.fh-dortmund.de
-NOERROR	ldap.seelab.fh-dortmund.de
-NOERROR	n33.informatik.fh-dortmund.de
-NXDOMAIN	voip03.ikt.fh-dortmund.de
-NXDOMAIN	machdevlas.verw.fh-dortmund.de
-NOERROR	machtestevw.fh-dortmund.de
-NOERROR	hp13.architektur.fh-dortmund.de
-NOERROR	baramundi2008r2.fh-dortmund.de
-NOERROR	n169.informatik.fh-dortmund.de
-NOERROR	im.ikt.fh-dortmund.de
-NOERROR	n130.informatik.fh-dortmund.de
-NXDOMAIN	kemp-ha.fh-dortmund.de
-NOERROR	www.angewandte-sozialwissenschaften.fh-dortmund.de
-NOERROR	hp2.telcom.fh-dortmund.de
-NOERROR	gms-fb9.fh-dortmund.de
-NXDOMAIN	staging.ekarriere-test.fh-dortmund.de
-NOERROR	n50.informatik.fh-dortmund.de
-NXDOMAIN	vdi-02.wirtschaft.fh-dortmund.de
-NOERROR	staging.hvo-test.fh-dortmund.de
-NOERROR	pc6.architektur.fh-dortmund.de
-NOERROR	n66.informatik.fh-dortmund.de
-NXDOMAIN	kms.fh-dortmund.de
-NOERROR	antares.wirtschaft.fh-dortmund.de
-NXDOMAIN	rs964e141.dvz.fh-dortmund.de
-NOERROR	idial.fh-dortmund.de
-NOERROR	pc02.telcom.fh-dortmund.de
-NXDOMAIN	sv150086.ad.wirtschaft.fh-dortmund.de
-NOERROR	retain.fh-dortmund.de
-NOERROR	jabber.fh-dortmund.de
-NOERROR	staging.repository-test.fh-dortmund.de
-NXDOMAIN	mapo-fb8.gwava1.fh-dortmund.de
-NXDOMAIN	ins135.ef-bibl.fh-dortmund.de
-NXDOMAIN	dual.fh-dortmund.de
-NXDOMAIN	ex06.ad.fh-dortmund.de
-NOERROR	vdi16.fb5.fh-dortmund.de
-NXDOMAIN	machprojevw.verw.fh-dortmund.de
-NOERROR	ids.fh-dortmund.de
-NOERROR	conf.ilias.fh-dortmund.de
-NOERROR	pc13.architektur.fh-dortmund.de
-NOERROR	eeneas.ikt.fh-dortmund.de
-NOERROR	www.sozpaed.fh-dortmund.de
-NOERROR	machdevl.fh-dortmund.de
-NXDOMAIN	masterdom1-1.fh-dortmund.de
-NXDOMAIN	eal.fb3.fh-dortmund.de
-NOERROR	www.sozialarbeit.fh-dortmund.de
-NOERROR	n100.informatik.fh-dortmund.de
-NOERROR	pc08.telcom.fh-dortmund.de
-NOERROR	vdi-connection-server.fh-dortmund.de
-NOERROR	repository-test.fh-dortmund.de
-NXDOMAIN	db-01.wirtschaft.fh-dortmund.de
-NOERROR	n211.informatik.fh-dortmund.de
-NOERROR	mail.fhb.fh-dortmund.de
-NOERROR	vimp.ilias.fh-dortmund.de
-NOERROR	pc17.architektur.fh-dortmund.de
-NOERROR	n166.informatik.fh-dortmund.de
-NOERROR	pc150055.ad.wirtschaft.fh-dortmund.de
-NOERROR	admin.pimes.fh-dortmund.de
-NOERROR	aris.wirtschaft.fh-dortmund.de
-NOERROR	n185.informatik.fh-dortmund.de
-NXDOMAIN	mail.ilias.fh-dortmund.de
-NOERROR	n47.informatik.fh-dortmund.de
-NXDOMAIN	www.uic.fh-dortmund.de
-NOERROR	n114.informatik.fh-dortmund.de
-NOERROR	studpo1.fh-dortmund.de
-NOERROR	n116.informatik.fh-dortmund.de
-NOERROR	webmail-neu.fh-dortmund.de
-NOERROR	sv170052.wirtschaft.fh-dortmund.de
-NOERROR	www.berliner.fh-dortmund.de
-NXDOMAIN	machdemoevw.verw.fh-dortmund.de
-NOERROR	n189.informatik.fh-dortmund.de
-NXDOMAIN	viewcomp-01.ad.wirtschaft.fh-dortmund.de
-NOERROR	erstsemester.fh-dortmund.de
-NOERROR	n240.informatik.fh-dortmund.de
-NOERROR	sp-dev.fh-dortmund.de
-NXDOMAIN	sv170052.ad.wirtschaft.fh-dortmund.de
-NOERROR	pc42.telcom.fh-dortmund.de
-NOERROR	n93.informatik.fh-dortmund.de
-NOERROR	ilias.fh-dortmund.de
-NOERROR	selfservice.seelab.fh-dortmund.de
-NOERROR	n79.informatik.fh-dortmund.de
-NOERROR	vmservice-esxi-so2.fh-dortmund.de
-NOERROR	genius.stud.fh-dortmund.de
-NOERROR	www.epa.fh-dortmund.de
-NOERROR	web2print.fh-dortmund.de
-NOERROR	pm.lit.fh-dortmund.de
-NOERROR	pc07.telcom.fh-dortmund.de
-NOERROR	n159.informatik.fh-dortmund.de
-NOERROR	dias.fh-dortmund.de
-NXDOMAIN	staging.fh-dortmund.de
-NOERROR	n197.informatik.fh-dortmund.de
-NOERROR	pc90.telcom.fh-dortmund.de
-NOERROR	intranet.fh-dortmund.de
-NOERROR	pr170009.wirtschaft.fh-dortmund.de
-NXDOMAIN	staging.ehvo-test.fh-dortmund.de
-NOERROR	monitoring.idial.fh-dortmund.de
-NOERROR	vdi.fb5.fh-dortmund.de
-NOERROR	idm1.fh-dortmund.de
-NXDOMAIN	machtestbi.verw.fh-dortmund.de
-NOERROR	lms1.ilias.fh-dortmund.de
-NOERROR	nextcloud.mi.fh-dortmund.de
-NOERROR	n124.informatik.fh-dortmund.de
-NXDOMAIN	ecms-test.fh-dortmund.de
-NOERROR	n201.informatik.fh-dortmund.de
-NOERROR	monitor.ilias.fh-dortmund.de
-NXDOMAIN	mailin5.fh-dortmund.de
-NXDOMAIN	appvol-01.wirtschaft.fh-dortmund.de
-NOERROR	n6.informatik.fh-dortmund.de
-NOERROR	n253.informatik.fh-dortmund.de
-NOERROR	gw6.wirtschaft.fh-dortmund.de
-NOERROR	pc01.telcom.fh-dortmund.de
-NOERROR	medialab.architektur.fh-dortmund.de
-NOERROR	pc68.telcom.fh-dortmund.de
-NOERROR	n186.informatik.fh-dortmund.de
-NOERROR	n39.informatik.fh-dortmund.de
-NOERROR	pluto.wirtschaft.fh-dortmund.de
-NXDOMAIN	login.fh-dortmund.de
-NOERROR	pc24.telcom.fh-dortmund.de
-NXDOMAIN	machscanpc02.verw.fh-dortmund.de
-NOERROR	pc26.architektur.fh-dortmund.de
-NOERROR	n62.informatik.fh-dortmund.de
-NOERROR	pc82.telcom.fh-dortmund.de
-NOERROR	www.mbms.fh-dortmund.de
-NOERROR	mi.fh-dortmund.de
-NOERROR	userapp.fh-dortmund.de
-NOERROR	gw2.wirtschaft.fh-dortmund.de
-NXDOMAIN	machprodas.verw.fh-dortmund.de
-NOERROR	n35.informatik.fh-dortmund.de
-NOERROR	erp.fh-dortmund.de
-NOERROR	avserver.fh-dortmund.de
-NXDOMAIN	vdigate-01.ad.wirtschaft.fh-dortmund.de
-NOERROR	pc41.telcom.fh-dortmund.de
-NOERROR	hpx3.architektur.fh-dortmund.de
-NOERROR	wilma.stud.fh-dortmund.de
-NOERROR	checkmk-test.fh-dortmund.de
-NOERROR	jira.mi.fh-dortmund.de
-NOERROR	n176.informatik.fh-dortmund.de
-NXDOMAIN	idm3.fh-dortmund.de
-NXDOMAIN	staging.ekarriere.fh-dortmund.de
-NOERROR	sun3.telcom.fh-dortmund.de
-NOERROR	pc16.architektur.fh-dortmund.de
-NOERROR	backup-test.fh-dortmund.de
-NXDOMAIN	staging.ehvo.fh-dortmund.de
-NOERROR	n210.informatik.fh-dortmund.de
-NOERROR	helpdesk.fh-dortmund.de
-NOERROR	n27.informatik.fh-dortmund.de
-NOERROR	jupyterhub.lit.fh-dortmund.de
-NOERROR	server.design.fh-dortmund.de
-NOERROR	hp11.telcom.fh-dortmund.de
-NOERROR	www2.ilias.fh-dortmund.de
-NOERROR	userapp-nr-dev.fh-dortmund.de
-NOERROR	n193.informatik.fh-dortmund.de
-NXDOMAIN	machprojas.verw.fh-dortmund.de
-NOERROR	n249.informatik.fh-dortmund.de
-NOERROR	n236.informatik.fh-dortmund.de
-NXDOMAIN	appvol.ad.wirtschaft.fh-dortmund.de
-NOERROR	n180.informatik.fh-dortmund.de
-NOERROR	labs.inf.fh-dortmund.de
-NXDOMAIN	gwin-loopback0.dvz.fh-dortmund.de
-NOERROR	pc15.telcom.fh-dortmund.de
-NOERROR	ssp.idial.fh-dortmund.de
-NXDOMAIN	mapo-fb1.fh-dortmund.de
-NXDOMAIN	hp5mp.maschinenbau.fh-dortmund.de
-NXDOMAIN	www.dokumente.fh-dortmund.de
-NXDOMAIN	win-gw.dvz.fh-dortmund.de
-NOERROR	svn.fh-dortmund.de
-NOERROR	n227.informatik.fh-dortmund.de
-NOERROR	miwebserver.informatik.fh-dortmund.de
-NOERROR	pc86.telcom.fh-dortmund.de
-NXDOMAIN	search.www1.fh-dortmund.de
-NOERROR	pubweb-prod-01.wirtschaft.fh-dortmund.de
-NOERROR	n28.informatik.fh-dortmund.de
-NOERROR	ex06.fh-dortmund.de
-NOERROR	n138.informatik.fh-dortmund.de
-NXDOMAIN	zoo.design.fh-dortmund.de
-NXDOMAIN	gw2014-test.fh-dortmund.de
-NOERROR	ilias.hit.fh-dortmund.de
-NOERROR	testsystem.mi.fh-dortmund.de
-NOERROR	n14.informatik.fh-dortmund.de
-NXDOMAIN	perspektivmanagement.fh-dortmund.de
-NOERROR	n245.informatik.fh-dortmund.de
-NOERROR	pc65.telcom.fh-dortmund.de
-NOERROR	fhdo1.dvz.fh-dortmund.de
-NOERROR	sun10.telcom.fh-dortmund.de
-NOERROR	drive.inf.fh-dortmund.de
-NOERROR	n160.informatik.fh-dortmund.de
-NOERROR	www.asta.fh-dortmund.de
-NXDOMAIN	mailout4.fh-dortmund.de
-NOERROR	superx.fh-dortmund.de
-NOERROR	repository.fh-dortmund.de
-NOERROR	pc04.telcom.fh-dortmund.de
-NOERROR	n191.informatik.fh-dortmund.de
-NOERROR	xdav.fh-dortmund.de
-NOERROR	n83.informatik.fh-dortmund.de
-NXDOMAIN	userapp-test.fh-dortmund.de
-NXDOMAIN	vdigate-02.ad.wirtschaft.fh-dortmund.de
-NXDOMAIN	fhdo-lan16.fh-dortmund.de
-NOERROR	cloud.fh-dortmund.de
-NOERROR	shima.fb3.fh-dortmund.de
-NOERROR	kik.informatik.fh-dortmund.de
-NOERROR	machjaab.fh-dortmund.de
-NOERROR	studpo2.fh-dortmund.de
-NOERROR	pc70.telcom.fh-dortmund.de
-NXDOMAIN	gwdva.fh-dortmund.de
-NOERROR	mailin4.fh-dortmund.de
-NOERROR	mapo-fb9.gwava1.fh-dortmund.de
-NOERROR	wiki.lit.fh-dortmund.de
-NOERROR	ad1.verw.fh-dortmund.de
-NOERROR	n110.informatik.fh-dortmund.de
-NOERROR	n157.informatik.fh-dortmund.de
-NOERROR	confluence.mi.fh-dortmund.de
-NXDOMAIN	mapo.fh-dortmund.de
-NOERROR	tux.transferstelle.fh-dortmund.de
-NXDOMAIN	db-01.ad.wirtschaft.fh-dortmund.de
-NOERROR	studia5.fh-dortmund.de
-NOERROR	n43.informatik.fh-dortmund.de
-NOERROR	pc61.telcom.fh-dortmund.de
-NOERROR	andromeda.wirtschaft.fh-dortmund.de
-NOERROR	examenis-neu.fh-dortmund.de
-NOERROR	willy.fh-dortmund.de
-NOERROR	backup-ef.fh-dortmund.de
-NOERROR	pc74.telcom.fh-dortmund.de
-NOERROR	studpo5.fh-dortmund.de
-NXDOMAIN	effh.fh-dortmund.de
-NOERROR	pc18.architektur.fh-dortmund.de
-NOERROR	autoconfig.fh-dortmund.de
-NOERROR	n103.informatik.fh-dortmund.de
-NXDOMAIN	his.ecs.fh-dortmund.de
-NXDOMAIN	ex10.ad.fh-dortmund.de
-NOERROR	maia6.fh-dortmund.de
-NXDOMAIN	pubweb-prod-01.ad.wirtschaft.fh-dortmund.de
-NOERROR	thermo-elearning.fb5.fh-dortmund.de
-NXDOMAIN	re44e141.dvz.fh-dortmund.de
-NOERROR	sisistest.fhb.fh-dortmund.de
-NOERROR	intranet2.fh-dortmund.de
-NOERROR	ftp.fh-dortmund.de
-NOERROR	n117.informatik.fh-dortmund.de
-NOERROR	n37.informatik.fh-dortmund.de
-NOERROR	www.alumni.fh-dortmund.de
-NOERROR	n228.informatik.fh-dortmund.de
-NOERROR	staging.karriere.fh-dortmund.de
-NOERROR	funken.architektur.fh-dortmund.de
-NOERROR	stream.fh-dortmund.de
-NOERROR	sles-gw-zbv.fh-dortmund.de
-NOERROR	gw3.wirtschaft.fh-dortmund.de
-NOERROR	hp08.architektur.fh-dortmund.de
-NXDOMAIN	rektorat-test.fh-dortmund.de
-NOERROR	n13.informatik.fh-dortmund.de
-NXDOMAIN	serveresl.enegietechnik.fh-dortmund.de
-NXDOMAIN	ins130.ef-bibl.fh-dortmund.de
-NOERROR	n74.informatik.fh-dortmund.de
-NXDOMAIN	rancid.hit.fh-dortmund.de
-NOERROR	quartiersnetz.seelab.fh-dortmund.de
-NOERROR	hp4.telcom.fh-dortmund.de
-NXDOMAIN	ehvo-test.fh-dortmund.de
-NXDOMAIN	cust2-untrusted.fh-dortmund.de
-NOERROR	confluence.ikt.fh-dortmund.de
-NOERROR	jupyterhub.ikt.fh-dortmund.de
-NOERROR	n174.informatik.fh-dortmund.de
-NOERROR	ffh-test.fh-dortmund.de
-NOERROR	bedrock.stud.fh-dortmund.de
-NXDOMAIN	gwin-ef.dvz.fh-dortmund.de
-NOERROR	autodiscover.fh-dortmund.de
-NOERROR	www1.fh-dortmund.de
-NOERROR	epson.architektur.fh-dortmund.de
-NXDOMAIN	ewww-test.fh-dortmund.de
-NOERROR	test.ilias.fh-dortmund.de
-NOERROR	pc56.telcom.fh-dortmund.de
-NOERROR	jetdir.architektur.fh-dortmund.de
-NOERROR	pc160194.wirtschaft.fh-dortmund.de
-NOERROR	pc11.telcom.fh-dortmund.de
-NOERROR	mapo4.fh-dortmund.de
-NOERROR	vibe.verw.fh-dortmund.de
-NXDOMAIN	ascain.dvz.fh-dortmund.de
-NXDOMAIN	so-rout.verw.fh-dortmund.de
-NXDOMAIN	fhdo-lan27.fh-dortmund.de
-NXDOMAIN	gwin-ef-loopback0.dvz.fh-dortmund.de
-NOERROR	cmsdbslave-test.fh-dortmund.de
-NOERROR	pc18.telcom.fh-dortmund.de
-NXDOMAIN	appvol.wirtschaft.fh-dortmund.de
-NOERROR	n192.informatik.fh-dortmund.de
-NOERROR	zuse.icas.fh-dortmund.de
-NOERROR	n153.informatik.fh-dortmund.de
-NOERROR	n87.informatik.fh-dortmund.de
-NOERROR	bilder.fh-dortmund.de
-NOERROR	sun1.telcom.fh-dortmund.de
-NOERROR	dias2.fh-dortmund.de
-NOERROR	n246.informatik.fh-dortmund.de
-NOERROR	imap.stud.fh-dortmund.de
-NOERROR	vmservice-esxi-ef2.fh-dortmund.de
-NXDOMAIN	fhdo-lan17.fh-dortmund.de
-NOERROR	n76.informatik.fh-dortmund.de
-NOERROR	www.microservices.fh-dortmund.de
-NXDOMAIN	bitbucket.seelab.fh-dortmund.de
-NOERROR	w3tc.telcom.fh-dortmund.de
-NOERROR	compress.seelab.fh-dortmund.de
-NOERROR	pc09.telcom.fh-dortmund.de
-NOERROR	hp3.telcom.fh-dortmund.de
-NXDOMAIN	ex11.fh-dortmund.de
-NOERROR	hp04.architektur.fh-dortmund.de
-NXDOMAIN	images.fh-dortmund.de
-NOERROR	freeradius-1.fh-dortmund.de
-NXDOMAIN	rmopbu261.dvz.fh-dortmund.de
-NOERROR	www.iw.fh-dortmund.de
-NOERROR	bbb2.ilias.fh-dortmund.de
-NOERROR	n151.informatik.fh-dortmund.de
-NOERROR	n243.informatik.fh-dortmund.de
-NOERROR	n109.informatik.fh-dortmund.de
-NOERROR	maia7.fh-dortmund.de
-NOERROR	gw4.wirtschaft.fh-dortmund.de
-NOERROR	fint.fh-dortmund.de
-NOERROR	pc38.telcom.fh-dortmund.de
-NOERROR	staging.ffh.fh-dortmund.de
-NOERROR	www.soziales.fh-dortmund.de
-NOERROR	ldap1-test.fh-dortmund.de
-NOERROR	mafue.fh-dortmund.de
-NOERROR	n120.informatik.fh-dortmund.de
-NOERROR	n238.informatik.fh-dortmund.de
-NXDOMAIN	fhdo-lan24.fh-dortmund.de
-NOERROR	seelab.fh-dortmund.de
-NXDOMAIN	vpn.fh-dortmund.de
-NXDOMAIN	es-se-labor.nachrichtentechnik.fh-dortmund.de
-NOERROR	jupiter.audiolab.fh-dortmund.de
-NOERROR	it.wirtschaft.fh-dortmund.de
-NOERROR	n217.informatik.fh-dortmund.de
-NOERROR	n208.informatik.fh-dortmund.de
-NOERROR	pr170006.wirtschaft.fh-dortmund.de
-NOERROR	n144.informatik.fh-dortmund.de
-NOERROR	ins132.ef-bibl.fh-dortmund.de
-NOERROR	n250.informatik.fh-dortmund.de
-NOERROR	chat.mi.fh-dortmund.de
-NOERROR	file-prod-01.ad.wirtschaft.fh-dortmund.de
-NOERROR	n97.informatik.fh-dortmund.de
-NOERROR	vibe.fh-dortmund.de
-NOERROR	n248.informatik.fh-dortmund.de
-NOERROR	n126.informatik.fh-dortmund.de
-NOERROR	svn.ilias.fh-dortmund.de
-NXDOMAIN	fhdo.dvz.fh-dortmund.de
-NOERROR	jetdirekt.architektur.fh-dortmund.de
-NOERROR	n12.informatik.fh-dortmund.de
-NXDOMAIN	staging.effh-test.fh-dortmund.de
-NOERROR	ex05.fh-dortmund.de
-NOERROR	mailin3.fh-dortmund.de
-NOERROR	pc0.architektur.fh-dortmund.de
-NXDOMAIN	machdemosc.verw.fh-dortmund.de
-NOERROR	avserver-1.fh-dortmund.de
-NOERROR	calsrv.fh-dortmund.de
-NOERROR	bilddatenbank.fh-dortmund.de
-NXDOMAIN	search.www2.fh-dortmund.de
-NOERROR	ecs.ilias.fh-dortmund.de
-NOERROR	pc69.telcom.fh-dortmund.de
-NOERROR	pc81.telcom.fh-dortmund.de
-NXDOMAIN	ehvo.fh-dortmund.de
-NXDOMAIN	ex09.ad.fh-dortmund.de
-NOERROR	n213.informatik.fh-dortmund.de
-NOERROR	ophepa.mi.fh-dortmund.de
-NOERROR	n48.informatik.fh-dortmund.de
-NOERROR	n231.informatik.fh-dortmund.de
-NOERROR	intranet1.fh-dortmund.de
-NOERROR	nodom.fh-dortmund.de
-NOERROR	n59.informatik.fh-dortmund.de
-NOERROR	pobib.fh-dortmund.de
-NOERROR	imap.fh-dortmund.de
-NOERROR	ex03.fh-dortmund.de
-NOERROR	n63.informatik.fh-dortmund.de
-NOERROR	my.fh-dortmund.de
-NOERROR	n8.informatik.fh-dortmund.de
-NOERROR	n206.informatik.fh-dortmund.de
-NXDOMAIN	ds9.asta.fh-dortmund.de
-NOERROR	ogs.seelab.fh-dortmund.de
-NOERROR	talk.ilias.fh-dortmund.de
-NXDOMAIN	usb.fh-dortmund.de
-NOERROR	pc9.architektur.fh-dortmund.de
-NOERROR	madom1.fh-dortmund.de
-NXDOMAIN	etest.fh-dortmund.de
-NOERROR	tsr.energietechnik.fh-dortmund.de
-NXDOMAIN	spext.inf.fh-dortmund.de
-NXDOMAIN	sv200352.wirtschaft.fh-dortmund.de
-NXDOMAIN	erepository.fh-dortmund.de
-NOERROR	pc19.telcom.fh-dortmund.de
-NOERROR	printservice.fh-dortmund.de
-NOERROR	pc32.telcom.fh-dortmund.de
-NOERROR	db.ikt.fh-dortmund.de
-NOERROR	hp05.architektur.fh-dortmund.de
-NOERROR	pc36.telcom.fh-dortmund.de
-NOERROR	www.stud.fh-dortmund.de
-NOERROR	maack002-dev.hit.fh-dortmund.de
-NOERROR	gatekeeper-ng.informatik.fh-dortmund.de
-NOERROR	v-em.fh-dortmund.de
-NOERROR	n165.informatik.fh-dortmund.de
-NXDOMAIN	ins133.ef-bibl.fh-dortmund.de
-NXDOMAIN	staging-test.fh-dortmund.de
-NOERROR	rektorat.fh-dortmund.de
-NOERROR	gw7.wirtschaft.fh-dortmund.de
-NXDOMAIN	freeradius.fh-dortmund.de
-NOERROR	idp2.fh-dortmund.de
-NOERROR	untrusted-cust.fh-dortmund.de
-NOERROR	pc27.telcom.fh-dortmund.de
-NOERROR	ex10.fh-dortmund.de
-NXDOMAIN	umfrage.architektur.fh-dortmund.de
-NOERROR	maia3.fh-dortmund.de
-NOERROR	turn.ilias.fh-dortmund.de
-NOERROR	42.inf.fh-dortmund.de
-NOERROR	vdi-pool.fh-dortmund.de
-NOERROR	fs1.verw.fh-dortmund.de
-NOERROR	hio-prod-ws02.fh-dortmund.de
-NOERROR	juretko.architektur.fh-dortmund.de
-NOERROR	ex02.fh-dortmund.de
-NOERROR	sp.inf.fh-dortmund.de
-NOERROR	hoerni.fb3.fh-dortmund.de
-NOERROR	relaunch.fh-dortmund.de
-NOERROR	n23.informatik.fh-dortmund.de
-NOERROR	www3.soziales.fh-dortmund.de
-NOERROR	ewww2.fh-dortmund.de
-NXDOMAIN	littalk.fh-dortmund.de
-NOERROR	fvproxy1.fh-dortmund.de
-NXDOMAIN	gwin-so.dvz.fh-dortmund.de
-NOERROR	vdi.fb10.fh-dortmund.de
-NOERROR	n183.informatik.fh-dortmund.de
-NOERROR	dmsfunk.fh-dortmund.de
-NOERROR	n112.informatik.fh-dortmund.de
-NXDOMAIN	fhdo-lan28.fh-dortmund.de
-NOERROR	git-01.wirtschaft.fh-dortmund.de
-NOERROR	n199.informatik.fh-dortmund.de
-NOERROR	testumgebung1.fh-dortmund.de
-NOERROR	caecfdserver.computersim.fh-dortmund.de
-NOERROR	hio-prod-ws01.fh-dortmund.de
-NOERROR	n22.informatik.fh-dortmund.de
-NXDOMAIN	irc.digital-test.fh-dortmund.de
-NOERROR	n162.informatik.fh-dortmund.de
-NOERROR	pc11.architektur.fh-dortmund.de
-NOERROR	prnsrv01.maschinenbau.fh-dortmund.de
-NOERROR	registry.seelab.fh-dortmund.de
-NOERROR	hvo.fh-dortmund.de
-NOERROR	aris-01.ad.wirtschaft.fh-dortmund.de
-NOERROR	sisis.fhb.fh-dortmund.de
-NOERROR	puls.seelab.fh-dortmund.de
-NOERROR	n187.informatik.fh-dortmund.de
-NXDOMAIN	nirwana.stud.fh-dortmund.de
-NOERROR	ewww.fh-dortmund.de
-NOERROR	examenis.fh-dortmund.de
-NOERROR	vibe-test.fh-dortmund.de
-NOERROR	machdemoevw.fh-dortmund.de
-NOERROR	pc64.telcom.fh-dortmund.de
-NOERROR	vpn.inf.fh-dortmund.de
-NOERROR	hit-mailrelay.fh-dortmund.de
-NOERROR	git.ikt.fh-dortmund.de
-NOERROR	n91.informatik.fh-dortmund.de
-NOERROR	frodo.transferstelle.fh-dortmund.de
-NXDOMAIN	monitoring-intern1.fh-dortmund.de
-NXDOMAIN	schardein-gw.dvz.fh-dortmund.de
-NOERROR	hh1.architektur.fh-dortmund.de
-NOERROR	pc10.telcom.fh-dortmund.de
-NOERROR	n163.informatik.fh-dortmund.de
-NOERROR	n9.informatik.fh-dortmund.de
-NOERROR	n244.informatik.fh-dortmund.de
-NOERROR	seb.inf.fh-dortmund.de
-NOERROR	masterdom.fh-dortmund.de
-NOERROR	wlcmop.virtual.hit.fh-dortmund.de
-NXDOMAIN	appvol-01.ad.wirtschaft.fh-dortmund.de
-NXDOMAIN	machprodsc.verw.fh-dortmund.de
-NOERROR	w3l.inf.fh-dortmund.de
-NOERROR	analytics.fh-dortmund.de
-NOERROR	pc84.telcom.fh-dortmund.de
-NOERROR	pc28.telcom.fh-dortmund.de
-NOERROR	medialab2.architektur.fh-dortmund.de
-NOERROR	n164.informatik.fh-dortmund.de
-NOERROR	gw8.wirtschaft.fh-dortmund.de
-NOERROR	kornmann.architektur.fh-dortmund.de
-NOERROR	ex08.fh-dortmund.de
-NOERROR	pc85.telcom.fh-dortmund.de
-NOERROR	mars25.verw.fh-dortmund.de
-NOERROR	pc67.telcom.fh-dortmund.de
-NOERROR	n173.informatik.fh-dortmund.de
-NOERROR	vote.ilias.fh-dortmund.de
-NXDOMAIN	mapo-fb8.fh-dortmund.de
-NOERROR	pc78.telcom.fh-dortmund.de
-NOERROR	www2-test.fh-dortmund.de
-NOERROR	dreambox1.wirtschaft.fh-dortmund.de
-NXDOMAIN	fhdo-lan26.fh-dortmund.de
-NOERROR	maia2.fh-dortmund.de
-NOERROR	n102.informatik.fh-dortmund.de
-NOERROR	stellen.fh-dortmund.de
-NOERROR	n30.informatik.fh-dortmund.de
-NXDOMAIN	machdevlbi.verw.fh-dortmund.de
+pc28.architektur.fh-dortmund.de
+userapp-cr-dev.fh-dortmund.de
+fhdo2.fh-dortmund.de
+ikt-term02.ikt.fh-dortmund.de
+pc80.telcom.fh-dortmund.de
+buchung.maschinenbau.fh-dortmund.de
+emarchiv.fh-dortmund.de
+n200.informatik.fh-dortmund.de
+ws.inf.fh-dortmund.de
+ewww1.fh-dortmund.de
+pc23.telcom.fh-dortmund.de
+ex01.fh-dortmund.de
+neplan01.fb3.fh-dortmund.de
+hpx2.architektur.fh-dortmund.de
+n223.informatik.fh-dortmund.de
+n26.informatik.fh-dortmund.de
+studwebmailer5.fh-dortmund.de
+maia4.fh-dortmund.de
+gitlab.pimes.fh-dortmund.de
+estaging.fh-dortmund.de
+n73.informatik.fh-dortmund.de
+pc4.architektur.fh-dortmund.de
+www.wiki.mi.fh-dortmund.de
+pc34.telcom.fh-dortmund.de
+hp14.architektur.fh-dortmund.de
+hp03.architektur.fh-dortmund.de
+ex07.fh-dortmund.de
+n140.informatik.fh-dortmund.de
+www2.fh-dortmund.de
+maillists.fh-dortmund.de
+www.asw.fh-dortmund.de
+pc13.telcom.fh-dortmund.de
+rmsmapo.gwava1.fh-dortmund.de
+www-develop.fh-dortmund.de
+n40.informatik.fh-dortmund.de
+hp12.architektur.fh-dortmund.de
+services.asta.fh-dortmund.de
+masterdom.gwava1.fh-dortmund.de
+n234.informatik.fh-dortmund.de
+search.www.fh-dortmund.de
+n58.informatik.fh-dortmund.de
+pc35.telcom.fh-dortmund.de
+pc47.telcom.fh-dortmund.de
+bachelorarbeit-7101137.wirtschaft.fh-dortmund.de
+nas.imsl.fh-dortmund.de
+n194.informatik.fh-dortmund.de
+ods2.fh-dortmund.de
+sun2.telcom.fh-dortmund.de
+hp07.architektur.fh-dortmund.de
+vdigate.wirtschaft.fh-dortmund.de
+n108.informatik.fh-dortmund.de
+git.fb1.fh-dortmund.de
+vmservice-esxi-ef1.fh-dortmund.de
+vdi-verw.fh-dortmund.de
+pc26.telcom.fh-dortmund.de
+datasync1.fh-dortmund.de
+pc7.architektur.fh-dortmund.de
+ts3.fh-dortmund.de
+ex04.fh-dortmund.de
+n41.informatik.fh-dortmund.de
+mapo1.gwava1.fh-dortmund.de
+edna.stud.fh-dortmund.de
+pc58.telcom.fh-dortmund.de
+pc49.telcom.fh-dortmund.de
+n141.informatik.fh-dortmund.de
+lb-dmz-1.fh-dortmund.de
+projekte.design.fh-dortmund.de
+aris-01.wirtschaft.fh-dortmund.de
+vdigate-01.wirtschaft.fh-dortmund.de
+alumnistudpo.fh-dortmund.de
+cms-develop.fh-dortmund.de
+dmsprod.fh-dortmund.de
+n184.informatik.fh-dortmund.de
+bewerbung.fb1.fh-dortmund.de
+hitqual.fh-dortmund.de
+rms-sun.ikt.fh-dortmund.de
+pc24.architektur.fh-dortmund.de
+cloud.ikt.fh-dortmund.de
+sv160179.wirtschaft.fh-dortmund.de
+pc22.telcom.fh-dortmund.de
+www.architektur.fh-dortmund.de
+pc27.architektur.fh-dortmund.de
+build.seelab.fh-dortmund.de
+sun5.telcom.fh-dortmund.de
+www.fhb.fh-dortmund.de
+n3.informatik.fh-dortmund.de
+untrusted-test.fh-dortmund.de
+n226.informatik.fh-dortmund.de
+av-sensor-dmz.fh-dortmund.de
+repository.seelab.fh-dortmund.de
+pc30.telcom.fh-dortmund.de
+chat.seelab.fh-dortmund.de
+pc170005.wirtschaft.fh-dortmund.de
+www.fasta.fh-dortmund.de
+vmservice.fh-dortmund.de
+vmservice-esxi-so1.fh-dortmund.de
+pc29.telcom.fh-dortmund.de
+ffh.fh-dortmund.de
+gwava1.fh-dortmund.de
+n251.informatik.fh-dortmund.de
+www.iuk.fh-dortmund.de
+aris-02.ad.wirtschaft.fh-dortmund.de
+ln.iuk.fh-dortmund.de
+n123.informatik.fh-dortmund.de
+auth.inf.fh-dortmund.de
+n21.informatik.fh-dortmund.de
+lb-mdmz-1.fh-dortmund.de
+svn.inf.fh-dortmund.de
+lms3.ilias.fh-dortmund.de
+studwebmailer2.fh-dortmund.de
+qual2.fh-dortmund.de
+lb-dmz-1-os.fh-dortmund.de
+n42.informatik.fh-dortmund.de
+hp1.telcom.fh-dortmund.de
+pad.ilias.fh-dortmund.de
+aris-03.wirtschaft.fh-dortmund.de
+www.inf.fh-dortmund.de
+www.imsl.fh-dortmund.de
+n53.informatik.fh-dortmund.de
+studia1.fh-dortmund.de
+vdi-hit-pool.fh-dortmund.de
+www.fh-dortmund.de
+staging.www.karriere-test.fh-dortmund.de
+n51.informatik.fh-dortmund.de
+cms-test.fh-dortmund.de
+n95.informatik.fh-dortmund.de
+www.confluence.mi.fh-dortmund.de
+moodle.inf.fh-dortmund.de
+n242.informatik.fh-dortmund.de
+connect.ilias.fh-dortmund.de
+pc54.telcom.fh-dortmund.de
+n45.informatik.fh-dortmund.de
+n15.informatik.fh-dortmund.de
+pc57.telcom.fh-dortmund.de
+eignung.fb1.fh-dortmund.de
+n190.informatik.fh-dortmund.de
+n241.informatik.fh-dortmund.de
+n60.informatik.fh-dortmund.de
+ts1.verw.fh-dortmund.de
+repository1-test.fh-dortmund.de
+dmsfunk-test.fh-dortmund.de
+talk.lit.fh-dortmund.de
+n31.informatik.fh-dortmund.de
+gw1.wirtschaft.fh-dortmund.de
+pr170007.wirtschaft.fh-dortmund.de
+n232.informatik.fh-dortmund.de
+n168.informatik.fh-dortmund.de
+machdevlevw.fh-dortmund.de
+ssh-gate.fb3.fh-dortmund.de
+ex.fh-dortmund.de
+www1-test.fh-dortmund.de
+res1.architektur.fh-dortmund.de
+n247.informatik.fh-dortmund.de
+pc15.architektur.fh-dortmund.de
+ns2.fh-dortmund.de
+n32.informatik.fh-dortmund.de
+lsf.fh-dortmund.de
+cloud.fb3.fh-dortmund.de
+ad0.verw.fh-dortmund.de
+caesun15.maschinenbau.fh-dortmund.de
+maia8.fh-dortmund.de
+pc150072.ad.wirtschaft.fh-dortmund.de
+pc77.telcom.fh-dortmund.de
+fhb.fh-dortmund.de
+nas01.wirtschaft.fh-dortmund.de
+n61.informatik.fh-dortmund.de
+avserver-2.fh-dortmund.de
+pc03.telcom.fh-dortmund.de
+n49.informatik.fh-dortmund.de
+build-server.ikt.fh-dortmund.de
+krusty.asta.fh-dortmund.de
+lb-mdmz-2-os.fh-dortmund.de
+n222.informatik.fh-dortmund.de
+n235.informatik.fh-dortmund.de
+pr170008.wirtschaft.fh-dortmund.de
+sun8.telcom.fh-dortmund.de
+ods.fh-dortmund.de
+git.mi.fh-dortmund.de
+pc62.telcom.fh-dortmund.de
+n90.informatik.fh-dortmund.de
+tan.iuk.fh-dortmund.de
+ex09.fh-dortmund.de
+pc10.architektur.fh-dortmund.de
+hp12.telcom.fh-dortmund.de
+untrusted-cust2.fh-dortmund.de
+www.queergesund.fh-dortmund.de
+vdi-hit.fh-dortmund.de
+n77.informatik.fh-dortmund.de
+bimcloud.fb1.fh-dortmund.de
+ds.lit.fh-dortmund.de
+demo.fh-dortmund.de
+www.ophepa.mi.fh-dortmund.de
+gw9.wirtschaft.fh-dortmund.de
+pc59.telcom.fh-dortmund.de
+n182.informatik.fh-dortmund.de
+ldap.fh-dortmund.de
+narco.mi.fh-dortmund.de
+www.pimes.fh-dortmund.de
+pc05.telcom.fh-dortmund.de
+pc66.telcom.fh-dortmund.de
+ntserv.architektur.fh-dortmund.de
+sun6.telcom.fh-dortmund.de
+studia3.fh-dortmund.de
+maia1.fh-dortmund.de
+n150.informatik.fh-dortmund.de
+fvproxy.fh-dortmund.de
+repository2-test.fh-dortmund.de
+n175.informatik.fh-dortmund.de
+aris-04.wirtschaft.fh-dortmund.de
+openbook.fh-dortmund.de
+pc21.telcom.fh-dortmund.de
+fasta.architektur.fh-dortmund.de
+pc37.telcom.fh-dortmund.de
+n86.informatik.fh-dortmund.de
+ldap2.fh-dortmund.de
+portal.fh-dortmund.de
+n38.informatik.fh-dortmund.de
+n65.informatik.fh-dortmund.de
+video.fh-dortmund.de
+idp-dev.fh-dortmund.de
+ts2.verw.fh-dortmund.de
+n104.informatik.fh-dortmund.de
+n128.informatik.fh-dortmund.de
+mapo4.gwava1.fh-dortmund.de
+studwebmailer4.fh-dortmund.de
+caepc1.maschinenbau.fh-dortmund.de
+queergesund.fh-dortmund.de
+www2.soziales.fh-dortmund.de
+www1.ilias.fh-dortmund.de
+lb-dmz-2-os.fh-dortmund.de
+n81.informatik.fh-dortmund.de
+pc17.telcom.fh-dortmund.de
+rms.ecs.fh-dortmund.de
+betty.stud.fh-dortmund.de
+lizenzen.design.fh-dortmund.de
+henseler.architektur.fh-dortmund.de
+test.fh-dortmund.de
+dms.fh-dortmund.de
+n145.informatik.fh-dortmund.de
+studia2.fh-dortmund.de
+cloud.imsl.fh-dortmund.de
+infosite.fh-dortmund.de
+mail.architektur.fh-dortmund.de
+hp06.architektur.fh-dortmund.de
+vpngate.fh-dortmund.de
+gitlab.seelab.fh-dortmund.de
+machupdtevw.fh-dortmund.de
+n70.informatik.fh-dortmund.de
+n29.informatik.fh-dortmund.de
+pc83.telcom.fh-dortmund.de
+pc44.telcom.fh-dortmund.de
+pc50.telcom.fh-dortmund.de
+staging.ffh-test.fh-dortmund.de
+intranet.fhb.fh-dortmund.de
+studwebmailer1.fh-dortmund.de
+machtest.fh-dortmund.de
+ns1.seelab.fh-dortmund.de
+nat.hit1.fh-dortmund.de
+mailrelay.ilias.fh-dortmund.de
+pc72.telcom.fh-dortmund.de
+vdigate-02.wirtschaft.fh-dortmund.de
+n216.informatik.fh-dortmund.de
+polis.fh-dortmund.de
+dmsprod-test.fh-dortmund.de
+n198.informatik.fh-dortmund.de
+n218.informatik.fh-dortmund.de
+www.design.fh-dortmund.de
+pc2.architektur.fh-dortmund.de
+n205.informatik.fh-dortmund.de
+lms2.ilias.fh-dortmund.de
+pc5.architektur.fh-dortmund.de
+vcenter.fh-dortmund.de
+n220.informatik.fh-dortmund.de
+n121.informatik.fh-dortmund.de
+idm-nr-dev.fh-dortmund.de
+n89.informatik.fh-dortmund.de
+n94.informatik.fh-dortmund.de
+jabber.ilias.fh-dortmund.de
+mailin2.fh-dortmund.de
+repository2.fh-dortmund.de
+qual.fh-dortmund.de
+n179.informatik.fh-dortmund.de
+onlinecharts.fh-dortmund.de
+n115.informatik.fh-dortmund.de
+inventory.ilias.fh-dortmund.de
+docochi.fh-dortmund.de
+pserv.architektur.fh-dortmund.de
+n204.informatik.fh-dortmund.de
+otrs.fh-dortmund.de
+tkrapp.fh-dortmund.de
+api.ogs.seelab.fh-dortmund.de
+pc89.telcom.fh-dortmund.de
+evw.fh-dortmund.de
+ad-02.ad.wirtschaft.fh-dortmund.de
+n2.informatik.fh-dortmund.de
+plotter.architektur.fh-dortmund.de
+gatekeeper.informatik.fh-dortmund.de
+pc40.telcom.fh-dortmund.de
+freeradius-dev.fh-dortmund.de
+n188.informatik.fh-dortmund.de
+idp.fh-dortmund.de
+n125.informatik.fh-dortmund.de
+microservices.fh-dortmund.de
+n20.informatik.fh-dortmund.de
+n239.informatik.fh-dortmund.de
+web.ilias.fh-dortmund.de
+login-test.fh-dortmund.de
+lb-dmz-2.fh-dortmund.de
+freeradius-2.fh-dortmund.de
+backup-son.fh-dortmund.de
+mail.fh-dortmund.de
+keycloak1.fh-dortmund.de
+n146.informatik.fh-dortmund.de
+intranet.asta.fh-dortmund.de
+caesun2.maschinenbau.fh-dortmund.de
+concarneau.fh-dortmund.de
+mach.fh-dortmund.de
+blog.ilias.fh-dortmund.de
+n229.informatik.fh-dortmund.de
+n55.informatik.fh-dortmund.de
+n98.informatik.fh-dortmund.de
+www-test.fh-dortmund.de
+pc20.telcom.fh-dortmund.de
+www.ilias.fh-dortmund.de
+meet.seelab.fh-dortmund.de
+n56.informatik.fh-dortmund.de
+n105.informatik.fh-dortmund.de
+n5.informatik.fh-dortmund.de
+pc8.architektur.fh-dortmund.de
+n25.informatik.fh-dortmund.de
+gw-mon.fh-dortmund.de
+owncloud-test.fh-dortmund.de
+staging.www-test.fh-dortmund.de
+cust2.fh-dortmund.de
+staging.www.fh-dortmund.de
+ispo-test.mi.fh-dortmund.de
+karriere-test.fh-dortmund.de
+n207.informatik.fh-dortmund.de
+n46.informatik.fh-dortmund.de
+n178.informatik.fh-dortmund.de
+n202.informatik.fh-dortmund.de
+mailout2.fh-dortmund.de
+nat1.seelab.fh-dortmund.de
+n196.informatik.fh-dortmund.de
+n16.informatik.fh-dortmund.de
+ns1.fh-dortmund.de
+n252.informatik.fh-dortmund.de
+pc14.telcom.fh-dortmund.de
+dev.ilias.fh-dortmund.de
+pc31.telcom.fh-dortmund.de
+sun9.telcom.fh-dortmund.de
+gw5.wirtschaft.fh-dortmund.de
+auth.seelab.fh-dortmund.de
+n122.informatik.fh-dortmund.de
+studdom1.fh-dortmund.de
+app-vol-server.fh-dortmund.de
+staging.karriere-test.fh-dortmund.de
+git.lit.fh-dortmund.de
+aris-02.wirtschaft.fh-dortmund.de
+cos.iuk.fh-dortmund.de
+mapo-fb9.fh-dortmund.de
+test-server.ikt.fh-dortmund.de
+cmsdb.fh-dortmund.de
+pc76.telcom.fh-dortmund.de
+n57.informatik.fh-dortmund.de
+mattermost.seelab.fh-dortmund.de
+machevw.fh-dortmund.de
+bbb3.ilias.fh-dortmund.de
+untrusted-hitqual.fh-dortmund.de
+lb-mdmz-2.fh-dortmund.de
+idp1.fh-dortmund.de
+audiolab.fh-dortmund.de
+mailout.fh-dortmund.de
+repository1.fh-dortmund.de
+n195.informatik.fh-dortmund.de
+pc52.telcom.fh-dortmund.de
+ikt-hpc-02.ikt.fh-dortmund.de
+ems.fh-dortmund.de
+infosite.cms-test.fh-dortmund.de
+fasta.fh-dortmund.de
+cmsdb-test.fh-dortmund.de
+karriere.fh-dortmund.de
+n113.informatik.fh-dortmund.de
+pc48.telcom.fh-dortmund.de
+n170.informatik.fh-dortmund.de
+mdm.fh-dortmund.de
+machdemo.fh-dortmund.de
+www.maschinenbau.fh-dortmund.de
+teams.ilias.fh-dortmund.de
+n118.informatik.fh-dortmund.de
+bookstack.seelab.fh-dortmund.de
+bbb1.ilias.fh-dortmund.de
+studpo4.fh-dortmund.de
+pc3.architektur.fh-dortmund.de
+gw10.wirtschaft.fh-dortmund.de
+ts1.informatik.fh-dortmund.de
+idm-cr-dev.fh-dortmund.de
+ecs.hit.fh-dortmund.de
+n10.informatik.fh-dortmund.de
+aris-03.ad.wirtschaft.fh-dortmund.de
+camlabor.fh-dortmund.de
+software.fh-dortmund.de
+iw.fh-dortmund.de
+monitoring.fh-dortmund.de
+untrusted-portal.fh-dortmund.de
+fvwntex.verw.fh-dortmund.de
+n19.informatik.fh-dortmund.de
+n225.informatik.fh-dortmund.de
+studwebmailer3.fh-dortmund.de
+calpub.fh-dortmund.de
+studiennetzwerk.fh-dortmund.de
+win-gw-zbv.fh-dortmund.de
+n18.informatik.fh-dortmund.de
+n219.informatik.fh-dortmund.de
+n152.informatik.fh-dortmund.de
+merkur.computersim.fh-dortmund.de
+pc14.architektur.fh-dortmund.de
+pc79.telcom.fh-dortmund.de
+n88.informatik.fh-dortmund.de
+caesun9.maschinenbau.fh-dortmund.de
+fb.design.fh-dortmund.de
+n101.informatik.fh-dortmund.de
+vmservice-vdp.fh-dortmund.de
+pobib.gwava1.fh-dortmund.de
+fh-dortmund.de
+in.iuk.fh-dortmund.de
+sun7.telcom.fh-dortmund.de
+invlist.wirtschaft.fh-dortmund.de
+n230.informatik.fh-dortmund.de
+www.term.mi.fh-dortmund.de
+ldap1.fh-dortmund.de
+webmail.fh-dortmund.de
+blockwoche-sun.ikt.fh-dortmund.de
+n80.informatik.fh-dortmund.de
+n78.informatik.fh-dortmund.de
+pc55.telcom.fh-dortmund.de
+n106.informatik.fh-dortmund.de
+imessvn.fh-dortmund.de
+cust.fh-dortmund.de
+container.seelab.fh-dortmund.de
+mapo3.gwava1.fh-dortmund.de
+analyticsdb.fh-dortmund.de
+machupdt.fh-dortmund.de
+tmp.design.fh-dortmund.de
+n17.informatik.fh-dortmund.de
+alumnimapo.fh-dortmund.de
+pc12.telcom.fh-dortmund.de
+pc63.telcom.fh-dortmund.de
+remotelab.imsl.fh-dortmund.de
+addressbook.fh-dortmund.de
+pc51.telcom.fh-dortmund.de
+n1.informatik.fh-dortmund.de
+hpx1.architektur.fh-dortmund.de
+nb1.architektur.fh-dortmund.de
+selbstverwaltung-test.fh-dortmund.de
+n237.informatik.fh-dortmund.de
+n99.informatik.fh-dortmund.de
+caesun8.maschinenbau.fh-dortmund.de
+voip-gate.ikt.fh-dortmund.de
+n215.informatik.fh-dortmund.de
+n254.informatik.fh-dortmund.de
+hp09.architektur.fh-dortmund.de
+pc25.telcom.fh-dortmund.de
+scu02.fb3.fh-dortmund.de
+n129.informatik.fh-dortmund.de
+n171.informatik.fh-dortmund.de
+internationalisierung.fh-dortmund.de
+n107.informatik.fh-dortmund.de
+n203.informatik.fh-dortmund.de
+pc46.telcom.fh-dortmund.de
+n82.informatik.fh-dortmund.de
+n36.informatik.fh-dortmund.de
+n167.informatik.fh-dortmund.de
+uic.fh-dortmund.de
+geschenkeschlitten.fh-dortmund.de
+hvo-test.fh-dortmund.de
+n52.informatik.fh-dortmund.de
+n64.informatik.fh-dortmund.de
+groupware.fh-dortmund.de
+inventar.hit.fh-dortmund.de
+pc73.telcom.fh-dortmund.de
+short.ilias.fh-dortmund.de
+n111.informatik.fh-dortmund.de
+classnik.architektur.fh-dortmund.de
+ad-prod-01.ad.wirtschaft.fh-dortmund.de
+lb-mdmz-1-os.fh-dortmund.de
+pc33.telcom.fh-dortmund.de
+wekan.ikt.fh-dortmund.de
+kilby.fb3.fh-dortmund.de
+av-sensor-mdmz.fh-dortmund.de
+computersim.fh-dortmund.de
+inf.fh-dortmund.de
+pc53.telcom.fh-dortmund.de
+build-server-01.ikt.fh-dortmund.de
+aris-04.ad.wirtschaft.fh-dortmund.de
+mapo2.gwava1.fh-dortmund.de
+international-affairs.fb2.fh-dortmund.de
+umfragen.mi.fh-dortmund.de
+ebiss.fh-dortmund.de
+n137.informatik.fh-dortmund.de
+awstats.hit.fh-dortmund.de
+online.fh-dortmund.de
+n11.informatik.fh-dortmund.de
+www.ig.fh-dortmund.de
+pc06.telcom.fh-dortmund.de
+file.ilias.fh-dortmund.de
+n233.informatik.fh-dortmund.de
+mac.architektur.fh-dortmund.de
+nat.verw.fh-dortmund.de
+staging.ilias.fh-dortmund.de
+n224.informatik.fh-dortmund.de
+cse.fh-dortmund.de
+n119.informatik.fh-dortmund.de
+pc12.architektur.fh-dortmund.de
+project.ilias.fh-dortmund.de
+selbstverwaltung.fh-dortmund.de
+nvidia.fh-dortmund.de
+cms.fh-dortmund.de
+mapo1.fh-dortmund.de
+proxy.fh-dortmund.de
+mailout3.fh-dortmund.de
+vimp.fh-dortmund.de
+n181.informatik.fh-dortmund.de
+n24.informatik.fh-dortmund.de
+n4.informatik.fh-dortmund.de
+lists.fh-dortmund.de
+staging.repository.fh-dortmund.de
+glump.fh-dortmund.de
+shop.fh-dortmund.de
+n92.informatik.fh-dortmund.de
+staging.ewww.fh-dortmund.de
+examenis-alt.fh-dortmund.de
+gitlab-ee.seelab.fh-dortmund.de
+gms-v.fh-dortmund.de
+n161.informatik.fh-dortmund.de
+n44.informatik.fh-dortmund.de
+git.inf.fh-dortmund.de
+www.computersim.fh-dortmund.de
+studwebmailer.fh-dortmund.de
+studpo3.fh-dortmund.de
+hp13.telcom.fh-dortmund.de
+bimcloud1.fb1.fh-dortmund.de
+erp-labs.inf.fh-dortmund.de
+hp10.architektur.fh-dortmund.de
+jhardy.iuk.fh-dortmund.de
+analytics.ilias.fh-dortmund.de
+n34.informatik.fh-dortmund.de
+pc39.telcom.fh-dortmund.de
+www.polis.fh-dortmund.de
+n172.informatik.fh-dortmund.de
+n127.informatik.fh-dortmund.de
+idm2.fh-dortmund.de
+adabat.telcom.fh-dortmund.de
+cmsdbslave.fh-dortmund.de
+evaluation.fh-dortmund.de
+web.fb1.fh-dortmund.de
+oldap.verw.fh-dortmund.de
+pc71.telcom.fh-dortmund.de
+git.ilias.fh-dortmund.de
+git.fh-dortmund.de
+n54.informatik.fh-dortmund.de
+rms.seelab.fh-dortmund.de
+n221.informatik.fh-dortmund.de
+n214.informatik.fh-dortmund.de
+pc16.telcom.fh-dortmund.de
+pc75.telcom.fh-dortmund.de
+melab.energietechnik.fh-dortmund.de
+mintag.uic.fh-dortmund.de
+vv.design.fh-dortmund.de
+n177.informatik.fh-dortmund.de
+fvproxy2.fh-dortmund.de
+mailout1.fh-dortmund.de
+studia4.fh-dortmund.de
+www.karriere-test.fh-dortmund.de
+ds2.lit.fh-dortmund.de
+neplan.fb3.fh-dortmund.de
+n212.informatik.fh-dortmund.de
+staging.hvo.fh-dortmund.de
+www.wirtschaft.fh-dortmund.de
+nixdorf.icas.fh-dortmund.de
+smartassign.inf.fh-dortmund.de
+n7.informatik.fh-dortmund.de
+mapo2.fh-dortmund.de
+mapo3.fh-dortmund.de
+madom1.gwava1.fh-dortmund.de
+escape.fh-dortmund.de
+ecms.fh-dortmund.de
+chatlogin.mi.fh-dortmund.de
+pc45.telcom.fh-dortmund.de
+pc43.telcom.fh-dortmund.de
+svn.telcom.fh-dortmund.de
+www.escape.fh-dortmund.de
+staging-develop.fh-dortmund.de
+bugtracker.ikt.fh-dortmund.de
+pc25.architektur.fh-dortmund.de
+mekids.mi.fh-dortmund.de
+alumni.fh-dortmund.de
+stipendienfeier.fh-dortmund.de
+pc1.architektur.fh-dortmund.de
+ldap.seelab.fh-dortmund.de
+n33.informatik.fh-dortmund.de
+machtestevw.fh-dortmund.de
+hp13.architektur.fh-dortmund.de
+baramundi2008r2.fh-dortmund.de
+n169.informatik.fh-dortmund.de
+im.ikt.fh-dortmund.de
+n130.informatik.fh-dortmund.de
+www.angewandte-sozialwissenschaften.fh-dortmund.de
+hp2.telcom.fh-dortmund.de
+gms-fb9.fh-dortmund.de
+n50.informatik.fh-dortmund.de
+staging.hvo-test.fh-dortmund.de
+pc6.architektur.fh-dortmund.de
+n66.informatik.fh-dortmund.de
+antares.wirtschaft.fh-dortmund.de
+idial.fh-dortmund.de
+pc02.telcom.fh-dortmund.de
+retain.fh-dortmund.de
+jabber.fh-dortmund.de
+staging.repository-test.fh-dortmund.de
+vdi16.fb5.fh-dortmund.de
+ids.fh-dortmund.de
+conf.ilias.fh-dortmund.de
+pc13.architektur.fh-dortmund.de
+eeneas.ikt.fh-dortmund.de
+www.sozpaed.fh-dortmund.de
+machdevl.fh-dortmund.de
+www.sozialarbeit.fh-dortmund.de
+n100.informatik.fh-dortmund.de
+pc08.telcom.fh-dortmund.de
+vdi-connection-server.fh-dortmund.de
+repository-test.fh-dortmund.de
+n211.informatik.fh-dortmund.de
+mail.fhb.fh-dortmund.de
+vimp.ilias.fh-dortmund.de
+pc17.architektur.fh-dortmund.de
+n166.informatik.fh-dortmund.de
+pc150055.ad.wirtschaft.fh-dortmund.de
+admin.pimes.fh-dortmund.de
+aris.wirtschaft.fh-dortmund.de
+n185.informatik.fh-dortmund.de
+n47.informatik.fh-dortmund.de
+n114.informatik.fh-dortmund.de
+studpo1.fh-dortmund.de
+n116.informatik.fh-dortmund.de
+webmail-neu.fh-dortmund.de
+sv170052.wirtschaft.fh-dortmund.de
+www.berliner.fh-dortmund.de
+n189.informatik.fh-dortmund.de
+erstsemester.fh-dortmund.de
+n240.informatik.fh-dortmund.de
+sp-dev.fh-dortmund.de
+pc42.telcom.fh-dortmund.de
+n93.informatik.fh-dortmund.de
+ilias.fh-dortmund.de
+selfservice.seelab.fh-dortmund.de
+n79.informatik.fh-dortmund.de
+vmservice-esxi-so2.fh-dortmund.de
+genius.stud.fh-dortmund.de
+www.epa.fh-dortmund.de
+web2print.fh-dortmund.de
+pm.lit.fh-dortmund.de
+pc07.telcom.fh-dortmund.de
+n159.informatik.fh-dortmund.de
+dias.fh-dortmund.de
+n197.informatik.fh-dortmund.de
+pc90.telcom.fh-dortmund.de
+intranet.fh-dortmund.de
+pr170009.wirtschaft.fh-dortmund.de
+monitoring.idial.fh-dortmund.de
+vdi.fb5.fh-dortmund.de
+idm1.fh-dortmund.de
+lms1.ilias.fh-dortmund.de
+nextcloud.mi.fh-dortmund.de
+n124.informatik.fh-dortmund.de
+n201.informatik.fh-dortmund.de
+monitor.ilias.fh-dortmund.de
+n6.informatik.fh-dortmund.de
+n253.informatik.fh-dortmund.de
+gw6.wirtschaft.fh-dortmund.de
+pc01.telcom.fh-dortmund.de
+medialab.architektur.fh-dortmund.de
+pc68.telcom.fh-dortmund.de
+n186.informatik.fh-dortmund.de
+n39.informatik.fh-dortmund.de
+pluto.wirtschaft.fh-dortmund.de
+pc24.telcom.fh-dortmund.de
+pc26.architektur.fh-dortmund.de
+n62.informatik.fh-dortmund.de
+pc82.telcom.fh-dortmund.de
+www.mbms.fh-dortmund.de
+mi.fh-dortmund.de
+userapp.fh-dortmund.de
+gw2.wirtschaft.fh-dortmund.de
+n35.informatik.fh-dortmund.de
+erp.fh-dortmund.de
+avserver.fh-dortmund.de
+pc41.telcom.fh-dortmund.de
+hpx3.architektur.fh-dortmund.de
+wilma.stud.fh-dortmund.de
+checkmk-test.fh-dortmund.de
+jira.mi.fh-dortmund.de
+n176.informatik.fh-dortmund.de
+sun3.telcom.fh-dortmund.de
+pc16.architektur.fh-dortmund.de
+backup-test.fh-dortmund.de
+n210.informatik.fh-dortmund.de
+helpdesk.fh-dortmund.de
+n27.informatik.fh-dortmund.de
+jupyterhub.lit.fh-dortmund.de
+server.design.fh-dortmund.de
+hp11.telcom.fh-dortmund.de
+www2.ilias.fh-dortmund.de
+userapp-nr-dev.fh-dortmund.de
+n193.informatik.fh-dortmund.de
+n249.informatik.fh-dortmund.de
+n236.informatik.fh-dortmund.de
+n180.informatik.fh-dortmund.de
+labs.inf.fh-dortmund.de
+pc15.telcom.fh-dortmund.de
+ssp.idial.fh-dortmund.de
+svn.fh-dortmund.de
+n227.informatik.fh-dortmund.de
+miwebserver.informatik.fh-dortmund.de
+pc86.telcom.fh-dortmund.de
+pubweb-prod-01.wirtschaft.fh-dortmund.de
+n28.informatik.fh-dortmund.de
+ex06.fh-dortmund.de
+n138.informatik.fh-dortmund.de
+ilias.hit.fh-dortmund.de
+testsystem.mi.fh-dortmund.de
+n14.informatik.fh-dortmund.de
+n245.informatik.fh-dortmund.de
+pc65.telcom.fh-dortmund.de
+fhdo1.dvz.fh-dortmund.de
+sun10.telcom.fh-dortmund.de
+drive.inf.fh-dortmund.de
+n160.informatik.fh-dortmund.de
+www.asta.fh-dortmund.de
+superx.fh-dortmund.de
+repository.fh-dortmund.de
+pc04.telcom.fh-dortmund.de
+n191.informatik.fh-dortmund.de
+xdav.fh-dortmund.de
+n83.informatik.fh-dortmund.de
+cloud.fh-dortmund.de
+shima.fb3.fh-dortmund.de
+kik.informatik.fh-dortmund.de
+machjaab.fh-dortmund.de
+studpo2.fh-dortmund.de
+pc70.telcom.fh-dortmund.de
+mailin4.fh-dortmund.de
+mapo-fb9.gwava1.fh-dortmund.de
+wiki.lit.fh-dortmund.de
+ad1.verw.fh-dortmund.de
+n110.informatik.fh-dortmund.de
+n157.informatik.fh-dortmund.de
+confluence.mi.fh-dortmund.de
+tux.transferstelle.fh-dortmund.de
+studia5.fh-dortmund.de
+n43.informatik.fh-dortmund.de
+pc61.telcom.fh-dortmund.de
+andromeda.wirtschaft.fh-dortmund.de
+examenis-neu.fh-dortmund.de
+willy.fh-dortmund.de
+backup-ef.fh-dortmund.de
+pc74.telcom.fh-dortmund.de
+studpo5.fh-dortmund.de
+pc18.architektur.fh-dortmund.de
+autoconfig.fh-dortmund.de
+n103.informatik.fh-dortmund.de
+maia6.fh-dortmund.de
+thermo-elearning.fb5.fh-dortmund.de
+sisistest.fhb.fh-dortmund.de
+intranet2.fh-dortmund.de
+ftp.fh-dortmund.de
+n117.informatik.fh-dortmund.de
+n37.informatik.fh-dortmund.de
+www.alumni.fh-dortmund.de
+n228.informatik.fh-dortmund.de
+staging.karriere.fh-dortmund.de
+funken.architektur.fh-dortmund.de
+stream.fh-dortmund.de
+sles-gw-zbv.fh-dortmund.de
+gw3.wirtschaft.fh-dortmund.de
+hp08.architektur.fh-dortmund.de
+n13.informatik.fh-dortmund.de
+n74.informatik.fh-dortmund.de
+quartiersnetz.seelab.fh-dortmund.de
+hp4.telcom.fh-dortmund.de
+confluence.ikt.fh-dortmund.de
+jupyterhub.ikt.fh-dortmund.de
+n174.informatik.fh-dortmund.de
+ffh-test.fh-dortmund.de
+bedrock.stud.fh-dortmund.de
+autodiscover.fh-dortmund.de
+www1.fh-dortmund.de
+epson.architektur.fh-dortmund.de
+test.ilias.fh-dortmund.de
+pc56.telcom.fh-dortmund.de
+jetdir.architektur.fh-dortmund.de
+pc160194.wirtschaft.fh-dortmund.de
+pc11.telcom.fh-dortmund.de
+mapo4.fh-dortmund.de
+vibe.verw.fh-dortmund.de
+cmsdbslave-test.fh-dortmund.de
+pc18.telcom.fh-dortmund.de
+n192.informatik.fh-dortmund.de
+zuse.icas.fh-dortmund.de
+n153.informatik.fh-dortmund.de
+n87.informatik.fh-dortmund.de
+bilder.fh-dortmund.de
+sun1.telcom.fh-dortmund.de
+dias2.fh-dortmund.de
+n246.informatik.fh-dortmund.de
+imap.stud.fh-dortmund.de
+vmservice-esxi-ef2.fh-dortmund.de
+n76.informatik.fh-dortmund.de
+www.microservices.fh-dortmund.de
+w3tc.telcom.fh-dortmund.de
+compress.seelab.fh-dortmund.de
+pc09.telcom.fh-dortmund.de
+hp3.telcom.fh-dortmund.de
+hp04.architektur.fh-dortmund.de
+freeradius-1.fh-dortmund.de
+www.iw.fh-dortmund.de
+bbb2.ilias.fh-dortmund.de
+n151.informatik.fh-dortmund.de
+n243.informatik.fh-dortmund.de
+n109.informatik.fh-dortmund.de
+maia7.fh-dortmund.de
+gw4.wirtschaft.fh-dortmund.de
+fint.fh-dortmund.de
+pc38.telcom.fh-dortmund.de
+staging.ffh.fh-dortmund.de
+www.soziales.fh-dortmund.de
+ldap1-test.fh-dortmund.de
+mafue.fh-dortmund.de
+n120.informatik.fh-dortmund.de
+n238.informatik.fh-dortmund.de
+seelab.fh-dortmund.de
+jupiter.audiolab.fh-dortmund.de
+it.wirtschaft.fh-dortmund.de
+n217.informatik.fh-dortmund.de
+n208.informatik.fh-dortmund.de
+pr170006.wirtschaft.fh-dortmund.de
+n144.informatik.fh-dortmund.de
+ins132.ef-bibl.fh-dortmund.de
+n250.informatik.fh-dortmund.de
+chat.mi.fh-dortmund.de
+file-prod-01.ad.wirtschaft.fh-dortmund.de
+n97.informatik.fh-dortmund.de
+vibe.fh-dortmund.de
+n248.informatik.fh-dortmund.de
+n126.informatik.fh-dortmund.de
+svn.ilias.fh-dortmund.de
+jetdirekt.architektur.fh-dortmund.de
+n12.informatik.fh-dortmund.de
+ex05.fh-dortmund.de
+mailin3.fh-dortmund.de
+pc0.architektur.fh-dortmund.de
+avserver-1.fh-dortmund.de
+calsrv.fh-dortmund.de
+bilddatenbank.fh-dortmund.de
+ecs.ilias.fh-dortmund.de
+pc69.telcom.fh-dortmund.de
+pc81.telcom.fh-dortmund.de
+n213.informatik.fh-dortmund.de
+ophepa.mi.fh-dortmund.de
+n48.informatik.fh-dortmund.de
+n231.informatik.fh-dortmund.de
+intranet1.fh-dortmund.de
+nodom.fh-dortmund.de
+n59.informatik.fh-dortmund.de
+pobib.fh-dortmund.de
+imap.fh-dortmund.de
+ex03.fh-dortmund.de
+n63.informatik.fh-dortmund.de
+my.fh-dortmund.de
+n8.informatik.fh-dortmund.de
+n206.informatik.fh-dortmund.de
+ogs.seelab.fh-dortmund.de
+talk.ilias.fh-dortmund.de
+pc9.architektur.fh-dortmund.de
+madom1.fh-dortmund.de
+tsr.energietechnik.fh-dortmund.de
+pc19.telcom.fh-dortmund.de
+printservice.fh-dortmund.de
+pc32.telcom.fh-dortmund.de
+db.ikt.fh-dortmund.de
+hp05.architektur.fh-dortmund.de
+pc36.telcom.fh-dortmund.de
+www.stud.fh-dortmund.de
+maack002-dev.hit.fh-dortmund.de
+gatekeeper-ng.informatik.fh-dortmund.de
+v-em.fh-dortmund.de
+n165.informatik.fh-dortmund.de
+rektorat.fh-dortmund.de
+gw7.wirtschaft.fh-dortmund.de
+idp2.fh-dortmund.de
+untrusted-cust.fh-dortmund.de
+pc27.telcom.fh-dortmund.de
+ex10.fh-dortmund.de
+maia3.fh-dortmund.de
+turn.ilias.fh-dortmund.de
+42.inf.fh-dortmund.de
+vdi-pool.fh-dortmund.de
+fs1.verw.fh-dortmund.de
+hio-prod-ws02.fh-dortmund.de
+juretko.architektur.fh-dortmund.de
+ex02.fh-dortmund.de
+sp.inf.fh-dortmund.de
+hoerni.fb3.fh-dortmund.de
+relaunch.fh-dortmund.de
+n23.informatik.fh-dortmund.de
+www3.soziales.fh-dortmund.de
+ewww2.fh-dortmund.de
+fvproxy1.fh-dortmund.de
+vdi.fb10.fh-dortmund.de
+n183.informatik.fh-dortmund.de
+dmsfunk.fh-dortmund.de
+n112.informatik.fh-dortmund.de
+git-01.wirtschaft.fh-dortmund.de
+n199.informatik.fh-dortmund.de
+testumgebung1.fh-dortmund.de
+caecfdserver.computersim.fh-dortmund.de
+hio-prod-ws01.fh-dortmund.de
+n22.informatik.fh-dortmund.de
+n162.informatik.fh-dortmund.de
+pc11.architektur.fh-dortmund.de
+prnsrv01.maschinenbau.fh-dortmund.de
+registry.seelab.fh-dortmund.de
+hvo.fh-dortmund.de
+aris-01.ad.wirtschaft.fh-dortmund.de
+sisis.fhb.fh-dortmund.de
+puls.seelab.fh-dortmund.de
+n187.informatik.fh-dortmund.de
+ewww.fh-dortmund.de
+examenis.fh-dortmund.de
+vibe-test.fh-dortmund.de
+machdemoevw.fh-dortmund.de
+pc64.telcom.fh-dortmund.de
+vpn.inf.fh-dortmund.de
+hit-mailrelay.fh-dortmund.de
+git.ikt.fh-dortmund.de
+n91.informatik.fh-dortmund.de
+frodo.transferstelle.fh-dortmund.de
+hh1.architektur.fh-dortmund.de
+pc10.telcom.fh-dortmund.de
+n163.informatik.fh-dortmund.de
+n9.informatik.fh-dortmund.de
+n244.informatik.fh-dortmund.de
+seb.inf.fh-dortmund.de
+masterdom.fh-dortmund.de
+wlcmop.virtual.hit.fh-dortmund.de
+w3l.inf.fh-dortmund.de
+analytics.fh-dortmund.de
+pc84.telcom.fh-dortmund.de
+pc28.telcom.fh-dortmund.de
+medialab2.architektur.fh-dortmund.de
+n164.informatik.fh-dortmund.de
+gw8.wirtschaft.fh-dortmund.de
+kornmann.architektur.fh-dortmund.de
+ex08.fh-dortmund.de
+pc85.telcom.fh-dortmund.de
+mars25.verw.fh-dortmund.de
+pc67.telcom.fh-dortmund.de
+n173.informatik.fh-dortmund.de
+vote.ilias.fh-dortmund.de
+pc78.telcom.fh-dortmund.de
+www2-test.fh-dortmund.de
+dreambox1.wirtschaft.fh-dortmund.de
+maia2.fh-dortmund.de
+n102.informatik.fh-dortmund.de
+stellen.fh-dortmund.de
+n30.informatik.fh-dortmund.de

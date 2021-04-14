@@ -1,181 +1,181 @@
-NOERROR	webdisk.ico.zu.edu.ly
-NOERROR	med.zu.edu.ly
-NOERROR	www.madrasaty.zu.edu.ly
-NOERROR	www.demo.zu.edu.ly
-NOERROR	cpcalendars.esems.zu.edu.ly
-NOERROR	www.ficv2020.zu.edu.ly
-NOERROR	fimsd2021.zu.edu.ly
-NOERROR	cpcalendars.rcc.zu.edu.ly
-NOERROR	webdisk.esems.zu.edu.ly
-NOERROR	www.fimsd2021.zu.edu.ly
-NOERROR	www.res.zu.edu.ly
-NOERROR	www.esems.zu.edu.ly
-NOERROR	webdisk.scizawia.zu.edu.ly
-NOERROR	member.portal.zu.edu.ly
-NOERROR	www.sibc.zu.edu.ly
-NOERROR	hilsc.zu.edu.ly
-NOERROR	cpanel.demo.zu.edu.ly
-NOERROR	www.scizawia.zu.edu.ly
-NOERROR	mail.demo.zu.edu.ly
-NOERROR	stuportal.zu.edu.ly
-NOERROR	mail.conference.zu.edu.ly
-NOERROR	esedb.zu.edu.ly
-NOERROR	aladab.zu.edu.ly
-NOERROR	folz.zu.edu.ly
-NOERROR	cpcalendars.elc.zu.edu.ly
-NOERROR	autodiscover.conference.zu.edu.ly
-NOERROR	mahmoud.zu.edu.ly
-NOERROR	cpanel.conference.zu.edu.ly
-NOERROR	cpanel.med.zu.edu.ly
-NOERROR	webdisk.demo.zu.edu.ly
-NOERROR	mail.portal.zu.edu.ly
-NOERROR	madrasaty.zu.edu.ly
-NOERROR	www.journal-education.zu.edu.ly
-NOERROR	webdisk.conference.zu.edu.ly
-NOERROR	cpanel.portal.zu.edu.ly
-NOERROR	db.demo.zu.edu.ly
-NOERROR	rcc.zu.edu.ly
-NOERROR	www.jelt.zu.edu.ly
-NOERROR	www.portal.zu.edu.ly
-NOERROR	cpcontacts.esems.zu.edu.ly
-NOERROR	journal-economics.zu.edu.ly
-NOERROR	www.esedb.zu.edu.ly
-NOERROR	mail.ico.zu.edu.ly
-NOERROR	www.sp.demo.zu.edu.ly
-NOERROR	cpcontacts.conference.zu.edu.ly
-NOERROR	cpcontacts.ico.zu.edu.ly
-NOERROR	webmail.mededu.zu.edu.ly
-NOERROR	journal-rwaq-alhikma.zu.edu.ly
-NOERROR	www.bulletin.zu.edu.ly
-NOERROR	webmail.portal.zu.edu.ly
-NOERROR	autodiscover.scizawia.zu.edu.ly
-NOERROR	www.phep.zu.edu.ly
-NOERROR	cpanel.zu.edu.ly
-NOERROR	sp.demo.zu.edu.ly
-NOERROR	www.db.demo.zu.edu.ly
-NOERROR	autodiscover.elc.zu.edu.ly
-NOERROR	cpcontacts.portal.zu.edu.ly
-NOERROR	webdisk.zu.edu.ly
-NOERROR	www.mahmoud.zu.edu.ly
-NOERROR	bulletin.zu.edu.ly
-NOERROR	cpanel.esems.zu.edu.ly
-NOERROR	cpcalendars.scizawia.zu.edu.ly
-NOERROR	mail.scizawia.zu.edu.ly
-NOERROR	webmail.elc.zu.edu.ly
-NOERROR	www.ico.zu.edu.ly
-NOERROR	www.journal-rwaq-alhikma.zu.edu.ly
-NOERROR	mail.med.zu.edu.ly
-NOERROR	cpcontacts.med.zu.edu.ly
-NOERROR	www.foit.zu.edu.ly
-NOERROR	www.it.zu.edu.ly
-NOERROR	www.med.zu.edu.ly
-NOERROR	fimcstdb.zu.edu.ly
-NOERROR	zedu.zu.edu.ly
-NOERROR	mail.rcc.zu.edu.ly
-NOERROR	www.hilsc.zu.edu.ly
-NOERROR	result.zu.edu.ly
-NOERROR	autodiscover.zu.edu.ly
-NOERROR	msport.zu.edu.ly
-NOERROR	phep.zu.edu.ly
-NOERROR	webmail.ico.zu.edu.ly
-NOERROR	cpcontacts.mededu.zu.edu.ly
-NOERROR	cpanel.elc.zu.edu.ly
-NOERROR	www.folz.zu.edu.ly
-NOERROR	www.altarbia.zu.edu.ly
-NOERROR	zu.edu.ly
-NOERROR	cpanel.mededu.zu.edu.ly
-NOERROR	reecd.zu.edu.ly
-NOERROR	cpcontacts.rcc.zu.edu.ly
-NOERROR	cpanel.scizawia.zu.edu.ly
-NOERROR	www.mededu.zu.edu.ly
-NOERROR	www.journal-literature.zu.edu.ly
-NOERROR	ico.zu.edu.ly
-NOERROR	www.rcc.zu.edu.ly
-NOERROR	autodiscover.esems.zu.edu.ly
-NOERROR	mail.esems.zu.edu.ly
-NOERROR	test.zu.edu.ly
-NOERROR	webdisk.elc.zu.edu.ly
-NOERROR	webdisk.mededu.zu.edu.ly
-NOERROR	www.msport.zu.edu.ly
-NOERROR	gmail.zu.edu.ly
-NOERROR	webmail.esems.zu.edu.ly
-NOERROR	ns1.zu.edu.ly
-NOERROR	webmail.conference.zu.edu.ly
-NOERROR	jelt.zu.edu.ly
-NOERROR	foit.zu.edu.ly
-NOERROR	webdisk.rcc.zu.edu.ly
-NOERROR	altarbia.zu.edu.ly
-NOERROR	cpcontacts.scizawia.zu.edu.ly
-NOERROR	ns2.zu.edu.ly
-NOERROR	ese.zu.edu.ly
-NOERROR	mp.demo.zu.edu.ly
-NOERROR	www.stuportal.zu.edu.ly
-NOERROR	www.member.portal.zu.edu.ly
-NOERROR	res.zu.edu.ly
-NOERROR	webdisk.portal.zu.edu.ly
-NOERROR	webdisk.med.zu.edu.ly
-NOERROR	www.ese.zu.edu.ly
-NOERROR	www.fimcstdb.zu.edu.ly
-NOERROR	cpanel.ico.zu.edu.ly
-NOERROR	www.db.conference.zu.edu.ly
-NOERROR	autodiscover.rcc.zu.edu.ly
-NOERROR	webmail.scizawia.zu.edu.ly
-NOERROR	www.journals.zu.edu.ly
-NOERROR	scizawia.zu.edu.ly
-NOERROR	webmail.med.zu.edu.ly
-NOERROR	www.conference.zu.edu.ly
-NOERROR	iscpes.zu.edu.ly
-NOERROR	autodiscover.demo.zu.edu.ly
-NOERROR	cpanel.rcc.zu.edu.ly
-NOERROR	www.foez.zu.edu.ly
-NOERROR	www.result.zu.edu.ly
-NOERROR	elc.zu.edu.ly
-NOERROR	www.zu.edu.ly
-NOERROR	www.dspace.zu.edu.ly
-NOERROR	www.test.zu.edu.ly
-NOERROR	cpcalendars.zu.edu.ly
-NOERROR	mail.zu.edu.ly
-NOERROR	cpcalendars.med.zu.edu.ly
-NOERROR	www.fimcst.zu.edu.ly
-NOERROR	reg.zu.edu.ly
-NOERROR	dspace.zu.edu.ly
-NOERROR	journal-education.zu.edu.ly
-NOERROR	webmail.zu.edu.ly
-NOERROR	www.aladab.zu.edu.ly
-NOERROR	sibc.zu.edu.ly
-NOERROR	demo.zu.edu.ly
-NOERROR	www.journal-economics.zu.edu.ly
-NOERROR	autodiscover.ico.zu.edu.ly
-NOERROR	cpcontacts.demo.zu.edu.ly
-NOERROR	mededu.zu.edu.ly
-NOERROR	webmail.demo.zu.edu.ly
-NOERROR	mail.mededu.zu.edu.ly
-NOERROR	mail.elc.zu.edu.ly
-NOERROR	www.eduz.zu.edu.ly
-NOERROR	cpcalendars.demo.zu.edu.ly
-NOERROR	autodiscover.portal.zu.edu.ly
-NOERROR	fimcst.zu.edu.ly
-NOERROR	ficv2020.zu.edu.ly
-NOERROR	journal-literature.zu.edu.ly
-NOERROR	www.reg.zu.edu.ly
-NOERROR	db.conference.zu.edu.ly
-NOERROR	cpcontacts.zu.edu.ly
-NOERROR	journals.zu.edu.ly
-NOERROR	www.elc.zu.edu.ly
-NOERROR	www.zedu.zu.edu.ly
-NOERROR	www.iscpes.zu.edu.ly
-NOERROR	conference.zu.edu.ly
-NOERROR	it.zu.edu.ly
-NOERROR	www.mp.demo.zu.edu.ly
-NOERROR	cpcalendars.conference.zu.edu.ly
-NOERROR	autodiscover.mededu.zu.edu.ly
-NOERROR	www.reecd.zu.edu.ly
-NOERROR	cpcalendars.ico.zu.edu.ly
-NOERROR	foez.zu.edu.ly
-NOERROR	esems.zu.edu.ly
-NOERROR	cpcalendars.mededu.zu.edu.ly
-NOERROR	cpcontacts.elc.zu.edu.ly
-NOERROR	portal.zu.edu.ly
-NOERROR	webmail.rcc.zu.edu.ly
-NOERROR	eduz.zu.edu.ly
-NOERROR	cpcalendars.portal.zu.edu.ly
+webdisk.ico.zu.edu.ly
+med.zu.edu.ly
+www.madrasaty.zu.edu.ly
+www.demo.zu.edu.ly
+cpcalendars.esems.zu.edu.ly
+www.ficv2020.zu.edu.ly
+fimsd2021.zu.edu.ly
+cpcalendars.rcc.zu.edu.ly
+webdisk.esems.zu.edu.ly
+www.fimsd2021.zu.edu.ly
+www.res.zu.edu.ly
+www.esems.zu.edu.ly
+webdisk.scizawia.zu.edu.ly
+member.portal.zu.edu.ly
+www.sibc.zu.edu.ly
+hilsc.zu.edu.ly
+cpanel.demo.zu.edu.ly
+www.scizawia.zu.edu.ly
+mail.demo.zu.edu.ly
+stuportal.zu.edu.ly
+mail.conference.zu.edu.ly
+esedb.zu.edu.ly
+aladab.zu.edu.ly
+folz.zu.edu.ly
+cpcalendars.elc.zu.edu.ly
+autodiscover.conference.zu.edu.ly
+mahmoud.zu.edu.ly
+cpanel.conference.zu.edu.ly
+cpanel.med.zu.edu.ly
+webdisk.demo.zu.edu.ly
+mail.portal.zu.edu.ly
+madrasaty.zu.edu.ly
+www.journal-education.zu.edu.ly
+webdisk.conference.zu.edu.ly
+cpanel.portal.zu.edu.ly
+db.demo.zu.edu.ly
+rcc.zu.edu.ly
+www.jelt.zu.edu.ly
+www.portal.zu.edu.ly
+cpcontacts.esems.zu.edu.ly
+journal-economics.zu.edu.ly
+www.esedb.zu.edu.ly
+mail.ico.zu.edu.ly
+www.sp.demo.zu.edu.ly
+cpcontacts.conference.zu.edu.ly
+cpcontacts.ico.zu.edu.ly
+webmail.mededu.zu.edu.ly
+journal-rwaq-alhikma.zu.edu.ly
+www.bulletin.zu.edu.ly
+webmail.portal.zu.edu.ly
+autodiscover.scizawia.zu.edu.ly
+www.phep.zu.edu.ly
+cpanel.zu.edu.ly
+sp.demo.zu.edu.ly
+www.db.demo.zu.edu.ly
+autodiscover.elc.zu.edu.ly
+cpcontacts.portal.zu.edu.ly
+webdisk.zu.edu.ly
+www.mahmoud.zu.edu.ly
+bulletin.zu.edu.ly
+cpanel.esems.zu.edu.ly
+cpcalendars.scizawia.zu.edu.ly
+mail.scizawia.zu.edu.ly
+webmail.elc.zu.edu.ly
+www.ico.zu.edu.ly
+www.journal-rwaq-alhikma.zu.edu.ly
+mail.med.zu.edu.ly
+cpcontacts.med.zu.edu.ly
+www.foit.zu.edu.ly
+www.it.zu.edu.ly
+www.med.zu.edu.ly
+fimcstdb.zu.edu.ly
+zedu.zu.edu.ly
+mail.rcc.zu.edu.ly
+www.hilsc.zu.edu.ly
+result.zu.edu.ly
+autodiscover.zu.edu.ly
+msport.zu.edu.ly
+phep.zu.edu.ly
+webmail.ico.zu.edu.ly
+cpcontacts.mededu.zu.edu.ly
+cpanel.elc.zu.edu.ly
+www.folz.zu.edu.ly
+www.altarbia.zu.edu.ly
+zu.edu.ly
+cpanel.mededu.zu.edu.ly
+reecd.zu.edu.ly
+cpcontacts.rcc.zu.edu.ly
+cpanel.scizawia.zu.edu.ly
+www.mededu.zu.edu.ly
+www.journal-literature.zu.edu.ly
+ico.zu.edu.ly
+www.rcc.zu.edu.ly
+autodiscover.esems.zu.edu.ly
+mail.esems.zu.edu.ly
+test.zu.edu.ly
+webdisk.elc.zu.edu.ly
+webdisk.mededu.zu.edu.ly
+www.msport.zu.edu.ly
+gmail.zu.edu.ly
+webmail.esems.zu.edu.ly
+ns1.zu.edu.ly
+webmail.conference.zu.edu.ly
+jelt.zu.edu.ly
+foit.zu.edu.ly
+webdisk.rcc.zu.edu.ly
+altarbia.zu.edu.ly
+cpcontacts.scizawia.zu.edu.ly
+ns2.zu.edu.ly
+ese.zu.edu.ly
+mp.demo.zu.edu.ly
+www.stuportal.zu.edu.ly
+www.member.portal.zu.edu.ly
+res.zu.edu.ly
+webdisk.portal.zu.edu.ly
+webdisk.med.zu.edu.ly
+www.ese.zu.edu.ly
+www.fimcstdb.zu.edu.ly
+cpanel.ico.zu.edu.ly
+www.db.conference.zu.edu.ly
+autodiscover.rcc.zu.edu.ly
+webmail.scizawia.zu.edu.ly
+www.journals.zu.edu.ly
+scizawia.zu.edu.ly
+webmail.med.zu.edu.ly
+www.conference.zu.edu.ly
+iscpes.zu.edu.ly
+autodiscover.demo.zu.edu.ly
+cpanel.rcc.zu.edu.ly
+www.foez.zu.edu.ly
+www.result.zu.edu.ly
+elc.zu.edu.ly
+www.zu.edu.ly
+www.dspace.zu.edu.ly
+www.test.zu.edu.ly
+cpcalendars.zu.edu.ly
+mail.zu.edu.ly
+cpcalendars.med.zu.edu.ly
+www.fimcst.zu.edu.ly
+reg.zu.edu.ly
+dspace.zu.edu.ly
+journal-education.zu.edu.ly
+webmail.zu.edu.ly
+www.aladab.zu.edu.ly
+sibc.zu.edu.ly
+demo.zu.edu.ly
+www.journal-economics.zu.edu.ly
+autodiscover.ico.zu.edu.ly
+cpcontacts.demo.zu.edu.ly
+mededu.zu.edu.ly
+webmail.demo.zu.edu.ly
+mail.mededu.zu.edu.ly
+mail.elc.zu.edu.ly
+www.eduz.zu.edu.ly
+cpcalendars.demo.zu.edu.ly
+autodiscover.portal.zu.edu.ly
+fimcst.zu.edu.ly
+ficv2020.zu.edu.ly
+journal-literature.zu.edu.ly
+www.reg.zu.edu.ly
+db.conference.zu.edu.ly
+cpcontacts.zu.edu.ly
+journals.zu.edu.ly
+www.elc.zu.edu.ly
+www.zedu.zu.edu.ly
+www.iscpes.zu.edu.ly
+conference.zu.edu.ly
+it.zu.edu.ly
+www.mp.demo.zu.edu.ly
+cpcalendars.conference.zu.edu.ly
+autodiscover.mededu.zu.edu.ly
+www.reecd.zu.edu.ly
+cpcalendars.ico.zu.edu.ly
+foez.zu.edu.ly
+esems.zu.edu.ly
+cpcalendars.mededu.zu.edu.ly
+cpcontacts.elc.zu.edu.ly
+portal.zu.edu.ly
+webmail.rcc.zu.edu.ly
+eduz.zu.edu.ly
+cpcalendars.portal.zu.edu.ly

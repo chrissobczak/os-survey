@@ -1,37 +1,13 @@
-NXDOMAIN	ave_fenix.upa.cl
-NXDOMAIN	sibupla.upa.cl
-NXDOMAIN	catalogo.upa.cl
-NXDOMAIN	educacion.upa.cl
-NOERROR	ftp.upa.cl
-NXDOMAIN	alumnos.upa.cl
-NXDOMAIN	rapanui.upa.cl
-NXDOMAIN	www.arte.upa.cl
-NXDOMAIN	hangaroa.upa.cl
-NXDOMAIN	ariki.upa.cl
-NOERROR	webmail.upa.cl
-NXDOMAIN	www.ciencias.upa.cl
-NXDOMAIN	ave-fenix.upa.cl
-NXDOMAIN	seleccionados2005.upa.cl
-NOERROR	mail.upa.cl
-NXDOMAIN	xn--educacin-13a.upa.cl
-NOERROR	upa.cl
-NXDOMAIN	sqlserver.upa.cl
-NOERROR	cpanel.upa.cl
-NXDOMAIN	uplaced.upa.cl
-NOERROR	www.tumechada.upa.cl
-NOERROR	cpcalendars.upa.cl
-NXDOMAIN	creal.upa.cl
-NXDOMAIN	sistemas.upa.cl
-NOERROR	cpcontacts.upa.cl
-NXDOMAIN	pincoya.upa.cl
-NOERROR	pedidos.upa.cl
-NOERROR	tumechada.upa.cl
-NXDOMAIN	web.upa.cl
-NXDOMAIN	arte.sedes.upa.cl
-NXDOMAIN	salacia.upa.cl
-NOERROR	autodiscover.upa.cl
-NXDOMAIN	trauco.upa.cl
-NXDOMAIN	castor.upa.cl
-NOERROR	www.upa.cl
-NOERROR	webdisk.upa.cl
-NXDOMAIN	vivi.upa.cl
+ftp.upa.cl
+webmail.upa.cl
+mail.upa.cl
+upa.cl
+cpanel.upa.cl
+www.tumechada.upa.cl
+cpcalendars.upa.cl
+cpcontacts.upa.cl
+pedidos.upa.cl
+tumechada.upa.cl
+autodiscover.upa.cl
+www.upa.cl
+webdisk.upa.cl

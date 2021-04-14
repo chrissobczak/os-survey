@@ -1,63 +1,50 @@
-NOERROR	jcc.pzhu.edu.cn
-NOERROR	zfc.pzhu.edu.cn
-NOERROR	www.pzhu.edu.cn
-NOERROR	xb.pzhu.edu.cn
-SERVFAIL	vp.lib.pzhu.edu.cn
-NOERROR	szb.pzhu.edu.cn
-SERVFAIL	ssbook.lib.pzhu.edu.cn
-NOERROR	mail.pzhu.edu.cn
-NOERROR	rsc.pzhu.edu.cn
-NOERROR	jpkc.pzhu.edu.cn
-NOERROR	zzb.pzhu.edu.cn
-NXDOMAIN	sp.pzhu.edu.cn
-NOERROR	jwc.pzhu.edu.cn
-NOERROR	shx.pzhu.edu.cn
-NOERROR	kjc.pzhu.edu.cn
-NOERROR	surgery.pzhu.edu.cn
-NOERROR	xcb.pzhu.edu.cn
-NOERROR	wlxt.pzhu.edu.cn
-NOERROR	office.pzhu.edu.cn
-NXDOMAIN	teacher.pzhu.edu.cn
-NOERROR	stu.pzhu.edu.cn
-NXDOMAIN	lxx.pzhu.edu.cn
-NXDOMAIN	wyxy.pzhu.edu.cn
-NOERROR	jiw.pzhu.edu.cn
-NXDOMAIN	mail2.pzhu.edu.cn
-NOERROR	jjy.pzhu.edu.cn
-NOERROR	szjy.pzhu.edu.cn
-NOERROR	web.pzhu.edu.cn
-SERVFAIL	was.lib.pzhu.edu.cn
-NOERROR	material.pzhu.edu.cn
-NOERROR	hqc.pzhu.edu.cn
-NOERROR	tmx.pzhu.edu.cn
-NOERROR	ltc.pzhu.edu.cn
-NOERROR	metc.pzhu.edu.cn
-NOERROR	dag.pzhu.edu.cn
-NOERROR	jgx.pzhu.edu.cn
-NOERROR	drcom.pzhu.edu.cn
-NXDOMAIN	tw.pzhu.edu.cn
-NOERROR	bgs.pzhu.edu.cn
-NOERROR	yxx.pzhu.edu.cn
-NOERROR	pvtt.pzhu.edu.cn
-NOERROR	wsc.pzhu.edu.cn
-NOERROR	wgyxy.pzhu.edu.cn
-SERVFAIL	www.lib.pzhu.edu.cn
-NOERROR	siee.pzhu.edu.cn
-NOERROR	bwc.pzhu.edu.cn
-NOERROR	xsc.pzhu.edu.cn
-NOERROR	jdxy.pzhu.edu.cn
-NXDOMAIN	bbs.pzhu.edu.cn
-NOERROR	tyb.pzhu.edu.cn
-NXDOMAIN	gcjs.pzhu.edu.cn
-NOERROR	gh.pzhu.edu.cn
-NOERROR	whb.pzhu.edu.cn
-NOERROR	jsj.pzhu.edu.cn
-NOERROR	media.pzhu.edu.cn
-NOERROR	slb.pzhu.edu.cn
-NOERROR	rwxy.pzhu.edu.cn
-NOERROR	xsh.pzhu.edu.cn
-NOERROR	jjc.pzhu.edu.cn
-NOERROR	ysx.pzhu.edu.cn
-NXDOMAIN	rwx.pzhu.edu.cn
-NOERROR	gzc.pzhu.edu.cn
-NOERROR	xjx.pzhu.edu.cn
+jcc.pzhu.edu.cn
+zfc.pzhu.edu.cn
+www.pzhu.edu.cn
+xb.pzhu.edu.cn
+szb.pzhu.edu.cn
+mail.pzhu.edu.cn
+rsc.pzhu.edu.cn
+jpkc.pzhu.edu.cn
+zzb.pzhu.edu.cn
+jwc.pzhu.edu.cn
+shx.pzhu.edu.cn
+kjc.pzhu.edu.cn
+surgery.pzhu.edu.cn
+xcb.pzhu.edu.cn
+wlxt.pzhu.edu.cn
+office.pzhu.edu.cn
+stu.pzhu.edu.cn
+jiw.pzhu.edu.cn
+jjy.pzhu.edu.cn
+szjy.pzhu.edu.cn
+web.pzhu.edu.cn
+material.pzhu.edu.cn
+hqc.pzhu.edu.cn
+tmx.pzhu.edu.cn
+ltc.pzhu.edu.cn
+metc.pzhu.edu.cn
+dag.pzhu.edu.cn
+jgx.pzhu.edu.cn
+drcom.pzhu.edu.cn
+bgs.pzhu.edu.cn
+yxx.pzhu.edu.cn
+pvtt.pzhu.edu.cn
+wsc.pzhu.edu.cn
+wgyxy.pzhu.edu.cn
+siee.pzhu.edu.cn
+bwc.pzhu.edu.cn
+xsc.pzhu.edu.cn
+jdxy.pzhu.edu.cn
+tyb.pzhu.edu.cn
+gh.pzhu.edu.cn
+whb.pzhu.edu.cn
+jsj.pzhu.edu.cn
+media.pzhu.edu.cn
+slb.pzhu.edu.cn
+rwxy.pzhu.edu.cn
+xsh.pzhu.edu.cn
+jjc.pzhu.edu.cn
+ysx.pzhu.edu.cn
+gzc.pzhu.edu.cn
+xjx.pzhu.edu.cn

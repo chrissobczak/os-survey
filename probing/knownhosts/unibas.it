@@ -1,165 +1,101 @@
-NOERROR	valutazione.unibas.it
-NOERROR	www.caos.unibas.it
-NOERROR	www3.unibas.it
-NOERROR	localhost.unibas.it
-NXDOMAIN	www.difa.unibas.it
-NOERROR	www.informatica.unibas.it
-NXDOMAIN	pcbiblio.unibas.it
-NXDOMAIN	zirconium.unibas.it
-NXDOMAIN	smtp2.unibas.it
-NXDOMAIN	www.scienzedellacomunicazione.unibas.it
-NXDOMAIN	mta1.unibas.it
-NOERROR	cdlinformatica.unibas.it
-NXDOMAIN	amb.unibas.it
-NOERROR	www.international.unibas.it
-NOERROR	webstud.unibas.it
-NOERROR	gespage.unibas.it
-NOERROR	rediar-bup.unibas.it
-NXDOMAIN	mta2.unibas.it
-NXDOMAIN	www.aida.unibas.it
-NOERROR	informatica.unibas.it
-NOERROR	tirocini.unibas.it
-NXDOMAIN	www.ing.unibas.it
-NOERROR	cug.unibas.it
-NOERROR	docenti.unibas.it
-NXDOMAIN	ftp.unibas.it
-NOERROR	humanit-bup.unibas.it
-NOERROR	bup.unibas.it
-NOERROR	icpc2017.unibas.it
-NOERROR	froude.unibas.it
-NOERROR	guidastudente.unibas.it
-NOERROR	matematica.unibas.it
-NXDOMAIN	pta.unibas.it
-NOERROR	pzmath.unibas.it
-NXDOMAIN	pzcmsfarm01.unibas.it
-NXDOMAIN	www.itinera.unibas.it
-NOERROR	www.placement.unibas.it
-NOERROR	oldwww.unibas.it
-NOERROR	tau.unibas.it
-NXDOMAIN	athena.unibas.it
-NOERROR	cid.unibas.it
-NXDOMAIN	gric.unibas.it
-NXDOMAIN	pzusb.unibas.it
-NXDOMAIN	ch3ris.unibas.it
-NOERROR	scienzegeologiche.unibas.it
-NOERROR	oldwebgiss.unibas.it
-NOERROR	labgis.unibas.it
-NOERROR	lhcserver1.unibas.it
-NXDOMAIN	wmail.unibas.it
-NXDOMAIN	pitagora.unibas.it
-NXDOMAIN	store.unibas.it
-NXDOMAIN	macrosa.unibas.it
-NOERROR	internazionale.unibas.it
-NXDOMAIN	www.ubiradio.unibas.it
-NOERROR	eng-bup.unibas.it
-NOERROR	www.scienze.unibas.it
-NOERROR	caosdb.unibas.it
-NOERROR	auth.unibas.it
-NXDOMAIN	hp712.unibas.it
-NOERROR	www.db.unibas.it
-NOERROR	biblio.unibas.it
-NXDOMAIN	entomologia.unibas.it
-NXDOMAIN	prandtl.unibas.it
-NOERROR	appusb.unibas.it
-NOERROR	www2.unibas.it
-NOERROR	db.unibas.it
-NOERROR	opcla.unibas.it
-NOERROR	ingegneria.unibas.it
-NOERROR	cloud.unibas.it
-NOERROR	icarlab.unibas.it
-NXDOMAIN	nmr500.unibas.it
-NXDOMAIN	rout-ing.unibas.it
-NOERROR	scienze.unibas.it
-NXDOMAIN	mach.unibas.it
-NOERROR	dns.unibas.it
-NOERROR	portale.unibas.it
-NOERROR	latibi.unibas.it
-NXDOMAIN	www.matera.unibas.it
-NXDOMAIN	3.unibas.it
-NOERROR	idp.unibas.it
-NOERROR	dwh.unibas.it
-NOERROR	leonardo.unibas.it
-NOERROR	ciboecultura.unibas.it
-NOERROR	etnomediateca.unibas.it
-NXDOMAIN	majorana.unibas.it
-NXDOMAIN	navier.unibas.it
-NOERROR	www.casd.unibas.it
-NOERROR	biblioteca.unibas.it
-NOERROR	radius.unibas.it
-NOERROR	bibas-bup.unibas.it
-NOERROR	iris.unibas.it
-NOERROR	www.ssba.unibas.it
-NOERROR	www.walkingontheline.unibas.it
-NOERROR	www.unibas.it
-NXDOMAIN	lhcbpz.unibas.it
-NOERROR	orientamento.unibas.it
-NXDOMAIN	dec3100.cisit.unibas.it
-NOERROR	spp.unibas.it
-NXDOMAIN	elbigantar.unibas.it
-NOERROR	opendata.unibas.it
-NOERROR	economia.unibas.it
-NXDOMAIN	hp720.unibas.it
-NXDOMAIN	annassagora.unibas.it
-NXDOMAIN	senofane.unibas.it
-NOERROR	cisit.unibas.it
-NOERROR	elearning.unibas.it
-NOERROR	calcolo.unibas.it
-NOERROR	economia-usb.unibas.it
-NOERROR	www.latibi.unibas.it
-NOERROR	opac.unibas.it
-NOERROR	agraria.unibas.it
-NXDOMAIN	serverdapit.unibas.it
-NOERROR	matera5g.unibas.it
-NOERROR	graphics.unibas.it
-NOERROR	disu.unibas.it
-NOERROR	galileo.unibas.it
-NXDOMAIN	crocco.unibas.it
-NXDOMAIN	eulero.unibas.it
-NOERROR	service.unibas.it
-NXDOMAIN	usbradius.unibas.it
-NOERROR	dicem.unibas.it
-NOERROR	web.unibas.it
-NOERROR	bidivi-bup.unibas.it
-NOERROR	senatoeconsiglio.unibas.it
-NXDOMAIN	2.unibas.it
-NOERROR	dimie.unibas.it
-NXDOMAIN	euclide.unibas.it
-NXDOMAIN	usb-vmbck.unibas.it
-NXDOMAIN	lami.unibas.it
-NOERROR	www.statuto.unibas.it
-NOERROR	www.3intriskworkshop.unibas.it
-NOERROR	icar.unibas.it
-NOERROR	oas.unibas.it
-NXDOMAIN	protocollo.unibas.it
-NXDOMAIN	aii.unibas.it
-NOERROR	sage.unibas.it
-NOERROR	cla.unibas.it
-NOERROR	dottorato-disu.unibas.it
-NXDOMAIN	j200.unibas.it
-NXDOMAIN	eschilo.cisit.unibas.it
-NXDOMAIN	smtp1.unibas.it
-NXDOMAIN	www.ditec.unibas.it
-NXDOMAIN	pegaso.unibas.it
-NXDOMAIN	www.agraria.unibas.it
-NXDOMAIN	www.sislab.unibas.it
-NOERROR	studenti.unibas.it
-NXDOMAIN	www.disgg.unibas.it
-NXDOMAIN	orione.unibas.it
-NOERROR	www.matricole.unibas.it
-NOERROR	unibas.it
-NOERROR	www.u-gov.unibas.it
-NOERROR	itinera.unibas.it
-NXDOMAIN	difa.unibas.it
-NXDOMAIN	stokes.unibas.it
-NOERROR	mail.unibas.it
-NXDOMAIN	ing.unibas.it
-NOERROR	ssh.unibas.it
-NOERROR	vpn.unibas.it
-NOERROR	presenze.unibas.it
-NXDOMAIN	cisit2000.unibas.it
-NOERROR	pclhcb.unibas.it
-NOERROR	share.unibas.it
-NOERROR	freesbee.unibas.it
-NOERROR	nucleodivalutazione.unibas.it
-NXDOMAIN	disgg.unibas.it
-NXDOMAIN	blasius.unibas.it
+valutazione.unibas.it
+www.caos.unibas.it
+www3.unibas.it
+localhost.unibas.it
+www.informatica.unibas.it
+cdlinformatica.unibas.it
+www.international.unibas.it
+webstud.unibas.it
+gespage.unibas.it
+rediar-bup.unibas.it
+informatica.unibas.it
+tirocini.unibas.it
+cug.unibas.it
+docenti.unibas.it
+humanit-bup.unibas.it
+bup.unibas.it
+icpc2017.unibas.it
+froude.unibas.it
+guidastudente.unibas.it
+matematica.unibas.it
+pzmath.unibas.it
+www.placement.unibas.it
+oldwww.unibas.it
+tau.unibas.it
+cid.unibas.it
+scienzegeologiche.unibas.it
+oldwebgiss.unibas.it
+labgis.unibas.it
+lhcserver1.unibas.it
+internazionale.unibas.it
+eng-bup.unibas.it
+www.scienze.unibas.it
+caosdb.unibas.it
+auth.unibas.it
+www.db.unibas.it
+biblio.unibas.it
+appusb.unibas.it
+www2.unibas.it
+db.unibas.it
+opcla.unibas.it
+ingegneria.unibas.it
+cloud.unibas.it
+icarlab.unibas.it
+scienze.unibas.it
+dns.unibas.it
+portale.unibas.it
+latibi.unibas.it
+idp.unibas.it
+dwh.unibas.it
+leonardo.unibas.it
+ciboecultura.unibas.it
+etnomediateca.unibas.it
+www.casd.unibas.it
+biblioteca.unibas.it
+radius.unibas.it
+bibas-bup.unibas.it
+iris.unibas.it
+www.ssba.unibas.it
+www.walkingontheline.unibas.it
+www.unibas.it
+orientamento.unibas.it
+spp.unibas.it
+opendata.unibas.it
+economia.unibas.it
+cisit.unibas.it
+elearning.unibas.it
+calcolo.unibas.it
+economia-usb.unibas.it
+www.latibi.unibas.it
+opac.unibas.it
+agraria.unibas.it
+matera5g.unibas.it
+graphics.unibas.it
+disu.unibas.it
+galileo.unibas.it
+service.unibas.it
+dicem.unibas.it
+web.unibas.it
+bidivi-bup.unibas.it
+senatoeconsiglio.unibas.it
+dimie.unibas.it
+www.statuto.unibas.it
+www.3intriskworkshop.unibas.it
+icar.unibas.it
+oas.unibas.it
+sage.unibas.it
+cla.unibas.it
+dottorato-disu.unibas.it
+studenti.unibas.it
+www.matricole.unibas.it
+unibas.it
+www.u-gov.unibas.it
+itinera.unibas.it
+mail.unibas.it
+ssh.unibas.it
+vpn.unibas.it
+presenze.unibas.it
+pclhcb.unibas.it
+share.unibas.it
+freesbee.unibas.it
+nucleodivalutazione.unibas.it

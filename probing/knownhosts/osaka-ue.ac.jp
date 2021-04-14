@@ -1,75 +1,33 @@
-NXDOMAIN	www.test-kvc.osaka-ue.ac.jp
-NXDOMAIN	dcd-cps02.osaka-ue.ac.jp
-NOERROR	kvc-elr.osaka-ue.ac.jp
-NXDOMAIN	libopac.osaka-ue.ac.jp
-NOERROR	www1.sf1.osaka-ue.ac.jp
-NXDOMAIN	webdir.osaka-ue.ac.jp
-NXDOMAIN	ccmgr.osaka-ue.ac.jp
-NOERROR	ns.osaka-ue.ac.jp
-NXDOMAIN	ekeihi.osaka-ue.ac.jp
-NXDOMAIN	dcd-cps01.osaka-ue.ac.jp
-NXDOMAIN	d5m-wlc01.osaka-ue.ac.jp
-NOERROR	vpn-gw.osaka-ue.ac.jp
-NXDOMAIN	d5m-wlc02.osaka-ue.ac.jp
-NXDOMAIN	webmail.osaka-ue.ac.jp
-NOERROR	gw.osaka-ue.ac.jp
-NOERROR	webj4.osaka-ue.ac.jp
-NOERROR	ws10.osaka-ue.ac.jp
-NOERROR	pwchg.osaka-ue.ac.jp
-NXDOMAIN	ouemic.osaka-ue.ac.jp
-NXDOMAIN	kvc-hd.osaka-ue.ac.jp
-NOERROR	syllabus.osaka-ue.ac.jp
-NXDOMAIN	csap.oubis.osaka-ue.ac.jp
-NOERROR	fw1.osaka-ue.ac.jp
-NOERROR	ns2.osaka-ue.ac.jp
-NXDOMAIN	dkd-wifiweb1.osaka-ue.ac.jp
-NOERROR	kvc.osaka-ue.ac.jp
-NOERROR	ns3.osaka-ue.ac.jp
-NOERROR	test-kvc.osaka-ue.ac.jp
-NXDOMAIN	webupload.osaka-ue.ac.jp
-NXDOMAIN	viewcs3.osaka-ue.ac.jp
-NXDOMAIN	test-csap.oubis.osaka-ue.ac.jp
-NXDOMAIN	www2.osaka-ue.ac.jp
-NXDOMAIN	prtmgr.osaka-ue.ac.jp
-NXDOMAIN	www.syllabus.osaka-ue.ac.jp
-NOERROR	kaidai.osaka-ue.ac.jp
-NOERROR	webj3.osaka-ue.ac.jp
-NXDOMAIN	dcd-fw2.osaka-ue.ac.jp
-NXDOMAIN	viewcs2.osaka-ue.ac.jp
-NOERROR	webj8.osaka-ue.ac.jp
-NOERROR	webj2.osaka-ue.ac.jp
-NOERROR	www2.sf1.osaka-ue.ac.jp
-NXDOMAIN	dkd-wifiweb2.osaka-ue.ac.jp
-NOERROR	reserve.osaka-ue.ac.jp
-NXDOMAIN	idmgr.osaka-ue.ac.jp
-NOERROR	opac.osaka-ue.ac.jp
-NXDOMAIN	dcd-lb2.osaka-ue.ac.jp
-NXDOMAIN	www.kvc.osaka-ue.ac.jp
-NXDOMAIN	kvs-elr.osaka-ue.ac.jp
-NXDOMAIN	dcd-fw1.osaka-ue.ac.jp
-NOERROR	osaka-ue.ac.jp
-NXDOMAIN	www.test-csap.oubis.osaka-ue.ac.jp
-NOERROR	blog.osaka-ue.ac.jp
-NXDOMAIN	center.osaka-ue.ac.jp
-NXDOMAIN	viewcs1.osaka-ue.ac.jp
-NXDOMAIN	prtsv2.osaka-ue.ac.jp
-NOERROR	sts.osaka-ue.ac.jp
-NXDOMAIN	vpngw.osaka-ue.ac.jp
-NOERROR	media1.osaka-ue.ac.jp
-NXDOMAIN	www.csap.oubis.osaka-ue.ac.jp
-NXDOMAIN	hatenyan.osaka-ue.ac.jp
-NXDOMAIN	webj6.osaka-ue.ac.jp
-NXDOMAIN	dcd-lb1.osaka-ue.ac.jp
-NOERROR	www.osaka-ue.ac.jp
-NOERROR	wjm.osaka-ue.ac.jp
-NOERROR	webj1.osaka-ue.ac.jp
-NXDOMAIN	www6.osaka-ue.ac.jp
-NXDOMAIN	bokin.osaka-ue.ac.jp
-NXDOMAIN	www.gw.osaka-ue.ac.jp
-NXDOMAIN	prtsv1.osaka-ue.ac.jp
-NOERROR	dcd-pl01.osaka-ue.ac.jp
-NXDOMAIN	webjam.oubis.osaka-ue.ac.jp
-NOERROR	stg.osaka-ue.ac.jp
-NOERROR	csweb.osaka-ue.ac.jp
-NOERROR	idp.osaka-ue.ac.jp
-NOERROR	webjp.osaka-ue.ac.jp
+kvc-elr.osaka-ue.ac.jp
+www1.sf1.osaka-ue.ac.jp
+ns.osaka-ue.ac.jp
+vpn-gw.osaka-ue.ac.jp
+gw.osaka-ue.ac.jp
+webj4.osaka-ue.ac.jp
+ws10.osaka-ue.ac.jp
+pwchg.osaka-ue.ac.jp
+syllabus.osaka-ue.ac.jp
+fw1.osaka-ue.ac.jp
+ns2.osaka-ue.ac.jp
+kvc.osaka-ue.ac.jp
+ns3.osaka-ue.ac.jp
+test-kvc.osaka-ue.ac.jp
+kaidai.osaka-ue.ac.jp
+webj3.osaka-ue.ac.jp
+webj8.osaka-ue.ac.jp
+webj2.osaka-ue.ac.jp
+www2.sf1.osaka-ue.ac.jp
+reserve.osaka-ue.ac.jp
+opac.osaka-ue.ac.jp
+osaka-ue.ac.jp
+blog.osaka-ue.ac.jp
+sts.osaka-ue.ac.jp
+media1.osaka-ue.ac.jp
+www.osaka-ue.ac.jp
+wjm.osaka-ue.ac.jp
+webj1.osaka-ue.ac.jp
+dcd-pl01.osaka-ue.ac.jp
+stg.osaka-ue.ac.jp
+csweb.osaka-ue.ac.jp
+idp.osaka-ue.ac.jp
+webjp.osaka-ue.ac.jp

@@ -1,61 +1,21 @@
-NXDOMAIN	autodiscover.niagaracc.suny.edu
-NOERROR	remote.niagaracc.suny.edu
-NOERROR	m.catalog.niagaracc.suny.edu
-NOERROR	nccc-manage.niagaracc.suny.edu
-NOERROR	localhost.niagaracc.suny.edu
-NOERROR	new.niagaracc.suny.edu
-SERVFAIL	digitialmedia.niagaracc.suny.edu
-SERVFAIL	niaapp02.niagaracc.suny.edu
-SERVFAIL	owa2.nccc-admin.niagaracc.suny.edu
-SERVFAIL	mail-gateway.niagaracc.suny.edu
-SERVFAIL	media.niagaracc.suny.edu
-SERVFAIL	mynccc.niagaracc.suny.edu
-SERVFAIL	nccc.niagaracc.suny.edu
-SERVFAIL	digitalmedia.niagaracc.suny.edu
-SERVFAIL	nccc-app3.nccc-admin.niagaracc.suny.edu
-SERVFAIL	nccc-admin.niagaracc.suny.edu
-SERVFAIL	spam.niagaracc.suny.edu
-SERVFAIL	spam-filter.niagaracc.suny.edu
-SERVFAIL	nccc-ise.niagaracc.suny.edu
-SERVFAIL	nccc-adam.niagaracc.suny.edu
-SERVFAIL	smtp-gateway.niagaracc.suny.edu
-SERVFAIL	exchange2.niagaracc.suny.edu
-SERVFAIL	nccc-sso.niagaracc.suny.edu
-SERVFAIL	vpn.niagaracc.suny.edu
-SERVFAIL	angeleyes.niagaracc.suny.edu
-SERVFAIL	nccc-idp2.niagaracc.suny.edu
-SERVFAIL	niaapp03.niagaracc.suny.edu
-SERVFAIL	nccc-maps-test.niagaracc.suny.edu
-SERVFAIL	calendar.niagaracc.suny.edu
-SERVFAIL	nccc-ise2.niagaracc.suny.edu
-SERVFAIL	nccc-maps-test.nccc-admin.niagaracc.suny.edu
-SERVFAIL	nccc-dir4.mynccc.niagaracc.suny.edu
-SERVFAIL	exchange2.nccc-admin.niagaracc.suny.edu
-NXDOMAIN	tech2.niagaracc.suny.edu
-NXDOMAIN	nccc-sso2.niagaracc.suny.edu
-NOERROR	exchange.niagaracc.suny.edu
-NXDOMAIN	nccc-ise1.niagaracc.suny.edu
-NXDOMAIN	nccc-ad4.nccc-admin.niagaracc.suny.edu
-NOERROR	stream.niagaracc.suny.edu
-NOERROR	niagaracc.suny.edu
-NOERROR	mail.niagaracc.suny.edu
-NOERROR	dns.niagaracc.suny.edu
-NXDOMAIN	angel.niagaracc.suny.edu
-NXDOMAIN	nccc-maps-prod.nccc-admin.niagaracc.suny.edu
-NXDOMAIN	autodiscover.nccc-admin.niagaracc.suny.edu
-NOERROR	owa2.niagaracc.suny.edu
-NOERROR	nccc-ad2.nccc-admin.niagaracc.suny.edu
-NOERROR	www.niagaracc.suny.edu
-NXDOMAIN	exchange.nccc-admin.niagaracc.suny.edu
-NOERROR	ns.niagaracc.suny.edu
-NOERROR	ncccapply.niagaracc.suny.edu
-NXDOMAIN	w.niagaracc.suny.edu
-NOERROR	bot.niagaracc.suny.edu
-NOERROR	helpdesk.niagaracc.suny.edu
-NOERROR	catalog.niagaracc.suny.edu
-NXDOMAIN	www.nccc-ise.niagaracc.suny.edu
-NOERROR	web2.niagaracc.suny.edu
-NXDOMAIN	autodiscover.exchange.niagaracc.suny.edu
-NOERROR	owa.niagaracc.suny.edu
-NOERROR	libguides.niagaracc.suny.edu
-NXDOMAIN	niaapp05.niagaracc.suny.edu
+remote.niagaracc.suny.edu
+m.catalog.niagaracc.suny.edu
+nccc-manage.niagaracc.suny.edu
+localhost.niagaracc.suny.edu
+new.niagaracc.suny.edu
+exchange.niagaracc.suny.edu
+stream.niagaracc.suny.edu
+niagaracc.suny.edu
+mail.niagaracc.suny.edu
+dns.niagaracc.suny.edu
+owa2.niagaracc.suny.edu
+nccc-ad2.nccc-admin.niagaracc.suny.edu
+www.niagaracc.suny.edu
+ns.niagaracc.suny.edu
+ncccapply.niagaracc.suny.edu
+bot.niagaracc.suny.edu
+helpdesk.niagaracc.suny.edu
+catalog.niagaracc.suny.edu
+web2.niagaracc.suny.edu
+owa.niagaracc.suny.edu
+libguides.niagaracc.suny.edu
