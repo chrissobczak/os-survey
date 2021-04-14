@@ -883,3 +883,243 @@ Apache
 NA
 Apache
 NA
+NA
+Apache/2.2.8 (Ubuntu) PHP/5.2.4-2ubuntu5.27 with Suhosin-Patch mod_ssl/2.2.8 OpenSSL/0.9.8g
+NA
+Apache/2.2.8 (Ubuntu) PHP/5.2.4-2ubuntu5.27 with Suhosin-Patch mod_ssl/2.2.8 OpenSSL/0.9.8g
+Apache
+Apache
+Microsoft-IIS/8.5
+Apache
+Apache
+Apache
+Apache
+NA
+Apache
+Apache
+nginx/1.18.0 (Ubuntu)
+Microsoft-IIS/8.5
+NA
+NA
+Apache
+nginx/1.14.0 (Ubuntu)
+Microsoft-IIS/7.0
+NA
+NA
+ESF
+NA
+Apache
+NA
+NA
+Apache
+Apache
+Apache/2.2.22 (Ubuntu)
+NA
+Apache
+ESF
+NA
+Apache/2.4.6 () OpenSSL/1.0.2k-fips
+Apache
+Apache
+NA
+NA
+NA
+Apache
+Microsoft-IIS/8.5
+Apache
+EZproxy
+NA
+nginx X-Backend-libguides-eu-2.springyaws.com
+Apache
+NA
+NA
+NA
+Microsoft-IIS/7.0
+Apache
+Apache/2.2.8 (Ubuntu) PHP/5.2.4-2ubuntu5.27 with Suhosin-Patch mod_ssl/2.2.8 OpenSSL/0.9.8g
+NA
+nginx
+NA
+Apache/2.4.18 (Ubuntu)
+NA
+Apache
+NA
+nginx
+Microsoft-IIS/8.5
+Apache/2.2.22 (Ubuntu)
+Apache
+Apache
+NA
+NA
+Apache
+NA
+Apache/2.2.8 (Ubuntu) PHP/5.2.4-2ubuntu5.27 with Suhosin-Patch mod_ssl/2.2.8 OpenSSL/0.9.8g
+Apache/2.4.41 (Ubuntu)
+Apache
+nginx/1.18.0 (Ubuntu)
+NA
+NA
+Apache
+Apache
+NA
+nginx
+NA
+NA
+Apache
+Microsoft-IIS/8.5
+ESF
+AkamaiGHost
+Apache
+Apache
+Apache
+NA
+Apache
+NA
+NA
+NA
+Apache
+NA
+Apache
+Apache
+Apache
+Apache
+ESF
+nginx
+Apache
+nginx
+NA
+Apache/2.2.22 (Ubuntu)
+NA
+Apache
+Apache
+Apache
+Apache
+NA
+Apache
+NA
+Apache
+Apache/2.4.29 (Win64) OpenSSL/1.0.2n
+Apache
+Apache
+NA
+Apache
+Apache
+NA
+ESF
+NA
+Apache
+Apache
+Apache
+Apache
+awselb/2.0
+Apache/2.2.8 (Ubuntu) PHP/5.2.4-2ubuntu5.27 with Suhosin-Patch mod_ssl/2.2.8 OpenSSL/0.9.8g
+Apache
+Apache
+ESF
+NA
+Apache
+Apache
+NA
+NA
+Apache
+NA
+NA
+Apache
+Apache
+HTTPd
+Apache
+NA
+NA
+NA
+Apache
+NA
+NA
+NA
+Apache
+Apache
+Apache
+nginx
+NA
+NA
+NA
+Apache
+Apache
+NA
+Apache
+Apache
+Apache
+Apache
+nginx/1.10.3 (Ubuntu)
+Apache/2.2.8 (Ubuntu) PHP/5.2.4-2ubuntu5.27 with Suhosin-Patch mod_ssl/2.2.8 OpenSSL/0.9.8g
+NA
+NA
+Microsoft-IIS/10.0
+Apache
+Apache
+NA
+NA
+Apache
+Apache
+Apache
+NA
+Apache
+NA
+nginx
+Apache
+NA
+Microsoft-IIS/8.5
+Apache
+Apache
+Apache
+NA
+Apache
+HTTP/1.1 500 Internal Server Error Apache/2.4.18 (Ubuntu)
+Apache
+NA
+Apache
+NA
+NA
+Apache
+awselb/2.0
+Apache/2.2.8 (Ubuntu) PHP/5.2.4-2ubuntu5.27 with Suhosin-Patch mod_ssl/2.2.8 OpenSSL/0.9.8g
+awselb/2.0
+Apache/2.2.22 (Ubuntu)
+Apache
+Apache
+Apache
+Apache
+NA
+Apache
+HTTP/1.1 500 Internal Server Error nginx/1.16.1
+Apache
+NA
+NA
+NA
+Apache
+NA
+nginx
+Apache
+nginx
+NA
+nginx
+NA
+Apache
+NA
+Apache
+NA
+Apache
+Apache/2.2.8 (Ubuntu) PHP/5.2.4-2ubuntu5.27 with Suhosin-Patch mod_ssl/2.2.8 OpenSSL/0.9.8g
+Apache
+Apache
+NA
+NA
+nginx
+Apache
+NA
+NA
+Apache
+Apache/2.2.8 (Ubuntu) PHP/5.2.4-2ubuntu5.27 with Suhosin-Patch mod_ssl/2.2.8 OpenSSL/0.9.8g
+NA
+NA
+Apache
+nginx
