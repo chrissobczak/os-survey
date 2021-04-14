@@ -11,7 +11,7 @@ do
 
 	while [ $j -le $Mi ]
 	do
-		echo -ne "$j of $Mi in $domain ($i of $n domains)\r"
+		echo -ne "$j of $Mi in $domain ($i of $n domains)"
 		server=$(curl -I -s --connect-timeout 2 "$(sed "${j}q;d" knownhosts/$domain)" | grep Server | sed "s/Server:\s//g")
 		if [ -z "$server" ]; then
 			server=$(curl -I -s --connect-timeout 2 "https://$(sed "${j}q;d" knownhosts/$domain)" | grep Server | sed "s/Server:\s//g")
