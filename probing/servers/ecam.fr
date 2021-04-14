@@ -1,0 +1,143 @@
+Apache
+Apache
+NA
+NA
+Apache
+Apache
+Apache
+Apache/2.4.38 (Debian)
+Apache
+Apache
+Microsoft-HTTPAPI/2.0
+HTTP/1.1 500 Internal Server Error Apache
+Apache
+Apache
+Apache
+nginx/1.10.3
+Apache
+NA
+Apache
+Apache/2.2.22 (Debian) mod_ssl/2.2.22 OpenSSL/1.0.1k
+Apache/2.4.38 (Debian)
+Apache
+Apache
+nginx/1.10.3
+Apache
+Apache/2.4.38 (Debian)
+Apache
+GitHub.com
+Apache/2.2.22 (Debian) mod_ssl/2.2.22 OpenSSL/1.0.1k
+Apache
+NA
+Apache
+Apache
+Apache
+Apache
+Apache
+Apache
+Apache
+nginx
+Apache/2.2.22 (Debian) mod_ssl/2.2.22 OpenSSL/1.0.1k
+Apache
+Apache
+NA
+Apache
+NA
+Apache
+Apache
+Apache
+Microsoft-IIS/10.0
+NA
+Microsoft-IIS/10.0
+NA
+NA
+Apache/2.2.16 (Debian)
+Apache/2.4.38 (Debian)
+Apache
+Apache
+Apache
+Apache
+Apache
+Apache
+Apache
+Apache
+NA
+Apache/2.2.22 (Debian) mod_ssl/2.2.22 OpenSSL/1.0.1k
+Apache
+Apache
+Apache
+NA
+Apache/2.4.38 (Debian)
+Apache
+Apache
+Apache
+nginx
+Apache
+Apache
+Apache
+Microsoft-IIS/10.0
+Apache
+Apache
+NA
+Apache
+NA
+Apache
+Microsoft-IIS/10.0
+Apache
+NA
+Apache/2.4.38 (Debian)
+Apache
+nginx/1.10.3
+Apache
+Apache
+Apache
+NA
+Apache
+Apache
+Apache/2.4.38 (Debian)
+Apache
+NA
+openresty
+Apache
+Apache
+NA
+Apache
+Apache/2.2.22 (Debian) mod_ssl/2.2.22 OpenSSL/1.0.1k
+Apache
+Microsoft-IIS/10.0
+Apache
+Apache
+Apache
+NA
+NA
+Apache/2.4.38 (Debian)
+Apache
+Apache/2.4.38 (Debian)
+Apache
+Apache
+Apache/2.4.38 (Debian)
+Apache
+Apache
+Apache
+Apache
+nginx/1.10.3
+NA
+Apache/2.4.10 (Debian)
+Apache
+Apache
+Apache/2.4.10 (Debian)
+Apache
+NA
+Apache
+Apache
+Apache/2.4.38 (Debian)
+Apache
+Apache/2.2.16 (Debian)
+GitHub.com
+Apache
+NA
+Apache
+NA
+Apache
+Apache
+Apache/2.4.38 (Debian)

@@ -1,0 +1,909 @@
+NA
+NA
+Microsoft-IIS/10.0
+BigIP
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+BigIP
+NA
+NA
+NA
+NA
+Microsoft-HTTPAPI/2.0
+Apache
+NA
+Apache
+NA
+NA
+NA
+NA
+Apache
+NA
+NA
+Apache
+Apache/2.2.8 (Win32) PHP/5.2.6
+NA
+HTTP/1.1 500 Internal Server Error Microsoft-IIS/7.0
+NA
+NA
+NA
+nginx/1.16.0
+NA
+Apache/2.2.31 (Unix)
+NA
+NA
+Microsoft-IIS/8.5
+NA
+NA
+NA
+NA
+NA
+NA
+Apache
+NA
+NA
+NA
+Apache/2.4.12 (Win32) OpenSSL/1.0.1l PHP/5.6.8
+Apache
+NA
+Apache
+NA
+NA
+NA
+Apache/2.4.37 (Win64) PHP/7.2.34
+NA
+Apache
+NA
+Apache
+Microsoft-IIS/10.0
+Apache
+Apache
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+Apache
+nginx/1.10.2
+nginx/1.14.0 (Ubuntu)
+NA
+NA
+Apache
+NA
+NA
+NA
+Apache
+Apache
+Apache
+NA
+NA
+Microsoft-IIS/7.5
+Apache/2.4.25 (Debian)
+nginx/1.16.0
+NA
+NA
+NA
+NA
+Apache
+NA
+NA
+Apache
+NA
+NA
+NA
+Apache/2.4.41 (Win64) OpenSSL/1.1.1c PHP/7.3.12
+NA
+NA
+Apache
+NA
+Apache
+Apache-Coyote/1.1
+NA
+NA
+NA
+NA
+Microsoft-IIS/8.5
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+Apache/2.2.3 (CentOS)
+NA
+Apache
+Apache/2.4.12 (Win32) OpenSSL/1.0.1l PHP/5.6.8
+NA
+nginx/1.10.2
+Apache
+Apache/2.4.6 (CentOS) OpenSSL/1.0.2k-fips PHP/5.4.16
+NA
+NA
+lighttpd/1.4.59
+NA
+NA
+NA
+Apache
+NA
+NA
+Apache/2.0.40 (Red Hat Linux)
+Apache
+NA
+NA
+NA
+Apache/2.2.3 (CentOS)
+NA
+NA
+NA
+NA
+NA
+Virata-EmWeb/R6_2_1
+NA
+NA
+Microsoft-IIS/10.5
+Apache
+NA
+NA
+NA
+HTTP/1.1 500 Internal Server Error Microsoft-IIS/10.0
+NA
+NA
+Apache/2.4.27 (Ubuntu)
+NA
+NA
+Microsoft-IIS/7.5
+NA
+NA
+NA
+NA
+NA
+NA
+Microsoft-IIS/8.5
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+Microsoft-IIS/8.5
+Apache/2.4.27 (Ubuntu)
+NA
+NA
+NA
+Microsoft-IIS/8.5
+NA
+NA
+nginx
+NA
+NA
+NA
+NA
+NA
+Apache
+NA
+NA
+NA
+Apache
+Apache/2.2.3 (CentOS)
+NA
+NA
+NA
+Apache
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+Apache
+Apache
+Apache/2.4.25 (Debian)
+NA
+NA
+NA
+NA
+NA
+NA
+Apache
+Apache/2.0.40 (Red Hat Linux)
+Microsoft-IIS/8.5
+Apache
+Apache
+NA
+nginx
+Microsoft-IIS/10.0
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+Apache
+NA
+Apache
+NA
+NA
+NA
+NA
+Apache
+NA
+NA
+Apache
+NA
+Apache/2.4.35 (Win64) PHP/7.2.10
+Apache/2.4.6 (CentOS) OpenSSL/1.0.2k-fips PHP/5.4.16
+NA
+NA
+NA
+NA
+nginx/1.10.2
+Apache/2.2.3 (CentOS)
+Apache
+Apache
+NA
+NA
+NA
+NA
+Apache/2.4.25 (Debian)
+NA
+NA
+NA
+NA
+NA
+NA
+Apache
+NA
+Apache
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+Microsoft-IIS/10.0
+Apache
+Apache
+Apache
+NA
+NA
+NA
+Apache/2.4.25 (Debian)
+NA
+CloudFront
+NA
+NA
+NA
+Apache
+NA
+NA
+Apache
+NA
+NA
+NA
+NA
+Apache
+Apache/2.2.14 (Win32) PHP/5.2.10 mod_jk/1.2.28
+nginx/1.10.2
+NA
+NA
+NA
+Tableau
+NA
+NA
+NA
+NA
+NA
+NA
+nginx/1.15.5
+Apache/2.4.25 (Win32) OpenSSL/1.0.2j PHP/5.6.30
+Apache/2.4.12 (Win32) OpenSSL/1.0.1l PHP/5.6.8
+Microsoft-IIS/10.0
+Apache
+NA
+NA
+NA
+NA
+NA
+Apache
+Apache/2.4.17 (Win32) OpenSSL/1.0.2d PHP/5.6.15
+nginx/1.10.2
+NA
+NA
+Microsoft-IIS/5.1
+NA
+HTTP/1.0 500 Internal Server Error Apache
+Apache
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+Apache/2.4.6 (CentOS) OpenSSL/1.0.2k-fips PHP/5.4.16
+NA
+NA
+Microsoft-IIS/10.0
+NA
+NA
+NA
+NA
+NA
+NA
+Apache
+NA
+NA
+nginx/1.16.0
+Apache
+NA
+Apache/2.4.27 (Ubuntu)
+NA
+Microsoft-IIS/7.5
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+Apache
+NA
+NA
+nginx/1.10.2
+NA
+NA
+Apache/2.4.29 (Ubuntu)
+Apache/2.4.6 (CentOS) OpenSSL/1.0.2k-fips PHP/5.4.16
+NA
+NA
+NA
+NA
+Apache
+NA
+NA
+NA
+NA
+NA
+NA
+Microsoft-IIS/10.0
+NA
+Apache
+NA
+NA
+Apache/2.4.41 (Win64) OpenSSL/1.1.1c PHP/7.4.1
+NA
+NA
+Apache
+Apache
+NA
+NA
+Apache
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+Apache
+NA
+Apache/2.4.6 (CentOS) OpenSSL/1.0.2k-fips PHP/5.4.16
+NA
+Apache
+NA
+NA
+Apache
+NA
+Apache
+nginx/1.10.2
+NA
+NA
+Apache
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+Apache
+Microsoft-IIS/7.5
+Apache
+Microsoft-IIS/10.0
+NA
+NA
+Apache/2.4.25 (Debian)
+EPSON-HTTP/1.0
+NA
+NA
+Apache
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+Apache/2.4.25 (Debian)
+Apache
+NA
+NA
+NA
+NA
+NA
+lighttpd/1.4.31
+NA
+Apache/2.2.3 (CentOS)
+NA
+NA
+NA
+Apache
+Apache
+NA
+NA
+NA
+Apache
+NA
+NA
+NA
+Apache
+Apache/2.2.3 (CentOS)
+nginx
+Apache
+NA
+Apache/2.4.46 (Ubuntu)
+Apache/2.2.3 (CentOS)
+NA
+NA
+nginx/1.15.5
+Apache
+NA
+NA
+Apache/2.4.46 (Ubuntu)
+Apache/2.2.3 (CentOS)
+NA
+NA
+NA
+NA
+Apache
+NA
+Apache/2.4.27 (Ubuntu)
+NA
+NA
+Apache
+NA
+HTTP/1.1 500 Internal Server Error Apache
+Apache
+BigIP
+Apache/2.4.37 (Win64) PHP/7.2.34
+NA
+NA
+Microsoft-IIS/8.5
+NA
+NA
+NA
+Apache/2.4.46 (Ubuntu)
+NA
+Apache
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+Apache/2.4.25 (Raspbian)
+NA
+Apache/2.4.27 (Ubuntu)
+Apache
+Apache
+Apache
+NA
+NA
+NA
+nginx/1.10.2
+NA
+NA
+Apache
+NA
+NA
+NA
+NA
+Microsoft-IIS/10.0
+NA
+NA
+HTTP/1.1 500 Internal Server Error Apache/2.2.3 (CentOS)
+Apache
+NA
+NA
+NA
+Microsoft-IIS/8.5
+NA
+Apache/2.2.3 (CentOS)
+NA
+Apache/2.4.46 (Ubuntu)
+NA
+NA
+NA
+NA
+NA
+NA
+Apache/2.2.3 (CentOS)
+NA
+Apache/2.2.3 (CentOS)
+Apache
+Apache/2.4.27 (Ubuntu)
+Apache
+NA
+NA
+Apache
+Apache/2.4.35 (Win64) PHP/7.2.10
+NA
+lighttpd/1.4.31
+Apache
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+Apache
+Apache
+nginx/1.14.0 (Ubuntu)
+Apache/2.4.6 (CentOS) OpenSSL/1.0.2k-fips PHP/5.4.16
+NA
+NA
+NA
+NA
+Apache/2.2.3 (CentOS)
+NA
+Apache
+NA
+NA
+nginx/1.10.2
+NA
+NA
+NA
+Apache/2.4.33 (Win32) OpenSSL/1.0.2n PHP/5.6.35
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+Apache
+NA
+Apache/2.4.18 (Ubuntu)
+NA
+NA
+NA
+Apache
+Apache/2.4.18 (Ubuntu)
+Apache/2.4.37 (Win64) PHP/7.2.34
+NA
+NA
+NA
+NA
+CloudFront
+Apache
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+Apache/2.4.37 (Win64) PHP/7.2.34
+NA
+NA
+NA
+NA
+NA
+Apache
+nginx
+NA
+NA
+NA
+Apache
+HTTP/1.1 500 Internal Server Error Microsoft-IIS/10.0
+Apache/2.4.37 (Win64) PHP/7.2.34
+NA
+NA
+NA
+NA
+NA
+NA
+Apache/2.4.6 (CentOS) OpenSSL/1.0.2k-fips PHP/5.4.16
+NA
+NA
+Apache/2.4.6 (CentOS) OpenSSL/1.0.2k-fips PHP/5.4.16
+NA
+NA
+Apache
+Apache/2.4.46 (Ubuntu)
+nginx
+NA
+Microsoft-IIS/8.5
+NA
+NA
+NA
+NA
+NA
+NA
+Apache
+Apache/2.2.3 (CentOS)
+NA
+NA
+NA
+Apache/2.4.43 (Win64) OpenSSL/1.1.1g PHP/7.4.5
+NA
+Apache
+NA
+NA
+Apache
+Apache
+HTTP/1.1 500 Internal Server Error Microsoft-IIS/10.0
+NA
+NA
+Microsoft-IIS/8.5
+NA
+NA
+NA
+NA
+Apache/2.4.41 (Win64) PHP/5.6.40
+nginx/1.10.3
+Apache
+Apache
+nginx/1.10.2
+NA
+Microsoft-IIS/10.0
+NA
+Apache
+NA
+NA
+Apache
+NA
+NA
+NA
+Apache/2.4.6 (CentOS) OpenSSL/1.0.2k-fips PHP/7.3.24
+NA
+NA
+NA
+nginx
+NA
+NA
+Apache/2.4.12 (Win32) OpenSSL/1.0.1l PHP/5.6.8
+NA
+Apache
+Apache
+NA
+NA
+NA
+Apache
+NA
+Apache
+nginx/1.10.2
+Apache
+NA
+Microsoft-IIS/10.0
+Apache
+NA
+NA
+NA
+NA
+nginx/1.15.5
+NA
+Apache/2.4.29 (Ubuntu)
+NA
+Apache
+NA
+NA
+NA
+Apache/2.4.25 (Debian)
+NA
+NA
+NA
+NA
+NA
+NA
+Apache
+Apache/2.4.6 (CentOS) OpenSSL/1.0.2k-fips PHP/5.4.16
+NA
+Apache/2.0.59 (Win32) PHP/5.2.0
+NA
+Apache
+NA
+NA
+NA
+NA
+nginx
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+Apache/2.2.3 (CentOS)
+NA
+NA
+NA
+NA
+Apache
+NA
+Apache/2.4.25 (Debian)
+Apache
+NA
+NA
+NA
+Apache
+NA
+NA
+Apache/2.2.3 (CentOS)
+HTTP/1.1 500 Internal Server Error Microsoft-IIS/10.0
+Apache/2.4.29 (Ubuntu)
+Apache
+Apache
+Apache
+NA
+NA
+Microsoft-IIS/7.5
+NA
+NA
+NA
+Apache
+NA
+NA
+nginx
+Apache/2.4.33 (Win32) OpenSSL/1.0.2n PHP/5.6.35
+Apache/2.4.18 (Ubuntu)
+Apache
+Apache
+NA
+Apache
+NA
+NA
+NA
+NA
+NA
+NA
+Apache
+NA
+NA
+Apache/2.4.6 (CentOS) OpenSSL/1.0.2k-fips PHP/5.4.16
+NA
+NA
+NA
+Apache/2.2.3 (CentOS)
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+Apache/2.2.3 (CentOS)
+nginx
+Apache
+Apache
+NA
+nginx/1.10.2
+Apache-Coyote/1.1
+NA
+NA
+NA
+Apache
+nginx
+Apache
+Apache
+NA
+nginx
+Apache
+NA
+NA
+NA
+NA
+EPSON-HTTP/1.0
+NA
+Apache/2.4.3 (Win32) OpenSSL/1.0.1c PHP/7.2.0
+NA
+Apache
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+Apache
+Microsoft-IIS/8.5
+NA
+Microsoft-IIS/8.5
+NA
+NA
+NA
+nginx/1.10.3
+Apache
+NA
+Apache/2.4.6 (CentOS) OpenSSL/1.0.2k-fips PHP/5.4.16
+Microsoft-IIS/10.0
+NA
+NA
+NA
+NA
+Apache
+nginx
+Apache
+NA
+NA
+Apache
+Apache
+Apache/2.2.3 (CentOS)
+NA
+NA
+NA
+NA
+Microsoft-IIS/10.0
+NA
+CloudFront
+NA
+NA
