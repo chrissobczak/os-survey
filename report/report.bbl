@@ -17,6 +17,41 @@
 \endgroup
 
 \datalist[entry]{nyt/global//global/global}
+  \entry{kenny2000}{article}{}
+    \name{author}{2}{}{%
+      {{hash=FB}{%
+         family={{Fitzgerald}},
+         familyi={F\bibinitperiod},
+         given={B.},
+         giveni={B\bibinitperiod},
+      }}%
+      {{hash=KT}{%
+         family={{Kenny}},
+         familyi={K\bibinitperiod},
+         given={T.},
+         giveni={T\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{FBKT1}
+    \strng{fullhash}{FBKT1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2004}
+    \field{labeldatesource}{}
+    \field{sortinit}{F}
+    \field{sortinithash}{F}
+    \verb{doi}
+    \verb 10.1109/MS.2004.1259216
+    \endverb
+    \field{number}{1}
+    \field{pages}{50\bibrangedash 55}
+    \field{title}{Developing an information systems infrastructure with open
+  source software}
+    \field{volume}{21}
+    \field{journaltitle}{IEEE Software}
+    \field{year}{2004}
+  \endentry
+
   \entry{Hipo}{misc}{}
     \name{author}{1}{}{%
       {{hash=H}{%
@@ -111,6 +146,79 @@
       {Milton}%
     }
     \field{year}{2019}
+  \endentry
+
+  \entry{solarwinds2021}{article}{}
+    \name{author}{1}{}{%
+      {{hash=WM}{%
+         family={Willett},
+         familyi={W\bibinitperiod},
+         given={Marcus},
+         giveni={M\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Routledge}%
+    }
+    \strng{namehash}{WM1}
+    \strng{fullhash}{WM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2021}
+    \field{labeldatesource}{}
+    \field{sortinit}{W}
+    \field{sortinithash}{W}
+    \verb{doi}
+    \verb 10.1080/00396338.2021.1906001
+    \endverb
+    \verb{eprint}
+    \verb https://doi.org/10.1080/00396338.2021.1906001
+    \endverb
+    \field{number}{2}
+    \field{pages}{7\bibrangedash 26}
+    \field{title}{Lessons of the SolarWinds Hack}
+    \verb{url}
+    \verb https://doi.org/10.1080/00396338.2021.1906001
+    \endverb
+    \field{volume}{63}
+    \field{journaltitle}{Survival}
+    \field{year}{2021}
+  \endentry
+
+  \entry{karen2018}{article}{}
+    \name{author}{1}{}{%
+      {{hash=YK}{%
+         family={Yeung},
+         familyi={Y\bibinitperiod},
+         given={Karen},
+         giveni={K\bibinitperiod},
+      }}%
+    }
+    \list{language}{1}{%
+      {eng}%
+    }
+    \list{publisher}{1}{%
+      {Oxford University Press}%
+    }
+    \strng{namehash}{YK1}
+    \strng{fullhash}{YK1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2018}
+    \field{labeldatesource}{}
+    \field{sortinit}{Y}
+    \field{sortinithash}{Y}
+    \field{issn}{2044-3994}
+    \field{number}{3}
+    \field{pages}{258\bibrangedash 269}
+    \field{title}{Five fears about mass predictive personalization in an age of
+  surveillance capitalism}
+    \field{volume}{8}
+    \list{location}{1}{%
+      {Oxford}%
+    }
+    \field{journaltitle}{International data privacy law}
+    \field{year}{2018}
   \endentry
 \enddatalist
 \endinput

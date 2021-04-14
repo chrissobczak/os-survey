@@ -56,11 +56,15 @@
 
 \section{Abstract}
 The goal of the survey is to determine the market share
-of that linux and other open source operating systems
-occupy in the academic setting. So the
-figure of interest is the proportion of machines that
-universities run for thier websites, mail servers and other
-digital services that run an open source operating system.
+that open source server software occupies in the academic
+setting.
+The
+figure to be estimated is the proportion of university web
+services that run opern source software. This includes
+all computers tha
+universities run for their websites, mail servers and other
+digital services that provide a portal for students and
+members of the public to access.
 
 \end{titlepage}
 
@@ -68,26 +72,66 @@ digital services that run an open source operating system.
 \begin{flushleft}
 
 \section{Background}
-Universities spend millions of dollars each year on licenses
-for their students' software offerings and also for their own
-infrastructure. Increasing costs for post-secondary education
-are making it less excessible and a very obvious way to reduce
-costs is find free and open source alternatives to those expensive
-licenses.
-\textbf{(cite some study showing costs and how much licenses contribute
-to the overall cost of attendance).}
+Open source software or ``free and open source software'' (FOSS)
+is a piece or package of software
+that is distributed with the source code available for
+auditting and editting. The statistical software R is a
+great example of a flourishing FOSS project where
+users are able to contribute to the project and create new
+packages. Another example is the OpenBSD operating system.
+In the case of OpenBSD and other FOSS operating systems,
+the public has the ability to know exactly what is going
+on behind the scenes. This is not to say that every user
+is required to read and understand the low level source
+code, but it is a principle that the project is transparent
+and the software community can audit it, creating a web of trust.
+
+In contrast, there is no reason for a consumer to trust
+in the word of a company that distributes closed source
+software. This organization can claim whatever they want
+about the security and privacy of their software but
+without having the right to audit the source code,
+there is no reason to believe any of those claims.
+If the only way a software package is considered \textit{secure}
+is by the fact that no one know's how it works except the producer,
+then as soon as the code becomes available due to a leak, it can
+all be considered compromised as we have seen often from
+Microsoft (\cite{solarwinds2021}). FOSS is secure through industry standard
+security schemes, cryptography and by the knowledge of the thousands
+of programmers who have access to it (compared to the relatively
+smaller number of people who work on a single companies development
+team).
+
+Finally, maybe the more important reason for institutions,
+FOSS is also (most of the time) free as in no cost (in addition
+to ``free as in freedom'').
+Universities and other public institutions
+spend millions of dollars each year on software licenses
+for their students, staff and web services and other
+infrastructure. Increasing costs for post-secondary education and
+healthcare administration costs can be attributed to some extent to
+these rising software licensing prices. The increasing costs
+make higher education less excessible and harm the most
+vulnerable populations who rely on affordable healthcare.
+A very obvious way to reduce
+costs is be replacing these proprietary packages with equivalent
+and more secure free and open source software (\cite{kenny2000}).
 
 In addition to the problamatic cost of closed source, proprietary
-software, it is also less secure than the open source alternatives
-\textbf{(cite study about this or reference the OpenBSD claims etc).}
-Especially at public institutions, all of the software that staff and
-students are required to interact with should also be open source
-so for the sake of privacy and security, universities should not
-be given the exclusive access to a specific class of student.
+software, these costly, licensed software packages are most vulnerable
+to security threats.
+Security should be a high priority of all organizations but
+especially at public institutions where all of the software that staff and
+students interact with poses a threat to those individuals.
+Providing one for profit company exclusive access to your staff and
+students, in the age of survailliance capitalism is quite reckless
+(\cite{karen2018}).
 
-So in this study, I would like to establish a base-line understanding
+So this study, establishes a base-line estimate
 of the proportion of free and open source servers being used by
-universities around the world. \textbf{(look at poststratification)} Are there specific countries whose universities
+universities around the world.
+The questions that are answered include:
+Are there specific countries whose universities
 use more open source servers than others? What kinds of services
 are associated with certain operating systems?
 
@@ -208,7 +252,11 @@ Kyungil University.
 These 16 schools with two domains and 2 schools with three domains
 accounts for the total 1087 ($1067 + (16 \textrm{ duplicates}) +
 (2\times2 \textrm{ more duplicates}) = 1087$) domains in the
-\texttt{subdomains/} directory of the GitHub repository.
+\texttt{domains} file of the GitHub repository. This file
+contained a few duplicates and subdomains for the school,
+so some of the domains were repeated and some were just included within
+the schools \texttt{subdomains/} file, reducing it to 1081 files
+in \texttt{subdomains/}.
 
 All domains were separated onto their own line of the \texttt{probing/domains}
 file and processed with \texttt{findomain}.
@@ -227,16 +275,8 @@ that was already extracted from \texttt{clcmn.edu}, another duplicated domain.
 
 In the github repository, the file \texttt{undup-domains} is the audited file containing all
 of the highest level domains for the sample.
-
-The next step will be ensuring that two related domains did not go through
-the process, for example making sure that we did not run \texttt{gen-domains}
-on \texttt{sfu.ca} and \texttt{mail.sfu.ca}, since this would likely result in
-duplicated information.
-
-Using the line \texttt{cat subdomain/* | uniq -d} we can see that
-there were no repeated lines.
-
-
+From this file, the domains belonging to the same school are concatinated
+so that results can be organized by psu.
 
 
 \section{Results}

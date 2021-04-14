@@ -22,44 +22,44 @@ Database file #2: ~/.config/assets/LaTeX/auni.bib
 Biblatex version: 3.15
 Reallocated wiz_functions (elt_size=8) to 9000 items from 6000.
 Reallocated singl_function (elt_size=8) to 100 items from 50.
-You've used 3 entries,
+You've used 6 entries,
             6393 wiz_defined-function locations,
-            1219 strings with 11811 characters,
-and the built_in function-call counts, 10153 in all, are:
-= -- 568
-> -- 254
-< -- 75
-+ -- 171
-- -- 76
-* -- 655
-:= -- 1015
+            1246 strings with 12313 characters,
+and the built_in function-call counts, 24597 in all, are:
+= -- 1429
+> -- 564
+< -- 191
++ -- 447
+- -- 175
+* -- 1685
+:= -- 2214
 add.period$ -- 0
-call.type$ -- 3
-change.case$ -- 48
+call.type$ -- 6
+change.case$ -- 126
 chr.to.int$ -- 42
-cite$ -- 4
-duplicate$ -- 950
-empty$ -- 1001
-format.name$ -- 97
-if$ -- 2224
+cite$ -- 10
+duplicate$ -- 2605
+empty$ -- 2417
+format.name$ -- 262
+if$ -- 5334
 int.to.chr$ -- 0
-int.to.str$ -- 8
+int.to.str$ -- 18
 missing$ -- 0
-newline$ -- 82
-num.names$ -- 118
-pop$ -- 691
+newline$ -- 188
+num.names$ -- 294
+pop$ -- 1667
 preamble$ -- 1
-purify$ -- 52
+purify$ -- 139
 quote$ -- 0
-skip$ -- 471
+skip$ -- 1101
 stack$ -- 0
-substring$ -- 839
-swap$ -- 323
-text.length$ -- 70
-text.prefix$ -- 2
+substring$ -- 1985
+swap$ -- 854
+text.length$ -- 146
+text.prefix$ -- 5
 top$ -- 1
-type$ -- 90
+type$ -- 192
 warning$ -- 0
-while$ -- 142
+while$ -- 316
 width$ -- 0
-write$ -- 80
+write$ -- 183

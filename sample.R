@@ -25,7 +25,7 @@ countries_S <- as.character(unlist(lapply(raw_S, function(x) return(x['country']
 schools_S <- as.character(unlist(lapply(raw_S, function(x) return(x['name']))))
 
 data <- list(domains=domains_S,country=countries_S,school=schools_S)
-#save(data,file='data.Rda')
+save(data,file='r-scripts/data.Rda')
 
 # This will concatinate all the domains,
 # some schools may have more than one domain
