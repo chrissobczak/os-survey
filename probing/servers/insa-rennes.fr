@@ -48,3 +48,262 @@ Apache/2.4.18 (Ubuntu)
 Apache
 Apache/2.4.29 (Ubuntu)
 NA
+NA
+NA
+NA
+nginx/1.19.0
+Apache
+EZproxy
+Apache
+nginx
+NA
+NA
+EZproxy
+NA
+NA
+NA
+NA
+NA
+Apache
+NA
+Apache/2.4.25 (Debian)
+Apache/2.4.7 (Ubuntu)
+NA
+Apache
+NA
+nginx
+Apache
+NA
+NA
+NA
+EZproxy
+NA
+NA
+NA
+NA
+NA
+Apache
+Apache
+NA
+Apache/2.4.7 (Ubuntu)
+EZproxy
+Apache/2.4.41 (Ubuntu)
+NA
+Apache/2.4.7 (Ubuntu)
+NA
+NA
+nginx/1.14.0 (Ubuntu)
+NA
+NA
+NA
+Apache/2.4.7 (Ubuntu)
+Apache
+Apache/2.4.29 (Ubuntu)
+NA
+NA
+Apache
+NA
+NA
+NA
+NA
+Apache/2.4.29 (Ubuntu)
+Apache/2.4.7 (Ubuntu)
+Apache
+EZproxy
+NA
+Apache/2.4.18 (Ubuntu)
+Apache
+Apache
+Apache/2.4.18 (Ubuntu)
+NA
+NA
+NA
+EZproxy
+NA
+nginx
+Apache
+NA
+NA
+NA
+NA
+NA
+EZproxy
+EZproxy
+nginx/1.18.0 (Ubuntu)
+Apache/2.4.29 (Ubuntu)
+NA
+NA
+Apache
+NA
+Apache
+NA
+NA
+Apache
+NA
+EZproxy
+Apache
+nginx/1.19.0
+NA
+Apache
+NA
+Apache
+Apache
+NA
+NA
+NA
+NA
+EZproxy
+NA
+Apache/2.4.41 (Ubuntu)
+NA
+NA
+NA
+Apache/2
+NA
+nginx/1.10.3 (Ubuntu)
+NA
+Apache
+NA
+NA
+NA
+NA
+NA
+NA
+EZproxy
+NA
+nginx/1.10.3 (Ubuntu)
+Apache
+EZproxy
+Apache
+Apache
+Apache
+NA
+Apache
+EZproxy
+NA
+Apache
+NA
+EZproxy
+Apache
+Apache/2.4.7 (Ubuntu)
+NA
+NA
+EZproxy
+NA
+NA
+EZproxy
+NA
+Apache/2.4.25 (Debian)
+NA
+Apache/2.4.29 (Ubuntu)
+Apache/2.4.7 (Ubuntu)
+Apache/2.2.22 (Ubuntu)
+NA
+Apache
+Apache
+Apache
+EZproxy
+Apache/2.4.18 (Ubuntu)
+NA
+Apache/2.4.29 (Ubuntu)
+Apache/2.4.29 (Ubuntu)
+nginx/1.17.6
+nginx
+NA
+NA
+NA
+NA
+nginx/1.17.6
+Apache
+Apache/2.4.29 (Ubuntu)
+Apache
+EZproxy
+HTTP/1.1 500 Internal Server Error Apache
+Apache/2.4.18 (Ubuntu)
+Bomgar
+Apache
+NA
+Apache
+EZproxy
+NA
+NA
+NA
+NA
+EZproxy
+Apache
+NA
+nginx
+Apache/2.4.7 (Ubuntu)
+Apache/2.4.7 (Ubuntu)
+NA
+NA
+NA
+EZproxy
+EZproxy
+NA
+EZproxy
+Apache/2.4.7 (Ubuntu)
+EZproxy
+Apache
+Apache/2.4.7 (Ubuntu)
+EZproxy
+EZproxy
+NA
+Apache/2.4.18 (Ubuntu)
+NA
+Apache
+NA
+NA
+Apache/2.4.29 (Ubuntu)
+EZproxy
+NA
+NA
+Apache
+Apache
+nginx
+Apache
+EZproxy
+Apache/2.4.7 (Ubuntu)
+Apache/2.4.29 (Ubuntu)
+EZproxy
+EZproxy
+NA
+Apache
+Apache
+NA
+NA
+Apache/2.4.7 (Ubuntu)
+NA
+Apache/2.4.7 (Ubuntu)
+EZproxy
+NA
+NA
+NA
+Apache/2.4.25 (Debian)
+Apache
+Apache/2.4.29 (Ubuntu)
+Apache
+Apache
+nginx
+Apache
+NA
+Apache/2.4.7 (Ubuntu)
+Apache/2.4.29 (Ubuntu)
+Apache
+NA
+Apache
+Apache/2.4.7 (Ubuntu)
+NA
+NA
+Apache
+NA
+nginx/1.19.3
+NA
+NA
+Apache
+nginx/1.18.0 (Ubuntu)
+NA
+Apache/2.4.7 (Ubuntu)
+NA
+nginx/1.6.2
+NA
