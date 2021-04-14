@@ -1,3 +1,23 @@
 #!/bin/sh
+i=1
+n=$(wc -l ../r-scripts/two.csv | awk '{print $1}')
+while [ $i -le $n ]; do
+	domain=$(sed "${i}q;d" ../r-scripts/two.csv)
+	domain1=$(awk -F "," '{print $4}' $domain)
+	domain2=$(awk -F "," '{print $5}' $domain)
 
-cat knownhosts/au aggregatedhosts/
+	cat knownhosts/$domain1 knownhosts/$domain2 > aggregatedhosts/$domain1
+	i=((++i))
+done
+
+i=1
+n=$(wc -l ../r-scripts/three.csv | awk '{print $1}')
+while [ $i -le $n ]; do
+	domain=$(sed "${i}q;d" ../r-scripts/three.csv)
+	domain1=$(awk -F "," '{print $4}' $domain)
+	domain2=$(awk -F "," '{print $5}' $domain)
+	domain3=$(awk -F "," '{print $6}' $domain)
+
+	cat knownhosts/$domain1 knownhosts/$domain2 knownhosts/$domain3 > aggregatedhosts/$domain1
+	i=((++i))
+done
