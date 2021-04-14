@@ -1,7 +1,7 @@
 # R script to put subdomains and dig-results together and then we can just grep the NOERROR domains
 domains <- read.csv('domains',header=F)$V1
 for(d in seq_along(domains)){
-	cat(paste(d,'of',length(domains),'\t',((d/length(domains))*100),'%','\r')))
+	cat(paste(d,'of',length(domains),'\t',((d/length(domains))*100),'%','\r'))
 	df <- NULL
 	df <- cbind(
 		url=read.csv(paste0('subdomains/',domains[d]),header=F),
