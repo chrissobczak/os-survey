@@ -12,19 +12,19 @@ do
 	while [ $j -le $Mi ]
 	do
 		echo -ne "$j of $Mi in $domain ($i of $n domains)\r"
-		server=$(curl -I -s --connect-timeout 5 "$(sed "${j}q;d" knownhosts/$domain)" | grep Server | sed "s/Server:\s//g")
+		server=$(curl -I -s --connect-timeout 3 "$(sed "${j}q;d" knownhosts/$domain)" | grep Server | sed "s/Server:\s//g")
 		if [ -z "$server" ]; then
-			server=$(curl -I -s --connect-timeout 5 "https://$(sed "${j}q;d" knownhosts/$domain)" | grep Server | sed "s/Server:\s//g")
-#			if [ -z "$server" ]; then
-#				server=$(curl -I -s --connect-timeout 5 "http://$(sed "${j}q;d" knownhosts/$domain)" | grep Server | sed "s/Server:\s//g")
-#				if [ -z "$server" ]; then
-#					echo "NA" >> servers/$domain
-#				else
-#					echo $server >> servers/$domain
-#				fi
-#			else
-#				echo $server >> servers/$domain
-#			fi
+			server=$(curl -I -s --connect-timeout 3 "https://$(sed "${j}q;d" knownhosts/$domain)" | grep Server | sed "s/Server:\s//g")
+			if [ -z "$server" ]; then
+				server=$(curl -I -s --connect-timeout 3 "http://$(sed "${j}q;d" knownhosts/$domain)" | grep Server | sed "s/Server:\s//g")
+				if [ -z "$server" ]; then
+					echo "NA" >> servers/$domain
+				else
+					echo $server >> servers/$domain
+				fi
+			else
+				echo $server >> servers/$domain
+			fi
 		else
 			echo $server >> servers/$domain
 		fi
