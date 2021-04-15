@@ -1,0 +1,37 @@
+NA
+RTC/6.0 X-MS-Server-Fqdn: sfb-edgp1-01.uhad.no
+NA
+NA
+NA
+NA
+NA
+RTC/6.0 X-MS-Server-Fqdn: sfb-edgp2-01.uhad.no
+NA
+NA
+NA
+NA
+Apache
+NA
+NA
+NA
+Apache
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+X-MS-Server-Fqdn: sfb-fep1-05.uhad.no
+NA
+NA
+NA
+NA
+GlassFish Server Open Source Edition 4.1.2  X-Powered-By: Servlet/3.1 JSP/2.3 (GlassFish Server Open Source Edition 4.1.2 Java/Oracle Corporation/1.8)
+NA
+NA
+NA
+NA
+Microsoft-IIS/10.0
+Microsoft-IIS/8.5

@@ -289,3 +289,649 @@ Microsoft-IIS/10.0
 NA
 Microsoft-IIS/5.0
 NA
+NA
+NA
+Microsoft-IIS/5.0
+Microsoft-IIS/5.0
+Microsoft-IIS/10.0
+NA
+NA
+Microsoft-IIS/10.0
+NA
+Microsoft-IIS/10.0
+Apache
+NA
+Microsoft-HTTPAPI/2.0
+NA
+NA
+Apache/2.4.29 (Ubuntu)
+NA
+Apache
+Apache
+NA
+Microsoft-HTTPAPI/2.0
+Microsoft-IIS/10.0
+NA
+NA
+Apache-Coyote/1.1
+NA
+Apache
+Apache/2.4.29 (Unix) OpenSSL/1.0.2k-fips PHP/5.2.17
+Microsoft-IIS/5.0
+Apache
+NA
+Apache/2.2.14 (Unix) mod_ssl/2.2.14 OpenSSL/0.9.8o DAV/2 PHP/5.2.11 with Suhosin-Patch mod_wsgi/3.3 Python/2.7.1+
+NA
+Microsoft-IIS/10.0
+NA
+NA
+Apache
+Microsoft-IIS/10.0
+Apache
+NA
+Microsoft-HTTPAPI/2.0
+Microsoft-IIS/5.0
+Microsoft-IIS/5.0
+NA
+Microsoft-HTTPAPI/2.0
+Apache
+NA
+Apache
+NA
+Microsoft-HTTPAPI/2.0
+Microsoft-IIS/5.0
+NA
+NA
+NA
+NA
+Apache
+Apache
+Microsoft-IIS/5.0
+Apache/2.2.17 (Fedora)
+NA
+NA
+NA
+Microsoft-HTTPAPI/2.0
+NA
+HTTP/1.1 500 Internal Server Error Microsoft-IIS/10.0
+Microsoft-HTTPAPI/2.0
+Microsoft-IIS/5.0
+NA
+NA
+nginx/1.16.1
+Apache
+Apache
+NGXMP/14.0
+NA
+Apache
+NA
+Microsoft-IIS/10.0
+Microsoft-IIS/5.0
+Apache
+Microsoft-HTTPAPI/2.0
+NA
+Apache
+NA
+Microsoft-HTTPAPI/2.0
+NA
+
+NA
+Microsoft-IIS/8.5
+NA
+Apache
+Apache
+NA
+Apache
+NA
+Microsoft-IIS/8.5
+Microsoft-HTTPAPI/2.0
+Microsoft-IIS/8.5
+NA
+NA
+NA
+Microsoft-IIS/8.5
+NA
+NA
+HTTP/1.1 500 Internal Server Error Microsoft-IIS/10.0
+Microsoft-IIS/8.0
+NA
+NA
+Apache
+Apache
+NA
+Microsoft-IIS/8.5
+NA
+NA
+NA
+Mongoose/6.5
+Apache
+NA
+NA
+NA
+NA
+NA
+NA
+Microsoft-IIS/10.0
+Apache/2.4.29 (Win64) PHP/7.1.14
+NA
+NA
+NA
+NA
+Apache
+nginx
+lighttpd/1.4.23
+Apache
+NA
+Apache
+NA
+cloudflare
+Apache
+Microsoft-IIS/5.0
+HUSS/2.0
+Apache
+Microsoft-IIS/10.0
+NA
+Apache
+Apache
+NA
+Microsoft-HTTPAPI/2.0
+Microsoft-IIS/10.0
+NA
+Apache
+Microsoft-IIS/10.0
+NA
+Microsoft-IIS/10.0
+Apache/2.4.9 (Unix) OpenSSL/1.0.2k-fips mod_jk/1.2.48
+Apache
+Apache/2.4.9 (Unix) OpenSSL/1.0.2k-fips mod_jk/1.2.48
+Apache
+Microsoft-IIS/8.0
+TornadoServer/6.1
+Apache/2.4.9 (Unix) OpenSSL/1.0.2k-fips mod_jk/1.2.48
+NA
+Microsoft-IIS/5.0
+Microsoft-IIS/5.0
+Apache/2.4.9 (Unix) OpenSSL/1.0.2k-fips mod_jk/1.2.48
+Apache
+IIS/2.2.31 (CentOS) mod_ssl/2.2.31 OpenSSL/1.0.2u
+HUSS/2.0
+Microsoft-IIS/5.0
+Microsoft-IIS/5.0
+Microsoft-HTTPAPI/2.0
+Apache
+Microsoft-IIS/5.0
+Apache
+Apache
+NA
+NA
+Microsoft-IIS/5.0
+NA
+NA
+NA
+Microsoft-IIS/8.5
+Apache/2.4.9 (Unix) OpenSSL/1.0.2k-fips mod_jk/1.2.48
+Microsoft-IIS/10.0
+Apache
+TornadoServer/6.1
+NA
+Microsoft-HTTPAPI/2.0
+HUSS/2.0
+Apache
+nginx
+Microsoft-HTTPAPI/2.0
+Apache
+Apache/2.4.18 (Ubuntu)
+Apache/2.4.6 (Win64) PHP/5.5.3
+NA
+Microsoft-IIS/10.0
+Apache
+NA
+NA
+Apache/2.4.9 (Unix) OpenSSL/1.0.2k-fips mod_jk/1.2.48
+Apache/2.4.9 (Unix) OpenSSL/1.0.2k-fips mod_jk/1.2.48
+NA
+Microsoft-IIS/8.5
+Microsoft-IIS/5.0
+Microsoft-IIS/5.0
+Microsoft-IIS/5.0
+HUSS/2.0
+Apache
+NA
+Apache
+Apache
+Apache/2.4.9 (Unix) OpenSSL/1.0.2k-fips mod_jk/1.2.48
+Apache
+NA
+Microsoft-IIS/7.5
+Microsoft-IIS/8.5
+Microsoft-IIS/5.0
+NA
+Microsoft-IIS/5.0
+HUSS/2.0
+Apache/2.2.20 (Unix) mod_ssl/2.2.20 OpenSSL/0.9.8e-fips-rhel5 DAV/2 PHP/5.2.16
+NA
+nxfps
+Apache
+NA
+Microsoft-IIS/6.0
+Apache/2.4.9 (Unix) OpenSSL/1.0.2k-fips mod_jk/1.2.48
+Microsoft-HTTPAPI/2.0
+Apache
+Apache
+Microsoft-IIS/8.5
+NA
+Apache
+Microsoft-IIS/8.0
+Apache
+Microsoft-IIS/10.0
+Microsoft-IIS/8.5
+Microsoft-IIS/10.0
+TornadoServer/6.1
+Apache/2.4.9 (Unix) OpenSSL/1.0.2k-fips mod_jk/1.2.48
+Apache
+Apache
+Jetty(9.4.34.v20201102)
+Microsoft-IIS/10.0
+HUSS/2.0
+Apache
+NA
+HUSS/2.0
+NA
+Microsoft-HTTPAPI/2.0
+NA
+Apache
+Apache/2.4.9 (Unix) OpenSSL/1.0.2k-fips mod_jk/1.2.48
+Apache-Coyote/1.1
+NA
+NA
+Location: http://sso.jnu.ac.kr/AuthServer/CookieCheck.aspx?URL=https%3A%2F%2Fsearch.jnu.ac.kr%2F
+Apache
+NA
+Microsoft-IIS/8.5
+Microsoft-IIS/10.0
+Microsoft-IIS/5.0
+NA
+Apache
+Apache/2.4.29 (Win64) PHP/7.1.14
+Apache
+Apache/2.4.9 (Unix) OpenSSL/1.0.2k-fips mod_jk/1.2.48
+Apache
+Apache
+Apache/2.4.9 (Unix) OpenSSL/1.0.2k-fips mod_jk/1.2.48
+Microsoft-IIS/8.5
+Apache/2.4.9 (Unix) OpenSSL/1.0.2k-fips mod_jk/1.2.48
+HUSS/2.0
+WEBrick/1.3.1 (Ruby/1.9.3/2013-11-22)
+Apache/2.4.9 (Unix) OpenSSL/1.0.2k-fips mod_jk/1.2.48
+NA
+Apache/2.4.9 (Unix) OpenSSL/1.0.2k-fips mod_jk/1.2.48
+Apache
+Apache
+Apache/2.4.9 (Unix) OpenSSL/1.0.2k-fips mod_jk/1.2.48
+Apache
+Microsoft-IIS/5.0
+Apache/2.4.9 (Unix) OpenSSL/1.0.2k-fips mod_jk/1.2.48
+nginx
+Microsoft-IIS/8.0
+Apache
+Apache/2.4.9 (Unix) OpenSSL/1.0.2k-fips mod_jk/1.2.48
+Microsoft-IIS/10.0
+Microsoft-HTTPAPI/2.0
+NA
+Microsoft-IIS/10.0
+NA
+Apache/2.4.9 (Unix) OpenSSL/1.0.2k-fips mod_jk/1.2.48
+Microsoft-IIS/10.0
+Microsoft-IIS/8.5
+Microsoft-IIS/10.0
+HUSS/2.0
+NA
+Microsoft-IIS/5.0
+Microsoft-IIS/10.0
+NGXMP/14.0
+Apache
+HUSS/2.0
+NA
+NA
+Microsoft-IIS/10.0
+Apache/2.4.6 (Ubuntu)
+NA
+HUSS/2.0
+Apache/2.2.23 (Fedora)
+Microsoft-IIS/10.0
+Apache-Coyote/1.1
+Apache
+nginx
+Apache
+Microsoft-IIS/5.0
+NA
+Apache
+NA
+Microsoft-IIS/10.0
+NA
+Microsoft-IIS/5.0
+NA
+Apache/2.4.9 (Unix) OpenSSL/1.0.2k-fips mod_jk/1.2.48
+NA
+Microsoft-IIS/10.0
+Microsoft-IIS/5.0
+Microsoft-IIS/8.5
+Microsoft-IIS/5.0
+HUSS/2.0
+Apache
+Apache/2.4.9 (Unix) OpenSSL/1.0.2k-fips mod_jk/1.2.48
+Apache
+Apache
+TornadoServer/6.1
+Microsoft-IIS/10.0
+Microsoft-IIS/10.0
+NA
+Microsoft-IIS/8.5
+NA
+Apache/2.4.9 (Unix) OpenSSL/1.0.2k-fips mod_jk/1.2.48
+Apache
+Mongoose/6.5
+Apache
+HUSS/2.0
+HUSS/2.0
+Apache
+Apache/2.4.29 (Ubuntu)
+Apache
+nginx/1.16.1 (Ubuntu)
+NA
+nginx
+NA
+nginx
+NA
+NA
+Apache/2.4.9 (Unix) OpenSSL/1.0.2k-fips mod_jk/1.2.48
+Apache
+HUSS/2.0
+NA
+Apache
+Apache
+Apache
+Microsoft-IIS/5.0
+nginx
+Microsoft-IIS/5.0
+Apache/2.4.9 (Unix) OpenSSL/1.0.2k-fips mod_jk/1.2.48
+Apache/2.4.9 (Unix) OpenSSL/1.0.2k-fips mod_jk/1.2.48
+Microsoft-IIS/10.0
+Apache
+Microsoft-IIS/5.0
+Apache/2.4.9 (Unix) OpenSSL/1.0.2k-fips mod_jk/1.2.48
+nginx
+Apache
+Apache-Coyote/1.1
+Microsoft-IIS/10.0
+NA
+NA
+Apache
+Apache/2.2.23 (Unix) DAV/2 mod_ssl/2.2.23 OpenSSL/1.0.1u
+NA
+Apache
+Microsoft-IIS/8.0
+Apache
+Apache
+NA
+Apache/2.4.9 (Unix) OpenSSL/1.0.2k-fips mod_jk/1.2.48
+NA
+NA
+NA
+Microsoft-IIS/10.0
+Microsoft-IIS/5.0
+NA
+Apache
+Microsoft-IIS/10.0
+NA
+Apache/2.4.9 (Unix) OpenSSL/1.0.2k-fips mod_jk/1.2.48
+Apache
+NA
+NA
+Apache
+Microsoft-IIS/5.0
+Apache/2.4.9 (Unix) OpenSSL/1.0.2k-fips mod_jk/1.2.48
+HUSS/2.0
+Apache/2.4.9 (Unix) OpenSSL/1.0.2k-fips mod_jk/1.2.48
+Apache-Coyote/1.1
+Microsoft-IIS/10.0
+Apache
+Apache
+HUSS/2.0
+Apache/2.4.9 (Unix) OpenSSL/1.0.2k-fips mod_jk/1.2.48
+HUSS/2.0
+Apache/2.4.9 (Unix) OpenSSL/1.0.2k-fips mod_jk/1.2.48
+Apache/2.4.9 (Unix) OpenSSL/1.0.2k-fips mod_jk/1.2.48
+HUSS/2.0
+nginx/1.16.1
+NA
+NA
+Apache
+Apache/2.4.9 (Unix) OpenSSL/1.0.2k-fips mod_jk/1.2.48
+Apache
+Apache/2.4.9 (Unix) OpenSSL/1.0.2k-fips mod_jk/1.2.48
+HUSS/2.0
+Apache
+Apache-Coyote/1.1
+Apache/2.4.9 (Unix) OpenSSL/1.0.2k-fips mod_jk/1.2.48
+NA
+Microsoft-IIS/8.5
+nginx
+Microsoft-IIS/10.0
+Apache/2.2.14 (Win32) mod_jk/1.2.31
+NA
+HUSS/2.0
+Microsoft-IIS/5.0
+Microsoft-IIS/8.5
+HUSS/2.0
+Apache
+Apache/2.4.9 (Unix) OpenSSL/1.0.2k-fips mod_jk/1.2.48
+Apache
+NA
+Microsoft-IIS/5.0
+NA
+TornadoServer/6.1
+NA
+Jetty(9.4.34.v20201102)
+NA
+HUSS/2.0
+Apache/2.4.9 (Unix) OpenSSL/1.0.2k-fips mod_jk/1.2.48
+Microsoft-IIS/8.5
+NA
+Microsoft-IIS/10.0
+Microsoft-IIS/10.0
+Microsoft-IIS/10.0
+NA
+Apache
+HUSS/2.0
+Microsoft-IIS/8.5
+Apache
+Microsoft-HTTPAPI/2.0
+NA
+NA
+Apache
+Microsoft-IIS/5.0
+nginx/1.14.0 (Ubuntu)
+Apache
+Apache
+Apache
+Microsoft-IIS/7.5
+Apache
+NA
+Microsoft-IIS/10.0
+Microsoft-IIS/10.0
+Microsoft-IIS/5.0
+Apache
+Microsoft-IIS/5.0
+Apache
+Apache
+Apache/2.4.9 (Unix) OpenSSL/1.0.2k-fips mod_jk/1.2.48
+Apache
+Microsoft-IIS/10.0
+Microsoft-IIS/8.5
+Apache/2.4.9 (Unix) OpenSSL/1.0.2k-fips mod_jk/1.2.48
+Microsoft-IIS/8.5
+Apache/2.4.9 (Unix) OpenSSL/1.0.2k-fips mod_jk/1.2.48
+Apache
+NA
+NA
+Apache
+HUSS/2.0
+Apache/2.4.9 (Unix) OpenSSL/1.0.2k-fips mod_jk/1.2.48
+nginx
+Apache
+NA
+Apache/2.2.17 (Fedora)
+Apache
+Apache
+Apache/2.4.7 (Ubuntu)
+Apache/2.4.7 (Ubuntu)
+NA
+nginx/1.14.0 (Ubuntu)
+Apache/2.4.9 (Unix) OpenSSL/1.0.2k-fips mod_jk/1.2.48
+NA
+Microsoft-IIS/5.0
+Microsoft-IIS/5.0
+Apache
+HUSS/2.0
+Apache
+Microsoft-IIS/5.0
+Apache-Coyote/1.1
+Apache
+NA
+Apache/2.4.29 (Ubuntu)
+Apache/2.4.9 (Unix) OpenSSL/1.0.2k-fips mod_jk/1.2.48
+Apache/2.4.9 (Unix) OpenSSL/1.0.2k-fips mod_jk/1.2.48
+Apache-Coyote/1.1
+NA
+Apache
+Apache/2.4.9 (Unix) OpenSSL/1.0.2k-fips mod_jk/1.2.48
+Apache/2.4.9 (Unix) OpenSSL/1.0.2k-fips mod_jk/1.2.48
+Microsoft-IIS/10.0
+Apache
+Microsoft-IIS/10.0
+Microsoft-IIS/10.0
+Apache/2.4.9 (Unix) OpenSSL/1.0.2k-fips mod_jk/1.2.48
+Apache
+Apache
+NA
+NA
+Apache
+Apache
+Microsoft-IIS/5.0
+Apache/2.4.9 (Unix) OpenSSL/1.0.2k-fips mod_jk/1.2.48
+Microsoft-IIS/5.0
+nginx
+Apache/2.4.34 (Win64) PHP/7.2.9
+NA
+NA
+NA
+Microsoft-IIS/8.5
+Apache/2.4.9 (Unix) OpenSSL/1.0.2k-fips mod_jk/1.2.48
+Apache
+NA
+Apache
+Microsoft-IIS/5.0
+Microsoft-IIS/5.0
+Apache
+Apache
+TornadoServer/6.1
+HUSS/2.0
+Microsoft-IIS/10.0
+Apache
+Microsoft-IIS/10.0
+Microsoft-IIS/8.5
+Microsoft-IIS/5.0
+HUSS/2.0
+Apache
+Apache
+Apache/2.4.9 (Unix) OpenSSL/1.0.2k-fips mod_jk/1.2.48
+NA
+Apache/2.4.9 (Unix) OpenSSL/1.0.2k-fips mod_jk/1.2.48
+Apache/2.4.9 (Unix) OpenSSL/1.0.2k-fips mod_jk/1.2.48
+Apache
+Apache
+NA
+NA
+Apache/2.4.9 (Unix) OpenSSL/1.0.2k-fips mod_jk/1.2.48
+Apache
+NA
+Apache/2.4.9 (Unix) OpenSSL/1.0.2k-fips mod_jk/1.2.48
+Apache
+Apache
+Microsoft-IIS/10.0
+Apache
+NA
+Apache
+Microsoft-IIS/10.0
+Apache
+Microsoft-IIS/8.5
+Apache
+Apache
+Apache
+Microsoft-IIS/5.0
+Apache
+Microsoft-IIS/10.0
+Apache
+Microsoft-IIS/5.0
+Microsoft-IIS/8.5
+NA
+Microsoft-IIS/10.0
+Apache
+Apache
+NA
+NA
+Microsoft-IIS/5.0
+NA
+Apache
+Microsoft-IIS/5.0
+Apache
+Apache
+Microsoft-IIS/5.0
+HUSS/2.0
+Apache
+Microsoft-IIS/5.0
+HUSS/2.0
+HUSS/2.0
+Microsoft-IIS/10.0
+Apache/2.4.9 (Unix) OpenSSL/1.0.2k-fips mod_jk/1.2.48
+Microsoft-IIS/8.5
+Apache
+Microsoft-IIS/5.0
+Apache/2.4.9 (Unix) OpenSSL/1.0.2k-fips mod_jk/1.2.48
+Apache
+Apache
+Microsoft-IIS/5.0
+Microsoft-IIS/5.0
+Microsoft-IIS/5.0
+NA
+Apache/2.4.9 (Unix) OpenSSL/1.0.2k-fips mod_jk/1.2.48
+Microsoft-IIS/5.0
+Microsoft-IIS/8.0
+Apache/2.4.9 (Unix) OpenSSL/1.0.2k-fips mod_jk/1.2.48
+NA
+lighttpd/1.4.23
+HUSS/2.0
+HUSS/2.0
+NA
+Microsoft-IIS/5.0
+NA
+HUSS/2.0
+NA
+Microsoft-IIS/10.0
+HUSS/2.0
+Microsoft-IIS/10.0
+Apache
+NA
+NA
+HUSS/2.0
+Apache/2.4.9 (Unix) OpenSSL/1.0.2k-fips mod_jk/1.2.48
+Microsoft-IIS/10.0
+Apache
+Apache
+Apache
+WEBrick/1.3.1 (Ruby/1.9.3/2013-11-22)
+Apache
+Microsoft-IIS/8.0
+Apache
+Apache
