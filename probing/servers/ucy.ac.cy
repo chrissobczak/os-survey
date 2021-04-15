@@ -2252,3 +2252,51 @@ NA
 NA
 NA
 NA
+NA
+NA
+NA
+Apache/2.4.6 (CentOS) OpenSSL/1.0.2k-fips PHP/7.3.21
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+Apache/2.4.6 (CentOS) OpenSSL/1.0.2k-fips PHP/5.4.45
+NA
+NA
+Microsoft-IIS/8.0
+NA
+NA
+Apache/2.4.6 (CentOS) OpenSSL/1.0.2k-fips PHP/7.3.21
+Apache/2.4.6 (CentOS) OpenSSL/1.0.2k-fips PHP/7.3.21
+NA
+Microsoft-IIS/10.0
+NA
+NA
+NA
+NA
+NA
+NA
+Apache
+NA
+NA
+NA
+NA
+NA
+Apache/2.4.6 (CentOS) PHP/7.2.10
+NA
+NA
+NA
+NA
+NA
+Apache/2.4.6 (CentOS) OpenSSL/1.0.2k-fips PHP/7.3.21
+NA
+NA
+NA
+NA
+NA
+NA
+NA
