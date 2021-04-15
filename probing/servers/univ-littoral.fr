@@ -1,0 +1,472 @@
+Apache
+Apache/2.4.25 (Debian)
+NA
+Apache/2.4.25 (Debian)
+NA
+NA
+NA
+nginx/1.4.6 (Ubuntu)
+Apache
+Apache/2.4.38 (Debian)
+Apache
+NA
+NA
+NA
+Apache
+Apache
+Apache
+Apache
+Apache
+Apache
+Apache/2.4.25 (Debian)
+Apache
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+Apache/2.4.10 (Debian)
+Apache
+Apache/2.2.15 (Red Hat)
+EZproxy
+Apache
+NA
+NA
+EZproxy
+NA
+Apache
+nginx
+NA
+Apache
+Apache
+NA
+NA
+NA
+Apache
+nginx
+NA
+EZproxy
+NA
+Apache/2.4.38 (Debian)
+Apache
+NA
+NA
+NA
+EZproxy
+NA
+NA
+Apache/2.4.25 (Debian)
+Apache
+Apache
+NA
+Apache
+Apache
+Apache
+Apache
+NA
+NA
+NA
+Apache/2.4.25 (Debian)
+NA
+Apache
+Apache
+NA
+NA
+Apache
+NA
+NA
+Apache
+Apache/2.4.25 (Debian)
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+Apache
+Apache
+EZproxy
+NA
+NA
+EZproxy
+NA
+NA
+Apache
+NA
+NA
+NA
+Apache
+NA
+NA
+Apache
+NA
+Apache/2.4.25 (Debian)
+NA
+NA
+Apache
+Apache
+NA
+NA
+Apache
+NA
+NA
+NA
+EZproxy
+Apache/2.4.10 (Debian)
+NA
+EZproxy
+NA
+nginx/1.14.2
+NA
+Apache
+nginx/1.14.2
+NA
+NA
+NA
+NA
+EZproxy
+NA
+Apache
+Apache/2.4.25 (Debian)
+NA
+Apache/2.4.25 (Debian)
+NA
+NA
+Apache/2.4.10 (Debian)
+NA
+EZproxy
+NA
+Apache/2.4.25 (Debian)
+NA
+EZproxy
+NA
+NA
+Apache
+Apache
+NA
+NA
+NA
+EZproxy
+Apache
+NA
+Apache
+EZproxy
+Apache/2.4.41 (Ubuntu)
+NA
+NA
+NA
+NA
+NA
+NA
+Apache
+NA
+Apache
+NA
+NA
+nginx
+NA
+NA
+NA
+Apache/2.4.38 (Debian)
+Apache
+nginx
+NA
+NA
+NA
+NA
+NA
+Apache
+Apache
+NA
+NA
+NA
+Apache
+Apache
+NA
+NA
+NA
+NA
+Apache
+Apache
+NA
+NA
+NA
+NA
+NA
+EZproxy
+NA
+Apache
+NA
+NA
+nginx
+NA
+Apache
+Apache
+NA
+NA
+NA
+NA
+EZproxy
+NA
+NA
+NA
+NA
+NA
+NA
+Apache
+Apache/2.4.38 (Debian)
+NA
+Apache/2.4.25 (Debian)
+EZproxy
+NA
+Apache
+NA
+Apache/2.4.25 (Debian)
+Apache/2.4.38 (Debian)
+NA
+Apache
+NA
+NA
+NA
+EZproxy
+EZproxy
+Apache
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nginx
+Apache/2.4.25 (Debian)
+nginx/1.14.0 (Ubuntu)
+Apache
+nginx
+NA
+nginx
+Apache
+Apache
+NA
+Apache
+Apache
+NA
+EZproxy
+Apache
+Apache
+NA
+NA
+NA
+Apache/2.4.25 (Debian)
+NA
+Apache/2.4.38 (Debian)
+Apache
+EZproxy
+Apache
+Apache
+NA
+Apache
+Apache/2.4.38 (Debian)
+Apache
+NA
+NA
+NA
+NA
+Apache
+EZproxy
+NA
+NA
+NA
+Apache/2.4.10 (Debian)
+NA
+Apache
+Apache
+NA
+nginx
+NA
+NA
+Apache
+EZproxy
+Apache
+Apache
+Apache
+Apache
+Apache
+NA
+NA
+Apache/2.4.10 (Debian)
+Apache
+NA
+NA
+Apache
+NA
+nginx
+NA
+nginx/1.14.2
+Apache
+nginx/1.14.2
+Apache
+EZproxy
+NA
+NA
+Apache
+Apache
+Apache/2.4.25 (Debian)
+Apache
+nginx/1.14.0 (Ubuntu)
+NA
+Apache
+NA
+NA
+NA
+NA
+NA
+NA
+Apache
+Apache
+Apache/2.4.25 (Debian)
+EZproxy
+NA
+Apache
+Apache
+NA
+NA
+Apache
+NA
+Apache
+NA
+NA
+NA
+nginx/1.10.3 (Ubuntu)
+Apache
+Apache
+NA
+Apache
+Apache
+Apache
+Apache/2.4.3 (Unix)
+Apache/2.4.10 (Debian)
+nginx
+EZproxy
+NA
+NA
+NA
+Apache
+NA
+Apache/2.4.25 (Debian)
+Apache
+Apache/2.4.25 (Debian)
+NA
+EZproxy
+EZproxy
+nginx
+Apache/2.4.25 (Debian)
+NA
+NA
+NA
+Apache
+Apache
+NA
+NA
+Apache
+NA
+Apache/2.4.10 (Debian)
+nginx
+NA
+Apache
+Apache/2.4.38 (Debian)
+Apache
+Apache/2.4.38 (Debian)
+NA
+Apache
+NA
+NA
+NA
+NA
+Apache
+Apache
+NA
+Apache
+NA
+NA
+Apache
+NA
+NA
+Apache/2.4.3 (Unix)
+Apache
+NA
+NA
+Apache
+NA
+NA
+NA
+NA
+NA
+Apache
+NA
+EZproxy
+NA
+EZproxy
+Apache
+nginx/1.14.2
+NA
+NA
+NA
+EZproxy
+nginx/1.14.2
+Apache
+Apache
+NA
+NA
+NA
+Apache/2.4.25 (Debian)
+Apache
+NA
+Apache/2.4.25 (Debian)
+NA
+NA
+NA
+NA
+Apache
+NA
+EZproxy
+Apache
+Apache/2.4.10 (Debian)
+Apache
+NA
+NA
+NA
+NA
+Apache
+NA
+Apache
+NA
+NA
+NA
+NA
+NA
+nginx
+NA
+NA
+Apache
+Apache
+NA
+NA
+NA
+NA
+Apache
+NA
+NA
+NA
+NA
+Apache/2.4.25 (Debian)
+NA
+NA
+NA
+NA
+NA
+Apache/2.4.38 (Debian)
+Apache
