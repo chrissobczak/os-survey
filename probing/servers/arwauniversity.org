@@ -1,0 +1,19 @@
+Apache
+NA
+Apache
+Apache
+Apache
+Apache
+cPanel WWW-Authenticate: Basic realm="Horde DAV Server"
+NA
+Apache
+Apache
+cPanel
+NA
+Apache
+NA
+Apache
+Apache
+Apache
+cPanel WWW-Authenticate: Basic realm="Horde DAV Server"
+Apache
