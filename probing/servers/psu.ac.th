@@ -1,0 +1,446 @@
+nginx/1.14.0 (Ubuntu)
+Apache/2.2.11 (Unix) DAV/2 mod_ssl/2.2.11 OpenSSL/0.9.8i PHP/5.2.8 mod_apreq2-20051231/2.6.0 mod_perl/2.0.4 Perl/v5.10.0
+Apache/2.4.18 (Ubuntu)
+nginx/1.19.6
+NA
+NA
+NA
+nginx/1.14.1
+NA
+Microsoft-IIS/8.5
+Apache/2
+Apache/2.4.29 (Ubuntu)
+Apache/2.2.22 (Debian) PHP/5.4.45-0+deb7u2 mod_ssl/2.2.22 OpenSSL/1.0.1t
+Apache/2.4.29 (Ubuntu)
+NA
+Microsoft-IIS/8.5
+Apache/2.4.41 (Unix) OpenSSL/1.1.1d PHP/7.3.12 mod_perl/2.0.8-dev Perl/v5.16.3
+NA
+NA
+NA
+NA
+Microsoft-IIS/6.0 MicrosoftOfficeWeb5.0_Pub
+Apache/2.4.9 (Unix) OpenSSL/1.0.1g PHP/5.5.11 mod_perl/2.0.8-dev Perl/v5.16.3
+Apache/2
+Apache/2.0.53 (Fedora)
+NA
+Apache/2.2.22 (Ubuntu)
+Apache/2.4.29 (Ubuntu)
+Apache/2.4.18 (Ubuntu)
+Apache/2
+Microsoft-IIS/7.5
+NA
+NA
+Apache/2.4.6 (CentOS) PHP/7.1.6
+Microsoft-IIS/6.0
+nginx/1.17.3
+NA
+NA
+Apache/2.4.29 (Ubuntu)
+Microsoft-IIS/7.0
+ESF
+NA
+Apache/2.4.39 (Ubuntu)
+Apache/2
+Apache/2.4.6 (CentOS) OpenSSL/1.0.2k-fips PHP/5.6.40
+NA
+Apache/2.4.29 (Ubuntu)
+Microsoft-IIS/10.0
+Microsoft-IIS/10.0
+Apache/2.2.22 (Ubuntu)
+NA
+NA
+Microsoft-IIS/8.5
+NA
+Apache/2.2.3 (Red Hat)
+Microsoft-IIS/7.0
+ESF
+Apache/2.4.7 (Ubuntu)
+Apache/2.2.22 (Ubuntu)
+Apache/2.2.22 (Ubuntu)
+NA
+ESF
+Apache/2
+HTTP/1.1 500 Internal Server Error Apache/2
+Microsoft-IIS/10.0
+Apache/2
+NA
+NA
+NA
+NA
+Apache/2.2.22 (Ubuntu)
+Apache/2.2.22 (Ubuntu)
+NA
+NA
+NA
+Apache/2
+Apache/2.2.22 (Debian) PHP/5.4.45-0+deb7u2 mod_ssl/2.2.22 OpenSSL/1.0.1t
+NA
+Microsoft-IIS/8.5
+Apache/2.4.18 (Ubuntu)
+NA
+Microsoft-IIS/6.0
+Apache/2.4.18 (Ubuntu)
+Microsoft-IIS/8.0
+Apache/2.2.14 (Ubuntu)
+NA
+Apache/2.4.41 (Win64) OpenSSL/1.1.1c PHP/7.3.9
+Apache/2.4.29 (Ubuntu)
+Microsoft-IIS/7.5
+Microsoft-IIS/8.5
+NA
+lighttpd/1.4.54
+nginx
+NA
+Apache/2.2.22 (Ubuntu)
+Microsoft-IIS/8.5
+NA
+Apache/2.2.26 (CentOS)
+NA
+Apache/2.4.29 (Ubuntu)
+NA
+ESF
+NA
+Apache/2.4.18 (Ubuntu)
+NA
+NA
+Apache/2.4.29 (Ubuntu)
+NA
+Apache/2.2.22 (Ubuntu)
+Apache/2.4.29 (Ubuntu)
+NA
+Apache
+Microsoft-IIS/6.0
+Apache/2.4.29 (Ubuntu)
+Microsoft-IIS/8.5
+NA
+NA
+Apache/2.4.41 (Ubuntu)
+NA
+Microsoft-HTTPAPI/2.0
+nginx/1.16.1
+Microsoft-IIS/8.5
+NA
+nginx/1.19.9
+Apache/2.4.29 (Ubuntu)
+NA
+Microsoft-IIS/7.5
+nginx/1.16.1
+Microsoft-IIS/8.5
+Microsoft-IIS/7.5
+Apache/2
+NA
+ESF
+Microsoft-IIS/6.0
+NA
+NA
+Microsoft-IIS/10.0
+NA
+Apache/2
+Apache/2.4.29 (Ubuntu)
+NA
+Apache/2.4.18 (Ubuntu)
+NA
+Microsoft-IIS/8.5
+NA
+Apache/2.4.6 (CentOS) PHP/7.1.6
+Apache/2.4.7 (Ubuntu)
+NA
+NA
+nginx
+NA
+Microsoft-IIS/10.0
+Apache/2.2.22 (Ubuntu)
+NA
+Apache/2
+Apache/2.4.7 (Ubuntu)
+Microsoft-IIS/8.5
+NA
+Apache/2.4.29 (Ubuntu)
+nginx/1.18.0 (Ubuntu)
+Apache/2.4.7 (Ubuntu)
+Microsoft-IIS/10.0
+NA
+Apache/2.4.29 (Ubuntu)
+NA
+Apache/2.2.26 (CentOS)
+Microsoft-IIS/8.5
+lighttpd/1.4.28
+Apache/2.4.6 (CentOS) OpenSSL/1.0.2k-fips
+Apache/2.2.22 (Debian) PHP/5.4.45-0+deb7u2 mod_ssl/2.2.22 OpenSSL/1.0.1t
+Microsoft-IIS/7.5
+NA
+Apache/2.2.22 (Ubuntu)
+Apache/2.4.46 (Ubuntu)
+Microsoft-IIS/8.5
+Microsoft-IIS/6.0 MicrosoftOfficeWeb5.0_Pub
+NA
+NA
+NA
+Microsoft-IIS/6.0
+Apache/2.4.18 (Ubuntu)
+Apache/2.4.6 (CentOS) OpenSSL/1.0.2k-fips PHP/5.6.40
+NA
+NA
+ESF
+nginx
+Apache
+nginx
+ESF
+Apache/2.4.29 (Ubuntu)
+NA
+NA
+Apache/2
+Apache/2.4.29 (Ubuntu)
+nginx
+Microsoft-IIS/8.0
+NA
+NA
+NA
+NA
+Microsoft-IIS/10.0
+nginx/1.14.0 (Ubuntu)
+Caddy
+ESF
+Apache
+Apache/2.4.33 (Win32) OpenSSL/1.1.0h PHP/7.2.7
+NA
+Apache
+Apache/2.4.29 (Ubuntu)
+NA
+Apache/2.4.29 (Ubuntu)
+Apache/2.2.24 (Unix) DAV/2 PHP/5.3.26 mod_ssl/2.2.24 OpenSSL/0.9.8y
+Apache/2.4.41 (Win64) OpenSSL/1.1.1c PHP/7.3.9
+Apache/2.2.22 (Ubuntu)
+Microsoft-IIS/7.5
+NA
+Microsoft-IIS/10.0
+Apache/2.4.7 (Ubuntu)
+NA
+NA
+Apache/2.2.14 (Ubuntu)
+ESF
+NA
+Apache
+Apache/2.4.39 (Ubuntu)
+Microsoft-IIS/6.0 MicrosoftOfficeWeb5.0_Pub
+Microsoft-IIS/6.0
+NA
+Apache/2.4.6 (CentOS) OpenSSL/1.0.2k-fips PHP/7.4.15
+NA
+Apache/2.4.41 (Ubuntu)
+NA
+Microsoft-IIS/8.5
+Apache/2
+Varnish
+NA
+NA
+Apache/2.4.39 (Ubuntu)
+NA
+Microsoft-IIS/8.5
+Apache/2
+Apache
+NA
+Apache/2
+Apache
+NA
+Apache/2
+Apache/2.4.18 (Ubuntu)
+NA
+Microsoft-IIS/7.5
+NA
+Apache/2.4.39 (Ubuntu)
+NA
+Apache/2.4.29 (Ubuntu)
+Microsoft-IIS/10.0
+Apache/2.4.29 (Ubuntu)
+Apache/2.4.41 (Ubuntu)
+NA
+NA
+Microsoft-IIS/6.0
+NA
+NA
+Apache/2
+Apache/2.4.9 (Unix) OpenSSL/1.0.1g PHP/5.5.11 mod_perl/2.0.8-dev Perl/v5.16.3
+Apache/2.4.29 (Ubuntu)
+Microsoft-IIS/7.5
+NA
+ESF
+Apache/2.4.29 (Ubuntu)
+NA
+Apache/2
+Apache
+Apache/2.2.22 (Ubuntu)
+NA
+Apache/2.4.39 (Ubuntu)
+Microsoft-IIS/8.5
+Microsoft-IIS/7.5
+NA
+Apache/2
+Microsoft-IIS/10.0
+Apache/2.4.39 (Ubuntu)
+NA
+Apache/2.2.3 (Red Hat)
+Microsoft-IIS/6.0 MicrosoftOfficeWeb5.0_Pub
+Microsoft-IIS/6.0
+Apache/2.4.29 (Ubuntu)
+Apache
+Apache
+Apache/2.2.3 (CentOS)
+NA
+NA
+Microsoft-IIS/7.5
+Apache/2.4.10 (Debian)
+Apache/2.2.3 (Red Hat)
+NA
+NA
+Apache/2.4.29 (Ubuntu)
+Microsoft-IIS/8.5
+Microsoft-IIS/8.5
+NA
+Microsoft-IIS/6.0
+Apache/2.4.29 (Ubuntu)
+Apache
+Apache/2.4.7 (Ubuntu)
+NA
+Apache/2
+Apache/2
+Apache/2.4.46 (Ubuntu)
+Google Frontend
+NA
+Apache/2.4.29 (Ubuntu)
+NA
+nginx/1.18.0 (Ubuntu)
+NA
+Microsoft-IIS/10.0
+Apache/2.4.29 (Ubuntu)
+Microsoft-IIS/10.0
+Apache/2.4.10 (Debian)
+NA
+Apache/2.4.29 (Ubuntu)
+NA
+NA
+Microsoft-IIS/8.5
+NA
+Apache/2.2.3 (Red Hat)
+Microsoft-IIS/8.5
+NA
+NA
+Apache/2
+ESF
+Apache/2.4.39 (Ubuntu)
+Apache/2.2.3 (CentOS)
+Apache
+NA
+NA
+Apache/2.4.39 (Ubuntu)
+ESF
+NA
+NA
+Apache/2.4.6 (CentOS) OpenSSL/1.0.2k-fips PHP/5.6.40
+Microsoft-IIS/6.0 MicrosoftOfficeWeb5.0_Pub
+Microsoft-IIS/10.0
+NA
+Apache/2.2.14 (Ubuntu)
+NA
+nginx/1.14.0 (Ubuntu)
+Apache/2.4.39 (Ubuntu)
+nginx/1.14.0 (Ubuntu)
+Apache/2
+Microsoft-IIS/8.5
+NA
+NA
+Apache/2
+Microsoft-IIS/7.5
+HTTP/1.1 500 Internal Server Error Status: 500 Internal Server Error nginx/1.10.1 + Phusion Passenger 5.0.30
+Microsoft-IIS/8.5
+NA
+Apache/2
+Microsoft-IIS/8.5
+Apache/2.4.7 (Ubuntu)
+NA
+Microsoft-IIS/6.0
+Microsoft-IIS/8.0
+nginx
+Microsoft-IIS/6.0
+NA
+NA
+Apache/2.2.22 (Ubuntu)
+NA
+Microsoft-IIS/8.5
+NA
+NA
+Microsoft-IIS/8.5
+Apache/2.4.10 (Debian)
+Apache/2.2.3 (Red Hat)
+Apache/2.4.18 (Ubuntu)
+Apache/2
+Microsoft-IIS/7.5
+Microsoft-IIS/10.0
+NA
+Microsoft-IIS/8.5
+Apache/2.2.22 (Ubuntu)
+nginx/1.14.1
+lighttpd/1.4.55
+Apache/2
+Microsoft-IIS/7.5
+Microsoft-IIS/8.5
+Apache/2.2.22 (Ubuntu)
+Apache/2.2.3 (CentOS)
+Apache/2
+NA
+NA
+nginx
+NA
+NA
+nginx/1.14.0 (Ubuntu)
+Apache/2.4.29 (Ubuntu)
+NA
+Microsoft-IIS/10.0
+Apache/2.4.29 (Ubuntu)
+NA
+Apache/2.4.29 (Ubuntu)
+Microsoft-IIS/8.5
+NA
+nginx/1.15.8
+Microsoft-IIS/10.0
+NA
+NA
+Microsoft-IIS/8.0
+NA
+NA
+NA
+NA
+ESF
+NA
+NA
+nginx/1.19.6
+NA
+Microsoft-IIS/7.5
+Apache/2.4.6 (CentOS) OpenSSL/1.0.2k-fips PHP/5.6.40
+NA
+Apache/2.4.41 (Ubuntu)
+Apache/2
+NA
+Apache/2.4.25 (Debian)
+NA
+Apache/2.4.18 (Unix) OpenSSL/1.0.2g PHP/5.6.20 mod_perl/2.0.8-dev Perl/v5.16.3
+NA
+nginx
+Apache/2.4.43 (Win64) OpenSSL/1.1.1g PHP/7.4.8
+Microsoft-IIS/10.0
+lighttpd
+nginx/1.13.5
+Microsoft-IIS/8.0
+NA
+Apache/2.2.22 (Ubuntu)
+Microsoft-IIS/8.5
+NA
+NA
+Apache
+NA
+NA
+nginx
+Microsoft-IIS/10.0
+Caddy
+Apache/2.4.29 (Ubuntu)
