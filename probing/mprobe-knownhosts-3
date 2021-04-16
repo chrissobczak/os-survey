@@ -1,22 +1,22 @@
 #!/bin/sh
 
-n=$(ls -1 mdomains/ | wc | awk '{print $1}')
+n=$(ls -1 mdomains3/ | wc | awk '{print $1}')
 i=1
 
 while [ $i -le $n ]
 do
-	domain=$(ls -1 mdomains/ | sed "${i}q;d")
-	Mi=$(wc mdomains/$domain | awk '{print $1}')
+	domain=$(ls -1 mdomains3/ | sed "${i}q;d")
+	Mi=$(wc mdomains3/$domain | awk '{print $1}')
 	j=1
 
 	while [ $j -le $Mi ]
 	do
 		echo -ne "$j of $Mi in $domain ($i of $n domains)\n"
-		server=$(curl -I -s --connect-timeout 2 "$(sed "${j}q;d" mdomains/$domain)" | grep Server | sed "s/Server:\s//g")
+		server=$(curl -I -s --connect-timeout 2 "$(sed "${j}q;d" mdomains3/$domain)" | grep Server | sed "s/Server:\s//g")
 		if [ -z "$server" ]; then
-			server=$(curl -I -s --connect-timeout 2 "https://$(sed "${j}q;d" mdomains/$domain)" | grep Server | sed "s/Server:\s//g")
+			server=$(curl -I -s --connect-timeout 2 "https://$(sed "${j}q;d" mdomains3/$domain)" | grep Server | sed "s/Server:\s//g")
 			if [ -z "$server" ]; then
-				server=$(curl -I -s --connect-timeout 2 "http://$(sed "${j}q;d" mdomains/$domain)" | grep Server | sed "s/Server:\s//g")
+				server=$(curl -I -s --connect-timeout 2 "http://$(sed "${j}q;d" mdomains3/$domain)" | grep Server | sed "s/Server:\s//g")
 				if [ -z "$server" ]; then
 					echo "NA" >> servers/$domain
 				else

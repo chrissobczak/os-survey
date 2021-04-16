@@ -1,4 +1,0 @@
-#!/bin/sh
-mkdir $1domains$2
-cp $1probe-knownhosts $1probe-knownhosts-$2
-sed -i 's/$1domains/$1domains$2/g' $1probe-knownhosts-$2
