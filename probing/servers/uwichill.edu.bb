@@ -1,0 +1,16 @@
+NA
+NA
+Microsoft-IIS/7.5
+NA
+Microsoft-IIS/7.5
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+Microsoft-IIS/7.5
+Microsoft-IIS/6.0 MicrosoftOfficeWeb5.0_Pub
+NA
+Microsoft-IIS/7.5
