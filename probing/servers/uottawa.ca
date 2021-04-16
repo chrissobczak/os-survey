@@ -1,0 +1,420 @@
+Microsoft-IIS/8.5
+NA
+NA
+IBM_HTTP_Server/6.0.2.31 Apache/2.0.47
+BigIP
+NA
+NA
+NA
+nginx
+NA
+NA
+NA
+BigIP
+NA
+BigIP
+nginx
+NA
+NA
+nginx
+NA
+NA
+NA
+NA
+Cowboy
+nginx
+NA
+NA
+NA
+Apache/2.2.3 (CentOS)
+Apache
+NA
+Apache
+NA
+NA
+Apache/2.0.59 (FreeBSD) mod_ssl/2.0.59 OpenSSL/0.9.7e-p1 PHP/5.1.6 with Suhosin-Patch
+NA
+NA
+NA
+NA
+Apache/2.0.46 (CentOS)
+NA
+NA
+Apache/2.2.3 (CentOS)
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nginx
+NA
+EZproxy
+NA
+nginx/1.6.0
+NA
+NA
+NA
+Apache
+NA
+nginx/1.4.6 (Ubuntu)
+NA
+NA
+NA
+NA
+NA
+EZproxy
+Apache/2.2.3 (CentOS)
+NA
+nginx
+NA
+NA
+NA
+Apache/2.2.15 (CentOS)
+Apache/2.2.3 (CentOS)
+Apache/2.0.59 (FreeBSD) mod_ssl/2.0.59 OpenSSL/0.9.7e-p1 PHP/5.1.6 with Suhosin-Patch
+NA
+NA
+NA
+NA
+Apache/2.2.3 (CentOS)
+NA
+nginx
+nginx
+Apache/2.2.3 (CentOS)
+NA
+NA
+NA
+EZproxy
+nginx
+NA
+NA
+NA
+Apache/2.2.15 (CentOS)
+NA
+Apache/2.2.3 (CentOS)
+EZproxy
+NA
+NA
+nginx
+BigIP
+nginx
+nginx/1.6.0
+NA
+NA
+nginx
+nginx
+Apache/2.4.9 (Win64) OpenSSL/1.0.1g PHP/5.5.12
+NA
+nginx
+NA
+NA
+Apache/2.0.59 (FreeBSD) mod_ssl/2.0.59 OpenSSL/0.9.7e-p1 PHP/5.1.6 with Suhosin-Patch
+NA
+NA
+nginx
+NA
+NA
+NA
+NA
+Apache/2.2.3 (CentOS)
+NA
+NA
+NA
+Apache/2.2.3 (CentOS)
+Apache/2.4.39 (Ubuntu)
+nginx
+Apache/2.2.3 (CentOS)
+NA
+nginx
+NA
+NA
+Apache/2.0.59 (FreeBSD) mod_ssl/2.0.59 OpenSSL/0.9.7e-p1 PHP/5.1.6 with Suhosin-Patch
+NA
+nginx
+NA
+Apache/2.2.15 (CentOS)
+nginx
+Apache/2.0.59 (FreeBSD) mod_ssl/2.0.59 OpenSSL/0.9.7e-p1 PHP/5.1.6 with Suhosin-Patch
+Apache/2.2.3 (CentOS)
+NA
+BigIP
+nginx
+Apache/2.2.3 (CentOS)
+NA
+Apache
+nginx
+EZproxy
+NA
+NA
+NA
+NA
+nginx
+NA
+nginx
+NA
+nginx
+NA
+NA
+NA
+NA
+NA
+nginx
+Apache/2.0.59 (FreeBSD) mod_ssl/2.0.59 OpenSSL/0.9.7e-p1 PHP/5.1.6 with Suhosin-Patch
+Apache/2.2.3 (CentOS)
+nginx
+NA
+nginx
+BigIP
+Apache/2.2.15 (CentOS)
+NA
+NA
+NA
+NA
+NA
+NA
+nginx
+NA
+Apache/2.4.29 (Ubuntu)
+NA
+NA
+NA
+NA
+NA
+BigIP
+NA
+nginx
+NA
+NA
+NA
+Microsoft-IIS/8.5
+NA
+NA
+Apache/2.2.15 (CentOS)
+HTTP/1.1 500 Internal Server Error Apache/2.2.3 (CentOS)
+nginx
+nginx
+nginx
+NA
+NA
+nginx
+NA
+NA
+Apache/2.2.3 (CentOS)
+NA
+EZproxy
+Apache/2.2.15 (CentOS)
+NA
+NA
+NA
+nginx
+NA
+NA
+Microsoft-IIS/7.5
+Microsoft-IIS/6.0
+NA
+NA
+NA
+NA
+NA
+NA
+nginx
+NA
+NA
+nginx
+NA
+NA
+NA
+Apache
+NA
+NA
+BigIP
+NA
+Apache/2.2.3 (CentOS)
+Apache/2.4.6 (Ubuntu)
+NA
+NA
+nginx
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nginx
+NA
+NA
+BigIP
+NA
+NA
+NA
+NA
+NA
+Apache/2.0.59 (FreeBSD) mod_ssl/2.0.59 OpenSSL/0.9.7e-p1 PHP/5.1.6 with Suhosin-Patch
+nginx
+BigIP
+NA
+NA
+nginx
+NA
+NA
+NA
+nginx
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+Apache/2.2.15 (CentOS)
+EZproxy
+Microsoft-IIS/7.5
+NA
+NA
+NA
+nginx/1.11.8
+nginx
+openresty
+NA
+NA
+nginx
+NA
+NA
+NA
+NA
+Apache
+Apache/2.2.15 (CentOS)
+NA
+NA
+nginx
+Apache/2.2.3 (CentOS)
+NA
+NA
+nginx
+NA
+NA
+NA
+NA
+nginx
+NA
+NA
+Apache/2.0.46 (CentOS)
+NA
+NA
+NA
+NA
+nginx
+nginx
+NA
+NA
+NA
+HTTP/1.1 500 Internal Server Error Apache/2.2.3 (CentOS)
+NA
+NA
+nginx
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nginx
+NA
+NA
+NA
+NA
+Microsoft-IIS/6.0
+NA
+EZproxy
+Microsoft-HTTPAPI/2.0
+NA
+Apache/2.2.3 (CentOS)
+NA
+Apache/2.0.53 (Fedora)
+NA
+NA
+NA
+nginx
+NA
+nginx
+nginx
+NA
+nginx
+NA
+NA
+nginx
+NA
+NA
+NA
+nginx
+NA
+NA
+NA
+NA
+NA
+NA
+Apache/2.4.39 (Ubuntu)
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nginx
+NA
+NA
+NA
+NA
+EZproxy
+NA
+NA
+Microsoft-IIS/6.0
+NA
+BigIP
+NA
+Apache/2.2.15 (CentOS)
+NA
+NA
+BigIP
+NA
+NA
+NA
+nginx
+nginx/1.4.6 (Ubuntu)
+NA
+NA
+NA
+NA
+server: ACTS WebSocketServer
+Apache/2.4.6 (CentOS) OpenSSL/1.0.2k-fips PHP/5.4.16
+NA
+Apache/2.2.3 (CentOS)
+nginx
+NA
+NA
+nginx
+NA
+NA
+Apache/2.0.59 (FreeBSD) mod_ssl/2.0.59 OpenSSL/0.9.7e-p1 PHP/5.1.6 with Suhosin-Patch
+EZproxy
+NA
+NA
+Apache
+EZproxy
+NA
+NA
+NA
+NA
+NA
+Apache
+NA

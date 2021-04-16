@@ -1,0 +1,303 @@
+nginx
+BigIP
+III 150
+III 150
+III 150
+nginx
+III 150
+NA
+NA
+III 150
+III 150
+Microsoft-HTTPAPI/2.0
+BigIP
+III 100
+BigIP
+NA
+NA
+III 150
+NA
+NA
+NA
+NA
+III 150
+BigIP
+nginx
+NA
+NA
+NA
+nginx
+Apache
+III 150
+NA
+BigIP
+III 100
+Apache
+NA
+III 150
+NA
+NA
+Apache
+Apache
+III 150
+BigIP
+nginx
+NA
+Apache
+III 100
+nginx
+III 150
+III 150
+NA
+BigIP
+NA
+Microsoft-IIS/8.5
+NA
+Apache
+BigIP
+III 100
+III 100
+Microsoft-IIS/7.5
+Apache
+Apache
+III 150
+Apache
+III 150
+III 150
+NA
+III 150
+Apache
+nginx
+NA
+III 150
+Apache
+NA
+Apache
+nginx
+Apache/2.4.6 (Red Hat Enterprise Linux) OpenSSL/1.0.2k-fips
+NA
+III 150
+nginx
+BigIP
+NA
+III 150
+BigIP
+NA
+NA
+III 150
+NA
+III 150
+III 150
+NA
+Microsoft-IIS/8.5
+NA
+III 150
+nginx
+NA
+Oracle-HTTP-Server-11g
+nginx X-Backend-libguides-us-2.springyaws.com
+III 150
+Microsoft-IIS/10.0
+nginx X-Backend-libanswers-us-3.springyaws.com
+nginx
+nginx
+III 150
+Apache
+III 150
+NA
+BigIP
+Apache
+Apache
+III 150
+Apache
+NA
+Microsoft-IIS/10.0
+NA
+nginx
+NA
+Apache/2.4.6 (Red Hat Enterprise Linux) OpenSSL/1.0.2k-fips
+NA
+NA
+III 150
+BigIP
+III 150
+NA
+nginx
+BigIP
+Microsoft-IIS/10.0
+nginx
+Microsoft-IIS/10.0
+NA
+Apache/2.4.18 (Red Hat) OpenSSL/1.0.1e-fips PHP/5.6.25
+Microsoft-IIS/8.5
+III 150
+Apache
+III 150
+III 100
+III 100
+III 150
+WWW Server/1.1
+BigIP
+Apache
+NA
+Apache-Coyote/1.1
+NA
+Apache
+Apache/2.4.10 (Debian)
+III 100
+Apache/2.4.6 (Red Hat Enterprise Linux) OpenSSL/1.0.2k-fips
+Microsoft-IIS/8.5
+III 150
+NA
+III 150
+NA
+III 150
+III 150
+NA
+NA
+NA
+NA
+Microsoft-IIS/8.5
+Apache
+nginx
+III 150
+NA
+NA
+NA
+NA
+Apache
+III 150
+Microsoft-IIS/8.5
+nginx
+NA
+III 150
+Apache/2.4.6 (Red Hat Enterprise Linux) OpenSSL/1.0.2k-fips
+III 150
+Apache/2.4.6 (Red Hat Enterprise Linux) OpenSSL/1.0.2k-fips
+NA
+NA
+nginx
+Apache-Coyote/1.1
+III 100
+Apache/2.4.6 (Red Hat Enterprise Linux) OpenSSL/1.0.2k-fips mod_wsgi/3.4 Python/2.7.5
+Microsoft-IIS/8.5
+III 150
+NA
+nginx
+III 150
+Apache
+NA
+III 150
+NA
+awselb/2.0
+III 100
+nginx/1.10.3 (Ubuntu)
+Apache
+nginx
+III 100
+BigIP
+NA
+NA
+X-MS-Server-Fqdn: LYCVFRTP03.mc.ad.lluahsc.org
+NA
+Apache
+NA
+Apache
+Apache
+nginx
+Apache
+Apache
+III 150
+Apache
+NA
+III 150
+NA
+NA
+III 150
+III 150
+Apache
+NA
+BigIP
+Microsoft-IIS/10.0
+nginx
+III 150
+NA
+Apache
+nginx
+NA
+Microsoft-HTTPAPI/2.0
+III 150
+Apache
+Apache
+III 150
+III 150
+III 100
+NA
+NA
+III 150
+III 150
+nginx
+NA
+BigIP
+III 150
+Apache/2.4.46 (codeit) OpenSSL/1.1.1h PHP/7.2.34
+BigIP
+NA
+III 150
+nginx
+NA
+III 150
+III 150
+NA
+nginx
+BigIP
+III 150
+III 150
+Apache/2.2.15 (Red Hat)
+Apache/2.4.6 (Red Hat Enterprise Linux) OpenSSL/1.0.2k-fips PHP/7.2.22
+BigIP
+NA
+III 150
+III 150
+BigIP
+nginx
+NA
+III 150
+Microsoft-IIS/8.5
+Apache
+III 150
+nginx
+NA
+NA
+Apache
+Apache/2.4.6 (Red Hat Enterprise Linux) OpenSSL/1.0.2k-fips
+NA
+nginx
+III 150
+III 150
+NA
+NA
+nginx
+NA
+III 150
+III 150
+NA
+III 150
+nginx
+Apache
+III 150
+III 150
+Apache
+NA
+NA
+Apache
+Apache
+III 150
+NA
+Apache/2.4.6 (CentOS) OpenSSL/1.0.2k-fips
+cloudflare
+BigIP
+NA
+X-MS-Server-Fqdn: LYCVFRTP03.mc.ad.lluahsc.org
+NA
+nginx/1.14.2
