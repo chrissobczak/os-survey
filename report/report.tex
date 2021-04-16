@@ -85,6 +85,7 @@ ftp servers and other internal affairs.
 
 
 \begin{flushleft}
+\begin{multicols}{2}
 
 \section{Background}
 Open source software or ``free and open source software'' (FOSS)
@@ -107,30 +108,34 @@ software. This organization can claim whatever they want
 about the security and privacy of their software but
 without having the right to audit the source code,
 there is no reason to believe any of those claims.
-If the only way a software package is considered \textit{secure}
-is by the fact that no one know's how it works except the producer,
-then as soon as the code becomes available due to a leak, it can
-all be considered compromised as we have seen often from
-Microsoft (\cite{solarwinds2021}). FOSS is secure through industry standard
+This raises security concerns in proprietary software since
+if the only way a software package is considered \textit{secure}
+is by the fact that no one knows how it works except the producer,
+then as soon as the code becomes available (due to a leak), it can
+all be considered compromised. This happens constantly with the Microsoft
+Windows operating system, as we have seen most recently with the Solar
+Winds attack (\cite{solarwinds2021}).
+FOSS is secure through industry standard
 security schemes, cryptography and by the knowledge of the thousands
 of programmers who have access to it (compared to the relatively
 smaller number of people who work on a single companies development
 team).
 
 Finally, maybe the more important reason for institutions,
-FOSS is also (most of the time) free as in no cost (in addition
+FOSS is also (most of the time) free of cost (in addition
 to ``free as in freedom'').
 Universities and other public institutions
 spend millions of dollars each year on software licenses
 for their students, staff and web services and other
 infrastructure. Increasing costs for post-secondary education and
 healthcare administration costs can be attributed to some extent to
-these rising software licensing prices. The increasing costs
-make higher education less excessible and harm the most
+these rising software licensing prices and the constant
+need for cybersecurity improvements. The increasing costs
+make higher education less accessible and harm the most
 vulnerable populations who rely on affordable healthcare.
 A very obvious way to reduce
 costs is be replacing these proprietary packages with equivalent
-and more secure free and open source software (\cite{kenny2000}).
+and more secure, free, and open source software (\cite{kenny2000}).
 
 In addition to the problamatic cost of closed source, proprietary
 software, these costly, licensed software packages are most vulnerable
@@ -159,22 +164,34 @@ highest level registered domain names are probed to
 extract all their associated subdomains, defining the secondary
 sampling units (ssus).
 A census was then taken of these ssus
-to determine the software run at each domain name and
-calculate to proportion of the school's software was open
-source.
+to determine the software run at each public domain name and
+calculate the proportion of the school's services that
+run open source software.
 
 To provide an example, if Simon Fraser University (SFU)
 was draw into our sample, the unit of interest would be
 their registered domain name \texttt{sfu.ca}. Using the
 tool \texttt{findomain}, all of the subdomains under
-\texttt{sfu.ca} are collected into a file for probing.
+\texttt{sfu.ca} are collected into a file and probed to see if the service is up.
 Some example subdomains are \texttt{mailgate.sfu.ca},
 \texttt{imapnew.sfu.ca}, and \texttt{canvas.sfu.ca} for
 the schools email services and canvas portal. This is
-only a very short list of some of the possible subdomains
-as it is common to have thousands of subdomains associated
-to the same top name.
+only a very short list of some of the possible subdomains.
+It is common to have thousands of subdomains associated
+to the same top name for each school. Finally, filtering out all of
+the services that are not up, the header of the service is pulled
+using \texttt{curl}, which includes information about the software
+running at that address. The results are cleaned aggregated and proportions
+of the resulting categories are tabulated.
 Details on the tools I used in \autoref{sec:tools} \hyperref[sec:tools]{Tools}.
+
+For example, pulling the server information from \texttt{mail.sfu.ca} for
+SFU's mail service results in \texttt{Microsoft-IIS/10.0} as it is a
+Microsoft Exchange mail server. All responses including this, \texttt{MS},
+\texttt{Win64}, and other server names that are licensed with anything
+except the \textit{GPL}, \textit{BSD}, \textit{MIT}, or \textit{Apache}
+licenses are considered proprietary, whereas those responses with
+the mentioned licenses are considered open source.
 
 \subsection{Survey Design}
 
@@ -230,17 +247,15 @@ With an appropriate sample size of $n=1067$,
 using an R script to
 draw the sample, the selected school domains
 are saved in the \texttt{data.Rda} file found
-in the GitHub repository.
-\textbf{\underline{The sampling script
-can be found in the
-appendix}}.
+in the GitHub repository, along with \texttt{sample.R},
+used to draw the sample.
 Within the sample, 1049 schools have only
 one registered domain, 16 schools have two
 registered domains and 2 have three
 domains.
 
 $$
-	N=9693, \ n=1067, \ m_0=2539008
+	N=9693, \ n=1067, \ m_0\approx2539008
 $$
 
 The following 18 schools that were drawn in the sample
@@ -303,10 +318,33 @@ each psu is available at the \textbf{github names \dots}.
 \textbf{Any anticpiated shortcomings in your study desgin
 and their impact on your conclusions about the questions
 of interest.}
-\begin{itemize}
-\item Non-responses
-\item Shortcomings in the sampling frame (may not actually contain `all' schools in the world)
-\end{itemize}
+
+\subsection{Bias}
+Although the sample size for the study is very large, some bias in the sample
+could contribute to errors in the conclusions. One possible source of bias
+is the sampling frame potentially not including \textit{all} universities in
+the world. Inevitably, this is the case, however it seems reasonable to consider
+the sample draw from the frame is representative of the target population
+(244 schools from the US, 23 from Canada, 10 from Italy, and so on).
+
+Another potential source of bias in this study includes a few technical
+limitations. First, the \texttt{findomain} tool relies on databases and
+other historical DNS records and methods to identify subdomains, but it
+could miss some, most likely missing newly registered subdomains which
+may not represent the true makeup of the schools services. Additional
+bias could be introduced with \texttt{curl}, when it is not able
+to make a connection, or the header of the document not included the required
+server information for this study, the response is counted as an \texttt{NA}.
+However, it is almost always the case, that these
+missed, and unidentified servers are internal services, observational units that
+are outside the scope of the target population, not considered in this study.
+
+Finally, a few of the schools in the sample were unreachable for probing,
+particularly schools far from the location that the study was conducted
+and schools in countries under strict internet policies like China and
+Saudi Arabia. The large sample size helps limit the impact of these
+non-responses, however further attempts could be taken to pull that
+information, given more time and resources.
 
 
 
@@ -324,7 +362,7 @@ Documentation for the tools can be found in the Appendix
 \subsection{Extracting Info From SSUs}
 \texttt{curl -I}
 
-
+\end{multicols}
 \end{flushleft}
 \printbibliography
 \section{Appendix}
