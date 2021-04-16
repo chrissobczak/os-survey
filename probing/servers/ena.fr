@@ -1,0 +1,34 @@
+Apache
+nginx
+NA
+Microsoft-IIS/8.5
+Apache
+NA
+Apache/2.4.10 (Debian)
+nginx/1.14.0 (Ubuntu)
+nginx
+Apache/2.4.7 (Ubuntu)
+Apache/2.4.7 (Ubuntu)
+Apache/2.4.29 (Ubuntu)
+NA
+NA
+Microsoft-IIS/8.5
+Apache/2.4.7 (Ubuntu)
+Apache/2.4.7 (Ubuntu)
+Apache/2.4.7 (Ubuntu)
+Apache
+Microsoft-IIS/8.5
+NA
+NA
+Apache
+Apache
+Apache/2.4.29 (Ubuntu)
+Apache/2.4.7 (Ubuntu)
+NA
+Apache
+NA
+nginx
+nginx
+Apache
+nginx/1.18.0 (Ubuntu)
+Apache/2.2.22 (Debian)
