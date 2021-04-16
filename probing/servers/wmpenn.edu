@@ -1,0 +1,31 @@
+NA
+nginx
+Apache/2.4.29 (Win64) OpenSSL/1.1.0g PHP/7.1.9
+nginx
+Apache/2.4.18 (Ubuntu)
+Apache/2.4.29 (Win64) OpenSSL/1.1.0g PHP/5.6.33
+NA
+Apache/2.4.18 (Ubuntu)
+NA
+X-Server-Id: saas-app30b lighttpd/1.4.55
+NA
+BigIP
+NA
+nginx
+X-Server-Id: saas-app30c lighttpd/1.4.55
+NA
+Apache/2.4.29 (Ubuntu)
+Microsoft-IIS/10.0 X-FEMWHPR1601CA0020 X-FEMWHPR1601CA0020
+Apache/2.4.18 (Ubuntu)
+Microsoft-IIS/8.0
+NA
+Microsoft-IIS/7.5
+Microsoft-HTTPAPI/2.0
+NA
+Apache/2.4.18 (Ubuntu)
+nginx
+NA
+Microsoft-IIS/10.0
+Microsoft-IIS/10.0 X-FEMW4PR04CA0186 X-FEMW4PR04CA0186
+Microsoft-IIS/8.5
+Microsoft-IIS/10.0

@@ -1,0 +1,14 @@
+nohup ./wprobe-knownhosts wm.edu >> log-w &
+nohup ./wprobe-knownhosts wmpenn.edu >> log-w &
+nohup ./wprobe-knownhosts wpi.edu >> log-w &
+nohup ./wprobe-knownhosts wright.edu >> log-w &
+nohup ./wprobe-knownhosts wsfiz.edu.pl >> log-w &
+nohup ./wprobe-knownhosts wsm.gdynia.pl >> log-w &
+nohup ./wprobe-knownhosts wsu.ac.za >> log-w &
+nohup ./wprobe-knownhosts wsu.edu.et >> log-w &
+nohup ./wprobe-knownhosts wuacc.edu >> log-w &
+nohup ./wprobe-knownhosts wustl.edu >> log-w &
+nohup ./wprobe-knownhosts wvc.edu >> log-w &
+nohup ./wprobe-knownhosts wvncc.edu >> log-w &
+nohup ./wprobe-knownhosts wvsu.edu.ph >> log-w &
+nohup ./wprobe-knownhosts wwcc.wy.edu >> log-w &

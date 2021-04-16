@@ -226,3 +226,23 @@ Apache
 NA
 Apache
 cloudflare
+NA
+Apache/2.4.6 (CentOS) OpenSSL/1.0.2k-fips PHP/5.4.16
+NA
+cloudflare
+cloudflare
+NA
+Apache/2.4.34 (Red Hat) OpenSSL/1.0.2k-fips
+NA
+cloudflare
+NA
+Apache/2.4.46 (Amazon) OpenSSL/1.0.2k-fips PHP/5.6.40
+cloudflare
+NA
+nginx/1.6.3
+Microsoft-IIS/7.5
+NA
+NA
+cloudflare
+cloudflare
+LiteSpeed
