@@ -234,3 +234,140 @@ nginx
 NA
 nginx/1.16.1
 Apache/2.4.6 (CentOS) OpenSSL/1.0.2k-fips PHP/5.4.16
+nginx
+NA
+Apache
+Apache/2.4.6 (CentOS) OpenSSL/1.0.2k-fips PHP/5.6.40
+Apache
+Apache
+NA
+NA
+Apache
+NA
+NA
+nginx/1.17.9
+NA
+nginx
+NA
+Apache/2.4.7 (Ubuntu)
+Apache
+Apache
+HTTP/1.1 500 Internal Server Error Apache/2.4.6 (CentOS) OpenSSL/1.0.2k-fips mod_nss/1.0.14 NSS/3.28.4 PHP/5.4.16
+Apache
+NA
+nginx/1.16.1
+NA
+Apache/2.4.46 (Win64) OpenSSL/1.1.1h PHP/7.4.13
+Apache
+nginx
+nginx/1.16.1
+NA
+Apache/2.4.6 (CentOS) OpenSSL/1.0.2k-fips
+NA
+Apache
+nginx/1.13.12
+nginx
+NA
+Apache
+nginx
+NA
+NA
+Apache
+Apache/2.4.6 (CentOS) OpenSSL/1.0.2k-fips PHP/7.2.14
+Apache/2.4.37 (centos) OpenSSL/1.1.1g mod_wsgi/4.6.4 Python/3.6
+Apache
+nginx/1.17.9
+NA
+NA
+Apache
+NA
+Apache
+Apache
+nginx/1.16.1
+NA
+Apache/2.4.37 (centos) OpenSSL/1.1.1c
+nginx/1.19.1
+Apache/2.4.10 (Debian)
+nginx/1.19.3
+NA
+Apache
+nginx
+NA
+NA
+NA
+NA
+Apache
+Apache
+Apache/2.4.6 (CentOS) OpenSSL/1.0.2k-fips PHP/7.2.34
+nginx/1.17.10
+Apache/2.4.6 (CentOS) OpenSSL/1.0.2k-fips PHP/7.2.11
+NA
+NA
+NA
+Apache
+Apache
+Apache/2.4.37 (centos) OpenSSL/1.1.1c
+Apache/2.4.37 (centos) OpenSSL/1.1.1c
+Server-Timing: cache;desc=miss, varnish;desc=miss, dc;desc=42
+NA
+NA
+Apache
+Apache/2.4.6 (CentOS) OpenSSL/1.0.2k-fips PHP/5.4.16
+NA
+Apache
+Apache/2.4.6 (CentOS) OpenSSL/1.0.2k-fips
+Apache/2.4.6 (CentOS) OpenSSL/1.0.2k-fips PHP/7.4.12
+Apache/2.4.6 (CentOS) OpenSSL/1.0.2k-fips PHP/5.4.16
+nginx/1.19.5
+Apache
+Apache
+NA
+NA
+Apache
+Apache/2.4.7 (Ubuntu)
+nginx
+NA
+nginx
+NA
+NA
+NA
+Apache/2.4.18 (Ubuntu)
+Apache
+NA
+Apache/2.4.6 (CentOS) OpenSSL/1.0.2k-fips PHP/5.4.16
+nginx/1.19.1
+nginx
+Apache/2.4.37 (centos) OpenSSL/1.1.1g mod_wsgi/4.6.4 Python/3.6
+Apache/2.4.6 (CentOS) OpenSSL/1.0.2k-fips PHP/7.2.34
+Apache
+NA
+Apache
+Apache
+nginx/1.17.9
+Apache
+Apache
+nginx
+NA
+Apache
+Apache
+Apache/2.2.22 (Ubuntu)
+NA
+Microsoft-IIS/8.5
+NA
+Apache/2.4.18 (Ubuntu)
+NA
+Apache/2.4.6 (CentOS) OpenSSL/1.0.2k-fips PHP/5.4.45
+Apache
+nginx
+NA
+nginx/1.17.3
+NA
+Apache/2.4.41 (Ubuntu)
+nginx/1.17.9
+NA
+Apache/2.4.18 (Ubuntu)
+Apache
+Apache/2.4.6 (CentOS) OpenSSL/1.0.2k-fips PHP/7.2.14
+Apache
+NA
+Apache/2.4.41 (Ubuntu)

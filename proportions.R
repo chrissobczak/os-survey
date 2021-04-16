@@ -1,28 +1,29 @@
 library(stringr)
-domains <- paste0('servers/',read.csv('domains',header=F)$V1)
+domains <- paste0('probing/servers/',read.csv('domains',header=F)$V1)
 n <- length(domains)
 
 APACHE='(Apache|Jetty|Prometheus)'
-BSD='(lighttpd|BSD|nginx|CherryPy|thttpd)'
-GPL='(Debian|Ubuntu|Payara|Icecast|GlassFish|Cherokee|squid|gSOAP)'
+BSD='(lighttpd|nginx|CherryPy|thttpd)'
+GPL='(Payara|Icecast|GlassFish|Cherokee|squid|gSOAP)'
 MIT='Twisted'
 GENFOSS='(Open Source|Ethernut)'
 PROP='(Microsoft|Helix|Cloudflare|MS-Server|LiteSpeed|Perservica)'
 
 cats <- c(APACHE,BSD,GPL,MIT,GENFOSS,PROP)
 
-OS_NOT='(Win|Win64|Enterprise|HP|CANON)'
+OS_OPEN='(Debian|Ubuntu|SUSE)'
+OS_PROP='(Win|Win64|Enterprise|HP|CANON)'
 
 
 props <- data.frame(
-	domain=gsub('servers/','',domains),
+	domain=gsub('probing/servers/','',domains),
 	Mi=NA,
 	apache=NA,
 	bsd=NA,
 	gpl=NA,
 	mit=NA,
-	genfoss=NA,
 	prop=NA,
+	genfoss=NA,
 	missing=NA
 )
 for(d in seq_along(domains)){
@@ -40,7 +41,7 @@ for(d in seq_along(domains)){
 	props[d,'mit'] <- length(grep(MIT,servers,ignore.case=T))/Mi
 	props[d,'genfoss'] <- length(grep(GENFOSS,servers,ignore.case=T))/Mi
 	props[d,'prop'] <- length(grep(PROP,servers,ignore.case=T))/Mi
-	props[d,'missing'] <- 1-sum(props[d,3:8])
+	props[d,'missing'] <- 1-sum(props[d,3:7])
 }
 
 write.table(props,
