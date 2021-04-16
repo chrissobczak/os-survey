@@ -1351,3 +1351,91 @@ NA
 NA
 NA
 Microsoft-IIS/10.0
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+Apache/2.4.6 (Red Hat Enterprise Linux)
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+Apache/2.4.38 (Debian)
+NA
+NA
+NA
+NA
+NA
+NA
+Apache/2.4.6 (CentOS) OpenSSL/1.0.2k-fips PHP/7.4.16
+NA
+HTTP/1.0 500 Internal Server Error Apache/2.4.38 (Raspbian)
+Apache/2.4.38 (Debian) OpenSSL/1.1.1d mod_qos/11.61
+Apache/2.4.6 (Red Hat Enterprise Linux) OpenSSL/1.0.2k-fips PHP/7.1.33
+NA
+NA
+NA
+NA
+Apache-Coyote/1.1
+NA
+NA
+NA
+NA
+NA
+Apache/2.4.46 (Debian)
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+Apache
+NA
+NA
+NA
+Apache/2.4.23 (Win32) OpenSSL/1.0.2h PHP/5.6.23
+NA
+BigIP
+NA
+Apache/2.4.38 (Debian)
+NA
+nginx/1.18.0
+Microsoft-IIS/10.0
+NA
+NA
+Apache/2.2.15 (Red Hat)
+NA
+NA
+Apache/2.4.6 (CentOS) OpenSSL/1.0.2k-fips PHP/7.4.15
+NA
+NA
+BigIP
+NA
+NA
+NA
+Apache/2.4.38 (Debian) mod_fcgid/2.3.9 OpenSSL/1.1.1d
+NA
+Apache/2.4.38 (Debian)
+NA
+Apache/2.4.46 (Debian)
+NA
+Apache/2.2.3 (CentOS)
