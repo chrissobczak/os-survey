@@ -530,3 +530,79 @@ NA
 nginx
 NA
 NA
+Apache/2.4.34 (Red Hat)
+NA
+BigIP
+NA
+NA
+nginx
+BigIP
+NA
+Apache/2.2.3 (CentOS)
+NA
+NA
+NA
+NA
+Apache/2.2.3 (CentOS)
+NA
+nginx
+NA
+nginx/1.4.6 (Ubuntu)
+NA
+NA
+NA
+NA
+NA
+nginx
+NA
+nginx
+nginx/1.4.6 (Ubuntu)
+NA
+Apache/2.0.59 (FreeBSD) mod_ssl/2.0.59 OpenSSL/0.9.7e-p1 PHP/5.1.6 with Suhosin-Patch
+NA
+NA
+NA
+BigIP
+Apache
+NA
+Apache/2.4.6 (CentOS)
+Apache/2.4.29 (Ubuntu)
+NA
+Apache
+NA
+nginx
+NA
+Apache/2.4.6 (CentOS) OpenSSL/1.0.2k-fips PHP/7.3.23
+NA
+NA
+Apache/2.2.15 (CentOS)
+Apache/2.4.6 (CentOS) OpenSSL/1.0.2k-fips PHP/7.4.9
+NA
+Apache/2.4.6 (CentOS) OpenSSL/1.0.2k-fips PHP/7.3.26
+NA
+NA
+NA
+EZproxy
+NA
+NA
+nginx/1.4.6 (Ubuntu)
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+Apache/2.2.3 (CentOS)
+nginx
+NA
+Apache/2.2.3 (CentOS)
+NA
+NA
+NA
+nginx/1.18.0
+NA
+nginx
+NA
+LiteSpeed
+NA
