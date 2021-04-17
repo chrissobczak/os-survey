@@ -3127,3 +3127,48 @@ NA
 NA
 nginx
 NA
+NA
+NA
+NA
+dcs-lig-httpd
+NA
+NA
+NA
+NA
+Apache/2.2.14 (Ubuntu)
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+Apache/2.2.15 (CentOS)
+NA
+HTTP/1.1 500 Internal Server Error nginx
+NA
+NA
+NA
+NA
+NA
+Apache/2.4.6 (CentOS) OpenSSL/1.0.2k-fips PHP/5.6.33
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nginx
