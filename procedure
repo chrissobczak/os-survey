@@ -6,7 +6,7 @@ Rscript proportions.R
 echo -ne "Rscrip calculate.R\n\n"
 Rscript calculate.R
 # Maybe add a script to make the new graphs for the report - plots.R
-Rscrip plots.R
+Rscript plots.R
 # Run concat, to concatinate all the psus into the results folder
 # Then run proportions.R to calculate the proportions per psu
 # Run calc.R to calculate the estimates
