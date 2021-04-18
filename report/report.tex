@@ -327,6 +327,22 @@ $$
 		\sum_{i \in S} M_i
 	}
 $$
+with a standard error of
+$$
+	\textrm{SE}(\hat{\bar{y}}_r)
+	=
+	\sqrt{
+		\left(
+			1 - \frac{n}{N}
+		\right)
+		\frac{1}{n\bar{M}^2}
+		\frac{
+			\sum_{i \in S}M_i^2\left(\bar{y}_i-\hat{\bar{y}}_r\right)^2
+		}{
+			n-1
+		}
+	}
+$$
 
 
 \textbf{table about the findings, make some graphs to put in the appendix \dots}
