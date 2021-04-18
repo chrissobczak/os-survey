@@ -1,5 +1,5 @@
 library(stringr)
-domains <- paste0('probing/servers/',read.csv('domains',header=F)$V1)
+domains <- paste0('results/',read.csv('domains',header=F)$V1)
 n <- length(domains)
 
 APACHE='(Apache|Jetty|Prometheus)'
