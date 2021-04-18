@@ -22,6 +22,6 @@ barplot(
 	border=F,
 	ylab='Proportion of Nonresponses',
 	main='Proportions of Nonresponses per Sample Size per Country',
-	cex.axis=0.5
+	cex.names=0.7
 )
 dev.off()
