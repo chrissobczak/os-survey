@@ -394,7 +394,9 @@ $$
 \textrm{sum of weights of a full sample in class $c$}
 }
 $$
-$c$ being the country. The weight factor is then the recipricol of $\hat{\phi}_c$, $\frac{1}{\hat{\phi}_c}$.
+With $c$ being the country, when the full sample was successfully returned,
+$\hat{\phi}_c=1$, causing no impact on the calculated estimates for that country.
+The weight factor is then the recipricol of $\hat{\phi}_c$, $\frac{1}{\hat{\phi}_c}$.
 The weight factor for countries not shown in Table \ref{table:weights} is $N/n$.
 The new weights are calculated with
 $$
@@ -427,6 +429,7 @@ surprisingly
 low. Considering the benefits of open source software, you would expect a
 university to use proprietary software only when the specific legacy software
 that they need to run can \textit{only} be run on a proprietary platform.
+
 Despite that, we see that a big proportion of universities prefer paying for the
 enterprise licenses and security risks, over free and secure alternatives. It shows
 that within academic institutions, there is room to change and save money by
