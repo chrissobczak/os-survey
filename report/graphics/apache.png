@@ -1,0 +1,13 @@
+--2021-04-18 10:40:36--  https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Apache_Software_Foundation_Logo_(2016).svg/1200px-Apache_Software_Foundation_Logo_(2016).svg.png
+Loaded CA certificate '/etc/ssl/certs/ca-certificates.crt'
+Resolving upload.wikimedia.org (upload.wikimedia.org)... 198.35.26.112, 2620:0:863:ed1a::2:b
+Connecting to upload.wikimedia.org (upload.wikimedia.org)|198.35.26.112|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 56037 (55K) [image/png]
+Saving to: ‘1200px-Apache_Software_Foundation_Logo_(2016).svg.png’
+
+     0K .......... .......... .......... .......... .......... 91%  682K 0s
+    50K ....                                                  100% 8.80T=0.07s
+
+2021-04-18 10:40:36 (746 KB/s) - ‘1200px-Apache_Software_Foundation_Logo_(2016).svg.png’ saved [56037/56037]
+

@@ -1,0 +1,12 @@
+--2021-04-18 10:41:25--  https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/MIT_logo.svg/220px-MIT_logo.svg.png
+Loaded CA certificate '/etc/ssl/certs/ca-certificates.crt'
+Resolving upload.wikimedia.org (upload.wikimedia.org)... 198.35.26.112, 2620:0:863:ed1a::2:b
+Connecting to upload.wikimedia.org (upload.wikimedia.org)|198.35.26.112|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 565 [image/png]
+Saving to: ‘220px-MIT_logo.svg.png’
+
+     0K                                                       100% 19.5M=0s
+
+2021-04-18 10:41:25 (19.5 MB/s) - ‘220px-MIT_logo.svg.png’ saved [565/565]
+

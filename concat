@@ -17,7 +17,7 @@ do
 	if [ -z "$multi" ]; then
 		echo "Not in multi"
 	else
-		echo "***\t***\tIN MULTI\t***\t***\n"
+		echo "\t***\t***\t***\tIN MULTI\t***\t***\t***\t\n"
 		d2=$(grep $domain audit/multi.csv | awk -F "," '{print $5}')
 		d3=$(grep $domain audit/multi.csv | awk -F "," '{print $6}')
 		if [ "$d3" = 'NA' ]; then

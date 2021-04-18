@@ -1,7 +1,9 @@
 #!/bin/sh
 ./concat > concat.output
 ls -1 results/ > domains
-Rscript proportions.R > props.output
+echo -ne "Rscrip proportions.R\n\n"
+Rscript proportions.R
+echo -ne "Rscrip calculate.R\n\n"
 Rscript calculate.R
 # Maybe add a script to make the new graphs for the report - plots.R
 

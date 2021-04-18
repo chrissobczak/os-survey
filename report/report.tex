@@ -368,16 +368,62 @@ $$
 It is possible that the nonresponses are missing completely at random,
 but it is more likely that the nonresponses are missing at random, given
 covariates (\cite{lohr2019}). This is more likely since it is possible that
-the unreachable schools and domains are correlated with other factors, including
-the response, the kind of server software.
+the unreachable schools and domains are correlated with other factors especially
+the location of the school (country). It is also possible but less likely that
+the nonresponse is correlated with the actual license of software used (the
+response variable in this study), so we will be adjusting according to
+the "Missing at Random" scheme in \cite{lohr2019}.
 
 In order to compensate for the nonresponse schools
 in the sample, calculations will be adjusted using weighting
-class adjustment using countries as auxiliary variables. The table
-of weights is shown in \autoref{sec:weights} \hyperref[sec:weights]{Weighting Classes}
-in the Appendix.
+class adjustment using countries as auxiliary variables. Table
+\ref{table:weights} shows the
+sum of weights, sample size, and respondents for each class (country)
+(Section \autoref{sec:weights} \hyperref[sec:weights]{Weighting Classes} of
+the Appendix).
+Only countries with nonresponses in the class are show.
+Those not included in the picture maintain the same $N/n$ weighting.
 
-This estimate for the proportions of licenses, although a majority, surprisingly
+For each of the countries of the table, $\hat{\phi}_c$ is defined as
+$$
+\hat{\phi}_c
+=
+\frac{
+\textrm{sum of weights of respondents in class $c$}
+}{
+\textrm{sum of weights of a full sample in class $c$}
+}
+$$
+$c$ being the country. The weight factor is then the recipricol of $\hat{\phi}_c$, $\frac{1}{\hat{\phi}_c}$.
+The weight factor for countries not shown in Table \ref{table:weights} is $N/n$.
+The new weights are calculated with
+$$
+\tilde{w}_i
+=
+w_i
+\sum_{c}
+\frac{x_{ci}{\hat{\phi}_c}
+$$
+Let $x_{ci}=1$ if unit $i$ is in class $c$, and $0$ otherwise, so that
+the new weights are adjusted according to their class specific $\hat{\phi}_c$.
+Our estimate is then calculated using the estimator $\hat{\bar{y}}_{wc}$,
+defined as
+$$
+\hat{\bar{y}}_{wc}
+=
+\frac{
+	\sum_{i \in S} \tilde{w}_iy_i
+}{
+	\sum_{i \in S} \tilde{w}_i
+}
+=
+$$
+
+The weighting class adjustment estimator reduces the proportion of FOSS software
+in use, suggesting that those countries that were less reachable showed an even
+lower proportion of FOSS software.
+This estimate for the proportions of licenses, although a slim majority, it is still
+surprisingly
 low. Considering the benefits of open source software, you would expect a
 university to use proprietary software only when the specific legacy software
 that they need to run can \textit{only} be run on a proprietary platform.
@@ -445,11 +491,13 @@ illegitimate SSL certificates preventing the data from being collected
 \end{flushleft}
 \printbibliography
 \section{Appendix}
+
 \subsection{Weighting Classes} \label{sec:weights}
 % latex table generated in R 4.0.5 by xtable 1.8-4 package
 % Sun Apr 18 02:18:16 2021
 \begin{table}[H]
 \centering
+\caption{Weighting Class Adjustment Factors}
 \begin{tabular}{l|cccccc}
 Country & \shortstack{Sample \\ Size} & Responses & \shortstack{Sum of \\ Sample Weights} & \shortstack{Sum of \\ Respondent Weights} & $\hat{\phi}_c$ & \shortstack{Weight \\ factor} \\
   \hline
@@ -496,6 +544,7 @@ United States & 244 & 222 & 2216.43 & 2016.59 & 0.91 & 1.10 \\
 Uzbekistan &   4 &   3 & 36.33 & 27.25 & 0.75 & 1.33 \\
 Venezuela &   4 &   3 & 36.33 & 27.25 & 0.75 & 1.33 \\
 \end{tabular}
+\label{table:weights}
 \end{table}
 
 \subsection{Tools} \label{sec:tools}

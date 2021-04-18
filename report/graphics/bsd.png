@@ -1,0 +1,12 @@
+--2021-04-18 10:41:53--  https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/BSD_wordmark.svg/1024px-BSD_wordmark.svg.png
+Loaded CA certificate '/etc/ssl/certs/ca-certificates.crt'
+Resolving upload.wikimedia.org (upload.wikimedia.org)... 198.35.26.112, 2620:0:863:ed1a::2:b
+Connecting to upload.wikimedia.org (upload.wikimedia.org)|198.35.26.112|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 32747 (32K) [image/png]
+Saving to: ‘1024px-BSD_wordmark.svg.png’
+
+     0K .......... .......... .......... .                    100%  641K=0.05s
+
+2021-04-18 10:41:53 (641 KB/s) - ‘1024px-BSD_wordmark.svg.png’ saved [32747/32747]
+

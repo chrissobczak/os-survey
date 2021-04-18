@@ -1,0 +1,13 @@
+--2021-04-18 10:39:44--  https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/GPLv3_Logo.svg/1200px-GPLv3_Logo.svg.png
+Loaded CA certificate '/etc/ssl/certs/ca-certificates.crt'
+Resolving upload.wikimedia.org (upload.wikimedia.org)... 198.35.26.112, 2620:0:863:ed1a::2:b
+Connecting to upload.wikimedia.org (upload.wikimedia.org)|198.35.26.112|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 75413 (74K) [image/png]
+Saving to: ‘1200px-GPLv3_Logo.svg.png’
+
+     0K .......... .......... .......... .......... .......... 67%  674K 0s
+    50K .......... .......... ...                             100% 1.57M=0.09s
+
+2021-04-18 10:39:44 (829 KB/s) - ‘1200px-GPLv3_Logo.svg.png’ saved [75413/75413]
+
