@@ -451,7 +451,7 @@ that were used for the study.
 All project source files can be found at this
 \href{https://github.com/chrissobczak/os-survey}{GitHub} repository.
 
-\subsection{Extracting All SSUs From Each PSU}
+\subsubsection{Extracting All SSUs From Each PSU}
 The tool \texttt{findomain} was used to collect all subdomains associated with a school.
 A simple \texttt{findomain -t \$domain} can be run to collect a full set of the subdomains
 for the given \texttt{\$domain}. However, as discussed, there may be limitations to any tool
@@ -462,7 +462,7 @@ The tool takes a domain and searches various databases and tests the domain
 for subdomains associated with it. I take this and output all the subdomains
 into a file for each school, and then test if the service is up.
 
-\subsection{Probing Hosts}
+\subsubsection{Probing Hosts}
 In order to save time in the data collection phase, I first validated the output
 given from \texttt{findomain} by probing each provided domain with the
 DNS lookup utility \texttt{dig}. This tool checks a DNS server to see if the
@@ -490,7 +490,7 @@ Date: Sun, 18 Apr 2021 06:1:45 GMT
 \end{lstlisting}
 The \texttt{Server} lines are extracted with \texttt{grep} and added to the results file for that school.
 
-\subsection{Network Mapper}
+\subsubsection{Network Mapper}
 At the beginning of the study, it was considered using the network mapping tool \texttt{nmap}.
 There are several legal controversies surrounding the use of this tool since it probes all ports at
 a given location and attempts to make connections. The advantage of this tool is greater identification
