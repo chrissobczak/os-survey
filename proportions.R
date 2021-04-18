@@ -43,7 +43,7 @@ for(d in seq_along(domains)){
 	props[d,'prop'] <- length(grep(PROP,servers,ignore.case=T))/Mi
 	props[d,'missing'] <- 1-sum(props[d,3:7])
 }
-
+props$FOSS <- apply(props[3:6],1,sum)
 write.table(props,
 	file='proportions.csv',
 	sep=',',
