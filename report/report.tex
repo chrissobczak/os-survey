@@ -1,4 +1,5 @@
 \documentclass{article}
+\usepackage{xcolor}
 \usepackage{verbatim}
 \usepackage{fancyvrb}
 \usepackage{colortbl}
@@ -44,6 +45,20 @@
 
 \theoremstyle{definition}
 \newtheorem{exmp}{Example}[section]
+\definecolor{codegray}{rgb}{0.5,0.5,0.5}
+\lstdefinestyle{mystyle}{
+    backgroundcolor=\color{backcolour},
+    basicstyle=\ttfamily\footnotesize,
+    breakatwhitespace=false,
+    breaklines=true,
+    captionpos=b,
+    keepspaces=true,
+    showspaces=false,
+    showstringspaces=false,
+    showtabs=false,
+    tabsize=2
+}
+\lstset{style=mystyle}
 
 \author{Chris Sobczak}
 \title{Survey of University Server Software}
@@ -303,7 +318,7 @@ Finally, \texttt{www.clcmn.edu} for
 Central Lakes College-Brainerd is another subdomain for their college
 that was already extracted from \texttt{clcmn.edu}, another duplicated domain.
 
-In the github repository, the file \texttt{domains} is the audited file containing all
+In the GitHub repository, the file \texttt{domains} is the audited file containing all
 of the highest level domains for the sample that the full observational information could
 be extracted. Domains omitted from this file were unreachable as mentioned in the discussion.
 From this file, the domains belonging to the same school have been concatinated
@@ -312,7 +327,7 @@ so that results can be organized by psu before calculating proportions.
 
 \section{Results}
 The full results dataset of proportion of servers at
-each psu is available on the github as \texttt{proportions.csv}.
+each psu is available on the GitHub as \texttt{proportions.csv}.
 The proportion of each license status is represented in the columns,
 in addition to the sum for the FOSS licenses to compare with the
 non-FOSS proportion. After the proportion is measured in each of
@@ -327,7 +342,6 @@ $$
 		\sum_{i \in S} M_i
 	}
 	=
-	replacethisybarhatr
 $$
 with a standard error of
 $$
@@ -344,9 +358,20 @@ $$
 			n-1
 		}
 	}
-	=
-	replacethisSEybarhatr
 $$
+$$
+=
+$$
+
+\subsection{Nonresponses}
+It is possible that the nonresponses are missing completely at random,
+but it is more likely that the nonresponses are missing at random, given
+covariates (\cite{lohr2019}). This is more likely since it is possible that
+the unreachable schools and domains are correlated with other factors, including
+the response, the kind of server software.
+
+In order to compensate for the nonresponse schools
+in the sample, calculations will be adjusted using \dots
 
 This estimate for the proportions of licenses, although a majority, surprisingly
 low. Considering the benefits of open source software, you would expect a
@@ -410,13 +435,6 @@ Saudi Arabia. Some of the schools that were also unreachable had
 illegitimate SSL certificates preventing the data from being collected
 (\cite{curlSSL}).
 
-\subsection{Nonresponses}
-It is possible that the nonresponses are missing completely at random,
-but it is more likely that the nonresponses are missing at random, give
-covariates (\cite{lohr2019}).
-
-In order to compensate for the nonresponse schools
-in the sample
 
 
 \end{multicols}
@@ -437,5 +455,10 @@ into a file for each school, and then test if the service is up.
 
 Documentation for the tools can be found in the Appendix
 \subsubsection{Extracting Info From SSUs}
-\texttt{curl -I}
+The \texttt{probe-knownhosts} scripts are shell scrips
+that run the following curl command on each line of each
+psu file, collecting the server data.
+\begin{lstlisting}
+curl -I -s --connect-timeout 2 $domain
+\end{lstlisting}
 \end{document}
