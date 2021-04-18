@@ -372,7 +372,8 @@ the unreachable schools and domains are correlated with other factors, including
 the response, the kind of server software.
 
 In order to compensate for the nonresponse schools
-in the sample, calculations will be adjusted using \dots
+in the sample, calculations will be adjusted using weighting
+class adjustment using countries as auxiliary variables.
 
 This estimate for the proportions of licenses, although a majority, surprisingly
 low. Considering the benefits of open source software, you would expect a
@@ -442,6 +443,61 @@ illegitimate SSL certificates preventing the data from being collected
 \end{flushleft}
 \printbibliography
 \section{Appendix}
+\subsection{Weighting Classes}
+% latex table generated in R 4.0.5 by xtable 1.8-4 package
+% Sun Apr 18 02:18:16 2021
+\begin{table}[ht]
+\centering
+\begin{tabular}{lrrrrrr}
+  \hline
+Country & Sample Size & Responses & Sum of Sample Weights & Sum of Respondent Weights & $\hat{\phi}_c & Weight factor \\
+  \hline
+Afghanistan &   4 &   3 & 36.33 & 27.25 & 0.75 & 1.33 \\
+Argentina &  15 &  14 & 136.26 & 127.17 & 0.93 & 1.07 \\
+Belarus &   5 &   4 & 45.42 & 36.33 & 0.80 & 1.25 \\
+Belgium &   6 &   5 & 54.50 & 45.42 & 0.83 & 1.20 \\
+Brazil &  22 &  20 & 199.84 & 181.67 & 0.91 & 1.10 \\
+Canada &  23 &  22 & 208.93 & 199.84 & 0.96 & 1.05 \\
+China &  44 &  39 & 399.68 & 354.27 & 0.89 & 1.13 \\
+Colombia &  13 &   8 & 118.09 & 72.67 & 0.62 & 1.62 \\
+Ecuador &   3 &   2 & 27.25 & 18.17 & 0.67 & 1.50 \\
+Ethiopia &   4 &   3 & 36.33 & 27.25 & 0.75 & 1.33 \\
+France &  30 &  25 & 272.51 & 227.09 & 0.83 & 1.20 \\
+India &  44 &  35 & 399.68 & 317.93 & 0.80 & 1.26 \\
+Indonesia &  16 &  12 & 145.34 & 109.00 & 0.75 & 1.33 \\
+Iran &  21 &  17 & 190.76 & 154.42 & 0.81 & 1.24 \\
+Iraq &   7 &   6 & 63.59 & 54.50 & 0.86 & 1.17 \\
+Italy &  10 &   9 & 90.84 & 81.75 & 0.90 & 1.11 \\
+Japan &  63 &  56 & 572.28 & 508.69 & 0.89 & 1.12 \\
+Korea, Republic of &  29 &  26 & 263.43 & 236.18 & 0.90 & 1.12 \\
+Latvia &   3 &   2 & 27.25 & 18.17 & 0.67 & 1.50 \\
+Lebanon &   3 &   2 & 27.25 & 18.17 & 0.67 & 1.50 \\
+Malaysia &  18 &  16 & 163.51 & 145.34 & 0.89 & 1.12 \\
+Mongolia &   3 &   2 & 27.25 & 18.17 & 0.67 & 1.50 \\
+Nigeria &  10 &   8 & 90.84 & 72.67 & 0.80 & 1.25 \\
+Panama &   4 &   2 & 36.33 & 18.17 & 0.50 & 2.00 \\
+Philippines &  13 &  10 & 118.09 & 90.84 & 0.77 & 1.30 \\
+Poland &  11 &  10 & 99.92 & 90.84 & 0.91 & 1.10 \\
+Puerto Rico &   3 &   2 & 27.25 & 18.17 & 0.67 & 1.50 \\
+Russian Federation &  26 &  23 & 236.18 & 208.93 & 0.88 & 1.13 \\
+Rwanda &   2 &   1 & 18.17 & 9.08 & 0.50 & 2.00 \\
+Saudi Arabia &   8 &   7 & 72.67 & 63.59 & 0.88 & 1.14 \\
+Spain &   8 &   7 & 72.67 & 63.59 & 0.88 & 1.14 \\
+Sudan &   8 &   4 & 72.67 & 36.33 & 0.50 & 2.00 \\
+Syrian Arab Republic &   4 &   3 & 36.33 & 27.25 & 0.75 & 1.33 \\
+Taiwan &  10 &   7 & 90.84 & 63.59 & 0.70 & 1.43 \\
+Tunisia &   2 &   1 & 18.17 & 9.08 & 0.50 & 2.00 \\
+Turkey &  27 &  25 & 245.26 & 227.09 & 0.93 & 1.08 \\
+Uganda &   4 &   3 & 36.33 & 27.25 & 0.75 & 1.33 \\
+Ukraine &   9 &   8 & 81.75 & 72.67 & 0.89 & 1.12 \\
+United Kingdom &  18 &  16 & 163.51 & 145.34 & 0.89 & 1.12 \\
+United States & 244 & 222 & 2216.43 & 2016.59 & 0.91 & 1.10 \\
+Uzbekistan &   4 &   3 & 36.33 & 27.25 & 0.75 & 1.33 \\
+Venezuela, Bolivarian Republic of &   4 &   3 & 36.33 & 27.25 & 0.75 & 1.33 \\
+   \hline
+\end{tabular}
+\end{table}
+
 \subsection{Tools} \label{sec:tools}
 The study was conducted using a combination of R, and shell scripting.
 Whenever possible, the basic GNU utilities are preferred over more complex
