@@ -2,7 +2,7 @@
 ./concat > concat.output
 ls -1 results/ > domains
 Rscript proportions.R > props.output
-Rscript calc.R
+Rscript calculate.R
 # Maybe add a script to make the new graphs for the report - plots.R
 
 # Run concat, to concatinate all the psus into the results folder
