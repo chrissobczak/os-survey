@@ -21,13 +21,10 @@ do
 		d3=$(grep $domain audit/multi.csv | awk -F "," '{print $6}')
 		if [ "$d3" = 'NA' ]; then
 			cat probing/servers/$d2 >> results/$domain
-			rm probing/servers/$d2
-			n=$(wc -l domains | awk '{print $1}')
 		else
 			cat probing/servers/{$d2,$d3} >> results/$domain
-			rm probing/servers/{$d2,$d3}
-			n=$(wc -l domains | awk '{print $1}')
 		fi
 	fi
 	i=$((++i))
 done
+cat audit/removemulti.csv | xargs rm
