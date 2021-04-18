@@ -24,8 +24,8 @@ barplot(
 )
 dev.off()
 
-df <- read.csv('proportions.csv')
 load('audit/calcs.RData')
+df <- read.csv('proportions.csv')
 
 c_props <- data.frame(country=c_s,prop=df[,'FOSS'])
 c_props <- c_props %>%

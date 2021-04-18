@@ -376,7 +376,9 @@ of schools are those that are furthest from the location the study was conducted
 It is also possible but less likely that
 the nonresponse is correlated with the actual license of software used (the
 response variable in this study), so we will be adjusting according to
-the ``Missing at Random" scheme in \cite{lohr2019}.
+the ``Missing at Random" scheme in \cite{lohr2019}. Figure \ref{fig:country}
+validates this assumption, the countries with the highest proportions of
+FOSS software are generally of the East, with a mix down the list.
 
 In order to compensate for the nonresponse schools
 in the sample, estimates are adjusted using weighting
@@ -613,8 +615,15 @@ Venezuela &   4 &   3 & 36.33 & 27.25 & 0.75 & 1.33 \\
 \begin{figure}[H]
 \centering
 \includegraphics{graphics/missingprops.pdf}
-\caption{}
+\caption{Proportion of sample that is missed from the results as nonresponse}
 \label{fig:props}
+\end{figure}
+
+\begin{figure}[H]
+\centering
+\includegraphics{graphics/country_props.pdf}
+\caption{Of countries with nonresponses, the proportion of responses that are FOSS}
+\label{fig:country}
 \end{figure}
 
 \end{document}
