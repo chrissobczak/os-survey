@@ -369,7 +369,11 @@ It is possible that the nonresponses are missing completely at random,
 but it is more likely that the nonresponses are missing at random, given
 covariates (\cite{lohr2019}). This is more likely since it is possible that
 the unreachable schools and domains are correlated with other factors especially
-the location of the school (country). It is also possible but less likely that
+the location of the school (country). Figure \ref{plot:props} in \autoref{sec:plots}
+\hyperef{sec:plots}{Nonresponse per Country}
+of the Appendix shows that the countries with the largest missing proportions
+of schools are those that are furthest from the location the study was conducted.
+It is also possible but less likely that
 the nonresponse is correlated with the actual license of software used (the
 response variable in this study), so we will be adjusting according to
 the "Missing at Random" scheme in \cite{lohr2019}.
@@ -378,8 +382,8 @@ In order to compensate for the nonresponse schools
 in the sample, calculations will be adjusted using weighting
 class adjustment using countries as auxiliary variables. Table
 \ref{table:weights} shows the
-sum of weights, sample size, and respondents for each class (country)
-(Section \autoref{sec:weights} \hyperref[sec:weights]{Weighting Classes} of
+sum of weights, sample size, and respondents for each class
+(\autoref{sec:weights} \hyperref[sec:weights]{Weighting Classes} of
 the Appendix).
 Only countries with nonresponses in the class are show.
 Those not included in the picture maintain the same $N/n$ weighting.
@@ -436,7 +440,6 @@ that within academic institutions, there is room to change and save money by
 replacing the expensive software with free alternatives.
 
 \textbf{table about the findings, make some graphs to put in the appendix \dots}
-\includegraphics{graphics/missingprops.pdf}
 
 
 \subsection{Discussion and Conclusion}
@@ -549,6 +552,13 @@ Venezuela &   4 &   3 & 36.33 & 27.25 & 0.75 & 1.33 \\
 \end{tabular}
 \label{table:weights}
 \end{table}
+
+\subsection{Nonresponses per Country} \label{sec:plots}
+\begin{figure}
+\centering
+\includegraphics{graphics/missingprops.pdf}
+\label{plot:props}
+\end{figure}
 
 \subsection{Tools} \label{sec:tools}
 The study was conducted using a combination of R, and shell scripting.
