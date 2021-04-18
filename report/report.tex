@@ -369,7 +369,7 @@ It is possible that the nonresponses are missing completely at random,
 but it is more likely that the nonresponses are missing at random, given
 covariates (\cite{lohr2019}). This is more likely since it is possible that
 the unreachable schools and domains are correlated with other factors especially
-the location of the school (country). Figure \ref{plot:props} in \autoref{sec:plots}
+the location of the school (country). Figure \ref{fig:props} in \autoref{sec:plots}
 \hyperref[sec:plots]{Nonresponse per Country}
 of the Appendix shows that the countries with the largest missing proportions
 of schools are those that are furthest from the location the study was conducted.
@@ -379,7 +379,7 @@ response variable in this study), so we will be adjusting according to
 the "Missing at Random" scheme in \cite{lohr2019}.
 
 In order to compensate for the nonresponse schools
-in the sample, calculations will be adjusted using weighting
+in the sample, estimates are adjusted using weighting
 class adjustment using countries as auxiliary variables. Table
 \ref{table:weights} shows the
 sum of weights, sample size, and respondents for each class
@@ -498,6 +498,62 @@ preventing the data from being collected with curl
 \printbibliography
 \section{Appendix}
 
+\subsection{Tools} \label{sec:tools}
+The study was conducted using a combination of R, and shell scripting.
+Whenever possible, the basic GNU utilities are preferred over more complex
+ones, as well as the scripting style being POSIX compliant instead of Bash
+specific. The following tools are those tools greater than the GNU basic utilities
+that were used for the study.
+All project source files can be found at this
+\href{https://github.com/chrissobczak/os-survey}{GitHub} repository.
+
+\subsubsection{Extracting All SSUs From Each PSU}
+The tool \texttt{findomain} was used to collect all subdomains associated with a school.
+A simple \texttt{findomain -t \$domain} can be run to collect a full set of the subdomains
+for the given \texttt{\$domain}. However, as discussed, there may be limitations to any tool
+attempting to collect all of these associated subdomains.
+The R script outputs the base second and third level subdomains
+into a file with one domain per line, for which I run \texttt{findomain -t}.
+The tool takes a domain and searches various databases and tests the domain
+for subdomains associated with it. I take this and output all the subdomains
+into a file for each school, and then test if the service is up.
+
+\subsubsection{Probing Hosts}
+In order to save time in the data collection phase, I first validated the output
+given from \texttt{findomain} by probing each provided domain with the
+DNS lookup utility \texttt{dig}. This tool checks a DNS server to see if the
+given domain actually exists and if the host is up. Without this step,
+probing from each of the SSUs would take much longer.
+
+\subsubsection{Extracting Info From SSUs}
+The \texttt{probe-knownhosts} scripts are shell scrips
+that run the following curl command on each line of each
+psu file, collecting the server data.
+\begin{lstlisting}
+curl -I -s --connect-timeout 2 $domain
+\end{lstlisting}
+This outputs the header of the page that might look like the following from \texttt{mail.sfu.ca}:
+\begin{lstlisting}
+HTTP/1.1 302 Moved Temporarily
+Cache-Control: no-cache
+Pragma: no-cache
+Content-Length: 0
+Location: https://mail.sfu.ca/owa/
+Server: Microsoft-IIS/10.0
+X-FEServer: ITS-EXCHANGE06
+X-RequestId: 66b65c01-b923-40f8-8337-ef6018996422
+Date: Sun, 18 Apr 2021 06:1:45 GMT
+\end{lstlisting}
+The \texttt{Server} lines are extracted with \texttt{grep} and added to the results file for that school.
+
+\subsubsection{Network Mapper}
+At the beginning of the study, it was considered using the network mapping tool \texttt{nmap}.
+There are several legal controversies surrounding the use of this tool since it probes all ports at
+a given location and attempts to make connections. The advantage of this tool is greater identification
+of operating system and other services at each location, however at the much greater cost of time and
+risk.
+
+
 \subsection{Weighting Classes} \label{sec:weights}
 % latex table generated in R 4.0.5 by xtable 1.8-4 package
 % Sun Apr 18 02:18:16 2021
@@ -554,65 +610,10 @@ Venezuela &   4 &   3 & 36.33 & 27.25 & 0.75 & 1.33 \\
 \end{table}
 
 \subsection{Nonresponses per Country} \label{sec:plots}
-\begin{figure}
+\begin{figure}[H]
 \centering
 \includegraphics{graphics/missingprops.pdf}
-\label{plot:props}
+\label{fig:props}
 \end{figure}
-
-\subsection{Tools} \label{sec:tools}
-The study was conducted using a combination of R, and shell scripting.
-Whenever possible, the basic GNU utilities are preferred over more complex
-ones, as well as the scripting style being POSIX compliant instead of Bash
-specific. The following tools are those tools greater than the GNU basic utilities
-that were used for the study.
-All project source files can be found at this
-\href{https://github.com/chrissobczak/os-survey}{GitHub} repository.
-
-\subsubsection{Extracting All SSUs From Each PSU}
-The tool \texttt{findomain} was used to collect all subdomains associated with a school.
-A simple \texttt{findomain -t \$domain} can be run to collect a full set of the subdomains
-for the given \texttt{\$domain}. However, as discussed, there may be limitations to any tool
-attempting to collect all of these associated subdomains.
-The R script outputs the base second and third level subdomains
-into a file with one domain per line, for which I run \texttt{findomain -t}.
-The tool takes a domain and searches various databases and tests the domain
-for subdomains associated with it. I take this and output all the subdomains
-into a file for each school, and then test if the service is up.
-
-\subsubsection{Probing Hosts}
-In order to save time in the data collection phase, I first validated the output
-given from \texttt{findomain} by probing each provided domain with the
-DNS lookup utility \texttt{dig}. This tool checks a DNS server to see if the
-given domain actually exists and if the host is up. Without this step,
-probing from each of the SSUs would take much longer.
-
-\subsubsection{Extracting Info From SSUs}
-The \texttt{probe-knownhosts} scripts are shell scrips
-that run the following curl command on each line of each
-psu file, collecting the server data.
-\begin{lstlisting}
-curl -I -s --connect-timeout 2 $domain
-\end{lstlisting}
-This outputs the header of the page that might look like the following from \texttt{mail.sfu.ca}:
-\begin{lstlisting}
-HTTP/1.1 302 Moved Temporarily
-Cache-Control: no-cache
-Pragma: no-cache
-Content-Length: 0
-Location: https://mail.sfu.ca/owa/
-Server: Microsoft-IIS/10.0
-X-FEServer: ITS-EXCHANGE06
-X-RequestId: 66b65c01-b923-40f8-8337-ef6018996422
-Date: Sun, 18 Apr 2021 06:1:45 GMT
-\end{lstlisting}
-The \texttt{Server} lines are extracted with \texttt{grep} and added to the results file for that school.
-
-\subsubsection{Network Mapper}
-At the beginning of the study, it was considered using the network mapping tool \texttt{nmap}.
-There are several legal controversies surrounding the use of this tool since it probes all ports at
-a given location and attempts to make connections. The advantage of this tool is greater identification
-of operating system and other services at each location, however at the much greater cost of time and
-risk.
 
 \end{document}
