@@ -28,12 +28,15 @@ df <- read.csv('proportions.csv')
 load('audit/calcs.RData')
 
 c_props <- data.frame(country=c_s,prop=df[,'FOSS'])
-bycountry <- summarise(c_props, group_by=country, mean=mean(FOSS))
+c_props <- c_props %>%
+	group_by(country) %>%
+	summarise(mean=mean(prop,na.rm=T))
+c_props <- c_props[which(c_props$country %in% missing_props$country),]
 c_props <- c_props[order(c_props[,2],decreasing=T),]
 pdf('report/graphics/country_props.pdf')
 par(mar=c(7.1,4.1,4.1,2.1))
 barplot(
-	c_props$FOSS,
+	c_props$mean,
 	names.arg=c_props$country,
 	las=2,
 	border=F,

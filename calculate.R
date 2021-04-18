@@ -47,5 +47,5 @@ for(j in 1:length(c_s)){
 thatwc <- sum(wtildei*ybari)
 ybarhatwc <- thatwc/sum(wtildei)
 
-
 cat(paste0('ybarhatwc:\t',ybarhatwc,'\n'))
+save.image(file='audit/calcs.RData')
