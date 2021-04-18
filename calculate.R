@@ -25,3 +25,25 @@ SEybarhatr <- sqrt(
 
 cat(paste0('ybarhar:\t',ybarhatr,'\n'))
 cat(paste0('SEybarhar:\t',SEybarhatr,'\n'))
+
+load('audit/weights.RData')
+collected <- read.csv('domains',header=F)$V1
+country_inds <- c()
+for(j in 1:length(collected)){
+	country_inds[j] <- grep(collected[j], domains_S)
+}
+c_s <- countries_S[country_inds]
+
+c <- unique(countries_S)[order(unique(countries_S))]
+phi_c <- weights[-5,c(1,6)]
+w <- N/n
+wtildei <- c()
+for(j in 1:length(c_s)){
+	wtildei[j] <- ifelse(c_s[j] %in% phi_c[,1], w*phi_c[grep(c_s[j],phi_c[,1]),2],w)
+}
+
+thatwc <- sum(wtildei*ybari)
+ybarhatwc <- thatwc/sum(wtildei)
+
+
+cat(paste0('ybarhatwc:\t',ybarhatwc,'\n'))

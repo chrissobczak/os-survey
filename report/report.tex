@@ -373,7 +373,9 @@ the response, the kind of server software.
 
 In order to compensate for the nonresponse schools
 in the sample, calculations will be adjusted using weighting
-class adjustment using countries as auxiliary variables.
+class adjustment using countries as auxiliary variables. The table
+of weights is shown in \autoref{sec:weights} \hyperref[sec:weights]{Weighting Classes}
+in the Appendix.
 
 This estimate for the proportions of licenses, although a majority, surprisingly
 low. Considering the benefits of open source software, you would expect a
@@ -443,13 +445,12 @@ illegitimate SSL certificates preventing the data from being collected
 \end{flushleft}
 \printbibliography
 \section{Appendix}
-\subsection{Weighting Classes}
+\subsection{Weighting Classes} \label{sec:weights}
 % latex table generated in R 4.0.5 by xtable 1.8-4 package
 % Sun Apr 18 02:18:16 2021
 \begin{table}[H]
 \centering
-\begin{tabular}{l|rrrrrr}
-  \hline
+\begin{tabular}{l|cccccc}
 Country & \shortstack{Sample \\ Size} & Responses & \shortstack{Sum of \\ Sample Weights} & \shortstack{Sum of \\ Respondent Weights} & $\hat{\phi}_c$ & \shortstack{Weight \\ factor} \\
   \hline
 Afghanistan &   4 &   3 & 36.33 & 27.25 & 0.75 & 1.33 \\
@@ -494,7 +495,6 @@ United Kingdom &  18 &  16 & 163.51 & 145.34 & 0.89 & 1.12 \\
 United States & 244 & 222 & 2216.43 & 2016.59 & 0.91 & 1.10 \\
 Uzbekistan &   4 &   3 & 36.33 & 27.25 & 0.75 & 1.33 \\
 Venezuela &   4 &   3 & 36.33 & 27.25 & 0.75 & 1.33 \\
-   \hline
 \end{tabular}
 \end{table}
 
