@@ -1,0 +1,74 @@
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+nginx
+NA
+NA
+EZproxy
+NA
+NA
+Microsoft-HTTPAPI/2.0
+Microsoft-IIS/8.5
+NA
+NA
+nginx
+NA
+CloudFront
+NA
+NA
+Apache/2.4.6 (Red Hat Enterprise Linux) OpenSSL/1.0.2k-fips mod_nss/1.0.14 NSS/3.28.4 PHP/5.4.16
+Apache/2.2.3 (Red Hat)
+Apache-Coyote/1.1
+NA
+NA
+Apache/2.4.34 (Red Hat) OpenSSL/1.0.2k-fips
+NA
+Microsoft-IIS/10.0
+NA
+Jetty(6.1.12.rc2)
+Microsoft-IIS/8.5
+NA
+NA
+Apache/2.4.6 (Red Hat Enterprise Linux) OpenSSL/1.0.2k-fips PHP/5.4.16
+NA
+NA
+NA
+Apache/2.2.15 (Red Hat)
+NA
+NA
+Apache
+Apache
+NA
+Microsoft-IIS/8.5
+NA
+NA
+NA
+NA
+Microsoft-IIS/8.5
+Microsoft-IIS/8.0
+NA
+nginx
+Jetty(6.1.12.rc2)
+Microsoft-IIS/8.5
+NA
+NA
+awselb/2.0
+Microsoft-IIS/10.0
+NA
+NA
+Apache/2.2.15 (Red Hat)
+NA
+Microsoft-IIS/7.5
+NA
+NA
+NA
+Microsoft-IIS/8.5
+nginx
+NA
+NA
+NA
+Microsoft-IIS/7.5

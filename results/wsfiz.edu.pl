@@ -1,0 +1,26 @@
+NA
+Microsoft-IIS/7.0
+Apache
+Apache
+Apache
+Apache
+Apache
+Apache
+Apache
+Apache
+Apache
+Microsoft-IIS/7.0
+Microsoft-IIS/7.0
+Microsoft-IIS/7.0
+NA
+Apache/2.2.16 (Win32)
+NA
+Apache
+Apache
+Apache
+Apache
+Apache
+Apache
+Apache
+Microsoft-IIS/10.0
+NA

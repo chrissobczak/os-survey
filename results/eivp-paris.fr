@@ -1,0 +1,12 @@
+NA
+Microsoft-IIS/10.0
+Microsoft-HTTPAPI/2.0
+Apache/2.4.18 (Ubuntu)
+Apache/2.2.14 (Win32) mod_ssl/2.2.14 OpenSSL/0.9.8k
+Microsoft-IIS/10.0
+Microsoft-IIS/10.0
+NA
+Apache/2.4.18 (Ubuntu)
+nginx
+Apache
+NA
