@@ -5,7 +5,13 @@
 \BOOKMARK [2][-]{subsection.3.2}{Sample Size Selection}{section.3}% 5
 \BOOKMARK [2][-]{subsection.3.3}{Taking the Sample}{section.3}% 6
 \BOOKMARK [1][-]{section.4}{Results}{}% 7
-\BOOKMARK [2][-]{subsection.4.1}{Discussion and Conclusion}{section.4}% 8
-\BOOKMARK [1][-]{section.5}{Tools}{}% 9
-\BOOKMARK [2][-]{subsection.5.1}{Extracting Info From SSUs}{section.5}% 10
-\BOOKMARK [1][-]{section.6}{Appendix}{}% 11
+\BOOKMARK [2][-]{subsection.4.1}{Nonresponses}{section.4}% 8
+\BOOKMARK [2][-]{subsection.4.2}{Discussion and Conclusion}{section.4}% 9
+\BOOKMARK [2][-]{subsection.4.3}{Bias}{section.4}% 10
+\BOOKMARK [1][-]{section.5}{Appendix}{}% 11
+\BOOKMARK [2][-]{subsection.5.1}{Tools}{section.5}% 12
+\BOOKMARK [3][-]{subsubsection.5.1.1}{Extracting All SSUs From Each PSU}{subsection.5.1}% 13
+\BOOKMARK [3][-]{subsubsection.5.1.2}{Probing Hosts}{subsection.5.1}% 14
+\BOOKMARK [3][-]{subsubsection.5.1.3}{Extracting Info From SSUs}{subsection.5.1}% 15
+\BOOKMARK [2][-]{subsection.5.2}{Weighting Classes}{section.5}% 16
+\BOOKMARK [2][-]{subsection.5.3}{Nonresponses per Country}{section.5}% 17

@@ -17,6 +17,113 @@
 \endgroup
 
 \datalist[entry]{nyt/global//global/global}
+  \entry{win2015}{article}{}
+    \name{author}{1}{}{%
+      {{hash=CGJL}{%
+         family={Caballero\bibnamedelima Gutiérrez},
+         familyi={C\bibinitperiod\bibinitdelim G\bibinitperiod},
+         given={José\bibnamedelima Luis},
+         giveni={J\bibinitperiod\bibinitdelim L\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{CGJL1}
+    \strng{fullhash}{CGJL1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2015}
+    \field{labeldatesource}{}
+    \field{sortinit}{C}
+    \field{sortinithash}{C}
+    \field{abstract}{%
+    {This section is dedicated to the review of ideas, articles, books, films
+  and other media. It will include replies (and rejoinders) to articles, the
+  evaluation of new ideas or proposals, and reviews of books and articles both
+  directly and indirectly related to intellectual property law.}%
+    }
+    \verb{doi}
+    \verb 10.1093/jiplp/jpv118
+    \endverb
+    \verb{eprint}
+    \verb https://academic.oup.com/jiplp/article-pdf/10/10/798/5171629/jpv118.p
+    \verb df
+    \endverb
+    \field{issn}{1747-1532}
+    \field{number}{10}
+    \field{pages}{798\bibrangedash 799}
+    \field{title}{{Antitrust and high technology industries: Microsoft in the
+  spotlight}}
+    \verb{url}
+    \verb https://doi.org/10.1093/jiplp/jpv118
+    \endverb
+    \field{volume}{10}
+    \field{journaltitle}{Journal of Intellectual Property Law \& Practice}
+    \field{month}{07}
+    \field{year}{2015}
+  \endentry
+
+  \entry{curlSSL}{misc}{}
+    \field{labeltitlesource}{title}
+    \field{labeldatesource}{nodate}
+    \field{sortinit}{C}
+    \field{sortinithash}{C}
+    \field{howpublished}{\url{https://curl.se/docs/sslcerts.html}}
+    \field{note}{(Accessed on 04/17/2021)}
+    \field{title}{curl - SSL CA Certificates}
+  \endentry
+
+  \entry{ronald2009}{book}{}
+    \name{author}{1}{}{%
+      {{hash=ERG}{%
+         family={Ehrenberg},
+         familyi={E\bibinitperiod},
+         given={Ronald\bibnamedelima G},
+         giveni={R\bibinitperiod\bibinitdelim G\bibinitperiod},
+      }}%
+    }
+    \list{language}{1}{%
+      {eng}%
+    }
+    \list{publisher}{1}{%
+      {Harvard University Press}%
+    }
+    \keyw{College costs ; Education, Higher ; Universities and colleges}
+    \strng{namehash}{ERG1}
+    \strng{fullhash}{ERG1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2009}
+    \field{labeldatesource}{}
+    \field{sortinit}{E}
+    \field{sortinithash}{E}
+    \field{abstract}{%
+    America's colleges and universities are the best in the world. They are
+  also the most expensive. Tuition has risen faster than the rate of inflation
+  for the past thirty years. There is no indication that this trend will abate.
+  Ronald G. Ehrenberg explores the causes of this tuition inflation, drawing on
+  his many years as a teacher and researcher of the economics of higher
+  education and as a senior administrator at Cornell University. Using
+  incidents and examples from his own experience, he discusses a wide range of
+  topics including endowment policies, admissions and financial aid policies,
+  the funding of research, tenure and the end of mandatory retirement,
+  information technology, libraries and distance learning, student housing, and
+  intercollegiate athletics. He shows that colleges and universities, having
+  multiple, relatively independent constituencies, suffer from ineffective
+  central control of their costs. And in a fascinating analysis of their
+  response to the ratings published by magazines such as U.S. News & World
+  Report, he shows how they engage in a dysfunctional competition for students.
+  In the short run, colleges and universities have little need to worry about
+  rising tuitions, since the number of qualified students applying for entrance
+  is rising even faster. But in the long run, it is not at all clear that the
+  increases can be sustained. Ehrenberg concludes by proposing a set of
+  policies to slow the institutions' rising tuitions without damaging their
+  quality.%
+    }
+    \field{isbn}{0674009886}
+    \field{title}{Tuition Rising: Why College Costs So Much : With a New
+  Preface}
+    \field{year}{2009}
+  \endentry
+
   \entry{kenny2000}{article}{}
     \name{author}{2}{}{%
       {{hash=FB}{%
